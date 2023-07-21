@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 1.00% | ~35 |
 | I look cool. But I can look COOLER. | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
+| Beat-hit mania | 0.90% | ~31 |
 | That's a lot of junk metal… | 0.90% | ~31 |
 | There's such a thing as TOO helpful | 0.90% | ~31 |
-| Beat-hit mania | 0.80% | ~28 |
 | Chip-tuned | 0.60% | ~21 |
 | Wanna hear my playlist? | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |

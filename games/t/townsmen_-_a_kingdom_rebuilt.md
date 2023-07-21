@@ -16,12 +16,12 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game I | 7.00% | ~293 |
 | Time for some trade | 7.00% | ~293 |
 | An honorable Governor I | 6.00% | ~251 |
+| Completionist I | 6.00% | ~251 |
 | Full-time job I | 6.00% | ~251 |
 | Researcher | 6.00% | ~251 |
 | Not a small trader anymore | 5.00% | ~210 |
 | Bread for the people I | 5.00% | ~210 |
 | I like to build stuff... II | 5.00% | ~210 |
-| Completionist I | 5.00% | ~210 |
 | Full-time job II | 5.00% | ~210 |
 | A time consuming game II | 5.00% | ~210 |
 | Tools of the trade I | 5.00% | ~210 |

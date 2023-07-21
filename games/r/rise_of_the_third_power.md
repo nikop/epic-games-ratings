@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overpowered | 82.00% | ~114 |
-| Side Job | 77.00% | ~107 |
+| Side Job | 78.00% | ~108 |
 | Bloodlust | 55.00% | ~76 |
 | Gettin' It Done | 54.00% | ~75 |
 | Feast | 43.00% | ~60 |

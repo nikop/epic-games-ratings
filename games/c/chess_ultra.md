@@ -5,33 +5,33 @@ Rating: 4.26 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~133,745 |
-| Doubled Pawn | 55.00% | ~106,608 |
-| Check | 54.00% | ~104,670 |
-| Absolute pin | 46.00% | ~89,163 |
-| Promotion | 30.00% | ~58,150 |
-| Checkmate | 29.00% | ~56,212 |
-| O-O | 23.00% | ~44,582 |
-| Spanish Bishop | 20.00% | ~38,767 |
-| Queen Sacrifice | 19.00% | ~36,828 |
-| Stalemate | 17.00% | ~32,952 |
-| O-O-O | 13.00% | ~25,198 |
-| Octopus | 13.00% | ~25,198 |
-| Stranger Danger | 12.00% | ~23,260 |
+| Chop Wood | 69.00% | ~133,750 |
+| Doubled Pawn | 55.00% | ~106,612 |
+| Check | 54.00% | ~104,674 |
+| Absolute pin | 46.00% | ~89,166 |
+| Promotion | 30.00% | ~58,152 |
+| Checkmate | 29.00% | ~56,214 |
+| O-O | 23.00% | ~44,583 |
+| Spanish Bishop | 20.00% | ~38,768 |
+| Queen Sacrifice | 19.00% | ~36,830 |
+| Stalemate | 17.00% | ~32,953 |
+| O-O-O | 13.00% | ~25,199 |
+| Octopus | 13.00% | ~25,199 |
+| Stranger Danger | 12.00% | ~23,261 |
 | En Passant | 8.00% | ~15,507 |
-| Double Check | 7.00% | ~13,568 |
+| Double Check | 7.00% | ~13,569 |
 | Piece Collector | 6.00% | ~11,630 |
 | ELO | 5.00% | ~9,692 |
 | Family Fork | 5.00% | ~9,692 |
 | Friendly Fire | 5.00% | ~9,692 |
-| Underpromote | 4.00% | ~7,753 |
+| Underpromote | 4.00% | ~7,754 |
 | ELO ELO | 3.00% | ~5,815 |
 | Blind Pigs | 2.00% | ~3,877 |
 | ELO ELO ELO | 2.00% | ~3,877 |
 | Learner | 2.00% | ~3,877 |
 | Bobby Time | 1.00% | ~1,938 |
-| Back-rank Mate | 0.90% | ~1,744 |
-| Chess Champion | 0.30% | ~581 |
+| Back-rank Mate | 0.90% | ~1,745 |
+| Chess Champion | 0.30% | ~582 |
 | Alekhine’s gun | 0.20% | ~388 |
 | Boden’s Mate | 0.10% | ~194 |
 | Epaulette Mate | 0.10% | ~194 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 803)
 | Tournament Master | 0.10% | ~194 |
 | Tournament Pro | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,833 (Ranked 56)  
+Progressed: 193,840 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.00%) (Ranked 238)
 | 2023-07-18 | 193,196 | 2 |
 | 2023-07-19 | 193,443 | 2 |
 | 2023-07-20 | 193,718 | 2 |
-| 2023-07-21 | 193,833 | 2 |
+| 2023-07-21 | 193,840 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

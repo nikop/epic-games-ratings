@@ -2,10 +2,10 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-07-21T10:05:18.4227804+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T11:04:49.2036284+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -214,7 +219,7 @@
       "ID": "bitcoin_collector",
       "SetID": "5fi1i42",
       "Name": "Bitcoin Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -222,7 +227,7 @@
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
       "UsersEstimate": 10
     },
@@ -270,7 +275,7 @@
       "ID": "platformer_player",
       "SetID": "5fi1i42",
       "Name": "Platformer Master",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -318,7 +323,7 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -334,7 +339,7 @@
       "ID": "virtual_self",
       "SetID": "5fi1i42",
       "Name": "Your virtual self",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -350,7 +355,7 @@
       "ID": "waifu_kata",
       "SetID": "5fi1i42",
       "Name": "Waifu Kata",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 4
     }
@@ -359,14 +364,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:05:18.4227796+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:04:49.2036273+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:57:21.068135+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:05:18.4228006+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:57:11.3135516+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:04:49.2036509+00:00"
 }

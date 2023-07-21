@@ -10,6 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
+| Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
@@ -26,9 +27,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
+| Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
+| Win a Network Game | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
+| Pilgrimage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |
@@ -102,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Pioneer | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
@@ -290,17 +293,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
-| Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
-| Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Win a Single Player Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Pilgrimage | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,981 (Ranked 113)  

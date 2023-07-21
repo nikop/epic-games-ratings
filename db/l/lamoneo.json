@@ -2,10 +2,10 @@
   "ID": "fe6352acc6b54dc28c6041c6442f86b5",
   "Name": "Lamoneo",
   "ProductSlug": "lamoneo-2fb334",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-19T16:00:00+00:00",
     "PcReleaseDate": "2022-05-25T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:56:58.8631319+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:59:52.377254+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:07:10.9899332+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:59:31.8069962+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:06:38.1479937+00:00"
 }

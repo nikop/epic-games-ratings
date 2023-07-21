@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,11 +354,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2599,
+  "EOS_Progressed": 2601,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -1984,6 +1984,11 @@
       "Time": "2023-07-21T08:05:44.3592744+00:00",
       "NumProgressed": 2599,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-21T11:05:18.467119+00:00",
+      "NumProgressed": 2601,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -2099,14 +2104,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1951
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2599,
+      "Progressed": 2601,
       "Completed": 100
     }
   ],
@@ -2114,8 +2119,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:05:49.0995811+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:05:18.467118+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:22.2405235+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:01:19.9447018+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:05:49.0996026+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:00:57.4888874+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:05:18.4671535+00:00"
 }

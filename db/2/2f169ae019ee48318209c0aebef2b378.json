@@ -2,10 +2,10 @@
   "ID": "2f169ae019ee48318209c0aebef2b378",
   "Name": "Runeroots TD",
   "ProductSlug": "runeroots-td-25fcd7",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.2527206+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:57:15.8299343+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:05:01.0874084+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:57:07.029688+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:04:31.7410076+00:00"
 }

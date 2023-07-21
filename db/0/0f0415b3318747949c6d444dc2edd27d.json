@@ -2,10 +2,10 @@
   "ID": "0f0415b3318747949c6d444dc2edd27d",
   "Name": "Virus Infinite",
   "ProductSlug": "virus-infinite-b9ed68",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
     "PcReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-18T16:56:56.2298119+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:57:38.6968404+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:03:48.6430154+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:57:26.35128+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:03:23.391766+00:00"
 }

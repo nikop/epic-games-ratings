@@ -2,10 +2,10 @@
   "ID": "789f83d437114a989c8032fab5e02901",
   "Name": "Merrily Perilly",
   "ProductSlug": "merrily-perilly-99353b",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.4243072+00:00",
   "LastChanged": "2023-03-31T05:56:58.4243073+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:44.6030467+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:58:46.2956186+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:04:12.9076236+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:58:29.0563796+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:03:46.5989085+00:00"
 }

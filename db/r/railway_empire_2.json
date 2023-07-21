@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3513,6 +3513,11 @@
       "Time": "2023-07-21T07:02:35.5386128+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T11:03:24.0880534+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3604,7 +3609,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "A11",
@@ -3620,7 +3625,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "A13",
@@ -3748,7 +3753,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "A29",
@@ -3812,23 +3817,23 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 991
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 861
     },
     {
       "ID": "A39",
@@ -3844,15 +3849,15 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 910
     },
     {
       "ID": "A42",
@@ -3884,7 +3889,7 @@
       "Name": "Settler",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "A46",
@@ -3892,7 +3897,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "A47",
@@ -3916,7 +3921,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "A50",
@@ -3963,7 +3968,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1625,
       "Completed": 0
     }
   ],
@@ -3971,8 +3976,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:03:49.3237283+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:03:24.0880525+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:58:49.3980455+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:03:49.3238496+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:58:31.7389335+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:03:24.0881784+00:00"
 }

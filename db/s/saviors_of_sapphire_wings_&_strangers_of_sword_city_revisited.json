@@ -2,10 +2,10 @@
   "ID": "3826377bb8fa4612a7af791a363091a6",
   "Name": "Saviors of Sapphire Wings \u0026 Strangers of Sword City Revisited",
   "ProductSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-03-16T17:00:00+00:00",
     "PcReleaseDate": "2021-03-16T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.5710918+00:00",
   "LastChanged": "2023-03-31T05:57:51.5710919+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.8214181+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:00:37.8877572+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:03:11.9969283+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:00:14.1860262+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:01:27.9533505+00:00"
 }

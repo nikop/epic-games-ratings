@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.3,
+  "EOS_Completed_Percentage": 18.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1848,6 +1848,11 @@
       "Time": "2023-07-21T06:01:29.0802552+00:00",
       "NumProgressed": 388,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-21T11:01:22.9051293+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1859,7 +1864,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "LEVEL_002",
@@ -1867,7 +1872,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "LEVEL_003",
@@ -1875,7 +1880,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LEVEL_004",
@@ -1883,7 +1888,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "LEVEL_005",
@@ -1891,15 +1896,15 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "LEVEL_007",
@@ -1907,7 +1912,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_008",
@@ -1923,7 +1928,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_010",
@@ -1971,7 +1976,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_016",
@@ -2017,24 +2022,24 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 71
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:01:45.5914357+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:01:22.9051282+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:58:45.3164789+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:01:45.5914712+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:58:28.0932145+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:01:22.9051849+00:00"
 }

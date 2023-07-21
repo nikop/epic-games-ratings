@@ -2,10 +2,10 @@
   "ID": "f3721fe8e66748c0bd6dc10714ace230",
   "Name": "Castles II - Siege and Conquest",
   "ProductSlug": "castles-ii-siege-and-conquest-aa3f88",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-26T16:00:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.9744707+00:00",
   "LastChanged": "2023-03-31T05:58:42.9744708+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:10.502152+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:01:07.5484954+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:05:21.1328843+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:00:46.2029283+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:04:51.8044961+00:00"
 }

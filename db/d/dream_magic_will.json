@@ -2,10 +2,10 @@
   "ID": "af4ad21f0f9749d9ba0202073fc1566f",
   "Name": "Dream magic will",
   "ProductSlug": "dream-magic-will-358429",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-14T04:00:00+00:00",
     "PcReleaseDate": "2022-08-17T16:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-16T17:59:00.8909668+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4269128+00:00",
   "LastChanged": "2023-04-16T17:59:00.8909668+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:03:45.8395092+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:03:20.7338861+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:47.0800218+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:58:49.1603265+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:03:45.8395132+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:58:31.4365543+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:03:20.7338898+00:00"
 }

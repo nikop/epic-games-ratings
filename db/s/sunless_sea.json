@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -673,9 +673,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 33872,
+  "EOS_Progressed": 33875,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9868,6 +9868,11 @@
       "Time": "2023-07-21T10:03:17.8689435+00:00",
       "NumProgressed": 33872,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T11:02:13.4341944+00:00",
+      "NumProgressed": 33875,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -9895,7 +9900,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "ach_antiquarian10",
@@ -9999,7 +10004,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "ach_die10",
@@ -10039,7 +10044,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ach_hunterskeep",
@@ -10055,7 +10060,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ach_ladylilac",
@@ -10231,7 +10236,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "ach_terror100",
@@ -10310,15 +10315,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 33872,
+      "Progressed": 33875,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-20T11:59:53.2639634+00:00",
-  "LastChanged_Achievements": "2023-07-21T10:03:17.8689429+00:00",
+  "LastChanged_Achievements": "2023-07-21T11:02:13.4341917+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.8082473+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:00:40.2702717+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:03:17.8690584+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:00:17.6145466+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:02:13.4343847+00:00"
 }

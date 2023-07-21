@@ -5,13 +5,13 @@ Rating: 4.48 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~290 |
-| Increasing your Power Level | 27.00% | ~290 |
-| Enter the Speed Gauntlet | 25.00% | ~268 |
-| I just can't choose | 25.00% | ~268 |
+| Rookie No More | 27.00% | ~291 |
+| Increasing your Power Level | 27.00% | ~291 |
+| Enter the Speed Gauntlet | 25.00% | ~269 |
+| I just can't choose | 25.00% | ~269 |
 | A Cheese Grater to the Face | 20.00% | ~215 |
-| It's like an haircut | 18.00% | ~193 |
-| Put it on a shelf | 18.00% | ~193 |
+| It's like an haircut | 18.00% | ~194 |
+| Put it on a shelf | 18.00% | ~194 |
 | Suit up | 16.00% | ~172 |
 | Walked like an Egyptian | 15.00% | ~161 |
 | Ride in the rising sun | 15.00% | ~161 |
@@ -22,10 +22,10 @@ Rating: 4.48 (Ranked 587)
 | Blurred photofinish | 9.00% | ~97 |
 | EZ game EZ life | 7.00% | ~75 |
 | First step into a larger world | 7.00% | ~75 |
-| Over the clouds | 6.00% | ~64 |
-| Under the sea, under the sea | 6.00% | ~64 |
-| Even Faster! | 6.00% | ~64 |
-| Longshot | 6.00% | ~64 |
+| Over the clouds | 6.00% | ~65 |
+| Under the sea, under the sea | 6.00% | ~65 |
+| Even Faster! | 6.00% | ~65 |
+| Longshot | 6.00% | ~65 |
 | B-asic! | 5.00% | ~54 |
 | Under the neon lights | 4.00% | ~43 |
 | All Power to Engines! | 4.00% | ~43 |
@@ -41,10 +41,10 @@ Rating: 4.48 (Ranked 587)
 | [Sweats profusely] | 3.00% | ~32 |
 | It's like a party! | 3.00% | ~32 |
 | Healthy competition | 3.00% | ~32 |
-| This is to go, even Further Beyond! | 2.00% | ~21 |
-| Gitting Gud | 2.00% | ~21 |
-| Redout Champion | 2.00% | ~21 |
-| Great Start | 2.00% | ~21 |
+| This is to go, even Further Beyond! | 2.00% | ~22 |
+| Gitting Gud | 2.00% | ~22 |
+| Redout Champion | 2.00% | ~22 |
+| Great Start | 2.00% | ~22 |
 | Fashion Racer | 1.00% | ~11 |
 | S-uper! | 1.00% | ~11 |
 | Put a sign on it | 1.00% | ~11 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 587)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074 (Ranked 186)  
+Progressed: 1,076 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 1,071 | 0 |
 | 2023-07-19 | 1,073 | 0 |
 | 2023-07-20 | 1,074 | 0 |
+| 2023-07-21 | 1,076 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

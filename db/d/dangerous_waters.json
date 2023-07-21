@@ -2,10 +2,10 @@
   "ID": "14d24f86d71143d69056df730f9867d5",
   "Name": "Dangerous Waters",
   "ProductSlug": "dangerous-waters-61ea56",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": "2006-02-07T02:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:22:14.1413826+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:58:18.5972418+00:00",
-  "LastUpdate_Achievements": "2023-07-21T10:06:51.5649338+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:58:04.0050113+00:00",
+  "LastUpdate_Achievements": "2023-07-21T11:06:18.7789056+00:00"
 }

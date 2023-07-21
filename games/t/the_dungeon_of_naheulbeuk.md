@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~112,395 |
-| Where's that freaking Dwarf? | 46.00% | ~89,141 |
-| GG EZ | 28.00% | ~54,260 |
-| Speedrun | 26.00% | ~50,384 |
-| Déjà vu | 21.00% | ~40,695 |
-| Sock! SOCK! | 16.00% | ~31,005 |
-| DM intervention | 13.00% | ~25,192 |
-| Fireproof Wizardess | 9.00% | ~17,441 |
-| Livin' in a dwarven paradise | 7.00% | ~13,565 |
-| Way of the Wimp | 7.00% | ~13,565 |
-| A beer, two curses, three companions | 7.00% | ~13,565 |
-| The plot thickens... At the tavern | 5.00% | ~9,689 |
-| The Woman in the High Castle | 4.00% | ~7,751 |
+| Alt+F4 | 58.00% | ~112,412 |
+| Where's that freaking Dwarf? | 46.00% | ~89,154 |
+| GG EZ | 28.00% | ~54,268 |
+| Speedrun | 26.00% | ~50,392 |
+| Déjà vu | 21.00% | ~40,701 |
+| Sock! SOCK! | 16.00% | ~31,010 |
+| DM intervention | 13.00% | ~25,196 |
+| Fireproof Wizardess | 9.00% | ~17,443 |
+| Livin' in a dwarven paradise | 7.00% | ~13,567 |
+| Way of the Wimp | 7.00% | ~13,567 |
+| A beer, two curses, three companions | 7.00% | ~13,567 |
+| The plot thickens... At the tavern | 5.00% | ~9,691 |
+| The Woman in the High Castle | 4.00% | ~7,753 |
 | The demons' feast | 3.00% | ~5,814 |
 | I am the night | 3.00% | ~5,814 |
 | Team Building Exercise | 3.00% | ~5,814 |
@@ -40,12 +40,12 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,938 |
 | Lust and Debauchery | 1.00% | ~1,938 |
 | Material Girl | 1.00% | ~1,938 |
-| Dead for good | 0.80% | ~1,550 |
-| Law and Order | 0.80% | ~1,550 |
-| It's been a hard day's night | 0.80% | ~1,550 |
-| The Dungeon Master | 0.70% | ~1,356 |
-| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,356 |
-| Lëgal Legend | 0.70% | ~1,356 |
+| Dead for good | 0.80% | ~1,551 |
+| Law and Order | 0.80% | ~1,551 |
+| It's been a hard day's night | 0.80% | ~1,551 |
+| The Dungeon Master | 0.70% | ~1,357 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,357 |
+| Lëgal Legend | 0.70% | ~1,357 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,163 |
 | I'd rather... Just... Sing! | 0.50% | ~969 |
 | The number of the counting shalt be 7 | 0.50% | ~969 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,784 (Ranked 57)  
+Progressed: 193,814 (Ranked 57)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 191,296 | 0 |
 | 2023-07-19 | 192,371 | 0 |
 | 2023-07-20 | 193,404 | 0 |
-| 2023-07-21 | 193,784 | 0 |
+| 2023-07-21 | 193,814 | 0 |
 ## Awards
 Max (Character Customization): 120  (Ranked 313)  
 Sum: 120 (Ranked 402)  
