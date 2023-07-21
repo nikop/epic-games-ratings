@@ -17,7 +17,7 @@
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.12% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.53% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.47% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -44,11 +44,11 @@
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.35% |
-| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
+| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.23% |
 | 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
-| 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.62% |
+| 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.53% |
@@ -500,4 +500,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,924 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,925 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
