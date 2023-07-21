@@ -1,7 +1,7 @@
 # SMITE
 [Store](https://store.epicgames.com/en-US/p/smite)  
 [View Rawdata](../../db/s/smite.json)  
-Rating: 4.45 (Ranked 624)  
+Rating: 4.44 (Ranked 643)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,047  (Ranked 78)  
@@ -207,3 +207,4 @@ Diff (max vs sum): 28
 | 2023-07-18 | 4.45 | - | 4,035 | 24,458 |
 | 2023-07-19 | 4.45 | - | 4,047 | 24,480 |
 | 2023-07-20 | 4.45 | - | 4,047 | 24,492 |
+| 2023-07-21 | 4.44 | - | 4,047 | 24,492 |

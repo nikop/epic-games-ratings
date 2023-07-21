@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 78.00% | ~214 |
+| Newbie | 77.00% | ~212 |
 | Photo shoot | 15.00% | ~41 |
 | Wannabe | 9.00% | ~25 |
 | No brakes | 9.00% | ~25 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 252)  
+Progressed: 275 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,3 +222,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 270 | 0 |
 | 2023-07-18 | 273 | 0 |
 | 2023-07-19 | 274 | 0 |
+| 2023-07-21 | 275 | 0 |

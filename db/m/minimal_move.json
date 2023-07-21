@@ -2,9 +2,9 @@
   "ID": "0bd207a791124e4087292faf1efa0ab0",
   "Name": "Minimal Move",
   "ProductSlug": "minimal-move-7a012a",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-13T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T02:22:05.7911946+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:01:49.4950886+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:10:57.8391854+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:58:04.8930026+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:06:36.1226596+00:00"
 }

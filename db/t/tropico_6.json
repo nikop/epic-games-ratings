@@ -1014,9 +1014,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4166,
+  "EOS_Progressed": 4168,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6359,6 +6359,11 @@
       "Time": "2023-07-21T02:10:37.1410539+00:00",
       "NumProgressed": 4166,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T03:06:20.4695416+00:00",
+      "NumProgressed": 4168,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6466,7 +6471,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6474,7 +6479,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -6530,7 +6535,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6602,7 +6607,7 @@
       "Name": "Survivor",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -6626,7 +6631,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6642,7 +6647,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6689,15 +6694,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4166,
+      "Progressed": 4168,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:10:37.141053+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:06:20.4695411+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:05:49.4802794+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:10:37.1411648+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:01:24.5496698+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:06:20.4696083+00:00"
 }

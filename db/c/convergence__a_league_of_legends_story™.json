@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1702,9 +1702,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 107
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1838,9 +1838,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 130
     },
     {
       "ID": "HexlockGift",
@@ -2086,9 +2086,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 115
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2109,8 +2109,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:07:47.8862601+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:03:34.3422418+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:04:39.5823176+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:07:47.8863615+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:00:28.0807299+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:03:34.3423405+00:00"
 }

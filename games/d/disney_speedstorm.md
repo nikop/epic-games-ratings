@@ -30,7 +30,7 @@
 | FRAMED! | 4.00% | ~119 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,975 (Ranked 153)  
-Completed: 102 (3.43%) (Ranked 54)  
+Completed: 103 (3.46%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,4 +120,4 @@ Completed: 102 (3.43%) (Ranked 54)
 | 2023-07-18 | 2,965 | 100 |
 | 2023-07-19 | 2,970 | 101 |
 | 2023-07-20 | 2,974 | 101 |
-| 2023-07-21 | 2,975 | 102 |
+| 2023-07-21 | 2,975 | 103 |

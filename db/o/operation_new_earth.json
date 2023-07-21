@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1851,6 +1851,11 @@
       "Time": "2023-07-21T00:06:11.2685592+00:00",
       "NumProgressed": 540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T03:06:17.5986863+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1942,7 +1947,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_headquarters_15",
@@ -1972,9 +1977,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2044,9 +2049,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2084,9 +2089,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2102,7 +2107,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2118,7 +2123,7 @@
       "Name": "Defenses Online",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2165,14 +2170,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:10:33.7590541+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:06:17.5986855+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:06:04.9345616+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:10:33.759123+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:01:35.3881367+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:06:17.5987488+00:00"
 }

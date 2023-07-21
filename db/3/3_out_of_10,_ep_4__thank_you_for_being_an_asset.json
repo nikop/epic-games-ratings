@@ -2,9 +2,9 @@
   "ID": "d6a3cae34c5d4562832610b5b8664576",
   "Name": "3 out of 10, EP 4: Thank You For Being An Asset",
   "ProductSlug": "3-out-of-10-ep-4",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-08-27T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:56.5437937+00:00",
   "LastChanged": "2023-03-31T05:56:56.5437938+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0284808+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:03:14.9201235+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:10:51.5431543+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:59:17.4343295+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:06:30.0758398+00:00"
 }

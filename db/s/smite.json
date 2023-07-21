@@ -2,12 +2,12 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 50,
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 6749,
   "RatingHistory": [
     {
@@ -6247,6 +6247,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 24492,
       "NumberOfAwardsMax": 4047
+    },
+    {
+      "Time": "2023-07-21T03:01:23.2550093+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 24492,
+      "NumberOfAwardsMax": 4047
     }
   ],
   "ReviewsDisabled": false,
@@ -6320,8 +6326,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-07-20T22:01:11.0545269+00:00",
+  "LastChanged": "2023-07-21T03:01:23.2550085+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.6682669+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:05:48.0388611+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:09:17.6463887+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:01:23.25501+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:05:12.0855746+00:00"
 }

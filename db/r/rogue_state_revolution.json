@@ -2,9 +2,9 @@
   "ID": "e78994967098439dbbab95869b129178",
   "Name": "Rogue State Revolution",
   "ProductSlug": "rogue-state-revolution",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-18T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.9254259+00:00",
   "LastChanged": "2023-03-31T05:57:49.925426+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4729045+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:03:53.8000483+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:09:04.2395367+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:59:50.0862239+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:05:00.3537625+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "1846202a6db1495189ceefd84672b545",
   "Name": "The Future Project",
   "ProductSlug": "the-future-project-f19b52",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T09:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-21T03:03:44.2666997+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-07-20T19:03:41.9563264+00:00",
   "TotalAchievements": 32,
   "TotalAchievementsXP": 1000,
@@ -41,9 +47,9 @@
       "ID": "BULLET_DANCING",
       "SetID": "71i70nl",
       "Name": "Bullet Dancing",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EARTHBENDING",
@@ -57,33 +63,33 @@
       "ID": "EFFICIENT",
       "SetID": "71i70nl",
       "Name": "Efficient",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EGG_FREEZING",
       "SetID": "71i70nl",
       "Name": "Egg Freezing",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FASTPACKING",
       "SetID": "71i70nl",
       "Name": "Fastpacking",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_GAME",
       "SetID": "71i70nl",
       "Name": "See You Next Mission!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_HARD",
@@ -97,41 +103,41 @@
       "ID": "FLIGHTLESS_BIRD",
       "SetID": "71i70nl",
       "Name": "Flightless Bird",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FROST_WARNING",
       "SetID": "71i70nl",
       "Name": "Frost Warning",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GOTTA_FAST",
       "SetID": "71i70nl",
       "Name": "Gotta Go Fast!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "IM_MELTING",
       "SetID": "71i70nl",
       "Name": "I\u0027m Melting!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LOOK_NOTHING",
       "SetID": "71i70nl",
       "Name": "Wow, look! Nothing!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MASOCHIST",
@@ -145,41 +151,41 @@
       "ID": "MASTER_ELEMENTS",
       "SetID": "71i70nl",
       "Name": "Master of All Four Elements",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEET_PYRO",
       "SetID": "71i70nl",
       "Name": "Meet the Pyro",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MINIMALIST",
       "SetID": "71i70nl",
       "Name": "Minimalist",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MY_LEG",
       "SetID": "71i70nl",
       "Name": "My Leg!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEED_WEAPON",
       "SetID": "71i70nl",
       "Name": "I Need a Weapon",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NO_SIGNS_LIFE",
@@ -201,9 +207,9 @@
       "ID": "OL_RELIABLE",
       "SetID": "71i70nl",
       "Name": "Jetpack Joyride",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PLAYING_POWER",
@@ -217,17 +223,17 @@
       "ID": "SIMPLY_STUNNING",
       "SetID": "71i70nl",
       "Name": "Simply Stunning",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SLOW_MOTION",
       "SetID": "71i70nl",
       "Name": "Sloooooow Moooottttiiiioooon",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SURGE_PROTECTOR",
@@ -249,9 +255,9 @@
       "ID": "WASNT_EXPECTING_THAT",
       "SetID": "71i70nl",
       "Name": "Wasn\u0027t Expecting That",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WELL_DOCUMENTED",
@@ -265,9 +271,9 @@
       "ID": "WINTER_COMING",
       "SetID": "71i70nl",
       "Name": "Winter is Coming",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WORMHOLE_THEORY",
@@ -281,22 +287,22 @@
       "ID": "ZOOMIES",
       "SetID": "71i70nl",
       "Name": "Zoomies",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "71i70nl",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-26T14:01:46.6937732+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:07:59.6599155+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:03:44.266699+00:00",
   "LastUpdate_AppInfo": "2023-07-19T21:57:05.6284196+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:01:32.0441781+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:07:59.6599489+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:57:49.6371611+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:03:44.2667252+00:00"
 }

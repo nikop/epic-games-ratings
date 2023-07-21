@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.66,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -253,6 +253,11 @@
       "Time": "2023-07-20T18:06:52.873388+00:00",
       "NumProgressed": 301,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-21T03:07:11.0576123+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -336,7 +341,7 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_10",
@@ -344,7 +349,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_11",
@@ -358,9 +363,9 @@
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_13",
@@ -368,7 +373,7 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_14",
@@ -384,7 +389,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_16",
@@ -415,7 +420,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 8
     }
   ],
@@ -423,8 +428,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:11:39.9256004+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:07:11.0576115+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:17.5804753+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:02:33.7045575+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:11:39.9256173+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:58:39.3914894+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:07:11.0576329+00:00"
 }

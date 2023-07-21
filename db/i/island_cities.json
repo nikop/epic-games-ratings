@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.44,
+  "EOS_Completed_Percentage": 18.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1833,6 +1833,11 @@
       "Time": "2023-07-21T02:06:40.7919895+00:00",
       "NumProgressed": 385,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-21T03:02:05.8039291+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1844,7 +1849,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "LEVEL_002",
@@ -1852,7 +1857,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LEVEL_003",
@@ -1860,7 +1865,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_004",
@@ -1892,7 +1897,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LEVEL_008",
@@ -1914,9 +1919,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_011",
@@ -1940,7 +1945,7 @@
       "Name": "Elevated ring",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_014",
@@ -1962,9 +1967,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_017",
@@ -2019,7 +2024,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 71
     }
   ],
@@ -2027,8 +2032,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-21T02:06:40.7919887+00:00",
+  "LastChanged_Achievements": "2023-07-21T03:02:05.8039281+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:02:56.5970539+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:06:40.7920384+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:58:57.9520438+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:02:05.8039978+00:00"
 }

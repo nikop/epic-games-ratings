@@ -23,6 +23,7 @@ Rating: 4.56 (Ranked 458)
 | Rescue a Kitten Too? | 4.00% | ~445 |
 | Bike or Biker | 3.00% | ~334 |
 | What are the Odds | 3.00% | ~334 |
+| A Legitimate Business | 2.00% | ~222 |
 | I’ll Have Two Number 9s | 2.00% | ~222 |
 | Who Needs Directions? | 2.00% | ~222 |
 | What the City Needs | 2.00% | ~222 |
@@ -31,7 +32,6 @@ Rating: 4.56 (Ranked 458)
 | Public Enemy No. 1 | 2.00% | ~222 |
 | Ain’t Nothing But a G Thing | 2.00% | ~222 |
 | Hoopin' it Up | 1.00% | ~111 |
-| A Legitimate Business | 1.00% | ~111 |
 | Swiss Army Strife | 1.00% | ~111 |
 | Lucky Spinner | 1.00% | ~111 |
 | Assassin | 1.00% | ~111 |

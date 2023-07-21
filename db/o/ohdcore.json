@@ -2,9 +2,9 @@
   "ID": "3da1cf80708c4f079d239cd6a63fd22f",
   "Name": "OHDcore",
   "ProductSlug": "ohdcore-mod-kit",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:57:03.1510666+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:04:19.5739491+00:00",
-  "LastUpdate_Achievements": "2023-07-21T02:11:03.8105921+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:00:11.8870495+00:00",
+  "LastUpdate_Achievements": "2023-07-21T03:06:41.304483+00:00"
 }
