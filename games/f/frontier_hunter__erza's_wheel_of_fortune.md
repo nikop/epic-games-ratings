@@ -50,7 +50,7 @@
 | Furious Scorpion Challenge | 2.00% | ~1 |
 | Giant Lizard Challenge | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 332)  
+Progressed: 62 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

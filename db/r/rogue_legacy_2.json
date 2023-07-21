@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1287,9 +1287,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22554,
+  "EOS_Progressed": 22555,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5612,6 +5612,11 @@
       "Time": "2023-07-21T11:02:23.6786014+00:00",
       "NumProgressed": 22554,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-21T12:02:25.5294816+00:00",
+      "NumProgressed": 22555,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5797,9 +5802,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 226
     },
     {
       "ID": "BoxerBoss",
@@ -5934,21 +5939,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22554,
+      "Progressed": 22555,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-19T21:59:48.2555659+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:02:23.6786002+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:02:25.5294809+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.5902435+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:59:43.1734243+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:02:23.678704+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:59:20.5511324+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:02:25.529585+00:00"
 }

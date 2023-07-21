@@ -4,8 +4,8 @@
   "ProductSlug": "hyper-drill-bfcd14",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-18T03:15:33.5811981+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:57:19.9235453+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:04:50.9227184+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:57:26.2576095+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:04:34.7623466+00:00"
 }

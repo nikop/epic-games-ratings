@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1471,10 +1471,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1782,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2023-07-21T11:58:13.3817643+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1783,
+      "NumberOfAwardsMax": 218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1782,
+  "NumberOfAwards": 1783,
   "NumberOfAwardsMax": 218,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1482,7 +1488,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1551,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12981,
+  "EOS_Progressed": 12983,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8196,6 +8202,11 @@
       "Time": "2023-07-21T09:06:07.6179427+00:00",
       "NumProgressed": 12981,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T12:05:08.7855626+00:00",
+      "NumProgressed": 12983,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8533,17 +8544,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -8557,9 +8568,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -8661,9 +8672,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -8709,9 +8720,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -8773,9 +8784,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -8829,17 +8840,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -8885,9 +8896,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -8941,9 +8952,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -9037,17 +9048,17 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -9077,9 +9088,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -9093,9 +9104,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -9117,9 +9128,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -9653,9 +9664,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -9725,33 +9736,33 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -9837,9 +9848,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -9981,17 +9992,17 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -10037,9 +10048,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -10325,9 +10336,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -10357,9 +10368,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -10373,9 +10384,9 @@
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
       "SetID": "7l38kb8",
       "Name": "Points Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -10501,9 +10512,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
       "SetID": "9201eeb",
       "Name": "Religious Dissent",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_FIVE_CULTS",
@@ -10574,21 +10585,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12981,
+      "Progressed": 12983,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12981,
+      "Progressed": 12983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-07-20T17:58:31.0065812+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:05:30.6182253+00:00",
+  "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:05:08.7855619+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:58:20.4508227+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:05:30.6199042+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:58:13.381765+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:05:08.786596+00:00"
 }

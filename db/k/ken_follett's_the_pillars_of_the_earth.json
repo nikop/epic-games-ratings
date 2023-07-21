@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14029,
+  "EOS_Progressed": 14030,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6509,6 +6509,11 @@
       "Time": "2023-07-21T11:03:23.0281674+00:00",
       "NumProgressed": 14029,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-21T12:03:20.4847949+00:00",
+      "NumProgressed": 14030,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6544,7 +6549,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "tpote_achievement_13",
@@ -6552,7 +6557,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "tpote_achievement_14",
@@ -6760,7 +6765,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "tpote_achievement_38",
@@ -6832,7 +6837,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "tpote_achievement_9",
@@ -6847,15 +6852,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14029,
+      "Progressed": 14030,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:23.0281659+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:03:20.4847943+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:00:36.0618393+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:23.0282947+00:00"
+  "LastUpdate_Ratings": "2023-07-21T12:00:01.3850716+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:20.4848814+00:00"
 }

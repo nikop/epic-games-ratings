@@ -7,17 +7,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Regicide | 0.10% | ~13 |
+| Able | 0.10% | ~13 |
+| Ambitious | 0.10% | ~13 |
+| Architect | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
+| Good | 0.10% | ~13 |
+| Just | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
+| Noble | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
+| Settler | 0.10% | ~13 |
+| Strong | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
+| Wise | 0.10% | ~13 |
+| Able Difficulty | 0.10% | ~13 |
+| Artisans | 0.10% | ~13 |
+| Champions | 0.10% | ~13 |
+| Patrons | 0.10% | ~13 |
+| Sages | 0.10% | ~13 |
+| Friendly Family | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
+| Oracle | 0.10% | ~13 |
+| Learn to Play 1 | 0.10% | ~13 |
+| Learn to Play 2 | 0.10% | ~13 |
+| Learn to Play 3 | 0.10% | ~13 |
+| Learn to Play 4 | 0.10% | ~13 |
+| Greece | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
+| Christianity | 0.10% | ~13 |
+| Judaism | 0.10% | ~13 |
+| Greek Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
@@ -26,10 +50,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
+| Ambition Victory | 0.10% | ~13 |
+| No Undo | 0.10% | ~13 |
+| Points Victory | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
+| Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
 | Pilgrimage | 0.10% | ~13 |
@@ -76,10 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
 | Cleopatra's Love | 0.00% | ~0 |
-| Able | 0.00% | ~0 |
-| Ambitious | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
-| Architect | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
 | Drillmaster | 0.00% | ~0 |
@@ -91,37 +116,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.00% | ~0 |
 | Explorer | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
-| Good | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
 | Intrepid | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
-| Just | 0.00% | ~0 |
 | Keystone | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
 | Mason | 0.00% | ~0 |
-| Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| Settler | 0.00% | ~0 |
-| Strong | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
 | Valiant | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
-| Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Developing Cities | 0.00% | ~0 |
 | Legendary Cities | 0.00% | ~0 |
 | Strong Cities | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Able Difficulty | 0.00% | ~0 |
 | Glorious Difficulty | 0.00% | ~0 |
 | Good Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
@@ -133,17 +151,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Event Level High | 0.00% | ~0 |
-| Artisans | 0.00% | ~0 |
-| Champions | 0.00% | ~0 |
 | Clerics | 0.00% | ~0 |
 | Hunters | 0.00% | ~0 |
 | Landowners | 0.00% | ~0 |
-| Patrons | 0.00% | ~0 |
 | Riders | 0.00% | ~0 |
-| Sages | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
 | Traders | 0.00% | ~0 |
-| Friendly Family | 0.00% | ~0 |
 | Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
@@ -206,7 +219,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.00% | ~0 |
 | Musaeum | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
-| Oracle | 0.00% | ~0 |
 | Pantheon | 0.00% | ~0 |
 | Pyramids | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
@@ -215,10 +227,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 1 | 0.00% | ~0 |
-| Learn to Play 2 | 0.00% | ~0 |
-| Learn to Play 3 | 0.00% | ~0 |
-| Learn to Play 4 | 0.00% | ~0 |
 | Learn to Play 5 | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
@@ -229,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.00% | ~0 |
 | Carthage | 0.00% | ~0 |
 | Egypt | 0.00% | ~0 |
-| Greece | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
@@ -246,14 +253,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Christianity | 0.00% | ~0 |
-| Judaism | 0.00% | ~0 |
 | Manichaeism | 0.00% | ~0 |
 | Assyrian Paganism | 0.00% | ~0 |
 | Babylonian Paganism | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
 | Egyptian Paganism | 0.00% | ~0 |
-| Greek Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -281,13 +285,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | All Nations | 0.00% | ~0 |
-| Ambition Victory | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
 | Double Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
-| No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Points Victory | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
@@ -299,11 +300,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Win a Single Player Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
-| Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,981 (Ranked 113)  
+Progressed: 12,983 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,17 +395,17 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,981 | 5 |
+| 2023-07-21 | 12,983 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
-Sum: 1,782 (Ranked 204)  
+Sum: 1,783 (Ranked 204)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |
 | This game is Extremely Fun | 206 |
+| This game has Diverse Characters | 204 |
 | This game is Highly Recommended | 204 |
-| This game has Diverse Characters | 203 |
 | This game is Educational | 203 |
 | This game has Challenging Combat | 190 |
 | This game has Quickly Understood Controls | 189 |
@@ -522,3 +522,4 @@ Diff (max vs sum): 53
 | 2023-07-09 | 4.65 | - | 218 | 1,780 |
 | 2023-07-17 | 4.65 | - | 218 | 1,781 |
 | 2023-07-20 | 4.65 | - | 218 | 1,782 |
+| 2023-07-21 | 4.65 | - | 218 | 1,783 |

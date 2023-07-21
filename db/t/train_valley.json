@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -418,6 +418,11 @@
       "Time": "2023-07-21T11:03:45.653606+00:00",
       "NumProgressed": 335,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T12:03:39.6116741+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -429,7 +434,7 @@
       "Name": "Getting started",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "02_collector",
@@ -445,7 +450,7 @@
       "Name": "Philatelist",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "04_tycoon",
@@ -469,7 +474,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "07_europe",
@@ -509,7 +514,7 @@
       "Name": "Germany",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "12_roll",
@@ -517,7 +522,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "13_bunkrupt",
@@ -525,7 +530,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "14_woodcutter",
@@ -579,9 +584,9 @@
       "ID": "20_sabotage",
       "SetID": "chb1m60",
       "Name": "Sabotage",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "21_missed",
@@ -589,7 +594,7 @@
       "Name": "Missed it!",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "22_ouroboros",
@@ -651,9 +656,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "30_completelynuts",
@@ -740,15 +745,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:45.653605+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:03:39.6116734+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:58:00.8295741+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:45.6536602+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:57:57.4964174+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:39.6117115+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
   "Ranking_EOS_Progress": 381,
-  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -194,9 +194,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_14",
@@ -274,9 +274,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_24",
@@ -298,9 +298,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_27",
@@ -354,9 +354,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_35",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:42.6781736+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:57:11.4642251+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:42.6782219+00:00"
+  "LastChanged_Achievements": "2023-07-21T12:03:37.2484495+00:00",
+  "LastUpdate_Ratings": "2023-07-21T11:57:19.2557266+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:37.248498+00:00"
 }

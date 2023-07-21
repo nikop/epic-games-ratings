@@ -4,15 +4,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 20.00% | ~4 |
+| Scholar | 20.00% | ~4 |
+| The Collector | 20.00% | ~4 |
 | Fashion Victim | 15.00% | ~3 |
-| Scholar | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
+| Adventurer | 10.00% | ~2 |
 | Tributes of Caladrias | 10.00% | ~2 |
-| The Collector | 10.00% | ~2 |
+| Geared Up | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
-| Adventurer | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
-| Geared Up | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
@@ -41,7 +41,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 381)  
-Completed: 1 (5.00%) (Ranked 37)  
+Completed: 1 (5.00%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

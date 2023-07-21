@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1702,
+  "EOS_Progressed": 1704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1370,6 +1370,11 @@
       "Time": "2023-07-21T10:05:14.6184139+00:00",
       "NumProgressed": 1702,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T12:04:30.0967308+00:00",
+      "NumProgressed": 1704,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1387,9 +1392,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 953
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1413,7 +1418,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1445,7 +1450,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1453,7 +1458,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1501,7 +1506,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -1533,7 +1538,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1627,9 +1632,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1677,7 +1682,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1693,7 +1698,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1709,7 +1714,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1755,9 +1760,9 @@
       "ID": "ACH_UNFORGIVEN",
       "SetID": "8j30i9k",
       "Name": "Unforgiven",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1500
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1765,7 +1770,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1789,7 +1794,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1797,22 +1802,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1702,
+      "Progressed": 1704,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:04:45.6819954+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:04:30.0967301+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:20.4662233+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:58:54.1067023+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:04:45.682092+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:58:41.1251945+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:04:30.096786+00:00"
 }

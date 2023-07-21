@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 86.00% | ~137 |
+| Too Cool For School | 86.00% | ~138 |
 | Caretaker | 84.00% | ~134 |
-| Feng Shui | 72.00% | ~114 |
-| Who's A Good Boy | 70.00% | ~111 |
+| Feng Shui | 72.00% | ~115 |
+| Who's A Good Boy | 69.00% | ~110 |
 | Power Up | 69.00% | ~110 |
 | Thick Skin | 67.00% | ~107 |
-| Math Wizard | 65.00% | ~103 |
-| Destroy Erase Improve | 65.00% | ~103 |
+| Math Wizard | 65.00% | ~104 |
+| Destroy Erase Improve | 64.00% | ~102 |
 | Power Overload | 62.00% | ~99 |
 | Quite A Snack | 57.00% | ~91 |
-| Overwhelming Power | 55.00% | ~87 |
-| Impenetrable Skin | 53.00% | ~84 |
-| Chomp Chomp! | 43.00% | ~68 |
+| Overwhelming Power | 54.00% | ~86 |
+| Impenetrable Skin | 53.00% | ~85 |
+| Chomp Chomp! | 43.00% | ~69 |
 | Supreme Power | 42.00% | ~67 |
-| Glorious Battle | 41.00% | ~65 |
-| The Duelist | 40.00% | ~64 |
+| Glorious Battle | 41.00% | ~66 |
 | Diaper Time! | 40.00% | ~64 |
 | Target Practice | 40.00% | ~64 |
-| Meat Larder | 38.00% | ~60 |
-| Mutant And Proud | 36.00% | ~57 |
+| The Duelist | 39.00% | ~62 |
+| Meat Larder | 38.00% | ~61 |
+| Mutant And Proud | 36.00% | ~58 |
 | The Emperor's New Clothes | 32.00% | ~51 |
-| Godlike Power | 30.00% | ~48 |
-| Final Evolution | 30.00% | ~48 |
 | You Shall Not Pass | 29.00% | ~46 |
+| Godlike Power | 29.00% | ~46 |
 | Happy Little Home | 29.00% | ~46 |
+| Final Evolution | 29.00% | ~46 |
 | Undying Skin | 28.00% | ~45 |
 | Fight Me! | 28.00% | ~45 |
 | Supremacy | 28.00% | ~45 |
@@ -41,7 +41,7 @@
 | Lunch Before The Lunch | 20.00% | ~32 |
 | From Here To Eternity | 18.00% | ~29 |
 | Building Blocks | 18.00% | ~29 |
-| Octopostructure | 16.00% | ~25 |
+| Octopostructure | 16.00% | ~26 |
 | Boss Hunter | 15.00% | ~24 |
 | Hawkman | 8.00% | ~13 |
 | Annihilate | 7.00% | ~11 |
@@ -58,8 +58,8 @@
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 283)  
-Completed: 1 (0.63%) (Ranked 118)  
+Progressed: 160 (Ranked 283)  
+Completed: 1 (0.62%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 1 (0.63%) (Ranked 118)
 | 2023-06-18 | 157 | 1 |
 | 2023-06-25 | 158 | 1 |
 | 2023-07-20 | 159 | 1 |
+| 2023-07-21 | 160 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

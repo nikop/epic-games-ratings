@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,431 |
-| Right Back At Ya | 38.00% | ~329,388 |
-| The Lovers | 34.00% | ~294,715 |
-| Stanislavski's Method | 28.00% | ~242,707 |
-| The Wheel of Fortune | 26.00% | ~225,371 |
-| The Hermit | 24.00% | ~208,034 |
-| Christmas Tree Attack | 22.00% | ~190,698 |
-| True Soldier | 22.00% | ~190,698 |
-| The High Priestess | 21.00% | ~182,030 |
-| Legend of The Afterlife | 21.00% | ~182,030 |
-| Life of the Road | 20.00% | ~173,362 |
-| Full Body Conversion | 18.00% | ~156,026 |
-| The World | 17.00% | ~147,358 |
-| Bushido and Chill | 16.00% | ~138,690 |
-| Gun Fu | 15.00% | ~130,022 |
-| True Warrior | 15.00% | ~130,022 |
-| I Am The Law | 14.00% | ~121,353 |
-| Judy vs Night City | 14.00% | ~121,353 |
-| To Protect and Serve | 13.00% | ~112,685 |
-| Master Crafter | 13.00% | ~112,685 |
-| Two Heads, One Bullet | 11.00% | ~95,349 |
-| The Wandering Fool | 9.00% | ~78,013 |
-| The Quick and the Dead | 9.00% | ~78,013 |
-| Breathtaking | 8.00% | ~69,345 |
-| Ten out of Ten | 8.00% | ~69,345 |
+| The Fool | 68.00% | ~589,438 |
+| Right Back At Ya | 38.00% | ~329,392 |
+| The Lovers | 34.00% | ~294,719 |
+| Stanislavski's Method | 28.00% | ~242,710 |
+| The Wheel of Fortune | 26.00% | ~225,373 |
+| The Hermit | 24.00% | ~208,037 |
+| Christmas Tree Attack | 22.00% | ~190,700 |
+| True Soldier | 22.00% | ~190,700 |
+| The High Priestess | 21.00% | ~182,032 |
+| Legend of The Afterlife | 21.00% | ~182,032 |
+| Life of the Road | 20.00% | ~173,364 |
+| Full Body Conversion | 18.00% | ~156,028 |
+| The World | 17.00% | ~147,359 |
+| Bushido and Chill | 16.00% | ~138,691 |
+| Gun Fu | 15.00% | ~130,023 |
+| True Warrior | 15.00% | ~130,023 |
+| I Am The Law | 14.00% | ~121,355 |
+| Judy vs Night City | 14.00% | ~121,355 |
+| To Protect and Serve | 13.00% | ~112,687 |
+| Master Crafter | 13.00% | ~112,687 |
+| Two Heads, One Bullet | 11.00% | ~95,350 |
+| The Wandering Fool | 9.00% | ~78,014 |
+| The Quick and the Dead | 9.00% | ~78,014 |
+| Breathtaking | 8.00% | ~69,346 |
+| Ten out of Ten | 8.00% | ~69,346 |
 | To Bad Decisions! | 6.00% | ~52,009 |
 | The Star | 6.00% | ~52,009 |
 | The Sun | 6.00% | ~52,009 |
-| Must Be Rats | 4.00% | ~34,672 |
-| Temperance | 4.00% | ~34,672 |
-| City Lights | 3.00% | ~26,004 |
-| Mean Streets | 3.00% | ~26,004 |
-| Little Tokyo | 3.00% | ~26,004 |
-| Greetings from Pacifica! | 3.00% | ~26,004 |
-| The Jungle | 3.00% | ~26,004 |
-| V for Vendetta | 3.00% | ~26,004 |
-| It's Elementary | 3.00% | ~26,004 |
+| Must Be Rats | 4.00% | ~34,673 |
+| Temperance | 4.00% | ~34,673 |
+| City Lights | 3.00% | ~26,005 |
+| Mean Streets | 3.00% | ~26,005 |
+| Little Tokyo | 3.00% | ~26,005 |
+| Greetings from Pacifica! | 3.00% | ~26,005 |
+| The Jungle | 3.00% | ~26,005 |
+| V for Vendetta | 3.00% | ~26,005 |
+| It's Elementary | 3.00% | ~26,005 |
 | Autojock | 2.00% | ~17,336 |
 | Frequent Flyer | 2.00% | ~17,336 |
 | The Wasteland | 2.00% | ~17,336 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,668 |
 | Rough Landing | 0.50% | ~4,334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,810 (Ranked 14)  
+Progressed: 866,820 (Ranked 14)  
 Completed: 1,890 (0.22%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1,890 (0.22%) (Ranked 161)
 | 2023-07-18 | 866,435 | 1,883 |
 | 2023-07-19 | 866,596 | 1,885 |
 | 2023-07-20 | 866,759 | 1,888 |
-| 2023-07-21 | 866,810 | 1,890 |
+| 2023-07-21 | 866,820 | 1,890 |
 ## Awards
 Max (Character Customization): 73,685  (Ranked 9)  
 Sum: 193,577 (Ranked 13)  

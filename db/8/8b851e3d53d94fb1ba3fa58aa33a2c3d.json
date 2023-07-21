@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 4,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -99,9 +99,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "APHRODITE",
@@ -123,9 +123,9 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ARTEMIS",
@@ -179,17 +179,17 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -203,9 +203,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -259,9 +259,9 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -331,9 +331,9 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RED_HERRING",
@@ -393,8 +393,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:40.8327137+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:03:35.6172063+00:00",
   "LastUpdate_AppInfo": "2023-07-14T19:57:12.1529978+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:56:59.2364098+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:40.8327475+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:57:08.525524+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:35.617263+00:00"
 }

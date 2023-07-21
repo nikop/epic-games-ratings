@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6384,
+  "EOS_Progressed": 6385,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3411,6 +3411,11 @@
       "Time": "2023-07-21T11:05:16.7818987+00:00",
       "NumProgressed": 6384,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-21T12:04:57.1836619+00:00",
+      "NumProgressed": 6385,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3430,7 +3435,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3438,7 +3443,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3000
+      "UsersEstimate": 3001
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3470,7 +3475,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3614,7 +3619,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3670,7 +3675,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3750,7 +3755,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3766,7 +3771,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3781,7 +3786,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6384,
+      "Progressed": 6385,
       "Completed": 8
     }
   ],
@@ -3789,8 +3794,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-16T15:57:43.9096857+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:05:16.7818979+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:04:57.1836611+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:26.8768515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:57:53.7859812+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:05:16.7819908+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:57:52.3889188+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:04:57.1837182+00:00"
 }

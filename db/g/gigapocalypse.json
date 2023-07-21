@@ -3,9 +3,9 @@
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:25.0690428+00:00",
@@ -258,6 +258,11 @@
       "Time": "2023-07-20T19:07:31.4703296+00:00",
       "NumProgressed": 159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T12:06:34.227927+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -285,15 +290,15 @@
       "Name": "Math Wizard",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "secret12",
       "SetID": "39f6ck8",
       "Name": "The Duelist",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "secret13",
@@ -331,9 +336,9 @@
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 110
     },
     {
       "ID": "secret18",
@@ -349,7 +354,7 @@
       "Name": "Feng Shui",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "secret2",
@@ -357,7 +362,7 @@
       "Name": "Octopostructure",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "secret20",
@@ -373,7 +378,7 @@
       "Name": "Mutant And Proud",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "secret22",
@@ -419,9 +424,9 @@
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "secret28",
@@ -437,7 +442,7 @@
       "Name": "Impenetrable Skin",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "secret3",
@@ -477,7 +482,7 @@
       "Name": "Glorious Battle",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "secret34",
@@ -499,9 +504,9 @@
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "secret37",
@@ -509,7 +514,7 @@
       "Name": "Meat Larder",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "secret38",
@@ -525,7 +530,7 @@
       "Name": "Chomp Chomp!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "secret4",
@@ -555,9 +560,9 @@
       "ID": "secret42",
       "SetID": "39f6ck8",
       "Name": "Final Evolution",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "secret43",
@@ -669,15 +674,15 @@
       "Name": "Too Cool For School",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "secret9",
@@ -692,7 +697,7 @@
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 1
     }
   ],
@@ -700,8 +705,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:07:17.6654582+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:06:34.2279262+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.5290057+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:00:31.6589887+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:07:17.6655289+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:59:57.7864414+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:06:34.228016+00:00"
 }

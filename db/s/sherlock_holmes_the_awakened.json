@@ -5,10 +5,10 @@
   "Ranking_Rating": 312,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.71,
+  "EOS_Completed_Percentage": 4.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1791,6 +1791,11 @@
       "Time": "2023-07-20T23:06:37.9784326+00:00",
       "NumProgressed": 531,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-21T12:06:01.6476653+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1810,7 +1815,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MQ02_1",
@@ -1818,7 +1823,7 @@
       "Name": "High Profile",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MQ02_2",
@@ -1866,7 +1871,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MQ03_4",
@@ -1882,7 +1887,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MQ04_1",
@@ -1898,7 +1903,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MQ04_3",
@@ -1906,7 +1911,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ05_1",
@@ -1922,7 +1927,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MQ05_3",
@@ -1946,7 +1951,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MQ06_2",
@@ -1994,7 +1999,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MQ08_2",
@@ -2010,7 +2015,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PLTN",
@@ -2025,7 +2030,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 25
     }
   ],
@@ -2033,8 +2038,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:06:36.5113902+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:06:01.6476647+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:57:35.9816757+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:06:36.5114348+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:57:39.2983275+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:06:01.647699+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3476,
+  "EOS_Progressed": 3477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-07-21T09:03:56.6619682+00:00",
       "NumProgressed": 3476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T12:03:34.801431+00:00",
+      "NumProgressed": 3477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -791,7 +796,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -807,7 +812,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -831,7 +836,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -871,7 +876,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -879,7 +884,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -927,7 +932,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -966,7 +971,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3476,
+      "Progressed": 3477,
       "Completed": 0
     }
   ],
@@ -974,8 +979,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:39.8258845+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:03:34.8014304+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:59:55.2049408+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:39.8259212+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:59:31.7033146+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:34.8014689+00:00"
 }

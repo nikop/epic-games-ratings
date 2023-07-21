@@ -5,23 +5,23 @@ Rating: 3.76 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,095 |
-| No Half Measures | 88.00% | ~13,982 |
-| Personal Matter | 87.00% | ~13,823 |
-| But You Have Heard of Me | 72.00% | ~11,440 |
-| Double the Barrels, double the Fun | 55.00% | ~8,739 |
-| Pimp My Glide | 47.00% | ~7,468 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,514 |
-| House Party! | 34.00% | ~5,402 |
-| Make It Rain | 24.00% | ~3,813 |
+| Eeligally Ambitious | 95.00% | ~15,097 |
+| No Half Measures | 88.00% | ~13,985 |
+| Personal Matter | 87.00% | ~13,826 |
+| But You Have Heard of Me | 72.00% | ~11,442 |
+| Double the Barrels, double the Fun | 55.00% | ~8,741 |
+| Pimp My Glide | 47.00% | ~7,469 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,516 |
+| House Party! | 34.00% | ~5,403 |
+| Make It Rain | 24.00% | ~3,814 |
 | Curse of the Seven Seas | 22.00% | ~3,496 |
-| Head First | 16.00% | ~2,542 |
+| Head First | 16.00% | ~2,543 |
 | To the World's End | 12.00% | ~1,907 |
 | Table for Six | 11.00% | ~1,748 |
 | Sharing Is Caring | 10.00% | ~1,589 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,271 |
-| Morally Flexible | 6.00% | ~953 |
-| Fishing for Compliments | 5.00% | ~794 |
+| Morally Flexible | 6.00% | ~954 |
+| Fishing for Compliments | 5.00% | ~795 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~477 |
 | A True Dandy | 2.00% | ~318 |
 | A New Legend Awaits | 1.00% | ~159 |
@@ -32,7 +32,7 @@ Rating: 3.76 (Ranked 948)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,889 (Ranked 108)  
+Progressed: 15,892 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 15,878 | 0 |
 | 2023-07-19 | 15,879 | 0 |
 | 2023-07-20 | 15,882 | 0 |
-| 2023-07-21 | 15,889 | 0 |
+| 2023-07-21 | 15,892 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

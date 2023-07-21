@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2023-07-21T02:07:47.886261+00:00",
       "NumProgressed": 767,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-21T12:03:31.0431805+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1704,7 +1709,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1808,7 +1813,7 @@
       "Name": "The Betrayer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1816,7 +1821,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "GadgetCompletion1",
@@ -1840,7 +1845,7 @@
       "Name": "Rail Rat",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "HexlockGift",
@@ -1864,7 +1869,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LacunaCompleted",
@@ -1880,7 +1885,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "NoCritterSump",
@@ -1920,7 +1925,7 @@
       "Name": "Time Flies",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ParryBoss",
@@ -1928,7 +1933,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ParryRepeated1",
@@ -1936,7 +1941,7 @@
       "Name": "No, Thanks!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1976,7 +1981,7 @@
       "Name": "Honest Mistake",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2008,7 +2013,7 @@
       "Name": "Fast Learner",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "SpeedRun",
@@ -2056,7 +2061,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WarwickDefeated",
@@ -2096,21 +2101,21 @@
       "Name": "The Family Fortune",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:03:35.265755+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:03:31.0431799+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:59:54.0618593+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:03:35.2658565+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:59:30.7963595+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:03:31.0432449+00:00"
 }

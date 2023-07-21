@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39063,
+  "EOS_Progressed": 39068,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5578,6 +5578,11 @@
       "Time": "2023-07-21T11:04:13.890466+00:00",
       "NumProgressed": 39063,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T12:04:03.3259222+00:00",
+      "NumProgressed": 39068,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5741,7 +5746,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "CUFF_ATTACK",
@@ -6012,22 +6017,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39063,
+      "Progressed": 39068,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3900,
-      "Completed": 3900
+      "Progressed": 3905,
+      "Completed": 3905
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-21T11:04:13.8904652+00:00",
+  "LastChanged_Achievements": "2023-07-21T12:04:03.3259215+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.0816772+00:00",
-  "LastUpdate_Ratings": "2023-07-21T10:58:55.6340153+00:00",
-  "LastUpdate_Achievements": "2023-07-21T11:04:13.8906117+00:00"
+  "LastUpdate_Ratings": "2023-07-21T11:58:42.2519794+00:00",
+  "LastUpdate_Achievements": "2023-07-21T12:04:03.326041+00:00"
 }
