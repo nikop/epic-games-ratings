@@ -21,7 +21,7 @@
 | Loved and Lost | 13.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 368)  
-Completed: 4 (12.50%) (Ranked 14)  
+Completed: 4 (12.50%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

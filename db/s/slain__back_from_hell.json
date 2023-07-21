@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30866,
+  "EOS_Progressed": 30871,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10132,6 +10132,11 @@
       "Time": "2023-07-21T19:04:44.1174048+00:00",
       "NumProgressed": 30866,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-21T20:04:27.8389101+00:00",
+      "NumProgressed": 30871,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10151,7 +10156,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6173
+      "UsersEstimate": 6174
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10215,7 +10220,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -10295,7 +10300,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -10374,7 +10379,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30866,
+      "Progressed": 30871,
       "Completed": 20
     }
   ],
@@ -10382,8 +10387,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:04:44.117404+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:04:27.8389093+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:01:15.2021855+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:04:44.1174918+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:00:23.5687136+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:04:27.8390395+00:00"
 }

@@ -9,7 +9,7 @@
 | Career Woman | 63.00% | ~131 |
 | He's Off His Meds | 57.00% | ~119 |
 | Deal Or No Deal | 50.00% | ~104 |
-| Personal Life | 49.00% | ~102 |
+| Personal Life | 50.00% | ~104 |
 | Impress Theron | 45.00% | ~94 |
 | On Your Bike | 31.00% | ~64 |
 | Save Dad | 22.00% | ~46 |

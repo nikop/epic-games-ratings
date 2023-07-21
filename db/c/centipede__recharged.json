@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15617,
+  "EOS_Progressed": 15618,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7362,6 +7362,11 @@
       "Time": "2023-07-21T19:04:53.0853543+00:00",
       "NumProgressed": 15617,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-21T20:04:35.0665138+00:00",
+      "NumProgressed": 15618,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7445,7 +7450,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6559
+      "UsersEstimate": 6560
     },
     {
       "ID": "Mirrors",
@@ -7477,7 +7482,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "Still_Burning",
@@ -7500,15 +7505,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15617,
+      "Progressed": 15618,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:04:53.0853536+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:04:35.0665132+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.2106647+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:00:09.6176074+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:04:53.0854155+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:59:30.8208271+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:04:35.0665784+00:00"
 }

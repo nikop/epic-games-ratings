@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-07-21T19:05:09.9229904+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T20:04:47.9959797+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -231,7 +236,7 @@
       "ID": "best_pianist",
       "SetID": "5fi1i42",
       "Name": "Best pianist in the metaverse",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -255,7 +260,7 @@
       "ID": "goblin_slayed",
       "SetID": "5fi1i42",
       "Name": "Goblin Slayer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -295,7 +300,7 @@
       "ID": "platformer_player",
       "SetID": "5fi1i42",
       "Name": "Platformer Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -303,7 +308,7 @@
       "ID": "play_worlds",
       "SetID": "5fi1i42",
       "Name": "Play worlds from foes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -335,7 +340,7 @@
       "ID": "super_creator",
       "SetID": "5fi1i42",
       "Name": "Super Creator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 160,
       "UsersEstimate": 5
     },
@@ -351,7 +356,7 @@
       "ID": "treant_destroyer",
       "SetID": "5fi1i42",
       "Name": "Treant Destroyer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -367,7 +372,7 @@
       "ID": "visit_cleric",
       "SetID": "5fi1i42",
       "Name": "Visit Cleric",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -384,14 +389,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:05:09.9229897+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:04:47.9959786+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:57:36.7330048+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:05:09.9230328+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:57:27.8279269+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:04:47.996003+00:00"
 }

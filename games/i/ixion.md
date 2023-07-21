@@ -25,9 +25,9 @@ Rating: 4.56 (Ranked 460)
 | Power Outage | 6.00% | ~172 |
 | Please Make it Stop! | 6.00% | ~172 |
 | Sightseeing | 5.00% | ~143 |
+| Necessary Enhancement | 5.00% | ~143 |
 | Convenient Transport | 5.00% | ~143 |
 | Access Granted | 4.00% | ~115 |
-| Necessary Enhancement | 4.00% | ~115 |
 | All in Good Health | 4.00% | ~115 |
 | From the Past | 4.00% | ~115 |
 | Oats | 3.00% | ~86 |

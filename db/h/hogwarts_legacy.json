@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5280,10 +5280,10 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288200,
+  "EOS_Progressed": 288205,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 732,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 729,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -15165,6 +15165,11 @@
       "Time": "2023-07-21T19:04:55.211153+00:00",
       "NumProgressed": 288200,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-21T20:04:36.9557918+00:00",
+      "NumProgressed": 288205,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15176,7 +15181,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34584
+      "UsersEstimate": 34585
     },
     {
       "ID": "PFA_10",
@@ -15294,9 +15299,9 @@
       "ID": "PFA_23",
       "SetID": "1hf4dep",
       "Name": "A Keen Sense of Spell",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25938
+      "UsersEstimate": 28820
     },
     {
       "ID": "PFA_24",
@@ -15504,7 +15509,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31702
+      "UsersEstimate": 31703
     },
     {
       "ID": "PFA_7",
@@ -15535,7 +15540,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288200,
+      "Progressed": 288205,
       "Completed": 433
     }
   ],
@@ -15543,8 +15548,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-21T15:58:09.7474142+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:04:55.2111522+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:04:36.9557912+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:58:14.1140753+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:04:55.2112419+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:58:00.5404231+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:04:36.9559062+00:00"
 }

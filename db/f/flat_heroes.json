@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -600,9 +600,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "World7Boss",
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:05:57.2005941+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:05:27.992078+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:07.5133582+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:58:03.3244233+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:05:57.2006277+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:57:50.7450106+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:05:27.9922126+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,501 |
-| Self-Improvement | 72.00% | ~1,228 |
-| Perky | 65.00% | ~1,109 |
+| Unforgiven | 88.00% | ~1,502 |
+| Self-Improvement | 72.00% | ~1,229 |
+| Perky | 65.00% | ~1,110 |
 | Let’s Ride | 60.00% | ~1,024 |
-| Welcome to the Weird West | 57.00% | ~972 |
-| Dead or Alive | 55.00% | ~938 |
-| Full House | 37.00% | ~631 |
+| Welcome to the Weird West | 57.00% | ~973 |
+| Dead or Alive | 55.00% | ~939 |
+| Full House | 36.00% | ~615 |
 | Off the Trail | 34.00% | ~580 |
 | Justice Served | 29.00% | ~495 |
 | Chain Reaction | 27.00% | ~461 |
 | Through Their Eyes | 26.00% | ~444 |
-| Dishonored | 25.00% | ~426 |
-| Rain of Death | 25.00% | ~426 |
-| Scholar | 25.00% | ~426 |
-| The Great Escape | 23.00% | ~392 |
+| Dishonored | 25.00% | ~427 |
+| Rain of Death | 25.00% | ~427 |
+| Scholar | 25.00% | ~427 |
+| The Great Escape | 23.00% | ~393 |
 | That’s All, Folks | 19.00% | ~324 |
 | Fallen Star | 16.00% | ~273 |
 | For Balance | 16.00% | ~273 |
@@ -38,8 +38,8 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~154 |
 | Eternity Can Wait | 9.00% | ~154 |
 | Mystery Machine | 9.00% | ~154 |
-| Gold Digger | 8.00% | ~136 |
-| Knuckle Sandwich | 8.00% | ~136 |
+| Gold Digger | 8.00% | ~137 |
+| Knuckle Sandwich | 8.00% | ~137 |
 | Do Not Pass Go… | 7.00% | ~119 |
 | Getting the Gang Back Together | 7.00% | ~119 |
 | Monster Hunter | 7.00% | ~119 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,706 (Ranked 168)  
+Progressed: 1,707 (Ranked 168)  
 Completed: 3 (0.18%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.18%) (Ranked 169)
 | 2023-07-17 | 1,693 | 3 |
 | 2023-07-18 | 1,696 | 3 |
 | 2023-07-20 | 1,699 | 3 |
-| 2023-07-21 | 1,706 | 3 |
+| 2023-07-21 | 1,707 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

@@ -5,28 +5,28 @@ Rating: 4.25 (Ranked 809)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,479 |
+| Rigged And Ready | 80.00% | ~1,480 |
 | Don't I Know You...? | 77.00% | ~1,424 |
 | Jailbreak | 65.00% | ~1,202 |
 | HEADSHOT! | 38.00% | ~703 |
 | Suited and Booted | 38.00% | ~703 |
-| Sleeping With The Fishes | 35.00% | ~647 |
+| Sleeping With The Fishes | 35.00% | ~648 |
 | Overheated | 30.00% | ~555 |
 | High Performance | 30.00% | ~555 |
 | Powered Up | 28.00% | ~518 |
 | Studied The Blade | 25.00% | ~462 |
-| Home Invasion | 23.00% | ~425 |
+| Home Invasion | 23.00% | ~426 |
 | Luminary | 22.00% | ~407 |
 | It's a Trap | 22.00% | ~407 |
 | True Survivor | 21.00% | ~388 |
 | Offensive Defense | 20.00% | ~370 |
 | Shocking | 20.00% | ~370 |
 | Unforeseeable Consequences | 20.00% | ~370 |
-| Court Martial | 19.00% | ~351 |
+| Court Martial | 19.00% | ~352 |
 | Dead Again | 18.00% | ~333 |
 | Clean Cut | 18.00% | ~333 |
 | Full Arsenal | 17.00% | ~314 |
-| Can't Trust Banks | 15.00% | ~277 |
+| Can't Trust Banks | 15.00% | ~278 |
 | Mommy Dearest | 14.00% | ~259 |
 | Bad Dog | 13.00% | ~240 |
 | Where It All Began | 13.00% | ~240 |
@@ -34,14 +34,14 @@ Rating: 4.25 (Ranked 809)
 | What A Catchy Song | 13.00% | ~240 |
 | Marked For Success | 12.00% | ~222 |
 | Sorry, Didn't See You There | 12.00% | ~222 |
-| Corrupted Beauty | 11.00% | ~203 |
+| Corrupted Beauty | 11.00% | ~204 |
 | Stimulating The Local Economy | 10.00% | ~185 |
 | Triplets | 10.00% | ~185 |
 | Defense in Depth | 9.00% | ~166 |
 | A Little Banged Up | 8.00% | ~148 |
 | Denying Prophecy | 8.00% | ~148 |
 | Following In Their Footsteps | 8.00% | ~148 |
-| Reverse Engineering | 7.00% | ~129 |
+| Reverse Engineering | 7.00% | ~130 |
 | Reborn | 6.00% | ~111 |
 | Remote Surgery | 6.00% | ~111 |
 | Turbo Booster | 6.00% | ~111 |
@@ -53,8 +53,8 @@ Rating: 4.25 (Ranked 809)
 | Geronimo! | 4.00% | ~74 |
 | Homewrecker | 4.00% | ~74 |
 | Plank of Wood | 4.00% | ~74 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~55 |
-| Gotta Craft 'em All | 3.00% | ~55 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~56 |
+| Gotta Craft 'em All | 3.00% | ~56 |
 | Own Medicine | 2.00% | ~37 |
 | Three Birds With One Stone | 2.00% | ~37 |
 | Box Office Smash | 2.00% | ~37 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 809)
 | Loot, Pillage & Craft | 2.00% | ~37 |
 | Swiss Army Drone | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 165)  
+Progressed: 1,850 (Ranked 165)  
 Completed: 10 (0.54%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 10 (0.54%) (Ranked 125)
 | 2023-07-15 | 1,835 | 10 |
 | 2023-07-16 | 1,837 | 10 |
 | 2023-07-20 | 1,841 | 10 |
-| 2023-07-21 | 1,849 | 10 |
+| 2023-07-21 | 1,850 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

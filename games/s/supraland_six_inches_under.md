@@ -22,8 +22,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 90.00% | ~1,944 |
 | Industrial Area | 89.00% | ~1,922 |
 | Magnet Repel | 88.00% | ~1,901 |
+| You feel middle classy | 87.00% | ~1,879 |
 | Boomeraxe | 87.00% | ~1,879 |
-| You feel middle classy | 86.00% | ~1,858 |
 | Banking District | 86.00% | ~1,858 |
 | Iron Pickaxe | 86.00% | ~1,858 |
 | Arrested | 85.00% | ~1,836 |
@@ -145,12 +145,12 @@ Completed: 259 (11.99%) (Ranked 16)
 | 2023-07-19 | 2,157 | 259 |
 | 2023-07-21 | 2,160 | 259 |
 ## Awards
-Max (Challenging Puzzles): 98  (Ranked 335)  
-Sum: 98 (Ranked 412)  
-Diff (max vs sum): -77  
+Max (Challenging Puzzles): 99  (Ranked 332)  
+Sum: 99 (Ranked 412)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 98 |
+| This game features Challenging Puzzles | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -206,3 +206,4 @@ Diff (max vs sum): -77
 | 2023-04-18 | 4.78 | - | 97 | 97 |
 | 2023-05-01 | 4.77 | - | 97 | 97 |
 | 2023-05-31 | 4.77 | - | 98 | 98 |
+| 2023-07-21 | 4.77 | - | 99 | 99 |

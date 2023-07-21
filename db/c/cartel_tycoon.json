@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1110,6 +1110,11 @@
       "Time": "2023-07-21T13:13:53.7893522+00:00",
       "NumProgressed": 445,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T20:06:50.2394897+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1169,7 +1174,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "kill-lieutenants",
@@ -1177,7 +1182,7 @@
       "Name": "Spreading Fear",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "pack-and-sell",
@@ -1185,7 +1190,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "play-at-night",
@@ -1209,7 +1214,7 @@
       "Name": "Bad Trip",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "rename-lieutenant",
@@ -1233,7 +1238,7 @@
       "Name": "Spread",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "send-smuggling",
@@ -1249,7 +1254,7 @@
       "Name": "Pampered Life",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "upgrade-building",
@@ -1272,15 +1277,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:07:40.0943244+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:06:50.239489+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:15.2472362+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:01:26.6783506+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:07:40.0943655+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:00:35.4094918+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:06:50.2395117+00:00"
 }

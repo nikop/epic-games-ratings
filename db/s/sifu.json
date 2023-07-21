@@ -5268,9 +5268,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711049,
+  "EOS_Progressed": 711055,
   "EOS_Completed": 12829,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13863,6 +13863,11 @@
       "Time": "2023-07-21T19:07:42.1654655+00:00",
       "NumProgressed": 711049,
       "NumCompleted": 12829
+    },
+    {
+      "Time": "2023-07-21T20:06:52.6205361+00:00",
+      "NumProgressed": 711055,
+      "NumCompleted": 12829
     }
   ],
   "TotalAchievements": 50,
@@ -13906,7 +13911,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "06_Vengeance_H5",
@@ -13914,7 +13919,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "07_Wude_H1",
@@ -13962,7 +13967,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "13_LowAge",
@@ -13978,7 +13983,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "15_Detective_H1",
@@ -14026,7 +14031,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -14042,7 +14047,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -14066,7 +14071,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "26_ShrineSpirit",
@@ -14082,7 +14087,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14122,7 +14127,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "33_BladeOneShot",
@@ -14146,7 +14151,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -14154,7 +14159,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14186,7 +14191,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -14273,21 +14278,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20350,
+      "Progressed": 20356,
       "Completed": 10430
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711049,
+      "Progressed": 711055,
       "Completed": 12829
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:07:42.1654652+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:06:52.6205353+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:00:08.8612951+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:07:42.1655642+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:59:30.2747058+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:06:52.6207336+00:00"
 }

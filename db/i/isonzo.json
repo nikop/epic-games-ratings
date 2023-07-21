@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6390,
+  "EOS_Progressed": 6391,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3436,6 +3436,11 @@
       "Time": "2023-07-21T19:05:39.4759669+00:00",
       "NumProgressed": 6390,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-21T20:05:13.1250877+00:00",
+      "NumProgressed": 6391,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3463,7 +3468,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3495,7 +3500,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3615,7 +3620,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3806,7 +3811,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6390,
+      "Progressed": 6391,
       "Completed": 8
     }
   ],
@@ -3814,8 +3819,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-16T15:57:43.9096857+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:05:39.4759662+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:05:13.125087+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:26.8768515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:58:22.6963201+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:05:39.4760173+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:58:06.2176561+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:05:13.1251572+00:00"
 }

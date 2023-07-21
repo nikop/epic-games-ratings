@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -642,17 +642,17 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -665,8 +665,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:05:57.5907803+00:00",
+  "LastChanged_Achievements": "2023-07-21T20:05:28.2402201+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:57:36.5649965+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:05:57.5907974+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:57:27.7050185+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:05:28.2402395+00:00"
 }

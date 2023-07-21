@@ -12,9 +12,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
+| Ishtar Gate in Babylon | 0.10% | ~13 |
+| Blade of the Monkey | 0.10% | ~13 |
+| Carthage - Ox Hide | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
+| Ancient | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
 | Brilliant | 0.10% | ~13 |
@@ -27,39 +31,50 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.10% | ~13 |
 | Good | 0.10% | ~13 |
 | Great | 0.10% | ~13 |
+| Holy | 0.10% | ~13 |
+| Intercessor | 0.10% | ~13 |
 | Intrepid | 0.10% | ~13 |
+| Invincible | 0.10% | ~13 |
 | Just | 0.10% | ~13 |
 | Keystone | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
+| Lion | 0.10% | ~13 |
 | Magnificent | 0.10% | ~13 |
 | Mason | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
 | Noble | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
+| Peacemaker | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Settler | 0.10% | ~13 |
 | Strong | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
+| Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Warrior | 0.10% | ~13 |
 | Wise | 0.10% | ~13 |
 | Developing Cities | 0.10% | ~13 |
+| Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
 | Able Difficulty | 0.10% | ~13 |
+| Good Difficulty | 0.10% | ~13 |
 | Just Difficulty | 0.10% | ~13 |
+| Strong Difficulty | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
+| Riders | 0.10% | ~13 |
 | Sages | 0.10% | ~13 |
 | Statesmen | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
 | Friendly Family | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
+| Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
 | Apadana | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
@@ -71,18 +86,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
+| Mausoleum | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
 | Oracle | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Pyramids | 0.10% | ~13 |
+| Via Recta Souk | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
 | Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
+| Medo-Babylonian Conquest | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
+| Carthage | 0.10% | ~13 |
 | Egypt | 0.10% | ~13 |
 | Greece | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
@@ -110,14 +129,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
 | Dualism | 0.10% | ~13 |
+| Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
+| Legalism | 0.10% | ~13 |
 | Mythology | 0.10% | ~13 |
 | Redemption | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
+| Cataphract Archer | 0.10% | ~13 |
+| Cimmerian Archer | 0.10% | ~13 |
 | Kushite Cavalry | 0.10% | ~13 |
 | Legionary | 0.10% | ~13 |
 | Phalangite | 0.10% | ~13 |
+| Turreted Elephant | 0.10% | ~13 |
 | Ambition Victory | 0.10% | ~13 |
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
@@ -144,15 +168,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
-| Ishtar Gate in Babylon | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
-| Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Ox Hide | 0.00% | ~0 |
 | Bronze Victory (Carthage 1) | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
 | Gold Victory (Carthage 1) | 0.00% | ~0 |
@@ -173,35 +194,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
-| Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Holy | 0.00% | ~0 |
-| Intercessor | 0.00% | ~0 |
-| Invincible | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Lion | 0.00% | ~0 |
-| Peacemaker | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| Valiant | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
-| Legendary Cities | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Glorious Difficulty | 0.00% | ~0 |
-| Good Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
 | Noble Difficulty | 0.00% | ~0 |
-| Strong Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Event Level High | 0.00% | ~0 |
-| Riders | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
@@ -249,22 +259,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Hittite Iron | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
-| Mausoleum | 0.00% | ~0 |
-| Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Realistic Mortality | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
-| Carthage | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Old World Order | 0.00% | ~0 |
@@ -281,15 +286,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Military Prestige | 0.00% | ~0 |
-| Enlightenment | 0.00% | ~0 |
-| Legalism | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Cataphract Archer | 0.00% | ~0 |
-| Cimmerian Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
-| Turreted Elephant | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | All Nations | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,992 (Ranked 113)  
+Progressed: 12,995 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,992 | 5 |
+| 2023-07-21 | 12,995 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

@@ -3,11 +3,11 @@
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 643,
-  "Ranking_Popularity": 179,
+  "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -2047,6 +2047,6 @@
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
   "LastChanged": "2023-07-21T16:00:23.4425954+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.649137+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:00:34.8330908+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:03:39.6133742+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:59:52.7480206+00:00",
+  "LastUpdate_Achievements": "2023-07-21T20:03:42.7256154+00:00"
 }
