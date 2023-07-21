@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,512 |
-| That's a Grand Army | 8.00% | ~5,788 |
-| That is mine! | 8.00% | ~5,788 |
-| Victorious! | 8.00% | ~5,788 |
-| Brothers in Arms | 6.00% | ~4,341 |
-| That's a Grand Navy | 6.00% | ~4,341 |
-| Seriously?! | 6.00% | ~4,341 |
-| For the Glory | 5.00% | ~3,618 |
-| Cold War | 4.00% | ~2,894 |
-| True Catholic | 4.00% | ~2,894 |
+| Until death do us apart | 9.00% | ~6,514 |
+| That's a Grand Army | 8.00% | ~5,790 |
+| That is mine! | 8.00% | ~5,790 |
+| Victorious! | 8.00% | ~5,790 |
+| Brothers in Arms | 6.00% | ~4,342 |
+| That's a Grand Navy | 6.00% | ~4,342 |
+| Seriously?! | 6.00% | ~4,342 |
+| For the Glory | 5.00% | ~3,619 |
+| Cold War | 4.00% | ~2,895 |
+| True Catholic | 4.00% | ~2,895 |
 | Defender of the Faith | 3.00% | ~2,171 |
 | It's all about luck | 3.00% | ~2,171 |
 | It's all about the money | 3.00% | ~2,171 |
 | Respected | 3.00% | ~2,171 |
 | The Princess is in this Castle | 3.00% | ~2,171 |
 | Truly Divine Ruler | 3.00% | ~2,171 |
-| Agressive Expander | 2.00% | ~1,447 |
-| Blockader | 2.00% | ~1,447 |
-| Combined Arms | 2.00% | ~1,447 |
-| Double the Love | 2.00% | ~1,447 |
-| Gentle Persuasion | 2.00% | ~1,447 |
-| My armies are invincible! | 2.00% | ~1,447 |
-| Queen of Conquest | 2.00% | ~1,447 |
-| Royal Authority | 2.00% | ~1,447 |
-| Total Control | 2.00% | ~1,447 |
+| Agressive Expander | 2.00% | ~1,448 |
+| Blockader | 2.00% | ~1,448 |
+| Combined Arms | 2.00% | ~1,448 |
+| Double the Love | 2.00% | ~1,448 |
+| Gentle Persuasion | 2.00% | ~1,448 |
+| My armies are invincible! | 2.00% | ~1,448 |
+| Queen of Conquest | 2.00% | ~1,448 |
+| Royal Authority | 2.00% | ~1,448 |
+| Total Control | 2.00% | ~1,448 |
 | All That's Thine Shall Be Mine | 1.00% | ~724 |
 | Azur semé de lis or | 1.00% | ~724 |
 | Bright Spark | 1.00% | ~724 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~651 |
 | Trustworthy | 0.90% | ~651 |
 | Down Under | 0.80% | ~579 |
-| Electable! | 0.70% | ~506 |
-| Populists in Government | 0.70% | ~506 |
+| Electable! | 0.70% | ~507 |
+| Populists in Government | 0.70% | ~507 |
 | All belongs to Mother Russia | 0.60% | ~434 |
 | At every continent | 0.60% | ~434 |
 | Early-Modern Warfare | 0.60% | ~434 |
@@ -60,17 +60,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~362 |
 | Trophy Hunter | 0.50% | ~362 |
 | Voting Streak | 0.50% | ~362 |
-| All Your Trade Are Belong to Us | 0.40% | ~289 |
-| Bleed Them Dry | 0.40% | ~289 |
-| Dude, Where's my Boat? | 0.40% | ~289 |
-| Four For Trade | 0.40% | ~289 |
-| Global Hegemony | 0.40% | ~289 |
-| Italian Ambition | 0.40% | ~289 |
-| Just a Little Patience | 0.40% | ~289 |
-| One Night in Paris | 0.40% | ~289 |
-| Tear Down This Wall | 0.40% | ~289 |
-| The Continuation of Diplomacy | 0.40% | ~289 |
-| Wonderful | 0.40% | ~289 |
+| All Your Trade Are Belong to Us | 0.40% | ~290 |
+| Bleed Them Dry | 0.40% | ~290 |
+| Dude, Where's my Boat? | 0.40% | ~290 |
+| Four For Trade | 0.40% | ~290 |
+| Global Hegemony | 0.40% | ~290 |
+| Italian Ambition | 0.40% | ~290 |
+| Just a Little Patience | 0.40% | ~290 |
+| One Night in Paris | 0.40% | ~290 |
+| Tear Down This Wall | 0.40% | ~290 |
+| The Continuation of Diplomacy | 0.40% | ~290 |
+| Wonderful | 0.40% | ~290 |
 | A Decent Reserve | 0.30% | ~217 |
 | A Pile of Gold | 0.30% | ~217 |
 | Grand Duchy | 0.30% | ~217 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,351 (Ranked 74)  
+Progressed: 72,375 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -453,7 +453,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 71,380 | 0 |
 | 2023-07-19 | 71,730 | 0 |
 | 2023-07-20 | 72,082 | 0 |
-| 2023-07-21 | 72,351 | 0 |
+| 2023-07-21 | 72,375 | 0 |
 ## Awards
 Max (Educational): 5,568  (Ranked 61)  
 Sum: 45,893 (Ranked 26)  

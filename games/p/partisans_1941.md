@@ -6,30 +6,30 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 34.00% | ~382 |
-| War Never Changes | 34.00% | ~382 |
-| Grenadier | 33.00% | ~371 |
-| Heroes Never Die | 30.00% | ~337 |
-| Mosquito bite | 29.00% | ~326 |
-| Spice It Up | 26.00% | ~292 |
-| Agent 47 | 22.00% | ~247 |
-| You're Gonna Go Far, Kid | 22.00% | ~247 |
-| Bomberman | 22.00% | ~247 |
+| E1M1 | 34.00% | ~383 |
+| War Never Changes | 34.00% | ~383 |
+| Grenadier | 33.00% | ~372 |
+| Heroes Never Die | 30.00% | ~338 |
+| Mosquito bite | 29.00% | ~327 |
+| Spice It Up | 26.00% | ~293 |
+| Agent 47 | 22.00% | ~248 |
+| Bomberman | 22.00% | ~248 |
+| You're Gonna Go Far, Kid | 21.00% | ~236 |
 | Death to the Oppressor! | 16.00% | ~180 |
 | The Gang's All Here | 13.00% | ~146 |
 | One by One | 12.00% | ~135 |
 | Your Answer | 12.00% | ~135 |
-| The Big Bertha | 10.00% | ~112 |
+| The Big Bertha | 10.00% | ~113 |
 | Game Over | 9.00% | ~101 |
-| Lock, Stock | 6.00% | ~67 |
-| Payback Time | 6.00% | ~67 |
+| Lock, Stock | 6.00% | ~68 |
+| Payback Time | 6.00% | ~68 |
 | No Witness | 5.00% | ~56 |
 | Strategist | 3.00% | ~34 |
-| Unbreakable Wall | 2.00% | ~22 |
+| Unbreakable Wall | 2.00% | ~23 |
 | Experienced Strategist | 1.00% | ~11 |
 | Do a Barrel Roll! | 0.90% | ~10 |
 | How?! | 0.80% | ~9 |
-| Tough as Nails | 0.40% | ~4 |
+| Tough as Nails | 0.40% | ~5 |
 | We Weren't There | 0.20% | ~2 |
 | Commandos | 0.10% | ~1 |
 | A Little Culture | 0.10% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,124 (Ranked 184)  
+Progressed: 1,126 (Ranked 184)  
 Completed: 1 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.09%) (Ranked 191)
 | 2023-07-15 | 1,107 | 1 |
 | 2023-07-17 | 1,108 | 1 |
 | 2023-07-20 | 1,113 | 1 |
-| 2023-07-21 | 1,124 | 1 |
+| 2023-07-21 | 1,126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

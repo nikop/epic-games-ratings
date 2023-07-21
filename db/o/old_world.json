@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 12988,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10076,9 +10076,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -10524,9 +10524,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -10556,9 +10556,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
       "SetID": "9201eeb",
       "Name": "The Mythical Beast",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE",
@@ -10618,8 +10618,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:06:07.7764251+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:06:13.652311+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:58:43.3148947+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:06:07.7771302+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:58:56.896086+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:06:13.6533312+00:00"
 }

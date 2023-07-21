@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4494,
+  "EOS_Progressed": 4495,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1693,6 +1693,11 @@
       "Time": "2023-07-21T16:04:12.7223209+00:00",
       "NumProgressed": 4494,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-21T18:04:19.5179229+00:00",
+      "NumProgressed": 4495,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1752,7 +1757,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1760,7 +1765,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1768,7 +1773,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1848,7 +1853,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1872,7 +1877,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -1920,7 +1925,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1936,7 +1941,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -1968,7 +1973,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2032,7 +2037,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -2239,15 +2244,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4494,
+      "Progressed": 4495,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:04:15.5867142+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:04:19.5179222+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.9910145+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:58:52.3396554+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:04:15.5867743+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:59:05.0952042+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:04:19.5180167+00:00"
 }

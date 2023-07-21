@@ -6,24 +6,24 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,457 |
-| Having A Field Day | 73.00% | ~3,457 |
-| Reap What You Sow | 70.00% | ~3,314 |
-| The First Day | 67.00% | ~3,172 |
-| Green Thumb | 65.00% | ~3,078 |
-| Novice Researcher | 64.00% | ~3,030 |
-| Putting Food on the Table | 60.00% | ~2,841 |
-| Home Cooked Meal | 55.00% | ~2,604 |
-| Onward | 55.00% | ~2,604 |
-| The First Week | 53.00% | ~2,510 |
+| Get A Room | 73.00% | ~3,458 |
+| Having A Field Day | 73.00% | ~3,458 |
+| Reap What You Sow | 70.00% | ~3,316 |
+| The First Day | 67.00% | ~3,174 |
+| Green Thumb | 65.00% | ~3,079 |
+| Novice Researcher | 64.00% | ~3,032 |
+| Putting Food on the Table | 60.00% | ~2,842 |
+| Home Cooked Meal | 55.00% | ~2,605 |
+| Onward | 55.00% | ~2,605 |
+| The First Week | 53.00% | ~2,511 |
 | Beam Me Up | 50.00% | ~2,368 |
 | Feast or Famine | 50.00% | ~2,368 |
 | Studious Researcher | 50.00% | ~2,368 |
-| Adept Researcher | 44.00% | ~2,083 |
-| Retribution | 40.00% | ~1,894 |
-| ...And Don’t Come Back! | 40.00% | ~1,894 |
-| Fit For A King | 38.00% | ~1,799 |
-| Luminary Researcher | 34.00% | ~1,610 |
+| Adept Researcher | 44.00% | ~2,084 |
+| Retribution | 40.00% | ~1,895 |
+| ...And Don’t Come Back! | 40.00% | ~1,895 |
+| Fit For A King | 38.00% | ~1,800 |
+| Luminary Researcher | 34.00% | ~1,611 |
 | Heating Up | 28.00% | ~1,326 |
 | Winter Is Coming | 25.00% | ~1,184 |
 | Winter Is Here | 22.00% | ~1,042 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~95 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,735 (Ranked 137)  
+Progressed: 4,737 (Ranked 137)  
 Completed: 10 (0.21%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 10 (0.21%) (Ranked 164)
 | 2023-07-18 | 4,691 | 10 |
 | 2023-07-19 | 4,707 | 10 |
 | 2023-07-20 | 4,722 | 10 |
-| 2023-07-21 | 4,735 | 10 |
+| 2023-07-21 | 4,737 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 311)  
 Sum: 962 (Ranked 238)  

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 19.00% | ~146 |
+| Time Heals All Wounds | 20.00% | ~154 |
 | Rail Rat | 17.00% | ~131 |
 | The Mysterious Stranger | 16.00% | ~123 |
 | The Steel Shadow | 15.00% | ~116 |

@@ -538,9 +538,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -578,9 +578,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -665,8 +665,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:06:10.882582+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:06:16.8587703+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:57:19.059039+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:06:10.8825955+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:57:27.8309759+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:06:16.8587923+00:00"
 }

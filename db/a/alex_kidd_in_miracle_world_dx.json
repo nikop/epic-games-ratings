@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -284,9 +284,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "PET_DOG",
@@ -317,8 +317,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:08:01.9382596+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:08:14.1664858+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:51.0652019+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:59:00.1767936+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:08:01.9382706+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:59:13.2817412+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:08:14.1665026+00:00"
 }

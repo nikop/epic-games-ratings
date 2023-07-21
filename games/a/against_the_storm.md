@@ -8,13 +8,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Real Expedition | 4.00% | ~638 |
 | The Marshlands | 4.00% | ~638 |
+| The Scarlet Orchard | 4.00% | ~638 |
 | Taking Action | 4.00% | ~638 |
 | No Deaths | 4.00% | ~638 |
 | Overcoming Difficulty | 3.00% | ~478 |
 | Fertile Meadows | 3.00% | ~478 |
 | Lost Colonies | 3.00% | ~478 |
 | Coral Forest | 3.00% | ~478 |
-| The Scarlet Orchard | 3.00% | ~478 |
 | A Real Challenge | 3.00% | ~478 |
 | Serving Ale | 2.00% | ~319 |
 | Homesick | 2.00% | ~319 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,942 (Ranked 107)  
+Progressed: 15,944 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 40 (0.25%) (Ranked 157)
 | 2023-07-18 | 15,891 | 40 |
 | 2023-07-19 | 15,905 | 40 |
 | 2023-07-20 | 15,923 | 40 |
-| 2023-07-21 | 15,942 | 40 |
+| 2023-07-21 | 15,944 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 206)  
 Sum: 3,072 (Ranked 157)  

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1986,9 +1986,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 154
     },
     {
       "ID": "RewindParry",
@@ -2129,8 +2129,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:03:42.0583168+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:03:55.2312778+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:00:33.9342765+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:03:42.0583601+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:00:53.4913241+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:03:55.2313854+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -5387,9 +5387,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "11",
@@ -5683,9 +5683,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "5",
@@ -5794,8 +5794,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:04:29.7346998+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:04:34.0997403+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:00:39.9752406+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:04:29.7347661+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:01:00.5429148+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:04:34.0998752+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.40 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Liberté | 3.00% | ~99 |
-| Meeting Resistance | 3.00% | ~99 |
-| Sharpshooter | 3.00% | ~99 |
-| Confirming Suspicions | 3.00% | ~99 |
-| Lord of War | 3.00% | ~99 |
-| Resourceful | 3.00% | ~99 |
-| As Quiet as a Mouse | 3.00% | ~99 |
-| The Kraken Wakes | 3.00% | ~99 |
-| It's Starting to Crack | 3.00% | ~99 |
-| Change the Channel | 3.00% | ~99 |
-| Taking it back | 3.00% | ~99 |
-| Target America | 3.00% | ~99 |
-| The Kraken Sleeps | 3.00% | ~99 |
+| Liberté | 3.00% | ~100 |
+| Meeting Resistance | 3.00% | ~100 |
+| Sharpshooter | 3.00% | ~100 |
+| Confirming Suspicions | 3.00% | ~100 |
+| Lord of War | 3.00% | ~100 |
+| Resourceful | 3.00% | ~100 |
+| As Quiet as a Mouse | 3.00% | ~100 |
+| The Kraken Wakes | 3.00% | ~100 |
+| It's Starting to Crack | 3.00% | ~100 |
+| Change the Channel | 3.00% | ~100 |
+| Taking it back | 3.00% | ~100 |
+| Target America | 3.00% | ~100 |
+| The Kraken Sleeps | 3.00% | ~100 |
 | Climbing the Ladder | 2.00% | ~66 |
 | No Stone Unturned | 2.00% | ~66 |
 | Organ Grinder | 2.00% | ~66 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 691)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,316 (Ranked 147)  
+Progressed: 3,317 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 9 (0.27%) (Ranked 155)
 | 2023-07-18 | 3,301 | 9 |
 | 2023-07-19 | 3,307 | 9 |
 | 2023-07-20 | 3,314 | 9 |
-| 2023-07-21 | 3,316 | 9 |
+| 2023-07-21 | 3,317 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

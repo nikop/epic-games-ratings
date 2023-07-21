@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 54.00% | ~63 |
-| Press-ganged | 41.00% | ~48 |
+| Press-ganged | 40.00% | ~47 |
 | The Package | 23.00% | ~27 |
-| Randomized | 16.00% | ~19 |
-| Conquered | 16.00% | ~19 |
+| Randomized | 15.00% | ~18 |
+| Conquered | 15.00% | ~18 |
 | Scribe | 8.00% | ~9 |
 | Breached | 7.00% | ~8 |
 | Tactician | 6.00% | ~7 |
@@ -19,21 +19,21 @@
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
-| Quartermaster | 3.00% | ~3 |
-| Supercargo | 3.00% | ~3 |
-| Strategist | 3.00% | ~3 |
-| Potential Unlocked | 3.00% | ~3 |
-| The More the Merrier | 3.00% | ~3 |
-| Xevarian Gambit | 3.00% | ~3 |
-| Harbinger | 3.00% | ~3 |
-| The Voice of Hereafter | 3.00% | ~3 |
-| Been There | 3.00% | ~3 |
-| A Terrible Will | 3.00% | ~3 |
-| Spiritual Journey | 3.00% | ~3 |
-| Pilgrimage's End | 3.00% | ~3 |
-| Inquisitions of Discord | 3.00% | ~3 |
-| Merchant | 3.00% | ~3 |
-| Trouble at Fort Larius | 3.00% | ~3 |
+| Quartermaster | 3.00% | ~4 |
+| Supercargo | 3.00% | ~4 |
+| Strategist | 3.00% | ~4 |
+| Potential Unlocked | 3.00% | ~4 |
+| The More the Merrier | 3.00% | ~4 |
+| Xevarian Gambit | 3.00% | ~4 |
+| Harbinger | 3.00% | ~4 |
+| The Voice of Hereafter | 3.00% | ~4 |
+| Been There | 3.00% | ~4 |
+| A Terrible Will | 3.00% | ~4 |
+| Spiritual Journey | 3.00% | ~4 |
+| Pilgrimage's End | 3.00% | ~4 |
+| Inquisitions of Discord | 3.00% | ~4 |
+| Merchant | 3.00% | ~4 |
+| Trouble at Fort Larius | 3.00% | ~4 |
 | Bounty Hunter | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 296)  
+Progressed: 117 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-06-30 | 113 | 0 |
 | 2023-07-09 | 114 | 0 |
 | 2023-07-16 | 115 | 0 |
-| 2023-07-21 | 116 | 0 |
+| 2023-07-21 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

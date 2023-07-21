@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -353,6 +353,11 @@
       "Time": "2023-07-21T02:08:33.9739737+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T18:04:38.973969+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -362,9 +367,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -444,7 +449,7 @@
       "Name": "Quartermaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -452,7 +457,7 @@
       "Name": "Supercargo",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Carpenters",
@@ -516,7 +521,7 @@
       "Name": "Strategist",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -532,7 +537,7 @@
       "Name": "Potential Unlocked",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -564,7 +569,7 @@
       "Name": "The More the Merrier",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -588,15 +593,15 @@
       "Name": "Xevarian Gambit",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -620,7 +625,7 @@
       "Name": "Harbinger",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -692,7 +697,7 @@
       "Name": "The Voice of Hereafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -748,7 +753,7 @@
       "Name": "Been There",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Garrik",
@@ -876,7 +881,7 @@
       "Name": "A Terrible Will",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_OddJobs",
@@ -914,9 +919,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -964,7 +969,7 @@
       "Name": "Spiritual Journey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1052,7 +1057,7 @@
       "Name": "Pilgrimage\u0027s End",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_TheReturnOfTheWyrms",
@@ -1068,7 +1073,7 @@
       "Name": "Inquisitions of Discord",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1092,7 +1097,7 @@
       "Name": "Merchant",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -1108,7 +1113,7 @@
       "Name": "Trouble at Fort Larius",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1155,7 +1160,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:04:34.5206041+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:04:38.9739683+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.2363139+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:59:46.5107357+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:04:34.5207037+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:00:02.0523253+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:04:38.974195+00:00"
 }

@@ -6,40 +6,40 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,513 |
-| Tutti Eroi! | 55.00% | ~3,513 |
-| You Shall Not Pass | 53.00% | ~3,385 |
-| Avanti Savoia! | 47.00% | ~3,002 |
-| Mamma Mia! | 37.00% | ~2,363 |
-| Conrad von Hotzensocks | 36.00% | ~2,299 |
+| Peak Performance | 55.00% | ~3,514 |
+| Tutti Eroi! | 54.00% | ~3,450 |
+| You Shall Not Pass | 53.00% | ~3,386 |
+| Avanti Savoia! | 47.00% | ~3,003 |
+| Mamma Mia! | 37.00% | ~2,364 |
+| Conrad von Hotzensocks | 36.00% | ~2,300 |
 | Gabriele D'Annunzio | 33.00% | ~2,108 |
-| Silver Lining | 29.00% | ~1,852 |
+| Silver Lining | 29.00% | ~1,853 |
 | Aurelio Baruzzi | 23.00% | ~1,469 |
-| Veni Vidi Vici | 22.00% | ~1,405 |
-| Decimation | 21.00% | ~1,341 |
-| Donatello | 21.00% | ~1,341 |
-| Insubordination | 20.00% | ~1,277 |
-| The Italian Job | 20.00% | ~1,277 |
+| Veni Vidi Vici | 22.00% | ~1,406 |
+| Decimation | 21.00% | ~1,342 |
+| Donatello | 21.00% | ~1,342 |
+| Insubordination | 20.00% | ~1,278 |
+| The Italian Job | 20.00% | ~1,278 |
 | The Lion of the Isonzo | 18.00% | ~1,150 |
 | Ragazzi del '99 | 17.00% | ~1,086 |
 | Dirty Dozen | 14.00% | ~894 |
 | Luigi Cadorna | 14.00% | ~894 |
 | Thus With A Kiss | 14.00% | ~894 |
 | Uomo Universale | 14.00% | ~894 |
-| Shaken, Not Stirred | 13.00% | ~830 |
-| Die Bosniaken Kommen! | 12.00% | ~766 |
-| Machiavelli | 12.00% | ~766 |
+| Shaken, Not Stirred | 13.00% | ~831 |
+| Die Bosniaken Kommen! | 12.00% | ~767 |
+| Machiavelli | 12.00% | ~767 |
 | Dante's Inferno | 11.00% | ~703 |
 | The Devil's Paintbrush | 11.00% | ~703 |
 | I Have the High Ground | 10.00% | ~639 |
 | Millenial | 10.00% | ~639 |
 | The Show Must Go On | 9.00% | ~575 |
-| Tosca | 9.00% | ~575 |
+| Tosca | 8.00% | ~511 |
 | 12th Bottle of the Isonzo | 6.00% | ~383 |
 | Cercatore d'Oro | 6.00% | ~383 |
 | The Enlightment | 6.00% | ~383 |
 | Generalissimo | 5.00% | ~319 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~255 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~256 |
 | Ponte of No Return | 3.00% | ~192 |
 | Seeing Red | 3.00% | ~192 |
 | Soča Drag | 3.00% | ~192 |
@@ -48,11 +48,11 @@ Number of Ratings: 98  (23.09.2022)
 | Compagnia della Morte | 1.00% | ~64 |
 | Drop and Give Me 20 | 1.00% | ~64 |
 | Rome Wasn't Built In A Day | 1.00% | ~64 |
-| Malpractice | 0.90% | ~57 |
+| Malpractice | 0.90% | ~58 |
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,387 (Ranked 131)  
+Progressed: 6,389 (Ranked 131)  
 Completed: 8 (0.13%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 8 (0.13%) (Ranked 179)
 | 2023-07-18 | 6,370 | 8 |
 | 2023-07-19 | 6,371 | 8 |
 | 2023-07-20 | 6,376 | 8 |
-| 2023-07-21 | 6,387 | 8 |
+| 2023-07-21 | 6,389 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 257 (Ranked 347)  

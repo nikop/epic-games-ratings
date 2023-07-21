@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Greek Paganism | 0.10% | ~13 |
+| Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
 | Zoroastrianism | 0.10% | ~13 |
@@ -114,8 +115,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
 | Win a Single Player Game | 0.10% | ~13 |
+| Deposed Tribe | 0.10% | ~13 |
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
+| The Mythical Beast | 0.10% | ~13 |
 | Pilgrimage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
@@ -271,7 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
-| Hittite Paganism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
@@ -300,8 +302,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
-| Deposed Tribe | 0.00% | ~0 |
-| The Mythical Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,988 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  

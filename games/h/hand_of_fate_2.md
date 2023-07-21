@@ -6,34 +6,34 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,930 |
-| Apprentice | 58.00% | ~382,582 |
-| Close Shave | 25.00% | ~164,906 |
-| Mercenary | 23.00% | ~151,714 |
-| Ninja | 23.00% | ~151,714 |
-| Northern Scourge | 17.00% | ~112,136 |
+| The Fool | 72.00% | ~474,935 |
+| Apprentice | 58.00% | ~382,587 |
+| Close Shave | 25.00% | ~164,908 |
+| Mercenary | 23.00% | ~151,715 |
+| Ninja | 23.00% | ~151,715 |
+| Northern Scourge | 17.00% | ~112,137 |
 | Thief Bane | 14.00% | ~92,348 |
-| Master of Arms | 12.00% | ~79,155 |
-| Gambler | 10.00% | ~65,962 |
-| Dice Master | 10.00% | ~65,962 |
-| Swordsman | 9.00% | ~59,366 |
-| Knight | 8.00% | ~52,770 |
-| Cure for Corruption | 8.00% | ~52,770 |
-| Focused | 8.00% | ~52,770 |
-| Flurry of Fury | 8.00% | ~52,770 |
+| Master of Arms | 12.00% | ~79,156 |
+| Gambler | 10.00% | ~65,963 |
+| Dice Master | 10.00% | ~65,963 |
+| Swordsman | 9.00% | ~59,367 |
+| Knight | 8.00% | ~52,771 |
+| Cure for Corruption | 8.00% | ~52,771 |
+| Focused | 8.00% | ~52,771 |
+| Flurry of Fury | 8.00% | ~52,771 |
 | Long Shot | 7.00% | ~46,174 |
 | Devil Dice | 7.00% | ~46,174 |
 | Broken Heart | 7.00% | ~46,174 |
 | Adventurer | 6.00% | ~39,578 |
 | Empire's Bane | 6.00% | ~39,578 |
-| Jack of all Trades | 5.00% | ~32,981 |
-| Smithy | 5.00% | ~32,981 |
+| Jack of all Trades | 5.00% | ~32,982 |
+| Smithy | 5.00% | ~32,982 |
 | Leap of Faith | 3.00% | ~19,789 |
 | Combat Ready | 3.00% | ~19,789 |
 | Stuffed Potato | 3.00% | ~19,789 |
-| Card Sharp | 2.00% | ~13,192 |
-| Magician | 2.00% | ~13,192 |
-| Draknar's Bane | 2.00% | ~13,192 |
+| Card Sharp | 2.00% | ~13,193 |
+| Magician | 2.00% | ~13,193 |
+| Draknar's Bane | 2.00% | ~13,193 |
 | Protector of the Realm | 1.00% | ~6,596 |
 | Purgatorium | 1.00% | ~6,596 |
 | Cursed Soul | 1.00% | ~6,596 |
@@ -45,8 +45,8 @@ Number of Ratings: 780  (23.09.2022)
 | Hero | 0.60% | ~3,958 |
 | Rebel | 0.60% | ~3,958 |
 | Dungeon Master | 0.50% | ~3,298 |
-| Pilgrim | 0.40% | ~2,638 |
-| Smiths Honour | 0.40% | ~2,638 |
+| Pilgrim | 0.40% | ~2,639 |
+| Smiths Honour | 0.40% | ~2,639 |
 | Peaceful Coast | 0.30% | ~1,979 |
 | Money Bags | 0.20% | ~1,319 |
 | Grifter | 0.10% | ~660 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,625 (Ranked 22)  
+Progressed: 659,632 (Ranked 22)  
 Completed: 167 (0.03%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 167 (0.03%) (Ranked 213)
 | 2023-07-18 | 659,502 | 166 |
 | 2023-07-19 | 659,551 | 167 |
 | 2023-07-20 | 659,591 | 167 |
-| 2023-07-21 | 659,625 | 167 |
+| 2023-07-21 | 659,632 | 167 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 435)  
 Sum: 180 (Ranked 373)  

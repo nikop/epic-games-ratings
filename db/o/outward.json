@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,7 +496,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3073,
+  "EOS_Progressed": 3074,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -3276,6 +3276,11 @@
       "Time": "2023-07-21T17:06:52.0596473+00:00",
       "NumProgressed": 3073,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T18:07:00.4275066+00:00",
+      "NumProgressed": 3074,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3325,9 +3330,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1322
     },
     {
       "ID": "CrowdPleaser",
@@ -3351,7 +3356,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3471,7 +3476,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3551,7 +3556,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3607,7 +3612,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3622,15 +3627,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3073,
+      "Progressed": 3074,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:06:52.0596469+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:07:00.4275059+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:58:38.3884841+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:06:52.0596857+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:58:52.5581911+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:07:00.4275714+00:00"
 }

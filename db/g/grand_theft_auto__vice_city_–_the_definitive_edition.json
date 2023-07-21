@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9040,
+  "EOS_Progressed": 9042,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6592,6 +6592,11 @@
       "Time": "2023-07-21T17:04:27.000581+00:00",
       "NumProgressed": 9040,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-21T18:04:31.3451796+00:00",
+      "NumProgressed": 9042,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6683,7 +6688,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH12",
@@ -6691,7 +6696,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH13",
@@ -6707,7 +6712,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "ACH15",
@@ -6763,7 +6768,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "ACH22",
@@ -6819,7 +6824,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH29",
@@ -6874,7 +6879,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9040,
+      "Progressed": 9042,
       "Completed": 43
     }
   ],
@@ -6882,8 +6887,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-21T17:04:27.0005805+00:00",
+  "LastChanged_Achievements": "2023-07-21T18:04:31.345179+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:59:09.4629805+00:00",
-  "LastUpdate_Achievements": "2023-07-21T17:04:27.0006307+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:59:21.6006804+00:00",
+  "LastUpdate_Achievements": "2023-07-21T18:04:31.3452469+00:00"
 }

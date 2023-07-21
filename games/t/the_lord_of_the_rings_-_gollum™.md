@@ -22,7 +22,7 @@
 | He's so Annoying | 8.00% | ~38 |
 | Murderer | 8.00% | ~38 |
 | The Friend | 7.00% | ~33 |
-| Master of the Old Game | 5.00% | ~24 |
+| Master of the Old Game | 6.00% | ~28 |
 | Made a Song | 5.00% | ~24 |
 | So Silly! | 4.00% | ~19 |
 | So Tasty! | 4.00% | ~19 |

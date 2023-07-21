@@ -30,6 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~313 |
 | Hey, I Know You! | 3.00% | ~313 |
 | Get the Toad | 3.00% | ~313 |
+| The Lady of the Forest | 3.00% | ~277 |
 | Beware Still Water | 3.00% | ~277 |
 | Path of the Aeon | 2.00% | ~209 |
 | Path of the Trickster | 2.00% | ~209 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 2.00% | ~185 |
 | Hanged Man's Notes | 2.00% | ~185 |
 | Sarkoris Will Be Green | 2.00% | ~185 |
-| The Lady of the Forest | 2.00% | ~185 |
 | The Final Threshold | 1.00% | ~104 |
 | Path of the Demon | 1.00% | ~104 |
 | Abyssal Conspiracy | 1.00% | ~104 |
