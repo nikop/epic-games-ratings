@@ -13,8 +13,8 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 65.00% | ~3,074 |
 | Novice Researcher | 64.00% | ~3,027 |
 | Putting Food on the Table | 60.00% | ~2,837 |
+| Home Cooked Meal | 55.00% | ~2,601 |
 | Onward | 55.00% | ~2,601 |
-| Home Cooked Meal | 54.00% | ~2,554 |
 | The First Week | 53.00% | ~2,506 |
 | Beam Me Up | 50.00% | ~2,364 |
 | Feast or Famine | 50.00% | ~2,364 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~95 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,729 (Ranked 137)  
+Progressed: 4,729 (Ranked 138)  
 Completed: 10 (0.21%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |

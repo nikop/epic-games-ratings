@@ -10,23 +10,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
+| Ready | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
+| Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Mythology | 0.10% | ~13 |
+| Revelation | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
+| Five Cults | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
+| The Royal Couple | 0.10% | ~13 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -98,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Pioneer | 0.00% | ~0 |
-| Ready | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
@@ -248,7 +252,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.00% | ~0 |
 | Greek Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
-| Persian Paganism | 0.00% | ~0 |
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -263,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
 | Redemption | 0.00% | ~0 |
-| Revelation | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
@@ -297,11 +299,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
-| Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
-| The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,981 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  

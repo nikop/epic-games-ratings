@@ -2,7 +2,7 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 77,
@@ -307,8 +307,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:05:07.1106519+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:05:08.2371672+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.8710932+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:57:27.7855173+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:05:07.1106651+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:57:14.7151362+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:05:08.2371799+00:00"
 }

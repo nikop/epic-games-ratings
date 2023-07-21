@@ -49,7 +49,7 @@ Number of Ratings: 209  (23.09.2022)
 | Bouncy | 62.00% | ~1,337 |
 | Plumbster | 61.00% | ~1,316 |
 | Faster | 60.00% | ~1,294 |
-| Much Magic | 57.00% | ~1,229 |
+| Much Magic | 58.00% | ~1,251 |
 | Chest Detector | 55.00% | ~1,186 |
 | Flames | 52.00% | ~1,122 |
 | Momentum | 46.00% | ~992 |

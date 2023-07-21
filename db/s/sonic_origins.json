@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1501,9 +1501,9 @@
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic CD",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
@@ -1541,8 +1541,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:02:26.0133969+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:01:44.6188452+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:58:46.2498472+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:02:26.013439+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:58:28.389485+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:01:44.6189054+00:00"
 }

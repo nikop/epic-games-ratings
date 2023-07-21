@@ -5,7 +5,7 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 77,
@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 76,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
     {
       "Time": "2023-07-21T09:03:43.479992+00:00",
       "NumProgressed": 74,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T10:03:53.9179023+00:00",
+      "NumProgressed": 76,
       "NumCompleted": 0
     }
   ],
@@ -815,7 +820,7 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -832,15 +837,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 76,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-19T17:58:49.5067024+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:03:43.4799913+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:03:53.9179015+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.6006884+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:59:33.3975004+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:03:43.4800103+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:59:09.6186908+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:03:53.9179198+00:00"
 }

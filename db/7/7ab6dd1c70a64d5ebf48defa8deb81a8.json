@@ -194,9 +194,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_14",
@@ -274,9 +274,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_24",
@@ -354,9 +354,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_35",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:03:59.9673973+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:57:33.5376316+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:03:59.9674364+00:00"
+  "LastChanged_Achievements": "2023-07-21T10:04:08.9296806+00:00",
+  "LastUpdate_Ratings": "2023-07-21T09:57:21.2363703+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:04:08.9297106+00:00"
 }

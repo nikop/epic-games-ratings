@@ -7,10 +7,12 @@
 | The Mentor | 10.00% | ~2 |
 | Fashion Victim | 10.00% | ~2 |
 | Scholar | 10.00% | ~2 |
+| The Collector | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
+| Adventurer | 5.00% | ~1 |
 | Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
-| The Collector | 5.00% | ~1 |
+| Geared Up | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
@@ -20,7 +22,6 @@
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | Flawless Victory | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
-| Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | I Found It | 0.00% | ~0 |

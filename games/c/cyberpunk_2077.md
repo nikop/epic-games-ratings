@@ -6,14 +6,14 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,427 |
-| Right Back At Ya | 38.00% | ~329,386 |
-| The Lovers | 34.00% | ~294,713 |
-| Stanislavski's Method | 28.00% | ~242,705 |
-| The Wheel of Fortune | 26.00% | ~225,369 |
-| The Hermit | 24.00% | ~208,033 |
-| Christmas Tree Attack | 22.00% | ~190,697 |
-| True Soldier | 22.00% | ~190,697 |
+| The Fool | 68.00% | ~589,429 |
+| Right Back At Ya | 38.00% | ~329,387 |
+| The Lovers | 34.00% | ~294,714 |
+| Stanislavski's Method | 28.00% | ~242,706 |
+| The Wheel of Fortune | 26.00% | ~225,370 |
+| The Hermit | 24.00% | ~208,034 |
+| Christmas Tree Attack | 22.00% | ~190,698 |
+| True Soldier | 22.00% | ~190,698 |
 | The High Priestess | 21.00% | ~182,029 |
 | Legend of The Afterlife | 21.00% | ~182,029 |
 | Life of the Road | 20.00% | ~173,361 |
@@ -26,11 +26,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 14.00% | ~121,353 |
 | To Protect and Serve | 13.00% | ~112,685 |
 | Master Crafter | 13.00% | ~112,685 |
-| Two Heads, One Bullet | 11.00% | ~95,348 |
-| The Wandering Fool | 9.00% | ~78,012 |
-| The Quick and the Dead | 9.00% | ~78,012 |
-| Breathtaking | 8.00% | ~69,344 |
-| Ten out of Ten | 8.00% | ~69,344 |
+| Two Heads, One Bullet | 11.00% | ~95,349 |
+| The Wandering Fool | 9.00% | ~78,013 |
+| The Quick and the Dead | 9.00% | ~78,013 |
+| Breathtaking | 8.00% | ~69,345 |
+| Ten out of Ten | 8.00% | ~69,345 |
 | To Bad Decisions! | 6.00% | ~52,008 |
 | The Star | 6.00% | ~52,008 |
 | The Sun | 6.00% | ~52,008 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,668 |
 | Rough Landing | 0.50% | ~4,334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,804 (Ranked 14)  
+Progressed: 866,807 (Ranked 14)  
 Completed: 1,890 (0.22%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1,890 (0.22%) (Ranked 161)
 | 2023-07-18 | 866,435 | 1,883 |
 | 2023-07-19 | 866,596 | 1,885 |
 | 2023-07-20 | 866,759 | 1,888 |
-| 2023-07-21 | 866,804 | 1,890 |
+| 2023-07-21 | 866,807 | 1,890 |
 ## Awards
 Max (Character Customization): 73,685  (Ranked 9)  
 Sum: 193,559 (Ranked 13)  

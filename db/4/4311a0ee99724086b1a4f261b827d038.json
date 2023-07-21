@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -315,8 +315,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:02:45.1405997+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:03:20.6752164+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:57:13.3157633+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:02:45.1406265+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:57:03.0086873+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:03:20.6752433+00:00"
 }

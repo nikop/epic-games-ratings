@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14026,
+  "EOS_Progressed": 14027,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6499,6 +6499,11 @@
       "Time": "2023-07-21T09:03:36.8863192+00:00",
       "NumProgressed": 14026,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-21T10:03:48.2059958+00:00",
+      "NumProgressed": 14027,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6574,7 +6579,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "tpote_achievement_18",
@@ -6670,7 +6675,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "tpote_achievement_29",
@@ -6837,15 +6842,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14026,
+      "Progressed": 14027,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:03:36.8863184+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:03:48.2059952+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:01:34.9387297+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:03:36.8864031+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:00:59.0441457+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:03:48.2060777+00:00"
 }

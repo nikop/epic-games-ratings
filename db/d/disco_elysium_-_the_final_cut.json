@@ -1205,9 +1205,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123483,
+  "EOS_Progressed": 123492,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10020,6 +10020,11 @@
       "Time": "2023-07-21T09:03:12.4620529+00:00",
       "NumProgressed": 123483,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-21T10:03:26.5882623+00:00",
+      "NumProgressed": 123492,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10055,7 +10060,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "ACH_COP_ART",
@@ -10063,7 +10068,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22227
+      "UsersEstimate": 22229
     },
     {
       "ID": "ACH_COP_BAD",
@@ -10087,7 +10092,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29636
+      "UsersEstimate": 29638
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -10111,7 +10116,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34575
+      "UsersEstimate": 34578
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -10127,7 +10132,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -10135,7 +10140,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19757
+      "UsersEstimate": 19759
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -10143,7 +10148,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24697
+      "UsersEstimate": 24698
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -10159,7 +10164,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16053
+      "UsersEstimate": 16054
     },
     {
       "ID": "ACH_COP_STAR",
@@ -10167,7 +10172,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18522
+      "UsersEstimate": 18524
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -10175,7 +10180,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "ACH_CUNO",
@@ -10191,7 +10196,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11113
+      "UsersEstimate": 11114
     },
     {
       "ID": "ACH_GLUTEN",
@@ -10223,7 +10228,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7409
+      "UsersEstimate": 7410
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -10247,7 +10252,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17289
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -10255,7 +10260,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -10311,7 +10316,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16053
+      "UsersEstimate": 16054
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -10327,7 +10332,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -10350,15 +10355,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123483,
+      "Progressed": 123492,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-19T13:59:56.6664424+00:00",
-  "LastChanged_Achievements": "2023-07-21T09:03:12.4620522+00:00",
+  "LastChanged_Achievements": "2023-07-21T10:03:26.5882613+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-21T09:00:30.5986363+00:00",
-  "LastUpdate_Achievements": "2023-07-21T09:03:12.4621445+00:00"
+  "LastUpdate_Ratings": "2023-07-21T10:00:01.1449263+00:00",
+  "LastUpdate_Achievements": "2023-07-21T10:03:26.588357+00:00"
 }
