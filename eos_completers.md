@@ -19,16 +19,16 @@
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.34% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 20 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.03% |
+| 20 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.96% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.56% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
+| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
 | 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
@@ -55,7 +55,7 @@
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.50% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.49% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.33% |
+| 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.32% |
 | 57 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 58 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 59 | [The Complex](games/t/the_complex.md) | 3.07% |
@@ -75,7 +75,7 @@
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 76 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 76 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.04% |
 | 78 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.98% |
 | 79 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -357,6 +357,7 @@
 | 238 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
 | 238 | [Life After Death](games/l/life_after_death.md) | 0.00% |
 | 238 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
+| 238 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 0.00% |
 | 238 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
 | 238 | [Loretta](games/l/loretta.md) | 0.00% |
 | 238 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.00% |
