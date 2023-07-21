@@ -13,9 +13,9 @@
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.39% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 13.33% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.60% |
-| 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.60% |
+| 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
+| 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.64% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
@@ -24,8 +24,8 @@
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.38% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.89% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
-| 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
+| 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.35% |
@@ -115,8 +115,8 @@
 | 113 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 114 | [Haven](games/h/haven.md) | 0.68% |
 | 115 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
-| 115 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
-| 117 | [Them and Us](games/t/them_and_us.md) | 0.65% |
+| 116 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
+| 116 | [Them and Us](games/t/them_and_us.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 118 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 120 | [Train Valley](games/t/train_valley.md) | 0.60% |

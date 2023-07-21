@@ -2,12 +2,12 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,513,025 | 4.29 | 781 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 478,399 | 4.50 | 552 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,439 | 4.68 | 239 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,502 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 200,917 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 187,487 | 4.19 | 847 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 160,502 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,539 | 4.52 | 519 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,219 | 4.69 | 216 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,271 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,685 | 4.62 | 347 |
 | 10 | [VALORANT](games/v/valorant.md) | 61,451 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,182 | 4.58 | 424 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 6,288 | 4.82 | 65 |
 | 54 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,233 | 4.58 | 424 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,957 | 4.64 | 311 |
-| 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,930 | 4.79 | 91 |
+| 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,933 | 4.79 | 91 |
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,813 | 4.66 | 272 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,652 | 4.82 | 65 |
 | 59 | [Prey](games/p/prey.md) | 5,613 | 4.62 | 347 |
@@ -85,7 +85,7 @@
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,550 | 4.57 | 440 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,491 | 4.47 | 600 |
 | 85 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,449 | 4.46 | 609 |
-| 86 | [Paladins](games/p/paladins.md) | 3,413 | 4.34 | 749 |
+| 86 | [Paladins](games/p/paladins.md) | 3,421 | 4.34 | 749 |
 | 87 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,334 | 4.68 | 239 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,290 | 4.68 | 239 |
 | 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,278 | 4.76 | 119 |
@@ -102,7 +102,7 @@
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,459 | 4.10 | 888 |
 | 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,454 | 4.18 | 856 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,433 | 4.80 | 82 |
-| 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,357 | 4.78 | 100 |
+| 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,361 | 4.78 | 100 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,237 | 4.67 | 259 |
 | 105 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,189 | 4.41 | 673 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,181 | 4.63 | 330 |
@@ -299,8 +299,8 @@
 | 297 | [Night in the Woods](games/n/night_in_the_woods.md) | 140 | 4.72 | 168 |
 | 298 | [Predecessor](games/p/predecessor.md) | 137 | 4.43 | 655 |
 | 298 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 137 | 4.28 | 791 |
-| 300 | [Encased](games/e/encased.md) | 136 | 4.34 | 749 |
-| 300 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 136 | 4.85 | 41 |
+| 298 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 137 | 4.85 | 41 |
+| 301 | [Encased](games/e/encased.md) | 136 | 4.34 | 749 |
 | 302 | [Atomicrops](games/a/atomicrops.md) | 135 | 4.88 | 19 |
 | 303 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 539 |
 | 304 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 365 |

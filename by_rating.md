@@ -44,7 +44,7 @@
 | 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,526 | 62 |
 | 41 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 369 | 218 |
 | 41 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 257 |
-| 41 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 136 | 300 |
+| 41 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 137 | 298 |
 | 41 | [Subnautica](games/s/subnautica.md) | 4.85 | 677 | 166 |
 | 41 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 505 |
 | 41 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 505 |
@@ -96,14 +96,14 @@
 | 91 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 505 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 729 | 161 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,353 | 125 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,930 | 56 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,933 | 56 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 215 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 505 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,512 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 505 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 735 | 159 |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,357 | 103 |
+| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,361 | 103 |
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 505 |
 | 100 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 505 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 924 | 147 |
@@ -215,7 +215,7 @@
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,698 | 116 |
 | 197 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
-| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,219 | 8 |
+| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,271 | 8 |
 | 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 505 |
 | 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 505 |
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,568 | 61 |
@@ -246,7 +246,7 @@
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,287 | 47 |
 | 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,882 | 79 |
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,719 | 94 |
-| 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,439 | 3 |
+| 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,502 | 3 |
 | 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 200,917 | 4 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 205 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 181 |
@@ -751,9 +751,9 @@
 | 749 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 466 |
 | 749 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 505 |
 | 749 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 505 |
-| 749 | [Encased](games/e/encased.md) | 4.34 | 136 | 300 |
+| 749 | [Encased](games/e/encased.md) | 4.34 | 136 | 301 |
 | 749 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 505 |
-| 749 | [Paladins](games/p/paladins.md) | 4.34 | 3,413 | 86 |
+| 749 | [Paladins](games/p/paladins.md) | 4.34 | 3,421 | 86 |
 | 749 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 505 |
 | 749 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 247 | 247 |
 | 757 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 505 |

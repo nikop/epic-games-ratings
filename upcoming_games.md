@@ -349,6 +349,7 @@
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2099-01-01 | - |  | - | - |
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | - |  | - | - |
+| [The Bunny Graveyard](games/t/the_bunny_graveyard.md) | 2099-01-01 | - |  | - | 0 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2099-01-01 | 36 (1,000 XP) | 0 | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2099-01-01 | 37 (1,000 XP) | 0 | - | - |
