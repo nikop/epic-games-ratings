@@ -15,15 +15,15 @@
 | It's a Party | 40.00% | ~2 |
 | Bloody Vengeance | 20.00% | ~1 |
 | Glorious Loot | 20.00% | ~1 |
+| Good Fortune | 20.00% | ~1 |
 | Victorious | 20.00% | ~1 |
 | Heroes of Neu Selea | 20.00% | ~1 |
+| Real Ultimate Power | 20.00% | ~1 |
+| Protector of the People | 20.00% | ~1 |
+| Secret Admirer | 20.00% | ~1 |
 | Classy | 20.00% | ~1 |
-| Good Fortune | 0.00% | ~0 |
+| The Hordes of Mercy | 20.00% | ~1 |
 | Eternal Darkness | 0.00% | ~0 |
-| Real Ultimate Power | 0.00% | ~0 |
-| Protector of the People | 0.00% | ~0 |
-| Secret Admirer | 0.00% | ~0 |
-| The Hordes of Mercy | 0.00% | ~0 |
 | Thinning the Horde | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 433)  

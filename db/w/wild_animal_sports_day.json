@@ -2,10 +2,10 @@
   "ID": "088a84adb8e34fd881e77cd4f3c23ba8",
   "Name": "Wild Animal Sports Day",
   "ProductSlug": "wild-animal-sports-day-2bd1c2",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
     "PcReleaseDate": "2018-08-18T09:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-07-18T23:06:13.1135908+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T21:05:36.959948+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -83,7 +88,7 @@
       "ID": "DARTS_PRO",
       "SetID": "9fjm696",
       "Name": "Darts Pro",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -99,7 +104,7 @@
       "ID": "GYMNASTICS_PRO",
       "SetID": "9fjm696",
       "Name": "Gymnastics Pro",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -107,7 +112,7 @@
       "ID": "HURDLES_PRO",
       "SetID": "9fjm696",
       "Name": "Hurdles Pro",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -115,7 +120,7 @@
       "ID": "POLE_VAULT_PRO",
       "SetID": "9fjm696",
       "Name": "Pole Vault Pro",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -123,7 +128,7 @@
       "ID": "SKIING_PRO",
       "SetID": "9fjm696",
       "Name": "Skiing Pro",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -131,7 +136,7 @@
       "ID": "TENNIS_PRO",
       "SetID": "9fjm696",
       "Name": "Tennis Pro",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -147,7 +152,7 @@
       "ID": "UNLOCKED_A_MOVIE",
       "SetID": "9fjm696",
       "Name": "Watched a movie",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -164,13 +169,13 @@
     {
       "ID": "9fjm696",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:05:04.5959793+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:05:36.9599476+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:46.721723+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:00:12.5103436+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:05:04.5959958+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:01:22.7169591+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:05:36.9599542+00:00"
 }

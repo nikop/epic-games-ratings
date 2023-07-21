@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2981,
+  "EOS_Progressed": 2982,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
@@ -3620,6 +3620,11 @@
       "Time": "2023-07-21T19:06:44.8631672+00:00",
       "NumProgressed": 2981,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-21T21:07:03.0961565+00:00",
+      "NumProgressed": 2982,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 24,
@@ -3631,7 +3636,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "10",
@@ -3639,7 +3644,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "11",
@@ -3671,7 +3676,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "15",
@@ -3775,7 +3780,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "5",
@@ -3807,7 +3812,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "9",
@@ -3822,13 +3827,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2981,
+      "Progressed": 2982,
       "Completed": 104
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:06:07.2976924+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:07:03.096156+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:59:27.9993207+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:06:07.297763+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:00:14.564248+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:07:03.0961832+00:00"
 }

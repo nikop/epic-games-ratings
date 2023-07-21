@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -262,6 +262,11 @@
       "Time": "2023-07-01T13:15:12.9996214+00:00",
       "NumProgressed": 394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T21:06:17.0370356+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -313,7 +318,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -345,7 +350,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Award_EarlyBird",
@@ -407,9 +412,9 @@
       "ID": "Award_HazardousDuty",
       "SetID": "9ojec6n",
       "Name": "Hazardous Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "Award_HeavyMetal",
@@ -425,7 +430,7 @@
       "Name": "Hull King",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Award_IntelKing",
@@ -481,7 +486,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_PerkKing",
@@ -537,7 +542,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -617,14 +622,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 1
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:05:33.4736777+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:06:17.0370352+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:01.6302078+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:45.4786578+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:05:33.4737442+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:59:15.3247549+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:06:17.0370649+00:00"
 }

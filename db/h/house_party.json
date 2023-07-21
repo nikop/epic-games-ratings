@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5791,
+  "EOS_Progressed": 5793,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3511,6 +3511,11 @@
       "Time": "2023-07-21T20:06:18.8172926+00:00",
       "NumProgressed": 5791,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T21:07:19.9056455+00:00",
+      "NumProgressed": 5793,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3528,9 +3533,9 @@
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "Amy_Scav",
@@ -4073,21 +4078,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2830,
+      "Progressed": 2832,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5791,
+      "Progressed": 5793,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:06:18.8172919+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:07:19.9056442+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:57:55.9726034+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:06:18.817389+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:57:59.7835232+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:07:19.9057149+00:00"
 }

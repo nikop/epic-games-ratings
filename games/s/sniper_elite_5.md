@@ -28,6 +28,7 @@ Rating: 4.40 (Ranked 691)
 | Explosive Efficiency | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | Close Quarters | 2.00% | ~66 |
+| Snake in the Grass | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Enemy at the Gates | 1.00% | ~33 |
@@ -36,7 +37,6 @@ Rating: 4.40 (Ranked 691)
 | Precision Is Key | 1.00% | ~33 |
 | Rigged to Blow | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
-| Snake in the Grass | 1.00% | ~33 |
 | The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |

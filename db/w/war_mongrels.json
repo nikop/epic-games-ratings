@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -1148,6 +1148,11 @@
       "Time": "2023-07-21T12:04:51.6819958+00:00",
       "NumProgressed": 423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T21:05:41.4449434+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1261,9 +1266,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_COLL_20",
@@ -1277,9 +1282,9 @@
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1311,7 +1316,7 @@
       "Name": "Collectibles of Chapter IV",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLL_CH05",
@@ -1495,7 +1500,7 @@
       "Name": "Helping Hand",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1541,9 +1546,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1630,15 +1635,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:05:07.7859926+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:05:41.4449429+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:24.6369841+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:02.5024249+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:05:07.786098+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:58:10.1286194+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:05:41.4449894+00:00"
 }

@@ -4,63 +4,63 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~136 |
-| Starting Skyward | 51.00% | ~120 |
-| Grime is Not Good | 45.00% | ~106 |
+| In the Black | 57.00% | ~135 |
+| Starting Skyward | 51.00% | ~121 |
+| Grime is Not Good | 44.00% | ~104 |
 | Campaign Launch | 39.00% | ~92 |
-| Floor Galore | 38.00% | ~89 |
-| Dinner Dash | 37.00% | ~87 |
-| Need a Consult | 35.00% | ~82 |
-| It's Technical | 34.00% | ~80 |
+| Floor Galore | 38.00% | ~90 |
+| Dinner Dash | 37.00% | ~88 |
+| Need a Consult | 35.00% | ~83 |
+| It's Technical | 34.00% | ~81 |
 | Upgrade Unlock | 33.00% | ~78 |
-| Delegate Maintenance | 32.00% | ~75 |
+| Delegate Maintenance | 32.00% | ~76 |
 | Proper Walls | 31.00% | ~73 |
 | Destination Destiny | 28.00% | ~66 |
-| Happy Tenants | 26.00% | ~61 |
-| Your Prestige is Rising | 24.00% | ~56 |
-| Smooth Service | 24.00% | ~56 |
-| Potent Potables | 23.00% | ~54 |
-| Retail Revenue | 23.00% | ~54 |
+| Happy Tenants | 25.00% | ~59 |
+| Your Prestige is Rising | 24.00% | ~57 |
+| Smooth Service | 24.00% | ~57 |
+| Potent Potables | 23.00% | ~55 |
+| Retail Revenue | 23.00% | ~55 |
 | Lux Living | 22.00% | ~52 |
 | Leveled Up Shops | 22.00% | ~52 |
-| People Mover | 21.00% | ~49 |
+| People Mover | 21.00% | ~50 |
 | Don't Feel a Loan | 20.00% | ~47 |
 | Emporium Empire | 20.00% | ~47 |
 | Get Electrified | 20.00% | ~47 |
 | Artfully Done | 19.00% | ~45 |
 | Rehab Expert | 19.00% | ~45 |
 | Tasty Profits | 19.00% | ~45 |
-| We Don't Need No Education | 18.00% | ~42 |
-| Under One Roof | 17.00% | ~40 |
-| Established Fame | 17.00% | ~40 |
-| Cashflow Chief | 17.00% | ~40 |
-| Starred Dining | 15.00% | ~35 |
-| Boutique Benefits | 15.00% | ~35 |
-| Terrifically Trashed | 15.00% | ~35 |
+| We Don't Need No Education | 18.00% | ~43 |
+| Under One Roof | 16.00% | ~38 |
+| Established Fame | 16.00% | ~38 |
+| Cashflow Chief | 16.00% | ~38 |
+| Starred Dining | 15.00% | ~36 |
+| Boutique Benefits | 15.00% | ~36 |
+| Terrifically Trashed | 15.00% | ~36 |
 | Thrilled Tenants | 14.00% | ~33 |
 | Smooth Operator | 13.00% | ~31 |
 | Swimming in Surplus | 13.00% | ~31 |
 | 28 Days Later | 12.00% | ~28 |
 | Master of Puppets | 11.00% | ~26 |
-| First 100 Days | 9.00% | ~21 |
-| Aestheticly Pleased | 9.00% | ~21 |
 | Plaza Plan | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
-| Revenue Royalty | 9.00% | ~21 |
 | Phoning It In | 9.00% | ~21 |
+| First 100 Days | 8.00% | ~19 |
+| Aestheticly Pleased | 8.00% | ~19 |
 | Meet Me at HQ | 8.00% | ~19 |
 | Maximum Reuse | 8.00% | ~19 |
+| Revenue Royalty | 8.00% | ~19 |
 | Pipe Up | 8.00% | ~19 |
-| Careful Constructor | 7.00% | ~16 |
-| Water Features | 7.00% | ~16 |
-| Sky High Stature | 7.00% | ~16 |
-| Profound Proceeds | 7.00% | ~16 |
-| It's a Gas | 7.00% | ~16 |
-| Meet ADA/360 | 6.00% | ~14 |
-| Penthouse in the Sky | 6.00% | ~14 |
+| Careful Constructor | 7.00% | ~17 |
+| Water Features | 7.00% | ~17 |
+| Sky High Stature | 7.00% | ~17 |
+| Profound Proceeds | 7.00% | ~17 |
+| It's a Gas | 7.00% | ~17 |
 | Baron of Business | 6.00% | ~14 |
 | I'm Busy Ruling | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
+| Meet ADA/360 | 5.00% | ~12 |
+| Penthouse in the Sky | 5.00% | ~12 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |
 | Three of a Kind | 4.00% | ~9 |
@@ -81,11 +81,11 @@
 | Scenario Success | 2.00% | ~5 |
 | Double Down | 1.00% | ~2 |
 | Lofty Landlord | 1.00% | ~2 |
-| Artistic Largesse | 0.90% | ~2 |
-| High Hand | 0.90% | ~2 |
-| Poker Face | 0.90% | ~2 |
-| Such Great Heights | 0.90% | ~2 |
-| Scenario Master | 0.90% | ~2 |
+| Artistic Largesse | 0.80% | ~2 |
+| High Hand | 0.80% | ~2 |
+| Poker Face | 0.80% | ~2 |
+| Such Great Heights | 0.80% | ~2 |
+| Scenario Master | 0.80% | ~2 |
 | Infrastructure Info | 0.40% | ~1 |
 | Statue Stature | 0.00% | ~0 |
 | Commercial Campaigns | 0.00% | ~0 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 257)  
+Progressed: 237 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-06 | 230 | 0 |
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
-| 2023-07-21 | 235 | 0 |
+| 2023-07-21 | 237 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 18,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5268,9 +5268,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711055,
+  "EOS_Progressed": 711060,
   "EOS_Completed": 12829,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13868,6 +13868,11 @@
       "Time": "2023-07-21T20:06:52.6205361+00:00",
       "NumProgressed": 711055,
       "NumCompleted": 12829
+    },
+    {
+      "Time": "2023-07-21T21:08:06.937833+00:00",
+      "NumProgressed": 711060,
+      "NumCompleted": 12829
     }
   ],
   "TotalAchievements": 50,
@@ -14039,7 +14044,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6399
+      "UsersEstimate": 6400
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -14111,7 +14116,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6399
+      "UsersEstimate": 6400
     },
     {
       "ID": "31_ComboHigh",
@@ -14247,7 +14252,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -14271,28 +14276,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20356,
+      "Progressed": 20361,
       "Completed": 10430
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711055,
+      "Progressed": 711060,
       "Completed": 12829
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:06:52.6205353+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:08:06.9378326+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:59:30.2747058+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:06:52.6207336+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:00:17.8229298+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:08:06.9379005+00:00"
 }

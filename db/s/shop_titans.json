@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5206,9 +5206,9 @@
       "Count": 3710
     }
   ],
-  "EOS_Progressed": 132975,
+  "EOS_Progressed": 132977,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14566,6 +14566,11 @@
       "Time": "2023-07-21T20:04:09.7388044+00:00",
       "NumProgressed": 132975,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-07-21T21:04:22.3801108+00:00",
+      "NumProgressed": 132977,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 112,
@@ -14599,9 +14604,9 @@
       "ID": "advlevel04",
       "SetID": "anfd17p",
       "Name": "Cream of the Crop",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "advlevel05",
@@ -14639,9 +14644,9 @@
       "ID": "ascend03",
       "SetID": "anfd17p",
       "Name": "Constellated",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "ashley_a",
@@ -14671,9 +14676,9 @@
       "ID": "bigsale03",
       "SetID": "anfd17p",
       "Name": "The King\u0027s Caprice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "blueprint01",
@@ -14703,9 +14708,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "boss01",
@@ -14719,9 +14724,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "boss03",
@@ -14791,9 +14796,9 @@
       "ID": "collection04",
       "SetID": "anfd17p",
       "Name": "The Free Encyclopedia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "collection05",
@@ -14815,9 +14820,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "commonres03",
@@ -14831,17 +14836,17 @@
       "ID": "commonres04",
       "SetID": "anfd17p",
       "Name": "Fillin\u0027 the Bin",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "craft01",
       "SetID": "anfd17p",
       "Name": "Disintermediation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "craft02",
@@ -15047,9 +15052,9 @@
       "ID": "gold01",
       "SetID": "anfd17p",
       "Name": "Tinkle of Coins",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "gold02",
@@ -15095,9 +15100,9 @@
       "ID": "help01",
       "SetID": "anfd17p",
       "Name": "Helping Hand",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "help02",
@@ -15127,33 +15132,33 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "jackslot02",
       "SetID": "anfd17p",
       "Name": "Jackpot!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "legenchant01",
       "SetID": "anfd17p",
       "Name": "Item of Renown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "level01",
@@ -15167,9 +15172,9 @@
       "ID": "level02",
       "SetID": "anfd17p",
       "Name": "Accomplished Merchant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "level03",
@@ -15247,9 +15252,9 @@
       "ID": "master03",
       "SetID": "anfd17p",
       "Name": "Seasoned Journeyman",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "master04",
@@ -15295,9 +15300,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "quest03",
@@ -15351,9 +15356,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "sell02",
@@ -15415,9 +15420,9 @@
       "ID": "uncommonres01",
       "SetID": "anfd17p",
       "Name": "Special Ingredient",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "uncommonres02",
@@ -15447,9 +15452,9 @@
       "ID": "workers02",
       "SetID": "anfd17p",
       "Name": "Arcane Industries",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "workers03",
@@ -15472,15 +15477,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 132975,
+      "Progressed": 132977,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-21T11:58:36.4964329+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:04:09.7388035+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:04:22.3801103+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.2399426+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:55.0026069+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:04:09.7391966+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:59:28.9729082+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:04:22.3802795+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,7 +93,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -433,6 +433,11 @@
       "Time": "2023-07-21T20:03:55.9205594+00:00",
       "NumProgressed": 338,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T21:04:03.1334737+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -460,7 +465,7 @@
       "Name": "Philatelist",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "04_tycoon",
@@ -476,7 +481,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "06_living",
@@ -484,7 +489,7 @@
       "Name": "Living it large!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "07_europe",
@@ -500,7 +505,7 @@
       "Name": "America",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "09_russia",
@@ -516,7 +521,7 @@
       "Name": "Japan",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "11_germany",
@@ -532,7 +537,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "13_bunkrupt",
@@ -580,7 +585,7 @@
       "Name": "Foreman",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "19_justintime",
@@ -612,15 +617,15 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 247
     },
     {
       "ID": "24_mega",
@@ -755,15 +760,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:03:55.9205585+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:04:03.1334732+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:12.5178077+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:03:55.9206113+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:58:25.6063319+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:04:03.1334973+00:00"
 }

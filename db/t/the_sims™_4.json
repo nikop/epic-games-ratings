@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -4364,10 +4364,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3447,
       "NumberOfAwardsMax": 559
+    },
+    {
+      "Time": "2023-07-21T20:58:21.8732458+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3457,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3447,
+  "NumberOfAwards": 3457,
   "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4393,7 +4399,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 314
+      "Count": 322
     },
     {
       "Text": "This game is Educational",
@@ -4423,7 +4429,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 268
+      "Count": 270
     },
     {
       "Text": "This game is Relaxing",
@@ -4450,8 +4456,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-21T16:58:17.8201784+00:00",
+  "LastChanged": "2023-07-21T20:58:21.8732457+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.0017528+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:09.3388818+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:01:04.6945129+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:58:21.8732462+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:02:35.7002748+00:00"
 }

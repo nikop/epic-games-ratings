@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2550,
+  "EOS_Progressed": 2551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3226,6 +3226,11 @@
       "Time": "2023-07-21T19:03:27.311066+00:00",
       "NumProgressed": 2550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T21:03:31.4341802+00:00",
+      "NumProgressed": 2551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3373,7 +3378,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -3445,7 +3450,7 @@
       "Name": "Pew-Pew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -3613,22 +3618,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2550,
+      "Progressed": 2551,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:03:32.6602498+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:03:31.4341797+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:59:36.6555599+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:03:32.6603378+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:00:27.0867935+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:03:31.434225+00:00"
 }

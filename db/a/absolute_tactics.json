@@ -4,8 +4,8 @@
   "ProductSlug": "absolute-tactics-ca91e4",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -123,9 +123,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0008",
       "SetID": "9jb1eoe",
       "Name": "Good Fortune",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0009",
@@ -187,25 +187,25 @@
       "ID": "AT_ACHIEVEMENT_NAME_0016",
       "SetID": "9jb1eoe",
       "Name": "Real Ultimate Power",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0017",
       "SetID": "9jb1eoe",
       "Name": "Protector of the People",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0018",
       "SetID": "9jb1eoe",
       "Name": "Secret Admirer",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0019",
@@ -219,9 +219,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0020",
       "SetID": "9jb1eoe",
       "Name": "The Hordes of Mercy",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0021",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:06:43.810325+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:07:55.2731539+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.0698267+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:00:31.7420095+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:06:43.8103511+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:01:48.5116279+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:07:55.2731752+00:00"
 }

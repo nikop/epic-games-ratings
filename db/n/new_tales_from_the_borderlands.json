@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3482,
+  "EOS_Progressed": 3483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -773,6 +773,11 @@
       "Time": "2023-07-21T19:03:49.8009243+00:00",
       "NumProgressed": 3482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T21:03:56.1395941+00:00",
+      "NumProgressed": 3483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -816,7 +821,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -824,7 +829,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -848,7 +853,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -896,7 +901,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -904,7 +909,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -912,7 +917,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -920,7 +925,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -960,7 +965,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -991,7 +996,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3482,
+      "Progressed": 3483,
       "Completed": 0
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:03:50.9902919+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:03:56.1395926+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:59:51.4232347+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:03:50.9903205+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:00:47.4791719+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:03:56.1396101+00:00"
 }

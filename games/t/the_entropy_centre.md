@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~201 |
-| Wake Up | 80.00% | ~181 |
-| Time Gates | 65.00% | ~147 |
-| Command Centre | 50.00% | ~113 |
-| This is a Wall | 43.00% | ~97 |
-| Extendable Bridges | 40.00% | ~90 |
+| It's Rewind Time | 89.00% | ~202 |
+| Wake Up | 80.00% | ~182 |
+| Time Gates | 64.00% | ~145 |
+| Command Centre | 50.00% | ~114 |
+| This is a Wall | 43.00% | ~98 |
+| Extendable Bridges | 40.00% | ~91 |
 | Man's Best Friend | 37.00% | ~84 |
 | Chain Reaction | 37.00% | ~84 |
-| 48 Attempts | 36.00% | ~81 |
+| 48 Attempts | 36.00% | ~82 |
 | Handyman | 24.00% | ~54 |
 | No Time To Relax | 20.00% | ~45 |
 | Bad Robots | 18.00% | ~41 |
 | Running Boots | 16.00% | ~36 |
 | Archivist | 16.00% | ~36 |
 | Fashionista | 16.00% | ~36 |
+| Looper | 15.00% | ~34 |
 | Kaboom! | 14.00% | ~32 |
-| Looper | 14.00% | ~32 |
-| So Close | 12.00% | ~27 |
 | All Alone | 12.00% | ~27 |
-| Cataclysm | 12.00% | ~27 |
 | Reunited | 12.00% | ~27 |
+| So Close | 11.00% | ~25 |
 | Transformers, cubes in disguise | 11.00% | ~25 |
 | Final Charge | 11.00% | ~25 |
+| Cataclysm | 11.00% | ~25 |
 | Summer Luvin' | 4.00% | ~9 |
 | You Are Terminated | 1.00% | ~2 |
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 262)  
+Progressed: 227 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-14 | 222 | 0 |
 | 2023-07-15 | 223 | 0 |
 | 2023-07-19 | 225 | 0 |
-| 2023-07-21 | 226 | 0 |
+| 2023-07-21 | 227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

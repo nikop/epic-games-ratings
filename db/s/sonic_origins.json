@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -271,7 +271,7 @@
   ],
   "EOS_Progressed": 322,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 10.56,
   "EosHistory": [
@@ -1369,9 +1369,9 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 235
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -1561,8 +1561,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-21T19:02:19.6269431+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:02:22.2648471+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:21.4671604+00:00",
-  "LastUpdate_Achievements": "2023-07-21T19:02:19.6269986+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:58:40.1097799+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:02:22.264884+00:00"
 }

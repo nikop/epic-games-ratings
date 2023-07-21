@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246945,
+  "EOS_Progressed": 246948,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
@@ -8994,6 +8994,11 @@
       "Time": "2023-07-21T20:03:14.3872134+00:00",
       "NumProgressed": 246945,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T21:02:46.4472384+00:00",
+      "NumProgressed": 246948,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9029,7 +9034,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51858
+      "UsersEstimate": 51859
     },
     {
       "ID": "blotbuster",
@@ -9101,7 +9106,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44450
+      "UsersEstimate": 44451
     },
     {
       "ID": "curator",
@@ -9109,7 +9114,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49389
+      "UsersEstimate": 49390
     },
     {
       "ID": "didYourTime",
@@ -9181,7 +9186,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130881
+      "UsersEstimate": 130882
     },
     {
       "ID": "indegestible",
@@ -9237,7 +9242,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34572
+      "UsersEstimate": 34573
     },
     {
       "ID": "myFirstRunbow",
@@ -9245,7 +9250,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123472
+      "UsersEstimate": 123474
     },
     {
       "ID": "notScared",
@@ -9309,7 +9314,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51858
+      "UsersEstimate": 51859
     },
     {
       "ID": "thunderstruck",
@@ -9365,14 +9370,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39511
+      "UsersEstimate": 39512
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246945,
+      "Progressed": 246948,
       "Completed": 3
     }
   ],
@@ -9380,8 +9385,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:03:14.3872126+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:02:46.447238+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.7299608+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:59:42.0421135+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:03:14.3873962+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:00:31.3346545+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:02:46.4473108+00:00"
 }

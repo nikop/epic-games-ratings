@@ -3,9 +3,9 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 208,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.44,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -193,6 +193,11 @@
       "Time": "2023-07-19T20:02:11.0757041+00:00",
       "NumProgressed": 208,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T21:02:26.2658383+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -340,15 +345,15 @@
       "ID": "a3kkelb",
       "IsBase": true,
       "Progressed": 208,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-11-19T20:57:23.939293+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-07-21T20:00:57.760946+00:00",
+  "LastChanged_Achievements": "2023-07-21T21:02:26.2658378+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.5366451+00:00",
-  "LastUpdate_Ratings": "2023-07-21T19:58:01.2077161+00:00",
-  "LastUpdate_Achievements": "2023-07-21T20:00:57.7609783+00:00"
+  "LastUpdate_Ratings": "2023-07-21T20:58:07.7806618+00:00",
+  "LastUpdate_Achievements": "2023-07-21T21:02:26.2658523+00:00"
 }

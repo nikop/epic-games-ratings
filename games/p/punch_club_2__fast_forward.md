@@ -4,48 +4,49 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 98.00% | ~43 |
-| Your first fight | 93.00% | ~41 |
-| Good Person Chip | 89.00% | ~39 |
-| First winning | 84.00% | ~37 |
-| Your first job | 84.00% | ~37 |
-| Neurotrainer – power gainer! | 68.00% | ~30 |
-| Fitness professional | 64.00% | ~28 |
-| Depressed visitor | 64.00% | ~28 |
-| First defeat | 61.00% | ~27 |
-| Employee of the week | 61.00% | ~27 |
-| Old movies enjoyer | 59.00% | ~26 |
-| Intriguing candies | 57.00% | ~25 |
-| Your own amateur gym | 52.00% | ~23 |
-| Hello, world! | 52.00% | ~23 |
-| No bullying more | 50.00% | ~22 |
-| Run K, run! | 50.00% | ~22 |
-| Fighting is cool | 48.00% | ~21 |
-| Little hacker | 43.00% | ~19 |
-| Pal of your father? | 39.00% | ~17 |
-| Spirit of the past | 36.00% | ~16 |
-| Law student | 32.00% | ~14 |
-| Your own way | 30.00% | ~13 |
-| Employee of the month | 30.00% | ~13 |
-| Workout professional | 23.00% | ~10 |
-| Handyman | 20.00% | ~9 |
-| It's good to be alive | 18.00% | ~8 |
-| Employee of the year | 18.00% | ~8 |
-| Fight for life | 16.00% | ~7 |
-| Champion – starter pack | 16.00% | ~7 |
-| Extreme neuropower! | 16.00% | ~7 |
-| Own four walls | 14.00% | ~6 |
-| Now you are worthy | 11.00% | ~5 |
-| Legal courier | 11.00% | ~5 |
-| No blades in the gym | 7.00% | ~3 |
-| Escaped from a big trouble | 7.00% | ~3 |
-| Guiding on the right path | 7.00% | ~3 |
-| Fight is life | 5.00% | ~2 |
-| Mysterious voice | 5.00% | ~2 |
+| Such a strange dream… | 92.00% | ~46 |
+| Your first fight | 88.00% | ~44 |
+| Good Person Chip | 82.00% | ~41 |
+| First winning | 76.00% | ~38 |
+| Your first job | 76.00% | ~38 |
+| Neurotrainer – power gainer! | 64.00% | ~32 |
+| Depressed visitor | 58.00% | ~29 |
+| Fitness professional | 56.00% | ~28 |
+| First defeat | 54.00% | ~27 |
+| Old movies enjoyer | 54.00% | ~27 |
+| Employee of the week | 54.00% | ~27 |
+| Run K, run! | 52.00% | ~26 |
+| Intriguing candies | 52.00% | ~26 |
+| Hello, world! | 48.00% | ~24 |
+| Your own amateur gym | 46.00% | ~23 |
+| No bullying more | 46.00% | ~23 |
+| Fighting is cool | 44.00% | ~22 |
+| Little hacker | 38.00% | ~19 |
+| Pal of your father? | 36.00% | ~18 |
+| Spirit of the past | 34.00% | ~17 |
+| Employee of the month | 32.00% | ~16 |
+| Law student | 28.00% | ~14 |
+| Your own way | 28.00% | ~14 |
+| Workout professional | 26.00% | ~13 |
+| Handyman | 18.00% | ~9 |
+| Employee of the year | 18.00% | ~9 |
+| It's good to be alive | 16.00% | ~8 |
+| Fight for life | 14.00% | ~7 |
+| Champion – starter pack | 14.00% | ~7 |
+| Extreme neuropower! | 14.00% | ~7 |
+| Own four walls | 12.00% | ~6 |
+| Now you are worthy | 10.00% | ~5 |
+| Legal courier | 10.00% | ~5 |
+| Fight is life | 6.00% | ~3 |
+| No blades in the gym | 6.00% | ~3 |
+| Escaped from a big trouble | 6.00% | ~3 |
+| Guiding on the right path | 6.00% | ~3 |
+| Mysterious voice | 4.00% | ~2 |
+| Deal with life | 2.00% | ~1 |
 | Get out of my apartment! | 2.00% | ~1 |
 | The last bell ring | 2.00% | ~1 |
+| Underground dwellers | 2.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
-| Deal with life | 0.00% | ~0 |
 | Gang wrangler | 0.00% | ~0 |
 | Problems of cyborgs | 0.00% | ~0 |
 | Trap disarmed | 0.00% | ~0 |
@@ -64,18 +65,17 @@
 | Poisoned fighter | 0.00% | ~0 |
 | The die is cast | 0.00% | ~0 |
 | Careerist | 0.00% | ~0 |
-| Underground dwellers | 0.00% | ~0 |
 | Anyone can resist | 0.00% | ~0 |
 | The heart of the Resistance | 0.00% | ~0 |
 | Seashell hunter | 0.00% | ~0 |
 | Responsible approach | 0.00% | ~0 |
 | Undercover robot | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 352)  
+Progressed: 50 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-17 | 3 | 0 |
 | 2023-07-20 | 18 | 0 |
-| 2023-07-21 | 44 | 0 |
+| 2023-07-21 | 50 | 0 |

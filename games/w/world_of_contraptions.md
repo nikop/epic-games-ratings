@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Starting to take notes | 69.00% | ~106 |
 | The first of many | 58.00% | ~89 |
-| Graduated in contraptions | 20.00% | ~31 |
+| Graduated in contraptions | 21.00% | ~32 |
 | First medium level | 7.00% | ~11 |
 | Easy group | 5.00% | ~8 |
 | Medium group | 0.70% | ~1 |

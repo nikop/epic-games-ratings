@@ -4,16 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 20.00% | ~154 |
+| Time Heals All Wounds | 20.00% | ~155 |
 | Rail Rat | 17.00% | ~131 |
 | The Mysterious Stranger | 16.00% | ~124 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
-| The Harder They Fall | 15.00% | ~116 |
 | Breaking Down Barriers | 15.00% | ~116 |
 | The Wicked Twins | 15.00% | ~116 |
 | The Prince in Heels | 15.00% | ~116 |
-| Immaculate Aim | 15.00% | ~116 |
 | Immaculate Aim | 15.00% | ~116 |
 | The Brass Boss | 15.00% | ~116 |
 | The Betrayer | 14.00% | ~108 |
@@ -21,9 +19,11 @@
 | The Loose Cannon | 14.00% | ~108 |
 | Cartographer | 14.00% | ~108 |
 | Time Flies | 14.00% | ~108 |
+| The Harder They Fall | 14.00% | ~108 |
 | No, Thanks! | 14.00% | ~108 |
 | Honest Mistake | 14.00% | ~108 |
 | Fast Learner | 14.00% | ~108 |
+| Immaculate Aim | 14.00% | ~108 |
 | The Family Fortune | 14.00% | ~108 |
 | Treasure Trove | 13.00% | ~100 |
 | Like Clockwork | 13.00% | ~100 |
@@ -32,8 +32,8 @@
 | Right On Time | 12.00% | ~93 |
 | Street Style | 12.00% | ~93 |
 | Whiz Kid | 10.00% | ~77 |
-| Chaincrawler Explorer | 9.00% | ~69 |
-| Good Neighbor | 9.00% | ~69 |
+| Chaincrawler Explorer | 9.00% | ~70 |
+| Good Neighbor | 9.00% | ~70 |
 | Family Memories | 8.00% | ~62 |
 | Fairgrounds Explorer | 8.00% | ~62 |
 | Sump Explorer | 8.00% | ~62 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 772 (Ranked 198)  
+Progressed: 773 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-17 | 760 | 4 |
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
-| 2023-07-21 | 772 | 4 |
+| 2023-07-21 | 773 | 4 |

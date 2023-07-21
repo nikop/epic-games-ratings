@@ -16,12 +16,12 @@
 | 86's Nightmare | 9.00% | ~31 |
 | The Eye of the Storm | 9.00% | ~31 |
 | Friendzone | 8.00% | ~27 |
-| Attack on Tyran | 6.00% | ~20 |
+| Attack on Tyran | 6.00% | ~21 |
 | Song Harvester | 1.00% | ~3 |
 | Try Harder | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 237)  
-Completed: 2 (0.59%) (Ranked 120)  
+Progressed: 342 (Ranked 236)  
+Completed: 2 (0.58%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 2 (0.59%) (Ranked 120)
 | 2023-07-18 | 337 | 2 |
 | 2023-07-19 | 340 | 2 |
 | 2023-07-20 | 341 | 2 |
+| 2023-07-21 | 342 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,12 +1,12 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.40% | ~52 |
+| The Clergy | 0.50% | ~65 |
 | The Great Mage | 0.30% | ~39 |
 | Poetic Leader | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Just Difficulty | 0.10% | ~13 |
+| Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
@@ -207,7 +208,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
-| Noble Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |

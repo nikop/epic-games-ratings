@@ -18,11 +18,11 @@
 | Radaxian Protector | 4.00% | ~10 |
 | Collector | 2.00% | ~5 |
 | Let's Talk | 2.00% | ~5 |
+| Champion | 2.00% | ~5 |
 | Stingy | 2.00% | ~5 |
-| Champion | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 255 (Ranked 255)  
-Completed: 3 (1.18%) (Ranked 96)  
+Completed: 4 (1.57%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,7 +46,7 @@ Completed: 3 (1.18%) (Ranked 96)
 | 2023-07-11 | 249 | 3 |
 | 2023-07-13 | 251 | 3 |
 | 2023-07-20 | 252 | 3 |
-| 2023-07-21 | 255 | 3 |
+| 2023-07-21 | 255 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
