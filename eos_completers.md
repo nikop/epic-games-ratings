@@ -15,9 +15,9 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.40% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.31% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.60% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -43,8 +43,8 @@
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.69% |
-| 45 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.48% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
@@ -151,7 +151,7 @@
 | 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 148 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.31% |
-| 148 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 152 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 153 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 155 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
@@ -500,4 +500,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,923 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,923 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
