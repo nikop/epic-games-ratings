@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7416,
+  "EOS_Progressed": 7417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6007,6 +6007,11 @@
       "Time": "2023-07-20T23:01:33.8440336+00:00",
       "NumProgressed": 7416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T00:02:22.1118565+00:00",
+      "NumProgressed": 7417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6018,7 +6023,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "0002",
@@ -6026,7 +6031,7 @@
       "Name": "License to Thrill",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "0003",
@@ -6050,7 +6055,7 @@
       "Name": "Branch Manager",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "0006",
@@ -6080,9 +6085,9 @@
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3486
     },
     {
       "ID": "0010",
@@ -6106,7 +6111,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "0013",
@@ -6122,7 +6127,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "0015",
@@ -6146,7 +6151,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "0018",
@@ -6154,7 +6159,7 @@
       "Name": "In It to Win It",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "0019",
@@ -6202,7 +6207,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "0025",
@@ -6242,7 +6247,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "0030",
@@ -6305,7 +6310,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7416,
+      "Progressed": 7417,
       "Completed": 1
     }
   ],
@@ -6313,8 +6318,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:01:33.8440329+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:02:22.1118559+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:00:24.4664409+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:01:33.8441658+00:00"
+  "LastUpdate_Ratings": "2023-07-21T00:00:32.8445265+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:02:22.1119265+00:00"
 }

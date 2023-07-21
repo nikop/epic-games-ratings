@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,11 +93,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -398,6 +398,11 @@
       "Time": "2023-07-20T23:03:36.4208633+00:00",
       "NumProgressed": 330,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T00:03:50.8045699+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -423,9 +428,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "04_tycoon",
@@ -441,7 +446,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "06_living",
@@ -449,7 +454,7 @@
       "Name": "Living it large!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "07_europe",
@@ -457,7 +462,7 @@
       "Name": "Europe",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "08_america",
@@ -465,7 +470,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "09_russia",
@@ -495,9 +500,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "13_bunkrupt",
@@ -553,7 +558,7 @@
       "Name": "Just in time!",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "20_sabotage",
@@ -567,9 +572,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 70
     },
     {
       "ID": "22_ouroboros",
@@ -577,7 +582,7 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "23_closecall",
@@ -585,7 +590,7 @@
       "Name": "Close call!",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "24_mega",
@@ -633,7 +638,7 @@
       "Name": "Madness!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "30_completelynuts",
@@ -673,7 +678,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "35_achtung",
@@ -689,7 +694,7 @@
       "Name": "Supercrash!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "37_maniacvandal",
@@ -720,15 +725,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:03:36.4208627+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:03:50.8045693+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:58:06.5603796+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:03:36.4208931+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:58:20.0328565+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:03:50.8046023+00:00"
 }

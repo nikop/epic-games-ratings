@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_Completed_Percentage": 7.35,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -511,6 +511,11 @@
       "Time": "2023-07-20T22:05:52.4092427+00:00",
       "NumProgressed": 135,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-21T00:05:55.2415718+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -520,9 +525,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -538,7 +543,7 @@
       "Name": "Cruise ship",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -552,9 +557,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 160,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -570,7 +575,7 @@
       "Name": "Putting challenge",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -592,9 +597,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -608,9 +613,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -634,7 +639,7 @@
       "Name": "On fire",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -649,14 +654,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:05:33.8419522+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:05:55.2415713+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:57:14.4439851+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:05:33.8419689+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:57:25.8418719+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:05:55.2415874+00:00"
 }

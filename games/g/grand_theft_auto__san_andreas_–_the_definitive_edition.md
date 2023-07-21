@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 458)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,005 |
-| Pay 'n' Spray | 50.00% | ~5,558 |
-| All Dressed Up for San Fierro | 25.00% | ~2,779 |
-| The American Dream | 19.00% | ~2,112 |
-| School's Out | 18.00% | ~2,001 |
+| Getting Started | 81.00% | ~9,007 |
+| Pay 'n' Spray | 50.00% | ~5,560 |
+| All Dressed Up for San Fierro | 25.00% | ~2,780 |
+| The American Dream | 19.00% | ~2,113 |
+| School's Out | 18.00% | ~2,002 |
 | Smooth Moves | 16.00% | ~1,779 |
 | Today Was a Good Day | 15.00% | ~1,668 |
-| What happens in Las Venturas... | 14.00% | ~1,556 |
+| What happens in Las Venturas... | 14.00% | ~1,557 |
 | Horror of the Santa Maria | 10.00% | ~1,112 |
 | Liberty City State of Mind | 9.00% | ~1,001 |
-| Original Gangster | 8.00% | ~889 |
+| Original Gangster | 8.00% | ~890 |
 | The End of the Line | 7.00% | ~778 |
 | With Extra Dip | 6.00% | ~667 |
 | Saviour | 6.00% | ~667 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 458)
 | ...Here we go again | 0.40% | ~44 |
 | I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,117 (Ranked 116)  
+Progressed: 11,120 (Ranked 116)  
 Completed: 31 (0.28%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,13 +133,14 @@ Completed: 31 (0.28%) (Ranked 153)
 | 2023-07-18 | 11,094 | 31 |
 | 2023-07-19 | 11,100 | 31 |
 | 2023-07-20 | 11,117 | 31 |
+| 2023-07-21 | 11,120 | 31 |
 ## Awards
-Max (Great Boss Battles): 221  (Ranked 254)  
-Sum: 221 (Ranked 351)  
+Max (Great Boss Battles): 223  (Ranked 254)  
+Sum: 223 (Ranked 351)  
 Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 221 |
+| This game has Great Boss Battles | 223 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -221,3 +222,4 @@ Diff (max vs sum): -97
 | 2023-07-14 | 4.57 | 216 | 216 |
 | 2023-07-15 | 4.56 | 218 | 218 |
 | 2023-07-18 | 4.56 | 221 | 221 |
+| 2023-07-21 | 4.56 | 223 | 223 |

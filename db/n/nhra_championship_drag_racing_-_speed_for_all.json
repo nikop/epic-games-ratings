@@ -366,9 +366,9 @@
       "ID": "13",
       "SetID": "4n5bj21",
       "Name": "Don\u0027t get ahead on yourself",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 290
     },
     {
       "ID": "14",
@@ -615,8 +615,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:02:30.5888353+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:03:17.740312+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:13.9714644+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:58:55.9340304+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:02:30.5888614+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:59:08.8125804+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:03:17.7403393+00:00"
 }

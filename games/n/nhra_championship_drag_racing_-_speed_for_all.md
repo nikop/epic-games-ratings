@@ -7,7 +7,7 @@
 | Graduated | 99.00% | ~717 |
 | Trouble with the swerve | 68.00% | ~492 |
 | Oops, My bad | 67.00% | ~485 |
-| Don't get ahead on yourself | 39.00% | ~282 |
+| Don't get ahead on yourself | 40.00% | ~290 |
 | I didn't know you where there! | 31.00% | ~224 |
 | Participation trophy | 24.00% | ~174 |
 | Whole again | 12.00% | ~87 |

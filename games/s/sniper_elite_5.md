@@ -49,11 +49,11 @@ Rating: 4.40 (Ranked 691)
 | From Paris with Love | 0.50% | ~17 |
 | Burn after reading | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
+| Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |
 | Eagle Eyed | 0.40% | ~13 |
-| Locomotion Commotion | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |

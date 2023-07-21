@@ -10,8 +10,8 @@ Number of Ratings: 398  (23.09.2022)
 | Un-Lonely Island | 48.00% | ~1,999 |
 | The Beginning of a Servantship | 45.00% | ~1,874 |
 | Trade Is My Trait | 37.00% | ~1,541 |
-| Number 18 | 24.00% | ~999 |
-| We Don't Have Time For That | 20.00% | ~833 |
+| Number 18 | 24.00% | ~1,000 |
+| We Don't Have Time For That | 19.00% | ~791 |
 | The Governator | 18.00% | ~750 |
 | The Legend of Langostino | 17.00% | ~708 |
 | Caribbean Comrade | 16.00% | ~666 |
@@ -25,8 +25,8 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 8.00% | ~333 |
 | Make Tropico Great Again! | 8.00% | ~333 |
 | French Connection | 8.00% | ~333 |
-| Don't Panic! | 7.00% | ~291 |
-| I Owe You Nothing | 7.00% | ~291 |
+| Don't Panic! | 7.00% | ~292 |
+| I Owe You Nothing | 7.00% | ~292 |
 | Computer Says "No" | 6.00% | ~250 |
 | Beware The Betman | 6.00% | ~250 |
 | Watch The World Burn | 6.00% | ~250 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~37 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,164 (Ranked 143)  
+Progressed: 4,165 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 2 (0.05%) (Ranked 203)
 | 2023-07-18 | 4,137 | 1 |
 | 2023-07-19 | 4,152 | 1 |
 | 2023-07-20 | 4,164 | 2 |
+| 2023-07-21 | 4,165 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 95  (Ranked 339)  
 Sum: 668 (Ranked 276)  

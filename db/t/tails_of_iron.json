@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1760,
+  "EOS_Progressed": 1761,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-07-20T23:04:35.7629579+00:00",
       "NumProgressed": 1760,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-21T00:04:58.6624573+00:00",
+      "NumProgressed": 1761,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1992,7 +1997,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "Collect20Gold",
@@ -2008,7 +2013,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2072,7 +2077,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2112,7 +2117,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2128,7 +2133,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "GetRangedWeapon",
@@ -2152,7 +2157,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "Kill25Frogs",
@@ -2160,7 +2165,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "Kill25Mozi",
@@ -2184,7 +2189,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "RepairChef",
@@ -2192,7 +2197,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "RepairSmith",
@@ -2216,7 +2221,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2231,22 +2236,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 401,
-      "Completed": 401
+      "Progressed": 402,
+      "Completed": 402
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:04:35.7629574+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:04:58.6624567+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:12.5741028+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:58:54.2890814+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:04:35.7629914+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:59:07.4597648+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:04:58.6624899+00:00"
 }

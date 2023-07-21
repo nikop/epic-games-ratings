@@ -14,8 +14,8 @@
 | Lone Wolf | 13.00% | ~12 |
 | Highly Qualified | 9.00% | ~9 |
 | No Room for Improvement | 9.00% | ~9 |
+| Playing God | 9.00% | ~9 |
 | Nerd | 8.00% | ~8 |
-| Playing God | 8.00% | ~8 |
 | Upgradeaholic | 7.00% | ~7 |
 | Tailor-Made | 6.00% | ~6 |
 | Seven-League Boots | 5.00% | ~5 |

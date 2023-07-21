@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -592,6 +592,11 @@
       "Time": "2023-07-20T23:03:16.9262737+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T00:03:33.6922011+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -602,7 +607,7 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -618,7 +623,7 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -634,7 +639,7 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -642,7 +647,7 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -650,7 +655,7 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -658,7 +663,7 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -666,7 +671,7 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -674,7 +679,7 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -682,7 +687,7 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -690,7 +695,7 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -698,7 +703,7 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -714,7 +719,7 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -722,7 +727,7 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -730,7 +735,7 @@
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -738,7 +743,7 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -746,7 +751,7 @@
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -754,7 +759,7 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -762,7 +767,7 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -770,7 +775,7 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -787,15 +792,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-19T17:58:49.5067024+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:03:16.9262733+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:03:33.6922007+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.6006884+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:58:59.5686835+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:03:16.9262884+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:59:12.2530726+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:03:33.6922164+00:00"
 }

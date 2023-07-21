@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2849,
+  "EOS_Progressed": 2851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3653,6 +3653,11 @@
       "Time": "2023-07-20T23:05:15.8574999+00:00",
       "NumProgressed": 2849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T00:05:37.3455088+00:00",
+      "NumProgressed": 2851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3680,7 +3685,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_12",
@@ -3696,7 +3701,7 @@
       "Name": "Oats",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_15",
@@ -3712,7 +3717,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_17",
@@ -3720,7 +3725,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_18",
@@ -3728,7 +3733,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_BASE_19",
@@ -3736,7 +3741,7 @@
       "Name": "...  in a finite world",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_2",
@@ -3744,7 +3749,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_BASE_21",
@@ -3760,7 +3765,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_23",
@@ -3768,7 +3773,7 @@
       "Name": "Space Society",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_24",
@@ -3776,7 +3781,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_BASE_25",
@@ -3792,7 +3797,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_BASE_27",
@@ -3816,7 +3821,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_3",
@@ -3824,7 +3829,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_30",
@@ -3848,7 +3853,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_33",
@@ -3864,7 +3869,7 @@
       "Name": "Ready for a New World",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_35",
@@ -3960,7 +3965,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_BASE_49",
@@ -3976,7 +3981,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_50",
@@ -3992,7 +3997,7 @@
       "Name": "Convenient Transport",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_BASE_52",
@@ -4000,7 +4005,7 @@
       "Name": "BRAWL!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_53",
@@ -4048,7 +4053,7 @@
       "Name": "Hope Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_BASE_60",
@@ -4064,7 +4069,7 @@
       "Name": "Scientifically Accurate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BASE_62",
@@ -4104,7 +4109,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASE_9",
@@ -4119,13 +4124,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1031,
+      "Progressed": 1033,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2849,
+      "Progressed": 2851,
       "Completed": 0
     }
   ],
@@ -4133,8 +4138,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:05:15.8574987+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:05:37.345508+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:59:06.1950965+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:05:15.8575716+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:59:18.6460531+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:05:37.3456297+00:00"
 }

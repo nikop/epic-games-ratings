@@ -2380,7 +2380,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 24531,
+  "EOS_Progressed": 24532,
   "EOS_Completed": 206,
   "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 9,
@@ -12080,6 +12080,11 @@
       "Time": "2023-07-20T23:07:14.4231882+00:00",
       "NumProgressed": 24531,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-07-21T00:07:33.8093705+00:00",
+      "NumProgressed": 24532,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 60,
@@ -12091,7 +12096,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 14228
+      "UsersEstimate": 14229
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -12099,7 +12104,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -12107,7 +12112,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 14228
+      "UsersEstimate": 14229
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -12147,7 +12152,7 @@
       "Name": "Hearts of Iron",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_Completed",
@@ -12315,7 +12320,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 8831
+      "UsersEstimate": 8832
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -12339,7 +12344,7 @@
       "Name": "Can\u2019t stand to see an Ogre bleed",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_Completed",
@@ -12355,7 +12360,7 @@
       "Name": "Lifesaver",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_Infested_2",
@@ -12395,7 +12400,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5888
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -12467,7 +12472,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 8095
+      "UsersEstimate": 8096
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -12539,7 +12544,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 7359
+      "UsersEstimate": 7360
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -12563,22 +12568,22 @@
       "Name": "Tide Master",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 24531,
+      "Progressed": 24532,
       "Completed": 206
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-19T19:59:58.6105558+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:07:14.4231854+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:07:33.8093701+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:12.7446342+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:59:56.4144404+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:07:14.4232875+00:00"
+  "LastUpdate_Ratings": "2023-07-21T00:00:05.7550142+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:07:33.8094834+00:00"
 }

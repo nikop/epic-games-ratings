@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-07-14T11:03:15.831863+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T00:03:54.7108019+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -320,7 +325,7 @@
       "ID": "Builder",
       "SetID": "82ojhod",
       "Name": "Builder",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -417,14 +422,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:03:40.4367347+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:03:54.7108015+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:06.2176007+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:57:38.4449483+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:03:40.4367472+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:57:50.8104233+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:03:54.710813+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-07-20T22:07:43.5323784+00:00",
       "NumProgressed": 252,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T00:07:36.5238762+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -220,7 +225,7 @@
       "Name": "First Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -268,7 +273,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -299,7 +304,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 3
     }
   ],
@@ -307,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:07:17.1919302+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:07:36.5238754+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:51.0652019+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:58:41.0742884+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:07:17.1919446+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:58:53.8379088+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:07:36.5238899+00:00"
 }

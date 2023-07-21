@@ -6,48 +6,48 @@ Rating: 4.56 (Ranked 458)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 22.00% | ~627 |
-| Infinite Growth... | 19.00% | ~541 |
-| Sputnik 2049 | 19.00% | ~541 |
+| Infinite Growth... | 19.00% | ~542 |
+| Sputnik 2049 | 19.00% | ~542 |
 | Without Breaking Some Eggs... | 18.00% | ~513 |
-| Space Society | 13.00% | ~370 |
-| A Thousand Strong | 13.00% | ~370 |
-| Ready for a New World | 13.00% | ~370 |
-| Permanent Redesigns | 11.00% | ~313 |
+| Space Society | 13.00% | ~371 |
+| A Thousand Strong | 13.00% | ~371 |
+| Ready for a New World | 13.00% | ~371 |
+| Permanent Redesigns | 11.00% | ~314 |
 | Fully Recycled | 10.00% | ~285 |
 | Ain't Nobody Got Time for That | 10.00% | ~285 |
 | The Ship of Theseus | 10.00% | ~285 |
-| Guy de Borderlands | 9.00% | ~256 |
-| Hope Seeker | 9.00% | ~256 |
+| Guy de Borderlands | 9.00% | ~257 |
+| Hope Seeker | 9.00% | ~257 |
 | A Hunk of Junk | 8.00% | ~228 |
 | Exceeding Capacity | 8.00% | ~228 |
 | Breaking Protocol | 8.00% | ~228 |
 | Man's Best Friend | 6.00% | ~171 |
 | Power Outage | 6.00% | ~171 |
 | Please Make it Stop! | 6.00% | ~171 |
-| Sightseeing | 5.00% | ~142 |
-| Convenient Transport | 5.00% | ~142 |
+| Sightseeing | 5.00% | ~143 |
+| Convenient Transport | 5.00% | ~143 |
 | Access Granted | 4.00% | ~114 |
 | Necessary Enhancement | 4.00% | ~114 |
 | All in Good Health | 4.00% | ~114 |
 | From the Past | 4.00% | ~114 |
-| Oats | 3.00% | ~85 |
-| What They Hide From Us | 3.00% | ~85 |
-| ...  in a finite world | 3.00% | ~85 |
-| Sustainable Energy | 3.00% | ~85 |
-| BRAWL! | 3.00% | ~85 |
-| What the Ruins Teach Us | 3.00% | ~85 |
+| Oats | 3.00% | ~86 |
+| What They Hide From Us | 3.00% | ~86 |
+| ...  in a finite world | 3.00% | ~86 |
+| Sustainable Energy | 3.00% | ~86 |
+| BRAWL! | 3.00% | ~86 |
+| What the Ruins Teach Us | 3.00% | ~86 |
 | In Dolos We Trust | 2.00% | ~57 |
 | Space Greenhouse | 2.00% | ~57 |
 | Delivery! | 2.00% | ~57 |
 | Pedal to the Metal | 2.00% | ~57 |
 | Help of the Forgotten Member | 2.00% | ~57 |
 | Pulsar Disciple | 2.00% | ~57 |
-| Mutual Loyalty | 1.00% | ~28 |
-| Tiqqun Contender | 1.00% | ~28 |
-| Catastrophe Avoided | 1.00% | ~28 |
-| Praise the Hull! | 1.00% | ~28 |
-| Tiqqun Unchained | 1.00% | ~28 |
-| Scientifically Accurate | 1.00% | ~28 |
+| Mutual Loyalty | 1.00% | ~29 |
+| Tiqqun Contender | 1.00% | ~29 |
+| Catastrophe Avoided | 1.00% | ~29 |
+| Praise the Hull! | 1.00% | ~29 |
+| Tiqqun Unchained | 1.00% | ~29 |
+| Scientifically Accurate | 1.00% | ~29 |
 | You Had One Job... | 0.90% | ~26 |
 | Gregor Spinoza | 0.90% | ~26 |
 | Better Him Than Me | 0.70% | ~20 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 458)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,849 (Ranked 155)  
+Progressed: 2,851 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 2,839 | 0 |
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
+| 2023-07-21 | 2,851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

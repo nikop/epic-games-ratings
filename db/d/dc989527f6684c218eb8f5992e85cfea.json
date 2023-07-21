@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7714,
+  "EOS_Progressed": 7716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3741,6 +3741,11 @@
       "Time": "2023-07-20T23:01:25.6842705+00:00",
       "NumProgressed": 7714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T00:02:14.2449605+00:00",
+      "NumProgressed": 7716,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3824,7 +3829,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3926,9 +3931,9 @@
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
       "SetID": "5ck0pmd",
       "Name": "Got It!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_WIN_A_GAME_RATE_IT",
@@ -3951,14 +3956,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7714,
+      "Progressed": 7716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-20T23:01:25.6842698+00:00",
+  "LastChanged_Achievements": "2023-07-21T00:02:14.2449597+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:57:07.9928347+00:00",
-  "LastUpdate_Achievements": "2023-07-20T23:01:25.6843525+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:57:19.708177+00:00",
+  "LastUpdate_Achievements": "2023-07-21T00:02:14.2450087+00:00"
 }

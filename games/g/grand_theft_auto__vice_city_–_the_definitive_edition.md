@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 482)
 | Tommy Two-Wheels | 15.00% | ~1,353 |
 | Big Heat from Little Havana | 14.00% | ~1,263 |
 | Chauffeur | 14.00% | ~1,263 |
-| Salutations My Little Friend | 11.00% | ~992 |
+| Salutations My Little Friend | 10.00% | ~902 |
 | Iron-y | 9.00% | ~812 |
 | Gun for Hire | 9.00% | ~812 |
 | Mischief Managed | 8.00% | ~722 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 482)
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,019 (Ranked 120)  
+Progressed: 9,020 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 43 (0.48%) (Ranked 130)
 | 2023-07-18 | 8,995 | 43 |
 | 2023-07-19 | 9,007 | 43 |
 | 2023-07-20 | 9,019 | 43 |
+| 2023-07-21 | 9,020 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 441)  

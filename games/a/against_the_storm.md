@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 76)  
+Rating: 4.81 (Ranked 77)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~478 |
 | Coral Forest | 3.00% | ~478 |
 | The Scarlet Orchard | 3.00% | ~478 |
+| A Real Challenge | 3.00% | ~478 |
 | Serving Ale | 2.00% | ~318 |
 | Homesick | 2.00% | ~318 |
 | Against All Odds | 2.00% | ~318 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 2.00% | ~318 |
 | Watchtower | 2.00% | ~318 |
 | Cursed Lands | 2.00% | ~318 |
-| A Real Challenge | 2.00% | ~318 |
 | Like a Machine | 2.00% | ~318 |
 | Trade Baron | 2.00% | ~318 |
 | Into the Forest | 2.00% | ~318 |
