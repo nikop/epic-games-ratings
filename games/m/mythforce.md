@@ -12,12 +12,12 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 14.00% | ~15 |
 | Debuff Dogpile | 13.00% | ~14 |
 | First Strike | 13.00% | ~14 |
-| Perk Shard Punch Card | 13.00% | ~14 |
-| Ten Steps from the Grave | 13.00% | ~14 |
-| Cold-Blooded Critters | 11.00% | ~11 |
-| Spending Spree | 11.00% | ~11 |
+| Perk Shard Punch Card | 12.00% | ~13 |
+| Ten Steps from the Grave | 12.00% | ~13 |
+| Cold-Blooded Critters | 10.00% | ~10 |
 | Everything Must Go! | 10.00% | ~10 |
 | Mushroom Madness! | 10.00% | ~10 |
+| Spending Spree | 10.00% | ~10 |
 | Deadication | 8.00% | ~8 |
 | The Harder They Fall | 8.00% | ~8 |
 | Horder Better Faster Stronger | 8.00% | ~8 |
@@ -30,13 +30,13 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 302)  
+Progressed: 105 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
-| 2023-07-21 | 104 | 0 |
+| 2023-07-21 | 105 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mad Wizard | 0.20% | ~428 |
+| The Mad Wizard | 0.20% | ~429 |
 | Troublesome Prisoner | 0.10% | ~214 |
 | Dark Doppelgangers | 0.10% | ~214 |
 | Faerûn's Most Wanted | 0.10% | ~181 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,248 (Ranked 53)  
+Progressed: 214,257 (Ranked 53)  
 Completed: 2,060 (0.96%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 2,060 (0.96%) (Ranked 106)
 | 2023-07-18 | 213,209 | 2,058 |
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
-| 2023-07-21 | 214,248 | 2,060 |
+| 2023-07-21 | 214,257 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,048  (Ranked 66)  
 Sum: 30,620 (Ranked 38)  

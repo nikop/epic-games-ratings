@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -1959,17 +1959,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_012",
@@ -2072,8 +2072,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:02:29.9708451+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:01:22.3642719+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:59:05.3459963+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:02:29.970881+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:36.3939408+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:01:22.3643066+00:00"
 }

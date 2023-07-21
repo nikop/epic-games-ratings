@@ -213,9 +213,9 @@
       "ID": "neighenergy.north",
       "SetID": "bbgli2k",
       "Name": "North Town Energy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "neighenergy.south",
@@ -269,9 +269,9 @@
       "ID": "quest004",
       "SetID": "bbgli2k",
       "Name": "The Painter and the Lights",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "quest005",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:08:32.4072964+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:07:07.3617419+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:01.8234661+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:49.0750307+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:08:32.4073549+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:35.7700626+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:07:07.3617741+00:00"
 }

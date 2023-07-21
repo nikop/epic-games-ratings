@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 71.00% | ~114 |
-| Forced to Kill | 69.00% | ~110 |
-| A Night To Remember | 37.00% | ~59 |
-| Safe...For now? | 31.00% | ~50 |
+| Alone with Them | 70.00% | ~113 |
+| Forced to Kill | 69.00% | ~112 |
+| A Night To Remember | 37.00% | ~60 |
+| Safe...For now? | 30.00% | ~49 |
 | Open Sesame | 26.00% | ~42 |
-| Them and Us | 16.00% | ~26 |
-| OUTRAGE | 16.00% | ~26 |
-| What have I done!? | 16.00% | ~26 |
-| The Cultists | 13.00% | ~21 |
+| Them and Us | 15.00% | ~24 |
+| OUTRAGE | 15.00% | ~24 |
+| What have I done!? | 15.00% | ~24 |
 | Alone In The Dark | 12.00% | ~19 |
 | Parasite Exterminated | 12.00% | ~19 |
+| The Cultists | 12.00% | ~19 |
 | This Coffin Has Your Name On It! | 12.00% | ~19 |
-| Lover of classics | 11.00% | ~18 |
 | The Forgotten Tower | 11.00% | ~18 |
-| Rest In Peace | 9.00% | ~14 |
-| The Curse Is Real | 9.00% | ~14 |
-| Trapped | 9.00% | ~14 |
-| What A Mansion | 8.00% | ~13 |
+| Lover of classics | 10.00% | ~16 |
+| Rest In Peace | 9.00% | ~15 |
+| The Curse Is Real | 9.00% | ~15 |
+| Trapped | 9.00% | ~15 |
 | Modern Player | 7.00% | ~11 |
+| What A Mansion | 7.00% | ~11 |
 | Researcher | 6.00% | ~10 |
 | I Am The Gate Keeper! | 6.00% | ~10 |
 | This Mansion Is Clean | 4.00% | ~6 |
-| Armed To The Teeth | 3.00% | ~5 |
-| Run and Gun | 3.00% | ~5 |
 | The bus stop | 3.00% | ~5 |
+| Armed To The Teeth | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
+| Run and Gun | 2.00% | ~3 |
 | Pet The Dog | 2.00% | ~3 |
 | Back In Time | 1.00% | ~2 |
 | Box Of Ploutus | 1.00% | ~2 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.60% | ~1 |
 | Survival Horror | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 283)  
+Progressed: 162 (Ranked 282)  
 Completed: 1 (0.62%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.62%) (Ranked 118)
 | 2023-07-09 | 150 | 1 |
 | 2023-07-14 | 151 | 1 |
 | 2023-07-16 | 152 | 1 |
-| 2023-07-21 | 160 | 1 |
+| 2023-07-21 | 162 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

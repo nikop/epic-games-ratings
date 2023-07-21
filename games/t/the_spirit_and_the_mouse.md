@@ -17,18 +17,18 @@
 | South Town Energy | 33.00% | ~24 |
 | Photogenic | 30.00% | ~22 |
 | The Girl and the Homework | 29.00% | ~21 |
+| North Town Energy | 27.00% | ~20 |
 | OK, I heard you!! | 27.00% | ~20 |
-| North Town Energy | 26.00% | ~19 |
 | Lightbulb Detective | 25.00% | ~18 |
 | Unlimited Power!! | 22.00% | ~16 |
 | The Quiche and the Hair Dryer | 22.00% | ~16 |
 | Cartographer | 22.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~14 |
 | The Ghost and the Lamps | 16.00% | ~12 |
+| The Painter and the Lights | 15.00% | ~11 |
 | The Woman and the Pizzeria | 15.00% | ~11 |
 | West Residence Lightbulbs | 14.00% | ~10 |
 | West Residence Energy | 14.00% | ~10 |
-| The Painter and the Lights | 14.00% | ~10 |
 | At your service | 12.00% | ~9 |
 | Riddle Master | 12.00% | ~9 |
 | East Street Lightbulbs | 11.00% | ~8 |

@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 86,
@@ -650,10 +650,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 179,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-07-21T23:01:03.1277617+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 179,
+  "NumberOfAwards": 180,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -685,7 +691,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has a Competitive Community",
@@ -700,7 +706,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253365,
+  "EOS_Progressed": 253366,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
@@ -10065,6 +10071,11 @@
       "Time": "2023-07-21T22:07:17.0042499+00:00",
       "NumProgressed": 253365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T23:06:04.3870777+00:00",
+      "NumProgressed": 253366,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10180,7 +10191,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25336
+      "UsersEstimate": 25337
     },
     {
       "ID": "CreditLevel2",
@@ -10364,7 +10375,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55740
+      "UsersEstimate": 55741
     },
     {
       "ID": "KillOthers2",
@@ -10468,7 +10479,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25336
+      "UsersEstimate": 25337
     },
     {
       "ID": "ReachNDays2",
@@ -10523,16 +10534,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253365,
+      "Progressed": 253366,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-21T09:02:01.0046518+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:07:17.0042488+00:00",
+  "LastChanged": "2023-07-21T23:01:03.1277615+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:06:04.3870773+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:02:06.5659839+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:07:17.004439+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:01:03.1277621+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:06:04.3871873+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "ID": "8780226cc80d4dee860a382ab8a529e6",
   "Name": "Angelfish",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:54.5849949+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:01:24.1122611+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:05:15.4702959+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:00:30.3011942+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:04:23.4588823+00:00"
 }

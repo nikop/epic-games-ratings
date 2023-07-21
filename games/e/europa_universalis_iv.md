@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,523 |
-| That's a Grand Army | 8.00% | ~5,798 |
-| That is mine! | 8.00% | ~5,798 |
-| Victorious! | 8.00% | ~5,798 |
+| Until death do us apart | 9.00% | ~6,524 |
+| That's a Grand Army | 8.00% | ~5,799 |
+| That is mine! | 8.00% | ~5,799 |
+| Victorious! | 8.00% | ~5,799 |
 | Brothers in Arms | 6.00% | ~4,349 |
 | That's a Grand Navy | 6.00% | ~4,349 |
 | Seriously?! | 6.00% | ~4,349 |
 | For the Glory | 5.00% | ~3,624 |
 | Cold War | 4.00% | ~2,899 |
 | True Catholic | 4.00% | ~2,899 |
-| Defender of the Faith | 3.00% | ~2,174 |
-| It's all about luck | 3.00% | ~2,174 |
-| It's all about the money | 3.00% | ~2,174 |
-| Respected | 3.00% | ~2,174 |
-| The Princess is in this Castle | 3.00% | ~2,174 |
-| Truly Divine Ruler | 3.00% | ~2,174 |
+| Defender of the Faith | 3.00% | ~2,175 |
+| It's all about luck | 3.00% | ~2,175 |
+| It's all about the money | 3.00% | ~2,175 |
+| Respected | 3.00% | ~2,175 |
+| The Princess is in this Castle | 3.00% | ~2,175 |
+| Truly Divine Ruler | 3.00% | ~2,175 |
 | Agressive Expander | 2.00% | ~1,450 |
 | Blockader | 2.00% | ~1,450 |
 | Combined Arms | 2.00% | ~1,450 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,476 (Ranked 74)  
+Progressed: 72,487 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -453,18 +453,18 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 71,380 | 0 |
 | 2023-07-19 | 71,730 | 0 |
 | 2023-07-20 | 72,082 | 0 |
-| 2023-07-21 | 72,476 | 0 |
+| 2023-07-21 | 72,487 | 0 |
 ## Awards
 Max (Educational): 5,572  (Ranked 61)  
-Sum: 45,897 (Ranked 26)  
+Sum: 45,908 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,572 |
-| This game is Highly Recommended | 5,328 |
+| This game is Highly Recommended | 5,329 |
 | This game has Challenging Combat | 5,284 |
 | This game is Extremely Fun | 5,278 |
-| This game has Diverse Characters | 5,235 |
+| This game has Diverse Characters | 5,245 |
 | This game is Relaxing | 5,139 |
 | This game has Competitive Players | 5,001 |
 | This game has Amazing Storytelling | 4,708 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 35
 | 2023-07-18 | 4.69 | - | 5,562 | 45,819 |
 | 2023-07-19 | 4.69 | - | 5,565 | 45,850 |
 | 2023-07-20 | 4.69 | - | 5,568 | 45,880 |
-| 2023-07-21 | 4.69 | - | 5,572 | 45,897 |
+| 2023-07-21 | 4.69 | - | 5,572 | 45,908 |

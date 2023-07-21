@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12995,
+  "EOS_Progressed": 12996,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8237,6 +8237,11 @@
       "Time": "2023-07-21T20:05:26.2957502+00:00",
       "NumProgressed": 12995,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T23:05:26.0648145+00:00",
+      "NumProgressed": 12996,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8614,9 +8619,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -9606,9 +9611,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -9894,9 +9899,9 @@
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -9910,17 +9915,17 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -10158,9 +10163,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -10198,9 +10203,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -10262,9 +10267,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -10358,9 +10363,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -10446,9 +10451,9 @@
       "ID": "ACHIEVEMENT_VICTORY_TIME",
       "SetID": "7l38kb8",
       "Name": "Time Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
@@ -10615,21 +10620,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12995,
+      "Progressed": 12996,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12995,
+      "Progressed": 12996,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:06:29.8653091+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:05:26.0648141+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:58:55.2599699+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:06:29.86639+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:29.1657054+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:05:26.0658368+00:00"
 }

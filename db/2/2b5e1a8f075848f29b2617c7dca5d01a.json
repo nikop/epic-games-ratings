@@ -2,7 +2,7 @@
   "ID": "2b5e1a8f075848f29b2617c7dca5d01a",
   "Name": "Vaudeville",
   "ProductSlug": "vaudeville-86cff0",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-06T14:56:56.9005529+00:00",
   "LastUpdate_AppInfo": "2023-07-18T17:56:50.3324395+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:18.5636559+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:04:35.4277025+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:12.4918092+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:03:50.4696761+00:00"
 }

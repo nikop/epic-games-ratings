@@ -2,7 +2,7 @@
   "ID": "77631a5827eb4a8ea16cf1ded0b24131",
   "Name": "Lifespace Traveler",
   "ProductSlug": "lifespace-traveler-1cc49a",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-21T23:01:36.7895183+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-07-21T20:01:08.6121268+00:00",
   "TotalAchievements": 13,
   "TotalAchievementsXP": 1000,
@@ -138,13 +144,13 @@
     {
       "ID": "d3andh",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-21T09:02:21.6744728+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:02:47.9174862+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:01:36.7895179+00:00",
   "LastUpdate_AppInfo": "2023-07-21T08:57:11.7976855+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:03.9180939+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:02:47.9174975+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:00.6616442+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:01:36.789528+00:00"
 }

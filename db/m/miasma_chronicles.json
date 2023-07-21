@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1252,
+  "EOS_Progressed": 1253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2336,6 +2336,11 @@
       "Time": "2023-07-21T21:04:12.9052683+00:00",
       "NumProgressed": 1252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T23:03:48.3718491+00:00",
+      "NumProgressed": 1253,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2363,7 +2368,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2395,7 +2400,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2459,7 +2464,7 @@
       "Name": "Limp Richard",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2507,7 +2512,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "EXPERIENCED",
@@ -2531,7 +2536,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2555,7 +2560,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "GIANT_KILLER",
@@ -2579,15 +2584,15 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 326
     },
     {
       "ID": "IM_THE_LAW",
@@ -2595,7 +2600,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "INFILTRATOR",
@@ -2611,7 +2616,7 @@
       "Name": "Lumberjack",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2659,7 +2664,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "RUTHLESS",
@@ -2739,7 +2744,7 @@
       "Name": "The Watchers",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "WIPE_OUT",
@@ -2754,7 +2759,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1252,
+      "Progressed": 1253,
       "Completed": 0
     }
   ],
@@ -2762,8 +2767,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:04:32.81887+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:03:48.3718487+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.764878+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:59:20.2577121+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:04:32.8189584+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:47.2379217+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:03:48.3719009+00:00"
 }

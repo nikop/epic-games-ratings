@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
+| Beloved | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
 | Brilliant | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
@@ -88,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.10% | ~13 |
 | Colossus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
+| Hagia Sophia | 0.10% | ~13 |
 | Hanging Gardens | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
@@ -112,7 +114,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.10% | ~13 |
 | Egypt | 0.10% | ~13 |
 | Greece | 0.10% | ~13 |
+| Persia | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
+| Old World Order | 0.10% | ~13 |
+| One True Faith | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
@@ -133,9 +138,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Building Wonders | 0.10% | ~13 |
+| Capturing Cities | 0.10% | ~13 |
 | Naming Landmarks | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
+| Military Prestige | 0.10% | ~13 |
 | Dualism | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
@@ -143,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.10% | ~13 |
 | Redemption | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
+| Veneration | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
@@ -150,12 +158,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.10% | ~13 |
 | Phalangite | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
+| All Nations | 0.10% | ~13 |
 | Ambition Victory | 0.10% | ~13 |
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
 | Points Victory | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
 | Role-Playing | 0.10% | ~13 |
+| Time Victory | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
@@ -197,7 +207,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Beloved | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
@@ -259,7 +268,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Hagia Sophia | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
@@ -271,9 +279,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
-| Persia | 0.00% | ~0 |
-| Old World Order | 0.00% | ~0 |
-| One True Faith | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
@@ -283,27 +288,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
-| Capturing Cities | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Military Prestige | 0.00% | ~0 |
-| Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| All Nations | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
-| Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,995 (Ranked 113)  
+Progressed: 12,996 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,995 | 5 |
+| 2023-07-21 | 12,996 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

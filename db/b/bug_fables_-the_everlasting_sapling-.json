@@ -106,17 +106,17 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BFT_CH2",
@@ -339,8 +339,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:02:40.4341538+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:01:30.7812886+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.9939858+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:01:39.9778929+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:02:40.4341922+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:00:41.1263506+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:01:30.7813265+00:00"
 }

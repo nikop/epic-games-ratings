@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~136 |
-| Starting Skyward | 51.00% | ~121 |
+| Starting Skyward | 51.00% | ~122 |
 | Grime is Not Good | 44.00% | ~105 |
-| Campaign Launch | 39.00% | ~93 |
-| Floor Galore | 38.00% | ~90 |
+| Floor Galore | 38.00% | ~91 |
+| Campaign Launch | 38.00% | ~91 |
 | Dinner Dash | 37.00% | ~88 |
-| Need a Consult | 34.00% | ~81 |
+| Need a Consult | 35.00% | ~84 |
 | It's Technical | 34.00% | ~81 |
 | Upgrade Unlock | 33.00% | ~79 |
-| Delegate Maintenance | 32.00% | ~76 |
 | Proper Walls | 31.00% | ~74 |
+| Delegate Maintenance | 31.00% | ~74 |
 | Destination Destiny | 28.00% | ~67 |
 | Happy Tenants | 25.00% | ~60 |
-| Your Prestige is Rising | 24.00% | ~57 |
-| Smooth Service | 24.00% | ~57 |
+| Your Prestige is Rising | 23.00% | ~55 |
 | Potent Potables | 23.00% | ~55 |
 | Retail Revenue | 23.00% | ~55 |
-| Leveled Up Shops | 22.00% | ~52 |
+| Smooth Service | 23.00% | ~55 |
+| Leveled Up Shops | 22.00% | ~53 |
 | Lux Living | 21.00% | ~50 |
 | People Mover | 21.00% | ~50 |
 | Don't Feel a Loan | 20.00% | ~48 |
@@ -41,10 +41,10 @@
 | Smooth Operator | 13.00% | ~31 |
 | Swimming in Surplus | 13.00% | ~31 |
 | 28 Days Later | 12.00% | ~29 |
-| Master of Puppets | 11.00% | ~26 |
-| Plaza Plan | 9.00% | ~21 |
-| Refined Palates | 9.00% | ~21 |
-| Phoning It In | 9.00% | ~21 |
+| Master of Puppets | 10.00% | ~24 |
+| Plaza Plan | 9.00% | ~22 |
+| Refined Palates | 9.00% | ~22 |
+| Phoning It In | 9.00% | ~22 |
 | First 100 Days | 8.00% | ~19 |
 | Aestheticly Pleased | 8.00% | ~19 |
 | Meet Me at HQ | 8.00% | ~19 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238 (Ranked 257)  
+Progressed: 239 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-06 | 230 | 0 |
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
-| 2023-07-21 | 238 | 0 |
+| 2023-07-21 | 239 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 85,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -236,6 +236,11 @@
       "Time": "2023-07-21T22:05:36.0613049+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T23:04:40.8915817+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -278,9 +283,9 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "login_count",
@@ -302,9 +307,9 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "platformer_player",
@@ -326,7 +331,7 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 120,
       "UsersEstimate": 8
     },
@@ -358,9 +363,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "treant_destroyer",
@@ -399,14 +404,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:05:36.0613041+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:04:40.8915812+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:25.6542062+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:05:36.0613279+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:17.176032+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:04:40.8915964+00:00"
 }

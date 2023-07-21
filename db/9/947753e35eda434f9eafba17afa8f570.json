@@ -65,9 +65,9 @@
       "ID": "ACH_0_BEAT_GAME",
       "SetID": "2k150c1",
       "Name": "Creativity Restored",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10_GANTORTA_RIDE",
@@ -137,17 +137,17 @@
       "ID": "ACH_18_MUSIC_3",
       "SetID": "2k150c1",
       "Name": "Music Legend",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_19_MUSIC_ALL",
       "SetID": "2k150c1",
       "Name": "Mozart Would Be Proud",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_1_POSEMASTER",
@@ -225,9 +225,9 @@
       "ID": "ACH_28_COOKING",
       "SetID": "2k150c1",
       "Name": "Scorchin!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_29_CLOTHING",
@@ -297,9 +297,9 @@
       "ID": "ACH_36_FLYING_BULLET_TIME",
       "SetID": "2k150c1",
       "Name": "Master of The Universe",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_37_SEASONS",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:08:15.1011205+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:06:52.9973138+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:49.9043347+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:08:15.1011567+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:36.5656322+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:06:52.997346+00:00"
 }

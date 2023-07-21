@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-07-21T22:05:45.6728512+00:00",
       "NumProgressed": 868,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-21T23:04:48.9778325+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -982,7 +987,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -990,7 +995,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -998,7 +1003,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1070,7 +1075,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1078,7 +1083,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1086,7 +1091,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1094,7 +1099,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1118,15 +1123,15 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_SKILLS_ALL",
       "SetID": "7k95e4n",
       "Name": "Unstoppable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_STAR_1",
@@ -1158,7 +1163,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_STAR_5",
@@ -1190,14 +1195,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 15
     }
   ],
@@ -1205,8 +1210,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:05:45.6728471+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:04:48.9778319+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:03.5384726+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:52.2569981+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:05:45.6728839+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:41.0932219+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:04:48.9778574+00:00"
 }

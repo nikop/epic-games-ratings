@@ -4,8 +4,8 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -114,9 +114,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "APHRODITE",
@@ -202,9 +202,9 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -274,9 +274,9 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -346,9 +346,9 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RED_HERRING",
@@ -408,8 +408,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:04:17.0922266+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:03:35.0765458+00:00",
   "LastUpdate_AppInfo": "2023-07-21T20:57:00.8152155+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:11.3793977+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:04:17.0922692+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:06.752812+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:03:35.0765794+00:00"
 }

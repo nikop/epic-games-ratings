@@ -2,7 +2,7 @@
   "ID": "2fc1f2a89cc9472f9f09807c2a4ccd8c",
   "Name": "Demeo",
   "ProductSlug": "demeo-c234a9",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.6583894+00:00",
   "LastChanged": "2023-03-31T05:58:02.6583895+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:14.8317263+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:01:57.5992539+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:08:12.0378316+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:00:55.2691994+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:06:50.3551936+00:00"
 }

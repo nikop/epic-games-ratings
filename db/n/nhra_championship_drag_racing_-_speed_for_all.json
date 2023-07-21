@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -404,9 +404,9 @@
       "ID": "14",
       "SetID": "4n5bj21",
       "Name": "Trouble with the swerve",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 504
     },
     {
       "ID": "15",
@@ -645,8 +645,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:03:34.3420454+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:02:28.2089018+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:13.9714644+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:59:29.5301247+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:03:34.3420859+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:55.2218416+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:02:28.2089285+00:00"
 }

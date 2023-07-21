@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "BasiliskBroom",
@@ -406,17 +406,17 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BearPistol",
@@ -438,9 +438,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BearSword",
@@ -454,9 +454,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -494,33 +494,33 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -542,9 +542,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "HastrmanAcorn",
@@ -558,25 +558,25 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HatFlower",
@@ -622,9 +622,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "PriestRogue",
@@ -638,25 +638,25 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RogueChest",
@@ -670,9 +670,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "RogueKing",
@@ -702,9 +702,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -734,17 +734,17 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:07:05.6813657+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:05:55.0301184+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:23.8121208+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:07:05.681433+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:15.7635582+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:05:55.0301584+00:00"
 }

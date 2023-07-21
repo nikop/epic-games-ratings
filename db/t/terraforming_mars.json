@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2512,9 +2512,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 68203,
+  "EOS_Progressed": 68205,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12397,6 +12397,11 @@
       "Time": "2023-07-21T22:05:57.636496+00:00",
       "NumProgressed": 68203,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-07-21T23:04:58.6922382+00:00",
+      "NumProgressed": 68205,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 30,
@@ -12408,7 +12413,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -12448,7 +12453,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 7502
+      "UsersEstimate": 7503
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -12456,7 +12461,7 @@
       "Name": "Biggest Reward",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -12464,7 +12469,7 @@
       "Name": "Most Achievements",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -12488,7 +12493,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 25917
+      "UsersEstimate": 25918
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -12504,7 +12509,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22507
+      "UsersEstimate": 22508
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -12512,7 +12517,7 @@
       "Name": "Spirit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7502
+      "UsersEstimate": 7503
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -12568,7 +12573,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -12576,7 +12581,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10912
+      "UsersEstimate": 10913
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -12584,7 +12589,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25235
+      "UsersEstimate": 25236
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12608,7 +12613,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -12624,7 +12629,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -12647,15 +12652,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 68203,
+      "Progressed": 68205,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-07-21T09:58:58.3630743+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:05:57.6364953+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:04:58.6922378+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:07.5827149+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:59:22.0045064+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:05:57.6366469+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:48.7413321+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:04:58.6923225+00:00"
 }

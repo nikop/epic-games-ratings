@@ -13,6 +13,7 @@
 | The Wicked Twins | 15.00% | ~116 |
 | The Prince in Heels | 15.00% | ~116 |
 | Immaculate Aim | 15.00% | ~116 |
+| Immaculate Aim | 15.00% | ~116 |
 | The Brass Boss | 15.00% | ~116 |
 | The Betrayer | 14.00% | ~108 |
 | The Man Who Shattered Time | 14.00% | ~108 |
@@ -23,7 +24,6 @@
 | No, Thanks! | 14.00% | ~108 |
 | Honest Mistake | 14.00% | ~108 |
 | Fast Learner | 14.00% | ~108 |
-| Immaculate Aim | 14.00% | ~108 |
 | The Family Fortune | 14.00% | ~108 |
 | Treasure Trove | 13.00% | ~100 |
 | Like Clockwork | 13.00% | ~100 |

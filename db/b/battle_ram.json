@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -398,41 +398,41 @@
       "ID": "ach_10",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 3rd class",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_11",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 4th class",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_12",
       "SetID": "392n4e7",
       "Name": "Junior Lieutenant Baran",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_13",
       "SetID": "392n4e7",
       "Name": "Baran Senior Warrant Officer Grade 5",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_14",
       "SetID": "392n4e7",
       "Name": "Senior Lieutenant Baran",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_15",
@@ -550,17 +550,17 @@
       "ID": "ach_8",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 1st class",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_9",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 2nd class",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -573,8 +573,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:08:27.0579221+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:07:02.8488084+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:42.611651+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:59:04.9474284+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:08:27.0579445+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:36.0954423+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:07:02.8488249+00:00"
 }

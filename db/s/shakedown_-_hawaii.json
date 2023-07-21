@@ -2,7 +2,7 @@
   "ID": "plumeria",
   "Name": "Shakedown - Hawaii",
   "ProductSlug": "shakedown-hawaii",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.1253649+00:00",
   "LastChanged": "2023-03-31T05:57:46.125365+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:22.9212619+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:58:14.7277834+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:02:30.9086063+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:58.643191+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:01:23.1021874+00:00"
 }

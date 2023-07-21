@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduated | 99.00% | ~723 |
-| Trouble with the swerve | 68.00% | ~496 |
+| Trouble with the swerve | 69.00% | ~504 |
 | Oops, My bad | 67.00% | ~489 |
 | Don't get ahead on yourself | 39.00% | ~285 |
 | I didn't know you where there! | 30.00% | ~219 |

@@ -2,7 +2,7 @@
   "ID": "e1b25c47966441e2971f57523a29756e",
   "Name": "The Abbey",
   "ProductSlug": "the-abbey-b6fbc4",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:58:03.7702377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:01:43.7882307+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:06:18.1022575+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:00:44.3370113+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:05:15.9221989+00:00"
 }

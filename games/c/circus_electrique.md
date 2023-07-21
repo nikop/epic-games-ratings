@@ -19,10 +19,10 @@ Number of Ratings: 22  (23.09.2022)
 | Fan Service | 18.00% | ~81 |
 | Amazing! | 16.00% | ~72 |
 | King of District 1 | 15.00% | ~68 |
+| Lucky Day | 14.00% | ~63 |
 | Bar Brawler | 14.00% | ~63 |
 | Flawless Presentation | 14.00% | ~63 |
 | One More Thing... | 13.00% | ~59 |
-| Lucky Day | 13.00% | ~59 |
 | King of District 2 | 13.00% | ~59 |
 | Time Travel! | 11.00% | ~50 |
 | Marketing Manager | 10.00% | ~45 |

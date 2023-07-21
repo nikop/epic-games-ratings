@@ -2,7 +2,7 @@
   "ID": "ff6f8be77181424abd51b0fc551da825",
   "Name": "Federation",
   "ProductSlug": "federation-3b45c0",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-16T16:56:47.6172539+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:57:11.8975027+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:04:27.2516334+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:57:07.0823559+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:03:43.1866834+00:00"
 }

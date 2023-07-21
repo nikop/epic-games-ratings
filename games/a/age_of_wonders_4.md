@@ -45,7 +45,7 @@ Rating: 4.63 (Ranked 331)
 | Grexolis | 1.00% | ~50 |
 | One for All, All for One | 1.00% | ~50 |
 | Pruning for Progress | 0.90% | ~45 |
-| I've Got Everything I Need Right Here | 0.70% | ~35 |
+| I've Got Everything I Need Right Here | 0.80% | ~40 |
 | Manufactured War | 0.60% | ~30 |
 | Snap Out of It! | 0.50% | ~25 |
 | Betrayal Most Foul | 0.30% | ~15 |

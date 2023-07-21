@@ -2,10 +2,10 @@
   "ID": "0b595db2a0604a3c91d77847a59f5895",
   "Name": "Chimeraland",
   "ProductSlug": "chimeraland",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 486,
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 85,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.91,
+  "Rating": 3.92,
   "RatingHistory": [
     {
       "Time": "2023-01-08T08:57:11.5833977+00:00",
@@ -322,6 +322,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-07-21T23:00:34.7678329+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -348,8 +354,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-22T08:56:57.9222177+00:00",
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
-  "LastChanged": "2023-07-06T23:01:30.8774139+00:00",
+  "LastChanged": "2023-07-21T23:00:34.7678327+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:55.2480187+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:01:31.3599185+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:07:56.512522+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:00:34.7678336+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:06:37.5876038+00:00"
 }

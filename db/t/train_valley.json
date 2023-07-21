@@ -95,7 +95,7 @@
   "Tags": [],
   "EOS_Progressed": 341,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -492,9 +492,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "07_europe",
@@ -628,9 +628,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "24_mega",
@@ -772,8 +772,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-21T22:04:22.7328101+00:00",
+  "LastChanged_Achievements": "2023-07-21T23:03:39.6282016+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:58:30.395777+00:00",
-  "LastUpdate_Achievements": "2023-07-21T22:04:22.7328693+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:58:12.4533589+00:00",
+  "LastUpdate_Achievements": "2023-07-21T23:03:39.6282341+00:00"
 }
