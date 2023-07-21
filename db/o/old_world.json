@@ -1553,7 +1553,7 @@
   ],
   "EOS_Progressed": 12980,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8193,2288 +8193,2376 @@
       "NumCompleted": 5
     }
   ],
-  "TotalAchievements": 285,
-  "TotalAchievementsXP": 2940,
+  "TotalAchievements": 296,
+  "TotalAchievementsXP": 3040,
   "Achievements": [
     {
       "ID": "ACHIEVEMENT_100_YEARS",
       "SetID": "9201eeb",
       "Name": "Centenarian",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDER_THE_GREAT",
       "SetID": "9201eeb",
       "Name": "Alexander the Great",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDER_THE_WHO",
       "SetID": "9201eeb",
       "Name": "Alexander the who?",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse in Alexandria",
-      "Percentage": 0.7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum in Alexandria",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ALLIANCE_VICTORY",
       "SetID": "7l38kb8",
       "Name": "Alliance Victory",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
       "SetID": "9201eeb",
       "Name": "Future Regicide",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ATHENS_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis in Athenai",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 24,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3115
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate in Babylon",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
       "SetID": "9201eeb",
       "Name": "Barbarian Horde",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING",
       "SetID": "9201eeb",
       "Name": "The Great Raging Horde",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER",
       "SetID": "9201eeb",
       "Name": "United Against The Horde",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BATTLE_OF_OPIS",
       "SetID": "9201eeb",
       "Name": "Battle of Opis",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BEFORE_MONGOL_HORDE",
       "SetID": "9201eeb",
       "Name": "Before the Mongol Horde",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
       "SetID": "9201eeb",
       "Name": "Blade of the Monkey",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia in Byzantion",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 1)",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 1)",
-      "Percentage": 0.7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 1)",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 2)",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 2)",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 2)",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 2)",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3",
       "SetID": "9201eeb",
       "Name": "Carthage - Rise of Rome",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 3)",
-      "Percentage": 0.7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 3)",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 3)",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 3)",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4",
       "SetID": "9201eeb",
       "Name": "Carthage - Seizing Destiny",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 4)",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 4)",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 4)",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 4)",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_CAMPAIGN",
       "SetID": "9201eeb",
       "Name": "Carthage Campaign",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
       "SetID": "9201eeb",
       "Name": "Cleopatra\u0027s Love",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 60,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7788
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 60,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7788
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
       "SetID": "9201eeb",
       "Name": "Avenger",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 32,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4154
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 34,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
       "SetID": "9201eeb",
       "Name": "Conqueror",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
       "SetID": "9201eeb",
       "Name": "Destroyer",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 42,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5452
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 79,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 10254
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 47,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6101
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 51,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 6620
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 55,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7139
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 39,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 5062
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
       "SetID": "9201eeb",
       "Name": "Holy",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 26,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3375
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 69,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 8956
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 53,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6879
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 53,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6879
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 48,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6230
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
       "SetID": "9201eeb",
       "Name": "Liberator",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 45,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 5841
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 60,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7788
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 20,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 57,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 7399
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 48,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6230
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
       "SetID": "9201eeb",
       "Name": "Rebuilder",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_RESTORER",
       "SetID": "9201eeb",
       "Name": "Restorer",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 81,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 10514
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 59,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 7658
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3245
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 44,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5711
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
       "SetID": "9201eeb",
       "Name": "White Death",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3764
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
       "SetID": "9201eeb",
       "Name": "Council of Madness",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 47,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6101
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 30,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 3894
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 44,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 5711
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk in Damascus",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DELPHI_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle in Delphi",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1038
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3764
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent Difficulty",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Elephant in Elephantine",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
       "SetID": "9201eeb",
       "Name": "Ethnic Diversity",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ET_TU_BRUTUS",
       "SetID": "9201eeb",
       "Name": "Et tu Brutus?",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_EVENTLEVEL_HIGH",
       "SetID": "9201eeb",
       "Name": "Event Level High",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 30,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3894
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1687
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 22,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2856
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3245
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 75,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 9735
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 31,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4024
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
       "SetID": "9201eeb",
       "Name": "Battle of the Fertile Crescent",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
       "SetID": "9201eeb",
       "Name": "The Eternal Treaty",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
       "SetID": "9201eeb",
       "Name": "Five Routs",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GOTW",
       "SetID": "9201eeb",
       "Name": "Game of the Week",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_ALTERNATE_WIN",
       "SetID": "9201eeb",
       "Name": "That Also Works",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_LOSE",
       "SetID": "9201eeb",
       "Name": "Defend Where?",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
       "SetID": "9201eeb",
       "Name": "Nenikekamen",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
       "SetID": "9201eeb",
       "Name": "Get the Hellas Out",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_PERFECT",
       "SetID": "9201eeb",
       "Name": "Not a Chance",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
       "SetID": "9201eeb",
       "Name": "The Turning Point",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
       "SetID": "9201eeb",
       "Name": "A Good Start",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
       "SetID": "9201eeb",
       "Name": "Still Fighting",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_40",
       "SetID": "9201eeb",
       "Name": "They Shall Not Pass",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_50",
       "SetID": "9201eeb",
       "Name": "THIS IS SPARTA!!",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
       "SetID": "9201eeb",
       "Name": "Tell the Spartans",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
       "SetID": "9201eeb",
       "Name": "Shape of Things to Come",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ATHENS",
       "SetID": "9201eeb",
       "Name": "I am the Archon Now",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_NO_WOUND",
       "SetID": "9201eeb",
       "Name": "Not a Scratch",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_OLYMPICS",
       "SetID": "9201eeb",
       "Name": "The Olive Wreath",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_PAIONIA",
       "SetID": "9201eeb",
       "Name": "Those Were Mine",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_SPARTA",
       "SetID": "9201eeb",
       "Name": "If? Then!",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THRACIANS",
       "SetID": "9201eeb",
       "Name": "What\u0027s \u0027hubris\u0027 in Greek?",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THREE_WIVES",
       "SetID": "9201eeb",
       "Name": "Three\u0027s a Crowd",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY",
       "SetID": "9201eeb",
       "Name": "Unfinished Business",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_BRONZE",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Bronze Crown",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_GOLD",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Golden Crown",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_SILVER",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Silver Crown",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_CITIES",
       "SetID": "9201eeb",
       "Name": "Queen of Politics",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_INTRIGUE",
       "SetID": "9201eeb",
       "Name": "Queen of Intrigue",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of Lies",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of Opportunity",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of War",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS",
       "SetID": "9201eeb",
       "Name": "Mighty Bucephalus",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_GORDIAN_KNOT",
       "SetID": "9201eeb",
       "Name": "Knot So Hard",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_PERSIAN_GATE",
       "SetID": "9201eeb",
       "Name": "Gate to Victory",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_PHARAOH",
       "SetID": "9201eeb",
       "Name": "Pharaoh",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_TYRE",
       "SetID": "9201eeb",
       "Name": "A Tyresome Siege",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
       "SetID": "9201eeb",
       "Name": "Alexander the Mediocre",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BEST",
       "SetID": "9201eeb",
       "Name": "Alexander the Great",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BETTER",
       "SetID": "9201eeb",
       "Name": "Alexander the Alright",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_ANTIGONID",
       "SetID": "9201eeb",
       "Name": "Youth Prevails",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_MACEDONIA",
       "SetID": "9201eeb",
       "Name": "Toppling the Giants",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_PTOLEMY",
       "SetID": "9201eeb",
       "Name": "Rule of Pharaohs",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_SELEUCUS",
       "SetID": "9201eeb",
       "Name": "The Eastern Empire",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_HALICARNASSUS_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum in Halicarnassus",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_HARDCORE",
       "SetID": "9201eeb",
       "Name": "Hardcore",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 21,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2726
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 30,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3894
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 35,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4543
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 31,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4024
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat",
-      "Percentage": 40,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5192
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 20,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 58,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7528
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 23,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 43,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5581
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 39,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5062
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 28,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3634
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 34,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 36,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4673
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 57,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7399
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 45,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5841
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 20,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
       "SetID": "9201eeb",
       "Name": "Knowledge of the Ancients",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LBP1",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 1 - Able",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LBP2",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 2 - Just",
-      "Percentage": 0.6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LBP3",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 3 - Good",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LBP4",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 4 - Strong",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 32,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4154
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 24,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3115
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
       "SetID": "9201eeb",
       "Name": "Macedonian Wars",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST",
       "SetID": "9201eeb",
       "Name": "Medo-Babylonian Conquest",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids in Menefer",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_MERCHANTS_LEVANT",
       "SetID": "9201eeb",
       "Name": "Merchants of the Levant",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_MORTALITY_REALISTIC",
       "SetID": "9201eeb",
       "Name": "Realistic Mortality",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyria",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1687
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana in Parsa",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
       "SetID": "9201eeb",
       "Name": "Play a 1-v-1 Game",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_FFA",
       "SetID": "9201eeb",
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
       "SetID": "9201eeb",
       "Name": "Play a Hotseat Game",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_LAN",
       "SetID": "9201eeb",
       "Name": "Play a LAN Game",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_MPTEAMS",
       "SetID": "9201eeb",
       "Name": "Play a MP Teams Game",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
       "SetID": "9201eeb",
       "Name": "Play a Network Game",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
       "SetID": "9201eeb",
       "Name": "Play a Play-By-Cloud Game",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 84,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 10903
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
       "SetID": "9201eeb",
       "Name": "Punic Wars",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 40,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5192
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 54,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7009
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 35,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4543
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 43,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5581
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 37,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4803
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 35,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4543
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 44,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5711
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 41,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 5322
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 47,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6101
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus in Rhodes",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ROMAN_PAPACY",
       "SetID": "9201eeb",
       "Name": "Roman Papacy",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus in Roma",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon in Roma",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2985
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 909
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 49,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 6360
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2466
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 20,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 21,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2726
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3764
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
       "SetID": "9201eeb",
       "Name": "Word of God",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 51,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 6620
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 16,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 20,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat in Ur",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
       "SetID": "7l38kb8",
       "Name": "No Characters",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 9,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
       "SetID": "7l38kb8",
       "Name": "One City Challenge",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
       "SetID": "7l38kb8",
       "Name": "Points Victory",
-      "Percentage": 24,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3115
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
       "SetID": "9201eeb",
       "Name": "Randomized Families",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
       "SetID": "9201eeb",
       "Name": "Randomized Leaders",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
       "SetID": "9201eeb",
       "Name": "Role-Playing",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_TIME",
       "SetID": "7l38kb8",
       "Name": "Time Victory",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
       "SetID": "9201eeb",
       "Name": "Win a 1-v-1 Game",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_FFA",
       "SetID": "9201eeb",
       "Name": "Win a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_HOTSEAT",
       "SetID": "9201eeb",
       "Name": "Win a Hotseat Game",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_LAN",
       "SetID": "9201eeb",
       "Name": "Win a LAN Game",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_MPTEAMS",
       "SetID": "9201eeb",
       "Name": "Win a MP Teams Game",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_NETWORK",
       "SetID": "9201eeb",
       "Name": "Win a Network Game",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_PLAYBYCLOUD",
       "SetID": "9201eeb",
       "Name": "Win a Play-By-Cloud Game",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
+      "SetID": "9201eeb",
+      "Name": "The Clergy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
+      "SetID": "9201eeb",
+      "Name": "Deposed Tribe",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
+      "SetID": "9201eeb",
+      "Name": "Religious Dissent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_FIVE_CULTS",
+      "SetID": "9201eeb",
+      "Name": "Five Cults",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
+      "SetID": "9201eeb",
+      "Name": "The Great Mage",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
+      "SetID": "9201eeb",
+      "Name": "The Mythical Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE",
+      "SetID": "9201eeb",
+      "Name": "Pilgrimage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
+      "SetID": "9201eeb",
+      "Name": "Poetic Leader",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
+      "SetID": "9201eeb",
+      "Name": "Patriarch St Paul",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
+      "SetID": "9201eeb",
+      "Name": "Hypatia the Teacher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
+      "SetID": "9201eeb",
+      "Name": "The Royal Couple",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -10494,8 +10582,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-20T17:58:31.0065812+00:00",
-  "LastChanged_Achievements": "2023-07-21T05:06:02.6901906+00:00",
+  "LastChanged_Achievements": "2023-07-21T06:05:40.3294793+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T04:58:48.7606949+00:00",
-  "LastUpdate_Achievements": "2023-07-21T05:06:02.6910967+00:00"
+  "LastUpdate_Ratings": "2023-07-21T05:58:37.4030858+00:00",
+  "LastUpdate_Achievements": "2023-07-21T06:05:40.3303096+00:00"
 }

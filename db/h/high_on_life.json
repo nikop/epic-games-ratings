@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23060,
+  "EOS_Progressed": 23061,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2360,6 +2360,11 @@
       "Time": "2023-07-21T05:07:35.9868962+00:00",
       "NumProgressed": 23060,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-21T06:06:59.0549329+00:00",
+      "NumProgressed": 23061,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -2379,7 +2384,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 7840
+      "UsersEstimate": 7841
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -2387,7 +2392,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17756
+      "UsersEstimate": 17757
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2433,9 +2438,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17757
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2451,7 +2456,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2475,7 +2480,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19140
+      "UsersEstimate": 19141
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2491,7 +2496,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13144
+      "UsersEstimate": 13145
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2499,7 +2504,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13605
+      "UsersEstimate": 13606
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2539,7 +2544,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2555,7 +2560,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16834
+      "UsersEstimate": 16835
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2563,7 +2568,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 7840
+      "UsersEstimate": 7841
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -2626,22 +2631,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23060,
+      "Progressed": 23061,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 353,
-      "Completed": 353
+      "Progressed": 354,
+      "Completed": 354
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-21T05:07:35.9868954+00:00",
+  "LastChanged_Achievements": "2023-07-21T06:06:59.0549321+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-21T04:58:51.3340559+00:00",
-  "LastUpdate_Achievements": "2023-07-21T05:07:35.9869432+00:00"
+  "LastUpdate_Ratings": "2023-07-21T05:58:39.1809431+00:00",
+  "LastUpdate_Achievements": "2023-07-21T06:06:59.0549825+00:00"
 }

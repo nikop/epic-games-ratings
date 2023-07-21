@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7017,
+  "EOS_Progressed": 7018,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5757,6 +5757,11 @@
       "Time": "2023-07-21T05:05:48.0653912+00:00",
       "NumProgressed": 7017,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-21T06:05:27.9534929+00:00",
+      "NumProgressed": 7018,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5768,7 +5773,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5824
+      "UsersEstimate": 5825
     },
     {
       "ID": "ACH02",
@@ -5792,7 +5797,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "ACH05",
@@ -5999,7 +6004,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7017,
+      "Progressed": 7018,
       "Completed": 41
     }
   ],
@@ -6007,8 +6012,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-21T05:05:48.0653906+00:00",
+  "LastChanged_Achievements": "2023-07-21T06:05:27.9534925+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-21T04:58:42.5282336+00:00",
-  "LastUpdate_Achievements": "2023-07-21T05:05:48.0654563+00:00"
+  "LastUpdate_Ratings": "2023-07-21T05:58:32.8222372+00:00",
+  "LastUpdate_Achievements": "2023-07-21T06:05:27.9535538+00:00"
 }

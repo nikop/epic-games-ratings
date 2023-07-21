@@ -1746,7 +1746,7 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19969,
+  "EOS_Progressed": 19970,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -6016,6 +6016,11 @@
       "Time": "2023-07-21T04:07:56.8134278+00:00",
       "NumProgressed": 19969,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-21T06:07:24.2805609+00:00",
+      "NumProgressed": 19970,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6059,7 +6064,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "EstateAgent",
@@ -6075,7 +6080,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18771
+      "UsersEstimate": 18772
     },
     {
       "ID": "GameOver",
@@ -6179,7 +6184,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3594
+      "UsersEstimate": 3595
     },
     {
       "ID": "Strongman",
@@ -6187,7 +6192,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6190
+      "UsersEstimate": 6191
     },
     {
       "ID": "VeronicaLiptson",
@@ -6210,15 +6215,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19969,
+      "Progressed": 19970,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-17T23:00:51.8857829+00:00",
-  "LastChanged_Achievements": "2023-07-21T05:08:02.7725465+00:00",
+  "LastChanged_Achievements": "2023-07-21T06:07:24.2805606+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.4539579+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:00:49.1451354+00:00",
-  "LastUpdate_Achievements": "2023-07-21T05:08:02.7726025+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:00:20.9342796+00:00",
+  "LastUpdate_Achievements": "2023-07-21T06:07:24.2806177+00:00"
 }

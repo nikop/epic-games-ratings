@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7424,
+  "EOS_Progressed": 7426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6022,6 +6022,11 @@
       "Time": "2023-07-21T03:01:57.9988934+00:00",
       "NumProgressed": 7424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T06:01:43.5844363+00:00",
+      "NumProgressed": 7426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6033,7 +6038,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4753
     },
     {
       "ID": "0002",
@@ -6057,7 +6062,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "0005",
@@ -6089,7 +6094,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "0009",
@@ -6121,7 +6126,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "0013",
@@ -6137,7 +6142,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "0015",
@@ -6145,7 +6150,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "0016",
@@ -6177,7 +6182,7 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "0020",
@@ -6209,7 +6214,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "0024",
@@ -6217,7 +6222,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "0025",
@@ -6225,7 +6230,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "0026",
@@ -6257,7 +6262,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "0030",
@@ -6265,7 +6270,7 @@
       "Name": "For your Eyes only",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "0031",
@@ -6305,7 +6310,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "0036",
@@ -6320,7 +6325,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7424,
+      "Progressed": 7426,
       "Completed": 1
     }
   ],
@@ -6328,8 +6333,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-21T05:02:27.8194994+00:00",
+  "LastChanged_Achievements": "2023-07-21T06:01:43.5844358+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:01:02.7701274+00:00",
-  "LastUpdate_Achievements": "2023-07-21T05:02:27.8195902+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:00:30.8473141+00:00",
+  "LastUpdate_Achievements": "2023-07-21T06:01:43.5845213+00:00"
 }

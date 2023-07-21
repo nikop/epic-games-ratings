@@ -6,37 +6,37 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,520 |
-| Uncharted Territory | 89.00% | ~207,221 |
-| Getting A Glimpse | 73.00% | ~169,968 |
-| A Quick Escape | 65.00% | ~151,341 |
-| Explorer | 62.00% | ~144,356 |
-| Defeat The Dark | 61.00% | ~142,028 |
-| An Offering | 61.00% | ~142,028 |
-| Colorful Corpse | 58.00% | ~135,043 |
-| That Was Quick | 56.00% | ~130,386 |
-| A Donation | 56.00% | ~130,386 |
+| First Steps | 96.00% | ~223,521 |
+| Uncharted Territory | 89.00% | ~207,222 |
+| Getting A Glimpse | 73.00% | ~169,969 |
+| A Quick Escape | 65.00% | ~151,342 |
+| Explorer | 62.00% | ~144,357 |
+| Defeat The Dark | 61.00% | ~142,029 |
+| An Offering | 61.00% | ~142,029 |
+| Colorful Corpse | 58.00% | ~135,044 |
+| That Was Quick | 56.00% | ~130,387 |
+| A Donation | 56.00% | ~130,387 |
 | Goodbye, Frog Friend | 54.00% | ~125,730 |
-| Heavy Hitter | 53.00% | ~123,401 |
-| Heartless | 46.00% | ~107,103 |
-| Spine Breaker | 46.00% | ~107,103 |
+| Heavy Hitter | 53.00% | ~123,402 |
+| Heartless | 46.00% | ~107,104 |
+| Spine Breaker | 46.00% | ~107,104 |
 | Deflection | 45.00% | ~104,775 |
-| Sneaky | 43.00% | ~100,118 |
+| Sneaky | 43.00% | ~100,119 |
 | Delving Deeper | 42.00% | ~97,790 |
 | Ambitious Intent | 41.00% | ~95,462 |
 | C-C-Combo | 41.00% | ~95,462 |
-| Nothing To Lose | 40.00% | ~93,133 |
-| The Bestiary | 40.00% | ~93,133 |
+| Nothing To Lose | 40.00% | ~93,134 |
+| The Bestiary | 40.00% | ~93,134 |
 | What's Yours Is Mine | 38.00% | ~88,477 |
 | R.I.P | 36.00% | ~83,820 |
 | Shootout | 36.00% | ~83,820 |
 | I Am Overburdened | 35.00% | ~81,492 |
-| Cold Hearted | 34.00% | ~79,163 |
+| Cold Hearted | 34.00% | ~79,164 |
 | Dig Your Own Grave | 33.00% | ~76,835 |
 | Toxic | 33.00% | ~76,835 |
 | Who To Trust? | 32.00% | ~74,507 |
 | Flesh Wound | 29.00% | ~67,522 |
-| Stone Touch | 28.00% | ~65,193 |
+| Stone Touch | 28.00% | ~65,194 |
 | Walk It Off | 27.00% | ~62,865 |
 | Acid Bath | 27.00% | ~62,865 |
 | New Perspectives | 27.00% | ~62,865 |
@@ -115,7 +115,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,328 |
 | Martial Master | 1.00% | ~2,328 |
 | You Call That A Knife? | 1.00% | ~2,328 |
-| Master of Strategy | 0.90% | ~2,095 |
+| Master of Strategy | 0.90% | ~2,096 |
 | Disposal | 0.80% | ~1,863 |
 | Blizzard | 0.80% | ~1,863 |
 | No Swapsies | 0.80% | ~1,863 |
@@ -127,9 +127,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nudie Run | 0.60% | ~1,397 |
 | Down Under | 0.50% | ~1,164 |
 | Never Too Many Hats | 0.40% | ~931 |
-| Near Death Experience | 0.30% | ~698 |
+| Near Death Experience | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,833 (Ranked 48)  
+Progressed: 232,834 (Ranked 48)  
 Completed: 249 (0.11%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 249 (0.11%) (Ranked 182)
 | 2023-07-18 | 232,708 | 247 |
 | 2023-07-19 | 232,773 | 247 |
 | 2023-07-20 | 232,821 | 249 |
-| 2023-07-21 | 232,833 | 249 |
+| 2023-07-21 | 232,834 | 249 |
 ## Awards
 Max (Quickly Understood Controls): 1,485  (Ranked 120)  
 Sum: 11,492 (Ranked 75)  
