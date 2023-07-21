@@ -5262,9 +5262,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 710986,
+  "EOS_Progressed": 710988,
   "EOS_Completed": 12827,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13797,6 +13797,11 @@
       "Time": "2023-07-21T07:06:53.5022614+00:00",
       "NumProgressed": 710986,
       "NumCompleted": 12827
+    },
+    {
+      "Time": "2023-07-21T08:08:04.210299+00:00",
+      "NumProgressed": 710988,
+      "NumCompleted": 12827
     }
   ],
   "TotalAchievements": 50,
@@ -14144,7 +14149,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -14207,21 +14212,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20287,
+      "Progressed": 20289,
       "Completed": 10430
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710986,
+      "Progressed": 710988,
       "Completed": 12827
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-20T22:59:39.1489577+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:06:53.5022605+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:08:04.2102984+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:59:26.1650118+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:06:53.5023599+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:00:15.117493+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:08:04.2104613+00:00"
 }

@@ -353,9 +353,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "killStone500",
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:03:31.4857051+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:04:00.9448101+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:57:09.3860874+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:03:31.4857861+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:57:25.5256432+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:04:00.9449679+00:00"
 }

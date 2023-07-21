@@ -10,8 +10,8 @@
 | Hands up! | 53.00% | ~264 |
 | Now you know | 53.00% | ~264 |
 | Short circuit | 53.00% | ~264 |
-| Curious | 41.00% | ~204 |
-| Everybody lies | 35.00% | ~174 |
+| Curious | 41.00% | ~205 |
+| Everybody lies | 35.00% | ~175 |
 | Trick or Treat? | 24.00% | ~120 |
 | There is another way | 23.00% | ~115 |
 | Sysadmin | 21.00% | ~105 |
@@ -37,7 +37,7 @@
 | Lucky dog | 4.00% | ~20 |
 | Silent | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498 (Ranked 215)  
+Progressed: 499 (Ranked 215)  
 Completed: 15 (3.01%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 15 (3.01%) (Ranked 60)
 | 2023-07-16 | 496 | 15 |
 | 2023-07-19 | 497 | 15 |
 | 2023-07-20 | 498 | 15 |
+| 2023-07-21 | 499 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

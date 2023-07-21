@@ -10,10 +10,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
+| Mythology | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
+| Patriarch St Paul | 0.10% | ~13 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -259,7 +261,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.00% | ~0 |
 | Gnosticism | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
-| Mythology | 0.00% | ~0 |
 | Redemption | 0.00% | ~0 |
 | Revelation | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
@@ -299,7 +300,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
-| Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

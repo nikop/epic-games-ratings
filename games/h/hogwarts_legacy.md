@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,579 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,580 |
 | First Class Student | 11.00% | ~31,698 |
 | Troll with the Punches | 10.00% | ~28,816 |
 | The Defender of Dragons | 9.00% | ~25,935 |
@@ -30,7 +30,7 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,408 |
 | Third Time's a Charm | 5.00% | ~14,408 |
 | Raising Expectations | 5.00% | ~14,408 |
-| The Ends Petrify the Means | 4.00% | ~11,526 |
+| The Ends Petrify the Means | 4.00% | ~11,527 |
 | The Toast of the Town | 3.00% | ~8,645 |
 | Going Through the Potions | 3.00% | ~8,645 |
 | Room with a View | 3.00% | ~8,645 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,162 (Ranked 42)  
+Progressed: 288,164 (Ranked 42)  
 Completed: 432 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 432 (0.15%) (Ranked 175)
 | 2023-07-18 | 287,982 | 430 |
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
-| 2023-07-21 | 288,162 | 432 |
+| 2023-07-21 | 288,164 | 432 |
 ## Awards
-Max (Character Customization): 21,120  (Ranked 17)  
-Sum: 39,559 (Ranked 30)  
+Max (Character Customization): 21,154  (Ranked 17)  
+Sum: 39,593 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,120 |
+| This game has Inclusive Character Customization | 21,154 |
 | This game has Great Boss Battles | 10,136 |
 | This game is Great for Beginners | 929 |
 | This game is Extremely Fun | 903 |
@@ -284,3 +284,4 @@ Diff (max vs sum): -13
 | 2023-07-18 | 4.77 | 21,074 | 39,451 |
 | 2023-07-19 | 4.77 | 21,101 | 39,508 |
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
+| 2023-07-21 | 4.77 | 21,154 | 39,593 |

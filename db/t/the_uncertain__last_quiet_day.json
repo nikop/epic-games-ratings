@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -401,6 +401,11 @@
       "Time": "2023-07-20T18:01:24.7226857+00:00",
       "NumProgressed": 498,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-21T08:02:38.6247092+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -452,7 +457,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -460,7 +465,7 @@
       "Name": "Everybody lies",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -667,7 +672,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 15
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:01:19.5482935+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:02:38.6247087+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:41.5790014+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:59:09.6291052+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:01:19.5483185+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:59:54.2542917+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:02:38.6247364+00:00"
 }

@@ -10,25 +10,25 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Evilest Evil | 58.00% | ~14,240 |
 | Twistram is devastated | 58.00% | ~14,240 |
 | The Gehenna Stones | 50.00% | ~12,276 |
-| No one has to die today! | 46.00% | ~11,293 |
+| No one has to die today! | 46.00% | ~11,294 |
 | Death and destruction! | 45.00% | ~11,048 |
-| The Swamplanders from the swamplands | 44.00% | ~10,802 |
+| The Swamplanders from the swamplands | 44.00% | ~10,803 |
 | The One-Huge-Army-Building Evil | 41.00% | ~10,066 |
 | Rusty Steel | 41.00% | ~10,066 |
-| The last burger | 38.00% | ~9,329 |
-| Braiiiiins! | 38.00% | ~9,329 |
-| Hands off the Dungeonheart! | 36.00% | ~8,838 |
+| The last burger | 38.00% | ~9,330 |
+| Braiiiiins! | 38.00% | ~9,330 |
+| Hands off the Dungeonheart! | 36.00% | ~8,839 |
 | A trip on sea, what fun it can be | 35.00% | ~8,593 |
 | Damned good | 33.00% | ~8,102 |
-| Factory farming | 32.00% | ~7,856 |
+| Factory farming | 32.00% | ~7,857 |
 | Stock Market Crash | 31.00% | ~7,611 |
-| Not-So-Overproud | 30.00% | ~7,365 |
+| Not-So-Overproud | 30.00% | ~7,366 |
 | For a handfull of Catapults | 29.00% | ~7,120 |
 | Shadow hunter | 29.00% | ~7,120 |
-| Thirst quencher | 28.00% | ~6,874 |
-| Ogre Solo! | 28.00% | ~6,874 |
+| Thirst quencher | 28.00% | ~6,875 |
+| Ogre Solo! | 28.00% | ~6,875 |
 | Tide Master | 27.00% | ~6,629 |
-| Destroy the thing | 26.00% | ~6,383 |
+| Destroy the thing | 26.00% | ~6,384 |
 | Difficult family relationships | 25.00% | ~6,138 |
 | MASS-O-BOT | 25.00% | ~6,138 |
 | Prepare the grave | 25.00% | ~6,138 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~491 |
 | Sacrifices! | 2.00% | ~491 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,551 (Ranked 98)  
+Progressed: 24,552 (Ranked 98)  
 Completed: 206 (0.84%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 206 (0.84%) (Ranked 109)
 | 2023-07-18 | 24,309 | 204 |
 | 2023-07-19 | 24,421 | 206 |
 | 2023-07-20 | 24,531 | 206 |
-| 2023-07-21 | 24,551 | 206 |
+| 2023-07-21 | 24,552 | 206 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,595 (Ranked 172)  

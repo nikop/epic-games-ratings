@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-07-21T00:02:34.81103+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T08:02:45.9462482+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1525,7 +1530,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Boy",
@@ -1740,15 +1745,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:02:16.3201833+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:02:45.9462477+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.2445796+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:59:35.6908479+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:02:16.3202121+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:00:28.592395+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:02:45.9462788+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.58 (Ranked 424)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~623 |
-| Fetch Quest Complete | 90.00% | ~584 |
-| I can't wait! | 83.00% | ~539 |
-| Swish | 56.00% | ~363 |
+| Pushing a pull door | 96.00% | ~624 |
+| Fetch Quest Complete | 90.00% | ~585 |
+| I can't wait! | 83.00% | ~540 |
+| Swish | 56.00% | ~364 |
 | Clean up on Aisle 9 | 40.00% | ~260 |
 | Machine Maxed | 30.00% | ~195 |
 | Bug Fixer | 25.00% | ~162 |
 | Existential dread | 25.00% | ~162 |
 | Gerald of Riviera | 25.00% | ~162 |
 | Goal | 22.00% | ~143 |
-| I ran the numbers | 15.00% | ~97 |
+| I ran the numbers | 15.00% | ~98 |
 | Taking the plunge | 13.00% | ~84 |
-| Hidden Packages | 11.00% | ~71 |
+| Hidden Packages | 11.00% | ~72 |
 | GOOOAAAL | 9.00% | ~58 |
 | Ahoy Hoy | 6.00% | ~39 |
 | New Kid on the Block | 6.00% | ~39 |
@@ -29,9 +29,9 @@ Rating: 4.58 (Ranked 424)
 | GoldGuy Jr | 4.00% | ~26 |
 | Nose to the Grindstone | 4.00% | ~26 |
 | Waking nightmare | 4.00% | ~26 |
-| We come in peace | 3.00% | ~19 |
-| Crowning achievement | 3.00% | ~19 |
-| Hammer time | 3.00% | ~19 |
+| We come in peace | 3.00% | ~20 |
+| Crowning achievement | 3.00% | ~20 |
+| Hammer time | 3.00% | ~20 |
 | 1CC | 2.00% | ~13 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
 | To do. Done! | 2.00% | ~13 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 424)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 207)  
+Progressed: 650 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 647 | 0 |
 | 2023-07-19 | 648 | 0 |
 | 2023-07-20 | 649 | 0 |
+| 2023-07-21 | 650 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

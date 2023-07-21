@@ -230,9 +230,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -309,8 +309,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:03:34.1995045+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:04:04.2827441+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:57:05.4615324+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:03:34.1995233+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:57:20.8869011+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:04:04.282763+00:00"
 }

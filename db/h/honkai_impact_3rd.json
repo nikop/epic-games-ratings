@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -4370,10 +4370,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 9021,
       "NumberOfAwardsMax": 2571
+    },
+    {
+      "Time": "2023-07-21T07:59:25.3427972+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 9024,
+      "NumberOfAwardsMax": 2571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9021,
+  "NumberOfAwards": 9024,
   "NumberOfAwardsMax": 2571,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4441,7 +4447,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 454
+      "Count": 457
     },
     {
       "Text": "This game has a Kind Community",
@@ -4474,8 +4480,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-07-21T05:59:07.3971733+00:00",
+  "LastChanged": "2023-07-21T07:59:25.3427971+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.2617161+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:58:45.1548121+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:05:19.0805757+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:59:25.3427977+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:06:08.4109499+00:00"
 }

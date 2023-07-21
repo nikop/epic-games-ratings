@@ -1,35 +1,35 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 441)  
+Rating: 4.57 (Ranked 442)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~112,330 |
-| Where's that freaking Dwarf? | 46.00% | ~89,090 |
-| GG EZ | 28.00% | ~54,228 |
-| Speedrun | 26.00% | ~50,355 |
-| Déjà vu | 21.00% | ~40,671 |
-| Sock! SOCK! | 16.00% | ~30,988 |
-| DM intervention | 13.00% | ~25,177 |
-| Fireproof Wizardess | 9.00% | ~17,431 |
-| Livin' in a dwarven paradise | 7.00% | ~13,557 |
-| Way of the Wimp | 7.00% | ~13,557 |
-| A beer, two curses, three companions | 7.00% | ~13,557 |
-| The plot thickens... At the tavern | 5.00% | ~9,684 |
-| The Woman in the High Castle | 4.00% | ~7,747 |
-| The demons' feast | 3.00% | ~5,810 |
-| I am the night | 3.00% | ~5,810 |
-| Team Building Exercise | 3.00% | ~5,810 |
-| Shiny and Crôm | 2.00% | ~3,873 |
-| The Great Library | 2.00% | ~3,873 |
-| Torture and Sensibility | 2.00% | ~3,873 |
-| Res Judicata | 2.00% | ~3,873 |
-| Dwarf Fortress | 2.00% | ~3,873 |
-| The Ranger of Chaos | 2.00% | ~3,873 |
-| Thieves' Guild Accreditation | 2.00% | ~3,873 |
-| Oh, when I'll be level 10... | 2.00% | ~3,873 |
+| Alt+F4 | 58.00% | ~112,351 |
+| Where's that freaking Dwarf? | 46.00% | ~89,106 |
+| GG EZ | 28.00% | ~54,239 |
+| Speedrun | 26.00% | ~50,364 |
+| Déjà vu | 21.00% | ~40,679 |
+| Sock! SOCK! | 16.00% | ~30,993 |
+| DM intervention | 13.00% | ~25,182 |
+| Fireproof Wizardess | 9.00% | ~17,434 |
+| Livin' in a dwarven paradise | 7.00% | ~13,560 |
+| Way of the Wimp | 7.00% | ~13,560 |
+| A beer, two curses, three companions | 7.00% | ~13,560 |
+| The plot thickens... At the tavern | 5.00% | ~9,685 |
+| The Woman in the High Castle | 4.00% | ~7,748 |
+| The demons' feast | 3.00% | ~5,811 |
+| I am the night | 3.00% | ~5,811 |
+| Team Building Exercise | 3.00% | ~5,811 |
+| Shiny and Crôm | 2.00% | ~3,874 |
+| The Great Library | 2.00% | ~3,874 |
+| Torture and Sensibility | 2.00% | ~3,874 |
+| Res Judicata | 2.00% | ~3,874 |
+| Dwarf Fortress | 2.00% | ~3,874 |
+| The Ranger of Chaos | 2.00% | ~3,874 |
+| Thieves' Guild Accreditation | 2.00% | ~3,874 |
+| Oh, when I'll be level 10... | 2.00% | ~3,874 |
 | Urik's Depths | 1.00% | ~1,937 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,937 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,937 |
@@ -40,15 +40,15 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,937 |
 | Lust and Debauchery | 1.00% | ~1,937 |
 | Material Girl | 1.00% | ~1,937 |
-| Dead for good | 0.80% | ~1,549 |
-| Law and Order | 0.80% | ~1,549 |
-| It's been a hard day's night | 0.80% | ~1,549 |
+| Dead for good | 0.80% | ~1,550 |
+| Law and Order | 0.80% | ~1,550 |
+| It's been a hard day's night | 0.80% | ~1,550 |
 | The Dungeon Master | 0.70% | ~1,356 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,356 |
 | Lëgal Legend | 0.70% | ~1,356 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,162 |
-| I'd rather... Just... Sing! | 0.50% | ~968 |
-| The number of the counting shalt be 7 | 0.50% | ~968 |
+| I'd rather... Just... Sing! | 0.50% | ~969 |
+| The number of the counting shalt be 7 | 0.50% | ~969 |
 | Friendly fire | 0.40% | ~775 |
 | Holistic Adventuring Party | 0.30% | ~581 |
 | Scholar of the Lands of Fangh | 0.30% | ~581 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,673 (Ranked 57)  
+Progressed: 193,709 (Ranked 57)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 191,296 | 0 |
 | 2023-07-19 | 192,371 | 0 |
 | 2023-07-20 | 193,404 | 0 |
-| 2023-07-21 | 193,673 | 0 |
+| 2023-07-21 | 193,709 | 0 |
 ## Awards
 Max (Character Customization): 120  (Ranked 313)  
 Sum: 120 (Ranked 402)  

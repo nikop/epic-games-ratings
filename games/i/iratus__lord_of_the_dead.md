@@ -6,31 +6,31 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~30,053 |
+| Improvement | 85.00% | ~30,054 |
 | Blood Moon | 73.00% | ~25,811 |
 | Path of the Necromancer | 66.00% | ~23,336 |
-| Chainbreaker - I | 60.00% | ~21,214 |
-| Cursed Creature | 57.00% | ~20,153 |
-| Extraction | 57.00% | ~20,153 |
-| Chainbreaker - II | 55.00% | ~19,446 |
-| Necromancer's Apprentice | 51.00% | ~18,032 |
+| Chainbreaker - I | 60.00% | ~21,215 |
+| Cursed Creature | 57.00% | ~20,154 |
+| Extraction | 57.00% | ~20,154 |
+| Chainbreaker - II | 55.00% | ~19,447 |
+| Necromancer's Apprentice | 51.00% | ~18,033 |
 | Keeper of Keys | 47.00% | ~16,618 |
 | Distillation | 43.00% | ~15,204 |
 | Mountain King - I | 42.00% | ~14,850 |
 | Transmutation | 42.00% | ~14,850 |
-| Prepared Necromancer | 41.00% | ~14,496 |
-| Mountain King - II | 39.00% | ~13,789 |
+| Prepared Necromancer | 41.00% | ~14,497 |
+| Mountain King - II | 39.00% | ~13,790 |
 | Blind Rage | 38.00% | ~13,436 |
 | Mad Genius | 35.00% | ~12,375 |
-| Cannon Fodder - I | 34.00% | ~12,021 |
-| Soul of Lies | 34.00% | ~12,021 |
+| Cannon Fodder - I | 34.00% | ~12,022 |
+| Soul of Lies | 34.00% | ~12,022 |
 | Bane of Mercenaries - I | 33.00% | ~11,668 |
 | Bane of Mercenaries - II | 31.00% | ~10,961 |
 | Shadow Between Worlds | 30.00% | ~10,607 |
 | Cannon Fodder - II | 29.00% | ~10,254 |
 | Bane of Monsters | 28.00% | ~9,900 |
 | Chainbreaker - III | 28.00% | ~9,900 |
-| Revealed Secrets - I | 27.00% | ~9,546 |
+| Revealed Secrets - I | 27.00% | ~9,547 |
 | Revealed Secrets - II | 26.00% | ~9,193 |
 | Unholy Bones | 24.00% | ~8,486 |
 | Blood Elemental | 24.00% | ~8,486 |
@@ -40,19 +40,19 @@ Number of Ratings: 10,109  (23.09.2022)
 | Spiritual Attraction | 22.00% | ~7,779 |
 | Nightmare of the Humanity - I | 22.00% | ~7,779 |
 | Nightmare of the Humanity - II | 22.00% | ~7,779 |
-| That Was Easy! | 20.00% | ~7,071 |
-| Silent Waters | 20.00% | ~7,071 |
-| Calcination | 20.00% | ~7,071 |
-| Head of Order | 20.00% | ~7,071 |
+| That Was Easy! | 20.00% | ~7,072 |
+| Silent Waters | 20.00% | ~7,072 |
+| Calcination | 20.00% | ~7,072 |
+| Head of Order | 20.00% | ~7,072 |
 | Blood Mage | 17.00% | ~6,011 |
 | Wild Hunger | 16.00% | ~5,657 |
 | Rage Concentrated | 16.00% | ~5,657 |
 | Mountain King - III | 15.00% | ~5,304 |
 | Rare Warrior | 15.00% | ~5,304 |
 | Grand Arena | 14.00% | ~4,950 |
-| Blood Madness | 13.00% | ~4,596 |
-| First Sacrifice | 13.00% | ~4,596 |
-| Master of Alchemy | 13.00% | ~4,596 |
+| Blood Madness | 13.00% | ~4,597 |
+| First Sacrifice | 13.00% | ~4,597 |
+| Master of Alchemy | 13.00% | ~4,597 |
 | Legendary Warrior | 12.00% | ~4,243 |
 | Bane of Mercenaries - III | 10.00% | ~3,536 |
 | Monument to Greatness | 10.00% | ~3,536 |
@@ -78,11 +78,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | Sweet Revenge | 2.00% | ~707 |
 | Graveyard Call - III | 0.90% | ~318 |
 | I'll Be Back! | 0.80% | ~283 |
-| Doctorate in Potion Brewing | 0.70% | ~247 |
+| Doctorate in Potion Brewing | 0.70% | ~248 |
 | Unrivaled | 0.60% | ~212 |
 | Renowned Researcher | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,357 (Ranked 92)  
+Progressed: 35,358 (Ranked 92)  
 Completed: 23 (0.07%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,10 +174,10 @@ Completed: 23 (0.07%) (Ranked 197)
 | 2023-07-18 | 35,170 | 23 |
 | 2023-07-19 | 35,253 | 23 |
 | 2023-07-20 | 35,338 | 23 |
-| 2023-07-21 | 35,357 | 23 |
+| 2023-07-21 | 35,358 | 23 |
 ## Awards
 Max (Character Customization): 2,143  (Ranked 108)  
-Sum: 4,151 (Ranked 137)  
+Sum: 4,152 (Ranked 137)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -188,7 +188,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 213 |
 | This game has Amazing Characters | 211 |
 | This game has Diverse Characters | 211 |
-| This game is Extremely Fun | 209 |
+| This game is Extremely Fun | 210 |
 | This game has Quickly Understood Controls | 199 |
 | This game has Unique Visuals | 189 |
 | This game has a Creative Community | 100 |
@@ -290,3 +290,4 @@ Diff (max vs sum): -29
 | 2023-07-14 | 4.37 | - | 2,142 | 4,149 |
 | 2023-07-17 | 4.37 | - | 2,143 | 4,150 |
 | 2023-07-19 | 4.37 | - | 2,143 | 4,151 |
+| 2023-07-21 | 4.37 | - | 2,143 | 4,152 |

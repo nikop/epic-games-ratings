@@ -5176,18 +5176,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39559,
       "NumberOfAwardsMax": 21120
+    },
+    {
+      "Time": "2023-07-21T07:58:12.12315+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39593,
+      "NumberOfAwardsMax": 21154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39559,
-  "NumberOfAwardsMax": 21120,
+  "NumberOfAwards": 39593,
+  "NumberOfAwardsMax": 21154,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21120
+      "Count": 21154
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5256,7 +5262,7 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288162,
+  "EOS_Progressed": 288164,
   "EOS_Completed": 432,
   "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 7,
@@ -15091,6 +15097,11 @@
       "Time": "2023-07-21T07:04:15.5028571+00:00",
       "NumProgressed": 288162,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-07-21T08:04:53.1540586+00:00",
+      "NumProgressed": 288164,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 45,
@@ -15102,7 +15113,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34579
+      "UsersEstimate": 34580
     },
     {
       "ID": "PFA_10",
@@ -15382,7 +15393,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11526
+      "UsersEstimate": 11527
     },
     {
       "ID": "PFA_42",
@@ -15461,16 +15472,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288162,
+      "Progressed": 288164,
       "Completed": 432
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-20T21:57:51.5533377+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:04:15.5028565+00:00",
+  "LastChanged": "2023-07-21T07:58:12.1231478+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:04:53.154058+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:57:44.9524641+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:04:15.5029539+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:58:12.1231505+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:04:53.1541648+00:00"
 }

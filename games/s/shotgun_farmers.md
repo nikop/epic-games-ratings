@@ -21,7 +21,7 @@
 | Grave Digger | 22.00% | ~38 |
 | Drinking Problem | 21.00% | ~46 |
 | Professional Survivor | 20.00% | ~34 |
-| Quick-Draw Pod | 17.00% | ~29 |
+| Quick-Draw Pod | 18.00% | ~31 |
 | Pork Chop Express | 16.00% | ~35 |
 | Carrocketeer | 13.00% | ~29 |
 | Skin Of Your Teeth | 12.00% | ~27 |

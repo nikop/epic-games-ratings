@@ -7,8 +7,8 @@
 | Such a strange dream… | 100.00% | ~24 |
 | Your first fight | 92.00% | ~22 |
 | Good Person Chip | 83.00% | ~20 |
-| First winning | 75.00% | ~18 |
-| Your first job | 75.00% | ~18 |
+| First winning | 79.00% | ~19 |
+| Your first job | 79.00% | ~19 |
 | First defeat | 63.00% | ~15 |
 | Neurotrainer – power gainer! | 63.00% | ~15 |
 | Fitness professional | 58.00% | ~14 |
@@ -31,13 +31,14 @@
 | Law student | 17.00% | ~4 |
 | Fight for life | 13.00% | ~3 |
 | Employee of the year | 13.00% | ~3 |
+| Champion – starter pack | 8.00% | ~2 |
 | It's good to be alive | 8.00% | ~2 |
 | Extreme neuropower! | 8.00% | ~2 |
+| Now you are worthy | 4.00% | ~1 |
 | Legal courier | 4.00% | ~1 |
-| Champion – starter pack | 4.00% | ~1 |
+| Own four walls | 4.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
-| Now you are worthy | 0.00% | ~0 |
 | Gang wrangler | 0.00% | ~0 |
 | Problems of cyborgs | 0.00% | ~0 |
 | Trap disarmed | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | Champion – no way back | 0.00% | ~0 |
 | Absolute Champion! | 0.00% | ~0 |
 | Mysterious voice | 0.00% | ~0 |
-| Own four walls | 0.00% | ~0 |
 | The only right decision | 0.00% | ~0 |
 | Poisoned fighter | 0.00% | ~0 |
 | No blades in the gym | 0.00% | ~0 |

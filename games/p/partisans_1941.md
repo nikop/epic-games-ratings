@@ -19,7 +19,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Gang's All Here | 14.00% | ~156 |
 | One by One | 12.00% | ~134 |
 | Your Answer | 12.00% | ~134 |
-| The Big Bertha | 10.00% | ~111 |
+| The Big Bertha | 10.00% | ~112 |
 | Game Over | 9.00% | ~100 |
 | Lock, Stock | 7.00% | ~78 |
 | Payback Time | 6.00% | ~67 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,114 (Ranked 184)  
+Progressed: 1,115 (Ranked 184)  
 Completed: 1 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.09%) (Ranked 191)
 | 2023-07-15 | 1,107 | 1 |
 | 2023-07-17 | 1,108 | 1 |
 | 2023-07-20 | 1,113 | 1 |
-| 2023-07-21 | 1,114 | 1 |
+| 2023-07-21 | 1,115 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5713,10 +5713,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13819,
       "NumberOfAwardsMax": 6826
+    },
+    {
+      "Time": "2023-07-21T08:01:15.0668535+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13820,
+      "NumberOfAwardsMax": 6826
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13819,
+  "NumberOfAwards": 13820,
   "NumberOfAwardsMax": 6826,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5730,7 +5736,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 823
+      "Count": 824
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5793,9 +5799,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56224,
+  "EOS_Progressed": 56227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15298,6 +15304,11 @@
       "Time": "2023-07-21T07:06:53.3998989+00:00",
       "NumProgressed": 56224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T08:08:03.9559168+00:00",
+      "NumProgressed": 56227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15317,7 +15328,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7871
+      "UsersEstimate": 7872
     },
     {
       "ID": "Bannerlord",
@@ -15325,7 +15336,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12369
+      "UsersEstimate": 12370
     },
     {
       "ID": "Best served cold",
@@ -15469,7 +15480,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12369
+      "UsersEstimate": 12370
     },
     {
       "ID": "I can do it",
@@ -15517,7 +15528,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "Lance-a-lot",
@@ -15533,7 +15544,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17429
+      "UsersEstimate": 17430
     },
     {
       "ID": "Lawbringer",
@@ -15541,7 +15552,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20803
+      "UsersEstimate": 20804
     },
     {
       "ID": "Lawmaker",
@@ -15549,7 +15560,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12369
+      "UsersEstimate": 12370
     },
     {
       "ID": "Long live the Empire",
@@ -15557,7 +15568,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "Mastery",
@@ -15653,7 +15664,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "The king is pleased",
@@ -15661,7 +15672,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9559
     },
     {
       "ID": "This Is Our Land",
@@ -15685,7 +15696,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11807
+      "UsersEstimate": 11808
     },
     {
       "ID": "Undercover",
@@ -15716,15 +15727,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56224,
+      "Progressed": 56227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-21T06:00:37.8701724+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:06:53.3998984+00:00",
+  "LastChanged": "2023-07-21T08:01:15.0668534+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:08:03.9559165+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:00:12.885582+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:06:53.3999971+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:01:15.0668539+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:08:03.9560537+00:00"
 }

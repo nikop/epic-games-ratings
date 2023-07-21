@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1861,6 +1861,11 @@
       "Time": "2023-07-21T07:05:30.6934053+00:00",
       "NumProgressed": 542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T08:06:22.342789+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1976,15 +1981,15 @@
       "Name": "Facility Online",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2064,7 +2069,7 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2096,7 +2101,7 @@
       "Name": "On Target",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2175,14 +2180,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:05:30.6934046+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:06:22.3427884+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:00:49.6856529+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:05:30.6934461+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:02:01.5623342+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:06:22.3428281+00:00"
 }

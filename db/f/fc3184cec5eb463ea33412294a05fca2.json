@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 136,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.35,
   "EosHistory": [
@@ -525,9 +525,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -565,9 +565,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -621,9 +621,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:05:14.9625517+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:06:02.9333667+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:57:10.3211716+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:05:14.9625665+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:57:26.6939093+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:06:02.933385+00:00"
 }

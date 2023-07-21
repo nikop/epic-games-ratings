@@ -3,10 +3,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Find Allies | 5.00% | ~1 |
+| Powerful Allies | 5.00% | ~1 |
+| Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
+| Fashion Victim | 5.00% | ~1 |
+| Scholar | 5.00% | ~1 |
+| The Collector | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
-| Find Allies | 0.00% | ~0 |
-| Powerful Allies | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -18,7 +22,6 @@
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
@@ -27,15 +30,12 @@
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| Fashion Victim | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -1970,10 +1970,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4151,
       "NumberOfAwardsMax": 2143
+    },
+    {
+      "Time": "2023-07-21T07:59:54.8480632+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4152,
+      "NumberOfAwardsMax": 2143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4151,
+  "NumberOfAwards": 4152,
   "NumberOfAwardsMax": 2143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2023,7 +2029,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2044,9 +2050,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 35357,
+  "EOS_Progressed": 35358,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11694,6 +11700,11 @@
       "Time": "2023-07-21T06:04:18.2684383+00:00",
       "NumProgressed": 35357,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-07-21T08:04:21.1039556+00:00",
+      "NumProgressed": 35358,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -11705,7 +11716,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "achievements_10",
@@ -11721,7 +11732,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "achievements_12",
@@ -11737,7 +11748,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20153
+      "UsersEstimate": 20154
     },
     {
       "ID": "achievements_14",
@@ -11801,7 +11812,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "achievements_23",
@@ -11809,7 +11820,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21214
+      "UsersEstimate": 21215
     },
     {
       "ID": "achievements_24",
@@ -11817,7 +11828,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19447
     },
     {
       "ID": "achievements_25",
@@ -11841,7 +11852,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 13789
+      "UsersEstimate": 13790
     },
     {
       "ID": "achievements_28",
@@ -11889,7 +11900,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 12021
+      "UsersEstimate": 12022
     },
     {
       "ID": "achievements_33",
@@ -11961,7 +11972,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "achievements_41",
@@ -12009,7 +12020,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 30053
+      "UsersEstimate": 30054
     },
     {
       "ID": "achievements_47",
@@ -12017,7 +12028,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "achievements_48",
@@ -12041,7 +12052,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 18032
+      "UsersEstimate": 18033
     },
     {
       "ID": "achievements_50",
@@ -12057,7 +12068,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "achievements_52",
@@ -12073,7 +12084,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20153
+      "UsersEstimate": 20154
     },
     {
       "ID": "achievements_54",
@@ -12089,7 +12100,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "achievements_56",
@@ -12129,7 +12140,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 12021
+      "UsersEstimate": 12022
     },
     {
       "ID": "achievements_61",
@@ -12137,7 +12148,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "achievements_62",
@@ -12145,7 +12156,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9547
     },
     {
       "ID": "achievements_63",
@@ -12233,7 +12244,7 @@
       "Name": "Doctorate in Potion Brewing",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievements_73",
@@ -12304,15 +12315,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 35357,
+      "Progressed": 35358,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-07-19T19:59:25.9342428+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:03:48.3286181+00:00",
+  "LastChanged": "2023-07-21T07:59:54.8480631+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:04:21.1039551+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.77874+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:59:09.9187859+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:03:48.3287665+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:59:54.8480638+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:04:21.1041865+00:00"
 }

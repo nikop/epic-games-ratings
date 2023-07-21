@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9024,
+  "EOS_Progressed": 9025,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6547,6 +6547,11 @@
       "Time": "2023-07-21T05:04:25.1259313+00:00",
       "NumProgressed": 9024,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-21T08:04:19.1003026+00:00",
+      "NumProgressed": 9025,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6646,7 +6651,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH13",
@@ -6742,7 +6747,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH25",
@@ -6750,7 +6755,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH26",
@@ -6774,7 +6779,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH29",
@@ -6829,7 +6834,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9024,
+      "Progressed": 9025,
       "Completed": 43
     }
   ],
@@ -6837,8 +6842,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-21T07:03:46.709777+00:00",
+  "LastChanged_Achievements": "2023-07-21T08:04:19.1003022+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:58:36.1755386+00:00",
-  "LastUpdate_Achievements": "2023-07-21T07:03:46.7098397+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:59:13.9297502+00:00",
+  "LastUpdate_Achievements": "2023-07-21T08:04:19.1003688+00:00"
 }
