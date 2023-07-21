@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 459)  
+Rating: 4.56 (Ranked 460)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 459)
 | Infinite Growth... | 19.00% | ~543 |
 | Sputnik 2049 | 19.00% | ~543 |
 | Without Breaking Some Eggs... | 18.00% | ~514 |
-| Space Society | 13.00% | ~371 |
-| A Thousand Strong | 13.00% | ~371 |
-| Ready for a New World | 13.00% | ~371 |
+| Space Society | 13.00% | ~372 |
+| A Thousand Strong | 13.00% | ~372 |
+| Ready for a New World | 13.00% | ~372 |
 | Permanent Redesigns | 11.00% | ~314 |
 | Fully Recycled | 10.00% | ~286 |
 | Ain't Nobody Got Time for That | 10.00% | ~286 |
@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 459)
 | Gregor Spinoza | 0.90% | ~26 |
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.70% | ~20 |
-| Work Harder | 0.40% | ~11 |
+| Work Harder | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | Crunch Culture | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 459)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,857 (Ranked 155)  
+Progressed: 2,858 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 2,839 | 0 |
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
-| 2023-07-21 | 2,857 | 0 |
+| 2023-07-21 | 2,858 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

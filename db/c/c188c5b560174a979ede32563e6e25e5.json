@@ -2,7 +2,7 @@
   "ID": "c188c5b560174a979ede32563e6e25e5",
   "Name": "Eternal Evil",
   "ProductSlug": "eternal-evil-ca15ca",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 82,
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-21T14:01:46.0234235+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-07-21T11:01:15.7873878+00:00",
   "TotalAchievements": 31,
   "TotalAchievementsXP": 1000,
@@ -81,9 +87,9 @@
       "ID": "achvDestroyer",
       "SetID": "adne7po",
       "Name": "Destroyer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvEngineer",
@@ -97,9 +103,9 @@
       "ID": "achvExterminator",
       "SetID": "adne7po",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvGeographer",
@@ -161,9 +167,9 @@
       "ID": "achvMore_Blood",
       "SetID": "adne7po",
       "Name": "More Blood",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvMutant",
@@ -201,9 +207,9 @@
       "ID": "achvProfessional",
       "SetID": "adne7po",
       "Name": "Professional",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvRealism",
@@ -249,17 +255,17 @@
       "ID": "achvUndead_Killer",
       "SetID": "adne7po",
       "Name": "Undead Killer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvVampire_Hunter",
       "SetID": "adne7po",
       "Name": "Vampire Hunter",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achvWhat_are_you?",
@@ -282,13 +288,13 @@
     {
       "ID": "adne7po",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.7873877+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:08:08.9206334+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:01:46.0234231+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.0557109+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:04:18.4698187+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:08:08.920688+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:57:10.0360556+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:01:46.0234512+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-07-21T08:03:16.092042+00:00",
       "NumProgressed": 650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T14:03:37.5309205+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -469,7 +474,7 @@
       "Name": "1337 HAXXOR",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "15MachineTrophy",
@@ -493,7 +498,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -517,7 +522,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "AhoyTrophy",
@@ -557,7 +562,7 @@
       "Name": "Bombscare",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BorkTrophy",
@@ -581,7 +586,7 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DebugTrophy",
@@ -589,7 +594,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "DreadTrophy",
@@ -597,7 +602,7 @@
       "Name": "Existential dread",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "DropBallTrophy",
@@ -605,7 +610,7 @@
       "Name": "Drop the ball",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EntryTrophy",
@@ -613,7 +618,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "Ext4Trophy",
@@ -629,7 +634,7 @@
       "Name": "Fat Princess",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FloorTrophy",
@@ -637,7 +642,7 @@
       "Name": "Your Bloody Valentine",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "GoalMachineTrophy",
@@ -693,7 +698,7 @@
       "Name": "Hexadecimal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HighScoreTrophy",
@@ -723,9 +728,9 @@
       "ID": "KKBossTrophy",
       "SetID": "32aeje8",
       "Name": "Corporate Restructrure",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KonamiTrophy",
@@ -733,7 +738,7 @@
       "Name": "IMANOK CODE",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LoseTrophy",
@@ -747,9 +752,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 534
     },
     {
       "ID": "MaxPriceTrophy",
@@ -789,7 +794,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "RacerTrophy",
@@ -821,7 +826,7 @@
       "Name": "Slacker",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SpinTrophy",
@@ -837,7 +842,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "TerrorTrophy",
@@ -861,7 +866,7 @@
       "Name": "Intergalactic, planetary, planetary...",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TrashTrophy",
@@ -877,7 +882,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "YouthTrophy",
@@ -900,7 +905,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 0
     }
   ],
@@ -908,8 +913,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:10:26.0930744+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:03:37.5309201+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:02.3273394+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:54.8303384+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:10:26.093128+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:59:02.0499691+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:03:37.530959+00:00"
 }

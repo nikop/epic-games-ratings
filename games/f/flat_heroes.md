@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 71.00% | ~235 |
+| Dash Crash | 72.00% | ~238 |
 | Be water, my friend | 65.00% | ~215 |
 | Snake Eyes | 60.00% | ~199 |
 | Fireball | 52.00% | ~172 |
 | The King of Flat | 48.00% | ~159 |
 | Hit That Ball | 39.00% | ~129 |
 | Air Slash | 38.00% | ~126 |
-| Eat That Apple | 27.00% | ~89 |
+| Eat That Apple | 28.00% | ~93 |
 | Tornado Chaser | 15.00% | ~50 |
 | Bomberman | 11.00% | ~36 |
 | Bubble Party | 9.00% | ~30 |

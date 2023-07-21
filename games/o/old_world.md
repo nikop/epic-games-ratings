@@ -6,12 +6,17 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Clergy | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
+| Drillmaster | 0.10% | ~13 |
+| Capable | 0.10% | ~13 |
+| Conqueror | 0.10% | ~13 |
+| Devout | 0.10% | ~13 |
 | Enlightened | 0.10% | ~13 |
 | Explorer | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
@@ -32,16 +37,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
+| Hunters | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
 | Sages | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
 | Friendly Family | 0.10% | ~13 |
+| Game of the Week | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Hanging Gardens | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
+| Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
 | Oracle | 0.10% | ~13 |
 | Pyramids | 0.10% | ~13 |
@@ -49,8 +57,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
+| Macedonian Wars | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
 | Greece | 0.10% | ~13 |
+| Rome | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
 | Christianity | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
@@ -60,18 +70,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
+| Industrial Progress | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Mythology | 0.10% | ~13 |
+| Redemption | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
+| Kushite Cavalry | 0.10% | ~13 |
+| Legionary | 0.10% | ~13 |
 | Ambition Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
 | Points Victory | 0.10% | ~13 |
+| Randomized Families | 0.10% | ~13 |
+| Role-Playing | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
 | Win a Single Player Game | 0.10% | ~13 |
-| The Clergy | 0.10% | ~13 |
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
@@ -121,12 +136,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
-| Drillmaster | 0.00% | ~0 |
 | Brilliant | 0.00% | ~0 |
-| Capable | 0.00% | ~0 |
-| Conqueror | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Devout | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
@@ -161,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.00% | ~0 |
 | Event Level High | 0.00% | ~0 |
 | Clerics | 0.00% | ~0 |
-| Hunters | 0.00% | ~0 |
 | Landowners | 0.00% | ~0 |
 | Riders | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
@@ -169,7 +179,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
-| Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Run, Pheidippides, Run! | 0.00% | ~0 |
@@ -223,7 +232,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.00% | ~0 |
 | Adur Burzen-Mihr | 0.00% | ~0 |
 | Mausoleum | 0.00% | ~0 |
-| Musaeum | 0.00% | ~0 |
 | Pantheon | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
@@ -232,7 +240,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Learn to Play 5 | 0.00% | ~0 |
-| Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
@@ -242,7 +249,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
-| Rome | 0.00% | ~0 |
 | Old World Order | 0.00% | ~0 |
 | One True Faith | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
@@ -269,19 +275,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.00% | ~0 |
 | Naming Landmarks | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Industrial Progress | 0.00% | ~0 |
 | Military Prestige | 0.00% | ~0 |
 | Dualism | 0.00% | ~0 |
 | Enlightenment | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
-| Redemption | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Cimmerian Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
-| Kushite Cavalry | 0.00% | ~0 |
-| Legionary | 0.00% | ~0 |
 | Phalangite | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
 | Turreted Elephant | 0.00% | ~0 |
@@ -291,9 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Randomized Families | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
-| Role-Playing | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,983 (Ranked 113)  
+Progressed: 12,984 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,983 | 5 |
+| 2023-07-21 | 12,984 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

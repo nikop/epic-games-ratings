@@ -3078,9 +3078,9 @@
       "ID": "achievement_36",
       "SetID": "70p237j",
       "Name": "Kickstarter Backer",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 879
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_37",
@@ -3190,8 +3190,8 @@
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-07-20T22:58:05.3994393+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:08:17.4471569+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:03:16.4473724+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.2845118+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:18.8032953+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:08:17.4472021+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:19.6425608+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:03:16.4474043+00:00"
 }

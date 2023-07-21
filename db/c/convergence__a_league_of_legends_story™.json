@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1674,6 +1674,11 @@
       "Time": "2023-07-21T12:03:31.0431805+00:00",
       "NumProgressed": 768,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-21T14:04:02.0201055+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1781,7 +1786,7 @@
       "Name": "Family Memories",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FactorywoodChests1",
@@ -1797,7 +1802,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2029,7 +2034,7 @@
       "Name": "Sump Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "SyronGift",
@@ -2037,7 +2042,7 @@
       "Name": "Syron for Hope",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2053,7 +2058,7 @@
       "Name": "Theater Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2077,7 +2082,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "WatcherSpared",
@@ -2108,14 +2113,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:10:45.901224+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:04:02.020105+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:06:57.5437843+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:10:45.9012864+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:00:17.6342971+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:04:02.0201472+00:00"
 }

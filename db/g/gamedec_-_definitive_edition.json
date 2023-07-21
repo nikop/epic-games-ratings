@@ -3,8 +3,8 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 772,
-  "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 425,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 47,
@@ -372,9 +372,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 238245,
+  "EOS_Progressed": 238247,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10327,6 +10327,11 @@
       "Time": "2023-07-21T13:10:27.6027762+00:00",
       "NumProgressed": 238245,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-21T14:03:39.2283569+00:00",
+      "NumProgressed": 238247,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10338,7 +10343,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64326
+      "UsersEstimate": 64327
     },
     {
       "ID": "ACH_AON",
@@ -10402,7 +10407,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28589
+      "UsersEstimate": 28590
     },
     {
       "ID": "ACH_HATTRICK",
@@ -10658,7 +10663,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59561
+      "UsersEstimate": 59562
     },
     {
       "ID": "ACH_SOREAD",
@@ -10753,7 +10758,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238245,
+      "Progressed": 238247,
       "Completed": 7
     }
   ],
@@ -10761,8 +10766,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-19T09:58:44.1182898+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:10:27.6027757+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:03:39.2283563+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.5195564+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:38.8821034+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:10:27.6028909+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:43.6893784+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:03:39.2284348+00:00"
 }

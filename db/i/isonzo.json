@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6385,
+  "EOS_Progressed": 6386,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3416,6 +3416,11 @@
       "Time": "2023-07-21T12:04:57.1836619+00:00",
       "NumProgressed": 6385,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-21T14:05:48.2006647+00:00",
+      "NumProgressed": 6386,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3563,7 +3568,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -3595,7 +3600,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3603,7 +3608,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3635,7 +3640,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3779,14 +3784,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6385,
+      "Progressed": 6386,
       "Completed": 8
     }
   ],
@@ -3794,8 +3799,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-16T15:57:43.9096857+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:12:12.9619417+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:05:48.2006643+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:26.8768515+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:13.6350776+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:12:12.9620029+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:13.5288214+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:05:48.2007036+00:00"
 }

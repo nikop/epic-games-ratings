@@ -2,10 +2,10 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 391,
+  "Ranking_Rating": 392,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 164,
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 82,
@@ -4570,10 +4570,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2939,
       "NumberOfAwardsMax": 392
+    },
+    {
+      "Time": "2023-07-21T14:00:01.0919583+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2943,
+      "NumberOfAwardsMax": 392
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2939,
+  "NumberOfAwards": 2943,
   "NumberOfAwardsMax": 392,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4587,7 +4593,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4599,7 +4605,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 378
+      "Count": 381
     },
     {
       "Text": "This game is Relaxing",
@@ -4649,8 +4655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-07-20T13:10:03.1814355+00:00",
+  "LastChanged": "2023-07-21T14:00:01.0919581+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.8498631+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:06:42.4782148+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:12:49.4021834+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:00:01.0919587+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:06:32.0654659+00:00"
 }

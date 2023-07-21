@@ -2,8 +2,8 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
   "Ranking_EOS_Progress": 381,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": null,
@@ -122,9 +122,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 5,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_05",
@@ -250,9 +250,9 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_21",
@@ -290,9 +290,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_26",
@@ -330,25 +330,25 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_34",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:10:52.2063642+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:04:33.9335608+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:10:52.2063947+00:00"
+  "LastChanged_Achievements": "2023-07-21T14:04:10.3212823+00:00",
+  "LastUpdate_Ratings": "2023-07-21T13:57:29.3217184+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:04:10.321303+00:00"
 }

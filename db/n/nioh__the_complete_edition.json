@@ -2,10 +2,10 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 459,
-  "Ranking_Popularity": 45,
+  "Ranking_Rating": 442,
+  "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 57,
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 82,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 10807,
   "RatingHistory": [
     {
@@ -5678,18 +5678,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 18341,
       "NumberOfAwardsMax": 7592
+    },
+    {
+      "Time": "2023-07-21T13:57:10.4470601+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 18346,
+      "NumberOfAwardsMax": 7597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18341,
-  "NumberOfAwardsMax": 7592,
+  "NumberOfAwards": 18346,
+  "NumberOfAwardsMax": 7597,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7592
+      "Count": 7597
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5757,8 +5763,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-07-21T08:57:12.1067723+00:00",
+  "LastChanged": "2023-07-21T13:57:10.4470599+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.5493595+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:04:18.7438152+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:13:41.3898661+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:57:10.4470606+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:07:37.1006109+00:00"
 }

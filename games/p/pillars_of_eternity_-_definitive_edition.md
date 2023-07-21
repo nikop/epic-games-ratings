@@ -6,7 +6,7 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 81.00% | ~879 |
+| Kickstarter Backer | 82.00% | ~890 |
 | Completed Act I | 30.00% | ~326 |
 | 5 Upgrades in Stronghold | 26.00% | ~282 |
 | First 5 Levels of Od Nua | 24.00% | ~260 |

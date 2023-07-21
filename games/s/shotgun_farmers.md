@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 74.00% | ~164 |
-| Aspairagus | 56.00% | ~96 |
-| First Blood | 53.00% | ~117 |
-| Triple Kill | 53.00% | ~117 |
+| Aspairagus | 55.00% | ~95 |
+| First Blood | 53.00% | ~118 |
+| Triple Kill | 53.00% | ~118 |
 | Survivor | 52.00% | ~89 |
-| No Asperascope | 48.00% | ~106 |
-| Cornivore | 48.00% | ~106 |
-| I Believe I Can Fly | 45.00% | ~99 |
-| Early Survivor | 41.00% | ~70 |
-| No Diggity | 40.00% | ~68 |
+| No Asperascope | 48.00% | ~107 |
+| Cornivore | 48.00% | ~107 |
+| I Believe I Can Fly | 45.00% | ~100 |
+| Early Survivor | 41.00% | ~71 |
+| No Diggity | 40.00% | ~69 |
 | Amateur Survivor | 29.00% | ~50 |
-| 10K | 26.00% | ~57 |
-| Bouncemato | 26.00% | ~44 |
-| 15K | 25.00% | ~55 |
+| 10K | 26.00% | ~58 |
+| Bouncemato | 26.00% | ~45 |
+| 15K | 25.00% | ~56 |
 | Grave Digger | 22.00% | ~38 |
-| Drinking Problem | 21.00% | ~46 |
+| Drinking Problem | 21.00% | ~47 |
 | Professional Survivor | 20.00% | ~34 |
 | Quick-Draw Pod | 18.00% | ~31 |
-| Pork Chop Express | 16.00% | ~35 |
+| Pork Chop Express | 16.00% | ~36 |
 | Carrocketeer | 13.00% | ~29 |
 | Skin Of Your Teeth | 12.00% | ~27 |
 | Oh My Gourd | 12.00% | ~21 |
@@ -32,7 +32,7 @@
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
 | Eggtraordinary | 10.00% | ~22 |
-| Perfect | 10.00% | ~17 |
+| Perfect | 9.00% | ~15 |
 | Expert Survivor | 9.00% | ~15 |
 | Bring Home The Bacon | 8.00% | ~18 |
 | Quadsparagus | 8.00% | ~14 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 264)  
+Progressed: 222 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 213 | 0 |
 | 2023-07-19 | 217 | 0 |
 | 2023-07-20 | 220 | 0 |
-| 2023-07-21 | 221 | 0 |
+| 2023-07-21 | 222 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

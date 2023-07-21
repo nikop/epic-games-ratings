@@ -2,10 +2,10 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 61,
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 82,
@@ -5140,10 +5140,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 14953,
       "NumberOfAwardsMax": 9505
+    },
+    {
+      "Time": "2023-07-21T13:59:15.1051215+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 14955,
+      "NumberOfAwardsMax": 9505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14953,
+  "NumberOfAwards": 14955,
   "NumberOfAwardsMax": 9505,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5175,7 +5181,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 698
+      "Count": 700
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5231,8 +5237,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-07-21T09:59:08.6103874+00:00",
+  "LastChanged": "2023-07-21T13:59:15.1051214+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.4144269+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:06:03.8556873+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:10:55.4443883+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:59:15.1051219+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:04:14.4679+00:00"
 }

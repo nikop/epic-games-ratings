@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 1249,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
@@ -1578,9 +1578,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 575
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_FineEV9",
@@ -1642,8 +1642,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:08:10.2227266+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:01:47.6690724+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7115125+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:07:38.5065029+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:08:10.2227589+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:01:06.0675973+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:01:47.6690905+00:00"
 }

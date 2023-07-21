@@ -40,10 +40,10 @@ Rating: 4.40 (Ranked 691)
 | The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |
+| Road Rage | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | It'll Buff Right Out | 0.60% | ~20 |
-| Road Rage | 0.60% | ~20 |
 | Sink or Swim | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | From Paris with Love | 0.50% | ~17 |

@@ -22,7 +22,7 @@ Rating: 4.42 (Ranked 663)
 | Making a Stand | 39.00% | ~1,165 |
 | Where It All Begun | 35.00% | ~1,045 |
 | Recouped Investment | 35.00% | ~1,045 |
-| Omelette Du Fromage | 31.00% | ~926 |
+| Omelette Du Fromage | 32.00% | ~956 |
 | The More The Merrier | 28.00% | ~836 |
 | Living Nightmare | 27.00% | ~806 |
 | The Darwin Era Was Here | 24.00% | ~717 |

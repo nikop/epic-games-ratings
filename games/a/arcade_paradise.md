@@ -5,27 +5,27 @@ Rating: 4.58 (Ranked 424)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~624 |
-| Fetch Quest Complete | 90.00% | ~585 |
-| I can't wait! | 83.00% | ~540 |
-| Swish | 56.00% | ~364 |
+| Pushing a pull door | 96.00% | ~625 |
+| Fetch Quest Complete | 90.00% | ~586 |
+| I can't wait! | 82.00% | ~534 |
+| Swish | 56.00% | ~365 |
 | Clean up on Aisle 9 | 40.00% | ~260 |
 | Machine Maxed | 30.00% | ~195 |
-| Bug Fixer | 25.00% | ~162 |
-| Existential dread | 25.00% | ~162 |
-| Gerald of Riviera | 25.00% | ~162 |
+| Bug Fixer | 25.00% | ~163 |
+| Existential dread | 25.00% | ~163 |
+| Gerald of Riviera | 25.00% | ~163 |
 | Goal | 22.00% | ~143 |
 | I ran the numbers | 15.00% | ~98 |
-| Taking the plunge | 13.00% | ~84 |
+| Taking the plunge | 13.00% | ~85 |
 | Hidden Packages | 11.00% | ~72 |
-| GOOOAAAL | 9.00% | ~58 |
+| GOOOAAAL | 9.00% | ~59 |
 | Ahoy Hoy | 6.00% | ~39 |
 | New Kid on the Block | 6.00% | ~39 |
 | Jimmy Goldman Would be Proud | 6.00% | ~39 |
 | You Spin Me Round | 6.00% | ~39 |
-| Bombscare | 5.00% | ~32 |
-| Rhythm is a dancer | 5.00% | ~32 |
-| Your Bloody Valentine | 5.00% | ~32 |
+| Bombscare | 5.00% | ~33 |
+| Rhythm is a dancer | 5.00% | ~33 |
+| Your Bloody Valentine | 5.00% | ~33 |
 | GoldGuy Jr | 4.00% | ~26 |
 | Nose to the Grindstone | 4.00% | ~26 |
 | Waking nightmare | 4.00% | ~26 |
@@ -37,13 +37,13 @@ Rating: 4.58 (Ranked 424)
 | To do. Done! | 2.00% | ~13 |
 | Modern Gorefare | 2.00% | ~13 |
 | GTA: Crime City | 2.00% | ~13 |
-| 1337 HAXXOR | 1.00% | ~6 |
-| Drop the ball | 1.00% | ~6 |
-| Fat Princess | 1.00% | ~6 |
-| Hexadecimal | 1.00% | ~6 |
-| IMANOK CODE | 1.00% | ~6 |
-| Slacker | 1.00% | ~6 |
-| Intergalactic, planetary, planetary... | 1.00% | ~6 |
+| 1337 HAXXOR | 1.00% | ~7 |
+| Drop the ball | 1.00% | ~7 |
+| Fat Princess | 1.00% | ~7 |
+| Hexadecimal | 1.00% | ~7 |
+| IMANOK CODE | 1.00% | ~7 |
+| Slacker | 1.00% | ~7 |
+| Intergalactic, planetary, planetary... | 1.00% | ~7 |
 | Fresh Prince of Grindstone | 0.90% | ~6 |
 | True Capitalist | 0.90% | ~6 |
 | It's a horror game | 0.90% | ~6 |
@@ -52,15 +52,15 @@ Rating: 4.58 (Ranked 424)
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~5 |
 | Friends Reunited | 0.60% | ~4 |
 | Arcadeception | 0.60% | ~4 |
+| Corporate Restructrure | 0.50% | ~3 |
 | Sonically Youthful | 0.50% | ~3 |
-| Corporate Restructrure | 0.30% | ~2 |
 | Pimp My Ride | 0.30% | ~2 |
 | Many Machines Maxed | 0.20% | ~1 |
 | Ballz To The Wallz | 0.20% | ~1 |
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 206)  
+Progressed: 651 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 647 | 0 |
 | 2023-07-19 | 648 | 0 |
 | 2023-07-20 | 649 | 0 |
-| 2023-07-21 | 650 | 0 |
+| 2023-07-21 | 651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

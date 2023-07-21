@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Potomac Computer Systems | 100.00% | ~2,945 |
-| Traveler | 5.00% | ~147 |
+| Traveler | 6.00% | ~177 |
 | Explorer | 4.00% | ~118 |
 | Adventurer | 4.00% | ~118 |
 | Hero | 4.00% | ~118 |

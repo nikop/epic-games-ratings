@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-07-21T13:11:55.8729353+00:00",
       "NumProgressed": 816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T14:05:27.0970393+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1275,7 +1280,7 @@
       "Name": "Act I Complete",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1307,7 +1312,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1331,7 +1336,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1411,7 +1416,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1425,9 +1430,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1435,7 +1440,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1475,7 +1480,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1490,7 +1495,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 0
     }
   ],
@@ -1498,8 +1503,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:11:55.8729348+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:05:27.0970389+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.9591324+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:11.5050854+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:11:55.8729618+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:11.4080743+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:05:27.0970568+00:00"
 }

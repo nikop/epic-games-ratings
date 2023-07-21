@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 929,
+  "EOS_Progressed": 930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-07-21T09:04:38.2709998+00:00",
       "NumProgressed": 929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T14:04:43.5777092+00:00",
+      "NumProgressed": 930,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1304,7 +1309,7 @@
       "Name": "We made it",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -1439,7 +1444,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 929,
+      "Progressed": 930,
       "Completed": 0
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:11:19.7293234+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:04:43.5777088+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.542895+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:23.5364647+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:11:19.7293664+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:26.9918789+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:04:43.5777411+00:00"
 }

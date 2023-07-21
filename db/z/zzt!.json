@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -3403,9 +3403,9 @@
       "ID": "2",
       "SetID": "dm385hd",
       "Name": "Traveler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 147
+      "UsersEstimate": 177
     },
     {
       "ID": "3",
@@ -3444,8 +3444,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:08:19.0108841+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:03:18.2497588+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:11.1677444+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:58.894755+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:08:19.0109144+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:59:07.3507985+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:03:18.2497792+00:00"
 }

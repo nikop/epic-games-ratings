@@ -1557,7 +1557,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12983,
+  "EOS_Progressed": 12984,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -8207,6 +8207,11 @@
       "Time": "2023-07-21T12:05:08.7855626+00:00",
       "NumProgressed": 12983,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T14:06:03.2902675+00:00",
+      "NumProgressed": 12984,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8592,9 +8597,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -8608,17 +8613,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
       "SetID": "9201eeb",
       "Name": "Conqueror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -8632,9 +8637,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -9072,9 +9077,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -9168,9 +9173,9 @@
       "ID": "ACHIEVEMENT_GOTW",
       "SetID": "9201eeb",
       "Name": "Game of the Week",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_ALTERNATE_WIN",
@@ -9648,9 +9653,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -9776,9 +9781,9 @@
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
       "SetID": "9201eeb",
       "Name": "Macedonian Wars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST",
@@ -9872,9 +9877,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -10160,9 +10165,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -10216,9 +10221,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -10280,17 +10285,17 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -10392,9 +10397,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
       "SetID": "9201eeb",
       "Name": "Randomized Families",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
@@ -10408,9 +10413,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
       "SetID": "9201eeb",
       "Name": "Role-Playing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_TIME",
@@ -10496,9 +10501,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -10585,21 +10590,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12983,
+      "Progressed": 12984,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12983,
+      "Progressed": 12984,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:12:25.4041512+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:06:03.2902668+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:05:38.1009428+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:12:25.4049777+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:58:42.729945+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:06:03.2909652+00:00"
 }

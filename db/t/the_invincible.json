@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 82,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.7963174+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:07:54.5601342+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:11:36.9356247+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:01:26.3643362+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:05:04.5171683+00:00"
 }

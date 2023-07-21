@@ -34,12 +34,12 @@
 | Whiz Kid | 10.00% | ~77 |
 | Chaincrawler Explorer | 9.00% | ~69 |
 | Good Neighbor | 9.00% | ~69 |
-| Family Memories | 8.00% | ~61 |
-| Fairgrounds Explorer | 8.00% | ~61 |
-| Sump Explorer | 8.00% | ~61 |
-| Syron for Hope | 8.00% | ~61 |
-| Theater Explorer | 8.00% | ~61 |
-| Ask Questions Later | 8.00% | ~61 |
+| Family Memories | 8.00% | ~62 |
+| Fairgrounds Explorer | 8.00% | ~62 |
+| Sump Explorer | 8.00% | ~62 |
+| Syron for Hope | 8.00% | ~62 |
+| Theater Explorer | 8.00% | ~62 |
+| Ask Questions Later | 8.00% | ~62 |
 | Cultivair Explorer | 7.00% | ~54 |
 | Factorywood Explorer | 7.00% | ~54 |
 | Corin Goes Home | 6.00% | ~46 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 198)  
+Progressed: 769 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-17 | 760 | 4 |
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
-| 2023-07-21 | 768 | 4 |
+| 2023-07-21 | 769 | 4 |

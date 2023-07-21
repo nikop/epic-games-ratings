@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39070,
+  "EOS_Progressed": 39072,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5588,6 +5588,11 @@
       "Time": "2023-07-21T13:11:18.6187453+00:00",
       "NumProgressed": 39070,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T14:04:42.2600843+00:00",
+      "NumProgressed": 39072,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5863,7 +5868,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "MAGIC_TANTA",
@@ -6022,22 +6027,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39070,
+      "Progressed": 39072,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3907,
-      "Completed": 3907
+      "Progressed": 3909,
+      "Completed": 3909
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-21T13:11:18.6187447+00:00",
+  "LastChanged_Achievements": "2023-07-21T14:04:42.2600839+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.0816772+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:06:08.6878427+00:00",
-  "LastUpdate_Achievements": "2023-07-21T13:11:18.6188273+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:59:21.2579607+00:00",
+  "LastUpdate_Achievements": "2023-07-21T14:04:42.2601443+00:00"
 }
