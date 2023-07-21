@@ -14,7 +14,6 @@
 | The Prince in Heels | 15.00% | ~116 |
 | Immaculate Aim | 15.00% | ~116 |
 | The Brass Boss | 15.00% | ~116 |
-| Treasure Trove | 14.00% | ~108 |
 | The Betrayer | 14.00% | ~108 |
 | The Man Who Shattered Time | 14.00% | ~108 |
 | The Loose Cannon | 14.00% | ~108 |
@@ -22,15 +21,16 @@
 | Time Flies | 14.00% | ~108 |
 | The Harder They Fall | 14.00% | ~108 |
 | No, Thanks! | 14.00% | ~108 |
-| Honest Mistake | 14.00% | ~108 |
 | Fast Learner | 14.00% | ~108 |
 | Immaculate Aim | 14.00% | ~108 |
 | The Family Fortune | 14.00% | ~108 |
+| Treasure Trove | 13.00% | ~100 |
 | Like Clockwork | 13.00% | ~100 |
+| Honest Mistake | 13.00% | ~100 |
 | Golem Chaser | 13.00% | ~100 |
 | Check Your Pulse | 13.00% | ~100 |
-| Right On Time | 12.00% | ~92 |
-| Street Style | 12.00% | ~92 |
+| Right On Time | 12.00% | ~93 |
+| Street Style | 12.00% | ~93 |
 | Whiz Kid | 10.00% | ~77 |
 | Chaincrawler Explorer | 9.00% | ~69 |
 | Good Neighbor | 9.00% | ~69 |
@@ -45,10 +45,10 @@
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
-| Golem Hunter | 5.00% | ~38 |
+| Golem Hunter | 5.00% | ~39 |
+| Rungs Was Right | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
 | Hexlock for Protection | 4.00% | ~31 |
-| Rungs Was Right | 4.00% | ~31 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 198)  
+Progressed: 771 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-17 | 760 | 4 |
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
-| 2023-07-21 | 770 | 4 |
+| 2023-07-21 | 771 | 4 |

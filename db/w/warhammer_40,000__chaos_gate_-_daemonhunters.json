@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,7 +606,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2996,
+  "EOS_Progressed": 2997,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -2361,6 +2361,11 @@
       "Time": "2023-07-21T15:03:52.1417229+00:00",
       "NumProgressed": 2996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T17:03:50.7254839+00:00",
+      "NumProgressed": 2997,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2460,7 +2465,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2564,7 +2569,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Kills_Exterminator",
@@ -2843,21 +2848,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2996,
+      "Progressed": 2997,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2996,
+      "Progressed": 2997,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:03:58.8039766+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:03:50.7254831+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:59:33.5511501+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:03:58.8040611+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:59:43.5330435+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:03:50.7255366+00:00"
 }

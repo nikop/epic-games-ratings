@@ -2,10 +2,10 @@
   "ID": "945d71a05d754f00b80084ab92027ce7",
   "Name": "Fragile Existence",
   "ProductSlug": "fragile-existence-633ad0",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.2718573+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:59:32.0284252+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:01:44.2564763+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:59:41.4132734+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:02:09.9078318+00:00"
 }

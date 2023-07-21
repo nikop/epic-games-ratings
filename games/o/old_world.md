@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.20% | ~26 |
+| The Clergy | 0.30% | ~39 |
 | The Great Mage | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -60,11 +60,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.10% | ~13 |
 | Hanging Gardens | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
+| Adur Burzen-Mihr | 0.10% | ~13 |
 | Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
 | Oracle | 0.10% | ~13 |
+| Pantheon | 0.10% | ~13 |
 | Pyramids | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
 | Learn to Play 2 | 0.10% | ~13 |
@@ -75,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
+| Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
@@ -82,14 +85,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
+| Babylonian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Greek Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
+| Zoroastrianism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Naming Landmarks | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
+| Dualism | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Mythology | 0.10% | ~13 |
 | Redemption | 0.10% | ~13 |
@@ -238,9 +244,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
-| Adur Burzen-Mihr | 0.00% | ~0 |
 | Mausoleum | 0.00% | ~0 |
-| Pantheon | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
@@ -261,16 +265,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
-| Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Babylonian Paganism | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
-| Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
@@ -278,7 +279,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Military Prestige | 0.00% | ~0 |
-| Dualism | 0.00% | ~0 |
 | Enlightenment | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,987 (Ranked 113)  
+Progressed: 12,988 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,987 | 5 |
+| 2023-07-21 | 12,988 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1823,9 +1823,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 347
     },
     {
       "ID": "MQ02_1",
@@ -2048,8 +2048,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:06:56.6247183+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:07:20.7285644+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:57:59.9457609+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:06:56.6247759+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:57:52.0720302+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:07:20.7285895+00:00"
 }

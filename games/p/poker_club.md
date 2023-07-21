@@ -5,29 +5,29 @@ Rating: 3.81 (Ranked 944)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~383,535 |
-| Handy | 40.00% | ~201,860 |
-| Cold Caller | 39.00% | ~196,814 |
-| A Bit On The Side | 26.00% | ~131,209 |
-| Backdoor | 24.00% | ~121,116 |
-| Rank Amateur | 21.00% | ~105,977 |
-| Three Way | 18.00% | ~90,837 |
-| Deadly Assassin | 15.00% | ~75,698 |
-| Gutshot | 13.00% | ~65,605 |
-| Risk It For A Biscuit | 13.00% | ~65,605 |
-| Showoff | 13.00% | ~65,605 |
-| W.H.I.P. | 11.00% | ~55,512 |
-| Bet Bet Bet | 9.00% | ~45,419 |
-| Blindman's Bluff | 8.00% | ~40,372 |
-| Poker Joker | 8.00% | ~40,372 |
+| Pro Creation | 76.00% | ~383,545 |
+| Handy | 40.00% | ~201,866 |
+| Cold Caller | 39.00% | ~196,819 |
+| A Bit On The Side | 26.00% | ~131,213 |
+| Backdoor | 24.00% | ~121,119 |
+| Rank Amateur | 21.00% | ~105,979 |
+| Three Way | 18.00% | ~90,840 |
+| Deadly Assassin | 15.00% | ~75,700 |
+| Gutshot | 13.00% | ~65,606 |
+| Risk It For A Biscuit | 13.00% | ~65,606 |
+| Showoff | 13.00% | ~65,606 |
+| W.H.I.P. | 11.00% | ~55,513 |
+| Bet Bet Bet | 9.00% | ~45,420 |
+| Blindman's Bluff | 8.00% | ~40,373 |
+| Poker Joker | 8.00% | ~40,373 |
 | Dog Eat Dog | 7.00% | ~35,326 |
 | Never Give Up | 7.00% | ~35,326 |
 | Quack Quack | 7.00% | ~35,326 |
 | The Bigger They Are | 7.00% | ~35,326 |
 | Total Knock Out | 7.00% | ~35,326 |
-| Give Your Regards To Broadway | 6.00% | ~30,279 |
-| Check Yourself | 4.00% | ~20,186 |
-| Moneymaker | 4.00% | ~20,186 |
+| Give Your Regards To Broadway | 6.00% | ~30,280 |
+| Check Yourself | 4.00% | ~20,187 |
+| Moneymaker | 4.00% | ~20,187 |
 | In The Gang | 3.00% | ~15,140 |
 | On The Button | 3.00% | ~15,140 |
 | Before You Wreck Yourself | 2.00% | ~10,093 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 944)
 | Rounder | 0.10% | ~505 |
 | Top Dog | 0.10% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504,651 (Ranked 31)  
+Progressed: 504,664 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.00%) (Ranked 238)
 | 2023-07-18 | 503,553 | 1 |
 | 2023-07-19 | 503,938 | 1 |
 | 2023-07-20 | 504,341 | 1 |
-| 2023-07-21 | 504,651 | 1 |
+| 2023-07-21 | 504,664 | 1 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 459)  
 Sum: 29 (Ranked 472)  

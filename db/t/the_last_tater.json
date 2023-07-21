@@ -2,10 +2,10 @@
   "ID": "6b5f8a664b494764919f6aadb3e2a9d0",
   "Name": "The Last Tater",
   "ProductSlug": "the-last-tater-fb2053",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-31T14:00:00+00:00",
     "PcReleaseDate": "2022-05-18T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T02:22:04.5867932+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:57:59.2232546+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:07:14.1869206+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:57:51.3478474+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:07:40.2455301+00:00"
 }

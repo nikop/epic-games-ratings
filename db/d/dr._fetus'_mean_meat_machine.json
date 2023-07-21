@@ -2,10 +2,10 @@
   "ID": "040c5764b6844dbda4575c728528fda6",
   "Name": "Dr. Fetus\u0027 Mean Meat Machine",
   "ProductSlug": "dr-fetus-mean-meat-machine-d6a29e",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-06-22T15:00:00+00:00",
     "PcReleaseDate": "2023-06-22T15:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-06-27T07:58:29.244611+00:00",
   "FirstSeenAchievements": "2023-04-25T20:48:20.2877842+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:04:13.1163316+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:04:16.0738898+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:26.7065509+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:59:24.9960415+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:04:13.1163351+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:59:33.9458519+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:04:16.0738929+00:00"
 }

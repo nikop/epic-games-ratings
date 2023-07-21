@@ -1150,7 +1150,7 @@
   ],
   "EOS_Progressed": 4735,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5956,9 +5956,9 @@
       "ID": "UNLOCK_RESEARCH_25",
       "SetID": "5349c2e",
       "Name": "Luminary Researcher",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1610
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -5988,8 +5988,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-20T20:01:14.5225521+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:01:59.7360502+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:02:27.4695066+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:56.6430325+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:00:54.948619+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:01:59.7361074+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:01:15.4724856+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:02:27.4695463+00:00"
 }

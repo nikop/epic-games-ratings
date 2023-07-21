@@ -12,8 +12,8 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 15.00% | ~13 |
 | Flawless Victory | 15.00% | ~13 |
 | Hit 'Em Where It Hurts | 15.00% | ~13 |
-| Perk Shard Punch Card | 14.00% | ~12 |
-| Ten Steps from the Grave | 14.00% | ~12 |
+| Perk Shard Punch Card | 13.00% | ~12 |
+| Ten Steps from the Grave | 13.00% | ~12 |
 | Cold-Blooded Critters | 11.00% | ~10 |
 | Spending Spree | 11.00% | ~10 |
 | Everything Must Go! | 10.00% | ~9 |
@@ -30,13 +30,13 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 309)  
+Progressed: 89 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
-| 2023-07-21 | 88 | 0 |
+| 2023-07-21 | 89 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

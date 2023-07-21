@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2077,
+  "EOS_Progressed": 2078,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3936,6 +3936,11 @@
       "Time": "2023-07-21T16:03:52.6543366+00:00",
       "NumProgressed": 2077,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T17:03:43.7756486+00:00",
+      "NumProgressed": 2078,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3955,7 +3960,7 @@
       "Name": "Puppetmaster",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "BOT_DESTROYER",
@@ -4051,7 +4056,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "GUARD_MAKER",
@@ -4122,14 +4127,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2077,
+      "Progressed": 2078,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:03:52.6543361+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:03:43.7756482+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.446909+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:57:52.4151114+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:03:52.6543847+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:57:43.2321947+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:03:43.7756808+00:00"
 }

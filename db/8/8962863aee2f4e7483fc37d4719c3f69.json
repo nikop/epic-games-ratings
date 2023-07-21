@@ -2,10 +2,10 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3 Pre Purchase",
   "ProductSlug": "payday-3",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-21T16:08:00+00:00",
     "PcReleaseDate": "2023-09-21T16:08:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-20T17:57:05.6114035+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:57:37.5531372+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:01:42.781722+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:57:23.8618411+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:02:08.353548+00:00"
 }

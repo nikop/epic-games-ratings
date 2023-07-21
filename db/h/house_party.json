@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5784,
+  "EOS_Progressed": 5786,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3491,6 +3491,11 @@
       "Time": "2023-07-21T16:06:56.4069721+00:00",
       "NumProgressed": 5784,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T17:07:20.5317685+00:00",
+      "NumProgressed": 5786,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3622,7 +3627,7 @@
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "DnD_Madison",
@@ -3734,7 +3739,7 @@
       "Name": "IRL Let\u0027s Player",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "IceBath",
@@ -3798,7 +3803,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NoticeMe",
@@ -4053,21 +4058,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2823,
+      "Progressed": 2825,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5784,
+      "Progressed": 5786,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:06:56.4069714+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:07:20.531768+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:58:04.3835737+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:06:56.4070736+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:57:57.6284617+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:07:20.5318463+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,582 |
-| First Class Student | 11.00% | ~31,700 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,583 |
+| First Class Student | 11.00% | ~31,701 |
 | Troll with the Punches | 10.00% | ~28,819 |
 | The Defender of Dragons | 9.00% | ~25,937 |
 | A Keen Sense of Spell | 9.00% | ~25,937 |
@@ -30,7 +30,7 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,409 |
 | Third Time's a Charm | 5.00% | ~14,409 |
 | Raising Expectations | 5.00% | ~14,409 |
-| The Ends Petrify the Means | 4.00% | ~11,527 |
+| The Ends Petrify the Means | 4.00% | ~11,528 |
 | The Toast of the Town | 3.00% | ~8,646 |
 | Going Through the Potions | 3.00% | ~8,646 |
 | Room with a View | 3.00% | ~8,646 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,882 |
 | Finishing Touches | 1.00% | ~2,882 |
 | A Forte for Achievement | 1.00% | ~2,882 |
-| Merlin's Beard! | 0.80% | ~2,305 |
+| Merlin's Beard! | 0.80% | ~2,306 |
 | Spilled Milk | 0.70% | ~2,017 |
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,186 (Ranked 42)  
+Progressed: 288,189 (Ranked 42)  
 Completed: 432 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 432 (0.15%) (Ranked 175)
 | 2023-07-18 | 287,982 | 430 |
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
-| 2023-07-21 | 288,186 | 432 |
+| 2023-07-21 | 288,189 | 432 |
 ## Awards
 Max (Character Customization): 21,154  (Ranked 17)  
 Sum: 39,598 (Ranked 30)  

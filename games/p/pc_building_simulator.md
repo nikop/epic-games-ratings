@@ -1,53 +1,53 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 274)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,696,717 |
-| Easy to forget | 46.00% | ~1,626,021 |
-| Back in the black | 39.00% | ~1,378,583 |
-| That's what I'm talking about | 28.00% | ~989,752 |
-| The Best of Both Worlds | 25.00% | ~883,707 |
-| Get your wings | 20.00% | ~706,966 |
-| Double trouble | 15.00% | ~530,224 |
-| Smashing it | 10.00% | ~353,483 |
-| But can it run Crysis? | 9.00% | ~318,135 |
-| My favourite feature... | 9.00% | ~318,135 |
-| From humble beginnings... | 7.00% | ~247,438 |
-| Customer satisfaction | 7.00% | ~247,438 |
-| Keeping things neat | 4.00% | ~141,393 |
-| Seems you're pretty good at this | 4.00% | ~141,393 |
-| Bending over backwards | 4.00% | ~141,393 |
-| Triple threat | 3.00% | ~106,045 |
-| You rock at this! | 3.00% | ~106,045 |
-| Your music sucks | 3.00% | ~106,045 |
+| You need to plug it in... | 48.00% | ~1,696,740 |
+| Easy to forget | 46.00% | ~1,626,042 |
+| Back in the black | 39.00% | ~1,378,601 |
+| That's what I'm talking about | 28.00% | ~989,765 |
+| The Best of Both Worlds | 25.00% | ~883,718 |
+| Get your wings | 20.00% | ~706,975 |
+| Double trouble | 15.00% | ~530,231 |
+| Smashing it | 10.00% | ~353,487 |
+| But can it run Crysis? | 9.00% | ~318,139 |
+| My favourite feature... | 9.00% | ~318,139 |
+| From humble beginnings... | 7.00% | ~247,441 |
+| Customer satisfaction | 7.00% | ~247,441 |
+| Keeping things neat | 4.00% | ~141,395 |
+| Seems you're pretty good at this | 4.00% | ~141,395 |
+| Bending over backwards | 4.00% | ~141,395 |
+| Triple threat | 3.00% | ~106,046 |
+| You rock at this! | 3.00% | ~106,046 |
+| Your music sucks | 3.00% | ~106,046 |
 | I'm broke, Uncle! | 2.00% | ~70,697 |
 | Maybe you should try something else? | 2.00% | ~70,697 |
 | Taking care of business | 2.00% | ~70,697 |
 | Perfection | 2.00% | ~70,697 |
 | Calling in Sick | 2.00% | ~70,697 |
-| Overvolted | 1.00% | ~35,348 |
-| If you fail the first time... | 1.00% | ~35,348 |
-| Amazonian | 1.00% | ~35,348 |
-| Things are under control | 1.00% | ~35,348 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,348 |
-| Building isn't cheap! | 1.00% | ~35,348 |
-| Majority Shareholder | 1.00% | ~35,348 |
-| Owner | 1.00% | ~35,348 |
-| Show off | 0.90% | ~31,813 |
+| Overvolted | 1.00% | ~35,349 |
+| If you fail the first time... | 1.00% | ~35,349 |
+| Amazonian | 1.00% | ~35,349 |
+| Things are under control | 1.00% | ~35,349 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,349 |
+| Building isn't cheap! | 1.00% | ~35,349 |
+| Majority Shareholder | 1.00% | ~35,349 |
+| Owner | 1.00% | ~35,349 |
+| Show off | 0.90% | ~31,814 |
 | Work ethic 101 | 0.70% | ~24,744 |
 | Building momentum | 0.60% | ~21,209 |
 | Lead by example | 0.50% | ~17,674 |
 | Treat yourself - RAM | 0.50% | ~17,674 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,604 |
-| Mr big business | 0.30% | ~10,604 |
-| Mister Big | 0.30% | ~10,604 |
-| Getting your feet wet | 0.30% | ~10,604 |
-| Customer's ALWAYS right. | 0.30% | ~10,604 |
-| Treat yourself - CPU | 0.30% | ~10,604 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,605 |
+| Mr big business | 0.30% | ~10,605 |
+| Mister Big | 0.30% | ~10,605 |
+| Getting your feet wet | 0.30% | ~10,605 |
+| Customer's ALWAYS right. | 0.30% | ~10,605 |
+| Treat yourself - CPU | 0.30% | ~10,605 |
 | 1920x1080 | 0.20% | ~7,070 |
 | Blow 'em away | 0.20% | ~7,070 |
 | Hasta La Vista, Baby. | 0.10% | ~3,535 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,535 |
 | Treat yourself - GPU | 0.10% | ~3,535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,534,828 (Ranked 4)  
+Progressed: 3,534,874 (Ranked 4)  
 Completed: 30 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 30 (0.00%) (Ranked 238)
 | 2023-07-18 | 3,533,645 | 29 |
 | 2023-07-19 | 3,534,030 | 29 |
 | 2023-07-20 | 3,534,441 | 30 |
-| 2023-07-21 | 3,534,828 | 30 |
+| 2023-07-21 | 3,534,874 | 30 |
 ## Awards
 Max (Great for Beginners): 1,054  (Ranked 138)  
 Sum: 7,890 (Ranked 97)  

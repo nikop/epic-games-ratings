@@ -38,7 +38,7 @@ Rating: 4.87 (Ranked 24)
 | Chip-tuned | 0.60% | ~21 |
 | Wanna hear my playlist? | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
-| Check out my moves! | 0.40% | ~14 |
+| Check out my moves! | 0.50% | ~17 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,484 (Ranked 145)  
+Progressed: 3,487 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-17 | 3,459 | 6 |
 | 2023-07-19 | 3,460 | 6 |
 | 2023-07-20 | 3,468 | 6 |
-| 2023-07-21 | 3,484 | 6 |
+| 2023-07-21 | 3,487 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

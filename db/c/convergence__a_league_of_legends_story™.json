@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1684,6 +1684,11 @@
       "Time": "2023-07-21T16:03:51.0419327+00:00",
       "NumProgressed": 770,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-21T17:03:42.0583173+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1717,9 +1722,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 108
+      "UsersEstimate": 100
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1727,7 +1732,7 @@
       "Name": "Right On Time",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1767,7 +1772,7 @@
       "Name": "Street Style",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CultivairChests1",
@@ -1989,9 +1994,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 100
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1999,7 +2004,7 @@
       "Name": "Golem Hunter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ScrambotProgress1",
@@ -2013,9 +2018,9 @@
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "SkillProgress1",
@@ -2118,14 +2123,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T16:03:51.0419323+00:00",
+  "LastChanged_Achievements": "2023-07-21T17:03:42.0583168+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T16:00:20.5571146+00:00",
-  "LastUpdate_Achievements": "2023-07-21T16:03:51.0419914+00:00"
+  "LastUpdate_Ratings": "2023-07-21T17:00:33.9342765+00:00",
+  "LastUpdate_Achievements": "2023-07-21T17:03:42.0583601+00:00"
 }
