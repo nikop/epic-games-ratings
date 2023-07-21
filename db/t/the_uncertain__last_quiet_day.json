@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -498,17 +498,17 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -610,9 +610,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "SILENT",
@@ -675,8 +675,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:01:46.3037543+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:01:19.5482935+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:41.5790014+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:59:31.5291792+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:01:46.3037834+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:59:09.6291052+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:01:19.5483185+00:00"
 }

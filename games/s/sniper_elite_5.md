@@ -23,6 +23,7 @@ Rating: 4.40 (Ranked 691)
 | Gunslinger | 2.00% | ~66 |
 | Skirmisher | 2.00% | ~66 |
 | Set Europe Ablaze | 2.00% | ~66 |
+| My Little Friend | 2.00% | ~66 |
 | Explosive Efficiency | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
@@ -34,7 +35,6 @@ Rating: 4.40 (Ranked 691)
 | Just a Flesh Wound | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
 | Rigged to Blow | 1.00% | ~33 |
-| My Little Friend | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | The Long Game | 0.90% | ~30 |

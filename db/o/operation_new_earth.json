@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -1856,6 +1856,11 @@
       "Time": "2023-07-21T03:06:17.5986863+00:00",
       "NumProgressed": 541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T07:05:30.6934053+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1979,7 +1984,7 @@
       "Name": "Corporal",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2035,7 +2040,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -2043,7 +2048,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2051,7 +2056,7 @@
       "Name": "Covert Operative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2170,14 +2175,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:06:00.9749006+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:05:30.6934046+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:01:19.1133309+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:06:00.9749604+00:00"
+  "LastUpdate_Ratings": "2023-07-21T07:00:49.6856529+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:05:30.6934461+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 458)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,011 |
-| Pay 'n' Spray | 50.00% | ~5,562 |
-| All Dressed Up for San Fierro | 25.00% | ~2,781 |
+| Getting Started | 81.00% | ~9,012 |
+| Pay 'n' Spray | 50.00% | ~5,563 |
+| All Dressed Up for San Fierro | 25.00% | ~2,782 |
 | The American Dream | 19.00% | ~2,114 |
-| School's Out | 18.00% | ~2,002 |
+| School's Out | 18.00% | ~2,003 |
 | Smooth Moves | 16.00% | ~1,780 |
 | Today Was a Good Day | 15.00% | ~1,669 |
 | What happens in Las Venturas... | 14.00% | ~1,558 |
-| Horror of the Santa Maria | 10.00% | ~1,112 |
+| Horror of the Santa Maria | 10.00% | ~1,113 |
 | Liberty City State of Mind | 9.00% | ~1,001 |
 | Original Gangster | 8.00% | ~890 |
 | The End of the Line | 7.00% | ~779 |
@@ -23,14 +23,14 @@ Rating: 4.56 (Ranked 458)
 | Rescue a Kitten Too? | 4.00% | ~445 |
 | Bike or Biker | 3.00% | ~334 |
 | What are the Odds | 3.00% | ~334 |
-| A Legitimate Business | 2.00% | ~222 |
-| I’ll Have Two Number 9s | 2.00% | ~222 |
-| Who Needs Directions? | 2.00% | ~222 |
-| What the City Needs | 2.00% | ~222 |
-| Yes I Speak English | 2.00% | ~222 |
-| Double or Nothin' | 2.00% | ~222 |
-| Public Enemy No. 1 | 2.00% | ~222 |
-| Ain’t Nothing But a G Thing | 2.00% | ~222 |
+| A Legitimate Business | 2.00% | ~223 |
+| I’ll Have Two Number 9s | 2.00% | ~223 |
+| Who Needs Directions? | 2.00% | ~223 |
+| What the City Needs | 2.00% | ~223 |
+| Yes I Speak English | 2.00% | ~223 |
+| Double or Nothin' | 2.00% | ~223 |
+| Public Enemy No. 1 | 2.00% | ~223 |
+| Ain’t Nothing But a G Thing | 2.00% | ~223 |
 | Hoopin' it Up | 1.00% | ~111 |
 | Swiss Army Strife | 1.00% | ~111 |
 | Lucky Spinner | 1.00% | ~111 |
@@ -38,10 +38,10 @@ Rating: 4.56 (Ranked 458)
 | Chick Magnet | 1.00% | ~111 |
 | Not a Player | 0.80% | ~89 |
 | Remastered | 0.60% | ~67 |
-| ...Here we go again | 0.40% | ~44 |
+| ...Here we go again | 0.40% | ~45 |
 | I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,125 (Ranked 116)  
+Progressed: 11,126 (Ranked 116)  
 Completed: 31 (0.28%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 31 (0.28%) (Ranked 153)
 | 2023-07-18 | 11,094 | 31 |
 | 2023-07-19 | 11,100 | 31 |
 | 2023-07-20 | 11,117 | 31 |
-| 2023-07-21 | 11,125 | 31 |
+| 2023-07-21 | 11,126 | 31 |
 ## Awards
 Max (Great Boss Battles): 223  (Ranked 254)  
 Sum: 223 (Ranked 351)  

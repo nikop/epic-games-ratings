@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1700,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1360,6 +1360,11 @@
       "Time": "2023-07-21T02:09:14.1606235+00:00",
       "NumProgressed": 1700,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T07:04:26.6132757+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1379,7 +1384,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1427,7 +1432,7 @@
       "Name": "Explorer",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FALLEN_STAR",
@@ -1523,7 +1528,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1587,7 +1592,7 @@
       "Name": "Moon Hunter",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MYSTERY_MACHINE",
@@ -1619,7 +1624,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1667,7 +1672,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1747,7 +1752,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1755,7 +1760,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1794,15 +1799,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1700,
+      "Progressed": 1701,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:04:56.0390465+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:04:26.6132751+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:20.4662233+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:59:12.2035186+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:04:56.0391109+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:58:50.7240163+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:04:26.6133285+00:00"
 }

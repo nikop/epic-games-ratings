@@ -715,9 +715,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 31935,
+  "EOS_Progressed": 31938,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10580,6 +10580,11 @@
       "Time": "2023-07-21T06:03:21.6511252+00:00",
       "NumProgressed": 31935,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T07:02:23.3495365+00:00",
+      "NumProgressed": 31938,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -10631,7 +10636,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8303
+      "UsersEstimate": 8304
     },
     {
       "ID": "goals180",
@@ -10711,7 +10716,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "novice",
@@ -10727,7 +10732,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "playerIzel",
@@ -10743,7 +10748,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "playerPaz",
@@ -10799,7 +10804,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8303
+      "UsersEstimate": 8304
     },
     {
       "ID": "sandboarder",
@@ -10807,7 +10812,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "sightseer",
@@ -10847,7 +10852,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "unlockmaya",
@@ -10855,7 +10860,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "unlockpaz",
@@ -10902,15 +10907,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 31935,
+      "Progressed": 31938,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-21T06:00:09.4572826+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:03:21.6511241+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:02:23.3495359+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.8454564+00:00",
-  "LastUpdate_Ratings": "2023-07-21T06:00:09.4572834+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:03:21.6512071+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:59:44.9829858+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:02:23.34963+00:00"
 }

@@ -6,8 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Learned | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
+| Roman Paganism | 0.10% | ~13 |
+| Necropolis in Waset | 0.10% | ~13 |
+| The Clergy | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
 | Centenarian | 0.00% | ~0 |
@@ -75,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 | Just | 0.00% | ~0 |
 | Keystone | 0.00% | ~0 |
-| Learned | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
@@ -240,7 +243,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
 | Persian Paganism | 0.00% | ~0 |
-| Roman Paganism | 0.00% | ~0 |
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -284,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
-| Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Win a Single Player Game | 0.00% | ~0 |
-| The Clergy | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |

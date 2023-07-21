@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.4,
+  "EOS_Completed_Percentage": 12.31,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -651,6 +651,11 @@
       "Time": "2023-07-21T06:05:22.1528664+00:00",
       "NumProgressed": 129,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-21T07:04:52.3502054+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 6,
@@ -670,7 +675,7 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -702,21 +707,21 @@
       "Name": "Flying Machine",
       "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:05:22.1528653+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:04:52.3502049+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:57:26.1193824+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:05:22.1528794+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:57:10.3196266+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:04:52.3502185+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 77,
@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -621,6 +621,11 @@
     {
       "Time": "2023-07-21T06:03:39.1144045+00:00",
       "NumProgressed": 69,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T07:03:10.3416494+00:00",
+      "NumProgressed": 70,
       "NumCompleted": 0
     }
   ],
@@ -688,7 +693,7 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -696,7 +701,7 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -784,7 +789,7 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -792,7 +797,7 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -817,15 +822,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-19T17:58:49.5067024+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:03:39.1144036+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:03:10.3416489+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.6006884+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:59:09.2650756+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:03:39.1144271+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:58:46.9533166+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:03:10.341665+00:00"
 }

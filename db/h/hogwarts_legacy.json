@@ -5256,7 +5256,7 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288159,
+  "EOS_Progressed": 288162,
   "EOS_Completed": 432,
   "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 7,
@@ -15086,6 +15086,11 @@
       "Time": "2023-07-21T06:04:45.5318341+00:00",
       "NumProgressed": 288159,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-07-21T07:04:15.5028571+00:00",
+      "NumProgressed": 288162,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 45,
@@ -15153,7 +15158,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25934
+      "UsersEstimate": 25935
     },
     {
       "ID": "PFA_17",
@@ -15217,7 +15222,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25934
+      "UsersEstimate": 25935
     },
     {
       "ID": "PFA_24",
@@ -15281,7 +15286,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25934
+      "UsersEstimate": 25935
     },
     {
       "ID": "PFA_31",
@@ -15425,7 +15430,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31697
+      "UsersEstimate": 31698
     },
     {
       "ID": "PFA_7",
@@ -15441,7 +15446,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25934
+      "UsersEstimate": 25935
     },
     {
       "ID": "PFA_9",
@@ -15456,7 +15461,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288159,
+      "Progressed": 288162,
       "Completed": 432
     }
   ],
@@ -15464,8 +15469,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-20T21:57:51.5533377+00:00",
-  "LastChanged_Achievements": "2023-07-21T06:04:45.5318334+00:00",
+  "LastChanged_Achievements": "2023-07-21T07:04:15.5028565+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-21T05:58:01.9858631+00:00",
-  "LastUpdate_Achievements": "2023-07-21T06:04:45.5319647+00:00"
+  "LastUpdate_Ratings": "2023-07-21T06:57:44.9524641+00:00",
+  "LastUpdate_Achievements": "2023-07-21T07:04:15.5029539+00:00"
 }

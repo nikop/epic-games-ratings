@@ -49,7 +49,7 @@ Rating: 4.42 (Ranked 662)
 | Fair And Square | 1.00% | ~30 |
 | Chalk It Up To Experience | 0.70% | ~21 |
 | Perfect Organism | 0.50% | ~15 |
-| This Ain't No Picnic | 0.30% | ~9 |
+| This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,983 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 238)  
