@@ -268,6 +268,7 @@
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |
 | [Don't Byte Your Tongue](../games/d/don't_byte_your_tongue.md) | 31 | 1,000 |
+| [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |
 | [Frogun](../games/f/frogun.md) | 31 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
@@ -289,6 +290,7 @@
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
 | [Samorost 3](../games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 30 | 1,000 |
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
+| [SPACE ELITE FORCE](../games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 30 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
