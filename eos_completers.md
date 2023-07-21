@@ -19,9 +19,9 @@
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.36% |
 | 18 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.35% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.28% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.70% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
@@ -43,15 +43,15 @@
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 42 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.60% |
-| 45 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.30% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
-| 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
-| 52 | [ZZT!](games/z/zzt!.md) | 3.53% |
+| 51 | [ZZT!](games/z/zzt!.md) | 3.56% |
+| 52 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.49% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -72,7 +72,7 @@
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.52% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
-| 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
+| 73 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 76 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
@@ -111,8 +111,8 @@
 | 109 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 110 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 111 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 111 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
-| 113 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 112 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 112 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 114 | [Haven](games/h/haven.md) | 0.68% |
 | 115 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 116 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
@@ -127,8 +127,8 @@
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 125 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 127 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.52% |
-| 128 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 128 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 129 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 130 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 131 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.46% |
@@ -503,4 +503,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,930 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,932 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
