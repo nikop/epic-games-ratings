@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -222,7 +222,7 @@
   "Tags": [],
   "EOS_Progressed": 23064,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2448,9 +2448,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17529
+      "UsersEstimate": 17759
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2655,8 +2655,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:07:31.5962801+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:07:40.6832515+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:58:53.5206455+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:07:31.5963443+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:58:58.443764+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:07:40.6833011+00:00"
 }

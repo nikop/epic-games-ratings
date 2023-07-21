@@ -1551,9 +1551,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12980,
+  "EOS_Progressed": 12981,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8191,6 +8191,11 @@
       "Time": "2023-07-21T00:05:49.457776+00:00",
       "NumProgressed": 12980,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T09:06:07.6179427+00:00",
+      "NumProgressed": 12981,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8248,9 +8253,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -8640,9 +8645,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -8760,9 +8765,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -8856,9 +8861,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -9536,9 +9541,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -9616,9 +9621,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -9952,9 +9957,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -10088,9 +10093,9 @@
       "ID": "ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus in Roma",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -10136,9 +10141,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -10176,9 +10181,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -10232,9 +10237,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -10569,21 +10574,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12980,
+      "Progressed": 12981,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12980,
+      "Progressed": 12981,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-20T17:58:31.0065812+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:05:57.6067471+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:06:07.6179421+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:58:51.3424076+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:05:57.6076926+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:58:56.2906715+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:06:07.6191625+00:00"
 }

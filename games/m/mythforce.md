@@ -14,10 +14,10 @@ Number of Ratings: 285  (23.09.2022)
 | Flawless Victory | 11.00% | ~8 |
 | Spending Spree | 11.00% | ~8 |
 | Ten Steps from the Grave | 11.00% | ~8 |
-| Cold-Blooded Critters | 10.00% | ~7 |
-| Everything Must Go! | 10.00% | ~7 |
-| Mushroom Madness! | 10.00% | ~7 |
-| Perk Shard Punch Card | 10.00% | ~7 |
+| Cold-Blooded Critters | 9.00% | ~7 |
+| Everything Must Go! | 9.00% | ~7 |
+| Mushroom Madness! | 9.00% | ~7 |
+| Perk Shard Punch Card | 9.00% | ~7 |
 | Deadication | 8.00% | ~6 |
 | Horder Better Faster Stronger | 8.00% | ~6 |
 | The Fourth Gate | 7.00% | ~5 |
@@ -30,13 +30,13 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 321)  
+Progressed: 74 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
-| 2023-07-21 | 73 | 0 |
+| 2023-07-21 | 74 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

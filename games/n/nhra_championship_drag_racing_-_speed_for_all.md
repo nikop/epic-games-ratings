@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~718 |
-| Trouble with the swerve | 69.00% | ~500 |
+| Graduated | 99.00% | ~719 |
+| Trouble with the swerve | 69.00% | ~501 |
 | Oops, My bad | 67.00% | ~486 |
 | Don't get ahead on yourself | 40.00% | ~290 |
 | I didn't know you where there! | 31.00% | ~225 |
@@ -17,7 +17,7 @@
 | Ready to Mingle | 6.00% | ~44 |
 | First one tastes better | 4.00% | ~29 |
 | Better late then never | 4.00% | ~29 |
-| Better than the pros | 2.00% | ~14 |
+| Better than the pros | 2.00% | ~15 |
 | In the bank | 1.00% | ~7 |
 | American Legend | 1.00% | ~7 |
 | Fan Boy | 1.00% | ~7 |
@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 201)  
+Progressed: 726 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-15 | 719 | 0 |
 | 2023-07-17 | 721 | 0 |
 | 2023-07-20 | 724 | 0 |
-| 2023-07-21 | 725 | 0 |
+| 2023-07-21 | 726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

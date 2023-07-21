@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 100.00% | ~24 |
-| Your first fight | 92.00% | ~22 |
-| Good Person Chip | 83.00% | ~20 |
-| First winning | 79.00% | ~19 |
-| Your first job | 79.00% | ~19 |
-| First defeat | 63.00% | ~15 |
-| Neurotrainer – power gainer! | 63.00% | ~15 |
-| Fitness professional | 58.00% | ~14 |
-| Old movies enjoyer | 58.00% | ~14 |
-| Depressed visitor | 58.00% | ~14 |
-| Run K, run! | 58.00% | ~14 |
-| Employee of the week | 54.00% | ~13 |
-| Your own amateur gym | 50.00% | ~12 |
-| Hello, world! | 50.00% | ~12 |
-| No bullying more | 46.00% | ~11 |
-| Intriguing candies | 46.00% | ~11 |
-| Fighting is cool | 42.00% | ~10 |
-| Little hacker | 33.00% | ~8 |
-| Employee of the month | 33.00% | ~8 |
-| Pal of your father? | 29.00% | ~7 |
-| Spirit of the past | 25.00% | ~6 |
-| Your own way | 25.00% | ~6 |
-| Workout professional | 21.00% | ~5 |
-| Handyman | 17.00% | ~4 |
-| Law student | 17.00% | ~4 |
-| Fight for life | 13.00% | ~3 |
-| Employee of the year | 13.00% | ~3 |
+| Such a strange dream… | 100.00% | ~26 |
+| Your first fight | 92.00% | ~24 |
+| Good Person Chip | 85.00% | ~22 |
+| Your first job | 81.00% | ~21 |
+| First winning | 77.00% | ~20 |
+| First defeat | 62.00% | ~16 |
+| Neurotrainer – power gainer! | 62.00% | ~16 |
+| Fitness professional | 58.00% | ~15 |
+| Old movies enjoyer | 54.00% | ~14 |
+| Depressed visitor | 54.00% | ~14 |
+| Run K, run! | 54.00% | ~14 |
+| Employee of the week | 50.00% | ~13 |
+| Your own amateur gym | 46.00% | ~12 |
+| Intriguing candies | 46.00% | ~12 |
+| Hello, world! | 46.00% | ~12 |
+| No bullying more | 42.00% | ~11 |
+| Fighting is cool | 38.00% | ~10 |
+| Little hacker | 31.00% | ~8 |
+| Employee of the month | 31.00% | ~8 |
+| Pal of your father? | 27.00% | ~7 |
+| Spirit of the past | 23.00% | ~6 |
+| Your own way | 23.00% | ~6 |
+| Workout professional | 19.00% | ~5 |
+| Handyman | 15.00% | ~4 |
+| Law student | 15.00% | ~4 |
+| Employee of the year | 15.00% | ~4 |
+| Fight for life | 12.00% | ~3 |
+| It's good to be alive | 12.00% | ~3 |
+| Now you are worthy | 8.00% | ~2 |
 | Champion – starter pack | 8.00% | ~2 |
-| It's good to be alive | 8.00% | ~2 |
 | Extreme neuropower! | 8.00% | ~2 |
-| Now you are worthy | 4.00% | ~1 |
 | Legal courier | 4.00% | ~1 |
 | Own four walls | 4.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
@@ -71,11 +71,11 @@
 | Responsible approach | 0.00% | ~0 |
 | Undercover robot | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 372)  
+Progressed: 26 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-17 | 3 | 0 |
 | 2023-07-20 | 18 | 0 |
-| 2023-07-21 | 24 | 0 |
+| 2023-07-21 | 26 | 0 |

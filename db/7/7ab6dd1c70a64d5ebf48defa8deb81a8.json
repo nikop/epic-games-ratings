@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -114,9 +114,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_04",
@@ -162,9 +162,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10",
@@ -290,17 +290,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_27",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:03:51.7542854+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:57:27.4820213+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:03:51.7543364+00:00"
+  "LastChanged_Achievements": "2023-07-21T09:03:59.9673973+00:00",
+  "LastUpdate_Ratings": "2023-07-21T08:57:33.5376316+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:03:59.9674364+00:00"
 }

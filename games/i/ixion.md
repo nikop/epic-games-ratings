@@ -13,9 +13,9 @@ Rating: 4.56 (Ranked 459)
 | A Thousand Strong | 13.00% | ~371 |
 | Ready for a New World | 13.00% | ~371 |
 | Permanent Redesigns | 11.00% | ~314 |
-| Fully Recycled | 10.00% | ~285 |
-| Ain't Nobody Got Time for That | 10.00% | ~285 |
-| The Ship of Theseus | 10.00% | ~285 |
+| Fully Recycled | 10.00% | ~286 |
+| Ain't Nobody Got Time for That | 10.00% | ~286 |
+| The Ship of Theseus | 10.00% | ~286 |
 | Guy de Borderlands | 9.00% | ~257 |
 | Hope Seeker | 9.00% | ~257 |
 | A Hunk of Junk | 8.00% | ~228 |
@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 459)
 | Breaking Protocol | 8.00% | ~228 |
 | Man's Best Friend | 6.00% | ~171 |
 | Power Outage | 6.00% | ~171 |
-| Please Make it Stop! | 6.00% | ~171 |
 | Sightseeing | 5.00% | ~143 |
 | Convenient Transport | 5.00% | ~143 |
+| Please Make it Stop! | 5.00% | ~143 |
 | Access Granted | 4.00% | ~114 |
 | Necessary Enhancement | 4.00% | ~114 |
 | All in Good Health | 4.00% | ~114 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 459)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,853 (Ranked 155)  
+Progressed: 2,855 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 2,839 | 0 |
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
-| 2023-07-21 | 2,853 | 0 |
+| 2023-07-21 | 2,855 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

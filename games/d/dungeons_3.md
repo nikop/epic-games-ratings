@@ -6,19 +6,19 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~17,186 |
-| The Evilest Evil | 58.00% | ~14,240 |
-| Twistram is devastated | 58.00% | ~14,240 |
+| The Shadow strikes | 70.00% | ~17,187 |
+| The Evilest Evil | 58.00% | ~14,241 |
+| Twistram is devastated | 58.00% | ~14,241 |
 | The Gehenna Stones | 50.00% | ~12,276 |
 | No one has to die today! | 46.00% | ~11,294 |
-| Death and destruction! | 45.00% | ~11,048 |
+| Death and destruction! | 45.00% | ~11,049 |
 | The Swamplanders from the swamplands | 44.00% | ~10,803 |
-| The One-Huge-Army-Building Evil | 41.00% | ~10,066 |
-| Rusty Steel | 41.00% | ~10,066 |
+| The One-Huge-Army-Building Evil | 41.00% | ~10,067 |
+| Rusty Steel | 41.00% | ~10,067 |
 | The last burger | 38.00% | ~9,330 |
 | Braiiiiins! | 38.00% | ~9,330 |
 | Hands off the Dungeonheart! | 36.00% | ~8,839 |
-| A trip on sea, what fun it can be | 35.00% | ~8,593 |
+| A trip on sea, what fun it can be | 35.00% | ~8,594 |
 | Damned good | 33.00% | ~8,102 |
 | Factory farming | 32.00% | ~7,857 |
 | Stock Market Crash | 31.00% | ~7,611 |
@@ -33,14 +33,14 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 25.00% | ~6,138 |
 | Prepare the grave | 25.00% | ~6,138 |
 | Angel of Fire | 25.00% | ~6,138 |
-| Where there is Light, there is Shadow | 24.00% | ~5,892 |
+| Where there is Light, there is Shadow | 24.00% | ~5,893 |
 | At the foot of Mount Destiny | 23.00% | ~5,647 |
-| The Force disturbed | 22.00% | ~5,401 |
-| The Victorious Evil | 20.00% | ~4,910 |
-| We don’t have time! | 20.00% | ~4,910 |
+| The Force disturbed | 22.00% | ~5,402 |
+| The Victorious Evil | 20.00% | ~4,911 |
+| We don’t have time! | 20.00% | ~4,911 |
 | Chorus of damnation | 19.00% | ~4,665 |
-| The Stones’ Power | 18.00% | ~4,419 |
-| Lifeguard | 18.00% | ~4,419 |
+| The Stones’ Power | 18.00% | ~4,420 |
+| Lifeguard | 18.00% | ~4,420 |
 | Flat as a pancake | 17.00% | ~4,174 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,928 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~2,946 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~491 |
 | Sacrifices! | 2.00% | ~491 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,552 (Ranked 98)  
+Progressed: 24,553 (Ranked 98)  
 Completed: 206 (0.84%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 206 (0.84%) (Ranked 109)
 | 2023-07-18 | 24,309 | 204 |
 | 2023-07-19 | 24,421 | 206 |
 | 2023-07-20 | 24,531 | 206 |
-| 2023-07-21 | 24,552 | 206 |
+| 2023-07-21 | 24,553 | 206 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,595 (Ranked 172)  

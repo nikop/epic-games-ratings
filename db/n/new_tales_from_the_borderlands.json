@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3475,
+  "EOS_Progressed": 3476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -743,6 +743,11 @@
       "Time": "2023-07-20T19:03:37.2982672+00:00",
       "NumProgressed": 3475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T09:03:56.6619682+00:00",
+      "NumProgressed": 3476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -858,7 +863,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -938,7 +943,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -961,7 +966,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3475,
+      "Progressed": 3476,
       "Completed": 0
     }
   ],
@@ -969,8 +974,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:03:48.4454591+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:03:56.6619675+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:00:44.5436448+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:03:48.4454808+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:00:48.7540293+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:03:56.6619919+00:00"
 }

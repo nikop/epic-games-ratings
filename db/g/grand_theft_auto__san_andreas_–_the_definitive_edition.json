@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 11128,
+  "EOS_Progressed": 11129,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6875,6 +6875,11 @@
       "Time": "2023-07-21T08:08:02.8001836+00:00",
       "NumProgressed": 11128,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-21T09:08:12.0429318+00:00",
+      "NumProgressed": 11129,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6934,7 +6939,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "ACH08",
@@ -7006,7 +7011,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACH17",
@@ -7165,7 +7170,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11128,
+      "Progressed": 11129,
       "Completed": 31
     }
   ],
@@ -7173,8 +7178,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-21T00:01:09.0851249+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:08:02.8001831+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:08:12.0429313+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:01:48.6332801+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:08:02.8002733+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:01:56.2455959+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:08:12.0429975+00:00"
 }

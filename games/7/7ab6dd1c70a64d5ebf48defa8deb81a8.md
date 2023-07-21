@@ -3,12 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Powerful Allies | 10.00% | ~2 |
+| The Mentor | 10.00% | ~2 |
+| Fashion Victim | 10.00% | ~2 |
+| Scholar | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
-| Powerful Allies | 5.00% | ~1 |
 | Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
-| Fashion Victim | 5.00% | ~1 |
-| Scholar | 5.00% | ~1 |
 | The Collector | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
@@ -16,7 +17,6 @@
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
-| The Mentor | 0.00% | ~0 |
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |

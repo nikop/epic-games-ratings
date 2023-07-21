@@ -2380,9 +2380,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 24552,
+  "EOS_Progressed": 24553,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -12115,6 +12115,11 @@
       "Time": "2023-07-21T08:07:56.5734462+00:00",
       "NumProgressed": 24552,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-07-21T09:08:05.2878092+00:00",
+      "NumProgressed": 24553,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 60,
@@ -12126,7 +12131,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 14240
+      "UsersEstimate": 14241
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -12142,7 +12147,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 14240
+      "UsersEstimate": 14241
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -12214,7 +12219,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 8593
+      "UsersEstimate": 8594
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -12222,7 +12227,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -12342,7 +12347,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10066
+      "UsersEstimate": 10067
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -12358,7 +12363,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10066
+      "UsersEstimate": 10067
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -12430,7 +12435,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -12478,7 +12483,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5401
+      "UsersEstimate": 5402
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -12510,7 +12515,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 11048
+      "UsersEstimate": 11049
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -12526,7 +12531,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 17186
+      "UsersEstimate": 17187
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -12550,7 +12555,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -12558,7 +12563,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -12582,7 +12587,7 @@
       "Name": "Lifeguard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -12605,15 +12610,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 24552,
+      "Progressed": 24553,
       "Completed": 206
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-19T19:59:58.6105558+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:07:56.5734456+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:08:05.2878084+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:12.7446342+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:00:34.7961624+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:07:56.5735712+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:00:38.4842361+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:08:05.2879238+00:00"
 }

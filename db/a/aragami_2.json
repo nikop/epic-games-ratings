@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38189,
+  "EOS_Progressed": 38190,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -9179,6 +9179,11 @@
       "Time": "2023-07-21T08:04:09.8530641+00:00",
       "NumProgressed": 38189,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-07-21T09:04:18.233599+00:00",
+      "NumProgressed": 38190,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 44,
@@ -9222,7 +9227,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -9262,7 +9267,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -9270,7 +9275,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -9310,7 +9315,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 30551
+      "UsersEstimate": 30552
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -9406,7 +9411,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -9422,7 +9427,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -9430,7 +9435,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 24059
+      "UsersEstimate": 24060
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -9454,7 +9459,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 22913
+      "UsersEstimate": 22914
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -9470,7 +9475,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -9478,7 +9483,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -9494,7 +9499,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 17185
+      "UsersEstimate": 17186
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -9526,7 +9531,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 35516
+      "UsersEstimate": 35517
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -9534,14 +9539,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19858
+      "UsersEstimate": 19859
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 38189,
+      "Progressed": 38190,
       "Completed": 193
     }
   ],
@@ -9549,8 +9554,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:04:09.8530636+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:04:18.2335984+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.384662+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:59:21.7027223+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:04:09.853181+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:59:26.3648753+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:04:18.233709+00:00"
 }

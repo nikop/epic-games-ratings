@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~299 |
+| I can do a thing or two | 61.00% | ~304 |
 | Buckle up | 59.00% | ~294 |
 | Quick charge | 59.00% | ~294 |
 | Hands up! | 53.00% | ~264 |
@@ -16,10 +16,10 @@
 | There is another way | 23.00% | ~115 |
 | Sysadmin | 21.00% | ~105 |
 | Annoying | 20.00% | ~100 |
+| Every little helps | 20.00% | ~100 |
 | Hacker | 20.00% | ~100 |
 | He is just a child | 20.00% | ~100 |
 | The Walking Robot Among Us | 20.00% | ~100 |
-| Every little helps | 19.00% | ~95 |
 | Uncertain | 18.00% | ~90 |
 | Ace | 17.00% | ~85 |
 | Concrete painting | 17.00% | ~85 |

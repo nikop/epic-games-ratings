@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2989,
+  "EOS_Progressed": 2990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2336,6 +2336,11 @@
       "Time": "2023-07-21T08:03:52.0512103+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T09:04:00.4264839+00:00",
+      "NumProgressed": 2990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2363,7 +2368,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "BloodAndIron",
@@ -2515,7 +2520,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Kills_Bleed",
@@ -2571,7 +2576,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "Kills_Streak",
@@ -2579,7 +2584,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Kills_Vakir",
@@ -2771,7 +2776,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2818,21 +2823,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2989,
+      "Progressed": 2990,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2989,
+      "Progressed": 2990,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:03:52.0512097+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:04:00.426483+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:59:49.0940135+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:03:52.0512887+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:59:55.17938+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:04:00.4265612+00:00"
 }

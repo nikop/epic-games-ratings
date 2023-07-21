@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2279,
+  "EOS_Progressed": 2280,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1818,6 +1818,11 @@
       "Time": "2023-07-21T05:04:40.5692187+00:00",
       "NumProgressed": 2279,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T09:04:43.2076217+00:00",
+      "NumProgressed": 2280,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1901,7 +1906,7 @@
       "Name": "Stronger together",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "THE_END",
@@ -1925,14 +1930,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2279,
+      "Progressed": 2280,
       "Completed": 5
     }
   ],
@@ -1940,8 +1945,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:04:34.2034747+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:04:43.2076209+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:12.10718+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:00:33.4278288+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:04:34.2034988+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:00:37.1295+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:04:43.2076476+00:00"
 }

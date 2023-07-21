@@ -6,11 +6,22 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Regicide | 0.10% | ~13 |
+| Fountainhead | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
+| Mighty | 0.10% | ~13 |
+| Victorious | 0.10% | ~13 |
+| Circus Maximus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
+| Lighthouse | 0.10% | ~13 |
+| Play a Single Player Game | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
+| Circus Maximus in Roma | 0.10% | ~13 |
+| Economic Reform | 0.10% | ~13 |
+| Gnosticism | 0.10% | ~13 |
 | Mythology | 0.10% | ~13 |
+| Trade Caravan | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
 | The Great Mage | 0.10% | ~13 |
@@ -22,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Regicide | 0.00% | ~0 |
 | Bad Heir Day | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
@@ -71,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.00% | ~0 |
 | Enlightened | 0.00% | ~0 |
 | Explorer | 0.00% | ~0 |
-| Fountainhead | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
 | Good | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
@@ -85,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
 | Mason | 0.00% | ~0 |
-| Mighty | 0.00% | ~0 |
 | Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
@@ -97,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
 | Valiant | 0.00% | ~0 |
-| Victorious | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Wise | 0.00% | ~0 |
@@ -182,7 +189,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.00% | ~0 |
 | Acropolis | 0.00% | ~0 |
 | Apadana | 0.00% | ~0 |
-| Circus Maximus | 0.00% | ~0 |
 | Colossus | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
 | Hanging Gardens | 0.00% | ~0 |
@@ -190,7 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.00% | ~0 |
 | Adur Burzen-Mihr | 0.00% | ~0 |
 | Ishtar Gate | 0.00% | ~0 |
-| Lighthouse | 0.00% | ~0 |
 | Mausoleum | 0.00% | ~0 |
 | Musaeum | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
@@ -232,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Play a Single Player Game | 0.00% | ~0 |
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Christianity | 0.00% | ~0 |
@@ -248,24 +252,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Circus Maximus in Roma | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Capturing Cities | 0.00% | ~0 |
 | Naming Landmarks | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Economic Reform | 0.00% | ~0 |
 | Industrial Progress | 0.00% | ~0 |
 | Military Prestige | 0.00% | ~0 |
 | Dualism | 0.00% | ~0 |
 | Enlightenment | 0.00% | ~0 |
-| Gnosticism | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
 | Redemption | 0.00% | ~0 |
 | Revelation | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Trade Caravan | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Cimmerian Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,980 (Ranked 113)  
+Progressed: 12,981 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,980 | 5 |
+| 2023-07-21 | 12,981 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,782 (Ranked 204)  

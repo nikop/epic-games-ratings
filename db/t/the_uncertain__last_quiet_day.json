@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "FOUND_IT",
@@ -535,9 +535,9 @@
       "ID": "I_CAN_DO_A_THING_OR_TWO",
       "SetID": "2iigf77",
       "Name": "I can do a thing or two",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 304
     },
     {
       "ID": "LUCKY_DOG",
@@ -680,8 +680,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:02:38.6247087+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:02:48.1046879+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:41.5790014+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:59:54.2542917+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:02:38.6247364+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:00:00.2528757+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:02:48.1047183+00:00"
 }

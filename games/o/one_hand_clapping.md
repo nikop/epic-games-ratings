@@ -15,8 +15,8 @@
 | Coda Cave | 0.70% | ~5 |
 | Solo Sea | 0.70% | ~5 |
 | Silent City: Reprise | 0.70% | ~5 |
+| Cadence | 0.70% | ~5 |
 | Coda Cave Glyph | 0.50% | ~4 |
-| Cadence | 0.50% | ~4 |
 | Antiphony | 0.40% | ~3 |
 | Silent City Glyph | 0.40% | ~3 |
 | Maestro Mountain Glyph | 0.40% | ~3 |

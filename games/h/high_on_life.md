@@ -7,7 +7,7 @@ Rating: 4.67 (Ranked 259)
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,143 |
 | Mods Please Ban | 77.00% | ~17,759 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,529 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,759 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,837 |
 | First Bounty Down | 59.00% | ~13,608 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,146 |

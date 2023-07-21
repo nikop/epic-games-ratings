@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 8.69,
   "EosHistory": [
@@ -4083,6 +4083,11 @@
       "Time": "2023-07-21T08:03:49.4271831+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-07-21T09:03:57.6631298+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 12,
@@ -4102,7 +4107,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Building the Fox",
@@ -4126,7 +4131,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "Jakob",
@@ -4158,7 +4163,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4182,14 +4187,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 172
     }
   ],
@@ -4197,8 +4202,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:03:49.4271826+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:03:57.6631288+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:00:54.2087892+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:03:49.4272861+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:00:58.5723217+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:03:57.6632351+00:00"
 }

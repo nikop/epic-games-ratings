@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2074,
+  "EOS_Progressed": 2075,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -3921,6 +3921,11 @@
       "Time": "2023-07-21T05:03:40.8235511+00:00",
       "NumProgressed": 2074,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T09:03:53.5920175+00:00",
+      "NumProgressed": 2075,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3956,7 +3961,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "CONQUEROR",
@@ -3996,7 +4001,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -4036,7 +4041,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "GUARD_MAKER",
@@ -4107,14 +4112,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2074,
+      "Progressed": 2075,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:03:45.4502727+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:03:53.5920168+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.446909+00:00",
-  "LastUpdate_Ratings": "2023-07-21T07:57:48.3386472+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:03:45.4503771+00:00"
+  "LastUpdate_Ratings": "2023-07-21T08:57:55.2128481+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:03:53.5920557+00:00"
 }

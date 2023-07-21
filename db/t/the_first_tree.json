@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33774,
+  "EOS_Progressed": 33775,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8528,6 +8528,11 @@
       "Time": "2023-07-21T08:05:16.2572572+00:00",
       "NumProgressed": 33774,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-21T09:05:24.888329+00:00",
+      "NumProgressed": 33775,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8555,7 +8560,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "allItems",
@@ -8563,7 +8568,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "allSecrets",
@@ -8627,7 +8632,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26006
+      "UsersEstimate": 26007
     },
     {
       "ID": "roots",
@@ -8650,15 +8655,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33774,
+      "Progressed": 33775,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:05:16.2572566+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:05:24.8883283+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:17.7432934+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:01:46.9052172+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:05:16.2573327+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:01:54.5152478+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:05:24.8883984+00:00"
 }

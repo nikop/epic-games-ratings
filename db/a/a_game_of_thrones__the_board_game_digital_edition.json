@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19054,
+  "EOS_Progressed": 19057,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10898,6 +10898,11 @@
       "Time": "2023-07-21T08:02:15.8090984+00:00",
       "NumProgressed": 19054,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-21T09:02:24.8232393+00:00",
+      "NumProgressed": 19057,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 22,
@@ -10981,7 +10986,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "1025",
@@ -10997,7 +11002,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "1027",
@@ -11021,7 +11026,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "1030",
@@ -11045,7 +11050,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "1033",
@@ -11077,22 +11082,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19054,
+      "Progressed": 19057,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:02:15.8090979+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:02:24.8232388+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.6685717+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:01:46.7272108+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:02:15.8091906+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:01:54.3348469+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:02:24.823336+00:00"
 }

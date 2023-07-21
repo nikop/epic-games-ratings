@@ -401,9 +401,9 @@
       "ID": "9",
       "SetID": "7l2nmpm",
       "Name": "Cadence",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-21T08:02:15.0465402+00:00",
+  "LastChanged_Achievements": "2023-07-21T09:02:23.9925275+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.3234147+00:00",
-  "LastUpdate_Ratings": "2023-07-21T08:01:04.3637139+00:00",
-  "LastUpdate_Achievements": "2023-07-21T08:02:15.0465665+00:00"
+  "LastUpdate_Ratings": "2023-07-21T09:01:09.2426497+00:00",
+  "LastUpdate_Achievements": "2023-07-21T09:02:23.9925676+00:00"
 }
