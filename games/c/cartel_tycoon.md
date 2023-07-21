@@ -13,7 +13,7 @@ Number of Ratings: 101  (23.09.2022)
 | Didn't Miss A Single One | 46.00% | ~205 |
 | Bad Trip | 46.00% | ~205 |
 | Spread | 41.00% | ~182 |
-| That was base | 38.00% | ~169 |
+| That was base | 39.00% | ~174 |
 | Safe Pair of Hands | 37.00% | ~165 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~134 |
 | Architect of Fortunes | 26.00% | ~116 |

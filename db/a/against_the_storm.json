@@ -2522,9 +2522,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15936,
+  "EOS_Progressed": 15938,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7597,6 +7597,11 @@
       "Time": "2023-07-21T13:10:53.8274433+00:00",
       "NumProgressed": 15936,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-21T15:03:53.7486469+00:00",
+      "NumProgressed": 15938,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7672,7 +7677,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "MetalChain",
@@ -7696,7 +7701,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "WinHard",
@@ -7888,7 +7893,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "WinOnMoorlands",
@@ -7944,7 +7949,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "WinWithResolve",
@@ -7984,7 +7989,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "WinWithoutOrders",
@@ -8007,15 +8012,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15936,
+      "Progressed": 15938,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-21T13:07:37.2570428+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:04:12.2985345+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:03:53.7486463+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.1023937+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:01:04.7755891+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:04:12.2985933+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:01:05.0537602+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:03:53.7487269+00:00"
 }

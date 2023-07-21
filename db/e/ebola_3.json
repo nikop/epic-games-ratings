@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1081,9 +1081,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "achIvan",
@@ -1105,9 +1105,9 @@
       "ID": "achLizun",
       "SetID": "72gjli4",
       "Name": "Mutant fight \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "achLizunTwo",
@@ -1169,9 +1169,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "achPriest",
@@ -1306,8 +1306,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:04:50.3316234+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:04:41.041972+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.3568705+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:01:17.6897525+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:04:50.3316606+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:01:18.7946769+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:04:41.0420214+00:00"
 }

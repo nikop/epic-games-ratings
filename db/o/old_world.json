@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12984,
+  "EOS_Progressed": 12985,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8212,6 +8212,11 @@
       "Time": "2023-07-21T14:06:03.2902675+00:00",
       "NumProgressed": 12984,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T15:05:54.4644644+00:00",
+      "NumProgressed": 12985,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8797,9 +8802,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -9981,9 +9986,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -10021,9 +10026,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -10590,21 +10595,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12984,
+      "Progressed": 12985,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12984,
+      "Progressed": 12985,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:06:03.2902668+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:05:54.4644639+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:58:42.729945+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:06:03.2909652+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:58:42.7206257+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:05:54.4654135+00:00"
 }

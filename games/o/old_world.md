@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
 | Noble | 0.10% | ~13 |
+| Old | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Settler | 0.10% | ~13 |
@@ -62,8 +63,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
+| Power to the People | 0.10% | ~13 |
 | Christianity | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
+| Assyrian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Greek Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
@@ -147,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
 | Mason | 0.00% | ~0 |
-| Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -260,10 +262,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Manichaeism | 0.00% | ~0 |
-| Assyrian Paganism | 0.00% | ~0 |
 | Babylonian Paganism | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,984 (Ranked 113)  
+Progressed: 12,985 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,984 | 5 |
+| 2023-07-21 | 12,985 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

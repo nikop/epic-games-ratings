@@ -6,26 +6,26 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,907 |
-| Exploitative | 4.00% | ~16,725 |
-| Point Shooting | 4.00% | ~16,725 |
-| Wet Feet | 4.00% | ~16,725 |
-| High Speed Low Drag | 3.00% | ~12,544 |
-| Lucky | 3.00% | ~12,544 |
-| Stylin' | 3.00% | ~12,544 |
-| Turf War | 3.00% | ~12,544 |
+| Wallbanger | 5.00% | ~20,909 |
+| Exploitative | 4.00% | ~16,727 |
+| Point Shooting | 4.00% | ~16,727 |
+| Wet Feet | 4.00% | ~16,727 |
+| High Speed Low Drag | 3.00% | ~12,545 |
+| Lucky | 3.00% | ~12,545 |
+| Stylin' | 3.00% | ~12,545 |
+| Turf War | 3.00% | ~12,545 |
 | Banged | 2.00% | ~8,363 |
 | Checkpoint Victory | 2.00% | ~8,363 |
 | First Blood | 2.00% | ~8,363 |
 | Flaccid Paralysis | 2.00% | ~8,363 |
 | Push Victory | 2.00% | ~8,363 |
 | Self-destructive | 2.00% | ~8,363 |
-| Blindfire | 1.00% | ~4,181 |
-| Ruthless | 1.00% | ~4,181 |
-| Semper Paratus | 1.00% | ~4,181 |
-| Carrying | 0.90% | ~3,763 |
-| Efficient | 0.90% | ~3,763 |
-| Mount & Gun | 0.90% | ~3,763 |
+| Blindfire | 1.00% | ~4,182 |
+| Ruthless | 1.00% | ~4,182 |
+| Semper Paratus | 1.00% | ~4,182 |
+| Carrying | 0.90% | ~3,764 |
+| Efficient | 0.90% | ~3,764 |
+| Mount & Gun | 0.90% | ~3,764 |
 | Grounded | 0.80% | ~3,345 |
 | Personal | 0.80% | ~3,345 |
 | Play to Win | 0.80% | ~3,345 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,509 |
 | Cinematic | 0.50% | ~2,091 |
 | Thanks Station! | 0.40% | ~1,673 |
-| Knock Knock | 0.30% | ~1,254 |
-| There For You | 0.30% | ~1,254 |
+| Knock Knock | 0.30% | ~1,255 |
+| There For You | 0.30% | ~1,255 |
 | Hit and Run | 0.20% | ~836 |
 | Designated Driver | 0.10% | ~418 |
 | J.R. .50 | 0.10% | ~418 |
 | It's All in the Reflexes | 0.10% | ~418 |
 | Road Hazard | 0.10% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,133 (Ranked 39)  
+Progressed: 418,173 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.00%) (Ranked 238)
 | 2023-07-18 | 416,664 | 2 |
 | 2023-07-19 | 417,117 | 2 |
 | 2023-07-20 | 417,650 | 2 |
-| 2023-07-21 | 418,133 | 2 |
+| 2023-07-21 | 418,173 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 220)  
 Sum: 2,817 (Ranked 169)  

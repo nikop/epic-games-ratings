@@ -7,17 +7,17 @@
 | Fright ✔ | 56.00% | ~119 |
 | Chest ✔ | 54.00% | ~114 |
 | Inventory ✔ | 52.00% | ~110 |
-| Police officers ✔ | 25.00% | ~53 |
+| Police officers ✔ | 26.00% | ~55 |
 | Mutation ✔ | 24.00% | ~51 |
 | Doberman ✔ | 13.00% | ~28 |
 | Chess ✔ | 9.00% | ~19 |
 | Weapon ✔ | 9.00% | ~19 |
 | Survival ✔ | 8.00% | ~17 |
 | Master of Unlocking ✔ | 8.00% | ~17 |
+| Hospital ✔ | 7.00% | ~15 |
 | Thirst ✔ | 7.00% | ~15 |
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
-| Hospital ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | King of survival ✔ | 6.00% | ~13 |
 | Alice ✔ | 5.00% | ~11 |
@@ -25,11 +25,11 @@
 | Betty ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
 | Food ✔ | 5.00% | ~11 |
+| Mutant fight ✔ | 5.00% | ~11 |
 | All secrets revealed ✔ | 5.00% | ~11 |
 | Boss 1 ✔ | 4.00% | ~8 |
 | Eva ✔ | 4.00% | ~8 |
 | Group Alpha ✔ | 4.00% | ~8 |
-| Mutant fight ✔ | 4.00% | ~8 |
 | Sheriff ✔ | 4.00% | ~8 |
 | City on fire ✔ | 4.00% | ~8 |
 | Infected ✔ | 4.00% | ~8 |

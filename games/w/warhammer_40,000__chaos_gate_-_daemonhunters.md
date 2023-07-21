@@ -7,23 +7,23 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 39.00% | ~1,168 |
-| Look Over There! | 34.00% | ~1,018 |
-| Watch Where You Step... | 33.00% | ~988 |
-| Not So Fast... | 32.00% | ~958 |
-| An Ill Omen | 31.00% | ~928 |
-| Purging Spree | 25.00% | ~748 |
+| Look Over There! | 34.00% | ~1,019 |
+| Watch Where You Step... | 33.00% | ~989 |
+| Not So Fast... | 32.00% | ~959 |
+| An Ill Omen | 31.00% | ~929 |
+| Purging Spree | 25.00% | ~749 |
 | Blood for the Blood God! | 19.00% | ~569 |
 | Surgical Excision | 17.00% | ~509 |
 | Friendly Fire | 17.00% | ~509 |
 | Bloodless | 17.00% | ~509 |
 | Honoured Battle-Brother | 13.00% | ~389 |
-| The Emperor Protects | 12.00% | ~359 |
-| Nemesis Master | 12.00% | ~359 |
-| A Foul Creche | 12.00% | ~359 |
-| Gunmaster | 11.00% | ~329 |
-| Opportunist | 9.00% | ~269 |
-| Efficient Killer | 9.00% | ~269 |
-| Just a Scratch | 9.00% | ~269 |
+| The Emperor Protects | 12.00% | ~360 |
+| Nemesis Master | 12.00% | ~360 |
+| A Foul Creche | 12.00% | ~360 |
+| Gunmaster | 11.00% | ~330 |
+| Opportunist | 9.00% | ~270 |
+| Efficient Killer | 9.00% | ~270 |
+| Just a Scratch | 9.00% | ~270 |
 | Hold Your Ground | 7.00% | ~210 |
 | A Gift Spurned | 5.00% | ~150 |
 | Daemonkeeper | 4.00% | ~120 |
@@ -49,9 +49,9 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
+| Brothers in Arms | 0.40% | ~12 |
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
-| Brothers in Arms | 0.30% | ~9 |
 | Firing Squad | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,994 (Ranked 151)  
+Progressed: 2,996 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 2,975 | 0 |
 | 2023-07-19 | 2,979 | 0 |
 | 2023-07-20 | 2,985 | 0 |
-| 2023-07-21 | 2,994 | 0 |
+| 2023-07-21 | 2,996 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 451 (Ranked 304)  

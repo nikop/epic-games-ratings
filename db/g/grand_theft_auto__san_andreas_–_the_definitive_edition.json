@@ -580,9 +580,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 11139,
+  "EOS_Progressed": 11140,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6905,6 +6905,11 @@
       "Time": "2023-07-21T14:07:52.1543633+00:00",
       "NumProgressed": 11139,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-21T15:07:40.1113486+00:00",
+      "NumProgressed": 11140,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6964,7 +6969,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH08",
@@ -7084,7 +7089,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH23",
@@ -7195,7 +7200,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11139,
+      "Progressed": 11140,
       "Completed": 31
     }
   ],
@@ -7203,8 +7208,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-21T00:01:09.0851249+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:07:52.1543629+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:07:40.111348+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:01:17.0277642+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:07:52.1544109+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:01:18.1394736+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:07:40.1114233+00:00"
 }

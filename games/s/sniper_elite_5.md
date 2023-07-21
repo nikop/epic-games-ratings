@@ -11,6 +11,7 @@ Rating: 4.40 (Ranked 691)
 | Confirming Suspicions | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
 | Resourceful | 3.00% | ~99 |
+| As Quiet as a Mouse | 3.00% | ~99 |
 | The Kraken Wakes | 3.00% | ~99 |
 | It's Starting to Crack | 3.00% | ~99 |
 | Change the Channel | 3.00% | ~99 |
@@ -26,7 +27,6 @@ Rating: 4.40 (Ranked 691)
 | My Little Friend | 2.00% | ~66 |
 | Explosive Efficiency | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
-| As Quiet as a Mouse | 2.00% | ~66 |
 | Close Quarters | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |

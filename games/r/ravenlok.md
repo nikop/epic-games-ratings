@@ -48,7 +48,7 @@
 | Going Home | 34.00% | ~357 |
 | Extraordinary! | 32.00% | ~336 |
 | Mirror, Mirror | 31.00% | ~326 |
-| Flower Power | 27.00% | ~284 |
+| Flower Power | 28.00% | ~294 |
 | Shopping Spree! | 25.00% | ~262 |
 | Crowned | 23.00% | ~242 |
 | Max Level! | 15.00% | ~158 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -1394,6 +1394,11 @@
       "Time": "2023-07-21T09:06:39.3718561+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T15:06:20.73755+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1429,7 +1434,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -1475,9 +1480,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 48
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1500,7 +1505,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
@@ -1508,8 +1513,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:06:30.073555+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:06:20.7375495+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:28.7848156+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:59:24.6306426+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:06:30.0735691+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:59:23.5525436+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:06:20.7375681+00:00"
 }

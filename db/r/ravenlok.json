@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2996,9 +2996,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 294
     },
     {
       "ID": "47",
@@ -3085,8 +3085,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:03:32.2044728+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:03:15.8280024+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.3361796+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:58:04.8368184+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:03:32.2045165+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:58:07.908738+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:03:15.8280703+00:00"
 }

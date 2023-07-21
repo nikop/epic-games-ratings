@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66909,
+  "EOS_Progressed": 66912,
   "EOS_Completed": 649,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 960,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -10074,6 +10074,11 @@
       "Time": "2023-07-21T14:07:48.8927968+00:00",
       "NumProgressed": 66909,
       "NumCompleted": 649
+    },
+    {
+      "Time": "2023-07-21T15:07:36.8928926+00:00",
+      "NumProgressed": 66912,
+      "NumCompleted": 649
     }
   ],
   "TotalAchievements": 25,
@@ -10117,7 +10122,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14720
+      "UsersEstimate": 14721
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -10141,7 +10146,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "Fair\u0027sFair",
@@ -10213,7 +10218,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10705
+      "UsersEstimate": 10706
     },
     {
       "ID": "Nothing Left to Say",
@@ -10237,7 +10242,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8698
+      "UsersEstimate": 8699
     },
     {
       "ID": "Sniper",
@@ -10284,7 +10289,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66909,
+      "Progressed": 66912,
       "Completed": 649
     }
   ],
@@ -10292,8 +10297,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-20T22:01:26.8795363+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:07:48.8927964+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:07:36.892892+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:01:32.670351+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:07:48.8928552+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:01:33.1437776+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:07:36.8930422+00:00"
 }

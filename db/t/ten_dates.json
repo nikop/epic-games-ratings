@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "misha_date2_all",
       "SetID": "6h5h9ho",
       "Name": "Playing the field",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "misha_date3_all",
@@ -598,8 +598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:03:52.903146+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:03:35.7191323+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:16.681787+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:58:01.50269+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:03:52.9031599+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:58:05.2676887+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:03:35.7191509+00:00"
 }

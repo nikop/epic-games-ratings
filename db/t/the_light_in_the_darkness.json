@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1981,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.69,
+  "EOS_Completed_Percentage": 8.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4088,6 +4088,11 @@
       "Time": "2023-07-21T09:03:57.6631298+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-07-21T15:03:49.4594565+00:00",
+      "NumProgressed": 1981,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 12,
@@ -4123,7 +4128,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Jacques a Dit",
@@ -4139,7 +4144,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Jude",
@@ -4147,7 +4152,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Le Juif et la France",
@@ -4155,7 +4160,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Little Helper",
@@ -4194,7 +4199,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1981,
       "Completed": 172
     }
   ],
@@ -4202,8 +4207,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:04:08.0160574+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:03:49.4594559+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:00:27.3855376+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:04:08.0160849+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:00:26.1550379+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:03:49.4594902+00:00"
 }

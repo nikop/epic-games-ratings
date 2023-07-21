@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 559,
+  "EOS_Progressed": 560,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -1255,6 +1255,11 @@
       "Time": "2023-07-20T23:01:34.6327827+00:00",
       "NumProgressed": 559,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T15:02:26.508368+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1482,7 +1487,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Toxic",
@@ -1504,9 +1509,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "YagaProfessional",
@@ -1521,7 +1526,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 559,
+      "Progressed": 560,
       "Completed": 1
     }
   ],
@@ -1529,8 +1534,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:03:22.5012876+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:02:26.5083673+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:28.36471+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:58:40.9240837+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:03:22.5013125+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:58:40.8453666+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:02:26.5083996+00:00"
 }

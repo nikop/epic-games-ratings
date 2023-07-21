@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2994,
+  "EOS_Progressed": 2996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2356,6 +2356,11 @@
       "Time": "2023-07-21T14:04:10.6291718+00:00",
       "NumProgressed": 2994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T15:03:52.1417229+00:00",
+      "NumProgressed": 2996,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2383,7 +2388,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "BloodAndIron",
@@ -2535,7 +2540,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "Kills_Bleed",
@@ -2583,7 +2588,7 @@
       "Name": "Opportunist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Kills_Knockback",
@@ -2591,7 +2596,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Kills_Streak",
@@ -2599,7 +2604,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "Kills_Vakir",
@@ -2615,7 +2620,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2631,7 +2636,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2639,7 +2644,7 @@
       "Name": "Nemesis Master",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2647,7 +2652,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "MasterOfTheForge",
@@ -2669,9 +2674,9 @@
       "ID": "MissionVictory_Duo",
       "SetID": "3jha1np",
       "Name": "Brothers in Arms",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "MissionVictory_Interceptors",
@@ -2695,7 +2700,7 @@
       "Name": "Efficient Killer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2727,7 +2732,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "NexusCompleted",
@@ -2735,7 +2740,7 @@
       "Name": "A Foul Creche",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2838,21 +2843,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2994,
+      "Progressed": 2996,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2994,
+      "Progressed": 2996,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-21T14:04:10.6291713+00:00",
+  "LastChanged_Achievements": "2023-07-21T15:03:52.1417226+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-21T13:59:33.947781+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:04:10.6292209+00:00"
+  "LastUpdate_Ratings": "2023-07-21T14:59:34.1735968+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:03:52.1417964+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "tomb-raider",
   "Ranking_Rating": 272,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
@@ -2422,6 +2422,6 @@
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
   "LastChanged": "2023-07-21T05:00:59.232481+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:37.9661921+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:00:34.1421512+00:00",
-  "LastUpdate_Achievements": "2023-07-21T14:07:15.6844634+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:00:34.3169663+00:00",
+  "LastUpdate_Achievements": "2023-07-21T15:07:04.9814851+00:00"
 }

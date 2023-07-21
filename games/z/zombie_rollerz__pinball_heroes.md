@@ -40,8 +40,8 @@
 | The Droid | 12.00% | ~14 |
 | Iron | 12.00% | ~14 |
 | The Bomber | 9.00% | ~11 |
+| Tested | 9.00% | ~11 |
 | The Astronaut | 8.00% | ~10 |
-| Tested | 8.00% | ~10 |
 | Highway to Hell | 7.00% | ~8 |
 | The Exorcist | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~6 |
