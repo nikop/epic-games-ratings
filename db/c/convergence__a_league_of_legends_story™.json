@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 767,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-07-20T23:03:23.6943554+00:00",
       "NumProgressed": 765,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-21T02:07:47.886261+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1699,7 +1704,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1723,7 +1728,7 @@
       "Name": "Like Clockwork",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ClovemaryGift",
@@ -1795,7 +1800,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1827,7 +1832,7 @@
       "Name": "Whiz Kid",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GrindingTime1",
@@ -1835,7 +1840,7 @@
       "Name": "Rail Rat",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "HexlockGift",
@@ -1963,7 +1968,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "RewindParry",
@@ -1971,7 +1976,7 @@
       "Name": "Honest Mistake",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1987,7 +1992,7 @@
       "Name": "Golem Chaser",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SkillCompletion1",
@@ -2035,7 +2040,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "TheaterChests1",
@@ -2081,9 +2086,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 107
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2098,14 +2103,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 767,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:40.0008596+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:47.8862601+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:13.0365513+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:40.0009175+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:04:39.5823176+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:47.8863615+00:00"
 }

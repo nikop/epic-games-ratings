@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 109,
-  "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 474,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1326,
+  "EOS_Progressed": 1327,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-07-20T10:05:31.2750719+00:00",
       "NumProgressed": 1326,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T02:10:01.0426544+00:00",
+      "NumProgressed": 1327,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1321,7 +1326,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1369,7 +1374,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1417,7 +1422,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "completedStory_legacy",
@@ -1481,7 +1486,7 @@
       "Name": "Core Failure",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1624,15 +1629,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:05:44.0329201+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:10:01.0426537+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:01:27.8121638+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:05:44.032986+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:06:14.1722294+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:10:01.0427391+00:00"
 }

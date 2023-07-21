@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1328,
+  "EOS_Progressed": 1330,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1203,6 +1203,11 @@
       "Time": "2023-07-19T18:08:11.140892+00:00",
       "NumProgressed": 1328,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-21T02:12:21.2992965+00:00",
+      "NumProgressed": 1330,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1214,7 +1219,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "10",
@@ -1230,7 +1235,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "12",
@@ -1238,7 +1243,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "13",
@@ -1262,7 +1267,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "16",
@@ -1278,7 +1283,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1051
     },
     {
       "ID": "18",
@@ -1286,7 +1291,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "19",
@@ -1302,7 +1307,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "20",
@@ -1366,7 +1371,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "3",
@@ -1374,7 +1379,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "30",
@@ -1438,7 +1443,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "9",
@@ -1453,15 +1458,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1328,
+      "Progressed": 1330,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:07:39.364114+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:12:21.2992956+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9281564+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:18.999295+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:07:39.3641413+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:04:47.0099505+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:12:21.2993442+00:00"
 }

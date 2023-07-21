@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LC-14",
@@ -276,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:45.1637155+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:54.2627462+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.6556002+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:56.4121647+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:45.1637382+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:05:32.2320854+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:54.2627665+00:00"
 }

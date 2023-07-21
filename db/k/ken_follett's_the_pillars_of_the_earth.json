@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14024,
+  "EOS_Progressed": 14025,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -6489,6 +6489,11 @@
       "Time": "2023-07-20T23:02:39.6870764+00:00",
       "NumProgressed": 14024,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-21T02:07:32.6275546+00:00",
+      "NumProgressed": 14025,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6508,7 +6513,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "tpote_achievement_11",
@@ -6556,7 +6561,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "tpote_achievement_17",
@@ -6604,7 +6609,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "tpote_achievement_22",
@@ -6644,7 +6649,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "tpote_achievement_27",
@@ -6812,7 +6817,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "tpote_achievement_9",
@@ -6820,22 +6825,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14024,
+      "Progressed": 14025,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:27.2161046+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:32.6275537+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:51.876488+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:27.21618+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:05:26.9513226+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:32.6276761+00:00"
 }

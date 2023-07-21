@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1663,6 +1663,11 @@
       "Time": "2023-07-20T23:02:29.3587456+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T02:07:20.1966723+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1682,7 +1687,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -1730,7 +1735,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "EXPERT_1",
@@ -1762,7 +1767,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1794,7 +1799,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "LOVE_GURU_1",
@@ -1802,7 +1807,7 @@
       "Name": "Love Guru",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1834,7 +1839,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PACIFIST",
@@ -1898,7 +1903,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "SECRET_ROOM",
@@ -1930,7 +1935,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "VVE",
@@ -1961,15 +1966,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:16.4766709+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:20.1966717+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:11.8607725+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:01:03.4177186+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:16.4767061+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:05:41.7971543+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:20.1967301+00:00"
 }

@@ -26,13 +26,13 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 5.00% | ~209 |
 | Tools of the trade I | 5.00% | ~209 |
 | Knee deep in snow | 5.00% | ~209 |
-| Bread for the people II | 4.00% | ~167 |
-| I like to build stuff... III | 4.00% | ~167 |
-| The King's new clothes I | 4.00% | ~167 |
-| Builder II | 4.00% | ~167 |
-| An honorable Governor II | 4.00% | ~167 |
-| Tax-man III | 4.00% | ~167 |
-| Conflicting parties | 4.00% | ~167 |
+| Bread for the people II | 4.00% | ~168 |
+| I like to build stuff... III | 4.00% | ~168 |
+| The King's new clothes I | 4.00% | ~168 |
+| Builder II | 4.00% | ~168 |
+| An honorable Governor II | 4.00% | ~168 |
+| Tax-man III | 4.00% | ~168 |
+| Conflicting parties | 4.00% | ~168 |
 | Another one bites the dust | 3.00% | ~126 |
 | I like to build stuff... IV | 3.00% | ~126 |
 | Experienced decorator | 3.00% | ~126 |
@@ -71,7 +71,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
 | I've been everywhere II | 0.90% | ~38 |
-| When there's fire... | 0.80% | ~33 |
+| When there's fire... | 0.80% | ~34 |
 | Last man standing | 0.70% | ~29 |
 | Ten-Hut! | 0.70% | ~29 |
 | I've been everywhere VI | 0.70% | ~29 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,187 (Ranked 142)  
+Progressed: 4,188 (Ranked 142)  
 Completed: 3 (0.07%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 3 (0.07%) (Ranked 197)
 | 2023-07-16 | 4,183 | 3 |
 | 2023-07-18 | 4,184 | 3 |
 | 2023-07-20 | 4,187 | 3 |
+| 2023-07-21 | 4,188 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -28,7 +28,7 @@ Rating: 4.19 (Ranked 847)
 | Full Circle | 2.00% | ~315 |
 | Power Up | 2.00% | ~315 |
 | It's Time | 2.00% | ~74 |
-| The Commonality | 1.00% | ~157 |
+| The Commonality | 1.00% | ~158 |
 | One Last Job | 1.00% | ~37 |
 | In Striking Distance | 0.90% | ~142 |
 | This Isn't About Escape | 0.70% | ~26 |
@@ -38,7 +38,7 @@ Rating: 4.19 (Ranked 847)
 | Quick Pick | 0.40% | ~15 |
 | Parole Denied | 0.30% | ~11 |
 | Big Spender | 0.30% | ~11 |
-| Mugshot | 0.20% | ~31 |
+| Mugshot | 0.20% | ~32 |
 | Instigator | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 847)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,749 (Ranked 109)  
+Progressed: 15,750 (Ranked 110)  
 Completed: 68 (0.43%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 68 (0.43%) (Ranked 135)
 | 2023-07-18 | 15,741 | 67 |
 | 2023-07-19 | 15,745 | 67 |
 | 2023-07-20 | 15,749 | 68 |
+| 2023-07-21 | 15,750 | 68 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 372)  
 Sum: 396 (Ranked 314)  

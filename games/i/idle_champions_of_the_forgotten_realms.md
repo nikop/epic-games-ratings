@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 904)  
+Rating: 4.06 (Ranked 902)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,881 (Ranked 53)  
+Progressed: 213,915 (Ranked 53)  
 Completed: 2,059 (0.96%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,10 +611,10 @@ Completed: 2,059 (0.96%) (Ranked 106)
 | 2023-07-18 | 213,209 | 2,058 |
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
-| 2023-07-21 | 213,881 | 2,059 |
+| 2023-07-21 | 213,915 | 2,059 |
 ## Awards
 Max (Diverse Characters): 5,048  (Ranked 66)  
-Sum: 30,598 (Ranked 38)  
+Sum: 30,601 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -622,8 +622,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,983 |
 | This game has Quickly Understood Controls | 4,674 |
 | This game is Relaxing | 4,562 |
+| This game is Highly Recommended | 4,014 |
 | This game has Amazing Characters | 4,014 |
-| This game is Highly Recommended | 4,011 |
 | This game has Playful Visuals | 3,306 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -804,3 +804,4 @@ Diff (max vs sum): 28
 | 2023-07-18 | 4.06 | - | 5,041 | 30,573 |
 | 2023-07-19 | 4.05 | - | 5,043 | 30,584 |
 | 2023-07-20 | 4.05 | - | 5,048 | 30,598 |
+| 2023-07-21 | 4.06 | - | 5,048 | 30,601 |

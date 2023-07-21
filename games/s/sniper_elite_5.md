@@ -6,6 +6,7 @@ Rating: 4.40 (Ranked 691)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 3.00% | ~99 |
+| Meeting Resistance | 3.00% | ~99 |
 | Sharpshooter | 3.00% | ~99 |
 | Confirming Suspicions | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
@@ -19,7 +20,6 @@ Rating: 4.40 (Ranked 691)
 | Climbing the Ladder | 2.00% | ~66 |
 | No Stone Unturned | 2.00% | ~66 |
 | Organ Grinder | 2.00% | ~66 |
-| Meeting Resistance | 2.00% | ~66 |
 | Gunslinger | 2.00% | ~66 |
 | Skirmisher | 2.00% | ~66 |
 | Set Europe Ablaze | 2.00% | ~66 |

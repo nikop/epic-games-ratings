@@ -3,11 +3,11 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 239,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -2913,10 +2913,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 3537,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2023-07-21T02:05:20.5476746+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3538,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3537,
+  "NumberOfAwards": 3538,
   "NumberOfAwardsMax": 419,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2954,7 +2960,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2992,8 +2998,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-07-20T14:00:04.3747612+00:00",
+  "LastChanged": "2023-07-21T02:05:20.5476744+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:55.227163+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:47.1884149+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:07:05.680049+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:05:20.5476751+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:11:42.9086182+00:00"
 }

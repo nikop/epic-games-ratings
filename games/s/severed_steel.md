@@ -5,30 +5,30 @@ Rating: 4.68 (Ranked 239)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 14.00% | ~59,738 |
-| 50 HEADSHOTS | 13.00% | ~55,471 |
-| SCIENCE AND INDUSTRY | 11.00% | ~46,937 |
-| FINISHED CHAPTER 1 | 10.00% | ~42,670 |
-| 200 HEADSHOTS | 8.00% | ~34,136 |
-| FINISHED CHAPTER 2 | 8.00% | ~34,136 |
-| FINISHED CHAPTER 3 | 6.00% | ~25,602 |
-| FINISHED CHAPTER 4 | 6.00% | ~25,602 |
-| FINISH CHAPTER 5 | 5.00% | ~21,335 |
-| CATHARTIC ESCAPISM | 5.00% | ~21,335 |
-| 1000 KILLS | 4.00% | ~17,068 |
-| FINISH CHAPTER 6 | 4.00% | ~17,068 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,534 |
+| 100 KILLS | 14.00% | ~59,748 |
+| 50 HEADSHOTS | 13.00% | ~55,480 |
+| SCIENCE AND INDUSTRY | 11.00% | ~46,945 |
+| FINISHED CHAPTER 1 | 10.00% | ~42,677 |
+| 200 HEADSHOTS | 8.00% | ~34,142 |
+| FINISHED CHAPTER 2 | 8.00% | ~34,142 |
+| FINISHED CHAPTER 3 | 6.00% | ~25,606 |
+| FINISHED CHAPTER 4 | 6.00% | ~25,606 |
+| FINISH CHAPTER 5 | 5.00% | ~21,339 |
+| CATHARTIC ESCAPISM | 5.00% | ~21,339 |
+| 1000 KILLS | 4.00% | ~17,071 |
+| FINISH CHAPTER 6 | 4.00% | ~17,071 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,535 |
 | FIREFIGHT LEVEL 20 | 0.80% | ~3,414 |
 | FIRST BLOOD | 0.70% | ~2,987 |
 | PACEMAKER | 0.50% | ~2,134 |
 | TIME PARADOX | 0.50% | ~2,134 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,707 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,280 |
 | NEW GAME PLUS | 0.30% | ~1,280 |
 | OUT OF ORDER | 0.30% | ~1,280 |
 | PARTYHARD | 0.30% | ~1,280 |
-| CHURCH | 0.20% | ~853 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~853 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~853 |
+| CHURCH | 0.20% | ~854 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~854 |
 | HEY THATS CHEATING | 0.10% | ~427 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~427 |
 | BUT WHY? | 0.10% | ~427 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~427 |
 | WARRIOR IN A GARDEN | 0.10% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,701 (Ranked 38)  
+Progressed: 426,773 (Ranked 38)  
 Completed: 38 (0.01%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 38 (0.01%) (Ranked 226)
 | 2023-07-18 | 425,806 | 38 |
 | 2023-07-19 | 426,059 | 38 |
 | 2023-07-20 | 426,663 | 38 |
-| 2023-07-21 | 426,701 | 38 |
+| 2023-07-21 | 426,773 | 38 |
 ## Awards
 Max (Great Boss Battles): 186  (Ranked 275)  
 Sum: 186 (Ranked 369)  

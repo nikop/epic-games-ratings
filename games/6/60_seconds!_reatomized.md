@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 272)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,727 (Ranked 137)  
+Progressed: 4,727 (Ranked 138)  
 Completed: 1 (0.02%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,29 +6,29 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,941 |
-| Titan's First Steps | 96.00% | ~127,612 |
-| Basic in Bulk | 90.00% | ~119,636 |
-| Tinkle of Coins | 86.00% | ~114,319 |
-| Disintermediation | 75.00% | ~99,697 |
-| Capitalism Ho! | 74.00% | ~98,367 |
-| It's Free Real Estate | 69.00% | ~91,721 |
-| Budding Merchant | 66.00% | ~87,733 |
+| Sponsored by Argon | 97.00% | ~128,942 |
+| Titan's First Steps | 96.00% | ~127,613 |
+| Basic in Bulk | 90.00% | ~119,637 |
+| Tinkle of Coins | 86.00% | ~114,320 |
+| Disintermediation | 75.00% | ~99,698 |
+| Capitalism Ho! | 74.00% | ~98,368 |
+| It's Free Real Estate | 69.00% | ~91,722 |
+| Budding Merchant | 66.00% | ~87,734 |
 | Another Satisfied Customer | 61.00% | ~81,087 |
-| One Easy Payment | 60.00% | ~79,757 |
-| Own the Means of Production | 60.00% | ~79,757 |
+| One Easy Payment | 60.00% | ~79,758 |
+| Own the Means of Production | 60.00% | ~79,758 |
 | Some Assembly Required | 58.00% | ~77,099 |
 | Pretty Penny | 57.00% | ~75,770 |
-| One-Armed Bandit | 49.00% | ~65,135 |
-| Through Repetition, Perfection | 46.00% | ~61,147 |
+| One-Armed Bandit | 49.00% | ~65,136 |
+| Through Repetition, Perfection | 46.00% | ~61,148 |
 | The Daily Grind | 45.00% | ~59,818 |
 | Bounty Hunters | 44.00% | ~58,489 |
-| Where it Hurts | 43.00% | ~57,159 |
-| Dungeon Imports | 42.00% | ~55,830 |
+| Where it Hurts | 43.00% | ~57,160 |
+| Dungeon Imports | 42.00% | ~55,831 |
 | Flooding the Market | 41.00% | ~54,501 |
 | Demand for Supplies | 38.00% | ~50,513 |
 | Gild-Gotten Goods | 37.00% | ~49,184 |
-| Did we pack lunch? | 35.00% | ~46,525 |
+| Did we pack lunch? | 35.00% | ~46,526 |
 | Arcane Industries | 34.00% | ~45,196 |
 | Accomplished Merchant | 31.00% | ~41,208 |
 | Ascended | 28.00% | ~37,220 |
@@ -50,21 +50,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 18.00% | ~23,927 |
 | Special Ingredient | 17.00% | ~22,598 |
 | Scrapbooker | 16.00% | ~21,269 |
-| A Notch Above the Rest | 15.00% | ~19,939 |
-| This Power Level...! | 15.00% | ~19,939 |
-| Expansion in Session | 15.00% | ~19,939 |
-| Seasoned Journeyman | 15.00% | ~19,939 |
-| Black Friday Special | 15.00% | ~19,939 |
+| A Notch Above the Rest | 15.00% | ~19,940 |
+| This Power Level...! | 15.00% | ~19,940 |
+| Expansion in Session | 15.00% | ~19,940 |
+| Seasoned Journeyman | 15.00% | ~19,940 |
+| Black Friday Special | 15.00% | ~19,940 |
 | Big Game Hunting | 14.00% | ~18,610 |
 | Locally Sourced | 14.00% | ~18,610 |
 | Flying off the Shelves | 14.00% | ~18,610 |
 | Laden with Loot | 14.00% | ~18,610 |
 | Fat Cat Tag Team | 13.00% | ~17,281 |
-| Above the Norm | 12.00% | ~15,951 |
-| Hidden Potential | 12.00% | ~15,951 |
-| Mammonite | 12.00% | ~15,951 |
-| Attrition Mission | 12.00% | ~15,951 |
-| Complete Monopoly | 12.00% | ~15,951 |
+| Above the Norm | 12.00% | ~15,952 |
+| Hidden Potential | 12.00% | ~15,952 |
+| Mammonite | 12.00% | ~15,952 |
+| Attrition Mission | 12.00% | ~15,952 |
+| Complete Monopoly | 12.00% | ~15,952 |
 | Omae wa Mou Shindeiru | 11.00% | ~14,622 |
 | Cranked up to 11 | 11.00% | ~14,622 |
 | By Your Powers Combined... | 11.00% | ~14,622 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.60% | ~798 |
 | Capitalist Camaraderie | 0.20% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,929 (Ranked 61)  
+Progressed: 132,930 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-18 | 132,815 | 119 |
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
-| 2023-07-21 | 132,929 | 122 |
+| 2023-07-21 | 132,930 | 122 |
 ## Awards
 Max (Great for Beginners): 4,668  (Ranked 69)  
-Sum: 26,950 (Ranked 46)  
+Sum: 26,952 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): 23
 | This game has Diverse Characters | 3,828 |
 | This game is Highly Recommended | 3,710 |
 | This game has Easy Combat | 3,655 |
-| This game has Playful Visuals | 3,134 |
+| This game has Playful Visuals | 3,136 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -407,3 +407,4 @@ Diff (max vs sum): 23
 | 2023-07-18 | 3.99 | - | 4,664 | 26,941 |
 | 2023-07-19 | 3.99 | - | 4,665 | 26,942 |
 | 2023-07-20 | 3.99 | - | 4,668 | 26,950 |
+| 2023-07-21 | 3.99 | - | 4,668 | 26,952 |

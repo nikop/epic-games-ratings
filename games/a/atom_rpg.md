@@ -6,19 +6,19 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,015 |
+| Atom Agent | 99.00% | ~1,016 |
 | Wanderer | 36.00% | ~369 |
 | One HIT wonder | 35.00% | ~359 |
-| One shot, one kill | 29.00% | ~297 |
-| Traveler | 26.00% | ~266 |
+| One shot, one kill | 29.00% | ~298 |
+| Traveler | 26.00% | ~267 |
 | Head Burst | 20.00% | ~205 |
 | Explorer | 19.00% | ~195 |
-| Grave Robber | 18.00% | ~184 |
+| Grave Robber | 18.00% | ~185 |
 | Double agent | 15.00% | ~154 |
 | Paranoia | 15.00% | ~154 |
-| Kraina Grzybow | 10.00% | ~102 |
-| Love Guru | 10.00% | ~102 |
-| Savant | 10.00% | ~102 |
+| Kraina Grzybow | 10.00% | ~103 |
+| Love Guru | 10.00% | ~103 |
+| Savant | 10.00% | ~103 |
 | Bustin' nuts | 8.00% | ~82 |
 | Not-so-private Eye | 8.00% | ~82 |
 | Superhuman | 8.00% | ~82 |
@@ -28,7 +28,7 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~51 |
 | Indy | 4.00% | ~41 |
 | Wishmaster | 3.00% | ~31 |
-| Career criminal | 2.00% | ~20 |
+| Career criminal | 2.00% | ~21 |
 | Neanderthal | 1.00% | ~10 |
 | It was worth a shot | 1.00% | ~10 |
 | Cosmic Horror | 1.00% | ~10 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,025 (Ranked 191)  
+Progressed: 1,026 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 1,022 | 0 |
 | 2023-07-18 | 1,023 | 0 |
 | 2023-07-20 | 1,025 | 0 |
+| 2023-07-21 | 1,026 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 403)  
 Sum: 49 (Ranked 448)  

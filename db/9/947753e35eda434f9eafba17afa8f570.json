@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "ACH_24_MOLO",
       "SetID": "2k150c1",
       "Name": "Whack A Molo",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_25_BEACH_PARTY",
@@ -353,9 +353,9 @@
       "ID": "ACH_6_LEVEL_FOREST",
       "SetID": "2k150c1",
       "Name": "Glimmerwink Grove",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_7_LEVEL_DESERT",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:07:22.8630036+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:12:02.3392003+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:57:46.4772483+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:07:22.8630356+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:01:42.9593837+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:12:02.3392549+00:00"
 }

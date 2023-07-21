@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -576,6 +576,11 @@
       "Time": "2023-07-21T00:02:32.6070448+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T02:06:44.0371233+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -587,7 +592,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -787,7 +792,7 @@
       "Name": "Graduated in contraptions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -826,14 +831,14 @@
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:02:32.6070441+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:06:44.0371223+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:55.4979064+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:58:54.6156836+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:02:32.6070717+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:03:03.1282823+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:06:44.0371653+00:00"
 }

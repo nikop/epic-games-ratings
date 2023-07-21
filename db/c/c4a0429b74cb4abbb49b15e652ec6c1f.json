@@ -2,9 +2,9 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-07-21T00:05:08.6936362+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T02:09:19.2126378+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -187,7 +192,7 @@
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
       "UsersEstimate": 7
     },
@@ -203,7 +208,7 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -227,7 +232,7 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -235,7 +240,7 @@
       "ID": "platformer_player",
       "SetID": "5fi1i42",
       "Name": "Platformer Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -243,7 +248,7 @@
       "ID": "play_worlds",
       "SetID": "5fi1i42",
       "Name": "Play worlds from foes",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -251,7 +256,7 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 120,
       "UsersEstimate": 6
     },
@@ -275,7 +280,7 @@
       "ID": "super_creator",
       "SetID": "5fi1i42",
       "Name": "Super Creator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 160,
       "UsersEstimate": 4
     },
@@ -283,9 +288,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "treant_destroyer",
@@ -324,14 +329,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:05:08.6936353+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:09:19.212637+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:57:26.2642654+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:05:08.6936541+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:01:20.5702763+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:09:19.2126591+00:00"
 }

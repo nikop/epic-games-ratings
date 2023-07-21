@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12082,
+  "EOS_Progressed": 12083,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5405,6 +5405,11 @@
       "Time": "2023-07-20T22:03:16.8229224+00:00",
       "NumProgressed": 12082,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-21T02:07:24.503097+00:00",
+      "NumProgressed": 12083,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5416,7 +5421,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11115
+      "UsersEstimate": 11116
     },
     {
       "ID": "ACH_02",
@@ -5424,7 +5429,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9545
+      "UsersEstimate": 9546
     },
     {
       "ID": "ACH_03",
@@ -5440,7 +5445,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "ACH_05",
@@ -5456,7 +5461,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "ACH_07",
@@ -5472,7 +5477,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7249
+      "UsersEstimate": 7250
     },
     {
       "ID": "ACH_09",
@@ -5496,7 +5501,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5799
+      "UsersEstimate": 5800
     },
     {
       "ID": "ACH_12",
@@ -5520,7 +5525,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_15",
@@ -5544,7 +5549,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACH_18",
@@ -5592,7 +5597,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "ACH_24",
@@ -5624,7 +5629,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5196
     },
     {
       "ID": "ACH_28",
@@ -5695,7 +5700,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12082,
+      "Progressed": 12083,
       "Completed": 37
     }
   ],
@@ -5703,8 +5708,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:20.1805969+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:24.5030963+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-21T00:00:16.8116533+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:20.1806571+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:04:44.5268287+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:24.5031926+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.42 (Ranked 662)
 | This Was No Papercut | 57.00% | ~1,700 |
 | People Person | 54.00% | ~1,610 |
 | The Shrink Hates Me | 54.00% | ~1,610 |
-| Use The Bumper, That's What It's For | 50.00% | ~1,491 |
+| Use The Bumper, That's What It's For | 51.00% | ~1,521 |
 | First Steps Into Madness | 50.00% | ~1,491 |
 | Colonial Barrels | 48.00% | ~1,431 |
 | Harper's Hell | 41.00% | ~1,223 |
@@ -43,8 +43,8 @@ Rating: 4.42 (Ranked 662)
 | Flawless Victory | 9.00% | ~268 |
 | This Went Smoothly | 9.00% | ~268 |
 | Perfect Enhancements | 7.00% | ~209 |
+| The True Experience | 6.00% | ~179 |
 | Hardened In The Heat Of Battle | 5.00% | ~149 |
-| The True Experience | 5.00% | ~149 |
 | Archivist | 1.00% | ~30 |
 | Fair And Square | 1.00% | ~30 |
 | Chalk It Up To Experience | 0.60% | ~18 |

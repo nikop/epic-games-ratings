@@ -5,30 +5,30 @@ Rating: 4.73 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,115 |
-| Newcomers | 79.00% | ~9,545 |
+| Under a New Sun | 92.00% | ~11,116 |
+| Newcomers | 79.00% | ~9,546 |
 | A Burden of Blood | 74.00% | ~8,941 |
-| Protector's Duty | 70.00% | ~8,457 |
+| Protector's Duty | 70.00% | ~8,458 |
 | In our Wake | 68.00% | ~8,216 |
 | Alchemist | 68.00% | ~8,216 |
-| Leaving all Behind | 65.00% | ~7,853 |
+| Leaving all Behind | 65.00% | ~7,854 |
 | Felons | 62.00% | ~7,491 |
-| A Sea of Promises | 60.00% | ~7,249 |
+| A Sea of Promises | 60.00% | ~7,250 |
 | Tales and Revelations | 57.00% | ~6,887 |
 | Bloodline | 52.00% | ~6,283 |
-| The Cradle of Centuries | 48.00% | ~5,799 |
+| The Cradle of Centuries | 48.00% | ~5,800 |
 | The Life We Deserve | 46.00% | ~5,558 |
-| Night guard | 43.00% | ~5,195 |
+| Night guard | 43.00% | ~5,196 |
 | Nothing Left | 39.00% | ~4,712 |
-| Healing our Wounds | 37.00% | ~4,470 |
+| Healing our Wounds | 37.00% | ~4,471 |
 | Dying Sun | 33.00% | ~3,987 |
-| Improved crossbow | 26.00% | ~3,141 |
+| Improved crossbow | 26.00% | ~3,142 |
 | King Hugo | 24.00% | ~2,900 |
 | Mercy | 24.00% | ~2,900 |
 | Perfect shot | 22.00% | ~2,658 |
 | Perfect throw | 22.00% | ~2,658 |
 | Effective instruments | 21.00% | ~2,537 |
-| Knights! | 20.00% | ~2,416 |
+| Knights! | 20.00% | ~2,417 |
 | Handful of pockets | 13.00% | ~1,571 |
 | Not a toy anymore | 11.00% | ~1,329 |
 | Pocket laboratory | 11.00% | ~1,329 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 157)
 | Explorer | 1.00% | ~121 |
 | Malignant | 1.00% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,082 (Ranked 115)  
+Progressed: 12,083 (Ranked 115)  
 Completed: 37 (0.31%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 37 (0.31%) (Ranked 148)
 | 2023-07-18 | 12,063 | 37 |
 | 2023-07-19 | 12,069 | 37 |
 | 2023-07-20 | 12,082 | 37 |
+| 2023-07-21 | 12,083 | 37 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 208)  
 Sum: 607 (Ranked 291)  

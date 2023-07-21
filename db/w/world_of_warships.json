@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -6742,10 +6742,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 10716,
       "NumberOfAwardsMax": 1212
+    },
+    {
+      "Time": "2023-07-21T02:04:02.6027465+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10725,
+      "NumberOfAwardsMax": 1212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10716,
+  "NumberOfAwards": 10725,
   "NumberOfAwardsMax": 1212,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6789,7 +6795,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 879
+      "Count": 888
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6821,8 +6827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-07-20T19:59:59.1856031+00:00",
+  "LastChanged": "2023-07-21T02:04:02.6027463+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:53.621837+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:59:42.5296141+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:05:37.0754153+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:04:02.6027473+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:09:52.9266781+00:00"
 }

@@ -4,16 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 19.00% | ~145 |
-| The Mysterious Stranger | 16.00% | ~122 |
-| Rail Rat | 16.00% | ~122 |
+| Time Heals All Wounds | 19.00% | ~146 |
+| The Mysterious Stranger | 16.00% | ~123 |
+| Rail Rat | 16.00% | ~123 |
 | The Steel Shadow | 15.00% | ~115 |
 | Make Up For Lost Time | 15.00% | ~115 |
 | Breaking Down Barriers | 15.00% | ~115 |
 | The Wicked Twins | 15.00% | ~115 |
 | The Prince in Heels | 15.00% | ~115 |
 | Immaculate Aim | 15.00% | ~115 |
-| The Brass Boss | 15.00% | ~115 |
 | The Betrayer | 14.00% | ~107 |
 | The Man Who Shattered Time | 14.00% | ~107 |
 | The Loose Cannon | 14.00% | ~107 |
@@ -23,15 +22,16 @@
 | No, Thanks! | 14.00% | ~107 |
 | Fast Learner | 14.00% | ~107 |
 | Immaculate Aim | 14.00% | ~107 |
+| The Brass Boss | 14.00% | ~107 |
 | The Family Fortune | 14.00% | ~107 |
-| Treasure Trove | 13.00% | ~99 |
-| Like Clockwork | 13.00% | ~99 |
-| Honest Mistake | 13.00% | ~99 |
-| Golem Chaser | 13.00% | ~99 |
-| Check Your Pulse | 13.00% | ~99 |
+| Treasure Trove | 13.00% | ~100 |
+| Like Clockwork | 13.00% | ~100 |
+| Honest Mistake | 13.00% | ~100 |
+| Golem Chaser | 13.00% | ~100 |
+| Check Your Pulse | 13.00% | ~100 |
 | Right On Time | 12.00% | ~92 |
 | Street Style | 12.00% | ~92 |
-| Whiz Kid | 10.00% | ~76 |
+| Whiz Kid | 10.00% | ~77 |
 | Chaincrawler Explorer | 9.00% | ~69 |
 | Good Neighbor | 9.00% | ~69 |
 | Family Memories | 8.00% | ~61 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 765 (Ranked 198)  
+Progressed: 767 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,3 +116,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-17 | 760 | 4 |
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
+| 2023-07-21 | 767 | 4 |

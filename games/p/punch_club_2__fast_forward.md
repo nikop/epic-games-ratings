@@ -14,25 +14,26 @@
 | Depressed visitor | 67.00% | ~12 |
 | Neurotrainer – power gainer! | 67.00% | ~12 |
 | Fitness professional | 61.00% | ~11 |
+| Employee of the week | 61.00% | ~11 |
+| Run K, run! | 56.00% | ~10 |
 | Intriguing candies | 56.00% | ~10 |
-| Employee of the week | 56.00% | ~10 |
-| Run K, run! | 50.00% | ~9 |
-| Hello, world! | 50.00% | ~9 |
-| Your own amateur gym | 44.00% | ~8 |
-| Fighting is cool | 39.00% | ~7 |
-| No bullying more | 39.00% | ~7 |
-| Little hacker | 28.00% | ~5 |
-| Employee of the month | 22.00% | ~4 |
-| Pal of your father? | 17.00% | ~3 |
-| Spirit of the past | 17.00% | ~3 |
-| Your own way | 17.00% | ~3 |
-| Workout professional | 11.00% | ~2 |
+| Hello, world! | 56.00% | ~10 |
+| Your own amateur gym | 50.00% | ~9 |
+| No bullying more | 50.00% | ~9 |
+| Fighting is cool | 44.00% | ~8 |
+| Little hacker | 33.00% | ~6 |
+| Pal of your father? | 28.00% | ~5 |
+| Spirit of the past | 28.00% | ~5 |
+| Employee of the month | 28.00% | ~5 |
+| Law student | 22.00% | ~4 |
+| Your own way | 22.00% | ~4 |
+| Workout professional | 17.00% | ~3 |
 | Handyman | 11.00% | ~2 |
-| Law student | 11.00% | ~2 |
+| It's good to be alive | 11.00% | ~2 |
 | Employee of the year | 11.00% | ~2 |
+| Legal courier | 6.00% | ~1 |
 | Fight for life | 6.00% | ~1 |
 | Champion – starter pack | 6.00% | ~1 |
-| It's good to be alive | 6.00% | ~1 |
 | Extreme neuropower! | 6.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | Another world | 0.00% | ~0 |
 | GYM professional | 0.00% | ~0 |
 | The lonesome road | 0.00% | ~0 |
-| Legal courier | 0.00% | ~0 |
 | Fight is life | 0.00% | ~0 |
 | Keep nature safe | 0.00% | ~0 |
 | Family comes first | 0.00% | ~0 |

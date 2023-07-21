@@ -5,9 +5,9 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -597,6 +597,11 @@
       "Time": "2023-07-21T00:03:33.6922011+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T02:07:40.3619132+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -607,9 +612,9 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -623,9 +628,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -639,79 +644,79 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -719,9 +724,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -729,29 +734,29 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -759,25 +764,25 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -792,15 +797,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-19T17:58:49.5067024+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:03:33.6922007+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:07:40.3619126+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.6006884+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:59:12.2530726+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:03:33.6922164+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:03:23.7159851+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:07:40.3619377+00:00"
 }

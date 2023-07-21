@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4187,
+  "EOS_Progressed": 4188,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-07-20T19:05:09.8707684+00:00",
       "NumProgressed": 4187,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T02:09:29.833756+00:00",
+      "NumProgressed": 4188,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -841,7 +846,7 @@
       "Name": "Bread for the people II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -881,7 +886,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -913,7 +918,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -953,7 +958,7 @@
       "Name": "When there\u0027s fire...",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -1041,7 +1046,7 @@
       "Name": "Builder II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -1081,7 +1086,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1465,7 +1470,7 @@
       "Name": "Tax-man III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -1585,7 +1590,7 @@
       "Name": "Conflicting parties",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -1608,15 +1613,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4187,
+      "Progressed": 4188,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-21T00:05:17.5915248+00:00",
+  "LastChanged_Achievements": "2023-07-21T02:09:29.833755+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:37.2698223+00:00",
-  "LastUpdate_Ratings": "2023-07-20T23:58:44.250185+00:00",
-  "LastUpdate_Achievements": "2023-07-21T00:05:17.5916618+00:00"
+  "LastUpdate_Ratings": "2023-07-21T02:02:50.1265376+00:00",
+  "LastUpdate_Achievements": "2023-07-21T02:09:29.8339908+00:00"
 }
