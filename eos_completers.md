@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.60% |
-| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
+| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.73% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -52,12 +52,12 @@
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.52% |
-| 53 | [Doodle God](games/d/doodle_god.md) | 3.52% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.55% |
+| 54 | [Doodle God](games/d/doodle_god.md) | 3.52% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.50% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.32% |
-| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.20% |
+| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.03% |
@@ -70,9 +70,9 @@
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
@@ -88,7 +88,7 @@
 | 86 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.72% |
 | 87 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 88 | [Somerville](games/s/somerville.md) | 1.62% |
-| 89 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.57% |
+| 89 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.51% |
 | 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 92 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
@@ -132,9 +132,9 @@
 | 130 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 131 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 131 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
-| 133 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.46% |
-| 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.45% |
-| 134 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
+| 133 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.45% |
+| 133 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.45% |
+| 133 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 136 | [Tchia](games/t/tchia.md) | 0.43% |
 | 136 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
 | 138 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
