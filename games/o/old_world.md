@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.10% | ~13 |
 | Carthage - Riches and Influence | 0.10% | ~13 |
 | Bronze Victory (Carthage 2) | 0.10% | ~13 |
+| Silver Victory (Carthage 2) | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
@@ -195,7 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
 | Gold Victory (Carthage 2) | 0.00% | ~0 |
-| Silver Victory (Carthage 2) | 0.00% | ~0 |
 | Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,998 (Ranked 113)  
-Completed: 5 (0.04%) (Ranked 209)  
+Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

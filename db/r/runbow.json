@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 44,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246959,
+  "EOS_Progressed": 246960,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9014,6 +9014,11 @@
       "Time": "2023-07-22T02:03:15.5418795+00:00",
       "NumProgressed": 246959,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T03:02:21.8838849+00:00",
+      "NumProgressed": 246960,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9049,7 +9054,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51861
+      "UsersEstimate": 51862
     },
     {
       "ID": "blotbuster",
@@ -9201,7 +9206,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130888
+      "UsersEstimate": 130889
     },
     {
       "ID": "indegestible",
@@ -9225,7 +9230,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64209
+      "UsersEstimate": 64210
     },
     {
       "ID": "justABit",
@@ -9329,7 +9334,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51861
+      "UsersEstimate": 51862
     },
     {
       "ID": "thunderstruck",
@@ -9385,14 +9390,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39513
+      "UsersEstimate": 39514
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246959,
+      "Progressed": 246960,
       "Completed": 3
     }
   ],
@@ -9400,8 +9405,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:03:15.5418788+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:02:21.8838845+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.7299608+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:01:00.8794204+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:03:15.5419767+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:00:26.6010555+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:02:21.8840005+00:00"
 }

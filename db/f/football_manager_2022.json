@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -5955,10 +5955,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50164,
       "NumberOfAwardsMax": 6366
+    },
+    {
+      "Time": "2023-07-22T03:01:39.3172079+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50165,
+      "NumberOfAwardsMax": 6366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50164,
+  "NumberOfAwards": 50165,
   "NumberOfAwardsMax": 6366,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6002,7 +6008,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5815
+      "Count": 5816
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6029,9 +6035,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 467728,
+  "EOS_Progressed": 467729,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15599,6 +15605,11 @@
       "Time": "2023-07-22T02:05:22.2677004+00:00",
       "NumProgressed": 467728,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-22T03:04:50.483991+00:00",
+      "NumProgressed": 467729,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -15626,7 +15637,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 121609
+      "UsersEstimate": 121610
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -15634,7 +15645,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 173059
+      "UsersEstimate": 173060
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -15666,7 +15677,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 121609
+      "UsersEstimate": 121610
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -15698,7 +15709,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 121609
+      "UsersEstimate": 121610
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -15722,7 +15733,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 140318
+      "UsersEstimate": 140319
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -15762,7 +15773,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 173059
+      "UsersEstimate": 173060
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -15810,7 +15821,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 88868
+      "UsersEstimate": 88869
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -15842,7 +15853,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191768
+      "UsersEstimate": 191769
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -15906,7 +15917,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88868
+      "UsersEstimate": 88869
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -15930,7 +15941,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191768
+      "UsersEstimate": 191769
     },
     {
       "ID": "achievement_head_to_head",
@@ -15954,7 +15965,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140318
+      "UsersEstimate": 140319
     },
     {
       "ID": "achievement_impervious",
@@ -15978,7 +15989,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107577
+      "UsersEstimate": 107578
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -16050,7 +16061,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88868
+      "UsersEstimate": 88869
     },
     {
       "ID": "achievement_pick_feeder",
@@ -16106,7 +16117,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 121609
+      "UsersEstimate": 121610
     },
     {
       "ID": "achievement_record_signing",
@@ -16154,7 +16165,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 219832
+      "UsersEstimate": 219833
     },
     {
       "ID": "achievement_signed_a_player",
@@ -16393,15 +16404,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 467728,
+      "Progressed": 467729,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-07-21T23:01:00.7175151+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:05:22.2676998+00:00",
+  "LastChanged": "2023-07-22T03:01:39.3172078+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:04:50.4839906+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:20.1052906+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:02:23.3122391+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:05:22.2679393+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:01:39.3172084+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:04:50.4841783+00:00"
 }

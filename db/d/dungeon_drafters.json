@@ -3,9 +3,9 @@
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -345,9 +345,9 @@
       "ID": "MC_complete",
       "SetID": "3b8n56h",
       "Name": "The Steed",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MGR_complete",
@@ -593,9 +593,9 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "thanks_but_why?",
@@ -626,8 +626,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:02:49.302664+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T02:22:10.1042982+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:58:26.2098957+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:02:49.3027704+00:00"
+  "LastChanged_Achievements": "2023-07-22T03:01:59.7931762+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T02:57:09.4299221+00:00",
+  "LastUpdate_Ratings": "2023-07-22T02:58:13.2154286+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:01:59.7932178+00:00"
 }

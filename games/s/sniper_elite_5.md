@@ -20,6 +20,7 @@ Rating: 4.40 (Ranked 691)
 | The Kraken Sleeps | 3.00% | ~100 |
 | Climbing the Ladder | 2.00% | ~66 |
 | No Stone Unturned | 2.00% | ~66 |
+| Opposing Force | 2.00% | ~66 |
 | Organ Grinder | 2.00% | ~66 |
 | Gunslinger | 2.00% | ~66 |
 | Skirmisher | 2.00% | ~66 |
@@ -30,7 +31,6 @@ Rating: 4.40 (Ranked 691)
 | Close Quarters | 2.00% | ~66 |
 | Snake in the Grass | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
-| Opposing Force | 1.00% | ~33 |
 | Enemy at the Gates | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
@@ -77,8 +77,8 @@ Rating: 4.40 (Ranked 691)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,320 (Ranked 147)  
-Completed: 9 (0.27%) (Ranked 155)  
+Progressed: 3,321 (Ranked 147)  
+Completed: 9 (0.27%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 9 (0.27%) (Ranked 155)
 | 2023-07-19 | 3,307 | 9 |
 | 2023-07-20 | 3,314 | 9 |
 | 2023-07-21 | 3,319 | 9 |
-| 2023-07-22 | 3,320 | 9 |
+| 2023-07-22 | 3,321 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

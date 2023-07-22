@@ -12,7 +12,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Constructor | 55.00% | ~3,896 |
 | Renovator | 54.00% | ~3,825 |
 | Bestest Friend | 51.00% | ~3,612 |
-| Banker | 42.00% | ~2,975 |
+| Banker | 43.00% | ~3,046 |
 | Gardener | 34.00% | ~2,408 |
 | Generous | 24.00% | ~1,700 |
 | Chef Cook | 19.00% | ~1,346 |
@@ -23,7 +23,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chit Chatter | 3.00% | ~212 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,083 (Ranked 127)  
-Completed: 176 (2.48%) (Ranked 72)  
+Completed: 176 (2.48%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

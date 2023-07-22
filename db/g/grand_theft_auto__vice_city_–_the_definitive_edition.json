@@ -6,9 +6,9 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -532,7 +532,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9054,
+  "EOS_Progressed": 9055,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -6622,6 +6622,11 @@
       "Time": "2023-07-22T02:04:53.5294272+00:00",
       "NumProgressed": 9054,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T03:04:26.4592856+00:00",
+      "NumProgressed": 9055,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6737,7 +6742,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "ACH15",
@@ -6793,7 +6798,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "ACH22",
@@ -6904,7 +6909,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9054,
+      "Progressed": 9055,
       "Completed": 43
     }
   ],
@@ -6912,8 +6917,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:04:53.5294268+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:04:26.4592851+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:59:40.1238701+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:04:53.5294938+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:59:22.2276903+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:04:26.4593561+00:00"
 }

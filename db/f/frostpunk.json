@@ -6,9 +6,9 @@
   "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 506,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -4302,11 +4302,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 6676,
       "NumberOfAwardsMax": 797
+    },
+    {
+      "Time": "2023-07-22T02:58:43.421285+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6678,
+      "NumberOfAwardsMax": 798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6676,
-  "NumberOfAwardsMax": 797,
+  "NumberOfAwards": 6678,
+  "NumberOfAwardsMax": 798,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -4319,7 +4325,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 797
+      "Count": 798
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4373,7 +4379,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 639
+      "Count": 640
     }
   ],
   "EOS_Progressed": 0,
@@ -4395,9 +4401,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-07-21T11:58:01.0406911+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:04:39.5655988+00:00",
+  "LastChanged": "2023-07-22T02:58:43.4212848+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:04:14.5089087+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:13.6863388+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:58:58.9121682+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:04:39.5656017+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:58:43.4212855+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:04:14.5089117+00:00"
 }

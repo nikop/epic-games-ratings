@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 20.00% | ~155 |
+| The Mysterious Stranger | 17.00% | ~132 |
 | Rail Rat | 17.00% | ~132 |
-| The Mysterious Stranger | 16.00% | ~124 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
 | Breaking Down Barriers | 15.00% | ~116 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 198)  
-Completed: 4 (0.52%) (Ranked 127)  
+Progressed: 775 (Ranked 199)  
+Completed: 4 (0.52%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

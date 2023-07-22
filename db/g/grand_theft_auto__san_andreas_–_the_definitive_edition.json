@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 460,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -566,23 +566,29 @@
       "Rating": 4.56,
       "NumberOfAwards": 223,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-07-22T03:01:36.7064342+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 223,
-  "NumberOfAwardsMax": 223,
+  "NumberOfAwards": 226,
+  "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 223
+      "Count": 226
     }
   ],
-  "EOS_Progressed": 11165,
+  "EOS_Progressed": 11166,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6960,6 +6966,11 @@
       "Time": "2023-07-22T02:08:35.2173642+00:00",
       "NumProgressed": 11165,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T03:07:44.1845908+00:00",
+      "NumProgressed": 11166,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7019,7 +7030,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "ACH08",
@@ -7027,7 +7038,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5582
+      "UsersEstimate": 5583
     },
     {
       "ID": "ACH09",
@@ -7075,7 +7086,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACH15",
@@ -7091,7 +7102,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ACH17",
@@ -7147,7 +7158,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "ACH24",
@@ -7250,16 +7261,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11165,
+      "Progressed": 11166,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-21T00:01:09.0851249+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:08:35.2173637+00:00",
+  "LastChanged": "2023-07-22T03:01:36.706434+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:07:44.1845904+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:02:20.5974945+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:08:35.2174347+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:01:36.7064345+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:07:44.1846562+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 82,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -127,6 +127,11 @@
       "Time": "2023-07-22T02:07:57.1635659+00:00",
       "NumProgressed": 210,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T03:07:11.4289024+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -138,7 +143,7 @@
       "Name": "Coin collector",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -154,7 +159,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Achievement_Hexy",
@@ -178,7 +183,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Achievement_Notes",
@@ -186,7 +191,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_Prickly",
@@ -194,7 +199,7 @@
       "Name": "Prickly situation handler",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_Race1",
@@ -210,7 +215,7 @@
       "Name": "Absolute race champion",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_Scorchy",
@@ -226,7 +231,7 @@
       "Name": "Challenge seeker",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -234,7 +239,7 @@
       "Name": "Speedrunner",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Achievement_Wrintry",
@@ -288,9 +293,9 @@
       "ID": "Achievement_float",
       "SetID": "cn6a29l",
       "Name": "Floater",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_hat",
@@ -298,15 +303,15 @@
       "Name": "Hat lover",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement_healthup",
       "SetID": "cn6a29l",
       "Name": "Protected",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "Achievement_hitJake",
@@ -362,7 +367,7 @@
       "Name": "Model",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement_tank",
@@ -385,7 +390,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 4
     }
   ],
@@ -393,8 +398,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:07:57.1635654+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:07:11.4289017+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.9218632+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:01:52.2915039+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:07:57.1635885+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:01:10.036361+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:07:11.4289317+00:00"
 }

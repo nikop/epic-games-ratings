@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6829,
+  "EOS_Progressed": 6830,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2808,6 +2808,11 @@
       "Time": "2023-07-22T00:02:33.0962382+00:00",
       "NumProgressed": 6829,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-22T03:03:21.9591327+00:00",
+      "NumProgressed": 6830,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2851,7 +2856,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2867,7 +2872,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2875,7 +2880,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2883,7 +2888,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2971,7 +2976,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3034,15 +3039,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6829,
+      "Progressed": 6830,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:03:40.1781809+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T02:22:22.4116679+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:58:36.9072267+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:03:40.1782185+00:00"
+  "LastChanged_Achievements": "2023-07-22T03:03:21.9591322+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
+  "LastUpdate_Ratings": "2023-07-22T02:58:26.0318665+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:03:21.9591698+00:00"
 }

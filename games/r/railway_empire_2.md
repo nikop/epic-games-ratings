@@ -9,7 +9,7 @@ Rating: 4.49 (Ranked 576)
 | A new Journey | 73.00% | ~1,199 |
 | Departure | 72.00% | ~1,182 |
 | From X to Y | 71.00% | ~1,166 |
-| Way of Iron | 69.00% | ~1,133 |
+| Way of Iron | 70.00% | ~1,149 |
 | Mystery Tour | 68.00% | ~1,117 |
 | We brake for nobody | 66.00% | ~1,084 |
 | Brainstorm | 65.00% | ~1,067 |
@@ -62,7 +62,7 @@ Rating: 4.49 (Ranked 576)
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,642 (Ranked 170)  
-Completed: 0 (0.00%) (Ranked 238)  
+Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

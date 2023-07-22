@@ -6,15 +6,15 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,738 |
-| Powergamer | 27.00% | ~64,355 |
-| Barely scratched the surface | 25.00% | ~59,588 |
-| Write that down | 24.00% | ~57,204 |
-| Guns, lots of guns | 12.00% | ~28,602 |
+| I will finish what you started | 28.00% | ~66,740 |
+| Powergamer | 27.00% | ~64,357 |
+| Barely scratched the surface | 25.00% | ~59,590 |
+| Write that down | 24.00% | ~57,206 |
+| Guns, lots of guns | 12.00% | ~28,603 |
 | Collector | 11.00% | ~26,219 |
 | Elementary! | 9.00% | ~21,452 |
-| Pumpkin Jack | 8.00% | ~19,068 |
-| Wake up! | 8.00% | ~19,068 |
+| Pumpkin Jack | 8.00% | ~19,069 |
+| Wake up! | 8.00% | ~19,069 |
 | It's honest work | 7.00% | ~16,685 |
 | Griever | 7.00% | ~16,685 |
 | Me smart | 6.00% | ~14,301 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | A true blacksmith | 0.90% | ~2,145 |
 | Let's try another | 0.80% | ~1,907 |
 | Home run | 0.80% | ~1,907 |
-| I have the high ground | 0.70% | ~1,668 |
-| It's blue, always blue | 0.70% | ~1,668 |
+| I have the high ground | 0.70% | ~1,669 |
+| It's blue, always blue | 0.70% | ~1,669 |
 | Who wouldn't love a troll? | 0.50% | ~1,192 |
 | Enjoy these little moments | 0.40% | ~953 |
 | Irondec | 0.40% | ~953 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~477 |
 | Memory 5 | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,351 (Ranked 46)  
-Completed: 7 (0.00%) (Ranked 238)  
+Progressed: 238,358 (Ranked 46)  
+Completed: 7 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 7 (0.00%) (Ranked 238)
 | 2023-07-19 | 238,047 | 7 |
 | 2023-07-20 | 238,180 | 7 |
 | 2023-07-21 | 238,330 | 7 |
-| 2023-07-22 | 238,351 | 7 |
+| 2023-07-22 | 238,358 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 363)  
 Sum: 76 (Ranked 426)  

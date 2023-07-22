@@ -6,8 +6,8 @@
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2780,7 +2780,7 @@
   ],
   "EOS_Progressed": 7083,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -6810,9 +6810,9 @@
       "ID": "Banker",
       "SetID": "chapdi4",
       "Name": "Banker",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2975
+      "UsersEstimate": 3046
     },
     {
       "ID": "Bestest_Friend",
@@ -6931,8 +6931,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-21T21:59:07.2841184+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:03:16.9503177+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:02:22.9370269+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:44.2209872+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:59:28.7061357+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:03:16.950357+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:59:12.1473244+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:02:22.9370588+00:00"
 }

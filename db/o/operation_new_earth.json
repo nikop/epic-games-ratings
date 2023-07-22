@@ -3,9 +3,9 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1936,6 +1936,11 @@
       "Time": "2023-07-22T02:06:56.663055+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T03:06:20.6560616+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2075,7 +2080,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2123,7 +2128,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2155,7 +2160,7 @@
       "Name": "Stocking Up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2171,7 +2176,7 @@
       "Name": "On Target",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2185,9 +2190,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2201,9 +2206,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2250,14 +2255,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:06:56.6630546+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:06:20.6560612+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:02:33.8439175+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:06:56.6630957+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:01:48.7915122+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:06:20.6561003+00:00"
 }

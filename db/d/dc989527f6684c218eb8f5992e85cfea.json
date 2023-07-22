@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7811,
+  "EOS_Progressed": 7812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3856,6 +3856,11 @@
       "Time": "2023-07-22T02:03:15.2513399+00:00",
       "NumProgressed": 7811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T03:02:21.492319+00:00",
+      "NumProgressed": 7812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4066,14 +4071,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7811,
+      "Progressed": 7812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-22T02:03:15.2513393+00:00",
+  "LastChanged_Achievements": "2023-07-22T03:02:21.4923185+00:00",
   "LastUpdate_AppInfo": "2023-07-21T18:57:15.4178752+00:00",
-  "LastUpdate_Ratings": "2023-07-22T01:57:41.9541605+00:00",
-  "LastUpdate_Achievements": "2023-07-22T02:03:15.2513817+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:57:34.8127101+00:00",
+  "LastUpdate_Achievements": "2023-07-22T03:02:21.4923597+00:00"
 }

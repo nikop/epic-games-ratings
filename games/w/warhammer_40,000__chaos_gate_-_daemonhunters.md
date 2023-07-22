@@ -6,11 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 39.00% | ~1,170 |
-| Look Over There! | 34.00% | ~1,020 |
-| Watch Where You Step... | 33.00% | ~990 |
-| Not So Fast... | 32.00% | ~960 |
-| An Ill Omen | 31.00% | ~930 |
+| Executioner | 39.00% | ~1,171 |
+| Look Over There! | 34.00% | ~1,021 |
+| Watch Where You Step... | 33.00% | ~991 |
+| Not So Fast... | 32.00% | ~961 |
+| An Ill Omen | 31.00% | ~931 |
 | Purging Spree | 25.00% | ~750 |
 | Blood for the Blood God! | 19.00% | ~570 |
 | Friendly Fire | 18.00% | ~540 |
@@ -66,8 +66,8 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,001 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 238)  
+Progressed: 3,002 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-19 | 2,979 | 0 |
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
-| 2023-07-22 | 3,001 | 0 |
+| 2023-07-22 | 3,002 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 264)  
 Sum: 451 (Ranked 304)  

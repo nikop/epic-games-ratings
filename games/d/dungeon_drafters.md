@@ -14,16 +14,16 @@
 | Riddlesolver | 22.00% | ~13 |
 | Card Collector | 20.00% | ~12 |
 | Dungeon Mastery | 17.00% | ~10 |
-| The Steed | 10.00% | ~6 |
+| The Steed | 12.00% | ~7 |
 | A Strange Proposition | 10.00% | ~6 |
 | The Bodyguard | 7.00% | ~4 |
 | The Apprentice | 7.00% | ~4 |
 | The Familiar | 7.00% | ~4 |
+| No Stone Unturned | 7.00% | ~4 |
 | Braving Miasma | 5.00% | ~3 |
 | Ancient Nemesis | 5.00% | ~3 |
 | Traveler Mastery | 5.00% | ~3 |
 | The Plot Thickens | 5.00% | ~3 |
-| No Stone Unturned | 5.00% | ~3 |
 | Best Pupil | 3.00% | ~2 |
 | Oracle Mastery | 3.00% | ~2 |
 | FOR JUSTICE! | 3.00% | ~2 |
@@ -46,7 +46,7 @@
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 238)  
+Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
