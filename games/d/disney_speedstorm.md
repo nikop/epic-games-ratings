@@ -25,12 +25,12 @@
 | PERFECTLY POISED | 11.00% | ~328 |
 | BE OUR GUEST | 11.00% | ~328 |
 | THE EYE OF THE HUNTER | 11.00% | ~328 |
-| ACE TRICKSTER | 8.00% | ~239 |
+| ACE TRICKSTER | 9.00% | ~268 |
 | EXPERIENCED CREW | 5.00% | ~149 |
 | FRAMED! | 4.00% | ~119 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,983 (Ranked 153)  
-Completed: 104 (3.49%) (Ranked 54)  
+Completed: 105 (3.52%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,3 +121,4 @@ Completed: 104 (3.49%) (Ranked 54)
 | 2023-07-19 | 2,970 | 101 |
 | 2023-07-20 | 2,974 | 101 |
 | 2023-07-21 | 2,983 | 104 |
+| 2023-07-22 | 2,983 | 105 |

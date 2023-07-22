@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,463 |
-| Having A Field Day | 73.00% | ~3,463 |
-| Reap What You Sow | 70.00% | ~3,321 |
-| The First Day | 67.00% | ~3,178 |
+| Get A Room | 73.00% | ~3,464 |
+| Having A Field Day | 73.00% | ~3,464 |
+| Reap What You Sow | 70.00% | ~3,322 |
+| The First Day | 67.00% | ~3,179 |
 | Green Thumb | 65.00% | ~3,084 |
-| Novice Researcher | 64.00% | ~3,036 |
-| Putting Food on the Table | 60.00% | ~2,846 |
-| Home Cooked Meal | 55.00% | ~2,609 |
-| Onward | 55.00% | ~2,609 |
-| The First Week | 53.00% | ~2,514 |
+| Novice Researcher | 64.00% | ~3,037 |
+| Putting Food on the Table | 60.00% | ~2,847 |
+| Home Cooked Meal | 55.00% | ~2,610 |
+| Onward | 55.00% | ~2,610 |
+| The First Week | 53.00% | ~2,515 |
 | Beam Me Up | 50.00% | ~2,372 |
 | Feast or Famine | 50.00% | ~2,372 |
 | Studious Researcher | 50.00% | ~2,372 |
-| Adept Researcher | 44.00% | ~2,087 |
+| Adept Researcher | 44.00% | ~2,088 |
 | Retribution | 40.00% | ~1,898 |
 | ...And Don’t Come Back! | 40.00% | ~1,898 |
 | Fit For A King | 38.00% | ~1,803 |
 | Luminary Researcher | 34.00% | ~1,613 |
-| Heating Up | 28.00% | ~1,328 |
+| Heating Up | 28.00% | ~1,329 |
 | Winter Is Coming | 25.00% | ~1,186 |
 | Winter Is Here | 22.00% | ~1,044 |
-| Disassembled | 19.00% | ~901 |
-| A Party Now | 19.00% | ~901 |
-| Oh Deer! | 19.00% | ~901 |
-| All Year Round | 19.00% | ~901 |
+| Disassembled | 19.00% | ~902 |
+| A Party Now | 19.00% | ~902 |
+| Oh Deer! | 19.00% | ~902 |
+| All Year Round | 19.00% | ~902 |
 | Nothing Wasted | 12.00% | ~569 |
 | Don't Cry Wolf | 11.00% | ~522 |
 | Deerly Departed | 8.00% | ~380 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~95 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,744 (Ranked 137)  
+Progressed: 4,745 (Ranked 137)  
 Completed: 10 (0.21%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,11 @@ Completed: 10 (0.21%) (Ranked 164)
 | 2023-07-19 | 4,707 | 10 |
 | 2023-07-20 | 4,722 | 10 |
 | 2023-07-21 | 4,744 | 10 |
+| 2023-07-22 | 4,745 | 10 |
 ## Awards
-Max (Relaxing): 121  (Ranked 311)  
+Max (Relaxing): 121  (Ranked 312)  
 Sum: 962 (Ranked 238)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 121 |

@@ -27,6 +27,7 @@
 | Xevarian Gambit | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
+| Despised | 3.00% | ~4 |
 | Been There | 3.00% | ~4 |
 | A Terrible Will | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
@@ -36,7 +37,6 @@
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Bounty Hunter | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
-| Despised | 2.00% | ~2 |
 | Business As Usual | 2.00% | ~2 |
 | Trailblazer | 2.00% | ~2 |
 | Delayed | 2.00% | ~2 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 296)  
+Progressed: 117 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

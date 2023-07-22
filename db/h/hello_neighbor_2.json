@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2114,9 +2114,9 @@
       "ID": "ACH_TREASURE_HUNT",
       "SetID": "4kfb9pd",
       "Name": "Treasure Hunt",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 782
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2139,8 +2139,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:05:11.7773585+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:04:30.9340202+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:22.2405235+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:01:02.2895302+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:05:11.7773787+00:00"
+  "LastUpdate_Ratings": "2023-07-22T00:00:18.0733005+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:04:30.9340408+00:00"
 }

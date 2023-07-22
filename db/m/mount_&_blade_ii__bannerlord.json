@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -5725,18 +5725,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13821,
       "NumberOfAwardsMax": 6826
+    },
+    {
+      "Time": "2023-07-21T23:59:46.6955831+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13824,
+      "NumberOfAwardsMax": 6829
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13821,
-  "NumberOfAwardsMax": 6826,
+  "NumberOfAwards": 13824,
+  "NumberOfAwardsMax": 6829,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6826
+      "Count": 6829
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5805,9 +5811,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56329,
+  "EOS_Progressed": 56330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15390,6 +15396,11 @@
       "Time": "2023-07-21T23:07:09.1540771+00:00",
       "NumProgressed": 56329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T00:06:15.7186304+00:00",
+      "NumProgressed": 56330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15417,7 +15428,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12392
+      "UsersEstimate": 12393
     },
     {
       "ID": "Best served cold",
@@ -15529,7 +15540,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "Great Granny",
@@ -15561,7 +15572,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12392
+      "UsersEstimate": 12393
     },
     {
       "ID": "I can do it",
@@ -15569,7 +15580,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8450
     },
     {
       "ID": "I spit on your grave",
@@ -15641,7 +15652,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12392
+      "UsersEstimate": 12393
     },
     {
       "ID": "Long live the Empire",
@@ -15808,15 +15819,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56329,
+      "Progressed": 56330,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-21T16:00:47.9305516+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:07:09.1540766+00:00",
+  "LastChanged": "2023-07-21T23:59:46.6955829+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:06:15.71863+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:00:29.4088641+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:07:09.1541781+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:59:46.6955835+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:06:15.7187378+00:00"
 }

@@ -1,29 +1,29 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~39,875 |
-| Get Busy Living | 16.00% | ~24,539 |
-| Samuel Norton | 9.00% | ~13,803 |
-| Spare The Rod | 5.00% | ~7,668 |
+| Stone Walls | 26.00% | ~39,879 |
+| Get Busy Living | 16.00% | ~24,541 |
+| Samuel Norton | 9.00% | ~13,804 |
+| Spare The Rod | 5.00% | ~7,669 |
 | Don't Put Me In The Dark | 3.00% | ~4,601 |
 | Wait and Hope | 3.00% | ~4,601 |
 | I May Have Found A Way Out Of Here | 3.00% | ~4,601 |
 | Iron Bars | 3.00% | ~4,601 |
-| Throw The Book At Them | 2.00% | ~3,067 |
+| Throw The Book At Them | 2.00% | ~3,068 |
 | D.B. Cooper | 1.00% | ~1,534 |
 | Reformation | 0.60% | ~920 |
 | Crowd Control | 0.50% | ~767 |
-| Freedom | 0.40% | ~613 |
+| Freedom | 0.40% | ~614 |
 | Confined | 0.30% | ~460 |
 | It's Not What You Know... | 0.10% | ~153 |
 | ... It's What You Can Prove | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,367 (Ranked 60)  
+Progressed: 153,381 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,15 +116,16 @@ Completed: 5 (0.00%) (Ranked 238)
 | 2023-07-19 | 152,365 | 5 |
 | 2023-07-20 | 152,868 | 5 |
 | 2023-07-21 | 153,367 | 5 |
+| 2023-07-22 | 153,381 | 5 |
 ## Awards
 Max (Extremely Fun): 459  (Ranked 199)  
-Sum: 3,579 (Ranked 149)  
+Sum: 3,580 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 459 |
 | This game is Great for Beginners | 445 |
-| This game is Highly Recommended | 438 |
+| This game is Highly Recommended | 439 |
 | This game has Quickly Understood Controls | 422 |
 | This game is Relaxing | 406 |
 | This game has Diverse Characters | 387 |
@@ -316,4 +317,4 @@ Diff (max vs sum): 50
 | 2023-07-18 | 4.61 | - | 457 | 3,568 |
 | 2023-07-19 | 4.61 | - | 457 | 3,570 |
 | 2023-07-20 | 4.61 | - | 457 | 3,576 |
-| 2023-07-21 | 4.61 | - | 459 | 3,579 |
+| 2023-07-21 | 4.61 | - | 459 | 3,580 |

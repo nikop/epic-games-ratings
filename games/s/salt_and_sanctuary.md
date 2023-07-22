@@ -1,18 +1,18 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,468 |
-| The Three | 64.00% | ~338,096 |
-| The Banquet | 40.00% | ~211,310 |
-| Devara's Light | 30.00% | ~158,482 |
+| Find Sanctuary | 83.00% | ~438,470 |
+| The Three | 64.00% | ~338,097 |
+| The Banquet | 40.00% | ~211,311 |
+| Devara's Light | 30.00% | ~158,483 |
 | The Iron Ones | 18.00% | ~95,090 |
 | The Village | 16.00% | ~84,524 |
-| The Forest | 14.00% | ~73,958 |
+| The Forest | 14.00% | ~73,959 |
 | Branded | 13.00% | ~68,676 |
 | The Imposter | 13.00% | ~68,676 |
 | The Keep | 13.00% | ~68,676 |
@@ -24,9 +24,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Mire | 7.00% | ~36,979 |
 | The Stone Roots | 7.00% | ~36,979 |
 | The Ziggurat | 7.00% | ~36,979 |
-| Storied | 6.00% | ~31,696 |
-| The Construct | 6.00% | ~31,696 |
-| The Ruins | 6.00% | ~31,696 |
+| Storied | 6.00% | ~31,697 |
+| The Construct | 6.00% | ~31,697 |
+| The Ruins | 6.00% | ~31,697 |
 | The Alkymancery | 5.00% | ~26,414 |
 | The Lake | 5.00% | ~26,414 |
 | The Pitchwoods | 5.00% | ~26,414 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,566 |
 | Fading Fast | 1.00% | ~5,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,275 (Ranked 28)  
+Progressed: 528,277 (Ranked 28)  
 Completed: 1,484 (0.28%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 1,484 (0.28%) (Ranked 153)
 | 2023-07-19 | 528,117 | 1,483 |
 | 2023-07-20 | 528,184 | 1,483 |
 | 2023-07-21 | 528,275 | 1,484 |
+| 2023-07-22 | 528,277 | 1,484 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 240)  
 Sum: 1,916 (Ranked 201)  

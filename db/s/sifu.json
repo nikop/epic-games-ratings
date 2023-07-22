@@ -5268,10 +5268,10 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711067,
-  "EOS_Completed": 12829,
-  "EOS_NewPlayers": 323,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 711074,
+  "EOS_Completed": 12830,
+  "EOS_NewPlayers": 330,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -13883,6 +13883,11 @@
       "Time": "2023-07-21T23:07:08.927827+00:00",
       "NumProgressed": 711067,
       "NumCompleted": 12829
+    },
+    {
+      "Time": "2023-07-22T00:06:15.5745138+00:00",
+      "NumProgressed": 711074,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -13942,7 +13947,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "08_Wude_H2",
@@ -13950,7 +13955,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "09_Wude_H3",
@@ -14006,7 +14011,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "16_Detective_H2",
@@ -14238,7 +14243,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14254,7 +14259,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -14270,7 +14275,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -14293,21 +14298,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20368,
-      "Completed": 10430
+      "Progressed": 20375,
+      "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711067,
-      "Completed": 12829
+      "Progressed": 711074,
+      "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:07:08.9278265+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:06:15.5745135+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:59:36.9569622+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:07:08.9279233+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:59:04.1702174+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:06:15.5746089+00:00"
 }

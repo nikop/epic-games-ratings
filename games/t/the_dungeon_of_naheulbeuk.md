@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~112,826 |
-| Where's that freaking Dwarf? | 46.00% | ~89,482 |
-| GG EZ | 28.00% | ~54,468 |
-| Speedrun | 26.00% | ~50,577 |
-| Déjà vu | 21.00% | ~40,851 |
-| Sock! SOCK! | 16.00% | ~31,124 |
-| DM intervention | 13.00% | ~25,289 |
-| Fireproof Wizardess | 9.00% | ~17,507 |
-| Livin' in a dwarven paradise | 7.00% | ~13,617 |
-| Way of the Wimp | 7.00% | ~13,617 |
-| A beer, two curses, three companions | 7.00% | ~13,617 |
-| The plot thickens... At the tavern | 5.00% | ~9,726 |
-| The Woman in the High Castle | 4.00% | ~7,781 |
-| The demons' feast | 3.00% | ~5,836 |
-| I am the night | 3.00% | ~5,836 |
-| Team Building Exercise | 3.00% | ~5,836 |
-| Oh, when I'll be level 10... | 3.00% | ~5,836 |
+| Alt+F4 | 58.00% | ~112,844 |
+| Where's that freaking Dwarf? | 46.00% | ~89,497 |
+| GG EZ | 28.00% | ~54,476 |
+| Speedrun | 26.00% | ~50,585 |
+| Déjà vu | 21.00% | ~40,857 |
+| Sock! SOCK! | 16.00% | ~31,129 |
+| DM intervention | 13.00% | ~25,293 |
+| Fireproof Wizardess | 9.00% | ~17,510 |
+| Livin' in a dwarven paradise | 7.00% | ~13,619 |
+| Way of the Wimp | 7.00% | ~13,619 |
+| A beer, two curses, three companions | 7.00% | ~13,619 |
+| The plot thickens... At the tavern | 5.00% | ~9,728 |
+| The Woman in the High Castle | 4.00% | ~7,782 |
+| The demons' feast | 3.00% | ~5,837 |
+| I am the night | 3.00% | ~5,837 |
+| Team Building Exercise | 3.00% | ~5,837 |
+| Oh, when I'll be level 10... | 3.00% | ~5,837 |
 | Shiny and Crôm | 2.00% | ~3,891 |
 | The Great Library | 2.00% | ~3,891 |
 | Torture and Sensibility | 2.00% | ~3,891 |
@@ -32,14 +32,14 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~3,891 |
 | Thieves' Guild Accreditation | 2.00% | ~3,891 |
 | Material Girl | 2.00% | ~3,891 |
-| Urik's Depths | 1.00% | ~1,945 |
-| The Statuette of Gladeulfeurah | 1.00% | ~1,945 |
-| A tale of adventurers not quite like the others... | 1.00% | ~1,945 |
-| Look but don't touch | 1.00% | ~1,945 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~1,945 |
-| Gargantua | 1.00% | ~1,945 |
-| In Navalu's footsteps | 1.00% | ~1,945 |
-| Lust and Debauchery | 1.00% | ~1,945 |
+| Urik's Depths | 1.00% | ~1,946 |
+| The Statuette of Gladeulfeurah | 1.00% | ~1,946 |
+| A tale of adventurers not quite like the others... | 1.00% | ~1,946 |
+| Look but don't touch | 1.00% | ~1,946 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~1,946 |
+| Gargantua | 1.00% | ~1,946 |
+| In Navalu's footsteps | 1.00% | ~1,946 |
+| Lust and Debauchery | 1.00% | ~1,946 |
 | The Dungeon Master | 0.80% | ~1,556 |
 | Dead for good | 0.80% | ~1,556 |
 | Law and Order | 0.80% | ~1,556 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,527 (Ranked 56)  
+Progressed: 194,558 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,13 +147,14 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-19 | 192,371 | 0 |
 | 2023-07-20 | 193,404 | 0 |
 | 2023-07-21 | 194,527 | 0 |
+| 2023-07-22 | 194,558 | 0 |
 ## Awards
-Max (Character Customization): 120  (Ranked 313)  
-Sum: 120 (Ranked 402)  
-Diff (max vs sum): -89  
+Max (Character Customization): 123  (Ranked 308)  
+Sum: 123 (Ranked 400)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 120 |
+| This game has Inclusive Character Customization | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -245,3 +246,4 @@ Diff (max vs sum): -89
 | 2023-07-18 | 4.57 | - | 115 | 115 |
 | 2023-07-19 | 4.57 | - | 118 | 118 |
 | 2023-07-20 | 4.57 | - | 120 | 120 |
+| 2023-07-21 | 4.57 | - | 123 | 123 |

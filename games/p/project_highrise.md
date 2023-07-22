@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~136 |
+| In the Black | 57.00% | ~137 |
 | Starting Skyward | 51.00% | ~122 |
-| Grime is Not Good | 44.00% | ~105 |
+| Grime is Not Good | 44.00% | ~106 |
 | Floor Galore | 38.00% | ~91 |
 | Campaign Launch | 38.00% | ~91 |
-| Dinner Dash | 37.00% | ~88 |
+| Dinner Dash | 37.00% | ~89 |
 | Need a Consult | 35.00% | ~84 |
-| It's Technical | 34.00% | ~81 |
+| It's Technical | 34.00% | ~82 |
 | Upgrade Unlock | 33.00% | ~79 |
 | Proper Walls | 31.00% | ~74 |
 | Delegate Maintenance | 31.00% | ~74 |
@@ -27,17 +27,17 @@
 | Don't Feel a Loan | 20.00% | ~48 |
 | Emporium Empire | 20.00% | ~48 |
 | Get Electrified | 20.00% | ~48 |
-| Artfully Done | 19.00% | ~45 |
-| Rehab Expert | 19.00% | ~45 |
-| Tasty Profits | 19.00% | ~45 |
-| We Don't Need No Education | 19.00% | ~45 |
+| Artfully Done | 19.00% | ~46 |
+| Rehab Expert | 19.00% | ~46 |
+| Tasty Profits | 19.00% | ~46 |
+| We Don't Need No Education | 19.00% | ~46 |
 | Under One Roof | 16.00% | ~38 |
 | Established Fame | 16.00% | ~38 |
 | Cashflow Chief | 16.00% | ~38 |
 | Starred Dining | 15.00% | ~36 |
 | Boutique Benefits | 15.00% | ~36 |
 | Terrifically Trashed | 15.00% | ~36 |
-| Thrilled Tenants | 14.00% | ~33 |
+| Thrilled Tenants | 14.00% | ~34 |
 | Smooth Operator | 13.00% | ~31 |
 | Swimming in Surplus | 13.00% | ~31 |
 | 28 Days Later | 12.00% | ~29 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 257)  
+Progressed: 240 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
 | 2023-07-21 | 239 | 0 |
+| 2023-07-22 | 240 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1014,9 +1014,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4189,
+  "EOS_Progressed": 4190,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6439,6 +6439,11 @@
       "Time": "2023-07-21T22:06:55.293757+00:00",
       "NumProgressed": 4189,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T00:04:58.9528282+00:00",
+      "NumProgressed": 4190,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6498,7 +6503,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -6546,7 +6551,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6570,7 +6575,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6746,7 +6751,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -6769,15 +6774,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4189,
+      "Progressed": 4190,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:05:46.5310533+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:04:58.9528278+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:00:58.438582+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:05:46.5311421+00:00"
+  "LastUpdate_Ratings": "2023-07-22T00:00:14.0558885+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:04:58.9529112+00:00"
 }

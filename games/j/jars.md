@@ -25,7 +25,7 @@
 | Missing pages | 5.00% | ~3 |
 | Master of puppets | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 334)  
+Progressed: 62 (Ranked 335)  
 Completed: 3 (4.84%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

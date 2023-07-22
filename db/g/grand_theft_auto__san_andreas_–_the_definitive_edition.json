@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 11162,
+  "EOS_Progressed": 11163,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6950,6 +6950,11 @@
       "Time": "2023-07-21T23:07:07.6069595+00:00",
       "NumProgressed": 11162,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T00:06:14.2345509+00:00",
+      "NumProgressed": 11163,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6961,7 +6966,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9041
+      "UsersEstimate": 9042
     },
     {
       "ID": "ACH02",
@@ -7017,7 +7022,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5581
+      "UsersEstimate": 5582
     },
     {
       "ID": "ACH09",
@@ -7073,7 +7078,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH16",
@@ -7105,7 +7110,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH20",
@@ -7137,7 +7142,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "ACH24",
@@ -7240,7 +7245,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11162,
+      "Progressed": 11163,
       "Completed": 31
     }
   ],
@@ -7248,8 +7253,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-21T00:01:09.0851249+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:07:07.606959+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:06:14.2345505+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:00:57.819086+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:07:07.6070287+00:00"
+  "LastUpdate_Ratings": "2023-07-22T00:00:13.5820103+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:06:14.2346183+00:00"
 }

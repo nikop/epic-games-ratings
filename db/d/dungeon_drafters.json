@@ -2,7 +2,7 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 85,
@@ -628,6 +628,6 @@
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
   "LastChanged_Achievements": "2023-07-21T23:01:35.9878053+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:10.1042982+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:57:48.9010034+00:00",
+  "LastUpdate_Ratings": "2023-07-21T23:57:28.8200767+00:00",
   "LastUpdate_Achievements": "2023-07-21T23:01:35.9878432+00:00"
 }

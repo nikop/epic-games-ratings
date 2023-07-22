@@ -10,7 +10,7 @@ Rating: 4.45 (Ranked 624)
 | Case Closed | 36.00% | ~939 |
 | Easy As Pie | 33.00% | ~861 |
 | Family Lost | 32.00% | ~835 |
-| Treasure Hunt | 30.00% | ~782 |
+| Treasure Hunt | 31.00% | ~808 |
 | Ancient Curse | 28.00% | ~730 |
 | Cat Person | 25.00% | ~652 |
 | Hidden Secrets | 25.00% | ~652 |

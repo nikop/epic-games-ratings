@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3072,
+  "EOS_Progressed": 3073,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2524,6 +2524,11 @@
       "Time": "2023-07-21T21:04:09.6844933+00:00",
       "NumProgressed": 3072,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T00:03:19.4416514+00:00",
+      "NumProgressed": 3073,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2583,7 +2588,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "campaign10",
@@ -2661,9 +2666,9 @@
       "ID": "campaign19",
       "SetID": "2h56gn1",
       "Name": "An Ally in Need",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 154
     },
     {
       "ID": "campaign2",
@@ -2671,7 +2676,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "campaign20",
@@ -2751,15 +2756,15 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 154
     },
     {
       "ID": "scenario4",
@@ -2798,7 +2803,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3072,
+      "Progressed": 3073,
       "Completed": 10
     }
   ],
@@ -2806,8 +2811,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:03:45.0579278+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:03:19.441651+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:00:55.7378478+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:03:45.0579687+00:00"
+  "LastUpdate_Ratings": "2023-07-22T00:00:11.1152793+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:03:19.4416925+00:00"
 }

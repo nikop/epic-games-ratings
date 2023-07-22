@@ -73,9 +73,9 @@
       "ID": "ACH_10_GANTORTA_RIDE",
       "SetID": "2k150c1",
       "Name": "Torta Rider",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_11_SHINY_CURICARP",
@@ -241,9 +241,9 @@
       "ID": "ACH_2_ALL_FICTIONS",
       "SetID": "2k150c1",
       "Name": "Gotta Catch \u0027Em All",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_30_CUSTOM_ISLAND",
@@ -273,9 +273,9 @@
       "ID": "ACH_33_CUSTOM_DESERT",
       "SetID": "2k150c1",
       "Name": "Creative Potential: Prickly Pass",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_34_PHOTO_EDITOR",
@@ -321,9 +321,9 @@
       "ID": "ACH_39_QUESTMASTER",
       "SetID": "2k150c1",
       "Name": "The Holy Grail",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_3_SOGGY_DONUTS",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:06:52.9973138+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:05:52.5264292+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:57:36.5656322+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:06:52.997346+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:57:21.1205142+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:05:52.5264578+00:00"
 }

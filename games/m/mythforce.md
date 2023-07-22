@@ -14,10 +14,10 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 13.00% | ~14 |
 | Perk Shard Punch Card | 12.00% | ~13 |
 | Ten Steps from the Grave | 12.00% | ~13 |
-| Cold-Blooded Critters | 10.00% | ~10 |
-| Everything Must Go! | 10.00% | ~10 |
-| Mushroom Madness! | 10.00% | ~10 |
-| Spending Spree | 10.00% | ~10 |
+| Cold-Blooded Critters | 10.00% | ~11 |
+| Spending Spree | 10.00% | ~11 |
+| Everything Must Go! | 9.00% | ~10 |
+| Mushroom Madness! | 9.00% | ~10 |
 | Deadication | 8.00% | ~8 |
 | The Harder They Fall | 8.00% | ~8 |
 | Horder Better Faster Stronger | 8.00% | ~8 |
@@ -25,18 +25,19 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 8.00% | ~8 |
 | The Fourth Gate | 7.00% | ~7 |
 | Season Finale | 5.00% | ~5 |
-| We've Got a Kaiju on the Field | 1.00% | ~1 |
+| We've Got a Kaiju on the Field | 0.90% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 301)  
+Progressed: 106 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
+| 2023-07-22 | 106 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

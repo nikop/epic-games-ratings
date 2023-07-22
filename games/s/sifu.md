@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,018 |
+| Diligence as a goal | 5.00% | ~1,019 |
 | Project Arena | 4.00% | ~815 |
 | The Old Grandmaster | 2.00% | ~14,221 |
 | The Assault | 2.00% | ~14,221 |
@@ -33,9 +33,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~204 |
 | Dance of the Praying Mantis | 0.90% | ~6,400 |
 | I know Kung-Fu | 0.90% | ~6,400 |
-| Muk Yan Master | 0.70% | ~4,977 |
-| Tiger on Fire | 0.70% | ~4,977 |
-| Detective Story | 0.70% | ~4,977 |
+| Muk Yan Master | 0.70% | ~4,978 |
+| Tiger on Fire | 0.70% | ~4,978 |
+| Detective Story | 0.70% | ~4,978 |
 | Deadly Venom | 0.70% | ~143 |
 | A Touch of Acumen | 0.70% | ~143 |
 | Source of Flying Daggers | 0.60% | ~4,266 |
@@ -45,8 +45,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.50% | ~3,555 |
 | Sword Stained With Blood | 0.50% | ~3,555 |
 | Knowledge Greed | 0.40% | ~2,844 |
-| Martial Hub | 0.40% | ~81 |
-| Secure, Protect, Leave | 0.40% | ~81 |
+| Martial Hub | 0.40% | ~82 |
+| Secure, Protect, Leave | 0.40% | ~82 |
 | Drunken Fighter | 0.30% | ~2,133 |
 | Martial Artist | 0.30% | ~2,133 |
 | Healing Memory | 0.30% | ~2,133 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,067 (Ranked 18)  
-Completed: 12,829 (1.80%) (Ranked 83)  
+Progressed: 711,074 (Ranked 18)  
+Completed: 12,830 (1.80%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 12,829 (1.80%) (Ranked 83)
 | 2023-07-19 | 710,897 | 12,825 |
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
+| 2023-07-22 | 711,074 | 12,830 |
 ## Awards
 Max (Great Boss Battles): 6,290  (Ranked 53)  
 Sum: 10,783 (Ranked 78)  

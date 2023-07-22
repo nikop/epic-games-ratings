@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2023-07-21T19:02:28.5740913+00:00",
       "NumProgressed": 561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T00:02:17.521396+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1324,7 +1329,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "EyeSpy",
@@ -1452,7 +1457,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Specialist",
@@ -1531,7 +1536,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 1
     }
   ],
@@ -1539,8 +1544,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:02:14.9533322+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:02:17.5213956+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:28.36471+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:58:27.1419635+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:02:14.9533632+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:58:05.5345811+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:02:17.5214326+00:00"
 }

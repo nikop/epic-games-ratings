@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2452,
+  "EOS_Progressed": 2453,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
@@ -3074,6 +3074,11 @@
       "Time": "2023-07-21T22:02:41.0393966+00:00",
       "NumProgressed": 2452,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T00:00:46.9936014+00:00",
+      "NumProgressed": 2453,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3149,7 +3154,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3197,7 +3202,7 @@
       "Name": "I chose my shackles",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3205,7 +3210,7 @@
       "Name": "Past trauma",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3261,7 +3266,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3269,7 +3274,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3301,7 +3306,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3309,7 +3314,7 @@
       "Name": "Thornbarrow",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3333,7 +3338,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3341,7 +3346,7 @@
       "Name": "Glyndemere",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3349,7 +3354,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3461,7 +3466,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3477,7 +3482,7 @@
       "Name": "Full equipped",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3493,7 +3498,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3508,7 +3513,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2452,
+      "Progressed": 2453,
       "Completed": 5
     }
   ],
@@ -3516,8 +3521,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:01:31.2502231+00:00",
+  "LastChanged_Achievements": "2023-07-22T00:00:46.993601+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.2281626+00:00",
-  "LastUpdate_Ratings": "2023-07-21T22:58:07.4493603+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:01:31.2502894+00:00"
+  "LastUpdate_Ratings": "2023-07-21T23:57:46.4280092+00:00",
+  "LastUpdate_Achievements": "2023-07-22T00:00:46.993661+00:00"
 }
