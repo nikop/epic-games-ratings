@@ -3,7 +3,7 @@
   "Name": "Quake",
   "ProductSlug": "quake",
   "Ranking_Rating": 119,
-  "Ranking_Popularity": 406,
+  "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
@@ -301,18 +301,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-07-22T20:58:25.0769227+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 47,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 46
+      "Count": 47
     }
   ],
   "EOS_Progressed": 0,
@@ -327,8 +333,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2023-06-18T19:58:01.8230291+00:00",
+  "LastChanged": "2023-07-22T20:58:25.0769226+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.92486+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:58:37.898876+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:03:34.4083026+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:58:25.0769232+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:03:15.0987113+00:00"
 }

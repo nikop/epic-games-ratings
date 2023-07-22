@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5298,9 +5298,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711194,
+  "EOS_Progressed": 711199,
   "EOS_Completed": 12830,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14013,6 +14013,11 @@
       "Time": "2023-07-22T20:08:12.5791099+00:00",
       "NumProgressed": 711194,
       "NumCompleted": 12830
+    },
+    {
+      "Time": "2023-07-22T21:07:49.6523303+00:00",
+      "NumProgressed": 711199,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -14254,9 +14259,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6401
+      "UsersEstimate": 7112
     },
     {
       "ID": "31_ComboHigh",
@@ -14423,21 +14428,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20495,
+      "Progressed": 20500,
       "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711194,
+      "Progressed": 711199,
       "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-22T20:00:12.2405647+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:08:12.5791094+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:07:49.6523301+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:00:12.2405656+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:08:12.5792152+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:59:54.2942658+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:07:49.6524061+00:00"
 }

@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 38.00% | ~19 |
-| First Step | 34.00% | ~17 |
+| The 4 Pillars | 40.00% | ~20 |
+| First Step | 36.00% | ~18 |
+| Capitalism | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | Green Energy | 4.00% | ~2 |
 | Indebted | 2.00% | ~1 |
-| Capitalism | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
+| Desert Rat | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
@@ -44,7 +45,6 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
-| Desert Rat | 0.00% | ~0 |
 | Winter Soldier | 0.00% | ~0 |
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |

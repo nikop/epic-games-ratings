@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 226
     }
   ],
-  "EOS_Progressed": 11199,
+  "EOS_Progressed": 11201,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7037,6 +7037,11 @@
       "Time": "2023-07-22T20:08:11.6998296+00:00",
       "NumProgressed": 11199,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T21:07:48.7325465+00:00",
+      "NumProgressed": 11201,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7048,7 +7053,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9073
     },
     {
       "ID": "ACH02",
@@ -7078,9 +7083,9 @@
       "ID": "ACH05",
       "SetID": "4ck5mbe",
       "Name": "A Legitimate Business",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH06",
@@ -7254,9 +7259,9 @@
       "ID": "ACH27",
       "SetID": "4ck5mbe",
       "Name": "Assassin",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH28",
@@ -7327,7 +7332,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11199,
+      "Progressed": 11201,
       "Completed": 31
     }
   ],
@@ -7335,8 +7340,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-22T15:01:00.8135056+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:08:11.6998268+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:07:48.7325456+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:01:47.1712123+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:08:11.6999023+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:01:22.8986685+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:07:48.7325959+00:00"
 }

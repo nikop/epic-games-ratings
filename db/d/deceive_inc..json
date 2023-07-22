@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7447,
+  "EOS_Progressed": 7448,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6088,6 +6088,11 @@
       "Time": "2023-07-22T20:03:25.9054008+00:00",
       "NumProgressed": 7447,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T21:02:37.1885225+00:00",
+      "NumProgressed": 7448,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6099,7 +6104,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "0002",
@@ -6115,7 +6120,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0004",
@@ -6155,7 +6160,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "0009",
@@ -6195,7 +6200,7 @@
       "Name": "Keycards Royale",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "0014",
@@ -6291,7 +6296,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "0026",
@@ -6299,7 +6304,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0027",
@@ -6339,7 +6344,7 @@
       "Name": "Private Collection",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0032",
@@ -6347,7 +6352,7 @@
       "Name": "Killer Looks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0033",
@@ -6355,7 +6360,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0034",
@@ -6386,7 +6391,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7447,
+      "Progressed": 7448,
       "Completed": 1
     }
   ],
@@ -6394,8 +6399,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:03:25.9053996+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:02:37.188522+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:01:00.6786372+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:03:25.9054701+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:00:40.2246061+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:02:37.1885688+00:00"
 }

@@ -44,8 +44,8 @@ Rating: 4.40 (Ranked 691)
 | Road Rage | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
+| Sink or Swim | 0.70% | ~23 |
 | From Paris with Love | 0.60% | ~20 |
-| Sink or Swim | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Burn after reading | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |

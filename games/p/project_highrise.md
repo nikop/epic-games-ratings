@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~142 |
 | Starting Skyward | 52.00% | ~127 |
-| Grime is Not Good | 44.00% | ~107 |
-| Campaign Launch | 39.00% | ~95 |
+| Grime is Not Good | 44.00% | ~108 |
+| Campaign Launch | 39.00% | ~96 |
 | Floor Galore | 38.00% | ~93 |
-| Dinner Dash | 37.00% | ~90 |
-| Need a Consult | 35.00% | ~85 |
+| Dinner Dash | 37.00% | ~91 |
+| Need a Consult | 35.00% | ~86 |
 | It's Technical | 34.00% | ~83 |
 | Upgrade Unlock | 33.00% | ~81 |
 | Delegate Maintenance | 32.00% | ~78 |
 | Proper Walls | 31.00% | ~76 |
-| Destination Destiny | 28.00% | ~68 |
+| Destination Destiny | 28.00% | ~69 |
 | Happy Tenants | 25.00% | ~61 |
 | Smooth Service | 24.00% | ~59 |
 | Your Prestige is Rising | 23.00% | ~56 |
@@ -26,10 +26,10 @@
 | People Mover | 21.00% | ~51 |
 | Emporium Empire | 20.00% | ~49 |
 | Get Electrified | 20.00% | ~49 |
-| Artfully Done | 19.00% | ~46 |
-| Rehab Expert | 19.00% | ~46 |
-| Don't Feel a Loan | 19.00% | ~46 |
-| We Don't Need No Education | 19.00% | ~46 |
+| Artfully Done | 19.00% | ~47 |
+| Rehab Expert | 19.00% | ~47 |
+| Don't Feel a Loan | 19.00% | ~47 |
+| We Don't Need No Education | 19.00% | ~47 |
 | Tasty Profits | 18.00% | ~44 |
 | Under One Roof | 16.00% | ~39 |
 | Established Fame | 16.00% | ~39 |
@@ -61,8 +61,8 @@
 | Tuned In | 6.00% | ~15 |
 | Meet ADA/360 | 5.00% | ~12 |
 | Penthouse in the Sky | 5.00% | ~12 |
-| Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |
+| Office Bigwigs | 4.00% | ~10 |
 | Three of a Kind | 4.00% | ~10 |
 | Sandbagger | 4.00% | ~10 |
 | Decorator's Touch | 3.00% | ~7 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 257)  
+Progressed: 245 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
 | 2023-07-21 | 239 | 0 |
-| 2023-07-22 | 244 | 0 |
+| 2023-07-22 | 245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

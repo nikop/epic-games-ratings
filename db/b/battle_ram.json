@@ -464,9 +464,9 @@
       "ID": "ach_12",
       "SetID": "392n4e7",
       "Name": "Junior Lieutenant Baran",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_13",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:08:06.3938431+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:07:43.4827951+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.9358721+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:58:55.7290353+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:08:06.3938656+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:58:41.6055245+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:07:43.4828091+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-07-22T12:03:35.0601017+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T21:03:54.8757462+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -521,7 +526,7 @@
       "Name": "Artfully Done",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_art_large",
@@ -561,7 +566,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_campaigns_1",
@@ -609,7 +614,7 @@
       "Name": "Need a Consult",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_consultant_1",
@@ -647,9 +652,9 @@
       "ID": "ach_contracts_1",
       "SetID": "b8gh1fi",
       "Name": "Office Bigwigs",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_contracts_2",
@@ -809,7 +814,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_grime_1",
@@ -825,7 +830,7 @@
       "Name": "Rehab Expert",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_happy",
@@ -841,7 +846,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_mod_1",
@@ -993,7 +998,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_restaurants_4",
@@ -1113,7 +1118,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_util_cable",
@@ -1169,14 +1174,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
@@ -1184,8 +1189,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:04:15.3570798+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:03:54.8757455+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:58:51.5874593+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:04:15.3571902+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:58:37.5958326+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:03:54.8758308+00:00"
 }

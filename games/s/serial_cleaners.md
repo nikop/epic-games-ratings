@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Clean Conscience | 23.00% | ~49 |
 | So it goes | 22.00% | ~47 |
-| A New Broom Sweeps Clean | 12.00% | ~25 |
+| A New Broom Sweeps Clean | 12.00% | ~26 |
 | Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
 | Business as usual | 8.00% | ~17 |
@@ -14,8 +14,8 @@
 | Eyes Yet To Open | 6.00% | ~13 |
 | Mr. Hygeni | 6.00% | ~13 |
 | Hackathon | 5.00% | ~11 |
-| Total Recall | 4.00% | ~8 |
-| The Wing and the Thigh | 4.00% | ~8 |
+| Total Recall | 4.00% | ~9 |
+| The Wing and the Thigh | 4.00% | ~9 |
 | All the Stories | 3.00% | ~6 |
 | Something Rotten | 3.00% | ~6 |
 | Witness Protection | 3.00% | ~6 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.50% | ~0 |
 | That’s One Big Pile | 0.50% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 268)  
-Completed: 6 (2.83%) (Ranked 65)  
+Progressed: 213 (Ranked 267)  
+Completed: 6 (2.82%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 6 (2.83%) (Ranked 65)
 | 2023-07-06 | 210 | 6 |
 | 2023-07-16 | 211 | 6 |
 | 2023-07-21 | 212 | 6 |
+| 2023-07-22 | 213 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

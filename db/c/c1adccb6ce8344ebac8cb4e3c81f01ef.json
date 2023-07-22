@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "YellowSkeleton",
@@ -341,8 +341,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:05:18.8818572+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:05:04.3033034+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.4942224+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:57:14.0198401+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:05:18.8818683+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:57:11.4105714+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:05:04.3033112+00:00"
 }

@@ -31,7 +31,7 @@
 | Check Your Pulse | 13.00% | ~101 |
 | Right On Time | 12.00% | ~93 |
 | Street Style | 12.00% | ~93 |
-| Whiz Kid | 10.00% | ~78 |
+| Whiz Kid | 11.00% | ~86 |
 | Chaincrawler Explorer | 9.00% | ~70 |
 | Family Memories | 9.00% | ~70 |
 | Good Neighbor | 9.00% | ~70 |

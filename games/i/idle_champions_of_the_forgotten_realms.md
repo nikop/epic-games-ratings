@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.20% | ~429 |
 | Waterdeep Detours | 0.20% | ~429 |
 | Friendly Imps | 0.20% | ~429 |
+| Pure Energy | 0.20% | ~429 |
 | Troublesome Prisoner | 0.10% | ~215 |
 | Dark Doppelgangers | 0.10% | ~215 |
 | Faerûn's Most Wanted | 0.10% | ~181 |
@@ -178,7 +179,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~181 |
 | Mysteries Unlocked | 0.10% | ~181 |
 | Male Pattern Boldness | 0.10% | ~181 |
-| Pure Energy | 0.10% | ~215 |
 | Tekeli-li's Hunt | 0.10% | ~181 |
 | Cackling Horror | 0.10% | ~181 |
 | Working for the Weak End | 0.10% | ~181 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,597 (Ranked 53)  
+Progressed: 214,611 (Ranked 53)  
 Completed: 2,060 (0.96%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 2,060 (0.96%) (Ranked 107)
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
 | 2023-07-21 | 214,257 | 2,060 |
-| 2023-07-22 | 214,597 | 2,060 |
+| 2023-07-22 | 214,611 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,055  (Ranked 66)  
 Sum: 30,644 (Ranked 38)  

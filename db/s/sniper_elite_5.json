@@ -5843,9 +5843,9 @@
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5874,8 +5874,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-20T01:58:46.9192666+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:04:33.8438776+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:04:22.769601+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:57:00.4240097+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:04:33.8439835+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:57:00.7268528+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:04:22.7697018+00:00"
 }

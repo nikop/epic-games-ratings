@@ -5,33 +5,33 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,597 |
-| First Class Student | 11.00% | ~31,714 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,598 |
+| First Class Student | 11.00% | ~31,715 |
 | A Keen Sense of Spell | 10.00% | ~28,831 |
 | Troll with the Punches | 10.00% | ~28,831 |
 | The Hallowed Hero | 9.00% | ~25,948 |
 | The Defender of Dragons | 9.00% | ~25,948 |
 | A Talent for Spending | 9.00% | ~25,948 |
 | That's a Keeper | 9.00% | ~25,948 |
-| Grappling with a Graphorn | 8.00% | ~23,064 |
-| The One Who Mastered Memories | 8.00% | ~23,064 |
-| The Hero of Hogwarts | 8.00% | ~23,064 |
-| Challenge Accepted | 8.00% | ~23,064 |
-| Loom for Improvement | 8.00% | ~23,064 |
-| Coasting Along | 8.00% | ~23,064 |
-| Followed the Butterflies | 7.00% | ~20,181 |
-| The Spell Master | 7.00% | ~20,181 |
-| Rising From the Ashes | 7.00% | ~20,181 |
-| The Avenging Gazelle | 6.00% | ~17,298 |
-| Beast Friends | 6.00% | ~17,298 |
-| A Sallow Grave | 6.00% | ~17,298 |
-| Flight the Good Flight | 6.00% | ~17,298 |
-| The Seeker of Knowledge | 5.00% | ~14,415 |
-| The Root of the Problem | 5.00% | ~14,415 |
-| Third Time's a Charm | 5.00% | ~14,415 |
-| Raising Expectations | 5.00% | ~14,415 |
-| The Toast of the Town | 4.00% | ~11,532 |
-| The Ends Petrify the Means | 4.00% | ~11,532 |
+| Grappling with a Graphorn | 8.00% | ~23,065 |
+| The One Who Mastered Memories | 8.00% | ~23,065 |
+| The Hero of Hogwarts | 8.00% | ~23,065 |
+| Challenge Accepted | 8.00% | ~23,065 |
+| Loom for Improvement | 8.00% | ~23,065 |
+| Coasting Along | 8.00% | ~23,065 |
+| Followed the Butterflies | 7.00% | ~20,182 |
+| The Spell Master | 7.00% | ~20,182 |
+| Rising From the Ashes | 7.00% | ~20,182 |
+| The Avenging Gazelle | 6.00% | ~17,299 |
+| Beast Friends | 6.00% | ~17,299 |
+| A Sallow Grave | 6.00% | ~17,299 |
+| Flight the Good Flight | 6.00% | ~17,299 |
+| The Seeker of Knowledge | 5.00% | ~14,416 |
+| The Root of the Problem | 5.00% | ~14,416 |
+| Third Time's a Charm | 5.00% | ~14,416 |
+| Raising Expectations | 5.00% | ~14,416 |
+| The Toast of the Town | 4.00% | ~11,533 |
+| The Ends Petrify the Means | 4.00% | ~11,533 |
 | Going Through the Potions | 3.00% | ~8,649 |
 | Room with a View | 3.00% | ~8,649 |
 | The Intrepid Explorer | 3.00% | ~8,649 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,883 |
 | Finishing Touches | 1.00% | ~2,883 |
 | A Forte for Achievement | 1.00% | ~2,883 |
-| Merlin's Beard! | 0.80% | ~2,306 |
+| Merlin's Beard! | 0.80% | ~2,307 |
 | Spilled Milk | 0.70% | ~2,018 |
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,306 (Ranked 42)  
+Progressed: 288,314 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
-| 2023-07-22 | 288,306 | 433 |
+| 2023-07-22 | 288,314 | 433 |
 ## Awards
 Max (Character Customization): 21,184  (Ranked 17)  
 Sum: 39,680 (Ranked 30)  

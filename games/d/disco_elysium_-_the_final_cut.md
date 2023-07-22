@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,657 |
-| Biggest Communism Builder | 24.00% | ~29,706 |
-| The World's Most Laughable Centrist | 20.00% | ~24,755 |
-| Il Coppo Del'Arte! | 18.00% | ~22,280 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,804 |
-| Hyperstellar Law Official | 15.00% | ~18,566 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,328 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,091 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,091 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,615 |
+| Goodest Of The Good Cops | 28.00% | ~34,659 |
+| Biggest Communism Builder | 24.00% | ~29,707 |
+| The World's Most Laughable Centrist | 20.00% | ~24,756 |
+| Il Coppo Del'Arte! | 18.00% | ~22,281 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,805 |
+| Hyperstellar Law Official | 15.00% | ~18,567 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,329 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,092 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,092 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,616 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,140 |
 | Unbelievably Boring **** | 8.00% | ~9,902 |
 | Enemy Of The Physical Realm | 8.00% | ~9,902 |
-| Hardie's Heroes | 6.00% | ~7,426 |
+| Hardie's Heroes | 6.00% | ~7,427 |
 | The Lawbringer | 4.00% | ~4,951 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,951 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,713 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,775 (Ranked 63)  
+Progressed: 123,781 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 27 (0.02%) (Ranked 219)
 | 2023-07-19 | 123,376 | 27 |
 | 2023-07-20 | 123,441 | 27 |
 | 2023-07-21 | 123,608 | 27 |
-| 2023-07-22 | 123,775 | 27 |
+| 2023-07-22 | 123,781 | 27 |
 ## Awards
 Max (Character Customization): 707  (Ranked 162)  
 Sum: 1,069 (Ranked 233)  

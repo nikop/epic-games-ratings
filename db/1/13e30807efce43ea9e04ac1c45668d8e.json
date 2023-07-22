@@ -114,17 +114,17 @@
       "ID": "ACH_DEFEAT_SPECIAL_GUARDIAN",
       "SetID": "7m06add",
       "Name": "The Last Guardian",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_WANDERERS",
       "SetID": "7m06add",
       "Name": "One Man Army",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DESTROY_BARRELS",
@@ -138,17 +138,17 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "7m06add",
       "Name": "The Imbued One",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FINISH_GAME_NO_DEATH",
       "SetID": "7m06add",
       "Name": "Ain\u0027t Got Time To Die",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FINISH_GAME_NO_SAVE",
@@ -170,9 +170,9 @@
       "ID": "ACH_MAX_ALL_UPGRADES",
       "SetID": "7m06add",
       "Name": "The Prepper",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MAX_ELDERGUN_DAMAGE",
@@ -186,9 +186,9 @@
       "ID": "ACH_MAX_EXPLOSIVE_CHARM",
       "SetID": "7m06add",
       "Name": "Explosive Charm",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MAX_HEALTH_CHARM",
@@ -248,8 +248,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:03:30.2922304+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:03:11.2223163+00:00",
   "LastUpdate_AppInfo": "2023-07-21T13:57:09.8445678+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:57:08.5165913+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:03:30.2922465+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:57:07.4338547+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:03:11.2223286+00:00"
 }

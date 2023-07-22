@@ -1752,9 +1752,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 20030,
+  "EOS_Progressed": 20032,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6187,6 +6187,11 @@
       "Time": "2023-07-22T20:08:07.6192918+00:00",
       "NumProgressed": 20030,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-22T21:07:44.6612373+00:00",
+      "NumProgressed": 20032,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6204,9 +6209,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 160
     },
     {
       "ID": "ChangChoi",
@@ -6230,7 +6235,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "EstateAgent",
@@ -6246,7 +6251,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18828
+      "UsersEstimate": 18830
     },
     {
       "ID": "GameOver",
@@ -6350,7 +6355,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "Strongman",
@@ -6358,7 +6363,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6209
+      "UsersEstimate": 6210
     },
     {
       "ID": "VeronicaLiptson",
@@ -6381,15 +6386,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20030,
+      "Progressed": 20032,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-21T22:01:01.5150157+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:08:07.619291+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:07:44.6612367+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:00:49.8158036+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:08:07.6193408+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:00:29.3511033+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:07:44.6612711+00:00"
 }

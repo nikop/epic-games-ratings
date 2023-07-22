@@ -220,9 +220,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 78,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:05:51.3627361+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:05:35.7152671+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:58:35.9112573+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:05:51.362778+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:58:23.2770011+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:05:35.7152971+00:00"
 }

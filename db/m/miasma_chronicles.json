@@ -2779,9 +2779,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 506
     },
     {
       "ID": "THE_WATCHERS",
@@ -2812,8 +2812,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:04:19.7328955+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:03:59.1545075+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-22T19:59:10.6522434+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:04:19.7329581+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:58:57.5701774+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:03:59.1545515+00:00"
 }

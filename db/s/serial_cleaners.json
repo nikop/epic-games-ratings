@@ -2,9 +2,9 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.83,
+  "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -331,6 +331,11 @@
       "Time": "2023-07-21T15:04:42.0546995+00:00",
       "NumProgressed": 212,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-22T21:04:39.1474698+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -350,7 +355,7 @@
       "Name": "Total Recall",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BOB_SLIDE",
@@ -486,7 +491,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -510,7 +515,7 @@
       "Name": "The Wing and the Thigh",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TUTORIAL_COMPLETE",
@@ -533,13 +538,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 6
     }
   ],
@@ -547,8 +552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-22T20:04:51.7158697+00:00",
+  "LastChanged_Achievements": "2023-07-22T21:04:39.1474694+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:00:27.9087047+00:00",
-  "LastUpdate_Achievements": "2023-07-22T20:04:51.7158923+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:00:08.6783538+00:00",
+  "LastUpdate_Achievements": "2023-07-22T21:04:39.1474845+00:00"
 }
