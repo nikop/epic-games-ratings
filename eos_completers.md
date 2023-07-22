@@ -33,13 +33,13 @@
 | 31 | [Scorn](games/s/scorn.md) | 7.02% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.45% |
-| 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
+| 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
+| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -64,7 +64,7 @@
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
-| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.83% |
+| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.82% |
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 67 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
