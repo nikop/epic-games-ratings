@@ -16,15 +16,15 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.13% |
 | 18 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 11.11% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.39% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.73% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.72% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -33,7 +33,7 @@
 | 31 | [Scorn](games/s/scorn.md) | 7.03% |
 | 32 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.78% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.72% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
@@ -70,9 +70,9 @@
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.49% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
@@ -85,7 +85,7 @@
 | 83 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 84 | [Sifu](games/s/sifu.md) | 1.80% |
 | 85 | [Iron Danger](games/i/iron_danger.md) | 1.75% |
-| 86 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.72% |
+| 86 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.71% |
 | 87 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 88 | [Somerville](games/s/somerville.md) | 1.62% |
 | 89 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
@@ -97,8 +97,8 @@
 | 95 | [A Musical Story](games/a/a_musical_story.md) | 1.32% |
 | 96 | [Five Dates](games/f/five_dates.md) | 1.24% |
 | 97 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
-| 98 | [Chorus](games/c/chorus.md) | 1.15% |
-| 99 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
+| 98 | [Chorus](games/c/chorus.md) | 1.14% |
+| 98 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 100 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.11% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
