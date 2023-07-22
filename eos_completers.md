@@ -22,7 +22,7 @@
 | 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.69% |
-| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.46% |
+| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.43% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.61% |
 | 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -180,12 +180,12 @@
 | 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 179 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 180 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
+| 181 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.12% |
 | 181 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 183 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
-| 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.11% |
-| 183 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 184 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
+| 184 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 187 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 187 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 187 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |

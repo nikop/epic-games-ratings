@@ -210,7 +210,7 @@
 | 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 45 | 409 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 505 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 280 |
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,425 | 72 |
+| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,427 | 72 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,709 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
@@ -357,7 +357,7 @@
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 505 |
 | 347 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 505 |
 | 347 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 105 | 326 |
-| 347 | [Prey](games/p/prey.md) | 4.62 | 5,613 | 60 |
+| 347 | [Prey](games/p/prey.md) | 4.62 | 5,615 | 60 |
 | 347 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 505 |
 | 347 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 505 |
 | 347 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 505 |
@@ -429,7 +429,7 @@
 | 425 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,244 | 11 |
 | 425 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 288 |
 | 425 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 505 |
-| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,492 | 39 |
+| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,505 | 39 |
 | 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 252 | 245 |
 | 425 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 505 |
 | 425 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 22 | 486 |
@@ -572,7 +572,7 @@
 | 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 505 |
 | 553 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 505 |
 | 553 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 737 | 159 |
-| 553 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 479,313 | 2 |
+| 553 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 480,148 | 2 |
 | 553 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 505 |
 | 553 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 35 | 435 |
 | 576 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 63 | 384 |
@@ -854,18 +854,18 @@
 | 848 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 505 |
 | 848 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 505 |
 | 848 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 72 | 372 |
-| 848 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.19 | 0 | 505 |
 | 848 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 505 |
 | 848 | [Wreckfest](games/w/wreckfest.md) | 4.19 | 0 | 505 |
-| 858 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 505 |
-| 858 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 345 |
-| 858 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 505 |
-| 858 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,455 | 101 |
-| 858 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 338 |
-| 858 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 505 |
-| 858 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 505 |
-| 865 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 472 |
-| 865 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 505 |
+| 857 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 505 |
+| 857 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 345 |
+| 857 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 505 |
+| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,455 | 101 |
+| 857 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 338 |
+| 857 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 505 |
+| 857 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 505 |
+| 864 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 472 |
+| 864 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 505 |
+| 864 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.17 | 0 | 505 |
 | 867 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 505 |
 | 867 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 175 |
 | 867 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 505 |
@@ -894,7 +894,7 @@
 | 890 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.10 | 0 | 505 |
 | 890 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 505 |
 | 890 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 393 |
-| 890 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,461 | 100 |
+| 890 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,464 | 100 |
 | 896 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 505 |
 | 896 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 505 |
 | 896 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 505 |
