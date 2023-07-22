@@ -16,19 +16,19 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.28% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.25% |
 | 18 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 11.11% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.67% |
+| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.60% |
 | 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.73% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
-| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.64% |
+| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.59% |
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 32 | [Scorn](games/s/scorn.md) | 7.03% |
@@ -37,7 +37,7 @@
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.36% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.31% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
@@ -70,9 +70,9 @@
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.51% |
-| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
+| 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
@@ -103,7 +103,7 @@
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 102 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
-| 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.03% |
+| 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 105 | [Adios](games/a/adios.md) | 0.97% |
 | 105 | [Sable](games/s/sable.md) | 0.97% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
@@ -146,11 +146,11 @@
 | 144 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 144 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 144 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 147 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 147 | [Scrapnaut](games/s/scrapnaut.md) | 0.32% |
-| 149 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 149 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 149 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
+| 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 152 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.30% |
 | 152 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
