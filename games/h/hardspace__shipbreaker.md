@@ -11,21 +11,21 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 66.00% | ~546 |
 | I can fix it! | 62.00% | ~513 |
 | Post No Bills | 54.00% | ~447 |
-| Truly Shocking! | 48.00% | ~397 |
-| Critical Thinker | 35.00% | ~289 |
+| Truly Shocking! | 47.00% | ~389 |
+| Critical Thinker | 35.00% | ~290 |
 | Always Finding Your Mark | 29.00% | ~240 |
 | The Weight of the World | 28.00% | ~232 |
-| Act I Complete | 27.00% | ~223 |
-| A drop in the Ocean | 27.00% | ~223 |
-| No Niños | 27.00% | ~223 |
+| Act I Complete | 27.00% | ~224 |
+| A drop in the Ocean | 27.00% | ~224 |
+| No Niños | 27.00% | ~224 |
 | I ain’t afraid of no Ghost | 23.00% | ~190 |
-| Act II Complete | 20.00% | ~165 |
+| Act II Complete | 20.00% | ~166 |
 | A successful procedure! | 18.00% | ~149 |
 | Bing Bang BOOM | 18.00% | ~149 |
 | Breaking the Ice | 17.00% | ~141 |
 | Solidarity Forever | 12.00% | ~99 |
-| A Tucked Tale | 9.00% | ~74 |
-| The best thing money can buy | 9.00% | ~74 |
+| A Tucked Tale | 9.00% | ~75 |
+| The best thing money can buy | 9.00% | ~75 |
 | Act III Complete | 6.00% | ~50 |
 | Fire and Brimstone | 5.00% | ~41 |
 | See you Space Cowboy | 5.00% | ~41 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 827 (Ranked 196)  
+Progressed: 828 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-15 | 809 | 0 |
 | 2023-07-16 | 810 | 0 |
 | 2023-07-21 | 822 | 0 |
-| 2023-07-22 | 827 | 0 |
+| 2023-07-22 | 828 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

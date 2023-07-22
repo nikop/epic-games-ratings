@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13016,
+  "EOS_Progressed": 13019,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8297,6 +8297,11 @@
       "Time": "2023-07-22T17:05:49.7606416+00:00",
       "NumProgressed": 13016,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T19:05:42.3537797+00:00",
+      "NumProgressed": 13019,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8538,9 +8543,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3",
       "SetID": "9201eeb",
       "Name": "Carthage - Rise of Rome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_BRONZE",
@@ -8578,17 +8583,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4",
       "SetID": "9201eeb",
       "Name": "Carthage - Seizing Destiny",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_EPIC",
@@ -8618,9 +8623,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_CAMPAIGN",
       "SetID": "9201eeb",
       "Name": "Carthage Campaign",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
@@ -8762,9 +8767,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -8874,9 +8879,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -8930,9 +8935,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -9298,9 +9303,9 @@
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
       "SetID": "9201eeb",
       "Name": "Get the Hellas Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_PERFECT",
@@ -9314,25 +9319,25 @@
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
       "SetID": "9201eeb",
       "Name": "The Turning Point",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
       "SetID": "9201eeb",
       "Name": "A Good Start",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
@@ -9362,17 +9367,17 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
       "SetID": "9201eeb",
       "Name": "Tell the Spartans",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
       "SetID": "9201eeb",
       "Name": "Shape of Things to Come",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ATHENS",
@@ -9394,17 +9399,17 @@
       "ID": "ACHIEVEMENT_GREECE3_OLYMPICS",
       "SetID": "9201eeb",
       "Name": "The Olive Wreath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_PAIONIA",
       "SetID": "9201eeb",
       "Name": "Those Were Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_SPARTA",
@@ -9418,17 +9423,17 @@
       "ID": "ACHIEVEMENT_GREECE3_THRACIANS",
       "SetID": "9201eeb",
       "Name": "What\u0027s \u0027hubris\u0027 in Greek?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THREE_WIVES",
       "SetID": "9201eeb",
       "Name": "Three\u0027s a Crowd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY",
@@ -9794,9 +9799,9 @@
       "ID": "ACHIEVEMENT_LBP1",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 1 - Able",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_LBP2",
@@ -9882,9 +9887,9 @@
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids in Menefer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_MERCHANTS_LEVANT",
@@ -10058,9 +10063,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -10074,9 +10079,9 @@
       "ID": "ACHIEVEMENT_PUNIC_WARS",
       "SetID": "9201eeb",
       "Name": "Punic Wars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
@@ -10234,9 +10239,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -10675,21 +10680,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13016,
+      "Progressed": 13019,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13016,
+      "Progressed": 13019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:05:07.4058203+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:05:42.3537791+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:58:18.883963+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:05:07.4066421+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:58:36.9373956+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:05:42.3546143+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -85,17 +85,17 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 70,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_02_FIRSTRACE",
       "SetID": "9dl0ei6",
       "Name": "First Race",
-      "Percentage": 100,
+      "Percentage": 110,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
@@ -149,9 +149,9 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_10_SARAH",
@@ -205,9 +205,9 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_17_PICNIC",
@@ -221,9 +221,9 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_19_PYJAMA",
@@ -261,9 +261,9 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -308,8 +308,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:04:59.7398001+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:05:33.1179859+00:00",
   "LastUpdate_AppInfo": "2023-07-16T14:56:57.283527+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:57:17.79216+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:04:59.73982+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:57:21.0847534+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:05:33.1180041+00:00"
 }

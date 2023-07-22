@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2688,10 +2688,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6502,
       "NumberOfAwardsMax": 2361
+    },
+    {
+      "Time": "2023-07-22T19:01:28.418683+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6504,
+      "NumberOfAwardsMax": 2361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6502,
+  "NumberOfAwards": 6504,
   "NumberOfAwardsMax": 2361,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2711,7 +2717,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 485
+      "Count": 486
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2747,7 +2753,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 456
+      "Count": 457
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2768,9 +2774,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49929,
+  "EOS_Progressed": 49930,
   "EOS_Completed": 212,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9228,6 +9234,11 @@
       "Time": "2023-07-22T16:05:01.1170567+00:00",
       "NumProgressed": 49929,
       "NumCompleted": 212
+    },
+    {
+      "Time": "2023-07-22T19:04:34.6873075+00:00",
+      "NumProgressed": 49930,
+      "NumCompleted": 212
     }
   ],
   "TotalAchievements": 45,
@@ -9263,7 +9274,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39444
+      "UsersEstimate": 39445
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9351,7 +9362,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29458
+      "UsersEstimate": 29459
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9391,7 +9402,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 15977
+      "UsersEstimate": 15978
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -9503,7 +9514,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48431
+      "UsersEstimate": 48432
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9575,7 +9586,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26462
+      "UsersEstimate": 26463
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -9591,22 +9602,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35949
+      "UsersEstimate": 35950
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49929,
+      "Progressed": 49930,
       "Completed": 212
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-07-21T23:01:18.4913113+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:04:11.8867582+00:00",
+  "LastChanged": "2023-07-22T19:01:28.4186828+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:04:34.6873066+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.7152364+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:00:46.5104198+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:04:11.8868342+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:01:28.4186838+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:04:34.6873809+00:00"
 }

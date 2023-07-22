@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "killGoldSkeleton10",
       "SetID": "ci65fo0",
       "Name": "Skeletons Fighter",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "killGolem1",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:03:41.2149341+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:03:57.9415938+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:57:17.4353792+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:03:41.2150136+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:57:20.717102+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:03:57.9416712+00:00"
 }

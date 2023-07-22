@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -888,6 +888,11 @@
       "Time": "2023-07-21T12:04:09.7668032+00:00",
       "NumProgressed": 212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T19:04:27.2407495+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -899,7 +904,7 @@
       "Name": "Boss 1 \u2714",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achAliceTwo",
@@ -921,9 +926,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "achBett",
@@ -963,7 +968,7 @@
       "Name": "Chest \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achCity",
@@ -1051,7 +1056,7 @@
       "Name": "Eva \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achExplosion",
@@ -1091,7 +1096,7 @@
       "Name": "Group Alpha \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achKloyn",
@@ -1131,7 +1136,7 @@
       "Name": "Sheriff \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achOsipovTwo",
@@ -1147,7 +1152,7 @@
       "Name": "City on fire \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achPlotThree",
@@ -1155,7 +1160,7 @@
       "Name": "Infected \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achPlotTwo",
@@ -1179,7 +1184,7 @@
       "Name": "Priest \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achRankOne",
@@ -1267,7 +1272,7 @@
       "Name": "Broadcasting \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achWater",
@@ -1298,7 +1303,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 0
     }
   ],
@@ -1306,8 +1311,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:04:05.3960175+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:04:27.2407488+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.6474315+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:00:29.4692054+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:04:05.3960677+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:01:10.5789798+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:04:27.2408041+00:00"
 }

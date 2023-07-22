@@ -8,17 +8,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 0.80% | ~104 |
 | The Great Mage | 0.50% | ~65 |
+| Settler | 0.30% | ~39 |
+| Play a Single Player Game | 0.30% | ~39 |
 | Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Explorer | 0.20% | ~26 |
+| Good | 0.20% | ~26 |
 | Intrepid | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
-| Settler | 0.20% | ~26 |
+| Noble | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
-| Play a Single Player Game | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
@@ -36,6 +38,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 2) | 0.10% | ~13 |
 | Gold Victory (Carthage 2) | 0.10% | ~13 |
 | Silver Victory (Carthage 2) | 0.10% | ~13 |
+| Carthage - Rise of Rome | 0.10% | ~13 |
+| Carthage - Seizing Destiny | 0.10% | ~13 |
+| Bronze Victory (Carthage 4) | 0.10% | ~13 |
+| Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
@@ -48,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
 | Glorious | 0.10% | ~13 |
-| Good | 0.10% | ~13 |
 | Great | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
@@ -59,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.10% | ~13 |
 | Mason | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
-| Noble | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
@@ -95,6 +99,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.10% | ~13 |
 | Run, Pheidippides, Run! | 0.10% | ~13 |
 | Nenikekamen | 0.10% | ~13 |
+| Get the Hellas Out | 0.10% | ~13 |
+| The Turning Point | 0.10% | ~13 |
+| A Good Start | 0.10% | ~13 |
+| Like a Lion | 0.10% | ~13 |
+| Tell the Spartans | 0.10% | ~13 |
+| Shape of Things to Come | 0.10% | ~13 |
+| The Olive Wreath | 0.10% | ~13 |
+| Those Were Mine | 0.10% | ~13 |
+| What's 'hubris' in Greek? | 0.10% | ~13 |
+| Three's a Crowd | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
@@ -116,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~13 |
 | Pyramids | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
+| Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
@@ -123,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
+| Pyramids in Menefer | 0.10% | ~13 |
 | Realistic Mortality | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
 | Carthage | 0.10% | ~13 |
@@ -138,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
+| Punic Wars | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
@@ -152,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Naming Landmarks | 0.10% | ~13 |
+| Ten Crowns | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
 | Military Prestige | 0.10% | ~13 |
@@ -208,17 +226,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
 | Silver Victory (Carthage 3) | 0.00% | ~0 |
-| Carthage - Seizing Destiny | 0.00% | ~0 |
-| Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Carthage Campaign | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -236,23 +250,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
-| Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| The Turning Point | 0.00% | ~0 |
-| A Good Start | 0.00% | ~0 |
-| Like a Lion | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Tell the Spartans | 0.00% | ~0 |
-| Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| The Olive Wreath | 0.00% | ~0 |
-| Those Were Mine | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
-| What's 'hubris' in Greek? | 0.00% | ~0 |
-| Three's a Crowd | 0.00% | ~0 |
 | Unfinished Business | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
@@ -276,11 +280,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
@@ -288,11 +290,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
-| Ten Crowns | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,016 (Ranked 114)  
+Progressed: 13,019 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,016 | 5 |
+| 2023-07-22 | 13,019 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9070,
+  "EOS_Progressed": 9071,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6672,6 +6672,11 @@
       "Time": "2023-07-22T18:03:52.7056531+00:00",
       "NumProgressed": 9070,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T19:04:11.5228367+00:00",
+      "NumProgressed": 9071,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6761,9 +6766,9 @@
       "ID": "ACH11",
       "SetID": "9llo822",
       "Name": "Salutations My Little Friend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 907
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH12",
@@ -6883,7 +6888,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACH27",
@@ -6954,7 +6959,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9070,
+      "Progressed": 9071,
       "Completed": 43
     }
   ],
@@ -6962,8 +6967,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:03:52.7056526+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:04:11.5228361+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:58:35.621033+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:03:52.705716+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:58:56.5707452+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:04:11.5228982+00:00"
 }

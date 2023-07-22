@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 2933,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3529,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.79,
   "EosHistory": [
@@ -381,6 +381,11 @@
       "Time": "2023-07-22T11:07:05.3158265+00:00",
       "NumProgressed": 3528,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-07-22T19:07:18.4248392+00:00",
+      "NumProgressed": 3529,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -528,7 +533,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "26",
@@ -600,7 +605,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "34",
@@ -671,7 +676,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3529,
       "Completed": -28
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:06:25.4924348+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:07:18.4248386+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.5959813+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:57:46.4872966+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:06:25.4924637+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:57:52.6339098+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:07:18.4248666+00:00"
 }

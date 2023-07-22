@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,231 |
-| Sweet Sorrow | 18.00% | ~6,116 |
-| Rules the Waves | 17.00% | ~5,776 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,096 |
-| Rival | 14.00% | ~4,756 |
-| Correspondent | 12.00% | ~4,077 |
-| Lose Your Mind | 12.00% | ~4,077 |
-| Sound Mind? | 12.00% | ~4,077 |
-| Salt's Curse | 11.00% | ~3,737 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,737 |
-| The Fall of the House | 11.00% | ~3,737 |
-| Shipmate | 11.00% | ~3,737 |
+| Sink Beneath the Waves | 36.00% | ~12,233 |
+| Sweet Sorrow | 18.00% | ~6,117 |
+| Rules the Waves | 17.00% | ~5,777 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,097 |
+| Rival | 14.00% | ~4,757 |
+| Correspondent | 12.00% | ~4,078 |
+| Lose Your Mind | 12.00% | ~4,078 |
+| Sound Mind? | 12.00% | ~4,078 |
+| Salt's Curse | 11.00% | ~3,738 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,738 |
+| The Fall of the House | 11.00% | ~3,738 |
+| Shipmate | 11.00% | ~3,738 |
 | One Year at Zee | 8.00% | ~2,718 |
-| Pupil | 7.00% | ~2,378 |
-| Salvager | 7.00% | ~2,378 |
-| Open Your Ears | 7.00% | ~2,378 |
-| The Ascent of Man | 7.00% | ~2,378 |
+| Pupil | 7.00% | ~2,379 |
+| Salvager | 7.00% | ~2,379 |
+| Open Your Ears | 7.00% | ~2,379 |
+| The Ascent of Man | 7.00% | ~2,379 |
 | Zee Fever | 5.00% | ~1,699 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,359 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,359 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,975 (Ranked 93)  
+Progressed: 33,981 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-19 | 33,786 | 3 |
 | 2023-07-20 | 33,845 | 3 |
 | 2023-07-21 | 33,923 | 3 |
-| 2023-07-22 | 33,975 | 3 |
+| 2023-07-22 | 33,981 | 3 |
 ## Awards
 Max (Character Customization): 212  (Ranked 266)  
 Sum: 282 (Ranked 338)  

@@ -4,11 +4,11 @@
   "ProductSlug": "lego-batman",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2008-09-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -580,18 +580,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 187
+    },
+    {
+      "Time": "2023-07-22T18:57:54.2165551+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 188,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
-  "NumberOfAwardsMax": 187,
+  "NumberOfAwards": 188,
+  "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 187
+      "Count": 188
     }
   ],
   "EOS_Progressed": 0,
@@ -605,8 +611,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2023-06-19T02:08:10.1961918+00:00",
+  "LastChanged": "2023-07-22T18:57:54.2165548+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:12.8420089+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:57:47.9925991+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:05:33.6663344+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:57:54.2165557+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:06:14.4245648+00:00"
 }

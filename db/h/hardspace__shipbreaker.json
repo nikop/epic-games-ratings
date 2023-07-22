@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-07-22T13:07:46.6115779+00:00",
       "NumProgressed": 827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T19:05:00.2901843+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1325,7 +1330,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1333,7 +1338,7 @@
       "Name": "Act II Complete",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1357,7 +1362,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1373,7 +1378,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1381,7 +1386,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1421,7 +1426,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1493,7 +1498,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1531,16 +1536,16 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 389
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 828,
       "Completed": 0
     }
   ],
@@ -1548,8 +1553,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:04:33.167838+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:05:00.2901839+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:57:55.5356196+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:04:33.1678637+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:58:02.9399619+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:05:00.2902061+00:00"
 }

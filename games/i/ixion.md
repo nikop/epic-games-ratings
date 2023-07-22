@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 460)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 22.00% | ~633 |
+| Wakey Wakey | 22.00% | ~634 |
 | Infinite Growth... | 19.00% | ~547 |
 | Sputnik 2049 | 19.00% | ~547 |
 | Without Breaking Some Eggs... | 18.00% | ~518 |
 | Space Society | 13.00% | ~374 |
 | A Thousand Strong | 13.00% | ~374 |
 | Ready for a New World | 13.00% | ~374 |
-| Permanent Redesigns | 11.00% | ~316 |
+| Permanent Redesigns | 11.00% | ~317 |
 | Fully Recycled | 10.00% | ~288 |
 | Ain't Nobody Got Time for That | 10.00% | ~288 |
 | The Ship of Theseus | 10.00% | ~288 |
@@ -37,6 +37,7 @@ Rating: 4.56 (Ranked 460)
 | BRAWL! | 3.00% | ~86 |
 | What the Ruins Teach Us | 3.00% | ~86 |
 | In Dolos We Trust | 2.00% | ~58 |
+| Praise the Hull! | 2.00% | ~58 |
 | Space Greenhouse | 2.00% | ~58 |
 | Delivery! | 2.00% | ~58 |
 | Pedal to the Metal | 2.00% | ~58 |
@@ -45,7 +46,6 @@ Rating: 4.56 (Ranked 460)
 | Mutual Loyalty | 1.00% | ~29 |
 | Tiqqun Contender | 1.00% | ~29 |
 | Catastrophe Avoided | 1.00% | ~29 |
-| Praise the Hull! | 1.00% | ~29 |
 | Tiqqun Unchained | 1.00% | ~29 |
 | Scientifically Accurate | 1.00% | ~29 |
 | You Had One Job... | 0.90% | ~26 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 460)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,877 (Ranked 156)  
+Progressed: 2,880 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
 | 2023-07-21 | 2,866 | 0 |
-| 2023-07-22 | 2,877 | 0 |
+| 2023-07-22 | 2,880 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

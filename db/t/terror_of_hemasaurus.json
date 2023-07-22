@@ -3,9 +3,9 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.03,
+  "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -197,6 +197,11 @@
       "Time": "2023-07-22T06:05:26.4094646+00:00",
       "NumProgressed": 66,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T19:05:53.2939847+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -206,7 +211,7 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -214,7 +219,7 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -222,7 +227,7 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -270,7 +275,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -278,7 +283,7 @@
       "ID": "ACH_20_MIDAIR_COLLISIONS",
       "SetID": "aio76gp",
       "Name": "Midair Affair",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -286,7 +291,7 @@
       "ID": "ACH_25_BLIMPS",
       "SetID": "aio76gp",
       "Name": "Hindenburgerer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -302,7 +307,7 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -334,7 +339,7 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -350,7 +355,7 @@
       "ID": "ACH_50_MILITARY_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Plight of the Valkyrie",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -366,7 +371,7 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -406,7 +411,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -414,7 +419,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -422,7 +427,7 @@
       "ID": "ACH_STORY_MODE",
       "SetID": "aio76gp",
       "Name": "Trash the Planet.",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -438,7 +443,7 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 5
     }
@@ -447,7 +452,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 2
     }
   ],
@@ -455,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-07-22T18:05:16.4404684+00:00",
+  "LastChanged_Achievements": "2023-07-22T19:05:53.293984+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.6415792+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:58:42.3284981+00:00",
-  "LastUpdate_Achievements": "2023-07-22T18:05:16.4404908+00:00"
+  "LastUpdate_Ratings": "2023-07-22T18:59:02.369896+00:00",
+  "LastUpdate_Achievements": "2023-07-22T19:05:53.2940077+00:00"
 }

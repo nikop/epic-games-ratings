@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 68.00% | ~45 |
-| Jalopy Poppy | 67.00% | ~44 |
-| Green-Bodied Monster | 58.00% | ~38 |
-| Chopper Stopper | 47.00% | ~31 |
-| Aerosolized | 41.00% | ~27 |
+| Terror Rising | 67.00% | ~45 |
+| Jalopy Poppy | 66.00% | ~44 |
+| Green-Bodied Monster | 57.00% | ~38 |
+| Chopper Stopper | 46.00% | ~31 |
+| Aerosolized | 40.00% | ~27 |
 | Test of Faith | 36.00% | ~24 |
-| Monstrosity Atrocity | 35.00% | ~23 |
+| Monstrosity Atrocity | 34.00% | ~23 |
 | Reign of Terror | 30.00% | ~20 |
-| Crushing All Cars | 26.00% | ~17 |
+| Crushing All Cars | 25.00% | ~17 |
 | Horror Show | 21.00% | ~14 |
-| Brain Chopper | 20.00% | ~13 |
-| Night Bird | 17.00% | ~11 |
+| Brain Chopper | 19.00% | ~13 |
+| Night Bird | 16.00% | ~11 |
 | Demolition Ambition | 12.00% | ~8 |
 | Punchy Wagon | 9.00% | ~6 |
-| Hindenburgerer | 8.00% | ~5 |
-| Kill All Humans! | 8.00% | ~5 |
+| Hindenburgerer | 7.00% | ~5 |
+| Kill All Humans! | 7.00% | ~5 |
 | Holy Terror | 6.00% | ~4 |
-| Midair Affair | 5.00% | ~3 |
-| Plight of the Valkyrie | 5.00% | ~3 |
-| Trash the Planet. | 5.00% | ~3 |
+| Midair Affair | 4.00% | ~3 |
+| Plight of the Valkyrie | 4.00% | ~3 |
+| Trash the Planet. | 4.00% | ~3 |
 | Demolition Exhibition | 3.00% | ~2 |
 | Rocket Science | 3.00% | ~2 |
 | Meat Catcher | 3.00% | ~2 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~2 |
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 333)  
-Completed: 2 (3.03%) (Ranked 61)  
+Progressed: 67 (Ranked 333)  
+Completed: 2 (2.99%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 2 (3.03%) (Ranked 61)
 | 2023-06-23 | 63 | 2 |
 | 2023-06-25 | 64 | 2 |
 | 2023-07-09 | 65 | 2 |
-| 2023-07-22 | 66 | 2 |
+| 2023-07-22 | 67 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

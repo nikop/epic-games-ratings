@@ -6,24 +6,24 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,202 |
-| A Spark | 15.00% | ~1,573 |
-| Burning City | 14.00% | ~1,468 |
-| Mythic Choices | 12.00% | ~1,258 |
-| Defender's Heart | 12.00% | ~1,258 |
-| Banner over the Citadel | 11.00% | ~1,153 |
+| Devoured by Darkness | 21.00% | ~2,203 |
+| A Spark | 15.00% | ~1,574 |
+| Burning City | 14.00% | ~1,469 |
+| Mythic Choices | 12.00% | ~1,259 |
+| Defender's Heart | 12.00% | ~1,259 |
+| Banner over the Citadel | 11.00% | ~1,154 |
 | Queen's Gratitude | 10.00% | ~1,049 |
 | Fifth Crusade | 7.00% | ~734 |
 | Embrace of the Abyss | 5.00% | ~524 |
 | Path of the Angel | 5.00% | ~524 |
 | Demonic and Divine | 5.00% | ~524 |
-| Path of the Azata | 4.00% | ~419 |
-| Transformation | 4.00% | ~419 |
-| The Legacy | 4.00% | ~419 |
-| Great Upstart | 4.00% | ~419 |
-| Voice from Your Dreams | 4.00% | ~419 |
-| All Paths Open | 4.00% | ~419 |
-| Next-Door Play | 4.00% | ~419 |
+| Path of the Azata | 4.00% | ~420 |
+| Transformation | 4.00% | ~420 |
+| The Legacy | 4.00% | ~420 |
+| Great Upstart | 4.00% | ~420 |
+| Voice from Your Dreams | 4.00% | ~420 |
+| All Paths Open | 4.00% | ~420 |
+| Next-Door Play | 4.00% | ~420 |
 | Heart of the Fallen Land | 3.00% | ~315 |
 | Divide and Rule | 3.00% | ~315 |
 | Mythic Reinforcements | 3.00% | ~315 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,486 (Ranked 117)  
+Progressed: 10,490 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-19 | 10,406 | 0 |
 | 2023-07-20 | 10,430 | 0 |
 | 2023-07-21 | 10,460 | 0 |
-| 2023-07-22 | 10,486 | 0 |
+| 2023-07-22 | 10,490 | 0 |
 ## Awards
 Max (Character Customization): 1,686  (Ranked 117)  
 Sum: 6,829 (Ranked 114)  

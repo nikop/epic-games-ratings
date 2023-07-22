@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,595 |
-| First Class Student | 11.00% | ~31,712 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,596 |
+| First Class Student | 11.00% | ~31,713 |
 | A Keen Sense of Spell | 10.00% | ~28,830 |
 | Troll with the Punches | 10.00% | ~28,830 |
 | The Hallowed Hero | 9.00% | ~25,947 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,295 (Ranked 42)  
+Progressed: 288,298 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,21 +144,21 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
-| 2023-07-22 | 288,295 | 433 |
+| 2023-07-22 | 288,298 | 433 |
 ## Awards
 Max (Character Customization): 21,184  (Ranked 17)  
-Sum: 39,675 (Ranked 30)  
+Sum: 39,680 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,184 |
 | This game has Great Boss Battles | 10,159 |
 | This game is Great for Beginners | 934 |
-| This game is Extremely Fun | 906 |
+| This game is Extremely Fun | 908 |
 | This game is Relaxing | 894 |
 | This game has Diverse Characters | 889 |
 | This game has Amazing Storytelling | 886 |
-| This game has Amazing Characters | 866 |
+| This game has Amazing Characters | 869 |
 | This game is Highly Recommended | 845 |
 | This game has Quickly Understood Controls | 805 |
 | This game has Beautiful Visuals | 746 |
@@ -286,4 +286,4 @@ Diff (max vs sum): -13
 | 2023-07-19 | 4.77 | 21,101 | 39,508 |
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
 | 2023-07-21 | 4.77 | 21,154 | 39,625 |
-| 2023-07-22 | 4.77 | 21,184 | 39,675 |
+| 2023-07-22 | 4.77 | 21,184 | 39,680 |

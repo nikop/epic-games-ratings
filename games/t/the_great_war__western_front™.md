@@ -10,14 +10,14 @@
 | From the Pages of History | 9.00% | ~29 |
 | The Chemists' War | 5.00% | ~16 |
 | War with Friends | 4.00% | ~13 |
-| A Student of History | 0.90% | ~3 |
+| A Student of History | 1.00% | ~3 |
 | That's Not What Happened | 0.90% | ~3 |
 | Nothing Can Stop Us! | 0.60% | ~2 |
 | Bombs Away! | 0.30% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 242)  
+Progressed: 326 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-18 | 311 | 0 |
 | 2023-07-20 | 314 | 0 |
 | 2023-07-21 | 319 | 0 |
-| 2023-07-22 | 325 | 0 |
+| 2023-07-22 | 326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
