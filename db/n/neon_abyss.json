@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -3288,10 +3288,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 5376,
       "NumberOfAwardsMax": 678
+    },
+    {
+      "Time": "2023-07-22T16:58:12.8426923+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5377,
+      "NumberOfAwardsMax": 678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5376,
+  "NumberOfAwards": 5377,
   "NumberOfAwardsMax": 678,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3317,7 +3323,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 580
+      "Count": 581
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3367,8 +3373,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-07-21T02:58:22.8727392+00:00",
+  "LastChanged": "2023-07-22T16:58:12.8426921+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.4059237+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:58:23.9615006+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:04:07.0990216+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:58:12.8426927+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:03:44.8744354+00:00"
 }

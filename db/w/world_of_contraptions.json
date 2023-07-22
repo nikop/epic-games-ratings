@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-07-22T16:03:30.6659575+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T17:03:11.2154432+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -685,9 +690,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -926,14 +931,14 @@
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:03:30.6659566+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:03:11.2154424+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:46.6194248+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:59:13.1621209+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:03:30.6660056+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:58:57.5418318+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:03:11.2154632+00:00"
 }

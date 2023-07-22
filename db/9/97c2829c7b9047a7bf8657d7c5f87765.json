@@ -2,9 +2,9 @@
   "ID": "97c2829c7b9047a7bf8657d7c5f87765",
   "Name": "Elemental War 2",
   "ProductSlug": "elemental-war-2-d7db6e",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-07-21T23:04:15.7452192+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T17:04:27.7930372+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-06-30T11:02:07.8457997+00:00",
@@ -54,7 +59,7 @@
       "ID": "0",
       "SetID": "7095412",
       "Name": "Collector",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -70,15 +75,15 @@
       "ID": "10",
       "SetID": "7095412",
       "Name": "Combiner",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -86,7 +91,7 @@
       "ID": "12",
       "SetID": "7095412",
       "Name": "Bronze",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "14",
       "SetID": "7095412",
       "Name": "Silver",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -118,7 +123,7 @@
       "ID": "16",
       "SetID": "7095412",
       "Name": "Gold",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "18",
       "SetID": "7095412",
       "Name": "Platinum",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -150,15 +155,15 @@
       "ID": "2",
       "SetID": "7095412",
       "Name": "Equipper",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20",
       "SetID": "7095412",
       "Name": "Crystal",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "22",
       "SetID": "7095412",
       "Name": "Bronze Rank",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -182,7 +187,7 @@
       "ID": "23",
       "SetID": "7095412",
       "Name": "Silver Rank",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "24",
       "SetID": "7095412",
       "Name": "Gold Rank",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "25",
       "SetID": "7095412",
       "Name": "Crystal Rank",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "ID": "26",
       "SetID": "7095412",
       "Name": "Last Second",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -214,7 +219,7 @@
       "ID": "27",
       "SetID": "7095412",
       "Name": "Master of Defense",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -222,7 +227,7 @@
       "ID": "28",
       "SetID": "7095412",
       "Name": "Invincible",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "29",
       "SetID": "7095412",
       "Name": "Man of Steel",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "35",
       "SetID": "7095412",
       "Name": "Don\u0027t Touch Anything",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -294,7 +299,7 @@
       "ID": "36",
       "SetID": "7095412",
       "Name": "X Marks The Spot",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "37",
       "SetID": "7095412",
       "Name": "Treasure Hunter",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -326,7 +331,7 @@
       "ID": "4",
       "SetID": "7095412",
       "Name": "Hunter",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "40",
       "SetID": "7095412",
       "Name": "Platinum Rank",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "5",
       "SetID": "7095412",
       "Name": "Monster Hunter",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -358,7 +363,7 @@
       "ID": "6",
       "SetID": "7095412",
       "Name": "Extinction",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -366,7 +371,7 @@
       "ID": "7",
       "SetID": "7095412",
       "Name": "Quest completed",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -374,7 +379,7 @@
       "ID": "8",
       "SetID": "7095412",
       "Name": "Completionist",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -382,22 +387,22 @@
       "ID": "9",
       "SetID": "7095412",
       "Name": "Elemental Defeater",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "7095412",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:04:52.4919788+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:04:27.7930366+00:00",
   "LastUpdate_AppInfo": "2023-07-21T11:57:03.2639388+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:57:20.8764311+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:04:52.4920191+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:57:17.4382363+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:04:27.7930682+00:00"
 }

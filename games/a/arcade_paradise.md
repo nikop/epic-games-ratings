@@ -20,11 +20,11 @@ Rating: 4.58 (Ranked 425)
 | Hidden Packages | 11.00% | ~72 |
 | GOOOAAAL | 9.00% | ~59 |
 | Ahoy Hoy | 6.00% | ~39 |
+| Rhythm is a dancer | 6.00% | ~39 |
 | New Kid on the Block | 6.00% | ~39 |
 | Jimmy Goldman Would be Proud | 6.00% | ~39 |
 | You Spin Me Round | 6.00% | ~39 |
 | Bombscare | 5.00% | ~33 |
-| Rhythm is a dancer | 5.00% | ~33 |
 | Your Bloody Valentine | 5.00% | ~33 |
 | GoldGuy Jr | 4.00% | ~26 |
 | Nose to the Grindstone | 4.00% | ~26 |

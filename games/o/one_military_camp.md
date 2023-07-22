@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 35.00% | ~17 |
+| The 4 Pillars | 37.00% | ~18 |
 | First Step | 33.00% | ~16 |
 | Pathfinder | 4.00% | ~2 |
 | Green Energy | 4.00% | ~2 |

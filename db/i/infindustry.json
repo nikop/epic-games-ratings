@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -321,6 +321,11 @@
       "Time": "2023-07-21T17:03:57.2235485+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T17:02:21.575828+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -370,7 +375,7 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -418,7 +423,7 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
       "UsersEstimate": 7
     }
@@ -427,14 +432,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:02:48.7260524+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:02:21.5758275+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:06.4386724+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:57:58.8748016+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:02:48.7260694+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:57:50.3877505+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:02:21.5758374+00:00"
 }

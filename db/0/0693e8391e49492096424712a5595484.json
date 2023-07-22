@@ -471,9 +471,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "BearBroom",
@@ -559,9 +559,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "DevilRope",
@@ -607,9 +607,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HastrmanAcorn",
@@ -631,9 +631,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "HastrmanRum",
@@ -663,9 +663,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PriestBroom",
@@ -703,17 +703,17 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PrincessThrone",
@@ -743,17 +743,17 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "RogueRum",
@@ -767,9 +767,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:06:52.828318+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:06:19.8269204+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:57:26.8340899+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:06:52.8283677+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:57:22.7215134+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:06:19.8269533+00:00"
 }

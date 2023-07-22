@@ -15,9 +15,9 @@ Number of Ratings: 154  (23.09.2022)
 | Time Traveler | 71.00% | ~230 |
 | Everyone's Hero | 68.00% | ~220 |
 | Knuckles the Echidna | 67.00% | ~217 |
+| Easy Peasy with Shields | 65.00% | ~211 |
 | Gallant Spin Dash | 65.00% | ~211 |
 | Miles "Tails" Prower | 65.00% | ~211 |
-| Easy Peasy with Shields | 64.00% | ~207 |
 | Bubbly Breath | 62.00% | ~201 |
 | Boss Rush Attempt | 57.00% | ~185 |
 | Cleared Sonic the Hedgehog | 56.00% | ~181 |

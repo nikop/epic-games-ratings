@@ -7,11 +7,6 @@
 | Now It's Official! | 100.00% | ~3 |
 | Season Premiere | 67.00% | ~2 |
 | Group Kill | 33.00% | ~1 |
-| Damage Sponge | 33.00% | ~1 |
-| Old Quarter | 33.00% | ~1 |
-| Abandoned Housing Block | 33.00% | ~1 |
-| Quite a Bodycount | 33.00% | ~1 |
-| Enter: Tybalt | 33.00% | ~1 |
 | Star | 0.00% | ~0 |
 | Superstar | 0.00% | ~0 |
 | Legend | 0.00% | ~0 |
@@ -29,6 +24,9 @@
 | Sticky Bomb Kill | 0.00% | ~0 |
 | Malfunction Kill | 0.00% | ~0 |
 | Rapid Assault | 0.00% | ~0 |
+| Damage Sponge | 0.00% | ~0 |
+| Old Quarter | 0.00% | ~0 |
+| Abandoned Housing Block | 0.00% | ~0 |
 | Metro Central | 0.00% | ~0 |
 | Industrial Zone | 0.00% | ~0 |
 | Disaster Area | 0.00% | ~0 |
@@ -37,8 +35,10 @@
 | Shooting Star | 0.00% | ~0 |
 | Harder, Better, Faster, Stronger | 0.00% | ~0 |
 | Gonna Fly Now | 0.00% | ~0 |
+| Quite a Bodycount | 0.00% | ~0 |
 | Hot Shots! | 0.00% | ~0 |
 | Making a Killing | 0.00% | ~0 |
+| Enter: Tybalt | 0.00% | ~0 |
 | Alex, is That You? | 0.00% | ~0 |
 | Six Barrels of Gun | 0.00% | ~0 |
 | Knight of Cydonia | 0.00% | ~0 |
@@ -50,6 +50,14 @@
 | Deadly Lure | 0.00% | ~0 |
 | Stealth Kill | 0.00% | ~0 |
 | Multi Heal | 0.00% | ~0 |
+| Restraining Order | 0.00% | ~0 |
+| And We're Back | 0.00% | ~0 |
+| No Lab Unturned | 0.00% | ~0 |
+| I'll Save You, Jeannie | 0.00% | ~0 |
+| Deratization | 0.00% | ~0 |
+| My Ears! | 0.00% | ~0 |
+| Laser Precision | 0.00% | ~0 |
+| Forced into Hiding | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 240)  

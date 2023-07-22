@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3487,
+  "EOS_Progressed": 3489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -793,6 +793,11 @@
       "Time": "2023-07-22T13:03:57.0400323+00:00",
       "NumProgressed": 3487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T17:02:24.0051198+00:00",
+      "NumProgressed": 3489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -804,7 +809,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -836,7 +841,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -844,7 +849,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -852,7 +857,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -868,7 +873,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -900,7 +905,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -908,7 +913,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -924,7 +929,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -932,7 +937,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -940,7 +945,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -956,7 +961,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -964,7 +969,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -1011,7 +1016,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3487,
+      "Progressed": 3489,
       "Completed": 0
     }
   ],
@@ -1019,8 +1024,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:03:11.7819037+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:02:24.0051193+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:23.6569602+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:00:50.0983108+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:03:11.7819462+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:00:31.4803472+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:02:24.0051359+00:00"
 }

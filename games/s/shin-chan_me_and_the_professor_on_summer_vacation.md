@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 32.00% | ~9 |
+| Cabbage in the Baggage | 36.00% | ~10 |
 | Greengrocer | 29.00% | ~8 |
 | Seven Days of Endless Adventure | 25.00% | ~7 |
 | Masu-ter Angler | 18.00% | ~5 |

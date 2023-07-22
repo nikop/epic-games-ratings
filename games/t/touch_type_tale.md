@@ -24,9 +24,9 @@
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~215 |
 | Your Biggest Fans | 6.00% | ~184 |
 | For the Queen | 6.00% | ~184 |
+| Not a Drop Wasted | 6.00% | ~184 |
 | A Secret Recipe | 6.00% | ~184 |
 | An Ally in Need | 5.00% | ~154 |
-| Not a Drop Wasted | 5.00% | ~154 |
 | We Have the Technology | 5.00% | ~154 |
 | Work It | 4.00% | ~123 |
 | Reinforcements | 4.00% | ~123 |

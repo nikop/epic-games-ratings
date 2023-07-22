@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -623,9 +623,9 @@
       "ID": "ENEMY_7",
       "SetID": "50pdlpn",
       "Name": "Khalil, Scorpon-pink.png \u0026 Mr. Fyodorov",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ENEMY_8",
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:06:49.6099603+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:06:16.8941206+00:00",
   "LastUpdate_AppInfo": "2023-07-17T13:57:23.9145964+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:57:57.333241+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:06:49.6101103+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:57:48.8030664+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:06:16.8941799+00:00"
 }

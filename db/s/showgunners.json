@@ -4,7 +4,7 @@
   "ProductSlug": "showgunners-cbc083",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T17:00:00+00:00",
@@ -50,8 +50,8 @@
       "NumCompleted": 0
     }
   ],
-  "TotalAchievements": 46,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 54,
+  "TotalAchievementsXP": 1300,
   "Achievements": [
     {
       "ID": "PJ_ACHIV_B_01",
@@ -209,9 +209,9 @@
       "ID": "PJ_ACHIV_F_06",
       "SetID": "39fp85m",
       "Name": "Damage Sponge",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "PJ_ACHIV_P_01",
@@ -225,17 +225,17 @@
       "ID": "PJ_ACHIV_P_02",
       "SetID": "39fp85m",
       "Name": "Old Quarter",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "PJ_ACHIV_P_03",
       "SetID": "39fp85m",
       "Name": "Abandoned Housing Block",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "PJ_ACHIV_P_04",
@@ -305,9 +305,9 @@
       "ID": "PJ_ACHIV_P_12",
       "SetID": "39fp85m",
       "Name": "Quite a Bodycount",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "PJ_ACHIV_P_13",
@@ -329,9 +329,9 @@
       "ID": "PJ_ACHIV_P_15",
       "SetID": "39fp85m",
       "Name": "Enter: Tybalt",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "PJ_ACHIV_P_16",
@@ -420,6 +420,70 @@
       "Percentage": 0,
       "XP": 15,
       "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_B_01",
+      "SetID": "1ad639k",
+      "Name": "Restraining Order",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_B_02",
+      "SetID": "1ad639k",
+      "Name": "And We\u0027re Back",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_C_01",
+      "SetID": "1ad639k",
+      "Name": "No Lab Unturned",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_C_02",
+      "SetID": "1ad639k",
+      "Name": "I\u0027ll Save You, Jeannie",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_C_03",
+      "SetID": "1ad639k",
+      "Name": "Deratization",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_C_04",
+      "SetID": "1ad639k",
+      "Name": "My Ears!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_C_05",
+      "SetID": "1ad639k",
+      "Name": "Laser Precision",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PJ_DLC1_ACHIV_S_01",
+      "SetID": "1ad639k",
+      "Name": "Forced into Hiding",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -440,8 +504,8 @@
   "FirstSeenRating": "2023-05-03T17:56:57.8703123+00:00",
   "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00",
   "LastChanged": "2023-05-03T17:56:57.8703123+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:07:37.6956329+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:07:00.316307+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:04.9357991+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:57:57.1376203+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:07:37.6957058+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:57:48.617871+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:07:00.3163475+00:00"
 }

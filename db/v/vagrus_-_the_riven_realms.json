@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-07-22T11:03:57.6880859+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T17:04:18.2824738+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -494,7 +499,7 @@
       "Name": "Scribe",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -926,7 +931,7 @@
       "Name": "Press-ganged",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1052,9 +1057,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1165,7 +1170,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -1173,8 +1178,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-22T16:04:42.2877831+00:00",
+  "LastChanged_Achievements": "2023-07-22T17:04:18.2824731+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:24.2862582+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:59:57.6548084+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:04:42.2879437+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:59:41.7664043+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:04:18.2825692+00:00"
 }

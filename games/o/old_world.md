@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
+| Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Run, Pheidippides, Run! | 0.10% | ~13 |
 | Nenikekamen | 0.10% | ~13 |
@@ -162,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
+| Word of God | 0.10% | ~13 |
 | Trade Caravan | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
@@ -232,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| Five Routs | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Get the Hellas Out | 0.00% | ~0 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Word of God | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,015 (Ranked 114)  
+Progressed: 13,016 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,015 | 5 |
+| 2023-07-22 | 13,016 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

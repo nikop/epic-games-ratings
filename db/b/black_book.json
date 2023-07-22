@@ -3,11 +3,11 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 29,
-  "Ranking_Popularity": 493,
+  "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -271,6 +271,6 @@
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "LastChanged": "2023-06-13T05:57:57.0667418+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.5128944+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:58:51.8729555+00:00",
-  "LastUpdate_Achievements": "2023-07-22T16:04:18.9639544+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:58:38.3511265+00:00",
+  "LastUpdate_Achievements": "2023-07-22T17:03:55.8020495+00:00"
 }
