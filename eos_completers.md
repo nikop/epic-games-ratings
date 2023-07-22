@@ -16,7 +16,7 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.32% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.28% |
 | 18 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 11.11% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
@@ -24,14 +24,14 @@
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.74% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
-| 31 | [Scorn](games/s/scorn.md) | 7.03% |
-| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
+| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.64% |
+| 30 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
+| 31 | [Time Loader](games/t/time_loader.md) | 7.08% |
+| 32 | [Scorn](games/s/scorn.md) | 7.03% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -44,8 +44,8 @@
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.59% |
-| 46 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.55% |
+| 45 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
@@ -58,8 +58,8 @@
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.32% |
 | 58 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
-| 59 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
-| 60 | [The Complex](games/t/the_complex.md) | 3.07% |
+| 59 | [The Complex](games/t/the_complex.md) | 3.07% |
+| 60 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.03% |
 | 61 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
 | 62 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 63 | [HordeCore](games/h/hordecore.md) | 2.92% |
@@ -71,8 +71,8 @@
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.51% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
