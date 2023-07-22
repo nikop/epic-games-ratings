@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64698,
+  "EOS_Progressed": 64700,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5725,6 +5725,11 @@
       "Time": "2023-07-22T14:05:12.5526227+00:00",
       "NumProgressed": 64698,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-22T16:06:07.6714012+00:00",
+      "NumProgressed": 64700,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -5800,7 +5805,7 @@
       "Name": "Let there be light",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_MATCHES",
@@ -5816,7 +5821,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -5895,7 +5900,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64698,
+      "Progressed": 64700,
       "Completed": 13
     }
   ],
@@ -5903,8 +5908,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:05:29.7946281+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:06:07.6714003+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:21.1649523+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:57:55.3300462+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:05:29.794698+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:58:20.1379872+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:06:07.671482+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,060 |
-| Pay 'n' Spray | 50.00% | ~5,592 |
-| All Dressed Up for San Fierro | 25.00% | ~2,796 |
-| The American Dream | 18.00% | ~2,013 |
-| School's Out | 18.00% | ~2,013 |
+| Getting Started | 81.00% | ~9,064 |
+| Pay 'n' Spray | 50.00% | ~5,595 |
+| All Dressed Up for San Fierro | 25.00% | ~2,798 |
+| The American Dream | 18.00% | ~2,014 |
+| School's Out | 18.00% | ~2,014 |
 | Smooth Moves | 16.00% | ~1,790 |
 | Today Was a Good Day | 15.00% | ~1,678 |
-| What happens in Las Venturas... | 14.00% | ~1,566 |
-| Horror of the Santa Maria | 10.00% | ~1,118 |
+| What happens in Las Venturas... | 14.00% | ~1,567 |
+| Horror of the Santa Maria | 10.00% | ~1,119 |
 | Liberty City State of Mind | 9.00% | ~1,007 |
 | Original Gangster | 8.00% | ~895 |
 | The End of the Line | 7.00% | ~783 |
 | With Extra Dip | 6.00% | ~671 |
 | Saviour | 6.00% | ~671 |
-| They Can’t Stop All of Us | 4.00% | ~447 |
-| Rescue a Kitten Too? | 4.00% | ~447 |
+| They Can’t Stop All of Us | 4.00% | ~448 |
+| Rescue a Kitten Too? | 4.00% | ~448 |
 | Bike or Biker | 3.00% | ~336 |
 | What are the Odds | 3.00% | ~336 |
 | A Legitimate Business | 2.00% | ~224 |
@@ -36,12 +36,12 @@ Rating: 4.55 (Ranked 481)
 | Swiss Army Strife | 1.00% | ~112 |
 | Lucky Spinner | 1.00% | ~112 |
 | Chick Magnet | 1.00% | ~112 |
-| Not a Player | 0.80% | ~89 |
+| Not a Player | 0.80% | ~90 |
 | Remastered | 0.60% | ~67 |
 | ...Here we go again | 0.40% | ~45 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,185 (Ranked 116)  
+Progressed: 11,190 (Ranked 116)  
 Completed: 31 (0.28%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 31 (0.28%) (Ranked 154)
 | 2023-07-19 | 11,100 | 31 |
 | 2023-07-20 | 11,117 | 31 |
 | 2023-07-21 | 11,162 | 31 |
-| 2023-07-22 | 11,185 | 31 |
+| 2023-07-22 | 11,190 | 31 |
 ## Awards
 Max (Great Boss Battles): 226  (Ranked 254)  
 Sum: 226 (Ranked 350)  

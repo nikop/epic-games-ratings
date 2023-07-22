@@ -10,19 +10,19 @@
 | Police officers ✔ | 26.00% | ~55 |
 | Mutation ✔ | 24.00% | ~51 |
 | Doberman ✔ | 13.00% | ~28 |
+| Weapon ✔ | 10.00% | ~21 |
 | Chess ✔ | 9.00% | ~19 |
-| Weapon ✔ | 9.00% | ~19 |
 | Survival ✔ | 8.00% | ~17 |
 | Master of Unlocking ✔ | 8.00% | ~17 |
 | Hospital ✔ | 7.00% | ~15 |
 | Thirst ✔ | 7.00% | ~15 |
+| Betty ✔ | 6.00% | ~13 |
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | King of survival ✔ | 6.00% | ~13 |
 | Alice ✔ | 5.00% | ~11 |
 | Antivirus ✔ | 5.00% | ~11 |
-| Betty ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
 | Food ✔ | 5.00% | ~11 |
 | Mutant fight ✔ | 5.00% | ~11 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 212 (Ranked 267)  
-Completed: 0 (0.00%) (Ranked 239)  
+Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

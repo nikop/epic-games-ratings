@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227807,
+  "EOS_Progressed": 227811,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9948,6 +9948,11 @@
       "Time": "2023-07-22T15:03:34.4943606+00:00",
       "NumProgressed": 227807,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-22T16:03:59.495086+00:00",
+      "NumProgressed": 227811,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -9975,7 +9980,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63786
+      "UsersEstimate": 63787
     },
     {
       "ID": "CENTAUR",
@@ -9999,7 +10004,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "DRAGOON",
@@ -10047,7 +10052,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45561
+      "UsersEstimate": 45562
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -10095,7 +10100,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75176
+      "UsersEstimate": 75178
     },
     {
       "ID": "NOBUNAGA",
@@ -10127,7 +10132,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -10151,7 +10156,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11390
+      "UsersEstimate": 11391
     },
     {
       "ID": "RESPWND",
@@ -10223,22 +10228,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93401
+      "UsersEstimate": 93403
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 227807,
+      "Progressed": 227811,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:03:34.4943602+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:03:59.4950852+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.7252486+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:58:47.4209521+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:03:34.4945159+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:59:20.3106855+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:03:59.4951983+00:00"
 }

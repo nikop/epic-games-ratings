@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~133 |
 | Capitalist Camaraderie | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,029 (Ranked 61)  
+Progressed: 133,036 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,20 +212,20 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
 | 2023-07-21 | 132,985 | 122 |
-| 2023-07-22 | 133,029 | 122 |
+| 2023-07-22 | 133,036 | 122 |
 ## Awards
-Max (Great for Beginners): 4,668  (Ranked 69)  
-Sum: 26,957 (Ranked 46)  
+Max (Great for Beginners): 4,670  (Ranked 69)  
+Sum: 26,963 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,668 |
+| This game is Great for Beginners | 4,670 |
 | This game is Relaxing | 3,983 |
 | This game has Quickly Understood Controls | 3,973 |
-| This game has Diverse Characters | 3,830 |
+| This game has Diverse Characters | 3,831 |
 | This game is Highly Recommended | 3,712 |
 | This game has Easy Combat | 3,655 |
-| This game has Playful Visuals | 3,136 |
+| This game has Playful Visuals | 3,139 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -409,4 +409,4 @@ Diff (max vs sum): 23
 | 2023-07-19 | 3.99 | - | 4,665 | 26,942 |
 | 2023-07-20 | 3.99 | - | 4,668 | 26,950 |
 | 2023-07-21 | 3.99 | - | 4,668 | 26,955 |
-| 2023-07-22 | 3.99 | - | 4,668 | 26,957 |
+| 2023-07-22 | 3.99 | - | 4,670 | 26,963 |

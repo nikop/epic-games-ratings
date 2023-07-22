@@ -5,26 +5,26 @@ Rating: 4.32 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,035 |
-| Fall Fest | 7.00% | ~3,916 |
+| Food Taster | 9.00% | ~5,036 |
+| Fall Fest | 7.00% | ~3,917 |
 | Thrill Seeker | 6.00% | ~3,357 |
-| Flying Present Catcher | 5.00% | ~2,797 |
-| HFZ Goober | 5.00% | ~2,797 |
+| Flying Present Catcher | 5.00% | ~2,798 |
+| HFZ Goober | 5.00% | ~2,798 |
 | Sunflower Master | 4.00% | ~2,238 |
 | Backer Visitor | 2.00% | ~1,119 |
 | Hi Fiver | 2.00% | ~1,119 |
 | Hate That Randomizer | 2.00% | ~1,119 |
 | Feet on Funkotron | 2.00% | ~1,119 |
 | A Timely Splash | 2.00% | ~1,119 |
-| Elf Chaser | 1.00% | ~559 |
-| Fool Me Twice | 1.00% | ~559 |
-| Old School Jammin' | 1.00% | ~559 |
-| Wakey Wakey | 1.00% | ~559 |
+| Elf Chaser | 1.00% | ~560 |
+| Fool Me Twice | 1.00% | ~560 |
+| Old School Jammin' | 1.00% | ~560 |
+| Wakey Wakey | 1.00% | ~560 |
 | Level Diver | 0.80% | ~448 |
 | Gimme My Presents Back! | 0.70% | ~392 |
 | Cleaning Out Santa's Sack | 0.70% | ~392 |
+| Teamwork Rules | 0.70% | ~392 |
 | Beaten By A Little Girl | 0.60% | ~336 |
-| Teamwork Rules | 0.60% | ~336 |
 | Totally Bummed Again | 0.60% | ~336 |
 | Piece O' Cake | 0.50% | ~280 |
 | Boom Box Baby | 0.40% | ~224 |
@@ -55,8 +55,8 @@ Rating: 4.32 (Ranked 764)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,948 (Ranked 84)  
-Completed: 4 (0.01%) (Ranked 227)  
+Progressed: 55,950 (Ranked 84)  
+Completed: 4 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 4 (0.01%) (Ranked 227)
 | 2023-07-19 | 55,883 | 4 |
 | 2023-07-20 | 55,897 | 4 |
 | 2023-07-21 | 55,924 | 4 |
-| 2023-07-22 | 55,948 | 4 |
+| 2023-07-22 | 55,950 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

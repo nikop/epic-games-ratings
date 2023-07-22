@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -166,11 +166,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3003,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 3004,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 112,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
       "Time": "2023-06-20T08:06:48.4211242+00:00",
@@ -2996,6 +2996,11 @@
       "Time": "2023-07-22T14:00:56.6713472+00:00",
       "NumProgressed": 3003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T16:02:49.2274491+00:00",
+      "NumProgressed": 3004,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3023,7 +3028,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -3047,7 +3052,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3103,7 +3108,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3127,7 +3132,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3167,7 +3172,7 @@
       "Name": "Bandage Lover",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -3175,7 +3180,7 @@
       "Name": "Frontliner",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3191,7 +3196,7 @@
       "Name": "The Cable Guy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3215,7 +3220,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3223,7 +3228,7 @@
       "Name": "Making a Stand",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3279,7 +3284,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_MISSION_12",
@@ -3287,7 +3292,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -3303,7 +3308,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3311,7 +3316,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3335,7 +3340,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3366,16 +3371,16 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3003,
-      "Completed": 0
+      "Progressed": 3004,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:02:11.4351345+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:02:49.2274481+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:59:57.4223262+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:02:11.435187+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:00:45.4580224+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:02:49.2275596+00:00"
 }

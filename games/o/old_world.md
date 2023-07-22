@@ -165,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
+| Three Man Chariot | 0.10% | ~13 |
 | Kushite Cavalry | 0.10% | ~13 |
 | Legionary | 0.10% | ~13 |
 | Phalangite | 0.10% | ~13 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Three Man Chariot | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,012 (Ranked 114)  
+Progressed: 13,015 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,012 | 5 |
+| 2023-07-22 | 13,015 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

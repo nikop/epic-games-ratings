@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 15.00% | ~1,138 |
 | Famous Adventurer | 14.00% | ~1,062 |
 | Prepared for Anything | 13.00% | ~986 |
-| Big Catastrofan | 12.00% | ~910 |
+| Big Catastrofan | 13.00% | ~986 |
 | It's a Finnish Thing | 10.00% | ~758 |
 | Sky Burial | 9.00% | ~683 |
 | Trader | 8.00% | ~607 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,585 (Ranked 124)  
-Completed: 0 (0.00%) (Ranked 239)  
+Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

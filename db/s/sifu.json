@@ -6,8 +6,8 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 19,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5280,9 +5280,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711173,
+  "EOS_Progressed": 711177,
   "EOS_Completed": 12830,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13970,6 +13970,11 @@
       "Time": "2023-07-22T15:07:15.0672468+00:00",
       "NumProgressed": 711173,
       "NumCompleted": 12830
+    },
+    {
+      "Time": "2023-07-22T16:08:19.0503218+00:00",
+      "NumProgressed": 711177,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -13981,7 +13986,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "02_Vengeance_H1",
@@ -13989,7 +13994,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "03_Vengeance_H2",
@@ -13997,7 +14002,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "04_Vengeance_H3",
@@ -14005,7 +14010,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "05_Vengeance_H4",
@@ -14157,7 +14162,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -14165,7 +14170,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "25_ShrineMind",
@@ -14181,7 +14186,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "27_ShrineBody",
@@ -14245,7 +14250,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "35_WideStrike",
@@ -14269,7 +14274,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -14380,21 +14385,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20474,
+      "Progressed": 20478,
       "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711173,
+      "Progressed": 711177,
       "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-22T13:59:22.639045+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:07:15.0672463+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:08:19.0503207+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:59:35.9152203+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:07:15.0673331+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:00:17.4803999+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:08:19.0505235+00:00"
 }

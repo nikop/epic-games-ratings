@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~139 |
-| Starting Skyward | 51.00% | ~124 |
+| Starting Skyward | 52.00% | ~127 |
 | Grime is Not Good | 44.00% | ~107 |
-| Campaign Launch | 38.00% | ~93 |
-| Floor Galore | 37.00% | ~90 |
+| Campaign Launch | 39.00% | ~95 |
+| Floor Galore | 38.00% | ~93 |
 | Dinner Dash | 36.00% | ~88 |
-| Need a Consult | 34.00% | ~83 |
+| Need a Consult | 35.00% | ~85 |
 | It's Technical | 34.00% | ~83 |
-| Upgrade Unlock | 32.00% | ~78 |
+| Upgrade Unlock | 33.00% | ~81 |
 | Delegate Maintenance | 32.00% | ~78 |
 | Proper Walls | 31.00% | ~76 |
 | Destination Destiny | 27.00% | ~66 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 244 (Ranked 257)  
-Completed: 0 (0.00%) (Ranked 239)  
+Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

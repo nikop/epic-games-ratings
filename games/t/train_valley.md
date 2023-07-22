@@ -14,7 +14,7 @@ Number of Ratings: 28  (23.09.2022)
 | Collector | 42.00% | ~145 |
 | Need to think | 40.00% | ~138 |
 | Completely nuts! | 37.00% | ~128 |
-| Just in time! | 33.00% | ~114 |
+| Just in time! | 34.00% | ~117 |
 | It's no coincidence. | 32.00% | ~110 |
 | Europe | 30.00% | ~104 |
 | Philatelist | 27.00% | ~93 |

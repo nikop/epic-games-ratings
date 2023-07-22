@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -787,9 +787,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 165,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -810,8 +810,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:05:06.0815299+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:05:47.0083303+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:57:14.1734873+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:05:06.0815437+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:57:29.5296685+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:05:47.0083537+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1125,6 +1125,11 @@
       "Time": "2023-07-22T14:00:53.9335469+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T16:02:45.897738+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1152,7 +1157,7 @@
       "Name": "Life or Death",
       "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "04",
@@ -1166,9 +1171,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 704
     },
     {
       "ID": "06",
@@ -1176,7 +1181,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "07",
@@ -1184,7 +1189,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "08",
@@ -1192,7 +1197,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "09",
@@ -1224,7 +1229,7 @@
       "Name": "First Bloom",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "13",
@@ -1264,7 +1269,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "18",
@@ -1272,7 +1277,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "19",
@@ -1288,7 +1293,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "21",
@@ -1312,14 +1317,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 0
     }
   ],
@@ -1327,8 +1332,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:01:38.3067153+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:02:45.8977371+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.8588633+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:00:20.5095636+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:01:38.306736+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:01:12.2877102+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:02:45.897777+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3007,
+  "EOS_Progressed": 3008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2406,6 +2406,11 @@
       "Time": "2023-07-22T12:03:29.8739576+00:00",
       "NumProgressed": 3007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T16:04:09.7422874+00:00",
+      "NumProgressed": 3008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2433,7 +2438,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "BloodAndIron",
@@ -2577,7 +2582,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Kills_Auto",
@@ -2585,7 +2590,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "Kills_Bleed",
@@ -2593,7 +2598,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2641,7 +2646,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "Kills_Streak",
@@ -2888,21 +2893,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3007,
+      "Progressed": 3008,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3007,
+      "Progressed": 3008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:03:43.5355191+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:04:09.7422865+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:59:17.1966038+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:03:43.5355806+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:59:54.7338121+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:04:09.7424129+00:00"
 }

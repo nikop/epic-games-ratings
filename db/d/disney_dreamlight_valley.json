@@ -2784,7 +2784,7 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 7115,
+  "EOS_Progressed": 7119,
   "EOS_Completed": 177,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 8,
@@ -6854,6 +6854,11 @@
       "Time": "2023-07-22T15:02:23.5458704+00:00",
       "NumProgressed": 7115,
       "NumCompleted": 177
+    },
+    {
+      "Time": "2023-07-22T16:03:24.0464035+00:00",
+      "NumProgressed": 7119,
+      "NumCompleted": 177
     }
   ],
   "TotalAchievements": 15,
@@ -6873,7 +6878,7 @@
       "Name": "Banker",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2990
     },
     {
       "ID": "Bestest_Friend",
@@ -6881,7 +6886,7 @@
       "Name": "Bestest Friend",
       "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3631
     },
     {
       "ID": "Chef_Cook",
@@ -6889,7 +6894,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "Chit_Chatter",
@@ -6897,7 +6902,7 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Constructor",
@@ -6905,7 +6910,7 @@
       "Name": "Constructor",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 3913
+      "UsersEstimate": 3915
     },
     {
       "ID": "Duty_Bound",
@@ -6921,7 +6926,7 @@
       "Name": "Gardener",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "Generous",
@@ -6929,7 +6934,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "Goofys_Investor",
@@ -6937,7 +6942,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 74,
       "XP": 75,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5268
     },
     {
       "ID": "Miner",
@@ -6945,7 +6950,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Photographer",
@@ -6953,7 +6958,7 @@
       "Name": "Photographer",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5126
     },
     {
       "ID": "Renovator",
@@ -6961,7 +6966,7 @@
       "Name": "Renovator",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3844
     },
     {
       "ID": "Thorn_Cleaner",
@@ -6977,14 +6982,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4770
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7115,
+      "Progressed": 7119,
       "Completed": 177
     }
   ],
@@ -6992,8 +6997,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-22T07:59:11.2441701+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:02:23.54587+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:03:24.0464028+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:43.0939004+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:58:36.6391437+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:02:23.5459269+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:59:08.7420266+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:03:24.0464678+00:00"
 }

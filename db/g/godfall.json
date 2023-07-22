@@ -3,12 +3,12 @@
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
   "Ranking_Rating": 903,
-  "Ranking_Popularity": 191,
+  "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-07T16:00:00+00:00",
     "PcReleaseDate": "2022-04-07T16:00:00+00:00",
@@ -1051,18 +1051,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 846,
       "NumberOfAwardsMax": 530
+    },
+    {
+      "Time": "2023-07-22T16:02:08.5965357+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 848,
+      "NumberOfAwardsMax": 531
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 846,
-  "NumberOfAwardsMax": 530,
+  "NumberOfAwards": 848,
+  "NumberOfAwardsMax": 531,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 530
+      "Count": 531
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1110,7 +1116,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1130,8 +1136,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-07-16T10:01:20.0392596+00:00",
+  "LastChanged": "2023-07-22T16:02:08.5965355+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:17.6495155+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:01:11.0087677+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:06:54.611336+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:02:08.5965365+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:07:53.4359391+00:00"
 }

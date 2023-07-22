@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -757,6 +757,11 @@
       "Time": "2023-07-22T15:07:15.3312616+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T16:08:19.358605+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -918,9 +923,9 @@
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "CULTURE_3",
@@ -1096,7 +1101,7 @@
       "Name": "I like parks",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1152,7 +1157,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1174,9 +1179,9 @@
       "ID": "POINTS_10K",
       "SetID": "44dlcg0",
       "Name": "Little Mayor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "POINTS_20K",
@@ -1198,9 +1203,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 180
     },
     {
       "ID": "POPULATION_2",
@@ -1399,7 +1404,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 0
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:07:15.3312612+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:08:19.358604+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:59:29.2409545+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:07:15.3313754+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:00:09.3497245+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:08:19.3587583+00:00"
 }

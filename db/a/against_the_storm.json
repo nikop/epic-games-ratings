@@ -3,12 +3,12 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2460,18 +2460,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 3073,
       "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2023-07-22T16:01:42.4352684+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3075,
+      "NumberOfAwardsMax": 420
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3073,
-  "NumberOfAwardsMax": 418,
+  "NumberOfAwards": 3075,
+  "NumberOfAwardsMax": 420,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game is Relaxing",
@@ -2528,9 +2534,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15957,
+  "EOS_Progressed": 15958,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7678,6 +7684,11 @@
       "Time": "2023-07-22T15:03:45.4004493+00:00",
       "NumProgressed": 15957,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-22T16:04:11.5216419+00:00",
+      "NumProgressed": 15958,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -8071,9 +8082,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 319
     },
     {
       "ID": "Year1Dangerous",
@@ -8088,15 +8099,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15957,
+      "Progressed": 15958,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-07-22T14:00:15.2450308+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:03:45.4004488+00:00",
+  "LastChanged": "2023-07-22T16:01:42.4352681+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:04:11.5216413+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:00:47.1886599+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:03:45.4005325+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:01:42.4352691+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:04:11.521735+00:00"
 }

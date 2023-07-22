@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 95.00% | ~73 |
-| Rehearsal | 94.00% | ~72 |
-| Daily Life | 91.00% | ~70 |
-| Assembly Line Work | 87.00% | ~67 |
-| Solitude | 81.00% | ~62 |
-| Pinewood, Here we come! | 74.00% | ~57 |
-| The Van | 68.00% | ~52 |
-| Road-Trip | 61.00% | ~47 |
-| A Musical Pause | 60.00% | ~46 |
+| ECG | 94.00% | ~73 |
+| Rehearsal | 92.00% | ~72 |
+| Daily Life | 90.00% | ~70 |
+| Assembly Line Work | 86.00% | ~67 |
+| Solitude | 79.00% | ~62 |
+| Pinewood, Here we come! | 73.00% | ~57 |
+| The Van | 67.00% | ~52 |
+| Road-Trip | 60.00% | ~47 |
+| A Musical Pause | 59.00% | ~46 |
 | Briget's | 49.00% | ~38 |
-| Sound of Noise | 48.00% | ~37 |
+| Sound of Noise | 47.00% | ~37 |
 | Big City Music | 45.00% | ~35 |
-| Love at First Sight | 42.00% | ~32 |
+| Love at First Sight | 41.00% | ~32 |
 | First Kiss | 36.00% | ~28 |
-| A Bigger Band | 34.00% | ~26 |
-| Symbiosis | 34.00% | ~26 |
+| A Bigger Band | 33.00% | ~26 |
+| Symbiosis | 33.00% | ~26 |
 | Fuel | 27.00% | ~21 |
 | Alone Together | 26.00% | ~20 |
-| Threatening Nature | 25.00% | ~19 |
+| Threatening Nature | 24.00% | ~19 |
 | TV Dreams | 23.00% | ~18 |
 | Flat Tire | 22.00% | ~17 |
 | The Clash | 18.00% | ~14 |
 | Dreamers | 18.00% | ~14 |
-| The Fix | 16.00% | ~12 |
+| The Fix | 15.00% | ~12 |
 | Time | 12.00% | ~9 |
 | Regrets | 12.00% | ~9 |
 | The Accident | 12.00% | ~9 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 325)  
-Completed: 1 (1.30%) (Ranked 95)  
+Progressed: 78 (Ranked 323)  
+Completed: 1 (1.28%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (1.30%) (Ranked 95)
 | 2023-06-28 | 70 | 1 |
 | 2023-07-19 | 71 | 1 |
 | 2023-07-21 | 74 | 1 |
-| 2023-07-22 | 77 | 1 |
+| 2023-07-22 | 78 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

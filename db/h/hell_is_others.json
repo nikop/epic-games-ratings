@@ -6,9 +6,9 @@
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253408,
+  "EOS_Progressed": 253415,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10151,6 +10151,11 @@
       "Time": "2023-07-22T15:06:14.5050178+00:00",
       "NumProgressed": 253408,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T16:07:04.3534393+00:00",
+      "NumProgressed": 253415,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10170,7 +10175,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "Act3",
@@ -10210,7 +10215,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78556
+      "UsersEstimate": 78559
     },
     {
       "ID": "BackHomeNTimes",
@@ -10218,7 +10223,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12670
+      "UsersEstimate": 12671
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -10226,7 +10231,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "BreakNWindows",
@@ -10234,7 +10239,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -10266,7 +10271,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25341
+      "UsersEstimate": 25342
     },
     {
       "ID": "CreditLevel2",
@@ -10290,7 +10295,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12670
+      "UsersEstimate": 12671
     },
     {
       "ID": "CreedsInBank2",
@@ -10362,7 +10367,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15204
+      "UsersEstimate": 15205
     },
     {
       "ID": "GrowPlants2",
@@ -10418,7 +10423,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15204
+      "UsersEstimate": 15205
     },
     {
       "ID": "KillOtherWithKatana",
@@ -10450,7 +10455,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55750
+      "UsersEstimate": 55751
     },
     {
       "ID": "KillOthers2",
@@ -10530,7 +10535,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "Patrimony2",
@@ -10554,7 +10559,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25341
+      "UsersEstimate": 25342
     },
     {
       "ID": "ReachNDays2",
@@ -10609,7 +10614,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253408,
+      "Progressed": 253415,
       "Completed": 2
     }
   ],
@@ -10617,8 +10622,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-21T23:01:03.1277615+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:06:14.5050174+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:07:04.3534384+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:01:05.4500258+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:06:14.5051423+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:02:02.5990483+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:07:04.3536562+00:00"
 }

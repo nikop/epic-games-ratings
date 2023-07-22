@@ -3,9 +3,9 @@
   "Name": "Bibots",
   "ProductSlug": "bibots-aad4d0",
   "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-05T15:00:00+00:00",
     "PcReleaseDate": "2022-10-05T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.7768439+00:00",
   "LastChanged": "2023-03-31T05:57:21.776844+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.1268006+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:58:58.1768684+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:04:50.098895+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:59:33.0719437+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:05:28.1818679+00:00"
 }

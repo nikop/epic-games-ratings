@@ -38,7 +38,7 @@ Rating: 4.40 (Ranked 691)
 | Rigged to Blow | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | The Long Game | 0.90% | ~30 |
-| Tinkerer | 0.80% | ~27 |
+| Tinkerer | 0.90% | ~30 |
 | Don't hold your breath | 0.80% | ~27 |
 | It'll Buff Right Out | 0.70% | ~23 |
 | Road Rage | 0.70% | ~23 |

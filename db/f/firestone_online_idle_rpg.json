@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4966,9 +4966,9 @@
       "ID": "ultimatewarmachines",
       "SetID": "3nl4bcg",
       "Name": "Ultimate War Machines",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "victor",
@@ -5023,8 +5023,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-22T15:03:10.6106008+00:00",
+  "LastChanged_Achievements": "2023-07-22T16:03:31.557589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-22T14:58:32.792189+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:03:10.6107274+00:00"
+  "LastUpdate_Ratings": "2023-07-22T15:59:02.1861077+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:03:31.5577148+00:00"
 }

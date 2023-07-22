@@ -2,13 +2,13 @@
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-21T14:00:00+00:00",
     "PcReleaseDate": "2022-04-21T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.11,
   "NumberOfRatings": 458,
   "RatingHistory": [
     {
@@ -1272,6 +1272,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-07-22T16:01:35.4597935+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
@@ -1351,8 +1357,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-07-15T03:28:51.5589303+00:00",
+  "LastChanged": "2023-07-22T16:01:35.4597932+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:54.37365+00:00",
-  "LastUpdate_Ratings": "2023-07-22T15:00:42.804201+00:00",
-  "LastUpdate_Achievements": "2023-07-22T15:03:24.3307395+00:00"
+  "LastUpdate_Ratings": "2023-07-22T16:01:35.4597942+00:00",
+  "LastUpdate_Achievements": "2023-07-22T16:03:47.7459863+00:00"
 }
