@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 11 | [Island Cities](games/i/island_cities.md) | 18.55% |
-| 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 16.67% |
+| 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
@@ -36,7 +36,7 @@
 | 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.45% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
+| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
@@ -48,7 +48,7 @@
 | 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
-| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
+| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.56% |
@@ -60,8 +60,8 @@
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.07% |
-| 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.03% |
-| 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
+| 61 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
+| 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.83% |
@@ -94,9 +94,9 @@
 | 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
-| 95 | [Late Shift](games/l/late_shift.md) | 1.33% |
-| 96 | [A Musical Story](games/a/a_musical_story.md) | 1.28% |
-| 97 | [Five Dates](games/f/five_dates.md) | 1.24% |
+| 95 | [Five Dates](games/f/five_dates.md) | 1.44% |
+| 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
+| 97 | [A Musical Story](games/a/a_musical_story.md) | 1.28% |
 | 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
 | 99 | [Chorus](games/c/chorus.md) | 1.14% |
 | 100 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.12% |
@@ -170,9 +170,9 @@
 | 167 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
 | 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 170 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
-| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 172 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 172 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 171 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 171 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.17% |
 | 174 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 175 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 175 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
