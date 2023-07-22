@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3499,
+  "EOS_Progressed": 3500,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4432,6 +4432,11 @@
       "Time": "2023-07-22T08:03:25.8488966+00:00",
       "NumProgressed": 3499,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-22T09:03:42.3687306+00:00",
+      "NumProgressed": 3500,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4499,7 +4504,7 @@
       "Name": "Easy Listening",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach009",
@@ -4539,7 +4544,7 @@
       "Name": "Problem solved... wait, what?",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach014",
@@ -4547,7 +4552,7 @@
       "Name": "I can\u0027t see this ever being a problem again",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach015",
@@ -4587,7 +4592,7 @@
       "Name": "I think that\u0027s enough health for now",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach020",
@@ -4595,7 +4600,7 @@
       "Name": "Fully Powered Up!",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach021",
@@ -4611,7 +4616,7 @@
       "Name": "I have to read ALL of these things?",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach023",
@@ -4627,7 +4632,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach025",
@@ -4707,7 +4712,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach035",
@@ -4755,7 +4760,7 @@
       "Name": "Now this is how you fight like a team!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach041",
@@ -4763,7 +4768,7 @@
       "Name": "My Ultimate Setlist",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach042",
@@ -4779,7 +4784,7 @@
       "Name": "What a journey it was...",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach044",
@@ -4787,7 +4792,7 @@
       "Name": "This was... not what I expected.",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach045",
@@ -4795,7 +4800,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach046",
@@ -4803,7 +4808,7 @@
       "Name": "Have we met before?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach047",
@@ -4835,7 +4840,7 @@
       "Name": "I\u0027m untouchable!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach051",
@@ -4875,7 +4880,7 @@
       "Name": "You ever parry a volcano?",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach056",
@@ -4899,7 +4904,7 @@
       "Name": "With our powers combined\u2026and to the rhythm\u2026",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach059",
@@ -4907,7 +4912,7 @@
       "Name": "I saw all those hits coming a measure away!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach060",
@@ -4915,7 +4920,7 @@
       "Name": "Check out my moves!",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach061",
@@ -5010,13 +5015,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3499,
+      "Progressed": 3500,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2020,
+      "Progressed": 2021,
       "Completed": 1928
     }
   ],
@@ -5024,8 +5029,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:03:25.8488961+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:03:42.36873+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:59:42.3073126+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:03:25.8490012+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:59:48.2759396+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:03:42.3688417+00:00"
 }

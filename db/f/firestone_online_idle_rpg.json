@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4569,9 +4569,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "enlightenment",
@@ -4841,9 +4841,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 170
     },
     {
       "ID": "silverwoodliberator",
@@ -5018,8 +5018,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:02:32.1250139+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:03:19.4861292+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:59:06.1887402+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:02:32.1251066+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:59:09.8281259+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:03:19.4862851+00:00"
 }

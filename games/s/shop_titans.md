@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.10% | ~133 |
 | Master of Transmutation | 0.10% | ~133 |
 | Hidden Potential | 0.10% | ~133 |
+| Unleashed Potential | 0.10% | ~133 |
 | Another Satisfied Customer | 0.10% | ~133 |
 | Power of Love | 0.10% | ~133 |
 | Supercharged | 0.10% | ~133 |
@@ -113,7 +114,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~133 |
 | Ultimate Collector | 0.00% | ~0 |
 | Oligarch Monarch | 0.00% | ~0 |
-| Unleashed Potential | 0.00% | ~0 |
 | Capitalist Camaraderie | 0.00% | ~0 |
 | Merchant Extraordinaire | 0.00% | ~0 |
 | Anything not Nailed Down | 0.00% | ~0 |

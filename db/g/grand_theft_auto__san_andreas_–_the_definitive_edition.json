@@ -586,9 +586,9 @@
       "Count": 226
     }
   ],
-  "EOS_Progressed": 11166,
+  "EOS_Progressed": 11168,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6971,6 +6971,11 @@
       "Time": "2023-07-22T03:07:44.1845908+00:00",
       "NumProgressed": 11166,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T09:07:52.0926157+00:00",
+      "NumProgressed": 11168,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6982,7 +6987,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9046
     },
     {
       "ID": "ACH02",
@@ -7038,7 +7043,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5583
+      "UsersEstimate": 5584
     },
     {
       "ID": "ACH09",
@@ -7150,7 +7155,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH23",
@@ -7254,14 +7259,14 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11166,
+      "Progressed": 11168,
       "Completed": 31
     }
   ],
@@ -7269,8 +7274,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-22T03:01:36.706434+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:07:35.5982723+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:07:52.0926151+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:01:34.9581571+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:07:35.5983318+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:01:55.2726478+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:07:52.0926956+00:00"
 }

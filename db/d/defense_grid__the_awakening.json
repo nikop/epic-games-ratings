@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1711,9 +1711,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 482059,
+  "EOS_Progressed": 482060,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11281,6 +11281,11 @@
       "Time": "2023-07-22T08:07:36.7151377+00:00",
       "NumProgressed": 482059,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T09:07:53.4131889+00:00",
+      "NumProgressed": 482060,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -11308,7 +11313,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 221747
+      "UsersEstimate": 221748
     },
     {
       "ID": "BASEDEFENDER",
@@ -11420,7 +11425,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77129
+      "UsersEstimate": 77130
     },
     {
       "ID": "DIVERSITY",
@@ -11444,7 +11449,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 173541
+      "UsersEstimate": 173542
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -11484,7 +11489,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 390468
+      "UsersEstimate": 390469
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -11564,7 +11569,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 371185
+      "UsersEstimate": 371186
     },
     {
       "ID": "HEADTRAUMA",
@@ -11580,7 +11585,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 376006
+      "UsersEstimate": 376007
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -11628,7 +11633,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 342262
+      "UsersEstimate": 342263
     },
     {
       "ID": "LIQUIDATOR",
@@ -11804,7 +11809,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77129
+      "UsersEstimate": 77130
     },
     {
       "ID": "RETRYAGAIN",
@@ -11820,7 +11825,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 255491
+      "UsersEstimate": 255492
     },
     {
       "ID": "SAVANTGENIUS",
@@ -11836,7 +11841,7 @@
       "Name": "Sharpshooter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 159079
+      "UsersEstimate": 159080
     },
     {
       "ID": "SHELLSHOCKED",
@@ -11876,7 +11881,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 313338
+      "UsersEstimate": 313339
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -11972,7 +11977,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 265132
+      "UsersEstimate": 265133
     },
     {
       "ID": "YOUMONSTER",
@@ -11987,15 +11992,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 482059,
+      "Progressed": 482060,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-07-20T15:59:18.8849969+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:07:36.7151371+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:07:53.4131884+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.26993+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:59:28.8719784+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:07:36.7153222+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:59:35.1899994+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:07:53.4134204+00:00"
 }

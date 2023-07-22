@@ -4,8 +4,8 @@
   "ProductSlug": "apotheorasis-a33e73",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-04T16:00:00+00:00",
     "PcReleaseDate": "2022-05-12T06:00:00+00:00",
@@ -220,8 +220,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:39.130422+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:02:17.1525932+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:02:43.0952862+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:01.5364447+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:01:25.2336033+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:02:17.1526107+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:01:45.6778855+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:02:43.0953019+00:00"
 }

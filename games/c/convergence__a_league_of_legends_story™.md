@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 20.00% | ~155 |
-| The Mysterious Stranger | 17.00% | ~132 |
 | Rail Rat | 17.00% | ~132 |
+| The Mysterious Stranger | 16.00% | ~124 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
 | The Harder They Fall | 15.00% | ~116 |
@@ -42,9 +42,9 @@
 | Cultivair Explorer | 7.00% | ~54 |
 | Factorywood Explorer | 7.00% | ~54 |
 | Fairgrounds Explorer | 7.00% | ~54 |
-| Corin Goes Home | 6.00% | ~46 |
-| Sartorialist | 6.00% | ~46 |
-| Entresol Explorer | 6.00% | ~46 |
+| Corin Goes Home | 6.00% | ~47 |
+| Sartorialist | 6.00% | ~47 |
+| Entresol Explorer | 6.00% | ~47 |
 | Golem Hunter | 5.00% | ~39 |
 | Rungs Was Right | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 199)  
+Progressed: 776 (Ranked 199)  
 Completed: 4 (0.52%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,4 +117,4 @@ Completed: 4 (0.52%) (Ranked 128)
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
 | 2023-07-21 | 773 | 4 |
-| 2023-07-22 | 775 | 4 |
+| 2023-07-22 | 776 | 4 |

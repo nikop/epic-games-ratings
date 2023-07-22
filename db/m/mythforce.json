@@ -5,10 +5,10 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-07-22T08:03:23.8287691+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T09:03:40.4681851+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -775,17 +780,17 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -847,7 +852,7 @@
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -855,9 +860,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -928,15 +933,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:03:23.8287686+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:03:40.4681848+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:59:33.560212+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:03:23.8287892+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:59:40.0328132+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:03:40.4681996+00:00"
 }

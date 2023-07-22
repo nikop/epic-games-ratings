@@ -4,8 +4,8 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2023-07-21T20:03:59.7528891+00:00",
       "NumProgressed": 342,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T09:04:22.3718162+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -132,7 +137,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "10",
@@ -148,7 +153,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "12",
@@ -180,7 +185,7 @@
       "Name": "Size Doesn\u2019t Matter",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "16",
@@ -226,9 +231,9 @@
       "ID": "20",
       "SetID": "1530e6b",
       "Name": "Is Anyone Out There?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "21",
@@ -244,7 +249,7 @@
       "Name": "Poker-Man",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "23",
@@ -260,7 +265,7 @@
       "Name": "Over Nine Thousaaand",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "25",
@@ -274,9 +279,9 @@
       "ID": "26",
       "SetID": "1530e6b",
       "Name": "KOBEEE!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "27",
@@ -298,9 +303,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "4",
@@ -316,7 +321,7 @@
       "Name": "DIY",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "6",
@@ -324,7 +329,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "7",
@@ -340,7 +345,7 @@
       "Name": "Master Chef",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "9",
@@ -355,7 +360,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 10
     }
   ],
@@ -363,8 +368,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:03:44.5887475+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:04:22.3718156+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.0014252+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:01:10.3637997+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:03:44.5887698+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:01:30.6474663+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:04:22.371867+00:00"
 }

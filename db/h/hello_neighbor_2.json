@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2049,9 +2049,9 @@
       "ID": "ACH_CAT_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Cat Person",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 653
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_CLIMBER",
@@ -2154,8 +2154,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:05:40.7406425+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:05:51.3529992+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:01:38.0997542+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:05:40.7406922+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:01:58.8849762+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:05:51.3530259+00:00"
 }

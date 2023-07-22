@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -115,9 +115,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 100,
+      "Percentage": 106,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -187,9 +187,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 100,
+      "Percentage": 106,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:03:47.2747084+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:04:25.1263956+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:57:21.2443031+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:03:47.2747283+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:57:35.7209398+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:04:25.1264254+00:00"
 }

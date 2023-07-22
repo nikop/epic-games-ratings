@@ -12,6 +12,7 @@ Rating: 4.63 (Ranked 331)
 | Walls Cannot Stop Us | 4.00% | ~201 |
 | From Friends to Family | 4.00% | ~201 |
 | Magical Synergy | 4.00% | ~201 |
+| My Final Form | 4.00% | ~201 |
 | Intimidation Tactics | 4.00% | ~201 |
 | Blood of the Dragon | 4.00% | ~201 |
 | Mighty Hoard | 4.00% | ~201 |
@@ -19,7 +20,6 @@ Rating: 4.63 (Ranked 331)
 | Full Ascension | 3.00% | ~151 |
 | Bone Peddler | 3.00% | ~151 |
 | Stronger Together | 3.00% | ~151 |
-| My Final Form | 3.00% | ~151 |
 | Seat of Power | 3.00% | ~151 |
 | In a Liege of Your Own | 3.00% | ~151 |
 | Fiery Friend | 3.00% | ~151 |

@@ -6,12 +6,12 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,495 |
-| The Three | 64.00% | ~338,116 |
-| The Banquet | 40.00% | ~211,323 |
-| Devara's Light | 30.00% | ~158,492 |
-| The Iron Ones | 18.00% | ~95,095 |
-| The Village | 16.00% | ~84,529 |
+| Find Sanctuary | 83.00% | ~438,497 |
+| The Three | 64.00% | ~338,118 |
+| The Banquet | 40.00% | ~211,324 |
+| Devara's Light | 30.00% | ~158,493 |
+| The Iron Ones | 18.00% | ~95,096 |
+| The Village | 16.00% | ~84,530 |
 | The Forest | 14.00% | ~73,963 |
 | Branded | 13.00% | ~68,680 |
 | The Imposter | 13.00% | ~68,680 |
@@ -20,16 +20,16 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Dome | 9.00% | ~47,548 |
 | The Red Hall | 9.00% | ~47,548 |
 | The Sacrifice | 8.00% | ~42,265 |
-| The Cave | 7.00% | ~36,981 |
-| The Mire | 7.00% | ~36,981 |
-| The Stone Roots | 7.00% | ~36,981 |
-| The Ziggurat | 7.00% | ~36,981 |
-| Storied | 6.00% | ~31,698 |
-| The Construct | 6.00% | ~31,698 |
-| The Ruins | 6.00% | ~31,698 |
-| The Alkymancery | 5.00% | ~26,415 |
-| The Lake | 5.00% | ~26,415 |
-| The Pitchwoods | 5.00% | ~26,415 |
+| The Cave | 7.00% | ~36,982 |
+| The Mire | 7.00% | ~36,982 |
+| The Stone Roots | 7.00% | ~36,982 |
+| The Ziggurat | 7.00% | ~36,982 |
+| Storied | 6.00% | ~31,699 |
+| The Construct | 6.00% | ~31,699 |
+| The Ruins | 6.00% | ~31,699 |
+| The Alkymancery | 5.00% | ~26,416 |
+| The Lake | 5.00% | ~26,416 |
+| The Pitchwoods | 5.00% | ~26,416 |
 | Honed | 4.00% | ~21,132 |
 | The House of Splendor | 4.00% | ~21,132 |
 | The Crypt | 4.00% | ~21,132 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,566 |
 | Fading Fast | 1.00% | ~5,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,307 (Ranked 28)  
+Progressed: 528,310 (Ranked 28)  
 Completed: 1,484 (0.28%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1,484 (0.28%) (Ranked 154)
 | 2023-07-19 | 528,117 | 1,483 |
 | 2023-07-20 | 528,184 | 1,483 |
 | 2023-07-21 | 528,275 | 1,484 |
-| 2023-07-22 | 528,307 | 1,484 |
+| 2023-07-22 | 528,310 | 1,484 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 240)  
 Sum: 1,916 (Ranked 201)  

@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,218 |
-| Sweet Sorrow | 18.00% | ~6,109 |
+| Sink Beneath the Waves | 36.00% | ~12,219 |
+| Sweet Sorrow | 18.00% | ~6,110 |
 | Rules the Waves | 17.00% | ~5,770 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,091 |
 | Rival | 14.00% | ~4,752 |
 | Correspondent | 12.00% | ~4,073 |
 | Lose Your Mind | 12.00% | ~4,073 |
 | Sound Mind? | 12.00% | ~4,073 |
-| Salt's Curse | 11.00% | ~3,733 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,733 |
-| The Fall of the House | 11.00% | ~3,733 |
-| Shipmate | 11.00% | ~3,733 |
+| Salt's Curse | 11.00% | ~3,734 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,734 |
+| The Fall of the House | 11.00% | ~3,734 |
+| Shipmate | 11.00% | ~3,734 |
 | One Year at Zee | 8.00% | ~2,715 |
 | Pupil | 7.00% | ~2,376 |
 | Salvager | 7.00% | ~2,376 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,940 (Ranked 93)  
+Progressed: 33,943 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,14 +154,14 @@ Completed: 3 (0.01%) (Ranked 227)
 | 2023-07-19 | 33,786 | 3 |
 | 2023-07-20 | 33,845 | 3 |
 | 2023-07-21 | 33,923 | 3 |
-| 2023-07-22 | 33,940 | 3 |
+| 2023-07-22 | 33,943 | 3 |
 ## Awards
-Max (Character Customization): 211  (Ranked 266)  
-Sum: 281 (Ranked 339)  
-Diff (max vs sum): -73  
+Max (Character Customization): 212  (Ranked 266)  
+Sum: 282 (Ranked 337)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 211 |
+| This game has Inclusive Character Customization | 212 |
 | This game has Amazing Storytelling | 25 |
 | This game has Unique Visuals | 24 |
 | This game has Quickly Understood Controls | 21 |
@@ -256,3 +256,4 @@ Diff (max vs sum): -73
 | 2023-06-05 | 4.58 | - | 209 | 278 |
 | 2023-06-27 | 4.58 | - | 209 | 279 |
 | 2023-07-20 | 4.58 | - | 211 | 281 |
+| 2023-07-22 | 4.58 | - | 212 | 282 |

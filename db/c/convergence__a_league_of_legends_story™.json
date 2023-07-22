@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1704,6 +1704,11 @@
       "Time": "2023-07-22T02:04:19.5346642+00:00",
       "NumProgressed": 775,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T09:03:47.4932395+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1755,7 +1760,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ClockworkProgress1",
@@ -1779,7 +1784,7 @@
       "Name": "Sartorialist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CosmeticProgress1",
@@ -1803,7 +1808,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1833,9 +1838,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 124
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2138,14 +2143,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:03:30.9607658+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:03:47.4932389+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:00:34.9460597+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:03:30.960833+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:00:47.9683671+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:03:47.493304+00:00"
 }

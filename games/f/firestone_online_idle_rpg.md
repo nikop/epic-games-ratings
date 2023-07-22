@@ -33,12 +33,12 @@ Rating: 4.10 (Ranked 890)
 | Hunter | 10.00% | ~170 |
 | Mastery | 10.00% | ~170 |
 | Relic Of The Past | 10.00% | ~170 |
+| Scroll Master | 10.00% | ~170 |
 | The power of Awakening | 10.00% | ~170 |
 | Daily Quest Completionist | 9.00% | ~153 |
 | Four Leaf Clover | 9.00% | ~153 |
 | Frostfire Liberator | 9.00% | ~153 |
 | Moving Up The Ladder | 9.00% | ~153 |
-| Scroll Master | 9.00% | ~153 |
 | Master Enchanter | 8.00% | ~136 |
 | The father of Dragons | 8.00% | ~136 |
 | Here We Go Again | 7.00% | ~119 |
@@ -69,10 +69,10 @@ Rating: 4.10 (Ranked 890)
 | Transmute | 0.80% | ~14 |
 | Cauldron Liberator | 0.70% | ~12 |
 | Tree of Life | 0.60% | ~10 |
+| Enhanced War Machines | 0.50% | ~8 |
 | Titan Power | 0.50% | ~8 |
 | Beast War Machines | 0.40% | ~7 |
 | Enchanting skill x5 | 0.40% | ~7 |
-| Enhanced War Machines | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.30% | ~5 |
 | Angel Power | 0.20% | ~3 |

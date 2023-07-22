@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~335 |
+| Just Went Shopping | 98.00% | ~336 |
 | Decision Maker | 80.00% | ~274 |
-| DIY | 78.00% | ~267 |
-| Sneaky Sneak | 77.00% | ~263 |
-| Master Chef | 65.00% | ~222 |
+| Sneaky Sneak | 78.00% | ~268 |
+| DIY | 78.00% | ~268 |
+| Master Chef | 65.00% | ~223 |
 | Master of Cards | 59.00% | ~202 |
-| Over Nine Thousaaand | 57.00% | ~195 |
-| Getting the Hang Of This | 48.00% | ~164 |
+| Over Nine Thousaaand | 57.00% | ~196 |
+| Getting the Hang Of This | 48.00% | ~165 |
 | Collector | 29.00% | ~99 |
 | That’s What Friends Are For | 21.00% | ~72 |
 | Blow ‘Em Up | 21.00% | ~72 |
-| Poker-Man | 20.00% | ~68 |
-| FOR THE GAUNTLET! | 20.00% | ~68 |
+| Poker-Man | 20.00% | ~69 |
+| FOR THE GAUNTLET! | 20.00% | ~69 |
 | Untapped Potential | 17.00% | ~58 |
 | Played by Gramps | 14.00% | ~48 |
-| Size Doesn’t Matter | 13.00% | ~44 |
+| Size Doesn’t Matter | 13.00% | ~45 |
 | I Choo-Choo-Choose You | 12.00% | ~41 |
 | My Savior! | 12.00% | ~41 |
 | Totally Swamped | 11.00% | ~38 |
-| Is Anyone Out There? | 11.00% | ~38 |
 | Hammer Time | 10.00% | ~34 |
+| Is Anyone Out There? | 10.00% | ~34 |
 | Limitless | 9.00% | ~31 |
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |
-| KOBEEE! | 4.00% | ~14 |
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
+| KOBEEE! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 238)  
+Progressed: 343 (Ranked 238)  
 Completed: 10 (2.92%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,6 +53,7 @@ Completed: 10 (2.92%) (Ranked 64)
 | 2023-06-14 | 340 | 10 |
 | 2023-06-15 | 341 | 10 |
 | 2023-07-21 | 342 | 10 |
+| 2023-07-22 | 343 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

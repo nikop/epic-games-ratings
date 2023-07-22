@@ -32,13 +32,13 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 1.00% | ~35 |
 | I look cool. But I can look COOLER. | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
-| Beat-hit mania | 0.90% | ~31 |
-| That's a lot of junk metal… | 0.90% | ~31 |
-| There's such a thing as TOO helpful | 0.90% | ~31 |
+| Beat-hit mania | 0.90% | ~32 |
+| That's a lot of junk metal… | 0.90% | ~32 |
+| There's such a thing as TOO helpful | 0.90% | ~32 |
 | Chip-tuned | 0.60% | ~21 |
 | Wanna hear my playlist? | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
-| Check out my moves! | 0.50% | ~17 |
+| Check out my moves! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.30% | ~10 |
@@ -51,21 +51,21 @@ Rating: 4.87 (Ranked 24)
 | I'm not done with you yet | 0.20% | ~7 |
 | I hit things with a guitar really well. | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
-| Easy Listening | 0.10% | ~3 |
-| Problem solved... wait, what? | 0.10% | ~3 |
-| I can't see this ever being a problem again | 0.10% | ~3 |
-| I think that's enough health for now | 0.10% | ~3 |
-| Fully Powered Up! | 0.10% | ~3 |
-| I have to read ALL of these things? | 0.10% | ~3 |
-| Now this is how you fight like a team! | 0.10% | ~3 |
-| My Ultimate Setlist | 0.10% | ~3 |
-| What a journey it was... | 0.10% | ~3 |
-| This was... not what I expected. | 0.10% | ~3 |
-| Have we met before? | 0.10% | ~3 |
-| I'm untouchable! | 0.10% | ~3 |
-| You ever parry a volcano? | 0.10% | ~3 |
-| With our powers combined…and to the rhythm… | 0.10% | ~3 |
-| I saw all those hits coming a measure away! | 0.10% | ~3 |
+| Easy Listening | 0.10% | ~4 |
+| Problem solved... wait, what? | 0.10% | ~4 |
+| I can't see this ever being a problem again | 0.10% | ~4 |
+| I think that's enough health for now | 0.10% | ~4 |
+| Fully Powered Up! | 0.10% | ~4 |
+| I have to read ALL of these things? | 0.10% | ~4 |
+| Now this is how you fight like a team! | 0.10% | ~4 |
+| My Ultimate Setlist | 0.10% | ~4 |
+| What a journey it was... | 0.10% | ~4 |
+| This was... not what I expected. | 0.10% | ~4 |
+| Have we met before? | 0.10% | ~4 |
+| I'm untouchable! | 0.10% | ~4 |
+| You ever parry a volcano? | 0.10% | ~4 |
+| With our powers combined…and to the rhythm… | 0.10% | ~4 |
+| I saw all those hits coming a measure away! | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |
 | It was all for this | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 145)  
+Progressed: 3,500 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-19 | 3,460 | 6 |
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
-| 2023-07-22 | 3,499 | 6 |
+| 2023-07-22 | 3,500 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

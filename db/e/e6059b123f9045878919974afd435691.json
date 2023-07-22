@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -1476,9 +1476,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 83
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1795,8 +1795,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-22T08:05:48.9242553+00:00",
+  "LastChanged_Achievements": "2023-07-22T09:05:59.9534947+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:57:20.9293868+00:00",
-  "LastUpdate_Achievements": "2023-07-22T08:05:48.924377+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:57:35.3764466+00:00",
+  "LastUpdate_Achievements": "2023-07-22T09:05:59.9535668+00:00"
 }
