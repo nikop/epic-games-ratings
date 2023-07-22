@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.48% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.55% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.11% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
 | 4 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.73% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.69% |
 | 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
@@ -21,8 +21,8 @@
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.60% |
-| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.46% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.73% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -35,11 +35,11 @@
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.09% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.03% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -93,8 +93,8 @@
 | 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 92 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 93 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
-| 94 | [A Musical Story](games/a/a_musical_story.md) | 1.33% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.33% |
+| 95 | [A Musical Story](games/a/a_musical_story.md) | 1.32% |
 | 96 | [Five Dates](games/f/five_dates.md) | 1.24% |
 | 97 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
 | 98 | [Chorus](games/c/chorus.md) | 1.15% |
