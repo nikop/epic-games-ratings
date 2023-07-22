@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.69% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.59% |
 | 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
@@ -33,9 +33,9 @@
 | 31 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 32 | [Scorn](games/s/scorn.md) | 7.03% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
-| 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.03% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.84% |
+| 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
+| 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -45,7 +45,7 @@
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
-| 46 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
@@ -84,7 +84,7 @@
 | 82 | [Frogun](games/f/frogun.md) | 1.90% |
 | 83 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 84 | [Sifu](games/s/sifu.md) | 1.80% |
-| 85 | [Iron Danger](games/i/iron_danger.md) | 1.76% |
+| 85 | [Iron Danger](games/i/iron_danger.md) | 1.75% |
 | 86 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.72% |
 | 87 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 88 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -119,7 +119,7 @@
 | 117 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
-| 120 | [Them and Us](games/t/them_and_us.md) | 0.61% |
+| 120 | [Them and Us](games/t/them_and_us.md) | 0.60% |
 | 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
 | 121 | [Train Valley](games/t/train_valley.md) | 0.58% |
@@ -174,10 +174,10 @@
 | 172 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 172 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 174 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 174 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 176 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 176 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 176 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 175 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 175 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 175 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 179 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 180 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 180 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
