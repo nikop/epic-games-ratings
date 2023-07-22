@@ -9,9 +9,9 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,701 | 4.52 | 519 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,323 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,751 | 4.62 | 347 |
-| 10 | [VALORANT](games/v/valorant.md) | 61,585 | 4.53 | 508 |
+| 10 | [VALORANT](games/v/valorant.md) | 61,738 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,244 | 4.58 | 425 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 41,371 | 4.61 | 366 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 41,458 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,841 | 4.50 | 553 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,829 | 4.74 | 142 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,171 | 4.52 | 519 |
@@ -63,7 +63,7 @@
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,572 | 4.69 | 216 |
 | 62 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,526 | 4.85 | 40 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,512 | 4.75 | 134 |
-| 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,310 | 4.54 | 494 |
+| 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,323 | 4.54 | 494 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,174 | 4.33 | 757 |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,055 | 4.06 | 905 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,975 | 4.65 | 299 |
@@ -78,7 +78,7 @@
 | 76 | [God of War](games/g/god_of_war.md) | 4,165 | 4.88 | 19 |
 | 77 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4,149 | 4.73 | 157 |
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,104 | 4.51 | 539 |
-| 79 | [SMITE](games/s/smite.md) | 4,052 | 4.44 | 642 |
+| 79 | [SMITE](games/s/smite.md) | 4,055 | 4.44 | 642 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,882 | 4.68 | 238 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,715 | 4.77 | 109 |
 | 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,677 | 4.28 | 791 |
@@ -153,7 +153,7 @@
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 809 | 4.56 | 460 |
 | 152 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 804 | 4.69 | 216 |
 | 153 | [Frostpunk](games/f/frostpunk.md) | 798 | 4.74 | 142 |
-| 154 | [The Long Dark](games/t/the_long_dark.md) | 781 | 4.74 | 142 |
+| 154 | [The Long Dark](games/t/the_long_dark.md) | 783 | 4.74 | 142 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 777 | 4.45 | 624 |
 | 156 | [Auto Chess](games/a/auto_chess.md) | 757 | 4.52 | 519 |
 | 156 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 757 | 4.51 | 539 |
@@ -178,11 +178,11 @@
 | 176 | [FAR CRY 4](games/f/far_cry_4.md) | 603 | 4.67 | 259 |
 | 177 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 597 | 4.63 | 331 |
 | 178 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 585 | 4.73 | 157 |
-| 179 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 565 | 4.38 | 711 |
-| 179 | [Star Trek Online](games/s/star_trek_online.md) | 565 | 4.44 | 642 |
-| 181 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 238 |
-| 182 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 559 | 4.66 | 275 |
-| 182 | [The Sims™ 4](games/t/the_sims™_4.md) | 559 | 4.62 | 347 |
+| 179 | [The Sims™ 4](games/t/the_sims™_4.md) | 568 | 4.62 | 347 |
+| 180 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 565 | 4.38 | 711 |
+| 180 | [Star Trek Online](games/s/star_trek_online.md) | 565 | 4.44 | 642 |
+| 182 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 238 |
+| 183 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 559 | 4.66 | 275 |
 | 184 | [Filament](games/f/filament.md) | 558 | 4.32 | 764 |
 | 185 | [Vampyr](games/v/vampyr.md) | 552 | 4.32 | 764 |
 | 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 551 | 4.41 | 672 |
@@ -489,18 +489,18 @@
 | 486 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 22 | 4.58 | 425 |
 | 486 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 839 |
 | 486 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.54 | 494 |
+| 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 22 | 4.50 | 553 |
 | 486 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 19 |
 | 486 | [Star Atlas](games/s/star_atlas.md) | 22 | 4.82 | 65 |
 | 486 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 392 |
-| 493 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 331 |
-| 493 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.92 | 4 |
-| 493 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 29 |
-| 493 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 519 |
-| 493 | [Forspoken](games/f/forspoken.md) | 21 | 4.14 | 880 |
-| 493 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 21 | 4.50 | 553 |
-| 493 | [Torchlight](games/t/torchlight.md) | 21 | 4.32 | 764 |
-| 493 | [Tunche](games/t/tunche.md) | 21 | 4.43 | 655 |
-| 493 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 299 |
+| 494 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 331 |
+| 494 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.92 | 4 |
+| 494 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 29 |
+| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 519 |
+| 494 | [Forspoken](games/f/forspoken.md) | 21 | 4.14 | 880 |
+| 494 | [Torchlight](games/t/torchlight.md) | 21 | 4.32 | 764 |
+| 494 | [Tunche](games/t/tunche.md) | 21 | 4.43 | 655 |
+| 494 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 299 |
 | 502 | [Figment](games/f/figment.md) | 20 | 4.46 | 610 |
 | 502 | [Sable](games/s/sable.md) | 20 | 4.52 | 519 |
 | 502 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.63 | 331 |

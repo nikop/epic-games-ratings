@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.71% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -71,13 +71,13 @@
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.49% |
+| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.03% |
 | 80 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.98% |
 | 81 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -90,8 +90,8 @@
 | 88 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 89 | [Somerville](games/s/somerville.md) | 1.62% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
-| 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.51% |
-| 92 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.50% |
+| 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 95 | [Late Shift](games/l/late_shift.md) | 1.33% |
@@ -179,9 +179,9 @@
 | 175 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 179 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 180 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 180 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
-| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 181 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 183 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.11% |
 | 183 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |

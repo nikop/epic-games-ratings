@@ -15,6 +15,7 @@
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
+| [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
@@ -410,7 +411,6 @@
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
 | [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
-| [Showgunners](../games/s/showgunners.md) | 46 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |

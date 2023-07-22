@@ -92,6 +92,7 @@
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
+| [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](../games/9/901880c636ef456e936d376fbe089f11.md) | 53 | 1,000 |
 | [CONVERGENCE: A League of Legends Story™](../games/c/convergence__a_league_of_legends_story™.md) | 53 | 1,000 |
@@ -143,7 +144,6 @@
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
-| [Showgunners](../games/s/showgunners.md) | 46 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
