@@ -5,10 +5,10 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,960 |
+| Stylish | 86.00% | ~20,961 |
 | Advancement | 73.00% | ~17,792 |
-| Meticulously Efficient | 64.00% | ~15,598 |
-| Discovery | 61.00% | ~14,867 |
+| Meticulously Efficient | 64.00% | ~15,599 |
+| Discovery | 61.00% | ~14,868 |
 | Fully Upgraded | 54.00% | ~13,161 |
 | Swift Rift Removers | 54.00% | ~13,161 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,430 |
@@ -17,21 +17,21 @@ Rating: 4.49 (Ranked 576)
 | Teamwork | 44.00% | ~10,724 |
 | There you are! | 43.00% | ~10,480 |
 | Clutch Capture | 41.00% | ~9,993 |
-| Back Off | 35.00% | ~8,530 |
-| Daily Dose | 34.00% | ~8,286 |
+| Back Off | 35.00% | ~8,531 |
+| Daily Dose | 34.00% | ~8,287 |
 | Solo Capture | 32.00% | ~7,799 |
 | Welcome to the Crew | 32.00% | ~7,799 |
 | Ghostbuster In Training | 30.00% | ~7,312 |
 | Icing on the Cake | 30.00% | ~7,312 |
-| Side Hustle | 27.00% | ~6,580 |
-| Summoner | 27.00% | ~6,580 |
+| Side Hustle | 27.00% | ~6,581 |
+| Summoner | 27.00% | ~6,581 |
 | We have the best insurance | 26.00% | ~6,337 |
 | Legions | 26.00% | ~6,337 |
 | Right back at ya | 26.00% | ~6,337 |
 | Stunner | 26.00% | ~6,337 |
 | Pesky Jerks | 25.00% | ~6,093 |
-| Animated | 24.00% | ~5,849 |
-| Skilled | 24.00% | ~5,849 |
+| Animated | 24.00% | ~5,850 |
+| Skilled | 24.00% | ~5,850 |
 | Collector | 23.00% | ~5,606 |
 | Ectoplasmic Entity | 23.00% | ~5,606 |
 | Rift Destroyer | 19.00% | ~4,631 |
@@ -44,8 +44,8 @@ Rating: 4.49 (Ranked 576)
 | Whoopsie | 12.00% | ~2,925 |
 | Liability | 10.00% | ~2,437 |
 | Rivalry | 10.00% | ~2,437 |
-| Fragile Panes | 9.00% | ~2,193 |
-| Surprise! | 9.00% | ~2,193 |
+| Fragile Panes | 9.00% | ~2,194 |
+| Surprise! | 9.00% | ~2,194 |
 | Master Collector | 7.00% | ~1,706 |
 | Rift Seeker | 7.00% | ~1,706 |
 | Therapeutic | 7.00% | ~1,706 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~244 |
 | I don't need these | 0.90% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,372 (Ranked 99)  
+Progressed: 24,373 (Ranked 99)  
 Completed: 47 (0.19%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 47 (0.19%) (Ranked 169)
 | 2023-07-19 | 24,324 | 46 |
 | 2023-07-20 | 24,345 | 46 |
 | 2023-07-21 | 24,360 | 47 |
-| 2023-07-22 | 24,372 | 47 |
+| 2023-07-22 | 24,373 | 47 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,176 (Ranked 189)  

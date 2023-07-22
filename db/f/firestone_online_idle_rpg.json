@@ -5,10 +5,10 @@
   "Ranking_Rating": 889,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1692,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4743,9 +4743,9 @@
       "ID": "missionsdedication",
       "SetID": "3nl4bcg",
       "Name": "Missions Dedication",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "movinguptheladder",
@@ -5008,8 +5008,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-22T05:04:24.8337381+00:00",
+  "LastChanged_Achievements": "2023-07-22T06:02:18.2651032+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:59:46.9671333+00:00",
-  "LastUpdate_Achievements": "2023-07-22T05:04:24.8338149+00:00"
+  "LastUpdate_Ratings": "2023-07-22T05:58:23.8195523+00:00",
+  "LastUpdate_Achievements": "2023-07-22T06:02:18.265209+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -143,9 +143,9 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ARTEMIS",
@@ -413,8 +413,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-22T05:04:52.8643651+00:00",
+  "LastChanged_Achievements": "2023-07-22T06:03:25.6468453+00:00",
   "LastUpdate_AppInfo": "2023-07-21T20:57:00.8152155+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:58:32.7977986+00:00",
-  "LastUpdate_Achievements": "2023-07-22T05:04:52.8643986+00:00"
+  "LastUpdate_Ratings": "2023-07-22T05:56:59.4593096+00:00",
+  "LastUpdate_Achievements": "2023-07-22T06:03:25.6468766+00:00"
 }

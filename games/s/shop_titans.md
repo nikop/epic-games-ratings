@@ -98,6 +98,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.10% | ~133 |
 | Capitalism Ho! | 0.10% | ~133 |
 | Black Friday Special | 0.10% | ~133 |
+| Cash Only Please | 0.10% | ~133 |
 | King's Shadow | 0.10% | ~133 |
 | Master Recycler | 0.10% | ~133 |
 | Titan's First Steps | 0.10% | ~133 |
@@ -117,9 +118,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Merchant Extraordinaire | 0.00% | ~0 |
 | Anything not Nailed Down | 0.00% | ~0 |
 | Marvels from the World Over | 0.00% | ~0 |
-| Cash Only Please | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,000 (Ranked 61)  
+Progressed: 133,002 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
 | 2023-07-21 | 132,985 | 122 |
-| 2023-07-22 | 133,000 | 122 |
+| 2023-07-22 | 133,002 | 122 |
 ## Awards
 Max (Great for Beginners): 4,668  (Ranked 69)  
 Sum: 26,955 (Ranked 46)  

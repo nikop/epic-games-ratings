@@ -49,11 +49,11 @@ Rating: 4.10 (Ranked 889)
 | Enchanting skill | 6.00% | ~102 |
 | Engineer Mastery | 6.00% | ~102 |
 | How Do You Turn This On? | 6.00% | ~102 |
+| Missions Dedication | 6.00% | ~102 |
 | Weekly Quest Completionist | 6.00% | ~102 |
 | Ancient Knowledge | 5.00% | ~85 |
 | Blueprint Upgrades | 5.00% | ~85 |
 | Lock And Load | 5.00% | ~85 |
-| Missions Dedication | 5.00% | ~85 |
 | Background Story | 4.00% | ~68 |
 | Sailor | 4.00% | ~68 |
 | Active Member | 3.00% | ~51 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 889)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,692 (Ranked 169)  
+Progressed: 1,692 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

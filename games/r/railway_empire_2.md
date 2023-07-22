@@ -13,8 +13,8 @@ Rating: 4.49 (Ranked 576)
 | Mystery Tour | 68.00% | ~1,117 |
 | We brake for nobody | 67.00% | ~1,100 |
 | Brainstorm | 65.00% | ~1,067 |
+| Travel Company | 65.00% | ~1,067 |
 | Mind the Gap | 64.00% | ~1,051 |
-| Travel Company | 64.00% | ~1,051 |
 | All around the World | 61.00% | ~1,002 |
 | Right through the middle | 56.00% | ~920 |
 | Facility Manager | 53.00% | ~870 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 576)
 | European Union | 0.40% | ~7 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,642 (Ranked 170)  
+Progressed: 1,642 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |

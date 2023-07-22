@@ -1518,9 +1518,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24372,
+  "EOS_Progressed": 24373,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8373,6 +8373,11 @@
       "Time": "2023-07-22T05:05:13.1591954+00:00",
       "NumProgressed": 24372,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-07-22T06:03:35.3152937+00:00",
+      "NumProgressed": 24373,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 51,
@@ -8392,7 +8397,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "Back_Off",
@@ -8400,7 +8405,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "Best_Insurance",
@@ -8456,7 +8461,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8286
+      "UsersEstimate": 8287
     },
     {
       "ID": "Diabolical",
@@ -8472,7 +8477,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14867
+      "UsersEstimate": 14868
     },
     {
       "ID": "Dont_Need_These",
@@ -8496,7 +8501,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15598
+      "UsersEstimate": 15599
     },
     {
       "ID": "Escape_Artist",
@@ -8512,7 +8517,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "Fully_Upgraded",
@@ -8656,7 +8661,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Skilled",
@@ -8664,7 +8669,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "Solo_Capture",
@@ -8688,7 +8693,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20960
+      "UsersEstimate": 20961
     },
     {
       "ID": "Summoner",
@@ -8696,7 +8701,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Surprise",
@@ -8704,7 +8709,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "Swift_Removers",
@@ -8791,7 +8796,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24372,
+      "Progressed": 24373,
       "Completed": 47
     }
   ],
@@ -8799,8 +8804,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-21T23:59:06.6385213+00:00",
-  "LastChanged_Achievements": "2023-07-22T05:05:13.159195+00:00",
+  "LastChanged_Achievements": "2023-07-22T06:03:35.315293+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:00:51.1204133+00:00",
-  "LastUpdate_Achievements": "2023-07-22T05:05:13.1592595+00:00"
+  "LastUpdate_Ratings": "2023-07-22T05:59:28.6650506+00:00",
+  "LastUpdate_Achievements": "2023-07-22T06:03:35.3153758+00:00"
 }

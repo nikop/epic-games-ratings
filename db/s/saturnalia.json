@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64687,
+  "EOS_Progressed": 64688,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5685,6 +5685,11 @@
       "Time": "2023-07-22T05:06:29.1482201+00:00",
       "NumProgressed": 64687,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-22T06:04:58.9950583+00:00",
+      "NumProgressed": 64688,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -5712,7 +5717,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -5832,7 +5837,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -5855,7 +5860,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64687,
+      "Progressed": 64688,
       "Completed": 13
     }
   ],
@@ -5863,8 +5868,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-22T05:06:29.1482197+00:00",
+  "LastChanged_Achievements": "2023-07-22T06:04:58.9950576+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:21.1649523+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:59:19.8146585+00:00",
-  "LastUpdate_Achievements": "2023-07-22T05:06:29.1482573+00:00"
+  "LastUpdate_Ratings": "2023-07-22T05:57:50.1556501+00:00",
+  "LastUpdate_Achievements": "2023-07-22T06:04:58.9951053+00:00"
 }

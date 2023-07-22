@@ -55,10 +55,10 @@
 | Maxed Out! | 0.00% | ~0 |
 | Transmutate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 173)  
+Progressed: 1,762 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-21 | 15 | 0 |
-| 2023-07-22 | 1,533 | 0 |
+| 2023-07-22 | 1,762 | 0 |
