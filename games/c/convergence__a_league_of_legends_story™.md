@@ -9,6 +9,7 @@
 | Rail Rat | 17.00% | ~132 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
+| Time Flies | 15.00% | ~116 |
 | The Harder They Fall | 15.00% | ~116 |
 | No, Thanks! | 15.00% | ~116 |
 | Breaking Down Barriers | 15.00% | ~116 |
@@ -21,7 +22,6 @@
 | The Man Who Shattered Time | 14.00% | ~109 |
 | The Loose Cannon | 14.00% | ~109 |
 | Cartographer | 14.00% | ~109 |
-| Time Flies | 14.00% | ~109 |
 | Honest Mistake | 14.00% | ~109 |
 | Golem Chaser | 14.00% | ~109 |
 | Fast Learner | 14.00% | ~109 |

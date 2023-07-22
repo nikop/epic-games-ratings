@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14051,
+  "EOS_Progressed": 14052,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6579,6 +6579,11 @@
       "Time": "2023-07-22T08:03:18.1683643+00:00",
       "NumProgressed": 14051,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-22T11:03:11.0003902+00:00",
+      "NumProgressed": 14052,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6630,7 +6635,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4777
+      "UsersEstimate": 4778
     },
     {
       "ID": "tpote_achievement_15",
@@ -6678,7 +6683,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4777
+      "UsersEstimate": 4778
     },
     {
       "ID": "tpote_achievement_20",
@@ -6917,15 +6922,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14051,
+      "Progressed": 14052,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:03:13.017062+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:03:11.0003896+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:59:57.2625744+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:03:13.0171291+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:00:40.6835218+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:03:11.0004594+00:00"
 }

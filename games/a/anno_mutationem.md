@@ -12,8 +12,8 @@ Rating: 4.56 (Ranked 460)
 | Big Spender | 38.00% | ~248 |
 | The things they print nowadays | 38.00% | ~248 |
 | That's gotta hurt | 36.00% | ~235 |
+| I think it's broke | 26.00% | ~170 |
 | The Ann Flores Combo Experience | 26.00% | ~170 |
-| I think it's broke | 25.00% | ~163 |
 | Club Star | 24.00% | ~156 |
 | Fire in the hole! | 20.00% | ~130 |
 | The Warlord | 20.00% | ~130 |

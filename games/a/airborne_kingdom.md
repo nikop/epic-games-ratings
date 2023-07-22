@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,826 |
-| A Grove Replanted | 53.00% | ~3,621 |
+| A Small Community | 56.00% | ~3,828 |
+| A Grove Replanted | 53.00% | ~3,623 |
 | Fields Watered | 41.00% | ~2,802 |
 | Seekers Found | 41.00% | ~2,802 |
 | Settling the Skies | 41.00% | ~2,802 |
-| Wind Powered | 40.00% | ~2,733 |
-| It Takes a Village | 34.00% | ~2,323 |
-| On the Town | 28.00% | ~1,913 |
+| Wind Powered | 40.00% | ~2,734 |
+| It Takes a Village | 34.00% | ~2,324 |
+| On the Town | 28.00% | ~1,914 |
 | Daylight Found | 26.00% | ~1,777 |
-| Irons Scorched | 25.00% | ~1,708 |
-| Islands Connected | 25.00% | ~1,708 |
+| Irons Scorched | 25.00% | ~1,709 |
+| Islands Connected | 25.00% | ~1,709 |
 | Harp Tuned | 23.00% | ~1,572 |
 | Pyre Ignited | 23.00% | ~1,572 |
 | Travelers Returned | 23.00% | ~1,572 |
-| Hopes Hoisted | 22.00% | ~1,503 |
+| Hopes Hoisted | 22.00% | ~1,504 |
 | Knowledge Shared | 20.00% | ~1,367 |
 | Relic Finder | 20.00% | ~1,367 |
-| Worthy of the Title | 19.00% | ~1,298 |
+| Worthy of the Title | 19.00% | ~1,299 |
 | A Peaceful Respite | 14.00% | ~957 |
-| A Learned Scholar | 13.00% | ~888 |
-| Prophecy Fulfilled | 13.00% | ~888 |
+| A Learned Scholar | 13.00% | ~889 |
+| Prophecy Fulfilled | 13.00% | ~889 |
 | A Wanderer’s Guide | 11.00% | ~752 |
 | Knowledge Seeker | 7.00% | ~478 |
 | The Cycle Continues | 3.00% | ~205 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~137 |
 | A True Challenge | 2.00% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,833 (Ranked 129)  
+Progressed: 6,835 (Ranked 129)  
 Completed: 52 (0.76%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 52 (0.76%) (Ranked 112)
 | 2023-07-19 | 6,819 | 52 |
 | 2023-07-20 | 6,824 | 52 |
 | 2023-07-21 | 6,828 | 52 |
-| 2023-07-22 | 6,833 | 52 |
+| 2023-07-22 | 6,835 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

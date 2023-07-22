@@ -123,9 +123,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 81,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -179,9 +179,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -195,9 +195,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 81,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:03:37.3518869+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:03:39.2619408+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:57:03.7560311+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:03:37.351905+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:57:09.5822767+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:03:39.2619594+00:00"
 }

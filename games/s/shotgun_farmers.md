@@ -28,10 +28,10 @@
 | Oh My Gourd | 12.00% | ~21 |
 | This Is My Boomstick | 12.00% | ~21 |
 | Getting Started | 11.00% | ~25 |
+| Eggtraordinary | 11.00% | ~25 |
 | Summers Here | 11.00% | ~19 |
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
-| Eggtraordinary | 10.00% | ~22 |
 | Perfect | 9.00% | ~16 |
 | Expert Survivor | 9.00% | ~16 |
 | Bring Home The Bacon | 8.00% | ~18 |

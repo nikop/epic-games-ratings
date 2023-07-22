@@ -25,7 +25,6 @@ Rating: 4.52 (Ranked 519)
 | Sixth Sense | 0.80% | ~9 |
 | Rising Star | 0.70% | ~8 |
 | Baby Eater | 0.60% | ~7 |
-| Sick Freak | 0.40% | ~5 |
 | Admiral | 0.30% | ~3 |
 | Bronzovka | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
@@ -33,12 +32,13 @@ Rating: 4.52 (Ranked 519)
 | Incompetence | 0.30% | ~3 |
 | Goose Sacrifice | 0.30% | ~3 |
 | Power of Simplicity | 0.30% | ~3 |
+| Sick Freak | 0.30% | ~3 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,142 (Ranked 184)  
+Progressed: 1,143 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 1,139 | 0 |
 | 2023-07-20 | 1,140 | 0 |
 | 2023-07-21 | 1,141 | 0 |
-| 2023-07-22 | 1,142 | 0 |
+| 2023-07-22 | 1,143 | 0 |
 ## Awards
 Max (Character Customization): 23  (Ranked 482)  
 Sum: 23 (Ranked 486)  

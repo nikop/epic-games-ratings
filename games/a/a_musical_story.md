@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 96.00% | ~72 |
-| Rehearsal | 95.00% | ~71 |
-| Daily Life | 92.00% | ~69 |
-| Assembly Line Work | 88.00% | ~66 |
-| Solitude | 83.00% | ~62 |
-| Pinewood, Here we come! | 76.00% | ~57 |
-| The Van | 69.00% | ~52 |
-| Road-Trip | 63.00% | ~47 |
+| ECG | 96.00% | ~73 |
+| Rehearsal | 95.00% | ~72 |
+| Daily Life | 92.00% | ~70 |
+| Assembly Line Work | 88.00% | ~67 |
+| Solitude | 82.00% | ~62 |
+| Pinewood, Here we come! | 75.00% | ~57 |
+| The Van | 68.00% | ~52 |
+| Road-Trip | 62.00% | ~47 |
 | A Musical Pause | 61.00% | ~46 |
-| Briget's | 51.00% | ~38 |
-| Sound of Noise | 48.00% | ~36 |
-| Big City Music | 45.00% | ~34 |
-| Love at First Sight | 43.00% | ~32 |
+| Briget's | 50.00% | ~38 |
+| Sound of Noise | 49.00% | ~37 |
+| Big City Music | 46.00% | ~35 |
+| Love at First Sight | 42.00% | ~32 |
 | First Kiss | 37.00% | ~28 |
-| A Bigger Band | 35.00% | ~26 |
-| Symbiosis | 33.00% | ~25 |
+| A Bigger Band | 34.00% | ~26 |
+| Symbiosis | 34.00% | ~26 |
 | Fuel | 28.00% | ~21 |
-| Alone Together | 27.00% | ~20 |
+| Alone Together | 26.00% | ~20 |
 | Threatening Nature | 25.00% | ~19 |
 | TV Dreams | 24.00% | ~18 |
-| Flat Tire | 23.00% | ~17 |
-| The Clash | 19.00% | ~14 |
-| Dreamers | 19.00% | ~14 |
+| Flat Tire | 22.00% | ~17 |
+| The Clash | 18.00% | ~14 |
+| Dreamers | 18.00% | ~14 |
 | The Fix | 16.00% | ~12 |
 | Time | 12.00% | ~9 |
 | Regrets | 12.00% | ~9 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 327)  
-Completed: 1 (1.33%) (Ranked 94)  
+Progressed: 76 (Ranked 326)  
+Completed: 1 (1.32%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (1.33%) (Ranked 94)
 | 2023-06-28 | 70 | 1 |
 | 2023-07-19 | 71 | 1 |
 | 2023-07-21 | 74 | 1 |
-| 2023-07-22 | 75 | 1 |
+| 2023-07-22 | 76 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

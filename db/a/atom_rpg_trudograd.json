@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -932,6 +932,11 @@
       "Time": "2023-07-22T07:04:33.259618+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T11:03:20.7119139+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1149,9 +1154,9 @@
       "ID": "SICK_FREAK",
       "SetID": "62d2oh4",
       "Name": "Sick Freak",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "SIXTH_SENSE",
@@ -1198,7 +1203,7 @@
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 0
     }
   ],
@@ -1206,8 +1211,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:03:21.4425429+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:03:20.7119133+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.1070752+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:57:32.352949+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:03:21.4425988+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:57:43.702661+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:03:20.7119405+00:00"
 }

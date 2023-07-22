@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7949,
+  "EOS_Progressed": 7950,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3561,6 +3561,11 @@
       "Time": "2023-07-22T08:05:33.2688806+00:00",
       "NumProgressed": 7949,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-22T11:05:03.7164975+00:00",
+      "NumProgressed": 7950,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3732,7 +3737,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7393
+      "UsersEstimate": 7394
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3748,7 +3753,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "WhattoBuy",
@@ -3756,22 +3761,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7949,
+      "Progressed": 7950,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:04:42.513513+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:05:03.716497+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:59:06.9592496+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:04:42.5135526+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:59:38.1070202+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:05:03.7165494+00:00"
 }

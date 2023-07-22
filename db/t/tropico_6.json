@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 339,
+  "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 204,
@@ -940,11 +940,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-07-22T11:00:58.6040632+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 669,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 668,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 669,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -981,7 +987,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Educational",
@@ -1014,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4199,
+  "EOS_Progressed": 4202,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6474,6 +6480,11 @@
       "Time": "2023-07-22T10:05:18.3755199+00:00",
       "NumProgressed": 4199,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T11:05:46.4470058+00:00",
+      "NumProgressed": 4202,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6581,7 +6592,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6645,7 +6656,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3194
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6741,7 +6752,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6757,7 +6768,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6804,15 +6815,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4199,
+      "Progressed": 4202,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:05:18.3755192+00:00",
+  "LastChanged": "2023-07-22T11:00:58.604063+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:05:46.4470054+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:00:12.600373+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:05:18.375586+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:00:58.6040636+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:05:46.4470616+00:00"
 }

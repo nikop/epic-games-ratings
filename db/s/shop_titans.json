@@ -5150,10 +5150,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 26955,
       "NumberOfAwardsMax": 4668
+    },
+    {
+      "Time": "2023-07-22T10:58:53.4930979+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 26957,
+      "NumberOfAwardsMax": 4668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26955,
+  "NumberOfAwards": 26957,
   "NumberOfAwardsMax": 4668,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5203,12 +5209,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3710
+      "Count": 3712
     }
   ],
-  "EOS_Progressed": 133009,
+  "EOS_Progressed": 133012,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14616,6 +14622,11 @@
       "Time": "2023-07-22T10:03:45.4062598+00:00",
       "NumProgressed": 133009,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-07-22T11:03:48.9146824+00:00",
+      "NumProgressed": 133012,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 112,
@@ -14849,9 +14860,9 @@
       "ID": "collection05",
       "SetID": "anfd17p",
       "Name": "Ultimate Collector",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "commonres01",
@@ -14921,9 +14932,9 @@
       "ID": "craft05",
       "SetID": "anfd17p",
       "Name": "Oligarch Monarch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "damage01",
@@ -15233,9 +15244,9 @@
       "ID": "level04",
       "SetID": "anfd17p",
       "Name": "Merchant Extraordinaire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "lilu_a",
@@ -15273,9 +15284,9 @@
       "ID": "loot04",
       "SetID": "anfd17p",
       "Name": "Anything not Nailed Down",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "master01",
@@ -15385,9 +15396,9 @@
       "ID": "rareres03",
       "SetID": "anfd17p",
       "Name": "Marvels from the World Over",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "rudo_a",
@@ -15522,15 +15533,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133009,
+      "Progressed": 133012,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-07-21T11:58:36.4964329+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:03:45.4062593+00:00",
+  "LastChanged": "2023-07-22T10:58:53.4930978+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:03:48.9146816+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:58:33.0704671+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:03:45.4064854+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:58:53.4930985+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:03:48.9148908+00:00"
 }

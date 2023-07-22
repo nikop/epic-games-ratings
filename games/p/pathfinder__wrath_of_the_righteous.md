@@ -8,11 +8,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 21.00% | ~2,200 |
 | A Spark | 15.00% | ~1,571 |
-| Burning City | 14.00% | ~1,466 |
+| Burning City | 14.00% | ~1,467 |
 | Mythic Choices | 12.00% | ~1,257 |
 | Defender's Heart | 12.00% | ~1,257 |
 | Banner over the Citadel | 11.00% | ~1,152 |
-| Queen's Gratitude | 10.00% | ~1,047 |
+| Queen's Gratitude | 10.00% | ~1,048 |
 | Fifth Crusade | 7.00% | ~733 |
 | Embrace of the Abyss | 5.00% | ~524 |
 | Path of the Angel | 5.00% | ~524 |
@@ -32,14 +32,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 3.00% | ~314 |
 | The Lady of the Forest | 3.00% | ~278 |
 | Beware Still Water | 3.00% | ~278 |
-| Path of the Aeon | 2.00% | ~209 |
-| Path of the Trickster | 2.00% | ~209 |
-| Path of the Lich | 2.00% | ~209 |
-| Heroic Victory | 2.00% | ~209 |
-| Capitulation Is Now Moot | 2.00% | ~209 |
-| Core of the Riddle | 2.00% | ~209 |
-| Your First Big Enemy | 2.00% | ~209 |
-| Truly Important Deed | 2.00% | ~209 |
+| Path of the Aeon | 2.00% | ~210 |
+| Path of the Trickster | 2.00% | ~210 |
+| Path of the Lich | 2.00% | ~210 |
+| Heroic Victory | 2.00% | ~210 |
+| Capitulation Is Now Moot | 2.00% | ~210 |
+| Core of the Riddle | 2.00% | ~210 |
+| Your First Big Enemy | 2.00% | ~210 |
+| Truly Important Deed | 2.00% | ~210 |
 | Stay Underground | 2.00% | ~185 |
 | Hanged Man's Notes | 2.00% | ~185 |
 | Sarkoris Will Be Green | 2.00% | ~185 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,474 (Ranked 117)  
+Progressed: 10,475 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 10,406 | 0 |
 | 2023-07-20 | 10,430 | 0 |
 | 2023-07-21 | 10,460 | 0 |
-| 2023-07-22 | 10,474 | 0 |
+| 2023-07-22 | 10,475 | 0 |
 ## Awards
 Max (Character Customization): 1,686  (Ranked 117)  
 Sum: 6,829 (Ranked 114)  

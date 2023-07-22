@@ -12,15 +12,15 @@ Rating: 4.56 (Ranked 460)
 | Space Society | 13.00% | ~373 |
 | A Thousand Strong | 13.00% | ~373 |
 | Ready for a New World | 13.00% | ~373 |
-| Permanent Redesigns | 11.00% | ~315 |
+| Permanent Redesigns | 11.00% | ~316 |
 | Fully Recycled | 10.00% | ~287 |
 | Ain't Nobody Got Time for That | 10.00% | ~287 |
 | The Ship of Theseus | 10.00% | ~287 |
 | Guy de Borderlands | 9.00% | ~258 |
 | Hope Seeker | 9.00% | ~258 |
-| A Hunk of Junk | 8.00% | ~229 |
-| Exceeding Capacity | 8.00% | ~229 |
-| Breaking Protocol | 8.00% | ~229 |
+| A Hunk of Junk | 8.00% | ~230 |
+| Exceeding Capacity | 8.00% | ~230 |
+| Breaking Protocol | 8.00% | ~230 |
 | Man's Best Friend | 6.00% | ~172 |
 | Power Outage | 6.00% | ~172 |
 | Please Make it Stop! | 6.00% | ~172 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 460)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,866 (Ranked 155)  
+Progressed: 2,869 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
 | 2023-07-21 | 2,866 | 0 |
+| 2023-07-22 | 2,869 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

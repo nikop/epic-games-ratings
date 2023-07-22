@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-07-22T08:02:34.0651309+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T11:02:18.8479091+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1631,7 +1636,7 @@
       "Name": "E1M1",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "Everyone_is_here",
@@ -1711,7 +1716,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Kultprosvet",
@@ -1725,9 +1730,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 124
     },
     {
       "ID": "Miner",
@@ -1767,7 +1772,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "We_were_not_here",
@@ -1790,15 +1795,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:02:32.3114614+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:02:18.8479085+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:59:14.5810746+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:02:32.3114946+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:59:46.6115733+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:02:18.8479389+00:00"
 }

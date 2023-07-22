@@ -10,6 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.40% | ~52 |
 | Poetic Leader | 0.30% | ~39 |
 | Settler | 0.20% | ~26 |
+| Play a Single Player Game | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
-| Play a Single Player Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
 | Christianity | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,003 (Ranked 114)  
+Progressed: 13,004 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,003 | 5 |
+| 2023-07-22 | 13,004 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 258)  
 Sum: 1,783 (Ranked 204)  

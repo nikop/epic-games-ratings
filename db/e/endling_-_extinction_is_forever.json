@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -506,6 +506,11 @@
       "Time": "2023-07-22T10:00:31.3662823+00:00",
       "NumProgressed": 460,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T11:01:23.7121093+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -557,7 +562,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "TROP006",
@@ -581,7 +586,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "TROP009",
@@ -597,7 +602,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "TROP011",
@@ -629,7 +634,7 @@
       "Name": "Never Run Around",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TROP015",
@@ -685,7 +690,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "TROP022",
@@ -725,7 +730,7 @@
       "Name": "Lullaby",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "TROP027",
@@ -740,7 +745,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 3
     }
   ],
@@ -748,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:00:31.3662805+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:01:23.7121088+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.7590321+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:58:57.6987026+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:00:31.3663679+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:59:26.527974+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:01:23.7121368+00:00"
 }

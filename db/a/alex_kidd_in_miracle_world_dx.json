@@ -243,9 +243,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -299,9 +299,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "PET_DOG",
@@ -332,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:06:22.225825+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:07:02.692856+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.4255335+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:58:17.9901099+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:06:22.2258374+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:58:34.9847496+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:07:02.6928696+00:00"
 }

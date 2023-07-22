@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 55.00% | ~64 |
+| A Second Chance | 54.00% | ~64 |
 | Press-ganged | 40.00% | ~47 |
 | The Package | 23.00% | ~27 |
 | Randomized | 15.00% | ~18 |
@@ -42,21 +42,21 @@
 | Delayed | 2.00% | ~2 |
 | The Darkness Within | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
-| Making Contact | 0.90% | ~1 |
-| Loremaster | 0.90% | ~1 |
-| Adept | 0.90% | ~1 |
-| Talent Nurtured | 0.90% | ~1 |
-| Embellished | 0.90% | ~1 |
-| Huntress Unbound | 0.90% | ~1 |
-| Conqueror | 0.90% | ~1 |
-| Legacy of a Mercenary | 0.90% | ~1 |
-| A Real Battle | 0.90% | ~1 |
-| Celebrity | 0.90% | ~1 |
-| Ruiner | 0.90% | ~1 |
-| Life... Finds a Way | 0.90% | ~1 |
-| Wyrmslayer | 0.90% | ~1 |
-| Merchant Lord | 0.90% | ~1 |
-| Voracity Confronted | 0.90% | ~1 |
+| Making Contact | 0.80% | ~1 |
+| Loremaster | 0.80% | ~1 |
+| Adept | 0.80% | ~1 |
+| Talent Nurtured | 0.80% | ~1 |
+| Embellished | 0.80% | ~1 |
+| Huntress Unbound | 0.80% | ~1 |
+| Conqueror | 0.80% | ~1 |
+| Legacy of a Mercenary | 0.80% | ~1 |
+| A Real Battle | 0.80% | ~1 |
+| Celebrity | 0.80% | ~1 |
+| Ruiner | 0.80% | ~1 |
+| Life... Finds a Way | 0.80% | ~1 |
+| Wyrmslayer | 0.80% | ~1 |
+| Merchant Lord | 0.80% | ~1 |
+| Voracity Confronted | 0.80% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 298)  
+Progressed: 118 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-09 | 114 | 0 |
 | 2023-07-16 | 115 | 0 |
 | 2023-07-21 | 117 | 0 |
+| 2023-07-22 | 118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

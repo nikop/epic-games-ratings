@@ -2178,9 +2178,9 @@
       "ID": "CHIEF",
       "SetID": "64e5lgf",
       "Name": "CHIEF",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "CLEANER",
@@ -2283,8 +2283,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:06:20.6724939+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:07:00.9567339+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.586733+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:59:23.2380525+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:06:20.6725231+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:59:57.9864992+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:07:00.9567642+00:00"
 }

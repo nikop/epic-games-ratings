@@ -34,6 +34,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 0.10% | ~133 |
 | Archivist | 0.10% | ~133 |
 | The Free Encyclopedia | 0.10% | ~133 |
+| Ultimate Collector | 0.10% | ~133 |
 | Basic in Bulk | 0.10% | ~133 |
 | Demand for Supplies | 0.10% | ~133 |
 | Locally Sourced | 0.10% | ~133 |
@@ -42,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.10% | ~133 |
 | Flying off the Shelves | 0.10% | ~133 |
 | Industrial Evolution | 0.10% | ~133 |
+| Oligarch Monarch | 0.10% | ~133 |
 | Where it Hurts | 0.10% | ~133 |
 | This Power Level...! | 0.10% | ~133 |
 | Omae wa Mou Shindeiru | 0.10% | ~133 |
@@ -79,10 +81,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 0.10% | ~133 |
 | Accomplished Merchant | 0.10% | ~133 |
 | Master Merchant | 0.10% | ~133 |
+| Merchant Extraordinaire | 0.10% | ~133 |
 | Miracle Alchemist | 0.10% | ~133 |
 | Dungeon Imports | 0.10% | ~133 |
 | Laden with Loot | 0.10% | ~133 |
 | Bountiful Harvest | 0.10% | ~133 |
+| Anything not Nailed Down | 0.10% | ~133 |
 | Through Repetition, Perfection | 0.10% | ~133 |
 | Natural 20 | 0.10% | ~133 |
 | Seasoned Journeyman | 0.10% | ~133 |
@@ -96,6 +100,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~133 |
 | Glittering Collection | 0.10% | ~133 |
 | Treasure Trove | 0.10% | ~133 |
+| Marvels from the World Over | 0.10% | ~133 |
 | Moment of Respite | 0.10% | ~133 |
 | Capitalism Ho! | 0.10% | ~133 |
 | Black Friday Special | 0.10% | ~133 |
@@ -112,14 +117,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.10% | ~133 |
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
-| Ultimate Collector | 0.00% | ~0 |
-| Oligarch Monarch | 0.00% | ~0 |
 | Capitalist Camaraderie | 0.00% | ~0 |
-| Merchant Extraordinaire | 0.00% | ~0 |
-| Anything not Nailed Down | 0.00% | ~0 |
-| Marvels from the World Over | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,009 (Ranked 61)  
+Progressed: 133,012 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
 | 2023-07-21 | 132,985 | 122 |
-| 2023-07-22 | 133,009 | 122 |
+| 2023-07-22 | 133,012 | 122 |
 ## Awards
 Max (Great for Beginners): 4,668  (Ranked 69)  
-Sum: 26,955 (Ranked 46)  
+Sum: 26,957 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): 23
 | This game is Relaxing | 3,983 |
 | This game has Quickly Understood Controls | 3,973 |
 | This game has Diverse Characters | 3,830 |
-| This game is Highly Recommended | 3,710 |
+| This game is Highly Recommended | 3,712 |
 | This game has Easy Combat | 3,655 |
 | This game has Playful Visuals | 3,136 |
 | This game has Inclusive Character Customization | 22 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 23
 | 2023-07-19 | 3.99 | - | 4,665 | 26,942 |
 | 2023-07-20 | 3.99 | - | 4,668 | 26,950 |
 | 2023-07-21 | 3.99 | - | 4,668 | 26,955 |
+| 2023-07-22 | 3.99 | - | 4,668 | 26,957 |

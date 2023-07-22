@@ -5224,18 +5224,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39635,
       "NumberOfAwardsMax": 21154
+    },
+    {
+      "Time": "2023-07-22T10:57:51.0240696+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39670,
+      "NumberOfAwardsMax": 21184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39635,
-  "NumberOfAwardsMax": 21154,
+  "NumberOfAwards": 39670,
+  "NumberOfAwardsMax": 21184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21154
+      "Count": 21184
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5283,13 +5289,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 841
+      "Count": 845
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 885
+      "Count": 886
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5304,7 +5310,7 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288259,
+  "EOS_Progressed": 288263,
   "EOS_Completed": 433,
   "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 6,
@@ -15259,6 +15265,11 @@
       "Time": "2023-07-22T10:04:11.1538277+00:00",
       "NumProgressed": 288259,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-22T11:04:28.1905612+00:00",
+      "NumProgressed": 288263,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15270,7 +15281,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34591
+      "UsersEstimate": 34592
     },
     {
       "ID": "PFA_10",
@@ -15326,7 +15337,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25943
+      "UsersEstimate": 25944
     },
     {
       "ID": "PFA_17",
@@ -15358,7 +15369,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11530
+      "UsersEstimate": 11531
     },
     {
       "ID": "PFA_20",
@@ -15454,7 +15465,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25943
+      "UsersEstimate": 25944
     },
     {
       "ID": "PFA_31",
@@ -15550,7 +15561,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11530
+      "UsersEstimate": 11531
     },
     {
       "ID": "PFA_42",
@@ -15598,7 +15609,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31708
+      "UsersEstimate": 31709
     },
     {
       "ID": "PFA_7",
@@ -15614,7 +15625,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25943
+      "UsersEstimate": 25944
     },
     {
       "ID": "PFA_9",
@@ -15629,16 +15640,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288259,
+      "Progressed": 288263,
       "Completed": 433
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-22T04:59:16.0301624+00:00",
-  "LastChanged_Achievements": "2023-07-22T10:04:11.1538271+00:00",
+  "LastChanged": "2023-07-22T10:57:51.0240695+00:00",
+  "LastChanged_Achievements": "2023-07-22T11:04:28.1905606+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:57:38.8451312+00:00",
-  "LastUpdate_Achievements": "2023-07-22T10:04:11.153927+00:00"
+  "LastUpdate_Ratings": "2023-07-22T10:57:51.0240703+00:00",
+  "LastUpdate_Achievements": "2023-07-22T11:04:28.1906553+00:00"
 }
