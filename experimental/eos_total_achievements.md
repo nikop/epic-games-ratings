@@ -423,6 +423,7 @@
 | [Gravitar Recharged](../games/g/gravitar_recharged.md) | 19 | 1,000 |
 | [House In The Hollow](../games/h/house_in_the_hollow.md) | 19 | 1,000 |
 | [Lamentum](../games/l/lamentum.md) | 19 | 1,000 |
+| [Neon Noodles - Cyberpunk Kitchen Automation](../games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 19 | 1,000 |
 | [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
 | [Atari Mania](../games/a/atari_mania.md) | 18 | 1,000 |

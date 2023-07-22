@@ -20,7 +20,7 @@
 | 18 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 11.11% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.88% |
+| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.74% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -30,7 +30,7 @@
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
-| 31 | [Scorn](games/s/scorn.md) | 7.04% |
+| 31 | [Scorn](games/s/scorn.md) | 7.03% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.99% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -43,12 +43,12 @@
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 44 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.63% |
+| 44 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.59% |
 | 46 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
-| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.56% |
@@ -114,7 +114,7 @@
 | 112 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 113 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 113 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 115 | [Haven](games/h/haven.md) | 0.68% |
+| 115 | [Haven](games/h/haven.md) | 0.67% |
 | 116 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 117 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
@@ -378,6 +378,7 @@
 | 239 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
 | 239 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
 | 239 | [MythForce](games/m/mythforce.md) | 0.00% |
+| 239 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 0.00% |
 | 239 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |
 | 239 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
 | 239 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
@@ -504,4 +505,4 @@
 | 239 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 239 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 239 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,932 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,933 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
