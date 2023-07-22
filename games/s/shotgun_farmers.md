@@ -8,7 +8,7 @@
 | Aspairagus | 56.00% | ~97 |
 | First Blood | 54.00% | ~121 |
 | Triple Kill | 54.00% | ~121 |
-| Survivor | 52.00% | ~90 |
+| Survivor | 53.00% | ~92 |
 | No Asperascope | 49.00% | ~110 |
 | Cornivore | 49.00% | ~110 |
 | I Believe I Can Fly | 46.00% | ~103 |
@@ -21,8 +21,8 @@
 | Grave Digger | 23.00% | ~40 |
 | Drinking Problem | 21.00% | ~47 |
 | Professional Survivor | 20.00% | ~35 |
+| Quick-Draw Pod | 18.00% | ~31 |
 | Pork Chop Express | 17.00% | ~38 |
-| Quick-Draw Pod | 17.00% | ~30 |
 | Carrocketeer | 13.00% | ~29 |
 | Oh My Gourd | 13.00% | ~23 |
 | Skin Of Your Teeth | 12.00% | ~27 |

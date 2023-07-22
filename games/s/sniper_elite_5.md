@@ -5,6 +5,7 @@ Rating: 4.40 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kraken Sleeps | 4.00% | ~133 |
 | Climbing the Ladder | 3.00% | ~100 |
 | Liberté | 3.00% | ~100 |
 | Meeting Resistance | 3.00% | ~100 |
@@ -18,7 +19,6 @@ Rating: 4.40 (Ranked 691)
 | Change the Channel | 3.00% | ~100 |
 | Taking it back | 3.00% | ~100 |
 | Target America | 3.00% | ~100 |
-| The Kraken Sleeps | 3.00% | ~100 |
 | No Stone Unturned | 2.00% | ~66 |
 | Opposing Force | 2.00% | ~66 |
 | Organ Grinder | 2.00% | ~66 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 691)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,324 (Ranked 148)  
+Progressed: 3,325 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 9 (0.27%) (Ranked 156)
 | 2023-07-19 | 3,307 | 9 |
 | 2023-07-20 | 3,314 | 9 |
 | 2023-07-21 | 3,319 | 9 |
-| 2023-07-22 | 3,324 | 9 |
+| 2023-07-22 | 3,325 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -448,8 +448,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:04:40.0974775+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:05:05.3257597+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:06.0430239+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:59:08.3567227+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:04:40.0975178+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:59:28.1492686+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:05:05.3258025+00:00"
 }

@@ -6,21 +6,21 @@ Rating: 4.56 (Ranked 460)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 22.00% | ~634 |
-| Infinite Growth... | 19.00% | ~547 |
-| Sputnik 2049 | 19.00% | ~547 |
-| Without Breaking Some Eggs... | 18.00% | ~518 |
-| Space Society | 13.00% | ~374 |
-| A Thousand Strong | 13.00% | ~374 |
-| Ready for a New World | 13.00% | ~374 |
+| Infinite Growth... | 19.00% | ~548 |
+| Sputnik 2049 | 19.00% | ~548 |
+| Without Breaking Some Eggs... | 18.00% | ~519 |
+| Space Society | 13.00% | ~375 |
+| A Thousand Strong | 13.00% | ~375 |
+| Ready for a New World | 13.00% | ~375 |
 | Permanent Redesigns | 11.00% | ~317 |
 | Fully Recycled | 10.00% | ~288 |
 | Ain't Nobody Got Time for That | 10.00% | ~288 |
 | The Ship of Theseus | 10.00% | ~288 |
 | Guy de Borderlands | 9.00% | ~259 |
 | Hope Seeker | 9.00% | ~259 |
-| A Hunk of Junk | 8.00% | ~230 |
-| Exceeding Capacity | 8.00% | ~230 |
-| Breaking Protocol | 8.00% | ~230 |
+| A Hunk of Junk | 8.00% | ~231 |
+| Exceeding Capacity | 8.00% | ~231 |
+| Breaking Protocol | 8.00% | ~231 |
 | Man's Best Friend | 6.00% | ~173 |
 | Power Outage | 6.00% | ~173 |
 | Please Make it Stop! | 6.00% | ~173 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 460)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,880 (Ranked 156)  
+Progressed: 2,882 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
 | 2023-07-21 | 2,866 | 0 |
-| 2023-07-22 | 2,880 | 0 |
+| 2023-07-22 | 2,882 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

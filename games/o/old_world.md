@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
+| Oracle | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
-| Oracle | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Pyramids | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |

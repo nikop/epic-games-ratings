@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1071,6 +1071,11 @@
       "Time": "2023-07-22T14:04:26.8195476+00:00",
       "NumProgressed": 331,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T20:04:59.7606514+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1096,9 +1101,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 203
     },
     {
       "ID": "BigPlane",
@@ -1114,7 +1119,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Calculated",
@@ -1122,7 +1127,7 @@
       "Name": "Calculated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Close",
@@ -1146,7 +1151,7 @@
       "Name": "Debtor",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1330,7 +1335,7 @@
       "Name": "Race Against Time",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Reaction",
@@ -1354,7 +1359,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Restructuring",
@@ -1400,9 +1405,9 @@
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "TransportHub",
@@ -1417,14 +1422,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:04:35.4273728+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:04:59.7606504+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:57:22.708343+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:04:35.4274134+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:57:17.1065041+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:04:59.7607022+00:00"
 }

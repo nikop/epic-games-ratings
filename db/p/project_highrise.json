@@ -487,9 +487,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_apartments_2",
@@ -935,9 +935,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_profit_1",
@@ -991,9 +991,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_restaurants_4",
@@ -1095,9 +1095,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_trash_1",
@@ -1167,9 +1167,9 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
@@ -1184,8 +1184,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:03:57.4917525+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:04:15.3570798+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:58:39.7132249+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:03:57.4918613+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:58:51.5874593+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:04:15.3571902+00:00"
 }

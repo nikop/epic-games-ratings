@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~139 |
+| In the Black | 58.00% | ~142 |
 | Starting Skyward | 52.00% | ~127 |
 | Grime is Not Good | 44.00% | ~107 |
 | Campaign Launch | 39.00% | ~95 |
 | Floor Galore | 38.00% | ~93 |
-| Dinner Dash | 36.00% | ~88 |
+| Dinner Dash | 37.00% | ~90 |
 | Need a Consult | 35.00% | ~85 |
 | It's Technical | 34.00% | ~83 |
 | Upgrade Unlock | 33.00% | ~81 |
 | Delegate Maintenance | 32.00% | ~78 |
 | Proper Walls | 31.00% | ~76 |
-| Destination Destiny | 27.00% | ~66 |
+| Destination Destiny | 28.00% | ~68 |
 | Happy Tenants | 25.00% | ~61 |
+| Smooth Service | 24.00% | ~59 |
 | Your Prestige is Rising | 23.00% | ~56 |
 | Potent Potables | 23.00% | ~56 |
 | Retail Revenue | 23.00% | ~56 |
-| Smooth Service | 23.00% | ~56 |
+| Lux Living | 22.00% | ~54 |
 | Leveled Up Shops | 22.00% | ~54 |
-| Lux Living | 21.00% | ~51 |
 | People Mover | 21.00% | ~51 |
 | Emporium Empire | 20.00% | ~49 |
 | Get Electrified | 20.00% | ~49 |

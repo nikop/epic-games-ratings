@@ -4,7 +4,7 @@
   "ProductSlug": "risen-e8e55e",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "LastChanged": "2023-03-31T05:58:38.3860802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:08.4298972+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:57:49.5220539+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:06:32.2760848+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:57:52.713108+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:07:15.5424958+00:00"
 }

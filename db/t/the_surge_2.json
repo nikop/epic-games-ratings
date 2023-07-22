@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1668,6 +1668,11 @@
       "Time": "2023-07-22T19:03:30.9715891+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T20:03:43.9095736+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1687,7 +1692,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACHV_03",
@@ -1703,7 +1708,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHV_05",
@@ -1711,7 +1716,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_06",
@@ -1791,7 +1796,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_16",
@@ -1823,7 +1828,7 @@
       "Name": "Defense in Depth",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHV_20",
@@ -1831,7 +1836,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHV_21",
@@ -1847,7 +1852,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHV_23",
@@ -1855,7 +1860,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACHV_24",
@@ -1871,7 +1876,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHV_26",
@@ -1879,7 +1884,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "ACHV_27",
@@ -1887,7 +1892,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHV_28",
@@ -1911,7 +1916,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHV_31",
@@ -1943,7 +1948,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHV_35",
@@ -1951,7 +1956,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHV_36",
@@ -1967,7 +1972,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHV_38",
@@ -1983,7 +1988,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACHV_40",
@@ -1999,7 +2004,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACHV_42",
@@ -2031,15 +2036,15 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHV_46",
       "SetID": "8p5mlmc",
       "Name": "Unforeseeable Consequences",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHV_47",
@@ -2047,7 +2052,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_48",
@@ -2079,7 +2084,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_52",
@@ -2111,7 +2116,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_56",
@@ -2134,7 +2139,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1863,
       "Completed": 10
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:03:30.9715884+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:03:43.9095732+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:57:05.2395481+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:03:30.9716518+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:56:55.9801298+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:03:43.909647+00:00"
 }

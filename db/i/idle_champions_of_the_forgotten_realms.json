@@ -5194,9 +5194,9 @@
       "Count": 3308
     }
   ],
-  "EOS_Progressed": 214583,
+  "EOS_Progressed": 214597,
   "EOS_Completed": 2060,
-  "EOS_NewPlayers": 2662,
+  "EOS_NewPlayers": 2654,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -15189,6 +15189,11 @@
       "Time": "2023-07-22T19:07:21.7149287+00:00",
       "NumProgressed": 214583,
       "NumCompleted": 2060
+    },
+    {
+      "Time": "2023-07-22T20:08:14.3965381+00:00",
+      "NumProgressed": 214597,
+      "NumCompleted": 2060
     }
   ],
   "TotalAchievements": 512,
@@ -18414,9 +18419,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 429
     },
     {
       "ID": "objective_completed_80",
@@ -19295,21 +19300,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 180857,
+      "Progressed": 180871,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 214583,
+      "Progressed": 214597,
       "Completed": 2060
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-22T17:58:28.8928329+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:07:21.7149279+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:08:14.3965376+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:58:47.7113989+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:07:21.717541+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:59:01.3236593+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:08:14.3994484+00:00"
 }

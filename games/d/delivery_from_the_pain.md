@@ -86,7 +86,7 @@
 | Hey! Here I am | 0.00% | ~0 |
 | Science Frontier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 296)  
+Progressed: 127 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-15 | 118 | 0 |
 | 2023-07-16 | 119 | 0 |
 | 2023-07-21 | 125 | 0 |
-| 2023-07-22 | 126 | 0 |
+| 2023-07-22 | 127 | 0 |

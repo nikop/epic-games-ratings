@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -286,6 +286,11 @@
       "Time": "2023-07-22T16:05:21.993296+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T20:05:19.0433625+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -376,7 +381,7 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 120,
       "UsersEstimate": 8
     },
@@ -449,14 +454,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:04:52.0914954+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:05:19.0433507+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:57:21.8821438+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:04:52.0915101+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:57:16.1284814+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:05:19.0433802+00:00"
 }

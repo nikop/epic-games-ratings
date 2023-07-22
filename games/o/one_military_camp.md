@@ -8,6 +8,7 @@
 | First Step | 34.00% | ~17 |
 | Pathfinder | 4.00% | ~2 |
 | Green Energy | 4.00% | ~2 |
+| Indebted | 2.00% | ~1 |
 | Capitalism | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |
-| Indebted | 0.00% | ~0 |
 | Good payer | 0.00% | ~0 |
 | Self-sufficient | 0.00% | ~0 |
 | Food Tycoon | 0.00% | ~0 |

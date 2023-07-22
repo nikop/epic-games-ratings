@@ -14,8 +14,8 @@ Rating: 4.64 (Ranked 314)
 | A Method To His Madness | 52.00% | ~281 |
 | The New World | 49.00% | ~265 |
 | Gaze Into The Abyss | 48.00% | ~260 |
+| Open Sesame | 48.00% | ~260 |
 | Lock, Stock, And Barrel | 47.00% | ~254 |
-| Open Sesame | 47.00% | ~254 |
 | Sticky Fingers | 47.00% | ~254 |
 | Knives Out | 47.00% | ~254 |
 | Back In The Saddle | 46.00% | ~249 |

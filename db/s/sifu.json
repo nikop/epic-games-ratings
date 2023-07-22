@@ -5212,10 +5212,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10792,
       "NumberOfAwardsMax": 6294
+    },
+    {
+      "Time": "2023-07-22T20:00:12.2405648+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10794,
+      "NumberOfAwardsMax": 6294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10792,
+  "NumberOfAwards": 10794,
   "NumberOfAwardsMax": 6294,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5289,12 +5295,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 367
+      "Count": 369
     }
   ],
-  "EOS_Progressed": 711188,
+  "EOS_Progressed": 711194,
   "EOS_Completed": 12830,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14002,6 +14008,11 @@
       "Time": "2023-07-22T19:07:20.0137562+00:00",
       "NumProgressed": 711188,
       "NumCompleted": 12830
+    },
+    {
+      "Time": "2023-07-22T20:08:12.5791099+00:00",
+      "NumProgressed": 711194,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -14357,7 +14368,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14412,21 +14423,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20489,
+      "Progressed": 20495,
       "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711188,
+      "Progressed": 711194,
       "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-22T18:59:46.4515366+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:07:20.0137559+00:00",
+  "LastChanged": "2023-07-22T20:00:12.2405647+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:08:12.5791094+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:59:46.4515372+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:07:20.0138484+00:00"
+  "LastUpdate_Ratings": "2023-07-22T20:00:12.2405656+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:08:12.5792152+00:00"
 }

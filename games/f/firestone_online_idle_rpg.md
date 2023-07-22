@@ -5,15 +5,15 @@ Rating: 4.10 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,578 |
+| Victor | 93.00% | ~1,579 |
 | World Map | 79.00% | ~1,341 |
-| Temple of Eternals | 56.00% | ~950 |
-| Prestigious | 53.00% | ~899 |
+| Temple of Eternals | 56.00% | ~951 |
+| Prestigious | 53.00% | ~900 |
 | Fellowship Power | 41.00% | ~696 |
 | Guild Power | 25.00% | ~424 |
-| Prestigious x10 | 21.00% | ~356 |
-| The game is on | 20.00% | ~339 |
-| Exotic Merchant | 17.00% | ~288 |
+| Prestigious x10 | 21.00% | ~357 |
+| The game is on | 19.00% | ~323 |
+| Exotic Merchant | 17.00% | ~289 |
 | Dragon Clicker | 16.00% | ~272 |
 | Miner Clicker | 16.00% | ~272 |
 | Full Party | 15.00% | ~255 |
@@ -56,11 +56,11 @@ Rating: 4.10 (Ranked 890)
 | Lock And Load | 5.00% | ~85 |
 | Background Story | 4.00% | ~68 |
 | Sailor | 4.00% | ~68 |
+| The Alchemist | 4.00% | ~68 |
 | Active Member | 3.00% | ~51 |
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
 | Legendary | 3.00% | ~51 |
-| The Alchemist | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
 | Mythic Power | 1.00% | ~17 |
 | Gear Enchanting | 0.90% | ~15 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,697 (Ranked 170)  
+Progressed: 1,698 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-19 | 1,680 | 1 |
 | 2023-07-20 | 1,682 | 1 |
 | 2023-07-21 | 1,690 | 1 |
-| 2023-07-22 | 1,697 | 1 |
+| 2023-07-22 | 1,698 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

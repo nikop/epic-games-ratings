@@ -10,6 +10,7 @@
 | Complete 50 levels | 3.00% | ~1 |
 | Complete 100 levels | 3.00% | ~1 |
 | Complete 25 6x6 levels | 3.00% | ~1 |
+| Play for 5 hours | 3.00% | ~1 |
 | Use 10 hints | 3.00% | ~1 |
 | Use 20 hints | 3.00% | ~1 |
 | Use 50 hints | 3.00% | ~1 |
@@ -44,7 +45,6 @@
 | By Yourself 11x11 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |
 | By Yourself 13x13 | 0.00% | ~0 |
-| Play for 5 hours | 0.00% | ~0 |
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

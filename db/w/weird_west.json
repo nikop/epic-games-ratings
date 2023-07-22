@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1717,
+  "EOS_Progressed": 1718,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1425,6 +1425,11 @@
       "Time": "2023-07-22T19:04:50.0836702+00:00",
       "NumProgressed": 1717,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T20:05:16.5766072+00:00",
+      "NumProgressed": 1718,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1444,7 +1449,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1588,7 +1593,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1684,7 +1689,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1708,7 +1713,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_REVENANT",
@@ -1724,7 +1729,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1732,7 +1737,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1796,7 +1801,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1812,7 +1817,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1859,15 +1864,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1717,
+      "Progressed": 1718,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:04:50.0836696+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:05:16.5766061+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:59:10.6437199+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:04:50.0837209+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:59:29.9016928+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:05:16.5766551+00:00"
 }

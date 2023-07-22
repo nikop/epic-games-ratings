@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2699,9 +2699,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 987
     },
     {
       "ID": "RECYCLER",
@@ -2812,8 +2812,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:04:01.280803+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:04:19.7328955+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:58:56.2665202+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:04:01.280856+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:59:10.6522434+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:04:19.7329581+00:00"
 }

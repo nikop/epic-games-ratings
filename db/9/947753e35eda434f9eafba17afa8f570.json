@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -99,9 +99,9 @@
       "ID": "ACH_12_DONUT_TOSS",
       "SetID": "2k150c1",
       "Name": "Donut Professional",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_13_HIDE_AND_SEEK",
@@ -402,8 +402,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-22T19:07:05.5902204+00:00",
+  "LastChanged_Achievements": "2023-07-22T20:07:55.5369458+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-22T18:57:41.7659063+00:00",
-  "LastUpdate_Achievements": "2023-07-22T19:07:05.590253+00:00"
+  "LastUpdate_Ratings": "2023-07-22T19:57:40.809444+00:00",
+  "LastUpdate_Achievements": "2023-07-22T20:07:55.5370123+00:00"
 }
