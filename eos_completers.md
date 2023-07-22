@@ -21,21 +21,21 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.46% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.13% |
+| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.69% |
+| 23 | [Sonic Origins](games/s/sonic_origins.md) | 10.46% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.38% |
+| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 31 | [Scorn](games/s/scorn.md) | 7.02% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
-| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
-| 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -47,7 +47,7 @@
 | 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
 | 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
-| 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
+| 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
@@ -96,7 +96,7 @@
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 95 | [Five Dates](games/f/five_dates.md) | 1.44% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
-| 97 | [A Musical Story](games/a/a_musical_story.md) | 1.28% |
+| 97 | [A Musical Story](games/a/a_musical_story.md) | 1.27% |
 | 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
 | 99 | [Chorus](games/c/chorus.md) | 1.14% |
 | 100 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.12% |
@@ -119,11 +119,11 @@
 | 117 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
-| 120 | [Them and Us](games/t/them_and_us.md) | 0.60% |
+| 120 | [Them and Us](games/t/them_and_us.md) | 0.59% |
 | 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
-| 121 | [Train Valley](games/t/train_valley.md) | 0.58% |
-| 124 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 123 | [Train Valley](games/t/train_valley.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 126 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
