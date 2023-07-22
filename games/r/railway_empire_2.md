@@ -5,40 +5,40 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,214 |
-| A new Journey | 73.00% | ~1,198 |
+| Country Bumpkin | 74.00% | ~1,215 |
+| A new Journey | 73.00% | ~1,199 |
 | Departure | 72.00% | ~1,182 |
-| From X to Y | 71.00% | ~1,165 |
-| Way of Iron | 70.00% | ~1,149 |
-| Mystery Tour | 68.00% | ~1,116 |
-| We brake for nobody | 66.00% | ~1,083 |
+| From X to Y | 71.00% | ~1,166 |
+| Way of Iron | 69.00% | ~1,133 |
+| Mystery Tour | 68.00% | ~1,117 |
+| We brake for nobody | 66.00% | ~1,084 |
 | Brainstorm | 65.00% | ~1,067 |
-| Travel Company | 65.00% | ~1,067 |
-| Mind the Gap | 64.00% | ~1,050 |
-| All around the World | 61.00% | ~1,001 |
-| Right through the middle | 56.00% | ~919 |
+| Mind the Gap | 64.00% | ~1,051 |
+| Travel Company | 64.00% | ~1,051 |
+| All around the World | 61.00% | ~1,002 |
+| Right through the middle | 56.00% | ~920 |
 | Facility Manager | 53.00% | ~870 |
 | Poor Devil | 53.00% | ~870 |
-| Producer | 50.00% | ~820 |
-| Apprentice | 42.00% | ~689 |
+| Producer | 50.00% | ~821 |
+| Apprentice | 42.00% | ~690 |
 | Bridge Builder | 41.00% | ~673 |
 | Access granted | 34.00% | ~558 |
 | Going once, going twice, sold | 34.00% | ~558 |
 | Stoker | 33.00% | ~542 |
 | Bull and bear | 33.00% | ~542 |
 | Full Steam ahead | 31.00% | ~509 |
-| Financial Shark | 30.00% | ~492 |
+| Financial Shark | 30.00% | ~493 |
 | Socializer | 29.00% | ~476 |
-| All mine | 28.00% | ~459 |
-| Mole | 28.00% | ~459 |
+| All mine | 28.00% | ~460 |
+| Mole | 28.00% | ~460 |
 | Country Life | 26.00% | ~427 |
 | General Manager | 25.00% | ~410 |
 | Hostile Takeover | 25.00% | ~410 |
-| Seven at one stroke | 23.00% | ~377 |
+| Seven at one stroke | 23.00% | ~378 |
 | Trailblazer | 20.00% | ~328 |
 | Breaking Ground | 20.00% | ~328 |
 | Traffic Junction | 19.00% | ~312 |
-| Traffic Jam | 18.00% | ~295 |
+| Traffic Jam | 18.00% | ~296 |
 | Networker | 17.00% | ~279 |
 | Assimilated | 16.00% | ~263 |
 | Resistance is futile | 15.00% | ~246 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 576)
 | European Union | 0.40% | ~7 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,641 (Ranked 170)  
+Progressed: 1,642 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-19 | 1,613 | 0 |
 | 2023-07-20 | 1,620 | 0 |
 | 2023-07-21 | 1,640 | 0 |
-| 2023-07-22 | 1,641 | 0 |
+| 2023-07-22 | 1,642 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

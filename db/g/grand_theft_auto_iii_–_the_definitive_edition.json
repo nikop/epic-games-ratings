@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7040,
+  "EOS_Progressed": 7041,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -5827,6 +5827,11 @@
       "Time": "2023-07-22T00:04:29.7185056+00:00",
       "NumProgressed": 7040,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-22T02:06:17.4691886+00:00",
+      "NumProgressed": 7041,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5838,7 +5843,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "ACH02",
@@ -5846,7 +5851,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "ACH03",
@@ -6069,7 +6074,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7040,
+      "Progressed": 7041,
       "Completed": 41
     }
   ],
@@ -6077,8 +6082,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:04:29.7185052+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:06:17.4691881+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:58:03.0895402+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:04:29.7185607+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:59:11.7844786+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:06:17.469247+00:00"
 }

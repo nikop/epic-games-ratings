@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5188,10 +5188,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10783,
       "NumberOfAwardsMax": 6290
+    },
+    {
+      "Time": "2023-07-22T02:00:40.6035544+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10784,
+      "NumberOfAwardsMax": 6290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10783,
+  "NumberOfAwards": 10784,
   "NumberOfAwardsMax": 6290,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5229,7 +5235,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 552
+      "Count": 553
     },
     {
       "Text": "This game is Relaxing",
@@ -5268,9 +5274,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711074,
+  "EOS_Progressed": 711080,
   "EOS_Completed": 12830,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13888,6 +13894,11 @@
       "Time": "2023-07-22T00:06:15.5745138+00:00",
       "NumProgressed": 711074,
       "NumCompleted": 12830
+    },
+    {
+      "Time": "2023-07-22T02:08:36.4362658+00:00",
+      "NumProgressed": 711080,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -13899,7 +13910,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "02_Vengeance_H1",
@@ -13907,7 +13918,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "03_Vengeance_H2",
@@ -13915,7 +13926,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "04_Vengeance_H3",
@@ -13923,7 +13934,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "05_Vengeance_H4",
@@ -14075,7 +14086,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -14083,7 +14094,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "25_ShrineMind",
@@ -14099,7 +14110,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "27_ShrineBody",
@@ -14163,7 +14174,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "35_WideStrike",
@@ -14187,7 +14198,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -14298,21 +14309,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20375,
+      "Progressed": 20381,
       "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711074,
+      "Progressed": 711080,
       "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:06:15.5745135+00:00",
+  "LastChanged": "2023-07-22T02:00:40.6035542+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:08:36.4362652+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:59:04.1702174+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:06:15.5746089+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:00:40.6035549+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:08:36.4363687+00:00"
 }

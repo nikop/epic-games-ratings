@@ -2,9 +2,9 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.91,
+  "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -122,6 +122,11 @@
       "Time": "2023-07-11T18:05:22.8668678+00:00",
       "NumProgressed": 209,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T02:07:57.1635659+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -149,7 +154,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_Hexy",
@@ -173,7 +178,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_Notes",
@@ -181,7 +186,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Achievement_Prickly",
@@ -211,17 +216,17 @@
       "ID": "Achievement_Scorchy",
       "SetID": "cn6a29l",
       "Name": "Fire extinguisher",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_Skull",
       "SetID": "cn6a29l",
       "Name": "Challenge seeker",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -283,17 +288,17 @@
       "ID": "Achievement_float",
       "SetID": "cn6a29l",
       "Name": "Floater",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "Achievement_hat",
       "SetID": "cn6a29l",
       "Name": "Hat lover",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "Achievement_healthup",
@@ -315,9 +320,9 @@
       "ID": "Achievement_hubworld",
       "SetID": "cn6a29l",
       "Name": "Hubworld fan",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_mirrormatch",
@@ -333,15 +338,15 @@
       "Name": "Pacifist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement_perfectionist",
       "SetID": "cn6a29l",
       "Name": "Perfectionist",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement_photofirstperson",
@@ -380,7 +385,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 4
     }
   ],
@@ -388,8 +393,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:05:38.4159867+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:07:57.1635654+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.9218632+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:59:50.9087014+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:05:38.4160096+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:01:52.2915039+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:07:57.1635885+00:00"
 }

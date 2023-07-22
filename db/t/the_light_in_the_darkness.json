@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1988,
-  "EOS_Completed": 172,
-  "EOS_NewPlayers": 62,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.65,
+  "EOS_Completed": 173,
+  "EOS_NewPlayers": 60,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 8.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4113,6 +4113,11 @@
       "Time": "2023-07-21T23:03:34.5595261+00:00",
       "NumProgressed": 1988,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-07-22T02:04:24.8743265+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 12,
@@ -4170,9 +4175,9 @@
       "ID": "Jude",
       "SetID": "b40dflc",
       "Name": "Jude",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 258
     },
     {
       "ID": "Le Juif et la France",
@@ -4210,9 +4215,9 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
@@ -4220,15 +4225,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 1988,
-      "Completed": 172
+      "Completed": 173
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:03:10.5129908+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:04:24.8743259+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:59:33.1825719+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:03:10.513025+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:01:25.1974951+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:04:24.8743646+00:00"
 }

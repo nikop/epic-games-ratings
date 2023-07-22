@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-07-21T20:06:51.3106828+00:00",
       "NumProgressed": 473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T02:08:34.3526983+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1035,7 +1040,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Chapter10",
@@ -1115,7 +1120,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Collectibles2",
@@ -1185,9 +1190,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 133
     },
     {
       "ID": "Murderer",
@@ -1298,14 +1303,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:06:13.6142736+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:08:34.3526978+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.9740017+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:57:57.3332567+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:06:13.6143087+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:59:05.1226681+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:08:34.3527303+00:00"
 }

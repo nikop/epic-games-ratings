@@ -13,17 +13,17 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 31.00% | ~930 |
 | Purging Spree | 25.00% | ~750 |
 | Blood for the Blood God! | 19.00% | ~570 |
+| Friendly Fire | 18.00% | ~540 |
 | Surgical Excision | 17.00% | ~510 |
-| Friendly Fire | 17.00% | ~510 |
 | Bloodless | 17.00% | ~510 |
-| Honoured Battle-Brother | 13.00% | ~390 |
+| Honoured Battle-Brother | 12.00% | ~360 |
 | The Emperor Protects | 12.00% | ~360 |
 | Nemesis Master | 12.00% | ~360 |
-| Gunmaster | 12.00% | ~360 |
 | A Foul Creche | 12.00% | ~360 |
-| Opportunist | 9.00% | ~270 |
+| Gunmaster | 11.00% | ~330 |
 | Efficient Killer | 9.00% | ~270 |
 | Just a Scratch | 9.00% | ~270 |
+| Opportunist | 8.00% | ~240 |
 | Hold Your Ground | 7.00% | ~210 |
 | A Gift Spurned | 5.00% | ~150 |
 | Daemonkeeper | 4.00% | ~120 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,000 (Ranked 151)  
+Progressed: 3,001 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-19 | 2,979 | 0 |
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
+| 2023-07-22 | 3,001 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 264)  
 Sum: 451 (Ranked 304)  

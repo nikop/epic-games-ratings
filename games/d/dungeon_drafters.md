@@ -7,7 +7,7 @@
 | Treasure Hunting | 39.00% | ~23 |
 | Might be useful… | 39.00% | ~23 |
 | Friend! | 34.00% | ~20 |
-| Uncut Gem | 31.00% | ~18 |
+| Uncut Gem | 32.00% | ~19 |
 | Shine! | 29.00% | ~17 |
 | Setting Off | 25.00% | ~15 |
 | Clear as Water | 24.00% | ~14 |

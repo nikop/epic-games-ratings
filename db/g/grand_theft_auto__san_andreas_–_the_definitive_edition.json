@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 11163,
+  "EOS_Progressed": 11165,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6955,6 +6955,11 @@
       "Time": "2023-07-22T00:06:14.2345509+00:00",
       "NumProgressed": 11163,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T02:08:35.2173642+00:00",
+      "NumProgressed": 11165,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6966,7 +6971,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9044
     },
     {
       "ID": "ACH02",
@@ -6982,7 +6987,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH04",
@@ -7062,7 +7067,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACH14",
@@ -7190,7 +7195,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ACH30",
@@ -7245,7 +7250,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11163,
+      "Progressed": 11165,
       "Completed": 31
     }
   ],
@@ -7253,8 +7258,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-21T00:01:09.0851249+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:06:14.2345505+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:08:35.2173637+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-22T00:00:13.5820103+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:06:14.2346183+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:02:20.5974945+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:08:35.2174347+00:00"
 }

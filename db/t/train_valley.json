@@ -5,9 +5,9 @@
   "Ranking_Rating": 601,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,11 +93,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -443,6 +443,11 @@
       "Time": "2023-07-21T22:04:22.7328109+00:00",
       "NumProgressed": 341,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T02:04:30.8910323+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -462,7 +467,7 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "03_philatelist",
@@ -484,17 +489,17 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 168
     },
     {
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 150
     },
     {
       "ID": "07_europe",
@@ -582,15 +587,15 @@
       "Name": "Builder",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "19_justintime",
@@ -606,7 +611,7 @@
       "Name": "Sabotage",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "21_missed",
@@ -622,15 +627,15 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 250
     },
     {
       "ID": "24_mega",
@@ -684,9 +689,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "31_chancellor",
@@ -718,7 +723,7 @@
       "Name": "Need to think",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "35_achtung",
@@ -750,7 +755,7 @@
       "Name": "Chuck Norris",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "39_salesman",
@@ -765,15 +770,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:03:14.7683419+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:04:30.8910317+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:57:50.2209009+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:03:14.7683751+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:58:55.3210393+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:04:30.8910662+00:00"
 }

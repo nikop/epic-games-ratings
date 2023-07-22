@@ -6,41 +6,41 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flawless Victory | 15.00% | ~16 |
-| That'll Leave a Mark | 15.00% | ~16 |
-| Faceroll the Bones | 14.00% | ~15 |
-| Hit 'Em Where It Hurts | 14.00% | ~15 |
+| Faceroll the Bones | 14.00% | ~16 |
+| First Strike | 14.00% | ~16 |
+| Flawless Victory | 14.00% | ~16 |
+| Hit 'Em Where It Hurts | 14.00% | ~16 |
+| That'll Leave a Mark | 14.00% | ~16 |
 | Debuff Dogpile | 13.00% | ~14 |
-| First Strike | 13.00% | ~14 |
 | Perk Shard Punch Card | 12.00% | ~13 |
 | Ten Steps from the Grave | 12.00% | ~13 |
 | Cold-Blooded Critters | 10.00% | ~11 |
 | Spending Spree | 10.00% | ~11 |
 | Everything Must Go! | 9.00% | ~10 |
 | Mushroom Madness! | 9.00% | ~10 |
-| Deadication | 8.00% | ~8 |
-| The Harder They Fall | 8.00% | ~8 |
-| Horder Better Faster Stronger | 8.00% | ~8 |
-| Next Time on MythForce... | 8.00% | ~8 |
-| On this Episode! | 8.00% | ~8 |
-| The Fourth Gate | 7.00% | ~7 |
-| Season Finale | 5.00% | ~5 |
+| Deadication | 7.00% | ~8 |
+| The Harder They Fall | 7.00% | ~8 |
+| Horder Better Faster Stronger | 7.00% | ~8 |
+| Next Time on MythForce... | 7.00% | ~8 |
+| On this Episode! | 7.00% | ~8 |
+| The Fourth Gate | 6.00% | ~7 |
+| Season Finale | 5.00% | ~6 |
 | We've Got a Kaiju on the Field | 0.90% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 301)  
+Progressed: 111 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
-| 2023-07-22 | 106 | 0 |
+| 2023-07-22 | 111 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
-Sum: 225 (Ranked 350)  
+Sum: 226 (Ranked 350)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -52,8 +52,8 @@ Diff (max vs sum): 98
 | This game is Great for Beginners | 24 |
 | This game has Challenging Combat | 24 |
 | This game has Amazing Storytelling | 23 |
+| This game is Relaxing | 21 |
 | This game is Extremely Fun | 20 |
-| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -127,3 +127,4 @@ Diff (max vs sum): 98
 | 2023-06-22 | 4.50 | - | 32 | 222 |
 | 2023-07-08 | 4.50 | - | 32 | 225 |
 | 2023-07-19 | 4.49 | - | 32 | 225 |
+| 2023-07-22 | 4.49 | - | 32 | 226 |

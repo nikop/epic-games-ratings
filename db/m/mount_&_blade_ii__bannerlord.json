@@ -5811,9 +5811,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56330,
+  "EOS_Progressed": 56341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15401,6 +15401,11 @@
       "Time": "2023-07-22T00:06:15.7186304+00:00",
       "NumProgressed": 56330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T02:08:36.7439882+00:00",
+      "NumProgressed": 56341,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15412,7 +15417,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6198
     },
     {
       "ID": "Apple of my eye",
@@ -15420,7 +15425,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7888
     },
     {
       "ID": "Bannerlord",
@@ -15428,7 +15433,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12395
     },
     {
       "ID": "Best served cold",
@@ -15452,7 +15457,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "Catch",
@@ -15468,7 +15473,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Crackshot",
@@ -15484,7 +15489,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Duelist",
@@ -15492,7 +15497,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "Dynasty",
@@ -15500,7 +15505,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "Entrepreneur",
@@ -15540,7 +15545,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6760
+      "UsersEstimate": 6761
     },
     {
       "ID": "Great Granny",
@@ -15572,7 +15577,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12395
     },
     {
       "ID": "I can do it",
@@ -15580,7 +15585,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8450
+      "UsersEstimate": 8451
     },
     {
       "ID": "I spit on your grave",
@@ -15588,7 +15593,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "Jack of All Trades",
@@ -15604,7 +15609,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9013
+      "UsersEstimate": 9015
     },
     {
       "ID": "Kingslayer",
@@ -15636,7 +15641,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17462
+      "UsersEstimate": 17466
     },
     {
       "ID": "Lawbringer",
@@ -15644,7 +15649,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20846
     },
     {
       "ID": "Lawmaker",
@@ -15652,7 +15657,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12395
     },
     {
       "ID": "Long live the Empire",
@@ -15668,7 +15673,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "Minor Clan",
@@ -15692,7 +15697,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Real Estate",
@@ -15756,7 +15761,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "The king is pleased",
@@ -15764,7 +15769,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9576
+      "UsersEstimate": 9578
     },
     {
       "ID": "This Is Our Land",
@@ -15772,7 +15777,7 @@
       "Name": "This Is Our Land",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "This is Sparta",
@@ -15788,7 +15793,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11829
+      "UsersEstimate": 11832
     },
     {
       "ID": "Undercover",
@@ -15804,7 +15809,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -15812,22 +15817,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56330,
+      "Progressed": 56341,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-21T23:59:46.6955829+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:06:15.71863+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:08:36.7439877+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:59:46.6955835+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:06:15.7187378+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:01:47.7620051+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:08:36.7440977+00:00"
 }

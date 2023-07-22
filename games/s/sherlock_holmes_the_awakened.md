@@ -34,7 +34,7 @@ Rating: 4.64 (Ranked 314)
 | Big Breakthrough | 14.00% | ~75 |
 | Reawakened | 6.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 213)  
+Progressed: 537 (Ranked 214)  
 Completed: 25 (4.66%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |

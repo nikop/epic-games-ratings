@@ -8,10 +8,10 @@
 | A bottomless pit | 86.00% | ~61 |
 | Pigeon | 82.00% | ~58 |
 | Baited | 69.00% | ~49 |
-| "Swoosh" | 58.00% | ~41 |
-| The light at the end of the tunnel | 56.00% | ~40 |
+| "Swoosh" | 59.00% | ~42 |
+| The light at the end of the tunnel | 58.00% | ~41 |
 | Splash! | 56.00% | ~40 |
-| Masochistic | 49.00% | ~35 |
+| Masochistic | 51.00% | ~36 |
 | Soft skin | 42.00% | ~30 |
 | Squid game | 35.00% | ~25 |
 | Sensitive soul | 31.00% | ~22 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 330)  
+Progressed: 71 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

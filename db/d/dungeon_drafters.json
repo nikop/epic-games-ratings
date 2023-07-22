@@ -433,9 +433,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -626,8 +626,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-21T23:01:35.9878053+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:02:49.302664+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:10.1042982+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:57:28.8200767+00:00",
-  "LastUpdate_Achievements": "2023-07-21T23:01:35.9878432+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:58:26.2098957+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:02:49.3027704+00:00"
 }

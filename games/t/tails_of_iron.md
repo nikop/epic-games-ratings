@@ -20,8 +20,8 @@ Rating: 4.52 (Ranked 519)
 | Smithy Ready to Craft | 45.00% | ~796 |
 | Fix the Travellers Wagon | 44.00% | ~778 |
 | Complete Elder Faction | 40.00% | ~708 |
+| End of the Mozis | 38.00% | ~672 |
 | Throne Room Fit For A King | 38.00% | ~672 |
-| End of the Mozis | 37.00% | ~655 |
 | Meet the Creatures from the Deep | 36.00% | ~637 |
 | Return Power To The Depths | 36.00% | ~637 |
 | Defeat Ratnor Rodentson | 29.00% | ~513 |

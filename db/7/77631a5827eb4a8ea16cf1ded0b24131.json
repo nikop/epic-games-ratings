@@ -4,7 +4,7 @@
   "ProductSlug": "lifespace-traveler-1cc49a",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "ACH_ISABELLE",
       "SetID": "d3andh",
       "Name": "Isabelle\u0027s Confidant",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LIGHTNING",
@@ -95,17 +95,17 @@
       "ID": "ACH_SPIDER",
       "SetID": "d3andh",
       "Name": "Spider Bot Commander",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "d3andh",
       "Name": "Statue Smasher",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SYD",
@@ -119,9 +119,9 @@
       "ID": "ACH_VALENTINE",
       "SetID": "d3andh",
       "Name": "Artificial Lifeform",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_VITAL",
@@ -149,8 +149,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T09:02:21.6744728+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:02:11.1505333+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:03:10.7089661+00:00",
   "LastUpdate_AppInfo": "2023-07-21T08:57:11.7976855+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:56:50.5085899+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:02:11.1505423+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:57:27.6569764+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:03:10.7089768+00:00"
 }

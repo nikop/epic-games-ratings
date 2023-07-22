@@ -8,15 +8,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,019 |
 | Project Arena | 4.00% | ~815 |
-| The Old Grandmaster | 2.00% | ~14,221 |
-| The Assault | 2.00% | ~14,221 |
-| The Hateful Pole Fighter | 2.00% | ~14,221 |
-| A Lady's Blood in the Snow | 2.00% | ~14,221 |
-| Life is your teacher | 2.00% | ~14,221 |
-| State of constant learning | 2.00% | ~14,221 |
-| Qi Gong: Breath | 2.00% | ~14,221 |
-| Lightning Hands | 2.00% | ~14,221 |
-| Rumble in the Hangar | 2.00% | ~14,221 |
+| The Old Grandmaster | 2.00% | ~14,222 |
+| The Assault | 2.00% | ~14,222 |
+| The Hateful Pole Fighter | 2.00% | ~14,222 |
+| A Lady's Blood in the Snow | 2.00% | ~14,222 |
+| Life is your teacher | 2.00% | ~14,222 |
+| State of constant learning | 2.00% | ~14,222 |
+| Qi Gong: Breath | 2.00% | ~14,222 |
+| Lightning Hands | 2.00% | ~14,222 |
+| Rumble in the Hangar | 2.00% | ~14,222 |
 | Lady Wing Chun | 1.00% | ~7,111 |
 | Furious Fists | 1.00% | ~7,111 |
 | Scareless | 1.00% | ~7,111 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,074 (Ranked 18)  
+Progressed: 711,080 (Ranked 18)  
 Completed: 12,830 (1.80%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,15 +150,15 @@ Completed: 12,830 (1.80%) (Ranked 83)
 | 2023-07-19 | 710,897 | 12,825 |
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
-| 2023-07-22 | 711,074 | 12,830 |
+| 2023-07-22 | 711,080 | 12,830 |
 ## Awards
 Max (Great Boss Battles): 6,290  (Ranked 53)  
-Sum: 10,783 (Ranked 78)  
+Sum: 10,784 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,290 |
-| This game has Diverse Characters | 552 |
+| This game has Diverse Characters | 553 |
 | This game has Challenging Combat | 532 |
 | This game has Quickly Understood Controls | 527 |
 | This game is Extremely Fun | 518 |
@@ -358,3 +358,4 @@ Diff (max vs sum): -25
 | 2023-07-19 | 4.82 | - | 6,282 | 10,770 |
 | 2023-07-20 | 4.82 | - | 6,288 | 10,781 |
 | 2023-07-21 | 4.82 | - | 6,290 | 10,783 |
+| 2023-07-22 | 4.82 | - | 6,290 | 10,784 |

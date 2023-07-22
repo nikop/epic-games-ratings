@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,385 |
-| What should I buy? | 84.00% | ~6,670 |
-| Focus! | 63.00% | ~5,003 |
-| Rescued Elder Ent | 63.00% | ~5,003 |
-| The End of the Gold Mane Knights | 48.00% | ~3,812 |
-| False Goddess, Disappear | 40.00% | ~3,176 |
-| Rules of Etiquette | 40.00% | ~3,176 |
-| Quick Movements | 34.00% | ~2,700 |
-| Inventory Management | 34.00% | ~2,700 |
-| The Fall of the Leonia Order | 30.00% | ~2,382 |
-| The Hero Killer | 28.00% | ~2,223 |
-| Go Home... | 27.00% | ~2,144 |
-| The Final Battle of the First Hero | 26.00% | ~2,065 |
-| Brain at Full Throttle | 23.00% | ~1,826 |
-| Rookies Welcome | 20.00% | ~1,588 |
+| The Legend Begins | 93.00% | ~7,389 |
+| What should I buy? | 84.00% | ~6,674 |
+| Focus! | 63.00% | ~5,005 |
+| Rescued Elder Ent | 63.00% | ~5,005 |
+| The End of the Gold Mane Knights | 48.00% | ~3,814 |
+| False Goddess, Disappear | 40.00% | ~3,178 |
+| Rules of Etiquette | 40.00% | ~3,178 |
+| Quick Movements | 34.00% | ~2,701 |
+| Inventory Management | 34.00% | ~2,701 |
+| The Fall of the Leonia Order | 30.00% | ~2,384 |
+| The Hero Killer | 28.00% | ~2,225 |
+| Go Home... | 27.00% | ~2,145 |
+| The Final Battle of the First Hero | 26.00% | ~2,066 |
+| Brain at Full Throttle | 23.00% | ~1,827 |
+| Rookies Welcome | 20.00% | ~1,589 |
 | Deadly Power | 16.00% | ~1,271 |
 | Castle Restoration Plans | 14.00% | ~1,112 |
 | The Dwarven Chandelier | 12.00% | ~953 |
 | Master of Speed | 9.00% | ~715 |
-| The Levitator | 6.00% | ~476 |
+| The Levitator | 6.00% | ~477 |
 | The God of Battle | 3.00% | ~238 |
 | Too Much of a Talker | 2.00% | ~159 |
 | The Skeleton King | 2.00% | ~159 |
 | Cold-Blooded | 0.80% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,941 (Ranked 121)  
+Progressed: 7,945 (Ranked 121)  
 Completed: 12 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 12 (0.15%) (Ranked 175)
 | 2023-07-19 | 7,918 | 12 |
 | 2023-07-20 | 7,924 | 12 |
 | 2023-07-21 | 7,941 | 12 |
+| 2023-07-22 | 7,945 | 12 |
 ## Awards
 Max (Diverse Characters): 117  (Ranked 315)  
 Sum: 769 (Ranked 261)  

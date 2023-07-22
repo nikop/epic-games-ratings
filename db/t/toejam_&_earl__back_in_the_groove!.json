@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55924,
+  "EOS_Progressed": 55930,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6027,6 +6027,11 @@
       "Time": "2023-07-21T23:05:20.137655+00:00",
       "NumProgressed": 55924,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T02:06:28.7221519+00:00",
+      "NumProgressed": 55930,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6046,7 +6051,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "BoomBox",
@@ -6126,7 +6131,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "FoolMeTwice",
@@ -6174,7 +6179,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "HFZGoober",
@@ -6198,7 +6203,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "IsThisPossible",
@@ -6294,7 +6299,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "RhythmStar",
@@ -6326,7 +6331,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "SecretLevel",
@@ -6334,7 +6339,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "StruckLove",
@@ -6374,7 +6379,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "TimelySplash",
@@ -6382,7 +6387,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "TotalBummer",
@@ -6429,7 +6434,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55924,
+      "Progressed": 55930,
       "Completed": 4
     }
   ],
@@ -6437,8 +6442,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:04:37.5276172+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:06:28.7221513+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:37.0395721+00:00",
-  "LastUpdate_Ratings": "2023-07-22T00:00:31.362182+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:04:37.5278087+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:02:41.6438171+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:06:28.7222367+00:00"
 }

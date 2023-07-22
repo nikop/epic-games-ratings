@@ -32,7 +32,7 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 1.00% | ~47 |
 | Head for Heights | 0.60% | ~28 |
 | Lake Me up Before You Go Go | 0.50% | ~24 |
-| Fish upon a Star | 0.40% | ~16 |
+| Fish upon a Star | 0.50% | ~20 |
 | Cache and Carry | 0.30% | ~12 |
 | Golden Ridge Ranger | 0.20% | ~9 |
 | Trollsporet Tale Teller | 0.20% | ~8 |

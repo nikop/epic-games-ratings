@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.50% | ~65 |
-| The Great Mage | 0.30% | ~39 |
+| The Clergy | 0.60% | ~78 |
+| The Great Mage | 0.40% | ~52 |
 | Poetic Leader | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
+| Knot So Hard | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
 | Apadana | 0.10% | ~13 |
@@ -255,7 +256,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Mighty Bucephalus | 0.00% | ~0 |
-| Knot So Hard | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Pharaoh | 0.00% | ~0 |
 | A Tyresome Siege | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,997 (Ranked 113)  
+Progressed: 12,998 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,11 +396,11 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 12,997 | 5 |
+| 2023-07-22 | 12,998 | 5 |
 ## Awards
-Max (Relaxing): 218  (Ranked 257)  
+Max (Relaxing): 218  (Ranked 258)  
 Sum: 1,783 (Ranked 204)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

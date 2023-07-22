@@ -4,7 +4,7 @@
   "ProductSlug": "kine",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-02-24T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.649427+00:00",
   "LastChanged": "2023-03-31T05:57:14.6494271+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:55.9900228+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:59:53.6700021+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:05:24.5532294+00:00"
+  "LastUpdate_Ratings": "2023-07-22T02:01:56.5013849+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:07:36.8240205+00:00"
 }

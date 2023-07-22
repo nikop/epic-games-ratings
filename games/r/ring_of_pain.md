@@ -6,62 +6,62 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,562 |
-| Uncharted Territory | 89.00% | ~207,261 |
-| Getting A Glimpse | 73.00% | ~170,000 |
-| A Quick Escape | 65.00% | ~151,370 |
-| Explorer | 62.00% | ~144,384 |
-| Defeat The Dark | 61.00% | ~142,055 |
-| An Offering | 61.00% | ~142,055 |
-| Colorful Corpse | 58.00% | ~135,069 |
-| That Was Quick | 56.00% | ~130,411 |
-| A Donation | 56.00% | ~130,411 |
-| Goodbye, Frog Friend | 54.00% | ~125,754 |
-| Heavy Hitter | 53.00% | ~123,425 |
-| Heartless | 46.00% | ~107,123 |
-| Spine Breaker | 46.00% | ~107,123 |
-| Deflection | 45.00% | ~104,795 |
-| Sneaky | 43.00% | ~100,137 |
-| Delving Deeper | 42.00% | ~97,808 |
-| Ambitious Intent | 41.00% | ~95,480 |
-| C-C-Combo | 41.00% | ~95,480 |
-| Nothing To Lose | 40.00% | ~93,151 |
-| The Bestiary | 40.00% | ~93,151 |
-| What's Yours Is Mine | 38.00% | ~88,493 |
-| R.I.P | 36.00% | ~83,836 |
-| Shootout | 36.00% | ~83,836 |
-| I Am Overburdened | 35.00% | ~81,507 |
-| Cold Hearted | 34.00% | ~79,178 |
-| Dig Your Own Grave | 33.00% | ~76,849 |
-| Toxic | 33.00% | ~76,849 |
-| Who To Trust? | 32.00% | ~74,521 |
-| Flesh Wound | 29.00% | ~67,534 |
+| First Steps | 96.00% | ~223,565 |
+| Uncharted Territory | 89.00% | ~207,263 |
+| Getting A Glimpse | 73.00% | ~170,002 |
+| A Quick Escape | 65.00% | ~151,372 |
+| Explorer | 62.00% | ~144,386 |
+| Defeat The Dark | 61.00% | ~142,057 |
+| An Offering | 61.00% | ~142,057 |
+| Colorful Corpse | 58.00% | ~135,070 |
+| That Was Quick | 56.00% | ~130,413 |
+| A Donation | 56.00% | ~130,413 |
+| Goodbye, Frog Friend | 54.00% | ~125,755 |
+| Heavy Hitter | 53.00% | ~123,426 |
+| Heartless | 46.00% | ~107,125 |
+| Spine Breaker | 46.00% | ~107,125 |
+| Deflection | 45.00% | ~104,796 |
+| Sneaky | 43.00% | ~100,138 |
+| Delving Deeper | 42.00% | ~97,810 |
+| Ambitious Intent | 41.00% | ~95,481 |
+| C-C-Combo | 41.00% | ~95,481 |
+| Nothing To Lose | 40.00% | ~93,152 |
+| The Bestiary | 40.00% | ~93,152 |
+| What's Yours Is Mine | 38.00% | ~88,494 |
+| R.I.P | 36.00% | ~83,837 |
+| Shootout | 36.00% | ~83,837 |
+| I Am Overburdened | 35.00% | ~81,508 |
+| Cold Hearted | 34.00% | ~79,179 |
+| Dig Your Own Grave | 33.00% | ~76,850 |
+| Toxic | 33.00% | ~76,850 |
+| Who To Trust? | 32.00% | ~74,522 |
+| Flesh Wound | 29.00% | ~67,535 |
 | Stone Touch | 28.00% | ~65,206 |
-| Walk It Off | 27.00% | ~62,877 |
-| Acid Bath | 27.00% | ~62,877 |
-| New Perspectives | 27.00% | ~62,877 |
-| Shadow Walker | 27.00% | ~62,877 |
-| Shapeshifting | 27.00% | ~62,877 |
-| Consecutive Curses | 26.00% | ~60,548 |
-| Destroy Your Fears | 26.00% | ~60,548 |
-| Save Our Souls | 25.00% | ~58,219 |
-| To The Death! | 20.00% | ~46,575 |
-| Well Prepared | 20.00% | ~46,575 |
-| Just Chilling | 20.00% | ~46,575 |
+| Shadow Walker | 28.00% | ~65,206 |
+| Walk It Off | 27.00% | ~62,878 |
+| Acid Bath | 27.00% | ~62,878 |
+| New Perspectives | 27.00% | ~62,878 |
+| Shapeshifting | 27.00% | ~62,878 |
+| Consecutive Curses | 26.00% | ~60,549 |
+| Destroy Your Fears | 26.00% | ~60,549 |
+| Save Our Souls | 25.00% | ~58,220 |
+| To The Death! | 20.00% | ~46,576 |
+| Well Prepared | 20.00% | ~46,576 |
+| Just Chilling | 20.00% | ~46,576 |
 | Stop Hitting Yourself | 19.00% | ~44,247 |
 | All Consuming | 18.00% | ~41,918 |
-| Shadow Spreads | 17.00% | ~39,589 |
-| Don't Ignore Me! | 17.00% | ~39,589 |
-| Illuminate, Eliminate | 17.00% | ~39,589 |
-| Max Damage! | 16.00% | ~37,260 |
-| Doing Time | 16.00% | ~37,260 |
+| Shadow Spreads | 17.00% | ~39,590 |
+| Don't Ignore Me! | 17.00% | ~39,590 |
+| Illuminate, Eliminate | 17.00% | ~39,590 |
+| Max Damage! | 16.00% | ~37,261 |
+| Doing Time | 16.00% | ~37,261 |
 | Spreading Plague | 15.00% | ~34,932 |
 | The Long Run | 14.00% | ~32,603 |
 | A Rough Road | 13.00% | ~30,274 |
 | Chain Reaction | 13.00% | ~30,274 |
-| Berzerker | 12.00% | ~27,945 |
-| Antivenom | 12.00% | ~27,945 |
-| Thank You, Friend | 11.00% | ~25,616 |
+| Berzerker | 12.00% | ~27,946 |
+| Antivenom | 12.00% | ~27,946 |
+| Thank You, Friend | 11.00% | ~25,617 |
 | Barbecue | 10.00% | ~23,288 |
 | Snake Sneak | 9.00% | ~20,959 |
 | Challenge Increases | 8.00% | ~18,630 |
@@ -71,12 +71,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fragile Mortality | 8.00% | ~18,630 |
 | Defuser | 8.00% | ~18,630 |
 | Precious | 8.00% | ~18,630 |
-| Friend of Vermin | 7.00% | ~16,301 |
-| Juggernaut | 7.00% | ~16,301 |
-| Gigantic | 7.00% | ~16,301 |
-| Path To Enlightenment | 7.00% | ~16,301 |
-| Fire Away! | 7.00% | ~16,301 |
-| Sentimental Value | 7.00% | ~16,301 |
+| Friend of Vermin | 7.00% | ~16,302 |
+| Juggernaut | 7.00% | ~16,302 |
+| Gigantic | 7.00% | ~16,302 |
+| Path To Enlightenment | 7.00% | ~16,302 |
+| Fire Away! | 7.00% | ~16,302 |
+| Sentimental Value | 7.00% | ~16,302 |
 | A Long Climb | 6.00% | ~13,973 |
 | Grave Digger | 6.00% | ~13,973 |
 | Soul Stash | 6.00% | ~13,973 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~932 |
 | Near Death Experience | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,877 (Ranked 48)  
+Progressed: 232,880 (Ranked 48)  
 Completed: 252 (0.11%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,14 +222,14 @@ Completed: 252 (0.11%) (Ranked 182)
 | 2023-07-19 | 232,773 | 247 |
 | 2023-07-20 | 232,821 | 249 |
 | 2023-07-21 | 232,874 | 252 |
-| 2023-07-22 | 232,877 | 252 |
+| 2023-07-22 | 232,880 | 252 |
 ## Awards
-Max (Quickly Understood Controls): 1,485  (Ranked 120)  
-Sum: 11,493 (Ranked 75)  
+Max (Quickly Understood Controls): 1,486  (Ranked 120)  
+Sum: 11,494 (Ranked 75)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 1,485 |
+| This game has Quickly Understood Controls | 1,486 |
 | This game is Great for Beginners | 1,480 |
 | This game is Relaxing | 1,416 |
 | This game has Challenging Combat | 1,404 |
@@ -365,3 +365,4 @@ Diff (max vs sum): 45
 | 2023-07-18 | 4.58 | - | 1,484 | 11,491 |
 | 2023-07-20 | 4.58 | - | 1,485 | 11,492 |
 | 2023-07-21 | 4.58 | - | 1,485 | 11,493 |
+| 2023-07-22 | 4.58 | - | 1,486 | 11,494 |

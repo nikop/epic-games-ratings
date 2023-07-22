@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 20.00% | ~155 |
-| Rail Rat | 17.00% | ~131 |
+| Rail Rat | 17.00% | ~132 |
 | The Mysterious Stranger | 16.00% | ~124 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
@@ -15,33 +15,33 @@
 | Immaculate Aim | 15.00% | ~116 |
 | Immaculate Aim | 15.00% | ~116 |
 | The Brass Boss | 15.00% | ~116 |
-| The Betrayer | 14.00% | ~108 |
-| The Man Who Shattered Time | 14.00% | ~108 |
-| The Loose Cannon | 14.00% | ~108 |
-| Cartographer | 14.00% | ~108 |
-| Time Flies | 14.00% | ~108 |
-| The Harder They Fall | 14.00% | ~108 |
-| No, Thanks! | 14.00% | ~108 |
-| Honest Mistake | 14.00% | ~108 |
-| Fast Learner | 14.00% | ~108 |
-| The Family Fortune | 14.00% | ~108 |
-| Treasure Trove | 13.00% | ~100 |
-| Like Clockwork | 13.00% | ~100 |
-| Golem Chaser | 13.00% | ~100 |
-| Check Your Pulse | 13.00% | ~100 |
+| The Betrayer | 14.00% | ~109 |
+| The Man Who Shattered Time | 14.00% | ~109 |
+| The Loose Cannon | 14.00% | ~109 |
+| Cartographer | 14.00% | ~109 |
+| Time Flies | 14.00% | ~109 |
+| The Harder They Fall | 14.00% | ~109 |
+| No, Thanks! | 14.00% | ~109 |
+| Honest Mistake | 14.00% | ~109 |
+| Fast Learner | 14.00% | ~109 |
+| The Family Fortune | 14.00% | ~109 |
+| Treasure Trove | 13.00% | ~101 |
+| Like Clockwork | 13.00% | ~101 |
+| Golem Chaser | 13.00% | ~101 |
+| Check Your Pulse | 13.00% | ~101 |
 | Right On Time | 12.00% | ~93 |
 | Street Style | 12.00% | ~93 |
-| Whiz Kid | 10.00% | ~77 |
+| Whiz Kid | 10.00% | ~78 |
 | Chaincrawler Explorer | 9.00% | ~70 |
 | Good Neighbor | 9.00% | ~70 |
 | Family Memories | 8.00% | ~62 |
-| Fairgrounds Explorer | 8.00% | ~62 |
 | Sump Explorer | 8.00% | ~62 |
 | Syron for Hope | 8.00% | ~62 |
 | Theater Explorer | 8.00% | ~62 |
 | Ask Questions Later | 8.00% | ~62 |
 | Cultivair Explorer | 7.00% | ~54 |
 | Factorywood Explorer | 7.00% | ~54 |
+| Fairgrounds Explorer | 7.00% | ~54 |
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
@@ -49,8 +49,8 @@
 | Rungs Was Right | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
 | Hexlock for Protection | 4.00% | ~31 |
-| Wunderkind | 2.00% | ~15 |
-| Fitting In | 2.00% | ~15 |
+| Wunderkind | 2.00% | ~16 |
+| Fitting In | 2.00% | ~16 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.90% | ~7 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 773 (Ranked 198)  
+Progressed: 775 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,3 +117,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
 | 2023-07-21 | 773 | 4 |
+| 2023-07-22 | 775 | 4 |

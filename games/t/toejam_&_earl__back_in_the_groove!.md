@@ -5,24 +5,24 @@ Rating: 4.32 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,033 |
+| Food Taster | 9.00% | ~5,034 |
 | Fall Fest | 7.00% | ~3,915 |
-| Thrill Seeker | 6.00% | ~3,355 |
+| Thrill Seeker | 6.00% | ~3,356 |
 | Flying Present Catcher | 5.00% | ~2,796 |
 | HFZ Goober | 5.00% | ~2,796 |
 | Sunflower Master | 4.00% | ~2,237 |
-| Backer Visitor | 2.00% | ~1,118 |
-| Hi Fiver | 2.00% | ~1,118 |
-| Hate That Randomizer | 2.00% | ~1,118 |
-| Feet on Funkotron | 2.00% | ~1,118 |
-| A Timely Splash | 2.00% | ~1,118 |
+| Backer Visitor | 2.00% | ~1,119 |
+| Hi Fiver | 2.00% | ~1,119 |
+| Hate That Randomizer | 2.00% | ~1,119 |
+| Feet on Funkotron | 2.00% | ~1,119 |
+| A Timely Splash | 2.00% | ~1,119 |
 | Elf Chaser | 1.00% | ~559 |
 | Fool Me Twice | 1.00% | ~559 |
 | Old School Jammin' | 1.00% | ~559 |
 | Wakey Wakey | 1.00% | ~559 |
 | Level Diver | 0.80% | ~447 |
-| Gimme My Presents Back! | 0.70% | ~391 |
-| Cleaning Out Santa's Sack | 0.70% | ~391 |
+| Gimme My Presents Back! | 0.70% | ~392 |
+| Cleaning Out Santa's Sack | 0.70% | ~392 |
 | Beaten By A Little Girl | 0.60% | ~336 |
 | Teamwork Rules | 0.60% | ~336 |
 | Totally Bummed Again | 0.60% | ~336 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 765)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,924 (Ranked 84)  
+Progressed: 55,930 (Ranked 84)  
 Completed: 4 (0.01%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 4 (0.01%) (Ranked 226)
 | 2023-07-19 | 55,883 | 4 |
 | 2023-07-20 | 55,897 | 4 |
 | 2023-07-21 | 55,924 | 4 |
+| 2023-07-22 | 55,930 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

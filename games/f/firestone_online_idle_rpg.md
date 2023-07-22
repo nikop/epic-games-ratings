@@ -22,10 +22,10 @@ Rating: 4.10 (Ranked 889)
 | Enlightenment | 14.00% | ~237 |
 | Hero inspection | 14.00% | ~237 |
 | Lieutenant | 14.00% | ~237 |
+| Mysterious Rock | 13.00% | ~220 |
+| Natural Talent | 13.00% | ~220 |
 | The Unstoppable | 13.00% | ~220 |
 | Milestone collector | 12.00% | ~203 |
-| Mysterious Rock | 12.00% | ~203 |
-| Natural Talent | 12.00% | ~203 |
 | Superior | 12.00% | ~203 |
 | Scientist | 11.00% | ~186 |
 | Challenger | 10.00% | ~169 |
@@ -49,11 +49,11 @@ Rating: 4.10 (Ranked 889)
 | Enchanting skill | 6.00% | ~101 |
 | Engineer Mastery | 6.00% | ~101 |
 | How Do You Turn This On? | 6.00% | ~101 |
+| Missions Dedication | 6.00% | ~101 |
 | Weekly Quest Completionist | 6.00% | ~101 |
 | Ancient Knowledge | 5.00% | ~84 |
 | Blueprint Upgrades | 5.00% | ~84 |
 | Lock And Load | 5.00% | ~84 |
-| Missions Dedication | 5.00% | ~84 |
 | Background Story | 4.00% | ~68 |
 | Sailor | 4.00% | ~68 |
 | Active Member | 3.00% | ~51 |

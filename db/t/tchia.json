@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6783,
+  "EOS_Progressed": 6784,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4814,6 +4814,11 @@
       "Time": "2023-07-22T00:03:29.3059062+00:00",
       "NumProgressed": 6783,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-22T02:04:51.3705552+00:00",
+      "NumProgressed": 6784,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4881,7 +4886,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "FASHION_VICTIM",
@@ -4889,7 +4894,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -4992,7 +4997,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6783,
+      "Progressed": 6784,
       "Completed": 29
     }
   ],
@@ -5000,8 +5005,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-22T00:03:29.3059058+00:00",
+  "LastChanged_Achievements": "2023-07-22T02:04:51.3705547+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.2869654+00:00",
-  "LastUpdate_Ratings": "2023-07-21T23:58:06.8408397+00:00",
-  "LastUpdate_Achievements": "2023-07-22T00:03:29.305951+00:00"
+  "LastUpdate_Ratings": "2023-07-22T01:59:17.2935937+00:00",
+  "LastUpdate_Achievements": "2023-07-22T02:04:51.370602+00:00"
 }

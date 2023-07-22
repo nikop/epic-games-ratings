@@ -16,8 +16,8 @@ Number of Ratings: 154  (23.09.2022)
 | Everyone's Hero | 68.00% | ~220 |
 | Knuckles the Echidna | 67.00% | ~216 |
 | Gallant Spin Dash | 65.00% | ~210 |
+| Miles "Tails" Prower | 65.00% | ~210 |
 | Easy Peasy with Shields | 64.00% | ~207 |
-| Miles "Tails" Prower | 64.00% | ~207 |
 | Bubbly Breath | 63.00% | ~203 |
 | Boss Rush Attempt | 57.00% | ~184 |
 | Cleared Sonic the Hedgehog | 56.00% | ~181 |
@@ -42,7 +42,7 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 17.00% | ~55 |
 | Sonic the Hedgehog 2 Mission Master | 15.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323 (Ranked 241)  
+Progressed: 323 (Ranked 242)  
 Completed: 34 (10.53%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
