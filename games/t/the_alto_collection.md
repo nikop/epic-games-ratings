@@ -6,30 +6,30 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,338 |
-| Finding Your Footing | 26.00% | ~8,338 |
-| Nomad | 18.00% | ~5,772 |
-| Picking Up Speed | 16.00% | ~5,131 |
-| Welcome Maya | 15.00% | ~4,810 |
+| Rookie | 26.00% | ~8,340 |
+| Finding Your Footing | 26.00% | ~8,340 |
+| Nomad | 18.00% | ~5,774 |
+| Picking Up Speed | 16.00% | ~5,132 |
+| Welcome Maya | 15.00% | ~4,811 |
 | Sightseer | 11.00% | ~3,528 |
-| Scout | 10.00% | ~3,207 |
-| Amateur | 9.00% | ~2,886 |
-| Wanderer | 9.00% | ~2,886 |
+| Scout | 10.00% | ~3,208 |
+| Amateur | 9.00% | ~2,887 |
 | Enter Paz | 8.00% | ~2,566 |
+| Wanderer | 8.00% | ~2,566 |
 | Unlock Maya | 7.00% | ~2,245 |
 | Aviator | 6.00% | ~1,924 |
 | One With The Board | 6.00% | ~1,924 |
-| My Little Friend | 5.00% | ~1,603 |
-| Voyager | 5.00% | ~1,603 |
+| My Little Friend | 5.00% | ~1,604 |
+| Voyager | 5.00% | ~1,604 |
 | Sandboarder | 4.00% | ~1,283 |
 | Izel Has Arrived | 4.00% | ~1,283 |
 | Junkie | 3.00% | ~962 |
 | Traveler | 3.00% | ~962 |
 | Journeyer | 3.00% | ~962 |
 | Unlock Paz | 3.00% | ~962 |
-| Pro | 2.00% | ~641 |
-| Human Flight | 2.00% | ~641 |
-| Here Comes Felipe | 2.00% | ~641 |
+| Pro | 2.00% | ~642 |
+| Human Flight | 2.00% | ~642 |
+| Here Comes Felipe | 2.00% | ~642 |
 | Explorer | 1.00% | ~321 |
 | Hoist the Mainsail | 1.00% | ~321 |
 | Unlock Izel | 1.00% | ~321 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~321 |
 | Daredevil | 0.90% | ~289 |
 | Unlock Felipe | 0.80% | ~257 |
-| Adventurer | 0.70% | ~224 |
+| Adventurer | 0.70% | ~225 |
 | Unlock Tupa | 0.40% | ~128 |
 | Master Of The Sands | 0.30% | ~96 |
 | Master | 0.20% | ~64 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~32 |
 | Windswept | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,069 (Ranked 95)  
+Progressed: 32,075 (Ranked 95)  
 Completed: 5 (0.02%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 5 (0.02%) (Ranked 218)
 | 2023-07-19 | 31,760 | 5 |
 | 2023-07-20 | 31,892 | 5 |
 | 2023-07-21 | 32,037 | 5 |
-| 2023-07-22 | 32,069 | 5 |
+| 2023-07-22 | 32,075 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 409)  
 Sum: 353 (Ranked 322)  

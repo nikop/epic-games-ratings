@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1692,
+  "EOS_Progressed": 1693,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4390,6 +4390,11 @@
       "Time": "2023-07-22T03:02:28.7593977+00:00",
       "NumProgressed": 1692,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T07:03:36.3810174+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4641,7 +4646,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "heroinspection",
@@ -4801,7 +4806,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "relicofthepast",
@@ -4873,7 +4878,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "thefatherofdragons",
@@ -4889,7 +4894,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "thepowerofawakening",
@@ -4921,7 +4926,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5000,7 +5005,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1692,
+      "Progressed": 1693,
       "Completed": 1
     }
   ],
@@ -5008,8 +5013,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:02:18.2651032+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:03:36.3810169+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:58:23.8195523+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:02:18.265209+00:00"
+  "LastUpdate_Ratings": "2023-07-22T06:59:30.2690932+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:03:36.3811175+00:00"
 }

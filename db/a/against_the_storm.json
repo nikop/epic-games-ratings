@@ -2522,9 +2522,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15949,
+  "EOS_Progressed": 15951,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7637,6 +7637,11 @@
       "Time": "2023-07-22T06:03:28.9253375+00:00",
       "NumProgressed": 15949,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-22T07:04:45.0370334+00:00",
+      "NumProgressed": 15951,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7720,7 +7725,7 @@
       "Name": "Refinery",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Win5Years",
@@ -7744,7 +7749,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WinImpossible",
@@ -7808,7 +7813,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WinNearFishmen",
@@ -7816,7 +7821,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "WinNearForbidden",
@@ -7824,7 +7829,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "WinNearHaunted",
@@ -7872,7 +7877,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WinNearStatue",
@@ -7912,7 +7917,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WinOnCursed",
@@ -7960,7 +7965,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WinWIthCaches",
@@ -8032,7 +8037,7 @@
       "Name": "Defying the Crown",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Year1Dangerous",
@@ -8047,15 +8052,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15949,
+      "Progressed": 15951,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-21T13:07:37.2570428+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:03:28.9253369+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:04:45.037033+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:00:21.1534315+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:03:28.9254111+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:02:08.5340783+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:04:45.0371454+00:00"
 }

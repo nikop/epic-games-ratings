@@ -6,13 +6,13 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,555 |
-| Haikyo | 80.00% | ~341,520 |
-| Good as New | 72.00% | ~307,368 |
-| Into the Woods | 69.00% | ~294,561 |
-| Hunter in the Forest | 60.00% | ~256,140 |
-| Rot Commander | 60.00% | ~256,140 |
-| Taro's Fear | 56.00% | ~239,064 |
+| Found a Friend | 95.00% | ~405,556 |
+| Haikyo | 80.00% | ~341,521 |
+| Good as New | 72.00% | ~307,369 |
+| Into the Woods | 69.00% | ~294,562 |
+| Hunter in the Forest | 60.00% | ~256,141 |
+| Rot Commander | 60.00% | ~256,141 |
+| Taro's Fear | 56.00% | ~239,065 |
 | Between the Eyes | 46.00% | ~196,374 |
 | Taro's Love | 45.00% | ~192,105 |
 | Taro's Regret | 43.00% | ~183,567 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,842 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,900 (Ranked 38)  
+Progressed: 426,901 (Ranked 38)  
 Completed: 517 (0.12%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 517 (0.12%) (Ranked 182)
 | 2023-07-19 | 426,865 | 517 |
 | 2023-07-20 | 426,884 | 517 |
 | 2023-07-21 | 426,898 | 517 |
-| 2023-07-22 | 426,900 | 517 |
+| 2023-07-22 | 426,901 | 517 |
 ## Awards
 Max (Great Boss Battles): 1,307  (Ranked 129)  
 Sum: 1,683 (Ranked 207)  

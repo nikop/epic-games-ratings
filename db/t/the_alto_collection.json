@@ -715,9 +715,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 32069,
+  "EOS_Progressed": 32075,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10695,6 +10695,11 @@
       "Time": "2023-07-22T06:02:23.4025139+00:00",
       "NumProgressed": 32069,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T07:04:12.893687+00:00",
+      "NumProgressed": 32075,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -10714,7 +10719,7 @@
       "Name": "Adventurer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "distance250000",
@@ -10730,7 +10735,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "distance500000",
@@ -10746,7 +10751,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8338
+      "UsersEstimate": 8340
     },
     {
       "ID": "goals180",
@@ -10762,7 +10767,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "goals75",
@@ -10770,7 +10775,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "hoistthemainsail",
@@ -10818,7 +10823,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "nomad",
@@ -10826,7 +10831,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5774
     },
     {
       "ID": "novice",
@@ -10834,7 +10839,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "playerFelipe",
@@ -10890,7 +10895,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "pro",
@@ -10914,7 +10919,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8338
+      "UsersEstimate": 8340
     },
     {
       "ID": "sandboarder",
@@ -10946,7 +10951,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "unlockfinal",
@@ -10970,7 +10975,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4810
+      "UsersEstimate": 4811
     },
     {
       "ID": "unlockpaz",
@@ -10994,15 +10999,15 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "wanderer",
       "SetID": "2lgngib",
       "Name": "Wanderer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2566
     },
     {
       "ID": "windswept",
@@ -11017,15 +11022,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32069,
+      "Progressed": 32075,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-21T06:00:09.4572826+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:02:23.4025131+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:04:12.8936865+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:59:42.4053786+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:02:23.402607+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:01:10.8365239+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:04:12.8938052+00:00"
 }

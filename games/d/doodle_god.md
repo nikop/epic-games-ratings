@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 95.00% | ~215 |
-| Practice Makes Perfect | 84.00% | ~190 |
-| Creator of Life | 82.00% | ~185 |
-| Creator of Diversity | 70.00% | ~158 |
-| Similar to Similar | 69.00% | ~156 |
-| Creator of Humanity | 63.00% | ~142 |
+| Good Start | 95.00% | ~216 |
+| Practice Makes Perfect | 84.00% | ~191 |
+| Creator of Life | 82.00% | ~186 |
+| Creator of Diversity | 70.00% | ~159 |
+| Similar to Similar | 69.00% | ~157 |
+| Creator of Humanity | 63.00% | ~143 |
 | Creator of Civilization | 38.00% | ~86 |
 | Creator of Technology | 23.00% | ~52 |
 | Honorable Santa | 23.00% | ~52 |
-| God of Fun | 17.00% | ~38 |
-| Doodle Bar | 17.00% | ~38 |
-| Half the Kingdom | 17.00% | ~38 |
+| God of Fun | 17.00% | ~39 |
+| Doodle Bar | 17.00% | ~39 |
+| Half the Kingdom | 17.00% | ~39 |
 | Creator of Modernity | 16.00% | ~36 |
 | Creator of Magic | 15.00% | ~34 |
 | Deity of Darkness | 15.00% | ~34 |
 | Salvation! | 11.00% | ~25 |
 | Heavenly Virtues | 11.00% | ~25 |
 | Brilliant Inventor | 8.00% | ~18 |
-| Greatest inventor | 8.00% | ~18 |
+| Greatest inventor | 7.00% | ~16 |
 | Master of Alchemy | 6.00% | ~14 |
 | Master of the Worlds | 6.00% | ~14 |
 | God of Patience | 4.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 264)  
-Completed: 8 (3.54%) (Ranked 53)  
+Progressed: 227 (Ranked 262)  
+Completed: 8 (3.52%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 8 (3.54%) (Ranked 53)
 | 2023-07-07 | 224 | 8 |
 | 2023-07-08 | 225 | 8 |
 | 2023-07-17 | 226 | 8 |
+| 2023-07-22 | 227 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 71.00% | ~116 |
-| Forced to Kill | 69.00% | ~112 |
-| A Night To Remember | 37.00% | ~60 |
+| Forced to Kill | 70.00% | ~115 |
+| A Night To Remember | 37.00% | ~61 |
 | Safe...For now? | 30.00% | ~49 |
-| Open Sesame | 26.00% | ~42 |
-| Them and Us | 15.00% | ~24 |
-| OUTRAGE | 15.00% | ~24 |
-| What have I done!? | 15.00% | ~24 |
+| Open Sesame | 26.00% | ~43 |
+| Them and Us | 15.00% | ~25 |
+| OUTRAGE | 15.00% | ~25 |
+| What have I done!? | 15.00% | ~25 |
 | Alone In The Dark | 12.00% | ~20 |
 | Parasite Exterminated | 12.00% | ~20 |
 | The Cultists | 12.00% | ~20 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.60% | ~1 |
 | Survival Horror | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 283)  
+Progressed: 164 (Ranked 282)  
 Completed: 1 (0.61%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.61%) (Ranked 120)
 | 2023-07-14 | 151 | 1 |
 | 2023-07-16 | 152 | 1 |
 | 2023-07-21 | 162 | 1 |
-| 2023-07-22 | 163 | 1 |
+| 2023-07-22 | 164 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.54,
+  "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -201,6 +201,11 @@
       "Time": "2023-07-17T09:03:17.5104735+00:00",
       "NumProgressed": 226,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-22T07:02:42.6661264+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -212,7 +217,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "605742",
@@ -220,7 +225,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "605752",
@@ -228,7 +233,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "605762",
@@ -236,7 +241,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "605772",
@@ -276,7 +281,7 @@
       "Name": "God of Fun",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "605822",
@@ -308,7 +313,7 @@
       "Name": "Doodle Bar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "605862",
@@ -316,7 +321,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "605872",
@@ -324,7 +329,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "605892",
@@ -332,7 +337,7 @@
       "Name": "Similar to Similar",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "605912",
@@ -354,9 +359,9 @@
       "ID": "610000",
       "SetID": "4lpaifm",
       "Name": "Greatest inventor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "610001",
@@ -387,7 +392,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 8
     }
   ],
@@ -395,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-07-22T05:04:16.3988637+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:02:42.6661256+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.2697094+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:59:49.7197383+00:00",
-  "LastUpdate_Achievements": "2023-07-22T05:04:16.3988748+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:01:21.0645694+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:02:42.6662104+00:00"
 }

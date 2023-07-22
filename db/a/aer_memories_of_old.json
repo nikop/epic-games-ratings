@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15857,
+  "EOS_Progressed": 15858,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10079,6 +10079,11 @@
       "Time": "2023-07-22T06:03:55.9293033+00:00",
       "NumProgressed": 15857,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-07-22T07:05:19.6106495+00:00",
+      "NumProgressed": 15858,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 20,
@@ -10186,7 +10191,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -10210,7 +10215,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12051
+      "UsersEstimate": 12052
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10249,15 +10254,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15857,
+      "Progressed": 15858,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:03:55.9293026+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:05:19.6106491+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:00:24.2927363+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:03:55.9293684+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:02:11.661089+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:05:19.6107233+00:00"
 }

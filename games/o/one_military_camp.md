@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 31.00% | ~13 |
+| The 4 Pillars | 33.00% | ~14 |
 | First Step | 26.00% | ~11 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |

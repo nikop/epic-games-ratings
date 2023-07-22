@@ -11,8 +11,8 @@ Rating: 4.10 (Ranked 889)
 | Prestigious | 53.00% | ~897 |
 | Fellowship Power | 41.00% | ~694 |
 | Guild Power | 25.00% | ~423 |
-| Prestigious x10 | 21.00% | ~355 |
-| The game is on | 20.00% | ~338 |
+| Prestigious x10 | 21.00% | ~356 |
+| The game is on | 20.00% | ~339 |
 | Exotic Merchant | 17.00% | ~288 |
 | Dragon Clicker | 16.00% | ~271 |
 | Miner Clicker | 16.00% | ~271 |
@@ -41,9 +41,9 @@ Rating: 4.10 (Ranked 889)
 | Moving Up The Ladder | 9.00% | ~152 |
 | Master Enchanter | 8.00% | ~135 |
 | The father of Dragons | 8.00% | ~135 |
-| Here We Go Again | 7.00% | ~118 |
-| The Expeditioner | 7.00% | ~118 |
-| Trader | 7.00% | ~118 |
+| Here We Go Again | 7.00% | ~119 |
+| The Expeditioner | 7.00% | ~119 |
+| Trader | 7.00% | ~119 |
 | Crystal Mining | 6.00% | ~102 |
 | Dragon Slayer | 6.00% | ~102 |
 | Enchanting skill | 6.00% | ~102 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 889)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,692 (Ranked 170)  
+Progressed: 1,693 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-19 | 1,680 | 1 |
 | 2023-07-20 | 1,682 | 1 |
 | 2023-07-21 | 1,690 | 1 |
-| 2023-07-22 | 1,692 | 1 |
+| 2023-07-22 | 1,693 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

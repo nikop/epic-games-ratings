@@ -2778,9 +2778,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 7090,
+  "EOS_Progressed": 7091,
   "EOS_Completed": 177,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -6808,6 +6808,11 @@
       "Time": "2023-07-22T06:02:13.3925268+00:00",
       "NumProgressed": 7090,
       "NumCompleted": 177
+    },
+    {
+      "Time": "2023-07-22T07:03:30.1289349+00:00",
+      "NumProgressed": 7091,
+      "NumCompleted": 177
     }
   ],
   "TotalAchievements": 15,
@@ -6819,7 +6824,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Banker",
@@ -6907,7 +6912,7 @@
       "Name": "Photographer",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "Renovator",
@@ -6931,14 +6936,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7090,
+      "Progressed": 7091,
       "Completed": 177
     }
   ],
@@ -6946,8 +6951,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-21T21:59:07.2841184+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:02:13.3925261+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:03:30.1289344+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:43.0939004+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:58:28.7881675+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:02:13.3925611+00:00"
+  "LastUpdate_Ratings": "2023-07-22T06:59:34.4399665+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:03:30.1289784+00:00"
 }

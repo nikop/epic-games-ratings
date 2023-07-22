@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -668,6 +668,11 @@
       "Time": "2023-07-22T00:05:20.5626011+00:00",
       "NumProgressed": 163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T07:07:20.2139608+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -773,9 +778,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -783,7 +788,7 @@
       "Name": "Them and Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -831,7 +836,7 @@
       "Name": "Open Sesame",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_OutRage",
@@ -839,7 +844,7 @@
       "Name": "OUTRAGE",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_PTD",
@@ -967,7 +972,7 @@
       "Name": "A Night To Remember",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ETUA_Trapped",
@@ -991,14 +996,14 @@
       "Name": "What have I done!?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 1
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:05:53.0981984+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:07:20.2139604+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:57:24.471715+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:05:53.0982339+00:00"
+  "LastUpdate_Ratings": "2023-07-22T06:58:20.1613021+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:07:20.2139988+00:00"
 }

@@ -11,11 +11,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 4.00% | ~638 |
 | Taking Action | 4.00% | ~638 |
 | No Deaths | 4.00% | ~638 |
-| Overcoming Difficulty | 3.00% | ~478 |
-| Fertile Meadows | 3.00% | ~478 |
-| Lost Colonies | 3.00% | ~478 |
-| Coral Forest | 3.00% | ~478 |
-| A Real Challenge | 3.00% | ~478 |
+| Overcoming Difficulty | 3.00% | ~479 |
+| Fertile Meadows | 3.00% | ~479 |
+| Lost Colonies | 3.00% | ~479 |
+| Coral Forest | 3.00% | ~479 |
+| A Real Challenge | 3.00% | ~479 |
 | Serving Ale | 2.00% | ~319 |
 | Homesick | 2.00% | ~319 |
 | Against All Odds | 2.00% | ~319 |
@@ -38,10 +38,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~319 |
 | Trade Baron | 2.00% | ~319 |
 | Into the Forest | 2.00% | ~319 |
-| Refinery | 1.00% | ~159 |
-| Fishmen Ritual Site | 1.00% | ~159 |
-| Forbidden Lands | 1.00% | ~159 |
-| Defying the Crown | 1.00% | ~159 |
+| Refinery | 1.00% | ~160 |
+| Fishmen Ritual Site | 1.00% | ~160 |
+| Forbidden Lands | 1.00% | ~160 |
+| Defying the Crown | 1.00% | ~160 |
 | Efficient Explorer | 0.80% | ~128 |
 | Prestigious Expedition | 0.70% | ~112 |
 | Blood Flower Farmer | 0.70% | ~112 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,949 (Ranked 107)  
+Progressed: 15,951 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 40 (0.25%) (Ranked 158)
 | 2023-07-19 | 15,905 | 40 |
 | 2023-07-20 | 15,923 | 40 |
 | 2023-07-21 | 15,947 | 40 |
-| 2023-07-22 | 15,949 | 40 |
+| 2023-07-22 | 15,951 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 206)  
 Sum: 3,072 (Ranked 157)  

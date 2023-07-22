@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67009,
+  "EOS_Progressed": 67011,
   "EOS_Completed": 650,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -10149,6 +10149,11 @@
       "Time": "2023-07-22T06:06:34.8527167+00:00",
       "NumProgressed": 67009,
       "NumCompleted": 650
+    },
+    {
+      "Time": "2023-07-22T07:08:24.1883296+00:00",
+      "NumProgressed": 67011,
+      "NumCompleted": 650
     }
   ],
   "TotalAchievements": 25,
@@ -10216,7 +10221,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "Fair\u0027sFair",
@@ -10288,7 +10293,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10722
     },
     {
       "ID": "Nothing Left to Say",
@@ -10359,7 +10364,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 67009,
+      "Progressed": 67011,
       "Completed": 650
     }
   ],
@@ -10367,8 +10372,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-20T22:01:26.8795363+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:06:34.8527161+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:08:24.1883291+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.2305139+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:00:43.9684085+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:06:34.8527908+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:02:35.3486894+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:08:24.1884425+00:00"
 }

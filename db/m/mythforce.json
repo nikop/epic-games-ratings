@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-07-22T06:03:15.9965181+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T07:04:28.5202282+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -733,9 +738,9 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -781,17 +786,17 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -805,9 +810,9 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -821,9 +826,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -885,9 +890,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -901,9 +906,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -918,15 +923,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-22T06:03:15.9965176+00:00",
+  "LastChanged_Achievements": "2023-07-22T07:04:28.5202274+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T05:58:49.8333584+00:00",
-  "LastUpdate_Achievements": "2023-07-22T06:03:15.9965353+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:00:00.6301498+00:00",
+  "LastUpdate_Achievements": "2023-07-22T07:04:28.5202446+00:00"
 }

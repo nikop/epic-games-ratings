@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 67.00% | ~44 |
-| Jalopy Poppy | 65.00% | ~43 |
-| Green-Bodied Monster | 56.00% | ~37 |
+| Terror Rising | 68.00% | ~45 |
+| Jalopy Poppy | 67.00% | ~44 |
+| Green-Bodied Monster | 58.00% | ~38 |
 | Chopper Stopper | 47.00% | ~31 |
 | Aerosolized | 41.00% | ~27 |
 | Test of Faith | 36.00% | ~24 |
@@ -36,7 +36,7 @@
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 332)  
-Completed: 2 (3.03%) (Ranked 60)  
+Completed: 2 (3.03%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
