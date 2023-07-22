@@ -5,9 +5,9 @@
   "Ranking_Rating": 413,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 304,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3005,
+  "EOS_Progressed": 3007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-07-22T09:04:15.4305454+00:00",
       "NumProgressed": 3005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T12:03:29.8739576+00:00",
+      "NumProgressed": 3007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2604,7 +2609,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "Kills_Exterminator",
@@ -2628,7 +2633,7 @@
       "Name": "Opportunist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Kills_Knockback",
@@ -2644,7 +2649,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Kills_Vakir",
@@ -2740,7 +2745,7 @@
       "Name": "Efficient Killer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2772,7 +2777,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "NexusCompleted",
@@ -2883,21 +2888,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3005,
+      "Progressed": 3007,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3005,
+      "Progressed": 3007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:03:29.953803+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:03:29.873957+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:59:15.6730501+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:03:29.9538616+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:58:50.9703115+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:03:29.8740237+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -561,6 +561,11 @@
       "Time": "2023-07-21T22:05:34.016903+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T12:04:20.8649172+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -636,7 +641,7 @@
       "Name": "Newbie",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -706,9 +711,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -810,9 +815,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1867,14 +1872,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:04:40.5191193+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:04:20.8649166+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:01.7654944+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:57:29.5457296+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:04:40.5194796+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:28.2900961+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:04:20.8652521+00:00"
 }

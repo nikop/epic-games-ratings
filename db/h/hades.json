@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -3787,10 +3787,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 699141,
+  "EOS_Progressed": 699142,
   "EOS_Completed": 6248,
-  "EOS_NewPlayers": 650,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 646,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
@@ -13582,6 +13582,11 @@
       "Time": "2023-07-22T11:01:37.4922763+00:00",
       "NumProgressed": 699141,
       "NumCompleted": 6248
+    },
+    {
+      "Time": "2023-07-22T12:00:47.1014343+00:00",
+      "NumProgressed": 699142,
+      "NumCompleted": 6248
     }
   ],
   "TotalAchievements": 49,
@@ -13649,7 +13654,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 363553
+      "UsersEstimate": 363554
     },
     {
       "ID": "AchClearAsphodel",
@@ -13657,7 +13662,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 559313
+      "UsersEstimate": 559314
     },
     {
       "ID": "AchClearElysium",
@@ -13665,7 +13670,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 461433
+      "UsersEstimate": 461434
     },
     {
       "ID": "AchClearElysiumEM",
@@ -13681,7 +13686,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 125845
+      "UsersEstimate": 125846
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -13697,7 +13702,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 622235
+      "UsersEstimate": 622236
     },
     {
       "ID": "AchCrushedThanatos",
@@ -13705,7 +13710,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 314613
+      "UsersEstimate": 314614
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -13721,7 +13726,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 195759
+      "UsersEstimate": 195760
     },
     {
       "ID": "AchForgedBond",
@@ -13729,7 +13734,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 195759
+      "UsersEstimate": 195760
     },
     {
       "ID": "AchFoundAllSummons",
@@ -13737,7 +13742,7 @@
       "Name": "Complete Set",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 41948
+      "UsersEstimate": 41949
     },
     {
       "ID": "AchFoundKeepsakes",
@@ -13761,7 +13766,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 475416
+      "UsersEstimate": 475417
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -13785,7 +13790,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 258682
+      "UsersEstimate": 258683
     },
     {
       "ID": "AchManyCosmetics",
@@ -13801,7 +13806,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 174785
+      "UsersEstimate": 174786
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -13809,7 +13814,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 244699
+      "UsersEstimate": 244700
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -13881,7 +13886,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258682
+      "UsersEstimate": 258683
     },
     {
       "ID": "AchPickedManyHammers",
@@ -13889,7 +13894,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 160802
+      "UsersEstimate": 160803
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -13905,7 +13910,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 174785
+      "UsersEstimate": 174786
     },
     {
       "ID": "AchReachedEpilogue",
@@ -13921,7 +13926,7 @@
       "Name": "Skelly\u0027s Last Lamentations",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 41948
+      "UsersEstimate": 41949
     },
     {
       "ID": "AchSingersReunion",
@@ -13945,7 +13950,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 293639
+      "UsersEstimate": 293640
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -13953,7 +13958,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 496390
+      "UsersEstimate": 496391
     },
     {
       "ID": "AchWeaponClears",
@@ -13961,7 +13966,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 160802
+      "UsersEstimate": 160803
     },
     {
       "ID": "AchWellShopItems",
@@ -13969,7 +13974,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 279656
+      "UsersEstimate": 279657
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -13984,15 +13989,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 699141,
+      "Progressed": 699142,
       "Completed": 6248
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-21T09:58:25.1147541+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:01:37.4922755+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:00:47.1014338+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:23.1143897+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:58:12.027569+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:01:37.4923744+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:58:02.5962674+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:00:47.1015321+00:00"
 }

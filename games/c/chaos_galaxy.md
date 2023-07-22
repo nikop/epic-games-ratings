@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tyrant Rise | 36.00% | ~5 |
-| Assassination | 29.00% | ~4 |
-| Great Civil War | 21.00% | ~3 |
-| Honor Medal | 21.00% | ~3 |
-| 2nd AI War | 14.00% | ~2 |
-| Secret War | 14.00% | ~2 |
-| Investment | 14.00% | ~2 |
-| Tech Breakthrough | 14.00% | ~2 |
-| Punish Eastgalaxy | 7.00% | ~1 |
-| Princess Crowned | 7.00% | ~1 |
-| Sendai Shogunate | 7.00% | ~1 |
-| Pirate Raid | 7.00% | ~1 |
-| Heaven Tower | 7.00% | ~1 |
-| Rebel Command | 7.00% | ~1 |
-| Westwasters Dynasty | 7.00% | ~1 |
-| Jihad Uprising | 7.00% | ~1 |
+| Tyrant Rise | 31.00% | ~5 |
+| Assassination | 25.00% | ~4 |
+| Great Civil War | 19.00% | ~3 |
+| Honor Medal | 19.00% | ~3 |
+| 2nd AI War | 13.00% | ~2 |
+| Secret War | 13.00% | ~2 |
+| Investment | 13.00% | ~2 |
+| Tech Breakthrough | 13.00% | ~2 |
+| Punish Eastgalaxy | 6.00% | ~1 |
+| Princess Crowned | 6.00% | ~1 |
+| Sendai Shogunate | 6.00% | ~1 |
+| Pirate Raid | 6.00% | ~1 |
+| Heaven Tower | 6.00% | ~1 |
+| Rebel Command | 6.00% | ~1 |
+| Westwasters Dynasty | 6.00% | ~1 |
+| Jihad Uprising | 6.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | Abolish Edict | 0.00% | ~0 |
 | Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 397)  
+Progressed: 16 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-14 | 12 | 0 |
 | 2023-07-20 | 13 | 0 |
 | 2023-07-21 | 14 | 0 |
+| 2023-07-22 | 16 | 0 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 86,
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-07-22T11:03:16.2086942+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T12:03:17.778229+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -824,7 +829,7 @@
       "Name": "Flawless Victory",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -878,9 +883,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -896,7 +901,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -904,7 +909,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -920,7 +925,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -928,7 +933,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -943,15 +948,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:03:16.2086937+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:03:17.7782285+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:58:55.7878277+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:03:16.2087106+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:58:37.3403028+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:03:17.7782447+00:00"
 }

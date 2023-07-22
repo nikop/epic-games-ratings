@@ -6,29 +6,29 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,222 |
-| Sweet Sorrow | 18.00% | ~6,111 |
+| Sink Beneath the Waves | 36.00% | ~12,223 |
+| Sweet Sorrow | 18.00% | ~6,112 |
 | Rules the Waves | 17.00% | ~5,772 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,092 |
-| Rival | 14.00% | ~4,753 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,093 |
+| Rival | 14.00% | ~4,754 |
 | Correspondent | 12.00% | ~4,074 |
 | Lose Your Mind | 12.00% | ~4,074 |
 | Sound Mind? | 12.00% | ~4,074 |
-| Salt's Curse | 11.00% | ~3,734 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,734 |
-| The Fall of the House | 11.00% | ~3,734 |
-| Shipmate | 11.00% | ~3,734 |
+| Salt's Curse | 11.00% | ~3,735 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,735 |
+| The Fall of the House | 11.00% | ~3,735 |
+| Shipmate | 11.00% | ~3,735 |
 | One Year at Zee | 8.00% | ~2,716 |
-| Pupil | 7.00% | ~2,376 |
-| Salvager | 7.00% | ~2,376 |
-| Open Your Ears | 7.00% | ~2,376 |
-| The Ascent of Man | 7.00% | ~2,376 |
+| Pupil | 7.00% | ~2,377 |
+| Salvager | 7.00% | ~2,377 |
+| Open Your Ears | 7.00% | ~2,377 |
+| The Ascent of Man | 7.00% | ~2,377 |
 | Zee Fever | 5.00% | ~1,698 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,358 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,358 |
-| Storm's Curse | 3.00% | ~1,018 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,018 |
-| Come Closer | 3.00% | ~1,018 |
+| Storm's Curse | 3.00% | ~1,019 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,019 |
+| Come Closer | 3.00% | ~1,019 |
 | Roaring Rise | 2.00% | ~679 |
 | I am the Captain of my Soul | 2.00% | ~679 |
 | A buoyant escape | 1.00% | ~340 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,950 (Ranked 93)  
+Progressed: 33,954 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 3 (0.01%) (Ranked 227)
 | 2023-07-19 | 33,786 | 3 |
 | 2023-07-20 | 33,845 | 3 |
 | 2023-07-21 | 33,923 | 3 |
-| 2023-07-22 | 33,950 | 3 |
+| 2023-07-22 | 33,954 | 3 |
 ## Awards
 Max (Character Customization): 212  (Ranked 266)  
 Sum: 282 (Ranked 338)  

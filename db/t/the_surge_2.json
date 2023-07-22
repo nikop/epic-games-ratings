@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -1990,9 +1990,9 @@
       "ID": "ACHV_42",
       "SetID": "8p5mlmc",
       "Name": "Sorry, Didn\u0027t See You There",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHV_43",
@@ -2127,8 +2127,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:02:29.2212371+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:03:12.4215889+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:56:56.0830285+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:02:29.2213068+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:01.8484817+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:03:12.4216522+00:00"
 }

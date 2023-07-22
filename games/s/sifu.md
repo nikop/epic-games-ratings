@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,022 |
+| Diligence as a goal | 5.00% | ~1,023 |
 | Project Arena | 4.00% | ~818 |
 | The Old Grandmaster | 2.00% | ~14,223 |
 | The Assault | 2.00% | ~14,223 |
@@ -17,20 +17,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 2.00% | ~14,223 |
 | Lightning Hands | 2.00% | ~14,223 |
 | Rumble in the Hangar | 2.00% | ~14,223 |
-| Lady Wing Chun | 1.00% | ~7,111 |
-| Furious Fists | 1.00% | ~7,111 |
-| Scareless | 1.00% | ~7,111 |
-| Kill Nil | 1.00% | ~7,111 |
-| Stuntmaster | 1.00% | ~7,111 |
-| Street Fighting | 1.00% | ~7,111 |
-| Qi Gong: Mind | 1.00% | ~7,111 |
-| Qi Gong: Essence | 1.00% | ~7,111 |
-| Old Child | 1.00% | ~7,111 |
-| Kung-Fu Tussle | 1.00% | ~7,111 |
-| Path of the Prospect | 1.00% | ~7,111 |
-| Take damage to save time | 1.00% | ~7,111 |
-| Bloody Sport | 1.00% | ~204 |
-| The best strikes are the ones we avoid | 1.00% | ~204 |
+| Lady Wing Chun | 1.00% | ~7,112 |
+| Furious Fists | 1.00% | ~7,112 |
+| Scareless | 1.00% | ~7,112 |
+| Kill Nil | 1.00% | ~7,112 |
+| Stuntmaster | 1.00% | ~7,112 |
+| Street Fighting | 1.00% | ~7,112 |
+| Qi Gong: Mind | 1.00% | ~7,112 |
+| Qi Gong: Essence | 1.00% | ~7,112 |
+| Old Child | 1.00% | ~7,112 |
+| Kung-Fu Tussle | 1.00% | ~7,112 |
+| Path of the Prospect | 1.00% | ~7,112 |
+| Take damage to save time | 1.00% | ~7,112 |
+| Bloody Sport | 1.00% | ~205 |
+| The best strikes are the ones we avoid | 1.00% | ~205 |
 | Dance of the Praying Mantis | 0.90% | ~6,400 |
 | I know Kung-Fu | 0.90% | ~6,400 |
 | Muk Yan Master | 0.70% | ~4,978 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,143 (Ranked 19)  
+Progressed: 711,152 (Ranked 19)  
 Completed: 12,830 (1.80%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 12,830 (1.80%) (Ranked 84)
 | 2023-07-19 | 710,897 | 12,825 |
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
-| 2023-07-22 | 711,143 | 12,830 |
+| 2023-07-22 | 711,152 | 12,830 |
 ## Awards
 Max (Great Boss Battles): 6,290  (Ranked 53)  
 Sum: 10,784 (Ranked 78)  

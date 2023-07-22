@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1897,9 +1897,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "MQ03_5",
@@ -2033,9 +2033,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 232
     },
     {
       "ID": "PLTN",
@@ -2058,8 +2058,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:06:27.2394455+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:05:51.930642+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:57:40.935848+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:06:27.2394756+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:36.2126445+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:05:51.9306703+00:00"
 }

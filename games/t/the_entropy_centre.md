@@ -16,9 +16,9 @@
 | Handyman | 24.00% | ~54 |
 | No Time To Relax | 20.00% | ~45 |
 | Bad Robots | 18.00% | ~41 |
+| Archivist | 17.00% | ~39 |
+| Fashionista | 17.00% | ~39 |
 | Running Boots | 16.00% | ~36 |
-| Archivist | 16.00% | ~36 |
-| Fashionista | 16.00% | ~36 |
 | Looper | 15.00% | ~34 |
 | Kaboom! | 14.00% | ~32 |
 | All Alone | 12.00% | ~27 |
@@ -32,7 +32,7 @@
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 262)  
+Progressed: 227 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |

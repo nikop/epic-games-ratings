@@ -8,7 +8,7 @@ Rating: 4.56 (Ranked 460)
 | Wakey Wakey | 22.00% | ~631 |
 | Infinite Growth... | 19.00% | ~545 |
 | Sputnik 2049 | 19.00% | ~545 |
-| Without Breaking Some Eggs... | 18.00% | ~516 |
+| Without Breaking Some Eggs... | 18.00% | ~517 |
 | Space Society | 13.00% | ~373 |
 | A Thousand Strong | 13.00% | ~373 |
 | Ready for a New World | 13.00% | ~373 |
@@ -24,9 +24,9 @@ Rating: 4.56 (Ranked 460)
 | Man's Best Friend | 6.00% | ~172 |
 | Power Outage | 6.00% | ~172 |
 | Please Make it Stop! | 6.00% | ~172 |
-| Sightseeing | 5.00% | ~143 |
-| Necessary Enhancement | 5.00% | ~143 |
-| Convenient Transport | 5.00% | ~143 |
+| Sightseeing | 5.00% | ~144 |
+| Necessary Enhancement | 5.00% | ~144 |
+| Convenient Transport | 5.00% | ~144 |
 | Oats | 4.00% | ~115 |
 | Access Granted | 4.00% | ~115 |
 | All in Good Health | 4.00% | ~115 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 460)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,869 (Ranked 155)  
+Progressed: 2,870 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 2,842 | 0 |
 | 2023-07-20 | 2,849 | 0 |
 | 2023-07-21 | 2,866 | 0 |
-| 2023-07-22 | 2,869 | 0 |
+| 2023-07-22 | 2,870 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

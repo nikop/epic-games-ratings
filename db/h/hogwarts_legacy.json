@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
@@ -5310,9 +5310,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288263,
+  "EOS_Progressed": 288267,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15270,6 +15270,11 @@
       "Time": "2023-07-22T11:04:28.1905612+00:00",
       "NumProgressed": 288263,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-22T12:04:10.3217997+00:00",
+      "NumProgressed": 288267,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15401,7 +15406,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28826
+      "UsersEstimate": 28827
     },
     {
       "ID": "PFA_24",
@@ -15505,7 +15510,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20178
+      "UsersEstimate": 20179
     },
     {
       "ID": "PFA_36",
@@ -15585,7 +15590,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20178
+      "UsersEstimate": 20179
     },
     {
       "ID": "PFA_45",
@@ -15617,7 +15622,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28826
+      "UsersEstimate": 28827
     },
     {
       "ID": "PFA_8",
@@ -15633,14 +15638,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20178
+      "UsersEstimate": 20179
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288263,
+      "Progressed": 288267,
       "Completed": 433
     }
   ],
@@ -15648,8 +15653,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-22T10:57:51.0240695+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:04:28.1905606+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:04:10.3217992+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:57:51.0240703+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:04:28.1906553+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:45.5121736+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:04:10.3218968+00:00"
 }

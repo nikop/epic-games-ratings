@@ -11,8 +11,8 @@
 | Only Thyme Will Tell | 31.00% | ~150 |
 | We Go Again | 31.00% | ~150 |
 | Not Alone | 29.00% | ~140 |
+| In Contempt of Duvet | 28.00% | ~136 |
 | Booty Call | 27.00% | ~131 |
-| In Contempt of Duvet | 27.00% | ~131 |
 | Planting the Seed | 21.00% | ~102 |
 | Light Sleepers | 16.00% | ~77 |
 | Smooth Criminal | 8.00% | ~39 |

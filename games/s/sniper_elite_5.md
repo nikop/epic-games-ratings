@@ -5,6 +5,7 @@ Rating: 4.40 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Climbing the Ladder | 3.00% | ~100 |
 | Liberté | 3.00% | ~100 |
 | Meeting Resistance | 3.00% | ~100 |
 | Sharpshooter | 3.00% | ~100 |
@@ -18,7 +19,6 @@ Rating: 4.40 (Ranked 691)
 | Taking it back | 3.00% | ~100 |
 | Target America | 3.00% | ~100 |
 | The Kraken Sleeps | 3.00% | ~100 |
-| Climbing the Ladder | 2.00% | ~66 |
 | No Stone Unturned | 2.00% | ~66 |
 | Opposing Force | 2.00% | ~66 |
 | Organ Grinder | 2.00% | ~66 |
@@ -40,11 +40,11 @@ Rating: 4.40 (Ranked 691)
 | The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |
+| It'll Buff Right Out | 0.70% | ~23 |
 | Road Rage | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | From Paris with Love | 0.60% | ~20 |
-| It'll Buff Right Out | 0.60% | ~20 |
 | Sink or Swim | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Burn after reading | 0.50% | ~17 |

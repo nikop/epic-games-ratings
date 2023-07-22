@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 542,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 11.25,
   "EosHistory": [
@@ -1837,9 +1837,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_021",
@@ -1932,8 +1932,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:06:19.8529805+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:05:45.8276145+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:57:28.5559844+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:06:19.8530127+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:27.5143158+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:05:45.8276551+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2023-07-21T02:11:21.276357+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T12:05:45.3066836+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -84,7 +89,7 @@
       "ID": "11",
       "SetID": "4fgie3j",
       "Name": "Assassination",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -92,7 +97,7 @@
       "ID": "12",
       "SetID": "4fgie3j",
       "Name": "2nd AI War",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "14",
       "SetID": "4fgie3j",
       "Name": "Punish Eastgalaxy",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 36,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -124,7 +129,7 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -140,7 +145,7 @@
       "ID": "18",
       "SetID": "4fgie3j",
       "Name": "Princess Crowned",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "2",
       "SetID": "4fgie3j",
       "Name": "Secret War",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -204,7 +209,7 @@
       "ID": "25",
       "SetID": "4fgie3j",
       "Name": "Sendai Shogunate",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "3",
       "SetID": "4fgie3j",
       "Name": "Pirate Raid",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -252,7 +257,7 @@
       "ID": "30",
       "SetID": "4fgie3j",
       "Name": "Heaven Tower",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "32",
       "SetID": "4fgie3j",
       "Name": "Rebel Command",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -308,7 +313,7 @@
       "ID": "37",
       "SetID": "4fgie3j",
       "Name": "Westwasters Dynasty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -332,7 +337,7 @@
       "ID": "4",
       "SetID": "4fgie3j",
       "Name": "Investment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -412,7 +417,7 @@
       "ID": "5",
       "SetID": "4fgie3j",
       "Name": "Tech Breakthrough",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -420,7 +425,7 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -428,7 +433,7 @@
       "ID": "7",
       "SetID": "4fgie3j",
       "Name": "Jihad Uprising",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -453,13 +458,13 @@
     {
       "ID": "4fgie3j",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:06:19.1541994+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:05:45.3066828+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:34.2150233+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:00:13.9266118+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:06:19.1542415+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:59:39.6806568+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:05:45.3067343+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1125,6 +1125,11 @@
       "Time": "2023-07-22T09:07:50.5900257+00:00",
       "NumProgressed": 448,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T12:06:24.0324025+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1160,7 +1165,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "female-conqueror",
@@ -1184,7 +1189,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "kill-lieutenants",
@@ -1208,7 +1213,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "product-profit",
@@ -1256,7 +1261,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "unlock-residences",
@@ -1272,7 +1277,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "use-submarine",
@@ -1287,15 +1292,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:07:04.6087217+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:06:24.032402+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:00:52.9168633+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:07:04.6087409+00:00"
+  "LastUpdate_Ratings": "2023-07-22T12:00:08.9226487+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:06:24.0324208+00:00"
 }

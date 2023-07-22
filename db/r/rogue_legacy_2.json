@@ -3,11 +3,11 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 40,
-  "Ranking_Popularity": 258,
+  "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1231,18 +1231,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 1668,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2023-07-22T11:59:16.0371549+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1670,
+      "NumberOfAwardsMax": 219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1668,
-  "NumberOfAwardsMax": 218,
+  "NumberOfAwards": 1670,
+  "NumberOfAwardsMax": 219,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game is Relaxing",
@@ -1278,7 +1284,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1299,11 +1305,11 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22580,
+  "EOS_Progressed": 22583,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.16,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:34.4921+00:00",
@@ -5699,6 +5705,11 @@
       "Time": "2023-07-22T11:02:17.3759834+00:00",
       "NumProgressed": 22580,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-22T12:02:22.850401+00:00",
+      "NumProgressed": 22583,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6021,21 +6032,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22580,
+      "Progressed": 22583,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1510,
+      "Progressed": 1513,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-07-21T17:00:20.2140329+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:02:17.3759828+00:00",
+  "LastChanged": "2023-07-22T11:59:16.0371547+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:02:22.8504002+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:59:46.2364784+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:02:17.3760388+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:59:16.0371553+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:02:22.8504566+00:00"
 }

@@ -4,8 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 35.00% | ~16 |
-| First Step | 33.00% | ~15 |
+| The 4 Pillars | 37.00% | ~17 |
+| First Step | 35.00% | ~16 |
+| Pathfinder | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | Indebted | 0.00% | ~0 |
 | Good payer | 0.00% | ~0 |
 | Capitalism | 0.00% | ~0 |
-| Pathfinder | 0.00% | ~0 |
 | Self-sufficient | 0.00% | ~0 |
 | Food Tycoon | 0.00% | ~0 |
 | Fuel Tycoon | 0.00% | ~0 |

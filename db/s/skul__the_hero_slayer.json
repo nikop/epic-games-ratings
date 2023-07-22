@@ -6,7 +6,7 @@
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7950,
+  "EOS_Progressed": 7951,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3566,6 +3566,11 @@
       "Time": "2023-07-22T11:05:03.7164975+00:00",
       "NumProgressed": 7950,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-22T12:04:41.2315564+00:00",
+      "NumProgressed": 7951,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3577,7 +3582,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "Chatterbox",
@@ -3601,7 +3606,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3649,7 +3654,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "GoHome",
@@ -3657,7 +3662,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "HeroSlayer",
@@ -3705,7 +3710,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3761,22 +3766,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7950,
+      "Progressed": 7951,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:05:03.716497+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:04:41.2315559+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:59:38.1070202+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:05:03.7165494+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:59:09.9062158+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:04:41.2315893+00:00"
 }

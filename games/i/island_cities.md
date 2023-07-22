@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~384 |
-| A tiny town | 86.00% | ~341 |
-| Buildings, roads, cars, ...and people | 66.00% | ~261 |
-| Great view from the beach and from the hill | 57.00% | ~226 |
-| Bridges to come and go | 50.00% | ~198 |
-| Found an oasis | 43.00% | ~170 |
-| Burger or pizza? | 39.00% | ~154 |
+| Welcome! | 97.00% | ~386 |
+| A tiny town | 86.00% | ~342 |
+| Buildings, roads, cars, ...and people | 66.00% | ~263 |
+| Great view from the beach and from the hill | 56.00% | ~223 |
+| Bridges to come and go | 49.00% | ~195 |
+| Found an oasis | 43.00% | ~171 |
+| Burger or pizza? | 39.00% | ~155 |
 | Passion for sports | 33.00% | ~131 |
 | Who loves trains? | 30.00% | ~119 |
-| Easy and steady climb | 29.00% | ~115 |
-| At the heart of the city | 26.00% | ~103 |
-| Calm neighborhood | 25.00% | ~99 |
-| Elevated ring | 23.00% | ~91 |
-| Not lonely anymore | 22.00% | ~87 |
-| Monumental tribute | 22.00% | ~87 |
-| The beach is right there | 20.00% | ~79 |
-| Commuting | 20.00% | ~79 |
-| Le jardin magnifique | 19.00% | ~75 |
-| Aiming for a living and human city | 19.00% | ~75 |
-| City of dreams | 18.00% | ~71 |
-| Happy Christmas night! | 18.00% | ~71 |
-| Night walk along the beach | 18.00% | ~71 |
+| Easy and steady climb | 28.00% | ~111 |
+| At the heart of the city | 25.00% | ~100 |
+| Calm neighborhood | 25.00% | ~100 |
+| Elevated ring | 23.00% | ~92 |
+| Not lonely anymore | 22.00% | ~88 |
+| Monumental tribute | 22.00% | ~88 |
+| The beach is right there | 20.00% | ~80 |
+| Commuting | 20.00% | ~80 |
+| Le jardin magnifique | 19.00% | ~76 |
+| Aiming for a living and human city | 19.00% | ~76 |
+| City of dreams | 18.00% | ~72 |
+| Happy Christmas night! | 18.00% | ~72 |
+| Night walk along the beach | 18.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 229)  
-Completed: 74 (18.69%) (Ranked 11)  
+Progressed: 398 (Ranked 228)  
+Completed: 74 (18.59%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 74 (18.69%) (Ranked 11)
 | 2023-07-17 | 383 | 71 |
 | 2023-07-20 | 384 | 71 |
 | 2023-07-21 | 394 | 71 |
-| 2023-07-22 | 396 | 74 |
+| 2023-07-22 | 398 | 74 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

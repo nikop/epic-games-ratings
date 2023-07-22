@@ -7,21 +7,21 @@
 | In the Black | 57.00% | ~139 |
 | Starting Skyward | 51.00% | ~124 |
 | Grime is Not Good | 44.00% | ~107 |
-| Campaign Launch | 38.00% | ~92 |
+| Campaign Launch | 38.00% | ~93 |
 | Floor Galore | 37.00% | ~90 |
-| Dinner Dash | 37.00% | ~90 |
-| Need a Consult | 35.00% | ~85 |
+| Dinner Dash | 36.00% | ~88 |
+| Need a Consult | 34.00% | ~83 |
 | It's Technical | 34.00% | ~83 |
-| Upgrade Unlock | 33.00% | ~80 |
+| Upgrade Unlock | 32.00% | ~78 |
 | Delegate Maintenance | 32.00% | ~78 |
-| Proper Walls | 31.00% | ~75 |
-| Destination Destiny | 28.00% | ~68 |
+| Proper Walls | 31.00% | ~76 |
+| Destination Destiny | 27.00% | ~66 |
 | Happy Tenants | 25.00% | ~61 |
 | Your Prestige is Rising | 23.00% | ~56 |
 | Potent Potables | 23.00% | ~56 |
 | Retail Revenue | 23.00% | ~56 |
 | Smooth Service | 23.00% | ~56 |
-| Leveled Up Shops | 22.00% | ~53 |
+| Leveled Up Shops | 22.00% | ~54 |
 | Lux Living | 21.00% | ~51 |
 | People Mover | 21.00% | ~51 |
 | Emporium Empire | 20.00% | ~49 |
@@ -29,27 +29,27 @@
 | Artfully Done | 19.00% | ~46 |
 | Rehab Expert | 19.00% | ~46 |
 | Don't Feel a Loan | 19.00% | ~46 |
-| Tasty Profits | 19.00% | ~46 |
 | We Don't Need No Education | 19.00% | ~46 |
+| Tasty Profits | 18.00% | ~44 |
 | Under One Roof | 16.00% | ~39 |
 | Established Fame | 16.00% | ~39 |
 | Cashflow Chief | 16.00% | ~39 |
-| Starred Dining | 15.00% | ~36 |
-| Boutique Benefits | 15.00% | ~36 |
-| Terrifically Trashed | 15.00% | ~36 |
+| Starred Dining | 15.00% | ~37 |
+| Boutique Benefits | 15.00% | ~37 |
+| Terrifically Trashed | 15.00% | ~37 |
 | Thrilled Tenants | 14.00% | ~34 |
 | Smooth Operator | 13.00% | ~32 |
-| 28 Days Later | 12.00% | ~29 |
 | Swimming in Surplus | 12.00% | ~29 |
+| 28 Days Later | 11.00% | ~27 |
 | Master of Puppets | 10.00% | ~24 |
 | Plaza Plan | 9.00% | ~22 |
 | Refined Palates | 9.00% | ~22 |
 | Phoning It In | 9.00% | ~22 |
-| First 100 Days | 8.00% | ~19 |
-| Aestheticly Pleased | 8.00% | ~19 |
-| Meet Me at HQ | 8.00% | ~19 |
-| Revenue Royalty | 8.00% | ~19 |
-| Pipe Up | 8.00% | ~19 |
+| First 100 Days | 8.00% | ~20 |
+| Aestheticly Pleased | 8.00% | ~20 |
+| Meet Me at HQ | 8.00% | ~20 |
+| Revenue Royalty | 8.00% | ~20 |
+| Pipe Up | 8.00% | ~20 |
 | Careful Constructor | 7.00% | ~17 |
 | Water Features | 7.00% | ~17 |
 | Sky High Stature | 7.00% | ~17 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 257)  
+Progressed: 244 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
 | 2023-07-21 | 239 | 0 |
-| 2023-07-22 | 243 | 0 |
+| 2023-07-22 | 244 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

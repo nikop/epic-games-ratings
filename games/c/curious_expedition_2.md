@@ -39,7 +39,7 @@ Number of Ratings: 20  (23.09.2022)
 | Plays Well With Others | 13.00% | ~42 |
 | And Here Is Your Statue | 12.00% | ~38 |
 | Very Classy | 12.00% | ~38 |
-| Under the Table | 10.00% | ~32 |
+| Under the Table | 11.00% | ~35 |
 | It's Complicated | 10.00% | ~32 |
 | Errand Runner | 9.00% | ~29 |
 | SCHMETTERLING | 8.00% | ~26 |

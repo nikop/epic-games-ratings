@@ -5,22 +5,22 @@ Rating: 3.51 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,328 |
-| Ne Plus Ultra | 61.00% | ~1,052 |
-| Home Is Where the Heart Is | 60.00% | ~1,035 |
-| Wounded Whispers | 60.00% | ~1,035 |
+| I Like My Stakes Rare! | 77.00% | ~1,329 |
+| Ne Plus Ultra | 61.00% | ~1,053 |
+| Home Is Where the Heart Is | 60.00% | ~1,036 |
+| Wounded Whispers | 60.00% | ~1,036 |
 | Blood Will Have Blood | 51.00% | ~880 |
 | ICU | 46.00% | ~794 |
-| Catch and Release | 45.00% | ~776 |
+| Catch and Release | 45.00% | ~777 |
 | Peek-a-boo | 44.00% | ~759 |
 | Sucks To Be You | 43.00% | ~742 |
 | Welcome to the Neighborhood | 38.00% | ~656 |
 | Fly Fisher | 36.00% | ~621 |
 | Throw The First Stone | 35.00% | ~604 |
-| Enter of Your Own Free Will | 34.00% | ~586 |
-| Heart Attack | 33.00% | ~569 |
+| Enter of Your Own Free Will | 34.00% | ~587 |
+| Heart Attack | 33.00% | ~570 |
 | Skin of Their Teeth | 31.00% | ~535 |
-| Grounded | 25.00% | ~431 |
+| Grounded | 25.00% | ~432 |
 | Bad Wiring | 22.00% | ~380 |
 | I Spit On Your Grave | 19.00% | ~328 |
 | Neighborhood Revitalization | 16.00% | ~276 |
@@ -43,13 +43,13 @@ Rating: 3.51 (Ranked 953)
 | Harvest’s End | 3.00% | ~52 |
 | Blacklight Down | 3.00% | ~52 |
 | Curious Finch | 3.00% | ~52 |
-| Neighborhood Watch | 2.00% | ~34 |
-| Scream Team | 2.00% | ~34 |
-| Blood Brother | 2.00% | ~34 |
-| Empty Nest Syndrome | 2.00% | ~34 |
-| Bloody Initiate | 2.00% | ~34 |
-| Under a Bushel | 2.00% | ~34 |
-| Dexterity Save | 2.00% | ~34 |
+| Neighborhood Watch | 2.00% | ~35 |
+| Scream Team | 2.00% | ~35 |
+| Blood Brother | 2.00% | ~35 |
+| Empty Nest Syndrome | 2.00% | ~35 |
+| Bloody Initiate | 2.00% | ~35 |
+| Under a Bushel | 2.00% | ~35 |
+| Dexterity Save | 2.00% | ~35 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
 | Sisterhood | 1.00% | ~17 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 953)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,725 (Ranked 168)  
+Progressed: 1,726 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-15 | 1,722 | 0 |
 | 2023-07-17 | 1,724 | 0 |
 | 2023-07-20 | 1,725 | 0 |
+| 2023-07-22 | 1,726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

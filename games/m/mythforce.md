@@ -6,38 +6,38 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flawless Victory | 12.00% | ~16 |
-| That'll Leave a Mark | 12.00% | ~16 |
+| Flawless Victory | 12.00% | ~17 |
+| That'll Leave a Mark | 12.00% | ~17 |
 | Faceroll the Bones | 11.00% | ~15 |
 | First Strike | 11.00% | ~15 |
 | Hit 'Em Where It Hurts | 11.00% | ~15 |
 | Debuff Dogpile | 10.00% | ~14 |
-| Perk Shard Punch Card | 9.00% | ~12 |
-| Ten Steps from the Grave | 9.00% | ~12 |
+| Perk Shard Punch Card | 9.00% | ~13 |
+| Ten Steps from the Grave | 9.00% | ~13 |
 | Cold-Blooded Critters | 8.00% | ~11 |
 | Spending Spree | 8.00% | ~11 |
 | Everything Must Go! | 7.00% | ~10 |
 | Mushroom Madness! | 7.00% | ~10 |
-| Next Time on MythForce... | 7.00% | ~10 |
 | Deadication | 6.00% | ~8 |
 | The Harder They Fall | 6.00% | ~8 |
 | Horder Better Faster Stronger | 6.00% | ~8 |
+| Next Time on MythForce... | 6.00% | ~8 |
 | On this Episode! | 6.00% | ~8 |
 | The Fourth Gate | 5.00% | ~7 |
-| Season Finale | 4.00% | ~5 |
+| Season Finale | 4.00% | ~6 |
 | We've Got a Kaiju on the Field | 0.70% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 293)  
+Progressed: 139 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
-| 2023-07-22 | 137 | 0 |
+| 2023-07-22 | 139 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 350)  

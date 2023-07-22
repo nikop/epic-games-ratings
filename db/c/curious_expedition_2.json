@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "ach-drinkingContest",
       "SetID": "17ih7ma",
       "Name": "Under the Table",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-environmentKill",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-22T11:04:45.2640285+00:00",
+  "LastChanged_Achievements": "2023-07-22T12:04:25.0441944+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:06.2898993+00:00",
-  "LastUpdate_Ratings": "2023-07-22T10:57:00.1835196+00:00",
-  "LastUpdate_Achievements": "2023-07-22T11:04:45.2640838+00:00"
+  "LastUpdate_Ratings": "2023-07-22T11:57:05.0689004+00:00",
+  "LastUpdate_Achievements": "2023-07-22T12:04:25.0442501+00:00"
 }
