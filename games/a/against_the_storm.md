@@ -43,7 +43,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~160 |
 | Defying the Crown | 1.00% | ~160 |
 | Efficient Explorer | 0.80% | ~128 |
-| Prestigious Expedition | 0.70% | ~112 |
+| Prestigious Expedition | 0.80% | ~128 |
 | Blood Flower Farmer | 0.70% | ~112 |
 | Victory through Prosperity | 0.70% | ~112 |
 | Feeding The People | 0.60% | ~96 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Beaver Utopia | 0.40% | ~64 |
 | The Queen's Chosen | 0.40% | ~64 |
 | Harpy Utopia | 0.30% | ~48 |
+| Ruins | 0.30% | ~48 |
 | Treasure | 0.20% | ~32 |
-| Ruins | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)

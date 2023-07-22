@@ -22,9 +22,9 @@ Rating: 4.65 (Ranked 298)
 | Private Collection | 24.00% | ~1,786 |
 | Killer Looks | 24.00% | ~1,786 |
 | Hostile Takeover | 24.00% | ~1,786 |
+| Keycards Royale | 23.00% | ~1,712 |
 | Dr. No Kill | 23.00% | ~1,712 |
 | My Motto, My Creed | 23.00% | ~1,712 |
-| Keycards Royale | 22.00% | ~1,637 |
 | In It to Win It | 21.00% | ~1,563 |
 | Security Supervisor | 10.00% | ~744 |
 | License to Thrill | 9.00% | ~670 |

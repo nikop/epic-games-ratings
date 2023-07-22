@@ -3,9 +3,9 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 97,
+  "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 111,
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 86,
@@ -5028,18 +5028,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 6894,
       "NumberOfAwardsMax": 2551
+    },
+    {
+      "Time": "2023-07-22T13:02:38.3649006+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6902,
+      "NumberOfAwardsMax": 2555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6894,
-  "NumberOfAwardsMax": 2551,
+  "NumberOfAwards": 6902,
+  "NumberOfAwardsMax": 2555,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2551
+      "Count": 2555
     },
     {
       "Text": "This game is Relaxing",
@@ -5051,7 +5057,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 563
+      "Count": 567
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5119,8 +5125,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-07-22T07:01:12.8988678+00:00",
+  "LastChanged": "2023-07-22T13:02:38.3649004+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:21.400446+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:59:27.1451191+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:04:09.043932+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:02:38.3649012+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:07:28.5003099+00:00"
 }

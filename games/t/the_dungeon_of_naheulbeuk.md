@@ -6,49 +6,49 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~113,126 |
-| Where's that freaking Dwarf? | 46.00% | ~89,720 |
-| GG EZ | 28.00% | ~54,612 |
-| Speedrun | 26.00% | ~50,711 |
-| Déjà vu | 21.00% | ~40,959 |
-| Sock! SOCK! | 17.00% | ~33,157 |
-| DM intervention | 13.00% | ~25,356 |
-| Fireproof Wizardess | 9.00% | ~17,554 |
-| Livin' in a dwarven paradise | 7.00% | ~13,653 |
-| Way of the Wimp | 7.00% | ~13,653 |
-| A beer, two curses, three companions | 7.00% | ~13,653 |
-| The plot thickens... At the tavern | 5.00% | ~9,752 |
-| The Woman in the High Castle | 4.00% | ~7,802 |
-| Shiny and Crôm | 3.00% | ~5,851 |
-| The demons' feast | 3.00% | ~5,851 |
-| I am the night | 3.00% | ~5,851 |
-| Team Building Exercise | 3.00% | ~5,851 |
-| Oh, when I'll be level 10... | 3.00% | ~5,851 |
-| The Great Library | 2.00% | ~3,901 |
-| Torture and Sensibility | 2.00% | ~3,901 |
-| Res Judicata | 2.00% | ~3,901 |
-| Dwarf Fortress | 2.00% | ~3,901 |
-| The beards of change | 2.00% | ~3,901 |
-| The Ranger of Chaos | 2.00% | ~3,901 |
-| Thieves' Guild Accreditation | 2.00% | ~3,901 |
-| Material Girl | 2.00% | ~3,901 |
-| Urik's Depths | 1.00% | ~1,950 |
-| The Statuette of Gladeulfeurah | 1.00% | ~1,950 |
-| A tale of adventurers not quite like the others... | 1.00% | ~1,950 |
-| Look but don't touch | 1.00% | ~1,950 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~1,950 |
-| Gargantua | 1.00% | ~1,950 |
-| In Navalu's footsteps | 1.00% | ~1,950 |
-| Lust and Debauchery | 1.00% | ~1,950 |
-| The Dungeon Master | 0.80% | ~1,560 |
-| The Famous Dungeon of Naheulbeuk | 0.80% | ~1,560 |
-| Dead for good | 0.80% | ~1,560 |
-| Law and Order | 0.80% | ~1,560 |
-| It's been a hard day's night | 0.80% | ~1,560 |
-| Lëgal Legend | 0.70% | ~1,365 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,170 |
-| I'd rather... Just... Sing! | 0.50% | ~975 |
-| The number of the counting shalt be 7 | 0.50% | ~975 |
+| Alt+F4 | 58.00% | ~113,170 |
+| Where's that freaking Dwarf? | 46.00% | ~89,755 |
+| GG EZ | 28.00% | ~54,634 |
+| Speedrun | 26.00% | ~50,731 |
+| Déjà vu | 21.00% | ~40,975 |
+| Sock! SOCK! | 17.00% | ~33,170 |
+| DM intervention | 13.00% | ~25,366 |
+| Fireproof Wizardess | 9.00% | ~17,561 |
+| Livin' in a dwarven paradise | 7.00% | ~13,658 |
+| Way of the Wimp | 7.00% | ~13,658 |
+| A beer, two curses, three companions | 7.00% | ~13,658 |
+| The plot thickens... At the tavern | 5.00% | ~9,756 |
+| The Woman in the High Castle | 4.00% | ~7,805 |
+| Shiny and Crôm | 3.00% | ~5,854 |
+| The demons' feast | 3.00% | ~5,854 |
+| I am the night | 3.00% | ~5,854 |
+| Team Building Exercise | 3.00% | ~5,854 |
+| Oh, when I'll be level 10... | 3.00% | ~5,854 |
+| The Great Library | 2.00% | ~3,902 |
+| Torture and Sensibility | 2.00% | ~3,902 |
+| Res Judicata | 2.00% | ~3,902 |
+| Dwarf Fortress | 2.00% | ~3,902 |
+| The beards of change | 2.00% | ~3,902 |
+| The Ranger of Chaos | 2.00% | ~3,902 |
+| Thieves' Guild Accreditation | 2.00% | ~3,902 |
+| Material Girl | 2.00% | ~3,902 |
+| Urik's Depths | 1.00% | ~1,951 |
+| The Statuette of Gladeulfeurah | 1.00% | ~1,951 |
+| A tale of adventurers not quite like the others... | 1.00% | ~1,951 |
+| Look but don't touch | 1.00% | ~1,951 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~1,951 |
+| Gargantua | 1.00% | ~1,951 |
+| In Navalu's footsteps | 1.00% | ~1,951 |
+| Lust and Debauchery | 1.00% | ~1,951 |
+| The Dungeon Master | 0.80% | ~1,561 |
+| The Famous Dungeon of Naheulbeuk | 0.80% | ~1,561 |
+| Dead for good | 0.80% | ~1,561 |
+| Law and Order | 0.80% | ~1,561 |
+| It's been a hard day's night | 0.80% | ~1,561 |
+| Lëgal Legend | 0.70% | ~1,366 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,171 |
+| I'd rather... Just... Sing! | 0.50% | ~976 |
+| The number of the counting shalt be 7 | 0.50% | ~976 |
 | Friendly fire | 0.40% | ~780 |
 | Holistic Adventuring Party | 0.30% | ~585 |
 | Scholar of the Lands of Fangh | 0.30% | ~585 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,044 (Ranked 56)  
+Progressed: 195,120 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 192,371 | 0 |
 | 2023-07-20 | 193,404 | 0 |
 | 2023-07-21 | 194,527 | 0 |
-| 2023-07-22 | 195,044 | 0 |
+| 2023-07-22 | 195,120 | 0 |
 ## Awards
 Max (Character Customization): 123  (Ranked 308)  
 Sum: 123 (Ranked 400)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.92,
   "EosHistory": [
@@ -1572,6 +1572,11 @@
       "Time": "2023-07-22T11:01:46.194895+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-22T13:06:15.3063399+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1615,7 +1620,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_FineEV9",
@@ -1647,7 +1652,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1655,7 +1660,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1663,22 +1668,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:02:13.6683255+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:06:15.3063393+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-22T12:00:04.2118983+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:02:13.6683431+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:03:19.9062792+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:06:15.3063615+00:00"
 }

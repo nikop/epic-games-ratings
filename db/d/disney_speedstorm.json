@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2985,
+  "EOS_Progressed": 2986,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 3.55,
   "EosHistory": [
@@ -3650,6 +3650,11 @@
       "Time": "2023-07-22T10:05:40.3411855+00:00",
       "NumProgressed": 2985,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-22T13:08:57.6039191+00:00",
+      "NumProgressed": 2986,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 24,
@@ -3757,7 +3762,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "21",
@@ -3781,7 +3786,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "24",
@@ -3789,7 +3794,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "3",
@@ -3813,7 +3818,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "6",
@@ -3852,13 +3857,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2985,
+      "Progressed": 2986,
       "Completed": 106
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:05:40.6458075+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:57.6039185+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:59:05.9877295+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:40.6458462+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:02:19.0836559+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:57.6039737+00:00"
 }

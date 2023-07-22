@@ -6,8 +6,10 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 37.00% | ~17 |
 | First Step | 35.00% | ~16 |
+| Capitalism | 2.00% | ~1 |
 | Pathfinder | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
+| Green Energy | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
@@ -33,7 +35,6 @@
 | Reconquest | 0.00% | ~0 |
 | Indebted | 0.00% | ~0 |
 | Good payer | 0.00% | ~0 |
-| Capitalism | 0.00% | ~0 |
 | Self-sufficient | 0.00% | ~0 |
 | Food Tycoon | 0.00% | ~0 |
 | Fuel Tycoon | 0.00% | ~0 |
@@ -46,7 +47,6 @@
 | Desert Rat | 0.00% | ~0 |
 | Winter Soldier | 0.00% | ~0 |
 | Researcher | 0.00% | ~0 |
-| Green Energy | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 353)  

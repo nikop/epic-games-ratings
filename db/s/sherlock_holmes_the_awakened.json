@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.64,
+  "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1816,6 +1816,11 @@
       "Time": "2023-07-22T04:08:47.3324579+00:00",
       "NumProgressed": 539,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-22T13:09:08.7747598+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1835,7 +1840,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MQ02_1",
@@ -1851,7 +1856,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MQ02_3",
@@ -1875,7 +1880,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "MQ03_2",
@@ -1883,7 +1888,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ03_3",
@@ -1891,7 +1896,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MQ03_4",
@@ -1923,15 +1928,15 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 265
     },
     {
       "ID": "MQ05_1",
@@ -1939,7 +1944,7 @@
       "Name": "Open Sesame",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ05_2",
@@ -1955,7 +1960,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ05_4",
@@ -1963,7 +1968,7 @@
       "Name": "Knives Out",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ06_1",
@@ -2011,7 +2016,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MQ08_1",
@@ -2027,7 +2032,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "MQ08_3",
@@ -2050,7 +2055,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 25
     }
   ],
@@ -2058,8 +2063,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:05:51.930642+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:09:08.7747591+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:36.2126445+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:51.9306703+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:00:49.2478856+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:09:08.7748037+00:00"
 }

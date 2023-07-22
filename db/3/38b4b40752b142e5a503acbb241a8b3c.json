@@ -2,7 +2,7 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1 Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 86,
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:05:20.7176533+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:37.8826718+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.2413284+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:25.9129142+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:20.7176561+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:00:38.0987689+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:37.8826754+00:00"
 }

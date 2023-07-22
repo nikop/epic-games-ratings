@@ -6,10 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.60% | ~78 |
-| The Great Mage | 0.40% | ~52 |
+| The Clergy | 0.70% | ~91 |
+| The Great Mage | 0.50% | ~65 |
 | Poetic Leader | 0.30% | ~39 |
+| Able | 0.20% | ~26 |
+| Explorer | 0.20% | ~26 |
 | Settler | 0.20% | ~26 |
+| Friendly Family | 0.20% | ~26 |
 | Play a Single Player Game | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -27,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 2) | 0.10% | ~13 |
 | Silver Victory (Carthage 2) | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
-| Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
@@ -38,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
 | Enlightened | 0.10% | ~13 |
-| Explorer | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
 | Glorious | 0.10% | ~13 |
 | Good | 0.10% | ~13 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~13 |
 | Statesmen | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
-| Friendly Family | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
+| Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
@@ -269,7 +270,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Cao'an | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,005 (Ranked 114)  
+Progressed: 13,009 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,005 | 5 |
+| 2023-07-22 | 13,009 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

@@ -12,11 +12,11 @@
 | Thick Skin | 67.00% | ~107 |
 | Math Wizard | 65.00% | ~104 |
 | Destroy Erase Improve | 64.00% | ~102 |
-| Power Overload | 62.00% | ~99 |
+| Power Overload | 63.00% | ~101 |
 | Quite A Snack | 57.00% | ~91 |
 | Overwhelming Power | 54.00% | ~86 |
 | Impenetrable Skin | 53.00% | ~85 |
-| Chomp Chomp! | 43.00% | ~69 |
+| Chomp Chomp! | 44.00% | ~70 |
 | Supreme Power | 42.00% | ~67 |
 | Glorious Battle | 41.00% | ~66 |
 | Diaper Time! | 40.00% | ~64 |

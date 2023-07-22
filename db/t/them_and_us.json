@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-07-22T12:05:39.5479343+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T13:08:56.7104239+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -710,7 +715,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -788,9 +793,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -844,9 +849,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_OutRage",
@@ -902,7 +907,7 @@
       "Name": "Safe...For now?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ETUA_StayDead",
@@ -982,7 +987,7 @@
       "Name": "A Night To Remember",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ETUA_Trapped",
@@ -1013,7 +1018,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
@@ -1021,8 +1026,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:05:39.5479337+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:56.7104233+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:30.016527+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:39.5479679+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:00:43.3901812+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:56.7104632+00:00"
 }

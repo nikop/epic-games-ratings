@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2023-07-22T12:04:27.8927378+00:00",
       "NumProgressed": 826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T13:07:46.6115779+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1392,7 +1397,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1400,7 +1405,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1456,7 +1461,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1472,7 +1477,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1480,7 +1485,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1496,7 +1501,7 @@
       "Name": "Post No Bills",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1520,7 +1525,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1528,14 +1533,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 0
     }
   ],
@@ -1543,8 +1548,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:04:27.8927374+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:07:46.6115773+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:48.2654854+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:04:27.8927627+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:01:00.9483605+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:07:46.6116076+00:00"
 }

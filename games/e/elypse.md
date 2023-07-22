@@ -8,7 +8,7 @@
 | A bottomless pit | 86.00% | ~61 |
 | Pigeon | 82.00% | ~58 |
 | Baited | 69.00% | ~49 |
-| "Swoosh" | 59.00% | ~42 |
+| "Swoosh" | 61.00% | ~43 |
 | The light at the end of the tunnel | 58.00% | ~41 |
 | Splash! | 56.00% | ~40 |
 | Masochistic | 51.00% | ~36 |
@@ -32,7 +32,7 @@
 | GG EZ | 14.00% | ~10 |
 | Comeback | 14.00% | ~10 |
 | MayDay! MayDay! | 13.00% | ~9 |
-| Gooooooaaaaal!!! | 8.00% | ~6 |
+| Gooooooaaaaal!!! | 10.00% | ~7 |
 | Sadistic | 1.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

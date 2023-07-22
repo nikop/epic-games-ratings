@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13005,
+  "EOS_Progressed": 13009,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8277,6 +8277,11 @@
       "Time": "2023-07-22T12:05:01.4977825+00:00",
       "NumProgressed": 13005,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T13:08:19.8571993+00:00",
+      "NumProgressed": 13009,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8614,9 +8619,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -8718,9 +8723,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -9198,9 +9203,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -9678,9 +9683,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -10566,9 +10571,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -10598,9 +10603,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -10655,21 +10660,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13005,
+      "Progressed": 13009,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13005,
+      "Progressed": 13009,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:05:01.4977817+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:19.8571988+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:58:13.6669754+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:01.4986281+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:01:26.3382432+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:19.8580664+00:00"
 }

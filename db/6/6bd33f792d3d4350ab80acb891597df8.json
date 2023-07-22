@@ -110,17 +110,17 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 87,
+      "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -182,9 +182,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 87,
+      "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -222,9 +222,9 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 93,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:04:44.5171162+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:03.1203451+00:00",
   "LastUpdate_AppInfo": "2023-07-18T11:56:59.8645708+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:19.3165446+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:04:44.5171368+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:00:31.7006042+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:03.1203681+00:00"
 }

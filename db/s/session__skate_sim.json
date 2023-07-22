@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2561,
+  "EOS_Progressed": 2563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3276,6 +3276,11 @@
       "Time": "2023-07-22T12:00:33.735412+00:00",
       "NumProgressed": 2561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T13:03:47.2135765+00:00",
+      "NumProgressed": 2563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3319,7 +3324,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -3343,7 +3348,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -3391,7 +3396,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3399,7 +3404,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_GOLDEN",
@@ -3455,7 +3460,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -3471,7 +3476,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -3503,7 +3508,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -3511,7 +3516,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -3527,7 +3532,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -3535,7 +3540,7 @@
       "Name": "Skatepark hero",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -3559,7 +3564,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -3599,7 +3604,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -3607,7 +3612,7 @@
       "Name": "The hard way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -3623,7 +3628,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -3647,7 +3652,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -3655,7 +3660,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3663,22 +3668,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2561,
+      "Progressed": 2563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:00:33.7354115+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:03:47.2135756+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:59:14.2171485+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:00:33.735472+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:02:27.3596202+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:03:47.2136381+00:00"
 }

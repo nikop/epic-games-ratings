@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9061,
+  "EOS_Progressed": 9063,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6647,6 +6647,11 @@
       "Time": "2023-07-22T12:03:47.2028091+00:00",
       "NumProgressed": 9061,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T13:07:07.2388457+00:00",
+      "NumProgressed": 9063,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6674,7 +6679,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH04",
@@ -6714,7 +6719,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH09",
@@ -6762,7 +6767,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH15",
@@ -6786,7 +6791,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH18",
@@ -6818,7 +6823,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "ACH22",
@@ -6826,7 +6831,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH23",
@@ -6834,7 +6839,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH24",
@@ -6914,7 +6919,7 @@
       "Name": "Done it All",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH34",
@@ -6929,7 +6934,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9061,
+      "Progressed": 9063,
       "Completed": 43
     }
   ],
@@ -6937,8 +6942,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:03:47.2028086+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:07:07.238845+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:58:27.720258+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:03:47.2028669+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:01:41.4044602+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:07:07.2389335+00:00"
 }

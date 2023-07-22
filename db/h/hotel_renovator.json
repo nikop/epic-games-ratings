@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1093,9 +1093,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1230,8 +1230,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:04:27.202395+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:07:45.7962811+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:57:32.6549785+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:04:27.202419+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:00:45.7277209+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:07:45.7963097+00:00"
 }

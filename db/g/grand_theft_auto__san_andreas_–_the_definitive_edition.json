@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 226
     }
   ],
-  "EOS_Progressed": 11175,
+  "EOS_Progressed": 11180,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6991,6 +6991,11 @@
       "Time": "2023-07-22T12:06:25.5193389+00:00",
       "NumProgressed": 11175,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-22T13:09:40.4544887+00:00",
+      "NumProgressed": 11180,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7002,7 +7007,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9052
+      "UsersEstimate": 9056
     },
     {
       "ID": "ACH02",
@@ -7010,7 +7015,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH03",
@@ -7018,7 +7023,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH04",
@@ -7058,7 +7063,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5590
     },
     {
       "ID": "ACH09",
@@ -7122,7 +7127,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH17",
@@ -7138,7 +7143,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH19",
@@ -7178,7 +7183,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH24",
@@ -7226,7 +7231,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACH30",
@@ -7281,7 +7286,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11175,
+      "Progressed": 11180,
       "Completed": 31
     }
   ],
@@ -7289,8 +7294,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-22T03:01:36.706434+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:06:25.5193382+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:09:40.4544882+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-22T12:00:12.0228649+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:06:25.5194046+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:03:27.2159546+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:09:40.4545762+00:00"
 }

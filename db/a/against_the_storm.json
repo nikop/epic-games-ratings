@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2524,7 +2524,7 @@
   ],
   "EOS_Progressed": 15956,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7972,9 +7972,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 128
     },
     {
       "ID": "WinPrestige20",
@@ -8028,9 +8028,9 @@
       "ID": "WinWithRuins",
       "SetID": "cfbk359",
       "Name": "Ruins",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "WinWithTimedOrders",
@@ -8084,8 +8084,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-21T13:07:37.2570428+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:03:31.3996748+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:06:51.7401349+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-22T12:00:03.0424059+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:03:31.3997491+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:03:17.4547411+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:06:51.7402248+00:00"
 }

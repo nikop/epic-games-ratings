@@ -5,7 +5,7 @@
   "Ranking_Rating": 442,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 316,
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 86,
@@ -1480,10 +1480,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 388,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-07-22T13:03:41.3140862+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 388,
+  "NumberOfAwards": 390,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1497,7 +1503,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1571,8 +1577,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-07-21T22:02:24.6171346+00:00",
+  "LastChanged": "2023-07-22T13:03:41.314086+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.9919964+00:00",
-  "LastUpdate_Ratings": "2023-07-22T12:00:28.327106+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:05:14.2769593+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:03:41.3140867+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:31.6178233+00:00"
 }

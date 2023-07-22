@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2023-07-20T17:05:59.3139727+00:00",
       "NumProgressed": 369,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T13:08:14.3753122+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -628,7 +633,7 @@
       "Name": "CELEBRITY",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -642,9 +647,9 @@
       "ID": "GB_CRIMINAL",
       "SetID": "8ga3kd9",
       "Name": "CRIMINAL",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 204
     },
     {
       "ID": "GB_DEBTOR",
@@ -668,7 +673,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "GB_GOURMET",
@@ -682,9 +687,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "GB_GRATITUDE",
@@ -740,7 +745,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "GB_KEVIN",
@@ -772,7 +777,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -786,9 +791,9 @@
       "ID": "GB_PATTY_KILLER",
       "SetID": "8ga3kd9",
       "Name": "PATTY-KILLER",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "GB_PRUDENT",
@@ -836,14 +841,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 1
     }
   ],
@@ -851,8 +856,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-07-22T12:04:55.8995744+00:00",
+  "LastChanged_Achievements": "2023-07-22T13:08:14.3753115+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.5153912+00:00",
-  "LastUpdate_Ratings": "2023-07-22T11:58:34.1934511+00:00",
-  "LastUpdate_Achievements": "2023-07-22T12:04:55.8995966+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:01:48.0538698+00:00",
+  "LastUpdate_Achievements": "2023-07-22T13:08:14.3753375+00:00"
 }
