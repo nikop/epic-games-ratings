@@ -28,7 +28,7 @@
 | Final Charge | 11.00% | ~25 |
 | Cataclysm | 11.00% | ~25 |
 | Summer Luvin' | 4.00% | ~9 |
-| You Are Terminated | 1.00% | ~2 |
+| You Are Terminated | 2.00% | ~5 |
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

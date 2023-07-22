@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 238495,
+  "EOS_Progressed": 238498,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10483,6 +10483,11 @@
       "Time": "2023-07-22T21:03:20.5365459+00:00",
       "NumProgressed": 238495,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-22T22:03:23.9150658+00:00",
+      "NumProgressed": 238498,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10534,7 +10539,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26234
+      "UsersEstimate": 26235
     },
     {
       "ID": "ACH_ENJOY",
@@ -10558,7 +10563,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28619
+      "UsersEstimate": 28620
     },
     {
       "ID": "ACH_HATTRICK",
@@ -10710,7 +10715,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57239
+      "UsersEstimate": 57240
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -10909,7 +10914,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238495,
+      "Progressed": 238498,
       "Completed": 7
     }
   ],
@@ -10917,8 +10922,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:03:20.5365456+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:03:23.9150654+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:58:34.1150339+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:03:20.5366342+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:58:14.0455372+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:03:23.9151784+00:00"
 }

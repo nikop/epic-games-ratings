@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,11 +354,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2613,
+  "EOS_Progressed": 2614,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.87,
+  "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2039,6 +2039,11 @@
       "Time": "2023-07-22T18:04:52.1209751+00:00",
       "NumProgressed": 2613,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-22T22:04:56.4248824+00:00",
+      "NumProgressed": 2614,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2066,7 +2071,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_CLIMBER",
@@ -2090,7 +2095,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2106,7 +2111,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2130,7 +2135,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2144,9 +2149,9 @@
       "ID": "ACH_TREASURE_HUNT",
       "SetID": "4kfb9pd",
       "Name": "Treasure Hunt",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 810
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2161,7 +2166,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 101
     }
   ],
@@ -2169,8 +2174,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:05:37.5868256+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:04:56.4248817+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:01:26.45776+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:05:37.5868446+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:00:15.9353706+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:04:56.4249103+00:00"
 }

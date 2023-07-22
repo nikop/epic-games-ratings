@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~118 |
-| Forced to Kill | 68.00% | ~114 |
-| A Night To Remember | 37.00% | ~62 |
+| Alone with Them | 69.00% | ~117 |
+| Forced to Kill | 67.00% | ~113 |
+| A Night To Remember | 37.00% | ~63 |
 | Safe...For now? | 31.00% | ~52 |
-| Open Sesame | 27.00% | ~45 |
+| Open Sesame | 27.00% | ~46 |
 | What have I done!? | 16.00% | ~27 |
 | Them and Us | 15.00% | ~25 |
 | OUTRAGE | 15.00% | ~25 |
 | The Cultists | 12.00% | ~20 |
-| Alone In The Dark | 11.00% | ~18 |
-| Parasite Exterminated | 11.00% | ~18 |
-| The Forgotten Tower | 11.00% | ~18 |
-| This Coffin Has Your Name On It! | 11.00% | ~18 |
+| Alone In The Dark | 11.00% | ~19 |
+| Parasite Exterminated | 11.00% | ~19 |
+| The Forgotten Tower | 11.00% | ~19 |
+| This Coffin Has Your Name On It! | 11.00% | ~19 |
 | Lover of classics | 10.00% | ~17 |
 | Trapped | 9.00% | ~15 |
-| Modern Player | 8.00% | ~13 |
-| Rest In Peace | 8.00% | ~13 |
-| The Curse Is Real | 8.00% | ~13 |
+| Modern Player | 8.00% | ~14 |
+| Rest In Peace | 8.00% | ~14 |
+| The Curse Is Real | 8.00% | ~14 |
 | What A Mansion | 7.00% | ~12 |
 | Researcher | 6.00% | ~10 |
 | I Am The Gate Keeper! | 6.00% | ~10 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.60% | ~1 |
 | Survival Horror | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 281)  
-Completed: 1 (0.60%) (Ranked 120)  
+Progressed: 169 (Ranked 280)  
+Completed: 1 (0.59%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.60%) (Ranked 120)
 | 2023-07-14 | 151 | 1 |
 | 2023-07-16 | 152 | 1 |
 | 2023-07-21 | 162 | 1 |
-| 2023-07-22 | 168 | 1 |
+| 2023-07-22 | 169 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3491,
+  "EOS_Progressed": 3492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -808,6 +808,11 @@
       "Time": "2023-07-22T21:02:25.5073385+00:00",
       "NumProgressed": 3491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T22:02:26.4383293+00:00",
+      "NumProgressed": 3492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -819,7 +824,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -867,7 +872,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -899,7 +904,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -915,7 +920,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1019,14 +1024,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3491,
+      "Progressed": 3492,
       "Completed": 0
     }
   ],
@@ -1034,8 +1039,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:02:25.507338+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:02:26.4383288+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:23.6569602+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:00:21.7167326+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:02:25.5073552+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:59:31.9136552+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:02:26.438351+00:00"
 }

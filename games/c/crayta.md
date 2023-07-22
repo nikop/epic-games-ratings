@@ -20,15 +20,15 @@ Number of Ratings: 94  (23.09.2022)
 | Grouping Up - Bronze | 1.00% | ~1,095 |
 | Community Creativity | 1.00% | ~1,095 |
 | Shared! | 1.00% | ~1,095 |
-| These Are a Few of My Favorite Things - Bronze | 0.70% | ~766 |
+| These Are a Few of My Favorite Things - Bronze | 0.70% | ~767 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~657 |
 | Going Public! | 0.60% | ~657 |
 | Variety Player - Gold | 0.50% | ~548 |
 | Challenge Master | 0.50% | ~548 |
 | Getting Equipped! | 0.40% | ~438 |
-| Getting Creative - Bronze | 0.30% | ~328 |
-| Reap the Rewards! | 0.30% | ~328 |
-| Grouping Up - Silver | 0.30% | ~328 |
+| Getting Creative - Bronze | 0.30% | ~329 |
+| Reap the Rewards! | 0.30% | ~329 |
+| Grouping Up - Silver | 0.30% | ~329 |
 | Standing on the Shoulders of Giants - Silver | 0.20% | ~219 |
 | Getting Creative - Silver | 0.20% | ~219 |
 | Featured Gamer - Bronze | 0.20% | ~219 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,500 (Ranked 67)  
+Progressed: 109,501 (Ranked 67)  
 Completed: 5 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 5 (0.00%) (Ranked 240)
 | 2023-07-19 | 109,494 | 5 |
 | 2023-07-20 | 109,495 | 5 |
 | 2023-07-21 | 109,498 | 5 |
-| 2023-07-22 | 109,500 | 5 |
+| 2023-07-22 | 109,501 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 398)  
 Sum: 370 (Ranked 319)  

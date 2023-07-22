@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~142 |
-| Starting Skyward | 52.00% | ~127 |
+| In the Black | 57.00% | ~140 |
+| Starting Skyward | 52.00% | ~128 |
 | Grime is Not Good | 44.00% | ~108 |
 | Campaign Launch | 39.00% | ~96 |
 | Floor Galore | 38.00% | ~93 |
 | Dinner Dash | 37.00% | ~91 |
 | Need a Consult | 35.00% | ~86 |
-| It's Technical | 34.00% | ~83 |
+| It's Technical | 34.00% | ~84 |
 | Upgrade Unlock | 33.00% | ~81 |
-| Delegate Maintenance | 32.00% | ~78 |
-| Proper Walls | 31.00% | ~76 |
+| Delegate Maintenance | 32.00% | ~79 |
+| Proper Walls | 30.00% | ~74 |
 | Destination Destiny | 28.00% | ~69 |
-| Happy Tenants | 25.00% | ~61 |
+| Happy Tenants | 25.00% | ~62 |
 | Smooth Service | 24.00% | ~59 |
-| Your Prestige is Rising | 23.00% | ~56 |
-| Potent Potables | 23.00% | ~56 |
-| Retail Revenue | 23.00% | ~56 |
+| Your Prestige is Rising | 23.00% | ~57 |
+| Potent Potables | 23.00% | ~57 |
+| Retail Revenue | 23.00% | ~57 |
 | Lux Living | 22.00% | ~54 |
 | Leveled Up Shops | 22.00% | ~54 |
-| People Mover | 21.00% | ~51 |
+| People Mover | 21.00% | ~52 |
 | Emporium Empire | 20.00% | ~49 |
 | Get Electrified | 20.00% | ~49 |
 | Artfully Done | 19.00% | ~47 |
@@ -39,9 +39,9 @@
 | Terrifically Trashed | 15.00% | ~37 |
 | Thrilled Tenants | 14.00% | ~34 |
 | Smooth Operator | 13.00% | ~32 |
-| Swimming in Surplus | 12.00% | ~29 |
+| Swimming in Surplus | 12.00% | ~30 |
 | 28 Days Later | 11.00% | ~27 |
-| Master of Puppets | 10.00% | ~24 |
+| Master of Puppets | 10.00% | ~25 |
 | Plaza Plan | 9.00% | ~22 |
 | Refined Palates | 9.00% | ~22 |
 | Phoning It In | 9.00% | ~22 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 257)  
+Progressed: 246 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
 | 2023-07-21 | 239 | 0 |
-| 2023-07-22 | 245 | 0 |
+| 2023-07-22 | 246 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

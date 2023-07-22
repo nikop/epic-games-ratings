@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13075,
+  "EOS_Progressed": 13076,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -10815,6 +10815,11 @@
       "Time": "2023-07-22T21:02:32.0033805+00:00",
       "NumProgressed": 13075,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-22T22:03:10.8861069+00:00",
+      "NumProgressed": 13076,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -10914,7 +10919,7 @@
       "Name": "Homerunner",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "ICallItLuck",
@@ -10962,7 +10967,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "MoreThanHuman",
@@ -11050,7 +11055,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "RunningWild",
@@ -11098,7 +11103,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8106
+      "UsersEstimate": 8107
     },
     {
       "ID": "SwordToAGunfight",
@@ -11106,7 +11111,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "TripleA",
@@ -11146,7 +11151,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "WaveOfMutilation",
@@ -11154,7 +11159,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "WhereAreMyKeys",
@@ -11178,28 +11183,28 @@
       "Name": "Why not both",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 13075,
+      "Progressed": 13076,
       "Completed": 32
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 13075,
+      "Progressed": 13076,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-22T18:58:44.5000887+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:02:32.00338+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:03:10.8861064+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.3951611+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:58:43.9856412+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:02:32.0034557+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:58:19.6266364+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:03:10.8862114+00:00"
 }

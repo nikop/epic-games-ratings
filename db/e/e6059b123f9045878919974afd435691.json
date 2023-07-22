@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2023-07-22T10:04:55.9127824+00:00",
       "NumProgressed": 637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T22:05:05.515467+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1275,7 +1280,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1307,7 +1312,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1323,7 +1328,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -1347,7 +1352,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -1371,7 +1376,7 @@
       "Name": "Main Course",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -1537,9 +1542,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1555,7 +1560,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1641,9 +1646,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 134
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1794,14 +1799,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 638,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:05:50.0719938+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:05:05.5154665+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:57:08.6729395+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:05:50.0720525+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:57:15.4056245+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:05:05.515545+00:00"
 }

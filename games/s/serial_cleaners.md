@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| So it goes | 23.00% | ~49 |
 | Clean Conscience | 23.00% | ~49 |
-| So it goes | 22.00% | ~47 |
 | A New Broom Sweeps Clean | 12.00% | ~26 |
 | Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
@@ -19,9 +19,9 @@
 | All the Stories | 3.00% | ~6 |
 | Something Rotten | 3.00% | ~6 |
 | Witness Protection | 3.00% | ~6 |
+| Blood Capade | 1.00% | ~2 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
-| Blood Capade | 0.90% | ~2 |
 | Crazy SOB, You Did It | 0.90% | ~1 |
 | Bee Squat | 0.90% | ~2 |
 | The Germophobes | 0.90% | ~2 |

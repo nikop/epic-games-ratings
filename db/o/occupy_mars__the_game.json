@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2800,6 +2800,11 @@
       "Time": "2023-07-22T17:04:30.9021803+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T22:04:13.9336842+00:00",
+      "NumProgressed": 1427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2827,7 +2832,7 @@
       "Name": "Driver\u0027s License",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
@@ -2843,7 +2848,7 @@
       "Name": "Hard Landing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -2883,7 +2888,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -2891,7 +2896,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2931,7 +2936,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2963,7 +2968,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2985,9 +2990,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 471
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3003,7 +3008,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3027,7 +3032,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3035,7 +3040,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3059,7 +3064,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3067,7 +3072,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3081,9 +3086,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 328
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3171,7 +3176,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3187,14 +3192,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1427,
       "Completed": 0
     }
   ],
@@ -3202,8 +3207,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-17T08:58:14.4010535+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:04:40.9852545+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:04:13.9336835+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:15.5467087+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:57:54.2394241+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:04:40.9852985+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:57:47.4199739+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:04:13.9337485+00:00"
 }

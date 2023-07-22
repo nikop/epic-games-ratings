@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 460)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 22.00% | ~634 |
+| Wakey Wakey | 23.00% | ~663 |
 | Infinite Growth... | 19.00% | ~548 |
 | Sputnik 2049 | 19.00% | ~548 |
 | Without Breaking Some Eggs... | 18.00% | ~519 |
@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 460)
 | Gregor Spinoza | 0.90% | ~26 |
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.70% | ~20 |
-| Work Harder | 0.30% | ~9 |
+| Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |
 | Crunch Culture | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |

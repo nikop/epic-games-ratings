@@ -12,7 +12,7 @@ Rating: 4.48 (Ranked 587)
 | A Cheese Grater to the Face | 20.00% | ~216 |
 | It's like an haircut | 18.00% | ~194 |
 | Put it on a shelf | 18.00% | ~194 |
-| Suit up | 16.00% | ~172 |
+| Suit up | 16.00% | ~173 |
 | Walked like an Egyptian | 15.00% | ~162 |
 | Ride in the rising sun | 15.00% | ~162 |
 | Rookie No-No More | 13.00% | ~140 |
@@ -20,8 +20,8 @@ Rating: 4.48 (Ranked 587)
 | Martian explorer | 11.00% | ~119 |
 | To the core | 9.00% | ~97 |
 | Blurred photofinish | 9.00% | ~97 |
-| EZ game EZ life | 7.00% | ~75 |
-| First step into a larger world | 7.00% | ~75 |
+| EZ game EZ life | 7.00% | ~76 |
+| First step into a larger world | 7.00% | ~76 |
 | Over the clouds | 6.00% | ~65 |
 | Under the sea, under the sea | 6.00% | ~65 |
 | Even Faster! | 6.00% | ~65 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 587)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078 (Ranked 187)  
+Progressed: 1,079 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-19 | 1,073 | 0 |
 | 2023-07-20 | 1,074 | 0 |
 | 2023-07-21 | 1,077 | 0 |
-| 2023-07-22 | 1,078 | 0 |
+| 2023-07-22 | 1,079 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 601,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,11 +93,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -468,6 +468,11 @@
       "Time": "2023-07-22T17:03:49.3413612+00:00",
       "NumProgressed": 346,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T22:03:44.7933805+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -479,23 +484,23 @@
       "Name": "Getting started",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 90
     },
     {
       "ID": "04_tycoon",
@@ -511,7 +516,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "06_living",
@@ -519,7 +524,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "07_europe",
@@ -543,7 +548,7 @@
       "Name": "Russia",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "10_japan",
@@ -567,7 +572,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "13_bunkrupt",
@@ -607,7 +612,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "18_foreman",
@@ -615,7 +620,7 @@
       "Name": "Foreman",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "19_justintime",
@@ -631,7 +636,7 @@
       "Name": "Sabotage",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "21_missed",
@@ -645,9 +650,9 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "23_closecall",
@@ -655,7 +660,7 @@
       "Name": "Close call!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "24_mega",
@@ -709,9 +714,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 125
     },
     {
       "ID": "31_chancellor",
@@ -743,7 +748,7 @@
       "Name": "Need to think",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "35_achtung",
@@ -790,15 +795,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 348,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:03:50.0152262+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:03:44.7933797+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:58:13.5301134+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:03:50.0152527+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:57:59.6255577+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:03:44.7934159+00:00"
 }

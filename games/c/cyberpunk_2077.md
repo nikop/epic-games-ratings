@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,623 |
-| Right Back At Ya | 38.00% | ~329,495 |
-| The Lovers | 34.00% | ~294,811 |
+| The Fool | 68.00% | ~589,624 |
+| Right Back At Ya | 38.00% | ~329,496 |
+| The Lovers | 34.00% | ~294,812 |
 | Stanislavski's Method | 28.00% | ~242,786 |
 | The Wheel of Fortune | 27.00% | ~234,115 |
-| The Hermit | 24.00% | ~208,102 |
-| True Soldier | 23.00% | ~199,431 |
-| Christmas Tree Attack | 22.00% | ~190,760 |
-| The High Priestess | 21.00% | ~182,089 |
-| Legend of The Afterlife | 21.00% | ~182,089 |
-| Life of the Road | 20.00% | ~173,418 |
+| The Hermit | 24.00% | ~208,103 |
+| True Soldier | 23.00% | ~199,432 |
+| Christmas Tree Attack | 22.00% | ~190,761 |
+| The High Priestess | 21.00% | ~182,090 |
+| Legend of The Afterlife | 21.00% | ~182,090 |
+| Life of the Road | 20.00% | ~173,419 |
 | Full Body Conversion | 18.00% | ~156,077 |
 | The World | 17.00% | ~147,406 |
 | Bushido and Chill | 16.00% | ~138,735 |
@@ -29,8 +29,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 11.00% | ~95,380 |
 | The Wandering Fool | 9.00% | ~78,038 |
 | The Quick and the Dead | 9.00% | ~78,038 |
-| Breathtaking | 8.00% | ~69,367 |
-| Ten out of Ten | 8.00% | ~69,367 |
+| Breathtaking | 8.00% | ~69,368 |
+| Ten out of Ten | 8.00% | ~69,368 |
 | To Bad Decisions! | 6.00% | ~52,026 |
 | The Star | 6.00% | ~52,026 |
 | The Sun | 6.00% | ~52,026 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,671 |
 | Rough Landing | 0.50% | ~4,335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,092 (Ranked 14)  
+Progressed: 867,094 (Ranked 14)  
 Completed: 1,894 (0.22%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 1,894 (0.22%) (Ranked 162)
 | 2023-07-19 | 866,596 | 1,885 |
 | 2023-07-20 | 866,759 | 1,888 |
 | 2023-07-21 | 866,915 | 1,892 |
-| 2023-07-22 | 867,092 | 1,894 |
+| 2023-07-22 | 867,094 | 1,894 |
 ## Awards
 Max (Character Customization): 73,751  (Ranked 9)  
-Sum: 193,878 (Ranked 13)  
+Sum: 193,893 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -159,7 +159,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,422 |
 | This game is Highly Recommended | 8,398 |
 | This game is Relaxing | 8,351 |
-| This game has Quickly Understood Controls | 8,207 |
+| This game has Quickly Understood Controls | 8,222 |
 | This game has Amazing Characters | 8,196 |
 | This game has a Creative Community | 5,382 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -349,4 +349,4 @@ Diff (max vs sum): -4
 | 2023-07-19 | 4.62 | - | 73,607 | 193,226 |
 | 2023-07-20 | 4.62 | - | 73,685 | 193,476 |
 | 2023-07-21 | 4.62 | - | 73,751 | 193,713 |
-| 2023-07-22 | 4.62 | - | 73,751 | 193,878 |
+| 2023-07-22 | 4.62 | - | 73,751 | 193,893 |

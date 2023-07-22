@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
 | Conqueror | 0.10% | ~13 |
+| Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
 | Enlightened | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
@@ -234,7 +235,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |

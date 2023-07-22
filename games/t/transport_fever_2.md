@@ -65,7 +65,7 @@ Number of Ratings: 180  (23.09.2022)
 | Train Fever | 1.00% | ~15 |
 | Louis Favre | 0.80% | ~12 |
 | Big spender | 0.40% | ~6 |
-| Glacier express | 0.10% | ~1 |
+| Glacier express | 0.20% | ~3 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,462 (Ranked 175)  

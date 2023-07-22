@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lucky charm | 91.00% | ~166 |
-| Trumpet | 88.00% | ~160 |
-| Spyglass | 83.00% | ~151 |
-| Broken toy | 76.00% | ~138 |
+| Trumpet | 89.00% | ~162 |
+| Spyglass | 84.00% | ~153 |
+| Broken toy | 77.00% | ~140 |
 | Egghead Lucy | 75.00% | ~136 |
 | Puppy | 62.00% | ~113 |
 | Coal's fur | 58.00% | ~106 |
@@ -26,8 +26,8 @@
 | Flower of hope | 14.00% | ~25 |
 | Friend | 13.00% | ~24 |
 | Back Home | 12.00% | ~22 |
+| Old kettle | 11.00% | ~20 |
 | Forest Howl | 10.00% | ~18 |
-| Old kettle | 10.00% | ~18 |
 | Hope | 5.00% | ~9 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

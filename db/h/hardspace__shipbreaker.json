@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1376,9 +1376,9 @@
       "ID": "ACH_A_TUCKED_TALE",
       "SetID": "108h92c",
       "Name": "A Tucked Tale",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1553,8 +1553,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:05:13.5013368+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:04:38.6632468+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:57:59.275184+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:05:13.5013574+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:57:51.4627054+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:04:38.6632713+00:00"
 }

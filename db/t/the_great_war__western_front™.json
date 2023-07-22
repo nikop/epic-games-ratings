@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1520,9 +1520,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1553,8 +1553,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:06:23.3922685+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:05:28.8480591+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.6267757+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:59:19.8757462+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:06:23.3922842+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:58:45.3877966+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:05:28.8480778+00:00"
 }

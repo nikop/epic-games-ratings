@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -945,9 +945,9 @@
       "ID": "ACH_TERMINATED",
       "SetID": "2310cb1",
       "Name": "You Are Terminated",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -962,8 +962,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:07:47.1557423+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:06:30.5058279+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.9658074+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:57:57.8631645+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:07:47.1557609+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:57:50.3419875+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:06:30.5058493+00:00"
 }

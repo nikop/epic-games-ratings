@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 701)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,165 |
-| Ranidaphobia | 78.00% | ~987 |
+| First Blood | 92.00% | ~1,166 |
+| Ranidaphobia | 78.00% | ~988 |
 | Aspiring Editor | 75.00% | ~950 |
-| Gun for Hire | 70.00% | ~886 |
+| Gun for Hire | 70.00% | ~887 |
 | I am the law! | 63.00% | ~798 |
-| Lumberjack | 52.00% | ~658 |
+| Lumberjack | 52.00% | ~659 |
 | Croaked | 48.00% | ~608 |
 | Limp Richard | 47.00% | ~595 |
-| From Darkness to Light | 47.00% | ~595 |
-| Exorcist | 46.00% | ~582 |
+| Exorcist | 46.00% | ~583 |
+| From Darkness to Light | 46.00% | ~583 |
 | Editor Adept | 45.00% | ~570 |
 | Giant Killer | 44.00% | ~557 |
 | Firestarter | 42.00% | ~532 |
 | Sensei | 42.00% | ~532 |
-| The meaning of Kain | 40.00% | ~506 |
+| The meaning of Kain | 40.00% | ~507 |
 | Technophobe | 38.00% | ~481 |
-| Recycler | 37.00% | ~468 |
+| Recycler | 37.00% | ~469 |
 | Are you not entertained? | 33.00% | ~418 |
 | Ganglord | 32.00% | ~405 |
 | Jarhead | 32.00% | ~405 |
@@ -29,8 +29,8 @@ Rating: 4.39 (Ranked 701)
 | Pushing Daisy | 30.00% | ~380 |
 | Experienced | 29.00% | ~367 |
 | Hold The Line | 27.00% | ~342 |
-| Endgame | 25.00% | ~316 |
-| Savior | 25.00% | ~316 |
+| Endgame | 25.00% | ~317 |
+| Savior | 25.00% | ~317 |
 | There Can Be Only One! | 24.00% | ~304 |
 | Chain Killer | 22.00% | ~279 |
 | The Watchers | 21.00% | ~266 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 701)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,266 (Ranked 181)  
+Progressed: 1,267 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-17 | 1,232 | 0 |
 | 2023-07-20 | 1,237 | 0 |
 | 2023-07-21 | 1,253 | 0 |
-| 2023-07-22 | 1,266 | 0 |
+| 2023-07-22 | 1,267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -467,6 +467,11 @@
       "Time": "2023-07-22T21:03:54.8757462+00:00",
       "NumProgressed": 245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T22:03:48.0323406+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -684,9 +689,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_drones",
@@ -782,7 +787,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_floors_1",
@@ -822,7 +827,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_grime_2",
@@ -838,7 +843,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_loan",
@@ -878,7 +883,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_office_2",
@@ -902,7 +907,7 @@
       "Name": "People Mover",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_pop_2",
@@ -910,7 +915,7 @@
       "Name": "Master of Puppets",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_prestige_1",
@@ -918,7 +923,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_prestige_2",
@@ -940,9 +945,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_profit_1",
@@ -950,7 +955,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_profit_2",
@@ -1006,7 +1011,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_restaurants_5",
@@ -1022,7 +1027,7 @@
       "Name": "Retail Revenue",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_retail_2",
@@ -1181,7 +1186,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 0
     }
   ],
@@ -1189,8 +1194,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-22T21:03:54.8757455+00:00",
+  "LastChanged_Achievements": "2023-07-22T22:03:48.0323402+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-22T20:58:37.5958326+00:00",
-  "LastUpdate_Achievements": "2023-07-22T21:03:54.8758308+00:00"
+  "LastUpdate_Ratings": "2023-07-22T21:58:15.7905105+00:00",
+  "LastUpdate_Achievements": "2023-07-22T22:03:48.0324507+00:00"
 }
