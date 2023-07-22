@@ -16,13 +16,13 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.25% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
 | 18 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 11.11% |
 | 18 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.46% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.39% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.73% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -30,10 +30,10 @@
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.48% |
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 31 | [Time Loader](games/t/time_loader.md) | 7.08% |
-| 32 | [Scorn](games/s/scorn.md) | 7.03% |
+| 31 | [Scorn](games/s/scorn.md) | 7.03% |
+| 32 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.84% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.78% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.63% |
 | 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
@@ -147,12 +147,12 @@
 | 144 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 144 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 147 | [Scrapnaut](games/s/scrapnaut.md) | 0.32% |
-| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 152 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.30% |
-| 152 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 151 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 151 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.30% |
+| 151 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 154 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 156 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
@@ -242,6 +242,7 @@
 | 239 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 239 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 239 | [Absolute Tactics](games/a/absolute_tactics.md) | 0.00% |
+| 239 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 0.00% |
 | 239 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
 | 239 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.00% |
 | 239 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
