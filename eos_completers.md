@@ -21,17 +21,17 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.96% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.56% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.51% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
+| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
@@ -52,14 +52,14 @@
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 51 | [ZZT!](games/z/zzt!.md) | 3.56% |
 | 52 | [Doodle God](games/d/doodle_god.md) | 3.54% |
-| 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.50% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.49% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.52% |
+| 54 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.50% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.32% |
 | 57 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 58 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 59 | [The Complex](games/t/the_complex.md) | 3.07% |
-| 60 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
+| 60 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
 | 61 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 62 | [HordeCore](games/h/hordecore.md) | 2.92% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.91% |
@@ -118,7 +118,7 @@
 | 116 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 118 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
-| 118 | [Them and Us](games/t/them_and_us.md) | 0.62% |
+| 119 | [Them and Us](games/t/them_and_us.md) | 0.61% |
 | 120 | [Train Valley](games/t/train_valley.md) | 0.59% |
 | 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
