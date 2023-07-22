@@ -2,7 +2,7 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 67,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109499,
+  "EOS_Progressed": 109500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1689,6 +1689,11 @@
       "Time": "2023-07-22T13:09:38.5521604+00:00",
       "NumProgressed": 109499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T14:06:38.920727+00:00",
+      "NumProgressed": 109500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1708,7 +1713,7 @@
       "Name": "These Are a Few of My Favorite Things - Gold",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "11",
@@ -1732,7 +1737,7 @@
       "Name": "Standing on the Shoulders of Giants - Gold",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "14",
@@ -1764,7 +1769,7 @@
       "Name": "Getting Creative - Gold",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "18",
@@ -1820,7 +1825,7 @@
       "Name": "Grouping Up - Gold",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "24",
@@ -1844,7 +1849,7 @@
       "Name": "Variety Player - Gold",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "29",
@@ -1876,7 +1881,7 @@
       "Name": "Featured Gamer - Silver",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "32",
@@ -1884,7 +1889,7 @@
       "Name": "Featured Gamer - Gold",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "33",
@@ -1908,7 +1913,7 @@
       "Name": "Challenge Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "36",
@@ -1971,15 +1976,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109499,
+      "Progressed": 109500,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:09:38.5521595+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:06:38.9207263+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:54.3149176+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:01:42.7943821+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:09:38.5522011+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:58:46.7889574+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:06:38.9207622+00:00"
 }

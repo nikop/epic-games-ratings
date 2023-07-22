@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -610,9 +610,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -705,8 +705,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:08:18.8622605+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:05:19.0864782+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:00:28.1056814+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:08:18.8622788+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:57:25.823183+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:05:19.0864943+00:00"
 }

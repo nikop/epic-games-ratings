@@ -5,22 +5,22 @@ Rating: 4.33 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 68.00% | ~713 |
-| First Blood | 64.00% | ~671 |
-| Ready to Learn | 62.00% | ~650 |
+| The First Step | 68.00% | ~714 |
+| First Blood | 64.00% | ~672 |
+| Ready to Learn | 62.00% | ~651 |
 | Monster Hunter | 53.00% | ~556 |
-| Earning Trust | 50.00% | ~524 |
+| Earning Trust | 50.00% | ~525 |
 | Monster Slayer | 29.00% | ~304 |
-| Awakening | 23.00% | ~241 |
+| Awakening | 23.00% | ~242 |
 | Huntmaster | 22.00% | ~231 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~178 |
 | House Vulisica's Heirloom | 14.00% | ~147 |
 | Digging Deep | 13.00% | ~136 |
 | Broken Oath | 8.00% | ~84 |
-| Way of the King | 7.00% | ~73 |
+| Way of the King | 7.00% | ~74 |
 | Way of the Warlord | 4.00% | ~42 |
 | Til We Meet Again | 4.00% | ~42 |
-| Arrow in the Wind | 3.00% | ~31 |
+| Arrow in the Wind | 3.00% | ~32 |
 | The Unvanquished | 2.00% | ~21 |
 | Let Us Cling Together | 2.00% | ~21 |
 | A Promised Voyage | 2.00% | ~21 |
@@ -29,7 +29,7 @@ Rating: 4.33 (Ranked 757)
 | Someone to Protect | 0.90% | ~9 |
 | Lean on Me | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049 (Ranked 190)  
+Progressed: 1,050 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-18 | 1,042 | 0 |
 | 2023-07-19 | 1,043 | 0 |
 | 2023-07-21 | 1,047 | 0 |
-| 2023-07-22 | 1,049 | 0 |
+| 2023-07-22 | 1,050 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

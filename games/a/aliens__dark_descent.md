@@ -6,16 +6,16 @@ Rating: 4.41 (Ranked 672)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,432 |
-| Snatched Out | 74.00% | ~2,221 |
-| Keep 'Em Coming | 73.00% | ~2,191 |
-| Cleaning Lethe, One Nest At A Time | 66.00% | ~1,981 |
-| Call Me Snake | 61.00% | ~1,831 |
-| Something Lurks Under The Hills | 59.00% | ~1,771 |
-| This Was No Papercut | 58.00% | ~1,741 |
-| People Person | 54.00% | ~1,621 |
-| The Shrink Hates Me | 54.00% | ~1,621 |
-| Use The Bumper, That's What It's For | 51.00% | ~1,531 |
-| First Steps Into Madness | 50.00% | ~1,501 |
+| Snatched Out | 74.00% | ~2,222 |
+| Keep 'Em Coming | 73.00% | ~2,192 |
+| Cleaning Lethe, One Nest At A Time | 66.00% | ~1,982 |
+| Call Me Snake | 61.00% | ~1,832 |
+| Something Lurks Under The Hills | 59.00% | ~1,772 |
+| This Was No Papercut | 58.00% | ~1,742 |
+| People Person | 54.00% | ~1,622 |
+| The Shrink Hates Me | 54.00% | ~1,622 |
+| Use The Bumper, That's What It's For | 51.00% | ~1,532 |
+| First Steps Into Madness | 50.00% | ~1,502 |
 | Colonial Barrels | 48.00% | ~1,441 |
 | Harper's Hell | 41.00% | ~1,231 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,201 |
@@ -25,13 +25,13 @@ Rating: 4.41 (Ranked 672)
 | Omelette Du Fromage | 32.00% | ~961 |
 | Living Nightmare | 28.00% | ~841 |
 | The More The Merrier | 28.00% | ~841 |
-| The Darwin Era Was Here | 24.00% | ~720 |
-| Deep Into Insanity | 23.00% | ~690 |
-| Come on, You Wanna Live Forever? | 22.00% | ~660 |
-| The Passenger | 22.00% | ~660 |
-| Stuff Of Nightmares | 20.00% | ~600 |
-| El Riesgo Siempre Vive | 19.00% | ~570 |
-| The Spire | 19.00% | ~570 |
+| The Darwin Era Was Here | 24.00% | ~721 |
+| Deep Into Insanity | 23.00% | ~691 |
+| Come on, You Wanna Live Forever? | 22.00% | ~661 |
+| The Passenger | 22.00% | ~661 |
+| Stuff Of Nightmares | 20.00% | ~601 |
+| El Riesgo Siempre Vive | 19.00% | ~571 |
+| The Spire | 19.00% | ~571 |
 | One For Every Occasion | 16.00% | ~480 |
 | Frontliner | 16.00% | ~480 |
 | The Cable Guy | 16.00% | ~480 |
@@ -51,7 +51,7 @@ Rating: 4.41 (Ranked 672)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,002 (Ranked 153)  
+Progressed: 3,003 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 2,969 | 0 |
 | 2023-07-20 | 2,982 | 0 |
 | 2023-07-21 | 2,997 | 0 |
-| 2023-07-22 | 3,002 | 0 |
+| 2023-07-22 | 3,003 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

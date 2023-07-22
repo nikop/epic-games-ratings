@@ -31,14 +31,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,112 |
 | Bloody Sport | 1.00% | ~205 |
 | The best strikes are the ones we avoid | 1.00% | ~205 |
-| Dance of the Praying Mantis | 0.90% | ~6,400 |
-| I know Kung-Fu | 0.90% | ~6,400 |
+| Dance of the Praying Mantis | 0.90% | ~6,401 |
+| I know Kung-Fu | 0.90% | ~6,401 |
 | Muk Yan Master | 0.70% | ~4,978 |
 | Tiger on Fire | 0.70% | ~4,978 |
+| Source of Flying Daggers | 0.70% | ~4,978 |
 | Detective Story | 0.70% | ~4,978 |
 | Deadly Venom | 0.70% | ~143 |
 | A Touch of Acumen | 0.70% | ~143 |
-| Source of Flying Daggers | 0.60% | ~4,267 |
 | Iron Money | 0.60% | ~4,267 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,267 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,267 |
@@ -47,17 +47,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.40% | ~2,845 |
 | Martial Hub | 0.40% | ~82 |
 | Secure, Protect, Leave | 0.40% | ~82 |
-| Drunken Fighter | 0.30% | ~2,133 |
-| Martial Artist | 0.30% | ~2,133 |
-| Healing Memory | 0.30% | ~2,133 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,133 |
-| The Pit Protector | 0.30% | ~2,133 |
-| Be like water my friend | 0.30% | ~2,133 |
-| Come Snap With Me | 0.30% | ~2,133 |
+| Drunken Fighter | 0.30% | ~2,134 |
+| Martial Artist | 0.30% | ~2,134 |
+| Healing Memory | 0.30% | ~2,134 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,134 |
+| The Pit Protector | 0.30% | ~2,134 |
+| Be like water my friend | 0.30% | ~2,134 |
+| Come Snap With Me | 0.30% | ~2,134 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,163 (Ranked 19)  
+Progressed: 711,168 (Ranked 19)  
 Completed: 12,830 (1.80%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,14 +150,14 @@ Completed: 12,830 (1.80%) (Ranked 84)
 | 2023-07-19 | 710,897 | 12,825 |
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
-| 2023-07-22 | 711,163 | 12,830 |
+| 2023-07-22 | 711,168 | 12,830 |
 ## Awards
-Max (Great Boss Battles): 6,290  (Ranked 53)  
-Sum: 10,784 (Ranked 78)  
+Max (Great Boss Battles): 6,294  (Ranked 53)  
+Sum: 10,788 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,290 |
+| This game has Great Boss Battles | 6,294 |
 | This game has Diverse Characters | 553 |
 | This game has Challenging Combat | 532 |
 | This game has Quickly Understood Controls | 527 |
@@ -358,4 +358,4 @@ Diff (max vs sum): -25
 | 2023-07-19 | 4.82 | - | 6,282 | 10,770 |
 | 2023-07-20 | 4.82 | - | 6,288 | 10,781 |
 | 2023-07-21 | 4.82 | - | 6,290 | 10,783 |
-| 2023-07-22 | 4.82 | - | 6,290 | 10,784 |
+| 2023-07-22 | 4.82 | - | 6,294 | 10,788 |

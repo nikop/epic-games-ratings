@@ -5316,9 +5316,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288270,
+  "EOS_Progressed": 288273,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15286,6 +15286,11 @@
       "Time": "2023-07-22T13:07:29.736889+00:00",
       "NumProgressed": 288270,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-22T14:04:30.1375736+00:00",
+      "NumProgressed": 288273,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15297,7 +15302,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34592
+      "UsersEstimate": 34593
     },
     {
       "ID": "PFA_10",
@@ -15353,7 +15358,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25944
+      "UsersEstimate": 25945
     },
     {
       "ID": "PFA_17",
@@ -15481,7 +15486,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25944
+      "UsersEstimate": 25945
     },
     {
       "ID": "PFA_31",
@@ -15641,7 +15646,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25944
+      "UsersEstimate": 25945
     },
     {
       "ID": "PFA_9",
@@ -15656,7 +15661,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288270,
+      "Progressed": 288273,
       "Completed": 433
     }
   ],
@@ -15664,8 +15669,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-22T13:00:58.2231608+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:07:29.7368884+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:04:30.1375729+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:00:58.223162+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:07:29.7370273+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:57:56.8128922+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:04:30.1376776+00:00"
 }

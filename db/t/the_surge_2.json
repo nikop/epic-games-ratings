@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1653,6 +1653,11 @@
       "Time": "2023-07-22T11:02:29.2212377+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T14:03:33.5895603+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1680,7 +1685,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHV_04",
@@ -1688,7 +1693,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHV_05",
@@ -1696,7 +1701,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHV_06",
@@ -1704,7 +1709,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHV_07",
@@ -1768,7 +1773,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_15",
@@ -1864,7 +1869,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACHV_27",
@@ -1872,7 +1877,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHV_28",
@@ -1880,7 +1885,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHV_29",
@@ -1896,7 +1901,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHV_31",
@@ -1912,7 +1917,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_33",
@@ -1936,7 +1941,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACHV_36",
@@ -2040,7 +2045,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_49",
@@ -2072,7 +2077,7 @@
       "Name": "Juiced Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_53",
@@ -2104,7 +2109,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_57",
@@ -2119,7 +2124,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 10
     }
   ],
@@ -2127,8 +2132,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:06:33.2464676+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:03:33.5895597+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:00:11.8067106+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:06:33.2465341+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:57:12.7958261+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:03:33.5896236+00:00"
 }

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Tyrant Rise | 31.00% | ~5 |
 | Assassination | 25.00% | ~4 |
+| Honor Medal | 25.00% | ~4 |
 | Great Civil War | 19.00% | ~3 |
-| Honor Medal | 19.00% | ~3 |
 | 2nd AI War | 13.00% | ~2 |
 | Secret War | 13.00% | ~2 |
 | Investment | 13.00% | ~2 |

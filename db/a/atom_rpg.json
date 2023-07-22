@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1034,
+  "EOS_Progressed": 1035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1708,6 +1708,11 @@
       "Time": "2023-07-22T13:06:28.7702789+00:00",
       "NumProgressed": 1034,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T14:03:28.8492699+00:00",
+      "NumProgressed": 1035,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1775,7 +1780,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "EXPERT_1",
@@ -1791,7 +1796,7 @@
       "Name": "Explorer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1847,7 +1852,7 @@
       "Name": "Love Guru",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1895,7 +1900,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1943,7 +1948,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SECRET_ROOM",
@@ -1991,7 +1996,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "WISHMASTER_1",
@@ -2006,15 +2011,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1034,
+      "Progressed": 1035,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:06:28.7702779+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:03:28.8492694+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:03:22.6706185+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:06:28.7703171+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:00:19.1788085+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:03:28.849307+00:00"
 }

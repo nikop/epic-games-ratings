@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 86.00% | ~6 |
-| A thing of beauty | 71.00% | ~5 |
-| Escape the Maze | 57.00% | ~4 |
-| Brace the cold | 57.00% | ~4 |
-| A Long Walk | 43.00% | ~3 |
-| A Dangerous Road | 14.00% | ~1 |
-| Scorched Ruins | 14.00% | ~1 |
-| City of Illusion | 14.00% | ~1 |
-| Kill the Flames | 14.00% | ~1 |
-| Find the Light | 14.00% | ~1 |
-| Fight and Overcome | 14.00% | ~1 |
-| A Walk to the End | 14.00% | ~1 |
-| The Final Test | 14.00% | ~1 |
-| A Journey's End | 14.00% | ~1 |
-| A Stone Left Unturned | 14.00% | ~1 |
-| Dont mind the heat | 14.00% | ~1 |
+| Start of a Journey | 75.00% | ~6 |
+| A thing of beauty | 63.00% | ~5 |
+| Escape the Maze | 50.00% | ~4 |
+| Brace the cold | 50.00% | ~4 |
+| A Long Walk | 38.00% | ~3 |
+| A Dangerous Road | 13.00% | ~1 |
+| Scorched Ruins | 13.00% | ~1 |
+| City of Illusion | 13.00% | ~1 |
+| Kill the Flames | 13.00% | ~1 |
+| Find the Light | 13.00% | ~1 |
+| Fight and Overcome | 13.00% | ~1 |
+| A Walk to the End | 13.00% | ~1 |
+| The Final Test | 13.00% | ~1 |
+| A Journey's End | 13.00% | ~1 |
+| A Stone Left Unturned | 13.00% | ~1 |
+| Dont mind the heat | 13.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | Labyrinths of the Mind | 0.00% | ~0 |
 | A Terrifying Blizzard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 422)  
+Progressed: 8 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,3 +62,4 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-04-29 | 5 | 0 |
 | 2023-06-06 | 6 | 0 |
 | 2023-07-21 | 7 | 0 |
+| 2023-07-22 | 8 | 0 |

@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1773,
+  "EOS_Progressed": 1774,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2031,6 +2031,11 @@
       "Time": "2023-07-22T13:07:33.8975592+00:00",
       "NumProgressed": 1773,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-22T14:04:34.3587899+00:00",
+      "NumProgressed": 1774,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2058,7 +2063,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2066,7 +2071,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "CollectAllStatues",
@@ -2088,9 +2093,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 124
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2114,7 +2119,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2122,7 +2127,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2130,7 +2135,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "CompleteStoryDM",
@@ -2178,7 +2183,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "GetRangedWeapon",
@@ -2242,7 +2247,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "RepairSmith",
@@ -2274,29 +2279,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1773,
+      "Progressed": 1774,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 414,
-      "Completed": 414
+      "Progressed": 415,
+      "Completed": 415
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:07:33.8975585+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:04:34.3587894+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:01:46.9121794+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:07:33.8975999+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:58:50.389395+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:04:34.3588246+00:00"
 }

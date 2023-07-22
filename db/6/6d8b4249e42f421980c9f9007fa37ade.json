@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:08:21.4711138+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:05:21.8180184+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:59.0488518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:00:34.6676233+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:08:21.4711593+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:57:34.2491943+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:05:21.8180636+00:00"
 }

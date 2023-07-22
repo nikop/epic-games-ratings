@@ -1,7 +1,7 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 848)  
+Rating: 4.19 (Ranked 847)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,8 +23,8 @@ Number of Ratings: 94  (23.09.2022)
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~766 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~657 |
 | Going Public! | 0.60% | ~657 |
-| Variety Player - Gold | 0.50% | ~547 |
-| Challenge Master | 0.50% | ~547 |
+| Variety Player - Gold | 0.50% | ~548 |
+| Challenge Master | 0.50% | ~548 |
 | Getting Equipped! | 0.40% | ~438 |
 | Getting Creative - Bronze | 0.30% | ~328 |
 | Reap the Rewards! | 0.30% | ~328 |
@@ -34,14 +34,14 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Bronze | 0.20% | ~219 |
 | Express Yourself - Gold | 0.20% | ~219 |
 | These Are a Few of My Favorite Things - Silver | 0.20% | ~219 |
-| These Are a Few of My Favorite Things - Gold | 0.10% | ~109 |
-| Standing on the Shoulders of Giants - Gold | 0.10% | ~109 |
-| Getting Creative - Gold | 0.10% | ~109 |
-| Grouping Up - Gold | 0.10% | ~109 |
-| Featured Gamer - Silver | 0.10% | ~109 |
-| Featured Gamer - Gold | 0.10% | ~109 |
+| These Are a Few of My Favorite Things - Gold | 0.10% | ~110 |
+| Standing on the Shoulders of Giants - Gold | 0.10% | ~110 |
+| Getting Creative - Gold | 0.10% | ~110 |
+| Grouping Up - Gold | 0.10% | ~110 |
+| Featured Gamer - Silver | 0.10% | ~110 |
+| Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,499 (Ranked 67)  
+Progressed: 109,500 (Ranked 67)  
 Completed: 5 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 5 (0.00%) (Ranked 239)
 | 2023-07-19 | 109,494 | 5 |
 | 2023-07-20 | 109,495 | 5 |
 | 2023-07-21 | 109,498 | 5 |
-| 2023-07-22 | 109,499 | 5 |
+| 2023-07-22 | 109,500 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 398)  
 Sum: 370 (Ranked 319)  

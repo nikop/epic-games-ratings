@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1974,9 +1974,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "MQ06_2",
@@ -2063,8 +2063,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:09:08.7747591+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:06:08.502236+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:00:49.2478856+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:09:08.7748037+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:57:48.4710289+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:06:08.5022692+00:00"
 }

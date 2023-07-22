@@ -7,9 +7,9 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 57.00% | ~1,461 |
-| Keeping it classy | 26.00% | ~666 |
+| Keeping it classy | 26.00% | ~667 |
 | Welcome to the family | 20.00% | ~513 |
-| The finer things in life | 18.00% | ~461 |
+| The finer things in life | 18.00% | ~462 |
 | Backpacker | 13.00% | ~333 |
 | Go with the Flow | 12.00% | ~308 |
 | Plastic Surgeon | 9.00% | ~231 |
@@ -18,11 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 8.00% | ~205 |
 | Keep the dream alive | 8.00% | ~205 |
 | Upfront shredder | 8.00% | ~205 |
+| That pinch! | 7.00% | ~179 |
 | Bottom ply killer | 6.00% | ~154 |
 | Fashionista | 6.00% | ~154 |
 | Finally he zips it | 6.00% | ~154 |
-| Sup widdit big dog! | 6.00% | ~154 |
-| That pinch! | 6.00% | ~154 |
 | Tight lipslides | 6.00% | ~154 |
 | Commence the Hijinx! | 5.00% | ~128 |
 | Fulfilled the dream | 5.00% | ~128 |
@@ -32,6 +31,7 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~128 |
 | Purple passion | 5.00% | ~128 |
 | Squad goals | 5.00% | ~128 |
+| Sup widdit big dog! | 5.00% | ~128 |
 | Cops called! | 4.00% | ~103 |
 | DIY Boss | 4.00% | ~103 |
 | G.O.A.T. status | 4.00% | ~103 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,563 (Ranked 158)  
+Progressed: 2,564 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 2,525 | 0 |
 | 2023-07-20 | 2,533 | 0 |
 | 2023-07-21 | 2,554 | 0 |
-| 2023-07-22 | 2,563 | 0 |
+| 2023-07-22 | 2,564 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
 Sum: 437 (Ranked 305)  

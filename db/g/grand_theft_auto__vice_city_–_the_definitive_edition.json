@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9063,
+  "EOS_Progressed": 9065,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6652,6 +6652,11 @@
       "Time": "2023-07-22T13:07:07.2388457+00:00",
       "NumProgressed": 9063,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T14:04:07.3757021+00:00",
+      "NumProgressed": 9065,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6735,7 +6740,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH11",
@@ -6767,7 +6772,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH15",
@@ -6823,7 +6828,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "ACH22",
@@ -6863,7 +6868,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH27",
@@ -6934,7 +6939,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9063,
+      "Progressed": 9065,
       "Completed": 43
     }
   ],
@@ -6942,8 +6947,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:07:07.238845+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:04:07.3757016+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:01:41.4044602+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:07:07.2389335+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:58:45.4516131+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:04:07.3757719+00:00"
 }

@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4716,
+  "EOS_Progressed": 4717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4751,6 +4751,11 @@
       "Time": "2023-07-22T11:03:15.3376953+00:00",
       "NumProgressed": 4716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T14:03:38.0049314+00:00",
+      "NumProgressed": 4717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4762,7 +4767,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4802,7 +4807,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4826,7 +4831,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4834,7 +4839,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4866,7 +4871,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -4994,7 +4999,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -5016,9 +5021,9 @@
       "ID": "ACHIEVEMENT_034",
       "SetID": "6jk25od",
       "Name": "Trollsporet Tale Teller",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -5041,13 +5046,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4716,
+      "Progressed": 4717,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4088,
+      "Progressed": 4089,
       "Completed": 112
     }
   ],
@@ -5055,8 +5060,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:06:37.6402127+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:03:38.0049309+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:03:03.0648933+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:06:37.6402831+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:00:03.1749832+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:03:38.0049811+00:00"
 }

@@ -1,31 +1,31 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.62 (Ranked 347)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,956 |
-| Exploitative | 4.00% | ~16,765 |
-| Point Shooting | 4.00% | ~16,765 |
-| Wet Feet | 4.00% | ~16,765 |
-| High Speed Low Drag | 3.00% | ~12,574 |
-| Lucky | 3.00% | ~12,574 |
-| Stylin' | 3.00% | ~12,574 |
-| Turf War | 3.00% | ~12,574 |
-| Banged | 2.00% | ~8,383 |
-| Checkpoint Victory | 2.00% | ~8,383 |
-| First Blood | 2.00% | ~8,383 |
-| Flaccid Paralysis | 2.00% | ~8,383 |
-| Push Victory | 2.00% | ~8,383 |
-| Self-destructive | 2.00% | ~8,383 |
-| Blindfire | 1.00% | ~4,191 |
-| Ruthless | 1.00% | ~4,191 |
-| Semper Paratus | 1.00% | ~4,191 |
-| Carrying | 0.90% | ~3,772 |
-| Efficient | 0.90% | ~3,772 |
-| Mount & Gun | 0.90% | ~3,772 |
+| Wallbanger | 5.00% | ~20,959 |
+| Exploitative | 4.00% | ~16,767 |
+| Point Shooting | 4.00% | ~16,767 |
+| Wet Feet | 4.00% | ~16,767 |
+| High Speed Low Drag | 3.00% | ~12,575 |
+| Lucky | 3.00% | ~12,575 |
+| Stylin' | 3.00% | ~12,575 |
+| Turf War | 3.00% | ~12,575 |
+| Banged | 2.00% | ~8,384 |
+| Checkpoint Victory | 2.00% | ~8,384 |
+| First Blood | 2.00% | ~8,384 |
+| Flaccid Paralysis | 2.00% | ~8,384 |
+| Push Victory | 2.00% | ~8,384 |
+| Self-destructive | 2.00% | ~8,384 |
+| Blindfire | 1.00% | ~4,192 |
+| Ruthless | 1.00% | ~4,192 |
+| Semper Paratus | 1.00% | ~4,192 |
+| Carrying | 0.90% | ~3,773 |
+| Efficient | 0.90% | ~3,773 |
+| Mount & Gun | 0.90% | ~3,773 |
 | Grounded | 0.80% | ~3,353 |
 | Personal | 0.80% | ~3,353 |
 | Play to Win | 0.80% | ~3,353 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.60% | ~2,515 |
 | Cinematic | 0.50% | ~2,096 |
 | Thanks Station! | 0.40% | ~1,677 |
-| Knock Knock | 0.30% | ~1,257 |
-| There For You | 0.30% | ~1,257 |
+| Knock Knock | 0.30% | ~1,258 |
+| There For You | 0.30% | ~1,258 |
 | Hit and Run | 0.20% | ~838 |
 | Designated Driver | 0.10% | ~419 |
 | J.R. .50 | 0.10% | ~419 |
 | It's All in the Reflexes | 0.10% | ~419 |
 | Road Hazard | 0.10% | ~419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419,130 (Ranked 39)  
+Progressed: 419,180 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,20 +135,20 @@ Completed: 2 (0.00%) (Ranked 239)
 | 2023-07-19 | 417,117 | 2 |
 | 2023-07-20 | 417,650 | 2 |
 | 2023-07-21 | 418,569 | 2 |
-| 2023-07-22 | 419,130 | 2 |
+| 2023-07-22 | 419,180 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 220)  
-Sum: 2,817 (Ranked 169)  
+Sum: 2,820 (Ranked 169)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 364 |
-| This game has Challenging Combat | 341 |
+| This game has Challenging Combat | 342 |
 | This game is Extremely Fun | 335 |
 | This game has Competitive Players | 326 |
-| This game has Realistic Visuals | 302 |
+| This game has Realistic Visuals | 303 |
 | This game has Amazing Storytelling | 300 |
-| This game is Highly Recommended | 299 |
+| This game is Highly Recommended | 300 |
 | This game has Amazing Characters | 295 |
 | This game has a Competitive Community | 255 |
 | This game has Obsessive Gameplay | 156 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 51
 | 2023-07-19 | 4.61 | - | 364 | 2,813 |
 | 2023-07-20 | 4.61 | - | 364 | 2,814 |
 | 2023-07-21 | 4.61 | - | 364 | 2,817 |
+| 2023-07-22 | 4.62 | - | 364 | 2,820 |

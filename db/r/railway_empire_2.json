@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3672,9 +3672,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1184
     },
     {
       "ID": "A11",
@@ -4041,8 +4041,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-22T13:06:35.8582262+00:00",
+  "LastChanged_Achievements": "2023-07-22T14:03:36.2725445+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:01:34.6506086+00:00",
-  "LastUpdate_Achievements": "2023-07-22T13:06:35.8583091+00:00"
+  "LastUpdate_Ratings": "2023-07-22T13:58:39.0091364+00:00",
+  "LastUpdate_Achievements": "2023-07-22T14:03:36.2726166+00:00"
 }

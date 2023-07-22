@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,206 |
-| Mods Please Ban | 77.00% | ~17,818 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,586 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,892 |
+| Eye Scream, You Scream | 83.00% | ~19,207 |
+| Mods Please Ban | 77.00% | ~17,819 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,587 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,893 |
 | First Bounty Down | 59.00% | ~13,653 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,190 |
-| Luglox Genocide | 43.00% | ~9,950 |
-| Playing Card To Get | 33.00% | ~7,636 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,636 |
+| Luglox Genocide | 43.00% | ~9,951 |
+| Playing Card To Get | 33.00% | ~7,637 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,637 |
 | Creature Feature | 29.00% | ~6,711 |
 | Satisfied Gus-tomer | 28.00% | ~6,479 |
 | Cold-Blooded Driller | 28.00% | ~6,479 |
@@ -28,7 +28,7 @@ Rating: 4.67 (Ranked 259)
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,628 |
 | Self-Actualization | 19.00% | ~4,397 |
 | Legendary Bounty Hunter | 18.00% | ~4,165 |
-| Seeing All The Sights | 16.00% | ~3,702 |
+| Seeing All The Sights | 16.00% | ~3,703 |
 | Carried Stan's Load To Completion | 13.00% | ~3,008 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,777 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,083 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 259)
 | Epic Legendary Prize | 1.00% | ~231 |
 | A Starfish Is Born | 1.00% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,140 (Ranked 100)  
+Progressed: 23,141 (Ranked 100)  
 Completed: 9 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 9 (0.04%) (Ranked 210)
 | 2023-07-19 | 23,031 | 9 |
 | 2023-07-20 | 23,043 | 9 |
 | 2023-07-21 | 23,107 | 9 |
-| 2023-07-22 | 23,140 | 9 |
+| 2023-07-22 | 23,141 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
