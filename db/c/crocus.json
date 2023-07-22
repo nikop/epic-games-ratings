@@ -3,8 +3,8 @@
   "Name": "crocus",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:16.0668645+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:58:31.3695188+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:06:32.8802197+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:58:11.1116572+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:38.3710674+00:00"
 }

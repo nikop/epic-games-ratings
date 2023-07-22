@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1345,9 +1345,9 @@
       "ID": "BARK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "The Judge, the Jury and the ... Barkannan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -1800,8 +1800,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:05:40.3969113+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:05:00.0370489+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:57:19.0460105+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:40.3969692+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:57:14.5371992+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:00.037125+00:00"
 }

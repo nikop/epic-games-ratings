@@ -18,7 +18,7 @@
 | 10K | 27.00% | ~60 |
 | Bouncemato | 26.00% | ~45 |
 | 15K | 25.00% | ~56 |
-| Grave Digger | 22.00% | ~38 |
+| Grave Digger | 23.00% | ~40 |
 | Drinking Problem | 21.00% | ~47 |
 | Professional Survivor | 20.00% | ~35 |
 | Pork Chop Express | 17.00% | ~38 |

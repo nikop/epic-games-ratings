@@ -12,7 +12,7 @@ Number of Ratings: 125  (23.09.2022)
 | Let’s Ride | 60.00% | ~1,028 |
 | Welcome to the Weird West | 57.00% | ~977 |
 | Dead or Alive | 55.00% | ~943 |
-| Full House | 36.00% | ~617 |
+| Full House | 37.00% | ~634 |
 | Off the Trail | 34.00% | ~583 |
 | Justice Served | 29.00% | ~497 |
 | Chain Reaction | 27.00% | ~463 |

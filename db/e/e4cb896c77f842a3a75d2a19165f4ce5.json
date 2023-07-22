@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 345,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -945,9 +945,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_019",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:05:43.8389404+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:05:02.486644+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.7091706+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:57:31.7270978+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:43.8389531+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:57:23.5397249+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:02.4866587+00:00"
 }

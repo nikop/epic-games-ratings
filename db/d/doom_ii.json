@@ -2,20 +2,20 @@
   "ID": "5bfa503eec24408ba1723b81117520e5",
   "Name": "DOOM II",
   "ProductSlug": "doom-ii",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-18T15:00:00+00:00",
     "PcReleaseDate": "1994-10-10T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.69,
   "NumberOfRatings": 48,
   "RatingHistory": [
     {
@@ -198,6 +198,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-07-22T17:57:46.6327825+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -224,8 +230,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
-  "LastChanged": "2023-06-10T04:57:42.4001905+00:00",
+  "LastChanged": "2023-07-22T17:57:46.6327824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.9950002+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:57:57.6709837+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:06:30.5721557+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:57:46.6327832+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:36.7448663+00:00"
 }

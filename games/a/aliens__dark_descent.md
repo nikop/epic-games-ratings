@@ -39,9 +39,9 @@ Rating: 4.41 (Ranked 672)
 | Abysmal Horrors | 16.00% | ~481 |
 | Bandage Lover | 15.00% | ~451 |
 | Regicide | 12.00% | ~360 |
+| Flawless Victory | 10.00% | ~300 |
 | This Went Smoothly | 10.00% | ~300 |
 | Heavy Steps | 10.00% | ~300 |
-| Flawless Victory | 9.00% | ~270 |
 | Perfect Enhancements | 7.00% | ~210 |
 | The True Experience | 6.00% | ~180 |
 | Hardened In The Heat Of Battle | 5.00% | ~150 |

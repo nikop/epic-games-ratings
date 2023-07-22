@@ -2,10 +2,10 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -989,6 +989,11 @@
       "Time": "2023-07-21T21:03:25.7298835+00:00",
       "NumProgressed": 342,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T18:03:14.2265813+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1000,7 +1005,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "completeact2",
@@ -1008,7 +1013,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "completeact3",
@@ -1016,7 +1021,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "findalltapes",
@@ -1072,7 +1077,7 @@
       "Name": "Souvenirs",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "scoreminrankrp1",
@@ -1104,7 +1109,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "scoreminrankrv2",
@@ -1119,7 +1124,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 2
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:03:19.0833633+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:03:14.2265807+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.0367431+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:59:43.5587637+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:03:19.0833769+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:05.5169719+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:03:14.2265965+00:00"
 }

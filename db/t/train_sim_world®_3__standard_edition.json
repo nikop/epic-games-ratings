@@ -4,11 +4,11 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 481,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -2011,10 +2011,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2310,
       "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2023-07-22T17:59:33.0808778+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2312,
+      "NumberOfAwardsMax": 313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2310,
+  "NumberOfAwards": 2312,
   "NumberOfAwardsMax": 313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2046,7 +2052,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 221
+      "Count": 223
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2103,8 +2109,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-07-22T16:00:40.8525905+00:00",
+  "LastChanged": "2023-07-22T17:59:33.0808777+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:18.2391571+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:00:21.1152062+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:06:29.2464213+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:33.0808788+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:35.7549738+00:00"
 }

@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Mad Wizard | 0.20% | ~429 |
+| Waterdeep Detours | 0.20% | ~429 |
 | Troublesome Prisoner | 0.10% | ~215 |
 | Dark Doppelgangers | 0.10% | ~215 |
 | Faerûn's Most Wanted | 0.10% | ~181 |
@@ -107,7 +108,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~215 |
 | Constant Banditry | 0.10% | ~215 |
 | The Long Haul | 0.10% | ~215 |
-| Waterdeep Detours | 0.10% | ~215 |
 | Lost in the Deep | 0.10% | ~215 |
 | Easily Distracted | 0.10% | ~215 |
 | Rude Welcome | 0.10% | ~215 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,540 (Ranked 53)  
+Progressed: 214,561 (Ranked 53)  
 Completed: 2,060 (0.96%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,15 +612,15 @@ Completed: 2,060 (0.96%) (Ranked 107)
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
 | 2023-07-21 | 214,257 | 2,060 |
-| 2023-07-22 | 214,540 | 2,060 |
+| 2023-07-22 | 214,561 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,055  (Ranked 66)  
-Sum: 30,637 (Ranked 38)  
+Sum: 30,644 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,055 |
-| This game is Great for Beginners | 4,995 |
+| This game is Great for Beginners | 5,002 |
 | This game has Quickly Understood Controls | 4,677 |
 | This game is Relaxing | 4,564 |
 | This game has Amazing Characters | 4,022 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 28
 | 2023-07-19 | 4.05 | - | 5,043 | 30,584 |
 | 2023-07-20 | 4.05 | - | 5,048 | 30,598 |
 | 2023-07-21 | 4.06 | - | 5,055 | 30,627 |
-| 2023-07-22 | 4.06 | - | 5,055 | 30,637 |
+| 2023-07-22 | 4.06 | - | 5,055 | 30,644 |

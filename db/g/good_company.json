@@ -5,10 +5,10 @@
   "Ranking_Rating": 642,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5166,
+  "EOS_Progressed": 5167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2415,6 +2415,11 @@
       "Time": "2023-07-22T13:07:51.6386023+00:00",
       "NumProgressed": 5166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T18:04:38.0401962+00:00",
+      "NumProgressed": 5167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2434,7 +2439,7 @@
       "Name": "Champion",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_all_ea_trophies",
@@ -2442,7 +2447,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_all_trophies",
@@ -2530,7 +2535,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_campaign_progress5",
@@ -2538,7 +2543,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2610,7 +2615,7 @@
       "Name": "The Machinery: Goal Orientated",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_campaign_special14",
@@ -2618,7 +2623,7 @@
       "Name": "The Machinery: Energy Saver",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_campaign_special15",
@@ -2890,7 +2895,7 @@
       "Name": "Super Rich",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_fully_packed",
@@ -2898,7 +2903,7 @@
       "Name": "Fully Packed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_happy_hour",
@@ -3033,15 +3038,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5166,
+      "Progressed": 5167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:05:10.7528117+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:04:38.0401958+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.5603926+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:00:00.6127603+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:10.7528876+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:17.0403811+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:04:38.040292+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 331,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 136,
+  "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5029,
+  "EOS_Progressed": 5031,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5390,6 +5390,11 @@
       "Time": "2023-07-22T15:04:06.381145+00:00",
       "NumProgressed": 5029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T18:03:54.4452845+00:00",
+      "NumProgressed": 5031,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5529,7 +5534,7 @@
       "Name": "Secret Technique",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "25",
@@ -5671,9 +5676,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 201
     },
     {
       "ID": "41",
@@ -5761,7 +5766,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "47",
@@ -5800,13 +5805,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5029,
+      "Progressed": 5031,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5029,
+      "Progressed": 5031,
       "Completed": 5
     }
   ],
@@ -5814,8 +5819,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:04:12.5150023+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:03:54.445284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.5965715+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:00:37.3239864+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:04:12.5150628+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:42.4626219+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:03:54.44536+00:00"
 }

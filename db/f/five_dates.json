@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "not_alone",
@@ -910,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:06:32.9320609+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:05:38.4495182+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:47.7918471+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:58:58.7663708+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:06:32.9320743+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:58:31.488402+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:38.4495348+00:00"
 }

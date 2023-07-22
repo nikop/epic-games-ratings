@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 20.00% | ~155 |
+| Time Heals All Wounds | 20.00% | ~156 |
 | The Mysterious Stranger | 17.00% | ~132 |
 | Rail Rat | 17.00% | ~132 |
-| The Steel Shadow | 15.00% | ~116 |
-| Make Up For Lost Time | 15.00% | ~116 |
-| Time Flies | 15.00% | ~116 |
-| The Harder They Fall | 15.00% | ~116 |
-| No, Thanks! | 15.00% | ~116 |
-| Breaking Down Barriers | 15.00% | ~116 |
-| The Wicked Twins | 15.00% | ~116 |
-| The Prince in Heels | 15.00% | ~116 |
-| Immaculate Aim | 15.00% | ~116 |
-| Immaculate Aim | 15.00% | ~116 |
-| The Brass Boss | 15.00% | ~116 |
+| The Steel Shadow | 15.00% | ~117 |
+| Make Up For Lost Time | 15.00% | ~117 |
+| Time Flies | 15.00% | ~117 |
+| The Harder They Fall | 15.00% | ~117 |
+| No, Thanks! | 15.00% | ~117 |
+| Breaking Down Barriers | 15.00% | ~117 |
+| The Wicked Twins | 15.00% | ~117 |
+| The Prince in Heels | 15.00% | ~117 |
+| Immaculate Aim | 15.00% | ~117 |
+| Immaculate Aim | 15.00% | ~117 |
+| The Brass Boss | 15.00% | ~117 |
 | The Betrayer | 14.00% | ~109 |
 | The Man Who Shattered Time | 14.00% | ~109 |
 | The Loose Cannon | 14.00% | ~109 |
 | Cartographer | 14.00% | ~109 |
 | Honest Mistake | 14.00% | ~109 |
-| Golem Chaser | 14.00% | ~109 |
 | Fast Learner | 14.00% | ~109 |
 | The Family Fortune | 14.00% | ~109 |
 | Treasure Trove | 13.00% | ~101 |
 | Like Clockwork | 13.00% | ~101 |
+| Golem Chaser | 13.00% | ~101 |
 | Check Your Pulse | 13.00% | ~101 |
 | Right On Time | 12.00% | ~93 |
 | Street Style | 12.00% | ~93 |
@@ -46,9 +46,9 @@
 | Sartorialist | 6.00% | ~47 |
 | Entresol Explorer | 6.00% | ~47 |
 | Golem Hunter | 5.00% | ~39 |
-| Rungs Was Right | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
 | Hexlock for Protection | 4.00% | ~31 |
+| Rungs Was Right | 4.00% | ~31 |
 | Wunderkind | 2.00% | ~16 |
 | Fitting In | 2.00% | ~16 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 776 (Ranked 199)  
-Completed: 4 (0.52%) (Ranked 128)  
+Progressed: 778 (Ranked 199)  
+Completed: 4 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,4 +117,4 @@ Completed: 4 (0.52%) (Ranked 128)
 | 2023-07-18 | 763 | 4 |
 | 2023-07-20 | 765 | 4 |
 | 2023-07-21 | 773 | 4 |
-| 2023-07-22 | 776 | 4 |
+| 2023-07-22 | 778 | 4 |

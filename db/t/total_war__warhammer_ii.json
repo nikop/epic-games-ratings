@@ -2,13 +2,13 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T11:20:00+00:00",
@@ -4175,10 +4175,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 13880,
       "NumberOfAwardsMax": 4425
+    },
+    {
+      "Time": "2023-07-22T17:58:01.1396525+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 13881,
+      "NumberOfAwardsMax": 4425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13880,
+  "NumberOfAwards": 13881,
   "NumberOfAwardsMax": 4425,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4192,7 +4198,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1130
+      "Count": 1131
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4272,8 +4278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-07-22T16:58:17.3518324+00:00",
+  "LastChanged": "2023-07-22T17:58:01.1396524+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.9863765+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:58:17.351833+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:36.5405445+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:58:01.1396529+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:04:56.7178864+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~99,659 |
-| Incurious | 15.00% | ~93,430 |
-| Climate Change | 14.00% | ~87,202 |
-| Stroller | 13.00% | ~80,973 |
-| Toy Train | 12.00% | ~74,744 |
-| Advanced Hiker | 11.00% | ~68,516 |
-| Hiker | 10.00% | ~62,287 |
-| Mojave Courier | 5.00% | ~31,143 |
-| Voyager | 3.00% | ~18,686 |
-| Advanced Voyager | 3.00% | ~18,686 |
-| Expert Stroller | 3.00% | ~18,686 |
-| Orient Express | 3.00% | ~18,686 |
-| Saved by Nausicaä | 3.00% | ~18,686 |
-| Expert Hiker | 2.00% | ~12,457 |
-| Marathon | 2.00% | ~12,457 |
-| Destructionist | 2.00% | ~12,457 |
+| Advanced Stroller | 16.00% | ~99,662 |
+| Incurious | 15.00% | ~93,433 |
+| Climate Change | 14.00% | ~87,204 |
+| Stroller | 13.00% | ~80,975 |
+| Toy Train | 12.00% | ~74,747 |
+| Advanced Hiker | 11.00% | ~68,518 |
+| Hiker | 10.00% | ~62,289 |
+| Mojave Courier | 5.00% | ~31,144 |
+| Saved by Nausicaä | 4.00% | ~24,916 |
+| Voyager | 3.00% | ~18,687 |
+| Advanced Voyager | 3.00% | ~18,687 |
+| Expert Stroller | 3.00% | ~18,687 |
+| Orient Express | 3.00% | ~18,687 |
+| Expert Hiker | 2.00% | ~12,458 |
+| Marathon | 2.00% | ~12,458 |
+| Destructionist | 2.00% | ~12,458 |
 | Lost | 1.00% | ~6,229 |
 | Expert Voyager | 0.60% | ~3,737 |
 | Rocketman | 0.60% | ~3,737 |
 | Shopaholic | 0.60% | ~3,737 |
 | Nanuk | 0.50% | ~3,114 |
 | Dynamite Fishing | 0.50% | ~3,114 |
-| Scrooge | 0.40% | ~2,491 |
-| Terminal Station | 0.40% | ~2,491 |
+| Scrooge | 0.40% | ~2,492 |
+| Terminal Station | 0.40% | ~2,492 |
 | Wayfarer | 0.30% | ~1,869 |
 | Advanced Wayfarer | 0.30% | ~1,869 |
 | Trans-Siberian Railway | 0.30% | ~1,869 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~623 |
 | 20 Miles under the Sea | 0.10% | ~623 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 622,869 (Ranked 24)  
+Progressed: 622,888 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 7 (0.00%) (Ranked 240)
 | 2023-07-19 | 621,668 | 7 |
 | 2023-07-20 | 622,060 | 7 |
 | 2023-07-21 | 622,493 | 7 |
-| 2023-07-22 | 622,869 | 7 |
+| 2023-07-22 | 622,888 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,539 (Ranked 215)  

@@ -10,8 +10,8 @@
 | Don't Cry Wolf | 23.00% | ~5 |
 | Can't touch this | 23.00% | ~5 |
 | A new World ahead | 18.00% | ~4 |
+| Apprentice | 18.00% | ~4 |
 | Freezing Cold | 14.00% | ~3 |
-| Apprentice | 14.00% | ~3 |
 | Bringing guns to a sword fight | 9.00% | ~2 |
 | Searing Heat | 9.00% | ~2 |
 | Through Dangers Untold | 9.00% | ~2 |

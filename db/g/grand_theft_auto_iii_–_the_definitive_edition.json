@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7053,
+  "EOS_Progressed": 7055,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5867,6 +5867,11 @@
       "Time": "2023-07-22T17:05:29.6217531+00:00",
       "NumProgressed": 7053,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-22T18:04:51.7387064+00:00",
+      "NumProgressed": 7055,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5878,7 +5883,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5856
     },
     {
       "ID": "ACH02",
@@ -5886,7 +5891,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH03",
@@ -5942,7 +5947,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH10",
@@ -5982,7 +5987,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH15",
@@ -5998,7 +6003,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ACH17",
@@ -6062,7 +6067,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH25",
@@ -6070,7 +6075,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH26",
@@ -6109,7 +6114,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7053,
+      "Progressed": 7055,
       "Completed": 41
     }
   ],
@@ -6117,8 +6122,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:05:29.6217526+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:04:51.7387059+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:58:37.0103847+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:29.6217955+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:58:14.7419918+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:04:51.7387648+00:00"
 }

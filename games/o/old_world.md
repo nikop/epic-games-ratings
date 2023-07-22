@@ -6,13 +6,14 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.70% | ~91 |
+| The Clergy | 0.80% | ~104 |
 | The Great Mage | 0.50% | ~65 |
 | Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Explorer | 0.20% | ~26 |
 | Intrepid | 0.20% | ~26 |
+| Just | 0.20% | ~26 |
 | Settler | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
-| Just | 0.10% | ~13 |
 | Keystone | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |

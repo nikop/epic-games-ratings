@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3008,
+  "EOS_Progressed": 3010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2411,6 +2411,11 @@
       "Time": "2023-07-22T16:04:09.7422874+00:00",
       "NumProgressed": 3008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T18:03:35.8092523+00:00",
+      "NumProgressed": 3010,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2518,7 +2523,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2614,7 +2619,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "Kills_Exterminator",
@@ -2630,7 +2635,7 @@
       "Name": "Friendly Fire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Kills_Interactable",
@@ -2670,7 +2675,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2758,7 +2763,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2893,21 +2898,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3008,
+      "Progressed": 3010,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3008,
+      "Progressed": 3010,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:03:47.2905327+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:03:35.809252+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:59:39.0410736+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:03:47.2905836+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:01.8261234+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:03:35.8093197+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.09,
+  "EOS_Completed_Percentage": 11.07,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1691,6 +1691,11 @@
       "Time": "2023-07-22T15:06:29.5606045+00:00",
       "NumProgressed": 550,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-07-22T18:05:48.4986991+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 30,
@@ -1702,7 +1707,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "LEVEL_002",
@@ -1718,7 +1723,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "LEVEL_004",
@@ -1780,9 +1785,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_012",
@@ -1814,7 +1819,7 @@
       "Name": "Flatland",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_016",
@@ -1838,7 +1843,7 @@
       "Name": "Isle rock city",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_019",
@@ -1862,7 +1867,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_022",
@@ -1941,14 +1946,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:06:46.6434765+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:05:48.4986985+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:57:39.3105126+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:06:46.6435019+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:57:32.5860446+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:48.4987325+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "mundaun",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-03-16T13:00:00+00:00",
     "PcReleaseDate": "2021-03-16T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.3066671+00:00",
   "LastChanged": "2023-03-31T05:57:20.3066672+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:30.340545+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:59:50.0196451+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:48.4372325+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:08.8386971+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:05:05.8132786+00:00"
 }

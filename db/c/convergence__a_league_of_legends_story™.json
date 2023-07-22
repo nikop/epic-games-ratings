@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 778,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1709,6 +1709,11 @@
       "Time": "2023-07-22T09:03:47.4932395+00:00",
       "NumProgressed": 776,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T18:03:29.9150121+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1728,7 +1733,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1912,7 +1917,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "MapCompletion1",
@@ -1960,7 +1965,7 @@
       "Name": "Time Flies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ParryBoss",
@@ -1968,7 +1973,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ParryRepeated1",
@@ -1976,7 +1981,7 @@
       "Name": "No, Thanks!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1984,7 +1989,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1992,7 +1997,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "PidgeDefeated",
@@ -2000,7 +2005,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "RewindDamage1",
@@ -2008,7 +2013,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "RewindParry",
@@ -2030,17 +2035,17 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 101
     },
     {
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 31
     },
     {
       "ID": "SkillProgress1",
@@ -2096,7 +2101,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "WarwickDefeated",
@@ -2104,7 +2109,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "WatcherFought",
@@ -2128,7 +2133,7 @@
       "Name": "The Brass Boss",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2143,14 +2148,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 778,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:03:39.5105666+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:03:29.9150116+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-22T17:00:29.571231+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:03:39.51061+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:59:38.5127783+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:03:29.9150698+00:00"
 }

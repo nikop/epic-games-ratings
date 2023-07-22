@@ -22,13 +22,13 @@ Rating: 4.39 (Ranked 701)
 | The meaning of Kain | 40.00% | ~506 |
 | Technophobe | 38.00% | ~481 |
 | Recycler | 37.00% | ~468 |
-| Are you not entertained? | 32.00% | ~405 |
+| Are you not entertained? | 33.00% | ~417 |
 | Ganglord | 32.00% | ~405 |
 | Jarhead | 32.00% | ~405 |
 | Infiltrator | 32.00% | ~405 |
 | Pushing Daisy | 30.00% | ~380 |
 | Experienced | 29.00% | ~367 |
-| Hold The Line | 26.00% | ~329 |
+| Hold The Line | 27.00% | ~342 |
 | Endgame | 25.00% | ~316 |
 | Savior | 25.00% | ~316 |
 | There Can Be Only One! | 24.00% | ~304 |

@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 858)
 | Family Meeting | 1.00% | ~673 |
 | A Worthy Successor | 1.00% | ~673 |
 | Solid Alibi | 1.00% | ~673 |
-| Expert Crime Fighter | 0.90% | ~605 |
+| Expert Crime Fighter | 0.90% | ~606 |
 | Dressed to Impress | 0.80% | ~538 |
 | A Momentum Occasion | 0.60% | ~404 |
 | Bat Out of Hell | 0.50% | ~336 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,276 (Ranked 77)  
+Progressed: 67,278 (Ranked 77)  
 Completed: 104 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 104 (0.15%) (Ranked 175)
 | 2023-07-19 | 67,208 | 102 |
 | 2023-07-20 | 67,235 | 102 |
 | 2023-07-21 | 67,259 | 104 |
-| 2023-07-22 | 67,276 | 104 |
+| 2023-07-22 | 67,278 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 101)  
 Sum: 4,079 (Ranked 138)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -455,9 +455,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-22T17:05:28.2144627+00:00",
+  "LastChanged_Achievements": "2023-07-22T18:04:50.7226886+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-22T16:58:31.9275705+00:00",
-  "LastUpdate_Achievements": "2023-07-22T17:05:28.2144935+00:00"
+  "LastUpdate_Ratings": "2023-07-22T17:58:11.5669353+00:00",
+  "LastUpdate_Achievements": "2023-07-22T18:04:50.7227277+00:00"
 }
