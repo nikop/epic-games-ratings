@@ -143,7 +143,7 @@
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 505 |
 | 134 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 505 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 505 |
-| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 626 | 172 |
+| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 628 | 172 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 798 | 153 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 644 | 170 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,829 | 48 |
@@ -308,7 +308,7 @@
 | 298 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,895 | 110 |
 | 298 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 52 | 393 |
 | 298 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 505 |
-| 298 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,696 | 16 |
+| 298 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,705 | 16 |
 | 298 | [Tavern Master](games/t/tavern_master.md) | 4.65 | 0 | 505 |
 | 298 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 505 |
 | 298 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.65 | 0 | 505 |
@@ -566,7 +566,7 @@
 | 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 505 |
 | 553 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 505 |
 | 553 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 332 |
-| 553 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 626 | 172 |
+| 553 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 626 | 173 |
 | 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 0 | 505 |
 | 553 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 21 | 493 |
 | 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 505 |
@@ -705,7 +705,7 @@
 | 701 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,008 | 143 |
 | 701 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 505 |
 | 701 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.39 | 0 | 505 |
-| 701 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,727 | 32 |
+| 701 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,729 | 32 |
 | 701 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 0 | 505 |
 | 701 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 505 |
 | 701 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
