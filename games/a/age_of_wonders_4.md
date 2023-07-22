@@ -13,7 +13,6 @@ Rating: 4.63 (Ranked 331)
 | From Friends to Family | 4.00% | ~201 |
 | Magical Synergy | 4.00% | ~201 |
 | My Final Form | 4.00% | ~201 |
-| Intimidation Tactics | 4.00% | ~201 |
 | Blood of the Dragon | 4.00% | ~201 |
 | Mighty Hoard | 4.00% | ~201 |
 | There Can Only Be One! | 3.00% | ~151 |
@@ -25,6 +24,7 @@ Rating: 4.63 (Ranked 331)
 | Fiery Friend | 3.00% | ~151 |
 | Against the Odds | 3.00% | ~151 |
 | Impenetrable Fortress | 3.00% | ~151 |
+| Intimidation Tactics | 3.00% | ~151 |
 | Here be Dragons | 3.00% | ~151 |
 | Valley of Wonders | 2.00% | ~101 |
 | The Magic That Empowers Me! | 2.00% | ~101 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 331)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,028 (Ranked 136)  
+Progressed: 5,029 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.10%) (Ranked 187)
 | 2023-07-19 | 5,014 | 5 |
 | 2023-07-20 | 5,021 | 5 |
 | 2023-07-21 | 5,026 | 5 |
-| 2023-07-22 | 5,028 | 5 |
+| 2023-07-22 | 5,029 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

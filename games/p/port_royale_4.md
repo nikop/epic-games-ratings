@@ -1,33 +1,33 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 913)  
+Rating: 4.03 (Ranked 914)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~604 |
-| My little farm | 65.00% | ~485 |
+| Cabin boy | 81.00% | ~605 |
+| My little farm | 65.00% | ~486 |
 | Every beginning is difficult | 62.00% | ~463 |
 | 3, 2, 1, mine | 56.00% | ~418 |
 | Gofer | 56.00% | ~418 |
 | Seafarer | 54.00% | ~403 |
-| O Captain! My Captain! | 53.00% | ~395 |
+| O Captain! My Captain! | 53.00% | ~396 |
 | Greed for gold | 43.00% | ~321 |
-| I'm out of here for a while | 42.00% | ~313 |
+| I'm out of here for a while | 42.00% | ~314 |
 | Intangible | 41.00% | ~306 |
-| In a mint condition | 38.00% | ~283 |
+| In a mint condition | 38.00% | ~284 |
 | Licence to Kill | 36.00% | ~269 |
 | Pirates! | 35.00% | ~261 |
-| Megalomania | 29.00% | ~216 |
+| Megalomania | 29.00% | ~217 |
 | Collectionitis | 28.00% | ~209 |
 | Christening | 26.00% | ~194 |
-| Groundskeeper | 25.00% | ~186 |
+| Groundskeeper | 25.00% | ~187 |
 | Wholesale | 22.00% | ~164 |
 | Walk the plank | 21.00% | ~157 |
 | Pearly gates | 17.00% | ~127 |
 | My precious! | 17.00% | ~127 |
-| Conquistador | 14.00% | ~104 |
+| Conquistador | 14.00% | ~105 |
 | Panic buying | 12.00% | ~90 |
 | Just a scratch | 9.00% | ~67 |
 | Your vessel, my vessel | 9.00% | ~67 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746 (Ranked 201)  
+Progressed: 747 (Ranked 201)  
 Completed: 1 (0.13%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.13%) (Ranked 180)
 | 2023-07-19 | 737 | 1 |
 | 2023-07-20 | 739 | 1 |
 | 2023-07-21 | 745 | 1 |
-| 2023-07-22 | 746 | 1 |
+| 2023-07-22 | 747 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

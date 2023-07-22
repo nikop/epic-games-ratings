@@ -32,9 +32,9 @@ Number of Ratings: 20  (23.09.2022)
 | A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
 | The New Director | 14.00% | ~45 |
+| The Director is Dead | 14.00% | ~45 |
 | Adventurer | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
-| The Director is Dead | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
 | And Here Is Your Statue | 12.00% | ~38 |

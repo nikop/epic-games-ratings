@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 92.00% | ~66 |
-| Your first fight | 85.00% | ~61 |
-| Good Person Chip | 82.00% | ~59 |
-| Your first job | 81.00% | ~58 |
-| First winning | 79.00% | ~57 |
-| Neurotrainer – power gainer! | 69.00% | ~50 |
-| First defeat | 64.00% | ~46 |
-| Depressed visitor | 64.00% | ~46 |
-| Fitness professional | 61.00% | ~44 |
-| Employee of the week | 60.00% | ~43 |
-| Old movies enjoyer | 58.00% | ~42 |
-| Intriguing candies | 58.00% | ~42 |
-| Your own amateur gym | 57.00% | ~41 |
-| Run K, run! | 56.00% | ~40 |
+| Such a strange dream… | 93.00% | ~67 |
+| Your first fight | 88.00% | ~63 |
+| Good Person Chip | 85.00% | ~61 |
+| Your first job | 83.00% | ~60 |
+| First winning | 82.00% | ~59 |
+| Neurotrainer – power gainer! | 72.00% | ~52 |
+| First defeat | 69.00% | ~50 |
+| Depressed visitor | 69.00% | ~50 |
+| Fitness professional | 65.00% | ~47 |
+| Employee of the week | 63.00% | ~45 |
+| Your own amateur gym | 61.00% | ~44 |
+| Old movies enjoyer | 61.00% | ~44 |
+| Run K, run! | 60.00% | ~43 |
+| Intriguing candies | 60.00% | ~43 |
+| Hello, world! | 51.00% | ~37 |
 | No bullying more | 50.00% | ~36 |
-| Hello, world! | 50.00% | ~36 |
 | Fighting is cool | 49.00% | ~35 |
 | Pal of your father? | 46.00% | ~33 |
 | Spirit of the past | 42.00% | ~30 |
+| Law student | 39.00% | ~28 |
 | Employee of the month | 39.00% | ~28 |
 | Little hacker | 38.00% | ~27 |
-| Law student | 38.00% | ~27 |
 | Your own way | 36.00% | ~26 |
-| Workout professional | 33.00% | ~24 |
-| Fight for life | 29.00% | ~21 |
-| Employee of the year | 29.00% | ~21 |
-| Extreme neuropower! | 26.00% | ~19 |
-| Handyman | 25.00% | ~18 |
-| Champion – starter pack | 25.00% | ~18 |
-| It's good to be alive | 25.00% | ~18 |
-| Own four walls | 22.00% | ~16 |
-| Legal courier | 18.00% | ~13 |
+| Workout professional | 35.00% | ~25 |
+| Fight for life | 31.00% | ~22 |
+| Employee of the year | 31.00% | ~22 |
+| Champion – starter pack | 29.00% | ~21 |
+| Extreme neuropower! | 28.00% | ~20 |
+| Handyman | 26.00% | ~19 |
+| It's good to be alive | 26.00% | ~19 |
+| Own four walls | 25.00% | ~18 |
+| Legal courier | 22.00% | ~16 |
 | Now you are worthy | 17.00% | ~12 |
-| Mysterious voice | 14.00% | ~10 |
+| Mysterious voice | 15.00% | ~11 |
+| No blades in the gym | 14.00% | ~10 |
+| Guiding on the right path | 14.00% | ~10 |
 | Fight is life | 13.00% | ~9 |
-| Guiding on the right path | 13.00% | ~9 |
-| Escaped from a big trouble | 11.00% | ~8 |
-| No blades in the gym | 10.00% | ~7 |
+| Escaped from a big trouble | 13.00% | ~9 |
 | Get out of my apartment! | 7.00% | ~5 |
 | Responsible approach | 7.00% | ~5 |
 | Mom got better | 6.00% | ~4 |
 | Deal with life | 6.00% | ~4 |
 | Champion – no way back | 6.00% | ~4 |
 | The die is cast | 6.00% | ~4 |
+| Underground dwellers | 6.00% | ~4 |
+| Seashell hunter | 6.00% | ~4 |
 | Gang wrangler | 4.00% | ~3 |
 | GYM professional | 4.00% | ~3 |
 | The last bell ring | 4.00% | ~3 |
-| Underground dwellers | 4.00% | ~3 |
-| Seashell hunter | 4.00% | ~3 |
+| Anyone can resist | 4.00% | ~3 |
 | Poisoned fighter | 3.00% | ~2 |
-| Anyone can resist | 3.00% | ~2 |
 | Undercover robot | 3.00% | ~2 |
 | Problems of cyborgs | 1.00% | ~1 |
 | Trap disarmed | 1.00% | ~1 |

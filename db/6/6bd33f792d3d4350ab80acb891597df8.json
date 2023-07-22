@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -118,9 +118,9 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 73,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-22T14:05:03.6569318+00:00",
+  "LastChanged_Achievements": "2023-07-22T15:05:17.7165126+00:00",
   "LastUpdate_AppInfo": "2023-07-18T11:56:59.8645708+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:57:30.5384645+00:00",
-  "LastUpdate_Achievements": "2023-07-22T14:05:03.6569602+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:57:19.2105862+00:00",
+  "LastUpdate_Achievements": "2023-07-22T15:05:17.7165358+00:00"
 }

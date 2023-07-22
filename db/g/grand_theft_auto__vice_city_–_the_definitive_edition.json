@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -532,7 +532,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9065,
+  "EOS_Progressed": 9066,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -6657,6 +6657,11 @@
       "Time": "2023-07-22T14:04:07.3757021+00:00",
       "NumProgressed": 9065,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T15:04:04.3484482+00:00",
+      "NumProgressed": 9066,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6828,7 +6833,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "ACH22",
@@ -6939,7 +6944,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9065,
+      "Progressed": 9066,
       "Completed": 43
     }
   ],
@@ -6947,8 +6952,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T14:04:07.3757016+00:00",
+  "LastChanged_Achievements": "2023-07-22T15:04:04.3484477+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:58:45.4516131+00:00",
-  "LastUpdate_Achievements": "2023-07-22T14:04:07.3757719+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:58:48.164179+00:00",
+  "LastUpdate_Achievements": "2023-07-22T15:04:04.3485182+00:00"
 }

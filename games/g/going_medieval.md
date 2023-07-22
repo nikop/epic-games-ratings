@@ -6,11 +6,11 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,472 |
-| Having A Field Day | 73.00% | ~3,472 |
-| Reap What You Sow | 70.00% | ~3,329 |
+| Get A Room | 73.00% | ~3,473 |
+| Having A Field Day | 73.00% | ~3,473 |
+| Reap What You Sow | 70.00% | ~3,330 |
 | The First Day | 67.00% | ~3,187 |
-| Green Thumb | 65.00% | ~3,091 |
+| Green Thumb | 65.00% | ~3,092 |
 | Novice Researcher | 64.00% | ~3,044 |
 | Putting Food on the Table | 60.00% | ~2,854 |
 | Home Cooked Meal | 55.00% | ~2,616 |
@@ -20,25 +20,25 @@ Number of Ratings: 706  (23.09.2022)
 | Feast or Famine | 50.00% | ~2,378 |
 | Studious Researcher | 50.00% | ~2,378 |
 | Adept Researcher | 44.00% | ~2,093 |
-| Retribution | 40.00% | ~1,902 |
-| ...And Don’t Come Back! | 40.00% | ~1,902 |
-| Fit For A King | 38.00% | ~1,807 |
+| Retribution | 40.00% | ~1,903 |
+| ...And Don’t Come Back! | 40.00% | ~1,903 |
+| Fit For A King | 38.00% | ~1,808 |
 | Luminary Researcher | 34.00% | ~1,617 |
 | Heating Up | 28.00% | ~1,332 |
 | Winter Is Coming | 25.00% | ~1,189 |
-| Winter Is Here | 22.00% | ~1,046 |
+| Winter Is Here | 22.00% | ~1,047 |
 | Disassembled | 19.00% | ~904 |
 | A Party Now | 19.00% | ~904 |
 | All Year Round | 19.00% | ~904 |
 | Oh Deer! | 18.00% | ~856 |
 | Nothing Wasted | 12.00% | ~571 |
 | Don't Cry Wolf | 11.00% | ~523 |
-| Deerly Departed | 8.00% | ~380 |
+| Deerly Departed | 8.00% | ~381 |
 | Where Wolf? | 5.00% | ~238 |
 | Food Chain | 2.00% | ~95 |
 | Wabbit Season | 0.60% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,756 (Ranked 137)  
+Progressed: 4,757 (Ranked 137)  
 Completed: 10 (0.21%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 10 (0.21%) (Ranked 165)
 | 2023-07-19 | 4,707 | 10 |
 | 2023-07-20 | 4,722 | 10 |
 | 2023-07-21 | 4,744 | 10 |
-| 2023-07-22 | 4,756 | 10 |
+| 2023-07-22 | 4,757 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 312)  
 Sum: 962 (Ranked 238)  

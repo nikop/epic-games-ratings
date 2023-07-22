@@ -10,10 +10,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.50% | ~65 |
 | Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
+| Architect | 0.20% | ~26 |
 | Explorer | 0.20% | ~26 |
+| Intrepid | 0.20% | ~26 |
 | Settler | 0.20% | ~26 |
+| Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
+| Hanging Gardens | 0.20% | ~26 |
 | Play a Single Player Game | 0.20% | ~26 |
+| Christianity | 0.20% | ~26 |
+| Greek Paganism | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
@@ -32,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
-| Architect | 0.10% | ~13 |
 | Beloved | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
 | Brilliant | 0.10% | ~13 |
@@ -46,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
-| Intrepid | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
 | Just | 0.10% | ~13 |
 | Keystone | 0.10% | ~13 |
@@ -60,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
-| Strong | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
@@ -70,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
 | Able Difficulty | 0.10% | ~13 |
+| Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Just Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
@@ -89,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Run, Pheidippides, Run! | 0.10% | ~13 |
+| Nenikekamen | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
@@ -97,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Hagia Sophia | 0.10% | ~13 |
-| Hanging Gardens | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
@@ -118,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
+| Realistic Mortality | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
 | Carthage | 0.10% | ~13 |
 | Egypt | 0.10% | ~13 |
@@ -132,14 +137,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
-| Christianity | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Babylonian Paganism | 0.10% | ~13 |
 | Carthaginian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
-| Greek Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
@@ -165,9 +168,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.10% | ~13 |
 | Legionary | 0.10% | ~13 |
 | Phalangite | 0.10% | ~13 |
+| Siege Tower | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
 | All Nations | 0.10% | ~13 |
 | Ambition Victory | 0.10% | ~13 |
+| Conquest Victory | 0.10% | ~13 |
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
 | Points Victory | 0.10% | ~13 |
@@ -220,7 +225,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Glorious Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
@@ -230,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
-| Nenikekamen | 0.00% | ~0 |
 | Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | The Turning Point | 0.00% | ~0 |
@@ -277,7 +280,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Realistic Mortality | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
@@ -291,9 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
-| Siege Tower | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,009 (Ranked 114)  
+Progressed: 13,012 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,009 | 5 |
+| 2023-07-22 | 13,012 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

@@ -1,24 +1,24 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 838)  
+Rating: 4.20 (Ranked 839)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~7,664 |
-| Battering Crew | 20.00% | ~3,832 |
-| The Kingsroad | 18.00% | ~3,449 |
+| Conqueror | 40.00% | ~7,666 |
+| Battering Crew | 20.00% | ~3,833 |
+| The Kingsroad | 18.00% | ~3,450 |
 | Well Stocked | 14.00% | ~2,683 |
-| Royal Fleet | 13.00% | ~2,491 |
-| The Kraken’s Grasp | 9.00% | ~1,724 |
+| Royal Fleet | 13.00% | ~2,492 |
+| The Kraken’s Grasp | 9.00% | ~1,725 |
 | Daggers in the Dark | 8.00% | ~1,533 |
 | Oathkeeper | 8.00% | ~1,533 |
 | Alliance | 8.00% | ~1,533 |
 | A Long Journey | 8.00% | ~1,533 |
-| Ours is the Fury | 7.00% | ~1,341 |
-| Winter is Coming | 7.00% | ~1,341 |
-| Influential | 7.00% | ~1,341 |
+| Ours is the Fury | 7.00% | ~1,342 |
+| Winter is Coming | 7.00% | ~1,342 |
+| Influential | 7.00% | ~1,342 |
 | We Do Not Sow | 6.00% | ~1,150 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~1,150 |
 | Hear me Roar! | 6.00% | ~1,150 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~383 |
 | War of the Five Kings | 1.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,161 (Ranked 105)  
+Progressed: 19,166 (Ranked 105)  
 Completed: 39 (0.20%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 39 (0.20%) (Ranked 167)
 | 2023-07-19 | 18,946 | 39 |
 | 2023-07-20 | 19,038 | 39 |
 | 2023-07-21 | 19,115 | 39 |
-| 2023-07-22 | 19,161 | 39 |
+| 2023-07-22 | 19,166 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 308)  
 Sum: 785 (Ranked 259)  

@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Stone Pickaxe | 93.00% | ~2,009 |
 | Revenge | 93.00% | ~2,009 |
 | Surprise | 93.00% | ~2,009 |
-| Magnet | 90.00% | ~1,944 |
+| Magnet | 91.00% | ~1,966 |
 | Industrial Area | 89.00% | ~1,922 |
 | Magnet Repel | 88.00% | ~1,901 |
 | You feel middle classy | 87.00% | ~1,879 |

@@ -1,54 +1,54 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 904)  
+Rating: 4.06 (Ranked 905)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Mad Wizard | 0.20% | ~429 |
-| Troublesome Prisoner | 0.10% | ~214 |
-| Dark Doppelgangers | 0.10% | ~214 |
+| Troublesome Prisoner | 0.10% | ~215 |
+| Dark Doppelgangers | 0.10% | ~215 |
 | Faerûn's Most Wanted | 0.10% | ~181 |
-| Difficult Terrain | 0.10% | ~214 |
-| Cold & Wet | 0.10% | ~214 |
-| Madcap Adventures | 0.10% | ~214 |
+| Difficult Terrain | 0.10% | ~215 |
+| Cold & Wet | 0.10% | ~215 |
+| Madcap Adventures | 0.10% | ~215 |
 | Faerûn's Most Neglected | 0.10% | ~181 |
-| Vault of Dragons | 0.10% | ~214 |
-| Vault of Pixies | 0.10% | ~214 |
-| Vault of Poison | 0.10% | ~214 |
+| Vault of Dragons | 0.10% | ~215 |
+| Vault of Pixies | 0.10% | ~215 |
+| Vault of Poison | 0.10% | ~215 |
 | Vault of Cuteness | 0.10% | ~181 |
-| Champions of Waterdeep | 0.10% | ~214 |
-| On The Job Learning | 0.10% | ~214 |
+| Champions of Waterdeep | 0.10% | ~215 |
+| On The Job Learning | 0.10% | ~215 |
 | Strike! | 0.10% | ~181 |
 | Take Five | 0.10% | ~181 |
-| Running of the Saurs | 0.10% | ~214 |
-| Lost in the Goblin Halls | 0.10% | ~214 |
-| Batiri in the Goblin Halls | 0.10% | ~214 |
+| Running of the Saurs | 0.10% | ~215 |
+| Lost in the Goblin Halls | 0.10% | ~215 |
+| Batiri in the Goblin Halls | 0.10% | ~215 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~181 |
-| The Twilight Grove | 0.10% | ~214 |
-| The Nimble Grove | 0.10% | ~214 |
+| The Twilight Grove | 0.10% | ~215 |
+| The Nimble Grove | 0.10% | ~215 |
 | The Misty Grove | 0.10% | ~181 |
-| The Contagious Curse | 0.10% | ~214 |
-| Dinosaur Racing | 0.10% | ~214 |
-| Elturel Has Fallen | 0.10% | ~214 |
-| Everything is Awful | 0.10% | ~214 |
+| The Contagious Curse | 0.10% | ~215 |
+| Dinosaur Racing | 0.10% | ~215 |
+| Elturel Has Fallen | 0.10% | ~215 |
+| Everything is Awful | 0.10% | ~215 |
 | Earthquake! | 0.10% | ~181 |
 | Hailstorm! | 0.10% | ~181 |
-| Resolve Amongst Chaos | 0.10% | ~214 |
-| All You Know Is Wrong | 0.10% | ~214 |
+| Resolve Amongst Chaos | 0.10% | ~215 |
+| All You Know Is Wrong | 0.10% | ~215 |
 | Shadow Stalkers | 0.10% | ~181 |
 | Avernus Frozen Over | 0.10% | ~181 |
-| Market Fluctuations | 0.10% | ~214 |
-| Once More Into The Breach | 0.10% | ~214 |
-| Twice More Into The Breach | 0.10% | ~214 |
+| Market Fluctuations | 0.10% | ~215 |
+| Once More Into The Breach | 0.10% | ~215 |
+| Twice More Into The Breach | 0.10% | ~215 |
 | Thrice More Into The Breach | 0.10% | ~181 |
 | Nightmare Mode | 0.10% | ~181 |
-| Wyllowwood | 0.10% | ~214 |
-| Displaced Anger | 0.10% | ~214 |
+| Wyllowwood | 0.10% | ~215 |
+| Displaced Anger | 0.10% | ~215 |
 | Ettercap Swarm | 0.10% | ~181 |
 | Smooth Talkers | 0.10% | ~181 |
-| Relay Race | 0.10% | ~214 |
+| Relay Race | 0.10% | ~215 |
 | An Illithid Undertaking | 0.10% | ~181 |
 | An Illithid Ambush | 0.10% | ~181 |
 | Misty Undermountain | 0.10% | ~181 |
@@ -95,7 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~181 |
 | Prisoners of Lolth | 0.10% | ~181 |
 | Prisoners of Unknown Choices | 0.10% | ~181 |
-| Escort to Waterdeep | 0.10% | ~214 |
+| Escort to Waterdeep | 0.10% | ~215 |
 | The Giant's Bane Tavern | 0.10% | ~181 |
 | Rime Bandits | 0.10% | ~181 |
 | Giant-Size Adventure | 0.10% | ~181 |
@@ -104,16 +104,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~181 |
 | Mirage Arcane | 0.10% | ~181 |
 | Only Human | 0.10% | ~181 |
-| Close Escort | 0.10% | ~214 |
-| Constant Banditry | 0.10% | ~214 |
-| The Long Haul | 0.10% | ~214 |
-| Waterdeep Detours | 0.10% | ~214 |
-| Lost in the Deep | 0.10% | ~214 |
-| Easily Distracted | 0.10% | ~214 |
-| Rude Welcome | 0.10% | ~214 |
-| Underdeep Cartography | 0.10% | ~214 |
-| Friendly Imps | 0.10% | ~214 |
-| Overdue Rendezvous | 0.10% | ~214 |
+| Close Escort | 0.10% | ~215 |
+| Constant Banditry | 0.10% | ~215 |
+| The Long Haul | 0.10% | ~215 |
+| Waterdeep Detours | 0.10% | ~215 |
+| Lost in the Deep | 0.10% | ~215 |
+| Easily Distracted | 0.10% | ~215 |
+| Rude Welcome | 0.10% | ~215 |
+| Underdeep Cartography | 0.10% | ~215 |
+| Friendly Imps | 0.10% | ~215 |
+| Overdue Rendezvous | 0.10% | ~215 |
 | Moose Tracks | 0.10% | ~181 |
 | An Awakened Axe | 0.10% | ~181 |
 | CONtagious Cold | 0.10% | ~181 |
@@ -121,7 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~181 |
 | Trench Coat Run | 0.10% | ~181 |
 | The Taunting Lord | 0.10% | ~181 |
-| Durable Deep | 0.10% | ~214 |
+| Durable Deep | 0.10% | ~215 |
 | Lone Wolf Party | 0.10% | ~181 |
 | The Sibriex | 0.10% | ~181 |
 | The Archduke's Blessing | 0.10% | ~181 |
@@ -129,7 +129,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~181 |
 | Relentless Peril | 0.10% | ~181 |
 | Rickety Rubble | 0.10% | ~181 |
-| Expert Opinion | 0.10% | ~214 |
+| Expert Opinion | 0.10% | ~215 |
 | Dwarven Rumors | 0.10% | ~181 |
 | Mimic Perception | 0.10% | ~181 |
 | Frozen in Fear | 0.10% | ~181 |
@@ -178,7 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~181 |
 | Mysteries Unlocked | 0.10% | ~181 |
 | Male Pattern Boldness | 0.10% | ~181 |
-| Pure Energy | 0.10% | ~214 |
+| Pure Energy | 0.10% | ~215 |
 | Tekeli-li's Hunt | 0.10% | ~181 |
 | Cackling Horror | 0.10% | ~181 |
 | Working for the Weak End | 0.10% | ~181 |
@@ -194,11 +194,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~181 |
 | Ineffectual Intellectuals | 0.10% | ~181 |
 | The Archaeologist and the Sailor | 0.10% | ~181 |
-| The Templar's Camp | 0.10% | ~214 |
-| The Haunted Jungle | 0.10% | ~214 |
-| Poor Guidance | 0.10% | ~214 |
-| Overwhelming Force | 0.10% | ~214 |
-| Rescue in the Jungle | 0.10% | ~214 |
+| The Templar's Camp | 0.10% | ~215 |
+| The Haunted Jungle | 0.10% | ~215 |
+| Poor Guidance | 0.10% | ~215 |
+| Overwhelming Force | 0.10% | ~215 |
+| Rescue in the Jungle | 0.10% | ~215 |
 | A Brief Tour of the Realms | 0.00% | ~0 |
 | Maddening | 0.00% | ~0 |
 | Pros and CONs | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,479 (Ranked 53)  
+Progressed: 214,504 (Ranked 53)  
 Completed: 2,060 (0.96%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,10 +612,10 @@ Completed: 2,060 (0.96%) (Ranked 107)
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
 | 2023-07-21 | 214,257 | 2,060 |
-| 2023-07-22 | 214,479 | 2,060 |
+| 2023-07-22 | 214,504 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,055  (Ranked 66)  
-Sum: 30,636 (Ranked 38)  
+Sum: 30,637 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -625,7 +625,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,564 |
 | This game has Amazing Characters | 4,022 |
 | This game is Highly Recommended | 4,016 |
-| This game has Playful Visuals | 3,307 |
+| This game has Playful Visuals | 3,308 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -806,4 +806,4 @@ Diff (max vs sum): 28
 | 2023-07-19 | 4.05 | - | 5,043 | 30,584 |
 | 2023-07-20 | 4.05 | - | 5,048 | 30,598 |
 | 2023-07-21 | 4.06 | - | 5,055 | 30,627 |
-| 2023-07-22 | 4.06 | - | 5,055 | 30,636 |
+| 2023-07-22 | 4.06 | - | 5,055 | 30,637 |

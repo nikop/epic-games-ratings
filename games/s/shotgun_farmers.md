@@ -7,7 +7,7 @@
 | Seeds of War | 74.00% | ~165 |
 | Aspairagus | 56.00% | ~97 |
 | First Blood | 54.00% | ~120 |
-| Triple Kill | 53.00% | ~118 |
+| Triple Kill | 54.00% | ~120 |
 | Survivor | 52.00% | ~90 |
 | No Asperascope | 49.00% | ~109 |
 | Cornivore | 48.00% | ~107 |
@@ -32,7 +32,7 @@
 | Summers Here | 11.00% | ~19 |
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
-| Perfect | 9.00% | ~16 |
+| Perfect | 10.00% | ~17 |
 | Expert Survivor | 9.00% | ~16 |
 | Bring Home The Bacon | 8.00% | ~18 |
 | Quadsparagus | 8.00% | ~14 |

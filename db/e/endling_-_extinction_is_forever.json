@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -511,6 +511,11 @@
       "Time": "2023-07-22T11:01:23.7121093+00:00",
       "NumProgressed": 461,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T15:01:34.0658783+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -530,7 +535,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TROP002",
@@ -586,7 +591,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "TROP009",
@@ -594,7 +599,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "TROP010",
@@ -618,7 +623,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "TROP013",
@@ -706,7 +711,7 @@
       "Name": "Detox diet",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "TROP024",
@@ -714,7 +719,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TROP025",
@@ -745,7 +750,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 3
     }
   ],
@@ -753,8 +758,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-22T14:00:50.6909514+00:00",
+  "LastChanged_Achievements": "2023-07-22T15:01:34.0658778+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.7590321+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:59:15.5150474+00:00",
-  "LastUpdate_Achievements": "2023-07-22T14:00:50.6909793+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:59:27.2029394+00:00",
+  "LastUpdate_Achievements": "2023-07-22T15:01:34.0659038+00:00"
 }

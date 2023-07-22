@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -758,6 +758,11 @@
       "Time": "2023-07-22T13:06:38.2930786+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T15:03:28.2349097+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -818,7 +823,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -826,7 +831,7 @@
       "Name": "First Strike",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -858,7 +863,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -938,7 +943,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -953,15 +958,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-22T14:03:38.6656788+00:00",
+  "LastChanged_Achievements": "2023-07-22T15:03:28.2349094+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T13:58:54.6418228+00:00",
-  "LastUpdate_Achievements": "2023-07-22T14:03:38.6656949+00:00"
+  "LastUpdate_Ratings": "2023-07-22T14:58:59.0840002+00:00",
+  "LastUpdate_Achievements": "2023-07-22T15:03:28.2349256+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.10 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,576 |
-| World Map | 79.00% | ~1,339 |
-| Temple of Eternals | 56.00% | ~949 |
-| Prestigious | 53.00% | ~898 |
+| Victor | 93.00% | ~1,577 |
+| World Map | 79.00% | ~1,340 |
+| Temple of Eternals | 56.00% | ~950 |
+| Prestigious | 53.00% | ~899 |
 | Fellowship Power | 41.00% | ~695 |
 | Guild Power | 24.00% | ~407 |
 | Prestigious x10 | 21.00% | ~356 |
@@ -25,9 +25,9 @@ Rating: 4.10 (Ranked 890)
 | Mysterious Rock | 13.00% | ~220 |
 | Natural Talent | 13.00% | ~220 |
 | The Unstoppable | 13.00% | ~220 |
-| Milestone collector | 12.00% | ~203 |
-| Superior | 12.00% | ~203 |
-| Scientist | 11.00% | ~186 |
+| Milestone collector | 12.00% | ~204 |
+| Superior | 12.00% | ~204 |
+| Scientist | 11.00% | ~187 |
 | Challenger | 10.00% | ~170 |
 | Doing My Part | 10.00% | ~170 |
 | Hunter | 10.00% | ~170 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,695 (Ranked 170)  
+Progressed: 1,696 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-19 | 1,680 | 1 |
 | 2023-07-20 | 1,682 | 1 |
 | 2023-07-21 | 1,690 | 1 |
-| 2023-07-22 | 1,695 | 1 |
+| 2023-07-22 | 1,696 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

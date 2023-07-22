@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,020 |
-| Now You're Talking | 62.00% | ~324,189 |
-| Steel Yourself | 62.00% | ~324,189 |
-| Window Dressing | 50.00% | ~261,443 |
-| Trigger Happy | 46.00% | ~240,528 |
-| Riverborn | 45.00% | ~235,299 |
-| Starry Eyed | 34.00% | ~177,781 |
-| Poking Around | 34.00% | ~177,781 |
-| Talk of the Town | 24.00% | ~125,493 |
-| AAARR! | 23.00% | ~120,264 |
-| Hello Darkness | 23.00% | ~120,264 |
-| Wind At Our Backs | 22.00% | ~115,035 |
-| To the Beat | 20.00% | ~104,577 |
+| First Step | 70.00% | ~366,024 |
+| Now You're Talking | 62.00% | ~324,192 |
+| Steel Yourself | 62.00% | ~324,192 |
+| Window Dressing | 50.00% | ~261,446 |
+| Trigger Happy | 46.00% | ~240,530 |
+| Riverborn | 45.00% | ~235,301 |
+| Starry Eyed | 34.00% | ~177,783 |
+| Poking Around | 34.00% | ~177,783 |
+| Talk of the Town | 24.00% | ~125,494 |
+| AAARR! | 23.00% | ~120,265 |
+| Hello Darkness | 23.00% | ~120,265 |
+| Wind At Our Backs | 22.00% | ~115,036 |
+| To the Beat | 20.00% | ~104,578 |
 | Sunny Shores | 17.00% | ~88,891 |
-| Sunday Best | 16.00% | ~83,662 |
-| To Victory! | 15.00% | ~78,433 |
-| Two of a Kind | 14.00% | ~73,204 |
-| Keep On Trucking | 13.00% | ~67,975 |
-| Going on an Adventure | 11.00% | ~57,517 |
-| Make Peace, Not War | 11.00% | ~57,517 |
+| Sunday Best | 16.00% | ~83,663 |
+| To Victory! | 15.00% | ~78,434 |
+| Two of a Kind | 14.00% | ~73,205 |
+| Keep On Trucking | 13.00% | ~67,976 |
+| Going on an Adventure | 11.00% | ~57,518 |
+| Make Peace, Not War | 11.00% | ~57,518 |
 | Walking The Line | 10.00% | ~52,289 |
 | Not So Cute Anymore | 10.00% | ~52,289 |
 | Road Less Travelled | 9.00% | ~47,060 |
@@ -38,16 +38,16 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,373 |
 | Dressed to Kill | 6.00% | ~31,373 |
 | Beast Mode | 6.00% | ~31,373 |
-| Oh, Romeo! | 5.00% | ~26,144 |
-| Noble Intentions | 5.00% | ~26,144 |
-| Rising Star | 5.00% | ~26,144 |
-| Slime Slayer | 5.00% | ~26,144 |
-| Privacy, Please! | 4.00% | ~20,915 |
-| Silky Smooth | 4.00% | ~20,915 |
-| Hash It Over | 4.00% | ~20,915 |
-| Biting Tongue | 4.00% | ~20,915 |
-| What a Catch! | 4.00% | ~20,915 |
-| Hit the Spot | 4.00% | ~20,915 |
+| Oh, Romeo! | 5.00% | ~26,145 |
+| Noble Intentions | 5.00% | ~26,145 |
+| Rising Star | 5.00% | ~26,145 |
+| Slime Slayer | 5.00% | ~26,145 |
+| Privacy, Please! | 4.00% | ~20,916 |
+| Silky Smooth | 4.00% | ~20,916 |
+| Hash It Over | 4.00% | ~20,916 |
+| Biting Tongue | 4.00% | ~20,916 |
+| What a Catch! | 4.00% | ~20,916 |
+| Hit the Spot | 4.00% | ~20,916 |
 | Talk the Talk | 3.00% | ~15,687 |
 | Skin in the Game | 3.00% | ~15,687 |
 | Caving In | 3.00% | ~15,687 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,569 |
 | Point Taken | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,886 (Ranked 29)  
+Progressed: 522,891 (Ranked 29)  
 Completed: 450 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 450 (0.09%) (Ranked 191)
 | 2023-07-19 | 522,662 | 449 |
 | 2023-07-20 | 522,746 | 450 |
 | 2023-07-21 | 522,830 | 450 |
-| 2023-07-22 | 522,886 | 450 |
+| 2023-07-22 | 522,891 | 450 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

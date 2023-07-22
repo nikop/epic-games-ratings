@@ -7,10 +7,10 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flawless Victory | 12.00% | ~17 |
-| Faceroll the Bones | 11.00% | ~15 |
-| First Strike | 11.00% | ~15 |
-| Hit 'Em Where It Hurts | 11.00% | ~15 |
-| That'll Leave a Mark | 11.00% | ~15 |
+| Faceroll the Bones | 11.00% | ~16 |
+| First Strike | 11.00% | ~16 |
+| Hit 'Em Where It Hurts | 11.00% | ~16 |
+| That'll Leave a Mark | 11.00% | ~16 |
 | Debuff Dogpile | 10.00% | ~14 |
 | Perk Shard Punch Card | 9.00% | ~13 |
 | Ten Steps from the Grave | 9.00% | ~13 |
@@ -30,14 +30,14 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 291)  
+Progressed: 141 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
-| 2023-07-22 | 140 | 0 |
+| 2023-07-22 | 141 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 350)  
