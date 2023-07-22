@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "choking_hazzard",
@@ -485,8 +485,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:07:54.4501381+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:07:14.2683161+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.738525+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:01:02.2608131+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:07:54.4501643+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:00:25.2692844+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:07:14.2683578+00:00"
 }

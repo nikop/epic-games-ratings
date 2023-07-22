@@ -8,15 +8,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,021 |
 | Project Arena | 4.00% | ~817 |
-| The Old Grandmaster | 2.00% | ~14,222 |
-| The Assault | 2.00% | ~14,222 |
-| The Hateful Pole Fighter | 2.00% | ~14,222 |
-| A Lady's Blood in the Snow | 2.00% | ~14,222 |
-| Life is your teacher | 2.00% | ~14,222 |
-| State of constant learning | 2.00% | ~14,222 |
-| Qi Gong: Breath | 2.00% | ~14,222 |
-| Lightning Hands | 2.00% | ~14,222 |
-| Rumble in the Hangar | 2.00% | ~14,222 |
+| The Old Grandmaster | 2.00% | ~14,223 |
+| The Assault | 2.00% | ~14,223 |
+| The Hateful Pole Fighter | 2.00% | ~14,223 |
+| A Lady's Blood in the Snow | 2.00% | ~14,223 |
+| Life is your teacher | 2.00% | ~14,223 |
+| State of constant learning | 2.00% | ~14,223 |
+| Qi Gong: Breath | 2.00% | ~14,223 |
+| Lightning Hands | 2.00% | ~14,223 |
+| Rumble in the Hangar | 2.00% | ~14,223 |
 | Lady Wing Chun | 1.00% | ~7,111 |
 | Furious Fists | 1.00% | ~7,111 |
 | Scareless | 1.00% | ~7,111 |
@@ -44,7 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,267 |
 | Prodigal Child | 0.50% | ~3,556 |
 | Sword Stained With Blood | 0.50% | ~3,556 |
-| Knowledge Greed | 0.40% | ~2,844 |
+| Knowledge Greed | 0.40% | ~2,845 |
 | Martial Hub | 0.40% | ~82 |
 | Secure, Protect, Leave | 0.40% | ~82 |
 | Drunken Fighter | 0.30% | ~2,133 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,116 (Ranked 19)  
+Progressed: 711,126 (Ranked 19)  
 Completed: 12,830 (1.80%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 12,830 (1.80%) (Ranked 84)
 | 2023-07-19 | 710,897 | 12,825 |
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
-| 2023-07-22 | 711,116 | 12,830 |
+| 2023-07-22 | 711,126 | 12,830 |
 ## Awards
 Max (Great Boss Battles): 6,290  (Ranked 53)  
 Sum: 10,784 (Ranked 78)  

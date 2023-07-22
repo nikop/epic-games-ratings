@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 39.00% | ~1,171 |
+| Executioner | 39.00% | ~1,172 |
 | Look Over There! | 34.00% | ~1,021 |
 | Watch Where You Step... | 33.00% | ~991 |
 | Not So Fast... | 32.00% | ~961 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,003 (Ranked 151)  
+Progressed: 3,004 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 2,979 | 0 |
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
-| 2023-07-22 | 3,003 | 0 |
+| 2023-07-22 | 3,004 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 264)  
 Sum: 451 (Ranked 304)  

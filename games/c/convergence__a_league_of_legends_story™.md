@@ -9,6 +9,7 @@
 | Rail Rat | 17.00% | ~132 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
+| The Harder They Fall | 15.00% | ~116 |
 | No, Thanks! | 15.00% | ~116 |
 | Breaking Down Barriers | 15.00% | ~116 |
 | The Wicked Twins | 15.00% | ~116 |
@@ -21,13 +22,12 @@
 | The Loose Cannon | 14.00% | ~109 |
 | Cartographer | 14.00% | ~109 |
 | Time Flies | 14.00% | ~109 |
-| The Harder They Fall | 14.00% | ~109 |
 | Honest Mistake | 14.00% | ~109 |
+| Golem Chaser | 14.00% | ~109 |
 | Fast Learner | 14.00% | ~109 |
 | The Family Fortune | 14.00% | ~109 |
 | Treasure Trove | 13.00% | ~101 |
 | Like Clockwork | 13.00% | ~101 |
-| Golem Chaser | 13.00% | ~101 |
 | Check Your Pulse | 13.00% | ~101 |
 | Right On Time | 12.00% | ~93 |
 | Street Style | 12.00% | ~93 |

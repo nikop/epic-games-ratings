@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -227,6 +227,11 @@
       "Time": "2023-07-16T07:06:04.4579548+00:00",
       "NumProgressed": 195,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-22T08:05:47.4919316+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -246,7 +251,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "bullseye",
@@ -278,7 +283,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "heavy_rayne",
@@ -292,9 +297,9 @@
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -310,15 +315,15 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "play_it_again_sam",
@@ -326,15 +331,15 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "poetent",
@@ -342,7 +347,7 @@
       "Name": "Poetent",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "put_a_ring_on_it",
@@ -366,7 +371,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "the_big_sleep",
@@ -390,7 +395,7 @@
       "Name": "Voyeur",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "you_had_one_job",
@@ -405,7 +410,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 2
     }
   ],
@@ -413,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:06:25.013845+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:05:47.4919311+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:23.628596+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:00:22.0706857+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:06:25.0138645+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:59:53.8761694+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:05:47.4919471+00:00"
 }

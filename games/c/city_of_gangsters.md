@@ -5,60 +5,60 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,513 |
+| Corner Clout | 46.00% | ~152,514 |
 | Copacetic Coordination | 16.00% | ~53,048 |
 | Fronting the Money | 14.00% | ~46,417 |
 | The Dawn of Automation | 14.00% | ~46,417 |
 | Extraordinary Logistics | 14.00% | ~46,417 |
-| Dirty Money | 13.00% | ~43,101 |
-| Family First | 13.00% | ~43,101 |
+| Dirty Money | 13.00% | ~43,102 |
+| Family First | 13.00% | ~43,102 |
 | Cleaning House | 12.00% | ~39,786 |
 | Room in the Back | 12.00% | ~39,786 |
-| Booze Baron | 11.00% | ~36,470 |
+| Booze Baron | 11.00% | ~36,471 |
 | Beating the Heat | 10.00% | ~33,155 |
 | Friends on the Force | 10.00% | ~33,155 |
 | Neighborhood Watch | 10.00% | ~33,155 |
 | Core Corps | 8.00% | ~26,524 |
 | Sizeable Stash | 8.00% | ~26,524 |
-| Street Fighter | 7.00% | ~23,208 |
-| Friendly Gestures | 7.00% | ~23,208 |
-| People Person | 7.00% | ~23,208 |
+| Street Fighter | 7.00% | ~23,209 |
+| Friendly Gestures | 7.00% | ~23,209 |
+| People Person | 7.00% | ~23,209 |
 | Liquor Lord | 6.00% | ~19,893 |
 | Safety in Numbers | 6.00% | ~19,893 |
 | Show ‘em the Sugar | 6.00% | ~19,893 |
 | Killing Them Softly | 6.00% | ~19,893 |
-| Street Knowledge | 5.00% | ~16,577 |
-| Oh Captain | 5.00% | ~16,577 |
-| Branching Out | 5.00% | ~16,577 |
-| Improvement Missions | 5.00% | ~16,577 |
-| Opportunity Knocked | 5.00% | ~16,577 |
-| City of Big Shoulders | 5.00% | ~16,577 |
-| Moving Experiences | 5.00% | ~16,577 |
-| Mission Mastery | 5.00% | ~16,577 |
-| Wise Head | 5.00% | ~16,577 |
+| Street Knowledge | 5.00% | ~16,578 |
+| Oh Captain | 5.00% | ~16,578 |
+| Branching Out | 5.00% | ~16,578 |
+| Improvement Missions | 5.00% | ~16,578 |
+| Opportunity Knocked | 5.00% | ~16,578 |
+| City of Big Shoulders | 5.00% | ~16,578 |
+| Moving Experiences | 5.00% | ~16,578 |
+| Mission Mastery | 5.00% | ~16,578 |
+| Wise Head | 5.00% | ~16,578 |
 | Considerable Clams | 4.00% | ~13,262 |
 | Gin Joint | 4.00% | ~13,262 |
 | An Affront to the Enemy | 4.00% | ~13,262 |
 | Friends from Back Home | 4.00% | ~13,262 |
 | Half Century Mark | 4.00% | ~13,262 |
-| Corner Opportunities | 3.00% | ~9,946 |
-| 2122 North Clark Street | 3.00% | ~9,946 |
-| Copious Cabbage | 3.00% | ~9,946 |
-| Sockdolager | 3.00% | ~9,946 |
-| Still Stalwart | 3.00% | ~9,946 |
-| Bees Knees Bootlegger | 3.00% | ~9,946 |
-| Tighten the Screws | 3.00% | ~9,946 |
+| Corner Opportunities | 3.00% | ~9,947 |
+| 2122 North Clark Street | 3.00% | ~9,947 |
+| Copious Cabbage | 3.00% | ~9,947 |
+| Sockdolager | 3.00% | ~9,947 |
+| Still Stalwart | 3.00% | ~9,947 |
+| Bees Knees Bootlegger | 3.00% | ~9,947 |
+| Tighten the Screws | 3.00% | ~9,947 |
 | One of Us | 2.00% | ~6,631 |
 | Baker’s Dozen | 2.00% | ~6,631 |
 | Dropping the Dime | 2.00% | ~6,631 |
 | Spiffy Speakeasies | 2.00% | ~6,631 |
 | Keeping Your Word | 2.00% | ~6,631 |
-| Boxing Them In | 1.00% | ~3,315 |
-| Backroom Empire | 1.00% | ~3,315 |
-| Corner Control | 1.00% | ~3,315 |
-| Full House | 1.00% | ~3,315 |
-| The Rubber Meets the Road | 1.00% | ~3,315 |
-| Cat’s Meow Clubs | 1.00% | ~3,315 |
+| Boxing Them In | 1.00% | ~3,316 |
+| Backroom Empire | 1.00% | ~3,316 |
+| Corner Control | 1.00% | ~3,316 |
+| Full House | 1.00% | ~3,316 |
+| The Rubber Meets the Road | 1.00% | ~3,316 |
+| Cat’s Meow Clubs | 1.00% | ~3,316 |
 | Determined Deliveries | 0.90% | ~2,984 |
 | Stepping It Up | 0.90% | ~2,984 |
 | Crossing Over | 0.80% | ~2,652 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~332 |
 | Station Master | 0.10% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331,549 (Ranked 40)  
+Progressed: 331,553 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 5 (0.00%) (Ranked 239)
 | 2023-07-19 | 331,044 | 5 |
 | 2023-07-20 | 331,248 | 5 |
 | 2023-07-21 | 331,483 | 5 |
-| 2023-07-22 | 331,549 | 5 |
+| 2023-07-22 | 331,553 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 121 (Ranked 402)  

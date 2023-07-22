@@ -6,7 +6,7 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 106,
-  "Ranking_EOS_Completed": 149,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16475,
+  "EOS_Progressed": 16476,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7826,6 +7826,11 @@
       "Time": "2023-07-22T07:03:10.7639684+00:00",
       "NumProgressed": 16475,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-22T08:02:07.2273578+00:00",
+      "NumProgressed": 16476,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -7837,7 +7842,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13015
+      "UsersEstimate": 13016
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -7885,7 +7890,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -7941,22 +7946,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16475,
+      "Progressed": 16476,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:03:10.7639679+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:02:07.2273574+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:15.2448489+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:02:27.3933228+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:03:10.7640951+00:00"
+  "LastUpdate_Ratings": "2023-07-22T08:01:42.840871+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:02:07.2274665+00:00"
 }

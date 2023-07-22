@@ -9,6 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.60% | ~78 |
 | The Great Mage | 0.40% | ~52 |
 | Poetic Leader | 0.30% | ~39 |
+| Settler | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~13 |
 | Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
-| Settler | 0.10% | ~13 |
 | Strong | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.10% | ~13 |
 | Friendly Family | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
+| The Eternal Treaty | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
@@ -224,7 +225,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,002 (Ranked 113)  
+Progressed: 13,003 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 13,002 | 5 |
+| 2023-07-22 | 13,003 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 258)  
 Sum: 1,783 (Ranked 204)  

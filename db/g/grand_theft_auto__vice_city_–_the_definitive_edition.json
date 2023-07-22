@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9055,
+  "EOS_Progressed": 9057,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6627,6 +6627,11 @@
       "Time": "2023-07-22T03:04:26.4592856+00:00",
       "NumProgressed": 9055,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T08:04:19.1479955+00:00",
+      "NumProgressed": 9057,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6638,7 +6643,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH02",
@@ -6758,7 +6763,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH17",
@@ -6774,7 +6779,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH19",
@@ -6798,7 +6803,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "ACH22",
@@ -6838,7 +6843,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH27",
@@ -6870,7 +6875,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH31",
@@ -6909,7 +6914,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9055,
+      "Progressed": 9057,
       "Completed": 43
     }
   ],
@@ -6917,8 +6922,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:05:04.9458617+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:04:19.1479949+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:59:43.6135774+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:05:04.9459707+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:59:21.7063432+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:04:19.1480658+00:00"
 }

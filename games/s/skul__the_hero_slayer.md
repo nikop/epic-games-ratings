@@ -6,21 +6,21 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,391 |
-| What should I buy? | 84.00% | ~6,675 |
-| Focus! | 63.00% | ~5,007 |
-| Rescued Elder Ent | 63.00% | ~5,007 |
-| The End of the Gold Mane Knights | 48.00% | ~3,815 |
-| False Goddess, Disappear | 40.00% | ~3,179 |
-| Rules of Etiquette | 40.00% | ~3,179 |
-| Quick Movements | 34.00% | ~2,702 |
-| Inventory Management | 34.00% | ~2,702 |
-| The Fall of the Leonia Order | 30.00% | ~2,384 |
-| The Hero Killer | 28.00% | ~2,225 |
+| The Legend Begins | 93.00% | ~7,393 |
+| What should I buy? | 84.00% | ~6,677 |
+| Focus! | 63.00% | ~5,008 |
+| Rescued Elder Ent | 63.00% | ~5,008 |
+| The End of the Gold Mane Knights | 48.00% | ~3,816 |
+| False Goddess, Disappear | 40.00% | ~3,180 |
+| Rules of Etiquette | 40.00% | ~3,180 |
+| Quick Movements | 34.00% | ~2,703 |
+| Inventory Management | 34.00% | ~2,703 |
+| The Fall of the Leonia Order | 30.00% | ~2,385 |
+| The Hero Killer | 28.00% | ~2,226 |
 | Go Home... | 27.00% | ~2,146 |
-| The Final Battle of the First Hero | 26.00% | ~2,066 |
+| The Final Battle of the First Hero | 26.00% | ~2,067 |
 | Brain at Full Throttle | 23.00% | ~1,828 |
-| Rookies Welcome | 20.00% | ~1,589 |
+| Rookies Welcome | 20.00% | ~1,590 |
 | Deadly Power | 16.00% | ~1,272 |
 | Castle Restoration Plans | 14.00% | ~1,113 |
 | The Dwarven Chandelier | 12.00% | ~954 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~159 |
 | Cold-Blooded | 0.80% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,947 (Ranked 121)  
+Progressed: 7,949 (Ranked 121)  
 Completed: 12 (0.15%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 12 (0.15%) (Ranked 176)
 | 2023-07-19 | 7,918 | 12 |
 | 2023-07-20 | 7,924 | 12 |
 | 2023-07-21 | 7,941 | 12 |
-| 2023-07-22 | 7,947 | 12 |
+| 2023-07-22 | 7,949 | 12 |
 ## Awards
 Max (Diverse Characters): 117  (Ranked 315)  
 Sum: 769 (Ranked 261)  

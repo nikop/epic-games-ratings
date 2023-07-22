@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 99.00% | ~103 |
-| Good to grow | 62.00% | ~64 |
+| So it begins | 98.00% | ~103 |
+| Good to grow | 61.00% | ~64 |
 | Fashionista | 43.00% | ~45 |
 | Irrigation not irritation | 38.00% | ~40 |
-| Graduated | 35.00% | ~36 |
+| Graduated | 34.00% | ~36 |
 | Night Shift | 24.00% | ~25 |
-| It's about the journey | 13.00% | ~14 |
-| Shine bright | 11.00% | ~11 |
+| It's about the journey | 12.00% | ~13 |
 | C'who? | 10.00% | ~10 |
+| Shine bright | 10.00% | ~10 |
+| Ay ay yarrr! | 9.00% | ~9 |
 | There be sand in me shorts | 9.00% | ~9 |
-| Ay ay yarrr! | 8.00% | ~8 |
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
@@ -36,7 +36,7 @@
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 304)  
+Progressed: 105 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-06-18 | 102 | 0 |
 | 2023-06-22 | 103 | 0 |
 | 2023-06-27 | 104 | 0 |
+| 2023-07-22 | 105 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

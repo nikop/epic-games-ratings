@@ -1404,9 +1404,9 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1795,8 +1795,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:06:26.3861636+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:05:48.9242553+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:57:51.5561584+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:06:26.3862435+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:57:20.9293868+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:05:48.924377+00:00"
 }

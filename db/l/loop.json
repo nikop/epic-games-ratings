@@ -4,7 +4,7 @@
   "ProductSlug": "loop-d5c6d1",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T02:57:14.754852+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:58:38.2562705+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:02:45.3963731+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:58:11.4085332+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:02:02.259472+00:00"
 }

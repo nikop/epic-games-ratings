@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1270,6 +1270,11 @@
       "Time": "2023-07-22T00:02:17.521396+00:00",
       "NumProgressed": 562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T08:02:28.4952004+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1281,7 +1286,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BadApple",
@@ -1345,7 +1350,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FisherKing",
@@ -1353,7 +1358,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Goal",
@@ -1377,7 +1382,7 @@
       "Name": "The word around is...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -1441,7 +1446,7 @@
       "Name": "Queen",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Rats",
@@ -1521,7 +1526,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "YagaProfessional",
@@ -1536,7 +1541,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 1
     }
   ],
@@ -1544,8 +1549,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:03:32.7318968+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:02:28.4951997+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-22T06:59:21.3639989+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:03:32.731931+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:58:59.3164508+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:02:28.4952297+00:00"
 }

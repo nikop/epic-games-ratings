@@ -887,9 +887,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -991,9 +991,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_KILL_50",
@@ -1096,8 +1096,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-22T07:05:17.7843983+00:00",
+  "LastChanged_Achievements": "2023-07-22T08:04:31.7240612+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-22T07:00:04.9407205+00:00",
-  "LastUpdate_Achievements": "2023-07-22T07:05:17.7844529+00:00"
+  "LastUpdate_Ratings": "2023-07-22T07:59:38.5148429+00:00",
+  "LastUpdate_Achievements": "2023-07-22T08:04:31.7240914+00:00"
 }

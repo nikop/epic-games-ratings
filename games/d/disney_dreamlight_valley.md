@@ -1,29 +1,29 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.75 (Ranked 133)  
+Rating: 4.75 (Ranked 134)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 74.00% | ~5,247 |
-| Photographer | 72.00% | ~5,106 |
-| Valley's Helper | 67.00% | ~4,751 |
-| Constructor | 55.00% | ~3,900 |
-| Renovator | 54.00% | ~3,829 |
-| Bestest Friend | 51.00% | ~3,616 |
-| Banker | 43.00% | ~3,049 |
-| Gardener | 34.00% | ~2,411 |
-| Generous | 24.00% | ~1,702 |
-| Chef Cook | 19.00% | ~1,347 |
+| Goofy's Investor | 74.00% | ~5,250 |
+| Photographer | 72.00% | ~5,108 |
+| Valley's Helper | 67.00% | ~4,753 |
+| Constructor | 55.00% | ~3,902 |
+| Renovator | 54.00% | ~3,831 |
+| Bestest Friend | 51.00% | ~3,618 |
+| Banker | 43.00% | ~3,050 |
+| Gardener | 34.00% | ~2,412 |
+| Generous | 24.00% | ~1,703 |
+| Chef Cook | 19.00% | ~1,348 |
 | Miner | 9.00% | ~638 |
-| Duty Bound | 6.00% | ~425 |
+| Duty Bound | 6.00% | ~426 |
 | Angler | 5.00% | ~355 |
 | Thorn Cleaner | 4.00% | ~284 |
 | Chit Chatter | 3.00% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,091 (Ranked 127)  
-Completed: 177 (2.50%) (Ranked 72)  
+Progressed: 7,094 (Ranked 127)  
+Completed: 177 (2.50%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,14 +66,14 @@ Completed: 177 (2.50%) (Ranked 72)
 | 2023-07-19 | 6,923 | 175 |
 | 2023-07-20 | 6,986 | 175 |
 | 2023-07-21 | 7,071 | 176 |
-| 2023-07-22 | 7,091 | 177 |
+| 2023-07-22 | 7,094 | 177 |
 ## Awards
-Max (Great for Beginners): 903  (Ranked 148)  
-Sum: 7,313 (Ranked 104)  
+Max (Great for Beginners): 905  (Ranked 148)  
+Sum: 7,316 (Ranked 104)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 903 |
+| This game is Great for Beginners | 905 |
 | This game has Diverse Characters | 784 |
 | This game is Relaxing | 784 |
 | This game is Highly Recommended | 778 |
@@ -81,7 +81,7 @@ Diff (max vs sum): 44
 | This game has Amazing Storytelling | 746 |
 | This game has Quickly Understood Controls | 728 |
 | This game is Extremely Fun | 724 |
-| This game has a Creative Community | 606 |
+| This game has a Creative Community | 607 |
 | This game has Easy Combat | 486 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -221,3 +221,4 @@ Diff (max vs sum): 44
 | 2023-07-19 | 4.75 | - | 897 | 7,298 |
 | 2023-07-20 | 4.75 | - | 899 | 7,304 |
 | 2023-07-21 | 4.75 | - | 903 | 7,313 |
+| 2023-07-22 | 4.75 | - | 905 | 7,316 |
