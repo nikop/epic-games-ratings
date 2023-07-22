@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.99,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -541,6 +541,11 @@
       "Time": "2023-07-22T02:06:37.6385348+00:00",
       "NumProgressed": 143,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T05:06:36.12484+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -568,7 +573,7 @@
       "Name": "Cruise ship",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -590,9 +595,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -600,7 +605,7 @@
       "Name": "Putting challenge",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -630,9 +635,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -654,9 +659,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -679,14 +684,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:07:47.3939384+00:00",
+  "LastChanged_Achievements": "2023-07-22T05:06:36.1248395+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-22T03:59:14.6376759+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:07:47.3939619+00:00"
+  "LastUpdate_Ratings": "2023-07-22T04:58:42.4653527+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:06:36.1248507+00:00"
 }

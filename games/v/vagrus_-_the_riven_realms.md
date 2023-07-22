@@ -40,6 +40,7 @@
 | Business As Usual | 2.00% | ~2 |
 | Trailblazer | 2.00% | ~2 |
 | Delayed | 2.00% | ~2 |
+| The Darkness Within | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Making Contact | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
@@ -50,7 +51,6 @@
 | Conqueror | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
-| The Darkness Within | 0.90% | ~1 |
 | Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |

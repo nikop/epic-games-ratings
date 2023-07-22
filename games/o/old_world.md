@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,998 (Ranked 113)  
+Progressed: 13,001 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
-| 2023-07-22 | 12,998 | 5 |
+| 2023-07-22 | 13,001 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 258)  
 Sum: 1,783 (Ranked 204)  

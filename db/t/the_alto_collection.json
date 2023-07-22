@@ -715,9 +715,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 32060,
+  "EOS_Progressed": 32063,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10685,6 +10685,11 @@
       "Time": "2023-07-22T04:05:29.2266227+00:00",
       "NumProgressed": 32060,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-22T05:04:30.2807015+00:00",
+      "NumProgressed": 32063,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -10752,7 +10757,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "goals75",
@@ -10832,7 +10837,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "playerIzel",
@@ -10912,7 +10917,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "sightseer",
@@ -10952,7 +10957,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "unlockmaya",
@@ -10992,7 +10997,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "windswept",
@@ -11007,15 +11012,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32060,
+      "Progressed": 32063,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-21T06:00:09.4572826+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:05:29.2266221+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T03:57:14.8454564+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:02:03.9288024+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:05:29.2267466+00:00"
+  "LastChanged_Achievements": "2023-07-22T05:04:30.280701+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
+  "LastUpdate_Ratings": "2023-07-22T05:01:03.3906696+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:04:30.2807684+00:00"
 }

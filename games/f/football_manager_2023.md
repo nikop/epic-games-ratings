@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 133)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~61,215 |
-| The Player Whisperer | 76.00% | ~60,420 |
-| One of Us, One of Us! | 73.00% | ~58,035 |
-| Clean Sheet | 68.00% | ~54,060 |
-| First Victory | 68.00% | ~54,060 |
-| #DoneDeal | 67.00% | ~53,265 |
-| Off the Books | 65.00% | ~51,675 |
-| Super-Sub | 65.00% | ~51,675 |
-| Hat-trick | 60.00% | ~47,700 |
-| "I Would Love It If We Beat Them" | 58.00% | ~46,110 |
-| Planned Signing | 58.00% | ~46,110 |
-| Thumping | 53.00% | ~42,135 |
-| Scoring Streak | 53.00% | ~42,135 |
-| Wheeler Dealer | 52.00% | ~41,340 |
-| People Pleaser | 51.00% | ~40,545 |
+| Motivational Speaker | 77.00% | ~61,216 |
+| The Player Whisperer | 76.00% | ~60,421 |
+| One of Us, One of Us! | 73.00% | ~58,036 |
+| Clean Sheet | 68.00% | ~54,061 |
+| First Victory | 68.00% | ~54,061 |
+| #DoneDeal | 67.00% | ~53,266 |
+| Off the Books | 65.00% | ~51,676 |
+| Super-Sub | 65.00% | ~51,676 |
+| Hat-trick | 60.00% | ~47,701 |
+| "I Would Love It If We Beat Them" | 58.00% | ~46,111 |
+| Planned Signing | 58.00% | ~46,111 |
+| Thumping | 53.00% | ~42,136 |
+| Scoring Streak | 53.00% | ~42,136 |
+| Wheeler Dealer | 52.00% | ~41,341 |
+| People Pleaser | 51.00% | ~40,546 |
 | Unbeatable! | 50.00% | ~39,750 |
 | One Of Our Own | 48.00% | ~38,160 |
 | They're a Natural | 44.00% | ~34,980 |
@@ -45,8 +45,8 @@ Rating: 4.75 (Ranked 133)
 | On a Roll | 32.00% | ~25,440 |
 | Drilling Down | 31.00% | ~24,645 |
 | Goal Machine | 31.00% | ~24,645 |
+| Immovable Object | 29.00% | ~23,055 |
 | Cup Glory! | 29.00% | ~23,055 |
-| Immovable Object | 28.00% | ~22,260 |
 | Cash to Burn | 27.00% | ~21,465 |
 | Irresistible Force | 26.00% | ~20,670 |
 | Do The Double | 23.00% | ~18,285 |
@@ -90,7 +90,7 @@ Rating: 4.75 (Ranked 133)
 | Clean Sheet Versus | 0.90% | ~716 |
 | Versus Champ | 0.90% | ~716 |
 | Online Streak | 0.90% | ~716 |
-| The Rich Get Richer | 0.70% | ~556 |
+| The Rich Get Richer | 0.70% | ~557 |
 | Online Rivalry | 0.60% | ~477 |
 | Import To Victory | 0.50% | ~398 |
 | Outstanding Defence | 0.40% | ~318 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 133)
 | Versus Anyone | 0.10% | ~80 |
 | 200 Club | 0.10% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,500 (Ranked 70)  
+Progressed: 79,501 (Ranked 70)  
 Completed: 22 (0.03%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 22 (0.03%) (Ranked 214)
 | 2023-07-19 | 79,187 | 22 |
 | 2023-07-20 | 79,326 | 22 |
 | 2023-07-21 | 79,480 | 22 |
-| 2023-07-22 | 79,500 | 22 |
+| 2023-07-22 | 79,501 | 22 |
 ## Awards
 Max (Diverse Characters): 548  (Ranked 188)  
 Sum: 4,026 (Ranked 139)  

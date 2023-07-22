@@ -5,12 +5,12 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,190 |
-| Mods Please Ban | 77.00% | ~17,803 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,572 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,878 |
-| First Bounty Down | 59.00% | ~13,641 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,179 |
+| Eye Scream, You Scream | 83.00% | ~19,191 |
+| Mods Please Ban | 77.00% | ~17,804 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,573 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,879 |
+| First Bounty Down | 59.00% | ~13,642 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,180 |
 | Luglox Genocide | 43.00% | ~9,942 |
 | Playing Card To Get | 33.00% | ~7,630 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,630 |
@@ -28,17 +28,17 @@ Rating: 4.67 (Ranked 259)
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,624 |
 | Self-Actualization | 19.00% | ~4,393 |
 | Legendary Bounty Hunter | 18.00% | ~4,162 |
-| Seeing All The Sights | 16.00% | ~3,699 |
+| Seeing All The Sights | 16.00% | ~3,700 |
 | Carried Stan's Load To Completion | 13.00% | ~3,006 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,775 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,081 |
 | Sequel-Bait | 8.00% | ~1,850 |
-| Gunning For Your Job | 7.00% | ~1,618 |
+| Gunning For Your Job | 7.00% | ~1,619 |
 | Playing Favorites | 6.00% | ~1,387 |
 | Epic Legendary Prize | 1.00% | ~231 |
 | A Starfish Is Born | 1.00% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,121 (Ranked 100)  
+Progressed: 23,122 (Ranked 100)  
 Completed: 9 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 9 (0.04%) (Ranked 210)
 | 2023-07-19 | 23,031 | 9 |
 | 2023-07-20 | 23,043 | 9 |
 | 2023-07-21 | 23,107 | 9 |
-| 2023-07-22 | 23,121 | 9 |
+| 2023-07-22 | 23,122 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

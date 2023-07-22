@@ -4172,9 +4172,9 @@
       "ID": "Jakob",
       "SetID": "b40dflc",
       "Name": "Jakob",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 259
+      "UsersEstimate": 278
     },
     {
       "ID": "Jude",
@@ -4237,8 +4237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:05:56.1989335+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:02:18.7940847+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:05:56.1989906+00:00"
+  "LastChanged_Achievements": "2023-07-22T05:04:52.2258491+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T04:57:29.5602679+00:00",
+  "LastUpdate_Ratings": "2023-07-22T05:01:14.3345691+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:04:52.2258812+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5218,10 +5218,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39630,
       "NumberOfAwardsMax": 21154
+    },
+    {
+      "Time": "2023-07-22T04:59:16.0301626+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39635,
+      "NumberOfAwardsMax": 21154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39630,
+  "NumberOfAwards": 39635,
   "NumberOfAwardsMax": 21154,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5289,7 +5295,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 800
+      "Count": 805
     },
     {
       "Text": "This game has a Creative Community",
@@ -5298,9 +5304,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288238,
+  "EOS_Progressed": 288241,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15223,6 +15229,11 @@
       "Time": "2023-07-22T04:06:47.6543088+00:00",
       "NumProgressed": 288238,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-22T05:05:45.8369214+00:00",
+      "NumProgressed": 288241,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15290,7 +15301,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25941
+      "UsersEstimate": 25942
     },
     {
       "ID": "PFA_17",
@@ -15418,7 +15429,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25941
+      "UsersEstimate": 25942
     },
     {
       "ID": "PFA_31",
@@ -15562,7 +15573,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31706
+      "UsersEstimate": 31707
     },
     {
       "ID": "PFA_7",
@@ -15578,7 +15589,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25941
+      "UsersEstimate": 25942
     },
     {
       "ID": "PFA_9",
@@ -15593,16 +15604,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288238,
+      "Progressed": 288241,
       "Completed": 433
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-22T01:58:35.5316954+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:06:47.6543081+00:00",
+  "LastChanged": "2023-07-22T04:59:16.0301624+00:00",
+  "LastChanged_Achievements": "2023-07-22T05:05:45.8369207+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-22T03:59:52.3932491+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:06:47.6544539+00:00"
+  "LastUpdate_Ratings": "2023-07-22T04:59:16.030163+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:05:45.836995+00:00"
 }

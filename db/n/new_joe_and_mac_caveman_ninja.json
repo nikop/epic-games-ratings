@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -248,6 +248,11 @@
       "Time": "2023-07-21T15:01:48.498434+00:00",
       "NumProgressed": 196,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-22T05:04:13.0723263+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -299,7 +304,7 @@
       "Name": "Dino Ride.",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "07",
@@ -378,7 +383,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 4
     }
   ],
@@ -386,8 +391,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:04:28.7326052+00:00",
+  "LastChanged_Achievements": "2023-07-22T05:04:13.0723259+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.9030226+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:00:09.6598073+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:04:28.7326201+00:00"
+  "LastUpdate_Ratings": "2023-07-22T04:59:28.5456204+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:04:13.0723357+00:00"
 }

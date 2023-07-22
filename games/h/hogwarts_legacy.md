@@ -6,12 +6,12 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,589 |
-| First Class Student | 11.00% | ~31,706 |
+| First Class Student | 11.00% | ~31,707 |
 | A Keen Sense of Spell | 10.00% | ~28,824 |
 | Troll with the Punches | 10.00% | ~28,824 |
-| The Defender of Dragons | 9.00% | ~25,941 |
-| A Talent for Spending | 9.00% | ~25,941 |
-| That's a Keeper | 9.00% | ~25,941 |
+| The Defender of Dragons | 9.00% | ~25,942 |
+| A Talent for Spending | 9.00% | ~25,942 |
+| That's a Keeper | 9.00% | ~25,942 |
 | Grappling with a Graphorn | 8.00% | ~23,059 |
 | The One Who Mastered Memories | 8.00% | ~23,059 |
 | The Hallowed Hero | 8.00% | ~23,059 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,238 (Ranked 42)  
+Progressed: 288,241 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 433 (0.15%) (Ranked 176)
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
-| 2023-07-22 | 288,238 | 433 |
+| 2023-07-22 | 288,241 | 433 |
 ## Awards
 Max (Character Customization): 21,154  (Ranked 17)  
-Sum: 39,630 (Ranked 30)  
+Sum: 39,635 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 885 |
 | This game has Amazing Characters | 866 |
 | This game is Highly Recommended | 841 |
-| This game has Quickly Understood Controls | 800 |
+| This game has Quickly Understood Controls | 805 |
 | This game has Beautiful Visuals | 744 |
 | This game has a Creative Community | 561 |
 ## Ratings History
@@ -286,4 +286,4 @@ Diff (max vs sum): -13
 | 2023-07-19 | 4.77 | 21,101 | 39,508 |
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
 | 2023-07-21 | 4.77 | 21,154 | 39,625 |
-| 2023-07-22 | 4.77 | 21,154 | 39,630 |
+| 2023-07-22 | 4.77 | 21,154 | 39,635 |

@@ -12,18 +12,18 @@
 | Neurotrainer – power gainer! | 69.00% | ~40 |
 | Depressed visitor | 66.00% | ~38 |
 | First defeat | 64.00% | ~37 |
-| Old movies enjoyer | 60.00% | ~35 |
+| Old movies enjoyer | 62.00% | ~36 |
 | Fitness professional | 59.00% | ~34 |
 | Intriguing candies | 57.00% | ~33 |
 | Employee of the week | 57.00% | ~33 |
 | Run K, run! | 55.00% | ~32 |
-| Hello, world! | 52.00% | ~30 |
-| No bullying more | 50.00% | ~29 |
-| Your own amateur gym | 48.00% | ~28 |
+| Hello, world! | 53.00% | ~31 |
+| No bullying more | 52.00% | ~30 |
+| Your own amateur gym | 50.00% | ~29 |
 | Fighting is cool | 48.00% | ~28 |
 | Pal of your father? | 47.00% | ~27 |
+| Little hacker | 40.00% | ~23 |
 | Spirit of the past | 40.00% | ~23 |
-| Little hacker | 38.00% | ~22 |
 | Employee of the month | 34.00% | ~20 |
 | Law student | 33.00% | ~19 |
 | Your own way | 33.00% | ~19 |
@@ -34,9 +34,9 @@
 | Handyman | 21.00% | ~12 |
 | It's good to be alive | 19.00% | ~11 |
 | Extreme neuropower! | 19.00% | ~11 |
+| Legal courier | 16.00% | ~9 |
 | Own four walls | 16.00% | ~9 |
-| Legal courier | 14.00% | ~8 |
-| Now you are worthy | 10.00% | ~6 |
+| Now you are worthy | 12.00% | ~7 |
 | No blades in the gym | 7.00% | ~4 |
 | Escaped from a big trouble | 7.00% | ~4 |
 | Guiding on the right path | 7.00% | ~4 |

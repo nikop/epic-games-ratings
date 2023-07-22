@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1712,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2023-07-21T23:04:37.5661459+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T05:05:54.2232902+00:00",
+      "NumProgressed": 1712,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1424,7 +1429,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1448,7 +1453,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1664,7 +1669,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1712,7 +1717,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1792,7 +1797,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1800,7 +1805,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1832,22 +1837,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1712,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-22T04:06:57.4089083+00:00",
+  "LastChanged_Achievements": "2023-07-22T05:05:54.2232897+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-22T04:01:06.0556742+00:00",
-  "LastUpdate_Achievements": "2023-07-22T04:06:57.4090037+00:00"
+  "LastUpdate_Ratings": "2023-07-22T05:00:16.3835758+00:00",
+  "LastUpdate_Achievements": "2023-07-22T05:05:54.2233296+00:00"
 }
