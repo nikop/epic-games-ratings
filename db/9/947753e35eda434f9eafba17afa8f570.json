@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "ACH_35_GROUP_PHOTO",
       "SetID": "2k150c1",
       "Name": "Group Photo",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_36_FLYING_BULLET_TIME",
@@ -318,9 +318,9 @@
       "ID": "ACH_38_TREASURE",
       "SetID": "2k150c1",
       "Name": "Richer Than McMuney",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_39_QUESTMASTER",
@@ -342,17 +342,17 @@
       "ID": "ACH_4_PERFECTIONIST",
       "SetID": "2k150c1",
       "Name": "Perfectionist",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_5_LEVEL_WINTER",
       "SetID": "2k150c1",
       "Name": "Snowdrop Slopes",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_6_LEVEL_FOREST",
@@ -397,8 +397,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:07:29.835693+00:00",
+  "LastChanged_Achievements": "2023-07-22T04:09:11.6132454+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:58:04.8318813+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:07:29.8357256+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:59:33.8006019+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:09:11.6132787+00:00"
 }

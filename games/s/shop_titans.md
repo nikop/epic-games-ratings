@@ -92,6 +92,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.10% | ~133 |
 | Attrition Mission | 0.10% | ~133 |
 | Eternal Crusade | 0.10% | ~133 |
+| To Hell and Back | 0.10% | ~133 |
 | Glittering Collection | 0.10% | ~133 |
 | Treasure Trove | 0.10% | ~133 |
 | Moment of Respite | 0.10% | ~133 |
@@ -115,11 +116,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.00% | ~0 |
 | Merchant Extraordinaire | 0.00% | ~0 |
 | Anything not Nailed Down | 0.00% | ~0 |
-| To Hell and Back | 0.00% | ~0 |
 | Marvels from the World Over | 0.00% | ~0 |
 | Cash Only Please | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,996 (Ranked 61)  
+Progressed: 132,998 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
 | 2023-07-21 | 132,985 | 122 |
-| 2023-07-22 | 132,996 | 122 |
+| 2023-07-22 | 132,998 | 122 |
 ## Awards
 Max (Great for Beginners): 4,668  (Ranked 69)  
 Sum: 26,955 (Ranked 46)  

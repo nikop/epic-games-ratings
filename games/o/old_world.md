@@ -21,6 +21,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.10% | ~13 |
 | Carthage - Riches and Influence | 0.10% | ~13 |
 | Bronze Victory (Carthage 2) | 0.10% | ~13 |
+| Epic Victory (Carthage 2) | 0.10% | ~13 |
+| Gold Victory (Carthage 2) | 0.10% | ~13 |
 | Silver Victory (Carthage 2) | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
@@ -194,8 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 2) | 0.00% | ~0 |
-| Gold Victory (Carthage 2) | 0.00% | ~0 |
 | Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |

@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 62877,
+  "EOS_Progressed": 62878,
   "EOS_Completed": 318,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10153,6 +10153,11 @@
       "Time": "2023-07-22T03:02:25.6167509+00:00",
       "NumProgressed": 62877,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-07-22T04:05:19.4097267+00:00",
+      "NumProgressed": 62878,
+      "NumCompleted": 318
     }
   ],
   "TotalAchievements": 24,
@@ -10180,7 +10185,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42756
+      "UsersEstimate": 42757
     },
     {
       "ID": "BEST_FRIENDS",
@@ -10204,7 +10209,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 12575
+      "UsersEstimate": 12576
     },
     {
       "ID": "FETCH",
@@ -10220,7 +10225,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18234
+      "UsersEstimate": 18235
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -10316,7 +10321,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6916
+      "UsersEstimate": 6917
     },
     {
       "ID": "SPIRIT_FORM",
@@ -10355,7 +10360,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 62877,
+      "Progressed": 62878,
       "Completed": 318
     }
   ],
@@ -10363,8 +10368,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:02:25.6167505+00:00",
+  "LastChanged_Achievements": "2023-07-22T04:05:19.4097255+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.2537534+00:00",
-  "LastUpdate_Ratings": "2023-07-22T03:00:41.6151823+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:02:25.6168377+00:00"
+  "LastUpdate_Ratings": "2023-07-22T04:02:14.2495905+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:05:19.4098173+00:00"
 }

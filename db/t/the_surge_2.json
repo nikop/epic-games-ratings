@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1854,
+  "EOS_Progressed": 1855,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1638,6 +1638,11 @@
       "Time": "2023-07-22T02:03:41.8417758+00:00",
       "NumProgressed": 1854,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T04:05:37.1313086+00:00",
+      "NumProgressed": 1855,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1657,7 +1662,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACHV_03",
@@ -1689,7 +1694,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHV_07",
@@ -1751,9 +1756,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_15",
@@ -1785,7 +1790,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHV_19",
@@ -1801,7 +1806,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_21",
@@ -1809,7 +1814,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_22",
@@ -1849,7 +1854,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACHV_27",
@@ -1873,7 +1878,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_30",
@@ -1977,7 +1982,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_43",
@@ -2104,7 +2109,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1854,
+      "Progressed": 1855,
       "Completed": 10
     }
   ],
@@ -2112,8 +2117,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:03:23.3429644+00:00",
+  "LastChanged_Achievements": "2023-07-22T04:05:37.131308+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:33.6967662+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:57:25.5940808+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:03:23.3430245+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:58:52.6770924+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:05:37.1314007+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.65 (Ranked 298)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,760 |
-| Mainframe Hacker | 48.00% | ~3,570 |
-| The Spy who eliminated me | 48.00% | ~3,570 |
-| Tomorrow Never Dyes | 45.00% | ~3,347 |
-| Never Say Loser Again | 40.00% | ~2,975 |
-| For your Eyes only | 38.00% | ~2,826 |
-| From the Vault with Love | 37.00% | ~2,752 |
-| Tailor-Made | 37.00% | ~2,752 |
-| Fully Decked Out | 34.00% | ~2,529 |
-| You Only Live Twice | 33.00% | ~2,454 |
-| A view to Win | 27.00% | ~2,008 |
-| Smells Like Trouble | 25.00% | ~1,859 |
-| Assistant Accountant | 24.00% | ~1,785 |
-| The Living Portrait | 24.00% | ~1,785 |
-| Private Collection | 24.00% | ~1,785 |
-| Killer Looks | 24.00% | ~1,785 |
-| Hostile Takeover | 24.00% | ~1,785 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,762 |
+| Mainframe Hacker | 48.00% | ~3,571 |
+| The Spy who eliminated me | 48.00% | ~3,571 |
+| Tomorrow Never Dyes | 45.00% | ~3,348 |
+| Never Say Loser Again | 40.00% | ~2,976 |
+| For your Eyes only | 38.00% | ~2,827 |
+| From the Vault with Love | 37.00% | ~2,753 |
+| Tailor-Made | 37.00% | ~2,753 |
+| Fully Decked Out | 34.00% | ~2,530 |
+| You Only Live Twice | 33.00% | ~2,455 |
+| A view to Win | 27.00% | ~2,009 |
+| Smells Like Trouble | 25.00% | ~1,860 |
+| Assistant Accountant | 24.00% | ~1,786 |
+| The Living Portrait | 24.00% | ~1,786 |
+| Private Collection | 24.00% | ~1,786 |
+| Killer Looks | 24.00% | ~1,786 |
+| Hostile Takeover | 24.00% | ~1,786 |
 | Keycards Royale | 23.00% | ~1,711 |
 | Dr. No Kill | 23.00% | ~1,711 |
 | My Motto, My Creed | 23.00% | ~1,711 |
 | In It to Win It | 21.00% | ~1,562 |
 | Security Supervisor | 10.00% | ~744 |
-| License to Thrill | 9.00% | ~669 |
+| License to Thrill | 9.00% | ~670 |
 | Social of Solace | 8.00% | ~595 |
 | Safe Withdrawal | 6.00% | ~446 |
 | Live and let lie | 5.00% | ~372 |
-| Call Me Maybe | 4.00% | ~297 |
-| PHD in VIP | 4.00% | ~297 |
+| Call Me Maybe | 4.00% | ~298 |
+| PHD in VIP | 4.00% | ~298 |
 | Branch Manager | 3.00% | ~223 |
 | The terminals are not enough | 2.00% | ~149 |
 | Lose Another Day | 2.00% | ~149 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 298)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,437 (Ranked 126)  
+Progressed: 7,440 (Ranked 126)  
 Completed: 1 (0.01%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.01%) (Ranked 227)
 | 2023-07-19 | 7,411 | 1 |
 | 2023-07-20 | 7,416 | 1 |
 | 2023-07-21 | 7,431 | 1 |
-| 2023-07-22 | 7,437 | 1 |
+| 2023-07-22 | 7,440 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

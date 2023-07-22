@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5274,9 +5274,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711088,
+  "EOS_Progressed": 711100,
   "EOS_Completed": 12830,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13904,6 +13904,11 @@
       "Time": "2023-07-22T03:07:44.9561929+00:00",
       "NumProgressed": 711088,
       "NumCompleted": 12830
+    },
+    {
+      "Time": "2023-07-22T04:09:26.6075419+00:00",
+      "NumProgressed": 711100,
+      "NumCompleted": 12830
     }
   ],
   "TotalAchievements": 50,
@@ -14011,7 +14016,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -14171,7 +14176,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "34_TimedTakedown",
@@ -14259,7 +14264,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14314,21 +14319,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20389,
+      "Progressed": 20401,
       "Completed": 10431
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711088,
+      "Progressed": 711100,
       "Completed": 12830
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-22T02:00:40.6035542+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:07:44.9561925+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-22T03:00:14.3013528+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:07:44.9563035+00:00"
+  "LastChanged_Achievements": "2023-07-22T04:09:26.6075414+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
+  "LastUpdate_Ratings": "2023-07-22T04:01:41.6390988+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:09:26.6076556+00:00"
 }

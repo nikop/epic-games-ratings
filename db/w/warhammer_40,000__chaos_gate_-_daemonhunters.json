@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3002,
+  "EOS_Progressed": 3003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2386,6 +2386,11 @@
       "Time": "2023-07-22T03:03:45.2317553+00:00",
       "NumProgressed": 3002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T04:05:59.1605698+00:00",
+      "NumProgressed": 3003,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2493,7 +2498,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2573,7 +2578,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2605,7 +2610,7 @@
       "Name": "Friendly Fire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Kills_Interactable",
@@ -2629,7 +2634,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "Kills_Vakir",
@@ -2733,7 +2738,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2868,21 +2873,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3002,
+      "Progressed": 3003,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3002,
+      "Progressed": 3003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:03:45.2317549+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:59:51.3913871+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:03:45.2318234+00:00"
+  "LastChanged_Achievements": "2023-07-22T04:05:59.1605692+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
+  "LastUpdate_Ratings": "2023-07-22T04:01:20.1401884+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:05:59.1606526+00:00"
 }

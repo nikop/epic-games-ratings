@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39109,
+  "EOS_Progressed": 39114,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5653,6 +5653,11 @@
       "Time": "2023-07-22T03:04:33.8040053+00:00",
       "NumProgressed": 39109,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T04:06:27.3680928+00:00",
+      "NumProgressed": 39114,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5696,7 +5701,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -5720,7 +5725,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -5824,7 +5829,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -5880,7 +5885,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -5920,7 +5925,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "MAGIC_IVY",
@@ -6087,22 +6092,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39109,
+      "Progressed": 39114,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3946,
-      "Completed": 3946
+      "Progressed": 3951,
+      "Completed": 3951
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:04:33.8040047+00:00",
-  "LastUpdate_AppInfo": "2023-07-15T03:23:23.0816772+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:59:38.3894183+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:04:33.8040885+00:00"
+  "LastChanged_Achievements": "2023-07-22T04:06:27.3680922+00:00",
+  "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
+  "LastUpdate_Ratings": "2023-07-22T04:01:07.6178826+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:06:27.3682995+00:00"
 }

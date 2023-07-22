@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,588 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,589 |
 | First Class Student | 11.00% | ~31,706 |
 | A Keen Sense of Spell | 10.00% | ~28,824 |
 | Troll with the Punches | 10.00% | ~28,824 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 8.00% | ~23,059 |
 | Loom for Improvement | 8.00% | ~23,059 |
 | Coasting Along | 8.00% | ~23,059 |
-| Followed the Butterflies | 7.00% | ~20,176 |
-| The Spell Master | 7.00% | ~20,176 |
-| Rising From the Ashes | 7.00% | ~20,176 |
+| Followed the Butterflies | 7.00% | ~20,177 |
+| The Spell Master | 7.00% | ~20,177 |
+| Rising From the Ashes | 7.00% | ~20,177 |
 | The Avenging Gazelle | 6.00% | ~17,294 |
 | Beast Friends | 6.00% | ~17,294 |
 | A Sallow Grave | 6.00% | ~17,294 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,412 |
 | Third Time's a Charm | 5.00% | ~14,412 |
 | Raising Expectations | 5.00% | ~14,412 |
-| The Toast of the Town | 4.00% | ~11,529 |
-| The Ends Petrify the Means | 4.00% | ~11,529 |
+| The Toast of the Town | 4.00% | ~11,530 |
+| The Ends Petrify the Means | 4.00% | ~11,530 |
 | Going Through the Potions | 3.00% | ~8,647 |
 | Room with a View | 3.00% | ~8,647 |
 | The Intrepid Explorer | 3.00% | ~8,647 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,235 (Ranked 42)  
+Progressed: 288,238 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 433 (0.15%) (Ranked 176)
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
-| 2023-07-22 | 288,235 | 433 |
+| 2023-07-22 | 288,238 | 433 |
 ## Awards
 Max (Character Customization): 21,154  (Ranked 17)  
 Sum: 39,630 (Ranked 30)  

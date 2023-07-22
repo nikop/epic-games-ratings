@@ -2,7 +2,7 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 86,
@@ -3028,9 +3028,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 430
     },
     {
       "ID": "50",
@@ -3085,8 +3085,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:02:06.9515855+00:00",
+  "LastChanged_Achievements": "2023-07-22T04:04:21.1183415+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:15.8738953+00:00",
-  "LastUpdate_Ratings": "2023-07-22T02:58:22.8126012+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:02:06.9517095+00:00"
+  "LastUpdate_Ratings": "2023-07-22T03:59:50.6604918+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:04:21.1184288+00:00"
 }

@@ -22,10 +22,10 @@
 | Gooey Delight! | 42.00% | ~441 |
 | Glimmer of Hope | 42.00% | ~441 |
 | Teacups for Toppy | 41.00% | ~430 |
+| Well Rested | 41.00% | ~430 |
 | Nightmare Fuel | 40.00% | ~420 |
 | Take Heart | 40.00% | ~420 |
 | The Guardian | 40.00% | ~420 |
-| Well Rested | 40.00% | ~420 |
 | Stronger! | 39.00% | ~410 |
 | Ancient Wisdom | 38.00% | ~399 |
 | Frog Facts! | 38.00% | ~399 |
@@ -55,7 +55,7 @@
 | Dance Master | 9.00% | ~94 |
 | Bombs Away! | 9.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 188)  
+Progressed: 1,050 (Ranked 189)  
 Completed: 78 (7.43%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |

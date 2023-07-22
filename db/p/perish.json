@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3290,
+  "EOS_Progressed": 3291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-07-22T03:03:35.5731932+00:00",
       "NumProgressed": 3290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T04:05:49.6148539+00:00",
+      "NumProgressed": 3291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2370,7 +2375,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MC",
@@ -2466,7 +2471,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_M_SC",
@@ -2482,7 +2487,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_OB_BB",
@@ -2578,7 +2583,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_OB_LS",
@@ -2610,7 +2615,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_OB_SD",
@@ -2698,7 +2703,7 @@
       "Name": "Reign in Blood",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_TP",
@@ -2777,7 +2782,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3290,
+      "Progressed": 3291,
       "Completed": 0
     }
   ],
@@ -2785,8 +2790,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-22T03:03:35.5731927+00:00",
+  "LastChanged_Achievements": "2023-07-22T04:05:49.6148532+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:45.4667739+00:00",
-  "LastUpdate_Ratings": "2023-07-22T03:01:03.6499947+00:00",
-  "LastUpdate_Achievements": "2023-07-22T03:03:35.5732735+00:00"
+  "LastUpdate_Ratings": "2023-07-22T04:02:33.8289585+00:00",
+  "LastUpdate_Achievements": "2023-07-22T04:05:49.6149339+00:00"
 }
