@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3085,
+  "EOS_Progressed": 3086,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3326,6 +3326,11 @@
       "Time": "2023-07-22T22:05:40.0505984+00:00",
       "NumProgressed": 3085,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T23:05:17.802876+00:00",
+      "NumProgressed": 3086,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3401,7 +3406,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3521,7 +3526,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3529,7 +3534,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3545,7 +3550,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3561,7 +3566,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3601,7 +3606,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3672,15 +3677,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3085,
+      "Progressed": 3086,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:05:40.0505979+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:05:17.8028746+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:58:10.7585155+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:05:40.0506494+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:57:58.4925531+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:05:17.8029566+00:00"
 }

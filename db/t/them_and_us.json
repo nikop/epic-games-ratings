@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -698,6 +698,11 @@
       "Time": "2023-07-22T22:05:48.0386745+00:00",
       "NumProgressed": 169,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T23:05:25.5318656+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -805,7 +810,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -813,7 +818,7 @@
       "Name": "Them and Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -859,9 +864,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ETUA_OutRage",
@@ -869,7 +874,7 @@
       "Name": "OUTRAGE",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_PTD",
@@ -917,7 +922,7 @@
       "Name": "Safe...For now?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_StayDead",
@@ -995,9 +1000,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "ETUA_Trapped",
@@ -1028,7 +1033,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 1
     }
   ],
@@ -1036,8 +1041,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:05:48.038674+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:05:25.531865+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:57:33.449028+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:05:48.0387152+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:57:18.2405483+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:05:25.5319041+00:00"
 }

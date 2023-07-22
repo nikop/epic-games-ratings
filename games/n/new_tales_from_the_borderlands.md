@@ -12,7 +12,7 @@ Rating: 4.09 (Ranked 896)
 | You're Not Naked | 29.00% | ~1,013 |
 | Tale in the Toilet | 29.00% | ~1,013 |
 | From Zeroes... | 28.00% | ~978 |
-| Don't Get Cocky | 26.00% | ~908 |
+| Don't Get Cocky | 27.00% | ~943 |
 | Shard Snatchers | 24.00% | ~838 |
 | You Rich Now! | 22.00% | ~768 |
 | Our Lucky Winner | 20.00% | ~698 |

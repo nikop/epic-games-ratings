@@ -5,8 +5,9 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Start with a bang! | 3.00% | ~105 |
+| Feeling the beat! | 3.00% | ~105 |
 | NOW we got a kickass hideout! | 3.00% | ~61 |
-| Start with a bang! | 2.00% | ~70 |
 | Cream of the Crop | 2.00% | ~70 |
 | This will cost you big time | 2.00% | ~70 |
 | The Negotiator | 2.00% | ~70 |
@@ -16,7 +17,6 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 2.00% | ~70 |
 | I play my own way! | 2.00% | ~70 |
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~70 |
-| Feeling the beat! | 2.00% | ~70 |
 | You got this, Peppermint? | 2.00% | ~70 |
 | You must like calling me in, Chai | 2.00% | ~70 |
 | Z-shielding's got nothing on us! | 2.00% | ~70 |
@@ -64,6 +64,7 @@ Rating: 4.87 (Ranked 24)
 | Have we met before? | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
 | You ever parry a volcano? | 0.10% | ~4 |
+| I am a good person who likes to help | 0.10% | ~4 |
 | With our powers combined…and to the rhythm… | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~2 |
@@ -73,11 +74,10 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
-| I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,514 (Ranked 146)  
+Progressed: 3,516 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-19 | 3,460 | 6 |
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
-| 2023-07-22 | 3,514 | 6 |
+| 2023-07-22 | 3,516 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

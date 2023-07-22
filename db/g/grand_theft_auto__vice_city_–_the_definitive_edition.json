@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9073,
+  "EOS_Progressed": 9075,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6687,6 +6687,11 @@
       "Time": "2023-07-22T22:03:59.1191205+00:00",
       "NumProgressed": 9073,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-22T23:03:35.1849175+00:00",
+      "NumProgressed": 9075,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6730,7 +6735,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH06",
@@ -6802,7 +6807,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "ACH15",
@@ -6858,7 +6863,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "ACH22",
@@ -6874,7 +6879,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "ACH24",
@@ -6882,7 +6887,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH25",
@@ -6890,7 +6895,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH26",
@@ -6922,7 +6927,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH30",
@@ -6946,7 +6951,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH33",
@@ -6969,7 +6974,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9073,
+      "Progressed": 9075,
       "Completed": 43
     }
   ],
@@ -6977,8 +6982,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:03:59.1191201+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:03:35.1849155+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:58:27.6120028+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:03:59.1191862+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:58:18.9487766+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:03:35.1849815+00:00"
 }

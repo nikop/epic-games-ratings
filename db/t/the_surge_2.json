@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1867,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1683,6 +1683,11 @@
       "Time": "2023-07-22T22:03:26.6792045+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-22T23:02:41.7850731+00:00",
+      "NumProgressed": 1867,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1702,7 +1707,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACHV_03",
@@ -1726,7 +1731,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHV_06",
@@ -1748,9 +1753,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHV_09",
@@ -1868,9 +1873,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 691
     },
     {
       "ID": "ACHV_24",
@@ -1894,7 +1899,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACHV_27",
@@ -1926,7 +1931,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHV_31",
@@ -1998,7 +2003,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACHV_40",
@@ -2116,9 +2121,9 @@
       "ID": "ACHV_54",
       "SetID": "8p5mlmc",
       "Name": "The Easy Way Out",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_55",
@@ -2149,7 +2154,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1867,
       "Completed": 10
     }
   ],
@@ -2157,8 +2162,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:03:26.6792042+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:02:41.7850725+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:57:05.6906192+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:03:26.6792664+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:56:52.9539668+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:02:41.7851365+00:00"
 }

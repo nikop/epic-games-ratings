@@ -255,9 +255,9 @@
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Cellar",
@@ -464,8 +464,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:02:23.473394+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:02:18.3611631+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1524132+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:00:08.8806967+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:02:23.4734121+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:59:56.6155221+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:02:18.3611835+00:00"
 }

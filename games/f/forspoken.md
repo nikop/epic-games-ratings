@@ -5,22 +5,22 @@ Rating: 4.14 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,523 |
-| Unlocked Potential | 9.00% | ~3,523 |
-| Tinkerer | 7.00% | ~2,740 |
+| Attachments | 9.00% | ~3,524 |
+| Unlocked Potential | 9.00% | ~3,524 |
+| Tinkerer | 7.00% | ~2,741 |
 | Leapfrogger | 6.00% | ~2,349 |
 | Knock 'Em Dead | 6.00% | ~2,349 |
 | Pilgrimage: Initiate | 6.00% | ~2,349 |
 | Hell of a Run | 6.00% | ~2,349 |
 | Call of the Fount: Baptized | 6.00% | ~2,349 |
-| No Mercy | 5.00% | ~1,957 |
-| Explorer: Seeker | 5.00% | ~1,957 |
+| No Mercy | 5.00% | ~1,958 |
+| Explorer: Seeker | 5.00% | ~1,958 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,566 |
 | Stuck | 4.00% | ~1,566 |
 | Help Me Out Here | 4.00% | ~1,566 |
-| The Interloper | 3.00% | ~1,174 |
-| Hop, Step, Jump | 3.00% | ~1,174 |
-| Endless Runner | 3.00% | ~1,174 |
+| The Interloper | 3.00% | ~1,175 |
+| Hop, Step, Jump | 3.00% | ~1,175 |
+| Endless Runner | 3.00% | ~1,175 |
 | Outdoorsperson | 2.00% | ~783 |
 | What Must Be Done | 2.00% | ~783 |
 | Might and Main | 2.00% | ~783 |
@@ -28,11 +28,11 @@ Rating: 4.14 (Ranked 880)
 | Explorer: Pathfinder | 2.00% | ~783 |
 | Shocker | 2.00% | ~783 |
 | From Every Angle | 2.00% | ~783 |
-| The Hue of Blue | 1.00% | ~391 |
-| The Truth Will Out | 1.00% | ~391 |
-| Breaking Point | 1.00% | ~391 |
-| None the Wiser | 1.00% | ~391 |
-| Pilgrimage: Novice | 1.00% | ~391 |
+| The Hue of Blue | 1.00% | ~392 |
+| The Truth Will Out | 1.00% | ~392 |
+| Breaking Point | 1.00% | ~392 |
+| None the Wiser | 1.00% | ~392 |
+| Pilgrimage: Novice | 1.00% | ~392 |
 | Forspoken | 0.90% | ~352 |
 | Wildfire | 0.70% | ~274 |
 | Awakening | 0.60% | ~235 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 880)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,146 (Ranked 90)  
+Progressed: 39,152 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-19 | 39,023 | 3 |
 | 2023-07-20 | 39,042 | 3 |
 | 2023-07-21 | 39,103 | 3 |
-| 2023-07-22 | 39,146 | 3 |
+| 2023-07-22 | 39,152 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
 Sum: 21 (Ranked 494)  

@@ -5,26 +5,26 @@ Rating: 4.73 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,190 |
-| Newcomers | 78.00% | ~9,487 |
-| A Burden of Blood | 73.00% | ~8,879 |
-| Protector's Duty | 69.00% | ~8,392 |
-| Alchemist | 68.00% | ~8,271 |
-| In our Wake | 67.00% | ~8,149 |
-| Leaving all Behind | 64.00% | ~7,784 |
-| Felons | 61.00% | ~7,419 |
+| Under a New Sun | 92.00% | ~11,191 |
+| Newcomers | 78.00% | ~9,488 |
+| A Burden of Blood | 73.00% | ~8,880 |
+| Protector's Duty | 69.00% | ~8,393 |
+| Alchemist | 68.00% | ~8,272 |
+| In our Wake | 67.00% | ~8,150 |
+| Leaving all Behind | 64.00% | ~7,785 |
+| Felons | 61.00% | ~7,420 |
 | A Sea of Promises | 60.00% | ~7,298 |
 | Tales and Revelations | 57.00% | ~6,933 |
 | Bloodline | 52.00% | ~6,325 |
-| The Cradle of Centuries | 48.00% | ~5,838 |
-| The Life We Deserve | 45.00% | ~5,473 |
-| Night guard | 43.00% | ~5,230 |
+| The Cradle of Centuries | 48.00% | ~5,839 |
+| The Life We Deserve | 45.00% | ~5,474 |
+| Night guard | 43.00% | ~5,231 |
 | Nothing Left | 39.00% | ~4,744 |
-| Healing our Wounds | 37.00% | ~4,500 |
+| Healing our Wounds | 37.00% | ~4,501 |
 | Dying Sun | 33.00% | ~4,014 |
-| Improved crossbow | 26.00% | ~3,162 |
+| Improved crossbow | 26.00% | ~3,163 |
 | King Hugo | 24.00% | ~2,919 |
-| Mercy | 23.00% | ~2,797 |
+| Mercy | 23.00% | ~2,798 |
 | Perfect shot | 22.00% | ~2,676 |
 | Effective instruments | 21.00% | ~2,554 |
 | Perfect throw | 21.00% | ~2,554 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 157)
 | Explorer | 1.00% | ~122 |
 | Malignant | 1.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,163 (Ranked 115)  
+Progressed: 12,164 (Ranked 115)  
 Completed: 38 (0.31%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 38 (0.31%) (Ranked 148)
 | 2023-07-19 | 12,069 | 37 |
 | 2023-07-20 | 12,082 | 37 |
 | 2023-07-21 | 12,111 | 37 |
-| 2023-07-22 | 12,163 | 38 |
+| 2023-07-22 | 12,164 | 38 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 208)  
 Sum: 607 (Ranked 291)  

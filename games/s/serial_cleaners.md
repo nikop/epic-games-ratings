@@ -10,9 +10,9 @@
 | Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
 | Business as usual | 8.00% | ~17 |
+| Mr. Hygeni | 7.00% | ~15 |
 | Pride and Joy | 6.00% | ~13 |
 | Eyes Yet To Open | 6.00% | ~13 |
-| Mr. Hygeni | 6.00% | ~13 |
 | Hackathon | 5.00% | ~11 |
 | Total Recall | 4.00% | ~9 |
 | The Wing and the Thigh | 4.00% | ~9 |

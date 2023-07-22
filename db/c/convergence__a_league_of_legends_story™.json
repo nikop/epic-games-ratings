@@ -2003,9 +2003,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 124
     },
     {
       "ID": "RewindDamage1",
@@ -2051,9 +2051,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 117
     },
     {
       "ID": "SpeedRun",
@@ -2154,8 +2154,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:03:37.142792+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:03:12.3110587+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:59:30.7152659+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:03:37.1428524+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:59:18.4526706+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:03:12.3111088+00:00"
 }

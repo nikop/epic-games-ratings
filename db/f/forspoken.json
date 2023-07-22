@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39146,
+  "EOS_Progressed": 39152,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5738,6 +5738,11 @@
       "Time": "2023-07-22T21:04:29.2911396+00:00",
       "NumProgressed": 39146,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T23:03:41.5378517+00:00",
+      "NumProgressed": 39152,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5797,7 +5802,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -5813,7 +5818,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -5845,7 +5850,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -5853,7 +5858,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -5861,7 +5866,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -5869,7 +5874,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -5901,7 +5906,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "CUFF_ATTACK",
@@ -5909,7 +5914,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -5925,7 +5930,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "JUSTCOUNTER",
@@ -5965,7 +5970,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -6045,7 +6050,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -6053,7 +6058,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "PARKOUR_TIME",
@@ -6085,7 +6090,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "SPRING_ALL",
@@ -6172,22 +6177,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39146,
+      "Progressed": 39152,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3983,
-      "Completed": 3983
+      "Progressed": 3989,
+      "Completed": 3989
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:04:05.2242825+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:03:41.5378511+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:58:43.0018741+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:04:05.2243681+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:58:33.0737025+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:03:41.5379286+00:00"
 }

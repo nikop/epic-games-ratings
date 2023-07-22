@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flawless Victory | 11.00% | ~17 |
+| Flawless Victory | 11.00% | ~18 |
 | That'll Leave a Mark | 10.00% | ~16 |
 | Debuff Dogpile | 9.00% | ~14 |
 | Faceroll the Bones | 9.00% | ~14 |
@@ -30,14 +30,14 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 288)  
+Progressed: 161 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
-| 2023-07-22 | 159 | 0 |
+| 2023-07-22 | 161 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 350)  

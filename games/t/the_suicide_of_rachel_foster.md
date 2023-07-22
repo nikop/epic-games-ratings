@@ -1,24 +1,24 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 858)  
+Rating: 4.18 (Ranked 857)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| "Nice" to meet you | 76.00% | ~959 |
-| Freeze to death | 57.00% | ~719 |
-| Is she really dead? | 47.00% | ~593 |
-| Screwdriver | 44.00% | ~555 |
+| "Nice" to meet you | 76.00% | ~960 |
+| Freeze to death | 57.00% | ~720 |
+| Is she really dead? | 47.00% | ~594 |
+| Screwdriver | 44.00% | ~556 |
 | Cutepie | 42.00% | ~530 |
-| Someone was here | 41.00% | ~517 |
-| Ghost Hunters | 41.00% | ~517 |
+| Someone was here | 41.00% | ~518 |
+| Ghost Hunters | 41.00% | ~518 |
 | Alone | 40.00% | ~505 |
 | Pack Rat | 40.00% | ~505 |
 | All together, again | 34.00% | ~429 |
 | Spicy | 6.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,262 (Ranked 182)  
+Progressed: 1,263 (Ranked 182)  
 Completed: 63 (4.99%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 63 (4.99%) (Ranked 40)
 | 2023-07-19 | 1,239 | 62 |
 | 2023-07-20 | 1,245 | 62 |
 | 2023-07-21 | 1,256 | 62 |
-| 2023-07-22 | 1,262 | 63 |
+| 2023-07-22 | 1,263 | 63 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6787,
+  "EOS_Progressed": 6788,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4834,6 +4834,11 @@
       "Time": "2023-07-22T19:04:09.336065+00:00",
       "NumProgressed": 6787,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-22T23:03:33.2217856+00:00",
+      "NumProgressed": 6788,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4949,7 +4954,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "LIBERATOR",
@@ -4965,7 +4970,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "SHREDDER",
@@ -5012,7 +5017,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6787,
+      "Progressed": 6788,
       "Completed": 29
     }
   ],
@@ -5020,8 +5025,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-22T22:03:57.1662077+00:00",
+  "LastChanged_Achievements": "2023-07-22T23:03:33.221785+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-22T21:58:12.7077773+00:00",
-  "LastUpdate_Achievements": "2023-07-22T22:03:57.1662511+00:00"
+  "LastUpdate_Ratings": "2023-07-22T22:58:00.3774892+00:00",
+  "LastUpdate_Achievements": "2023-07-22T23:03:33.2218301+00:00"
 }
