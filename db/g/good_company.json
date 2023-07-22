@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5164,
+  "EOS_Progressed": 5165,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2405,6 +2405,11 @@
       "Time": "2023-07-22T08:05:23.2517753+00:00",
       "NumProgressed": 5164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-22T10:04:33.752486+00:00",
+      "NumProgressed": 5165,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2504,7 +2509,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_campaign_progress3",
@@ -2664,7 +2669,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_campaign_special5",
@@ -2840,7 +2845,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -3023,15 +3028,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5164,
+      "Progressed": 5165,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:05:33.5750036+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:04:33.7524854+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.5603926+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:00:19.9327789+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:05:33.5751115+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:59:03.5596278+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:04:33.7525933+00:00"
 }

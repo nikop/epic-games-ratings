@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1540,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2383,9 +2383,9 @@
       "ID": "ach_food_unlocked",
       "SetID": "3h4khpo",
       "Name": "Food - unlocked",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 524
+      "UsersEstimate": 539
     },
     {
       "ID": "ach_game_opened",
@@ -2407,9 +2407,9 @@
       "ID": "ach_no_boosters",
       "SetID": "3h4khpo",
       "Name": "Master",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 585
+      "UsersEstimate": 601
     },
     {
       "ID": "ach_tornado",
@@ -2430,8 +2430,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:05:46.4000602+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:04:44.7847+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.4941332+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:57:48.3894713+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:05:46.4000914+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:57:14.130329+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:04:44.7847277+00:00"
 }

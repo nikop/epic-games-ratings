@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-07-21T04:02:10.8679013+00:00",
       "NumProgressed": 459,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-22T10:00:31.3662823+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -528,7 +533,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TROP003",
@@ -536,7 +541,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TROP004",
@@ -544,7 +549,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TROP005",
@@ -552,7 +557,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "TROP006",
@@ -560,7 +565,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TROP007",
@@ -576,7 +581,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "TROP009",
@@ -584,7 +589,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "TROP010",
@@ -600,7 +605,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TROP012",
@@ -614,9 +619,9 @@
       "ID": "TROP013",
       "SetID": "9n0dl35",
       "Name": "Never Let Down",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "TROP014",
@@ -670,9 +675,9 @@
       "ID": "TROP020",
       "SetID": "9n0dl35",
       "Name": "Peaceful Instinct",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "TROP021",
@@ -688,7 +693,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TROP023",
@@ -712,7 +717,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TROP026",
@@ -735,7 +740,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 3
     }
   ],
@@ -743,8 +748,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:02:22.8361406+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:00:31.3662805+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.7590321+00:00",
-  "LastUpdate_Ratings": "2023-07-22T09:00:11.522373+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:02:22.8362221+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:57.6987026+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:00:31.3663679+00:00"
 }

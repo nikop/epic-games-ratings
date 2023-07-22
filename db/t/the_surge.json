@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4497,
+  "EOS_Progressed": 4498,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1708,6 +1708,11 @@
       "Time": "2023-07-21T22:04:34.7775682+00:00",
       "NumProgressed": 4497,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-22T10:03:39.3933191+00:00",
+      "NumProgressed": 4498,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1727,7 +1732,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1767,7 +1772,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1775,7 +1780,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1967,7 +1972,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1991,7 +1996,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2007,7 +2012,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -2039,7 +2044,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -2055,7 +2060,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -2254,15 +2259,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4497,
+      "Progressed": 4498,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:04:27.7181677+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:03:39.3933184+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.5392783+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:59:11.151865+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:04:27.7182471+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:13.293816+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:03:39.3933948+00:00"
 }

@@ -46,7 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Unstable Immaterium | 1.00% | ~30 |
 | Strike Force | 1.00% | ~30 |
 | Exercise in Restraint | 1.00% | ~30 |
-| True Mastery | 0.60% | ~18 |
+| True Mastery | 0.70% | ~21 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
 | Brothers in Arms | 0.40% | ~12 |

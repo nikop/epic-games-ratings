@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,198 |
-| Photogenic | 88.00% | ~6,961 |
+| Let's Get This Party Started | 91.00% | ~7,199 |
+| Photogenic | 88.00% | ~6,962 |
 | Surge Gauntlet Jockey | 85.00% | ~6,724 |
-| Plug It In | 84.00% | ~6,644 |
-| Adventure Time | 80.00% | ~6,328 |
+| Plug It In | 84.00% | ~6,645 |
+| Adventure Time | 80.00% | ~6,329 |
 | Playing With Power | 77.00% | ~6,091 |
 | Coup d'Etat | 59.00% | ~4,667 |
 | You're Fired | 58.00% | ~4,588 |
 | Get Furious | 56.00% | ~4,430 |
-| Gunplay And Cosplay | 55.00% | ~4,350 |
-| Hacks In Stacks | 55.00% | ~4,350 |
+| Gunplay And Cosplay | 55.00% | ~4,351 |
+| Hacks In Stacks | 55.00% | ~4,351 |
 | Meching Enemies | 49.00% | ~3,876 |
 | Ticket Toddler | 45.00% | ~3,560 |
-| Booty Bashing | 42.00% | ~3,322 |
+| Booty Bashing | 42.00% | ~3,323 |
 | Field Medic | 38.00% | ~3,006 |
 | Here Comes a New Challenger | 37.00% | ~2,927 |
-| Rapid Response | 33.00% | ~2,610 |
+| Rapid Response | 33.00% | ~2,611 |
 | Surge Ahead | 31.00% | ~2,452 |
 | The Full Monty | 31.00% | ~2,452 |
 | Guardian Angel | 30.00% | ~2,373 |
 | Poppin Noggins | 25.00% | ~1,978 |
 | Clips and Crits | 21.00% | ~1,661 |
 | Grey Goo | 18.00% | ~1,424 |
-| Boss of Bosses | 15.00% | ~1,186 |
-| The Final Blow | 14.00% | ~1,107 |
+| Boss of Bosses | 15.00% | ~1,187 |
+| The Final Blow | 14.00% | ~1,108 |
 | To Be Continued | 13.00% | ~1,028 |
 | Light My Fire | 12.00% | ~949 |
 | Seasoned Adventurer | 12.00% | ~949 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~32 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,910 (Ranked 122)  
+Progressed: 7,911 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 239)
 | 2023-07-19 | 7,734 | 0 |
 | 2023-07-20 | 7,798 | 0 |
 | 2023-07-21 | 7,874 | 0 |
-| 2023-07-22 | 7,910 | 0 |
+| 2023-07-22 | 7,911 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 384)  
 Sum: 453 (Ranked 303)  

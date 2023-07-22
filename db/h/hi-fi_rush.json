@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3500,
+  "EOS_Progressed": 3501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4437,6 +4437,11 @@
       "Time": "2023-07-22T09:03:42.3687306+00:00",
       "NumProgressed": 3500,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-22T10:03:19.0742883+00:00",
+      "NumProgressed": 3501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4520,7 +4525,7 @@
       "Name": "I think I deserve some praise, here!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach011",
@@ -4664,7 +4669,7 @@
       "Name": "I think I found your calling, Macaron",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach029",
@@ -4680,7 +4685,7 @@
       "Name": "This is a breeze!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach031",
@@ -4752,7 +4757,7 @@
       "Name": "First we parry, then we counter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach040",
@@ -4872,7 +4877,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach055",
@@ -5015,13 +5020,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2021,
+      "Progressed": 2022,
       "Completed": 1928
     }
   ],
@@ -5029,8 +5034,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:03:42.36873+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:03:19.0742877+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:59:48.2759396+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:03:42.3688417+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:40.930559+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:03:19.0743876+00:00"
 }

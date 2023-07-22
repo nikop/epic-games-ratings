@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2023-07-22T09:03:40.4681851+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T10:03:17.5125794+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -782,7 +787,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -814,7 +819,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -886,7 +891,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -910,7 +915,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -933,15 +938,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:03:40.4681848+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:03:17.5125788+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:59:40.0328132+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:03:40.4681996+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:34.4827779+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:03:17.5126129+00:00"
 }

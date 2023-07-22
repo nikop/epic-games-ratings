@@ -7,11 +7,11 @@
 | Alone with Them | 71.00% | ~116 |
 | Forced to Kill | 70.00% | ~115 |
 | A Night To Remember | 37.00% | ~61 |
-| Safe...For now? | 30.00% | ~49 |
-| Open Sesame | 26.00% | ~43 |
+| Safe...For now? | 31.00% | ~51 |
+| Open Sesame | 27.00% | ~44 |
+| What have I done!? | 16.00% | ~26 |
 | Them and Us | 15.00% | ~25 |
 | OUTRAGE | 15.00% | ~25 |
-| What have I done!? | 15.00% | ~25 |
 | Alone In The Dark | 12.00% | ~20 |
 | Parasite Exterminated | 12.00% | ~20 |
 | The Cultists | 12.00% | ~20 |

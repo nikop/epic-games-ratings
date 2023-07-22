@@ -40,11 +40,11 @@ Rating: 4.87 (Ranked 24)
 | Call me Turbo Chai | 0.60% | ~12 |
 | Check out my moves! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.40% | ~8 |
-| I think I deserve some praise, here! | 0.30% | ~10 |
-| I think I found your calling, Macaron | 0.30% | ~10 |
-| This is a breeze! | 0.30% | ~10 |
-| First we parry, then we counter | 0.30% | ~10 |
-| I told you I'd be fine, Peppermint! | 0.30% | ~10 |
+| I think I deserve some praise, here! | 0.30% | ~11 |
+| I think I found your calling, Macaron | 0.30% | ~11 |
+| This is a breeze! | 0.30% | ~11 |
+| First we parry, then we counter | 0.30% | ~11 |
+| I told you I'd be fine, Peppermint! | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | OK, well THEY came after ME! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 145)  
+Progressed: 3,501 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-19 | 3,460 | 6 |
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
-| 2023-07-22 | 3,500 | 6 |
+| 2023-07-22 | 3,501 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

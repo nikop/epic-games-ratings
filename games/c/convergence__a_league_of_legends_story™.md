@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 20.00% | ~155 |
+| The Mysterious Stranger | 17.00% | ~132 |
 | Rail Rat | 17.00% | ~132 |
-| The Mysterious Stranger | 16.00% | ~124 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
 | The Harder They Fall | 15.00% | ~116 |
@@ -33,8 +33,8 @@
 | Street Style | 12.00% | ~93 |
 | Whiz Kid | 10.00% | ~78 |
 | Chaincrawler Explorer | 9.00% | ~70 |
+| Family Memories | 9.00% | ~70 |
 | Good Neighbor | 9.00% | ~70 |
-| Family Memories | 8.00% | ~62 |
 | Sump Explorer | 8.00% | ~62 |
 | Syron for Hope | 8.00% | ~62 |
 | Theater Explorer | 8.00% | ~62 |

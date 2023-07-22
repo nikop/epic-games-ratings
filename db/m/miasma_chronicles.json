@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1254,
+  "EOS_Progressed": 1255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2346,6 +2346,11 @@
       "Time": "2023-07-22T02:04:40.5883711+00:00",
       "NumProgressed": 1254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-22T10:03:38.1447547+00:00",
+      "NumProgressed": 1255,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2373,7 +2378,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2461,7 +2466,7 @@
       "Name": "Ganglord",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "DEAD_DICK",
@@ -2469,7 +2474,7 @@
       "Name": "Limp Richard",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2477,7 +2482,7 @@
       "Name": "Jarhead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2517,7 +2522,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "EXPERIENCED",
@@ -2541,7 +2546,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2565,7 +2570,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "GIANT_KILLER",
@@ -2613,7 +2618,7 @@
       "Name": "Infiltrator",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "LUMBERJACK",
@@ -2621,7 +2626,7 @@
       "Name": "Lumberjack",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2661,7 +2666,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "RECYCLER",
@@ -2709,7 +2714,7 @@
       "Name": "Side Order",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -2749,7 +2754,7 @@
       "Name": "The Watchers",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "WIPE_OUT",
@@ -2764,7 +2769,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1254,
+      "Progressed": 1255,
       "Completed": 0
     }
   ],
@@ -2772,8 +2777,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:04:26.3427595+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:03:38.1447537+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:59:27.1577375+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:04:26.3428328+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:24.812248+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:03:38.1448199+00:00"
 }

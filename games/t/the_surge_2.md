@@ -42,11 +42,11 @@ Rating: 4.25 (Ranked 809)
 | Denying Prophecy | 8.00% | ~148 |
 | Following In Their Footsteps | 8.00% | ~148 |
 | Reverse Engineering | 7.00% | ~130 |
+| Reborn | 6.00% | ~111 |
 | Remote Surgery | 6.00% | ~111 |
 | Turbo Booster | 6.00% | ~111 |
 | Juiced Up | 6.00% | ~111 |
 | Squid Pro Quo | 6.00% | ~111 |
-| Reborn | 5.00% | ~93 |
 | Counter-Sniper | 5.00% | ~93 |
 | Shrimp Cocktail | 5.00% | ~93 |
 | Hello Darkness My Old Friend | 4.00% | ~74 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2858,9 +2858,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "StrategicCommand",
@@ -2896,8 +2896,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-22T09:04:15.4305446+00:00",
+  "LastChanged_Achievements": "2023-07-22T10:03:29.5712357+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-22T08:59:59.2885043+00:00",
-  "LastUpdate_Achievements": "2023-07-22T09:04:15.430609+00:00"
+  "LastUpdate_Ratings": "2023-07-22T09:58:49.6086856+00:00",
+  "LastUpdate_Achievements": "2023-07-22T10:03:29.5712908+00:00"
 }
