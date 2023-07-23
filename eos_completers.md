@@ -20,11 +20,11 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.89% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.43% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
+| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.37% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 10.00% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.75% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.74% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,8 +43,8 @@
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.65% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.57% |
+| 44 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.57% |
+| 45 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -67,7 +67,7 @@
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.82% |
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 67 | [The Bunker](games/t/the_bunker.md) | 2.73% |
+| 68 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -123,8 +123,8 @@
 | 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
 | 120 | [Them and Us](games/t/them_and_us.md) | 0.58% |
 | 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
-| 123 | [Train Valley](games/t/train_valley.md) | 0.57% |
-| 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 124 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 124 | [Train Valley](games/t/train_valley.md) | 0.56% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 126 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 128 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.51% |
@@ -159,8 +159,8 @@
 | 156 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 158 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 158 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 158 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 161 | [Filament](games/f/filament.md) | 0.24% |
+| 160 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 160 | [Filament](games/f/filament.md) | 0.24% |
 | 162 | [Blanc](games/b/blanc.md) | 0.22% |
 | 162 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 162 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
