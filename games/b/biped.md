@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Step | 38.00% | ~1,698 |
 | Dense Forest | 32.00% | ~1,430 |
-| Cactus Vally | 23.00% | ~1,028 |
+| Cactus Vally | 24.00% | ~1,073 |
 | Rainy Ruins | 13.00% | ~581 |
 | Telepathic | 10.00% | ~447 |
 | Snowy Peak | 9.00% | ~402 |

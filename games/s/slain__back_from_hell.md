@@ -5,14 +5,14 @@ Rating: 4.28 (Ranked 789)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,224 |
-| A Good Day To Die | 16.00% | ~4,979 |
-| Right Back Atcha | 6.00% | ~1,867 |
+| Man 'O War | 20.00% | ~6,226 |
+| A Good Day To Die | 16.00% | ~4,980 |
+| Right Back Atcha | 6.00% | ~1,868 |
 | Killed by Death | 5.00% | ~1,556 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,556 |
 | Kill 'Em All | 4.00% | ~1,245 |
-| Down Boy! | 2.00% | ~622 |
-| A Snowball's Chance in Hell | 2.00% | ~622 |
+| Down Boy! | 2.00% | ~623 |
+| A Snowball's Chance in Hell | 2.00% | ~623 |
 | Enjoy The Silence | 1.00% | ~311 |
 | Thorn in My Herbicide | 0.80% | ~249 |
 | Sure Footed As A Goat | 0.80% | ~249 |
@@ -24,10 +24,10 @@ Rating: 4.28 (Ranked 789)
 | That'll Come In Handy... | 0.70% | ~218 |
 | Start As You Mean To Go On | 0.60% | ~187 |
 | Hail the Great Horned Metal God! | 0.60% | ~187 |
-| Four Legged Friend | 0.40% | ~124 |
-| Oh God, Mother! Blood! Blood! | 0.40% | ~124 |
-| Ice To See You | 0.40% | ~124 |
-| Smack My Imp Up | 0.40% | ~124 |
+| Four Legged Friend | 0.40% | ~125 |
+| Oh God, Mother! Blood! Blood! | 0.40% | ~125 |
+| Ice To See You | 0.40% | ~125 |
+| Smack My Imp Up | 0.40% | ~125 |
 | Vroll With It | 0.30% | ~93 |
 | Swift of Foot, Keen of Blade | 0.30% | ~93 |
 | Flame Retardant | 0.20% | ~62 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 789)
 | Too Metal For Magic | 0.10% | ~31 |
 | Heart Of Steel | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,118 (Ranked 96)  
+Progressed: 31,128 (Ranked 96)  
 Completed: 20 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,11 +129,11 @@ Completed: 20 (0.06%) (Ranked 199)
 | 2023-07-20 | 30,773 | 20 |
 | 2023-07-21 | 30,885 | 20 |
 | 2023-07-22 | 31,023 | 20 |
-| 2023-07-23 | 31,118 | 20 |
+| 2023-07-23 | 31,128 | 20 |
 ## Awards
-Max (Great Boss Battles): 125  (Ranked 307)  
+Max (Great Boss Battles): 125  (Ranked 308)  
 Sum: 125 (Ranked 399)  
-Diff (max vs sum): -92  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 125 |

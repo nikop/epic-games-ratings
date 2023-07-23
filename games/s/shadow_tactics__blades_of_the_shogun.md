@@ -6,26 +6,26 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,683 |
-| Thorough | 9.00% | ~16,922 |
-| A thief's beginning | 8.00% | ~15,042 |
-| Tanuki Time | 8.00% | ~15,042 |
-| Disguised | 7.00% | ~13,162 |
-| Jonin | 7.00% | ~13,162 |
-| Rescue Takuma | 7.00% | ~13,162 |
-| Rollin' | 7.00% | ~13,162 |
+| Genin | 11.00% | ~20,685 |
+| Thorough | 9.00% | ~16,924 |
+| A thief's beginning | 8.00% | ~15,043 |
+| Tanuki Time | 8.00% | ~15,043 |
+| Disguised | 7.00% | ~13,163 |
+| Jonin | 7.00% | ~13,163 |
+| Rescue Takuma | 7.00% | ~13,163 |
+| Rollin' | 7.00% | ~13,163 |
 | Chunin | 6.00% | ~11,282 |
 | Happy Planning | 6.00% | ~11,282 |
 | Ice Ice Yuki | 6.00% | ~11,282 |
 | Stoned Ox | 6.00% | ~11,282 |
 | Yabu | 6.00% | ~11,282 |
-| Flying Rocks | 5.00% | ~9,401 |
-| Mugen Unchained | 5.00% | ~9,401 |
-| Warzone | 5.00% | ~9,401 |
-| Happy little accidents | 4.00% | ~7,521 |
-| Okkoto | 4.00% | ~7,521 |
-| Prisoners | 4.00% | ~7,521 |
-| Too Early | 4.00% | ~7,521 |
+| Flying Rocks | 5.00% | ~9,402 |
+| Mugen Unchained | 5.00% | ~9,402 |
+| Warzone | 5.00% | ~9,402 |
+| Happy little accidents | 4.00% | ~7,522 |
+| Okkoto | 4.00% | ~7,522 |
+| Prisoners | 4.00% | ~7,522 |
+| Too Early | 4.00% | ~7,522 |
 | Gear up | 3.00% | ~5,641 |
 | Noboru | 3.00% | ~5,641 |
 | Still Rollin' | 3.00% | ~5,641 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~188 |
 | Release the Kraken | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,026 (Ranked 59)  
+Progressed: 188,041 (Ranked 59)  
 Completed: 61 (0.03%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 61 (0.03%) (Ranked 214)
 | 2023-07-20 | 187,160 | 61 |
 | 2023-07-21 | 187,458 | 61 |
 | 2023-07-22 | 187,777 | 61 |
-| 2023-07-23 | 188,026 | 61 |
+| 2023-07-23 | 188,041 | 61 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 183)  
 Sum: 4,710 (Ranked 133)  

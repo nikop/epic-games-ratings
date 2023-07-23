@@ -4,7 +4,7 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
@@ -246,8 +246,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:03:48.1947024+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:03:35.6168852+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.1761324+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:59:42.8465609+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:03:48.1947108+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:59:30.7069606+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:03:35.6168962+00:00"
 }

@@ -16,19 +16,19 @@
 | Master of Unlocking ✔ | 8.00% | ~17 |
 | Hospital ✔ | 7.00% | ~15 |
 | Thirst ✔ | 7.00% | ~15 |
+| Alice ✔ | 6.00% | ~13 |
 | Antivirus ✔ | 6.00% | ~13 |
 | Betty ✔ | 6.00% | ~13 |
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
+| Food ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | King of survival ✔ | 6.00% | ~13 |
-| Alice ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
-| Food ✔ | 5.00% | ~11 |
+| Eva ✔ | 5.00% | ~11 |
 | Mutant fight ✔ | 5.00% | ~11 |
 | All secrets revealed ✔ | 5.00% | ~11 |
 | Boss 1 ✔ | 4.00% | ~9 |
-| Eva ✔ | 4.00% | ~9 |
 | Group Alpha ✔ | 4.00% | ~9 |
 | Sheriff ✔ | 4.00% | ~9 |
 | City on fire ✔ | 4.00% | ~9 |

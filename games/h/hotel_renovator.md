@@ -5,27 +5,27 @@ Rating: 4.55 (Ranked 480)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~662 |
-| And so it begins | 72.00% | ~636 |
-| No pressure | 69.00% | ~609 |
-| Memento | 62.00% | ~547 |
-| Let there be light | 59.00% | ~521 |
-| I think you dropped this | 54.00% | ~477 |
-| Soulmate? | 53.00% | ~468 |
-| Excellent service | 48.00% | ~424 |
-| Roll with it | 45.00% | ~397 |
-| Humble beginnings | 43.00% | ~380 |
-| Love is in the air | 43.00% | ~380 |
-| Fine, I'll do it myself | 41.00% | ~362 |
-| Moving up | 41.00% | ~362 |
-| No need to call anyone | 39.00% | ~344 |
+| Good start | 75.00% | ~664 |
+| And so it begins | 72.00% | ~637 |
+| No pressure | 69.00% | ~611 |
+| Memento | 61.00% | ~540 |
+| Let there be light | 59.00% | ~522 |
+| I think you dropped this | 54.00% | ~478 |
+| Soulmate? | 53.00% | ~469 |
+| Excellent service | 48.00% | ~425 |
+| Roll with it | 45.00% | ~398 |
+| Humble beginnings | 43.00% | ~381 |
+| Love is in the air | 43.00% | ~381 |
+| Fine, I'll do it myself | 41.00% | ~363 |
+| Moving up | 41.00% | ~363 |
+| No need to call anyone | 39.00% | ~345 |
 | Big fortune | 32.00% | ~283 |
-| Still more work ahead | 28.00% | ~247 |
-| Hotel sleuthing | 27.00% | ~238 |
+| Still more work ahead | 28.00% | ~248 |
+| Hotel sleuthing | 27.00% | ~239 |
 | Aesop's fable | 26.00% | ~230 |
 | Kaboom | 25.00% | ~221 |
 | Nearly there | 24.00% | ~212 |
-| Broken heart | 22.00% | ~194 |
+| Broken heart | 22.00% | ~195 |
 | Island boy | 20.00% | ~177 |
 | You're a star | 19.00% | ~168 |
 | Unstoppable | 17.00% | ~150 |
@@ -33,8 +33,8 @@ Rating: 4.55 (Ranked 480)
 | King of hospitality | 11.00% | ~97 |
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883 (Ranked 195)  
-Completed: 15 (1.70%) (Ranked 87)  
+Progressed: 885 (Ranked 195)  
+Completed: 15 (1.69%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 15 (1.70%) (Ranked 87)
 | 2023-07-20 | 865 | 15 |
 | 2023-07-21 | 869 | 15 |
 | 2023-07-22 | 877 | 15 |
-| 2023-07-23 | 883 | 15 |
+| 2023-07-23 | 885 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

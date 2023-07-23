@@ -6,25 +6,25 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~93,446 |
-| NATURAL BORN WINNER | 33.00% | ~75,213 |
-| CALLING HOUSTON | 28.00% | ~63,817 |
-| SNEAKY SNEAKY | 22.00% | ~50,142 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~50,142 |
-| GT9STRADALE | 20.00% | ~45,584 |
-| CHALLENGER | 11.00% | ~25,071 |
+| VANGUARD | 41.00% | ~93,450 |
+| NATURAL BORN WINNER | 33.00% | ~75,216 |
+| CALLING HOUSTON | 28.00% | ~63,820 |
+| SNEAKY SNEAKY | 22.00% | ~50,144 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~50,144 |
+| GT9STRADALE | 20.00% | ~45,585 |
+| CHALLENGER | 11.00% | ~25,072 |
 | ON A ROLL | 9.00% | ~20,513 |
-| CENTAUR | 8.00% | ~18,233 |
-| FASTER THAN EVER | 8.00% | ~18,233 |
-| CHALLENGE THE WORLD | 7.00% | ~15,954 |
-| PHOTOFINISH | 7.00% | ~15,954 |
+| CENTAUR | 8.00% | ~18,234 |
+| FASTER THAN EVER | 8.00% | ~18,234 |
+| CHALLENGE THE WORLD | 7.00% | ~15,955 |
+| PHOTOFINISH | 7.00% | ~15,955 |
 | QAREEN | 5.00% | ~11,396 |
 | SHOWOFF | 4.00% | ~9,117 |
 | TAKATORA | 4.00% | ~9,117 |
 | GILA | 3.00% | ~6,838 |
-| PRO | 2.00% | ~4,558 |
-| RESPWND | 2.00% | ~4,558 |
-| SHINY SHINY GOLD | 2.00% | ~4,558 |
+| PRO | 2.00% | ~4,559 |
+| RESPWND | 2.00% | ~4,559 |
+| SHINY SHINY GOLD | 2.00% | ~4,559 |
 | HARDCORE | 1.00% | ~2,279 |
 | ACE | 0.70% | ~1,595 |
 | TACTICIAN | 0.60% | ~1,368 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~456 |
 | ENLIGHTENED | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,918 (Ranked 49)  
+Progressed: 227,927 (Ranked 49)  
 Completed: 46 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 46 (0.02%) (Ranked 219)
 | 2023-07-20 | 227,679 | 46 |
 | 2023-07-21 | 227,756 | 46 |
 | 2023-07-22 | 227,845 | 46 |
-| 2023-07-23 | 227,918 | 46 |
+| 2023-07-23 | 227,927 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

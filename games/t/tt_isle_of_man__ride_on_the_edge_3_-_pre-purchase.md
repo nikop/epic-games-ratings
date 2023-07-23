@@ -6,22 +6,22 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 96.00% | ~97 |
 | To Each Their Own | 50.00% | ~50 |
-| You Get An Upgrade, You Get An Upgrade! | 22.00% | ~22 |
+| You Get An Upgrade, You Get An Upgrade! | 23.00% | ~23 |
 | Onwards and Upwards | 22.00% | ~22 |
 | Like Phileas Fogg | 16.00% | ~16 |
-| Serial Winner | 15.00% | ~15 |
+| Serial Winner | 16.00% | ~16 |
 | Start Your Engines | 12.00% | ~12 |
 | Lone Wolf | 12.00% | ~12 |
-| Highly Qualified | 10.00% | ~10 |
-| No Room for Improvement | 9.00% | ~9 |
+| Highly Qualified | 11.00% | ~11 |
+| No Room for Improvement | 10.00% | ~10 |
 | Playing God | 9.00% | ~9 |
 | Nerd | 8.00% | ~8 |
 | Upgradeaholic | 7.00% | ~7 |
 | Tailor-Made | 6.00% | ~6 |
 | Seven-League Boots | 5.00% | ~5 |
+| First and Foremost | 5.00% | ~5 |
 | POI Hunter | 4.00% | ~4 |
 | Gotta Go Fast! | 4.00% | ~4 |
-| First and Foremost | 4.00% | ~4 |
 | Made Mother Proud | 4.00% | ~4 |
 | Winner Winner Chicken Dinner | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |

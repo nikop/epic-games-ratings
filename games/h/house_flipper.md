@@ -6,19 +6,19 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,864 |
-| Strongman | 31.00% | ~6,221 |
+| First money | 94.00% | ~18,867 |
+| Strongman | 31.00% | ~6,222 |
 | Just Enough | 19.00% | ~3,813 |
 | Alpha Male | 19.00% | ~3,813 |
-| Pro-creative | 18.00% | ~3,612 |
-| Worth Every Penny | 15.00% | ~3,010 |
+| Pro-creative | 18.00% | ~3,613 |
+| Worth Every Penny | 15.00% | ~3,011 |
 | Family man | 13.00% | ~2,609 |
 | Junior Estate Agent | 13.00% | ~2,609 |
 | Mystery | 10.00% | ~2,007 |
 | Artistic soul | 10.00% | ~2,007 |
-| Estate Agent | 5.00% | ~1,003 |
-| Millionaire | 5.00% | ~1,003 |
-| Perfectionist | 5.00% | ~1,003 |
+| Estate Agent | 5.00% | ~1,004 |
+| Millionaire | 5.00% | ~1,004 |
+| Perfectionist | 5.00% | ~1,004 |
 | I'm Belieber | 2.00% | ~401 |
 | You do it wrong | 1.00% | ~201 |
 | Knock, knock | 0.90% | ~181 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~100 |
 | Senior Estate Agent | 0.50% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,068 (Ranked 102)  
+Progressed: 20,071 (Ranked 102)  
 Completed: 19 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,10 +124,10 @@ Completed: 19 (0.09%) (Ranked 191)
 | 2023-07-20 | 19,958 | 19 |
 | 2023-07-21 | 20,004 | 19 |
 | 2023-07-22 | 20,032 | 19 |
-| 2023-07-23 | 20,068 | 19 |
+| 2023-07-23 | 20,071 | 19 |
 ## Awards
 Max (Great for Beginners): 304  (Ranked 231)  
-Sum: 2,189 (Ranked 188)  
+Sum: 2,190 (Ranked 188)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -141,7 +141,7 @@ Diff (max vs sum): 43
 | This game has a Creative Community | 210 |
 | This game has Amazing Characters | 189 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 159 |
+| This game has Easy Combat | 160 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -277,3 +277,4 @@ Diff (max vs sum): 43
 | 2023-07-16 | 4.69 | - | 304 | 2,187 |
 | 2023-07-17 | 4.69 | - | 304 | 2,188 |
 | 2023-07-21 | 4.69 | - | 304 | 2,189 |
+| 2023-07-23 | 4.69 | - | 304 | 2,190 |

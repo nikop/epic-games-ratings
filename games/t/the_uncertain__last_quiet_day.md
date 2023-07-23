@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~302 |
+| I can do a thing or two | 61.00% | ~307 |
 | Buckle up | 59.00% | ~297 |
 | Quick charge | 59.00% | ~297 |
+| Now you know | 53.00% | ~267 |
 | Hands up! | 52.00% | ~262 |
-| Now you know | 52.00% | ~262 |
 | Short circuit | 52.00% | ~262 |
 | Curious | 41.00% | ~206 |
 | Everybody lies | 35.00% | ~176 |

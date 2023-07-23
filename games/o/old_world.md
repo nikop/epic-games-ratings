@@ -7,7 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~130 |
-| The Great Mage | 0.60% | ~78 |
+| The Great Mage | 0.70% | ~91 |
 | Play a Single Player Game | 0.50% | ~65 |
 | Explorer | 0.40% | ~52 |
 | Intrepid | 0.40% | ~52 |
@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
+| Brilliant | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
@@ -54,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
+| Future Regicide | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
@@ -78,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.10% | ~13 |
 | Beloved | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
-| Brilliant | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
 | Conqueror | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
@@ -227,7 +228,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |

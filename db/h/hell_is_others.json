@@ -724,9 +724,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253508,
+  "EOS_Progressed": 253512,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10294,6 +10294,11 @@
       "Time": "2023-07-23T18:05:24.6218016+00:00",
       "NumProgressed": 253508,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-23T19:05:12.5033953+00:00",
+      "NumProgressed": 253512,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10353,7 +10358,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78587
+      "UsersEstimate": 78589
     },
     {
       "ID": "BackHomeNTimes",
@@ -10361,7 +10366,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12675
+      "UsersEstimate": 12676
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -10433,7 +10438,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12675
+      "UsersEstimate": 12676
     },
     {
       "ID": "CreedsInBank2",
@@ -10505,7 +10510,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15210
+      "UsersEstimate": 15211
     },
     {
       "ID": "GrowPlants2",
@@ -10561,7 +10566,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15210
+      "UsersEstimate": 15211
     },
     {
       "ID": "KillOtherWithKatana",
@@ -10593,7 +10598,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55772
+      "UsersEstimate": 55773
     },
     {
       "ID": "KillOthers2",
@@ -10752,7 +10757,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253508,
+      "Progressed": 253512,
       "Completed": 2
     }
   ],
@@ -10760,8 +10765,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-23T07:00:16.3526171+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:05:24.6218009+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:05:12.5033948+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:00:29.6189896+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:05:24.6219155+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:00:14.5358598+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:05:12.5035138+00:00"
 }

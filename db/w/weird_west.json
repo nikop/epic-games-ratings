@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1726,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1470,6 +1470,11 @@
       "Time": "2023-07-23T18:04:12.7004325+00:00",
       "NumProgressed": 1726,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T19:04:00.234225+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1489,7 +1494,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1513,7 +1518,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1561,7 +1566,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1729,7 +1734,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1751,9 +1756,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_REVENANT",
@@ -1857,7 +1862,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1897,22 +1902,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1726,
+      "Progressed": 1727,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:04:12.7004318+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:04:00.2342246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:58:43.6137815+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:04:12.7004849+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:58:35.1251034+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:04:00.234279+00:00"
 }

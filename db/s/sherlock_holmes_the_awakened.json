@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2023-07-23T17:07:33.0849168+00:00",
       "NumProgressed": 549,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-23T19:05:31.2526899+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1875,7 +1880,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MQ02_1",
@@ -1883,7 +1888,7 @@
       "Name": "High Profile",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "MQ02_2",
@@ -1907,15 +1912,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ03_2",
@@ -1931,7 +1936,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "MQ03_4",
@@ -1947,7 +1952,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "MQ04_1",
@@ -1963,7 +1968,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MQ04_3",
@@ -2019,7 +2024,7 @@
       "Name": "Bookworm",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "MQ06_3",
@@ -2035,7 +2040,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "MQ07_1",
@@ -2083,14 +2088,14 @@
       "Name": "Reawakened",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 25
     }
   ],
@@ -2098,8 +2103,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:05:43.128583+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:05:31.2526896+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:57:39.742656+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:05:43.1286207+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:57:29.2172714+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:05:31.2527222+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.27 (Ranked 797)
 | TASTE UNTASTY | 5.00% | ~18 |
 | HIGH TECHNOLOGIES | 3.00% | ~11 |
 | CORRUPTIONIST | 2.00% | ~7 |
+| DEBTOR | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |
-| DEBTOR | 1.00% | ~4 |
 | TRAVELER | 0.80% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)

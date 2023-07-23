@@ -9,7 +9,7 @@
 | It is nice to share with friends in the city | 28.00% | ~80 |
 | Sport is good for you | 26.00% | ~74 |
 | The spiritual world... | 24.00% | ~68 |
-| The woodcutter | 22.00% | ~62 |
+| The woodcutter | 22.00% | ~63 |
 | I like books | 20.00% | ~57 |
 | I like my life | 20.00% | ~57 |
 | Soviet town | 19.00% | ~54 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 251)  
+Progressed: 285 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-18 | 276 | 0 |
 | 2023-07-19 | 277 | 0 |
 | 2023-07-22 | 283 | 0 |
-| 2023-07-23 | 284 | 0 |
+| 2023-07-23 | 285 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

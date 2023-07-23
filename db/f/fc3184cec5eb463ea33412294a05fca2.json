@@ -618,9 +618,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -674,9 +674,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -730,9 +730,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:04:51.8541491+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:04:39.5702812+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:57:18.3453258+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:04:51.8541662+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:57:07.7900983+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:04:39.5702991+00:00"
 }

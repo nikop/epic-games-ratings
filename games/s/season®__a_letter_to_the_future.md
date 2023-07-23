@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Home Leaver | 82.00% | ~945 |
 | Journal Beautifier | 82.00% | ~945 |
-| Outside World Seer | 64.00% | ~737 |
-| Stranger Encounterer | 39.00% | ~449 |
+| Outside World Seer | 64.00% | ~738 |
+| Stranger Encounterer | 39.00% | ~450 |
 | Grey Hands Praxis 101 | 30.00% | ~346 |
 | Deep Listener | 28.00% | ~323 |
-| Music for Cows | 20.00% | ~230 |
+| Music for Cows | 20.00% | ~231 |
 | Emotional Baggage Handler | 19.00% | ~219 |
 | Dream Listener | 16.00% | ~184 |
 | Artist Assistant | 15.00% | ~173 |
@@ -21,7 +21,7 @@
 | Love Uncoverer | 10.00% | ~115 |
 | Graffiti Artist | 9.00% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 183)  
+Progressed: 1,153 (Ranked 183)  
 Completed: 44 (3.82%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 44 (3.82%) (Ranked 49)
 | 2023-07-18 | 1,147 | 43 |
 | 2023-07-20 | 1,148 | 43 |
 | 2023-07-22 | 1,150 | 44 |
-| 2023-07-23 | 1,152 | 44 |
+| 2023-07-23 | 1,153 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

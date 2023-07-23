@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 672)
 | Come on, You Wanna Live Forever? | 22.00% | ~665 |
 | The Passenger | 22.00% | ~665 |
 | Stuff Of Nightmares | 20.00% | ~604 |
-| El Riesgo Siempre Vive | 19.00% | ~574 |
-| The Spire | 19.00% | ~574 |
+| El Riesgo Siempre Vive | 20.00% | ~604 |
+| The Spire | 20.00% | ~604 |
 | One For Every Occasion | 17.00% | ~514 |
 | Excavating The Truth | 17.00% | ~514 |
 | Frontliner | 16.00% | ~484 |

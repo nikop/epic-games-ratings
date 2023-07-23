@@ -6,37 +6,37 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~622,361 |
-| Escaped Asphodel | 80.00% | ~559,426 |
-| Arms Collector | 71.00% | ~496,490 |
-| Friends in High Places | 68.00% | ~475,512 |
-| Escaped Elysium | 66.00% | ~461,526 |
-| Chthonic Colleagues | 63.00% | ~440,548 |
-| Is There No Escape? | 52.00% | ~363,627 |
-| Death Dealer | 45.00% | ~314,677 |
-| Skelly Slayer | 42.00% | ~293,698 |
-| Well Stocked | 40.00% | ~279,713 |
-| Back to Work | 38.00% | ~265,727 |
-| Day-or-Night Trader | 37.00% | ~258,734 |
-| Blessed by the Gods | 37.00% | ~258,734 |
+| Escaped Tartarus | 89.00% | ~622,363 |
+| Escaped Asphodel | 80.00% | ~559,427 |
+| Arms Collector | 71.00% | ~496,492 |
+| Friends in High Places | 68.00% | ~475,513 |
+| Escaped Elysium | 66.00% | ~461,527 |
+| Chthonic Colleagues | 63.00% | ~440,549 |
+| Is There No Escape? | 52.00% | ~363,628 |
+| Death Dealer | 45.00% | ~314,678 |
+| Skelly Slayer | 42.00% | ~293,699 |
+| Well Stocked | 40.00% | ~279,714 |
+| Back to Work | 38.00% | ~265,728 |
+| Day-or-Night Trader | 37.00% | ~258,735 |
+| Blessed by the Gods | 37.00% | ~258,735 |
 | Urge to Sing | 36.00% | ~251,742 |
 | Blood Bound | 35.00% | ~244,749 |
-| Three-Headed Boy | 32.00% | ~223,770 |
-| River Denizens | 28.00% | ~195,799 |
-| Grown Close | 28.00% | ~195,799 |
-| Home Makeover | 27.00% | ~188,806 |
-| Had to Happen | 25.00% | ~174,820 |
-| The Family Secret | 25.00% | ~174,820 |
+| Three-Headed Boy | 32.00% | ~223,771 |
+| River Denizens | 28.00% | ~195,800 |
+| Grown Close | 28.00% | ~195,800 |
+| Home Makeover | 27.00% | ~188,807 |
+| Had to Happen | 25.00% | ~174,821 |
+| The Family Secret | 25.00% | ~174,821 |
 | Tools of the Architect | 23.00% | ~160,835 |
 | Master of Arms | 23.00% | ~160,835 |
 | To Charon's Credit | 22.00% | ~153,842 |
 | Rare Collectible | 22.00% | ~153,842 |
-| Weapon of Fate | 21.00% | ~146,849 |
+| Weapon of Fate | 21.00% | ~146,850 |
 | Something From Everyone | 19.00% | ~132,864 |
 | Hold the Onions | 18.00% | ~125,871 |
 | Well Versed | 17.00% | ~118,878 |
-| War-God's Bloodlust | 15.00% | ~104,892 |
-| Musician and Muse | 14.00% | ~97,899 |
+| War-God's Bloodlust | 15.00% | ~104,893 |
+| Musician and Muse | 14.00% | ~97,900 |
 | The Useless Trinket | 13.00% | ~90,907 |
 | Champion of Elysium | 13.00% | ~90,907 |
 | Slashed Benefits | 12.00% | ~83,914 |
@@ -45,9 +45,9 @@ Number of Ratings: 6,336  (23.09.2022)
 | Nyx's Mirror | 10.00% | ~69,928 |
 | Night and Darkness | 10.00% | ~69,928 |
 | End to Torment | 10.00% | ~69,928 |
-| Dark Reflections | 9.00% | ~62,935 |
-| Thanks, But No Thanks | 9.00% | ~62,935 |
-| Infernal Arms | 9.00% | ~62,935 |
+| Dark Reflections | 9.00% | ~62,936 |
+| Thanks, But No Thanks | 9.00% | ~62,936 |
+| Infernal Arms | 9.00% | ~62,936 |
 | Divided by Death | 8.00% | ~55,943 |
 | Harsh Conditions | 7.00% | ~48,950 |
 | One for the Ages | 7.00% | ~48,950 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,971 |
 | Friends Forever | 4.00% | ~27,971 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,282 (Ranked 21)  
+Progressed: 699,284 (Ranked 21)  
 Completed: 6,252 (0.89%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,10 +150,10 @@ Completed: 6,252 (0.89%) (Ranked 108)
 | 2023-07-20 | 698,999 | 6,244 |
 | 2023-07-21 | 699,081 | 6,247 |
 | 2023-07-22 | 699,204 | 6,249 |
-| 2023-07-23 | 699,282 | 6,252 |
+| 2023-07-23 | 699,284 | 6,252 |
 ## Awards
 Max (Character Customization): 3,192  (Ranked 90)  
-Sum: 7,724 (Ranked 100)  
+Sum: 7,725 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -169,7 +169,7 @@ Diff (max vs sum): -10
 | This game has Quickly Understood Controls | 231 |
 | This game has Unique Visuals | 227 |
 | This game has Challenging Combat | 170 |
-| This game has a Creative Community | 159 |
+| This game has a Creative Community | 160 |
 | This game has Obsessive Gameplay | 144 |
 | This game is Educational | 51 |
 ## Ratings History
@@ -345,4 +345,4 @@ Diff (max vs sum): -10
 | 2023-07-19 | 4.92 | - | 3,190 | 7,713 |
 | 2023-07-21 | 4.92 | - | 3,192 | 7,715 |
 | 2023-07-22 | 4.92 | - | 3,192 | 7,721 |
-| 2023-07-23 | 4.92 | - | 3,192 | 7,724 |
+| 2023-07-23 | 4.92 | - | 3,192 | 7,725 |

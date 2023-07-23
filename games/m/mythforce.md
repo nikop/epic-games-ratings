@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 272)  
+Progressed: 203 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,7 +38,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
 | 2023-07-22 | 161 | 0 |
-| 2023-07-23 | 201 | 0 |
+| 2023-07-23 | 203 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 447)  
 Sum: 226 (Ranked 351)  

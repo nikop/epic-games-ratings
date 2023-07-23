@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2023-07-23T15:04:50.4231049+00:00",
       "NumProgressed": 830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T19:04:08.9383648+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1340,7 +1345,7 @@
       "Name": "Act I Complete",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1380,7 +1385,7 @@
       "Name": "A successful procedure!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1404,7 +1409,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1420,7 +1425,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1436,7 +1441,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1492,7 +1497,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1540,7 +1545,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1548,14 +1553,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 0
     }
   ],
@@ -1563,8 +1568,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:04:20.9770526+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:04:08.9383643+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:57:51.372796+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:04:20.9770778+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:57:41.1073066+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:04:08.9383927+00:00"
 }

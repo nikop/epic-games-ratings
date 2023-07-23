@@ -254,9 +254,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "getPoisoned",
@@ -270,25 +270,25 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "killElk50",
@@ -334,9 +334,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 72,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "killGolem10",
@@ -406,9 +406,9 @@
       "ID": "killStone500",
       "SetID": "ci65fo0",
       "Name": "Epic Stone Crusher",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "killTree100",
@@ -510,9 +510,9 @@
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "questAntiquities",
@@ -526,9 +526,9 @@
       "ID": "questBadNews",
       "SetID": "ci65fo0",
       "Name": "Bad news",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "questBountyHunter",
@@ -622,9 +622,9 @@
       "ID": "questEnemyTask",
       "SetID": "ci65fo0",
       "Name": "On the enemy\u0027s side",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "questGenerous",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:03:29.7477515+00:00",
+  "LastChanged_Achievements": "2023-07-23T19:03:17.3000871+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:57:16.8505658+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:03:29.7478366+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:57:06.4000762+00:00",
+  "LastUpdate_Achievements": "2023-07-23T19:03:17.3001652+00:00"
 }
