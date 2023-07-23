@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-07-23T04:04:14.2360753+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-23T07:03:55.4680325+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 43,
@@ -1341,7 +1346,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "DieInPermadeath",
@@ -1363,9 +1368,9 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 695
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1397,7 +1402,7 @@
       "Name": "Born to Drift",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "KillWithALargeShip",
@@ -1405,7 +1410,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "MasteryOfCombat",
@@ -1437,7 +1442,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1453,7 +1458,7 @@
       "Name": "Power Chord",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -1461,7 +1466,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1493,7 +1498,7 @@
       "Name": "Set in Motion",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -1517,7 +1522,7 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1525,7 +1530,7 @@
       "Name": "Safe Home",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1533,7 +1538,7 @@
       "Name": "Rise as One",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MissionOldFriend",
@@ -1557,7 +1562,7 @@
       "Name": "Shields Down",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "MissionScavengingJob",
@@ -1565,7 +1570,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "MissionShipyard",
@@ -1619,9 +1624,9 @@
       "ID": "RadiationCloud",
       "SetID": "a6c395p",
       "Name": "Radiation Area",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "RiteOfControl",
@@ -1629,7 +1634,7 @@
       "Name": "Crash Test",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "RiteOfTheHunt",
@@ -1684,15 +1689,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:04:21.8725192+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:03:55.4680321+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:00:52.1770895+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:04:21.8725497+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:00:03.8192652+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:03:55.4680714+00:00"
 }

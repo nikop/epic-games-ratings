@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3522,
+  "EOS_Progressed": 3523,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -4497,6 +4497,11 @@
       "Time": "2023-07-23T05:03:11.4598222+00:00",
       "NumProgressed": 3522,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-23T07:03:21.1045913+00:00",
+      "NumProgressed": 3523,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4666,9 +4671,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach022",
@@ -4858,9 +4863,9 @@
       "ID": "Ach045",
       "SetID": "12n4k20",
       "Name": "There\u0027s such a thing as TOO helpful",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach046",
@@ -5075,13 +5080,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3522,
+      "Progressed": 3523,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2043,
+      "Progressed": 2044,
       "Completed": 1928
     }
   ],
@@ -5089,8 +5094,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:03:38.2704424+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:03:21.1045909+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:59:14.1041409+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:03:38.2705203+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:58:43.2644216+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:03:21.104691+00:00"
 }

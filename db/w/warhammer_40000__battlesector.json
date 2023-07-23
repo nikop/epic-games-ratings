@@ -2,7 +2,7 @@
   "ID": "ae248f67a46f47a6bcf8a45b2b4fdd10",
   "Name": "Warhammer 40,000: Battlesector",
   "ProductSlug": "warhammer-40000-battlesector",
-  "Ranking_Rating": 393,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 509,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 40,
   "RatingHistory": [
     {
@@ -143,6 +143,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-23T06:58:30.4452677+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -160,8 +166,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.2455747+00:00",
-  "LastChanged": "2023-04-29T21:58:01.0122676+00:00",
+  "LastChanged": "2023-07-23T06:58:30.4452676+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.6694536+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:58:58.388681+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:05:14.4919527+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:58:30.4452682+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:04:37.8641779+00:00"
 }

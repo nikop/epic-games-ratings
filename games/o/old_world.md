@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.20% | ~26 |
 | Judaism | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
+| Roman Paganism | 0.20% | ~26 |
 | Trade Caravan | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -169,7 +170,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
-| Roman Paganism | 0.10% | ~13 |
 | Zoroastrianism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Building Wonders | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,024 (Ranked 114)  
+Progressed: 13,026 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,024 | 5 |
+| 2023-07-23 | 13,026 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

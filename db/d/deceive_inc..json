@@ -180,7 +180,7 @@
   "Tags": [],
   "EOS_Progressed": 7454,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6311,9 +6311,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3429
     },
     {
       "ID": "0025",
@@ -6424,8 +6424,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:03:16.5050856+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:03:03.9396821+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:00:25.941651+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:03:16.5051351+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:59:43.1052009+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:03:03.9397433+00:00"
 }

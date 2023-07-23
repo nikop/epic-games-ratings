@@ -1,19 +1,19 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.94 (Ranked 928)  
+Rating: 3.96 (Ranked 927)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~585 |
-| Electrician | 33.00% | ~471 |
+| I don't feel so good | 41.00% | ~586 |
+| Electrician | 34.00% | ~486 |
 | Fear my botany powers, Mars | 32.00% | ~457 |
 | Zero Waste | 29.00% | ~414 |
 | Bob The Builder | 29.00% | ~414 |
 | I am the greatest botanist on this planet. | 28.00% | ~400 |
 | Gardener | 25.00% | ~357 |
 | Miner | 25.00% | ~357 |
-| Occupy Mars! | 23.00% | ~328 |
+| Occupy Mars! | 23.00% | ~329 |
 | Houston we have a problem | 21.00% | ~300 |
 | Detective | 18.00% | ~257 |
 | The Collector | 17.00% | ~243 |
@@ -36,8 +36,8 @@ Rating: 3.94 (Ranked 928)
 | One does not simply... | 0.60% | ~9 |
 | Bull’s eye | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |
-| Korolev crater | 0.40% | ~6 |
 | Hot Repairs | 0.30% | ~4 |
+| Korolev crater | 0.30% | ~4 |
 | Never Ending Story? | 0.20% | ~3 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.94 (Ranked 928)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,428 (Ranked 176)  
+Progressed: 1,429 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 1,420 | 0 |
 | 2023-07-21 | 1,421 | 0 |
 | 2023-07-22 | 1,427 | 0 |
-| 2023-07-23 | 1,428 | 0 |
+| 2023-07-23 | 1,429 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -163,3 +163,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-06-28 | 3.91 | 0 | 0 |
 | 2023-07-11 | 3.93 | 0 | 0 |
 | 2023-07-17 | 3.94 | 0 | 0 |
+| 2023-07-23 | 3.96 | 0 | 0 |

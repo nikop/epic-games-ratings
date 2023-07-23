@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1020,6 +1020,11 @@
       "Time": "2023-07-23T04:07:08.0272313+00:00",
       "NumProgressed": 477,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T07:06:17.3731442+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1111,7 +1116,7 @@
       "Name": "Good as Fish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Chapter8",
@@ -1119,7 +1124,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Chapter9",
@@ -1135,7 +1140,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Collectibles2",
@@ -1199,7 +1204,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Memories",
@@ -1311,21 +1316,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:07:19.7576756+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:06:17.3731436+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:24.5159044+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:58:26.4516029+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:07:19.7577014+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:58:00.4439652+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:06:17.3731776+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,573 |
-| Haikyo | 80.00% | ~341,535 |
+| Found a Friend | 95.00% | ~405,574 |
+| Haikyo | 80.00% | ~341,536 |
 | Good as New | 72.00% | ~307,382 |
-| Into the Woods | 69.00% | ~294,574 |
-| Hunter in the Forest | 60.00% | ~256,151 |
-| Rot Commander | 60.00% | ~256,151 |
+| Into the Woods | 69.00% | ~294,575 |
+| Hunter in the Forest | 60.00% | ~256,152 |
+| Rot Commander | 60.00% | ~256,152 |
 | Taro's Fear | 56.00% | ~239,075 |
 | Between the Eyes | 46.00% | ~196,383 |
 | Taro's Love | 45.00% | ~192,114 |
-| Taro's Regret | 43.00% | ~183,575 |
+| Taro's Regret | 43.00% | ~183,576 |
 | Spirit Guide | 42.00% | ~179,306 |
-| Harness Your Power | 38.00% | ~162,229 |
+| Harness Your Power | 38.00% | ~162,230 |
 | The Open Range | 37.00% | ~157,960 |
-| Adira's Love | 34.00% | ~145,152 |
+| Adira's Love | 34.00% | ~145,153 |
 | Adira's Fear | 32.00% | ~136,614 |
 | Weigh Them Down | 31.00% | ~132,345 |
 | Adira's Regret | 31.00% | ~132,345 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,842 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,919 (Ranked 38)  
+Progressed: 426,920 (Ranked 38)  
 Completed: 518 (0.12%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,14 +142,14 @@ Completed: 518 (0.12%) (Ranked 181)
 | 2023-07-20 | 426,884 | 517 |
 | 2023-07-21 | 426,898 | 517 |
 | 2023-07-22 | 426,914 | 518 |
-| 2023-07-23 | 426,919 | 518 |
+| 2023-07-23 | 426,920 | 518 |
 ## Awards
-Max (Great Boss Battles): 1,307  (Ranked 129)  
-Sum: 1,683 (Ranked 207)  
+Max (Great Boss Battles): 1,308  (Ranked 129)  
+Sum: 1,684 (Ranked 207)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,307 |
+| This game has Great Boss Battles | 1,308 |
 | This game is Relaxing | 53 |
 | This game is Highly Recommended | 45 |
 | This game has Amazing Storytelling | 41 |
@@ -268,3 +268,4 @@ Diff (max vs sum): -78
 | 2023-07-13 | 4.70 | - | 1,306 | 1,681 |
 | 2023-07-15 | 4.70 | - | 1,306 | 1,682 |
 | 2023-07-18 | 4.70 | - | 1,307 | 1,683 |
+| 2023-07-23 | 4.70 | - | 1,308 | 1,684 |

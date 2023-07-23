@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 42.11,
+  "EOS_Completed_Percentage": 41.67,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -596,6 +596,11 @@
       "Time": "2023-07-22T11:05:30.2910578+00:00",
       "NumProgressed": 95,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-23T07:05:00.7394127+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 18,
@@ -621,7 +626,7 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 72
     },
@@ -629,7 +634,7 @@
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
       "UsersEstimate": 70
     },
@@ -637,7 +642,7 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
       "UsersEstimate": 73
     },
@@ -645,7 +650,7 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 50,
       "UsersEstimate": 71
     },
@@ -661,7 +666,7 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
       "UsersEstimate": 70
     },
@@ -677,7 +682,7 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 56
     },
@@ -685,7 +690,7 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
       "UsersEstimate": 51
     },
@@ -693,7 +698,7 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
       "UsersEstimate": 52
     },
@@ -701,7 +706,7 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
       "UsersEstimate": 50
     },
@@ -709,7 +714,7 @@
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
       "UsersEstimate": 50
     },
@@ -750,14 +755,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 40
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:05:42.3171162+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:05:00.7394121+00:00",
   "LastUpdate_AppInfo": "2023-07-17T20:57:18.6014768+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:57:46.5605813+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:05:42.3171276+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:57:28.9736344+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:05:00.7394347+00:00"
 }

@@ -6,10 +6,12 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 40.00% | ~21 |
 | First Step | 37.00% | ~19 |
-| Capitalism | 4.00% | ~2 |
+| Capitalism | 6.00% | ~3 |
+| Indebted | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | Green Energy | 4.00% | ~2 |
-| Indebted | 2.00% | ~1 |
+| Health Care | 2.00% | ~1 |
+| Good payer | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Desert Rat | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
@@ -23,7 +25,6 @@
 | Crisis Committee | 0.00% | ~0 |
 | Vive le Résistance | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
-| Health Care | 0.00% | ~0 |
 | No News is Good News | 0.00% | ~0 |
 | Healing | 0.00% | ~0 |
 | There's something in those trees | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |
-| Good payer | 0.00% | ~0 |
 | Self-sufficient | 0.00% | ~0 |
 | Food Tycoon | 0.00% | ~0 |
 | Fuel Tycoon | 0.00% | ~0 |

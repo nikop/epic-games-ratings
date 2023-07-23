@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~40,310 |
-| Worth it | 63.00% | ~32,980 |
-| Eagle Eye | 55.00% | ~28,793 |
-| Corpseman I | 40.00% | ~20,940 |
-| Blast fishing | 37.00% | ~19,370 |
-| Not alone | 32.00% | ~16,752 |
-| Headhunter I | 26.00% | ~13,611 |
+| Setting an example | 77.00% | ~40,313 |
+| Worth it | 63.00% | ~32,983 |
+| Eagle Eye | 55.00% | ~28,795 |
+| Corpseman I | 40.00% | ~20,942 |
+| Blast fishing | 37.00% | ~19,371 |
+| Not alone | 32.00% | ~16,753 |
+| Headhunter I | 26.00% | ~13,612 |
 | Manual Labour I | 25.00% | ~13,088 |
-| Developers, Developers, Developers | 24.00% | ~12,564 |
-| Basic Training | 24.00% | ~12,564 |
+| Developers, Developers, Developers | 24.00% | ~12,565 |
+| Basic Training | 24.00% | ~12,565 |
 | Furchtlos und Treu | 13.00% | ~6,806 |
 | Gott Mit Uns | 12.00% | ~6,282 |
 | This We'll Defend! | 9.00% | ~4,712 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,094 |
 | Corpseman II | 4.00% | ~2,094 |
 | Manual Labour II | 4.00% | ~2,094 |
-| Offense is the best defence | 3.00% | ~1,570 |
-| There is no I in team | 3.00% | ~1,570 |
-| Veteran | 3.00% | ~1,570 |
-| In My Defens God Me Defend | 3.00% | ~1,570 |
-| Silver x100 | 3.00% | ~1,570 |
-| Impavidum Ferient Bella! | 3.00% | ~1,570 |
+| Offense is the best defence | 3.00% | ~1,571 |
+| There is no I in team | 3.00% | ~1,571 |
+| Veteran | 3.00% | ~1,571 |
+| In My Defens God Me Defend | 3.00% | ~1,571 |
+| Silver x100 | 3.00% | ~1,571 |
+| Impavidum Ferient Bella! | 3.00% | ~1,571 |
 | Bronze x100 | 2.00% | ~1,047 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,047 |
 | Gold x100 | 1.00% | ~524 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~52 |
 | Blood Brother | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,350 (Ranked 86)  
+Progressed: 52,354 (Ranked 86)  
 Completed: 4 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.01%) (Ranked 228)
 | 2023-07-20 | 52,074 | 4 |
 | 2023-07-21 | 52,185 | 4 |
 | 2023-07-22 | 52,313 | 4 |
-| 2023-07-23 | 52,350 | 4 |
+| 2023-07-23 | 52,354 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 340)  
 Sum: 757 (Ranked 262)  

@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 57.00% | ~1,468 |
+| You're free now! | 57.00% | ~1,469 |
 | Keeping it classy | 26.00% | ~670 |
 | Welcome to the family | 20.00% | ~515 |
 | The finer things in life | 18.00% | ~464 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,576 (Ranked 158)  
+Progressed: 2,577 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,10 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,533 | 0 |
 | 2023-07-21 | 2,554 | 0 |
 | 2023-07-22 | 2,571 | 0 |
-| 2023-07-23 | 2,576 | 0 |
+| 2023-07-23 | 2,577 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
-Sum: 438 (Ranked 305)  
+Sum: 439 (Ranked 305)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
@@ -156,7 +156,7 @@ Diff (max vs sum): 93
 | This game has Amazing Characters | 41 |
 | This game has Amazing Storytelling | 41 |
 | This game is Relaxing | 39 |
-| This game is Extremely Fun | 38 |
+| This game is Extremely Fun | 39 |
 | This game has Diverse Characters | 38 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 28 |
@@ -282,4 +282,4 @@ Diff (max vs sum): 93
 | 2023-07-12 | 4.67 | - | 50 | 436 |
 | 2023-07-14 | 4.68 | - | 50 | 436 |
 | 2023-07-18 | 4.68 | - | 50 | 437 |
-| 2023-07-23 | 4.68 | - | 50 | 438 |
+| 2023-07-23 | 4.68 | - | 50 | 439 |

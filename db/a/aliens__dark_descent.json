@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3014,
+  "EOS_Progressed": 3015,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
@@ -3031,6 +3031,11 @@
       "Time": "2023-07-23T06:02:03.6108143+00:00",
       "NumProgressed": 3014,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T07:00:38.60919+00:00",
+      "NumProgressed": 3015,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3050,7 +3055,7 @@
       "Name": "Flawless Victory",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -3058,7 +3063,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -3074,7 +3079,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3090,7 +3095,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3122,7 +3127,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -3138,7 +3143,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3162,7 +3167,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3170,7 +3175,7 @@
       "Name": "Heavy Steps",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -3234,7 +3239,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3242,7 +3247,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3256,9 +3261,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3282,7 +3287,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3314,7 +3319,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_MISSION_12",
@@ -3338,7 +3343,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3346,7 +3351,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3354,7 +3359,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3401,7 +3406,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3014,
+      "Progressed": 3015,
       "Completed": 1
     }
   ],
@@ -3409,8 +3414,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:02:03.6108139+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:00:38.6091895+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:00:07.2280918+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:02:03.6108648+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:59:27.8714916+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:00:38.6092525+00:00"
 }

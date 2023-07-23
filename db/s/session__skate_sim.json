@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -722,10 +722,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 438,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-07-23T06:59:13.2604152+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 438,
+  "NumberOfAwards": 439,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -757,7 +763,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -802,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2576,
+  "EOS_Progressed": 2577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3337,6 +3343,11 @@
       "Time": "2023-07-23T06:03:02.8795053+00:00",
       "NumProgressed": 2576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T07:02:13.1027158+00:00",
+      "NumProgressed": 2577,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3724,22 +3735,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2576,
+      "Progressed": 2577,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-07-23T05:59:52.0211512+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:03:02.8795049+00:00",
+  "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:02:13.1027153+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:59:52.0211517+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:03:02.8795542+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:59:13.2604158+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:02:13.1027704+00:00"
 }

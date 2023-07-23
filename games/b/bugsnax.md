@@ -31,7 +31,7 @@ Number of Ratings: 425  (23.09.2022)
 | Deep Impact | 23.00% | ~6,434 |
 | Grab Bag | 23.00% | ~6,434 |
 | Feeding Frenzy | 18.00% | ~5,035 |
-| Clothesline | 16.00% | ~4,476 |
+| Clothesline | 17.00% | ~4,755 |
 | Say Cheese! | 15.00% | ~4,196 |
 | Sundae Best | 14.00% | ~3,916 |
 | Live Laugh Hut | 8.00% | ~2,238 |

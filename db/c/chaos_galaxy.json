@@ -134,9 +134,9 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "17",
@@ -468,8 +468,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-07-23T06:06:33.7257876+00:00",
+  "LastChanged_Achievements": "2023-07-23T07:05:40.862054+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:34.2150233+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:00:21.8348703+00:00",
-  "LastUpdate_Achievements": "2023-07-23T06:06:33.7258188+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:59:40.1770005+00:00",
+  "LastUpdate_Achievements": "2023-07-23T07:05:40.862095+00:00"
 }
