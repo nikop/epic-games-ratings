@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.41% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.66% |
 | 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
@@ -18,7 +18,7 @@
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 17 | [Remains](games/r/remains.md) | 11.11% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.89% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.85% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
 | 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.37% |
@@ -39,7 +39,7 @@
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -99,8 +99,8 @@
 | 97 | [A Musical Story](games/a/a_musical_story.md) | 1.27% |
 | 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
 | 99 | [Chorus](games/c/chorus.md) | 1.14% |
-| 100 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.12% |
-| 101 | [Trifox](games/t/trifox.md) | 1.11% |
+| 100 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.11% |
+| 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
