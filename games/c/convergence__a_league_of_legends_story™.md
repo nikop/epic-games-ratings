@@ -7,14 +7,15 @@
 | Time Heals All Wounds | 20.00% | ~156 |
 | Rail Rat | 18.00% | ~141 |
 | The Mysterious Stranger | 17.00% | ~133 |
+| Make Up For Lost Time | 16.00% | ~125 |
 | The Prince in Heels | 16.00% | ~125 |
 | The Steel Shadow | 15.00% | ~117 |
-| Make Up For Lost Time | 15.00% | ~117 |
 | Time Flies | 15.00% | ~117 |
 | The Harder They Fall | 15.00% | ~117 |
 | No, Thanks! | 15.00% | ~117 |
 | Breaking Down Barriers | 15.00% | ~117 |
 | The Wicked Twins | 15.00% | ~117 |
+| Fast Learner | 15.00% | ~117 |
 | Immaculate Aim | 15.00% | ~117 |
 | Immaculate Aim | 15.00% | ~117 |
 | The Brass Boss | 15.00% | ~117 |
@@ -24,7 +25,6 @@
 | Cartographer | 14.00% | ~109 |
 | Honest Mistake | 14.00% | ~109 |
 | Golem Chaser | 14.00% | ~109 |
-| Fast Learner | 14.00% | ~109 |
 | The Family Fortune | 14.00% | ~109 |
 | Treasure Trove | 13.00% | ~102 |
 | Right On Time | 13.00% | ~102 |
@@ -32,9 +32,9 @@
 | Check Your Pulse | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |
+| Good Neighbor | 10.00% | ~78 |
 | Chaincrawler Explorer | 9.00% | ~70 |
 | Family Memories | 9.00% | ~70 |
-| Good Neighbor | 9.00% | ~70 |
 | Sump Explorer | 8.00% | ~63 |
 | Syron for Hope | 8.00% | ~63 |
 | Theater Explorer | 8.00% | ~63 |

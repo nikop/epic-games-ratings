@@ -5,17 +5,17 @@ Rating: 4.35 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 90.00% | ~359 |
-| Luc Piette | 75.00% | ~299 |
-| Angeline Van den Bosch | 73.00% | ~291 |
-| Elizabeth Padget | 69.00% | ~275 |
-| Little Grey Cells | 68.00% | ~271 |
-| The Bracelet | 65.00% | ~259 |
-| The Blackmail | 56.00% | ~223 |
-| Major Felix Hagen | 56.00% | ~223 |
-| Florette Duval | 54.00% | ~215 |
-| Order and Method | 53.00% | ~211 |
-| Fine-toothed Comb | 53.00% | ~211 |
+| It Wasn’t a Burglary | 90.00% | ~360 |
+| Luc Piette | 75.00% | ~300 |
+| Angeline Van den Bosch | 73.00% | ~292 |
+| Elizabeth Padget | 69.00% | ~276 |
+| Little Grey Cells | 68.00% | ~272 |
+| The Bracelet | 65.00% | ~260 |
+| The Blackmail | 56.00% | ~224 |
+| Major Felix Hagen | 56.00% | ~224 |
+| Florette Duval | 54.00% | ~216 |
+| Order and Method | 53.00% | ~212 |
+| Fine-toothed Comb | 53.00% | ~212 |
 | The Altercation | 50.00% | ~200 |
 | Truth from Within | 49.00% | ~196 |
 | The Major | 48.00% | ~192 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 739)
 | Room with a View | 8.00% | ~32 |
 | Work-life Balance | 3.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 229)  
+Progressed: 400 (Ranked 229)  
 Completed: 6 (1.50%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 6 (1.50%) (Ranked 91)
 | 2023-07-11 | 394 | 6 |
 | 2023-07-17 | 396 | 6 |
 | 2023-07-22 | 399 | 6 |
+| 2023-07-23 | 400 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

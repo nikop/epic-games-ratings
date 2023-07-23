@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,393 |
-| Finding Your Footing | 26.00% | ~8,393 |
-| Nomad | 18.00% | ~5,810 |
-| Picking Up Speed | 16.00% | ~5,165 |
-| Welcome Maya | 15.00% | ~4,842 |
-| Sightseer | 11.00% | ~3,551 |
-| Scout | 10.00% | ~3,228 |
-| Amateur | 9.00% | ~2,905 |
-| Enter Paz | 8.00% | ~2,582 |
-| Wanderer | 8.00% | ~2,582 |
+| Rookie | 26.00% | ~8,396 |
+| Finding Your Footing | 26.00% | ~8,396 |
+| Nomad | 18.00% | ~5,812 |
+| Picking Up Speed | 16.00% | ~5,167 |
+| Welcome Maya | 15.00% | ~4,844 |
+| Sightseer | 11.00% | ~3,552 |
+| Scout | 10.00% | ~3,229 |
+| Amateur | 9.00% | ~2,906 |
+| Enter Paz | 8.00% | ~2,583 |
+| Wanderer | 8.00% | ~2,583 |
 | Unlock Maya | 7.00% | ~2,260 |
 | Aviator | 6.00% | ~1,937 |
 | One With The Board | 6.00% | ~1,937 |
-| My Little Friend | 5.00% | ~1,614 |
-| Voyager | 5.00% | ~1,614 |
-| Sandboarder | 4.00% | ~1,291 |
-| Izel Has Arrived | 4.00% | ~1,291 |
-| Junkie | 3.00% | ~968 |
-| Traveler | 3.00% | ~968 |
-| Journeyer | 3.00% | ~968 |
-| Unlock Paz | 3.00% | ~968 |
+| My Little Friend | 5.00% | ~1,615 |
+| Voyager | 5.00% | ~1,615 |
+| Sandboarder | 4.00% | ~1,292 |
+| Izel Has Arrived | 4.00% | ~1,292 |
+| Junkie | 3.00% | ~969 |
+| Traveler | 3.00% | ~969 |
+| Journeyer | 3.00% | ~969 |
+| Unlock Paz | 3.00% | ~969 |
 | Pro | 2.00% | ~646 |
 | Human Flight | 2.00% | ~646 |
 | Here Comes Felipe | 2.00% | ~646 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~32 |
 | Windswept | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,279 (Ranked 95)  
+Progressed: 32,291 (Ranked 95)  
 Completed: 5 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 5 (0.02%) (Ranked 219)
 | 2023-07-20 | 31,892 | 5 |
 | 2023-07-21 | 32,037 | 5 |
 | 2023-07-22 | 32,203 | 5 |
-| 2023-07-23 | 32,279 | 5 |
+| 2023-07-23 | 32,291 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 355 (Ranked 322)  

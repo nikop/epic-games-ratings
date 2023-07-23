@@ -17,9 +17,9 @@
 | Tastes Like Chicken | 6.00% | ~14 |
 | Big Fish | 5.00% | ~11 |
 | Fifth Shard | 5.00% | ~11 |
+| Green Thumb | 4.00% | ~9 |
 | Mushroom Forager | 3.00% | ~7 |
 | Good Stew | 3.00% | ~7 |
-| Green Thumb | 3.00% | ~7 |
 | Avian Veterinarian | 3.00% | ~7 |
 | Bird Butcherer | 3.00% | ~7 |
 | Finished Iron Danger | 3.00% | ~7 |

@@ -7,29 +7,29 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 3.00% | ~106 |
 | Feeling the beat! | 3.00% | ~106 |
+| You can pet the cat! | 3.00% | ~106 |
 | NOW we got a kickass hideout! | 3.00% | ~61 |
-| Cream of the Crop | 2.00% | ~70 |
-| This will cost you big time | 2.00% | ~70 |
-| The Negotiator | 2.00% | ~70 |
-| Headliner | 2.00% | ~70 |
-| Time to pay up! | 2.00% | ~70 |
-| Who's the boss now? | 2.00% | ~70 |
-| Thanks for the free chip, Peppermint! | 2.00% | ~70 |
-| I play my own way! | 2.00% | ~70 |
-| Whoa! There's ANOTHER health bar!? | 2.00% | ~70 |
-| I have to read these things? | 2.00% | ~70 |
-| You got this, Peppermint? | 2.00% | ~70 |
-| You must like calling me in, Chai | 2.00% | ~70 |
-| Z-shielding's got nothing on us! | 2.00% | ~70 |
-| Out in a puff of smoke | 2.00% | ~70 |
-| Perfect Parry | 2.00% | ~70 |
-| Perfecter Parry-er! | 2.00% | ~70 |
-| Uh, they were broken when I got here | 2.00% | ~70 |
-| Kissing the sky! | 2.00% | ~70 |
-| I look cool. But I can look COOLER. | 2.00% | ~70 |
-| Who put gears in there? | 2.00% | ~70 |
-| Alright, that felt AWESOME! | 2.00% | ~70 |
-| You can pet the cat! | 2.00% | ~70 |
+| Cream of the Crop | 2.00% | ~71 |
+| This will cost you big time | 2.00% | ~71 |
+| The Negotiator | 2.00% | ~71 |
+| Headliner | 2.00% | ~71 |
+| Time to pay up! | 2.00% | ~71 |
+| Who's the boss now? | 2.00% | ~71 |
+| Thanks for the free chip, Peppermint! | 2.00% | ~71 |
+| I play my own way! | 2.00% | ~71 |
+| Whoa! There's ANOTHER health bar!? | 2.00% | ~71 |
+| I have to read these things? | 2.00% | ~71 |
+| You got this, Peppermint? | 2.00% | ~71 |
+| You must like calling me in, Chai | 2.00% | ~71 |
+| Z-shielding's got nothing on us! | 2.00% | ~71 |
+| Out in a puff of smoke | 2.00% | ~71 |
+| Perfect Parry | 2.00% | ~71 |
+| Perfecter Parry-er! | 2.00% | ~71 |
+| Uh, they were broken when I got here | 2.00% | ~71 |
+| Kissing the sky! | 2.00% | ~71 |
+| I look cool. But I can look COOLER. | 2.00% | ~71 |
+| Who put gears in there? | 2.00% | ~71 |
+| Alright, that felt AWESOME! | 2.00% | ~71 |
 | Well that was a rush! | 1.00% | ~35 |
 | Beat-hit mania | 1.00% | ~35 |
 | That's a lot of junk metal… | 1.00% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,525 (Ranked 146)  
+Progressed: 3,528 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
-| 2023-07-23 | 3,525 | 6 |
+| 2023-07-23 | 3,528 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

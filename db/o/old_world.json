@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13037,
+  "EOS_Progressed": 13040,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8347,6 +8347,11 @@
       "Time": "2023-07-23T12:06:17.9646546+00:00",
       "NumProgressed": 13037,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T13:09:10.4228571+00:00",
+      "NumProgressed": 13040,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8708,9 +8713,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -8788,9 +8793,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -8900,9 +8905,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -8988,9 +8993,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -9724,9 +9729,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -10636,9 +10641,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -10725,21 +10730,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13037,
+      "Progressed": 13040,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13037,
+      "Progressed": 13040,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:06:17.9646541+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:09:10.4228564+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:59:00.2903207+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:06:17.9655406+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:01:51.5151261+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:09:10.4235643+00:00"
 }

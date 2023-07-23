@@ -6,31 +6,32 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.90% | ~117 |
+| The Clergy | 1.00% | ~130 |
 | The Great Mage | 0.60% | ~78 |
+| Explorer | 0.40% | ~52 |
 | Settler | 0.40% | ~52 |
 | Play a Single Player Game | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
 | Able | 0.30% | ~39 |
-| Explorer | 0.30% | ~39 |
+| Architect | 0.30% | ~39 |
 | Intrepid | 0.30% | ~39 |
+| Strong | 0.30% | ~39 |
 | Friendly Family | 0.30% | ~39 |
+| Hanging Gardens | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
-| Architect | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Good | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
+| Magnificent | 0.20% | ~26 |
 | Mason | 0.20% | ~26 |
 | Noble | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
-| Strong | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
-| Hanging Gardens | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Lighthouse | 0.20% | ~26 |
 | Oracle | 0.20% | ~26 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
-| Magnificent | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,037 (Ranked 114)  
+Progressed: 13,040 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,037 | 5 |
+| 2023-07-23 | 13,040 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

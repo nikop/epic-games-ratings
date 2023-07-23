@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-07-23T11:05:46.1823882+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T13:08:48.876026+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -438,7 +443,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FirstBoss",
@@ -500,9 +505,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ReturnShell",
@@ -541,14 +546,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:05:53.0348718+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:08:48.8760255+00:00",
   "LastUpdate_AppInfo": "2023-07-17T08:57:31.0747008+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:57:57.5574759+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:05:53.0349058+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:00:55.5482191+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:08:48.8760395+00:00"
 }

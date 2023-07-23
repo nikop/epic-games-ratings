@@ -16,7 +16,7 @@ Rating: 4.41 (Ranked 672)
 | The Shrink Hates Me | 54.00% | ~1,629 |
 | Use The Bumper, That's What It's For | 51.00% | ~1,539 |
 | First Steps Into Madness | 50.00% | ~1,508 |
-| Colonial Barrels | 48.00% | ~1,448 |
+| Colonial Barrels | 49.00% | ~1,478 |
 | Harper's Hell | 42.00% | ~1,267 |
 | Making a Stand | 40.00% | ~1,207 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,207 |

@@ -20,15 +20,15 @@
 | 15K | 26.00% | ~58 |
 | Grave Digger | 23.00% | ~40 |
 | Drinking Problem | 22.00% | ~50 |
-| Professional Survivor | 20.00% | ~35 |
-| Quick-Draw Pod | 19.00% | ~33 |
+| Professional Survivor | 21.00% | ~37 |
+| Quick-Draw Pod | 20.00% | ~35 |
 | Pork Chop Express | 16.00% | ~36 |
 | Skin Of Your Teeth | 13.00% | ~29 |
 | Carrocketeer | 13.00% | ~29 |
 | Oh My Gourd | 13.00% | ~23 |
 | Getting Started | 12.00% | ~27 |
+| Eggtraordinary | 12.00% | ~27 |
 | This Is My Boomstick | 12.00% | ~21 |
-| Eggtraordinary | 11.00% | ~25 |
 | Summers Here | 11.00% | ~19 |
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |

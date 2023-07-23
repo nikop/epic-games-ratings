@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33883,
+  "EOS_Progressed": 33886,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
@@ -8753,6 +8753,11 @@
       "Time": "2023-07-23T12:05:25.1558263+00:00",
       "NumProgressed": 33883,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-23T13:08:24.7543677+00:00",
+      "NumProgressed": 33886,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8812,7 +8817,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "completionist",
@@ -8844,7 +8849,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "firstItem",
@@ -8852,7 +8857,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26090
+      "UsersEstimate": 26092
     },
     {
       "ID": "roots",
@@ -8860,7 +8865,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "secretItem",
@@ -8875,15 +8880,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33883,
+      "Progressed": 33886,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:05:25.1558254+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:08:24.7543669+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:08.1635586+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:02:06.8027602+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:05:25.1559049+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:04:24.7480098+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:08:24.7544154+00:00"
 }

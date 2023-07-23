@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 2002,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 8.74,
   "EosHistory": [
@@ -4232,9 +4232,9 @@
       "ID": "Jakob",
       "SetID": "b40dflc",
       "Name": "Jakob",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 260
+      "UsersEstimate": 280
     },
     {
       "ID": "Jude",
@@ -4297,8 +4297,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:04:04.5801242+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:07:14.5295843+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.5602679+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:01:04.2351625+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:04:04.5801659+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:03:38.9104032+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:07:14.5296121+00:00"
 }

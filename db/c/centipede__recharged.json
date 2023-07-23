@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15660,
+  "EOS_Progressed": 15664,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7497,6 +7497,11 @@
       "Time": "2023-07-23T12:05:01.7249877+00:00",
       "NumProgressed": 15660,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-23T13:08:04.2620345+00:00",
+      "NumProgressed": 15664,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7508,7 +7513,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "Burning_For_You",
@@ -7516,7 +7521,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "Deadline",
@@ -7524,7 +7529,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -7532,7 +7537,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "Eyes_On_Fire",
@@ -7556,7 +7561,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -7572,7 +7577,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -7580,7 +7585,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6579
     },
     {
       "ID": "Mirrors",
@@ -7604,7 +7609,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7987
+      "UsersEstimate": 7989
     },
     {
       "ID": "Sole_Survivor",
@@ -7612,7 +7617,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5794
+      "UsersEstimate": 5796
     },
     {
       "ID": "Still_Burning",
@@ -7620,7 +7625,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "The_Reaper",
@@ -7635,15 +7640,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15660,
+      "Progressed": 15664,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:05:01.7249871+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:08:04.262034+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.8297422+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:00:27.0474397+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:05:01.7250716+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:03:07.0755314+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:08:04.262076+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 38.00% | ~21 |
-| First Step | 34.00% | ~19 |
+| The 4 Pillars | 38.00% | ~22 |
+| First Step | 34.00% | ~20 |
 | Indebted | 5.00% | ~3 |
 | Capitalism | 5.00% | ~3 |
 | Green Energy | 5.00% | ~3 |
-| Health Care | 4.00% | ~2 |
-| Pathfinder | 4.00% | ~2 |
-| Desert Rat | 4.00% | ~2 |
+| Health Care | 3.00% | ~2 |
+| Pathfinder | 3.00% | ~2 |
+| Desert Rat | 3.00% | ~2 |
 | There's something in those trees | 2.00% | ~1 |
 | Good payer | 2.00% | ~1 |
 | Self-sufficient | 2.00% | ~1 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 340)  
+Progressed: 58 (Ranked 339)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 17 | 0 |
 | 2023-07-21 | 39 | 0 |
 | 2023-07-22 | 50 | 0 |
-| 2023-07-23 | 56 | 0 |
+| 2023-07-23 | 58 | 0 |

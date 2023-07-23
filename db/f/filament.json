@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 197099,
+  "EOS_Progressed": 197101,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -10180,6 +10180,11 @@
       "Time": "2023-07-23T12:03:21.9617822+00:00",
       "NumProgressed": 197099,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-07-23T13:06:37.8291912+00:00",
+      "NumProgressed": 197101,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 29,
@@ -10191,7 +10196,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -10215,7 +10220,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185273
+      "UsersEstimate": 185275
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -10422,7 +10427,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 197099,
+      "Progressed": 197101,
       "Completed": 469
     }
   ],
@@ -10430,8 +10435,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:03:21.9617814+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:06:37.8291903+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.4091464+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:00:15.6786534+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:03:21.9618943+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:02:57.0903243+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:06:37.8292501+00:00"
 }

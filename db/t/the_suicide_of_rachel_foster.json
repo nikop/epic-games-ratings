@@ -2,12 +2,12 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.98,
+  "EOS_Completed_Percentage": 4.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1612,6 +1612,11 @@
       "Time": "2023-07-23T12:02:43.3664514+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-23T13:06:04.4384518+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1623,7 +1628,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1631,7 +1636,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1639,7 +1644,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1655,7 +1660,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_FineEV9",
@@ -1663,7 +1668,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_FineGioco",
@@ -1671,7 +1676,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1679,7 +1684,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1687,7 +1692,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 962
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1695,7 +1700,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1703,22 +1708,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1268,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:02:43.3664512+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:06:04.4384507+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:01:51.4560881+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:02:43.3664872+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:04:15.5884954+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:06:04.4384952+00:00"
 }

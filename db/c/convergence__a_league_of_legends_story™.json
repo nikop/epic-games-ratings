@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 782,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1935,9 +1935,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "MapCompletion1",
@@ -2071,9 +2071,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 117
     },
     {
       "ID": "SpeedRun",
@@ -2143,9 +2143,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2174,8 +2174,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:03:51.7273572+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:07:12.3702954+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:00:51.9212386+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:03:51.7274359+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:03:30.1102701+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:07:12.3703388+00:00"
 }

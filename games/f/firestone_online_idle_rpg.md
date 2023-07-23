@@ -55,12 +55,12 @@ Rating: 4.10 (Ranked 891)
 | Blueprint Upgrades | 5.00% | ~85 |
 | Lock And Load | 5.00% | ~85 |
 | Background Story | 4.00% | ~68 |
+| Legendary | 4.00% | ~68 |
 | Sailor | 4.00% | ~68 |
 | The Alchemist | 4.00% | ~68 |
 | Active Member | 3.00% | ~51 |
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
-| Legendary | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
 | Mythic Power | 1.00% | ~17 |
 | Gear Enchanting | 0.90% | ~15 |

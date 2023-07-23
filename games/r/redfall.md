@@ -16,7 +16,7 @@ Rating: 3.51 (Ranked 954)
 | Sucks To Be You | 43.00% | ~742 |
 | Welcome to the Neighborhood | 38.00% | ~656 |
 | Fly Fisher | 36.00% | ~621 |
-| Throw The First Stone | 35.00% | ~604 |
+| Throw The First Stone | 36.00% | ~621 |
 | Enter of Your Own Free Will | 34.00% | ~587 |
 | Heart Attack | 33.00% | ~570 |
 | Skin of Their Teeth | 31.00% | ~535 |

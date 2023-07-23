@@ -2,9 +2,9 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-07-23T11:03:50.5532187+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T13:07:18.4241665+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -314,7 +319,7 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -388,7 +393,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -442,7 +447,7 @@
       "ID": "ACHIEVEMENT_ID_33",
       "SetID": "c504de6",
       "Name": "Pathfinder",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -500,7 +505,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -538,7 +543,7 @@
       "ID": "ACHIEVEMENT_ID_5",
       "SetID": "c504de6",
       "Name": "Desert Rat",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -579,14 +584,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:04:09.1418821+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:07:18.4241661+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:00:09.2393444+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:04:09.1419338+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:02:50.2544819+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:07:18.4241957+00:00"
 }

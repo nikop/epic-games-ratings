@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3493,
+  "EOS_Progressed": 3494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -818,6 +818,11 @@
       "Time": "2023-07-23T04:02:23.0433571+00:00",
       "NumProgressed": 3493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T13:06:31.8272253+00:00",
+      "NumProgressed": 3494,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -869,7 +874,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -885,7 +890,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -933,7 +938,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1036,7 +1041,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3493,
+      "Progressed": 3494,
       "Completed": 0
     }
   ],
@@ -1044,8 +1049,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:03:15.3520775+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:06:31.8272248+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:23.6569602+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:00:53.2516672+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:03:15.3521156+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:03:31.5575285+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:06:31.827246+00:00"
 }

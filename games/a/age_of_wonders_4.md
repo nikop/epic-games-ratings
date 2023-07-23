@@ -10,6 +10,7 @@ Rating: 4.63 (Ranked 331)
 | Realm Estate | 4.00% | ~201 |
 | A Wonderful Discovery | 4.00% | ~201 |
 | Walls Cannot Stop Us | 4.00% | ~201 |
+| Bone Peddler | 4.00% | ~201 |
 | From Friends to Family | 4.00% | ~201 |
 | Stronger Together | 4.00% | ~201 |
 | Magical Synergy | 4.00% | ~201 |
@@ -20,7 +21,6 @@ Rating: 4.63 (Ranked 331)
 | Mighty Hoard | 4.00% | ~201 |
 | There Can Only Be One! | 3.00% | ~151 |
 | Full Ascension | 3.00% | ~151 |
-| Bone Peddler | 3.00% | ~151 |
 | In a Liege of Your Own | 3.00% | ~151 |
 | Fiery Friend | 3.00% | ~151 |
 | Against the Odds | 3.00% | ~151 |

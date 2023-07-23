@@ -548,9 +548,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "BearSword",
@@ -572,25 +572,25 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "BroomPistol",
@@ -604,9 +604,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DevilRope",
@@ -652,9 +652,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "HastrmanAcorn",
@@ -716,9 +716,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PriestPistol",
@@ -756,9 +756,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PrincessThrone",
@@ -836,9 +836,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "SwordMoneyBag",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:06:47.5178649+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:09:35.0722877+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:57:31.0829866+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:06:47.5179648+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:00:37.0573724+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:09:35.0723184+00:00"
 }

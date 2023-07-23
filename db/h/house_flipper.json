@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1752,9 +1752,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 20047,
+  "EOS_Progressed": 20050,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6232,6 +6232,11 @@
       "Time": "2023-07-23T12:08:14.1880235+00:00",
       "NumProgressed": 20047,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-23T13:10:41.6564406+00:00",
+      "NumProgressed": 20050,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6275,7 +6280,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3008
     },
     {
       "ID": "EstateAgent",
@@ -6291,7 +6296,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18844
+      "UsersEstimate": 18847
     },
     {
       "ID": "GameOver",
@@ -6355,7 +6360,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3809
+      "UsersEstimate": 3810
     },
     {
       "ID": "Negotiator",
@@ -6379,7 +6384,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3809
+      "UsersEstimate": 3810
     },
     {
       "ID": "SeniorEstateAgent",
@@ -6395,7 +6400,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "Strongman",
@@ -6403,7 +6408,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "VeronicaLiptson",
@@ -6426,15 +6431,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20047,
+      "Progressed": 20050,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-21T22:01:01.5150157+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:08:14.1880232+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:10:41.65644+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-23T12:01:05.0067094+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:08:14.1880761+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:03:39.5454498+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:10:41.6564745+00:00"
 }

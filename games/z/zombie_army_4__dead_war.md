@@ -7,45 +7,45 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,753 |
-| Say goodbye, creep! | 66.00% | ~28,459 |
-| Blood splattered | 65.00% | ~28,028 |
-| Choo choo! | 62.00% | ~26,734 |
-| Groovy | 61.00% | ~26,303 |
-| Cleanup on aisle 4! | 57.00% | ~24,578 |
+| Say goodbye, creep! | 66.00% | ~28,460 |
+| Blood splattered | 65.00% | ~28,029 |
+| Choo choo! | 62.00% | ~26,735 |
+| Groovy | 61.00% | ~26,304 |
+| Cleanup on aisle 4! | 57.00% | ~24,579 |
 | Gold | 50.00% | ~21,560 |
 | The boat can leave now...tell the crew | 49.00% | ~21,129 |
-| Stand back boy! | 47.00% | ~20,266 |
-| Give me something to shoot! | 46.00% | ~19,835 |
+| Stand back boy! | 47.00% | ~20,267 |
+| Give me something to shoot! | 46.00% | ~19,836 |
 | Weird science | 44.00% | ~18,973 |
 | Chain reaction | 44.00% | ~18,973 |
-| What did you say, Blain? | 42.00% | ~18,110 |
-| Look mummy! A shark! | 41.00% | ~17,679 |
+| What did you say, Blain? | 42.00% | ~18,111 |
+| Look mummy! A shark! | 41.00% | ~17,680 |
 | In the dark dark woods... | 39.00% | ~16,817 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,386 |
-| Double tap | 37.00% | ~15,954 |
-| All of this has happened before… | 36.00% | ~15,523 |
-| Cranial blowout! | 36.00% | ~15,523 |
-| Zombie killin' machine | 36.00% | ~15,523 |
-| Every bullet counts | 36.00% | ~15,523 |
+| Double tap | 37.00% | ~15,955 |
+| All of this has happened before… | 36.00% | ~15,524 |
+| Cranial blowout! | 36.00% | ~15,524 |
+| Zombie killin' machine | 36.00% | ~15,524 |
+| Every bullet counts | 36.00% | ~15,524 |
 | All roads lead to Rome | 34.00% | ~14,661 |
 | You've got red on you | 34.00% | ~14,661 |
-| You're all going to die down here | 32.00% | ~13,798 |
-| He did Nazi that coming | 31.00% | ~13,367 |
-| Kill of the week | 31.00% | ~13,367 |
+| You're all going to die down here | 32.00% | ~13,799 |
+| He did Nazi that coming | 31.00% | ~13,368 |
+| Kill of the week | 31.00% | ~13,368 |
 | I never liked them anyway | 30.00% | ~12,936 |
 | Is it over? | 28.00% | ~12,074 |
-| Got your back | 27.00% | ~11,642 |
+| Got your back | 27.00% | ~11,643 |
 | Gore soaked | 24.00% | ~10,349 |
-| Shock therapy | 22.00% | ~9,486 |
-| Leave the limbs you've lost | 22.00% | ~9,486 |
+| Shock therapy | 22.00% | ~9,487 |
+| Leave the limbs you've lost | 22.00% | ~9,487 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,762 |
 | Take them down screaming | 18.00% | ~7,762 |
-| Bad Blood | 17.00% | ~7,330 |
-| Weapons expert | 17.00% | ~7,330 |
+| Bad Blood | 17.00% | ~7,331 |
+| Weapons expert | 17.00% | ~7,331 |
 | The bigger they are... | 15.00% | ~6,468 |
 | I'm going deeper underground | 14.00% | ~6,037 |
 | Well equipped | 13.00% | ~5,606 |
-| Into the deep | 12.00% | ~5,174 |
+| Into the deep | 12.00% | ~5,175 |
 | Damnedbusters | 9.00% | ~3,881 |
 | I can do anything I want. I got guns | 8.00% | ~3,450 |
 | Send me an angel | 8.00% | ~3,450 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~431 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,120 (Ranked 89)  
+Progressed: 43,121 (Ranked 89)  
 Completed: 25 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 25 (0.06%) (Ranked 199)
 | 2023-07-20 | 43,098 | 25 |
 | 2023-07-21 | 43,105 | 25 |
 | 2023-07-22 | 43,115 | 25 |
-| 2023-07-23 | 43,120 | 25 |
+| 2023-07-23 | 43,121 | 25 |
 ## Awards
 Max (Great Boss Battles): 804  (Ranked 152)  
 Sum: 2,448 (Ranked 174)  

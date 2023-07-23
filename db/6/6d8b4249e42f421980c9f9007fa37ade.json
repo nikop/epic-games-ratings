@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-07-23T12:06:15.4446757+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T13:09:08.0816716+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -489,7 +494,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -513,7 +518,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -545,7 +550,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 65
     },
@@ -649,7 +654,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -689,7 +694,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -721,7 +726,7 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -753,7 +758,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -770,14 +775,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:06:15.4446751+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:09:08.0816715+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:59.0488518+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:57:43.3225578+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:06:15.444717+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:00:47.0334387+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:09:08.0817023+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 562,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.89,
+  "EOS_Completed_Percentage": 10.85,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1731,6 +1731,11 @@
       "Time": "2023-07-23T10:06:45.0507157+00:00",
       "NumProgressed": 560,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-07-23T13:09:59.0922207+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 30,
@@ -1742,7 +1747,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 540
     },
     {
       "ID": "LEVEL_002",
@@ -1750,7 +1755,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "LEVEL_003",
@@ -1758,7 +1763,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 388
     },
     {
       "ID": "LEVEL_004",
@@ -1766,7 +1771,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "LEVEL_005",
@@ -1774,7 +1779,7 @@
       "Name": "Small village",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "LEVEL_006",
@@ -1790,7 +1795,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "LEVEL_008",
@@ -1798,7 +1803,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_009",
@@ -1806,7 +1811,7 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_010",
@@ -1822,7 +1827,7 @@
       "Name": "This island of mine",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_012",
@@ -1830,7 +1835,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_013",
@@ -1846,7 +1851,7 @@
       "Name": "Cross-country",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_015",
@@ -1862,7 +1867,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LEVEL_017",
@@ -1886,7 +1891,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_020",
@@ -1894,7 +1899,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_021",
@@ -1918,7 +1923,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_024",
@@ -1926,7 +1931,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_025",
@@ -1934,7 +1939,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_026",
@@ -1942,7 +1947,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_027",
@@ -1981,14 +1986,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 562,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-23T12:07:15.0588327+00:00",
+  "LastChanged_Achievements": "2023-07-23T13:09:59.0922199+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:57:53.3350992+00:00",
-  "LastUpdate_Achievements": "2023-07-23T12:07:15.058881+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:00:53.2521348+00:00",
+  "LastUpdate_Achievements": "2023-07-23T13:09:59.0922448+00:00"
 }
