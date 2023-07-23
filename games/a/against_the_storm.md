@@ -16,30 +16,30 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~479 |
 | Coral Forest | 3.00% | ~479 |
 | A Real Challenge | 3.00% | ~479 |
-| Serving Ale | 2.00% | ~319 |
-| Homesick | 2.00% | ~319 |
-| Against All Odds | 2.00% | ~319 |
-| Ruined Armory | 2.00% | ~319 |
-| Bandit Camp | 2.00% | ~319 |
-| Barren Lands | 2.00% | ~319 |
-| Ancient Battleground | 2.00% | ~319 |
-| Sparkdew Crystals | 2.00% | ~319 |
-| Dangerous Lands | 2.00% | ~319 |
-| Forbidden Lands | 2.00% | ~319 |
-| Haunted Forest | 2.00% | ~319 |
-| Levitating Monument | 2.00% | ~319 |
-| Flooded Mines | 2.00% | ~319 |
-| Monastery of the Holy Flame | 2.00% | ~319 |
-| Royal Outpost | 2.00% | ~319 |
-| Statue of the Forefathers | 2.00% | ~319 |
-| Forsaken Gods Temple | 2.00% | ~319 |
-| Corrosive Torrent | 2.00% | ~319 |
-| Watchtower | 2.00% | ~319 |
-| Cursed Lands | 2.00% | ~319 |
-| Like a Machine | 2.00% | ~319 |
-| Trade Baron | 2.00% | ~319 |
-| Defying the Crown | 2.00% | ~319 |
-| Into the Forest | 2.00% | ~319 |
+| Serving Ale | 2.00% | ~320 |
+| Homesick | 2.00% | ~320 |
+| Against All Odds | 2.00% | ~320 |
+| Ruined Armory | 2.00% | ~320 |
+| Bandit Camp | 2.00% | ~320 |
+| Barren Lands | 2.00% | ~320 |
+| Ancient Battleground | 2.00% | ~320 |
+| Sparkdew Crystals | 2.00% | ~320 |
+| Dangerous Lands | 2.00% | ~320 |
+| Forbidden Lands | 2.00% | ~320 |
+| Haunted Forest | 2.00% | ~320 |
+| Levitating Monument | 2.00% | ~320 |
+| Flooded Mines | 2.00% | ~320 |
+| Monastery of the Holy Flame | 2.00% | ~320 |
+| Royal Outpost | 2.00% | ~320 |
+| Statue of the Forefathers | 2.00% | ~320 |
+| Forsaken Gods Temple | 2.00% | ~320 |
+| Corrosive Torrent | 2.00% | ~320 |
+| Watchtower | 2.00% | ~320 |
+| Cursed Lands | 2.00% | ~320 |
+| Like a Machine | 2.00% | ~320 |
+| Trade Baron | 2.00% | ~320 |
+| Defying the Crown | 2.00% | ~320 |
+| Into the Forest | 2.00% | ~320 |
 | Refinery | 1.00% | ~160 |
 | Fishmen Ritual Site | 1.00% | ~160 |
 | Efficient Explorer | 0.90% | ~144 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,974 (Ranked 107)  
+Progressed: 15,975 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 40 (0.25%) (Ranked 158)
 | 2023-07-20 | 15,923 | 40 |
 | 2023-07-21 | 15,947 | 40 |
 | 2023-07-22 | 15,968 | 40 |
-| 2023-07-23 | 15,974 | 40 |
+| 2023-07-23 | 15,975 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 204)  
 Sum: 3,075 (Ranked 157)  

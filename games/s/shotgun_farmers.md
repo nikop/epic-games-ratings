@@ -26,8 +26,8 @@
 | Skin Of Your Teeth | 13.00% | ~29 |
 | Carrocketeer | 13.00% | ~29 |
 | Oh My Gourd | 13.00% | ~23 |
+| Getting Started | 12.00% | ~27 |
 | This Is My Boomstick | 12.00% | ~21 |
-| Getting Started | 11.00% | ~25 |
 | Eggtraordinary | 11.00% | ~25 |
 | Summers Here | 11.00% | ~19 |
 | Fresh Pancake | 10.00% | ~22 |

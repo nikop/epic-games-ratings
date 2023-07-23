@@ -16,11 +16,11 @@
 | Delegate Maintenance | 32.00% | ~79 |
 | Proper Walls | 30.00% | ~74 |
 | Destination Destiny | 28.00% | ~69 |
-| Happy Tenants | 25.00% | ~62 |
+| Happy Tenants | 26.00% | ~64 |
+| Smooth Service | 24.00% | ~59 |
 | Your Prestige is Rising | 23.00% | ~57 |
 | Potent Potables | 23.00% | ~57 |
 | Retail Revenue | 23.00% | ~57 |
-| Smooth Service | 23.00% | ~57 |
 | Lux Living | 22.00% | ~54 |
 | People Mover | 21.00% | ~52 |
 | Leveled Up Shops | 21.00% | ~52 |

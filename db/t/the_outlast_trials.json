@@ -3,12 +3,12 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 275,
-  "Ranking_Popularity": 346,
+  "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -1324,11 +1324,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 620,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-07-23T11:57:21.4351248+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 623,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 620,
-  "NumberOfAwardsMax": 89,
+  "NumberOfAwards": 623,
+  "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1341,7 +1347,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1383,7 +1389,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game is Relaxing",
@@ -1404,8 +1410,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-07-22T23:57:11.3268968+00:00",
+  "LastChanged": "2023-07-23T11:57:21.4351246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:07.1429489+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:57:12.0818414+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:07:47.3158837+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:57:21.4351252+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:07:51.1804363+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4728,
+  "EOS_Progressed": 4729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4796,6 +4796,11 @@
       "Time": "2023-07-23T05:03:08.4392324+00:00",
       "NumProgressed": 4728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T12:03:41.9838796+00:00",
+      "NumProgressed": 4729,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4807,15 +4812,15 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2364
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4823,7 +4828,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4847,7 +4852,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4879,7 +4884,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4967,7 +4972,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -5071,7 +5076,7 @@
       "Name": "Fish upon a Star",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -5086,13 +5091,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4728,
+      "Progressed": 4729,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4100,
+      "Progressed": 4101,
       "Completed": 112
     }
   ],
@@ -5100,8 +5105,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:03:33.8912039+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:03:41.9838791+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:01:15.0291444+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:03:33.8912612+00:00"
+  "LastUpdate_Ratings": "2023-07-23T12:01:28.2491553+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:03:41.9839586+00:00"
 }

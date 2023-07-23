@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7964,
+  "EOS_Progressed": 7965,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2023-07-23T09:04:35.5330964+00:00",
       "NumProgressed": 7964,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-23T12:05:44.9356965+00:00",
+      "NumProgressed": 7965,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3646,7 +3651,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3702,7 +3707,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "HeroSlayer",
@@ -3718,7 +3723,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "LeoniasFall_2",
@@ -3750,7 +3755,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3806,22 +3811,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7964,
+      "Progressed": 7965,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:05:38.1286055+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:05:44.9356958+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:00:19.3970339+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:05:38.1286637+00:00"
+  "LastUpdate_Ratings": "2023-07-23T12:00:30.4640393+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:05:44.9357327+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,514 |
-| Self-Improvement | 72.00% | ~1,239 |
+| Unforgiven | 88.00% | ~1,515 |
+| Self-Improvement | 72.00% | ~1,240 |
 | Perky | 65.00% | ~1,119 |
 | Let’s Ride | 60.00% | ~1,033 |
-| Welcome to the Weird West | 57.00% | ~981 |
+| Welcome to the Weird West | 57.00% | ~982 |
 | Dead or Alive | 55.00% | ~947 |
 | Full House | 36.00% | ~620 |
 | Off the Trail | 34.00% | ~585 |
 | Justice Served | 29.00% | ~499 |
 | Chain Reaction | 27.00% | ~465 |
-| Through Their Eyes | 26.00% | ~447 |
+| Through Their Eyes | 26.00% | ~448 |
 | Rain of Death | 25.00% | ~430 |
 | Scholar | 25.00% | ~430 |
 | Dishonored | 24.00% | ~413 |
 | The Great Escape | 23.00% | ~396 |
 | That’s All, Folks | 18.00% | ~310 |
-| Fallen Star | 16.00% | ~275 |
-| For Balance | 16.00% | ~275 |
-| Here Comes Santa Claus | 16.00% | ~275 |
-| Winds of War | 16.00% | ~275 |
+| Fallen Star | 16.00% | ~276 |
+| For Balance | 16.00% | ~276 |
+| Here Comes Santa Claus | 16.00% | ~276 |
+| Winds of War | 16.00% | ~276 |
 | Dog Days | 13.00% | ~224 |
 | Workers' Rights | 13.00% | ~224 |
 | Elusive Prey | 12.00% | ~207 |
 | Out on the Ebb Tide | 12.00% | ~207 |
 | Power Behind the Pulpit | 12.00% | ~207 |
-| Something Wicked This Way Comes… | 12.00% | ~207 |
-| There is Hope | 12.00% | ~207 |
 | Turning the Tables | 12.00% | ~207 |
+| Something Wicked This Way Comes… | 11.00% | ~189 |
+| There is Hope | 11.00% | ~189 |
 | The Philosopher’s Stone | 10.00% | ~172 |
 | Loyalty to the Pack | 9.00% | ~155 |
 | Eternity Can Wait | 9.00% | ~155 |
 | Mystery Machine | 9.00% | ~155 |
 | Gold Digger | 8.00% | ~138 |
 | Knuckle Sandwich | 8.00% | ~138 |
-| Do Not Pass Go… | 7.00% | ~120 |
-| Getting the Gang Back Together | 7.00% | ~120 |
-| Monster Hunter | 7.00% | ~120 |
+| Do Not Pass Go… | 7.00% | ~121 |
+| Getting the Gang Back Together | 7.00% | ~121 |
+| Monster Hunter | 7.00% | ~121 |
 | Healing Old Wounds | 6.00% | ~103 |
 | Who You Gonna Call? | 6.00% | ~103 |
 | This Is Sparta | 5.00% | ~86 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,721 (Ranked 169)  
+Progressed: 1,722 (Ranked 169)  
 Completed: 3 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 3 (0.17%) (Ranked 171)
 | 2023-07-20 | 1,699 | 3 |
 | 2023-07-21 | 1,711 | 3 |
 | 2023-07-22 | 1,718 | 3 |
-| 2023-07-23 | 1,721 | 3 |
+| 2023-07-23 | 1,722 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 476)  
 Sum: 24 (Ranked 481)  

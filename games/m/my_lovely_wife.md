@@ -8,12 +8,12 @@ Number of Ratings: 25  (23.09.2022)
 | ---- | ---------- | ----- |
 | Objective Complete | 97.00% | ~575 |
 | I did it! | 94.00% | ~557 |
+| Learner | 92.00% | ~546 |
 | Economical | 92.00% | ~546 |
-| Learner | 91.00% | ~540 |
 | Devout | 89.00% | ~528 |
 | The Love Martyr | 87.00% | ~516 |
 | Frugal | 85.00% | ~504 |
-| Dilligent | 82.00% | ~486 |
+| Dilligent | 83.00% | ~492 |
 | I... I did it? | 80.00% | ~474 |
 | Adored | 76.00% | ~451 |
 | The Hobbyist | 65.00% | ~385 |

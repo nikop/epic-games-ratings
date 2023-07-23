@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2577,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3348,6 +3348,11 @@
       "Time": "2023-07-23T07:02:13.1027158+00:00",
       "NumProgressed": 2577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T12:02:40.773929+00:00",
+      "NumProgressed": 2579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3511,7 +3516,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3639,7 +3644,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3727,7 +3732,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3735,22 +3740,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2577,
+      "Progressed": 2579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:02:21.5860277+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:02:40.7739285+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:00:25.048294+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:02:21.5861171+00:00"
+  "LastUpdate_Ratings": "2023-07-23T12:00:35.5311952+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:02:40.774008+00:00"
 }

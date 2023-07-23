@@ -5,21 +5,21 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~134,204 |
-| Doubled Pawn | 55.00% | ~106,974 |
-| Check | 54.00% | ~105,029 |
-| Absolute pin | 46.00% | ~89,470 |
-| Promotion | 30.00% | ~58,350 |
-| Checkmate | 29.00% | ~56,405 |
-| O-O | 23.00% | ~44,735 |
-| Spanish Bishop | 20.00% | ~38,900 |
-| Queen Sacrifice | 19.00% | ~36,955 |
-| Stalemate | 18.00% | ~35,010 |
-| O-O-O | 13.00% | ~25,285 |
-| Octopus | 13.00% | ~25,285 |
-| Stranger Danger | 12.00% | ~23,340 |
-| En Passant | 8.00% | ~15,560 |
-| Double Check | 7.00% | ~13,615 |
+| Chop Wood | 69.00% | ~134,211 |
+| Doubled Pawn | 55.00% | ~106,979 |
+| Check | 54.00% | ~105,034 |
+| Absolute pin | 46.00% | ~89,474 |
+| Promotion | 30.00% | ~58,352 |
+| Checkmate | 29.00% | ~56,407 |
+| O-O | 23.00% | ~44,737 |
+| Spanish Bishop | 20.00% | ~38,902 |
+| Queen Sacrifice | 19.00% | ~36,957 |
+| Stalemate | 18.00% | ~35,011 |
+| O-O-O | 13.00% | ~25,286 |
+| Octopus | 13.00% | ~25,286 |
+| Stranger Danger | 12.00% | ~23,341 |
+| En Passant | 8.00% | ~15,561 |
+| Double Check | 7.00% | ~13,616 |
 | Piece Collector | 6.00% | ~11,670 |
 | ELO | 5.00% | ~9,725 |
 | Family Fork | 5.00% | ~9,725 |
@@ -30,21 +30,21 @@ Rating: 4.26 (Ranked 804)
 | ELO ELO ELO | 2.00% | ~3,890 |
 | Learner | 2.00% | ~3,890 |
 | Bobby Time | 1.00% | ~1,945 |
-| Back-rank Mate | 0.90% | ~1,750 |
-| Chess Champion | 0.30% | ~583 |
+| Back-rank Mate | 0.90% | ~1,751 |
+| Chess Champion | 0.30% | ~584 |
 | Alekhine’s gun | 0.20% | ~389 |
-| Boden’s Mate | 0.10% | ~194 |
-| Epaulette Mate | 0.10% | ~194 |
-| Fool’s Mate | 0.10% | ~194 |
-| Problem Solved | 0.10% | ~194 |
-| Problem Solver | 0.10% | ~194 |
-| Scholar’s Mate | 0.10% | ~194 |
-| Tournament Amateur | 0.10% | ~194 |
-| Tournament Champion | 0.10% | ~194 |
-| Tournament Master | 0.10% | ~194 |
-| Tournament Pro | 0.10% | ~194 |
+| Boden’s Mate | 0.10% | ~195 |
+| Epaulette Mate | 0.10% | ~195 |
+| Fool’s Mate | 0.10% | ~195 |
+| Problem Solved | 0.10% | ~195 |
+| Problem Solver | 0.10% | ~195 |
+| Scholar’s Mate | 0.10% | ~195 |
+| Tournament Amateur | 0.10% | ~195 |
+| Tournament Champion | 0.10% | ~195 |
+| Tournament Master | 0.10% | ~195 |
+| Tournament Pro | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,499 (Ranked 57)  
+Progressed: 194,508 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-20 | 193,718 | 2 |
 | 2023-07-21 | 194,028 | 2 |
 | 2023-07-22 | 194,338 | 2 |
-| 2023-07-23 | 194,499 | 2 |
+| 2023-07-23 | 194,508 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -874,9 +874,9 @@
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "nomad",
@@ -979,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:05:09.3987423+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:05:16.3805663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.0074125+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:01:32.7598618+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:05:09.3987859+00:00"
+  "LastUpdate_Ratings": "2023-07-23T12:01:46.7863176+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:05:16.3805948+00:00"
 }

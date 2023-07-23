@@ -4,8 +4,8 @@
   "ProductSlug": "the-last-friend",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
     "PcReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.9751078+00:00",
   "LastChanged": "2023-03-31T05:57:57.9751079+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.2115271+00:00",
-  "LastUpdate_Ratings": "2023-07-23T11:00:31.3381521+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:03:04.0859586+00:00"
+  "LastUpdate_Ratings": "2023-07-23T12:00:41.5721715+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:03:12.6896153+00:00"
 }

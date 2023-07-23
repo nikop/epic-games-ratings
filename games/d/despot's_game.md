@@ -5,14 +5,14 @@ Rating: 4.50 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 84.00% | ~343 |
-| Vanquisher of Robots | 75.00% | ~306 |
-| Party | 48.00% | ~196 |
+| Good start! | 84.00% | ~344 |
+| Vanquisher of Robots | 75.00% | ~307 |
+| Party | 47.00% | ~192 |
 | Impossible Cube | 45.00% | ~184 |
-| Knowledge is Power | 43.00% | ~175 |
-| No Mercy | 42.00% | ~171 |
-| Through the Darkness | 42.00% | ~171 |
-| The Return of a Rat | 41.00% | ~167 |
+| Knowledge is Power | 43.00% | ~176 |
+| No Mercy | 42.00% | ~172 |
+| Through the Darkness | 42.00% | ~172 |
+| The Return of a Rat | 41.00% | ~168 |
 | Fat of the Earth | 35.00% | ~143 |
 | Last Man Standing | 32.00% | ~131 |
 | Great Hero | 27.00% | ~110 |
@@ -24,15 +24,15 @@ Rating: 4.50 (Ranked 554)
 | Frugal | 22.00% | ~90 |
 | Feed a God | 21.00% | ~86 |
 | To the Moon and Back | 20.00% | ~82 |
-| Great Flight | 17.00% | ~69 |
+| Great Flight | 17.00% | ~70 |
 | Holy Vengeance | 16.00% | ~65 |
 | Honorary Cultist | 12.00% | ~49 |
 | Strength and Sorcery | 10.00% | ~41 |
 | Brain and Brawn | 10.00% | ~41 |
 | Omae Wa Mou Shindeiru | 8.00% | ~33 |
-| Experimentalist | 6.00% | ~24 |
-| Wide Selection | 6.00% | ~24 |
-| Soldier | 6.00% | ~24 |
+| Experimentalist | 6.00% | ~25 |
+| Wide Selection | 6.00% | ~25 |
+| Soldier | 6.00% | ~25 |
 | Android Power | 5.00% | ~20 |
 | Shopaholic | 3.00% | ~12 |
 | Zombie Lover | 3.00% | ~12 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 554)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 226)  
-Completed: 1 (0.25%) (Ranked 158)  
+Progressed: 409 (Ranked 226)  
+Completed: 1 (0.24%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 1 (0.25%) (Ranked 158)
 | 2023-07-13 | 406 | 1 |
 | 2023-07-14 | 407 | 1 |
 | 2023-07-22 | 408 | 1 |
+| 2023-07-23 | 409 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

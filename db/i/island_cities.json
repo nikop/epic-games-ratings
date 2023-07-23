@@ -1967,9 +1967,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 173
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_007",
@@ -2112,8 +2112,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:02:43.9507171+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:03:02.9670791+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:58:56.730461+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:02:43.9507634+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:59:08.5053787+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:03:02.9671096+00:00"
 }

@@ -35,9 +35,9 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 1.00% | ~35 |
 | There's such a thing as TOO helpful | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
+| Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~14 |
-| Chip-tuned | 0.60% | ~21 |
 | Check out my moves! | 0.50% | ~18 |
 | I told you I'd be fine, Peppermint! | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |

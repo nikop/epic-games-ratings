@@ -7,12 +7,12 @@
 | Barf Bag | 100.00% | ~4 |
 | It's a start | 100.00% | ~4 |
 | Egg Hunt | 50.00% | ~2 |
+| Over Easy | 25.00% | ~1 |
 | Punctual Porcupine | 25.00% | ~1 |
 | Artful Dodger | 0.00% | ~0 |
 | Beyond the Hills | 0.00% | ~0 |
 | Commitment | 0.00% | ~0 |
 | No Bones About it | 0.00% | ~0 |
-| Over Easy | 0.00% | ~0 |
 | Punish Proventriculus | 0.00% | ~0 |
 | Rapid Reincarnation | 0.00% | ~0 |
 | Saw Speedrun | 0.00% | ~0 |

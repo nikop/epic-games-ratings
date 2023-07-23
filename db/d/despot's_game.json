@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,11 +35,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -325,6 +325,11 @@
       "Time": "2023-07-22T02:03:25.1382645+00:00",
       "NumProgressed": 408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T12:03:25.7413681+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -360,7 +365,7 @@
       "Name": "Experimentalist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "collect-discounted-items1",
@@ -384,15 +389,15 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "different-items2",
@@ -424,7 +429,7 @@
       "Name": "Great Flight",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "finished-quest-monster",
@@ -456,7 +461,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "finished-quest-reaper",
@@ -472,7 +477,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "finished-quest-secret",
@@ -528,7 +533,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "unlock-mutations",
@@ -552,7 +557,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "win-first-level",
@@ -560,7 +565,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "win-koth-fights1",
@@ -576,7 +581,7 @@
       "Name": "Soldier",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "win-koth-fights3",
@@ -592,7 +597,7 @@
       "Name": "Through the Darkness",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "win-with-3-cultists",
@@ -615,7 +620,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 1
     }
   ],
@@ -623,8 +628,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:03:17.1500682+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:03:25.7413678+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:59:46.4046006+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:03:17.1501231+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:59:59.2119467+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:03:25.7414114+00:00"
 }

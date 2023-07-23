@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-07-23T11:05:10.0138924+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T12:05:17.0261101+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1496,7 +1501,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -1520,7 +1525,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1528,7 +1533,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1544,7 +1549,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -1576,7 +1581,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -1656,7 +1661,7 @@
       "Name": "Monster Hunter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -1752,15 +1757,15 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
       "SetID": "8j30i9k",
       "Name": "Something Wicked This Way Comes\u2026",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -1774,9 +1779,9 @@
       "ID": "ACH_THERE_IS_HOPE",
       "SetID": "8j30i9k",
       "Name": "There is Hope",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -1816,7 +1821,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1832,7 +1837,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1840,7 +1845,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1864,7 +1869,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1879,15 +1884,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-23T11:05:10.0138918+00:00",
+  "LastChanged_Achievements": "2023-07-23T12:05:17.0261097+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:59:28.9656449+00:00",
-  "LastUpdate_Achievements": "2023-07-23T11:05:10.0139843+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:59:39.4329727+00:00",
+  "LastUpdate_Achievements": "2023-07-23T12:05:17.0261746+00:00"
 }

@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~133 |
 | Capitalist Camaraderie | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,085 (Ranked 61)  
+Progressed: 133,086 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-20 | 132,926 | 122 |
 | 2023-07-21 | 132,985 | 122 |
 | 2023-07-22 | 133,052 | 122 |
-| 2023-07-23 | 133,085 | 122 |
+| 2023-07-23 | 133,086 | 122 |
 ## Awards
 Max (Great for Beginners): 4,670  (Ranked 69)  
 Sum: 26,966 (Ranked 46)  
