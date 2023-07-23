@@ -391,6 +391,7 @@
 | [The Gardener and the Wild Vines](../games/t/the_gardener_and_the_wild_vines.md) | 22 | 1,000 |
 | [Workshop Simulator](../games/e/eb3087d303e243ff92b3dd0ee3b3fb3f.md) | 22 | 1,000 |
 | [Absolute Tactics](../games/a/absolute_tactics.md) | 21 | 1,000 |
+| [Butchers Don't Surf!](../games/b/butchers_don't_surf!.md) | 21 | 1,000 |
 | [Clash - Artifacts of Chaos](../games/c/clash_-_artifacts_of_chaos.md) | 21 | 1,000 |
 | [Outliver: Tribulation](../games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 21 | 1,000 |
 | [Overloop](../games/o/overloop.md) | 21 | 1,000 |
