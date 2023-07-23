@@ -6,53 +6,53 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,424 |
-| Let There Be Light | 28.00% | ~16,339 |
-| Float Like a Butterfly | 27.00% | ~15,756 |
-| Nordic Walking | 22.00% | ~12,838 |
-| Bright Falls' Finest | 21.00% | ~12,255 |
-| Under a Thin Layer of Skin | 18.00% | ~10,504 |
-| Park Ranger | 15.00% | ~8,753 |
-| Paging Mr. Wake | 15.00% | ~8,753 |
-| Back! Back, I Say! | 14.00% | ~8,170 |
-| Finders Keepers | 14.00% | ~8,170 |
-| Sound and Fury | 13.00% | ~7,586 |
-| Missed by a Mile | 13.00% | ~7,586 |
-| Damn Good Cup of Coffee | 13.00% | ~7,586 |
-| Wheels Within Wheels | 12.00% | ~7,003 |
-| They're Heeeeeere! | 12.00% | ~7,003 |
-| The Six-Gun Scribe | 12.00% | ~7,003 |
-| Heavy Metal | 11.00% | ~6,419 |
-| Iron Horse | 11.00% | ~6,419 |
-| Collateral Carnage | 11.00% | ~6,419 |
-| Come One, Come All | 11.00% | ~6,419 |
+| Follow the Light | 35.00% | ~20,428 |
+| Let There Be Light | 28.00% | ~16,342 |
+| Float Like a Butterfly | 27.00% | ~15,759 |
+| Nordic Walking | 22.00% | ~12,840 |
+| Bright Falls' Finest | 21.00% | ~12,257 |
+| Under a Thin Layer of Skin | 18.00% | ~10,506 |
+| Park Ranger | 15.00% | ~8,755 |
+| Paging Mr. Wake | 15.00% | ~8,755 |
+| Back! Back, I Say! | 14.00% | ~8,171 |
+| Finders Keepers | 14.00% | ~8,171 |
+| Sound and Fury | 13.00% | ~7,587 |
+| Missed by a Mile | 13.00% | ~7,587 |
+| Damn Good Cup of Coffee | 13.00% | ~7,587 |
+| Wheels Within Wheels | 12.00% | ~7,004 |
+| They're Heeeeeere! | 12.00% | ~7,004 |
+| The Six-Gun Scribe | 12.00% | ~7,004 |
+| Heavy Metal | 11.00% | ~6,420 |
+| Iron Horse | 11.00% | ~6,420 |
+| Collateral Carnage | 11.00% | ~6,420 |
+| Come One, Come All | 11.00% | ~6,420 |
 | Perchance to Dream | 10.00% | ~5,836 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,836 |
 | Thunder and Lightning | 10.00% | ~5,836 |
-| Gatekeeper | 9.00% | ~5,252 |
-| The Lady of the Light | 9.00% | ~5,252 |
-| Two For the Price of One | 9.00% | ~5,252 |
-| Energized! | 9.00% | ~5,252 |
-| What Light Through Yonder Window | 8.00% | ~4,668 |
-| Right of Way | 8.00% | ~4,668 |
-| A Friend in Need | 8.00% | ~1,746 |
-| Tornado Wrangler | 7.00% | ~4,085 |
-| Departure | 6.00% | ~3,501 |
-| A Friend Indeed | 6.00% | ~1,309 |
+| Gatekeeper | 9.00% | ~5,253 |
+| The Lady of the Light | 9.00% | ~5,253 |
+| Two For the Price of One | 9.00% | ~5,253 |
+| Energized! | 9.00% | ~5,253 |
+| What Light Through Yonder Window | 8.00% | ~4,669 |
+| Right of Way | 8.00% | ~4,669 |
+| A Friend in Need | 8.00% | ~1,747 |
+| Tornado Wrangler | 7.00% | ~4,086 |
+| Departure | 6.00% | ~3,502 |
+| A Friend Indeed | 6.00% | ~1,310 |
 | Drink 'Em Both Up | 5.00% | ~2,918 |
 | Hardboiled Writer | 5.00% | ~2,918 |
-| Ding! | 5.00% | ~1,091 |
-| Boob Tube | 4.00% | ~2,334 |
-| Children of the Elder God | 4.00% | ~2,334 |
-| If It Flies, It Burns | 4.00% | ~2,334 |
-| KBF-FM | 4.00% | ~2,334 |
+| Ding! | 5.00% | ~1,092 |
+| Boob Tube | 4.00% | ~2,335 |
+| Children of the Elder God | 4.00% | ~2,335 |
+| If It Flies, It Burns | 4.00% | ~2,335 |
+| KBF-FM | 4.00% | ~2,335 |
 | Kill Your Darlings | 3.00% | ~655 |
 | Heartbreaker | 3.00% | ~655 |
 | Medical Opinions | 2.00% | ~1,167 |
 | Taken Season | 2.00% | ~1,167 |
 | Carny | 2.00% | ~1,167 |
 | An Idyllic Small Town | 2.00% | ~1,167 |
-| Iron Will | 2.00% | ~436 |
+| Iron Will | 2.00% | ~437 |
 | Couch Potato | 1.00% | ~584 |
 | Go Gentle Into That Good Light | 1.00% | ~218 |
 | Words Will Never Harm You | 0.60% | ~131 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,355 (Ranked 82)  
+Progressed: 58,365 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 58 (0.10%) (Ranked 187)
 | 2023-07-20 | 57,627 | 58 |
 | 2023-07-21 | 57,875 | 58 |
 | 2023-07-22 | 58,172 | 58 |
-| 2023-07-23 | 58,355 | 58 |
+| 2023-07-23 | 58,365 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

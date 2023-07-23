@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -401,9 +401,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CollectCurses",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:06:00.5676613+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:04:38.4459504+00:00",
   "LastUpdate_AppInfo": "2023-07-17T08:57:31.0747008+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:57:55.1594165+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:06:00.5676749+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:57:31.4003254+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:04:38.4459661+00:00"
 }

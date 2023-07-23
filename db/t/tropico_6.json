@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4236,
+  "EOS_Progressed": 4238,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6575,6 +6575,11 @@
       "Time": "2023-07-23T17:06:45.1734765+00:00",
       "NumProgressed": 4236,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-23T18:05:10.2701674+00:00",
+      "NumProgressed": 4238,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6682,7 +6687,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6722,7 +6727,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -6738,7 +6743,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -6746,7 +6751,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3221
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6842,7 +6847,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6858,7 +6863,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6872,9 +6877,9 @@
       "ID": "ACH_WATCHTHEWORLDBURN",
       "SetID": "1p8ab95",
       "Name": "Watch The World Burn",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -6905,15 +6910,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4236,
+      "Progressed": 4238,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:06:45.173476+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:05:10.2701669+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:02:04.6356517+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:06:45.1735268+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:26.3576912+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:05:10.2702331+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1043,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1753,6 +1753,11 @@
       "Time": "2023-07-23T16:03:32.0585124+00:00",
       "NumProgressed": 1043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T18:03:05.2344919+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1812,7 +1817,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -1820,7 +1825,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "EXPERT_1",
@@ -1924,7 +1929,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PACIFIST",
@@ -1940,7 +1945,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1948,7 +1953,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -2012,7 +2017,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TRAVELER_1",
@@ -2051,15 +2056,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1043,
+      "Progressed": 1044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:03:39.5319043+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:03:05.2344897+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:01:56.0124767+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:03:39.5319315+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:20.1335699+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:03:05.2345306+00:00"
 }

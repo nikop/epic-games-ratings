@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14082,
+  "EOS_Progressed": 14083,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -6659,6 +6659,11 @@
       "Time": "2023-07-23T16:01:04.3401533+00:00",
       "NumProgressed": 14082,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-23T18:00:50.6702469+00:00",
+      "NumProgressed": 14083,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6726,7 +6731,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "tpote_achievement_17",
@@ -6782,7 +6787,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "tpote_achievement_23",
@@ -6814,7 +6819,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "tpote_achievement_27",
@@ -6997,15 +7002,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14082,
+      "Progressed": 14083,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:02:39.9195711+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:00:50.6702464+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:01:43.6837213+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:02:39.9196296+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:12.2941173+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:00:50.6703236+00:00"
 }

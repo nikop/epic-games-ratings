@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~306 |
-| Buckle up | 59.00% | ~296 |
-| Quick charge | 59.00% | ~296 |
-| Now you know | 53.00% | ~266 |
-| Hands up! | 52.00% | ~261 |
-| Short circuit | 52.00% | ~261 |
+| I can do a thing or two | 60.00% | ~302 |
+| Buckle up | 59.00% | ~297 |
+| Quick charge | 59.00% | ~297 |
+| Hands up! | 52.00% | ~262 |
+| Now you know | 52.00% | ~262 |
+| Short circuit | 52.00% | ~262 |
 | Curious | 41.00% | ~206 |
 | Everybody lies | 35.00% | ~176 |
-| Trick or Treat? | 24.00% | ~120 |
-| There is another way | 23.00% | ~115 |
-| Sysadmin | 21.00% | ~105 |
-| Annoying | 20.00% | ~100 |
-| Every little helps | 20.00% | ~100 |
-| Hacker | 20.00% | ~100 |
-| He is just a child | 20.00% | ~100 |
-| The Walking Robot Among Us | 20.00% | ~100 |
-| Uncertain | 18.00% | ~90 |
-| Ace | 17.00% | ~85 |
-| Concrete painting | 17.00% | ~85 |
-| Goody | 17.00% | ~85 |
-| Please oh pleeease! | 17.00% | ~85 |
+| Trick or Treat? | 23.00% | ~116 |
+| There is another way | 23.00% | ~116 |
+| Sysadmin | 21.00% | ~106 |
+| Annoying | 20.00% | ~101 |
+| Every little helps | 20.00% | ~101 |
+| Hacker | 20.00% | ~101 |
+| The Walking Robot Among Us | 20.00% | ~101 |
+| He is just a child | 19.00% | ~96 |
+| Uncertain | 18.00% | ~91 |
+| Ace | 17.00% | ~86 |
+| Concrete painting | 17.00% | ~86 |
+| Goody | 17.00% | ~86 |
+| Please oh pleeease! | 17.00% | ~86 |
 | Hipster | 16.00% | ~80 |
 | Not what it seems | 16.00% | ~80 |
 | Found it! | 15.00% | ~75 |
@@ -37,8 +37,8 @@
 | Lucky dog | 4.00% | ~20 |
 | Silent | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 216)  
-Completed: 15 (2.99%) (Ranked 61)  
+Progressed: 503 (Ranked 216)  
+Completed: 15 (2.98%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,7 +100,7 @@ Completed: 15 (2.99%) (Ranked 61)
 | 2023-07-20 | 498 | 15 |
 | 2023-07-21 | 499 | 15 |
 | 2023-07-22 | 500 | 15 |
-| 2023-07-23 | 502 | 15 |
+| 2023-07-23 | 503 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1144,
+  "EOS_Progressed": 1145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1600,6 +1600,11 @@
       "Time": "2023-07-23T14:03:06.0420551+00:00",
       "NumProgressed": 1144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T18:03:02.4050737+00:00",
+      "NumProgressed": 1145,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1609,9 +1614,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 240
     },
     {
       "ID": "Auditor",
@@ -1641,9 +1646,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 240
     },
     {
       "ID": "Commandos",
@@ -1739,7 +1744,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "High_noon",
@@ -1763,7 +1768,7 @@
       "Name": "Spice It Up",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "KillAllM2",
@@ -1850,15 +1855,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1144,
+      "Progressed": 1145,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:03:35.3575689+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:03:02.4050731+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:00:40.499208+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:03:35.3575914+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:59:27.48202+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:03:02.4051031+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2534,9 +2534,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15981,
+  "EOS_Progressed": 15982,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7759,6 +7759,11 @@
       "Time": "2023-07-23T17:04:18.6410552+00:00",
       "NumProgressed": 15981,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-23T18:03:25.9010282+00:00",
+      "NumProgressed": 15982,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7848,9 +7853,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 479
     },
     {
       "ID": "WinFirstGame",
@@ -7904,9 +7909,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 479
     },
     {
       "ID": "WinNearCrystals",
@@ -8169,15 +8174,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15981,
+      "Progressed": 15982,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-22T16:01:42.4352681+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:04:18.6410548+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:03:25.9010274+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:01:48.7499717+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:04:18.6411411+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:15.9497575+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:03:25.9011031+00:00"
 }

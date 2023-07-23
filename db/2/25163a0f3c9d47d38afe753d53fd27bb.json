@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
-  "EOS_Completed": 61,
-  "EOS_NewPlayers": 56,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.8,
+  "EOS_Progressed": 566,
+  "EOS_Completed": 62,
+  "EOS_NewPlayers": 57,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10.95,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1751,6 +1751,11 @@
       "Time": "2023-07-23T17:07:22.9076543+00:00",
       "NumProgressed": 565,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-07-23T18:05:36.0683219+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 30,
@@ -1762,7 +1767,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "LEVEL_002",
@@ -1778,7 +1783,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "LEVEL_004",
@@ -1786,7 +1791,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "LEVEL_005",
@@ -1850,7 +1855,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_013",
@@ -1866,7 +1871,7 @@
       "Name": "Cross-country",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_015",
@@ -1890,7 +1895,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_018",
@@ -1930,7 +1935,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_023",
@@ -1938,7 +1943,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_024",
@@ -1960,9 +1965,9 @@
       "ID": "LEVEL_026",
       "SetID": "212bg48",
       "Name": "Hiking, camping, picnics... you choose",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_027",
@@ -2001,14 +2006,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 565,
-      "Completed": 61
+      "Progressed": 566,
+      "Completed": 62
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:07:22.9076539+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:05:36.0683211+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:57:51.2650153+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:07:22.9076769+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:57:29.0305694+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:05:36.0683558+00:00"
 }

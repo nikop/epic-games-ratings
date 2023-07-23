@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6849,
+  "EOS_Progressed": 6850,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2878,6 +2878,11 @@
       "Time": "2023-07-23T17:02:38.9031754+00:00",
       "NumProgressed": 6849,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-23T18:00:49.8667537+00:00",
+      "NumProgressed": 6850,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2889,7 +2894,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -2929,7 +2934,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -2961,7 +2966,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -3009,7 +3014,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3041,7 +3046,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3065,7 +3070,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3081,7 +3086,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -3097,22 +3102,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6849,
+      "Progressed": 6850,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:02:38.903175+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:00:49.8667533+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:58:19.9719317+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:02:38.9032066+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:57:49.6767432+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:00:49.8667949+00:00"
 }

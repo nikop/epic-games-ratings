@@ -8,7 +8,7 @@ Rating: 4.55 (Ranked 480)
 | Good start | 75.00% | ~662 |
 | And so it begins | 72.00% | ~636 |
 | No pressure | 69.00% | ~609 |
-| Memento | 61.00% | ~539 |
+| Memento | 62.00% | ~547 |
 | Let there be light | 59.00% | ~521 |
 | I think you dropped this | 54.00% | ~477 |
 | Soulmate? | 53.00% | ~468 |
@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 480)
 | Fine, I'll do it myself | 41.00% | ~362 |
 | Moving up | 41.00% | ~362 |
 | No need to call anyone | 39.00% | ~344 |
-| Big fortune | 31.00% | ~274 |
+| Big fortune | 32.00% | ~283 |
 | Still more work ahead | 28.00% | ~247 |
 | Hotel sleuthing | 27.00% | ~238 |
 | Aesop's fable | 26.00% | ~230 |

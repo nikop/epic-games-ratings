@@ -39,8 +39,8 @@ Rating: 4.63 (Ranked 331)
 | Digging for Treasure | 2.00% | ~101 |
 | Crimson Caldera | 2.00% | ~101 |
 | Preparation Is Everything | 2.00% | ~101 |
+| The Eternal Court | 2.00% | ~101 |
 | Duality | 2.00% | ~101 |
-| The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
 | Grexolis | 1.00% | ~50 |
 | One for All, All for One | 1.00% | ~50 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 331)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,036 (Ranked 137)  
+Progressed: 5,037 (Ranked 137)  
 Completed: 5 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 5 (0.10%) (Ranked 187)
 | 2023-07-20 | 5,021 | 5 |
 | 2023-07-21 | 5,026 | 5 |
 | 2023-07-22 | 5,033 | 5 |
-| 2023-07-23 | 5,036 | 5 |
+| 2023-07-23 | 5,037 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

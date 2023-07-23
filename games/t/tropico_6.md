@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,219 |
-| Un-Lonely Island | 48.00% | ~2,033 |
-| The Beginning of a Servantship | 45.00% | ~1,906 |
-| Trade Is My Trait | 37.00% | ~1,567 |
+| Just One...More...Term... | 76.00% | ~3,221 |
+| Un-Lonely Island | 48.00% | ~2,034 |
+| The Beginning of a Servantship | 45.00% | ~1,907 |
+| Trade Is My Trait | 37.00% | ~1,568 |
 | Number 18 | 24.00% | ~1,017 |
 | We Don't Have Time For That | 19.00% | ~805 |
-| The Governator | 18.00% | ~762 |
+| The Governator | 18.00% | ~763 |
 | The Legend of Langostino | 17.00% | ~720 |
 | Caribbean Comrade | 16.00% | ~678 |
 | The Dreamer of Dreams | 16.00% | ~678 |
@@ -29,10 +29,10 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~297 |
 | Computer Says "No" | 6.00% | ~254 |
 | Beware The Betman | 6.00% | ~254 |
-| Watch The World Burn | 6.00% | ~254 |
 | Viva Tropico! | 5.00% | ~212 |
+| Watch The World Burn | 5.00% | ~212 |
 | Fairy Tale Come True | 5.00% | ~212 |
-| Apocalypso | 4.00% | ~169 |
+| Apocalypso | 4.00% | ~170 |
 | Been there, Done That | 3.00% | ~127 |
 | Narcissist | 3.00% | ~127 |
 | Promising Endeavors | 3.00% | ~127 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~38 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,236 (Ranked 143)  
+Progressed: 4,238 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.05%) (Ranked 204)
 | 2023-07-20 | 4,164 | 2 |
 | 2023-07-21 | 4,189 | 2 |
 | 2023-07-22 | 4,210 | 2 |
-| 2023-07-23 | 4,236 | 2 |
+| 2023-07-23 | 4,238 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 337)  
 Sum: 669 (Ranked 276)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-07-22T20:05:17.9874387+00:00",
       "NumProgressed": 474,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T18:04:13.0698604+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -472,7 +477,7 @@
       "Name": "The Butterfly Effect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Caring_Soul",
@@ -496,7 +501,7 @@
       "Name": "Echoes of the Past",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Enjoyable_Read",
@@ -512,7 +517,7 @@
       "Name": "Casual Gamer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Graffiti_Artist",
@@ -520,7 +525,7 @@
       "Name": "Urban Scrawl",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Hacker",
@@ -568,7 +573,7 @@
       "Name": "Marvellous Toys",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Left_Behind",
@@ -687,7 +692,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 5
     }
   ],
@@ -695,8 +700,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:05:24.9270667+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:04:13.0698599+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4895779+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:57:18.5605604+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:05:24.9270846+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:57:05.5357624+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:04:13.0698843+00:00"
 }

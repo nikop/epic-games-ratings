@@ -5304,9 +5304,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711297,
+  "EOS_Progressed": 711307,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14114,6 +14114,11 @@
       "Time": "2023-07-23T17:08:16.9936147+00:00",
       "NumProgressed": 711297,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-23T18:06:13.2892893+00:00",
+      "NumProgressed": 711307,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14221,7 +14226,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -14524,21 +14529,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20598,
+      "Progressed": 20608,
       "Completed": 10433
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711297,
+      "Progressed": 711307,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-23T04:58:59.3196325+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:08:16.9936143+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:06:13.2892888+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:00:26.448117+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:08:16.9936888+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:59:17.8784394+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:06:13.2893917+00:00"
 }

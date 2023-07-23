@@ -48,8 +48,8 @@
 | Fashion Victim | 6.00% | ~10 |
 | See You Later | 5.00% | ~8 |
 | Godlike Skin | 5.00% | ~8 |
+| Unlucky Luke | 5.00% | ~8 |
 | Feast Time | 5.00% | ~8 |
-| Unlucky Luke | 4.00% | ~6 |
 | Cheesy Chess | 4.00% | ~6 |
 | A Phony Clown | 3.00% | ~5 |
 | Octopy Mayhem | 3.00% | ~5 |

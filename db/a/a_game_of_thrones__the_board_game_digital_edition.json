@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19282,
+  "EOS_Progressed": 19288,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 4,
@@ -11158,6 +11158,11 @@
       "Time": "2023-07-23T17:03:25.0485605+00:00",
       "NumProgressed": 19282,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-23T18:02:25.1268496+00:00",
+      "NumProgressed": 19288,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11233,7 +11238,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "1024",
@@ -11265,7 +11270,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "1028",
@@ -11273,7 +11278,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "1029",
@@ -11289,7 +11294,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3858
     },
     {
       "ID": "1031",
@@ -11297,7 +11302,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "1032",
@@ -11305,7 +11310,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7713
+      "UsersEstimate": 7715
     },
     {
       "ID": "1033",
@@ -11313,7 +11318,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "1034",
@@ -11344,15 +11349,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19282,
+      "Progressed": 19288,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:03:25.0485601+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:02:25.126849+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:02:00.8818324+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:03:25.0486157+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:24.0360279+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:02:25.1269357+00:00"
 }

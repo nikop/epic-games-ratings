@@ -5,10 +5,10 @@
   "Ranking_Rating": 624,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 481,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1725,
+  "EOS_Progressed": 1726,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1465,6 +1465,11 @@
       "Time": "2023-07-23T17:05:24.3098356+00:00",
       "NumProgressed": 1725,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T18:04:12.7004325+00:00",
+      "NumProgressed": 1726,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1620,7 +1625,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1628,7 +1633,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1644,7 +1649,7 @@
       "Name": "Lord Inut Sends His Regards",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -1668,7 +1673,7 @@
       "Name": "\u0027Ma Barker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_MONSTER_HUNTER",
@@ -1706,9 +1711,9 @@
       "ID": "ACH_OFF_THE_TRAIL",
       "SetID": "8j30i9k",
       "Name": "Off the Trail",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1724,7 +1729,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1748,7 +1753,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_REVENANT",
@@ -1764,7 +1769,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1772,7 +1777,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1788,7 +1793,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1820,7 +1825,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -1836,7 +1841,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1852,7 +1857,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1860,7 +1865,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1899,15 +1904,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1725,
+      "Progressed": 1726,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:05:24.3098352+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:04:12.7004318+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:59:42.9308302+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:05:24.3098757+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:58:43.6137815+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:04:12.7004849+00:00"
 }

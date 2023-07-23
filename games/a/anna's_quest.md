@@ -10,13 +10,13 @@
 | My lost nightingale | 79.00% | ~19 |
 | Ooh, it's shiny! | 79.00% | ~19 |
 | Back to the anvil | 71.00% | ~17 |
+| Mystery solved | 67.00% | ~16 |
 | So soothing... | 67.00% | ~16 |
+| NOW GO AWAY! | 67.00% | ~16 |
 | Roostwig has entered the building | 67.00% | ~16 |
-| Mystery solved | 63.00% | ~15 |
 | Honey, honey, honey… | 63.00% | ~15 |
 | Far away from home | 63.00% | ~15 |
 | Kekekeke... | 63.00% | ~15 |
-| NOW GO AWAY! | 63.00% | ~15 |
 | Sorry Grandpa | 63.00% | ~15 |
 | Game Over! | 58.00% | ~14 |
 | A very special drink | 58.00% | ~14 |
@@ -35,9 +35,9 @@
 | Beekeeper | 42.00% | ~10 |
 | Makeover | 42.00% | ~10 |
 | Singstar | 42.00% | ~10 |
+| Guilty conscience | 42.00% | ~10 |
 | Kill it! KILL IT! | 42.00% | ~10 |
 | Turn the last page | 38.00% | ~9 |
-| Guilty conscience | 38.00% | ~9 |
 | Cameodalic | 33.00% | ~8 |
 | Bahahahaha... | 33.00% | ~8 |
 | What a mess | 25.00% | ~6 |

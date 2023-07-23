@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7931,
+  "EOS_Progressed": 7935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4031,6 +4031,11 @@
       "Time": "2023-07-23T17:02:31.6506844+00:00",
       "NumProgressed": 7931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T18:00:44.8505874+00:00",
+      "NumProgressed": 7935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4114,7 +4119,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3412
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -4210,7 +4215,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -4241,14 +4246,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7931,
+      "Progressed": 7935,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-23T17:02:31.6506833+00:00",
+  "LastChanged_Achievements": "2023-07-23T18:00:44.8505868+00:00",
   "LastUpdate_AppInfo": "2023-07-21T18:57:15.4178752+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:57:27.7813588+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:02:31.6507734+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:57:13.4727596+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:00:44.8506789+00:00"
 }

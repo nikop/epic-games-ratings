@@ -28,14 +28,14 @@ Rating: 3.82 (Ranked 940)
 | Smart cookie | 4.00% | ~19 |
 | Paparazzi | 3.00% | ~14 |
 | Life of the Party | 3.00% | ~14 |
-| The Butterfly Effect | 2.00% | ~9 |
-| Echoes of the Past | 2.00% | ~9 |
-| Casual Gamer | 2.00% | ~9 |
-| Urban Scrawl | 2.00% | ~9 |
-| Marvellous Toys | 2.00% | ~9 |
+| The Butterfly Effect | 2.00% | ~10 |
+| Echoes of the Past | 2.00% | ~10 |
+| Casual Gamer | 2.00% | ~10 |
+| Urban Scrawl | 2.00% | ~10 |
+| Marvellous Toys | 2.00% | ~10 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 220)  
+Progressed: 475 (Ranked 220)  
 Completed: 5 (1.05%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 5 (1.05%) (Ranked 103)
 | 2023-07-15 | 472 | 5 |
 | 2023-07-21 | 473 | 5 |
 | 2023-07-22 | 474 | 5 |
+| 2023-07-23 | 475 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

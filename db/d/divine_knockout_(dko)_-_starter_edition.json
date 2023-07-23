@@ -2,20 +2,20 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
     "PcReleaseDate": "2023-01-12T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "NumberOfRatings": 60,
   "RatingHistory": [
     {
@@ -1020,6 +1020,12 @@
       "Rating": 4.32,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-07-23T18:00:06.404494+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 499,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
@@ -1117,8 +1123,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-07-22T18:00:10.6575634+00:00",
+  "LastChanged": "2023-07-23T18:00:06.4044938+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:49.8101172+00:00",
-  "LastUpdate_Ratings": "2023-07-23T17:01:38.3399353+00:00",
-  "LastUpdate_Achievements": "2023-07-23T17:07:38.4286329+00:00"
+  "LastUpdate_Ratings": "2023-07-23T18:00:06.4044944+00:00",
+  "LastUpdate_Achievements": "2023-07-23T18:05:46.7484491+00:00"
 }

@@ -4,19 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 40.00% | ~26 |
-| First Step | 37.00% | ~24 |
+| The 4 Pillars | 42.00% | ~27 |
+| First Step | 38.00% | ~25 |
 | Indebted | 8.00% | ~5 |
-| Capitalism | 6.00% | ~4 |
+| Capitalism | 8.00% | ~5 |
 | Health Care | 5.00% | ~3 |
 | Desert Rat | 5.00% | ~3 |
 | Green Energy | 5.00% | ~3 |
+| Jantine: the Misfortunes of Evil | 3.00% | ~2 |
+| There's something in those trees | 3.00% | ~2 |
 | Good payer | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
-| Jantine: the Misfortunes of Evil | 2.00% | ~1 |
 | Healing | 2.00% | ~1 |
-| There's something in those trees | 2.00% | ~1 |
+| Desert Power | 2.00% | ~1 |
 | Self-sufficient | 2.00% | ~1 |
+| Food Tycoon | 2.00% | ~1 |
 | Medicine Tycoon | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Great Producer | 2.00% | ~1 |
@@ -31,7 +33,6 @@
 | Vive le Résistance | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | No News is Good News | 0.00% | ~0 |
-| Desert Power | 0.00% | ~0 |
 | Snowman | 0.00% | ~0 |
 | Overpopulation | 0.00% | ~0 |
 | Property Bro | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |
-| Food Tycoon | 0.00% | ~0 |
 | Fuel Tycoon | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |

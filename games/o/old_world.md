@@ -10,13 +10,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.60% | ~78 |
 | Play a Single Player Game | 0.50% | ~65 |
 | Explorer | 0.40% | ~52 |
+| Intrepid | 0.40% | ~52 |
 | Settler | 0.40% | ~52 |
 | Friendly Family | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
 | Able | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
 | Good | 0.30% | ~39 |
-| Intrepid | 0.30% | ~39 |
 | Just | 0.30% | ~39 |
 | Noble | 0.30% | ~39 |
 | Strong | 0.30% | ~39 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
+| Able Difficulty | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
@@ -42,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Judaism | 0.20% | ~26 |
+| Manichaeism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
 | Carthaginian Paganism | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
@@ -96,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.10% | ~13 |
 | Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
-| Able Difficulty | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
-| Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
