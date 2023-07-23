@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2023-07-23T09:03:03.5574716+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T15:03:27.2420866+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -720,9 +725,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -954,21 +959,21 @@
       "Name": "Starting to take notes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:04.2390329+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:03:27.2420862+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:46.6194248+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:26.7249174+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:04.2390515+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:58:49.3429266+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:03:27.2421132+00:00"
 }

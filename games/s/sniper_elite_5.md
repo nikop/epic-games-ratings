@@ -46,8 +46,8 @@ Rating: 4.40 (Ranked 690)
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
 | From Paris with Love | 0.60% | ~20 |
+| Burn after reading | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
-| Burn after reading | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
 | Eagle Eyed | 0.50% | ~17 |
 | Locomotion Commotion | 0.50% | ~17 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 690)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,331 (Ranked 148)  
+Progressed: 3,332 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 9 (0.27%) (Ranked 156)
 | 2023-07-20 | 3,314 | 9 |
 | 2023-07-21 | 3,319 | 9 |
 | 2023-07-22 | 3,325 | 9 |
-| 2023-07-23 | 3,331 | 9 |
+| 2023-07-23 | 3,332 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

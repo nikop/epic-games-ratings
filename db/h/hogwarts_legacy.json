@@ -5266,10 +5266,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39730,
       "NumberOfAwardsMax": 21217
+    },
+    {
+      "Time": "2023-07-23T14:58:08.9166465+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39732,
+      "NumberOfAwardsMax": 21217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39730,
+  "NumberOfAwards": 39732,
   "NumberOfAwardsMax": 21217,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5301,7 +5307,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 934
+      "Count": 936
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5346,9 +5352,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288378,
+  "EOS_Progressed": 288383,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15436,6 +15442,11 @@
       "Time": "2023-07-23T14:04:09.1569848+00:00",
       "NumProgressed": 288378,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-23T15:04:33.0336025+00:00",
+      "NumProgressed": 288383,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15447,7 +15458,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34605
+      "UsersEstimate": 34606
     },
     {
       "ID": "PFA_10",
@@ -15455,7 +15466,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_11",
@@ -15463,7 +15474,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_12",
@@ -15479,7 +15490,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_14",
@@ -15519,7 +15530,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20186
+      "UsersEstimate": 20187
     },
     {
       "ID": "PFA_19",
@@ -15551,7 +15562,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_22",
@@ -15575,7 +15586,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_25",
@@ -15671,7 +15682,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20186
+      "UsersEstimate": 20187
     },
     {
       "ID": "PFA_36",
@@ -15703,7 +15714,7 @@
       "Name": "Coasting Along",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "PFA_4",
@@ -15751,7 +15762,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20186
+      "UsersEstimate": 20187
     },
     {
       "ID": "PFA_45",
@@ -15799,23 +15810,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20186
+      "UsersEstimate": 20187
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288378,
+      "Progressed": 288383,
       "Completed": 433
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-23T11:58:20.8295119+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:04:09.1569843+00:00",
+  "LastChanged": "2023-07-23T14:58:08.9166462+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:33.0336021+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:57:47.7085336+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:04:09.1570587+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:58:08.9166476+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:33.0337071+00:00"
 }

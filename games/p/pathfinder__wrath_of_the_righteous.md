@@ -24,12 +24,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~421 |
 | All Paths Open | 4.00% | ~421 |
 | Next-Door Play | 4.00% | ~421 |
+| Get the Toad | 4.00% | ~421 |
 | Heart of the Fallen Land | 3.00% | ~315 |
 | Divide and Rule | 3.00% | ~315 |
 | Mythic Reinforcements | 3.00% | ~315 |
 | A Flame | 3.00% | ~315 |
 | Hey, I Know You! | 3.00% | ~315 |
-| Get the Toad | 3.00% | ~315 |
 | The Lady of the Forest | 3.00% | ~279 |
 | Beware Still Water | 3.00% | ~279 |
 | Path of the Aeon | 2.00% | ~210 |

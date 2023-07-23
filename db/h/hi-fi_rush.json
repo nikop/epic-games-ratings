@@ -6,7 +6,7 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4522,6 +4522,11 @@
       "Time": "2023-07-23T14:03:19.713269+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-23T15:03:43.2547087+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4947,9 +4952,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 71
     },
     {
       "ID": "Ach054",
@@ -5100,13 +5105,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2050,
+      "Progressed": 2051,
       "Completed": 1928
     }
   ],
@@ -5114,8 +5119,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:19.7132686+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:03:43.2547082+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:49.4745443+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:19.7135079+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:59:11.3191567+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:03:43.2548112+00:00"
 }

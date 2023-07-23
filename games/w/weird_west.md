@@ -11,7 +11,7 @@ Number of Ratings: 125  (23.09.2022)
 | Perky | 65.00% | ~1,121 |
 | Let’s Ride | 60.00% | ~1,034 |
 | Welcome to the Weird West | 57.00% | ~983 |
-| Dead or Alive | 55.00% | ~948 |
+| Dead or Alive | 56.00% | ~965 |
 | Full House | 36.00% | ~621 |
 | Off the Trail | 33.00% | ~569 |
 | Justice Served | 29.00% | ~500 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,724 (Ranked 169)  
-Completed: 3 (0.17%) (Ranked 171)  
+Completed: 3 (0.17%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

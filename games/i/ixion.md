@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 461)  
+Rating: 4.55 (Ranked 480)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,9 +24,9 @@ Rating: 4.56 (Ranked 461)
 | Man's Best Friend | 6.00% | ~173 |
 | Power Outage | 6.00% | ~173 |
 | Please Make it Stop! | 6.00% | ~173 |
-| Sightseeing | 5.00% | ~144 |
-| Necessary Enhancement | 5.00% | ~144 |
-| Convenient Transport | 5.00% | ~144 |
+| Sightseeing | 5.00% | ~145 |
+| Necessary Enhancement | 5.00% | ~145 |
+| Convenient Transport | 5.00% | ~145 |
 | Access Granted | 4.00% | ~116 |
 | All in Good Health | 4.00% | ~116 |
 | From the Past | 4.00% | ~116 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 461)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,890 (Ranked 156)  
+Progressed: 2,891 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,849 | 0 |
 | 2023-07-21 | 2,866 | 0 |
 | 2023-07-22 | 2,884 | 0 |
-| 2023-07-23 | 2,890 | 0 |
+| 2023-07-23 | 2,891 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -205,3 +205,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-06-16 | 4.56 | 0 | 0 |
 | 2023-06-20 | 4.57 | 0 | 0 |
 | 2023-07-08 | 4.56 | 0 | 0 |
+| 2023-07-23 | 4.55 | 0 | 0 |

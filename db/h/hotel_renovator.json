@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1083,9 +1083,9 @@
       "ID": "ACH_ELIZA_PHOTO",
       "SetID": "7k95e4n",
       "Name": "Love is in the air",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1260,8 +1260,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:04:26.0666714+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:49.3575367+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:57:32.4163811+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:04:26.0666918+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:57:53.8645962+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:49.3575619+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 121,
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9103,
+  "EOS_Progressed": 9104,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6747,6 +6747,11 @@
       "Time": "2023-07-23T13:07:39.3696809+00:00",
       "NumProgressed": 9103,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-23T15:04:09.2876178+00:00",
+      "NumProgressed": 9104,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6862,7 +6867,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH15",
@@ -6918,7 +6923,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ACH22",
@@ -6942,7 +6947,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH25",
@@ -6950,7 +6955,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH26",
@@ -6958,7 +6963,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ACH27",
@@ -7029,7 +7034,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9103,
+      "Progressed": 9104,
       "Completed": 43
     }
   ],
@@ -7037,8 +7042,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:46.5672132+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:09.2876174+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:32.3301478+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:46.5672604+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:58:55.4837857+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:09.2876821+00:00"
 }

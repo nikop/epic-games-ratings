@@ -3196,7 +3196,7 @@
   ],
   "EOS_Progressed": 10514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9520,9 +9520,9 @@
       "ID": "56_GetToad",
       "SetID": "989of5o",
       "Name": "Get the Toad",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 421
     },
     {
       "ID": "57_PathOfDevil",
@@ -10030,8 +10030,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-23T08:58:38.62203+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:04:31.9632235+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:55.5481715+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:42.1852425+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:04:31.9633897+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:59:05.7096421+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:55.5483736+00:00"
 }

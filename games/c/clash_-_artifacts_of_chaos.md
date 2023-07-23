@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 69.00% | ~62 |
+| Declawing | 70.00% | ~63 |
 | Target Practice | 40.00% | ~36 |
 | Over the Moon | 33.00% | ~30 |
 | The Bigger They Are | 31.00% | ~28 |
@@ -26,7 +26,7 @@
 | Broken Reflection | 2.00% | ~2 |
 | Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 313)  
+Progressed: 90 (Ranked 314)  
 Completed: 1 (1.11%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1932,9 +1932,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     },
     {
       "ID": "MQ03_5",
@@ -2093,8 +2093,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:05:56.950224+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:06:15.5489134+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:57:36.2908448+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:05:56.9502484+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:57:58.727425+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:06:15.5489434+00:00"
 }

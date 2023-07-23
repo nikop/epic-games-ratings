@@ -60,11 +60,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 573,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.2871763+00:00",
@@ -1310,6 +1310,11 @@
       "Time": "2023-07-23T14:03:03.3207944+00:00",
       "NumProgressed": 571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T15:03:26.3460423+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1335,7 +1340,7 @@
       "ID": "ChaoticNeutral",
       "SetID": "2aagp3d",
       "Name": "Mushrooming enthusiast",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1345,7 +1350,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "DevilDetail",
@@ -1369,7 +1374,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EyeSpy",
@@ -1497,7 +1502,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Specialist",
@@ -1537,7 +1542,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Toxic",
@@ -1576,7 +1581,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 573,
       "Completed": 1
     }
   ],
@@ -1584,8 +1589,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:03.3207939+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:03:26.3460418+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:13.3533271+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:03.3208183+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:58:36.7210893+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:03:26.3460741+00:00"
 }

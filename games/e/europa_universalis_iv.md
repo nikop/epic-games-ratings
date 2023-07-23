@@ -1,27 +1,27 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,586 |
-| That's a Grand Army | 8.00% | ~5,854 |
-| That is mine! | 8.00% | ~5,854 |
-| Victorious! | 8.00% | ~5,854 |
-| Brothers in Arms | 6.00% | ~4,391 |
-| That's a Grand Navy | 6.00% | ~4,391 |
-| Seriously?! | 6.00% | ~4,391 |
-| For the Glory | 5.00% | ~3,659 |
-| Cold War | 4.00% | ~2,927 |
-| True Catholic | 4.00% | ~2,927 |
-| Defender of the Faith | 3.00% | ~2,195 |
-| It's all about luck | 3.00% | ~2,195 |
-| It's all about the money | 3.00% | ~2,195 |
-| Respected | 3.00% | ~2,195 |
-| The Princess is in this Castle | 3.00% | ~2,195 |
-| Truly Divine Ruler | 3.00% | ~2,195 |
+| Until death do us apart | 9.00% | ~6,588 |
+| That's a Grand Army | 8.00% | ~5,856 |
+| That is mine! | 8.00% | ~5,856 |
+| Victorious! | 8.00% | ~5,856 |
+| Brothers in Arms | 6.00% | ~4,392 |
+| That's a Grand Navy | 6.00% | ~4,392 |
+| Seriously?! | 6.00% | ~4,392 |
+| For the Glory | 5.00% | ~3,660 |
+| Cold War | 4.00% | ~2,928 |
+| True Catholic | 4.00% | ~2,928 |
+| Defender of the Faith | 3.00% | ~2,196 |
+| It's all about luck | 3.00% | ~2,196 |
+| It's all about the money | 3.00% | ~2,196 |
+| Respected | 3.00% | ~2,196 |
+| The Princess is in this Castle | 3.00% | ~2,196 |
+| Truly Divine Ruler | 3.00% | ~2,196 |
 | Agressive Expander | 2.00% | ~1,464 |
 | Blockader | 2.00% | ~1,464 |
 | Combined Arms | 2.00% | ~1,464 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~659 |
 | Market Control | 0.90% | ~659 |
 | Trustworthy | 0.90% | ~659 |
-| Down Under | 0.80% | ~585 |
+| Down Under | 0.80% | ~586 |
 | Electable! | 0.70% | ~512 |
 | Populists in Government | 0.70% | ~512 |
 | All belongs to Mother Russia | 0.60% | ~439 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,176 (Ranked 74)  
+Progressed: 73,197 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -455,7 +455,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 72,082 | 0 |
 | 2023-07-21 | 72,487 | 0 |
 | 2023-07-22 | 72,954 | 0 |
-| 2023-07-23 | 73,176 | 0 |
+| 2023-07-23 | 73,197 | 0 |
 ## Awards
 Max (Educational): 5,577  (Ranked 61)  
 Sum: 45,945 (Ranked 26)  

@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2579,
+  "EOS_Progressed": 2580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3353,6 +3353,11 @@
       "Time": "2023-07-23T12:02:40.773929+00:00",
       "NumProgressed": 2579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T15:01:01.5197984+00:00",
+      "NumProgressed": 2580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3468,7 +3473,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3740,22 +3745,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:00:47.3512738+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:01:01.5197979+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:59:25.115547+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:00:47.3513827+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:59:41.9999132+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:01:01.5198691+00:00"
 }

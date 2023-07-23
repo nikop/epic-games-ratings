@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1756,9 +1756,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2036,9 +2036,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "RewindParry",
@@ -2108,9 +2108,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 110
     },
     {
       "ID": "TheaterChests1",
@@ -2179,8 +2179,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:23.6369925+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:03:46.610196+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:59:37.6055042+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:23.6370363+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:59:56.0312553+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:03:46.6102533+00:00"
 }

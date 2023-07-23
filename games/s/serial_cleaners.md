@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Clean Conscience | 24.00% | ~52 |
 | So it goes | 23.00% | ~49 |
-| Clean Conscience | 23.00% | ~49 |
 | A New Broom Sweeps Clean | 12.00% | ~26 |
-| Off to a Good Start | 10.00% | ~21 |
-| Small-time Finder | 10.00% | ~21 |
+| Off to a Good Start | 10.00% | ~22 |
+| Small-time Finder | 10.00% | ~22 |
 | Business as usual | 8.00% | ~17 |
 | Mr. Hygeni | 7.00% | ~15 |
 | Pride and Joy | 6.00% | ~13 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.50% | ~0 |
 | That’s One Big Pile | 0.50% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 268)  
-Completed: 6 (2.82%) (Ranked 65)  
+Progressed: 215 (Ranked 266)  
+Completed: 6 (2.79%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 6 (2.82%) (Ranked 65)
 | 2023-07-16 | 211 | 6 |
 | 2023-07-21 | 212 | 6 |
 | 2023-07-22 | 213 | 6 |
+| 2023-07-23 | 215 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

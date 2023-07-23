@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-07-23T08:04:00.9515383+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T15:04:37.3148015+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2085,7 +2090,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Collect20Iron",
@@ -2101,7 +2106,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "CollectAllStatues",
@@ -2149,7 +2154,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2157,7 +2162,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2165,7 +2170,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "CompleteStoryDM",
@@ -2229,7 +2234,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "Kill25Bugs",
@@ -2237,7 +2242,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "Kill25Frogs",
@@ -2253,7 +2258,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "MeetTheMoles",
@@ -2277,7 +2282,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "RepairSmith",
@@ -2285,7 +2290,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "RepairThroneRoom",
@@ -2301,7 +2306,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2316,22 +2321,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 424,
-      "Completed": 424
+      "Progressed": 425,
+      "Completed": 425
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:04:13.9064632+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:37.314801+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:58:36.9078008+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:04:13.9064884+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:59:00.7014136+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:37.3148344+00:00"
 }

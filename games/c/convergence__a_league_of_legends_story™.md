@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 20.00% | ~157 |
+| Time Heals All Wounds | 21.00% | ~164 |
 | Rail Rat | 18.00% | ~141 |
 | The Mysterious Stranger | 17.00% | ~133 |
+| The Steel Shadow | 16.00% | ~125 |
 | Make Up For Lost Time | 16.00% | ~125 |
 | The Prince in Heels | 16.00% | ~125 |
-| The Steel Shadow | 15.00% | ~117 |
 | Time Flies | 15.00% | ~117 |
 | The Harder They Fall | 15.00% | ~117 |
 | No, Thanks! | 15.00% | ~117 |
@@ -25,11 +25,11 @@
 | Cartographer | 14.00% | ~110 |
 | Honest Mistake | 14.00% | ~110 |
 | Golem Chaser | 14.00% | ~110 |
+| Check Your Pulse | 14.00% | ~110 |
 | The Family Fortune | 14.00% | ~110 |
 | Treasure Trove | 13.00% | ~102 |
 | Right On Time | 13.00% | ~102 |
 | Like Clockwork | 13.00% | ~102 |
-| Check Your Pulse | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |
 | Good Neighbor | 10.00% | ~78 |

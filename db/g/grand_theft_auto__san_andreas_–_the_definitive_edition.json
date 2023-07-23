@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 117,
@@ -598,9 +598,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11247,
+  "EOS_Progressed": 11248,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7118,6 +7118,11 @@
       "Time": "2023-07-23T14:06:34.1957634+00:00",
       "NumProgressed": 11247,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-23T15:06:47.0065216+00:00",
+      "NumProgressed": 11248,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7129,7 +7134,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9110
+      "UsersEstimate": 9111
     },
     {
       "ID": "ACH02",
@@ -7177,7 +7182,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH08",
@@ -7225,7 +7230,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH14",
@@ -7408,7 +7413,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11247,
+      "Progressed": 11248,
       "Completed": 31
     }
   ],
@@ -7416,8 +7421,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-23T04:01:01.6778671+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:06:34.195763+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:06:47.006521+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:00:26.0178262+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:06:34.1958128+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:00:41.3752691+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:06:47.0065868+00:00"
 }

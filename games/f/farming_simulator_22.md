@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,443 |
-| I read Shakespeare and stuff | 64.00% | ~29,391 |
-| Just a sprinkle | 63.00% | ~28,932 |
-| I'm stumped | 61.00% | ~28,014 |
-| Plant get enough | 60.00% | ~27,554 |
-| This is just my weekend vehicle | 58.00% | ~26,636 |
-| It's just the beginning | 58.00% | ~26,636 |
-| Hard work pays off | 53.00% | ~24,340 |
+| Own use | 75.00% | ~34,444 |
+| I read Shakespeare and stuff | 64.00% | ~29,393 |
+| Just a sprinkle | 63.00% | ~28,933 |
+| I'm stumped | 61.00% | ~28,015 |
+| Plant get enough | 60.00% | ~27,556 |
+| This is just my weekend vehicle | 58.00% | ~26,637 |
+| It's just the beginning | 58.00% | ~26,637 |
+| Hard work pays off | 53.00% | ~24,341 |
 | It's never too late to farm | 48.00% | ~22,044 |
 | All out of Land | 44.00% | ~20,207 |
-| Field Trip | 43.00% | ~19,747 |
+| Field Trip | 43.00% | ~19,748 |
 | I like to switch it up | 40.00% | ~18,370 |
-| Help me to help you | 38.00% | ~17,451 |
+| Help me to help you | 38.00% | ~17,452 |
 | Ultimutt Pawesomeness | 28.00% | ~12,859 |
-| Van Gogh | 26.00% | ~11,940 |
+| Van Gogh | 26.00% | ~11,941 |
 | You wood not believe it | 21.00% | ~9,644 |
 | Vehicle fleet | 21.00% | ~9,644 |
 | The plot thickens | 16.00% | ~7,348 |
@@ -28,16 +28,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,348 |
 | Clucky Streak | 15.00% | ~6,889 |
 | Large-scale supplier | 15.00% | ~6,889 |
-| That's a wrap | 14.00% | ~6,429 |
+| That's a wrap | 14.00% | ~6,430 |
 | Fix me up | 13.00% | ~5,970 |
 | Rock on | 12.00% | ~5,511 |
 | It's sow easy | 11.00% | ~5,052 |
-| Highly cultivated | 10.00% | ~4,592 |
-| Giddy-up! | 10.00% | ~4,592 |
+| Highly cultivated | 10.00% | ~4,593 |
+| Giddy-up! | 10.00% | ~4,593 |
 | Cowherd | 7.00% | ~3,215 |
-| Fluffyness | 6.00% | ~2,755 |
-| Helper A does not stop … ever | 6.00% | ~2,755 |
-| Bringing in the Honey | 6.00% | ~2,755 |
+| Fluffyness | 6.00% | ~2,756 |
+| Helper A does not stop … ever | 6.00% | ~2,756 |
+| Bringing in the Honey | 6.00% | ~2,756 |
 | Road Trip | 5.00% | ~2,296 |
 | Three little piggies… | 4.00% | ~1,837 |
 | Game on | 4.00% | ~1,837 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,924 (Ranked 88)  
+Progressed: 45,926 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 5 (0.01%) (Ranked 228)
 | 2023-07-20 | 45,767 | 5 |
 | 2023-07-21 | 45,828 | 5 |
 | 2023-07-22 | 45,895 | 5 |
-| 2023-07-23 | 45,924 | 5 |
+| 2023-07-23 | 45,926 | 5 |
 ## Awards
 Max (Great for Beginners): 4,568  (Ranked 70)  
 Sum: 38,320 (Ranked 31)  

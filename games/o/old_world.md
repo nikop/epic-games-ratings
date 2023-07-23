@@ -15,20 +15,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.40% | ~52 |
 | Able | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
+| Good | 0.30% | ~39 |
 | Intrepid | 0.30% | ~39 |
+| Just | 0.30% | ~39 |
 | Noble | 0.30% | ~39 |
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
-| Good | 0.20% | ~26 |
-| Just | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
 | Mason | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
+| Warrior | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
@@ -40,11 +41,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.20% | ~26 |
 | Judaism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
+| Carthaginian Paganism | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
 | Roman Paganism | 0.20% | ~26 |
 | Zoroastrianism | 0.20% | ~26 |
 | Naming Landmarks | 0.20% | ~26 |
 | Trade Caravan | 0.20% | ~26 |
+| Musaeum in Alexandria | 0.10% | ~13 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
@@ -89,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
-| Warrior | 0.10% | ~13 |
 | Wise | 0.10% | ~13 |
 | Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
@@ -166,12 +168,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
+| Play a MP Teams Game | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
-| Carthaginian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
@@ -224,7 +226,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
-| Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
@@ -288,7 +289,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
-| Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,042 (Ranked 115)  
+Progressed: 13,046 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,042 | 5 |
+| 2023-07-23 | 13,046 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

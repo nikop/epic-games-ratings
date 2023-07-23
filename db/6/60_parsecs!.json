@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -598,6 +598,11 @@
       "Time": "2023-07-23T04:06:06.5723654+00:00",
       "NumProgressed": 695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T15:05:55.0321575+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -633,7 +638,7 @@
       "Name": "All Seats Taken",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -681,7 +686,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Achievement_DustToDust",
@@ -689,7 +694,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -745,7 +750,7 @@
       "Name": "For Science!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_Friendzone",
@@ -753,7 +758,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -769,7 +774,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Achievement_HandsFull",
@@ -785,7 +790,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Achievement_Improvinator",
@@ -833,7 +838,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -865,7 +870,7 @@
       "Name": "Non-Fiction",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_SecondLife",
@@ -897,7 +902,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -960,7 +965,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 1
     }
   ],
@@ -968,8 +973,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:05:35.3094758+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:05:55.032157+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.5800791+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:56:59.1163131+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:05:35.3095052+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:57:20.3478849+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:05:55.0321981+00:00"
 }

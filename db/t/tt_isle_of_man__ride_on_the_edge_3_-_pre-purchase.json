@@ -735,9 +735,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-23T14:03:51.3374953+00:00",
+  "LastChanged_Achievements": "2023-07-23T15:04:14.114857+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.3686626+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:57:58.7764864+00:00",
-  "LastUpdate_Achievements": "2023-07-23T14:03:51.3375217+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:58:20.9306214+00:00",
+  "LastUpdate_Achievements": "2023-07-23T15:04:14.1148923+00:00"
 }
