@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 115,
@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 13046,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9819,9 +9819,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -10753,8 +10753,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:05:28.1663182+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:05:26.2376606+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:58:39.6008077+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:05:28.1671587+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:58:30.5899097+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:05:26.2384253+00:00"
 }

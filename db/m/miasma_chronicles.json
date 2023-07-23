@@ -2459,9 +2459,9 @@
       "ID": "ATTENBOROUGH",
       "SetID": "9a4jnji",
       "Name": "Attenborough",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 38
     },
     {
       "ID": "BOOKWORM",
@@ -2651,9 +2651,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 561
     },
     {
       "ID": "GOAL",
@@ -2739,9 +2739,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 995
     },
     {
       "ID": "RECYCLER",
@@ -2827,9 +2827,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 268
     },
     {
       "ID": "WIPE_OUT",
@@ -2852,8 +2852,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:04:01.3455754+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:04:00.8017254+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:58:56.1192942+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:04:01.3456334+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:58:46.5314736+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:04:00.8017698+00:00"
 }

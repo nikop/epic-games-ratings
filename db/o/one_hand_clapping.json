@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -233,9 +233,9 @@
       "ID": "10",
       "SetID": "7l2nmpm",
       "Name": "Antiphony",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
@@ -249,9 +249,9 @@
       "ID": "12",
       "SetID": "7l2nmpm",
       "Name": "Musica Universalis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -458,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:03:17.5663424+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:03:18.851822+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.6188388+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:00:10.5246401+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:03:17.5663648+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:00:05.418788+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:03:18.8518368+00:00"
 }

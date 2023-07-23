@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2618,9 +2618,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 995
     },
     {
       "ID": "Kills_Bleed",
@@ -2936,8 +2936,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:03:52.6265745+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:03:52.5616422+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:59:18.9794418+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:03:52.6266422+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:59:12.5128294+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:03:52.5616916+00:00"
 }

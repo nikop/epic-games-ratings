@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-07-23T15:03:53.9323639+00:00",
       "NumProgressed": 357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-23T16:03:53.8128251+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -551,7 +556,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "06_living",
@@ -647,7 +652,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "18_foreman",
@@ -717,9 +722,9 @@
       "ID": "26_forgotten",
       "SetID": "chb1m60",
       "Name": "Forgotten",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "27_lucky",
@@ -783,7 +788,7 @@
       "Name": "Need to think",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "35_achtung",
@@ -830,15 +835,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:03:53.9323634+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:03:53.8128246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:58:21.0542056+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:03:53.9323978+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:58:15.3771586+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:03:53.8128517+00:00"
 }

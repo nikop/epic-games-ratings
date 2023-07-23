@@ -13,13 +13,13 @@
 | Splash! | 56.00% | ~41 |
 | Masochistic | 51.00% | ~37 |
 | Soft skin | 44.00% | ~32 |
-| Squid game | 34.00% | ~25 |
+| Squid game | 36.00% | ~26 |
 | Sensitive soul | 32.00% | ~23 |
 | Rock Solid | 29.00% | ~21 |
 | The beast within | 29.00% | ~21 |
 | It's getting dark | 29.00% | ~21 |
+| Hard Rock | 29.00% | ~21 |
 | Rooftop | 27.00% | ~20 |
-| Hard Rock | 27.00% | ~20 |
 | Homeless | 25.00% | ~18 |
 | Big badaboom! | 25.00% | ~18 |
 | Bookworm | 22.00% | ~16 |

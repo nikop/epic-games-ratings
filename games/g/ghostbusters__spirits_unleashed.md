@@ -1,34 +1,34 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,984 |
-| Advancement | 73.00% | ~17,812 |
-| Meticulously Efficient | 64.00% | ~15,616 |
-| Discovery | 61.00% | ~14,884 |
-| Fully Upgraded | 54.00% | ~13,176 |
-| Swift Rift Removers | 54.00% | ~13,176 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,444 |
-| Cultured | 51.00% | ~12,444 |
-| Vaporous Expansion | 48.00% | ~11,712 |
-| Teamwork | 44.00% | ~10,736 |
-| There you are! | 43.00% | ~10,492 |
-| Clutch Capture | 41.00% | ~10,004 |
-| Back Off | 35.00% | ~8,540 |
-| Daily Dose | 34.00% | ~8,296 |
-| Solo Capture | 32.00% | ~7,808 |
-| Welcome to the Crew | 32.00% | ~7,808 |
-| Ghostbuster In Training | 30.00% | ~7,320 |
-| Icing on the Cake | 30.00% | ~7,320 |
-| Side Hustle | 27.00% | ~6,588 |
-| Summoner | 27.00% | ~6,588 |
-| We have the best insurance | 26.00% | ~6,344 |
-| Legions | 26.00% | ~6,344 |
-| Right back at ya | 26.00% | ~6,344 |
-| Stunner | 26.00% | ~6,344 |
+| Stylish | 86.00% | ~20,986 |
+| Advancement | 73.00% | ~17,813 |
+| Meticulously Efficient | 64.00% | ~15,617 |
+| Discovery | 61.00% | ~14,885 |
+| Fully Upgraded | 54.00% | ~13,177 |
+| Swift Rift Removers | 54.00% | ~13,177 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,445 |
+| Cultured | 51.00% | ~12,445 |
+| Vaporous Expansion | 48.00% | ~11,713 |
+| Teamwork | 44.00% | ~10,737 |
+| There you are! | 43.00% | ~10,493 |
+| Clutch Capture | 41.00% | ~10,005 |
+| Back Off | 35.00% | ~8,541 |
+| Daily Dose | 34.00% | ~8,297 |
+| Solo Capture | 32.00% | ~7,809 |
+| Welcome to the Crew | 32.00% | ~7,809 |
+| Ghostbuster In Training | 30.00% | ~7,321 |
+| Icing on the Cake | 30.00% | ~7,321 |
+| Side Hustle | 27.00% | ~6,589 |
+| Summoner | 27.00% | ~6,589 |
+| We have the best insurance | 26.00% | ~6,345 |
+| Legions | 26.00% | ~6,345 |
+| Right back at ya | 26.00% | ~6,345 |
+| Stunner | 26.00% | ~6,345 |
 | Pesky Jerks | 25.00% | ~6,100 |
 | Animated | 24.00% | ~5,856 |
 | Skilled | 24.00% | ~5,856 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~244 |
 | I don't need these | 0.90% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,400 (Ranked 99)  
+Progressed: 24,402 (Ranked 99)  
 Completed: 48 (0.20%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 48 (0.20%) (Ranked 168)
 | 2023-07-20 | 24,345 | 46 |
 | 2023-07-21 | 24,360 | 47 |
 | 2023-07-22 | 24,388 | 48 |
-| 2023-07-23 | 24,400 | 48 |
+| 2023-07-23 | 24,402 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,176 (Ranked 189)  

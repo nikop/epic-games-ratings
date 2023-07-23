@@ -9,7 +9,7 @@ Rating: 4.67 (Ranked 259)
 | I will survive! | 92.00% | ~4,371 |
 | All thumbs | 91.00% | ~4,323 |
 | Home, sweet home | 90.00% | ~4,276 |
-| Survivalist | 88.00% | ~4,181 |
+| Survivalist | 89.00% | ~4,228 |
 | One way ticket | 83.00% | ~3,943 |
 | Last man standing | 78.00% | ~3,706 |
 | Family guy | 76.00% | ~3,611 |
@@ -20,7 +20,7 @@ Rating: 4.67 (Ranked 259)
 | Pacifist | 57.00% | ~2,708 |
 | 2-1-6 | 56.00% | ~2,661 |
 | A gift | 51.00% | ~2,423 |
-| Girl Power | 45.00% | ~2,138 |
+| Girl Power | 46.00% | ~2,185 |
 | What goes around... | 42.00% | ~1,995 |
 | Be Prepared | 36.00% | ~1,710 |
 | Unbreakable | 35.00% | ~1,663 |

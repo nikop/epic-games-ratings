@@ -16,13 +16,13 @@
 | Solo Sea | 0.60% | ~5 |
 | Silent City: Reprise | 0.60% | ~5 |
 | Cadence | 0.60% | ~5 |
+| Antiphony | 0.50% | ~4 |
 | Coda Cave Glyph | 0.50% | ~4 |
-| Antiphony | 0.40% | ~3 |
 | Silent City Glyph | 0.40% | ~3 |
 | Maestro Mountain Glyph | 0.40% | ~3 |
 | Symphony | 0.10% | ~1 |
+| Musica Universalis | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
-| Musica Universalis | 0.00% | ~0 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 | Consonance | 0.00% | ~0 |

@@ -47,9 +47,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.70% | ~112 |
 | Victory through Prosperity | 0.70% | ~112 |
 | Feeding The People | 0.60% | ~96 |
+| Beaver Utopia | 0.50% | ~80 |
 | Human Utopia | 0.50% | ~80 |
 | Lizard Utopia | 0.50% | ~80 |
-| Beaver Utopia | 0.40% | ~64 |
 | The Queen's Chosen | 0.40% | ~64 |
 | Harpy Utopia | 0.30% | ~48 |
 | Ruins | 0.30% | ~48 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,976 (Ranked 108)  
+Progressed: 15,980 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 40 (0.25%) (Ranked 158)
 | 2023-07-20 | 15,923 | 40 |
 | 2023-07-21 | 15,947 | 40 |
 | 2023-07-22 | 15,968 | 40 |
-| 2023-07-23 | 15,976 | 40 |
+| 2023-07-23 | 15,980 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 204)  
 Sum: 3,075 (Ranked 157)  

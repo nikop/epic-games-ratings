@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 480)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~661 |
+| Good start | 76.00% | ~670 |
 | And so it begins | 72.00% | ~634 |
 | No pressure | 69.00% | ~608 |
 | Memento | 62.00% | ~546 |
@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 480)
 | Fine, I'll do it myself | 41.00% | ~361 |
 | Moving up | 41.00% | ~361 |
 | No need to call anyone | 39.00% | ~344 |
-| Big fortune | 31.00% | ~273 |
+| Big fortune | 32.00% | ~282 |
 | Still more work ahead | 28.00% | ~247 |
 | Hotel sleuthing | 27.00% | ~238 |
 | Aesop's fable | 26.00% | ~229 |

@@ -743,9 +743,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1015,9 +1015,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_Trapped",
@@ -1056,8 +1056,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:06:03.0621098+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:06:03.161227+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:57:50.6033953+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:06:03.0621459+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:57:41.7272566+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:06:03.1612544+00:00"
 }

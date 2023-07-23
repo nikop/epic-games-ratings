@@ -190,9 +190,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -230,9 +230,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 80,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -398,9 +398,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:05:07.1453809+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:05:05.5224941+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-23T14:58:29.8140924+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:05:07.1454216+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:58:23.2676586+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:05:05.522523+00:00"
 }

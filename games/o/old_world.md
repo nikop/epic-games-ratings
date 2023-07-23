@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.30% | ~39 |
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
+| Oracle | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Lighthouse | 0.20% | ~26 |
-| Oracle | 0.20% | ~26 |
 | Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1752,9 +1752,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 20053,
+  "EOS_Progressed": 20056,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6247,6 +6247,11 @@
       "Time": "2023-07-23T15:06:43.7095174+00:00",
       "NumProgressed": 20053,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-23T16:06:43.5409677+00:00",
+      "NumProgressed": 20056,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6306,7 +6311,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18850
+      "UsersEstimate": 18853
     },
     {
       "ID": "GameOver",
@@ -6338,7 +6343,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "JuniorEstateAgent",
@@ -6354,7 +6359,7 @@
       "Name": "Knock, knock",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Millionaire",
@@ -6370,7 +6375,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "Negotiator",
@@ -6394,7 +6399,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "SeniorEstateAgent",
@@ -6418,7 +6423,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6216
+      "UsersEstimate": 6217
     },
     {
       "ID": "VeronicaLiptson",
@@ -6426,7 +6431,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "YouDoItWrong",
@@ -6441,15 +6446,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20053,
+      "Progressed": 20056,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-21T22:01:01.5150157+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:06:43.709517+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:06:43.5409673+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:00:03.6369981+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:06:43.7095615+00:00"
+  "LastUpdate_Ratings": "2023-07-23T15:59:57.1742347+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:06:43.5410009+00:00"
 }

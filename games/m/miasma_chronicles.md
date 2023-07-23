@@ -6,7 +6,7 @@ Rating: 4.39 (Ranked 701)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,174 |
-| Ranidaphobia | 77.00% | ~983 |
+| Ranidaphobia | 78.00% | ~995 |
 | Aspiring Editor | 75.00% | ~957 |
 | Gun for Hire | 70.00% | ~893 |
 | I am the law! | 63.00% | ~804 |
@@ -16,7 +16,7 @@ Rating: 4.39 (Ranked 701)
 | Exorcist | 46.00% | ~587 |
 | From Darkness to Light | 46.00% | ~587 |
 | Editor Adept | 45.00% | ~574 |
-| Giant Killer | 43.00% | ~549 |
+| Giant Killer | 44.00% | ~561 |
 | Sensei | 42.00% | ~536 |
 | Firestarter | 41.00% | ~523 |
 | The meaning of Kain | 39.00% | ~498 |
@@ -33,7 +33,7 @@ Rating: 4.39 (Ranked 701)
 | Savior | 25.00% | ~319 |
 | There Can Be Only One! | 24.00% | ~306 |
 | Chain Killer | 22.00% | ~281 |
-| The Watchers | 20.00% | ~255 |
+| The Watchers | 21.00% | ~268 |
 | Commando | 16.00% | ~204 |
 | Newtonian Knockout | 16.00% | ~204 |
 | Chaos Theory | 15.00% | ~191 |
@@ -46,9 +46,9 @@ Rating: 4.39 (Ranked 701)
 | Curveball | 8.00% | ~102 |
 | Dressed To Kill | 7.00% | ~89 |
 | Wipe Out | 7.00% | ~89 |
+| Attenborough | 3.00% | ~38 |
 | Cruelty | 3.00% | ~38 |
 | Master Editor | 3.00% | ~38 |
-| Attenborough | 2.00% | ~26 |
 | Bookworm | 2.00% | ~26 |
 | Five Finger Deathcount | 1.00% | ~13 |
 | Alpha Editor | 0.90% | ~11 |

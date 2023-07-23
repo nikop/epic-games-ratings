@@ -5,6 +5,7 @@ Rating: 4.40 (Ranked 690)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Target America | 4.00% | ~133 |
 | The Kraken Sleeps | 4.00% | ~133 |
 | Climbing the Ladder | 3.00% | ~100 |
 | Liberté | 3.00% | ~100 |
@@ -18,7 +19,6 @@ Rating: 4.40 (Ranked 690)
 | It's Starting to Crack | 3.00% | ~100 |
 | Change the Channel | 3.00% | ~100 |
 | Taking it back | 3.00% | ~100 |
-| Target America | 3.00% | ~100 |
 | No Stone Unturned | 2.00% | ~67 |
 | Opposing Force | 2.00% | ~67 |
 | Organ Grinder | 2.00% | ~67 |
@@ -49,11 +49,11 @@ Rating: 4.40 (Ranked 690)
 | Burn after reading | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
-| Eagle Eyed | 0.50% | ~17 |
-| Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |
+| Eagle Eyed | 0.40% | ~13 |
+| Locomotion Commotion | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
@@ -61,23 +61,23 @@ Rating: 4.40 (Ranked 690)
 | Shoot for the Moon | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
-| Master of Pistols | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
-| Master of Rifles | 0.20% | ~7 |
-| Master-at-arms | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~7 |
 | Reich To The Point | 0.20% | ~7 |
 | Covert Elimination | 0.20% | ~7 |
-| Operation Overlord | 0.20% | ~7 |
 | Stroll in the Woods | 0.20% | ~7 |
 | Going Overboard | 0.20% | ~7 |
+| Master of Pistols | 0.10% | ~3 |
+| Master of Rifles | 0.10% | ~3 |
+| Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
+| Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,332 (Ranked 148)  
+Progressed: 3,334 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 9 (0.27%) (Ranked 156)
 | 2023-07-20 | 3,314 | 9 |
 | 2023-07-21 | 3,319 | 9 |
 | 2023-07-22 | 3,325 | 9 |
-| 2023-07-23 | 3,332 | 9 |
+| 2023-07-23 | 3,334 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

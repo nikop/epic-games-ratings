@@ -1,17 +1,17 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,288 |
+| Let's Get This Party Started | 92.00% | ~7,368 |
 | Photogenic | 88.00% | ~7,048 |
+| Plug It In | 85.00% | ~6,808 |
 | Surge Gauntlet Jockey | 85.00% | ~6,808 |
-| Plug It In | 84.00% | ~6,728 |
 | Adventure Time | 80.00% | ~6,407 |
-| Playing With Power | 77.00% | ~6,167 |
+| Playing With Power | 78.00% | ~6,247 |
 | Coup d'Etat | 59.00% | ~4,725 |
 | You're Fired | 58.00% | ~4,645 |
 | Get Furious | 56.00% | ~4,485 |

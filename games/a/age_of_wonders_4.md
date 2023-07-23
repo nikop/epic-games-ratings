@@ -37,9 +37,9 @@ Rating: 4.63 (Ranked 331)
 | The Goddess of Nature | 2.00% | ~101 |
 | Eternal Lord | 2.00% | ~101 |
 | Digging for Treasure | 2.00% | ~101 |
+| Crimson Caldera | 2.00% | ~101 |
 | Preparation Is Everything | 2.00% | ~101 |
 | Duality | 2.00% | ~101 |
-| Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
 | Grexolis | 1.00% | ~50 |

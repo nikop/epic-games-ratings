@@ -6,24 +6,24 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~608 |
-| My little farm | 65.00% | ~488 |
-| Every beginning is difficult | 62.00% | ~466 |
-| 3, 2, 1, mine | 56.00% | ~421 |
-| Gofer | 56.00% | ~421 |
-| Seafarer | 54.00% | ~406 |
-| O Captain! My Captain! | 54.00% | ~406 |
-| Greed for gold | 43.00% | ~323 |
-| I'm out of here for a while | 42.00% | ~315 |
-| Intangible | 41.00% | ~308 |
-| In a mint condition | 38.00% | ~285 |
-| Licence to Kill | 36.00% | ~270 |
-| Pirates! | 34.00% | ~255 |
-| Collectionitis | 28.00% | ~210 |
-| Megalomania | 28.00% | ~210 |
-| Christening | 26.00% | ~195 |
+| Cabin boy | 81.00% | ~610 |
+| My little farm | 65.00% | ~489 |
+| Every beginning is difficult | 62.00% | ~467 |
+| 3, 2, 1, mine | 56.00% | ~422 |
+| Gofer | 56.00% | ~422 |
+| Seafarer | 54.00% | ~407 |
+| O Captain! My Captain! | 53.00% | ~399 |
+| Greed for gold | 43.00% | ~324 |
+| I'm out of here for a while | 42.00% | ~316 |
+| Intangible | 41.00% | ~309 |
+| In a mint condition | 38.00% | ~286 |
+| Licence to Kill | 36.00% | ~271 |
+| Pirates! | 34.00% | ~256 |
+| Collectionitis | 28.00% | ~211 |
+| Megalomania | 28.00% | ~211 |
+| Christening | 26.00% | ~196 |
 | Groundskeeper | 25.00% | ~188 |
-| Wholesale | 22.00% | ~165 |
+| Wholesale | 22.00% | ~166 |
 | Walk the plank | 21.00% | ~158 |
 | Pearly gates | 17.00% | ~128 |
 | My precious! | 17.00% | ~128 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751 (Ranked 201)  
+Progressed: 753 (Ranked 201)  
 Completed: 1 (0.13%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1 (0.13%) (Ranked 180)
 | 2023-07-20 | 739 | 1 |
 | 2023-07-21 | 745 | 1 |
 | 2023-07-22 | 748 | 1 |
-| 2023-07-23 | 751 | 1 |
+| 2023-07-23 | 753 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

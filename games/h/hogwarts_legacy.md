@@ -9,15 +9,15 @@ Rating: 4.77 (Ranked 109)
 | First Class Student | 11.00% | ~31,722 |
 | A Keen Sense of Spell | 10.00% | ~28,838 |
 | Troll with the Punches | 10.00% | ~28,838 |
-| The Hallowed Hero | 9.00% | ~25,954 |
-| The Defender of Dragons | 9.00% | ~25,954 |
-| A Talent for Spending | 9.00% | ~25,954 |
-| That's a Keeper | 9.00% | ~25,954 |
+| The One Who Mastered Memories | 9.00% | ~25,955 |
+| The Hallowed Hero | 9.00% | ~25,955 |
+| The Defender of Dragons | 9.00% | ~25,955 |
+| Loom for Improvement | 9.00% | ~25,955 |
+| A Talent for Spending | 9.00% | ~25,955 |
+| That's a Keeper | 9.00% | ~25,955 |
 | Grappling with a Graphorn | 8.00% | ~23,071 |
-| The One Who Mastered Memories | 8.00% | ~23,071 |
 | The Hero of Hogwarts | 8.00% | ~23,071 |
 | Challenge Accepted | 8.00% | ~23,071 |
-| Loom for Improvement | 8.00% | ~23,071 |
 | Coasting Along | 8.00% | ~23,071 |
 | A Sallow Grave | 7.00% | ~20,187 |
 | Followed the Butterflies | 7.00% | ~20,187 |
@@ -32,11 +32,11 @@ Rating: 4.77 (Ranked 109)
 | Raising Expectations | 5.00% | ~14,419 |
 | The Toast of the Town | 4.00% | ~11,535 |
 | The Ends Petrify the Means | 4.00% | ~11,535 |
-| Going Through the Potions | 3.00% | ~8,651 |
-| Room with a View | 3.00% | ~8,651 |
-| The Intrepid Explorer | 3.00% | ~8,651 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,651 |
-| The Wise Owl | 3.00% | ~8,651 |
+| Going Through the Potions | 3.00% | ~8,652 |
+| Room with a View | 3.00% | ~8,652 |
+| The Intrepid Explorer | 3.00% | ~8,652 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,652 |
+| The Wise Owl | 3.00% | ~8,652 |
 | The Good Samaritan | 2.00% | ~5,768 |
 | Put Down Roots | 2.00% | ~5,768 |
 | The Auror's Apprentice | 2.00% | ~5,768 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,383 (Ranked 42)  
+Progressed: 288,385 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
-| 2023-07-23 | 288,383 | 433 |
+| 2023-07-23 | 288,385 | 433 |
 ## Awards
 Max (Character Customization): 21,217  (Ranked 17)  
 Sum: 39,732 (Ranked 30)  

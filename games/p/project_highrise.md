@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~141 |
-| Starting Skyward | 52.00% | ~129 |
-| Grime is Not Good | 44.00% | ~109 |
+| In the Black | 57.00% | ~142 |
+| Starting Skyward | 51.00% | ~127 |
+| Grime is Not Good | 44.00% | ~110 |
 | Campaign Launch | 39.00% | ~97 |
-| Floor Galore | 38.00% | ~94 |
+| Floor Galore | 38.00% | ~95 |
 | Dinner Dash | 37.00% | ~92 |
 | Need a Consult | 35.00% | ~87 |
 | It's Technical | 35.00% | ~87 |
 | Upgrade Unlock | 33.00% | ~82 |
-| Delegate Maintenance | 32.00% | ~79 |
+| Delegate Maintenance | 32.00% | ~80 |
 | Proper Walls | 31.00% | ~77 |
-| Destination Destiny | 28.00% | ~69 |
+| Destination Destiny | 28.00% | ~70 |
 | Happy Tenants | 25.00% | ~62 |
 | Smooth Service | 24.00% | ~60 |
 | Your Prestige is Rising | 23.00% | ~57 |
 | Potent Potables | 23.00% | ~57 |
 | Retail Revenue | 23.00% | ~57 |
 | Lux Living | 22.00% | ~55 |
-| People Mover | 21.00% | ~52 |
 | Leveled Up Shops | 21.00% | ~52 |
+| People Mover | 20.00% | ~50 |
 | Emporium Empire | 20.00% | ~50 |
 | We Don't Need No Education | 20.00% | ~50 |
 | Get Electrified | 20.00% | ~50 |
-| Artfully Done | 19.00% | ~47 |
-| Rehab Expert | 19.00% | ~47 |
 | Don't Feel a Loan | 19.00% | ~47 |
+| Artfully Done | 18.00% | ~45 |
+| Rehab Expert | 18.00% | ~45 |
 | Tasty Profits | 18.00% | ~45 |
 | Under One Roof | 16.00% | ~40 |
 | Established Fame | 16.00% | ~40 |
 | Cashflow Chief | 16.00% | ~40 |
-| Starred Dining | 15.00% | ~37 |
-| Boutique Benefits | 15.00% | ~37 |
 | Terrifically Trashed | 15.00% | ~37 |
+| Starred Dining | 14.00% | ~35 |
+| Boutique Benefits | 14.00% | ~35 |
 | Thrilled Tenants | 14.00% | ~35 |
 | Smooth Operator | 13.00% | ~32 |
 | Swimming in Surplus | 12.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 257)  
+Progressed: 249 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 232 | 0 |
 | 2023-07-21 | 239 | 0 |
 | 2023-07-22 | 246 | 0 |
-| 2023-07-23 | 248 | 0 |
+| 2023-07-23 | 249 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

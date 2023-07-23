@@ -9,10 +9,10 @@
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~22 |
 | Onwards and Upwards | 22.00% | ~22 |
 | Like Phileas Fogg | 16.00% | ~16 |
-| Serial Winner | 14.00% | ~14 |
+| Serial Winner | 15.00% | ~15 |
 | Start Your Engines | 12.00% | ~12 |
 | Lone Wolf | 12.00% | ~12 |
-| Highly Qualified | 9.00% | ~9 |
+| Highly Qualified | 10.00% | ~10 |
 | No Room for Improvement | 9.00% | ~9 |
 | Playing God | 9.00% | ~9 |
 | Nerd | 8.00% | ~8 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 306)  
+Progressed: 101 (Ranked 307)  
 Completed: 2 (1.98%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |

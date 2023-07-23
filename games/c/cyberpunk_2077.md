@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,717 |
-| Right Back At Ya | 38.00% | ~329,548 |
-| The Lovers | 34.00% | ~294,859 |
-| Stanislavski's Method | 28.00% | ~242,825 |
-| The Wheel of Fortune | 27.00% | ~234,152 |
-| The Hermit | 24.00% | ~208,135 |
-| True Soldier | 23.00% | ~199,463 |
-| Christmas Tree Attack | 22.00% | ~190,791 |
-| The High Priestess | 21.00% | ~182,119 |
-| Legend of The Afterlife | 21.00% | ~182,119 |
-| Life of the Road | 20.00% | ~173,446 |
-| Full Body Conversion | 18.00% | ~156,102 |
-| The World | 17.00% | ~147,429 |
-| Bushido and Chill | 16.00% | ~138,757 |
-| Gun Fu | 15.00% | ~130,085 |
-| True Warrior | 15.00% | ~130,085 |
-| I Am The Law | 14.00% | ~121,412 |
-| Judy vs Night City | 14.00% | ~121,412 |
-| To Protect and Serve | 13.00% | ~112,740 |
-| Master Crafter | 13.00% | ~112,740 |
-| Two Heads, One Bullet | 11.00% | ~95,395 |
-| The Wandering Fool | 9.00% | ~78,051 |
-| The Quick and the Dead | 9.00% | ~78,051 |
-| Breathtaking | 8.00% | ~69,378 |
-| Ten out of Ten | 8.00% | ~69,378 |
-| The Star | 7.00% | ~60,706 |
-| To Bad Decisions! | 6.00% | ~52,034 |
-| The Sun | 6.00% | ~52,034 |
-| Must Be Rats | 4.00% | ~34,689 |
-| Temperance | 4.00% | ~34,689 |
+| The Fool | 68.00% | ~589,726 |
+| Right Back At Ya | 38.00% | ~329,553 |
+| The Lovers | 34.00% | ~294,863 |
+| Stanislavski's Method | 28.00% | ~242,828 |
+| The Wheel of Fortune | 27.00% | ~234,156 |
+| The Hermit | 24.00% | ~208,139 |
+| True Soldier | 23.00% | ~199,466 |
+| Christmas Tree Attack | 22.00% | ~190,794 |
+| The High Priestess | 21.00% | ~182,121 |
+| Legend of The Afterlife | 21.00% | ~182,121 |
+| Life of the Road | 20.00% | ~173,449 |
+| Full Body Conversion | 18.00% | ~156,104 |
+| The World | 17.00% | ~147,431 |
+| Bushido and Chill | 16.00% | ~138,759 |
+| Gun Fu | 15.00% | ~130,087 |
+| True Warrior | 15.00% | ~130,087 |
+| I Am The Law | 14.00% | ~121,414 |
+| Judy vs Night City | 14.00% | ~121,414 |
+| To Protect and Serve | 13.00% | ~112,742 |
+| Master Crafter | 13.00% | ~112,742 |
+| Two Heads, One Bullet | 11.00% | ~95,397 |
+| The Wandering Fool | 9.00% | ~78,052 |
+| The Quick and the Dead | 9.00% | ~78,052 |
+| Breathtaking | 8.00% | ~69,380 |
+| Ten out of Ten | 8.00% | ~69,380 |
+| The Star | 7.00% | ~60,707 |
+| To Bad Decisions! | 6.00% | ~52,035 |
+| The Sun | 6.00% | ~52,035 |
+| Must Be Rats | 4.00% | ~34,690 |
+| Temperance | 4.00% | ~34,690 |
 | City Lights | 3.00% | ~26,017 |
 | Mean Streets | 3.00% | ~26,017 |
 | Little Tokyo | 3.00% | ~26,017 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,672 |
 | Rough Landing | 0.50% | ~4,336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,231 (Ranked 14)  
-Completed: 1,894 (0.22%) (Ranked 162)  
+Progressed: 867,244 (Ranked 14)  
+Completed: 1,895 (0.22%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,10 +145,10 @@ Completed: 1,894 (0.22%) (Ranked 162)
 | 2023-07-20 | 866,759 | 1,888 |
 | 2023-07-21 | 866,915 | 1,892 |
 | 2023-07-22 | 867,103 | 1,894 |
-| 2023-07-23 | 867,231 | 1,894 |
+| 2023-07-23 | 867,244 | 1,895 |
 ## Awards
 Max (Character Customization): 73,841  (Ranked 9)  
-Sum: 194,129 (Ranked 13)  
+Sum: 194,152 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -158,8 +158,8 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 8,550 |
 | This game has Amazing Storytelling | 8,543 |
 | This game is Extremely Fun | 8,441 |
-| This game is Highly Recommended | 8,398 |
-| This game is Relaxing | 8,351 |
+| This game is Highly Recommended | 8,408 |
+| This game is Relaxing | 8,364 |
 | This game has Quickly Understood Controls | 8,222 |
 | This game has Amazing Characters | 8,215 |
 | This game has a Creative Community | 5,388 |
@@ -351,4 +351,4 @@ Diff (max vs sum): -4
 | 2023-07-20 | 4.62 | - | 73,685 | 193,476 |
 | 2023-07-21 | 4.62 | - | 73,751 | 193,713 |
 | 2023-07-22 | 4.62 | - | 73,841 | 194,003 |
-| 2023-07-23 | 4.62 | - | 73,841 | 194,129 |
+| 2023-07-23 | 4.62 | - | 73,841 | 194,152 |

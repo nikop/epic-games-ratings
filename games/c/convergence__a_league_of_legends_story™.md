@@ -10,6 +10,7 @@
 | The Steel Shadow | 16.00% | ~125 |
 | Make Up For Lost Time | 16.00% | ~125 |
 | The Prince in Heels | 16.00% | ~125 |
+| The Brass Boss | 16.00% | ~125 |
 | Time Flies | 15.00% | ~117 |
 | The Harder They Fall | 15.00% | ~117 |
 | No, Thanks! | 15.00% | ~117 |
@@ -18,7 +19,6 @@
 | Fast Learner | 15.00% | ~117 |
 | Immaculate Aim | 15.00% | ~117 |
 | Immaculate Aim | 15.00% | ~117 |
-| The Brass Boss | 15.00% | ~117 |
 | The Betrayer | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | The Loose Cannon | 14.00% | ~110 |

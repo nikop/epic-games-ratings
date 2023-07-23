@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Starting to take notes | 69.00% | ~120 |
-| The first of many | 60.00% | ~104 |
+| Starting to take notes | 69.00% | ~121 |
+| The first of many | 60.00% | ~106 |
 | Graduated in contraptions | 20.00% | ~35 |
 | First medium level | 9.00% | ~16 |
 | Easy group | 5.00% | ~9 |
@@ -35,7 +35,7 @@
 | Mountain master | 0.00% | ~0 |
 | First extreme level | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 280)  
+Progressed: 176 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 139 | 0 |
 | 2023-07-21 | 156 | 0 |
 | 2023-07-22 | 170 | 0 |
-| 2023-07-23 | 174 | 0 |
+| 2023-07-23 | 176 | 0 |

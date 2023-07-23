@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31092,
+  "EOS_Progressed": 31104,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 870,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10338,6 +10338,11 @@
       "Time": "2023-07-23T15:04:23.7025121+00:00",
       "NumProgressed": 31092,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-23T16:04:22.4605253+00:00",
+      "NumProgressed": 31104,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10349,7 +10354,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4977
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10357,7 +10362,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6218
+      "UsersEstimate": 6221
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10445,7 +10450,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -10580,7 +10585,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31092,
+      "Progressed": 31104,
       "Completed": 20
     }
   ],
@@ -10588,8 +10593,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-23T15:04:23.7025117+00:00",
+  "LastChanged_Achievements": "2023-07-23T16:04:22.4605248+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:00:30.0018667+00:00",
-  "LastUpdate_Achievements": "2023-07-23T15:04:23.7025952+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:00:24.032741+00:00",
+  "LastUpdate_Achievements": "2023-07-23T16:04:22.4605873+00:00"
 }
