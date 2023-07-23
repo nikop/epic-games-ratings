@@ -47,7 +47,7 @@
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,602 | 4.57 | 443 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,338 | 4.71 | 182 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,295 | 4.68 | 238 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,829 | 4.74 | 142 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,835 | 4.74 | 142 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,729 | 4.71 | 182 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 664 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,410 | 4.77 | 109 |
@@ -85,7 +85,7 @@
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,560 | 4.57 | 443 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,491 | 4.47 | 600 |
 | 85 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,451 | 4.46 | 610 |
-| 86 | [Paladins](games/p/paladins.md) | 3,427 | 4.34 | 749 |
+| 86 | [Paladins](games/p/paladins.md) | 3,427 | 4.34 | 748 |
 | 87 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,334 | 4.68 | 238 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,294 | 4.68 | 238 |
 | 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,281 | 4.76 | 119 |
@@ -247,7 +247,7 @@
 | 245 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 252 | 4.58 | 425 |
 | 246 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 672 |
 | 246 | [MudRunner](games/m/mudrunner.md) | 248 | 4.61 | 366 |
-| 248 | [Roller Champions™](games/r/roller_champions™.md) | 247 | 4.34 | 749 |
+| 248 | [Roller Champions™](games/r/roller_champions™.md) | 247 | 4.34 | 748 |
 | 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 243 | 4.49 | 576 |
 | 250 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 238 | 4.45 | 624 |
 | 251 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 235 | 4.84 | 49 |
@@ -300,7 +300,7 @@
 | 298 | [Predecessor](games/p/predecessor.md) | 139 | 4.43 | 655 |
 | 299 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 137 | 4.28 | 791 |
 | 299 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 137 | 4.85 | 40 |
-| 301 | [Encased](games/e/encased.md) | 136 | 4.34 | 749 |
+| 301 | [Encased](games/e/encased.md) | 136 | 4.34 | 748 |
 | 302 | [Atomicrops](games/a/atomicrops.md) | 135 | 4.88 | 19 |
 | 303 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 539 |
 | 304 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 366 |
@@ -465,7 +465,7 @@
 | 463 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 76 |
 | 463 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 463 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.52 | 519 |
-| 466 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 749 |
+| 466 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 748 |
 | 466 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.26 | 804 |
 | 466 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 443 |
 | 466 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 215 |

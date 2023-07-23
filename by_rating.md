@@ -146,7 +146,7 @@
 | 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 628 | 172 |
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 798 | 153 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 644 | 170 |
-| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,829 | 48 |
+| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,835 | 48 |
 | 142 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 505 |
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,829 | 14 |
 | 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 505 |
@@ -746,16 +746,16 @@
 | 739 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 505 |
 | 739 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 269 |
 | 739 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 505 |
-| 739 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.35 | 0 | 505 |
 | 739 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 505 |
-| 749 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 466 |
-| 749 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 505 |
-| 749 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 505 |
-| 749 | [Encased](games/e/encased.md) | 4.34 | 136 | 301 |
-| 749 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 505 |
-| 749 | [Paladins](games/p/paladins.md) | 4.34 | 3,427 | 86 |
-| 749 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 505 |
-| 749 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 247 | 248 |
+| 748 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 466 |
+| 748 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 505 |
+| 748 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 505 |
+| 748 | [Encased](games/e/encased.md) | 4.34 | 136 | 301 |
+| 748 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 505 |
+| 748 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.34 | 0 | 505 |
+| 748 | [Paladins](games/p/paladins.md) | 4.34 | 3,427 | 86 |
+| 748 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 505 |
+| 748 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 247 | 248 |
 | 757 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 505 |
 | 757 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 316 |
 | 757 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 505 |

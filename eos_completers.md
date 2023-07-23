@@ -20,7 +20,7 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.99% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.62% |
+| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.49% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 10.00% |
@@ -32,7 +32,7 @@
 | 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 7.01% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.15% |
@@ -45,14 +45,14 @@
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.60% |
-| 46 | [Without Escape](games/w/without_escape.md) | 4.35% |
-| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
+| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
+| 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.55% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.54% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.52% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -69,13 +69,13 @@
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 67 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
-| 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
+| 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
-| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
+| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.47% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
-| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
+| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.20% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.03% |
