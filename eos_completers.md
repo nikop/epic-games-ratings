@@ -20,15 +20,15 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.92% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.33% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.30% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.88% |
 | 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.79% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.78% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.05% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.98% |
@@ -51,12 +51,12 @@
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
-| 52 | [ZZT!](games/z/zzt!.md) | 3.55% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.54% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.57% |
+| 53 | [ZZT!](games/z/zzt!.md) | 3.55% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.52% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.29% |
+| 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.28% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.06% |
@@ -94,9 +94,9 @@
 | 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
-| 95 | [Five Dates](games/f/five_dates.md) | 1.44% |
+| 95 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
-| 97 | [A Musical Story](games/a/a_musical_story.md) | 1.27% |
+| 97 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
 | 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
 | 99 | [Chorus](games/c/chorus.md) | 1.14% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
