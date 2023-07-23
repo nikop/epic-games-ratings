@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247056,
+  "EOS_Progressed": 247057,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9199,6 +9199,11 @@
       "Time": "2023-07-23T22:01:00.9817838+00:00",
       "NumProgressed": 247056,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T23:02:52.5255928+00:00",
+      "NumProgressed": 247057,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9282,7 +9287,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37058
+      "UsersEstimate": 37059
     },
     {
       "ID": "clearCut",
@@ -9426,7 +9431,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19764
+      "UsersEstimate": 19765
     },
     {
       "ID": "lockupLockdown",
@@ -9577,7 +9582,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247056,
+      "Progressed": 247057,
       "Completed": 3
     }
   ],
@@ -9585,8 +9590,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:01:00.9817831+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:02:52.5255922+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.360681+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:59:29.853391+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:01:00.9818649+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:00:43.1213818+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:02:52.5256894+00:00"
 }

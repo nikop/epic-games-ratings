@@ -5,8 +5,8 @@ Rating: 4.10 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,586 |
-| World Map | 79.00% | ~1,347 |
+| Victor | 93.00% | ~1,587 |
+| World Map | 79.00% | ~1,348 |
 | Temple of Eternals | 56.00% | ~955 |
 | Prestigious | 53.00% | ~904 |
 | Fellowship Power | 41.00% | ~699 |
@@ -28,25 +28,25 @@ Rating: 4.10 (Ranked 890)
 | Milestone collector | 12.00% | ~205 |
 | Superior | 12.00% | ~205 |
 | Scientist | 11.00% | ~188 |
-| Challenger | 10.00% | ~170 |
-| Daily Quest Completionist | 10.00% | ~170 |
-| Doing My Part | 10.00% | ~170 |
-| Hunter | 10.00% | ~170 |
-| Mastery | 10.00% | ~170 |
-| Relic Of The Past | 10.00% | ~170 |
-| Scroll Master | 10.00% | ~170 |
-| The power of Awakening | 10.00% | ~170 |
-| Four Leaf Clover | 9.00% | ~153 |
-| Frostfire Liberator | 9.00% | ~153 |
-| Moving Up The Ladder | 9.00% | ~153 |
+| Challenger | 10.00% | ~171 |
+| Doing My Part | 10.00% | ~171 |
+| Hunter | 10.00% | ~171 |
+| Mastery | 10.00% | ~171 |
+| Relic Of The Past | 10.00% | ~171 |
+| Scroll Master | 10.00% | ~171 |
+| The power of Awakening | 10.00% | ~171 |
+| Daily Quest Completionist | 9.00% | ~154 |
+| Four Leaf Clover | 9.00% | ~154 |
+| Frostfire Liberator | 9.00% | ~154 |
+| Moving Up The Ladder | 9.00% | ~154 |
 | Here We Go Again | 8.00% | ~136 |
 | Master Enchanter | 8.00% | ~136 |
 | The father of Dragons | 8.00% | ~136 |
+| Enchanting skill | 7.00% | ~119 |
 | The Expeditioner | 7.00% | ~119 |
 | Trader | 7.00% | ~119 |
 | Crystal Mining | 6.00% | ~102 |
 | Dragon Slayer | 6.00% | ~102 |
-| Enchanting skill | 6.00% | ~102 |
 | Engineer Mastery | 6.00% | ~102 |
 | How Do You Turn This On? | 6.00% | ~102 |
 | Missions Dedication | 6.00% | ~102 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,705 (Ranked 170)  
+Progressed: 1,706 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-20 | 1,682 | 1 |
 | 2023-07-21 | 1,690 | 1 |
 | 2023-07-22 | 1,699 | 1 |
-| 2023-07-23 | 1,705 | 1 |
+| 2023-07-23 | 1,706 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

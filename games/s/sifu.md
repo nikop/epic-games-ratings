@@ -8,15 +8,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,031 |
 | Project Arena | 4.00% | ~825 |
-| The Old Grandmaster | 2.00% | ~14,226 |
-| The Assault | 2.00% | ~14,226 |
-| The Hateful Pole Fighter | 2.00% | ~14,226 |
-| A Lady's Blood in the Snow | 2.00% | ~14,226 |
-| Life is your teacher | 2.00% | ~14,226 |
-| State of constant learning | 2.00% | ~14,226 |
-| Qi Gong: Breath | 2.00% | ~14,226 |
-| Lightning Hands | 2.00% | ~14,226 |
-| Rumble in the Hangar | 2.00% | ~14,226 |
+| The Old Grandmaster | 2.00% | ~14,227 |
+| The Assault | 2.00% | ~14,227 |
+| The Hateful Pole Fighter | 2.00% | ~14,227 |
+| A Lady's Blood in the Snow | 2.00% | ~14,227 |
+| Life is your teacher | 2.00% | ~14,227 |
+| State of constant learning | 2.00% | ~14,227 |
+| Qi Gong: Breath | 2.00% | ~14,227 |
+| Lightning Hands | 2.00% | ~14,227 |
+| Rumble in the Hangar | 2.00% | ~14,227 |
 | Lady Wing Chun | 1.00% | ~7,113 |
 | Furious Fists | 1.00% | ~7,113 |
 | Scareless | 1.00% | ~7,113 |
@@ -46,8 +46,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.50% | ~3,557 |
 | Martial Artist | 0.40% | ~2,845 |
 | Knowledge Greed | 0.40% | ~2,845 |
-| Martial Hub | 0.40% | ~82 |
-| Secure, Protect, Leave | 0.40% | ~82 |
+| Martial Hub | 0.40% | ~83 |
+| Secure, Protect, Leave | 0.40% | ~83 |
 | Drunken Fighter | 0.30% | ~2,134 |
 | Healing Memory | 0.30% | ~2,134 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,134 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,324 (Ranked 19)  
+Progressed: 711,328 (Ranked 19)  
 Completed: 12,831 (1.80%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 12,831 (1.80%) (Ranked 85)
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
 | 2023-07-22 | 711,203 | 12,830 |
-| 2023-07-23 | 711,324 | 12,831 |
+| 2023-07-23 | 711,328 | 12,831 |
 ## Awards
 Max (Great Boss Battles): 6,299  (Ranked 53)  
 Sum: 10,802 (Ranked 78)  

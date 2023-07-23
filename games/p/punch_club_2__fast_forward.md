@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 86.00% | ~98 |
-| Your first fight | 84.00% | ~96 |
-| First winning | 82.00% | ~93 |
-| Your first job | 82.00% | ~93 |
-| Good Person Chip | 82.00% | ~93 |
-| First defeat | 75.00% | ~86 |
+| Such a strange dream… | 85.00% | ~98 |
+| Your first fight | 83.00% | ~95 |
+| First winning | 82.00% | ~94 |
+| Good Person Chip | 82.00% | ~94 |
+| Your first job | 81.00% | ~93 |
+| First defeat | 76.00% | ~87 |
 | Neurotrainer – power gainer! | 75.00% | ~86 |
-| Depressed visitor | 72.00% | ~82 |
-| Fitness professional | 70.00% | ~80 |
-| Old movies enjoyer | 70.00% | ~80 |
-| Employee of the week | 70.00% | ~80 |
-| Your own amateur gym | 66.00% | ~75 |
-| Run K, run! | 66.00% | ~75 |
+| Fitness professional | 73.00% | ~84 |
+| Old movies enjoyer | 72.00% | ~83 |
+| Employee of the week | 72.00% | ~83 |
+| Depressed visitor | 71.00% | ~82 |
+| Your own amateur gym | 66.00% | ~76 |
+| Run K, run! | 65.00% | ~75 |
+| No bullying more | 63.00% | ~72 |
 | Hello, world! | 63.00% | ~72 |
-| No bullying more | 62.00% | ~71 |
-| Intriguing candies | 60.00% | ~68 |
-| Fighting is cool | 58.00% | ~66 |
-| Pal of your father? | 54.00% | ~62 |
-| Employee of the month | 52.00% | ~59 |
-| Spirit of the past | 51.00% | ~58 |
-| Little hacker | 50.00% | ~57 |
+| Intriguing candies | 59.00% | ~68 |
+| Fighting is cool | 57.00% | ~66 |
+| Pal of your father? | 53.00% | ~61 |
+| Employee of the month | 51.00% | ~59 |
+| Little hacker | 50.00% | ~58 |
+| Spirit of the past | 50.00% | ~58 |
 | Law student | 48.00% | ~55 |
 | Your own way | 48.00% | ~55 |
-| Workout professional | 46.00% | ~52 |
-| Fight for life | 42.00% | ~48 |
+| Workout professional | 45.00% | ~52 |
+| Fight for life | 43.00% | ~49 |
+| Champion – starter pack | 43.00% | ~49 |
+| It's good to be alive | 42.00% | ~48 |
+| Own four walls | 42.00% | ~48 |
 | Handyman | 41.00% | ~47 |
-| Champion – starter pack | 41.00% | ~47 |
-| It's good to be alive | 40.00% | ~46 |
-| Own four walls | 40.00% | ~46 |
+| Extreme neuropower! | 41.00% | ~47 |
 | Employee of the year | 40.00% | ~46 |
-| Extreme neuropower! | 39.00% | ~44 |
-| Legal courier | 32.00% | ~36 |
-| Now you are worthy | 29.00% | ~33 |
+| Legal courier | 32.00% | ~37 |
+| Now you are worthy | 30.00% | ~34 |
 | No blades in the gym | 27.00% | ~31 |
 | Escaped from a big trouble | 27.00% | ~31 |
+| Guiding on the right path | 27.00% | ~31 |
 | Mysterious voice | 26.00% | ~30 |
-| Guiding on the right path | 26.00% | ~30 |
-| Fight is life | 24.00% | ~27 |
-| Responsible approach | 24.00% | ~27 |
+| Fight is life | 23.00% | ~26 |
+| Responsible approach | 23.00% | ~26 |
 | Get out of my apartment! | 22.00% | ~25 |
-| Mom got better | 20.00% | ~23 |
-| Deal with life | 20.00% | ~23 |
-| The die is cast | 20.00% | ~23 |
-| Underground dwellers | 20.00% | ~23 |
-| Gang wrangler | 18.00% | ~21 |
-| Champion – no way back | 18.00% | ~21 |
-| Anyone can resist | 18.00% | ~21 |
+| Mom got better | 21.00% | ~24 |
+| Deal with life | 21.00% | ~24 |
+| The die is cast | 21.00% | ~24 |
+| Underground dwellers | 21.00% | ~24 |
+| Gang wrangler | 19.00% | ~22 |
+| Champion – no way back | 19.00% | ~22 |
+| Anyone can resist | 19.00% | ~22 |
 | Seashell hunter | 18.00% | ~21 |
-| Problems of cyborgs | 15.00% | ~17 |
-| Poisoned fighter | 15.00% | ~17 |
+| Problems of cyborgs | 17.00% | ~20 |
+| Poisoned fighter | 17.00% | ~20 |
 | The last bell ring | 15.00% | ~17 |
 | GYM professional | 14.00% | ~16 |
+| Trap disarmed | 12.00% | ~14 |
+| Careerist | 12.00% | ~14 |
 | Undercover robot | 12.00% | ~14 |
-| Trap disarmed | 11.00% | ~13 |
-| Careerist | 11.00% | ~13 |
 | Absolute Champion! | 9.00% | ~10 |
 | Another world | 8.00% | ~9 |
 | The lonesome road | 8.00% | ~9 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 6.00% | ~7 |
 | Silver’s past | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 301)  
+Progressed: 115 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 18 | 0 |
 | 2023-07-21 | 54 | 0 |
 | 2023-07-22 | 87 | 0 |
-| 2023-07-23 | 114 | 0 |
+| 2023-07-23 | 115 | 0 |

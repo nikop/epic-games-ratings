@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -8258,10 +8258,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 286071,
       "NumberOfAwardsMax": 34884
+    },
+    {
+      "Time": "2023-07-23T22:59:11.9839103+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 286105,
+      "NumberOfAwardsMax": 34884
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286071,
+  "NumberOfAwards": 286105,
   "NumberOfAwardsMax": 34884,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8323,7 +8329,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25021
+      "Count": 25055
     },
     {
       "Text": "This game has a Creative Community",
@@ -8343,8 +8349,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-07-23T21:58:28.4739675+00:00",
+  "LastChanged": "2023-07-23T22:59:11.9839101+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.0903173+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:58:28.4739681+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:04:52.073205+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:59:11.9839108+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:05:37.2013028+00:00"
 }

@@ -15,6 +15,7 @@
 | There's something in those trees | 3.00% | ~2 |
 | Good payer | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
+| Outdoor Decorator | 1.00% | ~1 |
 | Healing | 1.00% | ~1 |
 | Desert Power | 1.00% | ~1 |
 | Self-sufficient | 1.00% | ~1 |
@@ -28,7 +29,6 @@
 | Counter-espionage | 0.00% | ~0 |
 | Supersoldier | 0.00% | ~0 |
 | Perfect Soldier | 0.00% | ~0 |
-| Outdoor Decorator | 0.00% | ~0 |
 | Crisis Committee | 0.00% | ~0 |
 | Vive le Résistance | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |

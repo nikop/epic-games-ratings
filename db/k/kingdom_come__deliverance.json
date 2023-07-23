@@ -6132,9 +6132,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 793895,
+  "EOS_Progressed": 793903,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16312,6 +16312,11 @@
       "Time": "2023-07-23T22:03:40.1424598+00:00",
       "NumProgressed": 793895,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-23T23:03:45.6674439+00:00",
+      "NumProgressed": 793903,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -16347,7 +16352,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127023
+      "UsersEstimate": 127024
     },
     {
       "ID": "Awakening",
@@ -16355,7 +16360,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 166718
+      "UsersEstimate": 166720
     },
     {
       "ID": "BadGirl",
@@ -16403,7 +16408,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246107
+      "UsersEstimate": 246110
     },
     {
       "ID": "Bookworm",
@@ -16411,7 +16416,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 111145
+      "UsersEstimate": 111146
     },
     {
       "ID": "Buddy",
@@ -16419,7 +16424,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95267
+      "UsersEstimate": 95268
     },
     {
       "ID": "Casanova",
@@ -16435,7 +16440,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198474
+      "UsersEstimate": 198476
     },
     {
       "ID": "Chivalrous",
@@ -16523,7 +16528,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182596
+      "UsersEstimate": 182598
     },
     {
       "ID": "Fighter",
@@ -16539,7 +16544,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119084
+      "UsersEstimate": 119085
     },
     {
       "ID": "Freud",
@@ -16627,7 +16632,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "InfernalJustice",
@@ -16643,7 +16648,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103206
+      "UsersEstimate": 103207
     },
     {
       "ID": "Judas",
@@ -16803,7 +16808,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158779
+      "UsersEstimate": 158781
     },
     {
       "ID": "RevenantOfLedechko",
@@ -16843,7 +16848,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158779
+      "UsersEstimate": 158781
     },
     {
       "ID": "SerialKiller",
@@ -16859,7 +16864,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87328
+      "UsersEstimate": 87329
     },
     {
       "ID": "Sniper",
@@ -16899,7 +16904,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95267
+      "UsersEstimate": 95268
     },
     {
       "ID": "TisButAScratch",
@@ -16978,15 +16983,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 793895,
+      "Progressed": 793903,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-23T20:58:50.1469509+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:03:40.1424593+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:03:45.6674434+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.4287749+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:58:43.758634+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:03:40.1425951+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:59:37.6257313+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:03:45.667604+00:00"
 }

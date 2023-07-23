@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 1.00% | ~130 |
+| The Clergy | 1.00% | ~131 |
 | The Great Mage | 0.70% | ~91 |
 | Settler | 0.50% | ~65 |
 | Play a Single Player Game | 0.50% | ~65 |
@@ -18,7 +18,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.30% | ~39 |
 | Good | 0.30% | ~39 |
 | Just | 0.30% | ~39 |
+| Mason | 0.30% | ~39 |
 | Noble | 0.30% | ~39 |
+| Pioneer | 0.30% | ~39 |
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
@@ -31,8 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
-| Mason | 0.20% | ~26 |
-| Pioneer | 0.20% | ~26 |
 | Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,050 (Ranked 115)  
+Progressed: 13,051 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,050 | 5 |
+| 2023-07-23 | 13,051 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

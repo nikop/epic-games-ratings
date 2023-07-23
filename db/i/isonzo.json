@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6423,
+  "EOS_Progressed": 6424,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3567,6 +3567,11 @@
       "Time": "2023-07-23T22:04:59.8642896+00:00",
       "NumProgressed": 6423,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T23:05:48.3044038+00:00",
+      "NumProgressed": 6424,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3586,7 +3591,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3626,7 +3631,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3896,9 +3901,9 @@
       "ID": "ISONZO_ACH_TOSCA",
       "SetID": "akchbl3",
       "Name": "Tosca",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 514
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -3906,7 +3911,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3930,14 +3935,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6423,
+      "Progressed": 6424,
       "Completed": 8
     }
   ],
@@ -3945,8 +3950,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:04:59.864289+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:05:48.3044033+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:58:02.6845864+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:04:59.8643433+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:58:30.7562268+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:05:48.3044864+00:00"
 }

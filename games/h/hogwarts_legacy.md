@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,609 |
-| First Class Student | 11.00% | ~31,725 |
-| A Keen Sense of Spell | 10.00% | ~28,841 |
-| Troll with the Punches | 10.00% | ~28,841 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,610 |
+| First Class Student | 11.00% | ~31,726 |
+| A Keen Sense of Spell | 10.00% | ~28,842 |
+| Troll with the Punches | 10.00% | ~28,842 |
 | The One Who Mastered Memories | 9.00% | ~25,957 |
 | The Hallowed Hero | 9.00% | ~25,957 |
 | The Defender of Dragons | 9.00% | ~25,957 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,421 |
 | Third Time's a Charm | 5.00% | ~14,421 |
 | Raising Expectations | 5.00% | ~14,421 |
-| The Toast of the Town | 4.00% | ~11,536 |
-| The Ends Petrify the Means | 4.00% | ~11,536 |
+| The Toast of the Town | 4.00% | ~11,537 |
+| The Ends Petrify the Means | 4.00% | ~11,537 |
 | Going Through the Potions | 3.00% | ~8,652 |
 | Room with a View | 3.00% | ~8,652 |
 | The Intrepid Explorer | 3.00% | ~8,652 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,412 (Ranked 42)  
-Completed: 433 (0.15%) (Ranked 175)  
+Progressed: 288,415 (Ranked 42)  
+Completed: 434 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,24 +145,24 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
-| 2023-07-23 | 288,412 | 433 |
+| 2023-07-23 | 288,415 | 434 |
 ## Awards
 Max (Character Customization): 21,217  (Ranked 17)  
-Sum: 39,749 (Ranked 30)  
+Sum: 39,755 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,217 |
 | This game has Great Boss Battles | 10,171 |
 | This game is Great for Beginners | 936 |
-| This game is Extremely Fun | 908 |
+| This game is Extremely Fun | 912 |
 | This game is Relaxing | 897 |
 | This game has Diverse Characters | 894 |
 | This game has Amazing Storytelling | 894 |
 | This game has Amazing Characters | 869 |
 | This game is Highly Recommended | 848 |
 | This game has Quickly Understood Controls | 808 |
-| This game has Beautiful Visuals | 746 |
+| This game has Beautiful Visuals | 748 |
 | This game has a Creative Community | 561 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -288,4 +288,4 @@ Diff (max vs sum): -13
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
 | 2023-07-21 | 4.77 | 21,154 | 39,625 |
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
-| 2023-07-23 | 4.77 | 21,217 | 39,749 |
+| 2023-07-23 | 4.77 | 21,217 | 39,755 |

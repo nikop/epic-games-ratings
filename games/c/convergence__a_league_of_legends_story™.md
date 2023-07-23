@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 21.00% | ~164 |
+| Time Heals All Wounds | 21.00% | ~165 |
 | Rail Rat | 18.00% | ~141 |
 | The Mysterious Stranger | 17.00% | ~133 |
 | The Steel Shadow | 16.00% | ~125 |
@@ -12,13 +12,13 @@
 | The Prince in Heels | 16.00% | ~125 |
 | Immaculate Aim | 16.00% | ~125 |
 | The Brass Boss | 16.00% | ~125 |
-| Time Flies | 15.00% | ~117 |
-| The Harder They Fall | 15.00% | ~117 |
-| No, Thanks! | 15.00% | ~117 |
-| Breaking Down Barriers | 15.00% | ~117 |
-| The Wicked Twins | 15.00% | ~117 |
-| Fast Learner | 15.00% | ~117 |
-| Immaculate Aim | 15.00% | ~117 |
+| Time Flies | 15.00% | ~118 |
+| The Harder They Fall | 15.00% | ~118 |
+| No, Thanks! | 15.00% | ~118 |
+| Breaking Down Barriers | 15.00% | ~118 |
+| The Wicked Twins | 15.00% | ~118 |
+| Fast Learner | 15.00% | ~118 |
+| Immaculate Aim | 15.00% | ~118 |
 | Like Clockwork | 14.00% | ~110 |
 | The Betrayer | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
@@ -33,15 +33,15 @@
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |
 | Good Neighbor | 10.00% | ~78 |
-| Chaincrawler Explorer | 9.00% | ~70 |
-| Family Memories | 9.00% | ~70 |
-| Theater Explorer | 9.00% | ~70 |
+| Chaincrawler Explorer | 9.00% | ~71 |
+| Family Memories | 9.00% | ~71 |
+| Theater Explorer | 9.00% | ~71 |
+| Fairgrounds Explorer | 8.00% | ~63 |
 | Sump Explorer | 8.00% | ~63 |
 | Syron for Hope | 8.00% | ~63 |
 | Ask Questions Later | 8.00% | ~63 |
 | Cultivair Explorer | 7.00% | ~55 |
 | Factorywood Explorer | 7.00% | ~55 |
-| Fairgrounds Explorer | 7.00% | ~55 |
 | Corin Goes Home | 6.00% | ~47 |
 | Sartorialist | 6.00% | ~47 |
 | Entresol Explorer | 6.00% | ~47 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 199)  
+Progressed: 784 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,4 +118,4 @@ Completed: 4 (0.51%) (Ranked 128)
 | 2023-07-20 | 765 | 4 |
 | 2023-07-21 | 773 | 4 |
 | 2023-07-22 | 778 | 4 |
-| 2023-07-23 | 783 | 4 |
+| 2023-07-23 | 784 | 4 |

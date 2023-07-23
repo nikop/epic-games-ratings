@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1253,6 +1253,11 @@
       "Time": "2023-07-23T19:06:01.0404564+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-23T23:08:12.3256392+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1280,15 +1285,15 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "12",
       "SetID": "n50no0",
       "Name": "Shake the rust off their feet",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 281
     },
     {
       "ID": "13",
@@ -1328,7 +1333,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "18",
@@ -1400,7 +1405,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "27",
@@ -1416,7 +1421,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "3",
@@ -1424,7 +1429,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "30",
@@ -1456,7 +1461,7 @@
       "Name": "Head in the clouds",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "5",
@@ -1503,15 +1508,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:06:33.8952838+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:08:12.3256388+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.0234782+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:59:44.0895576+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:06:33.8953076+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:01:00.8147768+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:08:12.3256736+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 62.00% | ~165 |
-| Gorilla warfare | 58.00% | ~154 |
-| Isenburg's fall | 49.00% | ~130 |
+| Caged tiger | 61.00% | ~163 |
+| Gorilla warfare | 58.00% | ~155 |
+| Isenburg's fall | 49.00% | ~131 |
 | Pieces of eight! | 41.00% | ~109 |
-| Aboard the Sea Bird | 31.00% | ~82 |
+| Aboard the Sea Bird | 31.00% | ~83 |
 | Elephant in the room | 30.00% | ~80 |
 | Dark and stinky | 29.00% | ~77 |
 | Sneak in, sneak out | 26.00% | ~69 |
-| Is this the end? | 25.00% | ~66 |
+| Is this the end? | 25.00% | ~67 |
 | A gift horse | 24.00% | ~64 |
 | You sssaved me | 24.00% | ~64 |
 | Say hello to my little friends | 21.00% | ~56 |
@@ -31,22 +31,22 @@
 | Peaceful protest | 7.00% | ~19 |
 | The Good Place | 7.00% | ~19 |
 | Trial by combat | 7.00% | ~19 |
-| A bard day's night | 5.00% | ~13 |
 | Money talks | 5.00% | ~13 |
 | Squid Game | 4.00% | ~11 |
+| A bard day's night | 4.00% | ~11 |
 | Lyre lyre pants on fyre | 4.00% | ~11 |
 | Be kind to monsters | 3.00% | ~8 |
 | D4RK V0L3P41N | 3.00% | ~8 |
 | Family reunion | 3.00% | ~8 |
-| One shot blade | 2.00% | ~5 |
-| The Medium Place | 2.00% | ~5 |
-| Done negotiating | 0.80% | ~2 |
+| One shot blade | 1.00% | ~3 |
+| The Medium Place | 1.00% | ~3 |
+| Done negotiating | 0.70% | ~2 |
 | Invulnerable | 0.40% | ~1 |
 | Blind as a bat | 0.00% | ~0 |
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 255)  
+Progressed: 267 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-06-10 | 263 | 0 |
 | 2023-06-27 | 264 | 0 |
 | 2023-06-29 | 265 | 0 |
-| 2023-07-23 | 266 | 0 |
+| 2023-07-23 | 267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

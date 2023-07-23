@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -2843,9 +2843,9 @@
       "ID": "obsessed_carver_2",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 2",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "obsessed_carver_3",
@@ -3010,8 +3010,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:04:39.1142456+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:05:18.8599278+00:00",
   "LastUpdate_AppInfo": "2023-07-18T03:15:33.4430036+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:57:27.575459+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:04:39.1143215+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:57:45.2991655+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:05:18.8600085+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.73,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-07-23T16:04:02.0958587+00:00",
       "NumProgressed": 231,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T23:04:21.7616675+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -395,7 +400,7 @@
       "Name": "Champion of Kalevala",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FORAGER",
@@ -483,7 +488,7 @@
       "Name": "Death is Merely a Setback",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_RINGFIRE",
@@ -491,7 +496,7 @@
       "Name": "Ring of Fire!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ROOSTEREAT",
@@ -507,7 +512,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_SHARD_2",
@@ -523,7 +528,7 @@
       "Name": "Third Shard",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SHARD_4",
@@ -570,7 +575,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 4
     }
   ],
@@ -578,8 +583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:03:58.7076025+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:04:21.7616669+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.6759163+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:00:16.2848751+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:03:58.7076208+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:01:48.7354105+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:04:21.7616987+00:00"
 }

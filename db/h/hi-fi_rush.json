@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3536,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4542,6 +4542,11 @@
       "Time": "2023-07-23T22:03:40.9219004+00:00",
       "NumProgressed": 3534,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-23T23:03:46.6758854+00:00",
+      "NumProgressed": 3536,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4967,9 +4972,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 71
     },
     {
       "ID": "Ach054",
@@ -5120,13 +5125,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3536,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2055,
+      "Progressed": 2057,
       "Completed": 1928
     }
   ],
@@ -5134,8 +5139,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:03:40.9218999+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:03:46.6758849+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:58:51.1771282+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:03:40.9220033+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:59:47.8178256+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:03:46.6760118+00:00"
 }

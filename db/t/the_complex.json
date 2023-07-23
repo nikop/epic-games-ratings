@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -427,6 +427,11 @@
       "Time": "2023-07-23T15:03:53.5750851+00:00",
       "NumProgressed": 523,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-23T23:04:10.290199+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -526,7 +531,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "free_champagne",
@@ -550,7 +555,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "not_a_people_person",
@@ -574,15 +579,15 @@
       "Name": "Storage Hunter",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 304
     },
     {
       "ID": "tough_decision",
@@ -590,14 +595,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 16
     }
   ],
@@ -605,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:03:50.4551014+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:04:10.2901982+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.6655057+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:57:38.0900743+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:03:50.4551192+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:58:00.0547+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:04:10.2902194+00:00"
 }

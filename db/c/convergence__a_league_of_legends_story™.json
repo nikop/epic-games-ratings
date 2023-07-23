@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1739,6 +1739,11 @@
       "Time": "2023-07-23T14:03:23.636993+00:00",
       "NumProgressed": 783,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T23:03:51.0426377+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1766,7 +1771,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ChestCompletion1",
@@ -1846,7 +1851,7 @@
       "Name": "Family Memories",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "FactorywoodChests1",
@@ -1860,9 +1865,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 63
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1990,7 +1995,7 @@
       "Name": "Time Flies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ParryBoss",
@@ -1998,7 +2003,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ParryRepeated1",
@@ -2006,7 +2011,7 @@
       "Name": "No, Thanks!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2014,7 +2019,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2022,7 +2027,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PidgeDefeated",
@@ -2038,7 +2043,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "RewindParry",
@@ -2078,7 +2083,7 @@
       "Name": "Fast Learner",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "SpeedRun",
@@ -2118,7 +2123,7 @@
       "Name": "Theater Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2126,7 +2131,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WarwickDefeated",
@@ -2173,14 +2178,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:03:43.98415+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:03:51.0426372+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:59:39.3785338+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:03:43.9842085+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:00:54.2098959+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:03:51.0427077+00:00"
 }

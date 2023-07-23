@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5296,10 +5296,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39749,
       "NumberOfAwardsMax": 21217
+    },
+    {
+      "Time": "2023-07-23T22:58:21.3580271+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39755,
+      "NumberOfAwardsMax": 21217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39749,
+  "NumberOfAwards": 39755,
   "NumberOfAwardsMax": 21217,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5319,7 +5325,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 746
+      "Count": 748
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5337,7 +5343,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 908
+      "Count": 912
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5376,10 +5382,10 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288412,
-  "EOS_Completed": 433,
-  "EOS_NewPlayers": 632,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 288415,
+  "EOS_Completed": 434,
+  "EOS_NewPlayers": 627,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -15506,6 +15512,11 @@
       "Time": "2023-07-23T22:04:26.6035672+00:00",
       "NumProgressed": 288412,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-23T23:05:00.792705+00:00",
+      "NumProgressed": 288415,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15517,7 +15528,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34609
+      "UsersEstimate": 34610
     },
     {
       "ID": "PFA_10",
@@ -15605,7 +15616,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11536
+      "UsersEstimate": 11537
     },
     {
       "ID": "PFA_20",
@@ -15637,7 +15648,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28841
+      "UsersEstimate": 28842
     },
     {
       "ID": "PFA_24",
@@ -15797,7 +15808,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11536
+      "UsersEstimate": 11537
     },
     {
       "ID": "PFA_42",
@@ -15845,7 +15856,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31725
+      "UsersEstimate": 31726
     },
     {
       "ID": "PFA_7",
@@ -15853,7 +15864,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28841
+      "UsersEstimate": 28842
     },
     {
       "ID": "PFA_8",
@@ -15876,16 +15887,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288412,
-      "Completed": 433
+      "Progressed": 288415,
+      "Completed": 434
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-23T21:57:55.5133227+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:04:26.6035666+00:00",
+  "LastChanged": "2023-07-23T22:58:21.3580268+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:05:00.7927044+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:57:55.5133234+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:04:26.6037003+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:58:21.3580276+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:05:00.7928228+00:00"
 }

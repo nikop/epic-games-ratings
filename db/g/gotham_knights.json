@@ -2106,10 +2106,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4084,
       "NumberOfAwardsMax": 2457
+    },
+    {
+      "Time": "2023-07-23T23:01:34.1659549+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4085,
+      "NumberOfAwardsMax": 2457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4084,
+  "NumberOfAwards": 4085,
   "NumberOfAwardsMax": 2457,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2159,7 +2165,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2174,9 +2180,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67315,
+  "EOS_Progressed": 67318,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10639,6 +10645,11 @@
       "Time": "2023-07-23T22:04:35.5875661+00:00",
       "NumProgressed": 67315,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-23T23:05:13.8535876+00:00",
+      "NumProgressed": 67318,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -10698,7 +10709,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -10746,7 +10757,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "CLAYFACE_1",
@@ -10754,7 +10765,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "CLAYFACE_2",
@@ -10762,7 +10773,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "CLAYFACE_3",
@@ -10882,7 +10893,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "FREEZE_2",
@@ -10890,7 +10901,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "FREEZE_3",
@@ -10962,7 +10973,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "HARLEY_3",
@@ -10970,7 +10981,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "HARLEY_4",
@@ -11018,7 +11029,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -11050,7 +11061,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "MYSTERY_03",
@@ -11058,7 +11069,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "MYSTERY_04",
@@ -11066,7 +11077,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "MYSTERY_05",
@@ -11074,7 +11085,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "MYSTERY_06",
@@ -11137,22 +11148,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67315,
+      "Progressed": 67318,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37595,
+      "Progressed": 37598,
       "Completed": 2654
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-23T22:00:07.2851312+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:04:35.5875656+00:00",
+  "LastChanged": "2023-07-23T23:01:34.1659547+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:05:13.8535868+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.6510385+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:00:07.2851318+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:04:35.5876976+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:01:34.1659554+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:05:13.8537847+00:00"
 }

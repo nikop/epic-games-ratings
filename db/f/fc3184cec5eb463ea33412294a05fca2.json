@@ -3,8 +3,8 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.01,
+  "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -606,6 +606,11 @@
       "Time": "2023-07-23T22:05:13.6060193+00:00",
       "NumProgressed": 157,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-07-23T23:06:08.0715987+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -617,7 +622,7 @@
       "Name": "Three is company",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -625,15 +630,15 @@
       "Name": "Duck invasion",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -641,7 +646,7 @@
       "Name": "Ducks adrift",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -655,17 +660,17 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -681,7 +686,7 @@
       "Name": "Family pond",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -689,7 +694,7 @@
       "Name": "Make a wish",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -705,7 +710,7 @@
       "Name": "Way to the shore",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -713,7 +718,7 @@
       "Name": "Private pool",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -729,7 +734,7 @@
       "Name": "On fire",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -744,14 +749,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:05:13.6060185+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:06:08.0715982+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:57:20.8344589+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:05:13.6060329+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:57:35.2546232+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:06:08.0716159+00:00"
 }

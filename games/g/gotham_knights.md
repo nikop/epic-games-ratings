@@ -10,19 +10,19 @@ Rating: 4.18 (Ranked 858)
 | Har, Har, Har, Very Funny | 4.00% | ~2,693 |
 | Knighthood | 4.00% | ~2,693 |
 | Loose Ends | 4.00% | ~2,693 |
-| The Batman Family | 3.00% | ~2,019 |
-| Protector of Gotham | 3.00% | ~2,019 |
-| Something in the Clay | 3.00% | ~2,019 |
-| The Show Mud Go On | 3.00% | ~2,019 |
-| Quartzer Life Crisis | 3.00% | ~2,019 |
-| Snow Problem | 3.00% | ~2,019 |
-| Get ReQ'd | 3.00% | ~2,019 |
-| Working Hard or Harley Working? | 3.00% | ~2,019 |
-| Unstoppable Force | 3.00% | ~2,019 |
-| Whispered Words | 3.00% | ~2,019 |
-| Lock and Key | 3.00% | ~2,019 |
-| Bad Apples in Every Orchard | 3.00% | ~2,019 |
-| From Inside Gotham's Walls | 3.00% | ~2,019 |
+| The Batman Family | 3.00% | ~2,020 |
+| Protector of Gotham | 3.00% | ~2,020 |
+| Something in the Clay | 3.00% | ~2,020 |
+| The Show Mud Go On | 3.00% | ~2,020 |
+| Quartzer Life Crisis | 3.00% | ~2,020 |
+| Snow Problem | 3.00% | ~2,020 |
+| Get ReQ'd | 3.00% | ~2,020 |
+| Working Hard or Harley Working? | 3.00% | ~2,020 |
+| Unstoppable Force | 3.00% | ~2,020 |
+| Whispered Words | 3.00% | ~2,020 |
+| Lock and Key | 3.00% | ~2,020 |
+| Bad Apples in Every Orchard | 3.00% | ~2,020 |
+| From Inside Gotham's Walls | 3.00% | ~2,020 |
 | End of an Era | 2.00% | ~1,346 |
 | In Your Element | 2.00% | ~1,346 |
 | Rock and a Hard Place | 2.00% | ~1,346 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,315 (Ranked 77)  
+Progressed: 67,318 (Ranked 77)  
 Completed: 104 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,17 +161,17 @@ Completed: 104 (0.15%) (Ranked 175)
 | 2023-07-20 | 67,235 | 102 |
 | 2023-07-21 | 67,259 | 104 |
 | 2023-07-22 | 67,285 | 104 |
-| 2023-07-23 | 67,315 | 104 |
+| 2023-07-23 | 67,318 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,457  (Ranked 101)  
-Sum: 4,084 (Ranked 138)  
+Sum: 4,085 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,457 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
-| This game is Extremely Fun | 209 |
+| This game is Extremely Fun | 210 |
 | This game has Amazing Characters | 202 |
 | This game has Diverse Characters | 201 |
 | This game is Great for Beginners | 200 |
@@ -333,4 +333,4 @@ Diff (max vs sum): -37
 | 2023-07-20 | 4.18 | 2,454 | 4,072 |
 | 2023-07-21 | 4.18 | 2,455 | 4,076 |
 | 2023-07-22 | 4.18 | 2,455 | 4,081 |
-| 2023-07-23 | 4.18 | 2,457 | 4,084 |
+| 2023-07-23 | 4.18 | 2,457 | 4,085 |

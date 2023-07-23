@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 3024,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3299,9 +3299,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3444,8 +3444,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-23T22:00:57.2896389+00:00",
+  "LastChanged_Achievements": "2023-07-23T23:02:47.320418+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:59:38.3969481+00:00",
-  "LastUpdate_Achievements": "2023-07-23T22:00:57.2896866+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:00:52.7303258+00:00",
+  "LastUpdate_Achievements": "2023-07-23T23:02:47.3204981+00:00"
 }

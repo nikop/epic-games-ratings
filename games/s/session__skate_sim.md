@@ -18,10 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 8.00% | ~207 |
 | Keep the dream alive | 8.00% | ~207 |
 | Upfront shredder | 8.00% | ~207 |
-| That pinch! | 7.00% | ~181 |
 | Bottom ply killer | 6.00% | ~155 |
 | Fashionista | 6.00% | ~155 |
 | Finally he zips it | 6.00% | ~155 |
+| That pinch! | 6.00% | ~155 |
 | Tight lipslides | 6.00% | ~155 |
 | Commence the Hijinx! | 5.00% | ~129 |
 | Fulfilled the dream | 5.00% | ~129 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,584 (Ranked 158)  
+Progressed: 2,585 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,533 | 0 |
 | 2023-07-21 | 2,554 | 0 |
 | 2023-07-22 | 2,571 | 0 |
-| 2023-07-23 | 2,584 | 0 |
+| 2023-07-23 | 2,585 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 397)  
 Sum: 439 (Ranked 305)  
