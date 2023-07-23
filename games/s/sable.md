@@ -6,34 +6,34 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~26,749 |
-| Just The Two of Us | 32.00% | ~25,175 |
-| Up On High | 25.00% | ~19,668 |
-| Under The Hood | 25.00% | ~19,668 |
-| Got Your Nose | 24.00% | ~18,882 |
-| The Gift of Gab | 24.00% | ~18,882 |
-| Wrapping Up | 22.00% | ~17,308 |
-| More Than A Box Of Sand | 18.00% | ~14,161 |
-| The Dunboyne | 17.00% | ~13,374 |
-| Badge Hobbyist | 17.00% | ~13,374 |
-| Chum Novice | 16.00% | ~12,588 |
-| Silver-Tongued Sable | 16.00% | ~12,588 |
-| Sticky Paws | 16.00% | ~12,588 |
-| Bubble Up | 16.00% | ~12,588 |
-| Thread The Needle | 15.00% | ~11,801 |
-| Power to the People | 14.00% | ~11,014 |
-| Take That! | 13.00% | ~10,227 |
-| Nesting Giant | 13.00% | ~10,227 |
-| Treasure Tracker | 13.00% | ~10,227 |
-| Big Spender | 13.00% | ~10,227 |
-| Badge Collector | 12.00% | ~9,441 |
-| Quite The Catch | 12.00% | ~9,441 |
-| Rowleys Way | 11.00% | ~8,654 |
-| The Machinist Mask | 10.00% | ~7,867 |
-| The Cartographer Mask | 10.00% | ~7,867 |
-| Balfron Connection | 10.00% | ~7,867 |
-| Ceiling Of Stars | 10.00% | ~7,867 |
-| Playing Dress Up | 10.00% | ~7,867 |
+| Simoon | 34.00% | ~26,752 |
+| Just The Two of Us | 32.00% | ~25,178 |
+| Up On High | 25.00% | ~19,670 |
+| Under The Hood | 25.00% | ~19,670 |
+| Got Your Nose | 24.00% | ~18,883 |
+| The Gift of Gab | 24.00% | ~18,883 |
+| Wrapping Up | 22.00% | ~17,310 |
+| More Than A Box Of Sand | 18.00% | ~14,163 |
+| The Dunboyne | 17.00% | ~13,376 |
+| Badge Hobbyist | 17.00% | ~13,376 |
+| Chum Novice | 16.00% | ~12,589 |
+| Silver-Tongued Sable | 16.00% | ~12,589 |
+| Sticky Paws | 16.00% | ~12,589 |
+| Bubble Up | 16.00% | ~12,589 |
+| Thread The Needle | 15.00% | ~11,802 |
+| Power to the People | 14.00% | ~11,015 |
+| Take That! | 13.00% | ~10,229 |
+| Nesting Giant | 13.00% | ~10,229 |
+| Treasure Tracker | 13.00% | ~10,229 |
+| Big Spender | 13.00% | ~10,229 |
+| Badge Collector | 12.00% | ~9,442 |
+| Quite The Catch | 12.00% | ~9,442 |
+| Rowleys Way | 11.00% | ~8,655 |
+| The Machinist Mask | 10.00% | ~7,868 |
+| The Cartographer Mask | 10.00% | ~7,868 |
+| Balfron Connection | 10.00% | ~7,868 |
+| Ceiling Of Stars | 10.00% | ~7,868 |
+| Playing Dress Up | 10.00% | ~7,868 |
 | Many Different Faces | 9.00% | ~7,081 |
 | Trellick's Pillar | 9.00% | ~7,081 |
 | Centre Of Brunswick | 9.00% | ~7,081 |
@@ -45,15 +45,15 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~6,294 |
 | Squeeze One Out | 8.00% | ~6,294 |
 | Dune Rider | 8.00% | ~6,294 |
-| Amateur Historian | 7.00% | ~5,507 |
-| The Beetle Mask | 7.00% | ~5,507 |
-| The Guard Mask | 7.00% | ~5,507 |
-| Smoked Out | 7.00% | ~5,507 |
-| The Climber Mask | 6.00% | ~4,720 |
-| The Merchant Mask | 6.00% | ~4,720 |
-| Honorary Chum | 6.00% | ~4,720 |
-| A Hard Place | 6.00% | ~4,720 |
-| Bikes Don't Fly | 6.00% | ~4,720 |
+| Amateur Historian | 7.00% | ~5,508 |
+| The Beetle Mask | 7.00% | ~5,508 |
+| The Guard Mask | 7.00% | ~5,508 |
+| Smoked Out | 7.00% | ~5,508 |
+| The Climber Mask | 6.00% | ~4,721 |
+| The Merchant Mask | 6.00% | ~4,721 |
+| Honorary Chum | 6.00% | ~4,721 |
+| A Hard Place | 6.00% | ~4,721 |
+| Bikes Don't Fly | 6.00% | ~4,721 |
 | The Entertainer Mask | 5.00% | ~3,934 |
 | The Gliding | 4.00% | ~3,147 |
 | The Quick and the Curious | 4.00% | ~3,147 |
@@ -61,9 +61,9 @@ Number of Ratings: 43  (23.09.2022)
 | Chum Expert | 3.00% | ~2,360 |
 | Gastric Bypass | 3.00% | ~2,360 |
 | The Angler Mask | 3.00% | ~2,360 |
-| Vivacious Vivarium | 2.00% | ~1,573 |
+| Vivacious Vivarium | 2.00% | ~1,574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,673 (Ranked 73)  
+Progressed: 78,681 (Ranked 73)  
 Completed: 764 (0.97%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,10 +157,10 @@ Completed: 764 (0.97%) (Ranked 105)
 | 2023-07-20 | 78,120 | 760 |
 | 2023-07-21 | 78,358 | 763 |
 | 2023-07-22 | 78,587 | 763 |
-| 2023-07-23 | 78,673 | 764 |
+| 2023-07-23 | 78,681 | 764 |
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 502)  
-Sum: 20 (Ranked 502)  
+Max (Quickly Understood Controls): 20  (Ranked 501)  
+Sum: 20 (Ranked 501)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.24,
+  "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -586,6 +586,11 @@
       "Time": "2023-07-23T09:04:54.0057134+00:00",
       "NumProgressed": 152,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-07-23T11:06:05.501271+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -637,7 +642,7 @@
       "Name": "High-rise",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -645,7 +650,7 @@
       "Name": "Putting challenge",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -675,9 +680,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -701,7 +706,7 @@
       "Name": "Abducktion",
       "Percentage": 18,
       "XP": 95,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -709,7 +714,7 @@
       "Name": "On fire",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -724,14 +729,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:05:50.6696924+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:06:05.5012704+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:57:20.1430839+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:05:50.6697099+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:57:24.0899542+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:06:05.5012882+00:00"
 }

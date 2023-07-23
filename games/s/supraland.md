@@ -6,23 +6,23 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,847 |
-| The Blues | 85.00% | ~610,323 |
-| Fast | 66.00% | ~473,898 |
-| Healthbar | 55.00% | ~394,915 |
-| Force Cube | 53.00% | ~380,554 |
-| Double Jump | 48.00% | ~344,653 |
-| Regeneration | 47.00% | ~337,473 |
-| Climb the hill | 42.00% | ~301,571 |
-| Triple Jump | 42.00% | ~301,571 |
-| Through the fire pipe | 38.00% | ~272,850 |
-| MacGuffin | 38.00% | ~272,850 |
+| Out of bed | 99.00% | ~710,849 |
+| The Blues | 85.00% | ~610,325 |
+| Fast | 66.00% | ~473,899 |
+| Healthbar | 55.00% | ~394,916 |
+| Force Cube | 53.00% | ~380,555 |
+| Double Jump | 48.00% | ~344,654 |
+| Regeneration | 47.00% | ~337,474 |
+| Climb the hill | 42.00% | ~301,572 |
+| Triple Jump | 42.00% | ~301,572 |
+| Through the fire pipe | 38.00% | ~272,851 |
+| MacGuffin | 38.00% | ~272,851 |
 | Just once | 36.00% | ~258,490 |
-| Armor | 30.00% | ~215,408 |
-| True holy spirit | 27.00% | ~193,867 |
-| That's how electronics work obviously | 26.00% | ~186,687 |
+| Armor | 30.00% | ~215,409 |
+| True holy spirit | 27.00% | ~193,868 |
+| That's how electronics work obviously | 26.00% | ~186,688 |
 | Force Cube Catapult | 25.00% | ~179,507 |
-| Holy Sword | 23.00% | ~165,146 |
+| Holy Sword | 23.00% | ~165,147 |
 | Telefrag | 22.00% | ~157,966 |
 | Freed from prison | 21.00% | ~150,786 |
 | Stomp | 21.00% | ~150,786 |
@@ -50,10 +50,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Gold Scam Uncovered | 10.00% | ~71,803 |
 | Translocator | 10.00% | ~71,803 |
 | Yellow Shot Button | 10.00% | ~71,803 |
-| Moon Door | 9.00% | ~64,622 |
-| Momentum | 9.00% | ~64,622 |
-| Panic Lights | 9.00% | ~64,622 |
-| Through the tiny pipe | 9.00% | ~64,622 |
+| Moon Door | 9.00% | ~64,623 |
+| Momentum | 9.00% | ~64,623 |
+| Panic Lights | 9.00% | ~64,623 |
+| Through the tiny pipe | 9.00% | ~64,623 |
 | Win! | 8.00% | ~57,442 |
 | The real real teleported man | 7.00% | ~50,262 |
 | Well deserved | 6.00% | ~43,082 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~718 |
 | DLC: Top of the world | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,027 (Ranked 17)  
+Progressed: 718,029 (Ranked 17)  
 Completed: 712 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,14 +199,14 @@ Completed: 712 (0.10%) (Ranked 187)
 | 2023-07-20 | 717,617 | 712 |
 | 2023-07-21 | 717,792 | 712 |
 | 2023-07-22 | 717,960 | 712 |
-| 2023-07-23 | 718,027 | 712 |
+| 2023-07-23 | 718,029 | 712 |
 ## Awards
-Max (Challenging Puzzles): 7,649  (Ranked 43)  
-Sum: 9,964 (Ranked 81)  
+Max (Challenging Puzzles): 7,650  (Ranked 43)  
+Sum: 9,965 (Ranked 81)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,649 |
+| This game features Challenging Puzzles | 7,650 |
 | This game is Educational | 281 |
 | This game is Relaxing | 277 |
 | This game has Amazing Characters | 273 |
@@ -346,3 +346,4 @@ Diff (max vs sum): -38
 | 2023-07-17 | 4.61 | - | 7,645 | 9,960 |
 | 2023-07-18 | 4.61 | - | 7,647 | 9,962 |
 | 2023-07-21 | 4.61 | - | 7,649 | 9,964 |
+| 2023-07-23 | 4.61 | - | 7,650 | 9,965 |

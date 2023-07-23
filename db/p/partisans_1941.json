@@ -3,11 +3,11 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 365,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-07-23T10:03:39.8728621+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T11:03:18.4261444+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1681,7 +1686,7 @@
       "Name": "E1M1",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Everyone_is_here",
@@ -1689,7 +1694,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Experienced_strategist",
@@ -1719,9 +1724,9 @@
       "ID": "Hard_Serpent",
       "SetID": "85nb4h3",
       "Name": "Tough as Nails",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Heroes_never_die",
@@ -1817,7 +1822,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "We_were_not_here",
@@ -1840,15 +1845,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:03:39.8728616+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:18.4261435+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:59:52.8250969+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:03:39.8728957+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:00:28.4249961+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:18.4262048+00:00"
 }

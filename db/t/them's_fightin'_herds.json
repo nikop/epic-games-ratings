@@ -3,8 +3,8 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 331,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 85,
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226703,
+  "EOS_Progressed": 226706,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9963,6 +9963,11 @@
       "Time": "2023-07-23T10:05:18.368239+00:00",
       "NumProgressed": 226703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T11:05:27.0378421+00:00",
+      "NumProgressed": 226706,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10038,7 +10043,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81613
+      "UsersEstimate": 81614
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -10118,7 +10123,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77079
+      "UsersEstimate": 77080
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10197,7 +10202,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226703,
+      "Progressed": 226706,
       "Completed": 3
     }
   ],
@@ -10205,8 +10210,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:05:18.3682383+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:05:27.0378414+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:00:32.8640809+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:05:18.368343+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:01:15.1437248+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:05:27.0379864+00:00"
 }

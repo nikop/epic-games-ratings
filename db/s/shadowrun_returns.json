@@ -3,8 +3,8 @@
   "Name": "Shadowrun Returns",
   "ProductSlug": "shadowrun-returns",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 378,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 347,
@@ -488,6 +488,6 @@
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
   "LastChanged": "2022-12-09T21:57:39.149528+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.7324649+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:00:48.3939972+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:07:04.2003443+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:01:30.9712334+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:07:33.3219048+00:00"
 }

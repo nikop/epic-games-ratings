@@ -8,7 +8,7 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 40.00% | ~1,206 |
 | Look Over There! | 34.00% | ~1,025 |
-| Watch Where You Step... | 33.00% | ~995 |
+| Watch Where You Step... | 34.00% | ~1,025 |
 | Not So Fast... | 32.00% | ~965 |
 | An Ill Omen | 31.00% | ~935 |
 | Purging Spree | 25.00% | ~754 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,015 (Ranked 153)  
+Progressed: 3,016 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,11 +155,11 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
-| 2023-07-23 | 3,015 | 0 |
+| 2023-07-23 | 3,016 | 0 |
 ## Awards
-Max (Character Customization): 214  (Ranked 264)  
+Max (Character Customization): 214  (Ranked 263)  
 Sum: 451 (Ranked 304)  
-Diff (max vs sum): -40  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |

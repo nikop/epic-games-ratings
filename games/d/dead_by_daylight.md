@@ -6,66 +6,66 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 10.00% | ~70,479 |
-| Healthy Obsession | 9.00% | ~63,431 |
-| Humanitarian | 9.00% | ~63,431 |
-| Preemptive Strike | 8.00% | ~56,383 |
-| Wounded Healer | 7.00% | ~49,335 |
-| Close Shave | 7.00% | ~49,335 |
-| First to the Punch | 5.00% | ~35,239 |
-| Every Last Drop | 5.00% | ~35,239 |
-| With Scars to Show | 5.00% | ~35,239 |
-| Flight to Freedom | 5.00% | ~35,239 |
-| Ancestor's Rite | 4.00% | ~28,192 |
-| Unforgettable Getaway | 4.00% | ~28,192 |
-| Cutting Out | 4.00% | ~28,192 |
-| Operation: Survival | 4.00% | ~28,192 |
-| Old West Oasis | 4.00% | ~28,192 |
-| Classy Act | 4.00% | ~28,192 |
-| Raccoon City Recruit | 4.00% | ~28,192 |
-| A Fast Death | 4.00% | ~28,192 |
-| Lifting The Fog | 4.00% | ~28,192 |
-| Chorus of Chaos | 4.00% | ~28,192 |
-| Devoted Gatekeeping | 3.00% | ~21,144 |
-| Shrine Apparatus | 3.00% | ~21,144 |
-| Outrun Evil | 3.00% | ~21,144 |
-| Broken Bodies | 3.00% | ~21,144 |
-| Grim Pilgrimage | 3.00% | ~21,144 |
-| Selfless Survival | 3.00% | ~21,144 |
-| End of Days | 3.00% | ~21,144 |
-| Insult and Injury | 3.00% | ~21,144 |
-| Outrun the Overlap | 3.00% | ~21,144 |
-| Heavy Burden | 2.00% | ~14,096 |
-| I See You | 2.00% | ~14,096 |
-| Power Moves | 2.00% | ~14,096 |
-| Punch Drunk | 2.00% | ~14,096 |
-| Prowler | 2.00% | ~14,096 |
-| Triage | 2.00% | ~14,096 |
-| High Speed Pursuit | 2.00% | ~14,096 |
-| Rebuilding The Borgo | 2.00% | ~14,096 |
-| Hack the Mainframe | 2.00% | ~14,096 |
-| Deranged Pursuit | 1.00% | ~7,048 |
-| Denied! | 1.00% | ~7,048 |
-| Death of Ignorance | 1.00% | ~7,048 |
-| From the Deep | 0.90% | ~6,343 |
-| Dismantle | 0.80% | ~5,638 |
-| Left For Dead | 0.80% | ~5,638 |
-| Bodyguard | 0.80% | ~5,638 |
-| Speed Kills | 0.80% | ~5,638 |
-| Rescue Mission | 0.80% | ~5,638 |
-| One Thousand Cuts | 0.80% | ~5,638 |
-| Ghost in the Machine | 0.80% | ~5,638 |
+| Resurgence | 10.00% | ~70,491 |
+| Healthy Obsession | 9.00% | ~63,442 |
+| Humanitarian | 9.00% | ~63,442 |
+| Preemptive Strike | 8.00% | ~56,393 |
+| Wounded Healer | 7.00% | ~49,344 |
+| Close Shave | 7.00% | ~49,344 |
+| First to the Punch | 5.00% | ~35,246 |
+| Every Last Drop | 5.00% | ~35,246 |
+| With Scars to Show | 5.00% | ~35,246 |
+| Flight to Freedom | 5.00% | ~35,246 |
+| Ancestor's Rite | 4.00% | ~28,197 |
+| Unforgettable Getaway | 4.00% | ~28,197 |
+| Cutting Out | 4.00% | ~28,197 |
+| Operation: Survival | 4.00% | ~28,197 |
+| Old West Oasis | 4.00% | ~28,197 |
+| Classy Act | 4.00% | ~28,197 |
+| Raccoon City Recruit | 4.00% | ~28,197 |
+| A Fast Death | 4.00% | ~28,197 |
+| Lifting The Fog | 4.00% | ~28,197 |
+| Chorus of Chaos | 4.00% | ~28,197 |
+| Devoted Gatekeeping | 3.00% | ~21,147 |
+| Shrine Apparatus | 3.00% | ~21,147 |
+| Outrun Evil | 3.00% | ~21,147 |
+| Broken Bodies | 3.00% | ~21,147 |
+| Grim Pilgrimage | 3.00% | ~21,147 |
+| Selfless Survival | 3.00% | ~21,147 |
+| End of Days | 3.00% | ~21,147 |
+| Insult and Injury | 3.00% | ~21,147 |
+| Outrun the Overlap | 3.00% | ~21,147 |
+| Heavy Burden | 2.00% | ~14,098 |
+| I See You | 2.00% | ~14,098 |
+| Power Moves | 2.00% | ~14,098 |
+| Punch Drunk | 2.00% | ~14,098 |
+| Prowler | 2.00% | ~14,098 |
+| Triage | 2.00% | ~14,098 |
+| High Speed Pursuit | 2.00% | ~14,098 |
+| Rebuilding The Borgo | 2.00% | ~14,098 |
+| Hack the Mainframe | 2.00% | ~14,098 |
+| Deranged Pursuit | 1.00% | ~7,049 |
+| Denied! | 1.00% | ~7,049 |
+| Death of Ignorance | 1.00% | ~7,049 |
+| From the Deep | 0.90% | ~6,344 |
+| Dismantle | 0.80% | ~5,639 |
+| Left For Dead | 0.80% | ~5,639 |
+| Bodyguard | 0.80% | ~5,639 |
+| Speed Kills | 0.80% | ~5,639 |
+| Rescue Mission | 0.80% | ~5,639 |
+| One Thousand Cuts | 0.80% | ~5,639 |
+| Ghost in the Machine | 0.80% | ~5,639 |
 | Multi-tasker | 0.60% | ~4,229 |
-| Silent Approach | 0.50% | ~3,524 |
-| Bound and Downed | 0.50% | ~3,524 |
-| Tear Their Soul Apart | 0.50% | ~3,524 |
-| Viral Video | 0.50% | ~3,524 |
-| Conniption | 0.40% | ~2,819 |
-| Terminal Illness | 0.40% | ~2,819 |
-| Totally Vulnerable | 0.40% | ~2,819 |
-| Bloodbath | 0.30% | ~2,114 |
-| Biological Weaponry | 0.30% | ~2,114 |
-| Fleet of Foot | 0.30% | ~2,114 |
+| Silent Approach | 0.50% | ~3,525 |
+| Bound and Downed | 0.50% | ~3,525 |
+| Tear Their Soul Apart | 0.50% | ~3,525 |
+| Viral Video | 0.50% | ~3,525 |
+| Conniption | 0.40% | ~2,820 |
+| Terminal Illness | 0.40% | ~2,820 |
+| Totally Vulnerable | 0.40% | ~2,820 |
+| Bloodbath | 0.30% | ~2,115 |
+| Biological Weaponry | 0.30% | ~2,115 |
+| Fleet of Foot | 0.30% | ~2,115 |
 | Taking One For The Team | 0.20% | ~1,410 |
 | Adept Bill | 0.20% | ~1,410 |
 | Quick Draw | 0.20% | ~1,410 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~705 |
 | Adept Gabriel | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,788 (Ranked 20)  
+Progressed: 704,914 (Ranked 20)  
 Completed: 42 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,22 +321,22 @@ Completed: 42 (0.01%) (Ranked 228)
 | 2023-07-20 | 697,374 | 42 |
 | 2023-07-21 | 700,370 | 42 |
 | 2023-07-22 | 703,521 | 42 |
-| 2023-07-23 | 704,788 | 42 |
+| 2023-07-23 | 704,914 | 42 |
 ## Awards
-Max (Diverse Characters): 30,171  (Ranked 15)  
-Sum: 238,925 (Ranked 12)  
+Max (Diverse Characters): 30,192  (Ranked 15)  
+Sum: 238,984 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 30,171 |
+| This game has Diverse Characters | 30,192 |
 | This game has Competitive Players | 27,364 |
 | This game is Highly Recommended | 27,259 |
 | This game has Amazing Characters | 27,007 |
 | This game is Extremely Fun | 26,886 |
 | This game has Quickly Understood Controls | 26,657 |
-| This game has Challenging Combat | 26,144 |
+| This game has Challenging Combat | 26,161 |
 | This game has Amazing Storytelling | 24,602 |
-| This game has a Competitive Community | 22,835 |
+| This game has a Competitive Community | 22,856 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -522,3 +522,4 @@ Diff (max vs sum): 3
 | 2023-07-20 | 4.52 | - | 30,122 | 238,525 |
 | 2023-07-21 | 4.52 | - | 30,149 | 238,730 |
 | 2023-07-22 | 4.52 | - | 30,171 | 238,925 |
+| 2023-07-23 | 4.52 | - | 30,192 | 238,984 |

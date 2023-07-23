@@ -3,8 +3,8 @@
   "Name": "The Walking Dead: A New Frontier",
   "ProductSlug": "walking-dead-a-new-frontier",
   "Ranking_Rating": 82,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 347,
@@ -137,6 +137,6 @@
   "FirstSeenRating": "2022-08-09T06:30:26.3767839+00:00",
   "LastChanged": "2023-03-31T05:57:05.2509084+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.7501936+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:00:46.801958+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:07:11.7252915+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:01:29.7806758+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:07:42.154734+00:00"
 }

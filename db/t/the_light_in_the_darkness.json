@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2000,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 175,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 9,
@@ -4173,6 +4173,11 @@
       "Time": "2023-07-23T00:03:25.2278839+00:00",
       "NumProgressed": 2000,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-07-23T11:03:46.0172229+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 175
     }
   ],
   "TotalAchievements": 12,
@@ -4222,9 +4227,9 @@
       "ID": "Jakob",
       "SetID": "b40dflc",
       "Name": "Jakob",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 280
+      "UsersEstimate": 260
     },
     {
       "ID": "Jude",
@@ -4279,7 +4284,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2000,
+      "Progressed": 2001,
       "Completed": 175
     }
   ],
@@ -4287,8 +4292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:04:02.5168869+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:46.0172225+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.5602679+00:00",
-  "LastUpdate_Ratings": "2023-07-23T10:00:12.1598869+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:04:02.516934+00:00"
+  "LastUpdate_Ratings": "2023-07-23T11:00:51.9410908+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:46.0172587+00:00"
 }

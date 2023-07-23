@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.03,
+  "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -253,6 +253,11 @@
       "Time": "2023-07-22T05:04:13.0723263+00:00",
       "NumProgressed": 197,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T11:03:10.8822012+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -262,17 +267,17 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "03",
@@ -280,7 +285,7 @@
       "Name": "In the treetops.",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "04",
@@ -288,7 +293,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "05",
@@ -296,7 +301,7 @@
       "Name": "A turbulent river.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "06",
@@ -320,7 +325,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "09",
@@ -383,7 +388,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 4
     }
   ],
@@ -391,8 +396,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:03:33.5939924+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:10.8822005+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.9030226+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:58:12.9580331+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:03:33.5940094+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:58:27.5708917+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:10.8822226+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The 4 Pillars | 38.00% | ~21 |
-| First Step | 35.00% | ~19 |
+| First Step | 34.00% | ~19 |
 | Indebted | 5.00% | ~3 |
 | Capitalism | 5.00% | ~3 |
 | Green Energy | 5.00% | ~3 |
@@ -14,7 +14,10 @@
 | Desert Rat | 4.00% | ~2 |
 | There's something in those trees | 2.00% | ~1 |
 | Good payer | 2.00% | ~1 |
+| Self-sufficient | 2.00% | ~1 |
+| Medicine Tycoon | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
+| Great Producer | 2.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
@@ -36,12 +39,9 @@
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |
-| Self-sufficient | 0.00% | ~0 |
 | Food Tycoon | 0.00% | ~0 |
 | Fuel Tycoon | 0.00% | ~0 |
-| Medicine Tycoon | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |
-| Great Producer | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 341)  
+Progressed: 56 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 17 | 0 |
 | 2023-07-21 | 39 | 0 |
 | 2023-07-22 | 50 | 0 |
-| 2023-07-23 | 55 | 0 |
+| 2023-07-23 | 56 | 0 |

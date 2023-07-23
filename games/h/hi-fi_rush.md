@@ -23,6 +23,7 @@ Rating: 4.87 (Ranked 24)
 | Z-shielding's got nothing on us! | 2.00% | ~70 |
 | Out in a puff of smoke | 2.00% | ~70 |
 | Perfect Parry | 2.00% | ~70 |
+| Perfecter Parry-er! | 2.00% | ~70 |
 | Uh, they were broken when I got here | 2.00% | ~70 |
 | Kissing the sky! | 2.00% | ~70 |
 | I look cool. But I can look COOLER. | 2.00% | ~70 |
@@ -31,10 +32,9 @@ Rating: 4.87 (Ranked 24)
 | You can pet the cat! | 2.00% | ~70 |
 | Well that was a rush! | 1.00% | ~35 |
 | Beat-hit mania | 1.00% | ~35 |
-| Perfecter Parry-er! | 1.00% | ~35 |
+| That's a lot of junk metal… | 1.00% | ~35 |
 | There's such a thing as TOO helpful | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
-| That's a lot of junk metal… | 0.90% | ~32 |
 | Wanna hear my playlist? | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~14 |
 | Chip-tuned | 0.60% | ~21 |

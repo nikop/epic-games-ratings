@@ -3,11 +3,11 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 624,
-  "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 482,
+  "Ranking_Popularity": 476,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1720,
+  "EOS_Progressed": 1721,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-07-23T09:04:15.3352567+00:00",
       "NumProgressed": 1720,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T11:05:10.0138924+00:00",
+      "NumProgressed": 1721,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1451,7 +1456,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1459,7 +1464,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1499,7 +1504,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_EXPLORER",
@@ -1531,7 +1536,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1603,7 +1608,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1691,7 +1696,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_PERKY",
@@ -1699,7 +1704,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1715,7 +1720,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -1747,7 +1752,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1755,7 +1760,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -1771,7 +1776,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -1819,7 +1824,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -1835,7 +1840,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1874,15 +1879,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1720,
+      "Progressed": 1721,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:05:03.3486934+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:05:10.0138918+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:59:05.5488043+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:05:03.3487533+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:59:28.9656449+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:05:10.0139843+00:00"
 }

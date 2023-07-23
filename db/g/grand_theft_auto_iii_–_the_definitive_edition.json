@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7072,
+  "EOS_Progressed": 7073,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5912,6 +5912,11 @@
       "Time": "2023-07-23T08:04:30.3381296+00:00",
       "NumProgressed": 7072,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-23T11:05:45.5356626+00:00",
+      "NumProgressed": 7073,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5923,7 +5928,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5870
+      "UsersEstimate": 5871
     },
     {
       "ID": "ACH02",
@@ -6059,7 +6064,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH19",
@@ -6154,7 +6159,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7072,
+      "Progressed": 7073,
       "Completed": 41
     }
   ],
@@ -6162,8 +6167,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:05:34.0686803+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:05:45.535662+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:58:25.1669148+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:05:34.0687381+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:58:41.7111961+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:05:45.5357573+00:00"
 }

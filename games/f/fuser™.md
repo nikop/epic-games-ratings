@@ -4,9 +4,9 @@
 Rating: 4.71 (Ranked 182)  
 Number of Ratings: 86  (23.09.2022)  
 ## Awards
-Max (Educational): 35  (Ranked 435)  
+Max (Educational): 35  (Ranked 434)  
 Sum: 342 (Ranked 325)  
-Diff (max vs sum): 110  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

@@ -3,8 +3,8 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 133,
@@ -4769,9 +4769,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach033",
@@ -4785,9 +4785,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach035",
@@ -5104,8 +5104,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:03:55.8836532+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:38.393347+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:59:10.2423093+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:03:55.8838753+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:59:37.2699786+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:38.3935345+00:00"
 }

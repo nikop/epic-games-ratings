@@ -3,11 +3,11 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 413,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3015,
+  "EOS_Progressed": 3016,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2436,6 +2436,11 @@
       "Time": "2023-07-23T09:03:27.8339086+00:00",
       "NumProgressed": 3015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T11:03:51.5456925+00:00",
+      "NumProgressed": 3016,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2669,9 +2674,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 1025
     },
     {
       "ID": "Kills_Streak",
@@ -2918,21 +2923,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3015,
+      "Progressed": 3016,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3015,
+      "Progressed": 3016,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:04:07.0378392+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:51.545692+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:59:19.9953773+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:04:07.0379581+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:59:49.1436546+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:51.5457591+00:00"
 }

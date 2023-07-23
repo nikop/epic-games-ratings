@@ -23,7 +23,7 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 40.00% | ~1,909 |
 | ...And Don’t Come Back! | 40.00% | ~1,909 |
 | Fit For A King | 38.00% | ~1,814 |
-| Luminary Researcher | 33.00% | ~1,575 |
+| Luminary Researcher | 34.00% | ~1,623 |
 | Heating Up | 28.00% | ~1,336 |
 | Winter Is Coming | 25.00% | ~1,193 |
 | Winter Is Here | 22.00% | ~1,050 |
@@ -113,9 +113,9 @@ Completed: 10 (0.21%) (Ranked 165)
 | 2023-07-22 | 4,763 | 10 |
 | 2023-07-23 | 4,773 | 10 |
 ## Awards
-Max (Relaxing): 121  (Ranked 312)  
+Max (Relaxing): 121  (Ranked 311)  
 Sum: 962 (Ranked 238)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 121 |

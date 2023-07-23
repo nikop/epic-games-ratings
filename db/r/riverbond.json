@@ -3,11 +3,11 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 600,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522992,
+  "EOS_Progressed": 522993,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10210,6 +10210,11 @@
       "Time": "2023-07-23T10:04:04.6304528+00:00",
       "NumProgressed": 522992,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2023-07-23T11:03:48.602339+00:00",
+      "NumProgressed": 522993,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 57,
@@ -10229,7 +10234,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235346
+      "UsersEstimate": 235347
     },
     {
       "ID": "11",
@@ -10237,7 +10242,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366094
+      "UsersEstimate": 366095
     },
     {
       "ID": "12",
@@ -10301,7 +10306,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 324255
+      "UsersEstimate": 324256
     },
     {
       "ID": "2",
@@ -10341,7 +10346,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36609
+      "UsersEstimate": 36610
     },
     {
       "ID": "24",
@@ -10421,7 +10426,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36609
+      "UsersEstimate": 36610
     },
     {
       "ID": "33",
@@ -10477,7 +10482,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177817
+      "UsersEstimate": 177818
     },
     {
       "ID": "4",
@@ -10525,7 +10530,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36609
+      "UsersEstimate": 36610
     },
     {
       "ID": "45",
@@ -10549,7 +10554,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 324255
+      "UsersEstimate": 324256
     },
     {
       "ID": "48",
@@ -10557,7 +10562,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104598
+      "UsersEstimate": 104599
     },
     {
       "ID": "49",
@@ -10565,7 +10570,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177817
+      "UsersEstimate": 177818
     },
     {
       "ID": "5",
@@ -10597,7 +10602,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240576
+      "UsersEstimate": 240577
     },
     {
       "ID": "53",
@@ -10676,15 +10681,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 522992,
+      "Progressed": 522993,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-23T10:04:04.6304523+00:00",
+  "LastChanged_Achievements": "2023-07-23T11:03:48.6023386+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.3854375+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:57:57.3065822+00:00",
-  "LastUpdate_Achievements": "2023-07-23T10:04:04.6305951+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:58:06.5173821+00:00",
+  "LastUpdate_Achievements": "2023-07-23T11:03:48.6025021+00:00"
 }
