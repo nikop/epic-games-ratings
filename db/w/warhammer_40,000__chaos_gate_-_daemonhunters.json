@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2426,6 +2426,11 @@
       "Time": "2023-07-22T21:03:47.599416+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T05:03:20.8855911+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2589,7 +2594,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -2621,7 +2626,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Kills_Executioner",
@@ -2693,7 +2698,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -2701,7 +2706,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2709,7 +2714,7 @@
       "Name": "Nemesis Master",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2805,7 +2810,7 @@
       "Name": "A Foul Creche",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2877,7 +2882,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "SkilledKnight",
@@ -2908,21 +2913,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:03:33.2759283+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:03:20.8855904+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:59:17.562763+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:03:33.2759949+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:58:40.5498509+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:03:20.8856575+00:00"
 }

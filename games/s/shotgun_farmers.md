@@ -9,11 +9,11 @@
 | First Blood | 54.00% | ~122 |
 | Triple Kill | 54.00% | ~122 |
 | Survivor | 53.00% | ~93 |
-| No Asperascope | 48.00% | ~108 |
-| Cornivore | 48.00% | ~108 |
-| I Believe I Can Fly | 45.00% | ~101 |
+| No Asperascope | 49.00% | ~110 |
+| Cornivore | 49.00% | ~110 |
+| I Believe I Can Fly | 46.00% | ~104 |
 | Early Survivor | 41.00% | ~72 |
-| No Diggity | 40.00% | ~70 |
+| No Diggity | 41.00% | ~72 |
 | Amateur Survivor | 30.00% | ~52 |
 | 10K | 27.00% | ~61 |
 | Bouncemato | 26.00% | ~46 |
@@ -21,7 +21,7 @@
 | Grave Digger | 23.00% | ~40 |
 | Drinking Problem | 22.00% | ~50 |
 | Professional Survivor | 20.00% | ~35 |
-| Quick-Draw Pod | 18.00% | ~32 |
+| Quick-Draw Pod | 19.00% | ~33 |
 | Pork Chop Express | 16.00% | ~36 |
 | Carrocketeer | 13.00% | ~29 |
 | Oh My Gourd | 13.00% | ~23 |
@@ -39,8 +39,8 @@
 | Pyromaniac | 6.00% | ~10 |
 | Chick Magnet | 5.00% | ~11 |
 | Early Bird | 5.00% | ~11 |
+| I Have The High Ground | 4.00% | ~9 |
 | Master Survivor | 4.00% | ~7 |
-| I Have The High Ground | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~5 |
 | Easy Peasy | 2.00% | ~4 |
 | 15 Days | 1.00% | ~2 |

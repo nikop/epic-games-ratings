@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7899,
+  "EOS_Progressed": 7900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3976,6 +3976,11 @@
       "Time": "2023-07-23T04:01:22.6483066+00:00",
       "NumProgressed": 7899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T05:00:22.2866543+00:00",
+      "NumProgressed": 7900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4027,7 +4032,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -4186,14 +4191,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7899,
+      "Progressed": 7900,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:01:22.648306+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:00:22.2866537+00:00",
   "LastUpdate_AppInfo": "2023-07-21T18:57:15.4178752+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:57:10.4330195+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:01:22.6483499+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:56:59.6303716+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:00:22.286719+00:00"
 }

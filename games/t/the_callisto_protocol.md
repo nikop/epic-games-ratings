@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 848)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 4.00% | ~630 |
+| Float Like A Butterfly | 3.00% | ~473 |
 | Paper Jams | 3.00% | ~473 |
 | Keep Fighting | 3.00% | ~110 |
 | Giving Back | 2.00% | ~315 |
@@ -16,7 +17,6 @@ Rating: 4.19 (Ranked 848)
 | Chew 'Em Up | 2.00% | ~315 |
 | Terminated | 2.00% | ~315 |
 | Workplace Hazard | 2.00% | ~315 |
-| Float Like A Butterfly | 2.00% | ~315 |
 | Reforged | 2.00% | ~315 |
 | The Outer Way | 2.00% | ~315 |
 | If the SHU Fits... | 2.00% | ~315 |

@@ -18,8 +18,8 @@ Rating: 4.41 (Ranked 672)
 | First Steps Into Madness | 50.00% | ~1,506 |
 | Colonial Barrels | 48.00% | ~1,446 |
 | Harper's Hell | 41.00% | ~1,235 |
+| Making a Stand | 40.00% | ~1,205 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,205 |
-| Making a Stand | 39.00% | ~1,175 |
 | Where It All Begun | 35.00% | ~1,054 |
 | Recouped Investment | 35.00% | ~1,054 |
 | Omelette Du Fromage | 32.00% | ~964 |
@@ -51,7 +51,7 @@ Rating: 4.41 (Ranked 672)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,012 (Ranked 152)  
+Progressed: 3,012 (Ranked 153)  
 Completed: 1 (0.03%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

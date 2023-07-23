@@ -1026,9 +1026,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1090,9 +1090,9 @@
       "ID": "ach_kill_from_volcano_top",
       "SetID": "cmg602e",
       "Name": "I Have The High Ground",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_kill_while_standing_on_cow",
@@ -1250,9 +1250,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1306,9 +1306,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_all_koth_points",
@@ -1346,9 +1346,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1482,9 +1482,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1569,8 +1569,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:05:25.8612184+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:04:47.9657076+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.2452494+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:58:49.8034832+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:05:25.8613025+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:58:18.9536556+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:04:47.9657989+00:00"
 }

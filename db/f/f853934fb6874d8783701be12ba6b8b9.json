@@ -2,9 +2,9 @@
   "ID": "f853934fb6874d8783701be12ba6b8b9",
   "Name": "Life Changer",
   "ProductSlug": "life-changer-64fc81",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-22T01:30:00+00:00",
@@ -21,12 +21,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-23T05:04:19.0005012+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 20,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -138,9 +144,9 @@
       "ID": "Motorcycle Maverick",
       "SetID": "3lgcfc7",
       "Name": "Motorcycle Maverick",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Muscular Marvel",
@@ -170,9 +176,9 @@
       "ID": "Supercar Superstar",
       "SetID": "3lgcfc7",
       "Name": "Supercar Superstar",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Survivor Extraordinaire",
@@ -195,14 +201,14 @@
     {
       "ID": "3lgcfc7",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-25T20:57:02.4050138+00:00",
   "FirstSeenAchievements": "2023-06-22T09:07:33.6284309+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:04:51.8187669+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:04:19.0005+00:00",
   "LastUpdate_AppInfo": "2023-07-16T08:57:04.7572388+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:57:10.9122141+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:04:51.8187808+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:56:59.9734963+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:04:19.0005143+00:00"
 }

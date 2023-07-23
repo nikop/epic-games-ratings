@@ -1,28 +1,28 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.52 (Ranked 519)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~40,303 |
-| Worth it | 63.00% | ~32,975 |
-| Eagle Eye | 55.00% | ~28,788 |
-| Corpseman I | 40.00% | ~20,937 |
-| Blast fishing | 37.00% | ~19,367 |
-| Not alone | 32.00% | ~16,749 |
-| Headhunter I | 26.00% | ~13,609 |
+| Setting an example | 77.00% | ~40,306 |
+| Worth it | 63.00% | ~32,977 |
+| Eagle Eye | 55.00% | ~28,790 |
+| Corpseman I | 40.00% | ~20,938 |
+| Blast fishing | 37.00% | ~19,368 |
+| Not alone | 32.00% | ~16,750 |
+| Headhunter I | 26.00% | ~13,610 |
 | Manual Labour I | 25.00% | ~13,086 |
-| Developers, Developers, Developers | 24.00% | ~12,562 |
-| Basic Training | 24.00% | ~12,562 |
-| Furchtlos und Treu | 13.00% | ~6,804 |
+| Developers, Developers, Developers | 24.00% | ~12,563 |
+| Basic Training | 24.00% | ~12,563 |
+| Furchtlos und Treu | 13.00% | ~6,805 |
 | Gott Mit Uns | 12.00% | ~6,281 |
 | This We'll Defend! | 9.00% | ~4,711 |
 | Anker wirf! | 9.00% | ~4,711 |
 | Providentiea Memor | 9.00% | ~4,711 |
 | For King and Country | 9.00% | ~4,711 |
-| Battle hardened | 8.00% | ~4,187 |
+| Battle hardened | 8.00% | ~4,188 |
 | Semper Fidelis! | 7.00% | ~3,664 |
 | Honneur et Patrie | 7.00% | ~3,664 |
 | In Treue Fest | 5.00% | ~2,617 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~52 |
 | Blood Brother | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,342 (Ranked 86)  
+Progressed: 52,345 (Ranked 86)  
 Completed: 4 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.01%) (Ranked 228)
 | 2023-07-20 | 52,074 | 4 |
 | 2023-07-21 | 52,185 | 4 |
 | 2023-07-22 | 52,313 | 4 |
-| 2023-07-23 | 52,342 | 4 |
+| 2023-07-23 | 52,345 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 340)  
 Sum: 757 (Ranked 262)  

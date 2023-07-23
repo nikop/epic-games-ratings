@@ -11,7 +11,7 @@ Number of Ratings: 101  (23.09.2022)
 | Hokey-Pokey | 72.00% | ~326 |
 | Camellos | 57.00% | ~258 |
 | Bad Trip | 47.00% | ~213 |
-| Didn't Miss A Single One | 45.00% | ~204 |
+| Didn't Miss A Single One | 46.00% | ~208 |
 | Spread | 41.00% | ~186 |
 | That was base | 39.00% | ~177 |
 | Safe Pair of Hands | 37.00% | ~168 |
@@ -21,13 +21,13 @@ Number of Ratings: 101  (23.09.2022)
 | Bite the Blow | 24.00% | ~109 |
 | Spreading Fear | 10.00% | ~45 |
 | I'm Going To Call You Kitty | 8.00% | ~36 |
-| Follow the Money | 6.00% | ~27 |
+| Follow the Money | 7.00% | ~32 |
 | Operation Odessa | 0.90% | ~4 |
 | Iron Lady | 0.70% | ~3 |
 | Sense Of Style | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 453 (Ranked 222)  
-Completed: 2 (0.44%) (Ranked 135)  
+Completed: 2 (0.44%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

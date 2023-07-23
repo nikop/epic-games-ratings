@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "escape",
       "SetID": "8b5dfcp",
       "Name": "Escape",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "help",
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:07:06.1814488+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:06:13.2104425+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.0388865+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:00:37.9160413+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:07:06.1814604+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:59:46.593349+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:06:13.2104588+00:00"
 }

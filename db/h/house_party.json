@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -3613,9 +3613,9 @@
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "Amy_Scav",
@@ -4045,9 +4045,9 @@
       "ID": "TM_Madison",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Madison",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "ThatsANiceBush",
@@ -4171,8 +4171,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:06:31.0048446+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:05:44.233012+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.6654543+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:57:47.6883826+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:06:31.004938+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:57:29.979288+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:05:44.2331066+00:00"
 }

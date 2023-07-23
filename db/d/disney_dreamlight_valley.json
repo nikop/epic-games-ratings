@@ -2790,7 +2790,7 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 7167,
+  "EOS_Progressed": 7168,
   "EOS_Completed": 177,
   "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 8,
@@ -6915,6 +6915,11 @@
       "Time": "2023-07-23T04:01:23.9288676+00:00",
       "NumProgressed": 7167,
       "NumCompleted": 177
+    },
+    {
+      "Time": "2023-07-23T05:00:23.4419864+00:00",
+      "NumProgressed": 7168,
+      "NumCompleted": 177
     }
   ],
   "TotalAchievements": 15,
@@ -6934,7 +6939,7 @@
       "Name": "Banker",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "Bestest_Friend",
@@ -6942,7 +6947,7 @@
       "Name": "Bestest Friend",
       "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "Chef_Cook",
@@ -7022,7 +7027,7 @@
       "Name": "Renovator",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "Thorn_Cleaner",
@@ -7038,14 +7043,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7167,
+      "Progressed": 7168,
       "Completed": 177
     }
   ],
@@ -7053,8 +7058,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-22T22:58:11.4034295+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:01:23.9288671+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:00:23.4419855+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:43.0939004+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:58:37.1172641+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:01:23.9289088+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:58:08.7179019+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:00:23.4552946+00:00"
 }

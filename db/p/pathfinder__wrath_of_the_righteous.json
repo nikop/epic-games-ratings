@@ -3188,9 +3188,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10501,
+  "EOS_Progressed": 10503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9038,6 +9038,11 @@
       "Time": "2023-07-23T04:04:56.4943492+00:00",
       "NumProgressed": 10501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T05:04:22.9495689+00:00",
+      "NumProgressed": 10503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9049,7 +9054,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "02_BurningCity",
@@ -9961,7 +9966,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -9969,28 +9974,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9283,
+      "Progressed": 9285,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10501,
+      "Progressed": 10503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-21T22:58:59.961112+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:04:56.4943487+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:04:22.9495671+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-23T03:59:00.3390661+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:04:56.4945618+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:58:26.193133+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:04:22.9497755+00:00"
 }

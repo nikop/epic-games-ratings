@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67138,
+  "EOS_Progressed": 67141,
   "EOS_Completed": 651,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -10254,6 +10254,11 @@
       "Time": "2023-07-23T04:07:05.5370489+00:00",
       "NumProgressed": 67138,
       "NumCompleted": 651
+    },
+    {
+      "Time": "2023-07-23T05:06:12.5599755+00:00",
+      "NumProgressed": 67141,
+      "NumCompleted": 651
     }
   ],
   "TotalAchievements": 25,
@@ -10297,7 +10302,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14770
+      "UsersEstimate": 14771
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -10353,7 +10358,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "Magnetic Miracles",
@@ -10385,7 +10390,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12756
+      "UsersEstimate": 12757
     },
     {
       "ID": "Nice Try",
@@ -10393,7 +10398,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10742
+      "UsersEstimate": 10743
     },
     {
       "ID": "Nothing Left to Say",
@@ -10464,7 +10469,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 67138,
+      "Progressed": 67141,
       "Completed": 651
     }
   ],
@@ -10472,8 +10477,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-20T22:01:26.8795363+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:07:05.5370484+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:06:12.5599748+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.2305139+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:01:15.1161233+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:07:05.5371338+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:00:15.0724344+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:06:12.5600556+00:00"
 }

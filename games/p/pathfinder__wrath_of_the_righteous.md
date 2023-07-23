@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,205 |
+| Devoured by Darkness | 21.00% | ~2,206 |
 | A Spark | 15.00% | ~1,575 |
 | Burning City | 14.00% | ~1,470 |
 | Mythic Choices | 12.00% | ~1,260 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~315 |
 | Hey, I Know You! | 3.00% | ~315 |
 | Get the Toad | 3.00% | ~315 |
-| The Lady of the Forest | 3.00% | ~278 |
-| Beware Still Water | 3.00% | ~278 |
+| The Lady of the Forest | 3.00% | ~279 |
+| Beware Still Water | 3.00% | ~279 |
 | Path of the Aeon | 2.00% | ~210 |
 | Path of the Trickster | 2.00% | ~210 |
 | Path of the Lich | 2.00% | ~210 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,501 (Ranked 117)  
+Progressed: 10,503 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 10,430 | 0 |
 | 2023-07-21 | 10,460 | 0 |
 | 2023-07-22 | 10,494 | 0 |
-| 2023-07-23 | 10,501 | 0 |
+| 2023-07-23 | 10,503 | 0 |
 ## Awards
 Max (Character Customization): 1,686  (Ranked 117)  
 Sum: 6,829 (Ranked 115)  

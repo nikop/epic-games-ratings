@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.80% | ~104 |
+| The Clergy | 0.90% | ~117 |
 | The Great Mage | 0.60% | ~78 |
+| Poetic Leader | 0.40% | ~52 |
 | Explorer | 0.30% | ~39 |
 | Settler | 0.30% | ~39 |
 | Friendly Family | 0.30% | ~39 |
 | Play a Single Player Game | 0.30% | ~39 |
-| Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |

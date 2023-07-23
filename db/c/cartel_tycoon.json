@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1183,9 +1183,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "female-conqueror",
@@ -1239,9 +1239,9 @@
       "ID": "product-profit",
       "SetID": "bed33dd",
       "Name": "Follow the Money",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "rage-quit",
@@ -1319,8 +1319,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-23T04:07:07.0712247+00:00",
+  "LastChanged_Achievements": "2023-07-23T05:06:13.8276528+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:00:56.1109791+00:00",
-  "LastUpdate_Achievements": "2023-07-23T04:07:07.0712463+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:59:59.5977879+00:00",
+  "LastUpdate_Achievements": "2023-07-23T05:06:13.8276738+00:00"
 }
