@@ -18,7 +18,7 @@
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 17 | [Remains](games/r/remains.md) | 11.11% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.83% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.82% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
 | 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.30% |
@@ -35,7 +35,7 @@
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.67% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.63% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -56,17 +56,17 @@
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.52% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.32% |
+| 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.29% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
-| 60 | [The Complex](games/t/the_complex.md) | 3.07% |
+| 60 | [The Complex](games/t/the_complex.md) | 3.06% |
 | 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
 | 61 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
-| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.82% |
-| 66 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
-| 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 65 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.79% |
+| 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
@@ -85,7 +85,7 @@
 | 83 | [Frogun](games/f/frogun.md) | 1.90% |
 | 84 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 85 | [Sifu](games/s/sifu.md) | 1.80% |
-| 86 | [Iron Danger](games/i/iron_danger.md) | 1.75% |
+| 86 | [Iron Danger](games/i/iron_danger.md) | 1.74% |
 | 87 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.70% |
 | 88 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 89 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -164,15 +164,15 @@
 | 162 | [Blanc](games/b/blanc.md) | 0.22% |
 | 162 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 162 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 165 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 165 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 165 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 167 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 167 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 170 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
-| 171 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 171 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.17% |
+| 168 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
+| 168 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 170 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
+| 170 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 170 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.17% |
 | 174 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 175 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 175 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
