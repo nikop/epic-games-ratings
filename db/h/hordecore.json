@@ -247,9 +247,9 @@
       "ID": "22",
       "SetID": "1530e6b",
       "Name": "Poker-Man",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "23",
@@ -368,8 +368,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:03:23.2466124+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:03:32.4931734+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.0014252+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:59:45.617967+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:03:23.2466329+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:59:54.6927957+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:03:32.4931956+00:00"
 }

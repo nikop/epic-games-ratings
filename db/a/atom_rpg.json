@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1040,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1733,6 +1733,11 @@
       "Time": "2023-07-22T21:03:17.4763137+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T09:03:07.7631052+00:00",
+      "NumProgressed": 1040,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1800,7 +1805,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "EXPERT_1",
@@ -1816,7 +1821,7 @@
       "Name": "Explorer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1904,7 +1909,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PACIFIST",
@@ -2014,9 +2019,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 364
     },
     {
       "ID": "WISHMASTER_1",
@@ -2031,15 +2036,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1040,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:02:18.4666947+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:03:07.7631044+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:59:58.9576886+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:02:18.4667296+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:00:08.0445933+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:03:07.7631426+00:00"
 }

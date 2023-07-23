@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -2406,6 +2406,11 @@
       "Time": "2023-07-23T08:03:26.8818717+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T09:03:36.2038053+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2433,7 +2438,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2473,7 +2478,7 @@
       "Name": "Chain Reaction",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CHAOS_THEORY",
@@ -2561,7 +2566,7 @@
       "Name": "Editor Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ENDGAME",
@@ -2577,7 +2582,7 @@
       "Name": "Exorcist",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "EXPERIENCED",
@@ -2601,7 +2606,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2625,7 +2630,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "GIANT_KILLER",
@@ -2649,7 +2654,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2657,7 +2662,7 @@
       "Name": "Hold The Line",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "IM_THE_LAW",
@@ -2665,7 +2670,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "INFILTRATOR",
@@ -2721,7 +2726,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "RECYCLER",
@@ -2751,9 +2756,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 522
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2785,7 +2790,7 @@
       "Name": "Technophobe",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2793,7 +2798,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2824,7 +2829,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 0
     }
   ],
@@ -2832,8 +2837,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:03:26.8818711+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:03:36.2038008+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:58:24.8957685+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:03:26.8819283+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:58:29.5284758+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:03:36.2038636+00:00"
 }

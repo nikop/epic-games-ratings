@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3013,
+  "EOS_Progressed": 3015,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2431,6 +2431,11 @@
       "Time": "2023-07-23T05:03:20.8855911+00:00",
       "NumProgressed": 3013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T09:03:27.8339086+00:00",
+      "NumProgressed": 3015,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2458,7 +2463,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "BloodAndIron",
@@ -2538,7 +2543,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2610,7 +2615,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "Kills_Bleed",
@@ -2618,7 +2623,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2632,9 +2637,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1206
     },
     {
       "ID": "Kills_Exterminator",
@@ -2650,7 +2655,7 @@
       "Name": "Friendly Fire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Kills_Interactable",
@@ -2666,7 +2671,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "Kills_Streak",
@@ -2674,7 +2679,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Kills_Vakir",
@@ -2690,7 +2695,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2722,7 +2727,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MasterOfTheForge",
@@ -2778,7 +2783,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2913,21 +2918,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3013,
+      "Progressed": 3015,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3013,
+      "Progressed": 3015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:03:18.7742418+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:03:27.8339078+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:58:46.5568211+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:03:18.7743081+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:58:54.9671984+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:03:27.8339761+00:00"
 }

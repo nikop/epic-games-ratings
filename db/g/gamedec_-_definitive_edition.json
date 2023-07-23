@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 238556,
+  "EOS_Progressed": 238558,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10528,6 +10528,11 @@
       "Time": "2023-07-23T08:00:25.2291985+00:00",
       "NumProgressed": 238556,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-23T09:02:04.0576244+00:00",
+      "NumProgressed": 238558,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10539,7 +10544,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64410
+      "UsersEstimate": 64411
     },
     {
       "ID": "ACH_AON",
@@ -10755,7 +10760,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57253
+      "UsersEstimate": 57254
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -10851,7 +10856,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19084
+      "UsersEstimate": 19085
     },
     {
       "ID": "ACH_SCRATCH",
@@ -10859,7 +10864,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59639
+      "UsersEstimate": 59640
     },
     {
       "ID": "ACH_SOREAD",
@@ -10931,7 +10936,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19084
+      "UsersEstimate": 19085
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -10954,7 +10959,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238556,
+      "Progressed": 238558,
       "Completed": 7
     }
   ],
@@ -10962,8 +10967,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:00:25.2291981+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:02:04.0576239+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:58:08.6453661+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:00:25.2293099+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:58:14.0834117+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:02:04.0577411+00:00"
 }

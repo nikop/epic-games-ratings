@@ -157,9 +157,9 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "14",
@@ -237,9 +237,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "23",
@@ -366,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:03:51.1662933+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:04:00.5088928+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.4526107+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:59:19.1513203+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:03:51.1663159+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:59:29.3916338+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:04:00.5089144+00:00"
 }

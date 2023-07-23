@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 40.00% | ~21 |
-| First Step | 36.00% | ~19 |
+| The 4 Pillars | 39.00% | ~21 |
+| First Step | 35.00% | ~19 |
 | Capitalism | 6.00% | ~3 |
+| Green Energy | 6.00% | ~3 |
+| Health Care | 4.00% | ~2 |
 | Indebted | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
-| Green Energy | 4.00% | ~2 |
-| Health Care | 2.00% | ~1 |
 | There's something in those trees | 2.00% | ~1 |
 | Good payer | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 341)  
+Progressed: 54 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 17 | 0 |
 | 2023-07-21 | 39 | 0 |
 | 2023-07-22 | 50 | 0 |
-| 2023-07-23 | 53 | 0 |
+| 2023-07-23 | 54 | 0 |

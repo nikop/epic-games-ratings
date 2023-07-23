@@ -18,10 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 8.00% | ~206 |
 | Keep the dream alive | 8.00% | ~206 |
 | Upfront shredder | 8.00% | ~206 |
+| That pinch! | 7.00% | ~180 |
 | Bottom ply killer | 6.00% | ~155 |
 | Fashionista | 6.00% | ~155 |
 | Finally he zips it | 6.00% | ~155 |
-| That pinch! | 6.00% | ~155 |
 | Tight lipslides | 6.00% | ~155 |
 | Commence the Hijinx! | 5.00% | ~129 |
 | Fulfilled the dream | 5.00% | ~129 |

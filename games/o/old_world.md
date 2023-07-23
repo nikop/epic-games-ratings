@@ -8,11 +8,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 0.90% | ~117 |
 | The Great Mage | 0.60% | ~78 |
+| Play a Single Player Game | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
 | Explorer | 0.30% | ~39 |
 | Settler | 0.30% | ~39 |
 | Friendly Family | 0.30% | ~39 |
-| Play a Single Player Game | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Ambitious | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |

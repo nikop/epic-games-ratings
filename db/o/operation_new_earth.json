@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1996,6 +1996,11 @@
       "Time": "2023-07-23T08:04:58.693034+00:00",
       "NumProgressed": 583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T09:05:08.8130949+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2023,7 +2028,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2039,7 +2044,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -2071,7 +2076,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2119,7 +2124,7 @@
       "Name": "Corporal",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2127,7 +2132,7 @@
       "Name": "Sergeant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2151,7 +2156,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -2263,7 +2268,7 @@
       "Name": "Defenses Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2310,14 +2315,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:04:58.6930336+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:05:08.8130943+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:00:13.5474813+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:04:58.6930732+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:00:21.0458781+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:05:08.8131355+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 326,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 347,
@@ -1152,10 +1152,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 910,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-07-23T08:58:27.6064889+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 911,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 910,
+  "NumberOfAwards": 911,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1223,7 +1229,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1243,8 +1249,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-07-15T22:58:49.823251+00:00",
+  "LastChanged": "2023-07-23T08:58:27.6064885+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:51.1741305+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:58:22.2592564+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:04:15.3352805+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:58:27.6064893+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:04:25.3666237+00:00"
 }

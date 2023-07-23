@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2991,
+  "EOS_Progressed": 2992,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 3.54,
   "EosHistory": [
@@ -3675,6 +3675,11 @@
       "Time": "2023-07-23T03:05:36.6625937+00:00",
       "NumProgressed": 2991,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-23T09:05:32.6779496+00:00",
+      "NumProgressed": 2992,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 24,
@@ -3694,7 +3699,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "11",
@@ -3726,7 +3731,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "15",
@@ -3782,7 +3787,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "21",
@@ -3806,7 +3811,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "24",
@@ -3814,7 +3819,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "3",
@@ -3830,7 +3835,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "5",
@@ -3838,7 +3843,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "6",
@@ -3877,13 +3882,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2991,
+      "Progressed": 2992,
       "Completed": 106
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:05:22.493407+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:05:32.6779491+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:58:59.1917795+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:05:22.4934445+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:59:08.8394951+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:05:32.6779886+00:00"
 }

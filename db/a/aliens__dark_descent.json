@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3016,
+  "EOS_Progressed": 3017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-07-23T08:00:29.4932604+00:00",
       "NumProgressed": 3016,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T09:02:09.1803163+00:00",
+      "NumProgressed": 3017,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3084,7 +3089,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3212,7 +3217,7 @@
       "Name": "Bandage Lover",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -3244,7 +3249,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3266,9 +3271,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1207
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3284,7 +3289,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_MISSION_07",
@@ -3348,7 +3353,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3356,7 +3361,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3364,7 +3369,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3380,7 +3385,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3396,7 +3401,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3411,7 +3416,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3016,
+      "Progressed": 3017,
       "Completed": 1
     }
   ],
@@ -3419,8 +3424,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:00:29.49326+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:02:09.1803158+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:59:18.3661431+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:00:29.4933114+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:59:28.614048+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:02:09.1804002+00:00"
 }

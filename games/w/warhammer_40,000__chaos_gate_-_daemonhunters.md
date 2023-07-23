@@ -6,21 +6,21 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 39.00% | ~1,175 |
-| Look Over There! | 34.00% | ~1,024 |
-| Watch Where You Step... | 33.00% | ~994 |
-| Not So Fast... | 32.00% | ~964 |
-| An Ill Omen | 31.00% | ~934 |
-| Purging Spree | 25.00% | ~753 |
-| Blood for the Blood God! | 19.00% | ~572 |
-| Friendly Fire | 18.00% | ~542 |
-| Surgical Excision | 17.00% | ~512 |
-| Bloodless | 17.00% | ~512 |
+| Executioner | 40.00% | ~1,206 |
+| Look Over There! | 34.00% | ~1,025 |
+| Watch Where You Step... | 33.00% | ~995 |
+| Not So Fast... | 32.00% | ~965 |
+| An Ill Omen | 31.00% | ~935 |
+| Purging Spree | 25.00% | ~754 |
+| Blood for the Blood God! | 19.00% | ~573 |
+| Friendly Fire | 18.00% | ~543 |
+| Surgical Excision | 17.00% | ~513 |
+| Bloodless | 17.00% | ~513 |
 | Honoured Battle-Brother | 13.00% | ~392 |
 | The Emperor Protects | 12.00% | ~362 |
 | Nemesis Master | 12.00% | ~362 |
 | A Foul Creche | 12.00% | ~362 |
-| Gunmaster | 11.00% | ~331 |
+| Gunmaster | 11.00% | ~332 |
 | Opportunist | 9.00% | ~271 |
 | Efficient Killer | 9.00% | ~271 |
 | Just a Scratch | 9.00% | ~271 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,013 (Ranked 153)  
+Progressed: 3,015 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
-| 2023-07-23 | 3,013 | 0 |
+| 2023-07-23 | 3,015 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 264)  
 Sum: 451 (Ranked 304)  

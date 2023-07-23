@@ -5304,9 +5304,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711246,
+  "EOS_Progressed": 711249,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14069,6 +14069,11 @@
       "Time": "2023-07-23T08:06:05.481059+00:00",
       "NumProgressed": 711246,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-23T09:06:16.1235908+00:00",
+      "NumProgressed": 711249,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14424,7 +14429,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14432,7 +14437,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -14464,7 +14469,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -14479,21 +14484,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20547,
+      "Progressed": 20550,
       "Completed": 10432
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711246,
+      "Progressed": 711249,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-23T04:58:59.3196325+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:06:05.4810583+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:06:16.1235902+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:59:01.3861546+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:06:05.4811531+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:59:10.8037028+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:06:16.123688+00:00"
 }

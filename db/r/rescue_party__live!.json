@@ -288,9 +288,9 @@
       "ID": "ACH_LIFE_MATTERS",
       "SetID": "1p69hf1",
       "Name": "Life matters",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_LIGHT",
@@ -393,8 +393,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-07-23T08:03:57.1899849+00:00",
+  "LastChanged_Achievements": "2023-07-23T09:04:06.6046422+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:08.0192504+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:57:02.5685824+00:00",
-  "LastUpdate_Achievements": "2023-07-23T08:03:57.1900001+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:57:10.1618045+00:00",
+  "LastUpdate_Achievements": "2023-07-23T09:04:06.6046575+00:00"
 }

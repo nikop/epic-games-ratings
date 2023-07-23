@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 460)  
+Rating: 4.56 (Ranked 461)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.56 (Ranked 460)
 | Scientifically Accurate | 1.00% | ~29 |
 | You Had One Job... | 0.90% | ~26 |
 | Gregor Spinoza | 0.90% | ~26 |
-| Better Him Than Me | 0.70% | ~20 |
+| Better Him Than Me | 0.80% | ~23 |
 | Remember the Dead | 0.70% | ~20 |
 | Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |

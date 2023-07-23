@@ -42,7 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 2.00% | ~319 |
 | Refinery | 1.00% | ~160 |
 | Fishmen Ritual Site | 1.00% | ~160 |
-| Efficient Explorer | 0.80% | ~128 |
+| Efficient Explorer | 0.90% | ~144 |
 | Prestigious Expedition | 0.80% | ~128 |
 | Blood Flower Farmer | 0.70% | ~112 |
 | Victory through Prosperity | 0.70% | ~112 |

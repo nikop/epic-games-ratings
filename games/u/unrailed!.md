@@ -6,19 +6,19 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~99,704 |
-| Incurious | 15.00% | ~93,472 |
-| Climate Change | 14.00% | ~87,241 |
-| Stroller | 13.00% | ~81,010 |
-| Toy Train | 12.00% | ~74,778 |
-| Advanced Hiker | 11.00% | ~68,546 |
-| Hiker | 10.00% | ~62,315 |
-| Mojave Courier | 5.00% | ~31,158 |
-| Saved by Nausicaä | 4.00% | ~24,926 |
-| Voyager | 3.00% | ~18,694 |
-| Advanced Voyager | 3.00% | ~18,694 |
-| Expert Stroller | 3.00% | ~18,694 |
-| Orient Express | 3.00% | ~18,694 |
+| Advanced Stroller | 16.00% | ~99,707 |
+| Incurious | 15.00% | ~93,476 |
+| Climate Change | 14.00% | ~87,244 |
+| Stroller | 13.00% | ~81,012 |
+| Toy Train | 12.00% | ~74,781 |
+| Advanced Hiker | 11.00% | ~68,549 |
+| Hiker | 10.00% | ~62,317 |
+| Mojave Courier | 5.00% | ~31,159 |
+| Saved by Nausicaä | 4.00% | ~24,927 |
+| Voyager | 3.00% | ~18,695 |
+| Advanced Voyager | 3.00% | ~18,695 |
+| Expert Stroller | 3.00% | ~18,695 |
+| Orient Express | 3.00% | ~18,695 |
 | Expert Hiker | 2.00% | ~12,463 |
 | Marathon | 2.00% | ~12,463 |
 | Destructionist | 2.00% | ~12,463 |
@@ -30,12 +30,12 @@ Number of Ratings: 21,990  (23.09.2022)
 | Dynamite Fishing | 0.50% | ~3,116 |
 | Scrooge | 0.40% | ~2,493 |
 | Terminal Station | 0.40% | ~2,493 |
-| Wayfarer | 0.30% | ~1,869 |
-| Advanced Wayfarer | 0.30% | ~1,869 |
-| Trans-Siberian Railway | 0.30% | ~1,869 |
-| Satan's Minion | 0.30% | ~1,869 |
-| Snowman's Land | 0.30% | ~1,869 |
-| Tough Nut! | 0.30% | ~1,869 |
+| Wayfarer | 0.30% | ~1,870 |
+| Advanced Wayfarer | 0.30% | ~1,870 |
+| Trans-Siberian Railway | 0.30% | ~1,870 |
+| Satan's Minion | 0.30% | ~1,870 |
+| Snowman's Land | 0.30% | ~1,870 |
+| Tough Nut! | 0.30% | ~1,870 |
 | Engineer | 0.20% | ~1,246 |
 | Explorer | 0.10% | ~623 |
 | Advanced Explorer | 0.10% | ~623 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~623 |
 | 20 Miles under the Sea | 0.10% | ~623 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 623,150 (Ranked 24)  
+Progressed: 623,171 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 7 (0.00%) (Ranked 240)
 | 2023-07-20 | 622,060 | 7 |
 | 2023-07-21 | 622,493 | 7 |
 | 2023-07-22 | 623,015 | 7 |
-| 2023-07-23 | 623,150 | 7 |
+| 2023-07-23 | 623,171 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,539 (Ranked 215)  
