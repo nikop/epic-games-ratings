@@ -14,17 +14,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.30% | ~39 |
 | Play a Single Player Game | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
+| Ambitious | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Good | 0.20% | ~26 |
 | Intrepid | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
+| Keystone | 0.20% | ~26 |
 | Mason | 0.20% | ~26 |
 | Noble | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
+| Lighthouse | 0.20% | ~26 |
 | Oracle | 0.20% | ~26 |
 | Pyramids | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
@@ -54,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 4) | 0.10% | ~13 |
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
-| Ambitious | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
 | Beloved | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
@@ -69,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
-| Keystone | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
 | Magnificent | 0.10% | ~13 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
-| Lighthouse | 0.10% | ~13 |
 | Mausoleum | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,026 (Ranked 114)  
+Progressed: 13,028 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,026 | 5 |
+| 2023-07-23 | 13,028 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

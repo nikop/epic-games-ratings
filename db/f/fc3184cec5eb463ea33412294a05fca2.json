@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -638,9 +638,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:04:58.0668116+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:04:43.7768728+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:57:13.2838061+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:04:58.0668269+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:57:07.835524+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:04:43.7768892+00:00"
 }

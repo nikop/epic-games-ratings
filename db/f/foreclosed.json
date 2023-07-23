@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -169,17 +169,17 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Headshots_0",
@@ -201,9 +201,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LiftEnemies_0",
@@ -306,8 +306,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:04:04.9866533+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:03:52.4546459+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:42.0050187+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:59:07.8771065+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:04:04.986672+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:59:02.852511+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:03:52.4546642+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-07-23T06:04:00.1745127+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T08:03:26.8818717+00:00",
+      "NumProgressed": 1272,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2428,7 +2433,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2484,15 +2489,15 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 598
     },
     {
       "ID": "CRUELTY",
@@ -2524,7 +2529,7 @@
       "Name": "Limp Richard",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2588,7 +2593,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2596,7 +2601,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2628,7 +2633,7 @@
       "Name": "Giant Killer",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "GOAL",
@@ -2674,9 +2679,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 649
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2692,7 +2697,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2700,7 +2705,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2724,7 +2729,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "RUTHLESS",
@@ -2796,7 +2801,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "THE_WATCHERS",
@@ -2819,7 +2824,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1272,
       "Completed": 0
     }
   ],
@@ -2827,8 +2832,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:03:38.498944+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:03:26.8818711+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:58:28.0704275+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:03:38.4990019+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:58:24.8957685+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:03:26.8819283+00:00"
 }

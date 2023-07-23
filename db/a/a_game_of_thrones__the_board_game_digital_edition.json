@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19248,
+  "EOS_Progressed": 19250,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -11108,6 +11108,11 @@
       "Time": "2023-07-23T07:02:18.8060514+00:00",
       "NumProgressed": 19248,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-23T08:02:07.8245905+00:00",
+      "NumProgressed": 19250,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 22,
@@ -11127,7 +11132,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "1017",
@@ -11151,7 +11156,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "1020",
@@ -11183,7 +11188,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "1024",
@@ -11255,7 +11260,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7699
+      "UsersEstimate": 7700
     },
     {
       "ID": "1033",
@@ -11263,7 +11268,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "1034",
@@ -11271,7 +11276,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "1035",
@@ -11294,15 +11299,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19248,
+      "Progressed": 19250,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:02:18.8060509+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:02:07.8245901+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-23T07:00:11.9272664+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:02:18.8061234+00:00"
+  "LastUpdate_Ratings": "2023-07-23T08:00:02.0458074+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:02:07.8246661+00:00"
 }

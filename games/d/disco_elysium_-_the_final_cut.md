@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,673 |
-| Biggest Communism Builder | 24.00% | ~29,719 |
-| The World's Most Laughable Centrist | 20.00% | ~24,766 |
-| Il Coppo Del'Arte! | 18.00% | ~22,290 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,813 |
-| Hyperstellar Law Official | 15.00% | ~18,575 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,336 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,098 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,098 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,621 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,145 |
-| Unbelievably Boring **** | 8.00% | ~9,906 |
-| Enemy Of The Physical Realm | 8.00% | ~9,906 |
-| Hardie's Heroes | 6.00% | ~7,430 |
-| The Lawbringer | 4.00% | ~4,953 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,953 |
+| Goodest Of The Good Cops | 28.00% | ~34,676 |
+| Biggest Communism Builder | 24.00% | ~29,722 |
+| The World's Most Laughable Centrist | 20.00% | ~24,769 |
+| Il Coppo Del'Arte! | 18.00% | ~22,292 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,815 |
+| Hyperstellar Law Official | 15.00% | ~18,576 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,338 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,100 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,100 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,623 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,146 |
+| Unbelievably Boring **** | 8.00% | ~9,907 |
+| Enemy Of The Physical Realm | 8.00% | ~9,907 |
+| Hardie's Heroes | 6.00% | ~7,431 |
+| The Lawbringer | 4.00% | ~4,954 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,954 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,715 |
 | Bother Kim After Hours | 3.00% | ~3,715 |
 | Baddest Of the Bad Cops | 2.00% | ~2,477 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,477 |
 | Massive Torque Dork | 1.00% | ~1,238 |
 | Avowed Inframaterialist | 1.00% | ~1,238 |
-| Real Musor | 0.90% | ~1,114 |
+| Real Musor | 0.90% | ~1,115 |
 | Baddest Brow in Town | 0.80% | ~991 |
 | Committee of la Responsabilité | 0.80% | ~991 |
 | Venture into the HARDCORE | 0.80% | ~991 |
 | Networthy Individual | 0.70% | ~867 |
 | Leopard Mindset | 0.60% | ~743 |
-| Modus: Mullen | 0.30% | ~371 |
-| Palerunner | 0.30% | ~371 |
+| Modus: Mullen | 0.30% | ~372 |
+| Palerunner | 0.30% | ~372 |
 | Cause a ****storm | 0.20% | ~248 |
 | True Detective | 0.20% | ~248 |
 | The Icebreaker | 0.20% | ~248 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,831 (Ranked 63)  
+Progressed: 123,843 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 27 (0.02%) (Ranked 219)
 | 2023-07-20 | 123,441 | 27 |
 | 2023-07-21 | 123,608 | 27 |
 | 2023-07-22 | 123,797 | 27 |
-| 2023-07-23 | 123,831 | 27 |
+| 2023-07-23 | 123,843 | 27 |
 ## Awards
 Max (Character Customization): 707  (Ranked 162)  
 Sum: 1,069 (Ranked 233)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 545,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.59,
   "EosHistory": [
@@ -1922,9 +1922,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "MQ03_5",
@@ -2083,8 +2083,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:05:47.7846881+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:05:34.4452116+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:57:33.6541582+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:05:47.7847185+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:57:29.5953645+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:05:34.4452519+00:00"
 }

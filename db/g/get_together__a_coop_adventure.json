@@ -155,9 +155,9 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 78,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -219,9 +219,9 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
@@ -236,8 +236,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-07-23T07:03:53.3770919+00:00",
+  "LastChanged_Achievements": "2023-07-23T08:03:41.7477601+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.1761324+00:00",
-  "LastUpdate_Ratings": "2023-07-23T06:59:34.235931+00:00",
-  "LastUpdate_Achievements": "2023-07-23T07:03:53.3771009+00:00"
+  "LastUpdate_Ratings": "2023-07-23T07:59:24.5536565+00:00",
+  "LastUpdate_Achievements": "2023-07-23T08:03:41.7477711+00:00"
 }
