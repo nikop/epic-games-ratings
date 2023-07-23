@@ -287,7 +287,7 @@
 | 275 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 505 |
 | 275 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 0 | 505 |
 | 275 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 505 |
-| 275 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 158 | 291 |
+| 275 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 290 |
 | 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 50 | 398 |
 | 275 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,056 | 138 |
 | 275 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 559 | 183 |
@@ -394,14 +394,14 @@
 | 365 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.61 | 0 | 505 |
 | 393 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 505 |
 | 393 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.60 | 0 | 505 |
-| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 674 | 167 |
+| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 676 | 167 |
 | 393 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,911 | 28 |
 | 393 | [Control](games/c/control.md) | 4.60 | 8,405 | 40 |
 | 393 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 259 |
 | 393 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,517 | 27 |
 | 393 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 312 |
 | 393 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 389 |
-| 393 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 616 | 174 |
+| 393 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 617 | 174 |
 | 393 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 386 |
 | 393 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 505 |
 | 393 | [RiME](games/r/rime.md) | 4.60 | 0 | 505 |
@@ -463,7 +463,7 @@
 | 460 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
 | 460 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 398 |
 | 460 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 505 |
-| 460 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 809 | 151 |
+| 460 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 811 | 151 |
 | 460 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 435 |
 | 460 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 505 |
 | 460 | [Hue](games/h/hue.md) | 4.56 | 0 | 505 |
@@ -727,17 +727,17 @@
 | 722 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 505 |
 | 722 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 43 | 415 |
 | 722 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 505 |
-| 722 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 49 | 403 |
 | 722 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 80 | 357 |
 | 722 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 423 |
 | 722 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 448 |
-| 732 | [Core](games/c/core.md) | 4.36 | 743 | 158 |
-| 732 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 732 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,591 | 29 |
-| 732 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 505 |
-| 732 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 475 |
-| 732 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 104 | 328 |
-| 732 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 505 |
+| 731 | [Core](games/c/core.md) | 4.36 | 743 | 158 |
+| 731 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 731 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,591 | 29 |
+| 731 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 505 |
+| 731 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 475 |
+| 731 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 403 |
+| 731 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 104 | 328 |
+| 731 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 505 |
 | 739 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 505 |
 | 739 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 505 |
 | 739 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 505 |
