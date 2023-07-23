@@ -16,13 +16,13 @@
 | Survival ✔ | 7.00% | ~15 |
 | Hospital ✔ | 7.00% | ~15 |
 | Thirst ✔ | 7.00% | ~15 |
+| Antivirus ✔ | 6.00% | ~13 |
 | Betty ✔ | 6.00% | ~13 |
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | King of survival ✔ | 6.00% | ~13 |
 | Alice ✔ | 5.00% | ~11 |
-| Antivirus ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
 | Food ✔ | 5.00% | ~11 |
 | Mutant fight ✔ | 5.00% | ~11 |
@@ -34,16 +34,16 @@
 | City on fire ✔ | 4.00% | ~9 |
 | Infected ✔ | 4.00% | ~9 |
 | Priest ✔ | 4.00% | ~9 |
+| Rank A ✔ | 4.00% | ~9 |
 | Broadcasting ✔ | 4.00% | ~9 |
 | Crocodile Attack ✔ | 3.00% | ~6 |
 | Secret ✔ | 3.00% | ~6 |
+| Boss 2 ✔ | 3.00% | ~6 |
 | Mutant run ✔ | 3.00% | ~6 |
 | Osipov's video message ✔ | 3.00% | ~6 |
-| Rank A ✔ | 3.00% | ~6 |
 | Boss 3 ✔ | 3.00% | ~6 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
-| Boss 2 ✔ | 2.00% | ~4 |
 | The escape ✔ | 2.00% | ~4 |
 | Rank B+ ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 1.00% | ~2 |

@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 8.00% | ~206 |
 | Keep the dream alive | 8.00% | ~206 |
 | Upfront shredder | 8.00% | ~206 |
-| Bottom ply killer | 6.00% | ~154 |
-| Fashionista | 6.00% | ~154 |
-| Finally he zips it | 6.00% | ~154 |
-| That pinch! | 6.00% | ~154 |
-| Tight lipslides | 6.00% | ~154 |
+| Bottom ply killer | 6.00% | ~155 |
+| Fashionista | 6.00% | ~155 |
+| Finally he zips it | 6.00% | ~155 |
+| That pinch! | 6.00% | ~155 |
+| Tight lipslides | 6.00% | ~155 |
 | Commence the Hijinx! | 5.00% | ~129 |
 | Fulfilled the dream | 5.00% | ~129 |
 | G'Day Mate! | 5.00% | ~129 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,575 (Ranked 158)  
+Progressed: 2,576 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,19 +142,19 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,533 | 0 |
 | 2023-07-21 | 2,554 | 0 |
 | 2023-07-22 | 2,571 | 0 |
-| 2023-07-23 | 2,575 | 0 |
+| 2023-07-23 | 2,576 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
-Sum: 437 (Ranked 305)  
+Sum: 438 (Ranked 305)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game is Great for Quick Sessions | 44 |
+| This game has Realistic Visuals | 42 |
 | This game has a Creative Community | 41 |
 | This game has Amazing Characters | 41 |
 | This game has Amazing Storytelling | 41 |
-| This game has Realistic Visuals | 41 |
 | This game is Relaxing | 39 |
 | This game is Extremely Fun | 38 |
 | This game has Diverse Characters | 38 |
@@ -282,3 +282,4 @@ Diff (max vs sum): 93
 | 2023-07-12 | 4.67 | - | 50 | 436 |
 | 2023-07-14 | 4.68 | - | 50 | 436 |
 | 2023-07-18 | 4.68 | - | 50 | 437 |
+| 2023-07-23 | 4.68 | - | 50 | 438 |

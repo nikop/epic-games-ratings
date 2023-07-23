@@ -710,9 +710,9 @@
       "ID": "PRG_HARD_10004",
       "SetID": "89cjc9l",
       "Name": "Mithril",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PRG_HARD_10005",
@@ -983,8 +983,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:00:22.1252767+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:01:30.3013426+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.9265516+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:57:36.6914824+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:00:22.1253918+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:58:04.5064788+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:01:30.301411+00:00"
 }

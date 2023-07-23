@@ -2698,9 +2698,9 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 717995,
+  "EOS_Progressed": 717996,
   "EOS_Completed": 712,
-  "EOS_NewPlayers": 1140,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12793,6 +12793,11 @@
       "Time": "2023-07-23T05:05:18.2692418+00:00",
       "NumProgressed": 717995,
       "NumCompleted": 712
+    },
+    {
+      "Time": "2023-07-23T06:06:11.9785609+00:00",
+      "NumProgressed": 717996,
+      "NumCompleted": 712
     }
   ],
   "TotalAchievements": 98,
@@ -12836,7 +12841,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 215398
+      "UsersEstimate": 215399
     },
     {
       "ID": "BallShooter",
@@ -12884,7 +12889,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "Buckle",
@@ -12932,7 +12937,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "CoinsBack",
@@ -12940,7 +12945,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "Crash2",
@@ -13052,7 +13057,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 380537
+      "UsersEstimate": 380538
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -13140,7 +13145,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "Happiness",
@@ -13164,7 +13169,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 394897
+      "UsersEstimate": 394898
     },
     {
       "ID": "Healthregen",
@@ -13180,7 +13185,7 @@
       "Name": "Helped a star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 86159
+      "UsersEstimate": 86160
     },
     {
       "ID": "HillClimb",
@@ -13220,7 +13225,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "InvisibleWall",
@@ -13244,7 +13249,7 @@
       "Name": "Just once",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 258478
+      "UsersEstimate": 258479
     },
     {
       "ID": "MacGuffin",
@@ -13316,7 +13321,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 710815
+      "UsersEstimate": 710816
     },
     {
       "ID": "PanicLights",
@@ -13404,7 +13409,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 78979
+      "UsersEstimate": 78980
     },
     {
       "ID": "Shady",
@@ -13444,7 +13449,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86159
+      "UsersEstimate": 86160
     },
     {
       "ID": "SuperSword",
@@ -13476,7 +13481,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 610296
+      "UsersEstimate": 610297
     },
     {
       "ID": "ThroughPipe",
@@ -13587,15 +13592,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 717995,
+      "Progressed": 717996,
       "Completed": 712
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-07-21T11:58:22.7044233+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:05:18.2692413+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:06:11.9785604+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.3326835+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:58:09.7237659+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:05:18.2694359+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:58:46.4053899+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:06:11.978698+00:00"
 }

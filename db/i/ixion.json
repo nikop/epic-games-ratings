@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2886,
+  "EOS_Progressed": 2888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2023-07-23T05:04:36.9100779+00:00",
       "NumProgressed": 2886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T06:05:22.2653602+00:00",
+      "NumProgressed": 2888,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3774,7 +3779,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_BASE_10",
@@ -3838,7 +3843,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_BASE_19",
@@ -3886,7 +3891,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_BASE_25",
@@ -3990,7 +3995,7 @@
       "Name": "Access Granted",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_37",
@@ -4070,7 +4075,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_BASE_49",
@@ -4118,7 +4123,7 @@
       "Name": "All in Good Health",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_56",
@@ -4206,7 +4211,7 @@
       "Name": "From the Past",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_8",
@@ -4229,13 +4234,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1068,
+      "Progressed": 1070,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2886,
+      "Progressed": 2888,
       "Completed": 0
     }
   ],
@@ -4243,8 +4248,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:04:36.9100763+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:05:22.2653598+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:58:31.1915708+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:04:36.9101593+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:59:12.1482545+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:05:22.2654223+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2023-07-23T03:03:26.1708424+00:00",
       "NumProgressed": 780,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T06:03:42.4024969+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1741,9 +1746,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1759,7 +1764,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1783,7 +1788,7 @@
       "Name": "Like Clockwork",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ClovemaryGift",
@@ -2013,9 +2018,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "RewindDamage1",
@@ -2095,7 +2100,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TheaterChests1",
@@ -2158,14 +2163,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:03:14.9128153+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:03:42.4024961+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:59:19.9877171+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:03:14.9128727+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:00:08.5178859+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:03:42.4025474+00:00"
 }

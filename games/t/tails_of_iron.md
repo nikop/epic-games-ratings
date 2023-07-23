@@ -9,7 +9,7 @@ Rating: 4.52 (Ranked 520)
 | Become King | 72.00% | ~1,283 |
 | Ranged Weapon | 61.00% | ~1,087 |
 | Defeat 25 Frogs | 61.00% | ~1,087 |
-| Collect Monster Parts | 57.00% | ~1,016 |
+| Collect Monster Parts | 58.00% | ~1,034 |
 | Two Handed Weapon | 56.00% | ~998 |
 | Defeat 25 Grubs | 52.00% | ~927 |
 | Rescue Redgi's Brothers | 51.00% | ~909 |

@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 88,
@@ -656,10 +656,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-07-23T06:01:07.1366277+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 200,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 180,
+  "NumberOfAwards": 200,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -704,11 +710,17 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 23
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 253463,
+  "EOS_Progressed": 253465,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10211,6 +10223,11 @@
       "Time": "2023-07-23T05:05:24.8284509+00:00",
       "NumProgressed": 253463,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-23T06:06:18.7798697+00:00",
+      "NumProgressed": 253465,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10222,7 +10239,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17742
+      "UsersEstimate": 17743
     },
     {
       "ID": "Act2",
@@ -10669,16 +10686,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253463,
+      "Progressed": 253465,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-21T23:01:03.1277615+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:05:24.8284498+00:00",
+  "LastChanged": "2023-07-23T06:01:07.1366276+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:06:18.7798689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:00:06.8786675+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:05:24.8285735+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:01:07.136628+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:06:18.7799623+00:00"
 }

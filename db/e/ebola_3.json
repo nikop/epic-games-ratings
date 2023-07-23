@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -923,9 +923,9 @@
       "ID": "achAntivirus",
       "SetID": "72gjli4",
       "Name": "Antivirus \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achBag",
@@ -1043,9 +1043,9 @@
       "ID": "achDictator",
       "SetID": "72gjli4",
       "Name": "Boss 2 \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achDog",
@@ -1211,9 +1211,9 @@
       "ID": "achRankTwo",
       "SetID": "72gjli4",
       "Name": "Rank A \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achSave",
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:03:51.0611013+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:04:26.4989647+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.6474315+00:00",
-  "LastUpdate_Ratings": "2023-07-23T05:00:04.1903254+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:03:51.0611526+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:01:03.6973467+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:04:26.4990143+00:00"
 }

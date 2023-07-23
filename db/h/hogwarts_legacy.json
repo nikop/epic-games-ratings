@@ -5254,10 +5254,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39692,
       "NumberOfAwardsMax": 21184
+    },
+    {
+      "Time": "2023-07-23T05:58:02.2591056+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39697,
+      "NumberOfAwardsMax": 21184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39692,
+  "NumberOfAwards": 39697,
   "NumberOfAwardsMax": 21184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5301,7 +5307,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 889
+      "Count": 894
     },
     {
       "Text": "This game is Relaxing",
@@ -5334,9 +5340,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288350,
+  "EOS_Progressed": 288352,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15379,6 +15385,11 @@
       "Time": "2023-07-23T05:04:00.2041913+00:00",
       "NumProgressed": 288350,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-07-23T06:04:38.1987526+00:00",
+      "NumProgressed": 288352,
+      "NumCompleted": 433
     }
   ],
   "TotalAchievements": 45,
@@ -15542,7 +15553,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "PFA_28",
@@ -15590,7 +15601,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "PFA_33",
@@ -15638,7 +15649,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "PFA_39",
@@ -15654,7 +15665,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "PFA_40",
@@ -15710,7 +15721,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "PFA_6",
@@ -15718,7 +15729,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31718
+      "UsersEstimate": 31719
     },
     {
       "ID": "PFA_7",
@@ -15749,16 +15760,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288350,
+      "Progressed": 288352,
       "Completed": 433
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-22T22:57:33.7541385+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:04:00.2041897+00:00",
+  "LastChanged": "2023-07-23T05:58:02.2591055+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:04:38.1987521+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:57:34.8056815+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:04:00.2042933+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:58:02.259106+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:04:38.1988343+00:00"
 }

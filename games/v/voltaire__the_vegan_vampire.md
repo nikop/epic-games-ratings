@@ -36,7 +36,7 @@
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 304)  
+Progressed: 105 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

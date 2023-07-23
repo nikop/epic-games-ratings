@@ -4,7 +4,7 @@
   "ProductSlug": "chaos-galaxy-a33dac",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "7",
@@ -468,8 +468,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:05:36.7529858+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:06:33.7257876+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:34.2150233+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:59:30.6758146+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:05:36.7530301+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:00:21.8348703+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:06:33.7258188+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tyrant Rise | 35.00% | ~6 |
-| Honor Medal | 29.00% | ~5 |
+| Honor Medal | 35.00% | ~6 |
 | Assassination | 24.00% | ~4 |
 | Great Civil War | 18.00% | ~3 |
 | 2nd AI War | 12.00% | ~2 |

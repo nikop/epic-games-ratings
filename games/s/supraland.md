@@ -6,19 +6,19 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,815 |
-| The Blues | 85.00% | ~610,296 |
+| Out of bed | 99.00% | ~710,816 |
+| The Blues | 85.00% | ~610,297 |
 | Fast | 66.00% | ~473,877 |
-| Healthbar | 55.00% | ~394,897 |
-| Force Cube | 53.00% | ~380,537 |
+| Healthbar | 55.00% | ~394,898 |
+| Force Cube | 53.00% | ~380,538 |
 | Double Jump | 48.00% | ~344,638 |
 | Regeneration | 47.00% | ~337,458 |
 | Climb the hill | 42.00% | ~301,558 |
 | Triple Jump | 42.00% | ~301,558 |
 | Through the fire pipe | 38.00% | ~272,838 |
 | MacGuffin | 38.00% | ~272,838 |
-| Just once | 36.00% | ~258,478 |
-| Armor | 30.00% | ~215,398 |
+| Just once | 36.00% | ~258,479 |
+| Armor | 30.00% | ~215,399 |
 | True holy spirit | 27.00% | ~193,859 |
 | That's how electronics work obviously | 26.00% | ~186,679 |
 | Force Cube Catapult | 25.00% | ~179,499 |
@@ -36,14 +36,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~93,339 |
 | Purple Cube | 13.00% | ~93,339 |
 | Supraball Noob | 13.00% | ~93,339 |
-| Helped a star | 12.00% | ~86,159 |
-| Strong | 12.00% | ~86,159 |
-| Blue King's lair | 11.00% | ~78,979 |
-| Payback | 11.00% | ~78,979 |
-| Got the coins back | 11.00% | ~78,979 |
-| Got the gun back | 11.00% | ~78,979 |
-| Infiltrated | 11.00% | ~78,979 |
-| Robbed | 11.00% | ~78,979 |
+| Helped a star | 12.00% | ~86,160 |
+| Strong | 12.00% | ~86,160 |
+| Blue King's lair | 11.00% | ~78,980 |
+| Payback | 11.00% | ~78,980 |
+| Got the coins back | 11.00% | ~78,980 |
+| Got the gun back | 11.00% | ~78,980 |
+| Infiltrated | 11.00% | ~78,980 |
+| Robbed | 11.00% | ~78,980 |
 | Fire Flies | 10.00% | ~71,800 |
 | Cave Flies | 10.00% | ~71,800 |
 | Gold Scam | 10.00% | ~71,800 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~718 |
 | DLC: Top of the world | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,995 (Ranked 17)  
+Progressed: 717,996 (Ranked 17)  
 Completed: 712 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 712 (0.10%) (Ranked 187)
 | 2023-07-20 | 717,617 | 712 |
 | 2023-07-21 | 717,792 | 712 |
 | 2023-07-22 | 717,960 | 712 |
-| 2023-07-23 | 717,995 | 712 |
+| 2023-07-23 | 717,996 | 712 |
 ## Awards
 Max (Challenging Puzzles): 7,649  (Ranked 43)  
 Sum: 9,964 (Ranked 81)  

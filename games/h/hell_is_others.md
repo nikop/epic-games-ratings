@@ -9,7 +9,7 @@ Rating: 4.43 (Ranked 655)
 | Predator I | 22.00% | ~55,762 |
 | Fixer I | 10.00% | ~25,346 |
 | A week in Century City | 10.00% | ~25,346 |
-| The Wait | 7.00% | ~17,742 |
+| The Wait | 7.00% | ~17,743 |
 | Green thumb I | 6.00% | ~15,208 |
 | Cleaning Company | 6.00% | ~15,208 |
 | Well-oiled machine | 5.00% | ~12,673 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 655)
 | Capitalist III | 0.10% | ~253 |
 | Hell Is You | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,463 (Ranked 43)  
+Progressed: 253,465 (Ranked 43)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,11 +156,11 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-20 | 253,311 | 2 |
 | 2023-07-21 | 253,366 | 2 |
 | 2023-07-22 | 253,454 | 2 |
-| 2023-07-23 | 253,463 | 2 |
+| 2023-07-23 | 253,465 | 2 |
 ## Awards
 Max (Unique Visuals): 32  (Ranked 448)  
-Sum: 180 (Ranked 373)  
-Diff (max vs sum): 75  
+Sum: 200 (Ranked 362)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 32 |
@@ -170,6 +170,7 @@ Diff (max vs sum): 75
 | This game is Highly Recommended | 23 |
 | This game has Quickly Understood Controls | 21 |
 | This game has a Competitive Community | 21 |
+| This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -271,3 +272,4 @@ Diff (max vs sum): 75
 | 2023-07-18 | 4.43 | 32 | 179 |
 | 2023-07-19 | 4.42 | 32 | 179 |
 | 2023-07-21 | 4.43 | 32 | 180 |
+| 2023-07-23 | 4.43 | 32 | 200 |

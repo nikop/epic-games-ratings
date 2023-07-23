@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 520,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 109,
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14066,
+  "EOS_Progressed": 14067,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6629,6 +6629,11 @@
       "Time": "2023-07-23T04:03:14.0422963+00:00",
       "NumProgressed": 14066,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-23T06:03:29.3808892+00:00",
+      "NumProgressed": 14067,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6680,7 +6685,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "tpote_achievement_15",
@@ -6728,7 +6733,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "tpote_achievement_20",
@@ -6744,7 +6749,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "tpote_achievement_22",
@@ -6967,15 +6972,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14066,
+      "Progressed": 14067,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:03:03.999726+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:03:29.3808887+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:59:50.4193307+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:03:03.9998205+00:00"
+  "LastUpdate_Ratings": "2023-07-23T06:00:46.9195733+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:03:29.3809434+00:00"
 }

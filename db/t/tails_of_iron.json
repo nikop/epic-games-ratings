@@ -2094,9 +2094,9 @@
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1034
     },
     {
       "ID": "CollectAllStatues",
@@ -2325,8 +2325,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-23T05:04:05.0287223+00:00",
+  "LastChanged_Achievements": "2023-07-23T06:04:43.7067073+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-23T04:58:21.288628+00:00",
-  "LastUpdate_Achievements": "2023-07-23T05:04:05.0287561+00:00"
+  "LastUpdate_Ratings": "2023-07-23T05:59:01.2172412+00:00",
+  "LastUpdate_Achievements": "2023-07-23T06:04:43.7067336+00:00"
 }

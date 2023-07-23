@@ -8,7 +8,7 @@ Rating: 4.19 (Ranked 848)
 | Get a Grip | 4.00% | ~630 |
 | Float Like A Butterfly | 3.00% | ~473 |
 | Paper Jams | 3.00% | ~473 |
-| Keep Fighting | 3.00% | ~110 |
+| Keep Fighting | 3.00% | ~111 |
 | Giving Back | 2.00% | ~315 |
 | You Need a Gun | 2.00% | ~315 |
 | Flesh Wound | 2.00% | ~315 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 848)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,757 (Ranked 110)  
+Progressed: 15,758 (Ranked 110)  
 Completed: 68 (0.43%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 68 (0.43%) (Ranked 136)
 | 2023-07-20 | 15,749 | 68 |
 | 2023-07-21 | 15,751 | 68 |
 | 2023-07-22 | 15,755 | 68 |
-| 2023-07-23 | 15,757 | 68 |
+| 2023-07-23 | 15,758 | 68 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 372)  
 Sum: 396 (Ranked 314)  
