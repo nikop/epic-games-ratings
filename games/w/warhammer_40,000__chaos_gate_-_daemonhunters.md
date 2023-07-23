@@ -6,10 +6,10 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 40.00% | ~1,206 |
-| Look Over There! | 34.00% | ~1,025 |
-| Watch Where You Step... | 34.00% | ~1,025 |
-| Not So Fast... | 33.00% | ~995 |
+| Executioner | 40.00% | ~1,207 |
+| Look Over There! | 34.00% | ~1,026 |
+| Watch Where You Step... | 34.00% | ~1,026 |
+| Not So Fast... | 33.00% | ~996 |
 | An Ill Omen | 31.00% | ~935 |
 | Purging Spree | 25.00% | ~754 |
 | Blood for the Blood God! | 19.00% | ~573 |
@@ -21,18 +21,18 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 12.00% | ~362 |
 | A Foul Creche | 12.00% | ~362 |
 | Gunmaster | 11.00% | ~332 |
-| Opportunist | 9.00% | ~271 |
-| Efficient Killer | 9.00% | ~271 |
-| Just a Scratch | 9.00% | ~271 |
+| Opportunist | 9.00% | ~272 |
+| Efficient Killer | 9.00% | ~272 |
+| Just a Scratch | 9.00% | ~272 |
 | Hold Your Ground | 7.00% | ~211 |
 | A Gift Spurned | 5.00% | ~151 |
 | Daemonkeeper | 4.00% | ~121 |
 | Corruption Cleanser | 4.00% | ~121 |
 | Mind Like a Fortress | 4.00% | ~121 |
 | Long Distance Call | 4.00% | ~121 |
-| Harvest No More | 3.00% | ~90 |
-| Junk Banishment | 3.00% | ~90 |
-| Tactical Flexibility | 3.00% | ~90 |
+| Harvest No More | 3.00% | ~91 |
+| Junk Banishment | 3.00% | ~91 |
+| Tactical Flexibility | 3.00% | ~91 |
 | Patron of Deimos | 2.00% | ~60 |
 | Fleetmaster | 2.00% | ~60 |
 | Exterminator | 2.00% | ~60 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,016 (Ranked 153)  
+Progressed: 3,017 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 2,985 | 0 |
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
-| 2023-07-23 | 3,016 | 0 |
+| 2023-07-23 | 3,017 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 451 (Ranked 304)  

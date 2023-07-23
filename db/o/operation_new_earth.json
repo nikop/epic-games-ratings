@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2031,6 +2031,11 @@
       "Time": "2023-07-23T19:04:54.7739879+00:00",
       "NumProgressed": 594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T20:05:28.6294949+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2058,7 +2063,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2106,7 +2111,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2345,14 +2350,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:04:54.7739875+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:05:28.6294942+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:00:23.0078125+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:04:54.774032+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:01:00.6268185+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:05:28.6295366+00:00"
 }

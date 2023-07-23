@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1870,
+  "EOS_Progressed": 1871,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-07-23T18:02:04.6284076+00:00",
       "NumProgressed": 1870,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-23T20:01:11.7251041+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1856,9 +1861,9 @@
       "ID": "ACHV_19",
       "SetID": "8p5mlmc",
       "Name": "Defense in Depth",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHV_20",
@@ -1866,7 +1871,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHV_21",
@@ -1914,7 +1919,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACHV_27",
@@ -1986,7 +1991,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACHV_36",
@@ -1994,7 +1999,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_37",
@@ -2002,7 +2007,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHV_38",
@@ -2018,7 +2023,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACHV_40",
@@ -2066,7 +2071,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHV_46",
@@ -2169,7 +2174,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1870,
+      "Progressed": 1871,
       "Completed": 10
     }
   ],
@@ -2177,8 +2182,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-23T18:02:04.6284072+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:01:11.7251028+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:56:51.1625413+00:00",
-  "LastUpdate_Achievements": "2023-07-23T18:02:04.6284716+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:56:55.5994398+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:01:11.7260227+00:00"
 }

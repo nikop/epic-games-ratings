@@ -16,7 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 2.00% | ~117 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~58 |
 | Drunk and Disorderly: Ashley | 0.80% | ~47 |
-| IRL Let's Player | 0.70% | ~41 |
+| IRL Let's Player | 0.80% | ~47 |
 | Newcomer: Vickie | 0.70% | ~41 |
 | Social Butterfly | 0.70% | ~41 |
 | Amy | 0.60% | ~35 |

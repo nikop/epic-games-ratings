@@ -6,11 +6,11 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,822 |
-| No Escape | 86.00% | ~68,110 |
-| Seeker of Power | 85.00% | ~67,318 |
-| Hopes and Dreams | 82.00% | ~64,942 |
-| Lantern Smasher | 78.00% | ~61,774 |
+| Manifestation of the Soul | 97.00% | ~76,823 |
+| No Escape | 86.00% | ~68,111 |
+| Seeker of Power | 85.00% | ~67,319 |
+| Hopes and Dreams | 82.00% | ~64,943 |
+| Lantern Smasher | 78.00% | ~61,775 |
 | The Pirate's Way | 74.00% | ~58,607 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~56,231 |
 | The King of the Dark Elves | 68.00% | ~53,855 |
@@ -19,27 +19,27 @@ Number of Ratings: 1,919  (23.09.2022)
 | Savant | 62.00% | ~49,103 |
 | A Landscape of Memory | 58.00% | ~45,935 |
 | The Wind's Light | 54.00% | ~42,767 |
-| Vague Remembrances | 49.00% | ~38,807 |
-| The Fire's Light | 47.00% | ~37,223 |
-| Phantom Memories | 47.00% | ~37,223 |
-| Imbued Memories | 47.00% | ~37,223 |
-| The Earth's Light | 45.00% | ~35,639 |
-| Shared Recollections | 42.00% | ~33,263 |
-| The Water's Light | 40.00% | ~31,679 |
-| Path of the Sage | 40.00% | ~31,679 |
-| Malice Takes Root | 37.00% | ~29,303 |
-| Path of the Dark Knight | 37.00% | ~29,303 |
-| Path of the Paladin | 37.00% | ~29,303 |
-| Path of the Breaker | 37.00% | ~29,303 |
-| Duty's Course | 36.00% | ~28,511 |
-| Path of the Liberator | 35.00% | ~27,719 |
-| Path of the Tyrant | 35.00% | ~27,719 |
-| Led by the Nose | 34.00% | ~26,927 |
-| Path of the Void Knight | 34.00% | ~26,927 |
-| Terminus of Fate | 33.00% | ~26,135 |
-| Path of the Ninja | 33.00% | ~26,135 |
-| His Name Is Garland | 33.00% | ~26,135 |
-| Path of the Assassin | 32.00% | ~25,343 |
+| Vague Remembrances | 49.00% | ~38,808 |
+| The Fire's Light | 47.00% | ~37,224 |
+| Phantom Memories | 47.00% | ~37,224 |
+| Imbued Memories | 47.00% | ~37,224 |
+| The Earth's Light | 45.00% | ~35,640 |
+| Shared Recollections | 42.00% | ~33,264 |
+| The Water's Light | 40.00% | ~31,680 |
+| Path of the Sage | 40.00% | ~31,680 |
+| Malice Takes Root | 37.00% | ~29,304 |
+| Path of the Dark Knight | 37.00% | ~29,304 |
+| Path of the Paladin | 37.00% | ~29,304 |
+| Path of the Breaker | 37.00% | ~29,304 |
+| Duty's Course | 36.00% | ~28,512 |
+| Path of the Liberator | 35.00% | ~27,720 |
+| Path of the Tyrant | 35.00% | ~27,720 |
+| Led by the Nose | 34.00% | ~26,928 |
+| Path of the Void Knight | 34.00% | ~26,928 |
+| Terminus of Fate | 33.00% | ~26,136 |
+| Path of the Ninja | 33.00% | ~26,136 |
+| His Name Is Garland | 33.00% | ~26,136 |
+| Path of the Assassin | 32.00% | ~25,344 |
 | Seeker of Ultimate Power | 23.00% | ~18,216 |
 | Artifact Collector | 22.00% | ~17,424 |
 | Polymath | 22.00% | ~17,424 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,376 |
 | A Tale of Origins and Endings | 2.00% | ~1,584 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,198 (Ranked 72)  
+Progressed: 79,199 (Ranked 72)  
 Completed: 2,158 (2.72%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,15 +147,15 @@ Completed: 2,158 (2.72%) (Ranked 67)
 | 2023-07-20 | 79,147 | 2,156 |
 | 2023-07-21 | 79,165 | 2,156 |
 | 2023-07-22 | 79,187 | 2,157 |
-| 2023-07-23 | 79,198 | 2,158 |
+| 2023-07-23 | 79,199 | 2,158 |
 ## Awards
-Max (Great Boss Battles): 757  (Ranked 157)  
-Sum: 1,562 (Ranked 213)  
-Diff (max vs sum): -56  
+Max (Great Boss Battles): 758  (Ranked 156)  
+Sum: 1,563 (Ranked 213)  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |
-| This game has Great Boss Battles | 757 |
+| This game has Great Boss Battles | 758 |
 | This game is Highly Recommended | 113 |
 | This game is Extremely Fun | 112 |
 | This game has Diverse Characters | 107 |
@@ -263,4 +263,4 @@ Diff (max vs sum): -56
 | 2023-07-20 | 4.51 | - | 756 | 1,559 |
 | 2023-07-21 | 4.51 | - | 756 | 1,560 |
 | 2023-07-22 | 4.51 | - | 757 | 1,561 |
-| 2023-07-23 | 4.51 | - | 757 | 1,562 |
+| 2023-07-23 | 4.51 | - | 758 | 1,563 |

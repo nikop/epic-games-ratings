@@ -133,7 +133,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Those Were Mine | 0.10% | ~13 |
 | What's 'hubris' in Greek? | 0.10% | ~13 |
 | Three's a Crowd | 0.10% | ~13 |
+| Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
+| Pharaoh | 0.10% | ~13 |
+| A Tyresome Siege | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
 | Apadana | 0.10% | ~13 |
@@ -269,10 +272,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
-| Mighty Bucephalus | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
-| Pharaoh | 0.00% | ~0 |
-| A Tyresome Siege | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |

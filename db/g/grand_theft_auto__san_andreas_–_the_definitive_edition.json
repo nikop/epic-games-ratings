@@ -598,9 +598,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11259,
+  "EOS_Progressed": 11261,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7143,6 +7143,11 @@
       "Time": "2023-07-23T19:06:01.257951+00:00",
       "NumProgressed": 11259,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-23T20:06:45.423942+00:00",
+      "NumProgressed": 11261,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7154,7 +7159,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9120
+      "UsersEstimate": 9121
     },
     {
       "ID": "ACH02",
@@ -7274,7 +7279,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ACH17",
@@ -7322,7 +7327,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH23",
@@ -7433,7 +7438,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11259,
+      "Progressed": 11261,
       "Completed": 31
     }
   ],
@@ -7441,8 +7446,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-23T04:01:01.6778671+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:06:01.2579505+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:06:45.4239412+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:00:10.6670407+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:06:01.2580221+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:00:48.7088827+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:06:45.4240117+00:00"
 }

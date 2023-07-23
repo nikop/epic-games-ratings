@@ -165,9 +165,9 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -246,8 +246,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:03:35.6168852+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:03:48.5179152+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.1761324+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:59:30.7069606+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:03:35.6168962+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:59:59.1983128+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:03:48.5179266+00:00"
 }

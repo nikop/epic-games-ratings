@@ -679,7 +679,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34063,
+  "EOS_Progressed": 34067,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
@@ -10139,6 +10139,11 @@
       "Time": "2023-07-23T19:02:25.4732672+00:00",
       "NumProgressed": 34063,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T20:02:31.1167867+00:00",
+      "NumProgressed": 34067,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -10270,7 +10275,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12263
+      "UsersEstimate": 12264
     },
     {
       "ID": "ach_die10",
@@ -10350,7 +10355,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ach_legacyrival",
@@ -10366,7 +10371,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ach_legacyshipmate",
@@ -10382,7 +10387,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ach_portbell",
@@ -10494,7 +10499,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ach_sweetheart",
@@ -10502,7 +10507,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "ach_terror100",
@@ -10518,7 +10523,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "ach_undercurrent",
@@ -10581,15 +10586,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34063,
+      "Progressed": 34067,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-22T09:01:18.3447402+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:02:25.4732665+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:02:31.116786+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:40.7310625+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:59:44.7475372+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:02:25.4733825+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:00:14.3990392+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:02:31.1168929+00:00"
 }

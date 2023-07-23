@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3016,
+  "EOS_Progressed": 3017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2441,6 +2441,11 @@
       "Time": "2023-07-23T11:03:51.5456925+00:00",
       "NumProgressed": 3016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T20:03:21.7940067+00:00",
+      "NumProgressed": 3017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2468,7 +2473,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "BloodAndIron",
@@ -2620,7 +2625,7 @@
       "Name": "Not So Fast...",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "Kills_Bleed",
@@ -2644,7 +2649,7 @@
       "Name": "Executioner",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "Kills_Exterminator",
@@ -2668,7 +2673,7 @@
       "Name": "Opportunist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Kills_Knockback",
@@ -2676,7 +2681,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "Kills_Streak",
@@ -2780,7 +2785,7 @@
       "Name": "Efficient Killer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2812,7 +2817,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NexusCompleted",
@@ -2860,7 +2865,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -2868,7 +2873,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -2916,28 +2921,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3016,
+      "Progressed": 3017,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3016,
+      "Progressed": 3017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:03:12.6588684+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:03:21.794006+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:58:47.5140333+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:03:12.65893+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:59:10.923695+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:03:21.7940749+00:00"
 }

@@ -17,8 +17,8 @@ Rating: 4.49 (Ranked 575)
 | Mind the Gap | 64.00% | ~1,065 |
 | All around the World | 62.00% | ~1,032 |
 | Right through the middle | 57.00% | ~948 |
+| Poor Devil | 54.00% | ~899 |
 | Facility Manager | 53.00% | ~882 |
-| Poor Devil | 53.00% | ~882 |
 | Producer | 50.00% | ~832 |
 | Apprentice | 42.00% | ~699 |
 | Bridge Builder | 41.00% | ~682 |
@@ -47,7 +47,7 @@ Rating: 4.49 (Ranked 575)
 | Max Power | 13.00% | ~216 |
 | Go West | 12.00% | ~200 |
 | Bold and beautiful | 12.00% | ~200 |
-| A new Hope | 9.00% | ~150 |
+| A new Hope | 10.00% | ~166 |
 | Tycoon | 9.00% | ~150 |
 | Unstoppable | 7.00% | ~116 |
 | Track to the Future | 7.00% | ~116 |

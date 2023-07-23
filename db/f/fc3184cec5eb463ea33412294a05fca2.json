@@ -698,9 +698,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -722,17 +722,17 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:04:39.5702812+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:05:11.6152592+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:57:07.7900983+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:04:39.5702991+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:57:10.8152128+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:05:11.6152735+00:00"
 }

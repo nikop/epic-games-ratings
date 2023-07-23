@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1664,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3702,9 +3702,9 @@
       "ID": "A05",
       "SetID": "9b7p7eo",
       "Name": "A new Hope",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 166
     },
     {
       "ID": "A06",
@@ -3966,9 +3966,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 899
     },
     {
       "ID": "A39",
@@ -4111,8 +4111,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:02:38.7764752+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:03:06.4364301+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:58:17.8250832+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:02:38.7765482+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:58:35.1950412+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:03:06.4365051+00:00"
 }

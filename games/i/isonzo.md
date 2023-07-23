@@ -6,29 +6,29 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,531 |
+| Peak Performance | 55.00% | ~3,532 |
 | Tutti Eroi! | 54.00% | ~3,467 |
 | You Shall Not Pass | 53.00% | ~3,403 |
-| Avanti Savoia! | 47.00% | ~3,017 |
-| Mamma Mia! | 37.00% | ~2,375 |
-| Conrad von Hotzensocks | 36.00% | ~2,311 |
+| Avanti Savoia! | 47.00% | ~3,018 |
+| Mamma Mia! | 37.00% | ~2,376 |
+| Conrad von Hotzensocks | 36.00% | ~2,312 |
 | Gabriele D'Annunzio | 33.00% | ~2,119 |
 | Silver Lining | 29.00% | ~1,862 |
 | Aurelio Baruzzi | 23.00% | ~1,477 |
-| Veni Vidi Vici | 22.00% | ~1,412 |
+| Veni Vidi Vici | 22.00% | ~1,413 |
 | Decimation | 21.00% | ~1,348 |
 | Donatello | 21.00% | ~1,348 |
 | Insubordination | 20.00% | ~1,284 |
 | The Italian Job | 20.00% | ~1,284 |
 | The Lion of the Isonzo | 18.00% | ~1,156 |
-| Ragazzi del '99 | 17.00% | ~1,091 |
+| Ragazzi del '99 | 17.00% | ~1,092 |
 | Dirty Dozen | 14.00% | ~899 |
 | Luigi Cadorna | 14.00% | ~899 |
 | Thus With A Kiss | 14.00% | ~899 |
 | Uomo Universale | 14.00% | ~899 |
 | Shaken, Not Stirred | 13.00% | ~835 |
-| Die Bosniaken Kommen! | 12.00% | ~770 |
-| Machiavelli | 12.00% | ~770 |
+| Die Bosniaken Kommen! | 12.00% | ~771 |
+| Machiavelli | 12.00% | ~771 |
 | Dante's Inferno | 11.00% | ~706 |
 | The Devil's Paintbrush | 11.00% | ~706 |
 | I Have the High Ground | 10.00% | ~642 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,420 (Ranked 132)  
+Progressed: 6,421 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 8 (0.12%) (Ranked 181)
 | 2023-07-20 | 6,376 | 8 |
 | 2023-07-21 | 6,391 | 8 |
 | 2023-07-22 | 6,404 | 8 |
-| 2023-07-23 | 6,420 | 8 |
+| 2023-07-23 | 6,421 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 434)  
 Sum: 258 (Ranked 347)  

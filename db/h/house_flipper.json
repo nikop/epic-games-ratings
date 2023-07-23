@@ -1758,9 +1758,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 20071,
+  "EOS_Progressed": 20074,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6273,6 +6273,11 @@
       "Time": "2023-07-23T19:05:58.1720827+00:00",
       "NumProgressed": 20071,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-23T20:06:41.8889576+00:00",
+      "NumProgressed": 20074,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6284,7 +6289,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "CarMechanic",
@@ -6332,7 +6337,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18867
+      "UsersEstimate": 18870
     },
     {
       "ID": "GameOver",
@@ -6372,7 +6377,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "KnockKnock",
@@ -6396,7 +6401,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "Negotiator",
@@ -6420,7 +6425,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "SeniorEstateAgent",
@@ -6444,7 +6449,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "VeronicaLiptson",
@@ -6467,15 +6472,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20071,
+      "Progressed": 20074,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-23T18:59:33.0618928+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:05:58.1720823+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:06:41.8889569+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:59:33.0618935+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:05:58.1721304+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:00:02.3470056+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:06:41.8890058+00:00"
 }

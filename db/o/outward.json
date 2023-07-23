@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3101,
+  "EOS_Progressed": 3102,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3381,6 +3381,11 @@
       "Time": "2023-07-23T19:05:10.6458002+00:00",
       "NumProgressed": 3101,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T20:05:46.6066864+00:00",
+      "NumProgressed": 3102,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3432,7 +3437,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "CrowdPleaser",
@@ -3456,7 +3461,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3600,7 +3605,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3614,9 +3619,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1117
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3727,15 +3732,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3101,
+      "Progressed": 3102,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:05:10.6457998+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:05:46.6066859+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:58:02.6517611+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:05:10.6458525+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:58:20.000132+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:05:46.6067621+00:00"
 }

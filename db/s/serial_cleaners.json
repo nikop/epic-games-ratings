@@ -374,9 +374,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -494,9 +494,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -557,8 +557,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:03:42.1525533+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:04:06.1885613+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:59:17.8217955+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:03:42.1525827+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:59:43.3766365+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:04:06.1885826+00:00"
 }

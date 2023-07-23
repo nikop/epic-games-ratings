@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 41.00% | ~27 |
+| The 4 Pillars | 40.00% | ~27 |
 | First Step | 39.00% | ~26 |
-| Indebted | 8.00% | ~5 |
-| Capitalism | 8.00% | ~5 |
-| Health Care | 5.00% | ~3 |
-| Desert Rat | 5.00% | ~3 |
-| Green Energy | 5.00% | ~3 |
+| Indebted | 7.00% | ~5 |
+| Capitalism | 7.00% | ~5 |
+| Health Care | 4.00% | ~3 |
+| Desert Rat | 4.00% | ~3 |
+| Green Energy | 4.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 3.00% | ~2 |
 | There's something in those trees | 3.00% | ~2 |
 | Good payer | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
-| Healing | 2.00% | ~1 |
-| Desert Power | 2.00% | ~1 |
-| Self-sufficient | 2.00% | ~1 |
-| Food Tycoon | 2.00% | ~1 |
-| Medicine Tycoon | 2.00% | ~1 |
-| Ammo Tycoon | 2.00% | ~1 |
-| Great Producer | 2.00% | ~1 |
+| Healing | 1.00% | ~1 |
+| Desert Power | 1.00% | ~1 |
+| Self-sufficient | 1.00% | ~1 |
+| Food Tycoon | 1.00% | ~1 |
+| Medicine Tycoon | 1.00% | ~1 |
+| Ammo Tycoon | 1.00% | ~1 |
+| Great Producer | 1.00% | ~1 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 335)  
+Progressed: 67 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 17 | 0 |
 | 2023-07-21 | 39 | 0 |
 | 2023-07-22 | 50 | 0 |
-| 2023-07-23 | 66 | 0 |
+| 2023-07-23 | 67 | 0 |

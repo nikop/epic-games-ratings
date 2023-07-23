@@ -4,7 +4,7 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7482,
+  "EOS_Progressed": 7483,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -3288,6 +3288,11 @@
       "Time": "2023-07-23T18:06:10.7324353+00:00",
       "NumProgressed": 7482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T20:06:43.1289587+00:00",
+      "NumProgressed": 7483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -3433,9 +3438,9 @@
       "ID": "nuclearSuccess",
       "SetID": "10d14j0",
       "Name": "Nuclear Plant Heisted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "prisonAllObjectives",
@@ -3522,7 +3527,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7482,
+      "Progressed": 7483,
       "Completed": 0
     }
   ],
@@ -3530,8 +3535,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:05:59.2840475+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:06:43.1289579+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.1787783+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:58:09.5342715+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:05:59.2840885+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:58:26.7616377+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:06:43.1290014+00:00"
 }

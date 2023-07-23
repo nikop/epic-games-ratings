@@ -5,30 +5,30 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,419 |
-| I will survive! | 92.00% | ~4,372 |
-| All thumbs | 91.00% | ~4,324 |
-| Home, sweet home | 90.00% | ~4,277 |
-| Survivalist | 89.00% | ~4,229 |
-| One way ticket | 83.00% | ~3,944 |
+| Prepper | 93.00% | ~4,420 |
+| I will survive! | 92.00% | ~4,373 |
+| All thumbs | 91.00% | ~4,325 |
+| Home, sweet home | 90.00% | ~4,278 |
+| Survivalist | 88.00% | ~4,183 |
+| One way ticket | 83.00% | ~3,945 |
 | Last man standing | 78.00% | ~3,707 |
 | Family guy | 76.00% | ~3,612 |
-| Out of the Bag | 74.00% | ~3,516 |
-| The Dark Side | 68.00% | ~3,231 |
-| Duck and cover! | 64.00% | ~3,041 |
-| Souper! | 62.00% | ~2,946 |
+| Out of the Bag | 74.00% | ~3,517 |
+| The Dark Side | 68.00% | ~3,232 |
+| Duck and cover! | 64.00% | ~3,042 |
+| Souper! | 62.00% | ~2,947 |
 | Pacifist | 57.00% | ~2,709 |
-| 2-1-6 | 56.00% | ~2,661 |
+| 2-1-6 | 56.00% | ~2,662 |
 | A gift | 51.00% | ~2,424 |
 | Girl Power | 46.00% | ~2,186 |
 | What goes around... | 42.00% | ~1,996 |
 | Be Prepared | 36.00% | ~1,711 |
-| Unbreakable | 35.00% | ~1,663 |
+| Unbreakable | 35.00% | ~1,664 |
 | This is the end | 33.00% | ~1,568 |
 | Atomic drill | 32.00% | ~1,521 |
 | Gotta get 'em all | 31.00% | ~1,473 |
 | Disco Roach | 26.00% | ~1,236 |
-| Dawkins Residence | 20.00% | ~950 |
+| Dawkins Residence | 20.00% | ~951 |
 | Rescue time! | 17.00% | ~808 |
 | New order | 16.00% | ~760 |
 | New species | 16.00% | ~760 |
@@ -60,13 +60,13 @@ Rating: 4.67 (Ranked 259)
 | Cat Lady | 0.70% | ~33 |
 | Pro gamer | 0.70% | ~33 |
 | Naysayer | 0.60% | ~29 |
-| Manhattan Project | 0.40% | ~19 |
+| Manhattan Project | 0.50% | ~24 |
 | Fair Exchange | 0.40% | ~19 |
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Miracle | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,752 (Ranked 139)  
+Progressed: 4,753 (Ranked 139)  
 Completed: 1 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.02%) (Ranked 219)
 | 2023-07-20 | 4,726 | 1 |
 | 2023-07-21 | 4,735 | 1 |
 | 2023-07-22 | 4,747 | 1 |
-| 2023-07-23 | 4,752 | 1 |
+| 2023-07-23 | 4,753 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

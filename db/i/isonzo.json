@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6420,
+  "EOS_Progressed": 6421,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3552,6 +3552,11 @@
       "Time": "2023-07-23T19:04:25.9514027+00:00",
       "NumProgressed": 6420,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T20:04:55.5909792+00:00",
+      "NumProgressed": 6421,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3579,7 +3584,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3611,7 +3616,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3635,7 +3640,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -3715,7 +3720,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -3731,7 +3736,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3755,7 +3760,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3771,7 +3776,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3907,7 +3912,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3922,7 +3927,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6420,
+      "Progressed": 6421,
       "Completed": 8
     }
   ],
@@ -3930,8 +3935,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:04:25.9514022+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:04:55.5909785+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:57:44.5910979+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:04:25.9514606+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:57:57.5444817+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:04:55.5910337+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~612 |
-| My little farm | 64.00% | ~484 |
+| My little farm | 65.00% | ~491 |
 | Every beginning is difficult | 62.00% | ~469 |
 | Gofer | 56.00% | ~423 |
 | 3, 2, 1, mine | 55.00% | ~416 |

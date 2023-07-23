@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2317,
+  "EOS_Progressed": 2321,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1938,6 +1938,11 @@
       "Time": "2023-07-23T19:03:37.5919505+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T20:03:50.8102695+00:00",
+      "NumProgressed": 2321,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -2021,7 +2026,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "THE_END",
@@ -2037,7 +2042,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2045,14 +2050,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2321,
       "Completed": 5
     }
   ],
@@ -2060,8 +2065,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:03:37.5919494+00:00",
+  "LastChanged_Achievements": "2023-07-23T20:03:50.810269+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-23T18:59:19.3632578+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:03:37.592+00:00"
+  "LastUpdate_Ratings": "2023-07-23T19:59:45.1255446+00:00",
+  "LastUpdate_Achievements": "2023-07-23T20:03:50.810291+00:00"
 }
