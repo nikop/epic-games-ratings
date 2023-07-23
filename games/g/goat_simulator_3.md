@@ -5,16 +5,16 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~212,589 |
-| Private Club | 74.00% | ~172,874 |
-| Rogue Guild | 65.00% | ~151,849 |
-| I Watched the Intro | 57.00% | ~133,160 |
+| Forgotten Sorority | 91.00% | ~212,590 |
+| Private Club | 74.00% | ~172,875 |
+| Rogue Guild | 65.00% | ~151,850 |
+| I Watched the Intro | 57.00% | ~133,161 |
 | Covert Consortium | 55.00% | ~128,488 |
-| Goat Queen | 53.00% | ~123,815 |
-| Reach the Stratosphere | 50.00% | ~116,807 |
+| Goat Queen | 53.00% | ~123,816 |
+| Reach the Stratosphere | 50.00% | ~116,808 |
 | Synchronization Complete | 47.00% | ~109,799 |
-| Secret Society | 45.00% | ~105,126 |
-| Shadow Syndicate | 38.00% | ~88,773 |
+| Secret Society | 45.00% | ~105,127 |
+| Shadow Syndicate | 38.00% | ~88,774 |
 | What a Waste of Money | 33.00% | ~77,093 |
 | New Goat Order | 30.00% | ~70,084 |
 | Don't touch the servers | 28.00% | ~65,412 |
@@ -23,7 +23,7 @@ Rating: 4.85 (Ranked 40)
 | Real Buoy | 26.00% | ~60,740 |
 | Welcome to Earth | 25.00% | ~58,404 |
 | Into the Matrix | 19.00% | ~44,387 |
-| Where is It? | 17.00% | ~39,714 |
+| Where is It? | 17.00% | ~39,715 |
 | Egg Simulator | 16.00% | ~37,378 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~35,042 |
 | Black Market | 14.00% | ~32,706 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 40)
 | Move! That! Bus! | 0.60% | ~1,402 |
 | G.O.A.T | 0.30% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,614 (Ranked 47)  
+Progressed: 233,615 (Ranked 47)  
 Completed: 778 (0.33%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,9 +139,10 @@ Completed: 778 (0.33%) (Ranked 144)
 | 2023-07-20 | 233,337 | 778 |
 | 2023-07-21 | 233,462 | 778 |
 | 2023-07-22 | 233,614 | 778 |
+| 2023-07-23 | 233,615 | 778 |
 ## Awards
 Max (Great for Beginners): 369  (Ranked 219)  
-Sum: 3,072 (Ranked 158)  
+Sum: 3,073 (Ranked 158)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +156,7 @@ Diff (max vs sum): 61
 | This game has Amazing Storytelling | 293 |
 | This game has a Silly Community | 271 |
 | This game is Educational | 263 |
-| This game has Easy Combat | 257 |
+| This game has Easy Combat | 258 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -280,3 +281,4 @@ Diff (max vs sum): 61
 | 2023-07-20 | 4.85 | 369 | 3,065 |
 | 2023-07-21 | 4.85 | 369 | 3,068 |
 | 2023-07-22 | 4.85 | 369 | 3,072 |
+| 2023-07-23 | 4.85 | 369 | 3,073 |

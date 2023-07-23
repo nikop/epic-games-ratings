@@ -7,7 +7,7 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 75.00% | ~261 |
-| Close call! | 73.00% | ~254 |
+| Close call! | 74.00% | ~258 |
 | Builder | 53.00% | ~184 |
 | Pangs of conscience | 49.00% | ~171 |
 | Living it large! | 44.00% | ~153 |

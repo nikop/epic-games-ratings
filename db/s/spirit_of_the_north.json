@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 62995,
+  "EOS_Progressed": 62998,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10248,6 +10248,11 @@
       "Time": "2023-07-22T23:02:30.1693792+00:00",
       "NumProgressed": 62995,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-07-23T00:02:20.5314529+00:00",
+      "NumProgressed": 62998,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 24,
@@ -10267,7 +10272,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13229
+      "UsersEstimate": 13230
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -10275,7 +10280,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42837
+      "UsersEstimate": 42839
     },
     {
       "ID": "BEST_FRIENDS",
@@ -10283,7 +10288,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13859
+      "UsersEstimate": 13860
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -10299,7 +10304,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 12599
+      "UsersEstimate": 12600
     },
     {
       "ID": "FETCH",
@@ -10331,7 +10336,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 11339
+      "UsersEstimate": 11340
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -10339,7 +10344,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33387
+      "UsersEstimate": 33389
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -10403,7 +10408,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 13229
+      "UsersEstimate": 13230
     },
     {
       "ID": "SPIRIT_DASH",
@@ -10411,7 +10416,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6929
+      "UsersEstimate": 6930
     },
     {
       "ID": "SPIRIT_FORM",
@@ -10419,7 +10424,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10079
+      "UsersEstimate": 10080
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -10427,7 +10432,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "WEIGHTLESS",
@@ -10435,7 +10440,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -10443,14 +10448,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 62995,
+      "Progressed": 62998,
       "Completed": 320
     }
   ],
@@ -10458,8 +10463,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:02:30.1693787+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:02:20.5314522+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:59:21.400743+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:02:30.1694546+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:59:31.8689578+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:02:20.5315314+00:00"
 }

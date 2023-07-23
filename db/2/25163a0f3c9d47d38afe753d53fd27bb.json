@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.05,
+  "EOS_Completed_Percentage": 11.03,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1701,6 +1701,11 @@
       "Time": "2023-07-22T20:07:16.6525011+00:00",
       "NumProgressed": 552,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-07-23T00:05:38.5073358+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 30,
@@ -1712,7 +1717,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "LEVEL_002",
@@ -1720,7 +1725,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "LEVEL_003",
@@ -1728,7 +1733,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "LEVEL_004",
@@ -1752,7 +1757,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_007",
@@ -1760,7 +1765,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_008",
@@ -1792,7 +1797,7 @@
       "Name": "This island of mine",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LEVEL_012",
@@ -1800,7 +1805,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_013",
@@ -1816,7 +1821,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "LEVEL_015",
@@ -1824,7 +1829,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_016",
@@ -1910,9 +1915,9 @@
       "ID": "LEVEL_026",
       "SetID": "212bg48",
       "Name": "Hiking, camping, picnics... you choose",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_027",
@@ -1951,14 +1956,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:05:31.9593273+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:05:38.5073352+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:57:15.7258735+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:05:31.9593603+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:57:32.5546906+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:05:38.5073694+00:00"
 }

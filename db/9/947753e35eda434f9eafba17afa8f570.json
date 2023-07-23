@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "ACH_38_TREASURE",
       "SetID": "2k150c1",
       "Name": "Richer Than McMuney",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_39_QUESTMASTER",
@@ -402,8 +402,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:05:59.4617378+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:06:04.5723705+00:00",
   "LastUpdate_AppInfo": "2023-07-22T20:56:52.7474478+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:57:19.1804678+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:05:59.4617721+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:57:36.6474908+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:06:04.5724057+00:00"
 }

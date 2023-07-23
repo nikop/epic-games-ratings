@@ -4,11 +4,11 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 331,
   "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 432,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
     "PcReleaseDate": "1997-09-30T17:00:00+00:00",
@@ -320,18 +320,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-07-23T00:00:28.8557768+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 69
+      "Count": 70
     }
   ],
   "EOS_Progressed": 0,
@@ -346,8 +352,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2023-07-21T03:01:41.6565165+00:00",
+  "LastChanged": "2023-07-23T00:00:28.8557767+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.4285925+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:00:18.0563842+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:03:28.8478784+00:00"
+  "LastUpdate_Ratings": "2023-07-23T00:00:28.8557773+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:03:38.7714669+00:00"
 }

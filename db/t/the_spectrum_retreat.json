@@ -2,13 +2,13 @@
   "ID": "32ef234417314b65a4f76041b684f4d0",
   "Name": "The Spectrum Retreat",
   "ProductSlug": "the-spectrum-retreat",
-  "Ranking_Rating": 817,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-01T15:00:00+00:00",
     "PcReleaseDate": "2018-07-10T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 230,
   "RatingHistory": [
     {
@@ -411,6 +411,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-22T23:57:54.7933412+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -428,8 +434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
-  "LastChanged": "2023-04-18T13:07:27.318732+00:00",
+  "LastChanged": "2023-07-22T23:57:54.7933411+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:09.5839477+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:57:38.4573759+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:04:47.079005+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:57:54.793342+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:04:54.9112408+00:00"
 }

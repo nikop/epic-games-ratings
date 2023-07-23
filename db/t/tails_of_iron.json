@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -221,7 +221,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1779,
+  "EOS_Progressed": 1780,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2051,6 +2051,11 @@
       "Time": "2023-07-22T17:04:46.7684277+00:00",
       "NumProgressed": 1779,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T00:04:11.1642227+00:00",
+      "NumProgressed": 1780,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2062,7 +2067,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "Collect20Gold",
@@ -2078,7 +2083,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2142,7 +2147,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2174,7 +2179,7 @@
       "Name": "End of the Mozis",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2206,7 +2211,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "GetTHWeapon",
@@ -2214,7 +2219,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "Kill25Bugs",
@@ -2222,7 +2227,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "Kill25Frogs",
@@ -2230,7 +2235,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "Kill25Mozi",
@@ -2238,7 +2243,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "MeetTheMoles",
@@ -2262,7 +2267,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "RepairSmith",
@@ -2286,7 +2291,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2301,22 +2306,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1779,
+      "Progressed": 1780,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 420,
-      "Completed": 420
+      "Progressed": 421,
+      "Completed": 421
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:04:02.6251001+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:04:11.1642221+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:58:23.3654297+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:04:02.6251346+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:58:33.0836004+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:04:11.1642564+00:00"
 }

@@ -21,9 +21,9 @@
 | Running Boots | 16.00% | ~36 |
 | Looper | 15.00% | ~34 |
 | Kaboom! | 14.00% | ~32 |
+| Reunited | 13.00% | ~30 |
 | So Close | 12.00% | ~27 |
 | All Alone | 12.00% | ~27 |
-| Reunited | 12.00% | ~27 |
 | Transformers, cubes in disguise | 11.00% | ~25 |
 | Final Charge | 11.00% | ~25 |
 | Cataclysm | 11.00% | ~25 |

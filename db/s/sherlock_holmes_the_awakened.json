@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.61,
+  "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1831,6 +1831,11 @@
       "Time": "2023-07-22T23:05:38.6020976+00:00",
       "NumProgressed": 542,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-23T00:05:44.8963489+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1842,7 +1847,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "MQ01_2",
@@ -1850,7 +1855,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ02_1",
@@ -1858,7 +1863,7 @@
       "Name": "High Profile",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MQ02_2",
@@ -1914,15 +1919,15 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 287
+      "UsersEstimate": 282
     },
     {
       "ID": "MQ04_1",
@@ -1944,9 +1949,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ05_1",
@@ -1962,7 +1967,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MQ05_3",
@@ -1994,7 +1999,7 @@
       "Name": "Bookworm",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "MQ06_3",
@@ -2002,7 +2007,7 @@
       "Name": "Land, Ho!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MQ06_4",
@@ -2016,9 +2021,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ07_2",
@@ -2026,7 +2031,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "MQ08_1",
@@ -2065,7 +2070,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 25
     }
   ],
@@ -2073,8 +2078,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:05:38.602097+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:05:44.8963484+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:57:24.2699877+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:05:38.602129+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:57:42.2008647+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:05:44.896379+00:00"
 }

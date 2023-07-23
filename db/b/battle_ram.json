@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-07-22T20:08:06.393845+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T00:06:11.7557022+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -442,13 +447,13 @@
       "Name": "START",
       "Percentage": 89,
       "XP": 45,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_10",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 3rd class",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 27
     },
@@ -496,25 +501,25 @@
       "ID": "ach_16",
       "SetID": "392n4e7",
       "Name": "Senior Major Baran",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_17",
       "SetID": "392n4e7",
       "Name": "Lieutenant Colonel Baran",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_18",
       "SetID": "392n4e7",
       "Name": "Colonel Baran",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_19",
@@ -530,7 +535,7 @@
       "Name": "Ram Corporal",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_20",
@@ -560,33 +565,33 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_4",
       "SetID": "392n4e7",
       "Name": "Ram Staff Sergeant",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_5",
       "SetID": "392n4e7",
       "Name": "Ram First Sergeant",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_6",
       "SetID": "392n4e7",
       "Name": "Senior Sergeant Baran",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_7",
@@ -594,13 +599,13 @@
       "Name": "Sergeant Major Baran",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_8",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 1st class",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -608,7 +613,7 @@
       "ID": "ach_9",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 2nd class",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 28
     }
@@ -617,14 +622,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:06:06.9900972+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:06:11.7557017+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.9358721+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:58:09.6199932+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:06:06.9901112+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:58:19.9527858+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:06:11.7557223+00:00"
 }

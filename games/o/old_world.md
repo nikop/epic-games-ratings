@@ -13,14 +13,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
+| Enlightened | 0.20% | ~26 |
 | Explorer | 0.20% | ~26 |
 | Good | 0.20% | ~26 |
 | Intrepid | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
+| Mason | 0.20% | ~26 |
 | Noble | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
+| Ishtar Gate | 0.20% | ~26 |
 | Oracle | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
@@ -55,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
-| Enlightened | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
 | Glorious | 0.10% | ~13 |
 | Great | 0.10% | ~13 |
@@ -66,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
 | Magnificent | 0.10% | ~13 |
-| Mason | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
-| Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
 | Mausoleum | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,019 (Ranked 114)  
+Progressed: 13,021 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,6 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
+| 2023-07-23 | 13,021 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

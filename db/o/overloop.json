@@ -4,8 +4,8 @@
   "ProductSlug": "overloop-f572c8",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-26T12:00:00+00:00",
     "PcReleaseDate": "2022-08-26T12:00:00+00:00",
@@ -211,8 +211,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:05:04.0468731+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:05:11.660508+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:50.8118842+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:58:17.0296278+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:05:04.0468903+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:58:27.0527343+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:05:11.6605245+00:00"
 }

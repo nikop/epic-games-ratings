@@ -11,10 +11,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 2.00% | ~116 |
 | Caught in the Act | 2.00% | ~116 |
 | Katherine | 2.00% | ~116 |
+| Life Found a Way | 2.00% | ~57 |
 | Relentless | 2.00% | ~116 |
 | If at First You Don't Succeed... | 2.00% | ~116 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~58 |
-| Life Found a Way | 1.00% | ~29 |
 | Drunk and Disorderly: Ashley | 0.80% | ~47 |
 | IRL Let's Player | 0.70% | ~41 |
 | Newcomer: Vickie | 0.70% | ~41 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-07-22T21:04:46.5026633+00:00",
       "NumProgressed": 333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T00:04:03.9577418+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1108,7 +1113,7 @@
       "Name": "Basic Controls",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "BigPlane",
@@ -1116,7 +1121,7 @@
       "Name": "Expensive Plane",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "BudgetFlight",
@@ -1132,15 +1137,15 @@
       "Name": "Calculated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "Creator",
@@ -1186,9 +1191,9 @@
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "FullCompletion",
@@ -1226,9 +1231,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "LargeTerritories",
@@ -1260,7 +1265,7 @@
       "Name": "Long Distances",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ManagementMaster",
@@ -1427,14 +1432,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-22T23:03:54.9617516+00:00",
+  "LastChanged_Achievements": "2023-07-23T00:04:03.9577413+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-22T22:57:05.6541342+00:00",
-  "LastUpdate_Achievements": "2023-07-22T23:03:54.9617905+00:00"
+  "LastUpdate_Ratings": "2023-07-22T23:57:22.2684168+00:00",
+  "LastUpdate_Achievements": "2023-07-23T00:04:03.9577816+00:00"
 }

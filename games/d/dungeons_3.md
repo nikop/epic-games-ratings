@@ -6,68 +6,68 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~17,324 |
-| The Evilest Evil | 58.00% | ~14,354 |
-| Twistram is devastated | 58.00% | ~14,354 |
-| The Gehenna Stones | 50.00% | ~12,374 |
+| The Shadow strikes | 70.00% | ~17,326 |
+| The Evilest Evil | 58.00% | ~14,356 |
+| Twistram is devastated | 58.00% | ~14,356 |
+| The Gehenna Stones | 50.00% | ~12,376 |
 | No one has to die today! | 46.00% | ~11,385 |
-| Death and destruction! | 45.00% | ~11,137 |
+| Death and destruction! | 45.00% | ~11,138 |
 | The Swamplanders from the swamplands | 44.00% | ~10,890 |
-| The One-Huge-Army-Building Evil | 41.00% | ~10,147 |
-| Rusty Steel | 41.00% | ~10,147 |
+| The One-Huge-Army-Building Evil | 41.00% | ~10,148 |
+| Rusty Steel | 41.00% | ~10,148 |
 | The last burger | 38.00% | ~9,405 |
 | Braiiiiins! | 38.00% | ~9,405 |
 | Hands off the Dungeonheart! | 36.00% | ~8,910 |
-| A trip on sea, what fun it can be | 35.00% | ~8,662 |
-| Damned good | 33.00% | ~8,167 |
+| A trip on sea, what fun it can be | 35.00% | ~8,663 |
+| Damned good | 33.00% | ~8,168 |
 | Factory farming | 32.00% | ~7,920 |
-| Stock Market Crash | 31.00% | ~7,672 |
+| Stock Market Crash | 31.00% | ~7,673 |
 | Not-So-Overproud | 30.00% | ~7,425 |
-| For a handfull of Catapults | 29.00% | ~7,177 |
-| Shadow hunter | 29.00% | ~7,177 |
+| For a handfull of Catapults | 29.00% | ~7,178 |
+| Shadow hunter | 29.00% | ~7,178 |
 | Thirst quencher | 28.00% | ~6,930 |
 | Ogre Solo! | 28.00% | ~6,930 |
-| Tide Master | 27.00% | ~6,682 |
+| Tide Master | 27.00% | ~6,683 |
 | Destroy the thing | 26.00% | ~6,435 |
-| Difficult family relationships | 25.00% | ~6,187 |
-| MASS-O-BOT | 25.00% | ~6,187 |
-| Prepare the grave | 25.00% | ~6,187 |
-| Angel of Fire | 25.00% | ~6,187 |
+| Difficult family relationships | 25.00% | ~6,188 |
+| MASS-O-BOT | 25.00% | ~6,188 |
+| Prepare the grave | 25.00% | ~6,188 |
+| Angel of Fire | 25.00% | ~6,188 |
 | Where there is Light, there is Shadow | 24.00% | ~5,940 |
-| At the foot of Mount Destiny | 23.00% | ~5,692 |
+| At the foot of Mount Destiny | 23.00% | ~5,693 |
 | The Force disturbed | 22.00% | ~5,445 |
 | The Victorious Evil | 20.00% | ~4,950 |
 | We don’t have time! | 20.00% | ~4,950 |
-| Chorus of damnation | 19.00% | ~4,702 |
+| Chorus of damnation | 19.00% | ~4,703 |
 | The Stones’ Power | 18.00% | ~4,455 |
 | Lifeguard | 18.00% | ~4,455 |
-| Flat as a pancake | 17.00% | ~4,207 |
+| Flat as a pancake | 17.00% | ~4,208 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,960 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~2,970 |
 | Then let them eat cake! | 12.00% | ~2,970 |
 | The White Knight | 10.00% | ~2,475 |
 | Please, no interruptions! | 10.00% | ~2,475 |
-| Use the terrain | 9.00% | ~2,227 |
-| Master of Traps | 9.00% | ~2,227 |
-| Prison Break | 9.00% | ~2,227 |
+| Use the terrain | 9.00% | ~2,228 |
+| Master of Traps | 9.00% | ~2,228 |
+| Prison Break | 9.00% | ~2,228 |
 | Hearts of Iron | 8.00% | ~1,980 |
 | Ignore The Level Designer’s Plan | 8.00% | ~1,980 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~1,980 |
 | Lifesaver | 8.00% | ~1,980 |
-| Hearts are trump | 7.00% | ~1,732 |
+| Hearts are trump | 7.00% | ~1,733 |
 | Spawner Killer | 6.00% | ~1,485 |
 | A little something extra | 6.00% | ~1,485 |
 | The Benevolent Evil | 6.00% | ~1,485 |
-| Band of Brothers | 5.00% | ~1,237 |
+| Band of Brothers | 5.00% | ~1,238 |
 | Night of the Living Dead (on Speed) | 4.00% | ~990 |
 | I need a hero! | 4.00% | ~990 |
-| Storm And Stress | 3.00% | ~742 |
-| I love the smell of Catapult fire! | 3.00% | ~742 |
+| Storm And Stress | 3.00% | ~743 |
+| I love the smell of Catapult fire! | 3.00% | ~743 |
 | Discoverer | 2.00% | ~495 |
 | Not a scratch | 2.00% | ~495 |
 | Sacrifices! | 2.00% | ~495 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,749 (Ranked 98)  
+Progressed: 24,751 (Ranked 98)  
 Completed: 208 (0.84%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 208 (0.84%) (Ranked 110)
 | 2023-07-20 | 24,531 | 206 |
 | 2023-07-21 | 24,618 | 207 |
 | 2023-07-22 | 24,749 | 208 |
+| 2023-07-23 | 24,751 | 208 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,597 (Ranked 172)  
