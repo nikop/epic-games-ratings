@@ -21,11 +21,11 @@
 | Master of the Rope | 31.00% | ~5 |
 | You Have Been Everywhere | 31.00% | ~5 |
 | In the Air | 25.00% | ~4 |
+| Clear the Road | 25.00% | ~4 |
 | Never Miss | 25.00% | ~4 |
 | Everything Under Control | 19.00% | ~3 |
-| Clear the Road | 19.00% | ~3 |
+| Don’t Miss Any | 19.00% | ~3 |
 | Adventure Bay’s Citizen | 19.00% | ~3 |
-| Don’t Miss Any | 13.00% | ~2 |
 | Mountain and Ice | 13.00% | ~2 |
 | King of the Mountain | 6.00% | ~1 |
 | A Great Explorer | 6.00% | ~1 |

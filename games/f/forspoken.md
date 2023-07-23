@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.14 (Ranked 880)  
+Rating: 4.14 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,16 +33,16 @@ Rating: 4.14 (Ranked 880)
 | Breaking Point | 1.00% | ~392 |
 | None the Wiser | 1.00% | ~392 |
 | Pilgrimage: Novice | 1.00% | ~392 |
-| Forspoken | 0.90% | ~352 |
+| Forspoken | 0.90% | ~353 |
 | Wildfire | 0.70% | ~274 |
 | Awakening | 0.60% | ~235 |
 | Realized Potential | 0.60% | ~235 |
 | Explorer: Trailblazer | 0.50% | ~196 |
 | Through the Eyes of Another: Seer | 0.40% | ~157 |
-| Archivist | 0.30% | ~117 |
-| Craftsperson | 0.30% | ~117 |
-| Tit for Tat | 0.30% | ~117 |
-| Promises | 0.30% | ~117 |
+| Archivist | 0.30% | ~118 |
+| Craftsperson | 0.30% | ~118 |
+| Tit for Tat | 0.30% | ~118 |
+| Promises | 0.30% | ~118 |
 | Paragon | 0.20% | ~78 |
 | Pilgrimage: Adept | 0.20% | ~78 |
 | Call of the Fount: Beatified | 0.20% | ~78 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 880)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,166 (Ranked 90)  
+Progressed: 39,169 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-20 | 39,042 | 3 |
 | 2023-07-21 | 39,103 | 3 |
 | 2023-07-22 | 39,152 | 3 |
-| 2023-07-23 | 39,166 | 3 |
+| 2023-07-23 | 39,169 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
 Sum: 21 (Ranked 494)  

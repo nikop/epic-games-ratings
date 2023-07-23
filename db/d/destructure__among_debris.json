@@ -842,9 +842,9 @@
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "master_destructor",
@@ -979,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:04:14.9057177+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:05:02.8493534+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.0074125+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:00:01.8237647+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:04:14.9057451+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:00:49.4899611+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:05:02.8493836+00:00"
 }

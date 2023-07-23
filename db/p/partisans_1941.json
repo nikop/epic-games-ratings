@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-07-23T00:02:24.0546715+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T10:03:39.8728621+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1668,7 +1673,7 @@
       "Name": "Lock, Stock",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "E1M1",
@@ -1724,7 +1729,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "High_noon",
@@ -1732,7 +1737,7 @@
       "Name": "Payback Time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "How",
@@ -1835,15 +1840,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:03:05.1673682+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:03:39.8728616+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:59:19.984426+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:03:05.1673987+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:59:52.8250969+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:03:39.8728957+00:00"
 }

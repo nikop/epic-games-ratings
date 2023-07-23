@@ -29,9 +29,9 @@
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |
+| KOBEEE! | 4.00% | ~14 |
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
-| KOBEEE! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 343 (Ranked 239)  
 Completed: 10 (2.92%) (Ranked 64)  

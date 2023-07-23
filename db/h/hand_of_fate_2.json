@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659700,
+  "EOS_Progressed": 659703,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9682,6 +9682,11 @@
       "Time": "2023-07-23T08:02:09.3820477+00:00",
       "NumProgressed": 659700,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-23T10:03:32.8056473+00:00",
+      "NumProgressed": 659703,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9693,7 +9698,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474984
+      "UsersEstimate": 474986
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -9701,7 +9706,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382626
+      "UsersEstimate": 382628
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9709,7 +9714,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151731
+      "UsersEstimate": 151732
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -9741,7 +9746,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -9829,7 +9834,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151731
+      "UsersEstimate": 151732
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -9845,7 +9850,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112149
+      "UsersEstimate": 112150
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -9957,7 +9962,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164925
+      "UsersEstimate": 164926
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -10076,15 +10081,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659700,
+      "Progressed": 659703,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:02:28.9179129+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:03:32.8056468+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:57:54.6729379+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:02:28.9180063+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:58:09.3003415+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:03:32.8057537+00:00"
 }

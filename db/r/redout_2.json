@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -830,9 +830,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 141
     },
     {
       "ID": "CAREERCLASSA",
@@ -1014,9 +1014,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 195
     },
     {
       "ID": "ONEPLATINUM",
@@ -1119,8 +1119,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:03:02.6860121+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:03:36.8317533+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:48.2095913+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:58:24.3879001+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:03:02.6860638+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:58:45.7909503+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:03:36.8318055+00:00"
 }

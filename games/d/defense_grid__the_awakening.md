@@ -6,41 +6,41 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,554 |
-| Hey! That's mine! | 78.00% | ~376,089 |
-| Happy Returns | 77.00% | ~371,267 |
-| Field Promotion | 74.00% | ~356,802 |
-| Leadhead | 71.00% | ~342,337 |
-| Eradicator | 67.00% | ~323,051 |
-| Surplus | 65.00% | ~313,407 |
-| I Spy | 64.00% | ~308,586 |
-| Burn Baby Burn | 59.00% | ~284,477 |
-| Yellow Beats Green | 55.00% | ~265,191 |
-| Salvage Rights | 53.00% | ~255,547 |
-| Pew Pew | 50.00% | ~241,082 |
-| What IS that? | 50.00% | ~241,082 |
-| Close Call | 49.00% | ~236,261 |
-| Penny Pincher | 49.00% | ~236,261 |
-| Arsenal | 46.00% | ~221,796 |
-| Boot Camp | 45.00% | ~216,974 |
-| Flawless Victory | 42.00% | ~202,509 |
-| Confident | 40.00% | ~192,866 |
-| Exterminator | 36.00% | ~173,579 |
-| Sharpshooter | 33.00% | ~159,114 |
-| Great Ball of Fire | 32.00% | ~154,293 |
-| Not So Fast | 32.00% | ~154,293 |
+| First Blood | 81.00% | ~390,556 |
+| Hey! That's mine! | 78.00% | ~376,091 |
+| Happy Returns | 77.00% | ~371,269 |
+| Field Promotion | 74.00% | ~356,804 |
+| Leadhead | 71.00% | ~342,339 |
+| Eradicator | 67.00% | ~323,053 |
+| Surplus | 65.00% | ~313,409 |
+| I Spy | 64.00% | ~308,588 |
+| Burn Baby Burn | 59.00% | ~284,479 |
+| Yellow Beats Green | 55.00% | ~265,192 |
+| Salvage Rights | 53.00% | ~255,549 |
+| Pew Pew | 50.00% | ~241,084 |
+| What IS that? | 50.00% | ~241,084 |
+| Close Call | 49.00% | ~236,262 |
+| Penny Pincher | 49.00% | ~236,262 |
+| Arsenal | 46.00% | ~221,797 |
+| Boot Camp | 45.00% | ~216,976 |
+| Flawless Victory | 42.00% | ~202,511 |
+| Confident | 40.00% | ~192,867 |
+| Exterminator | 36.00% | ~173,580 |
+| Sharpshooter | 33.00% | ~159,115 |
+| Great Ball of Fire | 32.00% | ~154,294 |
+| Not So Fast | 32.00% | ~154,294 |
 | No Sale | 30.00% | ~144,650 |
-| Kaboom! | 29.00% | ~139,828 |
-| Liquidator | 29.00% | ~139,828 |
+| Kaboom! | 29.00% | ~139,829 |
+| Liquidator | 29.00% | ~139,829 |
 | High Voltage | 24.00% | ~115,720 |
-| Filthy Rich | 19.00% | ~91,611 |
+| Filthy Rich | 19.00% | ~91,612 |
 | The Not-So-Friendly Skies | 18.00% | ~86,790 |
-| Power Builder | 17.00% | ~81,968 |
-| Pyrrhic Victory | 17.00% | ~81,968 |
-| Death From Above | 16.00% | ~77,146 |
-| Retry | 16.00% | ~77,146 |
+| Power Builder | 17.00% | ~81,969 |
+| Pyrrhic Victory | 17.00% | ~81,969 |
+| Death From Above | 16.00% | ~77,147 |
+| Retry | 16.00% | ~77,147 |
 | Head Trauma | 12.00% | ~57,860 |
-| Full Defense | 10.00% | ~48,216 |
+| Full Defense | 10.00% | ~48,217 |
 | Overseer | 9.00% | ~43,395 |
 | Annihilator | 8.00% | ~38,573 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,573 |
@@ -58,15 +58,15 @@ Number of Ratings: 1,225  (23.09.2022)
 | Flurry | 1.00% | ~4,822 |
 | Well Invested | 1.00% | ~4,822 |
 | Xenocide | 1.00% | ~4,822 |
-| Gun Crazy | 0.90% | ~4,339 |
-| Planet Defender | 0.90% | ~4,339 |
+| Gun Crazy | 0.90% | ~4,340 |
+| Planet Defender | 0.90% | ~4,340 |
 | Master Siege Breaker | 0.80% | ~3,857 |
 | Few and Proud | 0.80% | ~3,857 |
 | Shell-shocked | 0.70% | ~3,375 |
 | Alien Tears | 0.50% | ~2,411 |
 | Full House | 0.40% | ~1,929 |
-| Kickstarter | 0.30% | ~1,446 |
-| The Container | 0.30% | ~1,446 |
+| Kickstarter | 0.30% | ~1,447 |
+| The Container | 0.30% | ~1,447 |
 | Foresight is 20/20 | 0.20% | ~964 |
 | Majestic Pony | 0.20% | ~964 |
 | Out of Bullets | 0.20% | ~964 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~482 |
 | You Monster | 0.10% | ~482 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,165 (Ranked 33)  
+Progressed: 482,168 (Ranked 33)  
 Completed: 4 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 4 (0.00%) (Ranked 240)
 | 2023-07-20 | 481,955 | 4 |
 | 2023-07-21 | 482,039 | 4 |
 | 2023-07-22 | 482,121 | 4 |
-| 2023-07-23 | 482,165 | 4 |
+| 2023-07-23 | 482,168 | 4 |
 ## Awards
 Max (Great for Beginners): 238  (Ranked 250)  
 Sum: 1,667 (Ranked 209)  

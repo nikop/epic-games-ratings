@@ -17,19 +17,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 2.00% | ~14,225 |
 | Lightning Hands | 2.00% | ~14,225 |
 | Rumble in the Hangar | 2.00% | ~14,225 |
-| Lady Wing Chun | 1.00% | ~7,112 |
-| Furious Fists | 1.00% | ~7,112 |
-| Scareless | 1.00% | ~7,112 |
-| Kill Nil | 1.00% | ~7,112 |
-| Stuntmaster | 1.00% | ~7,112 |
-| Street Fighting | 1.00% | ~7,112 |
-| Qi Gong: Mind | 1.00% | ~7,112 |
-| Qi Gong: Essence | 1.00% | ~7,112 |
-| I know Kung-Fu | 1.00% | ~7,112 |
-| Old Child | 1.00% | ~7,112 |
-| Kung-Fu Tussle | 1.00% | ~7,112 |
-| Path of the Prospect | 1.00% | ~7,112 |
-| Take damage to save time | 1.00% | ~7,112 |
+| Lady Wing Chun | 1.00% | ~7,113 |
+| Furious Fists | 1.00% | ~7,113 |
+| Scareless | 1.00% | ~7,113 |
+| Kill Nil | 1.00% | ~7,113 |
+| Stuntmaster | 1.00% | ~7,113 |
+| Street Fighting | 1.00% | ~7,113 |
+| Qi Gong: Mind | 1.00% | ~7,113 |
+| Qi Gong: Essence | 1.00% | ~7,113 |
+| I know Kung-Fu | 1.00% | ~7,113 |
+| Old Child | 1.00% | ~7,113 |
+| Kung-Fu Tussle | 1.00% | ~7,113 |
+| Path of the Prospect | 1.00% | ~7,113 |
+| Take damage to save time | 1.00% | ~7,113 |
 | Bloody Sport | 1.00% | ~206 |
 | The best strikes are the ones we avoid | 1.00% | ~206 |
 | Dance of the Praying Mantis | 0.90% | ~6,401 |
@@ -39,25 +39,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.70% | ~4,979 |
 | Deadly Venom | 0.70% | ~144 |
 | A Touch of Acumen | 0.70% | ~144 |
-| Iron Money | 0.60% | ~4,267 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,267 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,267 |
+| Iron Money | 0.60% | ~4,268 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,268 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,268 |
 | Prodigal Child | 0.50% | ~3,556 |
 | Sword Stained With Blood | 0.50% | ~3,556 |
+| Martial Artist | 0.40% | ~2,845 |
 | Knowledge Greed | 0.40% | ~2,845 |
 | Martial Hub | 0.40% | ~82 |
 | Secure, Protect, Leave | 0.40% | ~82 |
 | Drunken Fighter | 0.30% | ~2,134 |
-| Martial Artist | 0.30% | ~2,134 |
 | Healing Memory | 0.30% | ~2,134 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,134 |
 | The Pit Protector | 0.30% | ~2,134 |
 | Be like water my friend | 0.30% | ~2,134 |
 | Come Snap With Me | 0.30% | ~2,134 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,249 (Ranked 19)  
+Progressed: 711,253 (Ranked 19)  
 Completed: 12,831 (1.80%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 12,831 (1.80%) (Ranked 85)
 | 2023-07-20 | 710,945 | 12,827 |
 | 2023-07-21 | 711,067 | 12,829 |
 | 2023-07-22 | 711,203 | 12,830 |
-| 2023-07-23 | 711,249 | 12,831 |
+| 2023-07-23 | 711,253 | 12,831 |
 ## Awards
 Max (Great Boss Battles): 6,294  (Ranked 53)  
 Sum: 10,796 (Ranked 78)  

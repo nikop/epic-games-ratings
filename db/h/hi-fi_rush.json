@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3525,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4705,9 +4705,9 @@
       "ID": "Ach024",
       "SetID": "12n4k20",
       "Name": "Beat-hit mania",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach025",
@@ -4849,9 +4849,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach043",
@@ -5104,8 +5104,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:03:18.5193079+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:03:55.8836532+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:58:44.9131116+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:03:18.5194162+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:59:10.2423093+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:03:55.8838753+00:00"
 }

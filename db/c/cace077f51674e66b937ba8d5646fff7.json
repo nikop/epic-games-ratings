@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -636,9 +636,9 @@
       "ID": "ENEMY_8",
       "SetID": "50pdlpn",
       "Name": "Kabeer the Demonic Headphone",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ENEMY_9",
@@ -931,8 +931,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:05:16.5265979+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:06:18.5752578+00:00",
   "LastUpdate_AppInfo": "2023-07-17T13:57:23.9145964+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:57:34.7735696+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:05:16.5266776+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:57:45.1443313+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:06:18.5753416+00:00"
 }

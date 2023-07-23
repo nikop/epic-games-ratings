@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "23",
@@ -333,9 +333,9 @@
       "ID": "7",
       "SetID": "38ide56",
       "Name": "Don\u2019t Miss Any",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "8",
@@ -366,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:04:00.5088928+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:04:46.1881517+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.4526107+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:59:29.3916338+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:04:00.5089144+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:00:03.5609005+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:04:46.1881891+00:00"
 }

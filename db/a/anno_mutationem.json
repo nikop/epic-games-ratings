@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 652,
+  "EOS_Progressed": 653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -412,6 +412,11 @@
       "Time": "2023-07-22T05:06:15.6189566+00:00",
       "NumProgressed": 652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T10:05:27.2601653+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -437,9 +442,9 @@
       "ID": "Arm_Wrestling",
       "SetID": "gl7plp",
       "Name": "Arm Wrestlin\u0027",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 59
     },
     {
       "ID": "Big_Spender",
@@ -463,7 +468,7 @@
       "Name": "Club Star",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Combine",
@@ -479,7 +484,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Fire in the hole!",
@@ -487,7 +492,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -589,9 +594,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 490
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -631,7 +636,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -687,7 +692,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "posters",
@@ -710,7 +715,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 0
     }
   ],
@@ -718,8 +723,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-10T11:57:54.3747562+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:04:35.2146365+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:05:27.2601648+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:11.4295503+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:57:52.6087712+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:04:35.2146656+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:58:06.8444418+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:05:27.260197+00:00"
 }

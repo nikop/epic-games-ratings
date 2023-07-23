@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 482,
+  "EOS_Progressed": 483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2023-07-23T08:00:32.0282+00:00",
       "NumProgressed": 482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T10:03:11.8685764+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2216,7 +2221,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Packing20",
@@ -2296,7 +2301,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TrattoriaSet",
@@ -2359,7 +2364,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 482,
+      "Progressed": 483,
       "Completed": 0
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:02:11.8999243+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:03:11.8685758+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:58:38.5358668+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:02:11.8999685+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:59:03.658725+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:03:11.8686173+00:00"
 }

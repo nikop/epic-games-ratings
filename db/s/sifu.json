@@ -5304,9 +5304,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711249,
+  "EOS_Progressed": 711253,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14074,6 +14074,11 @@
       "Time": "2023-07-23T09:06:16.1235908+00:00",
       "NumProgressed": 711249,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-23T10:07:33.019506+00:00",
+      "NumProgressed": 711253,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14117,7 +14122,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "06_Vengeance_H5",
@@ -14125,7 +14130,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "07_Wude_H1",
@@ -14157,7 +14162,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "11_Wude_H5",
@@ -14165,7 +14170,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "12_MidAge",
@@ -14173,7 +14178,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "13_LowAge",
@@ -14189,7 +14194,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "15_Detective_H1",
@@ -14211,9 +14216,9 @@
       "ID": "17_Detective_H3",
       "SetID": "adcm20g",
       "Name": "Martial Artist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2845
     },
     {
       "ID": "18_Detective_H4",
@@ -14237,7 +14242,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -14253,7 +14258,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -14277,7 +14282,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "26_ShrineSpirit",
@@ -14293,7 +14298,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14301,7 +14306,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -14317,7 +14322,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "31_ComboHigh",
@@ -14325,7 +14330,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "32_ReachMaxAge",
@@ -14333,7 +14338,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "33_BladeOneShot",
@@ -14357,7 +14362,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -14365,7 +14370,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14397,7 +14402,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -14484,21 +14489,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20550,
+      "Progressed": 20554,
       "Completed": 10432
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711249,
+      "Progressed": 711253,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-23T04:58:59.3196325+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:06:16.1235902+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:07:33.0195055+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:59:10.8037028+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:06:16.123688+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:59:39.7827204+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:07:33.0196135+00:00"
 }

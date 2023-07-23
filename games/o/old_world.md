@@ -8,23 +8,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 0.90% | ~117 |
 | The Great Mage | 0.60% | ~78 |
+| Settler | 0.40% | ~52 |
 | Play a Single Player Game | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
+| Able | 0.30% | ~39 |
 | Explorer | 0.30% | ~39 |
-| Settler | 0.30% | ~39 |
+| Intrepid | 0.30% | ~39 |
 | Friendly Family | 0.30% | ~39 |
-| Able | 0.20% | ~26 |
 | Ambitious | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
+| Glorious | 0.20% | ~26 |
 | Good | 0.20% | ~26 |
-| Intrepid | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
+| Learned | 0.20% | ~26 |
 | Mason | 0.20% | ~26 |
 | Noble | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
+| Developing Cities | 0.20% | ~26 |
+| Colossus | 0.20% | ~26 |
+| Great Ziggurat | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Lighthouse | 0.20% | ~26 |
@@ -32,13 +37,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Judaism | 0.20% | ~26 |
+| Babylonian Paganism | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
 | Roman Paganism | 0.20% | ~26 |
+| Zoroastrianism | 0.20% | ~26 |
+| Naming Landmarks | 0.20% | ~26 |
 | Trade Caravan | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
+| Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
 | Carthage - Ox Hide | 0.10% | ~13 |
 | Bronze Victory (Carthage 1) | 0.10% | ~13 |
@@ -66,12 +75,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
-| Glorious | 0.10% | ~13 |
 | Great | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
-| Learned | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
 | Magnificent | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
@@ -83,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.10% | ~13 |
 | Warrior | 0.10% | ~13 |
 | Wise | 0.10% | ~13 |
-| Developing Cities | 0.10% | ~13 |
 | Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
 | Able Difficulty | 0.10% | ~13 |
@@ -126,8 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.10% | ~13 |
 | Apadana | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
-| Colossus | 0.10% | ~13 |
-| Great Ziggurat | 0.10% | ~13 |
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
@@ -139,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
+| Learn By Playing 4 - Strong | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
@@ -165,16 +170,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
-| Babylonian Paganism | 0.10% | ~13 |
 | Carthaginian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
-| Zoroastrianism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Building Wonders | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
-| Naming Landmarks | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
@@ -228,7 +230,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
-| Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -282,7 +283,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
-| Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,028 (Ranked 114)  
+Progressed: 13,032 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,028 | 5 |
+| 2023-07-23 | 13,032 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

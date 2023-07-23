@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:06:11.4598691+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:07:27.0991862+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:14.2265014+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:57:55.3738994+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:06:11.4598817+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:58:10.30759+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:07:27.0992017+00:00"
 }

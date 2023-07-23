@@ -28,8 +28,8 @@
 | Monster of Fashion | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
 | Bullet Hell | 1.00% | ~2 |
+| Machine Man | 1.00% | ~2 |
 | Untouchable | 1.00% | ~2 |
-| Machine Man | 0.70% | ~1 |
 | Mushroom Man | 0.70% | ~1 |
 | Total Walrus | 0.70% | ~1 |
 | True Victory | 0.70% | ~1 |

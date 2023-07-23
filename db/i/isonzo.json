@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6408,
+  "EOS_Progressed": 6409,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3507,6 +3507,11 @@
       "Time": "2023-07-23T05:04:35.4384921+00:00",
       "NumProgressed": 6408,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T10:05:33.8354005+00:00",
+      "NumProgressed": 6409,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3518,7 +3523,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -3550,7 +3555,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -3710,7 +3715,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3726,7 +3731,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3766,7 +3771,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3798,7 +3803,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -3814,7 +3819,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3846,7 +3851,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3870,14 +3875,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6408,
+      "Progressed": 6409,
       "Completed": 8
     }
   ],
@@ -3885,8 +3890,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-23T09:04:40.6635102+00:00",
+  "LastChanged_Achievements": "2023-07-23T10:05:33.8354001+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-23T08:57:50.7887927+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:04:40.6635649+00:00"
+  "LastUpdate_Ratings": "2023-07-23T09:58:04.8062976+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:05:33.8354548+00:00"
 }

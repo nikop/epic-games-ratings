@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 509,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 116,
   "RatingHistory": [
     {
@@ -373,6 +373,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 90,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-07-23T10:01:10.2100422+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
@@ -398,8 +404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2023-07-01T09:00:47.5308888+00:00",
+  "LastChanged": "2023-07-23T10:01:10.210042+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:13.6759353+00:00",
-  "LastUpdate_Ratings": "2023-07-23T09:00:16.6087679+00:00",
-  "LastUpdate_Achievements": "2023-07-23T09:06:04.1445621+00:00"
+  "LastUpdate_Ratings": "2023-07-23T10:01:10.2100426+00:00",
+  "LastUpdate_Achievements": "2023-07-23T10:07:17.5099881+00:00"
 }

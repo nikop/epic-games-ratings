@@ -6,7 +6,7 @@ Rating: 4.39 (Ranked 701)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,171 |
-| Ranidaphobia | 77.00% | ~980 |
+| Ranidaphobia | 78.00% | ~993 |
 | Aspiring Editor | 75.00% | ~955 |
 | Gun for Hire | 70.00% | ~891 |
 | I am the law! | 63.00% | ~802 |
@@ -22,7 +22,7 @@ Rating: 4.39 (Ranked 701)
 | The meaning of Kain | 40.00% | ~509 |
 | Technophobe | 38.00% | ~484 |
 | Recycler | 37.00% | ~471 |
-| Are you not entertained? | 32.00% | ~407 |
+| Are you not entertained? | 33.00% | ~420 |
 | Ganglord | 32.00% | ~407 |
 | Jarhead | 32.00% | ~407 |
 | Infiltrator | 32.00% | ~407 |

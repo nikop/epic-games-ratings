@@ -23,7 +23,7 @@
 | Commuting | 20.00% | ~80 |
 | Le jardin magnifique | 20.00% | ~80 |
 | Aiming for a living and human city | 19.00% | ~76 |
-| City of dreams | 18.00% | ~72 |
+| City of dreams | 19.00% | ~76 |
 | Happy Christmas night! | 18.00% | ~72 |
 | Night walk along the beach | 18.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
