@@ -11,7 +11,7 @@
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2023-07-20 | 41 (1,000 XP) | 10 | - | - |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-07-20 | - |  | - | - |
 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2023-07-20 | - |  | 4.17 | 0 |
-| [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | 44 (1,000 XP) | 51 | - | 0 |
+| [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | 44 (1,000 XP) | 52 | - | 0 |
 | [Dimension Drive](games/d/d76f74c986a7462e95442dd6dd211357.md) | 2023-07-20 | - |  | - | - |
 | [Lost Wing](games/c/c3900988383a48b4959c3292a8a555eb.md) | 2023-07-20 | - |  | - | - |
 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 2023-07-20 | - |  | - | 0 |
@@ -85,7 +85,7 @@
 | [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,568 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,571 | - | 0 |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 2023-06-29 | - |  | 4.32 | 56 |
@@ -111,4 +111,3 @@
 | [Avoid It](games/f/fc26bb604bcb4130bc0798c8d9ef95b1.md) | 2023-06-23 | - |  | - | 0 |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2023-06-23 | - |  | - | - |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-23 | - |  | - | - |
-| [Dr. Virus](games/0/058ca65993ce4a3a8a79cd238e80c539.md) | 2023-06-23 | - |  | - | - |
