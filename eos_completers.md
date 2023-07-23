@@ -21,9 +21,9 @@
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.33% |
-| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.12% |
-| 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 10.00% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 22 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 10.00% |
+| 22 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.79% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
@@ -31,13 +31,13 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
 | 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.05% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 32 | [Scorn](games/s/scorn.md) | 6.99% |
+| 32 | [Scorn](games/s/scorn.md) | 6.98% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.44% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.33% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
@@ -71,8 +71,8 @@
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.45% |
-| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
+| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.41% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
@@ -86,7 +86,7 @@
 | 84 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 85 | [Sifu](games/s/sifu.md) | 1.80% |
 | 86 | [Iron Danger](games/i/iron_danger.md) | 1.73% |
-| 87 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.70% |
+| 87 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.69% |
 | 88 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 89 | [Somerville](games/s/somerville.md) | 1.62% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
@@ -121,8 +121,8 @@
 | 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
-| 120 | [Them and Us](games/t/them_and_us.md) | 0.58% |
-| 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 122 | [Them and Us](games/t/them_and_us.md) | 0.57% |
 | 124 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 124 | [Train Valley](games/t/train_valley.md) | 0.56% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
