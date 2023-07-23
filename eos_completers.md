@@ -18,7 +18,7 @@
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 17 | [Remains](games/r/remains.md) | 11.11% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.93% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.49% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
@@ -29,13 +29,13 @@
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
-| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.28% |
+| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.24% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 7.01% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.97% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.80% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.65% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.58% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
