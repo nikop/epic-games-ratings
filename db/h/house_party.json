@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5834,
+  "EOS_Progressed": 5837,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3641,6 +3641,11 @@
       "Time": "2023-07-23T21:05:48.3518986+00:00",
       "NumProgressed": 5834,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T22:06:04.13523+00:00",
+      "NumProgressed": 5837,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3908,7 +3913,7 @@
       "Name": "It Smells Like Roses",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Katherine",
@@ -3932,7 +3937,7 @@
       "Name": "Life Found a Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MoneyShot",
@@ -4203,21 +4208,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2873,
+      "Progressed": 2876,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5834,
+      "Progressed": 5837,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:05:48.3518981+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:06:04.1352294+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.6654543+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:57:52.1963807+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:05:48.3519668+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:57:48.5177753+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:06:04.135343+00:00"
 }

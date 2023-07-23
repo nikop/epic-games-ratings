@@ -23,13 +23,13 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 7.00% | ~20,189 |
 | The Spell Master | 7.00% | ~20,189 |
 | Rising From the Ashes | 7.00% | ~20,189 |
-| The Avenging Gazelle | 6.00% | ~17,304 |
-| Beast Friends | 6.00% | ~17,304 |
-| Flight the Good Flight | 6.00% | ~17,304 |
-| The Seeker of Knowledge | 5.00% | ~14,420 |
-| The Root of the Problem | 5.00% | ~14,420 |
-| Third Time's a Charm | 5.00% | ~14,420 |
-| Raising Expectations | 5.00% | ~14,420 |
+| The Avenging Gazelle | 6.00% | ~17,305 |
+| Beast Friends | 6.00% | ~17,305 |
+| Flight the Good Flight | 6.00% | ~17,305 |
+| The Seeker of Knowledge | 5.00% | ~14,421 |
+| The Root of the Problem | 5.00% | ~14,421 |
+| Third Time's a Charm | 5.00% | ~14,421 |
+| Raising Expectations | 5.00% | ~14,421 |
 | The Toast of the Town | 4.00% | ~11,536 |
 | The Ends Petrify the Means | 4.00% | ~11,536 |
 | Going Through the Potions | 3.00% | ~8,652 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,408 (Ranked 42)  
+Progressed: 288,412 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
-| 2023-07-23 | 288,408 | 433 |
+| 2023-07-23 | 288,412 | 433 |
 ## Awards
 Max (Character Customization): 21,217  (Ranked 17)  
-Sum: 39,746 (Ranked 30)  
+Sum: 39,749 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 894 |
 | This game has Amazing Storytelling | 894 |
 | This game has Amazing Characters | 869 |
-| This game is Highly Recommended | 845 |
+| This game is Highly Recommended | 848 |
 | This game has Quickly Understood Controls | 808 |
 | This game has Beautiful Visuals | 746 |
 | This game has a Creative Community | 561 |
@@ -288,4 +288,4 @@ Diff (max vs sum): -13
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
 | 2023-07-21 | 4.77 | 21,154 | 39,625 |
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
-| 2023-07-23 | 4.77 | 21,217 | 39,746 |
+| 2023-07-23 | 4.77 | 21,217 | 39,749 |

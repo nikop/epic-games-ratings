@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31138,
+  "EOS_Progressed": 31142,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10368,6 +10368,11 @@
       "Time": "2023-07-23T21:03:26.3683761+00:00",
       "NumProgressed": 31138,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-23T22:04:18.2036082+00:00",
+      "NumProgressed": 31142,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10379,7 +10384,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10539,7 +10544,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -10610,7 +10615,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31138,
+      "Progressed": 31142,
       "Completed": 20
     }
   ],
@@ -10618,8 +10623,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:03:26.3683757+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:04:18.2036077+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:00:24.5221552+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:03:26.368437+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:00:14.6727131+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:04:18.2037052+00:00"
 }

@@ -18,11 +18,11 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 5.00% | ~11 |
 | Everything Must Go! | 5.00% | ~11 |
 | Mushroom Madness! | 5.00% | ~11 |
-| Deadication | 4.00% | ~8 |
-| The Harder They Fall | 4.00% | ~8 |
-| Horder Better Faster Stronger | 4.00% | ~8 |
-| Next Time on MythForce... | 4.00% | ~8 |
-| On this Episode! | 4.00% | ~8 |
+| Deadication | 4.00% | ~9 |
+| The Harder They Fall | 4.00% | ~9 |
+| Horder Better Faster Stronger | 4.00% | ~9 |
+| Next Time on MythForce... | 4.00% | ~9 |
+| On this Episode! | 4.00% | ~9 |
 | The Fourth Gate | 3.00% | ~6 |
 | Season Finale | 2.00% | ~4 |
 | We've Got a Kaiju on the Field | 0.50% | ~1 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 269)  
+Progressed: 213 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,7 +38,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
 | 2023-07-22 | 161 | 0 |
-| 2023-07-23 | 211 | 0 |
+| 2023-07-23 | 213 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 447)  
 Sum: 226 (Ranked 351)  

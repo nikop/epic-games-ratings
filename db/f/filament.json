@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 197141,
+  "EOS_Progressed": 197147,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -10225,6 +10225,11 @@
       "Time": "2023-07-23T21:02:11.3862981+00:00",
       "NumProgressed": 197141,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-07-23T22:03:23.46442+00:00",
+      "NumProgressed": 197147,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 29,
@@ -10260,7 +10265,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185313
+      "UsersEstimate": 185318
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -10372,7 +10377,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11828
+      "UsersEstimate": 11829
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -10420,7 +10425,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19714
+      "UsersEstimate": 19715
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -10467,7 +10472,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 197141,
+      "Progressed": 197147,
       "Completed": 469
     }
   ],
@@ -10475,8 +10480,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:02:11.3862977+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:03:23.4644196+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.4091464+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:59:21.2622113+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:02:11.386358+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:59:09.9193607+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:03:23.4644919+00:00"
 }

@@ -7,8 +7,8 @@
 | ECG | 94.00% | ~75 |
 | Rehearsal | 93.00% | ~74 |
 | Daily Life | 89.00% | ~71 |
-| Assembly Line Work | 84.00% | ~67 |
-| Solitude | 78.00% | ~62 |
+| Assembly Line Work | 85.00% | ~68 |
+| Solitude | 79.00% | ~63 |
 | Pinewood, Here we come! | 71.00% | ~57 |
 | The Van | 65.00% | ~52 |
 | Road-Trip | 60.00% | ~48 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7972,
+  "EOS_Progressed": 7973,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3646,6 +3646,11 @@
       "Time": "2023-07-23T19:04:21.3362409+00:00",
       "NumProgressed": 7972,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-23T22:04:55.142227+00:00",
+      "NumProgressed": 7973,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3681,7 +3686,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3737,7 +3742,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HeroSlayer",
@@ -3777,7 +3782,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "SavedElderEnt",
@@ -3785,7 +3790,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3793,7 +3798,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "SkeletonKing",
@@ -3809,7 +3814,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "TheLegendBegins",
@@ -3817,7 +3822,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3833,7 +3838,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "WhattoBuy",
@@ -3841,22 +3846,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6696
+      "UsersEstimate": 6697
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7972,
+      "Progressed": 7973,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:04:35.484448+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:04:55.1422265+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:59:33.8319655+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:04:35.4844736+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:59:23.4737222+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:04:55.1422544+00:00"
 }

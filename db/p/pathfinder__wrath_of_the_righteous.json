@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3194,9 +3194,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10521,
+  "EOS_Progressed": 10522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9109,6 +9109,11 @@
       "Time": "2023-07-23T21:04:28.6328103+00:00",
       "NumProgressed": 10521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T22:04:48.5707085+00:00",
+      "NumProgressed": 10522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9120,7 +9125,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "02_BurningCity",
@@ -9144,7 +9149,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9550,9 +9555,9 @@
       "ID": "56_GetToad",
       "SetID": "989of5o",
       "Name": "Get the Toad",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 421
     },
     {
       "ID": "57_PathOfDevil",
@@ -10047,21 +10052,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9303,
+      "Progressed": 9304,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10521,
+      "Progressed": 10522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-23T08:58:38.62203+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:04:28.6328098+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:04:48.570708+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:58:52.2085779+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:04:28.6329686+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:58:45.6214744+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:04:48.5708846+00:00"
 }

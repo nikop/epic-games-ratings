@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -78,9 +78,9 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Nocturnal_Achivement_11_FireShrine",
@@ -102,9 +102,9 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -158,9 +158,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -172,8 +172,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:04:26.1310209+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:04:46.0412407+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.2949187+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:57:23.7186687+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:04:26.1310292+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:57:23.0994478+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:04:46.0412511+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -598,9 +598,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11264,
+  "EOS_Progressed": 11266,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7153,6 +7153,11 @@
       "Time": "2023-07-23T21:06:28.2772849+00:00",
       "NumProgressed": 11264,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-23T22:06:34.1084812+00:00",
+      "NumProgressed": 11266,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7164,7 +7169,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9124
+      "UsersEstimate": 9125
     },
     {
       "ID": "ACH02",
@@ -7180,7 +7185,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH04",
@@ -7220,7 +7225,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "ACH09",
@@ -7268,7 +7273,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "ACH15",
@@ -7284,7 +7289,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH17",
@@ -7338,9 +7343,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2816
     },
     {
       "ID": "ACH24",
@@ -7370,9 +7375,9 @@
       "ID": "ACH27",
       "SetID": "4ck5mbe",
       "Name": "Assassin",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH28",
@@ -7443,7 +7448,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11264,
+      "Progressed": 11266,
       "Completed": 31
     }
   ],
@@ -7451,8 +7456,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-23T04:01:01.6778671+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:06:28.2772844+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:06:34.1084806+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-23T21:00:36.4097219+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:06:28.2773335+00:00"
+  "LastUpdate_Ratings": "2023-07-23T22:00:26.124802+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:06:34.1085389+00:00"
 }

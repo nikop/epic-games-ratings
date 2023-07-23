@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6792,
+  "EOS_Progressed": 6793,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4859,6 +4859,11 @@
       "Time": "2023-07-23T16:04:06.7782561+00:00",
       "NumProgressed": 6792,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-23T22:04:03.1082579+00:00",
+      "NumProgressed": 6793,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4886,7 +4891,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -4974,7 +4979,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "LIBERATOR",
@@ -5037,7 +5042,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6792,
+      "Progressed": 6793,
       "Completed": 29
     }
   ],
@@ -5045,8 +5050,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-23T21:03:10.9727267+00:00",
+  "LastChanged_Achievements": "2023-07-23T22:04:03.1082574+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:58:23.7952062+00:00",
-  "LastUpdate_Achievements": "2023-07-23T21:03:10.9727663+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:58:21.238637+00:00",
+  "LastUpdate_Achievements": "2023-07-23T22:04:03.1082967+00:00"
 }

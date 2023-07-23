@@ -11,7 +11,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 2.00% | ~117 |
 | Caught in the Act | 2.00% | ~117 |
 | Katherine | 2.00% | ~117 |
-| Life Found a Way | 2.00% | ~57 |
+| Life Found a Way | 2.00% | ~58 |
 | Relentless | 2.00% | ~117 |
 | If at First You Don't Succeed... | 2.00% | ~117 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~58 |
@@ -28,7 +28,7 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
 | Casanova | 0.40% | ~23 |
-| It Smells Like Roses | 0.40% | ~11 |
+| It Smells Like Roses | 0.40% | ~12 |
 | Now It's a Party! | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Crush | 0.40% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,834 (Ranked 134)  
+Progressed: 5,837 (Ranked 134)  
 Completed: 3 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 3 (0.05%) (Ranked 204)
 | 2023-07-20 | 5,764 | 3 |
 | 2023-07-21 | 5,798 | 3 |
 | 2023-07-22 | 5,818 | 3 |
-| 2023-07-23 | 5,834 | 3 |
+| 2023-07-23 | 5,837 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
