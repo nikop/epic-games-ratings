@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.48% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.67% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
 | 4 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -18,9 +18,9 @@
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 17 | [Remains](games/r/remains.md) | 11.11% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.89% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.49% |
+| 21 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.43% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 10.00% |
@@ -35,7 +35,7 @@
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.80% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.71% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.65% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.58% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.57% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -72,10 +72,10 @@
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
-| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
+| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.41% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
-| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.20% |
+| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.03% |
@@ -507,4 +507,4 @@
 | 240 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 240 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 240 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,933 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,934 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
