@@ -2,20 +2,20 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -1358,18 +1358,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 1778,
       "NumberOfAwardsMax": 1357
+    },
+    {
+      "Time": "2023-07-23T02:07:56.4728064+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1780,
+      "NumberOfAwardsMax": 1359
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1778,
-  "NumberOfAwardsMax": 1357,
+  "NumberOfAwards": 1780,
+  "NumberOfAwardsMax": 1359,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1357
+      "Count": 1359
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1456,8 +1462,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-07-22T17:59:23.7949074+00:00",
+  "LastChanged": "2023-07-23T02:07:56.4728061+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:45.6134623+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:59:14.6712082+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:00:33.0228836+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:07:56.4728069+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:10:00.654299+00:00"
 }

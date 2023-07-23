@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,522 |
-| Tutti Eroi! | 54.00% | ~3,458 |
-| You Shall Not Pass | 53.00% | ~3,394 |
-| Avanti Savoia! | 47.00% | ~3,010 |
-| Mamma Mia! | 37.00% | ~2,369 |
-| Conrad von Hotzensocks | 36.00% | ~2,305 |
-| Gabriele D'Annunzio | 33.00% | ~2,113 |
-| Silver Lining | 29.00% | ~1,857 |
+| Peak Performance | 55.00% | ~3,523 |
+| Tutti Eroi! | 54.00% | ~3,459 |
+| You Shall Not Pass | 53.00% | ~3,395 |
+| Avanti Savoia! | 47.00% | ~3,011 |
+| Mamma Mia! | 37.00% | ~2,370 |
+| Conrad von Hotzensocks | 36.00% | ~2,306 |
+| Gabriele D'Annunzio | 33.00% | ~2,114 |
+| Silver Lining | 29.00% | ~1,858 |
 | Aurelio Baruzzi | 23.00% | ~1,473 |
 | Veni Vidi Vici | 22.00% | ~1,409 |
 | Decimation | 21.00% | ~1,345 |
@@ -27,14 +27,14 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 14.00% | ~897 |
 | Uomo Universale | 14.00% | ~897 |
 | Shaken, Not Stirred | 13.00% | ~833 |
-| Die Bosniaken Kommen! | 12.00% | ~768 |
-| Machiavelli | 12.00% | ~768 |
-| Dante's Inferno | 11.00% | ~704 |
-| The Devil's Paintbrush | 11.00% | ~704 |
-| I Have the High Ground | 10.00% | ~640 |
-| Millenial | 10.00% | ~640 |
-| The Show Must Go On | 9.00% | ~576 |
-| Tosca | 9.00% | ~576 |
+| Die Bosniaken Kommen! | 12.00% | ~769 |
+| Machiavelli | 12.00% | ~769 |
+| Dante's Inferno | 11.00% | ~705 |
+| The Devil's Paintbrush | 11.00% | ~705 |
+| I Have the High Ground | 10.00% | ~641 |
+| Millenial | 10.00% | ~641 |
+| The Show Must Go On | 9.00% | ~577 |
+| Tosca | 9.00% | ~577 |
 | 12th Bottle of the Isonzo | 6.00% | ~384 |
 | Cercatore d'Oro | 6.00% | ~384 |
 | The Enlightment | 6.00% | ~384 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,404 (Ranked 132)  
+Progressed: 6,406 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 8 (0.12%) (Ranked 181)
 | 2023-07-20 | 6,376 | 8 |
 | 2023-07-21 | 6,391 | 8 |
 | 2023-07-22 | 6,404 | 8 |
+| 2023-07-23 | 6,406 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 347)  

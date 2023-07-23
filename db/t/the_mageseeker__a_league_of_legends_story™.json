@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,10 +124,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2458,
+  "EOS_Progressed": 2459,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 19,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -3104,6 +3104,11 @@
       "Time": "2023-07-22T18:02:20.0571074+00:00",
       "NumProgressed": 2458,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T02:10:32.3625918+00:00",
+      "NumProgressed": 2459,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3155,7 +3160,7 @@
       "Name": "Hijack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3179,7 +3184,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3195,7 +3200,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3235,7 +3240,7 @@
       "Name": "Past trauma",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3299,7 +3304,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3339,7 +3344,7 @@
       "Name": "Thornbarrow",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3355,7 +3360,7 @@
       "Name": "Devineur",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3419,7 +3424,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3491,7 +3496,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3531,14 +3536,14 @@
       "Name": "Petricite Burst",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2458,
+      "Progressed": 2459,
       "Completed": 5
     }
   ],
@@ -3546,8 +3551,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:02:15.4019698+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:10:32.3625913+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.6045912+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:57:57.501379+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:02:15.4020371+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:06:04.6573453+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:10:32.3627026+00:00"
 }

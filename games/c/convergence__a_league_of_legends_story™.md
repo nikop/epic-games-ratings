@@ -7,8 +7,8 @@
 | Time Heals All Wounds | 20.00% | ~156 |
 | The Mysterious Stranger | 17.00% | ~132 |
 | Rail Rat | 17.00% | ~132 |
-| The Prince in Heels | 16.00% | ~124 |
-| The Steel Shadow | 15.00% | ~117 |
+| The Steel Shadow | 16.00% | ~125 |
+| The Prince in Heels | 16.00% | ~125 |
 | Make Up For Lost Time | 15.00% | ~117 |
 | Time Flies | 15.00% | ~117 |
 | The Harder They Fall | 15.00% | ~117 |
@@ -39,9 +39,9 @@
 | Syron for Hope | 8.00% | ~62 |
 | Theater Explorer | 8.00% | ~62 |
 | Ask Questions Later | 8.00% | ~62 |
-| Cultivair Explorer | 7.00% | ~54 |
-| Factorywood Explorer | 7.00% | ~54 |
-| Fairgrounds Explorer | 7.00% | ~54 |
+| Cultivair Explorer | 7.00% | ~55 |
+| Factorywood Explorer | 7.00% | ~55 |
+| Fairgrounds Explorer | 7.00% | ~55 |
 | Corin Goes Home | 6.00% | ~47 |
 | Sartorialist | 6.00% | ~47 |
 | Entresol Explorer | 6.00% | ~47 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778 (Ranked 199)  
+Progressed: 779 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,3 +118,4 @@ Completed: 4 (0.51%) (Ranked 128)
 | 2023-07-20 | 765 | 4 |
 | 2023-07-21 | 773 | 4 |
 | 2023-07-22 | 778 | 4 |
+| 2023-07-23 | 779 | 4 |

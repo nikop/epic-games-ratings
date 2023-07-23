@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.20% | ~26 |
 | Mason | 0.20% | ~26 |
 | Noble | 0.20% | ~26 |
+| Pioneer | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
 | Friendly Family | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
@@ -27,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
+| Trade Caravan | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
@@ -71,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
-| Pioneer | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
-| Trade Caravan | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |

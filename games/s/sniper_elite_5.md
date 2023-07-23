@@ -19,18 +19,18 @@ Rating: 4.40 (Ranked 690)
 | Change the Channel | 3.00% | ~100 |
 | Taking it back | 3.00% | ~100 |
 | Target America | 3.00% | ~100 |
-| No Stone Unturned | 2.00% | ~66 |
-| Opposing Force | 2.00% | ~66 |
-| Organ Grinder | 2.00% | ~66 |
-| Gunslinger | 2.00% | ~66 |
-| Skirmisher | 2.00% | ~66 |
-| Set Europe Ablaze | 2.00% | ~66 |
-| My Little Friend | 2.00% | ~66 |
-| Explosive Efficiency | 2.00% | ~66 |
-| Der Geist | 2.00% | ~66 |
-| Close Quarters | 2.00% | ~66 |
-| Snake in the Grass | 2.00% | ~66 |
-| Brains of the Operation | 2.00% | ~66 |
+| No Stone Unturned | 2.00% | ~67 |
+| Opposing Force | 2.00% | ~67 |
+| Organ Grinder | 2.00% | ~67 |
+| Gunslinger | 2.00% | ~67 |
+| Skirmisher | 2.00% | ~67 |
+| Set Europe Ablaze | 2.00% | ~67 |
+| My Little Friend | 2.00% | ~67 |
+| Explosive Efficiency | 2.00% | ~67 |
+| Der Geist | 2.00% | ~67 |
+| Close Quarters | 2.00% | ~67 |
+| Snake in the Grass | 2.00% | ~67 |
+| Brains of the Operation | 2.00% | ~67 |
 | Enemy at the Gates | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 690)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325 (Ranked 148)  
+Progressed: 3,329 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 9 (0.27%) (Ranked 156)
 | 2023-07-20 | 3,314 | 9 |
 | 2023-07-21 | 3,319 | 9 |
 | 2023-07-22 | 3,325 | 9 |
+| 2023-07-23 | 3,329 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

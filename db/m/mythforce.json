@@ -5,10 +5,10 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -793,6 +793,11 @@
       "Time": "2023-07-22T23:02:46.0937711+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T02:11:01.9696487+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -805,7 +810,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -835,9 +840,9 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -853,7 +858,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -861,15 +866,15 @@
       "Name": "First Strike",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -877,7 +882,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -893,7 +898,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -923,9 +928,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -957,7 +962,7 @@
       "Name": "Spending Spree",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -973,7 +978,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -988,15 +993,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:03:16.0686135+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:11:01.9696481+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:58:37.9738925+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:03:16.0686317+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:07:09.5026374+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:11:01.9696696+00:00"
 }

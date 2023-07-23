@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-07-22T18:03:29.9150121+00:00",
       "NumProgressed": 778,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T02:11:10.4639645+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1731,9 +1736,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1805,7 +1810,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "EntresolChests1",
@@ -1829,7 +1834,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FairgroundsChests1",
@@ -1837,7 +1842,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2005,7 +2010,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "RewindDamage1",
@@ -2148,14 +2153,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:03:22.5441026+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:11:10.4639638+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:59:28.0500768+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:03:22.5441635+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:08:19.7564237+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:11:10.4640342+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -251,9 +251,9 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_10_STAGES_ENDLESS",
@@ -339,9 +339,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -419,9 +419,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -460,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:05:06.8076042+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:13:39.7684036+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.6415792+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:58:33.3264199+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:05:06.8076277+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:07:02.5956119+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:13:39.768429+00:00"
 }

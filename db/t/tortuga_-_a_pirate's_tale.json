@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15912,
+  "EOS_Progressed": 15913,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -3210,6 +3210,11 @@
       "Time": "2023-07-22T23:03:58.150343+00:00",
       "NumProgressed": 15912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T02:12:14.6126472+00:00",
+      "NumProgressed": 15913,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3221,7 +3226,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15116
+      "UsersEstimate": 15117
     },
     {
       "ID": "ACH001",
@@ -3229,7 +3234,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13843
+      "UsersEstimate": 13844
     },
     {
       "ID": "ACH0010",
@@ -3405,7 +3410,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "ACH008",
@@ -3428,7 +3433,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15912,
+      "Progressed": 15913,
       "Completed": 0
     }
   ],
@@ -3436,8 +3441,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-07-15T00:01:25.4338441+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:04:07.1214081+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:12:14.6126467+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.9125867+00:00",
-  "LastUpdate_Ratings": "2023-07-23T00:00:10.6221502+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:04:07.1214454+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:09:25.2572877+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:12:14.612705+00:00"
 }

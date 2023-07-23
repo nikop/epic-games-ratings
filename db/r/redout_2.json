@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-07-22T22:03:15.5459445+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T02:10:40.1717749+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -700,9 +705,9 @@
       "ID": "ALLMODULESA",
       "SetID": "3dh70f3",
       "Name": "A-mazing!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 22
     },
     {
       "ID": "ALLMODULESB",
@@ -814,15 +819,15 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 130
     },
     {
       "ID": "CAREERCLASSA",
@@ -918,7 +923,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FLYLONG",
@@ -998,15 +1003,15 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 184
     },
     {
       "ID": "ONEPLATINUM",
@@ -1022,7 +1027,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1101,7 +1106,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1081,
       "Completed": 0
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:02:20.794599+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:10:40.1717743+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:48.2095913+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:58:25.2409685+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:02:20.7946594+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:06:48.8307144+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:10:40.171832+00:00"
 }

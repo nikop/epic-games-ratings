@@ -45,7 +45,7 @@
 | No Time To Relax | 0.60% | ~1 |
 | Survival Horror | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 279)  
+Progressed: 170 (Ranked 280)  
 Completed: 1 (0.59%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |

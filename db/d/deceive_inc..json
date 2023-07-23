@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7449,
+  "EOS_Progressed": 7450,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6098,6 +6098,11 @@
       "Time": "2023-07-22T23:02:29.6640807+00:00",
       "NumProgressed": 7449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T02:10:39.1129124+00:00",
+      "NumProgressed": 7450,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6109,7 +6114,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "0002",
@@ -6141,7 +6146,7 @@
       "Name": "Branch Manager",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "0006",
@@ -6261,7 +6266,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "0021",
@@ -6317,7 +6322,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "0028",
@@ -6333,7 +6338,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "0030",
@@ -6396,7 +6401,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7449,
+      "Progressed": 7450,
       "Completed": 1
     }
   ],
@@ -6404,8 +6409,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:02:20.0899535+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:10:39.1129118+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:59:45.468253+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:02:20.0900189+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:08:42.4051173+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:10:39.1130553+00:00"
 }

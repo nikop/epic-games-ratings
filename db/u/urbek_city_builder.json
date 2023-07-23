@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -772,6 +772,11 @@
       "Time": "2023-07-22T23:06:12.0191912+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T02:15:32.1400382+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1063,7 +1068,7 @@
       "Name": "I am very happy!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FELIZ_3",
@@ -1109,9 +1114,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1167,7 +1172,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1215,7 +1220,7 @@
       "Name": "Small town",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "POPULATION_2",
@@ -1239,7 +1244,7 @@
       "Name": "Rebel city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REBELDES_2",
@@ -1311,7 +1316,7 @@
       "Name": "Sport is the best thing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SPORTS_3",
@@ -1414,7 +1419,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
@@ -1422,8 +1427,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-23T00:06:16.6715705+00:00",
+  "LastChanged_Achievements": "2023-07-23T02:15:32.1400377+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-22T23:59:04.0782873+00:00",
-  "LastUpdate_Achievements": "2023-07-23T00:06:16.6716659+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:07:42.9732245+00:00",
+  "LastUpdate_Achievements": "2023-07-23T02:15:32.1401264+00:00"
 }

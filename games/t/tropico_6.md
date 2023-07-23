@@ -6,11 +6,11 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,200 |
-| Un-Lonely Island | 48.00% | ~2,021 |
-| The Beginning of a Servantship | 45.00% | ~1,894 |
-| Trade Is My Trait | 37.00% | ~1,558 |
-| Number 18 | 24.00% | ~1,010 |
+| Just One...More...Term... | 76.00% | ~3,202 |
+| Un-Lonely Island | 48.00% | ~2,022 |
+| The Beginning of a Servantship | 45.00% | ~1,896 |
+| Trade Is My Trait | 37.00% | ~1,559 |
+| Number 18 | 24.00% | ~1,011 |
 | We Don't Have Time For That | 19.00% | ~800 |
 | The Governator | 18.00% | ~758 |
 | The Legend of Langostino | 17.00% | ~716 |
@@ -30,9 +30,9 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 6.00% | ~253 |
 | Beware The Betman | 6.00% | ~253 |
 | Watch The World Burn | 6.00% | ~253 |
-| Viva Tropico! | 5.00% | ~210 |
-| Fairy Tale Come True | 5.00% | ~210 |
-| Apocalypso | 4.00% | ~168 |
+| Viva Tropico! | 5.00% | ~211 |
+| Fairy Tale Come True | 5.00% | ~211 |
+| Apocalypso | 4.00% | ~169 |
 | Been there, Done That | 3.00% | ~126 |
 | Narcissist | 3.00% | ~126 |
 | Promising Endeavors | 3.00% | ~126 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~84 |
 | Curse of the Mummy | 2.00% | ~84 |
 | From Knight to Little Duck | 1.00% | ~42 |
-| Survivor | 1.00% | ~42 |
+| Survivor | 0.90% | ~38 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,210 (Ranked 143)  
+Progressed: 4,213 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 2 (0.05%) (Ranked 204)
 | 2023-07-20 | 4,164 | 2 |
 | 2023-07-21 | 4,189 | 2 |
 | 2023-07-22 | 4,210 | 2 |
+| 2023-07-23 | 4,213 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 338)  
 Sum: 669 (Ranked 276)  

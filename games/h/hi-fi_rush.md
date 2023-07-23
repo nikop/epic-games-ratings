@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 3.00% | ~105 |
-| Feeling the beat! | 3.00% | ~105 |
+| Start with a bang! | 3.00% | ~106 |
+| Feeling the beat! | 3.00% | ~106 |
 | NOW we got a kickass hideout! | 3.00% | ~61 |
 | Cream of the Crop | 2.00% | ~70 |
 | This will cost you big time | 2.00% | ~70 |
@@ -35,8 +35,8 @@ Rating: 4.87 (Ranked 24)
 | Beat-hit mania | 0.90% | ~32 |
 | That's a lot of junk metal… | 0.90% | ~32 |
 | There's such a thing as TOO helpful | 0.90% | ~32 |
+| Wanna hear my playlist? | 0.70% | ~25 |
 | Chip-tuned | 0.60% | ~21 |
-| Wanna hear my playlist? | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
 | Check out my moves! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,516 (Ranked 146)  
+Progressed: 3,520 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
+| 2023-07-23 | 3,520 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

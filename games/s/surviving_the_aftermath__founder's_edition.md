@@ -1,18 +1,18 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 601)  
+Rating: 4.47 (Ranked 600)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,398 |
+| First Step | 71.00% | ~5,399 |
 | Leader | 60.00% | ~4,562 |
 | Explorer | 53.00% | ~4,030 |
 | Healer | 52.00% | ~3,954 |
-| Aspiring Inventor | 44.00% | ~3,345 |
-| Adventurer | 41.00% | ~3,117 |
-| Famous Healer | 38.00% | ~2,889 |
+| Aspiring Inventor | 44.00% | ~3,346 |
+| Adventurer | 41.00% | ~3,118 |
+| Famous Healer | 38.00% | ~2,890 |
 | Local Leader | 35.00% | ~2,661 |
 | Famous Explorer | 34.00% | ~2,585 |
 | New Opportunities | 34.00% | ~2,585 |
@@ -34,11 +34,11 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,445 |
 | Big Game Hunter | 17.00% | ~1,293 |
 | Spreading Influence | 17.00% | ~1,293 |
-| Friendly | 16.00% | ~1,216 |
-| Around the World | 16.00% | ~1,216 |
-| Bookworm | 15.00% | ~1,140 |
-| Famous Adventurer | 14.00% | ~1,064 |
-| Prepared for Anything | 13.00% | ~988 |
+| Friendly | 16.00% | ~1,217 |
+| Around the World | 16.00% | ~1,217 |
+| Bookworm | 15.00% | ~1,141 |
+| Famous Adventurer | 14.00% | ~1,065 |
+| Prepared for Anything | 13.00% | ~989 |
 | Big Catastrofan | 12.00% | ~912 |
 | It's a Finnish Thing | 10.00% | ~760 |
 | Sky Burial | 9.00% | ~684 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,603 (Ranked 125)  
+Progressed: 7,604 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,11 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 7,533 | 0 |
 | 2023-07-21 | 7,568 | 0 |
 | 2023-07-22 | 7,603 | 0 |
+| 2023-07-23 | 7,604 | 0 |
 ## Awards
-Max (Extremely Fun): 99  (Ranked 332)  
+Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 681 (Ranked 273)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
