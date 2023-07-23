@@ -11,14 +11,14 @@
 | S is for Scrumptious | 17.00% | ~82 |
 | French Flair | 16.00% | ~77 |
 | Next Level Cuisine | 11.00% | ~53 |
-| Haute Cuisine | 9.00% | ~43 |
+| Haute Cuisine | 9.00% | ~44 |
 | Italian Style | 7.00% | ~34 |
 | Sous-Chef | 6.00% | ~29 |
 | Well-Stocked Kitchen | 5.00% | ~24 |
 | Culinary Arts | 4.00% | ~19 |
 | Perfectionist | 4.00% | ~19 |
 | Rolling in Dough | 4.00% | ~19 |
-| Leaning Tower of Pizza | 3.00% | ~14 |
+| Leaning Tower of Pizza | 3.00% | ~15 |
 | The Bigger the Better | 0.60% | ~3 |
 | Chef, Yes Chef! | 0.40% | ~2 |
 | Teamwork | 0.20% | ~1 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483 (Ranked 218)  
+Progressed: 484 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 467 | 0 |
 | 2023-07-21 | 470 | 0 |
 | 2023-07-22 | 481 | 0 |
-| 2023-07-23 | 483 | 0 |
+| 2023-07-23 | 484 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

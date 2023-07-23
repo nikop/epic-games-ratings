@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -2426,6 +2426,11 @@
       "Time": "2023-07-23T15:04:01.3455758+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T17:04:29.2438998+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2453,7 +2458,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2501,7 +2506,7 @@
       "Name": "Chaos Theory",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "COMMANDO",
@@ -2541,7 +2546,7 @@
       "Name": "Ganglord",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "DEAD_DICK",
@@ -2557,7 +2562,7 @@
       "Name": "Jarhead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2573,7 +2578,7 @@
       "Name": "Dr Jones",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -2581,7 +2586,7 @@
       "Name": "Editor Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ENDGAME",
@@ -2613,7 +2618,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2621,7 +2626,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2653,7 +2658,7 @@
       "Name": "Giant Killer",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "GOAL",
@@ -2669,7 +2674,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2685,7 +2690,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "INFILTRATOR",
@@ -2693,7 +2698,7 @@
       "Name": "Infiltrator",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "LUMBERJACK",
@@ -2739,9 +2744,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 983
     },
     {
       "ID": "RECYCLER",
@@ -2795,9 +2800,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 192
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2844,7 +2849,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 0
     }
   ],
@@ -2852,8 +2857,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:04:00.8017254+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:04:29.2438993+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:46.5314736+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:04:00.8017698+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:25.8368543+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:04:29.2439543+00:00"
 }

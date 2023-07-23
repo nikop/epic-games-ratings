@@ -13,13 +13,13 @@
 | Green Energy | 5.00% | ~3 |
 | Good payer | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
+| Jantine: the Misfortunes of Evil | 2.00% | ~1 |
 | Healing | 2.00% | ~1 |
 | There's something in those trees | 2.00% | ~1 |
 | Self-sufficient | 2.00% | ~1 |
 | Medicine Tycoon | 2.00% | ~1 |
 | Ammo Tycoon | 2.00% | ~1 |
 | Great Producer | 2.00% | ~1 |
-| Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |

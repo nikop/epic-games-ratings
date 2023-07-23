@@ -2,7 +2,7 @@
   "ID": "b5e9e4c391cb41cda4e5c974e9b8835f",
   "Name": "Journey Into Darkness",
   "ProductSlug": "journey-into-darkness-2b6bf8",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T09:04:03.0342769+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:04:07.5205742+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:04:38.2792707+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:23.1028344+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:59:13.493867+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:04:07.5205766+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:00:02.1407808+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:04:38.2792737+00:00"
 }

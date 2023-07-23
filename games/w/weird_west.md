@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,517 |
-| Self-Improvement | 72.00% | ~1,241 |
+| Unforgiven | 88.00% | ~1,518 |
+| Self-Improvement | 72.00% | ~1,242 |
 | Perky | 65.00% | ~1,121 |
-| Let’s Ride | 60.00% | ~1,034 |
+| Let’s Ride | 60.00% | ~1,035 |
 | Welcome to the Weird West | 57.00% | ~983 |
-| Dead or Alive | 56.00% | ~965 |
+| Dead or Alive | 55.00% | ~949 |
 | Full House | 36.00% | ~621 |
-| Off the Trail | 33.00% | ~569 |
+| Off the Trail | 34.00% | ~586 |
 | Justice Served | 29.00% | ~500 |
-| Chain Reaction | 27.00% | ~465 |
+| Chain Reaction | 27.00% | ~466 |
 | Through Their Eyes | 26.00% | ~448 |
 | Rain of Death | 25.00% | ~431 |
 | Scholar | 25.00% | ~431 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Do Not Pass Go… | 7.00% | ~121 |
 | Getting the Gang Back Together | 7.00% | ~121 |
 | Monster Hunter | 7.00% | ~121 |
-| Healing Old Wounds | 6.00% | ~103 |
-| Who You Gonna Call? | 6.00% | ~103 |
+| Healing Old Wounds | 6.00% | ~104 |
+| Who You Gonna Call? | 6.00% | ~104 |
 | This Is Sparta | 5.00% | ~86 |
 | What’s in the Box? | 5.00% | ~86 |
 | Ghost Town | 3.00% | ~52 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 169)  
+Progressed: 1,725 (Ranked 169)  
 Completed: 3 (0.17%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 3 (0.17%) (Ranked 170)
 | 2023-07-20 | 1,699 | 3 |
 | 2023-07-21 | 1,711 | 3 |
 | 2023-07-22 | 1,718 | 3 |
-| 2023-07-23 | 1,724 | 3 |
+| 2023-07-23 | 1,725 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 476)  
 Sum: 24 (Ranked 481)  

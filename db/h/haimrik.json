@@ -2,7 +2,7 @@
   "ID": "8fd64b07b13d4979b019bfd5b8d4f18b",
   "Name": "Haimrik",
   "ProductSlug": "haimrik-5f59a7",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:48.6918785+00:00",
   "LastChanged": "2023-03-31T05:58:48.6918786+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:36.6923807+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:32.8705705+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:05:57.383343+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:06.376473+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:07:06.9964486+00:00"
 }

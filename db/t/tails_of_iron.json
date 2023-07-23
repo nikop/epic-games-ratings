@@ -2304,9 +2304,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 928
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2335,8 +2335,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:04:35.7868664+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:05:17.536174+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:50.8324358+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:04:35.7868923+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:33.2688626+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:05:17.5362284+00:00"
 }

@@ -10,6 +10,7 @@
 | The Steel Shadow | 16.00% | ~125 |
 | Make Up For Lost Time | 16.00% | ~125 |
 | The Prince in Heels | 16.00% | ~125 |
+| Immaculate Aim | 16.00% | ~125 |
 | The Brass Boss | 16.00% | ~125 |
 | Time Flies | 15.00% | ~117 |
 | The Harder They Fall | 15.00% | ~117 |
@@ -18,7 +19,7 @@
 | The Wicked Twins | 15.00% | ~117 |
 | Fast Learner | 15.00% | ~117 |
 | Immaculate Aim | 15.00% | ~117 |
-| Immaculate Aim | 15.00% | ~117 |
+| Like Clockwork | 14.00% | ~110 |
 | The Betrayer | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | The Loose Cannon | 14.00% | ~110 |
@@ -29,7 +30,6 @@
 | The Family Fortune | 14.00% | ~110 |
 | Treasure Trove | 13.00% | ~102 |
 | Right On Time | 13.00% | ~102 |
-| Like Clockwork | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |
 | Good Neighbor | 10.00% | ~78 |

@@ -401,9 +401,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -722,8 +722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:01:07.6493824+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:02:44.4846534+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:40.8416379+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:00:07.9367002+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:01:07.6494195+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:01:22.9317028+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:02:44.4846866+00:00"
 }

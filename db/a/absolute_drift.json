@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -436,10 +436,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1531063,
-  "EOS_Completed": 649,
-  "EOS_NewPlayers": 1324,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 1531072,
+  "EOS_Completed": 650,
+  "EOS_NewPlayers": 1325,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -10656,6 +10656,11 @@
       "Time": "2023-07-23T16:05:56.639521+00:00",
       "NumProgressed": 1531063,
       "NumCompleted": 649
+    },
+    {
+      "Time": "2023-07-23T17:07:05.9891281+00:00",
+      "NumProgressed": 1531072,
+      "NumCompleted": 650
     }
   ],
   "TotalAchievements": 20,
@@ -10675,7 +10680,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107174
+      "UsersEstimate": 107175
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -10707,7 +10712,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10717
+      "UsersEstimate": 10718
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -10731,7 +10736,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10717
+      "UsersEstimate": 10718
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -10763,7 +10768,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153106
+      "UsersEstimate": 153107
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -10811,7 +10816,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76553
+      "UsersEstimate": 76554
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -10826,15 +10831,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1531063,
-      "Completed": 649
+      "Progressed": 1531072,
+      "Completed": 650
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:05:56.6395207+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:07:05.9891277+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.9510674+00:00",
-  "LastUpdate_Ratings": "2023-07-23T16:00:27.3575812+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:05:56.6395797+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:01:49.1499372+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:07:05.9891804+00:00"
 }

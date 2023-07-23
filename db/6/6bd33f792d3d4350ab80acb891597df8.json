@@ -144,9 +144,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -200,9 +200,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 82,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:05:02.9841133+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:05:56.1913676+00:00",
   "LastUpdate_AppInfo": "2023-07-18T11:56:59.8645708+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:57:27.3377064+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:05:02.9841304+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:57:40.6316125+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:05:56.1913845+00:00"
 }

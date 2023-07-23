@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13046,
+  "EOS_Progressed": 13048,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8362,6 +8362,11 @@
       "Time": "2023-07-23T15:05:28.166319+00:00",
       "NumProgressed": 13046,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T17:06:27.3423305+00:00",
+      "NumProgressed": 13048,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9051,9 +9056,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -9811,9 +9816,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -10123,9 +10128,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -10740,21 +10745,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13046,
+      "Progressed": 13048,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13046,
+      "Progressed": 13048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:05:26.2376606+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:06:27.3423301+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:30.5899097+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:05:26.2384253+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:02.9434603+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:06:27.3431183+00:00"
 }

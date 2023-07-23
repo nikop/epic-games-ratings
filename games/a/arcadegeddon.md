@@ -6,22 +6,22 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~7,368 |
-| Photogenic | 88.00% | ~7,048 |
+| Let's Get This Party Started | 92.00% | ~7,369 |
+| Photogenic | 88.00% | ~7,049 |
 | Plug It In | 85.00% | ~6,808 |
 | Surge Gauntlet Jockey | 85.00% | ~6,808 |
-| Adventure Time | 80.00% | ~6,407 |
-| Playing With Power | 78.00% | ~6,247 |
-| Coup d'Etat | 59.00% | ~4,725 |
-| You're Fired | 58.00% | ~4,645 |
-| Get Furious | 56.00% | ~4,485 |
-| Gunplay And Cosplay | 55.00% | ~4,405 |
-| Hacks In Stacks | 55.00% | ~4,405 |
-| Meching Enemies | 49.00% | ~3,924 |
+| Adventure Time | 80.00% | ~6,408 |
+| Playing With Power | 78.00% | ~6,248 |
+| Coup d'Etat | 59.00% | ~4,726 |
+| You're Fired | 58.00% | ~4,646 |
+| Get Furious | 56.00% | ~4,486 |
+| Gunplay And Cosplay | 55.00% | ~4,406 |
+| Hacks In Stacks | 55.00% | ~4,406 |
+| Meching Enemies | 49.00% | ~3,925 |
 | Ticket Toddler | 45.00% | ~3,604 |
 | Booty Bashing | 42.00% | ~3,364 |
-| Field Medic | 38.00% | ~3,043 |
-| Here Comes a New Challenger | 37.00% | ~2,963 |
+| Field Medic | 38.00% | ~3,044 |
+| Here Comes a New Challenger | 37.00% | ~2,964 |
 | Rapid Response | 33.00% | ~2,643 |
 | Surge Ahead | 31.00% | ~2,483 |
 | The Full Monty | 31.00% | ~2,483 |
@@ -29,7 +29,7 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 25.00% | ~2,002 |
 | Clips and Crits | 21.00% | ~1,682 |
 | Grey Goo | 18.00% | ~1,442 |
-| Boss of Bosses | 15.00% | ~1,201 |
+| Boss of Bosses | 15.00% | ~1,202 |
 | The Final Blow | 14.00% | ~1,121 |
 | To Be Continued | 13.00% | ~1,041 |
 | Light My Fire | 12.00% | ~961 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~32 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,009 (Ranked 122)  
+Progressed: 8,010 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 7,798 | 0 |
 | 2023-07-21 | 7,874 | 0 |
 | 2023-07-22 | 7,959 | 0 |
-| 2023-07-23 | 8,009 | 0 |
+| 2023-07-23 | 8,010 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 383)  
 Sum: 454 (Ranked 303)  

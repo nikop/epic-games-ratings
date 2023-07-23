@@ -27,10 +27,10 @@ Rating: 4.55 (Ranked 480)
 | Sightseeing | 5.00% | ~145 |
 | Necessary Enhancement | 5.00% | ~145 |
 | Convenient Transport | 5.00% | ~145 |
+| Oats | 4.00% | ~116 |
 | Access Granted | 4.00% | ~116 |
 | All in Good Health | 4.00% | ~116 |
 | From the Past | 4.00% | ~116 |
-| Oats | 3.00% | ~87 |
 | What They Hide From Us | 3.00% | ~87 |
 | ...  in a finite world | 3.00% | ~87 |
 | Sustainable Energy | 3.00% | ~87 |

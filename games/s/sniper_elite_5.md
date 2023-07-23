@@ -54,11 +54,11 @@ Rating: 4.40 (Ranked 690)
 | Ghost of Falaise | 0.50% | ~16 |
 | Eagle Eyed | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
+| Shoot for the Moon | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
 | Up close and personal | 0.30% | ~10 |
-| Shoot for the Moon | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |

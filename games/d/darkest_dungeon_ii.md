@@ -6,54 +6,54 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~103,900 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~78,204 |
-| A Clear Conscience | 69.00% | ~77,087 |
-| Unleash Hell | 68.00% | ~75,970 |
-| Unfulfilled Desires | 68.00% | ~75,970 |
-| Funny Guy | 67.00% | ~74,852 |
-| Unshackled | 67.00% | ~74,852 |
-| Long Live the King | 66.00% | ~73,735 |
-| Resurrection | 62.00% | ~69,266 |
-| Wyrdly Reconstructed | 62.00% | ~69,266 |
-| Boxcar Kid | 60.00% | ~67,032 |
-| To Grandmother's House | 60.00% | ~67,032 |
-| Rush Hour | 59.00% | ~65,915 |
-| Serenity Now! | 52.00% | ~58,094 |
-| Hope Rekindled | 50.00% | ~55,860 |
-| Ramble On | 48.00% | ~53,626 |
-| Nope | 47.00% | ~52,508 |
-| This Looks Familiar | 38.00% | ~42,454 |
-| Now Stay Dead | 36.00% | ~40,219 |
-| Harvest Festival | 36.00% | ~40,219 |
-| Hot Air | 36.00% | ~40,219 |
-| Merry Time | 35.00% | ~39,102 |
-| Creep and Sleep | 32.00% | ~35,750 |
-| Overdue Notice | 31.00% | ~34,633 |
-| Whale | 31.00% | ~34,633 |
-| Banishment | 30.00% | ~33,516 |
-| FNG | 28.00% | ~31,282 |
-| Autodidact | 24.00% | ~26,813 |
-| Predator | 23.00% | ~25,696 |
-| Reverse Banditry | 23.00% | ~25,696 |
-| Meat and Greet | 22.00% | ~24,578 |
-| Spelunker | 21.00% | ~23,461 |
-| Road Trip | 21.00% | ~23,461 |
-| Eyes Up | 20.00% | ~22,344 |
-| It Rings a Bell | 19.00% | ~21,227 |
-| Escape from the Black Hole | 17.00% | ~18,992 |
-| It Happens | 17.00% | ~18,992 |
-| This Belongs in a Museum | 15.00% | ~16,758 |
-| Dissector | 15.00% | ~16,758 |
-| Handled | 15.00% | ~16,758 |
-| Catch and Decease | 14.00% | ~15,641 |
-| Not Today! | 12.00% | ~13,406 |
-| Deprogramming | 12.00% | ~13,406 |
-| Shrine of Reflection | 11.00% | ~12,289 |
+| A Place to Lay Your Head | 93.00% | ~103,904 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~78,208 |
+| A Clear Conscience | 69.00% | ~77,090 |
+| Unleash Hell | 68.00% | ~75,973 |
+| Unfulfilled Desires | 68.00% | ~75,973 |
+| Funny Guy | 67.00% | ~74,856 |
+| Unshackled | 67.00% | ~74,856 |
+| Long Live the King | 66.00% | ~73,738 |
+| Resurrection | 62.00% | ~69,270 |
+| Wyrdly Reconstructed | 62.00% | ~69,270 |
+| Boxcar Kid | 60.00% | ~67,035 |
+| To Grandmother's House | 60.00% | ~67,035 |
+| Rush Hour | 59.00% | ~65,918 |
+| Serenity Now! | 52.00% | ~58,097 |
+| Hope Rekindled | 50.00% | ~55,862 |
+| Ramble On | 48.00% | ~53,628 |
+| Nope | 47.00% | ~52,511 |
+| This Looks Familiar | 38.00% | ~42,456 |
+| Now Stay Dead | 36.00% | ~40,221 |
+| Harvest Festival | 36.00% | ~40,221 |
+| Hot Air | 36.00% | ~40,221 |
+| Merry Time | 35.00% | ~39,104 |
+| Creep and Sleep | 32.00% | ~35,752 |
+| Overdue Notice | 31.00% | ~34,635 |
+| Whale | 31.00% | ~34,635 |
+| Banishment | 30.00% | ~33,518 |
+| FNG | 28.00% | ~31,283 |
+| Autodidact | 24.00% | ~26,814 |
+| Predator | 23.00% | ~25,697 |
+| Reverse Banditry | 23.00% | ~25,697 |
+| Meat and Greet | 22.00% | ~24,580 |
+| Spelunker | 21.00% | ~23,462 |
+| Road Trip | 21.00% | ~23,462 |
+| Eyes Up | 20.00% | ~22,345 |
+| It Rings a Bell | 19.00% | ~21,228 |
+| Escape from the Black Hole | 17.00% | ~18,993 |
+| It Happens | 17.00% | ~18,993 |
+| This Belongs in a Museum | 15.00% | ~16,759 |
+| Dissector | 15.00% | ~16,759 |
+| Handled | 15.00% | ~16,759 |
+| Catch and Decease | 14.00% | ~15,642 |
+| Not Today! | 12.00% | ~13,407 |
+| Deprogramming | 12.00% | ~13,407 |
+| Shrine of Reflection | 11.00% | ~12,290 |
 | When You Want Something Done Right | 10.00% | ~11,172 |
 | Body of Work | 9.00% | ~10,055 |
 | Utopia | 8.00% | ~8,938 |
-| Hat Trick | 6.00% | ~6,703 |
+| Hat Trick | 6.00% | ~6,704 |
 | Ichthyophobic | 5.00% | ~5,586 |
 | No More Mouths to Feed | 5.00% | ~5,586 |
 | The World As It Was | 4.00% | ~4,469 |
@@ -63,7 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Pub Crawl | 1.00% | ~1,117 |
 | Eidetic | 1.00% | ~1,117 |
 | Grand Slam | 1.00% | ~1,117 |
-| Bacon Bits | 0.90% | ~1,005 |
+| Bacon Bits | 0.90% | ~1,006 |
 | Circle of Life | 0.70% | ~782 |
 | Tears in the Rain | 0.50% | ~559 |
 | The Clash | 0.20% | ~223 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~112 |
 | 20,000 Leagues Above the Sea | 0.10% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,720 (Ranked 66)  
+Progressed: 111,725 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1 (0.00%) (Ranked 240)
 | 2023-07-20 | 111,256 | 1 |
 | 2023-07-21 | 111,412 | 1 |
 | 2023-07-22 | 111,600 | 1 |
-| 2023-07-23 | 111,720 | 1 |
+| 2023-07-23 | 111,725 | 1 |
 ## Awards
 Max (Character Customization): 7,295  (Ranked 47)  
 Sum: 18,876 (Ranked 56)  

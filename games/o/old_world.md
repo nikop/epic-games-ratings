@@ -8,10 +8,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~130 |
 | The Great Mage | 0.60% | ~78 |
+| Play a Single Player Game | 0.50% | ~65 |
 | Explorer | 0.40% | ~52 |
 | Settler | 0.40% | ~52 |
 | Friendly Family | 0.40% | ~52 |
-| Play a Single Player Game | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
 | Able | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
@@ -31,11 +31,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
 | Warrior | 0.20% | ~26 |
+| Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Lighthouse | 0.20% | ~26 |
+| Necropolis | 0.20% | ~26 |
 | Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
@@ -92,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
-| Wise | 0.10% | ~13 |
 | Legendary Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
 | Able Difficulty | 0.10% | ~13 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Mausoleum | 0.10% | ~13 |
 | Musaeum | 0.10% | ~13 |
-| Necropolis | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,046 (Ranked 115)  
+Progressed: 13,048 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,046 | 5 |
+| 2023-07-23 | 13,048 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

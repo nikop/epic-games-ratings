@@ -5,10 +5,10 @@ Rating: 4.43 (Ranked 654)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,585 |
-| Predator I | 22.00% | ~55,770 |
-| Fixer I | 10.00% | ~25,350 |
-| A week in Century City | 10.00% | ~25,350 |
+| Survivor | 31.00% | ~78,587 |
+| Predator I | 22.00% | ~55,771 |
+| Fixer I | 10.00% | ~25,351 |
+| A week in Century City | 10.00% | ~25,351 |
 | The Wait | 7.00% | ~17,745 |
 | Green thumb I | 6.00% | ~15,210 |
 | Cleaning Company | 6.00% | ~15,210 |
@@ -36,33 +36,33 @@ Rating: 4.43 (Ranked 654)
 | Bricklayer | 1.00% | ~2,535 |
 | Run the Economy | 1.00% | ~2,535 |
 | Committed Relationship | 0.80% | ~2,028 |
-| Number 1 | 0.70% | ~1,774 |
+| Number 1 | 0.70% | ~1,775 |
 | Interior designer | 0.60% | ~1,521 |
-| The Gamble | 0.50% | ~1,267 |
-| The Descent | 0.50% | ~1,267 |
-| A major purchase | 0.50% | ~1,267 |
+| The Gamble | 0.50% | ~1,268 |
+| The Descent | 0.50% | ~1,268 |
+| A major purchase | 0.50% | ~1,268 |
 | Expert Hunter | 0.40% | ~1,014 |
 | Fungi hunter | 0.40% | ~1,014 |
 | Predator III | 0.40% | ~1,014 |
-| Arms dealer | 0.30% | ~760 |
-| Fixer III | 0.30% | ~760 |
-| AML questionnaire | 0.30% | ~760 |
-| Heartbreaker | 0.30% | ~760 |
+| Arms dealer | 0.30% | ~761 |
+| Fixer III | 0.30% | ~761 |
+| AML questionnaire | 0.30% | ~761 |
+| Heartbreaker | 0.30% | ~761 |
 | Workhorse | 0.20% | ~507 |
 | Homerun | 0.20% | ~507 |
 | A season in Century City | 0.20% | ~507 |
-| Saver III | 0.10% | ~253 |
-| Collector | 0.10% | ~253 |
-| Mansion | 0.10% | ~253 |
-| Green thumb III | 0.10% | ~253 |
-| Plantation | 0.10% | ~253 |
-| Reminescence | 0.10% | ~253 |
-| Beloved | 0.10% | ~253 |
-| Capitalist II | 0.10% | ~253 |
-| Capitalist III | 0.10% | ~253 |
-| Hell Is You | 0.10% | ~253 |
+| Saver III | 0.10% | ~254 |
+| Collector | 0.10% | ~254 |
+| Mansion | 0.10% | ~254 |
+| Green thumb III | 0.10% | ~254 |
+| Plantation | 0.10% | ~254 |
+| Reminescence | 0.10% | ~254 |
+| Beloved | 0.10% | ~254 |
+| Capitalist II | 0.10% | ~254 |
+| Capitalist III | 0.10% | ~254 |
+| Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,499 (Ranked 43)  
+Progressed: 253,506 (Ranked 43)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-20 | 253,311 | 2 |
 | 2023-07-21 | 253,366 | 2 |
 | 2023-07-22 | 253,454 | 2 |
-| 2023-07-23 | 253,499 | 2 |
+| 2023-07-23 | 253,506 | 2 |
 ## Awards
 Max (Unique Visuals): 32  (Ranked 447)  
 Sum: 201 (Ranked 360)  

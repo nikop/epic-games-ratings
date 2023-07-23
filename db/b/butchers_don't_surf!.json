@@ -2,7 +2,7 @@
   "ID": "ba6c8f3721704a4eae7ddf7740e3a5cb",
   "Name": "Butchers Don\u0027t Surf!",
   "ProductSlug": "butchers-dont-surf-56b0c2",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
@@ -19,26 +19,202 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-23T17:07:17.034414+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-07-23T17:07:17.0344159+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BUT_SCHWERER_GUSTAV",
+      "SetID": "cd7h275",
+      "Name": "Buy Schwerer Gustav",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BUY_THE_FIRST_CANNON",
+      "SetID": "cd7h275",
+      "Name": "Buy the First Cannon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BUY_THE_FIRST_GOLD_CANNON",
+      "SetID": "cd7h275",
+      "Name": "Buy the First Gold Cannon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CATCH_A_DIAMOND_IN_SPACE",
+      "SetID": "cd7h275",
+      "Name": "Catch a Diamond in Space",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_ALL_GOALS",
+      "SetID": "cd7h275",
+      "Name": "Complete All Goals",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_THE_FIRST_MISSON",
+      "SetID": "cd7h275",
+      "Name": "Complete the First Mission",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROY_A_GOLDEN_HYDRANT",
+      "SetID": "cd7h275",
+      "Name": "Destroy a Golden",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROY_A_HYDRANT",
+      "SetID": "cd7h275",
+      "Name": "Destroy a Hydrant",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROY_A_MARINE_BUOY",
+      "SetID": "cd7h275",
+      "Name": "Destroy a Marine Buoy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_AN_IMPOSTER",
+      "SetID": "cd7h275",
+      "Name": "Kill an Imposter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAKE_ONE_HUNDRED_PERCENT_PROGRESS",
+      "SetID": "cd7h275",
+      "Name": "Make One Hundred Percent Progress",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OPEN_THE_SAFE",
+      "SetID": "cd7h275",
+      "Name": "Open the Safe",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_REACH_THE_FIRST_GOAL",
+      "SetID": "cd7h275",
+      "Name": "Reach the First Goal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SEE_ALL_INSTRUCTION_BOARDS",
+      "SetID": "cd7h275",
+      "Name": "See All Instruction Boards",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TAKE_THE_FIRST_BRIEFCASE",
+      "SetID": "cd7h275",
+      "Name": "Take the First Briefcase",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TAKE_THE_FIRST_SEED",
+      "SetID": "cd7h275",
+      "Name": "Take the First Seed",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TRAVEL_AROUND_THE_WORLD",
+      "SetID": "cd7h275",
+      "Name": "Travel Around the World",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_THE_FIRST_CAPSULE",
+      "SetID": "cd7h275",
+      "Name": "Unlock the First Capsule",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WATCH_THE_END_OF_THE_STORY",
+      "SetID": "cd7h275",
+      "Name": "Watch the End of the Story",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_ALL_MEDALS",
+      "SetID": "cd7h275",
+      "Name": "Win All Medals",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_THE_FIRST_MEDAL",
+      "SetID": "cd7h275",
+      "Name": "Win the First Medal",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "cd7h275",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:37.954949+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:06:04.3324562+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:07:17.0344136+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:51.3679424+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:44.4930047+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:06:04.3324589+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:22.5641483+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:07:17.034424+00:00"
 }

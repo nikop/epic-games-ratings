@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -1993,9 +1993,9 @@
       "ID": "SNOW_RUINS",
       "SetID": "1a29mp6",
       "Name": "Snow-covered ruins",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "STARTING_DUO",
@@ -2050,8 +2050,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:04:18.2105586+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:04:52.6521115+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:59:44.0151621+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:04:18.2105748+00:00"
+  "LastUpdate_Ratings": "2023-07-23T17:00:45.8959563+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:04:52.6521295+00:00"
 }

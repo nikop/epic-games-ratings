@@ -24,7 +24,7 @@
 | Youth Magnet | 35.00% | ~23 |
 | Weapon Boost | 35.00% | ~23 |
 | Flying Kobold Killer | 34.00% | ~22 |
-| Furious Scorpion Killer | 32.00% | ~21 |
+| Furious Scorpion Killer | 34.00% | ~22 |
 | Lethal Blade Mantis Killer | 31.00% | ~20 |
 | Squeaky Clean | 31.00% | ~20 |
 | Kind Adventurer | 31.00% | ~20 |

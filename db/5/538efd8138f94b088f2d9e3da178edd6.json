@@ -2,7 +2,7 @@
   "ID": "538efd8138f94b088f2d9e3da178edd6",
   "Name": "Trail Of Ayash",
   "ProductSlug": "trail-of-ayash-31a1d4",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
@@ -183,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-27T21:01:01.0024576+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:04:01.4865753+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:04:29.9570605+00:00",
   "LastUpdate_AppInfo": "2023-07-18T22:56:58.0468402+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:57:19.2350562+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:04:01.4865854+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:57:29.0869678+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:04:29.9570745+00:00"
 }

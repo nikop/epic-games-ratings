@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2034,6 +2034,11 @@
       "Time": "2023-07-23T10:03:11.8685764+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T17:03:03.2106236+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2205,7 +2210,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Money10000",
@@ -2341,7 +2346,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -2364,7 +2369,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-23T16:03:05.2086532+00:00",
+  "LastChanged_Achievements": "2023-07-23T17:03:03.2106229+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-23T15:58:55.9908798+00:00",
-  "LastUpdate_Achievements": "2023-07-23T16:03:05.2086859+00:00"
+  "LastUpdate_Ratings": "2023-07-23T16:59:41.032645+00:00",
+  "LastUpdate_Achievements": "2023-07-23T17:03:03.2106567+00:00"
 }
