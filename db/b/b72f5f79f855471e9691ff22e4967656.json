@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -540,9 +540,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "questCemetery",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:03:37.6090366+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:03:39.4608033+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:57:13.4044551+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:03:37.6091139+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:57:17.1008787+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:03:39.4608831+00:00"
 }

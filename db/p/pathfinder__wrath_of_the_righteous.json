@@ -4,11 +4,11 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3188,9 +3188,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10500,
+  "EOS_Progressed": 10501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9033,6 +9033,11 @@
       "Time": "2023-07-23T03:04:32.1312417+00:00",
       "NumProgressed": 10500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T04:04:56.4943492+00:00",
+      "NumProgressed": 10501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9148,7 +9153,7 @@
       "Name": "Path of the Swarm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "15_PathOfDragon",
@@ -9156,7 +9161,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "16_PathOfLegend",
@@ -9188,7 +9193,7 @@
       "Name": "Equal to Aroden",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "20_SpiritOfAdventures",
@@ -9196,7 +9201,7 @@
       "Name": "Spirit of Adventure",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "21_TestOfStarstone",
@@ -9204,7 +9209,7 @@
       "Name": "Test of the Starstone",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "22_MasterfulCraftsmanship",
@@ -9212,7 +9217,7 @@
       "Name": "Masterful Craftsmanship",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "23_MasterfulCharge",
@@ -9220,7 +9225,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "24_Legacy",
@@ -9356,7 +9361,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "42_JustPathetic",
@@ -9452,7 +9457,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "54_DeathByColumn",
@@ -9971,21 +9976,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9282,
+      "Progressed": 9283,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10500,
+      "Progressed": 10501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-21T22:58:59.961112+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:04:32.1312408+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:04:56.4943487+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:58:38.9668122+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:04:32.131411+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:59:00.3390661+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:04:56.4945618+00:00"
 }

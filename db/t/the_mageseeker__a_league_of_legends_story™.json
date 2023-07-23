@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2459,
+  "EOS_Progressed": 2460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2023-07-23T02:10:32.3625918+00:00",
       "NumProgressed": 2459,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T04:02:27.3849444+00:00",
+      "NumProgressed": 2460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3176,7 +3181,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3184,7 +3189,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3200,7 +3205,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3208,7 +3213,7 @@
       "Name": "I smell fear",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -3224,7 +3229,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3248,7 +3253,7 @@
       "Name": "Little light",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3296,7 +3301,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3304,7 +3309,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3320,7 +3325,7 @@
       "Name": "The end of the experiments",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3336,7 +3341,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3352,7 +3357,7 @@
       "Name": "Clarion Cove",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3392,7 +3397,7 @@
       "Name": "Terbisia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -3408,7 +3413,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3424,7 +3429,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3472,7 +3477,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -3520,7 +3525,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3543,7 +3548,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2459,
+      "Progressed": 2460,
       "Completed": 5
     }
   ],
@@ -3551,8 +3556,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:00:50.2315333+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:02:27.384944+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.6045912+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:57:54.3391225+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:00:50.2315966+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:58:04.2311498+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:02:27.3850112+00:00"
 }

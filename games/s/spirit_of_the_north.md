@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~42,847 |
-| INFUSED WITH LIGHT | 53.00% | ~33,396 |
-| FOXIN' AROUND | 29.00% | ~18,273 |
-| FETCH | 27.00% | ~17,013 |
-| BLOOMS OF LIGHT | 26.00% | ~16,383 |
-| BEST FRIENDS | 22.00% | ~13,862 |
-| AWAKEN | 21.00% | ~13,232 |
-| SPIRIT BARK | 21.00% | ~13,232 |
-| ERADICATE | 20.00% | ~12,602 |
-| GARDEN OF LIGHT | 18.00% | ~11,342 |
-| SPIRIT FORM | 16.00% | ~10,082 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~42,851 |
+| INFUSED WITH LIGHT | 53.00% | ~33,398 |
+| FOXIN' AROUND | 29.00% | ~18,275 |
+| FETCH | 27.00% | ~17,014 |
+| BLOOMS OF LIGHT | 26.00% | ~16,384 |
+| BEST FRIENDS | 22.00% | ~13,864 |
+| AWAKEN | 21.00% | ~13,233 |
+| ERADICATE | 21.00% | ~13,233 |
+| SPIRIT BARK | 21.00% | ~13,233 |
+| GARDEN OF LIGHT | 18.00% | ~11,343 |
+| SPIRIT FORM | 16.00% | ~10,083 |
 | UPROOTING DARKNESS | 15.00% | ~9,452 |
 | WRITTEN IN STONE | 15.00% | ~9,452 |
-| WEIGHTLESS | 12.00% | ~7,561 |
-| SPIRIT DASH | 11.00% | ~6,931 |
+| WEIGHTLESS | 12.00% | ~7,562 |
+| SPIRIT DASH | 11.00% | ~6,932 |
 | OLD COMPANION | 9.00% | ~5,671 |
 | PLAGUE DOCTOR | 8.00% | ~5,041 |
 | SPIRITED AWAY | 8.00% | ~5,041 |
 | MATCH MAKER | 7.00% | ~4,411 |
 | NORTHERN LIGHTS | 7.00% | ~4,411 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,520 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,521 |
 | ANCIENT HISTORY | 3.00% | ~1,890 |
 | NONE FORGOTTEN | 2.00% | ~1,260 |
 | KINDRED SPIRITS | 0.60% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,011 (Ranked 81)  
+Progressed: 63,016 (Ranked 81)  
 Completed: 320 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 320 (0.51%) (Ranked 128)
 | 2023-07-20 | 62,748 | 316 |
 | 2023-07-21 | 62,864 | 318 |
 | 2023-07-22 | 62,995 | 320 |
-| 2023-07-23 | 63,011 | 320 |
+| 2023-07-23 | 63,016 | 320 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 475)  
 Sum: 113 (Ranked 408)  

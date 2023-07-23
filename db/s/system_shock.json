@@ -2,20 +2,20 @@
   "ID": "e49aaa31c1324e398e0b1029a0c6d390",
   "Name": "System Shock",
   "ProductSlug": "system-shock",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
     "PcReleaseDate": "2023-05-30T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-06-14T13:58:13.4205726+00:00",
@@ -104,6 +104,12 @@
     {
       "Time": "2023-07-17T03:23:29.8474295+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-23T03:58:22.0379628+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -512,9 +518,9 @@
   "FirstSeen": "2023-05-30T18:57:52.7596476+00:00",
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
-  "LastChanged": "2023-07-17T03:23:29.8474294+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:06:07.4774855+00:00",
+  "LastChanged": "2023-07-23T03:58:22.0379625+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:06:54.8326712+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.0233397+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:58:08.5532938+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:06:07.4775224+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:58:22.0379632+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:06:54.8327086+00:00"
 }

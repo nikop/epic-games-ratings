@@ -8,11 +8,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~233,910 |
 | First Victory | 50.00% | ~233,910 |
-| Clean Sheet | 49.00% | ~229,231 |
+| Clean Sheet | 49.00% | ~229,232 |
 | He's Sold! | 47.00% | ~219,875 |
 | I'm The Boss! | 41.00% | ~191,806 |
 | Hat-trick | 41.00% | ~191,806 |
-| Scoring Streak | 38.00% | ~177,771 |
+| Scoring Streak | 38.00% | ~177,772 |
 | Unbeatable! | 37.00% | ~173,093 |
 | Thumping | 37.00% | ~173,093 |
 | Superb Dressing Room Atmosphere | 35.00% | ~163,737 |
@@ -24,7 +24,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Bus | 29.00% | ~135,668 |
 | Shrewd Spender | 29.00% | ~135,668 |
 | Star Man | 29.00% | ~135,668 |
-| Attack! | 28.00% | ~130,989 |
+| Attack! | 28.00% | ~130,990 |
 | You're On Fire | 26.00% | ~121,633 |
 | On A Roll | 26.00% | ~121,633 |
 | Tremendous Trio | 26.00% | ~121,633 |
@@ -34,8 +34,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~112,277 |
 | The Boss | 24.00% | ~112,277 |
 | Armchair Expert | 24.00% | ~112,277 |
-| Iron Curtain | 23.00% | ~107,598 |
-| Goal Machine | 23.00% | ~107,598 |
+| Iron Curtain | 23.00% | ~107,599 |
+| Goal Machine | 23.00% | ~107,599 |
 | What A Goal! | 22.00% | ~102,920 |
 | Top Of The Class | 22.00% | ~102,920 |
 | Cup Glory! | 22.00% | ~102,920 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,173 |
 | Window Shopping | 15.00% | ~70,173 |
 | Eyes and Ears | 14.00% | ~65,495 |
-| Comeback King! | 13.00% | ~60,816 |
-| You're Up! | 13.00% | ~60,816 |
+| Comeback King! | 13.00% | ~60,817 |
+| You're Up! | 13.00% | ~60,817 |
 | Money, Money, Money | 12.00% | ~56,138 |
 | Superb Strike | 10.00% | ~46,782 |
 | Invincible! | 10.00% | ~46,782 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~468 |
 | Shoestring Budget | 0.10% | ~468 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,819 (Ranked 34)  
+Progressed: 467,820 (Ranked 35)  
 Completed: 19 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 19 (0.00%) (Ranked 240)
 | 2023-07-20 | 467,624 | 19 |
 | 2023-07-21 | 467,724 | 19 |
 | 2023-07-22 | 467,807 | 19 |
-| 2023-07-23 | 467,819 | 19 |
+| 2023-07-23 | 467,820 | 19 |
 ## Awards
 Max (Relaxing): 6,366  (Ranked 52)  
 Sum: 50,172 (Ranked 24)  

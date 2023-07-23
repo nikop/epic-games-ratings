@@ -51,20 +51,20 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.90% | ~95 |
 | Path of the Legend | 0.80% | ~84 |
 | End of Eternal Guard | 0.80% | ~84 |
-| Path of the Dragon | 0.70% | ~73 |
-| Playful Mood | 0.70% | ~73 |
-| Truly Profane Gift | 0.70% | ~73 |
+| Path of the Dragon | 0.70% | ~74 |
+| Playful Mood | 0.70% | ~74 |
+| Truly Profane Gift | 0.70% | ~74 |
 | Dreadful Dragon | 0.60% | ~63 |
-| Masterful Charge | 0.50% | ~52 |
+| Masterful Charge | 0.50% | ~53 |
 | Prelate's Nemesis | 0.40% | ~42 |
 | Just Pathetic | 0.30% | ~32 |
 | Ashes to Ashes | 0.30% | ~32 |
 | Masterful Dispel | 0.20% | ~21 |
-| Path of the Swarm | 0.10% | ~10 |
-| Equal to Aroden | 0.10% | ~10 |
-| Spirit of Adventure | 0.10% | ~10 |
-| Test of the Starstone | 0.10% | ~10 |
-| Masterful Craftsmanship | 0.10% | ~10 |
+| Path of the Swarm | 0.10% | ~11 |
+| Equal to Aroden | 0.10% | ~11 |
+| Spirit of Adventure | 0.10% | ~11 |
+| Test of the Starstone | 0.10% | ~11 |
+| Masterful Craftsmanship | 0.10% | ~11 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
 | Death by Column | 0.00% | ~0 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,500 (Ranked 117)  
+Progressed: 10,501 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,11 +217,11 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 10,430 | 0 |
 | 2023-07-21 | 10,460 | 0 |
 | 2023-07-22 | 10,494 | 0 |
-| 2023-07-23 | 10,500 | 0 |
+| 2023-07-23 | 10,501 | 0 |
 ## Awards
 Max (Character Customization): 1,686  (Ranked 117)  
-Sum: 6,829 (Ranked 114)  
-Diff (max vs sum): 3  
+Sum: 6,829 (Ranked 115)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,686 |

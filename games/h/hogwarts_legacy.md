@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,601 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,602 |
 | First Class Student | 11.00% | ~31,718 |
-| A Keen Sense of Spell | 10.00% | ~28,834 |
-| Troll with the Punches | 10.00% | ~28,834 |
+| A Keen Sense of Spell | 10.00% | ~28,835 |
+| Troll with the Punches | 10.00% | ~28,835 |
 | The Hallowed Hero | 9.00% | ~25,951 |
 | The Defender of Dragons | 9.00% | ~25,951 |
 | A Talent for Spending | 9.00% | ~25,951 |
 | That's a Keeper | 9.00% | ~25,951 |
-| Grappling with a Graphorn | 8.00% | ~23,067 |
-| The One Who Mastered Memories | 8.00% | ~23,067 |
-| The Hero of Hogwarts | 8.00% | ~23,067 |
-| Challenge Accepted | 8.00% | ~23,067 |
-| Loom for Improvement | 8.00% | ~23,067 |
-| Coasting Along | 8.00% | ~23,067 |
+| Grappling with a Graphorn | 8.00% | ~23,068 |
+| The One Who Mastered Memories | 8.00% | ~23,068 |
+| The Hero of Hogwarts | 8.00% | ~23,068 |
+| Challenge Accepted | 8.00% | ~23,068 |
+| Loom for Improvement | 8.00% | ~23,068 |
+| Coasting Along | 8.00% | ~23,068 |
 | A Sallow Grave | 7.00% | ~20,184 |
 | Followed the Butterflies | 7.00% | ~20,184 |
 | The Spell Master | 7.00% | ~20,184 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,342 (Ranked 42)  
+Progressed: 288,348 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-20 | 288,136 | 431 |
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
-| 2023-07-23 | 288,342 | 433 |
+| 2023-07-23 | 288,348 | 433 |
 ## Awards
 Max (Character Customization): 21,184  (Ranked 17)  
 Sum: 39,692 (Ranked 30)  

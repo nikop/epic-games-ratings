@@ -7,14 +7,14 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flawless Victory | 10.00% | ~17 |
-| Faceroll the Bones | 9.00% | ~15 |
-| First Strike | 9.00% | ~15 |
-| Hit 'Em Where It Hurts | 9.00% | ~15 |
-| That'll Leave a Mark | 9.00% | ~15 |
+| Faceroll the Bones | 9.00% | ~16 |
+| First Strike | 9.00% | ~16 |
+| Hit 'Em Where It Hurts | 9.00% | ~16 |
+| That'll Leave a Mark | 9.00% | ~16 |
 | Debuff Dogpile | 8.00% | ~14 |
-| Perk Shard Punch Card | 8.00% | ~14 |
-| Ten Steps from the Grave | 8.00% | ~14 |
+| Perk Shard Punch Card | 7.00% | ~12 |
 | Spending Spree | 7.00% | ~12 |
+| Ten Steps from the Grave | 7.00% | ~12 |
 | Cold-Blooded Critters | 6.00% | ~10 |
 | Everything Must Go! | 6.00% | ~10 |
 | Mushroom Madness! | 6.00% | ~10 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 279)  
+Progressed: 174 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,11 +38,11 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
 | 2023-07-22 | 161 | 0 |
-| 2023-07-23 | 172 | 0 |
+| 2023-07-23 | 174 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
-Sum: 226 (Ranked 350)  
-Diff (max vs sum): 98  
+Sum: 226 (Ranked 351)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

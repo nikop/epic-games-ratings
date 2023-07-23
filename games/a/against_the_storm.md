@@ -25,6 +25,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 2.00% | ~319 |
 | Sparkdew Crystals | 2.00% | ~319 |
 | Dangerous Lands | 2.00% | ~319 |
+| Forbidden Lands | 2.00% | ~319 |
 | Haunted Forest | 2.00% | ~319 |
 | Levitating Monument | 2.00% | ~319 |
 | Flooded Mines | 2.00% | ~319 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 2.00% | ~319 |
 | Refinery | 1.00% | ~160 |
 | Fishmen Ritual Site | 1.00% | ~160 |
-| Forbidden Lands | 1.00% | ~160 |
 | Efficient Explorer | 0.80% | ~128 |
 | Prestigious Expedition | 0.80% | ~128 |
 | Blood Flower Farmer | 0.70% | ~112 |

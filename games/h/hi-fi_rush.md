@@ -39,13 +39,13 @@ Rating: 4.87 (Ranked 24)
 | Chip-tuned | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
 | Check out my moves! | 0.50% | ~18 |
+| I told you I'd be fine, Peppermint! | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~11 |
 | I think I found your calling, Macaron | 0.30% | ~11 |
 | This is a breeze! | 0.30% | ~11 |
 | First we parry, then we counter | 0.30% | ~11 |
 | I hit things with a guitar really well. | 0.30% | ~11 |
-| I told you I'd be fine, Peppermint! | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | OK, well THEY came after ME! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
@@ -67,6 +67,7 @@ Rating: 4.87 (Ranked 24)
 | I am a good person who likes to help | 0.10% | ~4 |
 | With our powers combined…and to the rhythm… | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
+| OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |
 | It was all for this | 0.10% | ~2 |
@@ -75,7 +76,6 @@ Rating: 4.87 (Ranked 24)
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
-| OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,521 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  

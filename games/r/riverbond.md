@@ -6,33 +6,33 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,074 |
-| Now You're Talking | 62.00% | ~324,237 |
-| Steel Yourself | 62.00% | ~324,237 |
-| Window Dressing | 50.00% | ~261,482 |
-| Trigger Happy | 46.00% | ~240,563 |
-| Riverborn | 45.00% | ~235,333 |
-| Starry Eyed | 34.00% | ~177,807 |
-| Poking Around | 34.00% | ~177,807 |
-| Talk of the Town | 24.00% | ~125,511 |
-| AAARR! | 23.00% | ~120,281 |
-| Hello Darkness | 23.00% | ~120,281 |
-| Wind At Our Backs | 22.00% | ~115,052 |
-| To the Beat | 20.00% | ~104,593 |
-| Sunny Shores | 17.00% | ~88,904 |
-| Sunday Best | 16.00% | ~83,674 |
-| To Victory! | 15.00% | ~78,444 |
-| Two of a Kind | 14.00% | ~73,215 |
-| Keep On Trucking | 13.00% | ~67,985 |
+| First Step | 70.00% | ~366,078 |
+| Now You're Talking | 62.00% | ~324,240 |
+| Steel Yourself | 62.00% | ~324,240 |
+| Window Dressing | 50.00% | ~261,484 |
+| Trigger Happy | 46.00% | ~240,565 |
+| Riverborn | 45.00% | ~235,336 |
+| Starry Eyed | 34.00% | ~177,809 |
+| Poking Around | 34.00% | ~177,809 |
+| Talk of the Town | 24.00% | ~125,512 |
+| AAARR! | 23.00% | ~120,283 |
+| Hello Darkness | 23.00% | ~120,283 |
+| Wind At Our Backs | 22.00% | ~115,053 |
+| To the Beat | 20.00% | ~104,594 |
+| Sunny Shores | 17.00% | ~88,905 |
+| Sunday Best | 16.00% | ~83,675 |
+| To Victory! | 15.00% | ~78,445 |
+| Two of a Kind | 14.00% | ~73,216 |
+| Keep On Trucking | 13.00% | ~67,986 |
 | Going on an Adventure | 11.00% | ~57,526 |
 | Make Peace, Not War | 11.00% | ~57,526 |
-| Walking The Line | 10.00% | ~52,296 |
-| Not So Cute Anymore | 10.00% | ~52,296 |
+| Walking The Line | 10.00% | ~52,297 |
+| Not So Cute Anymore | 10.00% | ~52,297 |
 | Road Less Travelled | 9.00% | ~47,067 |
 | Lost and Found | 9.00% | ~47,067 |
-| Partner in Crime | 7.00% | ~36,607 |
-| Hard to Hear | 7.00% | ~36,607 |
-| Under the Radar | 7.00% | ~36,607 |
+| Partner in Crime | 7.00% | ~36,608 |
+| Hard to Hear | 7.00% | ~36,608 |
+| Under the Radar | 7.00% | ~36,608 |
 | Moving On Up | 6.00% | ~31,378 |
 | Owl Knows Best | 6.00% | ~31,378 |
 | Mind the Moose | 6.00% | ~31,378 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,569 |
 | Point Taken | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,963 (Ranked 29)  
+Progressed: 522,968 (Ranked 29)  
 Completed: 450 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 450 (0.09%) (Ranked 191)
 | 2023-07-20 | 522,746 | 450 |
 | 2023-07-21 | 522,830 | 450 |
 | 2023-07-22 | 522,938 | 450 |
-| 2023-07-23 | 522,963 | 450 |
+| 2023-07-23 | 522,968 | 450 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

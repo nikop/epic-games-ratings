@@ -19,10 +19,10 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 0.70% | ~41 |
 | Newcomer: Vickie | 0.70% | ~41 |
 | Social Butterfly | 0.70% | ~41 |
-| Amy | 0.60% | ~35 |
 | Inspector | 0.60% | ~35 |
-| The Muse: Madison | 0.60% | ~35 |
+| Amy | 0.50% | ~29 |
 | Smooth Operator: Ashley | 0.50% | ~29 |
+| The Muse: Madison | 0.50% | ~29 |
 | The Magic Number | 0.50% | ~29 |
 | Vickie | 0.50% | ~29 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,818 (Ranked 134)  
+Progressed: 5,819 (Ranked 134)  
 Completed: 3 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 3 (0.05%) (Ranked 204)
 | 2023-07-20 | 5,764 | 3 |
 | 2023-07-21 | 5,798 | 3 |
 | 2023-07-22 | 5,818 | 3 |
+| 2023-07-23 | 5,819 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

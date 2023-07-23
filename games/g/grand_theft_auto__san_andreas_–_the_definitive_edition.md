@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,084 |
+| Getting Started | 81.00% | ~9,086 |
 | Pay 'n' Spray | 50.00% | ~5,608 |
 | All Dressed Up for San Fierro | 25.00% | ~2,804 |
 | The American Dream | 18.00% | ~2,019 |
 | School's Out | 18.00% | ~2,019 |
-| Smooth Moves | 16.00% | ~1,794 |
-| Today Was a Good Day | 15.00% | ~1,682 |
+| Smooth Moves | 16.00% | ~1,795 |
+| Today Was a Good Day | 15.00% | ~1,683 |
 | What happens in Las Venturas... | 14.00% | ~1,570 |
 | Horror of the Santa Maria | 10.00% | ~1,122 |
-| Liberty City State of Mind | 9.00% | ~1,009 |
+| Liberty City State of Mind | 9.00% | ~1,010 |
 | Original Gangster | 8.00% | ~897 |
 | The End of the Line | 7.00% | ~785 |
 | With Extra Dip | 6.00% | ~673 |
 | Saviour | 6.00% | ~673 |
 | They Can’t Stop All of Us | 4.00% | ~449 |
 | Rescue a Kitten Too? | 4.00% | ~449 |
-| Bike or Biker | 3.00% | ~336 |
-| What are the Odds | 3.00% | ~336 |
+| Bike or Biker | 3.00% | ~337 |
+| What are the Odds | 3.00% | ~337 |
 | A Legitimate Business | 2.00% | ~224 |
 | I’ll Have Two Number 9s | 2.00% | ~224 |
 | Who Needs Directions? | 2.00% | ~224 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 481)
 | ...Here we go again | 0.40% | ~45 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,215 (Ranked 116)  
+Progressed: 11,217 (Ranked 116)  
 Completed: 31 (0.28%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,14 +135,14 @@ Completed: 31 (0.28%) (Ranked 154)
 | 2023-07-20 | 11,117 | 31 |
 | 2023-07-21 | 11,162 | 31 |
 | 2023-07-22 | 11,206 | 31 |
-| 2023-07-23 | 11,215 | 31 |
+| 2023-07-23 | 11,217 | 31 |
 ## Awards
-Max (Great Boss Battles): 226  (Ranked 254)  
-Sum: 226 (Ranked 350)  
-Diff (max vs sum): -96  
+Max (Great Boss Battles): 228  (Ranked 253)  
+Sum: 228 (Ranked 350)  
+Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 226 |
+| This game has Great Boss Battles | 228 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -226,3 +226,4 @@ Diff (max vs sum): -96
 | 2023-07-18 | 4.56 | 221 | 221 |
 | 2023-07-21 | 4.56 | 223 | 223 |
 | 2023-07-22 | 4.56 | 226 | 226 |
+| 2023-07-23 | 4.55 | 228 | 228 |

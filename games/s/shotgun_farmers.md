@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 74.00% | ~166 |
-| Aspairagus | 56.00% | ~97 |
-| First Blood | 54.00% | ~121 |
-| Triple Kill | 54.00% | ~121 |
-| Survivor | 53.00% | ~92 |
-| No Asperascope | 49.00% | ~110 |
-| Cornivore | 49.00% | ~110 |
-| I Believe I Can Fly | 46.00% | ~103 |
-| Early Survivor | 41.00% | ~71 |
-| No Diggity | 41.00% | ~71 |
+| Aspairagus | 56.00% | ~98 |
+| First Blood | 54.00% | ~122 |
+| Triple Kill | 54.00% | ~122 |
+| Survivor | 53.00% | ~93 |
+| No Asperascope | 48.00% | ~108 |
+| Cornivore | 48.00% | ~108 |
+| I Believe I Can Fly | 45.00% | ~101 |
+| Early Survivor | 41.00% | ~72 |
+| No Diggity | 40.00% | ~70 |
 | Amateur Survivor | 30.00% | ~52 |
-| 10K | 27.00% | ~60 |
-| Bouncemato | 26.00% | ~45 |
+| 10K | 27.00% | ~61 |
+| Bouncemato | 26.00% | ~46 |
 | 15K | 25.00% | ~56 |
 | Grave Digger | 23.00% | ~40 |
-| Drinking Problem | 22.00% | ~49 |
+| Drinking Problem | 22.00% | ~50 |
 | Professional Survivor | 20.00% | ~35 |
-| Quick-Draw Pod | 18.00% | ~31 |
-| Pork Chop Express | 17.00% | ~38 |
+| Quick-Draw Pod | 18.00% | ~32 |
+| Pork Chop Express | 16.00% | ~36 |
 | Carrocketeer | 13.00% | ~29 |
 | Oh My Gourd | 13.00% | ~23 |
 | Skin Of Your Teeth | 12.00% | ~27 |
@@ -32,7 +32,7 @@
 | Summers Here | 11.00% | ~19 |
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
-| Perfect | 10.00% | ~17 |
+| Perfect | 10.00% | ~18 |
 | Expert Survivor | 9.00% | ~16 |
 | Bring Home The Bacon | 8.00% | ~18 |
 | Quadsparagus | 8.00% | ~14 |
@@ -42,7 +42,7 @@
 | Master Survivor | 4.00% | ~7 |
 | I Have The High Ground | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~5 |
-| Easy Peasy | 2.00% | ~3 |
+| Easy Peasy | 2.00% | ~4 |
 | 15 Days | 1.00% | ~2 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 265)  
+Progressed: 225 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 220 | 0 |
 | 2023-07-21 | 223 | 0 |
 | 2023-07-22 | 224 | 0 |
+| 2023-07-23 | 225 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

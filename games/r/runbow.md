@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 610)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,916 |
-| My First Runbow | 50.00% | ~123,506 |
-| It's The Fall | 26.00% | ~64,223 |
-| Be Aggressive | 21.00% | ~51,872 |
-| The Stunner | 21.00% | ~51,872 |
-| Curator | 20.00% | ~49,402 |
-| Crowning Around | 18.00% | ~44,462 |
-| Can You Dig It? | 17.00% | ~41,992 |
-| You Juan-A-Go? | 16.00% | ~39,522 |
-| Chan-tastic | 15.00% | ~37,052 |
-| Muddy Waters | 14.00% | ~34,582 |
-| Toasty! | 13.00% | ~32,111 |
+| In The Zone | 53.00% | ~130,920 |
+| My First Runbow | 50.00% | ~123,509 |
+| It's The Fall | 26.00% | ~64,225 |
+| Be Aggressive | 21.00% | ~51,874 |
+| The Stunner | 21.00% | ~51,874 |
+| Curator | 20.00% | ~49,404 |
+| Crowning Around | 18.00% | ~44,463 |
+| Can You Dig It? | 17.00% | ~41,993 |
+| You Juan-A-Go? | 16.00% | ~39,523 |
+| Chan-tastic | 15.00% | ~37,053 |
+| Muddy Waters | 14.00% | ~34,583 |
+| Toasty! | 13.00% | ~32,112 |
 | Lazy Laser | 8.00% | ~19,761 |
 | Into The Drift | 7.00% | ~17,291 |
 | Ready? Fight! | 7.00% | ~17,291 |
 | Just A Phaze | 6.00% | ~14,821 |
 | Butt Butt | 6.00% | ~14,821 |
-| He Who Laughs Last | 3.00% | ~7,410 |
-| Shoo, Cat! | 3.00% | ~7,410 |
+| He Who Laughs Last | 3.00% | ~7,411 |
+| Shoo, Cat! | 3.00% | ~7,411 |
 | And You're Okay | 2.00% | ~4,940 |
 | Blotbuster | 2.00% | ~4,940 |
 | Thunderstruck | 2.00% | ~4,940 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 610)
 | Talent Scout | 0.10% | ~247 |
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,011 (Ranked 44)  
+Progressed: 247,018 (Ranked 44)  
 Completed: 3 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 3 (0.00%) (Ranked 240)
 | 2023-07-20 | 246,894 | 3 |
 | 2023-07-21 | 246,951 | 3 |
 | 2023-07-22 | 247,004 | 3 |
-| 2023-07-23 | 247,011 | 3 |
+| 2023-07-23 | 247,018 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

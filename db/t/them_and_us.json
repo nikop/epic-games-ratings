@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -984,9 +984,9 @@
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:05:36.2925862+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:06:15.9628201+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:57:30.9036758+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:05:36.2926306+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:57:36.3092473+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:06:15.9628559+00:00"
 }

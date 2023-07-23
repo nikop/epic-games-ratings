@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14065,
+  "EOS_Progressed": 14066,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6624,6 +6624,11 @@
       "Time": "2023-07-23T02:10:55.9045633+00:00",
       "NumProgressed": 14065,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-23T04:03:14.0422963+00:00",
+      "NumProgressed": 14066,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6715,7 +6720,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "tpote_achievement_2",
@@ -6795,7 +6800,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "tpote_achievement_29",
@@ -6811,7 +6816,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "tpote_achievement_30",
@@ -6819,7 +6824,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "tpote_achievement_31",
@@ -6947,7 +6952,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "tpote_achievement_9",
@@ -6962,15 +6967,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14065,
+      "Progressed": 14066,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:03:16.0128191+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:03:14.0422957+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:59:54.8072081+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:03:16.0128864+00:00"
+  "LastUpdate_Ratings": "2023-07-23T04:00:43.7483226+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:03:14.0423794+00:00"
 }

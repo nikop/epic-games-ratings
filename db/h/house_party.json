@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5818,
+  "EOS_Progressed": 5819,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3591,6 +3591,11 @@
       "Time": "2023-07-22T21:07:06.2648506+00:00",
       "NumProgressed": 5818,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T04:06:31.0048451+00:00",
+      "NumProgressed": 5819,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3608,9 +3613,9 @@
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 29
     },
     {
       "ID": "Amy_Scav",
@@ -4040,9 +4045,9 @@
       "ID": "TM_Madison",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Madison",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 29
     },
     {
       "ID": "ThatsANiceBush",
@@ -4153,21 +4158,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2857,
+      "Progressed": 2858,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5818,
+      "Progressed": 5819,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-23T03:05:48.6186679+00:00",
+  "LastChanged_Achievements": "2023-07-23T04:06:31.0048446+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.6654543+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:57:41.2882925+00:00",
-  "LastUpdate_Achievements": "2023-07-23T03:05:48.618756+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:57:47.6883826+00:00",
+  "LastUpdate_Achievements": "2023-07-23T04:06:31.004938+00:00"
 }
