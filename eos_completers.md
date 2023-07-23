@@ -10,10 +10,10 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.55% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.50% |
 | 12 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
+| 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 17 | [Remains](games/r/remains.md) | 11.11% |
@@ -42,8 +42,8 @@
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
-| 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
-| 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.65% |
 | 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
@@ -119,9 +119,9 @@
 | 117 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
-| 120 | [Them and Us](games/t/them_and_us.md) | 0.59% |
-| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
+| 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
+| 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
+| 120 | [Them and Us](games/t/them_and_us.md) | 0.58% |
 | 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 123 | [Train Valley](games/t/train_valley.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
@@ -132,9 +132,9 @@
 | 130 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 131 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 131 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
-| 133 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.45% |
 | 133 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
-| 135 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.44% |
+| 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.44% |
+| 134 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.44% |
 | 136 | [Tchia](games/t/tchia.md) | 0.43% |
 | 136 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
 | 138 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
@@ -357,6 +357,7 @@
 | 240 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 240 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
 | 240 | [Life After Death](games/l/life_after_death.md) | 0.00% |
+| 240 | [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 0.00% |
 | 240 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
 | 240 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 0.00% |
 | 240 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
