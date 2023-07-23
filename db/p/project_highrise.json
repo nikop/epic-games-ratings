@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -477,6 +477,11 @@
       "Time": "2023-07-23T09:03:33.5014221+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T14:03:35.8318616+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -504,7 +509,7 @@
       "Name": "Lux Living",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_apartments_2",
@@ -574,9 +579,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_campaigns_1",
@@ -622,9 +627,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_consultant_1",
@@ -790,9 +795,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_floors_1",
@@ -846,9 +851,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_loan",
@@ -1000,7 +1005,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_restaurants_3",
@@ -1008,7 +1013,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_restaurants_4",
@@ -1040,7 +1045,7 @@
       "Name": "Emporium Empire",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_retail_3",
@@ -1112,7 +1117,7 @@
       "Name": "Smooth Service",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_trash_1",
@@ -1126,9 +1131,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_util_cable",
@@ -1160,7 +1165,7 @@
       "Name": "Get Electrified",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_util_water",
@@ -1191,7 +1196,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 0
     }
   ],
@@ -1199,8 +1204,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:07:26.3785555+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:03:35.8318612+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:01:54.1430468+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:07:26.3786386+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:17.4305324+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:03:35.8319454+00:00"
 }

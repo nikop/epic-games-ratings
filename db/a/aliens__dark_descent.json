@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 3017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3255,9 +3255,9 @@
       "ID": "ACH_MISSION_02",
       "SetID": "816efe",
       "Name": "First Steps Into Madness",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3399,17 +3399,17 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 875
     },
     {
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1659
     }
   ],
   "AchievementSets": [
@@ -3424,8 +3424,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:06:10.6520938+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:02:09.2940987+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:03:28.4421439+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:06:10.652137+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:59:36.7159546+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:02:09.2941396+00:00"
 }

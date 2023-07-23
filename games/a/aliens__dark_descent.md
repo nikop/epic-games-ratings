@@ -12,10 +12,10 @@ Rating: 4.41 (Ranked 672)
 | Call Me Snake | 61.00% | ~1,840 |
 | Something Lurks Under The Hills | 59.00% | ~1,780 |
 | This Was No Papercut | 58.00% | ~1,750 |
+| The Shrink Hates Me | 55.00% | ~1,659 |
 | People Person | 54.00% | ~1,629 |
-| The Shrink Hates Me | 54.00% | ~1,629 |
 | Use The Bumper, That's What It's For | 51.00% | ~1,539 |
-| First Steps Into Madness | 50.00% | ~1,508 |
+| First Steps Into Madness | 51.00% | ~1,539 |
 | Colonial Barrels | 49.00% | ~1,478 |
 | Harper's Hell | 42.00% | ~1,267 |
 | Making a Stand | 40.00% | ~1,207 |
@@ -23,8 +23,8 @@ Rating: 4.41 (Ranked 672)
 | Where It All Begun | 35.00% | ~1,056 |
 | Recouped Investment | 35.00% | ~1,056 |
 | Omelette Du Fromage | 32.00% | ~965 |
+| The More The Merrier | 29.00% | ~875 |
 | Living Nightmare | 28.00% | ~845 |
-| The More The Merrier | 28.00% | ~845 |
 | The Darwin Era Was Here | 24.00% | ~724 |
 | Deep Into Insanity | 23.00% | ~694 |
 | Come on, You Wanna Live Forever? | 22.00% | ~664 |

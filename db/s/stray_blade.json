@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-07-22T19:05:20.780292+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T14:04:43.3507465+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -180,9 +185,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -212,7 +217,7 @@
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
       "SetID": "7i20me3",
       "Name": "Bringing guns to a sword fight",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "Name": "Self-Defence",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -236,7 +241,7 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -388,7 +393,7 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -404,7 +409,7 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -420,7 +425,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -484,7 +489,7 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -492,7 +497,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -500,7 +505,7 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     }
@@ -509,22 +514,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 21,
-      "Completed": 21
+      "Progressed": 22,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:08:47.5110439+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:04:43.350746+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:01:42.1668154+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:08:47.5110721+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:06.4285847+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:04:43.3507748+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,597 |
-| The Three | 64.00% | ~338,195 |
-| The Banquet | 40.00% | ~211,372 |
-| Devara's Light | 30.00% | ~158,529 |
-| The Iron Ones | 18.00% | ~95,117 |
-| The Village | 16.00% | ~84,549 |
-| The Forest | 14.00% | ~73,980 |
-| Branded | 13.00% | ~68,696 |
-| The Imposter | 13.00% | ~68,696 |
-| The Keep | 13.00% | ~68,696 |
-| The Castle | 11.00% | ~58,127 |
+| Find Sanctuary | 83.00% | ~438,601 |
+| The Three | 64.00% | ~338,198 |
+| The Banquet | 40.00% | ~211,374 |
+| Devara's Light | 30.00% | ~158,530 |
+| The Iron Ones | 18.00% | ~95,118 |
+| The Village | 16.00% | ~84,550 |
+| The Forest | 14.00% | ~73,981 |
+| Branded | 13.00% | ~68,697 |
+| The Imposter | 13.00% | ~68,697 |
+| The Keep | 13.00% | ~68,697 |
+| The Castle | 11.00% | ~58,128 |
 | The Dome | 9.00% | ~47,559 |
 | The Red Hall | 9.00% | ~47,559 |
-| The Sacrifice | 8.00% | ~42,274 |
+| The Sacrifice | 8.00% | ~42,275 |
 | The Cave | 7.00% | ~36,990 |
 | The Mire | 7.00% | ~36,990 |
 | The Stone Roots | 7.00% | ~36,990 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,569 |
 | Fading Fast | 1.00% | ~5,284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,430 (Ranked 28)  
+Progressed: 528,435 (Ranked 28)  
 Completed: 1,484 (0.28%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,11 +138,11 @@ Completed: 1,484 (0.28%) (Ranked 154)
 | 2023-07-20 | 528,184 | 1,483 |
 | 2023-07-21 | 528,275 | 1,484 |
 | 2023-07-22 | 528,379 | 1,484 |
-| 2023-07-23 | 528,430 | 1,484 |
+| 2023-07-23 | 528,435 | 1,484 |
 ## Awards
 Max (Challenging Combat): 275  (Ranked 239)  
-Sum: 1,918 (Ranked 201)  
-Diff (max vs sum): 38  
+Sum: 1,919 (Ranked 200)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 275 |
@@ -152,7 +152,7 @@ Diff (max vs sum): 38
 | This game has Diverse Characters | 232 |
 | This game has Amazing Storytelling | 229 |
 | This game has Amazing Characters | 223 |
-| This game has Unique Visuals | 216 |
+| This game has Unique Visuals | 217 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
 ## Ratings History
@@ -292,4 +292,4 @@ Diff (max vs sum): 38
 | 2023-07-18 | 4.61 | - | 274 | 1,915 |
 | 2023-07-19 | 4.61 | - | 274 | 1,916 |
 | 2023-07-22 | 4.61 | - | 274 | 1,917 |
-| 2023-07-23 | 4.61 | - | 275 | 1,918 |
+| 2023-07-23 | 4.61 | - | 275 | 1,919 |

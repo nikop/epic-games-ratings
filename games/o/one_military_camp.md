@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 38.00% | ~22 |
-| First Step | 34.00% | ~20 |
-| Indebted | 5.00% | ~3 |
+| The 4 Pillars | 39.00% | ~23 |
+| First Step | 36.00% | ~21 |
+| Indebted | 7.00% | ~4 |
 | Capitalism | 5.00% | ~3 |
 | Green Energy | 5.00% | ~3 |
 | Health Care | 3.00% | ~2 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 339)  
+Progressed: 59 (Ranked 339)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 17 | 0 |
 | 2023-07-21 | 39 | 0 |
 | 2023-07-22 | 50 | 0 |
-| 2023-07-23 | 58 | 0 |
+| 2023-07-23 | 59 | 0 |

@@ -3,7 +3,7 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 21,
+  "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.37,
+  "EOS_Completed_Percentage": 10.3,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -781,6 +781,11 @@
       "Time": "2023-07-23T12:05:42.5653351+00:00",
       "NumProgressed": 164,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-23T14:04:37.0247863+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -808,7 +813,7 @@
       "Name": "Viola Organista",
       "Percentage": 41,
       "XP": 165,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -816,7 +821,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -832,21 +837,21 @@
       "Name": "Flying Machine",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:08:39.8174332+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:04:37.024785+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:00:38.8069085+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:08:39.817442+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:57:12.4349211+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:04:37.0247951+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6789,
+  "EOS_Progressed": 6790,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4844,6 +4844,11 @@
       "Time": "2023-07-23T09:03:42.2825519+00:00",
       "NumProgressed": 6789,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-23T14:03:44.5485138+00:00",
+      "NumProgressed": 6790,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4935,7 +4940,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "HISTORIAN",
@@ -4967,7 +4972,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "LIVE_WIRE",
@@ -4983,7 +4988,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "SNIP_SNIP",
@@ -5022,7 +5027,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6789,
+      "Progressed": 6790,
       "Completed": 29
     }
   ],
@@ -5030,8 +5035,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:07:37.0018691+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:03:44.548513+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:01:50.6813549+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:07:37.0019005+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:14.2637004+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:03:44.548565+00:00"
 }

@@ -9,11 +9,11 @@
 | Inventory ✔ | 53.00% | ~114 |
 | Police officers ✔ | 27.00% | ~58 |
 | Mutation ✔ | 24.00% | ~52 |
-| Doberman ✔ | 13.00% | ~28 |
+| Doberman ✔ | 14.00% | ~30 |
+| Chess ✔ | 10.00% | ~22 |
 | Weapon ✔ | 10.00% | ~22 |
-| Chess ✔ | 9.00% | ~19 |
+| Survival ✔ | 8.00% | ~17 |
 | Master of Unlocking ✔ | 8.00% | ~17 |
-| Survival ✔ | 7.00% | ~15 |
 | Hospital ✔ | 7.00% | ~15 |
 | Thirst ✔ | 7.00% | ~15 |
 | Antivirus ✔ | 6.00% | ~13 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3094,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3361,6 +3361,11 @@
       "Time": "2023-07-23T13:09:42.3209056+00:00",
       "NumProgressed": 3094,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T14:05:35.2708205+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3372,7 +3377,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "AceDetective_9",
@@ -3396,7 +3401,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "BloodAndJustice_50",
@@ -3412,7 +3417,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1332
     },
     {
       "ID": "CrowdPleaser",
@@ -3436,7 +3441,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3556,7 +3561,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3564,7 +3569,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1982
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3588,7 +3593,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Tapped_22",
@@ -3596,7 +3601,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3628,15 +3633,15 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ThePowerofFamily_2",
       "SetID": "c4hee28",
       "Name": "The Power of Family",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 526
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3644,7 +3649,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "TheStuffOfLegends",
@@ -3692,7 +3697,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2323
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3707,15 +3712,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3094,
+      "Progressed": 3097,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:09:42.3209051+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:05:35.2708201+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:01:48.1512757+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:09:42.3209426+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:11.9595869+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:05:35.270861+00:00"
 }

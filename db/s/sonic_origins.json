@@ -5,9 +5,9 @@
   "Ranking_Rating": 425,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 400,
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1546,9 +1546,9 @@
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic CD",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
@@ -1586,8 +1586,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:06:04.3548988+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:02:03.8924824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.4163627+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:01:43.4190342+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:06:04.3549266+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:07.7510423+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:02:03.8925112+00:00"
 }

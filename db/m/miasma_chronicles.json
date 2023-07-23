@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2416,6 +2416,11 @@
       "Time": "2023-07-23T11:04:13.9107622+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T14:03:38.4633799+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2435,7 +2440,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2451,7 +2456,7 @@
       "Name": "Attenborough",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BOOKWORM",
@@ -2459,7 +2464,7 @@
       "Name": "Bookworm",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BOT_WHISPERER",
@@ -2571,7 +2576,7 @@
       "Name": "Editor Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ENDGAME",
@@ -2579,7 +2584,7 @@
       "Name": "Endgame",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "EXORCIST",
@@ -2595,7 +2600,7 @@
       "Name": "Experienced",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "FIRESTARTER",
@@ -2603,7 +2608,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2611,7 +2616,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2729,9 +2734,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 982
     },
     {
       "ID": "RECYCLER",
@@ -2739,7 +2744,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "RUTHLESS",
@@ -2747,7 +2752,7 @@
       "Name": "Ruthless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "SAVIOR",
@@ -2755,7 +2760,7 @@
       "Name": "Savior",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "SENSEI",
@@ -2763,7 +2768,7 @@
       "Name": "Sensei",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2779,7 +2784,7 @@
       "Name": "Side Order",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -2787,7 +2792,7 @@
       "Name": "Silent but Violent",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2834,7 +2839,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 0
     }
   ],
@@ -2842,8 +2847,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:07:29.684405+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:03:38.4633795+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:02:10.8711069+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:07:29.6844481+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:32.6480095+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:03:38.4634248+00:00"
 }

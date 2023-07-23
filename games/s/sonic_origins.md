@@ -26,8 +26,8 @@ Number of Ratings: 154  (23.09.2022)
 | Super Sonic | 50.00% | ~164 |
 | Beware Stingers! | 49.00% | ~161 |
 | Shut Down Metal Sonic | 48.00% | ~157 |
+| Cleared Sonic CD | 46.00% | ~151 |
 | Cleared Sonic the Hedgehog 2 | 46.00% | ~151 |
-| Cleared Sonic CD | 45.00% | ~148 |
 | Beware Moto Bugs! | 44.00% | ~144 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 44.00% | ~144 |
 | All Clear! | 35.00% | ~115 |
@@ -42,7 +42,7 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 17.00% | ~56 |
 | Sonic the Hedgehog 2 Mission Master | 15.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328 (Ranked 242)  
+Progressed: 328 (Ranked 243)  
 Completed: 34 (10.37%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |

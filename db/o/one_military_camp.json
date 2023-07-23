@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-07-23T13:07:18.4241665+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T14:03:29.4607279+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -391,9 +396,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -423,9 +428,9 @@
       "ID": "ACHIEVEMENT_ID_30",
       "SetID": "c504de6",
       "Name": "Indebted",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -503,9 +508,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -584,14 +589,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:07:18.4241661+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:03:29.4607275+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:02:50.2544819+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:07:18.4241957+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:59:01.5462213+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:03:29.4607574+00:00"
 }

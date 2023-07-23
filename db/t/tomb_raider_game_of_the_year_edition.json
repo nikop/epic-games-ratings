@@ -4,7 +4,7 @@
   "ProductSlug": "tomb-raider",
   "Ranking_Rating": 275,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 350,
@@ -2341,18 +2341,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 6846,
       "NumberOfAwardsMax": 5815
+    },
+    {
+      "Time": "2023-07-23T13:59:53.3834016+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6847,
+      "NumberOfAwardsMax": 5816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6846,
-  "NumberOfAwardsMax": 5815,
+  "NumberOfAwards": 6847,
+  "NumberOfAwardsMax": 5816,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5815
+      "Count": 5816
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2426,8 +2432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2023-07-23T02:08:40.0014359+00:00",
+  "LastChanged": "2023-07-23T13:59:53.3834014+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:36.3754438+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:03:47.1094041+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:10:11.1941109+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:59:53.383402+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:05:59.2336902+00:00"
 }

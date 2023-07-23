@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -543,9 +543,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 218033,
+  "EOS_Progressed": 218041,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10558,6 +10558,11 @@
       "Time": "2023-07-23T13:09:40.4283963+00:00",
       "NumProgressed": 218033,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-23T14:05:33.8169348+00:00",
+      "NumProgressed": 218041,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -10569,7 +10574,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41426
+      "UsersEstimate": 41428
     },
     {
       "ID": "ACH_BASE_10",
@@ -10577,7 +10582,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54508
+      "UsersEstimate": 54510
     },
     {
       "ID": "ACH_BASE_11",
@@ -10593,7 +10598,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "ACH_BASE_13",
@@ -10609,7 +10614,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19623
+      "UsersEstimate": 19624
     },
     {
       "ID": "ACH_BASE_16",
@@ -10617,7 +10622,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19623
+      "UsersEstimate": 19624
     },
     {
       "ID": "ACH_BASE_17",
@@ -10625,7 +10630,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19623
+      "UsersEstimate": 19624
     },
     {
       "ID": "ACH_BASE_18",
@@ -10633,7 +10638,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19623
+      "UsersEstimate": 19624
     },
     {
       "ID": "ACH_BASE_19",
@@ -10737,7 +10742,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "ACH_BASE_30",
@@ -10817,7 +10822,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26164
+      "UsersEstimate": 26165
     },
     {
       "ID": "ACH_BASE_8",
@@ -10825,7 +10830,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8721
+      "UsersEstimate": 8722
     },
     {
       "ID": "ACH_BASE_9",
@@ -10833,14 +10838,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19623
+      "UsersEstimate": 19624
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 218033,
+      "Progressed": 218041,
       "Completed": 4
     }
   ],
@@ -10848,8 +10853,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-21T21:59:39.6376149+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:09:40.4283959+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:05:33.8169343+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2623372+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:02:26.0802125+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:09:40.4284617+00:00"
+  "LastUpdate_Ratings": "2023-07-23T13:58:47.1522914+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:05:33.8170001+00:00"
 }

@@ -12,14 +12,14 @@
 | Fashion Connoisseur | 65.00% | ~42 |
 | Arms Mechanic | 58.00% | ~38 |
 | Flower Thief | 55.00% | ~36 |
+| Beginner Cook | 54.00% | ~35 |
 | Apostle of Flame | 54.00% | ~35 |
-| Beginner Cook | 52.00% | ~34 |
 | Beginner Artificer | 52.00% | ~34 |
 | Seal Breaker | 46.00% | ~30 |
 | Giant Lizard Killer | 43.00% | ~28 |
 | Handyman | 43.00% | ~28 |
-| Nosebleeder | 38.00% | ~25 |
-| Guardian | 37.00% | ~24 |
+| Nosebleeder | 40.00% | ~26 |
+| Guardian | 38.00% | ~25 |
 | Trader | 37.00% | ~24 |
 | Weapon Boost | 35.00% | ~23 |
 | Youth Magnet | 34.00% | ~22 |

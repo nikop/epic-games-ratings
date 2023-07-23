@@ -8,7 +8,7 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 3.00% | ~106 |
 | Feeling the beat! | 3.00% | ~106 |
 | You can pet the cat! | 3.00% | ~106 |
-| NOW we got a kickass hideout! | 3.00% | ~61 |
+| NOW we got a kickass hideout! | 3.00% | ~62 |
 | Cream of the Crop | 2.00% | ~71 |
 | This will cost you big time | 2.00% | ~71 |
 | The Negotiator | 2.00% | ~71 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,528 (Ranked 146)  
+Progressed: 3,529 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-20 | 3,468 | 6 |
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
-| 2023-07-23 | 3,528 | 6 |
+| 2023-07-23 | 3,529 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

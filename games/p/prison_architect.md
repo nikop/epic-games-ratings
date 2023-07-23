@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~40,074 |
-| Get Busy Living | 16.00% | ~24,661 |
-| Samuel Norton | 9.00% | ~13,872 |
-| Spare The Rod | 5.00% | ~7,707 |
-| Don't Put Me In The Dark | 3.00% | ~4,624 |
-| Wait and Hope | 3.00% | ~4,624 |
-| I May Have Found A Way Out Of Here | 3.00% | ~4,624 |
-| Iron Bars | 3.00% | ~4,624 |
+| Stone Walls | 26.00% | ~40,082 |
+| Get Busy Living | 16.00% | ~24,666 |
+| Samuel Norton | 9.00% | ~13,874 |
+| Spare The Rod | 5.00% | ~7,708 |
+| Don't Put Me In The Dark | 3.00% | ~4,625 |
+| Wait and Hope | 3.00% | ~4,625 |
+| I May Have Found A Way Out Of Here | 3.00% | ~4,625 |
+| Iron Bars | 3.00% | ~4,625 |
 | Throw The Book At Them | 2.00% | ~3,083 |
-| D.B. Cooper | 1.00% | ~1,541 |
+| D.B. Cooper | 1.00% | ~1,542 |
 | Reformation | 0.60% | ~925 |
 | Crowd Control | 0.50% | ~771 |
 | Freedom | 0.40% | ~617 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~154 |
 | ... It's What You Can Prove | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,132 (Ranked 60)  
+Progressed: 154,161 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,16 +117,16 @@ Completed: 5 (0.00%) (Ranked 240)
 | 2023-07-20 | 152,868 | 5 |
 | 2023-07-21 | 153,367 | 5 |
 | 2023-07-22 | 153,860 | 5 |
-| 2023-07-23 | 154,132 | 5 |
+| 2023-07-23 | 154,161 | 5 |
 ## Awards
 Max (Extremely Fun): 459  (Ranked 199)  
-Sum: 3,589 (Ranked 149)  
+Sum: 3,592 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 459 |
 | This game is Great for Beginners | 447 |
-| This game is Highly Recommended | 439 |
+| This game is Highly Recommended | 442 |
 | This game has Quickly Understood Controls | 423 |
 | This game is Relaxing | 408 |
 | This game has Diverse Characters | 389 |
@@ -320,4 +320,4 @@ Diff (max vs sum): 50
 | 2023-07-20 | 4.61 | - | 457 | 3,576 |
 | 2023-07-21 | 4.61 | - | 459 | 3,580 |
 | 2023-07-22 | 4.61 | - | 459 | 3,586 |
-| 2023-07-23 | 4.61 | - | 459 | 3,589 |
+| 2023-07-23 | 4.61 | - | 459 | 3,592 |

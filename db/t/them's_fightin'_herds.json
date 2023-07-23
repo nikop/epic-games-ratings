@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226710,
+  "EOS_Progressed": 226712,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9978,6 +9978,11 @@
       "Time": "2023-07-23T13:08:32.254012+00:00",
       "NumProgressed": 226710,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T14:04:30.8618059+00:00",
+      "NumProgressed": 226712,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10133,7 +10138,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77081
+      "UsersEstimate": 77082
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10149,7 +10154,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49876
+      "UsersEstimate": 49877
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -10212,7 +10217,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226710,
+      "Progressed": 226712,
       "Completed": 3
     }
   ],
@@ -10220,8 +10225,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-23T13:08:32.2540113+00:00",
+  "LastChanged_Achievements": "2023-07-23T14:04:30.8618055+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-23T13:03:57.5813339+00:00",
-  "LastUpdate_Achievements": "2023-07-23T13:08:32.2540729+00:00"
+  "LastUpdate_Ratings": "2023-07-23T14:00:03.3074816+00:00",
+  "LastUpdate_Achievements": "2023-07-23T14:04:30.8618647+00:00"
 }
