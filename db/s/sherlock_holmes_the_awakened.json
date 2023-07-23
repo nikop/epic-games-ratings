@@ -1902,9 +1902,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ02_4",
@@ -1974,9 +1974,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "MQ05_1",
@@ -2103,8 +2103,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:06:11.126904+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:05:48.2008327+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:38.578191+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:06:11.1269361+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:48.3565534+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:05:48.2008569+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2036,6 +2036,11 @@
       "Time": "2023-07-23T20:05:28.6294949+00:00",
       "NumProgressed": 595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T21:05:09.1180949+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2127,7 +2132,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_headquarters_15",
@@ -2151,7 +2156,7 @@
       "Name": "Facility Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2239,7 +2244,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2287,7 +2292,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2303,7 +2308,7 @@
       "Name": "Defenses Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2350,14 +2355,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:05:28.6294942+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:05:09.1180945+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-23T20:01:00.6268185+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:05:28.6295366+00:00"
+  "LastUpdate_Ratings": "2023-07-23T21:00:47.8877764+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:05:09.1181269+00:00"
 }

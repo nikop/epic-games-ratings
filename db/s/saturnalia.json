@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64746,
+  "EOS_Progressed": 64751,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5840,6 +5840,11 @@
       "Time": "2023-07-23T20:05:02.9872216+00:00",
       "NumProgressed": 64746,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-23T21:04:47.4526149+00:00",
+      "NumProgressed": 64751,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -5859,7 +5864,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -5875,7 +5880,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -5907,7 +5912,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -5923,7 +5928,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -5963,7 +5968,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -5971,7 +5976,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -5979,7 +5984,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_STAMINA",
@@ -6003,14 +6008,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64746,
+      "Progressed": 64751,
       "Completed": 13
     }
   ],
@@ -6018,8 +6023,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:05:02.987221+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:04:47.4526144+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:21.1649523+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:54.6713211+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:05:02.9872846+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:58:01.5757+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:04:47.45265+00:00"
 }

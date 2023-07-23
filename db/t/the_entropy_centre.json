@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -830,9 +830,9 @@
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_ACT6",
@@ -967,8 +967,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:06:44.4787258+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:06:27.6035918+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.9658074+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:54.5198578+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:06:44.4787501+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:58:01.4393056+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:06:27.6036107+00:00"
 }

@@ -1898,9 +1898,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_018",
@@ -2017,8 +2017,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:06:02.9184383+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:05:40.4939432+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:26.6466515+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:06:02.9184741+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:36.3528868+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:05:40.4939676+00:00"
 }

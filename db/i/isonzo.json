@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6421,
+  "EOS_Progressed": 6422,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3557,6 +3557,11 @@
       "Time": "2023-07-23T20:04:55.5909792+00:00",
       "NumProgressed": 6421,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-23T21:04:40.3467295+00:00",
+      "NumProgressed": 6422,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3632,7 +3637,7 @@
       "Name": "Decimation",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -3656,7 +3661,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -3742,9 +3747,9 @@
       "ID": "ISONZO_ACH_MILLENIAL",
       "SetID": "akchbl3",
       "Name": "Millenial",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 578
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3896,7 +3901,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3920,14 +3925,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6421,
+      "Progressed": 6422,
       "Completed": 8
     }
   ],
@@ -3935,8 +3940,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:04:55.5909785+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:04:40.346729+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:57.5444817+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:04:55.5910337+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:58:03.8922516+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:04:40.3467686+00:00"
 }

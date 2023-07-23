@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2580,
+  "EOS_Progressed": 2583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3358,6 +3358,11 @@
       "Time": "2023-07-23T15:01:01.5197984+00:00",
       "NumProgressed": 2580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T21:00:55.1108173+00:00",
+      "NumProgressed": 2583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3369,7 +3374,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3497,7 +3502,7 @@
       "Name": "Good vibes",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_HOARDER",
@@ -3513,7 +3518,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3521,7 +3526,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3673,7 +3678,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3721,7 +3726,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -3737,7 +3742,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3745,22 +3750,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2580,
+      "Progressed": 2583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-23T19:00:39.38734+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:00:55.1108162+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:59:38.7078197+00:00",
-  "LastUpdate_Achievements": "2023-07-23T19:00:39.3874025+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:59:38.5952186+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:00:55.1109167+00:00"
 }

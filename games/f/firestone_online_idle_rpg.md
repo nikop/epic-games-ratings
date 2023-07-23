@@ -1,14 +1,14 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 891)  
+Rating: 4.10 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,585 |
-| World Map | 79.00% | ~1,346 |
-| Temple of Eternals | 56.00% | ~954 |
-| Prestigious | 53.00% | ~903 |
+| Victor | 93.00% | ~1,586 |
+| World Map | 79.00% | ~1,347 |
+| Temple of Eternals | 56.00% | ~955 |
+| Prestigious | 53.00% | ~904 |
 | Fellowship Power | 41.00% | ~699 |
 | Guild Power | 25.00% | ~426 |
 | Prestigious x10 | 21.00% | ~358 |
@@ -23,11 +23,11 @@ Rating: 4.10 (Ranked 891)
 | Hero inspection | 14.00% | ~239 |
 | Lieutenant | 14.00% | ~239 |
 | Mysterious Rock | 13.00% | ~222 |
-| Natural Talent | 13.00% | ~222 |
 | The Unstoppable | 13.00% | ~222 |
-| Milestone collector | 12.00% | ~204 |
-| Superior | 12.00% | ~204 |
-| Scientist | 11.00% | ~187 |
+| Milestone collector | 12.00% | ~205 |
+| Natural Talent | 12.00% | ~205 |
+| Superior | 12.00% | ~205 |
+| Scientist | 11.00% | ~188 |
 | Challenger | 10.00% | ~170 |
 | Daily Quest Completionist | 10.00% | ~170 |
 | Doing My Part | 10.00% | ~170 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 891)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,704 (Ranked 170)  
+Progressed: 1,705 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-20 | 1,682 | 1 |
 | 2023-07-21 | 1,690 | 1 |
 | 2023-07-22 | 1,699 | 1 |
-| 2023-07-23 | 1,704 | 1 |
+| 2023-07-23 | 1,705 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

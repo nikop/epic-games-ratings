@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1305,9 +1305,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22622,
+  "EOS_Progressed": 22624,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5815,6 +5815,11 @@
       "Time": "2023-07-23T20:02:35.1190455+00:00",
       "NumProgressed": 22622,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-23T21:02:13.9880146+00:00",
+      "NumProgressed": 22624,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5896,9 +5901,9 @@
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 113
     },
     {
       "ID": "BossCastleDefeated",
@@ -6137,21 +6142,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22622,
+      "Progressed": 22624,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1552,
+      "Progressed": 1554,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-22T11:59:16.0371547+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:02:35.1190449+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:02:13.9880141+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:59:40.2002016+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:02:35.1191046+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:59:39.8640153+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:02:13.988057+00:00"
 }

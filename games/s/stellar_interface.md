@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 83.00% | ~44 |
-| Killing Spree | 66.00% | ~35 |
-| 5Gb HDD | 47.00% | ~25 |
-| Merchant Prince I | 47.00% | ~25 |
-| Dominating | 30.00% | ~16 |
-| Fighting Fit I | 28.00% | ~15 |
-| Rambo I | 25.00% | ~13 |
-| 10Gb HDD | 25.00% | ~13 |
-| The Vette | 19.00% | ~10 |
+| First Blood | 83.00% | ~45 |
+| Killing Spree | 67.00% | ~36 |
+| 5Gb HDD | 48.00% | ~26 |
+| Merchant Prince I | 48.00% | ~26 |
+| Dominating | 31.00% | ~17 |
+| Fighting Fit I | 30.00% | ~16 |
+| Rambo I | 26.00% | ~14 |
+| 10Gb HDD | 26.00% | ~14 |
+| The Vette | 20.00% | ~11 |
+| Mega Kill | 17.00% | ~9 |
 | Almost There I | 17.00% | ~9 |
-| Mega Kill | 15.00% | ~8 |
 | Stoic | 15.00% | ~8 |
 | Bronze Prince of Ball-air | 11.00% | ~6 |
 | Omicron Alpha | 11.00% | ~6 |
@@ -22,14 +22,14 @@
 | Collateral Damage I | 11.00% | ~6 |
 | Defrosted | 9.00% | ~5 |
 | Galactic Cadet | 9.00% | ~5 |
-| Sectoral Ensign | 8.00% | ~4 |
-| Rambo II | 8.00% | ~4 |
-| Golden Prince of Ball-air | 8.00% | ~4 |
-| Space Surfer | 8.00% | ~4 |
-| Unstoppable | 8.00% | ~4 |
-| 25Gb HDD | 8.00% | ~4 |
-| Silver Prince of Ball-air | 8.00% | ~4 |
-| Merchant Prince II | 8.00% | ~4 |
+| Sectoral Ensign | 7.00% | ~4 |
+| Rambo II | 7.00% | ~4 |
+| Golden Prince of Ball-air | 7.00% | ~4 |
+| Space Surfer | 7.00% | ~4 |
+| Unstoppable | 7.00% | ~4 |
+| 25Gb HDD | 7.00% | ~4 |
+| Silver Prince of Ball-air | 7.00% | ~4 |
+| Merchant Prince II | 7.00% | ~4 |
 | Flower Power | 6.00% | ~3 |
 | Sectoral Captain | 6.00% | ~3 |
 | Rambo III | 4.00% | ~2 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 343)  
+Progressed: 54 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-05 | 50 | 0 |
 | 2023-07-15 | 51 | 0 |
 | 2023-07-22 | 52 | 0 |
-| 2023-07-23 | 53 | 0 |
+| 2023-07-23 | 54 | 0 |

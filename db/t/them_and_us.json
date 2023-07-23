@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-07-23T19:05:19.1124297+00:00",
       "NumProgressed": 175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T21:05:35.4393459+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -830,7 +835,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -918,7 +923,7 @@
       "Name": "Researcher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -942,7 +947,7 @@
       "Name": "Safe...For now?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_StayDead",
@@ -950,7 +955,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1020,9 +1025,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "ETUA_Trapped",
@@ -1053,7 +1058,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 1
     }
   ],
@@ -1061,8 +1066,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:05:56.9472597+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:05:35.4393454+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:31.2628715+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:05:56.9472951+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:41.6201926+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:05:35.4393732+00:00"
 }

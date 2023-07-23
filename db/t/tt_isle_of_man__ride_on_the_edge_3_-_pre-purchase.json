@@ -668,9 +668,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "gagif7",
       "Name": "First and Foremost",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -684,9 +684,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -700,9 +700,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -835,8 +835,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:03:46.0432755+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:03:17.8959111+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.3686626+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:58:05.2804204+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:03:46.0433161+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:58:09.7056638+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:03:17.8959432+00:00"
 }

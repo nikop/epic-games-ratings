@@ -32,12 +32,12 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Crush | 0.40% | ~23 |
-| Ashley | 0.30% | ~17 |
-| Benedict Brahrnold | 0.30% | ~17 |
-| Love Conquers All | 0.30% | ~17 |
-| Rachael | 0.30% | ~17 |
-| Good Ol' Days | 0.30% | ~17 |
-| Te Amo Lety | 0.30% | ~17 |
+| Ashley | 0.30% | ~18 |
+| Benedict Brahrnold | 0.30% | ~18 |
+| Love Conquers All | 0.30% | ~18 |
+| Rachael | 0.30% | ~18 |
+| Good Ol' Days | 0.30% | ~18 |
+| Te Amo Lety | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | The Bride | 0.20% | ~12 |
 | Deck the Balls | 0.20% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,831 (Ranked 134)  
+Progressed: 5,834 (Ranked 134)  
 Completed: 3 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 3 (0.05%) (Ranked 204)
 | 2023-07-20 | 5,764 | 3 |
 | 2023-07-21 | 5,798 | 3 |
 | 2023-07-22 | 5,818 | 3 |
-| 2023-07-23 | 5,831 | 3 |
+| 2023-07-23 | 5,834 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

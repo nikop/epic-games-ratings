@@ -5,37 +5,37 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,728 |
-| Copacetic Coordination | 16.00% | ~53,123 |
-| Fronting the Money | 14.00% | ~46,483 |
-| The Dawn of Automation | 14.00% | ~46,483 |
-| Extraordinary Logistics | 14.00% | ~46,483 |
-| Dirty Money | 13.00% | ~43,162 |
-| Family First | 13.00% | ~43,162 |
-| Cleaning House | 12.00% | ~39,842 |
-| Room in the Back | 12.00% | ~39,842 |
-| Booze Baron | 11.00% | ~36,522 |
-| Beating the Heat | 10.00% | ~33,202 |
-| Friends on the Force | 10.00% | ~33,202 |
-| Neighborhood Watch | 10.00% | ~33,202 |
-| Core Corps | 8.00% | ~26,561 |
-| Sizeable Stash | 8.00% | ~26,561 |
-| Street Fighter | 7.00% | ~23,241 |
-| Friendly Gestures | 7.00% | ~23,241 |
-| People Person | 7.00% | ~23,241 |
-| Liquor Lord | 6.00% | ~19,921 |
-| Safety in Numbers | 6.00% | ~19,921 |
-| Show ‘em the Sugar | 6.00% | ~19,921 |
-| Killing Them Softly | 6.00% | ~19,921 |
-| Street Knowledge | 5.00% | ~16,601 |
-| Oh Captain | 5.00% | ~16,601 |
-| Branching Out | 5.00% | ~16,601 |
-| Improvement Missions | 5.00% | ~16,601 |
-| Opportunity Knocked | 5.00% | ~16,601 |
-| City of Big Shoulders | 5.00% | ~16,601 |
-| Moving Experiences | 5.00% | ~16,601 |
-| Mission Mastery | 5.00% | ~16,601 |
-| Wise Head | 5.00% | ~16,601 |
+| Corner Clout | 46.00% | ~152,737 |
+| Copacetic Coordination | 16.00% | ~53,126 |
+| Fronting the Money | 14.00% | ~46,485 |
+| The Dawn of Automation | 14.00% | ~46,485 |
+| Extraordinary Logistics | 14.00% | ~46,485 |
+| Dirty Money | 13.00% | ~43,165 |
+| Family First | 13.00% | ~43,165 |
+| Cleaning House | 12.00% | ~39,844 |
+| Room in the Back | 12.00% | ~39,844 |
+| Booze Baron | 11.00% | ~36,524 |
+| Beating the Heat | 10.00% | ~33,204 |
+| Friends on the Force | 10.00% | ~33,204 |
+| Neighborhood Watch | 10.00% | ~33,204 |
+| Core Corps | 8.00% | ~26,563 |
+| Sizeable Stash | 8.00% | ~26,563 |
+| Street Fighter | 7.00% | ~23,243 |
+| Friendly Gestures | 7.00% | ~23,243 |
+| People Person | 7.00% | ~23,243 |
+| Liquor Lord | 6.00% | ~19,922 |
+| Safety in Numbers | 6.00% | ~19,922 |
+| Show ‘em the Sugar | 6.00% | ~19,922 |
+| Killing Them Softly | 6.00% | ~19,922 |
+| Street Knowledge | 5.00% | ~16,602 |
+| Oh Captain | 5.00% | ~16,602 |
+| Branching Out | 5.00% | ~16,602 |
+| Improvement Missions | 5.00% | ~16,602 |
+| Opportunity Knocked | 5.00% | ~16,602 |
+| City of Big Shoulders | 5.00% | ~16,602 |
+| Moving Experiences | 5.00% | ~16,602 |
+| Mission Mastery | 5.00% | ~16,602 |
+| Wise Head | 5.00% | ~16,602 |
 | Considerable Clams | 4.00% | ~13,281 |
 | Gin Joint | 4.00% | ~13,281 |
 | An Affront to the Enemy | 4.00% | ~13,281 |
@@ -48,11 +48,11 @@ Rating: 4.26 (Ranked 804)
 | Still Stalwart | 3.00% | ~9,961 |
 | Bees Knees Bootlegger | 3.00% | ~9,961 |
 | Tighten the Screws | 3.00% | ~9,961 |
-| One of Us | 2.00% | ~6,640 |
-| Baker’s Dozen | 2.00% | ~6,640 |
-| Dropping the Dime | 2.00% | ~6,640 |
-| Spiffy Speakeasies | 2.00% | ~6,640 |
-| Keeping Your Word | 2.00% | ~6,640 |
+| One of Us | 2.00% | ~6,641 |
+| Baker’s Dozen | 2.00% | ~6,641 |
+| Dropping the Dime | 2.00% | ~6,641 |
+| Spiffy Speakeasies | 2.00% | ~6,641 |
+| Keeping Your Word | 2.00% | ~6,641 |
 | Boxing Them In | 1.00% | ~3,320 |
 | Backroom Empire | 1.00% | ~3,320 |
 | Corner Control | 1.00% | ~3,320 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~332 |
 | Station Master | 0.10% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,018 (Ranked 40)  
+Progressed: 332,037 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,15 +180,15 @@ Completed: 5 (0.00%) (Ranked 240)
 | 2023-07-20 | 331,248 | 5 |
 | 2023-07-21 | 331,483 | 5 |
 | 2023-07-22 | 331,756 | 5 |
-| 2023-07-23 | 332,018 | 5 |
+| 2023-07-23 | 332,037 | 5 |
 ## Awards
-Max (Highly Recommended): 27  (Ranked 465)  
-Sum: 121 (Ranked 401)  
-Diff (max vs sum): 64  
+Max (Relaxing): 27  (Ranked 465)  
+Sum: 122 (Ranked 400)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 27 |
-| This game is Relaxing | 26 |
+| This game is Relaxing | 27 |
 | This game is Extremely Fun | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Easy Combat | 21 |
@@ -254,3 +254,4 @@ Diff (max vs sum): 64
 | 2023-07-10 | 4.26 | 27 | 119 |
 | 2023-07-14 | 4.26 | 27 | 120 |
 | 2023-07-20 | 4.26 | 27 | 121 |
+| 2023-07-23 | 4.26 | 27 | 122 |

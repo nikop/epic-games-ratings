@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
@@ -172,8 +172,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:04:39.3880816+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:04:26.1310209+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.2949187+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:13.5924121+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:04:39.3880916+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:23.7186687+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:04:26.1310292+00:00"
 }

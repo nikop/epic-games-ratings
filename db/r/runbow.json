@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247054,
+  "EOS_Progressed": 247055,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9189,6 +9189,11 @@
       "Time": "2023-07-23T20:02:03.4565364+00:00",
       "NumProgressed": 247054,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T21:01:06.4631058+00:00",
+      "NumProgressed": 247055,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9224,7 +9229,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51881
+      "UsersEstimate": 51882
     },
     {
       "ID": "blotbuster",
@@ -9440,7 +9445,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123527
+      "UsersEstimate": 123528
     },
     {
       "ID": "notScared",
@@ -9504,7 +9509,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51881
+      "UsersEstimate": 51882
     },
     {
       "ID": "thunderstruck",
@@ -9567,7 +9572,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247054,
+      "Progressed": 247055,
       "Completed": 3
     }
   ],
@@ -9575,8 +9580,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:02:03.4565358+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:01:06.4631053+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.360681+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:59:43.2365487+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:02:03.4566304+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:59:41.6242547+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:01:06.463209+00:00"
 }

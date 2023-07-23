@@ -8,10 +8,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~130 |
 | The Great Mage | 0.70% | ~91 |
+| Settler | 0.50% | ~65 |
 | Play a Single Player Game | 0.50% | ~65 |
 | Explorer | 0.40% | ~52 |
 | Intrepid | 0.40% | ~52 |
-| Settler | 0.40% | ~52 |
 | Friendly Family | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
 | Able | 0.30% | ~39 |
@@ -22,9 +22,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
+| Greek Paganism | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
 | Brilliant | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
+| Fountainhead | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
@@ -47,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
 | Carthaginian Paganism | 0.20% | ~26 |
-| Greek Paganism | 0.20% | ~26 |
 | Roman Paganism | 0.20% | ~26 |
 | Zoroastrianism | 0.20% | ~26 |
 | Naming Landmarks | 0.20% | ~26 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
-| Fountainhead | 0.10% | ~13 |
 | Great | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,048 (Ranked 115)  
+Progressed: 13,050 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,048 | 5 |
+| 2023-07-23 | 13,050 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

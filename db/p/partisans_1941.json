@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-07-23T20:02:36.2340921+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-23T21:02:14.9185856+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1626,7 +1631,7 @@
       "Name": "Agent 47",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Auditor",
@@ -1640,9 +1645,9 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Big_Bertha",
@@ -1658,7 +1663,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Commandos",
@@ -1714,7 +1719,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Experienced_strategist",
@@ -1722,7 +1727,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Game_Over",
@@ -1730,7 +1735,7 @@
       "Name": "Game Over",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Grenadier",
@@ -1738,7 +1743,7 @@
       "Name": "Grenadier",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Hard_Serpent",
@@ -1786,7 +1791,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Kultprosvet",
@@ -1818,7 +1823,7 @@
       "Name": "Mosquito bite",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Scout",
@@ -1840,9 +1845,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 380
     },
     {
       "ID": "We_were_not_here",
@@ -1865,15 +1870,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:02:36.2340914+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:02:14.9185849+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:59:40.4873512+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:02:36.2341217+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:59:40.130095+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:02:14.9186073+00:00"
 }

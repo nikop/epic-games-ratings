@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19550,
+  "EOS_Progressed": 19551,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -4769,6 +4769,11 @@
       "Time": "2023-07-23T20:03:25.7101804+00:00",
       "NumProgressed": 19550,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-07-23T21:02:40.6201266+00:00",
+      "NumProgressed": 19551,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -4796,7 +4801,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "FirstTame",
@@ -4844,7 +4849,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "PickupKey",
@@ -4876,14 +4881,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 19550,
+      "Progressed": 19551,
       "Completed": 18
     }
   ],
@@ -4891,8 +4896,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-07-19T16:57:54.316399+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:03:25.7101796+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:02:40.620126+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:12.3189611+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:47.2807364+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:03:25.7102159+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:53.6758045+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:02:40.6201546+00:00"
 }

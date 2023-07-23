@@ -7,18 +7,18 @@
 | A path of no return | 101.00% | ~74 |
 | A bottomless pit | 86.00% | ~63 |
 | Pigeon | 82.00% | ~60 |
-| Baited | 68.00% | ~50 |
+| Baited | 70.00% | ~51 |
 | "Swoosh" | 62.00% | ~45 |
 | The light at the end of the tunnel | 59.00% | ~43 |
 | Splash! | 56.00% | ~41 |
-| Masochistic | 51.00% | ~37 |
+| Masochistic | 52.00% | ~38 |
 | Soft skin | 44.00% | ~32 |
-| Squid game | 36.00% | ~26 |
+| Squid game | 37.00% | ~27 |
 | Sensitive soul | 32.00% | ~23 |
+| Hard Rock | 30.00% | ~22 |
 | Rock Solid | 29.00% | ~21 |
 | The beast within | 29.00% | ~21 |
 | It's getting dark | 29.00% | ~21 |
-| Hard Rock | 29.00% | ~21 |
 | Rooftop | 27.00% | ~20 |
 | Homeless | 25.00% | ~18 |
 | Big badaboom! | 25.00% | ~18 |
@@ -28,7 +28,7 @@
 | Nokron tower | 21.00% | ~15 |
 | Payback | 21.00% | ~15 |
 | Compulsive hoarder | 18.00% | ~13 |
-| Magnitude 5 | 16.00% | ~12 |
+| Magnitude 5 | 18.00% | ~13 |
 | GG EZ | 14.00% | ~10 |
 | Comeback | 14.00% | ~10 |
 | MayDay! MayDay! | 12.00% | ~9 |

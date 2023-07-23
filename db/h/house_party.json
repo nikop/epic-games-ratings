@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5831,
+  "EOS_Progressed": 5834,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3636,6 +3636,11 @@
       "Time": "2023-07-23T19:05:31.4633834+00:00",
       "NumProgressed": 5831,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-23T21:05:48.3518986+00:00",
+      "NumProgressed": 5834,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3671,7 +3676,7 @@
       "Name": "Ashley",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BBrahrnold",
@@ -3679,7 +3684,7 @@
       "Name": "Benedict Brahrnold",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BeBack",
@@ -3919,7 +3924,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LifeFoundAWay",
@@ -3991,7 +3996,7 @@
       "Name": "Rachael",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Ronin",
@@ -4175,7 +4180,7 @@
       "Name": "Good Ol\u0027 Days",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "snapped",
@@ -4191,28 +4196,28 @@
       "Name": "Te Amo Lety",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2870,
+      "Progressed": 2873,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5831,
+      "Progressed": 5834,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-23T20:06:11.3196677+00:00",
+  "LastChanged_Achievements": "2023-07-23T21:05:48.3518981+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.6654543+00:00",
-  "LastUpdate_Ratings": "2023-07-23T19:57:45.6873749+00:00",
-  "LastUpdate_Achievements": "2023-07-23T20:06:11.319764+00:00"
+  "LastUpdate_Ratings": "2023-07-23T20:57:52.1963807+00:00",
+  "LastUpdate_Achievements": "2023-07-23T21:05:48.3519668+00:00"
 }

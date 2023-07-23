@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 94.00% | ~74 |
-| Rehearsal | 92.00% | ~73 |
-| Daily Life | 89.00% | ~70 |
-| Assembly Line Work | 85.00% | ~67 |
+| ECG | 94.00% | ~75 |
+| Rehearsal | 93.00% | ~74 |
+| Daily Life | 89.00% | ~71 |
+| Assembly Line Work | 84.00% | ~67 |
 | Solitude | 78.00% | ~62 |
-| Pinewood, Here we come! | 72.00% | ~57 |
-| The Van | 66.00% | ~52 |
-| Road-Trip | 61.00% | ~48 |
+| Pinewood, Here we come! | 71.00% | ~57 |
+| The Van | 65.00% | ~52 |
+| Road-Trip | 60.00% | ~48 |
 | A Musical Pause | 59.00% | ~47 |
 | Briget's | 49.00% | ~39 |
-| Sound of Noise | 47.00% | ~37 |
+| Sound of Noise | 46.00% | ~37 |
 | Big City Music | 44.00% | ~35 |
-| Love at First Sight | 42.00% | ~33 |
+| Love at First Sight | 41.00% | ~33 |
 | First Kiss | 35.00% | ~28 |
 | A Bigger Band | 33.00% | ~26 |
 | Symbiosis | 33.00% | ~26 |
 | Fuel | 28.00% | ~22 |
-| Alone Together | 27.00% | ~21 |
+| Alone Together | 26.00% | ~21 |
 | Threatening Nature | 25.00% | ~20 |
 | TV Dreams | 23.00% | ~18 |
-| Flat Tire | 22.00% | ~17 |
+| Flat Tire | 21.00% | ~17 |
 | The Clash | 18.00% | ~14 |
 | Dreamers | 18.00% | ~14 |
 | The Fix | 15.00% | ~12 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 324)  
-Completed: 1 (1.27%) (Ranked 97)  
+Progressed: 80 (Ranked 324)  
+Completed: 1 (1.25%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 1 (1.27%) (Ranked 97)
 | 2023-07-19 | 71 | 1 |
 | 2023-07-21 | 74 | 1 |
 | 2023-07-22 | 79 | 1 |
+| 2023-07-23 | 80 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

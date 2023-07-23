@@ -35,9 +35,9 @@
 | Good Neighbor | 10.00% | ~78 |
 | Chaincrawler Explorer | 9.00% | ~70 |
 | Family Memories | 9.00% | ~70 |
+| Theater Explorer | 9.00% | ~70 |
 | Sump Explorer | 8.00% | ~63 |
 | Syron for Hope | 8.00% | ~63 |
-| Theater Explorer | 8.00% | ~63 |
 | Ask Questions Later | 8.00% | ~63 |
 | Cultivair Explorer | 7.00% | ~55 |
 | Factorywood Explorer | 7.00% | ~55 |

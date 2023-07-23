@@ -15,9 +15,9 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 6.00% | ~13 |
 | Spending Spree | 6.00% | ~13 |
 | Ten Steps from the Grave | 6.00% | ~13 |
-| Cold-Blooded Critters | 5.00% | ~10 |
-| Everything Must Go! | 5.00% | ~10 |
-| Mushroom Madness! | 5.00% | ~10 |
+| Cold-Blooded Critters | 5.00% | ~11 |
+| Everything Must Go! | 5.00% | ~11 |
+| Mushroom Madness! | 5.00% | ~11 |
 | Deadication | 4.00% | ~8 |
 | The Harder They Fall | 4.00% | ~8 |
 | Horder Better Faster Stronger | 4.00% | ~8 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 270)  
+Progressed: 211 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,7 +38,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 34 | 0 |
 | 2023-07-21 | 105 | 0 |
 | 2023-07-22 | 161 | 0 |
-| 2023-07-23 | 209 | 0 |
+| 2023-07-23 | 211 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 447)  
 Sum: 226 (Ranked 351)  

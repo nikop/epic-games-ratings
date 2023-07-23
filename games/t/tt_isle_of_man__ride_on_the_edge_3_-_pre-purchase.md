@@ -17,13 +17,13 @@
 | Playing God | 9.00% | ~9 |
 | Nerd | 8.00% | ~8 |
 | Upgradeaholic | 7.00% | ~7 |
+| First and Foremost | 6.00% | ~6 |
 | Tailor-Made | 6.00% | ~6 |
 | Seven-League Boots | 5.00% | ~5 |
-| First and Foremost | 5.00% | ~5 |
+| Made Mother Proud | 5.00% | ~5 |
+| Winner Winner Chicken Dinner | 5.00% | ~5 |
 | POI Hunter | 4.00% | ~4 |
 | Gotta Go Fast! | 4.00% | ~4 |
-| Made Mother Proud | 4.00% | ~4 |
-| Winner Winner Chicken Dinner | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
 | Tempus Fugit | 4.00% | ~4 |
 | Déjà-Vu | 3.00% | ~3 |

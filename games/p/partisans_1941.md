@@ -7,27 +7,27 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 34.00% | ~391 |
-| War Never Changes | 34.00% | ~391 |
-| Grenadier | 33.00% | ~379 |
+| Grenadier | 33.00% | ~380 |
+| War Never Changes | 33.00% | ~380 |
 | Heroes Never Die | 30.00% | ~345 |
-| Mosquito bite | 29.00% | ~333 |
+| Mosquito bite | 29.00% | ~334 |
 | Spice It Up | 26.00% | ~299 |
 | Bomberman | 22.00% | ~253 |
-| Agent 47 | 21.00% | ~241 |
-| You're Gonna Go Far, Kid | 21.00% | ~241 |
+| Agent 47 | 21.00% | ~242 |
+| You're Gonna Go Far, Kid | 21.00% | ~242 |
 | Death to the Oppressor! | 16.00% | ~184 |
-| The Gang's All Here | 13.00% | ~149 |
+| The Gang's All Here | 13.00% | ~150 |
 | Your Answer | 12.00% | ~138 |
 | One by One | 11.00% | ~126 |
 | The Big Bertha | 10.00% | ~115 |
-| Game Over | 9.00% | ~103 |
+| Game Over | 9.00% | ~104 |
 | Lock, Stock | 6.00% | ~69 |
 | Payback Time | 6.00% | ~69 |
-| No Witness | 5.00% | ~57 |
+| No Witness | 5.00% | ~58 |
 | Strategist | 3.00% | ~34 |
 | Unbreakable Wall | 2.00% | ~23 |
-| Experienced Strategist | 1.00% | ~11 |
-| Do a Barrel Roll! | 0.90% | ~10 |
+| Do a Barrel Roll! | 1.00% | ~12 |
+| Experienced Strategist | 1.00% | ~12 |
 | How?! | 0.80% | ~9 |
 | Tough as Nails | 0.30% | ~3 |
 | We Weren't There | 0.20% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 184)  
+Progressed: 1,150 (Ranked 184)  
 Completed: 1 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 1 (0.09%) (Ranked 191)
 | 2023-07-20 | 1,113 | 1 |
 | 2023-07-21 | 1,128 | 1 |
 | 2023-07-22 | 1,140 | 1 |
-| 2023-07-23 | 1,149 | 1 |
+| 2023-07-23 | 1,150 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

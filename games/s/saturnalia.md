@@ -6,19 +6,19 @@ Rating: 4.25 (Ranked 809)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Out of Shape | 4.00% | ~2,590 |
-| Bonfire Lit | 3.00% | ~1,942 |
-| Survival Expert | 3.00% | ~1,942 |
+| Bonfire Lit | 3.00% | ~1,943 |
+| Survival Expert | 3.00% | ~1,943 |
 | Denial | 2.00% | ~1,295 |
 | Acceptance | 2.00% | ~1,295 |
 | Bargaining | 2.00% | ~1,295 |
-| Anger | 1.00% | ~647 |
-| Fear Of The Dark | 1.00% | ~647 |
-| Detective of the occult | 1.00% | ~647 |
-| Depression | 1.00% | ~647 |
+| Anger | 1.00% | ~648 |
+| Fear Of The Dark | 1.00% | ~648 |
+| Detective of the occult | 1.00% | ~648 |
+| Depression | 1.00% | ~648 |
 | Bless me Father... | 0.80% | ~518 |
 | Phone Bill | 0.70% | ~453 |
-| Power of Friendship | 0.60% | ~388 |
-| Chain Breaker | 0.60% | ~388 |
+| Power of Friendship | 0.60% | ~389 |
+| Chain Breaker | 0.60% | ~389 |
 | Let there be light | 0.50% | ~324 |
 | Silent Advisor | 0.50% | ~324 |
 | Are you still there? | 0.40% | ~259 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 809)
 | Paparazzi | 0.30% | ~194 |
 | Ear Ringing | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,746 (Ranked 80)  
+Progressed: 64,751 (Ranked 80)  
 Completed: 13 (0.02%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 13 (0.02%) (Ranked 219)
 | 2023-07-20 | 64,656 | 13 |
 | 2023-07-21 | 64,686 | 13 |
 | 2023-07-22 | 64,717 | 13 |
-| 2023-07-23 | 64,746 | 13 |
+| 2023-07-23 | 64,751 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
