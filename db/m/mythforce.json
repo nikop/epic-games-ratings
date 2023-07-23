@@ -5,7 +5,7 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 350,
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 91,
@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -798,6 +798,11 @@
       "Time": "2023-07-23T02:11:01.9696487+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T03:03:20.0819595+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -808,9 +813,9 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -826,7 +831,7 @@
       "Name": "Deadication",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -842,7 +847,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -890,7 +895,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -906,7 +911,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -930,7 +935,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -938,7 +943,7 @@
       "Name": "On this Episode!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -946,7 +951,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -970,15 +975,15 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -993,15 +998,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-23T02:11:01.9696481+00:00",
+  "LastChanged_Achievements": "2023-07-23T03:03:20.0819589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:07:09.5026374+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:11:01.9696696+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:58:38.8209834+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:03:20.0819764+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shakedown-hawaii",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2019-05-07T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.1253649+00:00",
   "LastChanged": "2023-03-31T05:57:46.125365+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.1264638+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:05:54.0535832+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:10:09.7072094+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:57:47.9828873+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:00:34.4498889+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 299)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,768 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,769 |
 | Mainframe Hacker | 48.00% | ~3,576 |
 | The Spy who eliminated me | 48.00% | ~3,576 |
 | Tomorrow Never Dyes | 46.00% | ~3,427 |
 | Never Say Loser Again | 40.00% | ~2,980 |
 | For your Eyes only | 38.00% | ~2,831 |
-| From the Vault with Love | 37.00% | ~2,756 |
-| Tailor-Made | 37.00% | ~2,756 |
+| From the Vault with Love | 37.00% | ~2,757 |
+| Tailor-Made | 37.00% | ~2,757 |
 | You Only Live Twice | 34.00% | ~2,533 |
 | Fully Decked Out | 34.00% | ~2,533 |
 | A view to Win | 27.00% | ~2,012 |
-| Smells Like Trouble | 25.00% | ~1,862 |
+| Smells Like Trouble | 25.00% | ~1,863 |
 | Assistant Accountant | 24.00% | ~1,788 |
 | The Living Portrait | 24.00% | ~1,788 |
 | Private Collection | 24.00% | ~1,788 |
@@ -25,24 +25,24 @@ Rating: 4.65 (Ranked 299)
 | Dr. No Kill | 23.00% | ~1,714 |
 | My Motto, My Creed | 23.00% | ~1,714 |
 | Keycards Royale | 22.00% | ~1,639 |
-| In It to Win It | 21.00% | ~1,564 |
+| In It to Win It | 21.00% | ~1,565 |
 | Security Supervisor | 10.00% | ~745 |
-| License to Thrill | 9.00% | ~670 |
+| License to Thrill | 9.00% | ~671 |
 | Social of Solace | 8.00% | ~596 |
 | Safe Withdrawal | 6.00% | ~447 |
-| Live and let lie | 5.00% | ~372 |
+| Live and let lie | 5.00% | ~373 |
 | Call Me Maybe | 4.00% | ~298 |
 | PHD in VIP | 4.00% | ~298 |
 | Branch Manager | 3.00% | ~224 |
 | The terminals are not enough | 2.00% | ~149 |
 | Lose Another Day | 2.00% | ~149 |
 | Chairman of Deceive Inc. | 2.00% | ~149 |
-| Chief Information Officer | 1.00% | ~74 |
+| Chief Information Officer | 1.00% | ~75 |
 | Masteries Are Forever | 0.70% | ~52 |
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,450 (Ranked 127)  
+Progressed: 7,451 (Ranked 127)  
 Completed: 1 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.01%) (Ranked 228)
 | 2023-07-20 | 7,416 | 1 |
 | 2023-07-21 | 7,431 | 1 |
 | 2023-07-22 | 7,449 | 1 |
-| 2023-07-23 | 7,450 | 1 |
+| 2023-07-23 | 7,451 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

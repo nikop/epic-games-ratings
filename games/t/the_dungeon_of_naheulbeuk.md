@@ -6,32 +6,32 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~113,594 |
-| Where's that freaking Dwarf? | 46.00% | ~90,091 |
-| GG EZ | 28.00% | ~54,838 |
-| Speedrun | 26.00% | ~50,921 |
-| Déjà vu | 21.00% | ~41,129 |
-| Sock! SOCK! | 17.00% | ~33,295 |
-| DM intervention | 13.00% | ~25,461 |
-| Fireproof Wizardess | 9.00% | ~17,627 |
-| Livin' in a dwarven paradise | 7.00% | ~13,710 |
-| Way of the Wimp | 7.00% | ~13,710 |
-| A beer, two curses, three companions | 7.00% | ~13,710 |
-| The plot thickens... At the tavern | 5.00% | ~9,793 |
-| The Woman in the High Castle | 4.00% | ~7,834 |
-| I am the night | 4.00% | ~7,834 |
+| Alt+F4 | 58.00% | ~113,610 |
+| Where's that freaking Dwarf? | 46.00% | ~90,104 |
+| GG EZ | 28.00% | ~54,846 |
+| Speedrun | 26.00% | ~50,929 |
+| Déjà vu | 21.00% | ~41,135 |
+| Sock! SOCK! | 17.00% | ~33,299 |
+| DM intervention | 13.00% | ~25,464 |
+| Fireproof Wizardess | 9.00% | ~17,629 |
+| Livin' in a dwarven paradise | 7.00% | ~13,712 |
+| Way of the Wimp | 7.00% | ~13,712 |
+| A beer, two curses, three companions | 7.00% | ~13,712 |
+| The plot thickens... At the tavern | 5.00% | ~9,794 |
+| The Woman in the High Castle | 4.00% | ~7,835 |
+| I am the night | 4.00% | ~7,835 |
 | Shiny and Crôm | 3.00% | ~5,876 |
 | The demons' feast | 3.00% | ~5,876 |
 | Res Judicata | 3.00% | ~5,876 |
 | The Ranger of Chaos | 3.00% | ~5,876 |
 | Team Building Exercise | 3.00% | ~5,876 |
 | Oh, when I'll be level 10... | 3.00% | ~5,876 |
-| The Great Library | 2.00% | ~3,917 |
-| Torture and Sensibility | 2.00% | ~3,917 |
-| Dwarf Fortress | 2.00% | ~3,917 |
-| The beards of change | 2.00% | ~3,917 |
-| Thieves' Guild Accreditation | 2.00% | ~3,917 |
-| Material Girl | 2.00% | ~3,917 |
+| The Great Library | 2.00% | ~3,918 |
+| Torture and Sensibility | 2.00% | ~3,918 |
+| Dwarf Fortress | 2.00% | ~3,918 |
+| The beards of change | 2.00% | ~3,918 |
+| Thieves' Guild Accreditation | 2.00% | ~3,918 |
+| Material Girl | 2.00% | ~3,918 |
 | Urik's Depths | 1.00% | ~1,959 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,959 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,959 |
@@ -49,8 +49,8 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.60% | ~1,175 |
 | I'd rather... Just... Sing! | 0.50% | ~979 |
 | The number of the counting shalt be 7 | 0.50% | ~979 |
-| Scholar of the Lands of Fangh | 0.40% | ~783 |
-| Friendly fire | 0.40% | ~783 |
+| Scholar of the Lands of Fangh | 0.40% | ~784 |
+| Friendly fire | 0.40% | ~784 |
 | Holistic Adventuring Party | 0.30% | ~588 |
 | Insult to injury | 0.30% | ~588 |
 | The Blood Countess | 0.20% | ~392 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,851 (Ranked 56)  
+Progressed: 195,879 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 193,404 | 0 |
 | 2023-07-21 | 194,527 | 0 |
 | 2023-07-22 | 195,737 | 0 |
-| 2023-07-23 | 195,851 | 0 |
+| 2023-07-23 | 195,879 | 0 |
 ## Awards
 Max (Character Customization): 123  (Ranked 308)  
 Sum: 123 (Ranked 400)  

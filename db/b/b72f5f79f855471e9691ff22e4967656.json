@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -636,9 +636,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "questKillSwampMonster",
@@ -724,9 +724,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "questSavePrincessFinal",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-23T02:11:26.7906293+00:00",
+  "LastChanged_Achievements": "2023-07-23T03:03:37.6090366+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:05:06.2447813+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:11:26.7907583+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:57:13.4044551+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:03:37.6091139+00:00"
 }

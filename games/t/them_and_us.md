@@ -28,14 +28,14 @@
 | The bus stop | 4.00% | ~7 |
 | This Mansion Is Clean | 4.00% | ~7 |
 | Armed To The Teeth | 2.00% | ~3 |
+| Back In Time | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
 | Run and Gun | 2.00% | ~3 |
 | Pet The Dog | 2.00% | ~3 |
-| Back In Time | 1.00% | ~2 |
+| The 5th Element | 2.00% | ~3 |
 | Box Of Ploutus | 1.00% | ~2 |
 | Survival Hero | 1.00% | ~2 |
-| The 5th Element | 1.00% | ~2 |
 | Before The Eclipse | 0.60% | ~1 |
 | Chosen One | 0.60% | ~1 |
 | Die Another Day | 0.60% | ~1 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.60% | ~1 |
 | Survival Horror | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 280)  
+Progressed: 170 (Ranked 281)  
 Completed: 1 (0.59%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |

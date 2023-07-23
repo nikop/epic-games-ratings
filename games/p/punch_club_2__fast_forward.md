@@ -7,48 +7,48 @@
 | Such a strange dream… | 91.00% | ~82 |
 | Your first fight | 88.00% | ~79 |
 | Good Person Chip | 86.00% | ~77 |
-| Your first job | 82.00% | ~74 |
-| First winning | 81.00% | ~73 |
-| First defeat | 73.00% | ~66 |
+| Your first job | 83.00% | ~75 |
+| First winning | 82.00% | ~74 |
+| First defeat | 74.00% | ~67 |
+| Neurotrainer – power gainer! | 72.00% | ~65 |
 | Old movies enjoyer | 71.00% | ~64 |
-| Neurotrainer – power gainer! | 71.00% | ~64 |
-| Fitness professional | 67.00% | ~60 |
-| Depressed visitor | 66.00% | ~59 |
-| Employee of the week | 66.00% | ~59 |
+| Fitness professional | 68.00% | ~61 |
+| Depressed visitor | 67.00% | ~60 |
+| Employee of the week | 67.00% | ~60 |
 | Your own amateur gym | 63.00% | ~57 |
-| Run K, run! | 60.00% | ~54 |
-| Intriguing candies | 60.00% | ~54 |
+| Run K, run! | 61.00% | ~55 |
+| Intriguing candies | 61.00% | ~55 |
 | Hello, world! | 60.00% | ~54 |
 | No bullying more | 59.00% | ~53 |
-| Fighting is cool | 56.00% | ~50 |
+| Fighting is cool | 57.00% | ~51 |
 | Pal of your father? | 51.00% | ~46 |
 | Little hacker | 48.00% | ~43 |
-| Spirit of the past | 44.00% | ~40 |
-| Employee of the month | 44.00% | ~40 |
-| Workout professional | 43.00% | ~39 |
-| Law student | 41.00% | ~37 |
-| Your own way | 41.00% | ~37 |
+| Spirit of the past | 47.00% | ~42 |
+| Employee of the month | 47.00% | ~42 |
+| Workout professional | 44.00% | ~40 |
+| Law student | 43.00% | ~39 |
+| Your own way | 42.00% | ~38 |
 | Employee of the year | 38.00% | ~34 |
 | Champion – starter pack | 36.00% | ~32 |
-| It's good to be alive | 34.00% | ~31 |
-| Fight for life | 33.00% | ~30 |
-| Own four walls | 33.00% | ~30 |
-| Handyman | 32.00% | ~29 |
+| It's good to be alive | 36.00% | ~32 |
+| Fight for life | 34.00% | ~31 |
+| Own four walls | 34.00% | ~31 |
+| Handyman | 33.00% | ~30 |
 | Extreme neuropower! | 31.00% | ~28 |
-| Legal courier | 26.00% | ~23 |
+| Legal courier | 27.00% | ~24 |
 | Now you are worthy | 24.00% | ~22 |
 | No blades in the gym | 21.00% | ~19 |
+| Escaped from a big trouble | 20.00% | ~18 |
 | Mysterious voice | 19.00% | ~17 |
-| Escaped from a big trouble | 19.00% | ~17 |
 | Guiding on the right path | 19.00% | ~17 |
 | Fight is life | 16.00% | ~14 |
 | Get out of my apartment! | 13.00% | ~12 |
 | Responsible approach | 12.00% | ~11 |
-| Deal with life | 10.00% | ~9 |
-| Underground dwellers | 9.00% | ~8 |
-| Mom got better | 8.00% | ~7 |
+| Deal with life | 11.00% | ~10 |
+| Underground dwellers | 10.00% | ~9 |
+| Mom got better | 9.00% | ~8 |
+| The die is cast | 9.00% | ~8 |
 | Champion – no way back | 8.00% | ~7 |
-| The die is cast | 8.00% | ~7 |
 | Seashell hunter | 8.00% | ~7 |
 | GYM professional | 7.00% | ~6 |
 | Poisoned fighter | 7.00% | ~6 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 2.00% | ~2 |
 | Silver’s past | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 311)  
+Progressed: 90 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

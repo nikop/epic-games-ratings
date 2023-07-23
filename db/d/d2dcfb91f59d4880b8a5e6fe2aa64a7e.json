@@ -2,9 +2,9 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -166,6 +166,11 @@
       "Time": "2023-07-21T13:11:00.4609349+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T03:03:37.9591063+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -177,13 +182,13 @@
       "Name": "Baby Steps",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "COINS",
       "SetID": "63n2m0e",
       "Name": "Coin Operator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -239,7 +244,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -287,7 +292,7 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -335,7 +340,7 @@
       "ID": "UNDERDARK_BOSS",
       "SetID": "63n2m0e",
       "Name": "Pest Control",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 3
     }
@@ -344,14 +349,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-07-23T02:11:27.2678632+00:00",
+  "LastChanged_Achievements": "2023-07-23T03:03:37.9591058+00:00",
   "LastUpdate_AppInfo": "2023-07-19T03:15:27.6339074+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:05:27.2594176+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:11:27.2678815+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:57:29.1423827+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:03:37.9591203+00:00"
 }

@@ -33,7 +33,7 @@
 | Through Hell and Back | 3.00% | ~10 |
 | KOBEEE! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 238)  
+Progressed: 343 (Ranked 239)  
 Completed: 10 (2.92%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |

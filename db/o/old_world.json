@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13021,
+  "EOS_Progressed": 13022,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8307,6 +8307,11 @@
       "Time": "2023-07-23T00:04:58.4475578+00:00",
       "NumProgressed": 13021,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-23T03:05:02.2900019+00:00",
+      "NumProgressed": 13022,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8748,9 +8753,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -9076,9 +9081,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -9092,9 +9097,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
@@ -9228,9 +9233,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -9780,9 +9785,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -10100,9 +10105,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -10685,21 +10690,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13021,
+      "Progressed": 13022,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13021,
+      "Progressed": 13022,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-23T02:13:27.9989023+00:00",
+  "LastChanged_Achievements": "2023-07-23T03:05:02.2900013+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:06:32.0821687+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:13:27.9998015+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:58:13.2276708+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:05:02.2908119+00:00"
 }

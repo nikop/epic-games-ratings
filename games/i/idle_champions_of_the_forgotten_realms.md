@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Mad Wizard | 0.20% | ~429 |
 | Waterdeep Detours | 0.20% | ~429 |
+| Underdeep Cartography | 0.20% | ~429 |
 | Friendly Imps | 0.20% | ~429 |
 | Pure Energy | 0.20% | ~429 |
 | Troublesome Prisoner | 0.10% | ~215 |
@@ -113,7 +114,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~215 |
 | Easily Distracted | 0.10% | ~215 |
 | Rude Welcome | 0.10% | ~215 |
-| Underdeep Cartography | 0.10% | ~215 |
 | Overdue Rendezvous | 0.10% | ~215 |
 | Moose Tracks | 0.10% | ~181 |
 | An Awakened Axe | 0.10% | ~181 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,673 (Ranked 53)  
+Progressed: 214,685 (Ranked 53)  
 Completed: 2,060 (0.96%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,7 +613,7 @@ Completed: 2,060 (0.96%) (Ranked 107)
 | 2023-07-20 | 213,863 | 2,059 |
 | 2023-07-21 | 214,257 | 2,060 |
 | 2023-07-22 | 214,639 | 2,060 |
-| 2023-07-23 | 214,673 | 2,060 |
+| 2023-07-23 | 214,685 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,055  (Ranked 66)  
 Sum: 30,644 (Ranked 38)  

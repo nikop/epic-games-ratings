@@ -3188,9 +3188,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10499,
+  "EOS_Progressed": 10500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9028,6 +9028,11 @@
       "Time": "2023-07-23T02:12:45.4495116+00:00",
       "NumProgressed": 10499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-23T03:04:32.1312417+00:00",
+      "NumProgressed": 10500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9255,7 +9260,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -9359,7 +9364,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "43_DreadfulDragon",
@@ -9375,7 +9380,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -9966,21 +9971,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9281,
+      "Progressed": 9282,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10499,
+      "Progressed": 10500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-21T22:58:59.961112+00:00",
-  "LastChanged_Achievements": "2023-07-23T02:12:45.4495108+00:00",
+  "LastChanged_Achievements": "2023-07-23T03:04:32.1312408+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:07:09.6895532+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:12:45.4497841+00:00"
+  "LastUpdate_Ratings": "2023-07-23T02:58:38.9668122+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:04:32.131411+00:00"
 }

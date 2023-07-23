@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~42,845 |
-| INFUSED WITH LIGHT | 53.00% | ~33,394 |
-| FOXIN' AROUND | 29.00% | ~18,272 |
-| FETCH | 27.00% | ~17,012 |
-| BLOOMS OF LIGHT | 26.00% | ~16,382 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~42,847 |
+| INFUSED WITH LIGHT | 53.00% | ~33,396 |
+| FOXIN' AROUND | 29.00% | ~18,273 |
+| FETCH | 27.00% | ~17,013 |
+| BLOOMS OF LIGHT | 26.00% | ~16,383 |
 | BEST FRIENDS | 22.00% | ~13,862 |
-| AWAKEN | 21.00% | ~13,231 |
-| ERADICATE | 21.00% | ~13,231 |
-| SPIRIT BARK | 21.00% | ~13,231 |
-| GARDEN OF LIGHT | 18.00% | ~11,341 |
-| SPIRIT FORM | 16.00% | ~10,081 |
-| UPROOTING DARKNESS | 15.00% | ~9,451 |
-| WRITTEN IN STONE | 15.00% | ~9,451 |
+| AWAKEN | 21.00% | ~13,232 |
+| SPIRIT BARK | 21.00% | ~13,232 |
+| ERADICATE | 20.00% | ~12,602 |
+| GARDEN OF LIGHT | 18.00% | ~11,342 |
+| SPIRIT FORM | 16.00% | ~10,082 |
+| UPROOTING DARKNESS | 15.00% | ~9,452 |
+| WRITTEN IN STONE | 15.00% | ~9,452 |
 | WEIGHTLESS | 12.00% | ~7,561 |
 | SPIRIT DASH | 11.00% | ~6,931 |
 | OLD COMPANION | 9.00% | ~5,671 |
 | PLAGUE DOCTOR | 8.00% | ~5,041 |
 | SPIRITED AWAY | 8.00% | ~5,041 |
-| MATCH MAKER | 7.00% | ~4,410 |
-| NORTHERN LIGHTS | 7.00% | ~4,410 |
+| MATCH MAKER | 7.00% | ~4,411 |
+| NORTHERN LIGHTS | 7.00% | ~4,411 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,520 |
 | ANCIENT HISTORY | 3.00% | ~1,890 |
 | NONE FORGOTTEN | 2.00% | ~1,260 |
 | KINDRED SPIRITS | 0.60% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,007 (Ranked 81)  
+Progressed: 63,011 (Ranked 81)  
 Completed: 320 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 320 (0.51%) (Ranked 128)
 | 2023-07-20 | 62,748 | 316 |
 | 2023-07-21 | 62,864 | 318 |
 | 2023-07-22 | 62,995 | 320 |
-| 2023-07-23 | 63,007 | 320 |
+| 2023-07-23 | 63,011 | 320 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 475)  
 Sum: 113 (Ranked 408)  

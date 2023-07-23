@@ -8,13 +8,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 0.80% | ~104 |
 | The Great Mage | 0.50% | ~65 |
+| Explorer | 0.30% | ~39 |
 | Settler | 0.30% | ~39 |
+| Friendly Family | 0.30% | ~39 |
 | Play a Single Player Game | 0.30% | ~39 |
 | Poetic Leader | 0.30% | ~39 |
 | Able | 0.20% | ~26 |
 | Architect | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
-| Explorer | 0.20% | ~26 |
 | Good | 0.20% | ~26 |
 | Intrepid | 0.20% | ~26 |
 | Just | 0.20% | ~26 |
@@ -22,11 +23,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.20% | ~26 |
 | Pioneer | 0.20% | ~26 |
 | Strong | 0.20% | ~26 |
-| Friendly Family | 0.20% | ~26 |
 | Hanging Gardens | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Oracle | 0.20% | ~26 |
+| Pyramids | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
+| Judaism | 0.20% | ~26 |
 | Greek Paganism | 0.20% | ~26 |
 | Trade Caravan | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
@@ -85,7 +87,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
+| Great Difficulty | 0.10% | ~13 |
 | Just Difficulty | 0.10% | ~13 |
+| Magnificent Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
@@ -132,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.10% | ~13 |
 | Necropolis | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
-| Pyramids | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
@@ -159,7 +162,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
-| Judaism | 0.10% | ~13 |
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Babylonian Paganism | 0.10% | ~13 |
@@ -242,8 +244,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Great Difficulty | 0.00% | ~0 |
-| Magnificent Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,021 (Ranked 114)  
+Progressed: 13,022 (Ranked 114)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-20 | 12,979 | 5 |
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
-| 2023-07-23 | 13,021 | 5 |
+| 2023-07-23 | 13,022 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 259)  
 Sum: 1,783 (Ranked 204)  

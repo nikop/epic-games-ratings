@@ -6,43 +6,43 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~603,361 |
-| Death From Above | 46.00% | ~603,361 |
-| Master of the Household | 39.00% | ~511,545 |
-| Death of the Party | 36.00% | ~472,196 |
-| NEXUS-47 | 33.00% | ~432,846 |
-| The Last Tango | 32.00% | ~419,730 |
-| Nightmare Fuel | 31.00% | ~406,613 |
-| The Result of Previous Training | 28.00% | ~367,263 |
-| Tools of the Trade | 28.00% | ~367,263 |
-| Cleared for Field Duty | 27.00% | ~354,147 |
-| Seizing the Opportunity | 25.00% | ~327,914 |
-| Bullet Train | 21.00% | ~275,448 |
-| Stylish Assassin | 20.00% | ~262,331 |
-| Silent Assassin | 14.00% | ~183,632 |
-| Rise Up | 13.00% | ~170,515 |
-| Evil Wine Club | 12.00% | ~157,399 |
+| Unseen Assassin | 46.00% | ~603,366 |
+| Death From Above | 46.00% | ~603,366 |
+| Master of the Household | 39.00% | ~511,549 |
+| Death of the Party | 36.00% | ~472,199 |
+| NEXUS-47 | 33.00% | ~432,849 |
+| The Last Tango | 32.00% | ~419,733 |
+| Nightmare Fuel | 31.00% | ~406,616 |
+| The Result of Previous Training | 28.00% | ~367,266 |
+| Tools of the Trade | 28.00% | ~367,266 |
+| Cleared for Field Duty | 27.00% | ~354,150 |
+| Seizing the Opportunity | 25.00% | ~327,916 |
+| Bullet Train | 21.00% | ~275,450 |
+| Stylish Assassin | 20.00% | ~262,333 |
+| Silent Assassin | 14.00% | ~183,633 |
+| Rise Up | 13.00% | ~170,516 |
+| Evil Wine Club | 12.00% | ~157,400 |
 | Console Cowboy | 10.00% | ~131,166 |
 | Last Stop | 10.00% | ~131,166 |
-| A New Profile | 9.00% | ~118,049 |
-| Full House | 9.00% | ~118,049 |
-| Dune Raider | 8.00% | ~104,932 |
-| No Stone Unturned | 8.00% | ~104,932 |
-| Train Surfing | 8.00% | ~104,932 |
-| Icebreaker | 7.00% | ~91,816 |
-| Family Feud | 6.00% | ~78,699 |
-| Rich Harvest | 6.00% | ~78,699 |
-| Count Down From 47 | 6.00% | ~78,699 |
+| A New Profile | 9.00% | ~118,050 |
+| Full House | 9.00% | ~118,050 |
+| Dune Raider | 8.00% | ~104,933 |
+| No Stone Unturned | 8.00% | ~104,933 |
+| Train Surfing | 8.00% | ~104,933 |
+| Icebreaker | 7.00% | ~91,817 |
+| Family Feud | 6.00% | ~78,700 |
+| Rich Harvest | 6.00% | ~78,700 |
+| Count Down From 47 | 6.00% | ~78,700 |
 | Shortcut Killer | 5.00% | ~65,583 |
 | Treacherous Architecture | 5.00% | ~65,583 |
 | Stair Master | 5.00% | ~65,583 |
 | Followed the Trails | 5.00% | ~65,583 |
 | Last Call | 5.00% | ~65,583 |
-| Upstairs, Downstairs | 4.00% | ~52,466 |
-| The Great Outdoors | 4.00% | ~52,466 |
-| Partied Out | 4.00% | ~52,466 |
-| Surveillance Master | 4.00% | ~52,466 |
-| Hack the Planet | 4.00% | ~52,466 |
+| Upstairs, Downstairs | 4.00% | ~52,467 |
+| The Great Outdoors | 4.00% | ~52,467 |
+| Partied Out | 4.00% | ~52,467 |
+| Surveillance Master | 4.00% | ~52,467 |
+| Hack the Planet | 4.00% | ~52,467 |
 | Training Escalated | 3.00% | ~39,350 |
 | Keep Your Eyes Peeled | 3.00% | ~39,350 |
 | Warehouse Veteran | 3.00% | ~39,350 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,117 |
 | The Creative Assassin | 0.70% | ~9,182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311,655 (Ranked 9)  
+Progressed: 1,311,665 (Ranked 9)  
 Completed: 2,111 (0.16%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,10 @@ Completed: 2,111 (0.16%) (Ranked 174)
 | 2023-07-20 | 1,310,774 | 2,107 |
 | 2023-07-21 | 1,311,161 | 2,111 |
 | 2023-07-22 | 1,311,616 | 2,111 |
-| 2023-07-23 | 1,311,655 | 2,111 |
+| 2023-07-23 | 1,311,665 | 2,111 |
 ## Awards
 Max (Diverse Characters): 9,526  (Ranked 36)  
-Sum: 68,636 (Ranked 20)  
+Sum: 68,638 (Ranked 20)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -162,7 +162,7 @@ Diff (max vs sum): 16
 | This game has Amazing Characters | 8,470 |
 | This game is Great for Beginners | 8,394 |
 | This game has Quickly Understood Controls | 8,256 |
-| This game is Relaxing | 8,138 |
+| This game is Relaxing | 8,140 |
 | This game has a Creative Community | 7,753 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
@@ -374,3 +374,4 @@ Diff (max vs sum): 16
 | 2023-07-20 | 4.78 | - | 9,512 | 68,567 |
 | 2023-07-21 | 4.78 | - | 9,516 | 68,597 |
 | 2023-07-22 | 4.78 | - | 9,526 | 68,636 |
+| 2023-07-23 | 4.78 | - | 9,526 | 68,638 |

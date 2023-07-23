@@ -4,7 +4,7 @@
   "ProductSlug": "spectacular-sparky",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-20T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.4299356+00:00",
   "LastChanged": "2023-03-31T05:58:00.4299357+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:19.9272406+00:00",
-  "LastUpdate_Ratings": "2023-07-23T02:09:44.9029848+00:00",
-  "LastUpdate_Achievements": "2023-07-23T02:15:18.2158927+00:00"
+  "LastUpdate_Ratings": "2023-07-23T03:00:17.0490995+00:00",
+  "LastUpdate_Achievements": "2023-07-23T03:06:09.762555+00:00"
 }

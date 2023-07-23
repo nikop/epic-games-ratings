@@ -48,7 +48,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Abyssal Conspiracy | 1.00% | ~105 |
 | This Wall Won't Fall | 1.00% | ~93 |
 | Not the Last Sarkorian | 1.00% | ~93 |
-| Strategic Victory | 0.90% | ~94 |
+| Strategic Victory | 0.90% | ~95 |
 | Path of the Legend | 0.80% | ~84 |
 | End of Eternal Guard | 0.80% | ~84 |
 | Path of the Dragon | 0.70% | ~73 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Dreadful Dragon | 0.60% | ~63 |
 | Masterful Charge | 0.50% | ~52 |
 | Prelate's Nemesis | 0.40% | ~42 |
-| Just Pathetic | 0.30% | ~31 |
-| Ashes to Ashes | 0.30% | ~31 |
+| Just Pathetic | 0.30% | ~32 |
+| Ashes to Ashes | 0.30% | ~32 |
 | Masterful Dispel | 0.20% | ~21 |
 | Path of the Swarm | 0.10% | ~10 |
 | Equal to Aroden | 0.10% | ~10 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,499 (Ranked 117)  
+Progressed: 10,500 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-20 | 10,430 | 0 |
 | 2023-07-21 | 10,460 | 0 |
 | 2023-07-22 | 10,494 | 0 |
-| 2023-07-23 | 10,499 | 0 |
+| 2023-07-23 | 10,500 | 0 |
 ## Awards
 Max (Character Customization): 1,686  (Ranked 117)  
 Sum: 6,829 (Ranked 114)  
