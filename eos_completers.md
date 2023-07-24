@@ -26,7 +26,7 @@
 | 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.76% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
+| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.02% |
@@ -109,11 +109,11 @@
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 108 | [Hades](games/h/hades.md) | 0.89% |
 | 109 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 110 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 110 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 111 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 112 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 113 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 113 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 114 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 115 | [Haven](games/h/haven.md) | 0.67% |
 | 116 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 117 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
@@ -123,9 +123,9 @@
 | 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
 | 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 123 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 123 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.56% |
 | 123 | [Them and Us](games/t/them_and_us.md) | 0.56% |
 | 123 | [Train Valley](games/t/train_valley.md) | 0.56% |
+| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.55% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 128 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.51% |
