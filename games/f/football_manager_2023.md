@@ -68,7 +68,7 @@ Rating: 4.76 (Ranked 119)
 | Domination | 11.00% | ~8,780 |
 | Total Support | 10.00% | ~7,982 |
 | Second Hand Signing | 10.00% | ~7,982 |
-| You Can Buy Happiness | 9.00% | ~7,184 |
+| You Can Buy Happiness | 10.00% | ~7,982 |
 | Invitational | 8.00% | ~6,385 |
 | Legend | 7.00% | ~5,587 |
 | World Renowned | 7.00% | ~5,587 |

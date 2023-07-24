@@ -11,16 +11,16 @@
 | Make Up For Lost Time | 16.00% | ~125 |
 | The Prince in Heels | 16.00% | ~125 |
 | Immaculate Aim | 16.00% | ~125 |
+| Immaculate Aim | 16.00% | ~125 |
 | The Brass Boss | 16.00% | ~125 |
+| The Betrayer | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
 | No, Thanks! | 15.00% | ~118 |
 | Breaking Down Barriers | 15.00% | ~118 |
 | The Wicked Twins | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
-| Immaculate Aim | 15.00% | ~118 |
 | Like Clockwork | 14.00% | ~110 |
-| The Betrayer | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | The Loose Cannon | 14.00% | ~110 |
 | Cartographer | 14.00% | ~110 |
@@ -59,7 +59,7 @@
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 784 (Ranked 199)  
-Completed: 4 (0.51%) (Ranked 128)  
+Completed: 4 (0.51%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

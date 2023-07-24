@@ -6,7 +6,7 @@
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63153,
+  "EOS_Progressed": 63154,
   "EOS_Completed": 321,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10373,6 +10373,11 @@
       "Time": "2023-07-24T04:02:15.5469897+00:00",
       "NumProgressed": 63153,
       "NumCompleted": 321
+    },
+    {
+      "Time": "2023-07-24T05:03:04.1092829+00:00",
+      "NumProgressed": 63154,
+      "NumCompleted": 321
     }
   ],
   "TotalAchievements": 24,
@@ -10400,7 +10405,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42944
+      "UsersEstimate": 42945
     },
     {
       "ID": "BEST_FRIENDS",
@@ -10432,7 +10437,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17051
+      "UsersEstimate": 17052
     },
     {
       "ID": "FOXIN_AROUND",
@@ -10440,7 +10445,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18314
+      "UsersEstimate": 18315
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -10464,7 +10469,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33471
+      "UsersEstimate": 33472
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -10544,7 +10549,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10104
+      "UsersEstimate": 10105
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -10575,7 +10580,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 63153,
+      "Progressed": 63154,
       "Completed": 321
     }
   ],
@@ -10583,8 +10588,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:02:15.5469889+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:04.1092823+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:00:36.13728+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:02:15.5471123+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:01:12.9373766+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:04.1094195+00:00"
 }

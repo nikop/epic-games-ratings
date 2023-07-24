@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 672,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3309,9 +3309,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3454,8 +3454,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:02:15.0764357+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:03.6580757+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:00:28.5261148+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:02:15.0765348+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:01:06.3214916+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:03.658175+00:00"
 }

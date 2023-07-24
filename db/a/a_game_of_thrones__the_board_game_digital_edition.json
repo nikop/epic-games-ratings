@@ -5,9 +5,9 @@
   "Ranking_Rating": 841,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 259,
-  "Ranking_EOS_Progress": 104,
+  "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19337,
+  "EOS_Progressed": 19339,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11208,6 +11208,11 @@
       "Time": "2023-07-24T04:03:10.4637072+00:00",
       "NumProgressed": 19337,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-24T05:03:31.1578851+00:00",
+      "NumProgressed": 19339,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11315,7 +11320,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "1028",
@@ -11339,7 +11344,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "1031",
@@ -11355,7 +11360,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7735
+      "UsersEstimate": 7736
     },
     {
       "ID": "1033",
@@ -11394,15 +11399,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19337,
+      "Progressed": 19339,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:03:10.4637065+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:31.1578842+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:01:30.2619375+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:03:10.4638211+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:02:14.3751732+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:31.1580195+00:00"
 }

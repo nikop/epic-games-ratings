@@ -10,17 +10,17 @@ Number of Ratings: 43  (23.09.2022)
 | Just The Two of Us | 32.00% | ~25,234 |
 | Up On High | 25.00% | ~19,714 |
 | Under The Hood | 25.00% | ~19,714 |
-| Got Your Nose | 24.00% | ~18,925 |
-| The Gift of Gab | 24.00% | ~18,925 |
-| Wrapping Up | 22.00% | ~17,348 |
+| Got Your Nose | 24.00% | ~18,926 |
+| The Gift of Gab | 24.00% | ~18,926 |
+| Wrapping Up | 22.00% | ~17,349 |
 | More Than A Box Of Sand | 18.00% | ~14,194 |
-| The Dunboyne | 17.00% | ~13,405 |
-| Badge Hobbyist | 17.00% | ~13,405 |
+| The Dunboyne | 17.00% | ~13,406 |
+| Badge Hobbyist | 17.00% | ~13,406 |
 | Chum Novice | 16.00% | ~12,617 |
 | Silver-Tongued Sable | 16.00% | ~12,617 |
 | Sticky Paws | 16.00% | ~12,617 |
 | Bubble Up | 16.00% | ~12,617 |
-| Thread The Needle | 15.00% | ~11,828 |
+| Thread The Needle | 15.00% | ~11,829 |
 | Power to the People | 14.00% | ~11,040 |
 | Take That! | 13.00% | ~10,251 |
 | Nesting Giant | 13.00% | ~10,251 |
@@ -39,12 +39,12 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~7,097 |
 | Bike Collector | 9.00% | ~7,097 |
 | Not That Kind Of Gliding | 9.00% | ~7,097 |
-| The Scrapper Mask | 8.00% | ~6,308 |
-| Shadow Of Neave | 8.00% | ~6,308 |
-| Fragile Goods | 8.00% | ~6,308 |
-| Glider on the Storm | 8.00% | ~6,308 |
-| Squeeze One Out | 8.00% | ~6,308 |
-| Dune Rider | 8.00% | ~6,308 |
+| The Scrapper Mask | 8.00% | ~6,309 |
+| Shadow Of Neave | 8.00% | ~6,309 |
+| Fragile Goods | 8.00% | ~6,309 |
+| Glider on the Storm | 8.00% | ~6,309 |
+| Squeeze One Out | 8.00% | ~6,309 |
+| Dune Rider | 8.00% | ~6,309 |
 | Amateur Historian | 7.00% | ~5,520 |
 | The Beetle Mask | 7.00% | ~5,520 |
 | The Guard Mask | 7.00% | ~5,520 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,366 |
 | Vivacious Vivarium | 2.00% | ~1,577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,855 (Ranked 73)  
+Progressed: 78,857 (Ranked 73)  
 Completed: 767 (0.97%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 767 (0.97%) (Ranked 105)
 | 2023-07-21 | 78,358 | 763 |
 | 2023-07-22 | 78,587 | 763 |
 | 2023-07-23 | 78,823 | 766 |
-| 2023-07-24 | 78,855 | 767 |
+| 2023-07-24 | 78,857 | 767 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 501)  
 Sum: 20 (Ranked 501)  

@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,447 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,448 |
 | ''I don't like you either!'' | 79.00% | ~39,457 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,960 |
-| ''Impressive, most impressive'' | 71.00% | ~35,461 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,961 |
+| ''Impressive, most impressive'' | 71.00% | ~35,462 |
 | The Phantom Menace | 59.00% | ~29,468 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,968 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,969 |
 | ''I can fly anything'' | 57.00% | ~28,469 |
 | ''And who gave you permission...?'' | 53.00% | ~26,471 |
 | A New Hope | 48.00% | ~23,974 |
-| Attack of the Clones | 47.00% | ~23,474 |
+| Attack of the Clones | 47.00% | ~23,475 |
 | Revenge of the Sith | 40.00% | ~19,978 |
 | The Empire Strikes Back | 37.00% | ~18,480 |
 | ''A fine addition to my collection'' | 37.00% | ~18,480 |
-| Return of the Jedi | 32.00% | ~15,982 |
+| Return of the Jedi | 32.00% | ~15,983 |
 | The Force Awakens | 27.00% | ~13,485 |
-| The Last Jedi | 23.00% | ~11,487 |
+| The Last Jedi | 23.00% | ~11,488 |
 | The Rise of Skywalker | 20.00% | ~9,989 |
 | ''It's true... all of it'' | 19.00% | ~9,490 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,990 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~499 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,945 (Ranked 87)  
+Progressed: 49,946 (Ranked 87)  
 Completed: 212 (0.42%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 212 (0.42%) (Ranked 138)
 | 2023-07-21 | 49,925 | 212 |
 | 2023-07-22 | 49,935 | 212 |
 | 2023-07-23 | 49,942 | 212 |
-| 2023-07-24 | 49,945 | 212 |
+| 2023-07-24 | 49,946 | 212 |
 ## Awards
 Max (Great Boss Battles): 2,362  (Ranked 103)  
 Sum: 6,508 (Ranked 118)  

@@ -20,7 +20,7 @@ Rating: 4.41 (Ranked 672)
 | Harper's Hell | 42.00% | ~1,271 |
 | Making a Stand | 40.00% | ~1,211 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,211 |
-| Where It All Begun | 35.00% | ~1,059 |
+| Where It All Begun | 36.00% | ~1,090 |
 | Recouped Investment | 35.00% | ~1,059 |
 | Omelette Du Fromage | 32.00% | ~969 |
 | The More The Merrier | 29.00% | ~878 |

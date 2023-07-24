@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -516,6 +516,11 @@
       "Time": "2023-07-22T15:01:34.0658783+00:00",
       "NumProgressed": 462,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T05:03:15.8454245+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -567,7 +572,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TROP006",
@@ -591,15 +596,15 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "TROP009",
       "SetID": "9n0dl35",
       "Name": "Surviving",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "TROP010",
@@ -647,7 +652,7 @@
       "Name": "For a Better Tomorrow",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TROP016",
@@ -671,7 +676,7 @@
       "Name": "Mother Love",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TROP019",
@@ -750,7 +755,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 3
     }
   ],
@@ -758,8 +763,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:02:26.1159829+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:15.8454238+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.7590321+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:59:55.5141445+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:02:26.1160147+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:00:27.9106497+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:15.8454642+00:00"
 }

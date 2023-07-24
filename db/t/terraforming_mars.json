@@ -6,9 +6,9 @@
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2512,11 +2512,11 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 68571,
+  "EOS_Progressed": 68572,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:25.5883888+00:00",
@@ -12647,6 +12647,11 @@
       "Time": "2023-07-24T04:05:20.884094+00:00",
       "NumProgressed": 68571,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-07-24T05:05:57.8120588+00:00",
+      "NumProgressed": 68572,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 30,
@@ -12690,7 +12695,7 @@
       "Name": "No Longer Red",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 13028
+      "UsersEstimate": 13029
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -12754,7 +12759,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22628
+      "UsersEstimate": 22629
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -12810,7 +12815,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 15771
+      "UsersEstimate": 15772
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -12826,7 +12831,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -12834,7 +12839,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25371
+      "UsersEstimate": 25372
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12842,7 +12847,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13028
+      "UsersEstimate": 13029
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -12897,15 +12902,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 68571,
+      "Progressed": 68572,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-07-21T09:58:58.3630743+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:05:20.8840933+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:05:57.8120578+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:54.6981952+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:59:11.2039513+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:05:20.8841942+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:59:38.3308492+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:05:57.8122078+00:00"
 }

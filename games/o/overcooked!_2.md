@@ -1,12 +1,12 @@
 # Overcooked! 2
 [Store](https://store.epicgames.com/en-US/p/overcooked-2)  
 [View Rawdata](../../db/o/overcooked!_2.json)  
-Rating: 4.73 (Ranked 157)  
+Rating: 4.73 (Ranked 158)  
 Number of Ratings: 5,157  (23.09.2022)  
 ## Awards
 Max (Relaxing): 230  (Ranked 252)  
-Sum: 2,212 (Ranked 186)  
-Diff (max vs sum): 66  
+Sum: 2,212 (Ranked 187)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |

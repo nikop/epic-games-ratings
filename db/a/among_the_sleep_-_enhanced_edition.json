@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 777,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -445,7 +445,7 @@
   "Tags": [],
   "EOS_Progressed": 79753,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -10645,8 +10645,8 @@
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:05:09.8664089+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:05:45.252028+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:20.2385918+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:01:47.295194+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:05:09.8664866+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:02:31.4487436+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:05:45.2521546+00:00"
 }

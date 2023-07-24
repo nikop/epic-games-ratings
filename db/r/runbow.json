@@ -3,8 +3,8 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 91,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247061,
+  "EOS_Progressed": 247063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9214,6 +9214,11 @@
       "Time": "2023-07-24T04:02:17.4272116+00:00",
       "NumProgressed": 247061,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T05:03:06.2554516+00:00",
+      "NumProgressed": 247063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9281,7 +9286,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42000
+      "UsersEstimate": 42001
     },
     {
       "ID": "cantBeKeptDown",
@@ -9329,7 +9334,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49412
+      "UsersEstimate": 49413
     },
     {
       "ID": "didYourTime",
@@ -9385,7 +9390,7 @@
       "Name": "Here We Go!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "imHereAllNight",
@@ -9401,7 +9406,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130942
+      "UsersEstimate": 130943
     },
     {
       "ID": "indegestible",
@@ -9465,7 +9470,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123530
+      "UsersEstimate": 123532
     },
     {
       "ID": "notScared",
@@ -9489,7 +9494,7 @@
       "Name": "Please The King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "readyFight",
@@ -9592,7 +9597,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247061,
+      "Progressed": 247063,
       "Completed": 3
     }
   ],
@@ -9600,8 +9605,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:02:17.4272108+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:06.2554509+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.360681+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:00:17.77064+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:02:17.4273185+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:00:54.6641681+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:06.2556178+00:00"
 }

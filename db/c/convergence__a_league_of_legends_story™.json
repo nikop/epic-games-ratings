@@ -3,8 +3,8 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1881,9 +1881,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 118
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2129,9 +2129,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "WarwickDefeated",
@@ -2184,8 +2184,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:03:38.804007+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:04:23.4866207+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:00:30.0092207+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:03:38.8040702+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:01:08.8372144+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:04:23.4867249+00:00"
 }

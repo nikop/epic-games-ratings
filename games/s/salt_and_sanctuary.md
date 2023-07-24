@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,662 |
-| The Three | 64.00% | ~338,246 |
-| The Banquet | 40.00% | ~211,404 |
-| Devara's Light | 30.00% | ~158,553 |
+| Find Sanctuary | 83.00% | ~438,665 |
+| The Three | 64.00% | ~338,248 |
+| The Banquet | 40.00% | ~211,405 |
+| Devara's Light | 30.00% | ~158,554 |
 | The Iron Ones | 18.00% | ~95,132 |
-| The Village | 16.00% | ~84,561 |
-| The Forest | 14.00% | ~73,991 |
-| Branded | 13.00% | ~68,706 |
-| The Imposter | 13.00% | ~68,706 |
-| The Keep | 13.00% | ~68,706 |
+| The Village | 16.00% | ~84,562 |
+| The Forest | 14.00% | ~73,992 |
+| Branded | 13.00% | ~68,707 |
+| The Imposter | 13.00% | ~68,707 |
+| The Keep | 13.00% | ~68,707 |
 | The Castle | 11.00% | ~58,136 |
 | The Dome | 9.00% | ~47,566 |
 | The Red Hall | 9.00% | ~47,566 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | Storied | 6.00% | ~31,711 |
 | The Construct | 6.00% | ~31,711 |
 | The Ruins | 6.00% | ~31,711 |
-| The Alkymancery | 5.00% | ~26,425 |
-| The Lake | 5.00% | ~26,425 |
-| The Pitchwoods | 5.00% | ~26,425 |
+| The Alkymancery | 5.00% | ~26,426 |
+| The Lake | 5.00% | ~26,426 |
+| The Pitchwoods | 5.00% | ~26,426 |
 | Honed | 4.00% | ~21,140 |
 | The House of Splendor | 4.00% | ~21,140 |
 | The Crypt | 4.00% | ~21,140 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,570 |
 | Fading Fast | 1.00% | ~5,285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,509 (Ranked 28)  
+Progressed: 528,512 (Ranked 28)  
 Completed: 1,484 (0.28%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1,484 (0.28%) (Ranked 154)
 | 2023-07-21 | 528,275 | 1,484 |
 | 2023-07-22 | 528,379 | 1,484 |
 | 2023-07-23 | 528,488 | 1,484 |
-| 2023-07-24 | 528,509 | 1,484 |
+| 2023-07-24 | 528,512 | 1,484 |
 ## Awards
 Max (Challenging Combat): 275  (Ranked 239)  
 Sum: 1,919 (Ranked 200)  

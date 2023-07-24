@@ -60,12 +60,12 @@ Number of Ratings: 75  (23.09.2022)
 | The Machinery: Energy Saver | 0.30% | ~16 |
 | Super Rich | 0.30% | ~16 |
 | Fully Packed | 0.30% | ~16 |
+| Level: Mayor Trouble | 0.20% | ~10 |
 | Happy Hour | 0.20% | ~10 |
 | Achiever | 0.20% | ~10 |
 | Grand Master | 0.10% | ~5 |
 | Trophy Enthusiast | 0.10% | ~5 |
 | Campaign: In Hot Waters | 0.10% | ~5 |
-| Level: Mayor Trouble | 0.10% | ~5 |
 | A Happy Taskforce: Overtime | 0.10% | ~5 |
 | Topple The Top: Outperformed | 0.10% | ~5 |
 | Eye In The Sky: Paranoid | 0.10% | ~5 |

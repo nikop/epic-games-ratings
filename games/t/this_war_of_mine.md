@@ -1,7 +1,7 @@
 # This War of Mine
 [Store](https://store.epicgames.com/en-US/p/this-war-of-mine)  
 [View Rawdata](../../db/t/this_war_of_mine.json)  
-Rating: 4.73 (Ranked 157)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 1,090  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 80  (Ranked 356)  
@@ -143,3 +143,4 @@ Diff (max vs sum): 73
 | 2023-07-20 | 4.73 | - | 80 | 648 |
 | 2023-07-21 | 4.73 | - | 80 | 649 |
 | 2023-07-22 | 4.73 | - | 80 | 650 |
+| 2023-07-24 | 4.74 | - | 80 | 650 |

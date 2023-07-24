@@ -403,9 +403,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "15_Coins",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:03:06.6635273+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:26.9689196+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:48.3810061+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:01:06.7433343+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:03:06.6635625+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:01:46.0835537+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:26.9689551+00:00"
 }

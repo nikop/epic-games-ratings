@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 18.61,
+  "EOS_Completed_Percentage": 18.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1928,6 +1928,11 @@
       "Time": "2023-07-23T18:02:16.0435245+00:00",
       "NumProgressed": 403,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-07-24T05:03:20.1509927+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -1939,7 +1944,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "LEVEL_002",
@@ -1955,15 +1960,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 230
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_005",
@@ -1979,7 +1984,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_007",
@@ -1987,7 +1992,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_008",
@@ -2009,9 +2014,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_011",
@@ -2114,7 +2119,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 75
     }
   ],
@@ -2122,8 +2127,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-24T04:02:29.852878+00:00",
+  "LastChanged_Achievements": "2023-07-24T05:03:20.1509921+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:58:55.5647385+00:00",
-  "LastUpdate_Achievements": "2023-07-24T04:02:29.8529278+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:59:22.3382588+00:00",
+  "LastUpdate_Achievements": "2023-07-24T05:03:20.1510232+00:00"
 }

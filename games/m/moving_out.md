@@ -3,6 +3,13 @@
 [View Rawdata](../../db/m/moving_out.json)  
 Rating: 4.59 (Ranked 413)  
 Number of Ratings: 489  (23.09.2022)  
+## Awards
+Max (Great for Beginners): 20  (Ranked 501)  
+Sum: 20 (Ranked 501)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -81,3 +88,4 @@ Number of Ratings: 489  (23.09.2022)
 | 2023-04-08 | 4.59 | - | 0 | 0 |
 | 2023-06-22 | 4.58 | - | 0 | 0 |
 | 2023-07-09 | 4.59 | - | 0 | 0 |
+| 2023-07-24 | 4.59 | - | 20 | 20 |
