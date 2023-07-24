@@ -17,7 +17,7 @@
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 505 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 420 | 204 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 505 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,148 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,173 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 301 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,167 | 77 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 161,645 | 6 |
@@ -203,7 +203,7 @@
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 505 |
 | 196 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 397 |
 | 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,308 | 129 |
-| 196 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,854 | 112 |
+| 196 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,855 | 112 |
 | 196 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 505 |
 | 196 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 80 | 357 |
 | 196 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 505 |
@@ -352,7 +352,7 @@
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 438 |
 | 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,398 | 124 |
 | 347 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 365 | 220 |
-| 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 549 | 188 |
+| 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 550 | 188 |
 | 347 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 505 |
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 505 |
 | 347 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 505 |
@@ -360,7 +360,7 @@
 | 347 | [Prey](games/p/prey.md) | 4.62 | 5,615 | 60 |
 | 347 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 505 |
 | 347 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 505 |
-| 347 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 568 | 179 |
+| 347 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 578 | 179 |
 | 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 66 | 378 |
 | 347 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 505 |
 | 347 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.62 | 0 | 505 |
@@ -429,7 +429,7 @@
 | 425 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 287 |
 | 425 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 505 |
 | 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,524 | 39 |
-| 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 252 | 245 |
+| 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 253 | 245 |
 | 425 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 505 |
 | 425 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 22 | 485 |
 | 425 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 5,764 | 58 |
@@ -521,7 +521,7 @@
 | 507 | [VALORANT](games/v/valorant.md) | 4.53 | 61,867 | 10 |
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 482 |
 | 520 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 759 | 156 |
-| 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,192 | 15 |
+| 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,216 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 493 |
 | 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,756 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 518 | 192 |
@@ -640,19 +640,19 @@
 | 624 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.45 | 0 | 505 |
 | 624 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.45 | 0 | 505 |
 | 624 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 476 |
-| 641 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 505 |
-| 641 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 505 |
-| 641 | [ELEX](games/e/elex.md) | 4.44 | 24 | 476 |
-| 641 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 505 |
-| 641 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 505 |
-| 641 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 505 |
-| 641 | [SMITE](games/s/smite.md) | 4.44 | 4,063 | 79 |
-| 641 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 565 | 180 |
-| 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
-| 641 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 335 |
-| 641 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
-| 641 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
-| 641 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 505 |
+| 624 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 0 | 505 |
+| 642 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 505 |
+| 642 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 505 |
+| 642 | [ELEX](games/e/elex.md) | 4.44 | 24 | 476 |
+| 642 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 505 |
+| 642 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 505 |
+| 642 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 505 |
+| 642 | [SMITE](games/s/smite.md) | 4.44 | 4,063 | 79 |
+| 642 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 565 | 180 |
+| 642 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
+| 642 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 335 |
+| 642 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
+| 642 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
 | 654 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 206 | 266 |
 | 654 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 32 | 447 |
 | 654 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,170 | 135 |
@@ -893,7 +893,7 @@
 | 890 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 505 |
 | 890 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 505 |
 | 890 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 392 |
-| 890 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,464 | 100 |
+| 890 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,467 | 100 |
 | 895 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 505 |
 | 895 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 505 |
 | 895 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 505 |

@@ -31,8 +31,8 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 31 | [Scorn](games/s/scorn.md) | 6.97% |
-| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.88% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
+| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.83% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.73% |
@@ -57,7 +57,7 @@
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.28% |
-| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
+| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.18% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
@@ -77,7 +77,7 @@
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 80 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 81 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
