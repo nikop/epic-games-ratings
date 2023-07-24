@@ -65,7 +65,7 @@
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
 | 65 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
-| 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.76% |
+| 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.74% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.64% |
@@ -90,9 +90,9 @@
 | 88 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 89 | [Somerville](games/s/somerville.md) | 1.62% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
-| 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.50% |
 | 91 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
+| 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
+| 92 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 95 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
@@ -105,7 +105,7 @@
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 105 | [Adios](games/a/adios.md) | 0.98% |
-| 106 | [Sable](games/s/sable.md) | 0.97% |
+| 105 | [Sable](games/s/sable.md) | 0.98% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 108 | [Hades](games/h/hades.md) | 0.89% |
 | 109 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
