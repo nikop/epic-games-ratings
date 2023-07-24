@@ -8912,9 +8912,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -10768,9 +10768,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -10838,8 +10838,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:10:01.1974056+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:06:13.2863225+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:01:32.4554882+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:10:01.1991102+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:58:52.8114331+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:06:13.2870724+00:00"
 }

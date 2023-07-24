@@ -6,14 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.30% | ~646 |
-| Beast Intentions | 0.30% | ~646 |
-| Maddening | 0.20% | ~430 |
+| A Brief Tour of the Realms | 0.40% | ~861 |
+| Beast Intentions | 0.40% | ~861 |
+| Maddening | 0.30% | ~646 |
 | The Silken Swamp | 0.20% | ~430 |
+| Supply Run | 0.20% | ~430 |
 | The Mad Wizard | 0.20% | ~430 |
 | Waterdeep Detours | 0.20% | ~430 |
 | Lost in the Deep | 0.20% | ~430 |
 | Easily Distracted | 0.20% | ~430 |
+| Rude Welcome | 0.20% | ~430 |
 | Underdeep Cartography | 0.20% | ~430 |
 | Friendly Imps | 0.20% | ~430 |
 | Overdue Rendezvous | 0.20% | ~430 |
@@ -21,6 +23,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.20% | ~430 |
 | Rocky Reception | 0.20% | ~363 |
 | Rock and Roll | 0.20% | ~363 |
+| Flight of the Kindori Pod | 0.20% | ~363 |
+| Topolah's Tower | 0.20% | ~363 |
 | Pros and CONs | 0.10% | ~215 |
 | Upholding the Law | 0.10% | ~215 |
 | Starving in the Jungle | 0.10% | ~215 |
@@ -87,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~181 |
 | The Loots of Loomlurch | 0.10% | ~181 |
 | The Lutes of Loomlurch | 0.10% | ~181 |
-| Supply Run | 0.10% | ~215 |
 | Best Laid Plans | 0.10% | ~181 |
 | Pincushion Party | 0.10% | ~181 |
 | G. O. A. T. | 0.10% | ~181 |
@@ -413,7 +416,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~215 |
 | Constant Banditry | 0.10% | ~215 |
 | The Long Haul | 0.10% | ~215 |
-| Rude Welcome | 0.10% | ~215 |
 | Moose Tracks | 0.10% | ~181 |
 | An Awakened Axe | 0.10% | ~181 |
 | CONtagious Cold | 0.10% | ~181 |
@@ -513,14 +515,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.10% | ~181 |
 | Luigi After Hours | 0.10% | ~181 |
 | Electric Mayhem | 0.10% | ~181 |
-| Flight of the Kindori Pod | 0.10% | ~181 |
 | 3,720 to 1 | 0.10% | ~181 |
-| Topolah's Tower | 0.10% | ~181 |
 | Krux's Speed Run | 0.10% | ~181 |
 | Animated Giff | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,199 (Ranked 53)  
-Completed: 2,064 (0.96%) (Ranked 108)  
+Progressed: 215,211 (Ranked 53)  
+Completed: 2,067 (0.96%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -614,7 +614,7 @@ Completed: 2,064 (0.96%) (Ranked 108)
 | 2023-07-21 | 214,257 | 2,060 |
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
-| 2023-07-24 | 215,199 | 2,064 |
+| 2023-07-24 | 215,211 | 2,067 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,675 (Ranked 38)  

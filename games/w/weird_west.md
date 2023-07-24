@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,522 |
+| Unforgiven | 88.00% | ~1,523 |
 | Self-Improvement | 72.00% | ~1,246 |
-| Perky | 65.00% | ~1,124 |
-| Let’s Ride | 60.00% | ~1,038 |
-| Welcome to the Weird West | 57.00% | ~986 |
+| Perky | 65.00% | ~1,125 |
+| Let’s Ride | 60.00% | ~1,039 |
+| Welcome to the Weird West | 57.00% | ~987 |
 | Dead or Alive | 56.00% | ~969 |
 | Full House | 36.00% | ~623 |
 | Off the Trail | 33.00% | ~571 |
 | Justice Served | 29.00% | ~502 |
 | Chain Reaction | 27.00% | ~467 |
 | Through Their Eyes | 26.00% | ~450 |
-| Rain of Death | 25.00% | ~432 |
-| Scholar | 25.00% | ~432 |
+| Scholar | 25.00% | ~433 |
 | Dishonored | 24.00% | ~415 |
+| Rain of Death | 24.00% | ~415 |
 | The Great Escape | 23.00% | ~398 |
-| That’s All, Folks | 18.00% | ~311 |
+| That’s All, Folks | 18.00% | ~312 |
 | Fallen Star | 16.00% | ~277 |
 | For Balance | 16.00% | ~277 |
 | Here Comes Santa Claus | 16.00% | ~277 |
@@ -45,8 +45,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 7.00% | ~121 |
 | Healing Old Wounds | 6.00% | ~104 |
 | Who You Gonna Call? | 6.00% | ~104 |
-| This Is Sparta | 5.00% | ~86 |
-| What’s in the Box? | 5.00% | ~86 |
+| This Is Sparta | 5.00% | ~87 |
+| What’s in the Box? | 5.00% | ~87 |
 | Ghost Town | 3.00% | ~52 |
 | Moondrunk | 3.00% | ~52 |
 | Lord Inut Sends His Regards | 2.00% | ~35 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,730 (Ranked 168)  
+Progressed: 1,731 (Ranked 168)  
 Completed: 3 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 3 (0.17%) (Ranked 171)
 | 2023-07-21 | 1,711 | 3 |
 | 2023-07-22 | 1,718 | 3 |
 | 2023-07-23 | 1,727 | 3 |
-| 2023-07-24 | 1,730 | 3 |
+| 2023-07-24 | 1,731 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

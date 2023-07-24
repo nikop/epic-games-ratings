@@ -19,9 +19,9 @@
 | TRAINING HARD | 13.00% | ~391 |
 | DEFEAT OUR CHAMPION | 13.00% | ~391 |
 | ACE DEFENDER | 13.00% | ~391 |
+| FRIENDLY | 13.00% | ~391 |
 | LEGENDARY HERO | 13.00% | ~391 |
 | RELEASE THE KRAKEN | 12.00% | ~361 |
-| FRIENDLY | 12.00% | ~361 |
 | PERFECTLY POISED | 11.00% | ~331 |
 | BE OUR GUEST | 11.00% | ~331 |
 | THE EYE OF THE HUNTER | 11.00% | ~331 |
@@ -30,7 +30,7 @@
 | FRAMED! | 4.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,006 (Ranked 154)  
-Completed: 107 (3.56%) (Ranked 52)  
+Completed: 108 (3.59%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,4 +123,4 @@ Completed: 107 (3.56%) (Ranked 52)
 | 2023-07-21 | 2,983 | 104 |
 | 2023-07-22 | 2,990 | 106 |
 | 2023-07-23 | 3,000 | 107 |
-| 2023-07-24 | 3,006 | 107 |
+| 2023-07-24 | 3,006 | 108 |

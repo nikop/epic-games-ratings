@@ -201,9 +201,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Intro",
@@ -217,9 +217,9 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 88,
+      "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Kompotarna",
@@ -312,8 +312,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:08:46.7245064+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:04:40.6590711+00:00",
   "LastUpdate_AppInfo": "2023-07-21T13:57:09.7118119+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:59:28.3399736+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:08:46.7245233+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:57:10.0140127+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:04:40.6590778+00:00"
 }

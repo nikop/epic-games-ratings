@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-07-24T11:05:11.2173036+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T22:05:06.3748666+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1653,7 +1658,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1749,7 +1754,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1771,9 +1776,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_REVENANT",
@@ -1789,7 +1794,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1813,7 +1818,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1853,7 +1858,7 @@
       "Name": "This Is Sparta",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_THROUGH_THEIR_EYES",
@@ -1877,7 +1882,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1885,7 +1890,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1893,7 +1898,7 @@
       "Name": "What\u2019s in the Box?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_WHO_YOU_GONNA_CALL",
@@ -1924,15 +1929,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:08:54.5798193+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:05:06.3748663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:02:23.681581+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:08:54.579881+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:59:39.3273307+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:05:06.3749082+00:00"
 }

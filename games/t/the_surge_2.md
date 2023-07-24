@@ -5,35 +5,35 @@ Rating: 4.25 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,503 |
-| Don't I Know You...? | 77.00% | ~1,447 |
-| Jailbreak | 65.00% | ~1,221 |
-| HEADSHOT! | 38.00% | ~714 |
-| Suited and Booted | 38.00% | ~714 |
+| Rigged And Ready | 80.00% | ~1,505 |
+| Don't I Know You...? | 77.00% | ~1,448 |
+| Jailbreak | 65.00% | ~1,223 |
+| HEADSHOT! | 38.00% | ~715 |
+| Suited and Booted | 38.00% | ~715 |
 | Sleeping With The Fishes | 35.00% | ~658 |
 | Overheated | 30.00% | ~564 |
 | High Performance | 30.00% | ~564 |
-| Powered Up | 28.00% | ~526 |
+| Powered Up | 28.00% | ~527 |
 | Studied The Blade | 25.00% | ~470 |
-| Home Invasion | 23.00% | ~432 |
-| Luminary | 22.00% | ~413 |
-| It's a Trap | 22.00% | ~413 |
+| Home Invasion | 23.00% | ~433 |
+| Luminary | 22.00% | ~414 |
+| It's a Trap | 22.00% | ~414 |
 | True Survivor | 21.00% | ~395 |
 | Offensive Defense | 20.00% | ~376 |
 | Shocking | 20.00% | ~376 |
 | Court Martial | 19.00% | ~357 |
 | Unforeseeable Consequences | 19.00% | ~357 |
-| Dead Again | 18.00% | ~338 |
-| Clean Cut | 18.00% | ~338 |
-| Full Arsenal | 17.00% | ~319 |
+| Dead Again | 18.00% | ~339 |
+| Clean Cut | 18.00% | ~339 |
+| Full Arsenal | 17.00% | ~320 |
 | Can't Trust Banks | 15.00% | ~282 |
-| Mommy Dearest | 13.00% | ~244 |
-| Bad Dog | 13.00% | ~244 |
-| Where It All Began | 13.00% | ~244 |
-| Risk Tolerant | 13.00% | ~244 |
-| What A Catchy Song | 13.00% | ~244 |
-| Marked For Success | 12.00% | ~225 |
-| Sorry, Didn't See You There | 12.00% | ~225 |
+| Mommy Dearest | 13.00% | ~245 |
+| Bad Dog | 13.00% | ~245 |
+| Where It All Began | 13.00% | ~245 |
+| Risk Tolerant | 13.00% | ~245 |
+| What A Catchy Song | 13.00% | ~245 |
+| Marked For Success | 12.00% | ~226 |
+| Sorry, Didn't See You There | 12.00% | ~226 |
 | Corrupted Beauty | 11.00% | ~207 |
 | Stimulating The Local Economy | 10.00% | ~188 |
 | Triplets | 10.00% | ~188 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,879 (Ranked 166)  
+Progressed: 1,881 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 10 (0.53%) (Ranked 129)
 | 2023-07-21 | 1,853 | 10 |
 | 2023-07-22 | 1,867 | 10 |
 | 2023-07-23 | 1,873 | 10 |
-| 2023-07-24 | 1,879 | 10 |
+| 2023-07-24 | 1,881 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

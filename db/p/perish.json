@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3300,
+  "EOS_Progressed": 3301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2303,6 +2303,11 @@
       "Time": "2023-07-24T04:03:35.6783476+00:00",
       "NumProgressed": 3300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T22:03:33.2181736+00:00",
+      "NumProgressed": 3301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2498,7 +2503,7 @@
       "Name": "Hipparchia\u0027s Labour",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_M_PW",
@@ -2698,7 +2703,7 @@
       "Name": "Olympian",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_R_D",
@@ -2817,7 +2822,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3300,
+      "Progressed": 3301,
       "Completed": 0
     }
   ],
@@ -2825,8 +2830,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:07:40.6426401+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:03:33.2181733+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:42.6602284+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:04:38.600109+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:07:40.6427551+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:01:29.5273319+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:03:33.2182305+00:00"
 }

@@ -14,47 +14,47 @@
 | Depressed visitor | 75.00% | ~104 |
 | Neurotrainer – power gainer! | 75.00% | ~104 |
 | Fitness professional | 74.00% | ~102 |
-| Employee of the week | 72.00% | ~99 |
+| Employee of the week | 73.00% | ~101 |
 | Your own amateur gym | 67.00% | ~92 |
-| Run K, run! | 63.00% | ~87 |
-| No bullying more | 62.00% | ~86 |
+| Run K, run! | 64.00% | ~88 |
+| No bullying more | 63.00% | ~87 |
 | Hello, world! | 62.00% | ~86 |
 | Intriguing candies | 61.00% | ~84 |
 | Fighting is cool | 59.00% | ~81 |
-| Pal of your father? | 55.00% | ~76 |
+| Pal of your father? | 56.00% | ~77 |
+| Spirit of the past | 54.00% | ~75 |
 | Employee of the month | 54.00% | ~75 |
-| Spirit of the past | 53.00% | ~73 |
-| Little hacker | 51.00% | ~70 |
-| Law student | 48.00% | ~66 |
-| Your own way | 47.00% | ~65 |
-| Workout professional | 46.00% | ~63 |
-| Fight for life | 43.00% | ~59 |
-| Champion – starter pack | 42.00% | ~58 |
-| Employee of the year | 42.00% | ~58 |
-| Handyman | 40.00% | ~55 |
-| It's good to be alive | 39.00% | ~54 |
-| Own four walls | 39.00% | ~54 |
-| Extreme neuropower! | 38.00% | ~52 |
+| Little hacker | 52.00% | ~72 |
+| Law student | 49.00% | ~68 |
+| Your own way | 48.00% | ~66 |
+| Workout professional | 47.00% | ~65 |
+| Fight for life | 44.00% | ~61 |
+| Employee of the year | 44.00% | ~61 |
+| Champion – starter pack | 43.00% | ~59 |
+| Handyman | 42.00% | ~58 |
+| It's good to be alive | 41.00% | ~57 |
+| Extreme neuropower! | 40.00% | ~55 |
+| Own four walls | 40.00% | ~55 |
+| Now you are worthy | 35.00% | ~48 |
 | Legal courier | 35.00% | ~48 |
-| Now you are worthy | 34.00% | ~47 |
 | Escaped from a big trouble | 30.00% | ~41 |
 | Mysterious voice | 28.00% | ~39 |
 | No blades in the gym | 28.00% | ~39 |
 | Guiding on the right path | 28.00% | ~39 |
 | Fight is life | 26.00% | ~36 |
 | Responsible approach | 26.00% | ~36 |
-| Underground dwellers | 24.00% | ~33 |
-| Deal with life | 23.00% | ~32 |
+| Underground dwellers | 25.00% | ~34 |
+| Deal with life | 24.00% | ~33 |
+| Champion – no way back | 23.00% | ~32 |
 | Get out of my apartment! | 23.00% | ~32 |
 | Mom got better | 22.00% | ~30 |
 | The die is cast | 22.00% | ~30 |
-| Champion – no way back | 21.00% | ~29 |
-| Gang wrangler | 20.00% | ~28 |
-| Anyone can resist | 20.00% | ~28 |
-| Seashell hunter | 20.00% | ~28 |
-| GYM professional | 17.00% | ~23 |
+| Seashell hunter | 22.00% | ~30 |
+| Gang wrangler | 21.00% | ~29 |
+| Anyone can resist | 21.00% | ~29 |
+| GYM professional | 19.00% | ~26 |
+| Problems of cyborgs | 18.00% | ~25 |
 | Poisoned fighter | 17.00% | ~23 |
-| Problems of cyborgs | 16.00% | ~22 |
 | The last bell ring | 16.00% | ~22 |
 | Keep nature safe | 15.00% | ~21 |
 | Trap disarmed | 14.00% | ~19 |
@@ -69,7 +69,7 @@
 | Undercover robot | 14.00% | ~19 |
 | Silver’s past | 13.00% | ~18 |
 | Better cooking at home | 13.00% | ~18 |
-| The only right decision | 9.00% | ~12 |
+| The only right decision | 11.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 241)  

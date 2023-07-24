@@ -2,7 +2,7 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 233,
@@ -759,9 +759,9 @@
       "ID": "GB_LAW_ABIDING_CITIZEN",
       "SetID": "8ga3kd9",
       "Name": "LAW-ABIDING CITIZEN",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "GB_MARTYR",
@@ -856,8 +856,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:09:42.1587407+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:05:39.8422544+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.5153912+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:02:13.5408465+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:09:42.1587682+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:59:30.5781409+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:05:39.8422722+00:00"
 }

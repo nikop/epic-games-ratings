@@ -7,7 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~131 |
-| The Great Mage | 0.70% | ~92 |
+| The Great Mage | 0.80% | ~105 |
 | Explorer | 0.60% | ~78 |
 | Settler | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.50% | ~65 |
 | Able | 0.40% | ~52 |
 | Architect | 0.40% | ~52 |
+| Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
 | Strong | 0.40% | ~52 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
-| Good | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |

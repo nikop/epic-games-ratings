@@ -7,10 +7,12 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.10% | ~3 |
+| Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
 | Hold Your Ground | 0.10% | ~3 |
 | Not So Fast... | 0.10% | ~3 |
 | Blood for the Blood God! | 0.10% | ~3 |
+| Corruption Cleanser | 0.10% | ~3 |
 | Executioner | 0.10% | ~3 |
 | Friendly Fire | 0.10% | ~3 |
 | Watch Where You Step... | 0.10% | ~3 |
@@ -33,7 +35,6 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.00% | ~0 |
 | Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
-| Honoured Battle-Brother | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Fleetmaster | 0.00% | ~0 |
 | For the Machine God | 0.00% | ~0 |
@@ -41,7 +42,6 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 | Daemonkeeper | 0.00% | ~0 |
-| Corruption Cleanser | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
 | Hands-On Research | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.00% | ~0 |
 | Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,022 (Ranked 153)  
+Progressed: 3,024 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 241)
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
-| 2023-07-24 | 3,022 | 0 |
+| 2023-07-24 | 3,024 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 0.10% | ~25 |
+| First of Many | 0.10% | ~26 |
 | Expanding Horizons | 0.00% | ~0 |
 | Crafty | 0.00% | ~0 |
 | Am I Seeing This? | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Maxed Out! | 0.00% | ~0 |
 | Transmutate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,461 (Ranked 98)  
+Progressed: 25,774 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 241)
 | 2023-07-21 | 15 | 0 |
 | 2023-07-22 | 7,481 | 0 |
 | 2023-07-23 | 17,937 | 0 |
-| 2023-07-24 | 25,461 | 0 |
+| 2023-07-24 | 25,774 | 0 |

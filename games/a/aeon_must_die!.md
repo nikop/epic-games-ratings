@@ -20,10 +20,10 @@
 | Untouchable Legend | 3.00% | ~106 |
 | Loyal Companion | 2.00% | ~71 |
 | Atta Boy! | 2.00% | ~71 |
-| Not Afraid Of The Dark | 2.00% | ~71 |
 | Emperor's Education | 2.00% | ~71 |
 | Slam The Brakes! | 2.00% | ~71 |
 | Ashes Of Belief | 2.00% | ~71 |
+| Not Afraid Of The Dark | 1.00% | ~35 |
 | Buried Memories | 1.00% | ~35 |
 | Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.80% | ~28 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,533 (Ranked 146)  
+Progressed: 3,534 (Ranked 146)  
 Completed: -28 (-0.79%) (Ranked 2,939)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: -28 (-0.79%) (Ranked 2,939)
 | 2023-07-21 | 3,526 | -28 |
 | 2023-07-22 | 3,530 | -28 |
 | 2023-07-23 | 3,532 | -28 |
-| 2023-07-24 | 3,533 | -28 |
+| 2023-07-24 | 3,534 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

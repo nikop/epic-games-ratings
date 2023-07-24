@@ -6,11 +6,11 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,515 |
+| Own use | 75.00% | ~34,516 |
 | I read Shakespeare and stuff | 64.00% | ~29,453 |
 | Just a sprinkle | 63.00% | ~28,993 |
-| I'm stumped | 61.00% | ~28,072 |
-| Plant get enough | 60.00% | ~27,612 |
+| I'm stumped | 61.00% | ~28,073 |
+| Plant get enough | 60.00% | ~27,613 |
 | This is just my weekend vehicle | 58.00% | ~26,692 |
 | It's just the beginning | 58.00% | ~26,692 |
 | Hard work pays off | 53.00% | ~24,391 |
@@ -30,7 +30,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 15.00% | ~6,903 |
 | That's a wrap | 14.00% | ~6,443 |
 | Fix me up | 13.00% | ~5,983 |
-| Rock on | 12.00% | ~5,522 |
+| Rock on | 12.00% | ~5,523 |
 | It's sow easy | 11.00% | ~5,062 |
 | Highly cultivated | 10.00% | ~4,602 |
 | Giddy-up! | 10.00% | ~4,602 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,020 (Ranked 88)  
+Progressed: 46,021 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 5 (0.01%) (Ranked 229)
 | 2023-07-21 | 45,828 | 5 |
 | 2023-07-22 | 45,895 | 5 |
 | 2023-07-23 | 45,971 | 5 |
-| 2023-07-24 | 46,020 | 5 |
+| 2023-07-24 | 46,021 | 5 |
 ## Awards
 Max (Great for Beginners): 4,583  (Ranked 70)  
-Sum: 38,367 (Ranked 31)  
+Sum: 38,370 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -159,7 +159,7 @@ Diff (max vs sum): 39
 | This game has Diverse Characters | 3,866 |
 | This game is Extremely Fun | 3,838 |
 | This game is Highly Recommended | 3,834 |
-| This game has Amazing Storytelling | 3,727 |
+| This game has Amazing Storytelling | 3,730 |
 | This game has Amazing Characters | 3,342 |
 | This game has a Creative Community | 3,187 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -355,4 +355,4 @@ Diff (max vs sum): 39
 | 2023-07-21 | 4.69 | - | 4,562 | 38,271 |
 | 2023-07-22 | 4.69 | - | 4,568 | 38,311 |
 | 2023-07-23 | 4.69 | - | 4,575 | 38,337 |
-| 2023-07-24 | 4.69 | - | 4,583 | 38,367 |
+| 2023-07-24 | 4.69 | - | 4,583 | 38,370 |

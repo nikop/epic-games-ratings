@@ -36,11 +36,11 @@ Rating: 4.18 (Ranked 858)
 | Seeking Asylum | 2.00% | ~1,347 |
 | Gotham Knight | 2.00% | ~1,347 |
 | Gotham City Confidential | 2.00% | ~1,347 |
-| Fusion Expert | 1.00% | ~673 |
-| Out of Their League | 1.00% | ~673 |
-| Family Meeting | 1.00% | ~673 |
-| A Worthy Successor | 1.00% | ~673 |
-| Solid Alibi | 1.00% | ~673 |
+| Fusion Expert | 1.00% | ~674 |
+| Out of Their League | 1.00% | ~674 |
+| Family Meeting | 1.00% | ~674 |
+| A Worthy Successor | 1.00% | ~674 |
+| Solid Alibi | 1.00% | ~674 |
 | Expert Crime Fighter | 0.90% | ~606 |
 | Dressed to Impress | 0.80% | ~539 |
 | A Momentum Occasion | 0.60% | ~404 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,348 (Ranked 78)  
+Progressed: 67,350 (Ranked 78)  
 Completed: 104 (0.15%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 104 (0.15%) (Ranked 176)
 | 2023-07-21 | 67,259 | 104 |
 | 2023-07-22 | 67,285 | 104 |
 | 2023-07-23 | 67,318 | 104 |
-| 2023-07-24 | 67,348 | 104 |
+| 2023-07-24 | 67,350 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,461  (Ranked 101)  
 Sum: 4,090 (Ranked 138)  

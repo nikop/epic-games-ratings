@@ -8,7 +8,7 @@
 | First Step | 41.00% | ~31 |
 | Indebted | 8.00% | ~6 |
 | Capitalism | 7.00% | ~5 |
-| Desert Rat | 5.00% | ~4 |
+| Desert Rat | 7.00% | ~5 |
 | Health Care | 4.00% | ~3 |
 | Green Energy | 4.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 3.00% | ~2 |

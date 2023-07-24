@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 797)  
+Rating: 4.27 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 4.27 (Ranked 797)
 | HELL'S KITCHEN | 19.00% | ~70 |
 | CELEBRITY | 18.00% | ~67 |
 | GRATITUDE | 17.00% | ~63 |
-| LAW-ABIDING CITIZEN | 11.00% | ~41 |
+| LAW-ABIDING CITIZEN | 12.00% | ~44 |
 | PRUDENT | 11.00% | ~41 |
 | PATTY-KILLER | 9.00% | ~33 |
 | GOURMET | 8.00% | ~30 |

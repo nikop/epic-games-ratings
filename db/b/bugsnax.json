@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -689,7 +689,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 27992,
+  "EOS_Progressed": 27993,
   "EOS_Completed": 1316,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 3,
@@ -3709,6 +3709,11 @@
       "Time": "2023-07-24T20:08:24.1818495+00:00",
       "NumProgressed": 27992,
       "NumCompleted": 1316
+    },
+    {
+      "Time": "2023-07-24T22:06:27.8376497+00:00",
+      "NumProgressed": 27993,
+      "NumCompleted": 1316
     }
   ],
   "TotalAchievements": 30,
@@ -3720,7 +3725,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12596
+      "UsersEstimate": 12597
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -3752,7 +3757,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12876
+      "UsersEstimate": 12877
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -3768,7 +3773,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 8957
+      "UsersEstimate": 8958
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -3784,7 +3789,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21554
+      "UsersEstimate": 21555
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -3808,7 +3813,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16515
+      "UsersEstimate": 16516
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -3816,7 +3821,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27152
+      "UsersEstimate": 27153
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -3824,7 +3829,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19314
+      "UsersEstimate": 19315
     },
     {
       "ID": "ACH_GOLEM",
@@ -3832,7 +3837,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9797
+      "UsersEstimate": 9798
     },
     {
       "ID": "ACH_HATS",
@@ -3856,7 +3861,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17075
+      "UsersEstimate": 17076
     },
     {
       "ID": "ACH_LAUNCH",
@@ -3888,7 +3893,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16515
+      "UsersEstimate": 16516
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -3944,7 +3949,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20994
+      "UsersEstimate": 20995
     },
     {
       "ID": "ACH_WATERFALL",
@@ -3952,22 +3957,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24353
+      "UsersEstimate": 24354
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27992,
+      "Progressed": 27993,
       "Completed": 1316
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-11T17:00:49.6653428+00:00",
-  "LastChanged_Achievements": "2023-07-24T21:10:21.6748442+00:00",
+  "LastChanged_Achievements": "2023-07-24T22:06:27.8376491+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:48.7708839+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:04:54.4251471+00:00",
-  "LastUpdate_Achievements": "2023-07-24T21:10:21.6749177+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:01:39.6461957+00:00",
+  "LastUpdate_Achievements": "2023-07-24T22:06:27.8376805+00:00"
 }

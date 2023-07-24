@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~144 |
 | Starting Skyward | 52.00% | ~131 |
-| Grime is Not Good | 44.00% | ~111 |
+| Grime is Not Good | 45.00% | ~113 |
 | Floor Galore | 38.00% | ~96 |
 | Campaign Launch | 38.00% | ~96 |
 | Dinner Dash | 37.00% | ~93 |
@@ -37,8 +37,8 @@
 | Starred Dining | 15.00% | ~38 |
 | Boutique Benefits | 15.00% | ~38 |
 | Terrifically Trashed | 15.00% | ~38 |
+| Smooth Operator | 14.00% | ~35 |
 | Thrilled Tenants | 14.00% | ~35 |
-| Smooth Operator | 13.00% | ~33 |
 | Swimming in Surplus | 12.00% | ~30 |
 | 28 Days Later | 11.00% | ~28 |
 | Master of Puppets | 10.00% | ~25 |
