@@ -1507,9 +1507,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1931,8 +1931,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:06:12.6573585+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:06:12.8132382+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:00:16.5641906+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:06:12.6574149+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:00:24.5618425+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:06:12.8132907+00:00"
 }

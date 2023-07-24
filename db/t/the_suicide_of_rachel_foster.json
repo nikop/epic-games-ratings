@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
@@ -1657,6 +1657,11 @@
       "Time": "2023-07-24T13:13:20.7849365+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-24T17:03:50.5548317+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1668,7 +1673,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1700,7 +1705,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_FineEV9",
@@ -1716,7 +1721,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1755,15 +1760,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:03:46.6680369+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:03:50.5548311+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:02:44.814888+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:03:46.6680602+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:02:48.4405712+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:03:50.5548496+00:00"
 }

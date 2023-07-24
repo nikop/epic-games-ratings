@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.40% | ~52 |
 | Strong | 0.40% | ~52 |
 | Hanging Gardens | 0.40% | ~52 |
+| Oracle | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.30% | ~39 |
 | Noble | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
-| Oracle | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
 | Judaism | 0.30% | ~39 |
@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.30% | ~39 |
 | Trade Caravan | 0.30% | ~39 |
 | Regicide | 0.20% | ~26 |
+| Hanging Gardens in Babylon | 0.20% | ~26 |
 | Brilliant | 0.20% | ~26 |
 | Fountainhead | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
-| Hanging Gardens in Babylon | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,069 (Ranked 115)  
+Progressed: 13,070 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,069 | 5 |
+| 2023-07-24 | 13,070 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -614,7 +614,7 @@
   ],
   "EOS_Progressed": 3019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2487,9 +2487,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "BloodAndIron",
@@ -2743,9 +2743,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2943,9 +2943,9 @@
       "ID": "AllAssassinsAcquired",
       "SetID": "2im8phi",
       "Name": "Execution Force",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ExperiencedCallidus",
@@ -3029,8 +3029,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:05:02.176828+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:05:09.110415+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:00:41.4209698+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:05:02.1769123+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:00:48.6136423+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:05:09.1104936+00:00"
 }

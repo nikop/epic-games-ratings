@@ -2,12 +2,12 @@
   "ID": "9ce4c6f216cf43e7ba5eff1045b6e08d",
   "Name": "Lifeless Planet: Premier Edition",
   "ProductSlug": "lifeless-planet-premier-edition",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -464,6 +464,6 @@
   "FirstSeen": "2022-07-22T20:28:34.0762225+00:00",
   "LastChanged": "2023-07-16T23:56:53.0744846+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.0055462+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:57:25.0657076+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:04:17.0059539+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:57:25.6783124+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:04:22.2321038+00:00"
 }

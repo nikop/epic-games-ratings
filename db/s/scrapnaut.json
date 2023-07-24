@@ -997,9 +997,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -1013,17 +1013,17 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_KILL_50",
@@ -1061,9 +1061,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1126,8 +1126,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:05:37.0706066+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:05:41.6956858+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:00:17.1419035+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:05:37.0706341+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:00:25.1420679+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:05:41.6957446+00:00"
 }

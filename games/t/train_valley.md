@@ -1,42 +1,42 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.47 (Ranked 600)  
+Rating: 4.47 (Ranked 601)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 75.00% | ~272 |
-| Close call! | 73.00% | ~264 |
+| Close call! | 73.00% | ~265 |
 | Builder | 53.00% | ~192 |
 | Pangs of conscience | 48.00% | ~174 |
 | Living it large! | 43.00% | ~156 |
-| Collector | 41.00% | ~148 |
-| Need to think | 39.00% | ~141 |
-| Completely nuts! | 36.00% | ~130 |
-| Just in time! | 33.00% | ~119 |
-| It's no coincidence. | 31.00% | ~112 |
+| Collector | 40.00% | ~145 |
+| Need to think | 39.00% | ~142 |
+| Completely nuts! | 37.00% | ~134 |
+| Just in time! | 33.00% | ~120 |
+| It's no coincidence. | 31.00% | ~113 |
 | Europe | 30.00% | ~109 |
 | Let's roll! | 26.00% | ~94 |
 | Non Stop! | 26.00% | ~94 |
 | Madness! | 26.00% | ~94 |
-| Philatelist | 25.00% | ~90 |
+| Philatelist | 25.00% | ~91 |
 | Ouroboros | 24.00% | ~87 |
-| Foreman | 22.00% | ~80 |
+| Foreman | 21.00% | ~76 |
 | Missed it! | 21.00% | ~76 |
 | Russia | 18.00% | ~65 |
 | Sabotage | 18.00% | ~65 |
 | America | 16.00% | ~58 |
-| Woodcutter | 12.00% | ~43 |
-| Engineer | 12.00% | ~43 |
+| Woodcutter | 12.00% | ~44 |
+| Engineer | 12.00% | ~44 |
 | Achtung! | 11.00% | ~40 |
 | Japan | 9.00% | ~33 |
 | Tycoon | 8.00% | ~29 |
 | Germany | 6.00% | ~22 |
 | Chuck Norris | 5.00% | ~18 |
-| Сhancellor | 4.00% | ~14 |
-| Peacemaker | 4.00% | ~14 |
-| Supercrash! | 4.00% | ~14 |
+| Сhancellor | 4.00% | ~15 |
+| Peacemaker | 4.00% | ~15 |
+| Supercrash! | 4.00% | ~15 |
 | Forgotten | 2.00% | ~7 |
 | Lucky vandal | 2.00% | ~7 |
 | BBQ | 0.60% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.60% | ~2 |
 | Salesman | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362 (Ranked 235)  
+Progressed: 363 (Ranked 235)  
 Completed: 2 (0.55%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 2 (0.55%) (Ranked 125)
 | 2023-07-21 | 341 | 2 |
 | 2023-07-22 | 348 | 2 |
 | 2023-07-23 | 359 | 2 |
-| 2023-07-24 | 362 | 2 |
+| 2023-07-24 | 363 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

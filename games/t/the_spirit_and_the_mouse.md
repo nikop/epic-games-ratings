@@ -10,9 +10,9 @@
 | Lightbulbs Collector | 77.00% | ~58 |
 | Energy Collector | 73.00% | ~55 |
 | East Street Energy | 51.00% | ~38 |
+| Lightbulbs Expert | 44.00% | ~33 |
+| That's one way to travel | 44.00% | ~33 |
 | Energy Expert | 43.00% | ~32 |
-| Lightbulbs Expert | 43.00% | ~32 |
-| That's one way to travel | 43.00% | ~32 |
 | The Old Man and the Café | 40.00% | ~30 |
 | South Town Energy | 32.00% | ~24 |
 | Photogenic | 29.00% | ~22 |

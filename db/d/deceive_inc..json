@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7473,
+  "EOS_Progressed": 7474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6178,6 +6178,11 @@
       "Time": "2023-07-24T12:03:39.2931765+00:00",
       "NumProgressed": 7473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T17:04:05.6842586+00:00",
+      "NumProgressed": 7474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6189,7 +6194,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "0002",
@@ -6253,7 +6258,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "0010",
@@ -6317,7 +6322,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "0018",
@@ -6325,7 +6330,7 @@
       "Name": "In It to Win It",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "0019",
@@ -6405,7 +6410,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "0029",
@@ -6476,7 +6481,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7473,
+      "Progressed": 7474,
       "Completed": 1
     }
   ],
@@ -6484,8 +6489,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:04:01.1306999+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:04:05.6842581+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:02:07.8399182+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:04:01.1307699+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:02:13.5167418+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:04:05.6843206+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.67 (Ranked 260)
 | I will survive! | 92.00% | ~4,381 |
 | All thumbs | 91.00% | ~4,333 |
 | Home, sweet home | 90.00% | ~4,286 |
-| Survivalist | 88.00% | ~4,191 |
+| Survivalist | 89.00% | ~4,238 |
 | One way ticket | 83.00% | ~3,952 |
 | Last man standing | 78.00% | ~3,714 |
 | Family guy | 76.00% | ~3,619 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 260)
 | This is the end | 33.00% | ~1,571 |
 | Atomic drill | 32.00% | ~1,524 |
 | Gotta get 'em all | 31.00% | ~1,476 |
-| Disco Roach | 26.00% | ~1,238 |
+| Disco Roach | 27.00% | ~1,286 |
 | Dawkins Residence | 20.00% | ~952 |
 | Rescue time! | 17.00% | ~810 |
 | New order | 16.00% | ~762 |

@@ -1,19 +1,19 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 600)  
+Rating: 4.47 (Ranked 601)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,439 |
-| Leader | 61.00% | ~4,673 |
-| Explorer | 53.00% | ~4,060 |
+| First Step | 71.00% | ~5,440 |
+| Leader | 61.00% | ~4,674 |
+| Explorer | 53.00% | ~4,061 |
 | Healer | 52.00% | ~3,984 |
 | Aspiring Inventor | 44.00% | ~3,371 |
 | Adventurer | 41.00% | ~3,141 |
-| Famous Healer | 38.00% | ~2,911 |
-| Local Leader | 35.00% | ~2,681 |
+| Famous Healer | 38.00% | ~2,912 |
+| Local Leader | 35.00% | ~2,682 |
 | Famous Explorer | 34.00% | ~2,605 |
 | New Opportunities | 34.00% | ~2,605 |
 | Energized | 33.00% | ~2,528 |
@@ -22,18 +22,18 @@ Number of Ratings: 836  (23.09.2022)
 | Survivor | 31.00% | ~2,375 |
 | Cleaner | 28.00% | ~2,145 |
 | Catastrofan | 28.00% | ~2,145 |
-| Legendary Explorer | 27.00% | ~2,068 |
+| Legendary Explorer | 27.00% | ~2,069 |
 | Finders, Keepers | 26.00% | ~1,992 |
-| Top Notch | 25.00% | ~1,915 |
+| Top Notch | 25.00% | ~1,916 |
 | Ice Lakes | 23.00% | ~1,762 |
 | Mentor | 23.00% | ~1,762 |
-| Great Leader | 22.00% | ~1,685 |
-| Real Survivor | 22.00% | ~1,685 |
+| Great Leader | 22.00% | ~1,686 |
+| Real Survivor | 22.00% | ~1,686 |
 | Merchant | 21.00% | ~1,609 |
 | War Never Changes | 19.00% | ~1,456 |
 | Rocket Surgeon | 19.00% | ~1,456 |
-| Big Game Hunter | 17.00% | ~1,302 |
-| Spreading Influence | 17.00% | ~1,302 |
+| Big Game Hunter | 17.00% | ~1,303 |
+| Spreading Influence | 17.00% | ~1,303 |
 | Friendly | 16.00% | ~1,226 |
 | Around the World | 16.00% | ~1,226 |
 | Bookworm | 15.00% | ~1,149 |
@@ -41,7 +41,7 @@ Number of Ratings: 836  (23.09.2022)
 | Prepared for Anything | 13.00% | ~996 |
 | Big Catastrofan | 13.00% | ~996 |
 | It's a Finnish Thing | 10.00% | ~766 |
-| Sky Burial | 9.00% | ~689 |
+| Sky Burial | 9.00% | ~690 |
 | Trader | 8.00% | ~613 |
 | Bread and Circuses | 8.00% | ~613 |
 | New Eden | 7.00% | ~536 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,661 (Ranked 125)  
+Progressed: 7,662 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 7,568 | 0 |
 | 2023-07-22 | 7,603 | 0 |
 | 2023-07-23 | 7,640 | 0 |
-| 2023-07-24 | 7,661 | 0 |
+| 2023-07-24 | 7,662 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 332)  
 Sum: 681 (Ranked 273)  

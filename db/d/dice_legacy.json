@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1129,6 +1129,11 @@
       "Time": "2023-07-24T15:04:19.8203318+00:00",
       "NumProgressed": 943,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T17:05:39.1759975+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1260,7 +1265,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -1324,7 +1329,7 @@
       "Name": "The City",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "GOLDMASTER",
@@ -1499,7 +1504,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 0
     }
   ],
@@ -1507,8 +1512,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:05:34.8348064+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:05:39.1759971+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.3997168+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:59:04.3562987+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:05:34.8348517+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:59:08.1631197+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:05:39.1760386+00:00"
 }

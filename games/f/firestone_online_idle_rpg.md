@@ -5,19 +5,19 @@ Rating: 4.10 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,588 |
-| World Map | 79.00% | ~1,349 |
-| Temple of Eternals | 56.00% | ~956 |
-| Prestigious | 53.00% | ~905 |
-| Fellowship Power | 41.00% | ~700 |
-| Guild Power | 25.00% | ~427 |
+| Victor | 93.00% | ~1,590 |
+| World Map | 79.00% | ~1,351 |
+| Temple of Eternals | 56.00% | ~958 |
+| Prestigious | 53.00% | ~906 |
+| Fellowship Power | 41.00% | ~701 |
+| Guild Power | 25.00% | ~428 |
 | Prestigious x10 | 21.00% | ~359 |
 | The game is on | 19.00% | ~325 |
-| Exotic Merchant | 18.00% | ~307 |
-| Dragon Clicker | 16.00% | ~273 |
-| Inspection | 16.00% | ~273 |
-| Miner Clicker | 16.00% | ~273 |
+| Exotic Merchant | 18.00% | ~308 |
+| Dragon Clicker | 16.00% | ~274 |
+| Miner Clicker | 16.00% | ~274 |
 | Full Party | 15.00% | ~256 |
+| Inspection | 15.00% | ~256 |
 | Dragon Master | 14.00% | ~239 |
 | Enlightenment | 14.00% | ~239 |
 | Hero inspection | 14.00% | ~239 |
@@ -45,15 +45,15 @@ Rating: 4.10 (Ranked 890)
 | Enchanting skill | 7.00% | ~120 |
 | The Expeditioner | 7.00% | ~120 |
 | Trader | 7.00% | ~120 |
-| Crystal Mining | 6.00% | ~102 |
-| Dragon Slayer | 6.00% | ~102 |
-| Engineer Mastery | 6.00% | ~102 |
-| How Do You Turn This On? | 6.00% | ~102 |
-| Missions Dedication | 6.00% | ~102 |
-| Weekly Quest Completionist | 6.00% | ~102 |
-| Ancient Knowledge | 5.00% | ~85 |
-| Blueprint Upgrades | 5.00% | ~85 |
-| Lock And Load | 5.00% | ~85 |
+| Crystal Mining | 6.00% | ~103 |
+| Dragon Slayer | 6.00% | ~103 |
+| Engineer Mastery | 6.00% | ~103 |
+| How Do You Turn This On? | 6.00% | ~103 |
+| Missions Dedication | 6.00% | ~103 |
+| Weekly Quest Completionist | 6.00% | ~103 |
+| Ancient Knowledge | 5.00% | ~86 |
+| Blueprint Upgrades | 5.00% | ~86 |
+| Lock And Load | 5.00% | ~86 |
 | Background Story | 4.00% | ~68 |
 | Legendary | 4.00% | ~68 |
 | Sailor | 4.00% | ~68 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,708 (Ranked 170)  
+Progressed: 1,710 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-21 | 1,690 | 1 |
 | 2023-07-22 | 1,699 | 1 |
 | 2023-07-23 | 1,706 | 1 |
-| 2023-07-24 | 1,708 | 1 |
+| 2023-07-24 | 1,710 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

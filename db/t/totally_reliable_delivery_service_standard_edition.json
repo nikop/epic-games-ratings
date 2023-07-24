@@ -2,12 +2,12 @@
   "ID": "52b90f9a982a404781b189f6a7903226",
   "Name": "Totally Reliable Delivery Service Standard Edition",
   "ProductSlug": "totally-reliable-delivery-service",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-04-01T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 112,
   "RatingHistory": [
     {
@@ -389,6 +389,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-24T17:02:50.5661768+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -406,8 +412,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
-  "LastChanged": "2023-07-14T16:00:43.728915+00:00",
+  "LastChanged": "2023-07-24T17:02:50.5661766+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:01.1296015+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:02:46.2130698+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:06:16.1957327+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:02:50.5661774+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:06:16.494659+00:00"
 }

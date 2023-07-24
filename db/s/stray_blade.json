@@ -200,9 +200,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -240,9 +240,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 82,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -432,9 +432,9 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 18,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:06:43.9929584+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:06:44.8151797+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:59:14.6256348+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:06:43.9929978+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:59:20.8361999+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:06:44.8152159+00:00"
 }

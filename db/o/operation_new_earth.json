@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2081,6 +2081,11 @@
       "Time": "2023-07-24T16:07:24.9840795+00:00",
       "NumProgressed": 606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T17:07:26.6603258+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2100,7 +2105,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_defeat_players_10",
@@ -2204,7 +2209,7 @@
       "Name": "Corporal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2228,7 +2233,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2268,7 +2273,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2340,7 +2345,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -2348,7 +2353,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2395,14 +2400,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 608,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:07:24.984079+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:07:26.6603253+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:03:17.1943779+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:07:24.9841299+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:03:21.3713325+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:07:26.6603641+00:00"
 }

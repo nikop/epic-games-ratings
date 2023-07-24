@@ -451,9 +451,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FirstBoss",
@@ -467,9 +467,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FourthBoss",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-24T16:06:44.6136062+00:00",
+  "LastChanged_Achievements": "2023-07-24T17:06:45.3811+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:58:09.8196247+00:00",
-  "LastUpdate_Achievements": "2023-07-24T16:06:44.613624+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:58:11.1367657+00:00",
+  "LastUpdate_Achievements": "2023-07-24T17:06:45.3811184+00:00"
 }

@@ -6,9 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Look Over There! | 0.10% | ~3 |
+| Nemesis Master | 0.10% | ~3 |
+| Execution Force | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
-| Look Over There! | 0.00% | ~0 |
 | Blood and Iron | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
@@ -40,7 +42,6 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 0.00% | ~0 |
 | Mind Like a Fortress | 0.00% | ~0 |
 | The Emperor Protects | 0.00% | ~0 |
-| Nemesis Master | 0.00% | ~0 |
 | Gunmaster | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
@@ -65,7 +66,6 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 | Tactical Flexibility | 0.00% | ~0 |
-| Execution Force | 0.00% | ~0 |
 | Reign of Confusion | 0.00% | ~0 |
 | Abomination | 0.00% | ~0 |
 | Killing Rampage | 0.00% | ~0 |
