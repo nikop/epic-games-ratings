@@ -904,7 +904,7 @@
 | 902 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 531 | 191 |
 | 902 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 277 |
 | 904 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 505 |
-| 904 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,059 | 66 |
+| 904 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,064 | 66 |
 | 904 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.06 | 0 | 505 |
 | 904 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 505 |
 | 908 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 505 |

@@ -65,7 +65,7 @@
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,516 | 4.75 | 134 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,346 | 4.54 | 494 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,183 | 4.33 | 757 |
-| 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,059 | 4.06 | 904 |
+| 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,064 | 4.06 | 904 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,993 | 4.65 | 300 |
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 461 |
 | 69 | [Shop Titans](games/s/shop_titans.md) | 4,670 | 3.99 | 920 |

@@ -31,20 +31,20 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 31 | [Scorn](games/s/scorn.md) | 6.98% |
-| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.92% |
+| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.88% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.81% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.77% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.82% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
-| 44 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.55% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.54% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
@@ -65,7 +65,7 @@
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
 | 65 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
-| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.79% |
+| 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.78% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 69 | [Lamentum](games/l/lamentum.md) | 2.64% |
@@ -508,4 +508,4 @@
 | 240 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 240 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 240 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,936 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,937 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
