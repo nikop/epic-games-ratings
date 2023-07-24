@@ -6,26 +6,26 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~272 |
-| Close call! | 73.00% | ~265 |
-| Builder | 53.00% | ~192 |
-| Pangs of conscience | 48.00% | ~174 |
-| Living it large! | 43.00% | ~156 |
-| Collector | 40.00% | ~145 |
+| Getting started | 75.00% | ~273 |
+| Close call! | 73.00% | ~266 |
+| Builder | 53.00% | ~193 |
+| Pangs of conscience | 48.00% | ~175 |
+| Living it large! | 43.00% | ~157 |
+| Collector | 40.00% | ~146 |
 | Need to think | 39.00% | ~142 |
-| Completely nuts! | 37.00% | ~134 |
+| Completely nuts! | 37.00% | ~135 |
 | Just in time! | 33.00% | ~120 |
-| It's no coincidence. | 31.00% | ~113 |
 | Europe | 30.00% | ~109 |
-| Let's roll! | 26.00% | ~94 |
-| Non Stop! | 26.00% | ~94 |
-| Madness! | 26.00% | ~94 |
+| It's no coincidence. | 30.00% | ~109 |
+| Let's roll! | 26.00% | ~95 |
+| Non Stop! | 26.00% | ~95 |
+| Madness! | 26.00% | ~95 |
 | Philatelist | 25.00% | ~91 |
 | Ouroboros | 24.00% | ~87 |
-| Foreman | 21.00% | ~76 |
+| Foreman | 22.00% | ~80 |
 | Missed it! | 21.00% | ~76 |
-| Russia | 18.00% | ~65 |
-| Sabotage | 18.00% | ~65 |
+| Russia | 18.00% | ~66 |
+| Sabotage | 18.00% | ~66 |
 | America | 16.00% | ~58 |
 | Woodcutter | 12.00% | ~44 |
 | Engineer | 12.00% | ~44 |
@@ -39,14 +39,14 @@ Number of Ratings: 28  (23.09.2022)
 | Supercrash! | 4.00% | ~15 |
 | Forgotten | 2.00% | ~7 |
 | Lucky vandal | 2.00% | ~7 |
-| BBQ | 0.60% | ~2 |
-| Vandal | 0.60% | ~2 |
-| Mega-railroad | 0.60% | ~2 |
-| Juggler | 0.60% | ~2 |
-| Maniac vandal | 0.60% | ~2 |
-| Salesman | 0.60% | ~2 |
+| BBQ | 0.50% | ~2 |
+| Vandal | 0.50% | ~2 |
+| Mega-railroad | 0.50% | ~2 |
+| Juggler | 0.50% | ~2 |
+| Maniac vandal | 0.50% | ~2 |
+| Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 235)  
+Progressed: 364 (Ranked 235)  
 Completed: 2 (0.55%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 2 (0.55%) (Ranked 125)
 | 2023-07-21 | 341 | 2 |
 | 2023-07-22 | 348 | 2 |
 | 2023-07-23 | 359 | 2 |
-| 2023-07-24 | 363 | 2 |
+| 2023-07-24 | 364 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

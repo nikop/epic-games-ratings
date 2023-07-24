@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.69,
+  "EOS_Completed_Percentage": 1.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -1056,6 +1056,11 @@
       "Time": "2023-07-24T17:06:22.1904168+00:00",
       "NumProgressed": 890,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-24T18:04:56.785017+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1091,7 +1096,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1099,7 +1104,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1147,7 +1152,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -1155,7 +1160,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1163,15 +1168,15 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1179,7 +1184,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1203,7 +1208,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1267,7 +1272,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1282,7 +1287,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 15
     }
   ],
@@ -1290,8 +1295,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:06:22.1904163+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:04:56.7850165+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:58:20.1243659+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:06:22.1904412+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:57:46.7357441+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:04:56.7850356+00:00"
 }

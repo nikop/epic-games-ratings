@@ -15,20 +15,20 @@
 | Early Survivor | 41.00% | ~73 |
 | No Diggity | 41.00% | ~73 |
 | Amateur Survivor | 30.00% | ~53 |
+| Bouncemato | 28.00% | ~50 |
 | 10K | 27.00% | ~62 |
-| Bouncemato | 27.00% | ~48 |
 | 15K | 25.00% | ~57 |
 | Grave Digger | 23.00% | ~41 |
 | Drinking Problem | 22.00% | ~50 |
 | Professional Survivor | 21.00% | ~37 |
 | Quick-Draw Pod | 20.00% | ~36 |
 | Pork Chop Express | 16.00% | ~36 |
-| Skin Of Your Teeth | 13.00% | ~30 |
+| Skin Of Your Teeth | 14.00% | ~32 |
 | Carrocketeer | 13.00% | ~30 |
 | Oh My Gourd | 13.00% | ~23 |
+| Getting Started | 12.00% | ~27 |
 | Eggtraordinary | 12.00% | ~27 |
 | This Is My Boomstick | 12.00% | ~21 |
-| Getting Started | 11.00% | ~25 |
 | Summers Here | 11.00% | ~20 |
 | Fresh Pancake | 10.00% | ~23 |
 | Quit Horsin' Around | 10.00% | ~23 |

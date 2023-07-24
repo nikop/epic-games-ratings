@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2086,6 +2086,11 @@
       "Time": "2023-07-24T17:07:26.6603258+00:00",
       "NumProgressed": 608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T18:05:42.5914259+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2201,7 +2206,7 @@
       "Name": "Facility Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2217,7 +2222,7 @@
       "Name": "Sergeant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2265,7 +2270,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -2281,7 +2286,7 @@
       "Name": "Covert Operative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2400,14 +2405,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:07:26.6603253+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:05:42.5914251+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:03:21.3713325+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:07:26.6603641+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:01:41.4890465+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:05:42.5914578+00:00"
 }

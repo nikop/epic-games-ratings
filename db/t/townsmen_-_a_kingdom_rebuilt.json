@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4205,
+  "EOS_Progressed": 4207,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-07-24T07:04:58.4760019+00:00",
       "NumProgressed": 4205,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T18:05:05.9231726+00:00",
+      "NumProgressed": 4207,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -950,7 +955,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -1534,7 +1539,7 @@
       "Name": "Tax-man I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1636,9 +1641,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
       "SetID": "9eacipp",
       "Name": "A new beginning",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1646,7 +1651,7 @@
       "Name": "Friends from the past",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -1693,15 +1698,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4205,
+      "Progressed": 4207,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:06:35.3355897+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:05:05.9231722+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:59:35.3799668+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:06:35.3357183+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:58:41.515991+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:05:05.9232689+00:00"
 }

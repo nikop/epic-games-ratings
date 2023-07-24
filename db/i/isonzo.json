@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6433,
+  "EOS_Progressed": 6434,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3607,6 +3607,11 @@
       "Time": "2023-07-24T16:06:46.4435648+00:00",
       "NumProgressed": 6433,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-24T18:05:13.8410034+00:00",
+      "NumProgressed": 6434,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3786,7 +3791,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3810,7 +3815,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3970,14 +3975,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6433,
+      "Progressed": 6434,
       "Completed": 8
     }
   ],
@@ -3985,8 +3990,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:06:46.3688374+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:05:13.8410027+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:58:54.0304964+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:06:46.3688889+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:58:08.8581219+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:05:13.8410471+00:00"
 }

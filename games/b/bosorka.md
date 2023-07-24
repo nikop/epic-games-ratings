@@ -14,8 +14,8 @@
 | Devil's dozen | 30.00% | ~27 |
 | It doesn't work like that | 25.00% | ~22 |
 | This is just the beginning... | 19.00% | ~17 |
+| A small victory | 19.00% | ~17 |
 | Unstoppable Curiosity | 18.00% | ~16 |
-| A small victory | 18.00% | ~16 |
 | Gold Digger | 12.00% | ~11 |
 | Time is on my side | 11.00% | ~10 |
 | Secret at the bottom | 0.00% | ~0 |

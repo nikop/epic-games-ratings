@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2719,9 +2719,9 @@
       "ID": "from_day_to_day_2",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 2",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "from_day_to_day_3",
@@ -3030,8 +3030,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:06:17.9679887+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:04:53.6096071+00:00",
   "LastUpdate_AppInfo": "2023-07-18T03:15:33.4430036+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:57:56.8916583+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:06:17.9680627+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:57:28.4058836+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:04:53.6096652+00:00"
 }

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1650,6 +1650,11 @@
       "Time": "2023-07-24T14:03:10.5984299+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T18:03:19.1698097+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1733,7 +1738,7 @@
       "Name": "Lock, Stock",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "E1M1",
@@ -1741,7 +1746,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Everyone_is_here",
@@ -1789,7 +1794,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "High_noon",
@@ -1797,7 +1802,7 @@
       "Name": "Payback Time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "How",
@@ -1900,15 +1905,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:04:38.0861373+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:03:19.1698095+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:01:28.7501922+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:04:38.0861667+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:00:05.5365286+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:03:19.1698312+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~185,377 |
-| Snooper. | 10.00% | ~19,721 |
+| Boarded! | 94.00% | ~185,387 |
+| Snooper. | 10.00% | ~19,722 |
 | You have to start somewhere, right? | 7.00% | ~13,805 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,833 |
-| Corrupted. | 5.00% | ~9,860 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,860 |
-| Answers can be found amongst the stars | 3.00% | ~5,916 |
-| Bend to the will of the arrows. | 3.00% | ~5,916 |
+| Corrupted. | 5.00% | ~9,861 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,861 |
+| Answers can be found amongst the stars | 3.00% | ~5,917 |
+| Bend to the will of the arrows. | 3.00% | ~5,917 |
 | You've been through a lot. | 2.00% | ~3,944 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,944 |
 | I hope your remember your colour theory. | 2.00% | ~3,944 |
@@ -25,17 +25,17 @@ Rating: 4.32 (Ranked 765)
 | That's a wrap. | 2.00% | ~3,944 |
 | In balance. | 2.00% | ~3,944 |
 | I hope you're ready. | 1.00% | ~1,972 |
-| Bridge crossed. | 0.70% | ~1,380 |
-| Cockpit | 0.70% | ~1,380 |
-| Names to faces. | 0.70% | ~1,380 |
-| Witness it. | 0.70% | ~1,380 |
+| Bridge crossed. | 0.70% | ~1,381 |
+| Cockpit | 0.70% | ~1,381 |
+| Names to faces. | 0.70% | ~1,381 |
+| Witness it. | 0.70% | ~1,381 |
 | A full deck. | 0.60% | ~1,183 |
 | 14237b6509eafd8c | 0.60% | ~1,183 |
 | No Anchor too great. | 0.50% | ~986 |
 | Snooper + | 0.40% | ~789 |
 | Corrupted + | 0.30% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,210 (Ranked 56)  
+Progressed: 197,220 (Ranked 56)  
 Completed: 469 (0.24%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 469 (0.24%) (Ranked 160)
 | 2023-07-21 | 196,960 | 468 |
 | 2023-07-22 | 197,054 | 469 |
 | 2023-07-23 | 197,149 | 469 |
-| 2023-07-24 | 197,210 | 469 |
+| 2023-07-24 | 197,220 | 469 |
 ## Awards
 Max (Challenging Puzzles): 558  (Ranked 184)  
 Sum: 672 (Ranked 275)  

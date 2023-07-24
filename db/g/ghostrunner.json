@@ -1014,9 +1014,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13302,
+  "EOS_Progressed": 13303,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11024,6 +11024,11 @@
       "Time": "2023-07-24T17:04:08.2622608+00:00",
       "NumProgressed": 13302,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-24T18:02:28.3543233+00:00",
+      "NumProgressed": 13303,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -11067,7 +11072,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "DeadInTheAir",
@@ -11251,7 +11256,7 @@
       "Name": "R is for Running",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "RunningOutOfBreath",
@@ -11259,7 +11264,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 7316
+      "UsersEstimate": 7317
     },
     {
       "ID": "RunningWild",
@@ -11307,7 +11312,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8247
+      "UsersEstimate": 8248
     },
     {
       "ID": "SwordToAGunfight",
@@ -11331,7 +11336,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -11355,7 +11360,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 7316
+      "UsersEstimate": 7317
     },
     {
       "ID": "WaveOfMutilation",
@@ -11363,7 +11368,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "WhereAreMyKeys",
@@ -11394,21 +11399,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 13302,
+      "Progressed": 13303,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 13302,
+      "Progressed": 13303,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-24T13:10:25.7219989+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:04:08.26226+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:02:28.3543229+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.3951611+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:59:43.3183478+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:04:08.2623545+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:58:45.9826945+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:02:28.3543979+00:00"
 }

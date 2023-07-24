@@ -5,6 +5,7 @@ Rating: 4.41 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
 | The Kraken Sleeps | 4.00% | ~134 |
 | Climbing the Ladder | 3.00% | ~100 |
@@ -18,7 +19,6 @@ Rating: 4.41 (Ranked 673)
 | The Kraken Wakes | 3.00% | ~100 |
 | It's Starting to Crack | 3.00% | ~100 |
 | Change the Channel | 3.00% | ~100 |
-| Taking it back | 3.00% | ~100 |
 | No Stone Unturned | 2.00% | ~67 |
 | Opposing Force | 2.00% | ~67 |
 | Organ Grinder | 2.00% | ~67 |

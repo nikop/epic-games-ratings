@@ -227,9 +227,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0021",
       "SetID": "9jb1eoe",
       "Name": "Thinning the Horde",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:08:54.0153364+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:07:05.2499651+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.7000348+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:02:52.6555925+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:08:54.0153525+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:01:16.5845631+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:07:05.2499769+00:00"
 }

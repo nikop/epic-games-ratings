@@ -862,7 +862,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659764,
+  "EOS_Progressed": 659766,
   "EOS_Completed": 167,
   "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 2,
@@ -9792,6 +9792,11 @@
       "Time": "2023-07-24T17:03:32.372709+00:00",
       "NumProgressed": 659764,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-24T18:02:02.6534219+00:00",
+      "NumProgressed": 659766,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9803,7 +9808,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475030
+      "UsersEstimate": 475032
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -9811,7 +9816,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382663
+      "UsersEstimate": 382664
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9867,7 +9872,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65976
+      "UsersEstimate": 65977
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -9875,7 +9880,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46183
+      "UsersEstimate": 46184
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -9899,7 +9904,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65976
+      "UsersEstimate": 65977
     },
     {
       "ID": "Achievement_14_Magician",
@@ -10035,7 +10040,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46183
+      "UsersEstimate": 46184
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -10067,7 +10072,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164941
+      "UsersEstimate": 164942
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -10115,7 +10120,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46183
+      "UsersEstimate": 46184
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -10186,15 +10191,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659764,
+      "Progressed": 659766,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:03:32.3726851+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:02:02.6534002+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:59:01.7814647+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:03:32.3736791+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:58:14.8128018+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:02:02.6542943+00:00"
 }

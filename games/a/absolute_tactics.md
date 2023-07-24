@@ -23,8 +23,8 @@
 | Secret Admirer | 20.00% | ~1 |
 | Classy | 20.00% | ~1 |
 | The Hordes of Mercy | 20.00% | ~1 |
+| Thinning the Horde | 20.00% | ~1 |
 | Eternal Darkness | 0.00% | ~0 |
-| Thinning the Horde | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 240)  

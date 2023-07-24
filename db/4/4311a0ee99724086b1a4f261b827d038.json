@@ -231,9 +231,9 @@
       "ID": "HW2_MISSION1_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Tanis Completed",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -325,8 +325,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:04:29.2307022+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:03:12.9422976+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:57:26.6940589+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:04:29.2307285+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:57:04.6050522+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:03:12.9423171+00:00"
 }

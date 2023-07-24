@@ -457,9 +457,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -642,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:07:15.6085426+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:05:34.8031175+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.5442287+00:00",
-  "LastUpdate_Ratings": "2023-07-24T16:59:58.3001505+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:07:15.608578+00:00"
+  "LastUpdate_Ratings": "2023-07-24T17:58:56.804448+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:05:34.8031474+00:00"
 }

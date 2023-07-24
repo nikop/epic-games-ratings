@@ -10,7 +10,7 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 58.00% | ~182 |
 | Mushroom Picker | 57.00% | ~179 |
 | Scrapper | 49.00% | ~154 |
-| Cook | 42.00% | ~132 |
+| Cook | 43.00% | ~135 |
 | Teleport | 42.00% | ~132 |
 | Scrap Master | 39.00% | ~122 |
 | Smelter | 36.00% | ~113 |
@@ -28,9 +28,9 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 18.00% | ~57 |
 | Mythical Smelter | 13.00% | ~41 |
 | Blacksmith | 12.00% | ~38 |
+| Fuel | 11.00% | ~35 |
 | Master Of Management | 10.00% | ~31 |
 | Forest Lord | 10.00% | ~31 |
-| Fuel | 10.00% | ~31 |
 | Smelting Master | 10.00% | ~31 |
 | Black Gold | 8.00% | ~25 |
 | Survival Master | 5.00% | ~16 |

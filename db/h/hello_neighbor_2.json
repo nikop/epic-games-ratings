@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2629,
+  "EOS_Progressed": 2631,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -2094,6 +2094,11 @@
       "Time": "2023-07-24T16:06:45.0939124+00:00",
       "NumProgressed": 2629,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-24T18:05:13.206183+00:00",
+      "NumProgressed": 2631,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2105,7 +2110,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2113,7 +2118,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2153,7 +2158,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2175,9 +2180,9 @@
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 631
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_REUNION",
@@ -2209,14 +2214,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2629,
+      "Progressed": 2631,
       "Completed": 101
     }
   ],
@@ -2224,8 +2229,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-24T17:06:45.6092401+00:00",
+  "LastChanged_Achievements": "2023-07-24T18:05:13.2061823+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:03:05.7529934+00:00",
-  "LastUpdate_Achievements": "2023-07-24T17:06:45.6092607+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:01:29.5549015+00:00",
+  "LastUpdate_Achievements": "2023-07-24T18:05:13.2062004+00:00"
 }

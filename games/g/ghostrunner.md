@@ -7,9 +7,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~10,110 |
-| Sword Runner | 62.00% | ~8,247 |
-| Running out of breath | 55.00% | ~7,316 |
-| Wallrunner | 55.00% | ~7,316 |
+| Sword Runner | 62.00% | ~8,248 |
+| Running out of breath | 55.00% | ~7,317 |
+| Wallrunner | 55.00% | ~7,317 |
 | Homerunner | 46.00% | ~6,119 |
 | Out of order | 45.00% | ~5,986 |
 | I call it luck | 44.00% | ~5,853 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,047  (23.09.2022)
 | Control freak | 28.00% | ~3,725 |
 | Running Wild | 28.00% | ~3,725 |
 | Finish line | 26.00% | ~3,459 |
-| Unstoppable force | 23.00% | ~3,059 |
-| Wave of mutilation | 22.00% | ~2,926 |
-| Can't Run Can't Hide | 17.00% | ~2,261 |
-| R is for Running | 17.00% | ~2,261 |
+| Unstoppable force | 23.00% | ~3,060 |
+| Wave of mutilation | 22.00% | ~2,927 |
+| Can't Run Can't Hide | 17.00% | ~2,262 |
+| R is for Running | 17.00% | ~2,262 |
 | Dead in the air | 15.00% | ~1,995 |
 | Improvise, adapt, overrun | 13.00% | ~1,729 |
 | Pre-empative strike | 13.00% | ~1,729 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~53 |
 | Up Close And Personal | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,302 (Ranked 114)  
+Progressed: 13,303 (Ranked 114)  
 Completed: 54 (0.41%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 54 (0.41%) (Ranked 139)
 | 2023-07-21 | 12,952 | 54 |
 | 2023-07-22 | 13,081 | 54 |
 | 2023-07-23 | 13,213 | 54 |
-| 2023-07-24 | 13,302 | 54 |
+| 2023-07-24 | 13,303 | 54 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 196)  
 Sum: 631 (Ranked 285)  

@@ -7,7 +7,11 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.10% | ~3 |
+| Executioner | 0.10% | ~3 |
+| The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
+| Gunmaster | 0.10% | ~3 |
+| Efficient Killer | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
@@ -32,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 0.00% | ~0 |
 | Blood for the Blood God! | 0.00% | ~0 |
 | Corruption Cleanser | 0.00% | ~0 |
-| Executioner | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Friendly Fire | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
@@ -41,14 +44,11 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.00% | ~0 |
 | An Ill Omen | 0.00% | ~0 |
 | Mind Like a Fortress | 0.00% | ~0 |
-| The Emperor Protects | 0.00% | ~0 |
-| Gunmaster | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
 | Warp Flickers | 0.00% | ~0 |
 | Phalanx | 0.00% | ~0 |
-| Efficient Killer | 0.00% | ~0 |
 | Bloodless | 0.00% | ~0 |
 | Exercise in Restraint | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.00% | ~0 |
 | Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,019 (Ranked 153)  
+Progressed: 3,020 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
-| 2023-07-24 | 3,019 | 0 |
+| 2023-07-24 | 3,020 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  
