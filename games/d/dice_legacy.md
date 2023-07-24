@@ -1,11 +1,11 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.27 (Ranked 797)  
+Rating: 4.27 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 35.00% | ~329 |
+| We made it | 35.00% | ~330 |
 | Manipulating Fate | 8.00% | ~75 |
 | The City | 8.00% | ~75 |
 | Full house | 5.00% | ~47 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 797)
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
 | The Council | 1.00% | ~9 |
-| The Mad | 0.90% | ~8 |
+| The Mad | 0.80% | ~8 |
 | Like the dream | 0.60% | ~6 |
 | Six Faces | 0.50% | ~5 |
 | Charismatic Leader | 0.40% | ~4 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 797)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 193)  
+Progressed: 942 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 932 | 0 |
 | 2023-07-22 | 937 | 0 |
 | 2023-07-23 | 940 | 0 |
-| 2023-07-24 | 941 | 0 |
+| 2023-07-24 | 942 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

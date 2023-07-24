@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -3777,9 +3777,9 @@
       "ID": "ISONZO_ACH_MILLENIAL",
       "SetID": "akchbl3",
       "Name": "Millenial",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 643
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3970,8 +3970,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:06:21.3171383+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:16:39.6006931+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:58:30.2740029+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:06:21.3171992+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:09:49.5414211+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:16:39.6007499+00:00"
 }

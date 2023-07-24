@@ -5,17 +5,17 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,614 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,615 |
 | First Class Student | 11.00% | ~31,730 |
-| A Keen Sense of Spell | 10.00% | ~28,845 |
-| Troll with the Punches | 10.00% | ~28,845 |
-| The One Who Mastered Memories | 9.00% | ~25,960 |
-| The Hallowed Hero | 9.00% | ~25,960 |
-| The Defender of Dragons | 9.00% | ~25,960 |
-| Loom for Improvement | 9.00% | ~25,960 |
-| A Talent for Spending | 9.00% | ~25,960 |
-| Coasting Along | 9.00% | ~25,960 |
-| That's a Keeper | 9.00% | ~25,960 |
+| A Keen Sense of Spell | 10.00% | ~28,846 |
+| Troll with the Punches | 10.00% | ~28,846 |
+| The One Who Mastered Memories | 9.00% | ~25,961 |
+| The Hallowed Hero | 9.00% | ~25,961 |
+| The Defender of Dragons | 9.00% | ~25,961 |
+| Loom for Improvement | 9.00% | ~25,961 |
+| A Talent for Spending | 9.00% | ~25,961 |
+| Coasting Along | 9.00% | ~25,961 |
+| That's a Keeper | 9.00% | ~25,961 |
 | Grappling with a Graphorn | 8.00% | ~23,076 |
 | The Hero of Hogwarts | 8.00% | ~23,076 |
 | Challenge Accepted | 8.00% | ~23,076 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 109)
 | The Avenging Gazelle | 6.00% | ~17,307 |
 | Beast Friends | 6.00% | ~17,307 |
 | Flight the Good Flight | 6.00% | ~17,307 |
-| The Seeker of Knowledge | 5.00% | ~14,422 |
-| The Root of the Problem | 5.00% | ~14,422 |
-| Third Time's a Charm | 5.00% | ~14,422 |
-| Raising Expectations | 5.00% | ~14,422 |
+| The Seeker of Knowledge | 5.00% | ~14,423 |
+| The Root of the Problem | 5.00% | ~14,423 |
+| Third Time's a Charm | 5.00% | ~14,423 |
+| Raising Expectations | 5.00% | ~14,423 |
 | The Toast of the Town | 4.00% | ~11,538 |
 | The Ends Petrify the Means | 4.00% | ~11,538 |
 | Going Through the Potions | 3.00% | ~8,654 |
@@ -42,16 +42,16 @@ Rating: 4.77 (Ranked 109)
 | The Auror's Apprentice | 2.00% | ~5,769 |
 | Floo Around the World | 2.00% | ~5,769 |
 | Rise to the Challenges | 2.00% | ~5,769 |
-| Savvy Spender | 1.00% | ~2,884 |
-| Demiguise Dread | 1.00% | ~2,884 |
-| Finishing Touches | 1.00% | ~2,884 |
-| A Forte for Achievement | 1.00% | ~2,884 |
+| Savvy Spender | 1.00% | ~2,885 |
+| Demiguise Dread | 1.00% | ~2,885 |
+| Finishing Touches | 1.00% | ~2,885 |
+| A Forte for Achievement | 1.00% | ~2,885 |
 | Merlin's Beard! | 0.80% | ~2,308 |
 | Spilled Milk | 0.70% | ~2,019 |
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,450 (Ranked 42)  
+Progressed: 288,455 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,14 +146,14 @@ Completed: 434 (0.15%) (Ranked 175)
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
-| 2023-07-24 | 288,450 | 434 |
+| 2023-07-24 | 288,455 | 434 |
 ## Awards
-Max (Character Customization): 21,217  (Ranked 17)  
-Sum: 39,784 (Ranked 30)  
+Max (Character Customization): 21,242  (Ranked 17)  
+Sum: 39,812 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,217 |
+| This game has Inclusive Character Customization | 21,242 |
 | This game has Great Boss Battles | 10,197 |
 | This game is Great for Beginners | 936 |
 | This game is Extremely Fun | 912 |
@@ -164,7 +164,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 848 |
 | This game has Quickly Understood Controls | 808 |
 | This game has Beautiful Visuals | 748 |
-| This game has a Creative Community | 561 |
+| This game has a Creative Community | 564 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -290,4 +290,4 @@ Diff (max vs sum): -13
 | 2023-07-21 | 4.77 | 21,154 | 39,625 |
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
-| 2023-07-24 | 4.77 | 21,217 | 39,784 |
+| 2023-07-24 | 4.77 | 21,242 | 39,812 |

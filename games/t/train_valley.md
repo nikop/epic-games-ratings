@@ -6,7 +6,7 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~270 |
+| Getting started | 76.00% | ~274 |
 | Close call! | 73.00% | ~263 |
 | Builder | 53.00% | ~191 |
 | Pangs of conscience | 49.00% | ~176 |

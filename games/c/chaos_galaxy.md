@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Tyrant Rise | 37.00% | ~7 |
 | Honor Medal | 32.00% | ~6 |
+| Great Civil War | 26.00% | ~5 |
 | Assassination | 21.00% | ~4 |
-| Great Civil War | 21.00% | ~4 |
+| Secret War | 16.00% | ~3 |
 | 2nd AI War | 11.00% | ~2 |
-| Secret War | 11.00% | ~2 |
 | Investment | 11.00% | ~2 |
 | Tech Breakthrough | 11.00% | ~2 |
 | Punish Eastgalaxy | 5.00% | ~1 |

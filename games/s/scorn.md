@@ -18,7 +18,7 @@ Rating: 4.47 (Ranked 600)
 | 011 | 4.00% | ~88 |
 | 012 | 4.00% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,208 (Ranked 161)  
+Progressed: 2,209 (Ranked 161)  
 Completed: 154 (6.97%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 154 (6.97%) (Ranked 31)
 | 2023-07-21 | 2,187 | 154 |
 | 2023-07-22 | 2,194 | 154 |
 | 2023-07-23 | 2,207 | 154 |
-| 2023-07-24 | 2,208 | 154 |
+| 2023-07-24 | 2,209 | 154 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

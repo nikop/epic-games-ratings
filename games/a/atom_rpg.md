@@ -19,9 +19,9 @@ Number of Ratings: 54  (23.09.2022)
 | Kraina Grzybow | 11.00% | ~115 |
 | Savant | 10.00% | ~105 |
 | Love Guru | 9.00% | ~94 |
+| Bustin' nuts | 8.00% | ~84 |
 | Not-so-private Eye | 8.00% | ~84 |
 | Superhuman | 8.00% | ~84 |
-| Bustin' nuts | 7.00% | ~73 |
 | The Vitinsky Rifle | 7.00% | ~73 |
 | Protection racket | 5.00% | ~52 |
 | Secret room | 5.00% | ~52 |

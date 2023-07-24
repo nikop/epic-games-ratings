@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -311,9 +311,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -334,8 +334,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:04:50.5844994+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:15:33.2263451+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:57:26.1812409+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:04:50.584521+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:09:03.3966554+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:15:33.2263631+00:00"
 }

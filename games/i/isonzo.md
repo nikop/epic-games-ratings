@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 461)  
+Rating: 4.56 (Ranked 460)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~707 |
 | The Devil's Paintbrush | 11.00% | ~707 |
 | I Have the High Ground | 10.00% | ~643 |
-| Millenial | 9.00% | ~579 |
+| Millenial | 10.00% | ~643 |
 | The Show Must Go On | 9.00% | ~579 |
 | Tosca | 9.00% | ~579 |
 | 12th Bottle of the Isonzo | 6.00% | ~386 |

@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 610)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,949 |
-| My First Runbow | 50.00% | ~123,536 |
-| It's The Fall | 26.00% | ~64,239 |
-| Be Aggressive | 21.00% | ~51,885 |
-| The Stunner | 21.00% | ~51,885 |
+| In The Zone | 53.00% | ~130,950 |
+| My First Runbow | 50.00% | ~123,538 |
+| It's The Fall | 26.00% | ~64,240 |
+| Be Aggressive | 21.00% | ~51,886 |
+| The Stunner | 21.00% | ~51,886 |
 | Curator | 20.00% | ~49,415 |
-| Crowning Around | 18.00% | ~44,473 |
-| Can You Dig It? | 17.00% | ~42,002 |
+| Crowning Around | 18.00% | ~44,474 |
+| Can You Dig It? | 17.00% | ~42,003 |
 | You Juan-A-Go? | 16.00% | ~39,532 |
 | Chan-tastic | 15.00% | ~37,061 |
-| Muddy Waters | 14.00% | ~34,590 |
-| Toasty! | 13.00% | ~32,119 |
+| Muddy Waters | 14.00% | ~34,591 |
+| Toasty! | 13.00% | ~32,120 |
 | Lazy Laser | 8.00% | ~19,766 |
 | Just A Phaze | 7.00% | ~17,295 |
 | Into The Drift | 7.00% | ~17,295 |
 | Ready? Fight! | 7.00% | ~17,295 |
-| Butt Butt | 6.00% | ~14,824 |
+| Butt Butt | 6.00% | ~14,825 |
 | He Who Laughs Last | 3.00% | ~7,412 |
 | Shoo, Cat! | 3.00% | ~7,412 |
-| And You're Okay | 2.00% | ~4,941 |
-| Blotbuster | 2.00% | ~4,941 |
-| Thunderstruck | 2.00% | ~4,941 |
+| And You're Okay | 2.00% | ~4,942 |
+| Blotbuster | 2.00% | ~4,942 |
+| Thunderstruck | 2.00% | ~4,942 |
 | Just A Bit | 1.00% | ~2,471 |
 | Tubular, Dude | 1.00% | ~2,471 |
 | What A Trip | 0.90% | ~2,224 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 610)
 | Talent Scout | 0.10% | ~247 |
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,073 (Ranked 44)  
+Progressed: 247,076 (Ranked 44)  
 Completed: 3 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 3 (0.00%) (Ranked 240)
 | 2023-07-21 | 246,951 | 3 |
 | 2023-07-22 | 247,004 | 3 |
 | 2023-07-23 | 247,057 | 3 |
-| 2023-07-24 | 247,073 | 3 |
+| 2023-07-24 | 247,076 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

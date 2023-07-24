@@ -5,18 +5,18 @@ Rating: 3.53 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,329 |
+| I Like My Stakes Rare! | 77.00% | ~1,330 |
+| Home Is Where the Heart Is | 61.00% | ~1,053 |
 | Ne Plus Ultra | 61.00% | ~1,053 |
-| Home Is Where the Heart Is | 60.00% | ~1,036 |
 | Wounded Whispers | 60.00% | ~1,036 |
-| Blood Will Have Blood | 51.00% | ~880 |
-| ICU | 47.00% | ~811 |
+| Blood Will Have Blood | 51.00% | ~881 |
+| ICU | 47.00% | ~812 |
 | Catch and Release | 45.00% | ~777 |
-| Peek-a-boo | 44.00% | ~759 |
-| Sucks To Be You | 43.00% | ~742 |
-| Welcome to the Neighborhood | 39.00% | ~673 |
-| Fly Fisher | 36.00% | ~621 |
-| Throw The First Stone | 36.00% | ~621 |
+| Peek-a-boo | 44.00% | ~760 |
+| Sucks To Be You | 43.00% | ~743 |
+| Welcome to the Neighborhood | 39.00% | ~674 |
+| Fly Fisher | 36.00% | ~622 |
+| Throw The First Stone | 36.00% | ~622 |
 | Enter of Your Own Free Will | 34.00% | ~587 |
 | Heart Attack | 33.00% | ~570 |
 | Skin of Their Teeth | 31.00% | ~535 |
@@ -25,10 +25,10 @@ Rating: 3.53 (Ranked 953)
 | I Spit On Your Grave | 19.00% | ~328 |
 | Neighborhood Revitalization | 16.00% | ~276 |
 | Radio Silence | 16.00% | ~276 |
-| Helping Hand | 13.00% | ~224 |
+| Helping Hand | 13.00% | ~225 |
 | You Clean It Up | 11.00% | ~190 |
+| Starve the Beast | 9.00% | ~155 |
 | Block Party | 8.00% | ~138 |
-| Starve the Beast | 8.00% | ~138 |
 | From the Shadows | 7.00% | ~121 |
 | Bell-ringer | 5.00% | ~86 |
 | Silence Is Golden | 5.00% | ~86 |
@@ -50,17 +50,17 @@ Rating: 3.53 (Ranked 953)
 | Bloody Initiate | 2.00% | ~35 |
 | Under a Bushel | 2.00% | ~35 |
 | Dexterity Save | 2.00% | ~35 |
+| Friends 'Til The End | 2.00% | ~35 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
 | Sisterhood | 1.00% | ~17 |
 | What Lies Below | 1.00% | ~17 |
 | So Anyway I Started Blasting | 1.00% | ~17 |
-| Friends 'Til The End | 1.00% | ~17 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~16 |
 | Good Samaritan | 0.90% | ~16 |
-| Someplace to Be | 0.50% | ~9 |
+| Someplace to Be | 0.60% | ~10 |
 | Bob’s Final Hour | 0.50% | ~9 |
-| A Cry in the Dark | 0.30% | ~5 |
+| A Cry in the Dark | 0.40% | ~7 |
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.53 (Ranked 953)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,726 (Ranked 169)  
+Progressed: 1,727 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-17 | 1,724 | 0 |
 | 2023-07-20 | 1,725 | 0 |
 | 2023-07-22 | 1,726 | 0 |
+| 2023-07-24 | 1,727 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

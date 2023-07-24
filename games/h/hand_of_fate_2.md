@@ -1,26 +1,26 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 461)  
+Rating: 4.56 (Ranked 460)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,023 |
-| Apprentice | 58.00% | ~382,657 |
-| Close Shave | 25.00% | ~164,938 |
-| Mercenary | 23.00% | ~151,743 |
-| Ninja | 23.00% | ~151,743 |
-| Northern Scourge | 17.00% | ~112,158 |
+| The Fool | 72.00% | ~475,025 |
+| Apprentice | 58.00% | ~382,659 |
+| Close Shave | 25.00% | ~164,939 |
+| Mercenary | 23.00% | ~151,744 |
+| Ninja | 23.00% | ~151,744 |
+| Northern Scourge | 17.00% | ~112,159 |
 | Thief Bane | 14.00% | ~92,366 |
-| Master of Arms | 12.00% | ~79,170 |
-| Gambler | 10.00% | ~65,975 |
-| Dice Master | 10.00% | ~65,975 |
+| Master of Arms | 12.00% | ~79,171 |
+| Gambler | 10.00% | ~65,976 |
+| Dice Master | 10.00% | ~65,976 |
 | Swordsman | 9.00% | ~59,378 |
-| Knight | 8.00% | ~52,780 |
-| Cure for Corruption | 8.00% | ~52,780 |
-| Focused | 8.00% | ~52,780 |
-| Flurry of Fury | 8.00% | ~52,780 |
+| Knight | 8.00% | ~52,781 |
+| Cure for Corruption | 8.00% | ~52,781 |
+| Focused | 8.00% | ~52,781 |
+| Flurry of Fury | 8.00% | ~52,781 |
 | Long Shot | 7.00% | ~46,183 |
 | Devil Dice | 7.00% | ~46,183 |
 | Broken Heart | 7.00% | ~46,183 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,754 (Ranked 22)  
+Progressed: 659,757 (Ranked 22)  
 Completed: 167 (0.03%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 167 (0.03%) (Ranked 214)
 | 2023-07-21 | 659,643 | 167 |
 | 2023-07-22 | 659,686 | 167 |
 | 2023-07-23 | 659,734 | 167 |
-| 2023-07-24 | 659,754 | 167 |
+| 2023-07-24 | 659,757 | 167 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 374)  

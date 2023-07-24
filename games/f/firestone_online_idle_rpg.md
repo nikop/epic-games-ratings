@@ -15,9 +15,9 @@ Rating: 4.10 (Ranked 890)
 | The game is on | 19.00% | ~324 |
 | Exotic Merchant | 18.00% | ~307 |
 | Dragon Clicker | 16.00% | ~273 |
+| Inspection | 16.00% | ~273 |
 | Miner Clicker | 16.00% | ~273 |
 | Full Party | 15.00% | ~256 |
-| Inspection | 15.00% | ~256 |
 | Dragon Master | 14.00% | ~239 |
 | Enlightenment | 14.00% | ~239 |
 | Hero inspection | 14.00% | ~239 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2831,6 +2831,11 @@
       "Time": "2023-07-24T05:05:14.6860524+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T13:15:58.3454377+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3018,7 +3023,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3225,7 +3230,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 0
     }
   ],
@@ -3233,8 +3238,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-23T06:57:40.642563+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:05:25.3351562+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:15:58.3454372+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:15.5467087+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:58:20.3266031+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:05:25.3352183+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:09:42.8499747+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:15:58.3454957+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-07-23T20:03:51.2214224+00:00",
       "NumProgressed": 312,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T13:15:51.7537437+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -869,7 +874,7 @@
       "Name": "Traveler",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BUILD_RAFINERY",
@@ -925,7 +930,7 @@
       "Name": "Blacksmith",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -941,7 +946,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -949,7 +954,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_COOK",
@@ -973,7 +978,7 @@
       "Name": "Lumberjack",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -997,7 +1002,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_KILL_100",
@@ -1051,9 +1056,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1069,7 +1074,7 @@
       "Name": "Smelter",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1085,7 +1090,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1108,7 +1113,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 1
     }
   ],
@@ -1116,8 +1121,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:05:16.1725129+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:15:51.7537427+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:59:59.5242392+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:05:16.1725411+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:10:53.0465888+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:15:51.7537727+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -489,9 +489,9 @@
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -681,8 +681,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:06:26.8969128+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:16:43.6175228+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:10.2706579+00:00",
-  "LastUpdate_Ratings": "2023-07-24T12:02:43.4514784+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:06:26.8969602+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:12:53.4718632+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:16:43.6175697+00:00"
 }

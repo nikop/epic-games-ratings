@@ -23,10 +23,10 @@ Rating: 4.55 (Ranked 482)
 | Breaking Protocol | 8.00% | ~232 |
 | Man's Best Friend | 6.00% | ~174 |
 | Power Outage | 6.00% | ~174 |
+| Convenient Transport | 6.00% | ~174 |
 | Please Make it Stop! | 6.00% | ~174 |
 | Sightseeing | 5.00% | ~145 |
 | Necessary Enhancement | 5.00% | ~145 |
-| Convenient Transport | 5.00% | ~145 |
 | Oats | 4.00% | ~116 |
 | Access Granted | 4.00% | ~116 |
 | All in Good Health | 4.00% | ~116 |

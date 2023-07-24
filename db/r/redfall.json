@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1726,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2137,6 +2137,11 @@
       "Time": "2023-07-22T12:03:14.3874158+00:00",
       "NumProgressed": 1726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T13:15:14.5428034+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2162,9 +2167,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1053
     },
     {
       "ID": "Achievement_004",
@@ -2196,7 +2201,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_009",
@@ -2212,7 +2217,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Achievement_011",
@@ -2284,7 +2289,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Achievement_020",
@@ -2340,7 +2345,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Achievement_027",
@@ -2348,7 +2353,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "Achievement_028",
@@ -2364,7 +2369,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Achievement_030",
@@ -2372,7 +2377,7 @@
       "Name": "ICU",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "Achievement_031",
@@ -2380,7 +2385,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "Achievement_032",
@@ -2418,9 +2423,9 @@
       "ID": "Achievement_036",
       "SetID": "6b34g18",
       "Name": "A Cry in the Dark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_037",
@@ -2466,17 +2471,17 @@
       "ID": "Achievement_043",
       "SetID": "6b34g18",
       "Name": "Starve the Beast",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 155
     },
     {
       "ID": "Achievement_044",
       "SetID": "6b34g18",
       "Name": "Someplace to Be",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_045",
@@ -2612,7 +2617,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Achievement_064",
@@ -2650,9 +2655,9 @@
       "ID": "Achievement_069",
       "SetID": "6b34g18",
       "Name": "Friends \u0027Til The End",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_070",
@@ -2675,7 +2680,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1726,
+      "Progressed": 1727,
       "Completed": 0
     }
   ],
@@ -2683,8 +2688,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-23T15:58:25.0076082+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:04:24.3995085+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:15:14.542803+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:27.3204066+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:58:57.9030202+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:04:24.3995987+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:10:11.0409481+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:15:14.5428886+00:00"
 }

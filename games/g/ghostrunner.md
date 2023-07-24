@@ -6,44 +6,44 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~10,085 |
-| Sword Runner | 62.00% | ~8,227 |
-| Running out of breath | 55.00% | ~7,299 |
-| Wallrunner | 55.00% | ~7,299 |
-| Homerunner | 46.00% | ~6,104 |
-| Out of order | 45.00% | ~5,972 |
-| I call it luck | 44.00% | ~5,839 |
-| Where are my Keys? | 42.00% | ~5,573 |
-| Back to hell | 37.00% | ~4,910 |
-| Perfection | 32.00% | ~4,246 |
-| Why not both | 31.00% | ~4,114 |
-| Sword to a gunfight | 30.00% | ~3,981 |
-| Upgrades not mandatory | 29.00% | ~3,848 |
-| Artificial selection | 28.00% | ~3,716 |
-| Control freak | 28.00% | ~3,716 |
-| Running Wild | 28.00% | ~3,716 |
-| Finish line | 26.00% | ~3,450 |
-| Unstoppable force | 23.00% | ~3,052 |
-| Wave of mutilation | 22.00% | ~2,919 |
-| Can't Run Can't Hide | 17.00% | ~2,256 |
-| R is for Running | 17.00% | ~2,256 |
-| Dead in the air | 15.00% | ~1,990 |
-| Improvise, adapt, overrun | 13.00% | ~1,725 |
-| Pre-empative strike | 13.00% | ~1,725 |
-| Strike | 13.00% | ~1,725 |
-| More than human | 12.00% | ~1,592 |
-| Triple A | 9.00% | ~1,194 |
-| Fine addition | 7.00% | ~929 |
-| One Of Those Days | 7.00% | ~929 |
+| Longrunner | 76.00% | ~10,093 |
+| Sword Runner | 62.00% | ~8,234 |
+| Running out of breath | 55.00% | ~7,304 |
+| Wallrunner | 55.00% | ~7,304 |
+| Homerunner | 46.00% | ~6,109 |
+| Out of order | 45.00% | ~5,976 |
+| I call it luck | 44.00% | ~5,843 |
+| Where are my Keys? | 42.00% | ~5,578 |
+| Back to hell | 37.00% | ~4,914 |
+| Perfection | 32.00% | ~4,250 |
+| Why not both | 31.00% | ~4,117 |
+| Sword to a gunfight | 30.00% | ~3,984 |
+| Upgrades not mandatory | 29.00% | ~3,851 |
+| Artificial selection | 28.00% | ~3,718 |
+| Control freak | 28.00% | ~3,718 |
+| Running Wild | 28.00% | ~3,718 |
+| Finish line | 26.00% | ~3,453 |
+| Unstoppable force | 23.00% | ~3,054 |
+| Wave of mutilation | 22.00% | ~2,922 |
+| Can't Run Can't Hide | 17.00% | ~2,258 |
+| R is for Running | 17.00% | ~2,258 |
+| Dead in the air | 15.00% | ~1,992 |
+| Improvise, adapt, overrun | 13.00% | ~1,726 |
+| Pre-empative strike | 13.00% | ~1,726 |
+| Strike | 13.00% | ~1,726 |
+| More than human | 12.00% | ~1,594 |
+| Triple A | 9.00% | ~1,195 |
+| Fine addition | 7.00% | ~930 |
+| One Of Those Days | 7.00% | ~930 |
 | Where He Stood | 5.00% | ~664 |
 | About Adam | 4.00% | ~531 |
 | Push it to the limit | 4.00% | ~531 |
 | Scrapped | 4.00% | ~531 |
 | Strafing Run | 4.00% | ~531 |
 | Just A Man | 3.00% | ~398 |
-| Hit me if you can | 2.00% | ~265 |
-| Junkrunner | 2.00% | ~265 |
-| One man's trash | 2.00% | ~265 |
+| Hit me if you can | 2.00% | ~266 |
+| Junkrunner | 2.00% | ~266 |
+| One man's trash | 2.00% | ~266 |
 | Obedient Machine | 0.80% | ~106 |
 | Everyone Needs A Hobby | 0.60% | ~80 |
 | A Grade | 0.40% | ~53 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~53 |
 | Up Close And Personal | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,270 (Ranked 114)  
+Progressed: 13,280 (Ranked 114)  
 Completed: 54 (0.41%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,11 +147,11 @@ Completed: 54 (0.41%) (Ranked 139)
 | 2023-07-21 | 12,952 | 54 |
 | 2023-07-22 | 13,081 | 54 |
 | 2023-07-23 | 13,213 | 54 |
-| 2023-07-24 | 13,270 | 54 |
+| 2023-07-24 | 13,280 | 54 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 196)  
-Sum: 611 (Ranked 290)  
-Diff (max vs sum): -94  
+Sum: 631 (Ranked 285)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 471 |
@@ -162,6 +162,7 @@ Diff (max vs sum): -94
 | This game is Relaxing | 21 |
 | This game is Extremely Fun | 21 |
 | This game has Quickly Understood Controls | 21 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -282,4 +283,4 @@ Diff (max vs sum): -94
 | 2023-07-13 | 4.72 | - | 471 | 608 |
 | 2023-07-22 | 4.72 | - | 471 | 609 |
 | 2023-07-23 | 4.72 | - | 471 | 610 |
-| 2023-07-24 | 4.72 | - | 471 | 611 |
+| 2023-07-24 | 4.72 | - | 471 | 631 |

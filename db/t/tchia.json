@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6795,
+  "EOS_Progressed": 6796,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4874,6 +4874,11 @@
       "Time": "2023-07-24T10:03:35.9315358+00:00",
       "NumProgressed": 6795,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-24T13:15:40.1293833+00:00",
+      "NumProgressed": 6796,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4909,7 +4914,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -4957,7 +4962,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5052,7 +5057,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6795,
+      "Progressed": 6796,
       "Completed": 29
     }
   ],
@@ -5060,8 +5065,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:05:00.2290541+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:15:40.1293828+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:59:07.7777146+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:05:00.2291097+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:10:18.6963195+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:15:40.1294268+00:00"
 }

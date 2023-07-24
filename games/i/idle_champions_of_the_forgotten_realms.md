@@ -617,7 +617,7 @@ Completed: 2,060 (0.96%) (Ranked 107)
 | 2023-07-24 | 215,062 | 2,060 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
-Sum: 30,669 (Ranked 38)  
+Sum: 30,671 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -626,7 +626,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,678 |
 | This game is Relaxing | 4,571 |
 | This game has Amazing Characters | 4,025 |
-| This game is Highly Recommended | 4,019 |
+| This game is Highly Recommended | 4,021 |
 | This game has Playful Visuals | 3,309 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -810,4 +810,4 @@ Diff (max vs sum): 28
 | 2023-07-21 | 4.06 | - | 5,055 | 30,627 |
 | 2023-07-22 | 4.06 | - | 5,055 | 30,644 |
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
-| 2023-07-24 | 4.06 | - | 5,064 | 30,669 |
+| 2023-07-24 | 4.06 | - | 5,064 | 30,671 |

@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.68 (Ranked 238)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -21,3 +21,4 @@ Rating: 4.66 (Ranked 274)
 | 2023-07-19 | 4.63 | 0 | 0 |
 | 2023-07-21 | 4.65 | 0 | 0 |
 | 2023-07-22 | 4.66 | 0 | 0 |
+| 2023-07-24 | 4.68 | 0 | 0 |

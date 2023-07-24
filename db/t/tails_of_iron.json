@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1786,
+  "EOS_Progressed": 1787,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2081,6 +2081,11 @@
       "Time": "2023-07-24T02:07:33.1314571+00:00",
       "NumProgressed": 1786,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-24T13:16:09.3517919+00:00",
+      "NumProgressed": 1787,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2092,7 +2097,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "Collect20Gold",
@@ -2108,7 +2113,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2124,7 +2129,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2164,7 +2169,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2172,7 +2177,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2220,7 +2225,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -2236,7 +2241,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "GetTHWeapon",
@@ -2244,7 +2249,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "Kill25Bugs",
@@ -2260,7 +2265,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "Kill25Mozi",
@@ -2284,7 +2289,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "RepairChef",
@@ -2292,7 +2297,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "RepairSmith",
@@ -2331,22 +2336,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1786,
+      "Progressed": 1787,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 427,
-      "Completed": 427
+      "Progressed": 428,
+      "Completed": 428
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:05:40.5944688+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:16:09.3517914+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:59:45.5976691+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:05:40.5945086+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:10:41.9127127+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:16:09.351829+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 34.00% | ~393 |
+| E1M1 | 35.00% | ~405 |
 | War Never Changes | 34.00% | ~393 |
 | Grenadier | 33.00% | ~382 |
 | Heroes Never Die | 30.00% | ~347 |
 | Mosquito bite | 29.00% | ~336 |
 | Spice It Up | 26.00% | ~301 |
+| Agent 47 | 22.00% | ~255 |
 | Bomberman | 22.00% | ~255 |
-| Agent 47 | 21.00% | ~243 |
 | You're Gonna Go Far, Kid | 21.00% | ~243 |
 | Death to the Oppressor! | 16.00% | ~185 |
 | The Gang's All Here | 13.00% | ~150 |

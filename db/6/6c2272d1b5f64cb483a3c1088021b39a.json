@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-07-24T12:05:52.5735494+00:00",
       "NumProgressed": 829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T13:16:18.1437363+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2535,7 +2540,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "call_of_mana_2",
@@ -2583,7 +2588,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "collector_2",
@@ -2727,7 +2732,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2919,7 +2924,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "soul_shards_2",
@@ -3014,14 +3019,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-24T12:05:52.5735487+00:00",
+  "LastChanged_Achievements": "2023-07-24T13:16:18.1437349+00:00",
   "LastUpdate_AppInfo": "2023-07-18T03:15:33.4430036+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:57:39.8045604+00:00",
-  "LastUpdate_Achievements": "2023-07-24T12:05:52.5736504+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:09:16.0226619+00:00",
+  "LastUpdate_Achievements": "2023-07-24T13:16:18.1438172+00:00"
 }

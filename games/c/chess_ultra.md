@@ -1,26 +1,26 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.27 (Ranked 797)  
+Rating: 4.27 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~134,406 |
-| Doubled Pawn | 55.00% | ~107,135 |
-| Check | 54.00% | ~105,187 |
-| Absolute pin | 46.00% | ~89,604 |
-| Promotion | 30.00% | ~58,437 |
-| Checkmate | 29.00% | ~56,489 |
-| O-O | 23.00% | ~44,802 |
-| Spanish Bishop | 20.00% | ~38,958 |
-| Queen Sacrifice | 19.00% | ~37,010 |
-| Stalemate | 18.00% | ~35,062 |
-| O-O-O | 13.00% | ~25,323 |
-| Octopus | 13.00% | ~25,323 |
-| Stranger Danger | 12.00% | ~23,375 |
-| En Passant | 8.00% | ~15,583 |
-| Double Check | 7.00% | ~13,635 |
-| Piece Collector | 6.00% | ~11,687 |
+| Chop Wood | 69.00% | ~134,411 |
+| Doubled Pawn | 55.00% | ~107,139 |
+| Check | 54.00% | ~105,191 |
+| Absolute pin | 46.00% | ~89,608 |
+| Promotion | 30.00% | ~58,440 |
+| Checkmate | 29.00% | ~56,492 |
+| O-O | 23.00% | ~44,804 |
+| Spanish Bishop | 20.00% | ~38,960 |
+| Queen Sacrifice | 19.00% | ~37,012 |
+| Stalemate | 18.00% | ~35,064 |
+| O-O-O | 13.00% | ~25,324 |
+| Octopus | 13.00% | ~25,324 |
+| Stranger Danger | 12.00% | ~23,376 |
+| En Passant | 8.00% | ~15,584 |
+| Double Check | 7.00% | ~13,636 |
+| Piece Collector | 6.00% | ~11,688 |
 | ELO | 5.00% | ~9,740 |
 | Family Fork | 5.00% | ~9,740 |
 | Friendly Fire | 5.00% | ~9,740 |
@@ -44,7 +44,7 @@ Rating: 4.27 (Ranked 797)
 | Tournament Master | 0.10% | ~195 |
 | Tournament Pro | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,791 (Ranked 57)  
+Progressed: 194,799 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-21 | 194,028 | 2 |
 | 2023-07-22 | 194,338 | 2 |
 | 2023-07-23 | 194,684 | 2 |
-| 2023-07-24 | 194,791 | 2 |
+| 2023-07-24 | 194,799 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
