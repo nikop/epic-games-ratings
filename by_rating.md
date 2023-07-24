@@ -121,7 +121,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,863 | 24 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 352 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 505 |
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,281 | 89 |
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,282 | 89 |
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 42 | 416 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 552 | 185 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,319 | 74 |
@@ -405,7 +405,7 @@
 | 393 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 385 |
 | 393 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 505 |
 | 393 | [RiME](games/r/rime.md) | 4.60 | 0 | 505 |
-| 393 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 466 | 197 |
+| 393 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 468 | 197 |
 | 393 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 219 | 258 |
 | 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 505 |
 | 393 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 485 |
@@ -421,7 +421,7 @@
 | 413 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 505 |
 | 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 364 |
 | 413 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 299 | 233 |
-| 413 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 994 | 144 |
+| 413 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 996 | 144 |
 | 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 704 | 163 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 214 | 263 |
 | 425 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 505 |
