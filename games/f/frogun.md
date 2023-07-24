@@ -13,10 +13,10 @@
 | Speedrunner | 44.00% | ~93 |
 | On foot racer | 40.00% | ~85 |
 | Prickly situation handler | 33.00% | ~70 |
-| Hat lover | 32.00% | ~68 |
+| Hat lover | 33.00% | ~70 |
 | Perfectionist | 31.00% | ~66 |
-| Protected | 28.00% | ~59 |
-| Pragmatic | 22.00% | ~47 |
+| Protected | 29.00% | ~61 |
+| Pragmatic | 23.00% | ~49 |
 | Calory burner | 17.00% | ~36 |
 | Pacifist | 15.00% | ~32 |
 | Model | 14.00% | ~30 |

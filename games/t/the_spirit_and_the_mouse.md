@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 91.00% | ~67 |
-| Lightbulb Seeker | 88.00% | ~65 |
-| Grilled Mouse | 85.00% | ~63 |
-| Lightbulbs Collector | 77.00% | ~57 |
-| Energy Collector | 73.00% | ~54 |
+| Energy Seeker | 91.00% | ~68 |
+| Lightbulb Seeker | 88.00% | ~66 |
+| Grilled Mouse | 85.00% | ~64 |
+| Lightbulbs Collector | 77.00% | ~58 |
+| Energy Collector | 73.00% | ~55 |
 | East Street Energy | 51.00% | ~38 |
 | Energy Expert | 43.00% | ~32 |
 | Lightbulbs Expert | 43.00% | ~32 |
 | That's one way to travel | 43.00% | ~32 |
 | The Old Man and the Café | 39.00% | ~29 |
 | South Town Energy | 32.00% | ~24 |
-| Photogenic | 30.00% | ~22 |
+| Photogenic | 29.00% | ~22 |
 | The Girl and the Homework | 28.00% | ~21 |
+| OK, I heard you!! | 28.00% | ~21 |
 | North Town Energy | 27.00% | ~20 |
-| OK, I heard you!! | 27.00% | ~20 |
 | Lightbulb Detective | 24.00% | ~18 |
-| Unlimited Power!! | 22.00% | ~16 |
-| The Quiche and the Hair Dryer | 22.00% | ~16 |
-| Cartographer | 22.00% | ~16 |
+| Unlimited Power!! | 21.00% | ~16 |
+| The Quiche and the Hair Dryer | 21.00% | ~16 |
+| Cartographer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~14 |
 | The Ghost and the Lamps | 16.00% | ~12 |
 | The Painter and the Lights | 15.00% | ~11 |
 | The Woman and the Pizzeria | 15.00% | ~11 |
-| West Residence Lightbulbs | 14.00% | ~10 |
-| West Residence Energy | 14.00% | ~10 |
+| West Residence Lightbulbs | 13.00% | ~10 |
+| West Residence Energy | 13.00% | ~10 |
 | At your service | 12.00% | ~9 |
 | Riddle Master | 12.00% | ~9 |
 | East Street Lightbulbs | 11.00% | ~8 |
@@ -45,7 +45,7 @@
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 330)  
+Progressed: 75 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-05-31 | 71 | 0 |
 | 2023-07-09 | 72 | 0 |
 | 2023-07-15 | 73 | 0 |
-| 2023-07-24 | 74 | 0 |
+| 2023-07-24 | 75 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

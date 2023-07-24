@@ -6,20 +6,20 @@
 | Calm before the Storm | 25.00% | ~5 |
 | Scholar | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
+| To Battle | 20.00% | ~4 |
+| Godslayer | 20.00% | ~4 |
+| Adventurer | 20.00% | ~4 |
+| Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
 | Stone Collection | 20.00% | ~4 |
 | The Collector | 20.00% | ~4 |
-| Adventurer | 15.00% | ~3 |
 | Tributes of Caladrias | 15.00% | ~3 |
 | Essence Blow | 15.00% | ~3 |
 | Flawless Victory | 15.00% | ~3 |
-| Geared Up | 15.00% | ~3 |
 | Alchemist | 15.00% | ~3 |
+| Miner | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
-| Miner | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
-| To Battle | 5.00% | ~1 |
-| Godslayer | 5.00% | ~1 |
 | Airborne | 5.00% | ~1 |
 | Big Bazar | 5.00% | ~1 |
 | I Found It | 5.00% | ~1 |

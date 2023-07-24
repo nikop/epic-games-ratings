@@ -14,7 +14,7 @@ Rating: 4.73 (Ranked 158)
 | Leaving all Behind | 64.00% | ~7,830 |
 | Felons | 61.00% | ~7,463 |
 | A Sea of Promises | 60.00% | ~7,341 |
-| Tales and Revelations | 56.00% | ~6,852 |
+| Tales and Revelations | 57.00% | ~6,974 |
 | Bloodline | 52.00% | ~6,362 |
 | The Cradle of Centuries | 48.00% | ~5,873 |
 | The Life We Deserve | 45.00% | ~5,506 |

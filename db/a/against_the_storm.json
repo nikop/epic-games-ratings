@@ -2540,9 +2540,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15989,
+  "EOS_Progressed": 15990,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7795,6 +7795,11 @@
       "Time": "2023-07-24T09:03:49.1177077+00:00",
       "NumProgressed": 15989,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-24T10:03:24.5918144+00:00",
+      "NumProgressed": 15990,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -8205,15 +8210,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15989,
+      "Progressed": 15990,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-24T05:02:02.4885311+00:00",
-  "LastChanged_Achievements": "2023-07-24T09:03:49.1177072+00:00",
+  "LastChanged_Achievements": "2023-07-24T10:03:24.591814+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:01:03.3368536+00:00",
-  "LastUpdate_Achievements": "2023-07-24T09:03:49.1178394+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:00:48.8217229+00:00",
+  "LastUpdate_Achievements": "2023-07-24T10:03:24.5918718+00:00"
 }

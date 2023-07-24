@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16552,
+  "EOS_Progressed": 16553,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
@@ -8016,6 +8016,11 @@
       "Time": "2023-07-24T09:03:12.8197069+00:00",
       "NumProgressed": 16552,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-24T10:02:24.1984236+00:00",
+      "NumProgressed": 16553,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -8027,7 +8032,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13076
+      "UsersEstimate": 13077
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -8115,7 +8120,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -8138,15 +8143,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16552,
+      "Progressed": 16553,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-24T09:03:12.8197063+00:00",
+  "LastChanged_Achievements": "2023-07-24T10:02:24.1984231+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:15.2448489+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:01:23.8679372+00:00",
-  "LastUpdate_Achievements": "2023-07-24T09:03:12.8198115+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:01:04.9056623+00:00",
+  "LastUpdate_Achievements": "2023-07-24T10:02:24.1984686+00:00"
 }

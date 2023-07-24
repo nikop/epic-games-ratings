@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2051,6 +2051,11 @@
       "Time": "2023-07-24T09:05:46.9116238+00:00",
       "NumProgressed": 598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T10:05:42.3414943+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2166,7 +2171,7 @@
       "Name": "Facility Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2238,7 +2243,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2318,7 +2323,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2365,14 +2370,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-24T09:05:46.9116232+00:00",
+  "LastChanged_Achievements": "2023-07-24T10:05:42.3414938+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:01:31.0538483+00:00",
-  "LastUpdate_Achievements": "2023-07-24T09:05:46.9116944+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:01:10.6786212+00:00",
+  "LastUpdate_Achievements": "2023-07-24T10:05:42.3415252+00:00"
 }

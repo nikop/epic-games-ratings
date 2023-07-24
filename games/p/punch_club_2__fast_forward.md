@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 87.00% | ~109 |
+| Such a strange dream… | 88.00% | ~110 |
 | Your first fight | 86.00% | ~108 |
-| Good Person Chip | 84.00% | ~105 |
+| Good Person Chip | 85.00% | ~106 |
+| Your first job | 83.00% | ~104 |
 | First winning | 82.00% | ~102 |
-| Your first job | 82.00% | ~102 |
+| First defeat | 76.00% | ~95 |
 | Neurotrainer – power gainer! | 76.00% | ~95 |
-| First defeat | 74.00% | ~92 |
-| Old movies enjoyer | 72.00% | ~90 |
-| Depressed visitor | 72.00% | ~90 |
-| Fitness professional | 71.00% | ~89 |
-| Employee of the week | 71.00% | ~89 |
-| Your own amateur gym | 64.00% | ~80 |
+| Old movies enjoyer | 73.00% | ~91 |
+| Depressed visitor | 73.00% | ~91 |
+| Fitness professional | 72.00% | ~90 |
+| Employee of the week | 72.00% | ~90 |
+| Your own amateur gym | 65.00% | ~81 |
+| No bullying more | 62.00% | ~78 |
 | Run K, run! | 62.00% | ~78 |
-| Hello, world! | 61.00% | ~76 |
-| No bullying more | 60.00% | ~75 |
+| Hello, world! | 62.00% | ~78 |
 | Intriguing candies | 58.00% | ~72 |
-| Fighting is cool | 54.00% | ~68 |
-| Pal of your father? | 51.00% | ~64 |
+| Fighting is cool | 56.00% | ~70 |
+| Pal of your father? | 52.00% | ~65 |
 | Spirit of the past | 50.00% | ~62 |
 | Employee of the month | 50.00% | ~62 |
-| Little hacker | 48.00% | ~60 |
+| Little hacker | 49.00% | ~61 |
 | Your own way | 46.00% | ~58 |
 | Law student | 45.00% | ~56 |
 | Workout professional | 43.00% | ~54 |
 | Champion – starter pack | 42.00% | ~52 |
 | Fight for life | 41.00% | ~51 |
+| Own four walls | 41.00% | ~51 |
 | Handyman | 40.00% | ~50 |
 | It's good to be alive | 40.00% | ~50 |
-| Own four walls | 40.00% | ~50 |
 | Extreme neuropower! | 39.00% | ~49 |
 | Employee of the year | 38.00% | ~48 |
 | Legal courier | 33.00% | ~41 |

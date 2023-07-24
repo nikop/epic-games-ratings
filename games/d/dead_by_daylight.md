@@ -6,63 +6,63 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 10.00% | ~70,828 |
-| Healthy Obsession | 9.00% | ~63,746 |
-| Preemptive Strike | 9.00% | ~63,746 |
-| Humanitarian | 9.00% | ~63,746 |
-| Wounded Healer | 7.00% | ~49,580 |
-| Close Shave | 7.00% | ~49,580 |
-| Unforgettable Getaway | 5.00% | ~35,414 |
-| First to the Punch | 5.00% | ~35,414 |
-| Old West Oasis | 5.00% | ~35,414 |
-| Every Last Drop | 5.00% | ~35,414 |
-| With Scars to Show | 5.00% | ~35,414 |
-| Flight to Freedom | 5.00% | ~35,414 |
-| Ancestor's Rite | 4.00% | ~28,331 |
-| Cutting Out | 4.00% | ~28,331 |
-| Outrun Evil | 4.00% | ~28,331 |
-| Operation: Survival | 4.00% | ~28,331 |
-| Classy Act | 4.00% | ~28,331 |
-| Raccoon City Recruit | 4.00% | ~28,331 |
-| A Fast Death | 4.00% | ~28,331 |
-| Lifting The Fog | 4.00% | ~28,331 |
-| Chorus of Chaos | 4.00% | ~28,331 |
-| Devoted Gatekeeping | 3.00% | ~21,249 |
-| Shrine Apparatus | 3.00% | ~21,249 |
-| Broken Bodies | 3.00% | ~21,249 |
-| Grim Pilgrimage | 3.00% | ~21,249 |
-| Selfless Survival | 3.00% | ~21,249 |
-| End of Days | 3.00% | ~21,249 |
-| Insult and Injury | 3.00% | ~21,249 |
-| Outrun the Overlap | 3.00% | ~21,249 |
-| Heavy Burden | 2.00% | ~14,166 |
-| I See You | 2.00% | ~14,166 |
-| Power Moves | 2.00% | ~14,166 |
-| Punch Drunk | 2.00% | ~14,166 |
-| Prowler | 2.00% | ~14,166 |
-| Triage | 2.00% | ~14,166 |
-| High Speed Pursuit | 2.00% | ~14,166 |
-| Rebuilding The Borgo | 2.00% | ~14,166 |
-| Hack the Mainframe | 2.00% | ~14,166 |
-| Deranged Pursuit | 1.00% | ~7,083 |
-| Denied! | 1.00% | ~7,083 |
-| Death of Ignorance | 1.00% | ~7,083 |
+| Resurgence | 10.00% | ~70,838 |
+| Healthy Obsession | 9.00% | ~63,754 |
+| Preemptive Strike | 9.00% | ~63,754 |
+| Humanitarian | 9.00% | ~63,754 |
+| Wounded Healer | 7.00% | ~49,586 |
+| Close Shave | 7.00% | ~49,586 |
+| Unforgettable Getaway | 5.00% | ~35,419 |
+| First to the Punch | 5.00% | ~35,419 |
+| Old West Oasis | 5.00% | ~35,419 |
+| Every Last Drop | 5.00% | ~35,419 |
+| With Scars to Show | 5.00% | ~35,419 |
+| Flight to Freedom | 5.00% | ~35,419 |
+| Ancestor's Rite | 4.00% | ~28,335 |
+| Cutting Out | 4.00% | ~28,335 |
+| Outrun Evil | 4.00% | ~28,335 |
+| Operation: Survival | 4.00% | ~28,335 |
+| Classy Act | 4.00% | ~28,335 |
+| Raccoon City Recruit | 4.00% | ~28,335 |
+| A Fast Death | 4.00% | ~28,335 |
+| Lifting The Fog | 4.00% | ~28,335 |
+| Chorus of Chaos | 4.00% | ~28,335 |
+| Devoted Gatekeeping | 3.00% | ~21,251 |
+| Shrine Apparatus | 3.00% | ~21,251 |
+| Broken Bodies | 3.00% | ~21,251 |
+| Grim Pilgrimage | 3.00% | ~21,251 |
+| Selfless Survival | 3.00% | ~21,251 |
+| End of Days | 3.00% | ~21,251 |
+| Insult and Injury | 3.00% | ~21,251 |
+| Outrun the Overlap | 3.00% | ~21,251 |
+| Heavy Burden | 2.00% | ~14,168 |
+| I See You | 2.00% | ~14,168 |
+| Power Moves | 2.00% | ~14,168 |
+| Punch Drunk | 2.00% | ~14,168 |
+| Prowler | 2.00% | ~14,168 |
+| Triage | 2.00% | ~14,168 |
+| High Speed Pursuit | 2.00% | ~14,168 |
+| Rebuilding The Borgo | 2.00% | ~14,168 |
+| Hack the Mainframe | 2.00% | ~14,168 |
+| Deranged Pursuit | 1.00% | ~7,084 |
+| Denied! | 1.00% | ~7,084 |
+| Death of Ignorance | 1.00% | ~7,084 |
 | Left For Dead | 0.90% | ~6,375 |
 | From the Deep | 0.90% | ~6,375 |
-| Dismantle | 0.80% | ~5,666 |
-| Bodyguard | 0.80% | ~5,666 |
-| Speed Kills | 0.80% | ~5,666 |
-| Rescue Mission | 0.80% | ~5,666 |
-| One Thousand Cuts | 0.80% | ~5,666 |
-| Ghost in the Machine | 0.80% | ~5,666 |
+| Dismantle | 0.80% | ~5,667 |
+| Bodyguard | 0.80% | ~5,667 |
+| Speed Kills | 0.80% | ~5,667 |
+| Rescue Mission | 0.80% | ~5,667 |
+| One Thousand Cuts | 0.80% | ~5,667 |
+| Ghost in the Machine | 0.80% | ~5,667 |
 | Silent Approach | 0.60% | ~4,250 |
 | Multi-tasker | 0.60% | ~4,250 |
-| Bound and Downed | 0.50% | ~3,541 |
-| Tear Their Soul Apart | 0.50% | ~3,541 |
-| Viral Video | 0.50% | ~3,541 |
-| Conniption | 0.40% | ~2,833 |
-| Terminal Illness | 0.40% | ~2,833 |
-| Totally Vulnerable | 0.40% | ~2,833 |
+| Bound and Downed | 0.50% | ~3,542 |
+| Tear Their Soul Apart | 0.50% | ~3,542 |
+| Viral Video | 0.50% | ~3,542 |
+| Conniption | 0.40% | ~2,834 |
+| Terminal Illness | 0.40% | ~2,834 |
+| Totally Vulnerable | 0.40% | ~2,834 |
 | Bloodbath | 0.30% | ~2,125 |
 | Biological Weaponry | 0.30% | ~2,125 |
 | Fleet of Foot | 0.30% | ~2,125 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~708 |
 | Adept Gabriel | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,285 (Ranked 20)  
+Progressed: 708,377 (Ranked 20)  
 Completed: 42 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 42 (0.01%) (Ranked 228)
 | 2023-07-21 | 700,370 | 42 |
 | 2023-07-22 | 703,521 | 42 |
 | 2023-07-23 | 707,130 | 42 |
-| 2023-07-24 | 708,285 | 42 |
+| 2023-07-24 | 708,377 | 42 |
 ## Awards
 Max (Diverse Characters): 30,192  (Ranked 15)  
 Sum: 239,092 (Ranked 12)  

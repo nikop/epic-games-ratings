@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 41.00% | ~29 |
+| The 4 Pillars | 42.00% | ~30 |
 | First Step | 39.00% | ~28 |
 | Indebted | 7.00% | ~5 |
 | Capitalism | 7.00% | ~5 |

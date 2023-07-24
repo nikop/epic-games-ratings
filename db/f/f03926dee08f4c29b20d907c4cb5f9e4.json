@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -402,17 +402,17 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-24T09:04:19.2449604+00:00",
+  "LastChanged_Achievements": "2023-07-24T10:04:09.8174858+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.1328888+00:00",
-  "LastUpdate_Ratings": "2023-07-24T08:57:08.2363465+00:00",
-  "LastUpdate_Achievements": "2023-07-24T09:04:19.2450351+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:57:18.7068762+00:00",
+  "LastUpdate_Achievements": "2023-07-24T10:04:09.8175135+00:00"
 }

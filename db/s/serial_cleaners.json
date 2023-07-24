@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -346,6 +346,11 @@
       "Time": "2023-07-24T08:04:25.1949146+00:00",
       "NumProgressed": 216,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-24T10:04:11.7774271+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -357,7 +362,7 @@
       "Name": "All the Stories",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ALL_MEMORIES",
@@ -405,7 +410,7 @@
       "Name": "Something Rotten",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHAPTER5_COMPLETE",
@@ -413,7 +418,7 @@
       "Name": "Witness Protection",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -437,7 +442,7 @@
       "Name": "Business as usual",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -548,13 +553,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 6
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-24T09:04:21.5796121+00:00",
+  "LastChanged_Achievements": "2023-07-24T10:04:11.7774267+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:00:04.2539941+00:00",
-  "LastUpdate_Achievements": "2023-07-24T09:04:21.5796409+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:59:50.0683236+00:00",
+  "LastUpdate_Achievements": "2023-07-24T10:04:11.7774432+00:00"
 }

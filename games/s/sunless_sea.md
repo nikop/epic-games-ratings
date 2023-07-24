@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,277 |
-| Sweet Sorrow | 18.00% | ~6,138 |
-| Rules the Waves | 17.00% | ~5,797 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,115 |
-| Rival | 14.00% | ~4,774 |
-| Correspondent | 12.00% | ~4,092 |
-| Lose Your Mind | 12.00% | ~4,092 |
-| Sound Mind? | 12.00% | ~4,092 |
-| Salt's Curse | 11.00% | ~3,751 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,751 |
-| The Fall of the House | 11.00% | ~3,751 |
-| Shipmate | 11.00% | ~3,751 |
+| Sink Beneath the Waves | 36.00% | ~12,278 |
+| Sweet Sorrow | 18.00% | ~6,139 |
+| Rules the Waves | 17.00% | ~5,798 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,116 |
+| Rival | 14.00% | ~4,775 |
+| Correspondent | 12.00% | ~4,093 |
+| Lose Your Mind | 12.00% | ~4,093 |
+| Sound Mind? | 12.00% | ~4,093 |
+| Salt's Curse | 11.00% | ~3,752 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,752 |
+| The Fall of the House | 11.00% | ~3,752 |
+| Shipmate | 11.00% | ~3,752 |
 | One Year at Zee | 8.00% | ~2,728 |
 | Pupil | 7.00% | ~2,387 |
 | Salvager | 7.00% | ~2,387 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,102 (Ranked 93)  
+Progressed: 34,106 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-21 | 33,923 | 3 |
 | 2023-07-22 | 33,995 | 3 |
 | 2023-07-23 | 34,080 | 3 |
-| 2023-07-24 | 34,102 | 3 |
+| 2023-07-24 | 34,106 | 3 |
 ## Awards
 Max (Character Customization): 212  (Ranked 265)  
 Sum: 282 (Ranked 338)  
