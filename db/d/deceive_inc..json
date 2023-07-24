@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7474,
+  "EOS_Progressed": 7475,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6183,6 +6183,11 @@
       "Time": "2023-07-24T17:04:05.6842586+00:00",
       "NumProgressed": 7474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T20:04:37.1387056+00:00",
+      "NumProgressed": 7475,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6194,7 +6199,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     },
     {
       "ID": "0002",
@@ -6218,7 +6223,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "0005",
@@ -6250,7 +6255,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "0009",
@@ -6282,7 +6287,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "0013",
@@ -6298,7 +6303,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "0015",
@@ -6306,7 +6311,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "0016",
@@ -6338,7 +6343,7 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "0020",
@@ -6386,7 +6391,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "0026",
@@ -6458,7 +6463,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "0035",
@@ -6466,7 +6471,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "0036",
@@ -6481,7 +6486,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7474,
+      "Progressed": 7475,
       "Completed": 1
     }
   ],
@@ -6489,8 +6494,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:26.2472933+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:37.1387051+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:01:02.7247895+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:26.2473565+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:03:07.9540435+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:37.1387786+00:00"
 }

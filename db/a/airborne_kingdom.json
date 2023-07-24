@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6858,
+  "EOS_Progressed": 6860,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2913,6 +2913,11 @@
       "Time": "2023-07-24T18:02:15.5494558+00:00",
       "NumProgressed": 6858,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-24T20:04:26.1961933+00:00",
+      "NumProgressed": 6860,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2932,7 +2937,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -2940,7 +2945,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2956,7 +2961,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2964,7 +2969,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -2980,7 +2985,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2988,7 +2993,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3020,7 +3025,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3044,7 +3049,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3060,7 +3065,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3068,7 +3073,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3076,7 +3081,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3842
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3100,7 +3105,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3116,7 +3121,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -3124,7 +3129,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3139,15 +3144,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6858,
+      "Progressed": 6860,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:14.9304087+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:26.1961928+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:58:08.803147+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:14.9304401+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:00:02.5817085+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:26.1962324+00:00"
 }

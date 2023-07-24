@@ -3,9 +3,9 @@
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
   "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 5,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2023-07-05T17:06:24.6383612+00:00",
@@ -57,6 +57,11 @@
       "Time": "2023-07-13T16:07:07.2920001+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T20:09:34.3160396+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-05T17:06:24.6383645+00:00",
@@ -179,9 +184,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0015",
       "SetID": "9jb1eoe",
       "Name": "Eternal Darkness",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0016",
@@ -237,15 +242,15 @@
       "ID": "9jb1eoe",
       "IsBase": true,
       "Progressed": 5,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-16T18:31:22.0730998+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:07:23.68163+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:09:34.3160393+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.7000348+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:01:35.5512843+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:07:23.6816451+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:03:37.3694394+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:09:34.3160542+00:00"
 }

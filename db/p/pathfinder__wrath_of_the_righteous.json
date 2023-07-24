@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3206,9 +3206,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10542,
+  "EOS_Progressed": 10545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9186,6 +9186,11 @@
       "Time": "2023-07-24T19:02:05.5909629+00:00",
       "NumProgressed": 10542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T20:04:16.5871196+00:00",
+      "NumProgressed": 10545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9565,7 +9570,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "49_Flame",
@@ -9627,9 +9632,9 @@
       "ID": "56_GetToad",
       "SetID": "989of5o",
       "Name": "Get the Toad",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 316
     },
     {
       "ID": "57_PathOfDevil",
@@ -10069,7 +10074,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -10077,7 +10082,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -10085,7 +10090,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -10124,21 +10129,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9324,
+      "Progressed": 9327,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10542,
+      "Progressed": 10545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-24T17:00:19.8574597+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:05.5909624+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:16.587119+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:59:27.1439437+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:05.5911686+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:01:25.4262575+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:16.5873367+00:00"
 }

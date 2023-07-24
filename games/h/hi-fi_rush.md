@@ -31,10 +31,10 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 2.00% | ~71 |
 | Alright, that felt AWESOME! | 2.00% | ~71 |
 | Does that say weakpoint? | 2.00% | ~71 |
-| Well that was a rush! | 1.00% | ~35 |
-| Beat-hit mania | 1.00% | ~35 |
-| That's a lot of junk metal… | 1.00% | ~35 |
-| There's such a thing as TOO helpful | 1.00% | ~35 |
+| Well that was a rush! | 1.00% | ~36 |
+| Beat-hit mania | 1.00% | ~36 |
+| That's a lot of junk metal… | 1.00% | ~36 |
+| There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~14 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,549 (Ranked 145)  
-Completed: 6 (0.17%) (Ranked 170)  
+Progressed: 3,550 (Ranked 145)  
+Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,7 +170,7 @@ Completed: 6 (0.17%) (Ranked 170)
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
 | 2023-07-23 | 3,536 | 6 |
-| 2023-07-24 | 3,549 | 6 |
+| 2023-07-24 | 3,550 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,7 +24,7 @@
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 201 (Ranked 273)  
-Completed: 7 (3.48%) (Ranked 55)  
+Completed: 7 (3.48%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

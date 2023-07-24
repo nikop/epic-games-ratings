@@ -2,20 +2,20 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -160,6 +160,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-24T20:02:40.1654438+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -168,7 +174,7 @@
   "Tags": [],
   "EOS_Progressed": 3033,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3438,9 +3444,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3478,9 +3484,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:25.7571046+00:00",
+  "LastChanged": "2023-07-24T20:02:40.1654437+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:36.5839426+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:00:38.6600939+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:25.7571603+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:02:40.1654441+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:36.5840017+00:00"
 }

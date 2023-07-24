@@ -9,7 +9,7 @@ Rating: 4.67 (Ranked 260)
 | I will survive! | 92.00% | ~4,383 |
 | All thumbs | 91.00% | ~4,335 |
 | Home, sweet home | 90.00% | ~4,288 |
-| Survivalist | 88.00% | ~4,192 |
+| Survivalist | 89.00% | ~4,240 |
 | One way ticket | 83.00% | ~3,954 |
 | Last man standing | 78.00% | ~3,716 |
 | Family guy | 76.00% | ~3,621 |
@@ -67,7 +67,7 @@ Rating: 4.67 (Ranked 260)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,764 (Ranked 139)  
-Completed: 1 (0.02%) (Ranked 220)  
+Completed: 1 (0.02%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

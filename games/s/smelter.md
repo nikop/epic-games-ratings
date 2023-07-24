@@ -57,7 +57,7 @@
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 364)  
-Completed: 3 (8.11%) (Ranked 28)  
+Completed: 3 (8.11%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

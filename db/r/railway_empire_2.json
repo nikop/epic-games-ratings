@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1670,
+  "EOS_Progressed": 1671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3673,6 +3673,11 @@
       "Time": "2023-07-24T18:03:27.8291663+00:00",
       "NumProgressed": 1670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T20:05:26.8184403+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3684,7 +3689,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "A01",
@@ -3708,7 +3713,7 @@
       "Name": "Resistance is futile",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "A04",
@@ -3716,7 +3721,7 @@
       "Name": "Go West",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "A05",
@@ -3764,7 +3769,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "A11",
@@ -3780,7 +3785,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "A13",
@@ -3796,7 +3801,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "A15",
@@ -3820,7 +3825,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "A18",
@@ -3844,7 +3849,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "A21",
@@ -3908,7 +3913,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "A29",
@@ -3922,9 +3927,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 468
     },
     {
       "ID": "A31",
@@ -3948,7 +3953,7 @@
       "Name": "Locusts",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "A34",
@@ -3956,7 +3961,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "A35",
@@ -3972,7 +3977,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "A37",
@@ -3980,7 +3985,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "A38",
@@ -3996,7 +4001,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "A40",
@@ -4100,7 +4105,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "A53",
@@ -4123,7 +4128,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1670,
+      "Progressed": 1671,
       "Completed": 0
     }
   ],
@@ -4131,8 +4136,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:03:26.4251052+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:05:26.8184399+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:59:04.2334092+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:03:26.4251789+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:00:58.7241438+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:05:26.8185162+00:00"
 }

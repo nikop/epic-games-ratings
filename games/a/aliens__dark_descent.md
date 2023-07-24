@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.41 (Ranked 673)  
+Rating: 4.40 (Ranked 691)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.41 (Ranked 673)
 | First Steps Into Madness | 51.00% | ~1,547 |
 | Colonial Barrels | 49.00% | ~1,486 |
 | Harper's Hell | 42.00% | ~1,274 |
+| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,244 |
 | Making a Stand | 40.00% | ~1,213 |
-| Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,213 |
 | Where It All Begun | 36.00% | ~1,092 |
 | Recouped Investment | 36.00% | ~1,092 |
 | Omelette Du Fromage | 32.00% | ~971 |
@@ -52,7 +52,7 @@ Rating: 4.41 (Ranked 673)
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,033 (Ranked 152)  
-Completed: 1 (0.03%) (Ranked 214)  
+Completed: 1 (0.03%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,3 +117,4 @@ Completed: 1 (0.03%) (Ranked 214)
 | 2023-07-19 | 4.43 | 0 | 0 |
 | 2023-07-20 | 4.42 | 0 | 0 |
 | 2023-07-21 | 4.41 | 0 | 0 |
+| 2023-07-24 | 4.40 | 0 | 0 |

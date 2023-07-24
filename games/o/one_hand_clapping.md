@@ -34,7 +34,7 @@
 | Silent City: Reprise Glyph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 776 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

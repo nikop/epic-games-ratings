@@ -4,11 +4,11 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
     "PcReleaseDate": "2018-02-27T16:00:00+00:00",
@@ -3031,10 +3031,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3931,
       "NumberOfAwardsMax": 413
+    },
+    {
+      "Time": "2023-07-24T20:02:58.0169548+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3933,
+      "NumberOfAwardsMax": 413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3931,
+  "NumberOfAwards": 3933,
   "NumberOfAwardsMax": 413,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3078,7 +3084,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 400
+      "Count": 402
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3128,8 +3134,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-07-24T02:03:04.5604117+00:00",
+  "LastChanged": "2023-07-24T20:02:58.0169533+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:32.2501185+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:00:56.8442829+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:04:31.1103712+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:02:58.0169555+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:06:31.0103451+00:00"
 }

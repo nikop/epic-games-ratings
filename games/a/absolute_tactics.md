@@ -18,22 +18,23 @@
 | Good Fortune | 20.00% | ~1 |
 | Victorious | 20.00% | ~1 |
 | Heroes of Neu Selea | 20.00% | ~1 |
+| Eternal Darkness | 20.00% | ~1 |
 | Real Ultimate Power | 20.00% | ~1 |
 | Protector of the People | 20.00% | ~1 |
 | Secret Admirer | 20.00% | ~1 |
 | Classy | 20.00% | ~1 |
 | The Hordes of Mercy | 20.00% | ~1 |
 | Thinning the Horde | 20.00% | ~1 |
-| Eternal Darkness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 434)  
-Completed: 0 (0.00%) (Ranked 240)  
+Completed: 1 (20.00%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-05 | 1 | 0 |
 | 2023-07-10 | 4 | 0 |
 | 2023-07-13 | 5 | 0 |
+| 2023-07-24 | 5 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

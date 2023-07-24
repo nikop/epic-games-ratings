@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3004,
+  "EOS_Progressed": 3005,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.56,
   "EosHistory": [
@@ -3725,6 +3725,11 @@
       "Time": "2023-07-24T19:06:38.2125799+00:00",
       "NumProgressed": 3004,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-07-24T20:08:37.8257108+00:00",
+      "NumProgressed": 3005,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 24,
@@ -3752,7 +3757,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "12",
@@ -3792,7 +3797,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "17",
@@ -3800,7 +3805,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "18",
@@ -3832,7 +3837,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "21",
@@ -3848,7 +3853,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "23",
@@ -3856,7 +3861,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "24",
@@ -3864,7 +3869,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "3",
@@ -3872,7 +3877,7 @@
       "Name": "FRIENDLY",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "4",
@@ -3880,7 +3885,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "5",
@@ -3888,7 +3893,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "6",
@@ -3896,7 +3901,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "7",
@@ -3927,13 +3932,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3004,
+      "Progressed": 3005,
       "Completed": 107
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:06:38.2125792+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:08:37.8257101+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:00:06.2435611+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:06:38.2126193+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:02:09.0194125+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:08:37.8257543+00:00"
 }

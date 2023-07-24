@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,444 |
-| Leader | 60.00% | ~4,600 |
+| Leader | 61.00% | ~4,677 |
 | Explorer | 53.00% | ~4,064 |
 | Healer | 52.00% | ~3,987 |
 | Aspiring Inventor | 44.00% | ~3,373 |
@@ -60,14 +60,14 @@ Number of Ratings: 836  (23.09.2022)
 | A Closer Look | 1.00% | ~77 |
 | True Survivor | 1.00% | ~77 |
 | Slimy yet Satisfying | 0.90% | ~69 |
-| Feng Shui | 0.80% | ~61 |
+| Feng Shui | 0.90% | ~69 |
 | Finnished | 0.40% | ~31 |
 | Fun and Games | 0.20% | ~15 |
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,667 (Ranked 125)  
-Completed: 0 (0.00%) (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

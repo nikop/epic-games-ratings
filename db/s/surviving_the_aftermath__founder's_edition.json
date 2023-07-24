@@ -6,9 +6,9 @@
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1133,7 +1133,7 @@
   ],
   "EOS_Progressed": 7667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8910,9 +8910,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4600
+      "UsersEstimate": 4677
     },
     {
       "ID": "10",
@@ -9246,9 +9246,9 @@
       "ID": "48",
       "SetID": "8idi9ml",
       "Name": "Feng Shui",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "49",
@@ -9390,8 +9390,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-21T17:01:17.0065734+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:06:08.2373418+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:08:08.218128+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:01:17.0543006+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:06:08.2374305+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:03:23.8709908+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:08:08.2182387+00:00"
 }

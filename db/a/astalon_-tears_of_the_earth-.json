@@ -3,9 +3,9 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2023-07-20T20:07:12.3506378+00:00",
       "NumProgressed": 56,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-24T20:09:03.7436401+00:00",
+      "NumProgressed": 57,
       "NumCompleted": 2
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -105,7 +110,7 @@
       "ID": "Buy_All_Algus_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Wizard Mastery",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -121,7 +126,7 @@
       "ID": "Buy_All_Bram_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Gorgonslayer Mastery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -129,7 +134,7 @@
       "ID": "Buy_All_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Built for adventure",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -145,7 +150,7 @@
       "ID": "Buy_All_Zeek_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Collector Mastery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -169,7 +174,7 @@
       "ID": "Complete_Bestiary_100",
       "SetID": "4f0g260",
       "Name": "Destoy all monsters!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -177,7 +182,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -193,7 +198,7 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -201,7 +206,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -217,7 +222,7 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -257,7 +262,7 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -265,7 +270,7 @@
       "ID": "Get_100_Item_Completion",
       "SetID": "4f0g260",
       "Name": "Relic Collector",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -273,7 +278,7 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -289,7 +294,7 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -306,7 +311,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 2
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:06:43.0280941+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:09:03.7436392+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.7423813+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:59:19.4844817+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:06:43.0281134+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:01:18.9650616+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:09:03.7436616+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-07-19T03:22:14.1437071+00:00",
       "NumProgressed": 348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-24T20:06:13.1045652+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -312,7 +317,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -430,9 +435,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -464,7 +469,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -480,7 +485,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -550,9 +555,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "LEFT_LEVEL",
@@ -576,7 +581,7 @@
       "Name": "A Forest Walk",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -584,7 +589,7 @@
       "Name": "Snow Fun!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -600,7 +605,7 @@
       "Name": "Multiply that!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -726,9 +731,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -751,7 +756,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 2
     }
   ],
@@ -759,8 +764,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:04:13.5933885+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:06:13.1045647+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:27.2481373+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:59:57.8355539+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:04:13.5934345+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:01:57.6935723+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:06:13.1046178+00:00"
 }

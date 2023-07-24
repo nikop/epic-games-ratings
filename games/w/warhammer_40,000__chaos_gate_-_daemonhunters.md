@@ -10,6 +10,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 0.10% | ~3 |
 | Executioner | 0.10% | ~3 |
 | Friendly Fire | 0.10% | ~3 |
+| Watch Where You Step... | 0.10% | ~3 |
 | An Ill Omen | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
@@ -40,7 +41,6 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
-| Watch Where You Step... | 0.00% | ~0 |
 | Purging Spree | 0.00% | ~0 |
 | Hands-On Research | 0.00% | ~0 |
 | Mind Like a Fortress | 0.00% | ~0 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,020 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

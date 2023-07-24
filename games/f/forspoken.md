@@ -34,7 +34,7 @@ Rating: 4.14 (Ranked 881)
 | None the Wiser | 1.00% | ~392 |
 | Pilgrimage: Novice | 1.00% | ~392 |
 | Forspoken | 0.90% | ~353 |
-| Wildfire | 0.70% | ~274 |
+| Wildfire | 0.70% | ~275 |
 | Awakening | 0.60% | ~235 |
 | Realized Potential | 0.60% | ~235 |
 | Explorer: Trailblazer | 0.50% | ~196 |
@@ -59,8 +59,8 @@ Rating: 4.14 (Ranked 881)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,213 (Ranked 90)  
-Completed: 3 (0.01%) (Ranked 228)  
+Progressed: 39,216 (Ranked 90)  
+Completed: 3 (0.01%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-21 | 39,103 | 3 |
 | 2023-07-22 | 39,152 | 3 |
 | 2023-07-23 | 39,194 | 3 |
-| 2023-07-24 | 39,213 | 3 |
+| 2023-07-24 | 39,216 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
 Sum: 21 (Ranked 494)  

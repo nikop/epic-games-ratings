@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,784 |
+| Tattletale | 41.00% | ~5,785 |
 | Man of politics | 35.00% | ~4,938 |
 | Friends of sorts | 34.00% | ~4,797 |
 | Yet another secret | 34.00% | ~4,797 |
 | Let there be darkness | 33.00% | ~4,656 |
-| End of Book One | 30.00% | ~4,232 |
+| End of Book One | 30.00% | ~4,233 |
 | Wannabe knight | 24.00% | ~3,386 |
 | Garden of Eden | 24.00% | ~3,386 |
 | Full house | 24.00% | ~3,386 |
 | Help an old friend | 22.00% | ~3,104 |
 | Two of us | 20.00% | ~2,822 |
 | Negotiation skills | 19.00% | ~2,681 |
-| Workers' union | 18.00% | ~2,539 |
-| End of Book Two | 18.00% | ~2,539 |
-| Everything's in order | 17.00% | ~2,398 |
+| Workers' union | 18.00% | ~2,540 |
+| End of Book Two | 18.00% | ~2,540 |
+| Everything's in order | 17.00% | ~2,399 |
 | Jack was here! | 15.00% | ~2,116 |
 | Twist of Fate | 14.00% | ~1,975 |
 | Exterminator | 14.00% | ~1,975 |
@@ -37,10 +37,10 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,270 |
 | A cry for help | 8.00% | ~1,129 |
 | Silentium est aureum | 7.00% | ~988 |
-| Rebel without a cause | 6.00% | ~846 |
-| Staring contest champion | 5.00% | ~705 |
-| Lone wolf | 5.00% | ~705 |
-| Vox Populi | 5.00% | ~705 |
+| Rebel without a cause | 6.00% | ~847 |
+| Staring contest champion | 5.00% | ~706 |
+| Lone wolf | 5.00% | ~706 |
+| Vox Populi | 5.00% | ~706 |
 | Revenge | 4.00% | ~564 |
 | Self-defense | 4.00% | ~564 |
 | Countess Aliena | 4.00% | ~564 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~423 |
 | Boy of mystery | 2.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,108 (Ranked 113)  
-Completed: 105 (0.74%) (Ranked 114)  
+Progressed: 14,110 (Ranked 113)  
+Completed: 105 (0.74%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 105 (0.74%) (Ranked 114)
 | 2023-07-21 | 14,047 | 105 |
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
-| 2023-07-24 | 14,108 | 105 |
+| 2023-07-24 | 14,110 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 368)  

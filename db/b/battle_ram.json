@@ -3,9 +3,9 @@
   "Name": "Battle Ram",
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -531,17 +531,17 @@
       "ID": "ach_11",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 4th class",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_12",
       "SetID": "392n4e7",
       "Name": "Junior Lieutenant Baran",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_13",
@@ -675,17 +675,17 @@
       "ID": "ach_8",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 1st class",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_9",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 2nd class",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:07:26.2974401+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:09:36.9114375+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.9358721+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:58:59.5504718+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:07:26.297464+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:00:54.6048764+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:09:36.9114793+00:00"
 }

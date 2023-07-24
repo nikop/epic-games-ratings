@@ -3,9 +3,9 @@
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -616,17 +616,17 @@
       "ID": "World8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "World9Boss",
       "SetID": "d9ekhim",
       "Name": "Pim Pam Pum",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:06:02.9918767+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:08:02.8166513+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:06.7414998+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:57:52.5189821+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:06:02.9919269+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:59:43.3893545+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:08:02.8166877+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -103,9 +103,9 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "energy800",
@@ -215,9 +215,9 @@
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "neighenergy.north",
@@ -231,9 +231,9 @@
       "ID": "neighenergy.south",
       "SetID": "bbgli2k",
       "Name": "South Town Energy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "neighenergy.west",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:07:29.9554369+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:09:40.4022879+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3689264+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:57:47.0156654+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:07:29.9554637+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:59:38.2402879+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:09:40.4023192+00:00"
 }

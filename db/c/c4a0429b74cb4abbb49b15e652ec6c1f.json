@@ -3,9 +3,9 @@
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -381,6 +381,11 @@
       "Time": "2023-07-24T17:06:12.2866518+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T20:07:02.6897026+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -401,7 +406,7 @@
       "Name": "Bitcoin Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "build_your_world",
@@ -497,7 +502,7 @@
       "Name": "Super Creator",
       "Percentage": 6,
       "XP": 160,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "tireless_explorer",
@@ -521,7 +526,7 @@
       "Name": "Your virtual self",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "visit_cleric",
@@ -544,14 +549,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:05:03.2099843+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:07:02.689702+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:57:26.6367502+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:05:03.2100001+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:59:13.534305+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:07:02.6897196+00:00"
 }

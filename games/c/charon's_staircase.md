@@ -12,21 +12,21 @@
 | Curious by nature | 44.00% | ~34 |
 | A lonely death | 38.00% | ~29 |
 | An ear for music | 36.00% | ~28 |
-| Agatha's favourite song | 32.00% | ~25 |
-| Lights and shadows | 31.00% | ~24 |
+| Agatha's favourite song | 34.00% | ~26 |
+| Lights and shadows | 32.00% | ~25 |
 | The threshold of horror | 30.00% | ~23 |
-| Second document retrieved | 27.00% | ~21 |
+| Second document retrieved | 29.00% | ~22 |
 | Third document retrieved | 26.00% | ~20 |
 | Deadly chase | 26.00% | ~20 |
 | Dara's home | 26.00% | ~20 |
 | The lowest floor of the lift | 25.00% | ~19 |
 | Charon's coin | 23.00% | ~18 |
-| Until death do us part | 21.00% | ~16 |
+| Until death do us part | 22.00% | ~17 |
 | The impatient one | 18.00% | ~14 |
 | Spectres from the past | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 329)  
-Completed: 2 (2.60%) (Ranked 70)  
+Completed: 2 (2.60%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

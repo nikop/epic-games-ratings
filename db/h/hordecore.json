@@ -3,9 +3,9 @@
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -308,9 +308,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 268
     },
     {
       "ID": "4",
@@ -373,8 +373,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:04:03.1630998+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:06:02.7876986+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.0014252+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:01:14.7171255+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:04:03.16312+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:03:21.7504962+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:06:02.7877218+00:00"
 }

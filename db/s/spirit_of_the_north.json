@@ -6,8 +6,8 @@
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -318,10 +318,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63217,
-  "EOS_Completed": 322,
-  "EOS_NewPlayers": 860,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 63218,
+  "EOS_Completed": 323,
+  "EOS_NewPlayers": 850,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
@@ -10448,6 +10448,11 @@
       "Time": "2023-07-24T19:02:25.5309153+00:00",
       "NumProgressed": 63217,
       "NumCompleted": 322
+    },
+    {
+      "Time": "2023-07-24T20:04:36.2352715+00:00",
+      "NumProgressed": 63218,
+      "NumCompleted": 323
     }
   ],
   "TotalAchievements": 24,
@@ -10491,7 +10496,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 16436
+      "UsersEstimate": 16437
     },
     {
       "ID": "ERADICATE",
@@ -10539,7 +10544,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33505
+      "UsersEstimate": 33506
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -10650,16 +10655,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 63217,
-      "Completed": 322
+      "Progressed": 63218,
+      "Completed": 323
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:25.5309147+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:36.2352708+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:00:45.7876441+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:25.5309895+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:02:46.6217963+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:36.2353422+00:00"
 }

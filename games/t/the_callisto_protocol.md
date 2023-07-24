@@ -6,12 +6,12 @@ Rating: 4.20 (Ranked 841)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 4.00% | ~631 |
+| Flesh Wound | 3.00% | ~473 |
 | Float Like A Butterfly | 3.00% | ~473 |
 | Paper Jams | 3.00% | ~473 |
 | Keep Fighting | 3.00% | ~111 |
 | Giving Back | 2.00% | ~315 |
 | You Need a Gun | 2.00% | ~315 |
-| Flesh Wound | 2.00% | ~315 |
 | I Do Belong Here | 2.00% | ~315 |
 | Two Heads Are Better Than One | 2.00% | ~315 |
 | Chew 'Em Up | 2.00% | ~315 |
@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 841)
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,768 (Ranked 111)  
-Completed: 69 (0.44%) (Ranked 135)  
+Completed: 69 (0.44%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

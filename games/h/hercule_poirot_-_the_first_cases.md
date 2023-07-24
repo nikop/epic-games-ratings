@@ -10,7 +10,7 @@ Rating: 4.35 (Ranked 740)
 | Angeline Van den Bosch | 73.00% | ~293 |
 | Elizabeth Padget | 69.00% | ~277 |
 | Little Grey Cells | 68.00% | ~273 |
-| The Bracelet | 64.00% | ~257 |
+| The Bracelet | 65.00% | ~261 |
 | The Blackmail | 55.00% | ~221 |
 | Major Felix Hagen | 55.00% | ~221 |
 | Florette Duval | 54.00% | ~217 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 740)
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 402 (Ranked 229)  
-Completed: 6 (1.49%) (Ranked 92)  
+Completed: 6 (1.49%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

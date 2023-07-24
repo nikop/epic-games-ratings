@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3549,
+  "EOS_Progressed": 3550,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4597,6 +4597,11 @@
       "Time": "2023-07-24T18:03:32.3667416+00:00",
       "NumProgressed": 3549,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-24T20:05:31.0222505+00:00",
+      "NumProgressed": 3550,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4672,7 +4677,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach010",
@@ -4792,7 +4797,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach025",
@@ -4872,7 +4877,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach035",
@@ -4960,7 +4965,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach046",
@@ -5175,13 +5180,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2070,
+      "Progressed": 2071,
       "Completed": 1928
     }
   ],
@@ -5189,8 +5194,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:03:30.9089833+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:05:31.0222501+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:59:36.6560596+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:03:30.9090885+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:01:38.0228653+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:05:31.0223597+00:00"
 }

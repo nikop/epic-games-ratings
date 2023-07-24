@@ -8,13 +8,13 @@
 | Lightbulb Seeker | 88.00% | ~66 |
 | Grilled Mouse | 85.00% | ~64 |
 | Lightbulbs Collector | 77.00% | ~58 |
-| Energy Collector | 73.00% | ~55 |
-| East Street Energy | 51.00% | ~38 |
+| Energy Collector | 75.00% | ~56 |
+| East Street Energy | 52.00% | ~39 |
 | Lightbulbs Expert | 44.00% | ~33 |
 | That's one way to travel | 44.00% | ~33 |
 | Energy Expert | 43.00% | ~32 |
 | The Old Man and the Café | 40.00% | ~30 |
-| South Town Energy | 32.00% | ~24 |
+| South Town Energy | 33.00% | ~25 |
 | Photogenic | 29.00% | ~22 |
 | The Girl and the Homework | 28.00% | ~21 |
 | OK, I heard you!! | 28.00% | ~21 |
@@ -46,7 +46,7 @@
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 330)  
-Completed: 0 (0.00%) (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

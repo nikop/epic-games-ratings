@@ -6,9 +6,9 @@
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6033,9 +6033,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 473
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -6392,8 +6392,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-23T09:58:35.8793559+00:00",
-  "LastChanged_Achievements": "2023-07-24T19:02:10.5629441+00:00",
+  "LastChanged_Achievements": "2023-07-24T20:04:21.7179144+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.4220886+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:58:57.3606274+00:00",
-  "LastUpdate_Achievements": "2023-07-24T19:02:10.5630121+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:00:53.3925449+00:00",
+  "LastUpdate_Achievements": "2023-07-24T20:04:21.7180094+00:00"
 }
