@@ -6,26 +6,26 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,478 |
-| I read Shakespeare and stuff | 64.00% | ~29,421 |
+| Own use | 75.00% | ~34,479 |
+| I read Shakespeare and stuff | 64.00% | ~29,422 |
 | Just a sprinkle | 63.00% | ~28,962 |
-| I'm stumped | 61.00% | ~28,042 |
+| I'm stumped | 61.00% | ~28,043 |
 | Plant get enough | 60.00% | ~27,583 |
-| This is just my weekend vehicle | 58.00% | ~26,663 |
-| It's just the beginning | 58.00% | ~26,663 |
+| This is just my weekend vehicle | 58.00% | ~26,664 |
+| It's just the beginning | 58.00% | ~26,664 |
 | Hard work pays off | 53.00% | ~24,365 |
-| It's never too late to farm | 48.00% | ~22,066 |
-| All out of Land | 44.00% | ~20,227 |
+| It's never too late to farm | 48.00% | ~22,067 |
+| All out of Land | 44.00% | ~20,228 |
 | Field Trip | 43.00% | ~19,768 |
-| I like to switch it up | 40.00% | ~18,388 |
+| I like to switch it up | 40.00% | ~18,389 |
 | Help me to help you | 38.00% | ~17,469 |
 | Ultimutt Pawesomeness | 28.00% | ~12,872 |
-| Van Gogh | 26.00% | ~11,952 |
+| Van Gogh | 26.00% | ~11,953 |
 | You wood not believe it | 21.00% | ~9,654 |
 | Vehicle fleet | 21.00% | ~9,654 |
-| The plot thickens | 16.00% | ~7,355 |
-| Well-Oiled Machine | 16.00% | ~7,355 |
-| Long haul | 16.00% | ~7,355 |
+| The plot thickens | 16.00% | ~7,356 |
+| Well-Oiled Machine | 16.00% | ~7,356 |
+| Long haul | 16.00% | ~7,356 |
 | Clucky Streak | 15.00% | ~6,896 |
 | Large-scale supplier | 15.00% | ~6,896 |
 | That's a wrap | 14.00% | ~6,436 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,971 (Ranked 88)  
+Progressed: 45,972 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 5 (0.01%) (Ranked 228)
 | 2023-07-21 | 45,828 | 5 |
 | 2023-07-22 | 45,895 | 5 |
 | 2023-07-23 | 45,971 | 5 |
+| 2023-07-24 | 45,972 | 5 |
 ## Awards
 Max (Great for Beginners): 4,575  (Ranked 70)  
 Sum: 38,337 (Ranked 31)  

@@ -20,6 +20,7 @@ Rating: 4.16 (Ranked 867)
 | A Gift from the King | 7.00% | ~496 |
 | Full Artillery | 4.00% | ~284 |
 | Mob Boss | 2.00% | ~142 |
+| Where To? | 2.00% | ~142 |
 | Splish Splash | 2.00% | ~142 |
 | Liberty City Secrets | 2.00% | ~142 |
 | Escape Artist | 1.00% | ~71 |
@@ -27,7 +28,6 @@ Rating: 4.16 (Ranked 867)
 | Got This Figured Out | 1.00% | ~71 |
 | Wheels Up | 1.00% | ~71 |
 | Come Out to Play-y-y-y | 1.00% | ~71 |
-| Where To? | 1.00% | ~71 |
 | Man Toyz | 1.00% | ~71 |
 | Playing Doctor | 1.00% | ~71 |
 | Going Rogue | 1.00% | ~71 |

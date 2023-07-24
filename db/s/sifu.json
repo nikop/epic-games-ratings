@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 53,
-  "Ranking_PopularitySum": 78,
+  "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 83,
@@ -5316,9 +5316,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711328,
+  "EOS_Progressed": 711332,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14156,6 +14156,11 @@
       "Time": "2023-07-23T23:08:13.7987607+00:00",
       "NumProgressed": 711328,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-24T00:07:20.9067124+00:00",
+      "NumProgressed": 711332,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14511,15 +14516,15 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "45_Arena_25Challenges",
       "SetID": "14c2oii",
       "Name": "Bloody Sport",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 413
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -14566,21 +14571,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20629,
+      "Progressed": 20633,
       "Completed": 10435
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711328,
+      "Progressed": 711332,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-23T20:59:29.6571448+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:08:13.7987601+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:07:20.9067112+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:00:26.4938019+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:08:13.7989275+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:59:50.8358799+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:07:20.9069074+00:00"
 }

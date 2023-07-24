@@ -604,9 +604,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -652,9 +652,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Drunkard",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:06:43.6485479+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:06:11.7119972+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:57:32.2857116+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:06:43.6485978+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:57:21.9487384+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:06:11.7120736+00:00"
 }

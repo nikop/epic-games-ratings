@@ -29,7 +29,7 @@ Rating: 4.64 (Ranked 315)
 | Let Me Be Frank | 37.00% | ~204 |
 | Brain Food | 36.00% | ~198 |
 | No Stone Unturned | 35.00% | ~192 |
-| Read It And Weep | 22.00% | ~121 |
+| Read It And Weep | 23.00% | ~126 |
 | Curiosity Killed The Cat | 21.00% | ~116 |
 | Big Breakthrough | 14.00% | ~77 |
 | Reawakened | 5.00% | ~28 |

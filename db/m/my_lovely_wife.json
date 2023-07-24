@@ -323,17 +323,17 @@
       "ID": "ACH_ASSIGN_LEARN_1",
       "SetID": "ajki3eh",
       "Name": "Learner",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
       "SetID": "ajki3eh",
       "Name": "Dilligent",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
@@ -363,9 +363,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -595,8 +595,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:05:30.7033405+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:05:06.5534448+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:47.1456254+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:59:19.1609504+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:05:30.7033721+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:58:54.990747+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:05:06.5534953+00:00"
 }

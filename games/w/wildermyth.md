@@ -6,11 +6,11 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 38.00% | ~505 |
-| Me and My Familiar | 35.00% | ~465 |
+| The Cost of Heroism | 38.00% | ~506 |
+| Me and My Familiar | 35.00% | ~466 |
 | This Too Shall Pass | 30.00% | ~399 |
 | Passing Shadow | 29.00% | ~386 |
-| Cutthroat Competitors | 28.00% | ~372 |
+| Cutthroat Competitors | 28.00% | ~373 |
 | How Romantic! | 26.00% | ~346 |
 | Daybreak | 26.00% | ~346 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~319 |
@@ -28,12 +28,12 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 7.00% | ~93 |
 | Another Tale to Tell | 7.00% | ~93 |
 | A Story of Heroes | 7.00% | ~93 |
-| Legends Never Die | 5.00% | ~66 |
-| In Soil, In Smoke | 5.00% | ~66 |
-| A Hunger, Sated | 5.00% | ~66 |
-| Wingknight's Prowess | 5.00% | ~66 |
-| All My Birds, Safely Home | 5.00% | ~66 |
-| Turncoat | 5.00% | ~66 |
+| Legends Never Die | 5.00% | ~67 |
+| In Soil, In Smoke | 5.00% | ~67 |
+| A Hunger, Sated | 5.00% | ~67 |
+| Wingknight's Prowess | 5.00% | ~67 |
+| All My Birds, Safely Home | 5.00% | ~67 |
+| Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |
 | No Time for Clawmonsters | 4.00% | ~53 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,330 (Ranked 179)  
+Progressed: 1,331 (Ranked 179)  
 Completed: 5 (0.38%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 5 (0.38%) (Ranked 141)
 | 2023-07-21 | 1,328 | 5 |
 | 2023-07-22 | 1,329 | 5 |
 | 2023-07-23 | 1,330 | 5 |
+| 2023-07-24 | 1,331 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

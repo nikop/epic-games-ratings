@@ -25,11 +25,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
 | Greek Paganism | 0.30% | ~39 |
+| Trade Caravan | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
 | Brilliant | 0.20% | ~26 |
 | Enlightened | 0.20% | ~26 |
 | Fountainhead | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
+| Great | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
@@ -52,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.20% | ~26 |
 | Zoroastrianism | 0.20% | ~26 |
 | Naming Landmarks | 0.20% | ~26 |
-| Trade Caravan | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
-| Great | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,051 (Ranked 115)  
+Progressed: 13,054 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,6 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
+| 2023-07-24 | 13,054 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 204)  

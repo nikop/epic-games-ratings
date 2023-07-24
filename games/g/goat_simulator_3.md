@@ -5,22 +5,22 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~212,713 |
-| Private Club | 74.00% | ~172,976 |
-| Rogue Guild | 65.00% | ~151,938 |
-| I Watched the Intro | 57.00% | ~133,238 |
-| Covert Consortium | 55.00% | ~128,563 |
-| Goat Queen | 53.00% | ~123,888 |
+| Forgotten Sorority | 91.00% | ~212,715 |
+| Private Club | 74.00% | ~172,977 |
+| Rogue Guild | 65.00% | ~151,939 |
+| I Watched the Intro | 57.00% | ~133,239 |
+| Covert Consortium | 55.00% | ~128,564 |
+| Goat Queen | 53.00% | ~123,889 |
 | Reach the Stratosphere | 50.00% | ~116,876 |
-| Synchronization Complete | 47.00% | ~109,863 |
-| Secret Society | 45.00% | ~105,188 |
-| Shadow Syndicate | 38.00% | ~88,825 |
+| Synchronization Complete | 47.00% | ~109,864 |
+| Secret Society | 45.00% | ~105,189 |
+| Shadow Syndicate | 38.00% | ~88,826 |
 | What a Waste of Money | 33.00% | ~77,138 |
-| New Goat Order | 30.00% | ~70,125 |
-| Don't touch the servers | 28.00% | ~65,450 |
-| San Angora: Become Human | 26.00% | ~60,775 |
-| Raider of the Lost Parking Garage | 26.00% | ~60,775 |
-| Real Buoy | 26.00% | ~60,775 |
+| New Goat Order | 30.00% | ~70,126 |
+| Don't touch the servers | 28.00% | ~65,451 |
+| San Angora: Become Human | 26.00% | ~60,776 |
+| Raider of the Lost Parking Garage | 26.00% | ~60,776 |
+| Real Buoy | 26.00% | ~60,776 |
 | Welcome to Earth | 25.00% | ~58,438 |
 | Into the Matrix | 19.00% | ~44,413 |
 | Where is It? | 17.00% | ~39,738 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 40)
 | Move! That! Bus! | 0.60% | ~1,403 |
 | G.O.A.T | 0.30% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,751 (Ranked 47)  
+Progressed: 233,753 (Ranked 47)  
 Completed: 779 (0.33%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 779 (0.33%) (Ranked 144)
 | 2023-07-21 | 233,462 | 778 |
 | 2023-07-22 | 233,614 | 778 |
 | 2023-07-23 | 233,751 | 779 |
+| 2023-07-24 | 233,753 | 779 |
 ## Awards
 Max (Great for Beginners): 371  (Ranked 219)  
 Sum: 3,079 (Ranked 157)  

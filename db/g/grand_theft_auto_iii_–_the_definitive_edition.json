@@ -384,7 +384,7 @@
   "Tags": [],
   "EOS_Progressed": 7092,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -6082,9 +6082,9 @@
       "ID": "ACH13",
       "SetID": "552d41m",
       "Name": "Where To?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH14",
@@ -6227,8 +6227,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:05:48.0735358+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:05:21.2419515+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:58:55.7502346+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:05:48.0736017+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:58:35.2228142+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:05:21.2420503+00:00"
 }

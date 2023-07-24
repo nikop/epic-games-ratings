@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2322,
+  "EOS_Progressed": 2325,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1948,6 +1948,11 @@
       "Time": "2023-07-23T22:04:13.838498+00:00",
       "NumProgressed": 2322,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T00:04:25.1402038+00:00",
+      "NumProgressed": 2325,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1983,7 +1988,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "MOVE_ON",
@@ -2023,7 +2028,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2039,7 +2044,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TRANSMISSION",
@@ -2062,7 +2067,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2322,
+      "Progressed": 2325,
       "Completed": 5
     }
   ],
@@ -2070,8 +2075,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:04:42.9291455+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:04:25.1402028+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:00:45.5361339+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:04:42.9291765+00:00"
+  "LastUpdate_Ratings": "2023-07-24T00:00:09.4255337+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:04:25.140226+00:00"
 }

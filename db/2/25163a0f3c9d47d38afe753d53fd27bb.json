@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 18,
+  "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 569,
-  "EOS_Completed": 63,
+  "EOS_Completed": 64,
   "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.07,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 11.25,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1766,6 +1766,11 @@
       "Time": "2023-07-23T22:05:56.665798+00:00",
       "NumProgressed": 569,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-24T00:06:34.7653509+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 30,
@@ -1991,9 +1996,9 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_029",
@@ -2017,13 +2022,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 569,
-      "Completed": 63
+      "Completed": 64
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:07:10.793962+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:06:34.7653503+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:57:52.6886294+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:07:10.7940193+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:57:38.0175917+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:06:34.7653957+00:00"
 }

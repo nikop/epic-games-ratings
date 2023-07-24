@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -893,6 +893,11 @@
       "Time": "2023-07-23T23:03:42.2651148+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T00:03:20.5291228+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -935,9 +940,9 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -1088,15 +1093,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-23T23:03:42.2651143+00:00",
+  "LastChanged_Achievements": "2023-07-24T00:03:20.5291222+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-23T22:59:39.8670969+00:00",
-  "LastUpdate_Achievements": "2023-07-23T23:03:42.2651368+00:00"
+  "LastUpdate_Ratings": "2023-07-23T23:59:14.0541679+00:00",
+  "LastUpdate_Achievements": "2023-07-24T00:03:20.5291421+00:00"
 }

@@ -8,12 +8,12 @@ Number of Ratings: 25  (23.09.2022)
 | ---- | ---------- | ----- |
 | Objective Complete | 97.00% | ~576 |
 | I did it! | 94.00% | ~558 |
+| Learner | 92.00% | ~546 |
 | Economical | 92.00% | ~546 |
-| Learner | 91.00% | ~541 |
 | Devout | 89.00% | ~529 |
 | The Love Martyr | 87.00% | ~517 |
 | Frugal | 85.00% | ~505 |
-| Dilligent | 82.00% | ~487 |
+| Dilligent | 83.00% | ~493 |
 | I... I did it? | 80.00% | ~475 |
 | Adored | 76.00% | ~451 |
 | The Hobbyist | 65.00% | ~386 |
@@ -24,7 +24,7 @@ Number of Ratings: 25  (23.09.2022)
 | Devoted | 41.00% | ~244 |
 | The Farmer | 39.00% | ~232 |
 | Ever After | 36.00% | ~214 |
-| Loyal | 28.00% | ~166 |
+| Loyal | 29.00% | ~172 |
 | Mandatory Sacrifice | 28.00% | ~166 |
 | The Collector | 24.00% | ~143 |
 | All Doors Open | 20.00% | ~119 |

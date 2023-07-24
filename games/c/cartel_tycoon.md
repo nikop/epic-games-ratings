@@ -15,7 +15,7 @@ Number of Ratings: 101  (23.09.2022)
 | Spread | 41.00% | ~187 |
 | That was base | 39.00% | ~178 |
 | Safe Pair of Hands | 37.00% | ~169 |
-| Don't Let Mom Know You're A Druglord | 30.00% | ~137 |
+| Don't Let Mom Know You're A Druglord | 31.00% | ~141 |
 | Architect of Fortunes | 26.00% | ~119 |
 | Pampered Life | 25.00% | ~114 |
 | Bite the Blow | 24.00% | ~109 |
