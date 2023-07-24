@@ -49,6 +49,7 @@
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
+| [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [Kabaret](../games/k/kabaret.md) | 67 | 1,000 |
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
@@ -76,7 +77,6 @@
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
-| [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
