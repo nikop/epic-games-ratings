@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.5,
+  "EOS_Completed_Percentage": 9.44,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -831,6 +831,11 @@
       "Time": "2023-07-24T13:16:32.0835212+00:00",
       "NumProgressed": 179,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-24T15:05:02.9659548+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -840,9 +845,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 175,
-      "UsersEstimate": 104
+      "UsersEstimate": 103
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -856,9 +861,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 165,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -866,7 +871,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -874,7 +879,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -889,14 +894,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:05:05.3282858+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:05:02.9659542+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:57:30.9846561+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:05:05.328299+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:57:16.2387857+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:05:02.9659685+00:00"
 }

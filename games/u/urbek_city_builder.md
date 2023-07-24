@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 64.00% | ~182 |
-| I like parks | 52.00% | ~148 |
+| Small town | 64.00% | ~183 |
+| I like parks | 52.00% | ~149 |
 | It is nice to share with friends in the city | 28.00% | ~80 |
 | Sport is good for you | 26.00% | ~74 |
-| The spiritual world... | 24.00% | ~68 |
+| The spiritual world... | 23.00% | ~66 |
 | The woodcutter | 22.00% | ~63 |
 | I like books | 20.00% | ~57 |
 | I like my life | 20.00% | ~57 |
 | Soviet town | 19.00% | ~54 |
-| Clean energy | 17.00% | ~48 |
+| Clean energy | 17.00% | ~49 |
 | Bucolic city | 13.00% | ~37 |
 | King of fish | 8.00% | ~23 |
 | I love parks | 8.00% | ~23 |
@@ -45,17 +45,17 @@
 | Metropolurbek Plus | 0.70% | ~2 |
 | Restorer | 0.70% | ~2 |
 | Welfare state | 0.70% | ~2 |
-| Anarchist paradise | 0.40% | ~1 |
-| I can't breathe | 0.40% | ~1 |
-| Urban style | 0.40% | ~1 |
-| Desert builder | 0.40% | ~1 |
-| Desert urban planner | 0.40% | ~1 |
-| Oh, life is too awesome! Thank you! | 0.40% | ~1 |
-| I don't feel well, I have to drink a coffe | 0.40% | ~1 |
-| City in flames | 0.40% | ~1 |
-| Restorer Plus | 0.40% | ~1 |
-| Full temperate | 0.40% | ~1 |
-| Temperate master | 0.40% | ~1 |
+| Anarchist paradise | 0.30% | ~1 |
+| I can't breathe | 0.30% | ~1 |
+| Urban style | 0.30% | ~1 |
+| Desert builder | 0.30% | ~1 |
+| Desert urban planner | 0.30% | ~1 |
+| Oh, life is too awesome! Thank you! | 0.30% | ~1 |
+| I don't feel well, I have to drink a coffe | 0.30% | ~1 |
+| City in flames | 0.30% | ~1 |
+| Restorer Plus | 0.30% | ~1 |
+| Full temperate | 0.30% | ~1 |
+| Temperate master | 0.30% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 251)  
+Progressed: 286 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-19 | 277 | 0 |
 | 2023-07-22 | 283 | 0 |
 | 2023-07-23 | 285 | 0 |
+| 2023-07-24 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

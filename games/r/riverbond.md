@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,177 |
-| Now You're Talking | 62.00% | ~324,328 |
-| Steel Yourself | 62.00% | ~324,328 |
-| Window Dressing | 50.00% | ~261,555 |
-| Trigger Happy | 46.00% | ~240,631 |
+| First Step | 70.00% | ~366,178 |
+| Now You're Talking | 62.00% | ~324,329 |
+| Steel Yourself | 62.00% | ~324,329 |
+| Window Dressing | 50.00% | ~261,556 |
+| Trigger Happy | 46.00% | ~240,632 |
 | Riverborn | 45.00% | ~235,400 |
-| Starry Eyed | 34.00% | ~177,857 |
-| Poking Around | 34.00% | ~177,857 |
-| Talk of the Town | 24.00% | ~125,546 |
-| AAARR! | 23.00% | ~120,315 |
-| Hello Darkness | 23.00% | ~120,315 |
-| Wind At Our Backs | 22.00% | ~115,084 |
+| Starry Eyed | 34.00% | ~177,858 |
+| Poking Around | 34.00% | ~177,858 |
+| Talk of the Town | 24.00% | ~125,547 |
+| AAARR! | 23.00% | ~120,316 |
+| Hello Darkness | 23.00% | ~120,316 |
+| Wind At Our Backs | 22.00% | ~115,085 |
 | To the Beat | 20.00% | ~104,622 |
 | Sunny Shores | 17.00% | ~88,929 |
 | Sunday Best | 16.00% | ~83,698 |
-| To Victory! | 15.00% | ~78,466 |
-| Two of a Kind | 14.00% | ~73,235 |
-| Keep On Trucking | 13.00% | ~68,004 |
+| To Victory! | 15.00% | ~78,467 |
+| Two of a Kind | 14.00% | ~73,236 |
+| Keep On Trucking | 13.00% | ~68,005 |
 | Going on an Adventure | 11.00% | ~57,542 |
 | Make Peace, Not War | 11.00% | ~57,542 |
 | Walking The Line | 10.00% | ~52,311 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,569 |
 | Point Taken | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,110 (Ranked 29)  
+Progressed: 523,112 (Ranked 29)  
 Completed: 450 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 450 (0.09%) (Ranked 191)
 | 2023-07-21 | 522,830 | 450 |
 | 2023-07-22 | 522,938 | 450 |
 | 2023-07-23 | 523,066 | 450 |
-| 2023-07-24 | 523,110 | 450 |
+| 2023-07-24 | 523,112 | 450 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

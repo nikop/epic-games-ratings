@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 152,
@@ -3335,9 +3335,9 @@
       "ID": "ACH_MISSION_07",
       "SetID": "816efe",
       "Name": "The Darwin Era Was Here",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3464,8 +3464,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-21T21:00:43.0022164+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:01:56.6741995+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:03:13.0023726+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:00:15.9944318+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:01:56.6742544+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:59:55.6732581+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:03:13.0024288+00:00"
 }

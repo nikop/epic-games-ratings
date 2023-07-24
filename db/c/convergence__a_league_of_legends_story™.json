@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 786,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2023-07-24T09:03:40.8197776+00:00",
       "NumProgressed": 785,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T15:03:52.4334444+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1880,7 +1885,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2160,7 +2165,7 @@
       "Name": "Good Neighbor",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2183,14 +2188,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 786,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:03:25.764608+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:03:52.4334439+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:00:16.716119+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:03:25.7646748+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:59:56.5148481+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:03:52.433513+00:00"
 }

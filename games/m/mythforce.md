@@ -6,23 +6,23 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 8.00% | ~19 |
+| Faceroll the Bones | 9.00% | ~21 |
 | First Strike | 8.00% | ~19 |
 | Flawless Victory | 8.00% | ~19 |
+| Hit 'Em Where It Hurts | 8.00% | ~19 |
 | That'll Leave a Mark | 8.00% | ~19 |
 | Debuff Dogpile | 7.00% | ~16 |
-| Hit 'Em Where It Hurts | 7.00% | ~16 |
-| Perk Shard Punch Card | 6.00% | ~14 |
+| Perk Shard Punch Card | 7.00% | ~16 |
 | Spending Spree | 6.00% | ~14 |
 | Ten Steps from the Grave | 6.00% | ~14 |
 | Cold-Blooded Critters | 5.00% | ~12 |
 | Everything Must Go! | 5.00% | ~12 |
 | Mushroom Madness! | 5.00% | ~12 |
 | Next Time on MythForce... | 5.00% | ~12 |
+| On this Episode! | 5.00% | ~12 |
 | Deadication | 4.00% | ~9 |
 | The Harder They Fall | 4.00% | ~9 |
 | Horder Better Faster Stronger | 4.00% | ~9 |
-| On this Episode! | 4.00% | ~9 |
 | The Fourth Gate | 3.00% | ~7 |
 | Season Finale | 3.00% | ~7 |
 | We've Got a Kaiju on the Field | 0.40% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1436,9 +1436,9 @@
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1652,8 +1652,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:05:11.1814544+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:05:08.7590646+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.8323679+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:58:11.3030224+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:05:11.1815254+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:57:52.8903527+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:05:08.7591363+00:00"
 }

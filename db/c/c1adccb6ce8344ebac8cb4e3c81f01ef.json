@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "YellowSkeleton",
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:04:38.8392356+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:04:45.7312716+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.4942224+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:57:28.6873933+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:04:38.8392564+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:57:12.908353+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:04:45.7312827+00:00"
 }

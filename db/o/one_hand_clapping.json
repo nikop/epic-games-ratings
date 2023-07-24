@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 773,
+  "EOS_Progressed": 775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -226,6 +226,11 @@
       "Time": "2023-07-24T11:03:22.192879+00:00",
       "NumProgressed": 773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T15:01:20.5555947+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -237,7 +242,7 @@
       "Name": "Silent City",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "10",
@@ -317,7 +322,7 @@
       "Name": "Cadenza",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "2",
@@ -341,7 +346,7 @@
       "Name": "Staccato",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "22",
@@ -460,7 +465,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 773,
+      "Progressed": 775,
       "Completed": 0
     }
   ],
@@ -468,8 +473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:14:26.4916844+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:01:20.5555929+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.6188388+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:00:36.1703885+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:14:26.4917051+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:00:17.2192959+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:01:20.5556391+00:00"
 }

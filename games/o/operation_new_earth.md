@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 37.00% | ~223 |
 | Defenses Online | 35.00% | ~211 |
-| Facility Online | 31.00% | ~187 |
+| Facility Online | 30.00% | ~181 |
 | Corporal | 23.00% | ~139 |
 | Covert Operative | 18.00% | ~109 |
 | Sergeant | 17.00% | ~103 |
-| Lieutenant | 13.00% | ~78 |
-| Stocking Up | 13.00% | ~78 |
-| On Target | 13.00% | ~78 |
+| Lieutenant | 13.00% | ~79 |
+| Stocking Up | 13.00% | ~79 |
+| On Target | 13.00% | ~79 |
 | Getting Deployment | 12.00% | ~72 |
 | Keeping Busy | 11.00% | ~66 |
 | Infantry Reporting | 11.00% | ~66 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603 (Ranked 210)  
+Progressed: 604 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,4 +89,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 561 | 0 |
 | 2023-07-22 | 579 | 0 |
 | 2023-07-23 | 596 | 0 |
-| 2023-07-24 | 603 | 0 |
+| 2023-07-24 | 604 | 0 |

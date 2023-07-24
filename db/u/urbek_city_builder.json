@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -782,6 +782,11 @@
       "Time": "2023-07-23T19:06:02.4859956+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T15:06:47.2629779+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -799,7 +804,7 @@
       "ID": "ANARQUIA_2",
       "SetID": "44dlcg0",
       "Name": "Anarchist paradise",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -903,7 +908,7 @@
       "ID": "CONTAMINACION_2",
       "SetID": "44dlcg0",
       "Name": "I can\u0027t breathe",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -911,7 +916,7 @@
       "ID": "COOL_CITY",
       "SetID": "44dlcg0",
       "Name": "Urban style",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -967,7 +972,7 @@
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -975,7 +980,7 @@
       "ID": "DESIERTO_2",
       "SetID": "44dlcg0",
       "Name": "Desert urban planner",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1007,9 +1012,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "FAITH_2",
@@ -1079,7 +1084,7 @@
       "ID": "FELIZ_3",
       "SetID": "44dlcg0",
       "Name": "Oh, life is too awesome! Thank you!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1121,7 +1126,7 @@
       "Name": "I like parks",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1153,7 +1158,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MURICA_1",
@@ -1191,7 +1196,7 @@
       "ID": "NIGHT_LIFE_3",
       "SetID": "44dlcg0",
       "Name": "I don\u0027t feel well, I have to drink a coffe",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1225,7 +1230,7 @@
       "Name": "Small town",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "POPULATION_2",
@@ -1255,7 +1260,7 @@
       "ID": "REBELDES_2",
       "SetID": "44dlcg0",
       "Name": "City in flames",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1279,7 +1284,7 @@
       "ID": "RUINAS_2",
       "SetID": "44dlcg0",
       "Name": "Restorer Plus",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1335,7 +1340,7 @@
       "ID": "TEMPERADO3_1",
       "SetID": "44dlcg0",
       "Name": "Full temperate",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1359,7 +1364,7 @@
       "ID": "TEMPERADO_3",
       "SetID": "44dlcg0",
       "Name": "Temperate master",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1424,7 +1429,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1432,8 +1437,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:07:09.9473589+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:06:47.2629774+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:59:42.4980438+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:07:09.9474521+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:59:25.5294894+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:06:47.2630717+00:00"
 }

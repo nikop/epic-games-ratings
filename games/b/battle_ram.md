@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 89.00% | ~103 |
-| Ram Corporal | 82.00% | ~95 |
-| Ram Sergeant | 62.00% | ~72 |
-| Ram Staff Sergeant | 61.00% | ~71 |
-| Ram First Sergeant | 56.00% | ~65 |
-| Senior Sergeant Baran | 56.00% | ~65 |
+| START | 89.00% | ~104 |
+| Ram Corporal | 82.00% | ~96 |
+| Ram Sergeant | 62.00% | ~73 |
+| Ram Staff Sergeant | 62.00% | ~73 |
+| Ram First Sergeant | 56.00% | ~66 |
+| Senior Sergeant Baran | 56.00% | ~66 |
 | Sergeant Major Baran | 47.00% | ~55 |
-| Senior warrant officer Baran 3rd class | 28.00% | ~32 |
-| Senior warrant officer Baran 1st class | 28.00% | ~32 |
-| Senior warrant officer Baran 2nd class | 28.00% | ~32 |
-| Senior warrant officer Baran 4th class | 21.00% | ~24 |
-| Junior Lieutenant Baran | 21.00% | ~24 |
+| Senior warrant officer Baran 1st class | 30.00% | ~35 |
+| Senior warrant officer Baran 2nd class | 30.00% | ~35 |
+| Senior warrant officer Baran 3rd class | 29.00% | ~34 |
+| Senior warrant officer Baran 4th class | 22.00% | ~26 |
+| Junior Lieutenant Baran | 21.00% | ~25 |
 | Baran Senior Warrant Officer Grade 5 | 17.00% | ~20 |
-| Senior Lieutenant Baran | 15.00% | ~17 |
-| Captain Baran | 9.00% | ~10 |
-| Senior Major Baran | 9.00% | ~10 |
+| Senior Lieutenant Baran | 15.00% | ~18 |
+| Captain Baran | 9.00% | ~11 |
+| Senior Major Baran | 9.00% | ~11 |
 | Lieutenant Colonel Baran | 7.00% | ~8 |
 | Colonel Baran | 4.00% | ~5 |
-| Brigadier General Baran | 3.00% | ~3 |
-| Lieutenant General Baran | 3.00% | ~3 |
+| Brigadier General Baran | 3.00% | ~4 |
+| Lieutenant General Baran | 3.00% | ~4 |
 | EMERAID RAM | 2.00% | ~2 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 302)  
+Progressed: 117 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 87 | 0 |
 | 2023-07-22 | 101 | 0 |
 | 2023-07-23 | 109 | 0 |
-| 2023-07-24 | 116 | 0 |
+| 2023-07-24 | 117 | 0 |

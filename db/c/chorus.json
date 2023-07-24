@@ -1558,9 +1558,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 711
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1726,8 +1726,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:04:15.7463814+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:04:21.6898544+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:01:04.0592123+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:04:15.7464308+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:00:46.8603528+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:04:21.6898979+00:00"
 }

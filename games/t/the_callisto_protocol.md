@@ -35,9 +35,9 @@ Rating: 4.20 (Ranked 841)
 | Armed to the Teeth | 0.50% | ~18 |
 | Information Overload | 0.50% | ~18 |
 | Grim Reaper | 0.40% | ~63 |
+| Big Spender | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
 | Parole Denied | 0.30% | ~11 |
-| Big Spender | 0.30% | ~11 |
 | Mugshot | 0.20% | ~32 |
 | Instigator | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 841)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,767 (Ranked 111)  
+Progressed: 15,768 (Ranked 111)  
 Completed: 69 (0.44%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 69 (0.44%) (Ranked 135)
 | 2023-07-21 | 15,751 | 68 |
 | 2023-07-22 | 15,755 | 68 |
 | 2023-07-23 | 15,762 | 68 |
-| 2023-07-24 | 15,767 | 69 |
+| 2023-07-24 | 15,768 | 69 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 371)  
 Sum: 397 (Ranked 314)  

@@ -62,16 +62,16 @@ Rating: 4.10 (Ranked 890)
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
+| Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
 | Gear Enchanting | 0.90% | ~15 |
-| Guardian Master | 0.90% | ~15 |
 | Cauldron Liberator | 0.80% | ~14 |
 | Training makes a Pro player | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
 | Tree of Life | 0.60% | ~10 |
+| Beast War Machines | 0.50% | ~9 |
 | Enhanced War Machines | 0.50% | ~9 |
 | Titan Power | 0.50% | ~9 |
-| Beast War Machines | 0.40% | ~7 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |

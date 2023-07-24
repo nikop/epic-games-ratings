@@ -5,42 +5,42 @@ Rating: 4.26 (Ranked 805)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,805 |
-| Copacetic Coordination | 16.00% | ~53,150 |
-| Fronting the Money | 14.00% | ~46,506 |
-| The Dawn of Automation | 14.00% | ~46,506 |
-| Extraordinary Logistics | 14.00% | ~46,506 |
-| Dirty Money | 13.00% | ~43,184 |
-| Family First | 13.00% | ~43,184 |
-| Cleaning House | 12.00% | ~39,862 |
-| Room in the Back | 12.00% | ~39,862 |
-| Booze Baron | 11.00% | ~36,540 |
-| Beating the Heat | 10.00% | ~33,218 |
-| Friends on the Force | 10.00% | ~33,218 |
-| Neighborhood Watch | 10.00% | ~33,218 |
-| Core Corps | 8.00% | ~26,575 |
-| Sizeable Stash | 8.00% | ~26,575 |
-| Street Fighter | 7.00% | ~23,253 |
-| Friendly Gestures | 7.00% | ~23,253 |
-| People Person | 7.00% | ~23,253 |
-| Liquor Lord | 6.00% | ~19,931 |
-| Safety in Numbers | 6.00% | ~19,931 |
-| Show ‘em the Sugar | 6.00% | ~19,931 |
-| Killing Them Softly | 6.00% | ~19,931 |
-| Street Knowledge | 5.00% | ~16,609 |
-| Oh Captain | 5.00% | ~16,609 |
-| Branching Out | 5.00% | ~16,609 |
-| Improvement Missions | 5.00% | ~16,609 |
-| Opportunity Knocked | 5.00% | ~16,609 |
-| City of Big Shoulders | 5.00% | ~16,609 |
-| Moving Experiences | 5.00% | ~16,609 |
-| Mission Mastery | 5.00% | ~16,609 |
-| Wise Head | 5.00% | ~16,609 |
-| Considerable Clams | 4.00% | ~13,287 |
-| Gin Joint | 4.00% | ~13,287 |
-| An Affront to the Enemy | 4.00% | ~13,287 |
-| Friends from Back Home | 4.00% | ~13,287 |
-| Half Century Mark | 4.00% | ~13,287 |
+| Corner Clout | 46.00% | ~152,811 |
+| Copacetic Coordination | 16.00% | ~53,152 |
+| Fronting the Money | 14.00% | ~46,508 |
+| The Dawn of Automation | 14.00% | ~46,508 |
+| Extraordinary Logistics | 14.00% | ~46,508 |
+| Dirty Money | 13.00% | ~43,186 |
+| Family First | 13.00% | ~43,186 |
+| Cleaning House | 12.00% | ~39,864 |
+| Room in the Back | 12.00% | ~39,864 |
+| Booze Baron | 11.00% | ~36,542 |
+| Beating the Heat | 10.00% | ~33,220 |
+| Friends on the Force | 10.00% | ~33,220 |
+| Neighborhood Watch | 10.00% | ~33,220 |
+| Core Corps | 8.00% | ~26,576 |
+| Sizeable Stash | 8.00% | ~26,576 |
+| Street Fighter | 7.00% | ~23,254 |
+| Friendly Gestures | 7.00% | ~23,254 |
+| People Person | 7.00% | ~23,254 |
+| Liquor Lord | 6.00% | ~19,932 |
+| Safety in Numbers | 6.00% | ~19,932 |
+| Show ‘em the Sugar | 6.00% | ~19,932 |
+| Killing Them Softly | 6.00% | ~19,932 |
+| Street Knowledge | 5.00% | ~16,610 |
+| Oh Captain | 5.00% | ~16,610 |
+| Branching Out | 5.00% | ~16,610 |
+| Improvement Missions | 5.00% | ~16,610 |
+| Opportunity Knocked | 5.00% | ~16,610 |
+| City of Big Shoulders | 5.00% | ~16,610 |
+| Moving Experiences | 5.00% | ~16,610 |
+| Mission Mastery | 5.00% | ~16,610 |
+| Wise Head | 5.00% | ~16,610 |
+| Considerable Clams | 4.00% | ~13,288 |
+| Gin Joint | 4.00% | ~13,288 |
+| An Affront to the Enemy | 4.00% | ~13,288 |
+| Friends from Back Home | 4.00% | ~13,288 |
+| Half Century Mark | 4.00% | ~13,288 |
 | Corner Opportunities | 3.00% | ~9,966 |
 | 2122 North Clark Street | 3.00% | ~9,966 |
 | Copious Cabbage | 3.00% | ~9,966 |
@@ -61,7 +61,7 @@ Rating: 4.26 (Ranked 805)
 | Cat’s Meow Clubs | 1.00% | ~3,322 |
 | Determined Deliveries | 0.90% | ~2,990 |
 | Stepping It Up | 0.90% | ~2,990 |
-| Crossing Over | 0.80% | ~2,657 |
+| Crossing Over | 0.80% | ~2,658 |
 | Boots in the Ground | 0.70% | ~2,325 |
 | Getting Fancy | 0.70% | ~2,325 |
 | Homemade Hooch | 0.40% | ~1,329 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 805)
 | High Pillow | 0.10% | ~332 |
 | Station Master | 0.10% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,185 (Ranked 41)  
+Progressed: 332,198 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 5 (0.00%) (Ranked 240)
 | 2023-07-21 | 331,483 | 5 |
 | 2023-07-22 | 331,756 | 5 |
 | 2023-07-23 | 332,057 | 5 |
-| 2023-07-24 | 332,185 | 5 |
+| 2023-07-24 | 332,198 | 5 |
 ## Awards
 Max (Relaxing): 27  (Ranked 465)  
 Sum: 122 (Ranked 400)  

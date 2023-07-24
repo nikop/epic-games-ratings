@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -232,6 +232,11 @@
       "Time": "2023-07-22T08:05:47.4919316+00:00",
       "NumProgressed": 196,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-24T15:05:16.4524537+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -323,15 +328,15 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 177
     },
     {
       "ID": "play_me_by_the_hour",
@@ -339,7 +344,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "poetent",
@@ -369,9 +374,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 177
     },
     {
       "ID": "the_big_sleep",
@@ -387,7 +392,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "voyeur",
@@ -403,14 +408,14 @@
       "Name": "You Had One Job",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 2
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:05:18.8161881+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:05:16.4524506+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:23.628596+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:59:34.7191189+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:05:18.8162061+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:59:18.4814684+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:05:16.452486+00:00"
 }

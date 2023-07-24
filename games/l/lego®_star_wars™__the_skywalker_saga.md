@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,451 |
-| ''I don't like you either!'' | 79.00% | ~39,460 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,963 |
-| ''Impressive, most impressive'' | 71.00% | ~35,464 |
-| The Phantom Menace | 59.00% | ~29,470 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,970 |
-| ''I can fly anything'' | 57.00% | ~28,471 |
-| ''And who gave you permission...?'' | 53.00% | ~26,473 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,452 |
+| ''I don't like you either!'' | 79.00% | ~39,461 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,965 |
+| ''Impressive, most impressive'' | 71.00% | ~35,465 |
+| The Phantom Menace | 59.00% | ~29,471 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,972 |
+| ''I can fly anything'' | 57.00% | ~28,472 |
+| ''And who gave you permission...?'' | 53.00% | ~26,474 |
 | A New Hope | 48.00% | ~23,976 |
-| Attack of the Clones | 47.00% | ~23,476 |
+| Attack of the Clones | 47.00% | ~23,477 |
 | Revenge of the Sith | 40.00% | ~19,980 |
-| The Empire Strikes Back | 37.00% | ~18,481 |
-| ''A fine addition to my collection'' | 37.00% | ~18,481 |
+| The Empire Strikes Back | 37.00% | ~18,482 |
+| ''A fine addition to my collection'' | 37.00% | ~18,482 |
 | Return of the Jedi | 32.00% | ~15,984 |
-| The Force Awakens | 27.00% | ~13,486 |
-| The Last Jedi | 23.00% | ~11,488 |
+| The Force Awakens | 26.00% | ~12,987 |
+| The Last Jedi | 23.00% | ~11,489 |
 | The Rise of Skywalker | 20.00% | ~9,990 |
-| ''It's true... all of it'' | 19.00% | ~9,490 |
+| ''It's true... all of it'' | 19.00% | ~9,491 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,991 |
 | ''Raw, untamed power'' | 8.00% | ~3,996 |
 | Rishi Maze | 4.00% | ~1,998 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,998 |
-| ''You may fire when ready'' | 3.00% | ~1,498 |
-| ''What have you done with those plans?'' | 3.00% | ~1,498 |
-| ''GONK!'' | 3.00% | ~1,498 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,498 |
-| The Slice | 3.00% | ~1,498 |
+| ''You may fire when ready'' | 3.00% | ~1,499 |
+| ''What have you done with those plans?'' | 3.00% | ~1,499 |
+| ''GONK!'' | 3.00% | ~1,499 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,499 |
+| The Slice | 3.00% | ~1,499 |
 | ''Hello there!'' | 2.00% | ~999 |
 | Unknown Regions | 2.00% | ~999 |
 | ''Do or do not. There is no try'' | 2.00% | ~999 |
@@ -47,12 +47,12 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Power! Unlimited power!'' | 2.00% | ~999 |
 | ''You needn't worry about your reward'' | 2.00% | ~999 |
 | ''Now I am the Master'' | 2.00% | ~999 |
-| ''A little short for a Stormtrooper...'' | 1.00% | ~499 |
-| ''Jedi Business'' | 1.00% | ~499 |
-| ''No more training, do you require'' | 1.00% | ~499 |
+| ''A little short for a Stormtrooper...'' | 1.00% | ~500 |
+| ''Jedi Business'' | 1.00% | ~500 |
+| ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,949 (Ranked 87)  
+Progressed: 49,951 (Ranked 87)  
 Completed: 212 (0.42%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,14 +147,14 @@ Completed: 212 (0.42%) (Ranked 138)
 | 2023-07-21 | 49,925 | 212 |
 | 2023-07-22 | 49,935 | 212 |
 | 2023-07-23 | 49,942 | 212 |
-| 2023-07-24 | 49,949 | 212 |
+| 2023-07-24 | 49,951 | 212 |
 ## Awards
-Max (Great Boss Battles): 2,362  (Ranked 103)  
-Sum: 6,508 (Ranked 118)  
+Max (Great Boss Battles): 2,364  (Ranked 103)  
+Sum: 6,510 (Ranked 118)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,362 |
+| This game has Great Boss Battles | 2,364 |
 | This game is Great for Beginners | 486 |
 | This game has Diverse Characters | 486 |
 | This game has Amazing Characters | 480 |
@@ -333,4 +333,4 @@ Diff (max vs sum): -15
 | 2023-07-21 | 4.78 | - | 2,361 | 6,502 |
 | 2023-07-22 | 4.78 | - | 2,361 | 6,504 |
 | 2023-07-23 | 4.78 | - | 2,362 | 6,506 |
-| 2023-07-24 | 4.78 | - | 2,362 | 6,508 |
+| 2023-07-24 | 4.78 | - | 2,364 | 6,510 |

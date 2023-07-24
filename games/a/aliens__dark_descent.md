@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.41 (Ranked 672)  
+Rating: 4.41 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.41 (Ranked 672)
 | Omelette Du Fromage | 32.00% | ~969 |
 | The More The Merrier | 29.00% | ~878 |
 | Living Nightmare | 28.00% | ~848 |
-| The Darwin Era Was Here | 24.00% | ~727 |
+| The Darwin Era Was Here | 25.00% | ~757 |
 | Deep Into Insanity | 23.00% | ~697 |
 | The Passenger | 23.00% | ~697 |
 | Come on, You Wanna Live Forever? | 22.00% | ~666 |

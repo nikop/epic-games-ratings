@@ -48,10 +48,10 @@ Rating: 4.87 (Ranked 24)
 | First we parry, then we counter | 0.30% | ~11 |
 | I hit things with a guitar really well. | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
+| Easy Listening | 0.20% | ~7 |
 | OK, well THEY came after ME! | 0.20% | ~7 |
 | I'm not done with you yet | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
-| Easy Listening | 0.10% | ~4 |
 | Problem solved... wait, what? | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |

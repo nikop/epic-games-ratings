@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1707,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4509,9 +4509,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "blueprintupgrades",
@@ -4693,9 +4693,9 @@
       "ID": "guardianmaster",
       "SetID": "3nl4bcg",
       "Name": "Guardian Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "guildpower",
@@ -5078,8 +5078,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:03:10.4767463+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:03:37.0368867+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:58:50.6468495+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:03:10.4768503+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:58:27.5742151+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:03:37.0370122+00:00"
 }

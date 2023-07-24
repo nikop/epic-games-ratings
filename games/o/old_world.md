@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
+| Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
 | Judaism | 0.30% | ~39 |
 | Greek Paganism | 0.30% | ~39 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
-| Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,067 (Ranked 115)  
+Progressed: 13,068 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,067 | 5 |
+| 2023-07-24 | 13,068 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

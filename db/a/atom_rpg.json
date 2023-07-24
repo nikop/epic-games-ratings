@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,7 +358,7 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1773,6 +1773,11 @@
       "Time": "2023-07-24T08:03:18.9997683+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T15:03:39.5769565+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1840,7 +1845,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "EXPERT_1",
@@ -1880,7 +1885,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "INDY_1",
@@ -1902,9 +1907,9 @@
       "ID": "KRAINA_GRZYBOW_1",
       "SetID": "bf13m8j",
       "Name": "Kraina Grzybow",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 105
     },
     {
       "ID": "LOVE_GURU_1",
@@ -1936,7 +1941,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2056,7 +2061,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WISHMASTER_1",
@@ -2071,15 +2076,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:03:12.9527355+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:03:39.5769559+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:01:07.8679341+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:03:12.9527782+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:00:53.0303735+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:03:39.5769992+00:00"
 }

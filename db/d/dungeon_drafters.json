@@ -327,9 +327,9 @@
       "ID": "DD_complete",
       "SetID": "3b8n56h",
       "Name": "The Bodyguard",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GL_complete",
@@ -351,25 +351,25 @@
       "ID": "InnkeeperQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Braving Miasma",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LW_complete",
       "SetID": "3b8n56h",
       "Name": "The Familiar",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MC_complete",
@@ -383,9 +383,9 @@
       "ID": "MGR_complete",
       "SetID": "3b8n56h",
       "Name": "Ancient Nemesis",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MasterOracleQuestlineFirst",
@@ -487,9 +487,9 @@
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -535,9 +535,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "cards_discovered_complete",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:02:05.0742747+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:03:21.443316+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:09.4299221+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:57:59.9330424+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:02:05.0743098+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:57:43.5307987+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:03:21.4433499+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -186,6 +186,11 @@
       "Time": "2023-07-22T09:07:48.6065969+00:00",
       "NumProgressed": 256,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T15:06:43.1689999+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -251,9 +256,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -293,7 +298,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -301,7 +306,7 @@
       "Name": "Third Commander",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PET_DOG",
@@ -317,14 +322,14 @@
       "Name": "Magic Ball",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 4
     }
   ],
@@ -332,8 +337,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-24T14:07:06.1643858+00:00",
+  "LastChanged_Achievements": "2023-07-24T15:06:43.1689994+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.4255335+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:58:55.8339976+00:00",
-  "LastUpdate_Achievements": "2023-07-24T14:07:06.1643998+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:58:35.4703566+00:00",
+  "LastUpdate_Achievements": "2023-07-24T15:06:43.1690133+00:00"
 }
