@@ -1,30 +1,30 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.40 (Ranked 691)  
+Rating: 4.40 (Ranked 692)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,457 |
-| Snatched Out | 74.00% | ~2,244 |
-| Keep 'Em Coming | 73.00% | ~2,214 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,458 |
+| Snatched Out | 74.00% | ~2,245 |
+| Keep 'Em Coming | 73.00% | ~2,215 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,002 |
-| Call Me Snake | 61.00% | ~1,850 |
-| Something Lurks Under The Hills | 59.00% | ~1,789 |
-| This Was No Papercut | 58.00% | ~1,759 |
-| The Shrink Hates Me | 55.00% | ~1,668 |
+| Call Me Snake | 61.00% | ~1,851 |
+| Something Lurks Under The Hills | 60.00% | ~1,820 |
+| This Was No Papercut | 58.00% | ~1,760 |
+| The Shrink Hates Me | 55.00% | ~1,669 |
 | People Person | 54.00% | ~1,638 |
 | Use The Bumper, That's What It's For | 51.00% | ~1,547 |
 | First Steps Into Madness | 51.00% | ~1,547 |
-| Colonial Barrels | 49.00% | ~1,486 |
+| Colonial Barrels | 49.00% | ~1,487 |
 | Harper's Hell | 42.00% | ~1,274 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,244 |
-| Making a Stand | 40.00% | ~1,213 |
+| Making a Stand | 40.00% | ~1,214 |
 | Where It All Begun | 36.00% | ~1,092 |
 | Recouped Investment | 36.00% | ~1,092 |
 | Omelette Du Fromage | 32.00% | ~971 |
 | The More The Merrier | 29.00% | ~880 |
-| Living Nightmare | 28.00% | ~849 |
+| Living Nightmare | 28.00% | ~850 |
 | The Darwin Era Was Here | 25.00% | ~758 |
 | Deep Into Insanity | 23.00% | ~698 |
 | The Passenger | 23.00% | ~698 |
@@ -51,7 +51,7 @@ Rating: 4.40 (Ranked 691)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,033 (Ranked 152)  
+Progressed: 3,034 (Ranked 152)  
 Completed: 1 (0.03%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.03%) (Ranked 215)
 | 2023-07-21 | 2,997 | 0 |
 | 2023-07-22 | 3,009 | 1 |
 | 2023-07-23 | 3,024 | 1 |
-| 2023-07-24 | 3,033 | 1 |
+| 2023-07-24 | 3,034 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

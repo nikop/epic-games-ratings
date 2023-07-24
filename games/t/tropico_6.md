@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,197 |
+| Just One...More...Term... | 76.00% | ~3,240 |
 | Un-Lonely Island | 48.00% | ~2,046 |
 | The Beginning of a Servantship | 45.00% | ~1,918 |
 | Trade Is My Trait | 37.00% | ~1,577 |

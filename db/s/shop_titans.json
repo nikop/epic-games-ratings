@@ -5186,11 +5186,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 26970,
       "NumberOfAwardsMax": 4670
+    },
+    {
+      "Time": "2023-07-24T21:02:20.4253721+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 26972,
+      "NumberOfAwardsMax": 4671
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26970,
-  "NumberOfAwardsMax": 4670,
+  "NumberOfAwards": 26972,
+  "NumberOfAwardsMax": 4671,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5209,7 +5215,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4670
+      "Count": 4671
     },
     {
       "Text": "This game has Easy Combat",
@@ -5233,7 +5239,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3139
+      "Count": 3140
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5242,9 +5248,9 @@
       "Count": 3712
     }
   ],
-  "EOS_Progressed": 133175,
+  "EOS_Progressed": 133177,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14892,6 +14898,11 @@
       "Time": "2023-07-24T20:04:35.4911071+00:00",
       "NumProgressed": 133175,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-07-24T21:06:50.7034355+00:00",
+      "NumProgressed": 133177,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 112,
@@ -15798,15 +15809,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133175,
+      "Progressed": 133177,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-07-24T06:59:08.0097925+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:04:35.4911067+00:00",
+  "LastChanged": "2023-07-24T21:02:20.4253718+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:06:50.7034347+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:01:27.849976+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:04:35.4913346+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:02:20.4253727+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:06:50.7038161+00:00"
 }

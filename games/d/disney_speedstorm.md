@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 53.00% | ~1,593 |
-| IT MAKES BOOM! | 42.00% | ~1,262 |
+| IT MAKES BOOM! | 42.00% | ~1,263 |
 | EXTRA BOOST | 41.00% | ~1,232 |
 | PRO | 33.00% | ~992 |
 | PROTECTED | 31.00% | ~932 |
@@ -25,11 +25,11 @@
 | PERFECTLY POISED | 11.00% | ~331 |
 | BE OUR GUEST | 11.00% | ~331 |
 | THE EYE OF THE HUNTER | 11.00% | ~331 |
-| ACE TRICKSTER | 9.00% | ~270 |
+| ACE TRICKSTER | 9.00% | ~271 |
 | EXPERIENCED CREW | 5.00% | ~150 |
 | FRAMED! | 4.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,005 (Ranked 154)  
+Progressed: 3,006 (Ranked 154)  
 Completed: 107 (3.56%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,4 +123,4 @@ Completed: 107 (3.56%) (Ranked 52)
 | 2023-07-21 | 2,983 | 104 |
 | 2023-07-22 | 2,990 | 106 |
 | 2023-07-23 | 3,000 | 107 |
-| 2023-07-24 | 3,005 | 107 |
+| 2023-07-24 | 3,006 | 107 |

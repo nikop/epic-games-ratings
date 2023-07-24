@@ -19,8 +19,8 @@
 | Pragmatic | 23.00% | ~49 |
 | Calory burner | 17.00% | ~36 |
 | Pacifist | 15.00% | ~32 |
-| Model | 14.00% | ~30 |
-| Snow digger | 13.00% | ~28 |
+| Model | 15.00% | ~32 |
+| Snow digger | 14.00% | ~30 |
 | Fire extinguisher | 10.00% | ~21 |
 | Hubworld fan | 10.00% | ~21 |
 | Occult cataloger | 8.00% | ~17 |

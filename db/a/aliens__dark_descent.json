@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3033,
+  "EOS_Progressed": 3034,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3107,6 +3107,11 @@
       "Time": "2023-07-24T18:02:26.3327044+00:00",
       "NumProgressed": 3033,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T21:06:52.1624932+00:00",
+      "NumProgressed": 3034,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3158,7 +3163,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3214,7 +3219,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3230,7 +3235,7 @@
       "Name": "Call Me Snake",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3308,9 +3313,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3334,7 +3339,7 @@
       "Name": "Making a Stand",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3350,7 +3355,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_MISSION_07",
@@ -3414,7 +3419,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3422,7 +3427,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3430,7 +3435,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3470,14 +3475,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3033,
+      "Progressed": 3034,
       "Completed": 1
     }
   ],
@@ -3485,8 +3490,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-24T20:02:40.1654437+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:04:36.5839426+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:06:52.1624926+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:02:40.1654441+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:04:36.5840017+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:03:57.1772573+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:06:52.1625585+00:00"
 }

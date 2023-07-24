@@ -1,11 +1,15 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 904)  
+Rating: 4.06 (Ranked 905)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 0.30% | ~646 |
+| Beast Intentions | 0.30% | ~646 |
+| Maddening | 0.20% | ~430 |
+| The Silken Swamp | 0.20% | ~430 |
 | The Mad Wizard | 0.20% | ~430 |
 | Waterdeep Detours | 0.20% | ~430 |
 | Lost in the Deep | 0.20% | ~430 |
@@ -15,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~430 |
 | Pure Energy | 0.20% | ~430 |
 | The Templar's Camp | 0.20% | ~430 |
-| A Brief Tour of the Realms | 0.10% | ~215 |
-| Maddening | 0.10% | ~215 |
+| Rocky Reception | 0.20% | ~363 |
+| Rock and Roll | 0.20% | ~363 |
 | Pros and CONs | 0.10% | ~215 |
 | Upholding the Law | 0.10% | ~215 |
 | Starving in the Jungle | 0.10% | ~215 |
@@ -53,7 +57,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~181 |
 | Second Third Out | 0.10% | ~181 |
 | Third Third Out | 0.10% | ~181 |
-| The Silken Swamp | 0.10% | ~215 |
 | Slack-jawed Lorna | 0.10% | ~181 |
 | I'm Sure I Saw It Move! | 0.10% | ~181 |
 | End of the Line | 0.10% | ~181 |
@@ -61,7 +64,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~181 |
 | Zarak's Revenge | 0.10% | ~181 |
 | Bully for You! | 0.10% | ~181 |
-| Beast Intentions | 0.10% | ~215 |
 | Wet Feet | 0.10% | ~215 |
 | The Dark Heart | 0.10% | ~181 |
 | Undergeared | 0.10% | ~181 |
@@ -509,9 +511,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.10% | ~181 |
 | Bazaar Companions | 0.10% | ~181 |
 | Bahamut's Army | 0.10% | ~181 |
-| Rocky Reception | 0.10% | ~181 |
 | Luigi After Hours | 0.10% | ~181 |
-| Rock and Roll | 0.10% | ~181 |
 | Electric Mayhem | 0.10% | ~181 |
 | Flight of the Kindori Pod | 0.10% | ~181 |
 | 3,720 to 1 | 0.10% | ~181 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~181 |
 | Animated Giff | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,181 (Ranked 53)  
-Completed: 2,062 (0.96%) (Ranked 108)  
+Progressed: 215,199 (Ranked 53)  
+Completed: 2,064 (0.96%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -614,7 +614,7 @@ Completed: 2,062 (0.96%) (Ranked 108)
 | 2023-07-21 | 214,257 | 2,060 |
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
-| 2023-07-24 | 215,181 | 2,062 |
+| 2023-07-24 | 215,199 | 2,064 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,675 (Ranked 38)  

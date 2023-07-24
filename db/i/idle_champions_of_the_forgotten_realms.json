@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5254,10 +5254,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215181,
-  "EOS_Completed": 2062,
-  "EOS_NewPlayers": 2359,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 215199,
+  "EOS_Completed": 2064,
+  "EOS_NewPlayers": 2368,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
@@ -15454,6 +15454,11 @@
       "Time": "2023-07-24T20:09:42.5179724+00:00",
       "NumProgressed": 215181,
       "NumCompleted": 2062
+    },
+    {
+      "Time": "2023-07-24T21:11:43.497498+00:00",
+      "NumProgressed": 215199,
+      "NumCompleted": 2064
     }
   ],
   "TotalAchievements": 512,
@@ -15463,17 +15468,17 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_100",
@@ -15767,9 +15772,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_1090",
@@ -15831,9 +15836,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_110",
@@ -19487,9 +19492,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1376",
@@ -19503,9 +19508,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1381",
@@ -19560,21 +19565,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181455,
-      "Completed": 2832
+      "Progressed": 181473,
+      "Completed": 2852
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215181,
-      "Completed": 2062
+      "Progressed": 215199,
+      "Completed": 2064
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-24T16:59:50.0006609+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:09:42.5179718+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:11:43.4974974+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:01:03.4939829+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:09:42.5206727+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:01:51.0775094+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:11:43.500713+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4737,
+  "EOS_Progressed": 4738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4842,6 +4842,11 @@
       "Time": "2023-07-24T20:05:27.1832956+00:00",
       "NumProgressed": 4737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T21:07:35.4467513+00:00",
+      "NumProgressed": 4738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4853,7 +4858,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4869,7 +4874,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4893,7 +4898,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4909,7 +4914,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4925,7 +4930,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4933,7 +4938,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -4973,7 +4978,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -5132,13 +5137,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4737,
+      "Progressed": 4738,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4109,
+      "Progressed": 4110,
       "Completed": 112
     }
   ],
@@ -5146,8 +5151,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:05:27.1832952+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:07:35.4467507+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:03:17.7289169+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:05:27.1833527+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:04:45.8784438+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:07:35.4468053+00:00"
 }

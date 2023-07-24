@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 11.21,
+  "EOS_Completed_Percentage": 11.19,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1781,6 +1781,11 @@
       "Time": "2023-07-24T20:09:05.0772464+00:00",
       "NumProgressed": 571,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-24T21:10:50.4067157+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 30,
@@ -1792,7 +1797,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "LEVEL_002",
@@ -1808,7 +1813,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "LEVEL_004",
@@ -1816,7 +1821,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LEVEL_005",
@@ -1824,7 +1829,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "LEVEL_006",
@@ -1840,7 +1845,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "LEVEL_008",
@@ -1864,7 +1869,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_011",
@@ -1896,7 +1901,7 @@
       "Name": "Cross-country",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_015",
@@ -1920,7 +1925,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEVEL_018",
@@ -2031,14 +2036,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:09:05.077246+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:10:50.4067152+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:59:32.2680698+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:09:05.0772788+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:00:03.403655+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:10:50.4067495+00:00"
 }

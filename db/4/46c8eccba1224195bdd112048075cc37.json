@@ -421,9 +421,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CollectCurses",
@@ -533,9 +533,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SecondBoss",
@@ -557,9 +557,9 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:07:25.9499771+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:09:27.2644041+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:59:32.107151+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:07:25.9499932+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:00:03.2071338+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:09:27.2644226+00:00"
 }

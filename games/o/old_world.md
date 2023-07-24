@@ -8,30 +8,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~131 |
 | The Great Mage | 0.70% | ~92 |
+| Explorer | 0.60% | ~78 |
 | Settler | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
-| Explorer | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Friendly Family | 0.50% | ~65 |
 | Poetic Leader | 0.50% | ~65 |
 | Able | 0.40% | ~52 |
+| Architect | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
+| Noble | 0.40% | ~52 |
 | Strong | 0.40% | ~52 |
 | Hanging Gardens | 0.40% | ~52 |
 | Oracle | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
-| Architect | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Good | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
-| Noble | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
+| Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
 | Judaism | 0.30% | ~39 |
+| Babylonian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
 | Naming Landmarks | 0.30% | ~39 |
@@ -50,20 +52,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.20% | ~26 |
 | Strong Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
+| Just Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
-| Lighthouse | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
-| Babylonian Paganism | 0.20% | ~26 |
 | Carthaginian Paganism | 0.20% | ~26 |
 | Egyptian Paganism | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
-| Just Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,073 (Ranked 115)  
+Progressed: 13,074 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 211)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,073 | 5 |
+| 2023-07-24 | 13,074 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

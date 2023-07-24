@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -335,6 +335,11 @@
       "Time": "2023-07-24T19:02:08.493644+00:00",
       "NumProgressed": 410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T21:06:27.3712575+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -344,9 +349,9 @@
       "ID": "assemble-team1",
       "SetID": "799afm0",
       "Name": "Strength and Sorcery",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "assemble-team2",
@@ -394,7 +399,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "different-items1",
@@ -426,7 +431,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "finished-quest-flight",
@@ -458,7 +463,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "finished-quest-rat",
@@ -466,7 +471,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "finished-quest-reaper",
@@ -482,7 +487,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "finished-quest-secret",
@@ -522,7 +527,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "save-zombie",
@@ -570,7 +575,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "win-koth-fights1",
@@ -602,7 +607,7 @@
       "Name": "Through the Darkness",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "win-with-3-cultists",
@@ -618,14 +623,14 @@
       "Name": "Android Power",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 1
     }
   ],
@@ -633,8 +638,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:04:19.5195544+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:06:27.3712565+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:01:47.1504258+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:04:19.5196072+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:02:43.2720999+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:06:27.3712937+00:00"
 }

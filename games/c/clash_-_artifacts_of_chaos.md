@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Declawing | 68.00% | ~63 |
-| Target Practice | 39.00% | ~36 |
-| Over the Moon | 33.00% | ~30 |
+| Target Practice | 40.00% | ~37 |
+| Over the Moon | 32.00% | ~30 |
 | The Bigger They Are | 30.00% | ~28 |
 | Enemies of Fate | 30.00% | ~28 |
 | Amokuali Tower | 28.00% | ~26 |
@@ -21,13 +21,13 @@
 | Corwid Hill | 12.00% | ~11 |
 | Dreamwalker | 10.00% | ~9 |
 | Total Eclipse | 8.00% | ~7 |
-| Your Training Is Complete | 7.00% | ~6 |
+| Your Training Is Complete | 6.00% | ~6 |
 | Red in Tooth and Claw | 5.00% | ~5 |
 | Broken Reflection | 2.00% | ~2 |
 | Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 313)  
-Completed: 1 (1.09%) (Ranked 102)  
+Progressed: 93 (Ranked 312)  
+Completed: 1 (1.08%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 1 (1.09%) (Ranked 102)
 | 2023-07-14 | 88 | 1 |
 | 2023-07-22 | 89 | 1 |
 | 2023-07-23 | 91 | 1 |
-| 2023-07-24 | 92 | 1 |
+| 2023-07-24 | 93 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

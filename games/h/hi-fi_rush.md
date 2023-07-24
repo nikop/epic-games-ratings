@@ -5,10 +5,10 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 3.00% | ~106 |
-| Feeling the beat! | 3.00% | ~106 |
-| Who put gears in there? | 3.00% | ~106 |
-| You can pet the cat! | 3.00% | ~106 |
+| Start with a bang! | 3.00% | ~107 |
+| Feeling the beat! | 3.00% | ~107 |
+| Who put gears in there? | 3.00% | ~107 |
+| You can pet the cat! | 3.00% | ~107 |
 | NOW we got a kickass hideout! | 3.00% | ~62 |
 | Cream of the Crop | 2.00% | ~71 |
 | This will cost you big time | 2.00% | ~71 |
@@ -37,7 +37,7 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.70% | ~25 |
-| Call me Turbo Chai | 0.70% | ~14 |
+| Call me Turbo Chai | 0.70% | ~15 |
 | Check out my moves! | 0.60% | ~21 |
 | I told you I'd be fine, Peppermint! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550 (Ranked 145)  
+Progressed: 3,551 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
 | 2023-07-23 | 3,536 | 6 |
-| 2023-07-24 | 3,550 | 6 |
+| 2023-07-24 | 3,551 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6188,6 +6188,11 @@
       "Time": "2023-07-24T20:04:37.1387056+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T21:06:52.7608998+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6295,7 +6300,7 @@
       "Name": "Keycards Royale",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "0014",
@@ -6375,7 +6380,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "0024",
@@ -6383,7 +6388,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "0025",
@@ -6423,7 +6428,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "0030",
@@ -6431,7 +6436,7 @@
       "Name": "For your Eyes only",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "0031",
@@ -6486,7 +6491,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 1
     }
   ],
@@ -6494,8 +6499,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:04:37.1387051+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:06:52.7608993+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:03:07.9540435+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:04:37.1387786+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:04:30.0093135+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:06:52.7609742+00:00"
 }

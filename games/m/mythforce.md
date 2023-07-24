@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 9.00% | ~22 |
-| First Strike | 9.00% | ~22 |
+| Faceroll the Bones | 10.00% | ~25 |
+| First Strike | 10.00% | ~25 |
 | Flawless Victory | 9.00% | ~22 |
+| Hit 'Em Where It Hurts | 9.00% | ~22 |
 | That'll Leave a Mark | 9.00% | ~22 |
-| Debuff Dogpile | 8.00% | ~19 |
-| Hit 'Em Where It Hurts | 8.00% | ~19 |
-| Perk Shard Punch Card | 8.00% | ~19 |
+| Debuff Dogpile | 8.00% | ~20 |
+| Perk Shard Punch Card | 8.00% | ~20 |
+| Ten Steps from the Grave | 8.00% | ~20 |
+| Next Time on MythForce... | 7.00% | ~17 |
 | Spending Spree | 7.00% | ~17 |
-| Ten Steps from the Grave | 7.00% | ~17 |
 | Cold-Blooded Critters | 6.00% | ~15 |
 | Everything Must Go! | 6.00% | ~15 |
 | Mushroom Madness! | 6.00% | ~15 |
-| Next Time on MythForce... | 6.00% | ~15 |
 | On this Episode! | 6.00% | ~15 |
-| Deadication | 5.00% | ~12 |
-| The Fourth Gate | 5.00% | ~12 |
-| The Harder They Fall | 5.00% | ~12 |
 | Horder Better Faster Stronger | 5.00% | ~12 |
+| Deadication | 4.00% | ~10 |
+| The Fourth Gate | 4.00% | ~10 |
+| The Harder They Fall | 4.00% | ~10 |
 | Season Finale | 4.00% | ~10 |
 | We've Got a Kaiju on the Field | 0.40% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 260)  
+Progressed: 246 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,7 +39,7 @@ Completed: 0 (0.00%) (Ranked 241)
 | 2023-07-21 | 105 | 0 |
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
-| 2023-07-24 | 243 | 0 |
+| 2023-07-24 | 246 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

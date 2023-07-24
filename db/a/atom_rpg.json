@@ -5,9 +5,9 @@
   "Ranking_Rating": 610,
   "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 447,
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1788,6 +1788,11 @@
       "Time": "2023-07-24T19:03:20.6819186+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T21:07:26.6572311+00:00",
+      "NumProgressed": 1052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1855,7 +1860,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "EXPERT_1",
@@ -1927,7 +1932,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1935,7 +1940,7 @@
       "Name": "Neanderthal",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NO_NAME",
@@ -1959,7 +1964,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "PACIFIST",
@@ -1991,7 +1996,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "RELICTS",
@@ -2007,7 +2012,7 @@
       "Name": "It was worth a shot",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SACRIFICE_1",
@@ -2031,7 +2036,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SHOG",
@@ -2039,7 +2044,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -2055,7 +2060,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "VVE",
@@ -2086,15 +2091,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1052,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:05:20.9666303+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:07:26.6572304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:03:38.2863355+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:05:20.9666683+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:05:24.5581041+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:07:26.6572727+00:00"
 }

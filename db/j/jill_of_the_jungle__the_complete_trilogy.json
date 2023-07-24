@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
@@ -4484,6 +4484,11 @@
       "Time": "2023-07-24T18:04:13.2184128+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-24T21:08:08.082911+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 5,
@@ -4495,7 +4500,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "2",
@@ -4503,7 +4508,7 @@
       "Name": "Jill the Bold",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "3",
@@ -4534,7 +4539,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 97
     }
   ],
@@ -4542,8 +4547,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:06:10.7109481+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:08:08.0829105+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:04.0645974+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:59:39.744344+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:06:10.7109894+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:00:15.982534+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:08:08.0829485+00:00"
 }

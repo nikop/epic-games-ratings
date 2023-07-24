@@ -7,15 +7,21 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.10% | ~3 |
+| Surgical Excision | 0.10% | ~3 |
+| Hold Your Ground | 0.10% | ~3 |
 | Not So Fast... | 0.10% | ~3 |
+| Blood for the Blood God! | 0.10% | ~3 |
 | Executioner | 0.10% | ~3 |
 | Friendly Fire | 0.10% | ~3 |
 | Watch Where You Step... | 0.10% | ~3 |
+| Purging Spree | 0.10% | ~3 |
 | An Ill Omen | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
 | Gunmaster | 0.10% | ~3 |
 | Efficient Killer | 0.10% | ~3 |
+| Bloodless | 0.10% | ~3 |
+| A Foul Creche | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
@@ -28,7 +34,6 @@ Number of Ratings: 371  (23.09.2022)
 | Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Honoured Battle-Brother | 0.00% | ~0 |
-| Surgical Excision | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Fleetmaster | 0.00% | ~0 |
 | For the Machine God | 0.00% | ~0 |
@@ -36,12 +41,9 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 | Daemonkeeper | 0.00% | ~0 |
-| Hold Your Ground | 0.00% | ~0 |
-| Blood for the Blood God! | 0.00% | ~0 |
 | Corruption Cleanser | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
-| Purging Spree | 0.00% | ~0 |
 | Hands-On Research | 0.00% | ~0 |
 | Mind Like a Fortress | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
@@ -49,11 +51,9 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.00% | ~0 |
 | Warp Flickers | 0.00% | ~0 |
 | Phalanx | 0.00% | ~0 |
-| Bloodless | 0.00% | ~0 |
 | Exercise in Restraint | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
 | Just a Scratch | 0.00% | ~0 |
-| A Foul Creche | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Only in Death | 0.00% | ~0 |
 | Preservationist | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.00% | ~0 |
 | Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,020 (Ranked 153)  
+Progressed: 3,022 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 241)
 | 2023-07-21 | 3,000 | 0 |
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
-| 2023-07-24 | 3,020 | 0 |
+| 2023-07-24 | 3,022 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  

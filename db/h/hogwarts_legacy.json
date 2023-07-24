@@ -5338,10 +5338,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39815,
       "NumberOfAwardsMax": 21242
+    },
+    {
+      "Time": "2023-07-24T21:00:37.8882475+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39818,
+      "NumberOfAwardsMax": 21242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39815,
+  "NumberOfAwards": 39818,
   "NumberOfAwardsMax": 21242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5403,7 +5409,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 894
+      "Count": 897
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5418,9 +5424,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 288478,
+  "EOS_Progressed": 288482,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15653,6 +15659,11 @@
       "Time": "2023-07-24T20:06:34.6550765+00:00",
       "NumProgressed": 288478,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-24T21:08:42.3881397+00:00",
+      "NumProgressed": 288482,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15664,15 +15675,15 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34617
+      "UsersEstimate": 34618
     },
     {
       "ID": "PFA_10",
       "SetID": "1hf4dep",
       "Name": "Grappling with a Graphorn",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23078
+      "UsersEstimate": 25963
     },
     {
       "ID": "PFA_11",
@@ -15696,7 +15707,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23078
+      "UsersEstimate": 23079
     },
     {
       "ID": "PFA_14",
@@ -15736,7 +15747,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20193
+      "UsersEstimate": 20194
     },
     {
       "ID": "PFA_19",
@@ -15768,7 +15779,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23078
+      "UsersEstimate": 23079
     },
     {
       "ID": "PFA_22",
@@ -15888,7 +15899,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20193
+      "UsersEstimate": 20194
     },
     {
       "ID": "PFA_36",
@@ -15968,7 +15979,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20193
+      "UsersEstimate": 20194
     },
     {
       "ID": "PFA_45",
@@ -16016,23 +16027,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20193
+      "UsersEstimate": 20194
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288478,
+      "Progressed": 288482,
       "Completed": 434
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-24T20:00:02.4417894+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:06:34.6550761+00:00",
+  "LastChanged": "2023-07-24T21:00:37.8882472+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:08:42.3881391+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:00:02.4417901+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:06:34.6551837+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:00:37.8882482+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:08:42.3882769+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15697,
+  "EOS_Progressed": 15698,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
@@ -7597,6 +7597,11 @@
       "Time": "2023-07-24T20:06:32.3840929+00:00",
       "NumProgressed": 15697,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-24T21:08:39.2363941+00:00",
+      "NumProgressed": 15698,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7672,7 +7677,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -7704,7 +7709,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8005
+      "UsersEstimate": 8006
     },
     {
       "ID": "Sole_Survivor",
@@ -7720,7 +7725,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "The_Reaper",
@@ -7735,15 +7740,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15697,
+      "Progressed": 15698,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:06:32.3840924+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:08:39.2363936+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.8297422+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:02:13.5667557+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:06:32.3841551+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:03:19.37181+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:08:39.2364601+00:00"
 }

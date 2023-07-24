@@ -3,11 +3,11 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 196,
-  "Ranking_Popularity": 409,
+  "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -727,9 +727,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 32496,
+  "EOS_Progressed": 32504,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11007,6 +11007,11 @@
       "Time": "2023-07-24T20:05:19.6889377+00:00",
       "NumProgressed": 32496,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T21:07:24.7223223+00:00",
+      "NumProgressed": 32504,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11026,7 +11031,7 @@
       "Name": "Adventurer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "distance250000",
@@ -11058,7 +11063,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8451
     },
     {
       "ID": "goals180",
@@ -11114,7 +11119,7 @@
       "Name": "Life Aquatic",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "master",
@@ -11122,7 +11127,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "mylittlefriend",
@@ -11138,7 +11143,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5851
     },
     {
       "ID": "novice",
@@ -11146,7 +11151,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5201
     },
     {
       "ID": "playerFelipe",
@@ -11186,7 +11191,7 @@
       "Name": "Survivalist",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "playerTupa",
@@ -11218,7 +11223,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "rookie",
@@ -11226,7 +11231,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8451
     },
     {
       "ID": "sandboarder",
@@ -11250,7 +11255,7 @@
       "Name": "The Ultimate Challenge",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "unlockfelipe",
@@ -11282,7 +11287,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4874
+      "UsersEstimate": 4876
     },
     {
       "ID": "unlockpaz",
@@ -11322,22 +11327,22 @@
       "Name": "Windswept",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32496,
+      "Progressed": 32504,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-23T17:00:52.7319174+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:05:19.6889367+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:07:24.7223213+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:02:37.1767859+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:05:19.689032+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:03:52.3242694+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:07:24.722416+00:00"
 }

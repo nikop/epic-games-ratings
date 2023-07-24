@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 1,
@@ -134,9 +136,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "APHRODITE",
@@ -222,9 +224,9 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -427,9 +429,10 @@
       "Completed": 1
     }
   ],
+  "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:05:36.2388312+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:07:47.9964652+00:00",
   "LastUpdate_AppInfo": "2023-07-21T20:57:00.8152155+00:00",
-  "LastUpdate_Ratings": "2023-07-24T19:59:00.6478287+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:05:36.2388629+00:00"
+  "LastUpdate_Ratings": "2023-07-24T20:59:19.8931762+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:07:47.9964973+00:00"
 }

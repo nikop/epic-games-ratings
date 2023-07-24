@@ -5,60 +5,60 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 14.00% | ~60,129 |
-| 50 HEADSHOTS | 13.00% | ~55,834 |
-| SCIENCE AND INDUSTRY | 11.00% | ~47,245 |
-| FINISHED CHAPTER 1 | 10.00% | ~42,950 |
-| 200 HEADSHOTS | 8.00% | ~34,360 |
-| FINISHED CHAPTER 2 | 8.00% | ~34,360 |
-| FINISHED CHAPTER 3 | 7.00% | ~30,065 |
-| FINISHED CHAPTER 4 | 6.00% | ~25,770 |
-| FINISH CHAPTER 5 | 5.00% | ~21,475 |
-| FINISH CHAPTER 6 | 5.00% | ~21,475 |
-| CATHARTIC ESCAPISM | 5.00% | ~21,475 |
-| 1000 KILLS | 4.00% | ~17,180 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,590 |
+| 100 KILLS | 14.00% | ~60,134 |
+| 50 HEADSHOTS | 13.00% | ~55,839 |
+| SCIENCE AND INDUSTRY | 11.00% | ~47,248 |
+| FINISHED CHAPTER 1 | 10.00% | ~42,953 |
+| 200 HEADSHOTS | 8.00% | ~34,362 |
+| FINISHED CHAPTER 2 | 8.00% | ~34,362 |
+| FINISHED CHAPTER 3 | 7.00% | ~30,067 |
+| FINISHED CHAPTER 4 | 6.00% | ~25,772 |
+| FINISH CHAPTER 5 | 5.00% | ~21,476 |
+| FINISH CHAPTER 6 | 5.00% | ~21,476 |
+| CATHARTIC ESCAPISM | 5.00% | ~21,476 |
+| 1000 KILLS | 4.00% | ~17,181 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,591 |
 | FIREFIGHT LEVEL 20 | 0.80% | ~3,436 |
 | FIRST BLOOD | 0.80% | ~3,436 |
-| PACEMAKER | 0.50% | ~2,147 |
-| TIME PARADOX | 0.50% | ~2,147 |
+| PACEMAKER | 0.50% | ~2,148 |
+| TIME PARADOX | 0.50% | ~2,148 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,718 |
 | OUT OF ORDER | 0.40% | ~1,718 |
 | PARTYHARD | 0.40% | ~1,718 |
-| FIREFIGHT LEVEL 40 | 0.30% | ~1,288 |
-| NEW GAME PLUS | 0.30% | ~1,288 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,289 |
+| NEW GAME PLUS | 0.30% | ~1,289 |
 | CHURCH | 0.20% | ~859 |
 | FIREFIGHT LEVEL 50 | 0.20% | ~859 |
-| HEY THATS CHEATING | 0.10% | ~429 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~429 |
-| BUT WHY? | 0.10% | ~429 |
-| CHALET | 0.10% | ~429 |
-| COMMAND - [EXIST] | 0.10% | ~429 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~429 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~429 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~429 |
-| FIRE IN THE HOLE | 0.10% | ~429 |
-| FRESH | 0.10% | ~429 |
-| HUGE SUCCESS | 0.10% | ~429 |
-| ICARUS | 0.10% | ~429 |
-| INPUT - [QUERY] | 0.10% | ~429 |
-| KITTED OUT | 0.10% | ~429 |
-| HOLOGRAM SUMMER | 0.10% | ~429 |
-| OFF THE HINGES | 0.10% | ~429 |
-| ON THE EDGE | 0.10% | ~429 |
-| OVERCLOCKED | 0.10% | ~429 |
-| PAIN TRAIN | 0.10% | ~429 |
-| REMEMBER THE ARMORY | 0.10% | ~429 |
-| 10 RUNS | 0.10% | ~429 |
-| 20 RUNS | 0.10% | ~429 |
-| 5 RUNS | 0.10% | ~429 |
-| SAVOR THE MOMENT | 0.10% | ~429 |
-| SOUL - HORIZONS | 0.10% | ~429 |
-| THE COLLECTOR | 0.10% | ~429 |
-| THE GAMBLER | 0.10% | ~429 |
-| WARRIOR IN A GARDEN | 0.10% | ~429 |
+| HEY THATS CHEATING | 0.10% | ~430 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~430 |
+| BUT WHY? | 0.10% | ~430 |
+| CHALET | 0.10% | ~430 |
+| COMMAND - [EXIST] | 0.10% | ~430 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~430 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~430 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~430 |
+| FIRE IN THE HOLE | 0.10% | ~430 |
+| FRESH | 0.10% | ~430 |
+| HUGE SUCCESS | 0.10% | ~430 |
+| ICARUS | 0.10% | ~430 |
+| INPUT - [QUERY] | 0.10% | ~430 |
+| KITTED OUT | 0.10% | ~430 |
+| HOLOGRAM SUMMER | 0.10% | ~430 |
+| OFF THE HINGES | 0.10% | ~430 |
+| ON THE EDGE | 0.10% | ~430 |
+| OVERCLOCKED | 0.10% | ~430 |
+| PAIN TRAIN | 0.10% | ~430 |
+| REMEMBER THE ARMORY | 0.10% | ~430 |
+| 10 RUNS | 0.10% | ~430 |
+| 20 RUNS | 0.10% | ~430 |
+| 5 RUNS | 0.10% | ~430 |
+| SAVOR THE MOMENT | 0.10% | ~430 |
+| SOUL - HORIZONS | 0.10% | ~430 |
+| THE COLLECTOR | 0.10% | ~430 |
+| THE GAMBLER | 0.10% | ~430 |
+| WARRIOR IN A GARDEN | 0.10% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,496 (Ranked 37)  
+Progressed: 429,530 (Ranked 37)  
 Completed: 39 (0.01%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 39 (0.01%) (Ranked 229)
 | 2023-07-21 | 427,567 | 38 |
 | 2023-07-22 | 428,294 | 39 |
 | 2023-07-23 | 428,982 | 39 |
-| 2023-07-24 | 429,496 | 39 |
+| 2023-07-24 | 429,530 | 39 |
 ## Awards
 Max (Great Boss Battles): 187  (Ranked 274)  
 Sum: 187 (Ranked 371)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -612,9 +612,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3020,
+  "EOS_Progressed": 3022,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2467,6 +2467,11 @@
       "Time": "2023-07-24T18:03:41.4581403+00:00",
       "NumProgressed": 3020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T21:07:53.4676035+00:00",
+      "NumProgressed": 3022,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2572,9 +2577,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2636,9 +2641,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Auto",
@@ -2652,9 +2657,9 @@
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2708,9 +2713,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Vakir",
@@ -2812,9 +2817,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2844,9 +2849,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -3021,21 +3026,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3020,
+      "Progressed": 3022,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3020,
+      "Progressed": 3022,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-24T20:05:40.2239655+00:00",
+  "LastChanged_Achievements": "2023-07-24T21:07:53.4675948+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-24T20:01:52.7427278+00:00",
-  "LastUpdate_Achievements": "2023-07-24T20:05:40.2240394+00:00"
+  "LastUpdate_Ratings": "2023-07-24T21:02:48.6912602+00:00",
+  "LastUpdate_Achievements": "2023-07-24T21:07:53.4677125+00:00"
 }
