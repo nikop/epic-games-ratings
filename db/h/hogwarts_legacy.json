@@ -5400,9 +5400,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288446,
+  "EOS_Progressed": 288450,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15590,6 +15590,11 @@
       "Time": "2023-07-24T11:04:49.3615836+00:00",
       "NumProgressed": 288446,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-24T12:05:34.3197096+00:00",
+      "NumProgressed": 288450,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15673,7 +15678,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20191
+      "UsersEstimate": 20192
     },
     {
       "ID": "PFA_19",
@@ -15753,7 +15758,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "PFA_28",
@@ -15801,7 +15806,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "PFA_33",
@@ -15825,7 +15830,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20191
+      "UsersEstimate": 20192
     },
     {
       "ID": "PFA_36",
@@ -15849,7 +15854,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "PFA_39",
@@ -15865,7 +15870,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "PFA_40",
@@ -15905,7 +15910,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20191
+      "UsersEstimate": 20192
     },
     {
       "ID": "PFA_45",
@@ -15921,7 +15926,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "PFA_6",
@@ -15929,7 +15934,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31729
+      "UsersEstimate": 31730
     },
     {
       "ID": "PFA_7",
@@ -15953,14 +15958,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20191
+      "UsersEstimate": 20192
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288446,
+      "Progressed": 288450,
       "Completed": 434
     }
   ],
@@ -15968,8 +15973,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-24T05:58:23.2464092+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:04:49.3615831+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:05:34.3197085+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:58:16.0489669+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:04:49.3616889+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:58:21.9630476+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:05:34.3198319+00:00"
 }

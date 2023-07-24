@@ -118,8 +118,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Master of Strategy | 0.90% | ~2,097 |
 | Disposal | 0.80% | ~1,864 |
 | Blizzard | 0.80% | ~1,864 |
+| Need An Antidote? | 0.80% | ~1,864 |
 | No Swapsies | 0.80% | ~1,864 |
-| Need An Antidote? | 0.70% | ~1,631 |
 | Ignoring Midgame | 0.70% | ~1,631 |
 | A Hard Carry | 0.60% | ~1,398 |
 | Only The Best | 0.60% | ~1,398 |

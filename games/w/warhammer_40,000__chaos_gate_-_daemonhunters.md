@@ -55,10 +55,10 @@ Number of Ratings: 371  (23.09.2022)
 | Firing Squad | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
+| Dominus | 0.20% | ~6 |
 | Field Apothecarion | 0.20% | ~6 |
 | Phalanx | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
-| Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Mass Extinction | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |

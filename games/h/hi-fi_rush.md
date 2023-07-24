@@ -39,9 +39,9 @@ Rating: 4.87 (Ranked 24)
 | Call me Turbo Chai | 0.70% | ~14 |
 | Wanna hear my playlist? | 0.60% | ~21 |
 | Check out my moves! | 0.60% | ~21 |
+| I told you I'd be fine, Peppermint! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~10 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
-| I told you I'd be fine, Peppermint! | 0.40% | ~14 |
 | I think I found your calling, Macaron | 0.30% | ~11 |
 | This is a breeze! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |

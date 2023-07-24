@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -570,9 +570,9 @@
       "ID": "I_CAN_DO_A_THING_OR_TWO",
       "SetID": "2iigf77",
       "Name": "I can do a thing or two",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 309
     },
     {
       "ID": "LUCKY_DOG",
@@ -715,8 +715,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:02:41.5383993+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:03:17.3869631+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:25.5123158+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:00:03.7545994+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:02:41.5384299+00:00"
+  "LastUpdate_Ratings": "2023-07-24T12:00:23.7664146+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:03:17.3869944+00:00"
 }

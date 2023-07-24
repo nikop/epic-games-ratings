@@ -19,10 +19,10 @@
 | Alchemist | 15.00% | ~3 |
 | Miner | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
+| I Found It | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
 | Airborne | 5.00% | ~1 |
 | Big Bazar | 5.00% | ~1 |
-| I Found It | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |

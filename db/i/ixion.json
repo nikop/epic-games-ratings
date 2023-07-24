@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -4076,9 +4076,9 @@
       "ID": "ACH_BASE_40",
       "SetID": "92iocjf",
       "Name": "This is Fine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BASE_43",
@@ -4299,8 +4299,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:05:45.2763009+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:06:24.0190477+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:59:41.8203743+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:05:45.2763886+00:00"
+  "LastUpdate_Ratings": "2023-07-24T12:00:02.4180484+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:06:24.0191372+00:00"
 }

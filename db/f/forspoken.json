@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39206,
+  "EOS_Progressed": 39208,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5878,6 +5878,11 @@
       "Time": "2023-07-24T10:04:04.9613323+00:00",
       "NumProgressed": 39206,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T12:05:12.6291549+00:00",
+      "NumProgressed": 39208,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6041,7 +6046,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "CUFF_ATTACK",
@@ -6312,22 +6317,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39206,
+      "Progressed": 39208,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4043,
-      "Completed": 4043
+      "Progressed": 4045,
+      "Completed": 4045
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:04:29.3266543+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:05:12.6291541+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:59:40.9295432+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:04:29.3267382+00:00"
+  "LastUpdate_Ratings": "2023-07-24T12:00:01.0854673+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:05:12.6292355+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 44.00% | ~31 |
-| First Step | 41.00% | ~29 |
-| Indebted | 7.00% | ~5 |
+| The 4 Pillars | 45.00% | ~32 |
+| First Step | 44.00% | ~31 |
+| Indebted | 8.00% | ~6 |
 | Capitalism | 7.00% | ~5 |
+| Desert Rat | 6.00% | ~4 |
 | Health Care | 4.00% | ~3 |
-| Desert Rat | 4.00% | ~3 |
 | Green Energy | 4.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 3.00% | ~2 |
 | There's something in those trees | 3.00% | ~2 |

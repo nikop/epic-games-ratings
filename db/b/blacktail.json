@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-07-24T10:02:29.5578735+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T12:04:09.4539976+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1353,9 +1358,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 109
     },
     {
       "ID": "DevilDetail",
@@ -1363,7 +1368,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Devoted",
@@ -1435,7 +1440,7 @@
       "Name": "Gnowlledgeable",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "HexMaster",
@@ -1539,7 +1544,7 @@
       "Name": "Always worth a try",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ToothFairy",
@@ -1547,7 +1552,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Toxic",
@@ -1555,7 +1560,7 @@
       "Name": "Toxic",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Webbed",
@@ -1563,7 +1568,7 @@
       "Name": "Entangled",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "YagaHood",
@@ -1586,7 +1591,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 1
     }
   ],
@@ -1594,8 +1599,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:03:30.8978735+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:04:09.4539969+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:58:52.5483677+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:03:30.8979051+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:59:05.4663354+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:04:09.4540459+00:00"
 }

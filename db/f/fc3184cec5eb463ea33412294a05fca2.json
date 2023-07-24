@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.88,
+  "EOS_Completed_Percentage": 6.83,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-07-24T08:05:33.6425628+00:00",
       "NumProgressed": 160,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-07-24T12:06:40.8974409+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -630,9 +635,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -728,7 +733,7 @@
       "Name": "Private pool",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -759,14 +764,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:06:11.2160663+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:06:40.8974401+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:57:28.9646442+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:06:11.2160843+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:57:31.0798361+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:06:40.8974567+00:00"
 }

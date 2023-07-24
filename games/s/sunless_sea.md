@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,279 |
-| Sweet Sorrow | 18.00% | ~6,139 |
-| Rules the Waves | 17.00% | ~5,798 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,116 |
-| Rival | 14.00% | ~4,775 |
-| Correspondent | 12.00% | ~4,093 |
-| Lose Your Mind | 12.00% | ~4,093 |
-| Sound Mind? | 12.00% | ~4,093 |
+| Sink Beneath the Waves | 36.00% | ~12,281 |
+| Sweet Sorrow | 18.00% | ~6,140 |
+| Rules the Waves | 17.00% | ~5,799 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,117 |
+| Rival | 14.00% | ~4,776 |
+| Correspondent | 12.00% | ~4,094 |
+| Lose Your Mind | 12.00% | ~4,094 |
+| Sound Mind? | 12.00% | ~4,094 |
 | Salt's Curse | 11.00% | ~3,752 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,752 |
 | The Fall of the House | 11.00% | ~3,752 |
@@ -23,9 +23,9 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,388 |
 | Open Your Ears | 7.00% | ~2,388 |
 | The Ascent of Man | 7.00% | ~2,388 |
-| Zee Fever | 5.00% | ~1,705 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,364 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,364 |
+| Zee Fever | 5.00% | ~1,706 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,365 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,365 |
 | Storm's Curse | 3.00% | ~1,023 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,023 |
 | Come Closer | 3.00% | ~1,023 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,108 (Ranked 93)  
+Progressed: 34,113 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.01%) (Ranked 228)
 | 2023-07-21 | 33,923 | 3 |
 | 2023-07-22 | 33,995 | 3 |
 | 2023-07-23 | 34,080 | 3 |
-| 2023-07-24 | 34,108 | 3 |
+| 2023-07-24 | 34,113 | 3 |
 ## Awards
 Max (Character Customization): 212  (Ranked 265)  
 Sum: 282 (Ranked 338)  

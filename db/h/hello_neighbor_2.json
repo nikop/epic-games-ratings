@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2623,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-07-24T10:05:13.9391143+00:00",
       "NumProgressed": 2623,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-24T12:06:21.0161716+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2090,7 +2095,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2098,7 +2103,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2138,7 +2143,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2154,7 +2159,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -2194,14 +2199,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2623,
+      "Progressed": 2624,
       "Completed": 101
     }
   ],
@@ -2209,8 +2214,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-24T11:05:42.3833102+00:00",
+  "LastChanged_Achievements": "2023-07-24T12:06:21.0161708+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-24T11:02:11.2848113+00:00",
-  "LastUpdate_Achievements": "2023-07-24T11:05:42.383333+00:00"
+  "LastUpdate_Ratings": "2023-07-24T12:02:43.6345094+00:00",
+  "LastUpdate_Achievements": "2023-07-24T12:06:21.0161986+00:00"
 }
