@@ -1,19 +1,19 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.56 (Ranked 461)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,131 |
-| Pay 'n' Spray | 50.00% | ~5,636 |
-| All Dressed Up for San Fierro | 25.00% | ~2,818 |
-| The American Dream | 18.00% | ~2,029 |
-| School's Out | 18.00% | ~2,029 |
+| Getting Started | 81.00% | ~9,133 |
+| Pay 'n' Spray | 50.00% | ~5,638 |
+| All Dressed Up for San Fierro | 25.00% | ~2,819 |
+| The American Dream | 18.00% | ~2,030 |
+| School's Out | 18.00% | ~2,030 |
 | Smooth Moves | 16.00% | ~1,804 |
 | Today Was a Good Day | 15.00% | ~1,691 |
-| What happens in Las Venturas... | 14.00% | ~1,578 |
-| Horror of the Santa Maria | 10.00% | ~1,127 |
+| What happens in Las Venturas... | 14.00% | ~1,579 |
+| Horror of the Santa Maria | 10.00% | ~1,128 |
 | Liberty City State of Mind | 9.00% | ~1,015 |
 | Original Gangster | 8.00% | ~902 |
 | The End of the Line | 7.00% | ~789 |
@@ -23,14 +23,14 @@ Rating: 4.55 (Ranked 481)
 | Rescue a Kitten Too? | 4.00% | ~451 |
 | Bike or Biker | 3.00% | ~338 |
 | What are the Odds | 3.00% | ~338 |
-| A Legitimate Business | 2.00% | ~225 |
-| I’ll Have Two Number 9s | 2.00% | ~225 |
-| Who Needs Directions? | 2.00% | ~225 |
-| What the City Needs | 2.00% | ~225 |
-| Yes I Speak English | 2.00% | ~225 |
-| Double or Nothin' | 2.00% | ~225 |
-| Public Enemy No. 1 | 2.00% | ~225 |
-| Ain’t Nothing But a G Thing | 2.00% | ~225 |
+| A Legitimate Business | 2.00% | ~226 |
+| I’ll Have Two Number 9s | 2.00% | ~226 |
+| Who Needs Directions? | 2.00% | ~226 |
+| What the City Needs | 2.00% | ~226 |
+| Yes I Speak English | 2.00% | ~226 |
+| Double or Nothin' | 2.00% | ~226 |
+| Public Enemy No. 1 | 2.00% | ~226 |
+| Ain’t Nothing But a G Thing | 2.00% | ~226 |
 | Hoopin' it Up | 1.00% | ~113 |
 | Swiss Army Strife | 1.00% | ~113 |
 | Lucky Spinner | 1.00% | ~113 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 481)
 | ...Here we go again | 0.40% | ~45 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,273 (Ranked 117)  
+Progressed: 11,275 (Ranked 117)  
 Completed: 31 (0.27%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 31 (0.27%) (Ranked 155)
 | 2023-07-21 | 11,162 | 31 |
 | 2023-07-22 | 11,206 | 31 |
 | 2023-07-23 | 11,268 | 31 |
-| 2023-07-24 | 11,273 | 31 |
+| 2023-07-24 | 11,275 | 31 |
 ## Awards
 Max (Great Boss Battles): 228  (Ranked 253)  
 Sum: 228 (Ranked 350)  
@@ -228,3 +228,4 @@ Diff (max vs sum): -97
 | 2023-07-21 | 4.56 | 223 | 223 |
 | 2023-07-22 | 4.56 | 226 | 226 |
 | 2023-07-23 | 4.55 | 228 | 228 |
+| 2023-07-24 | 4.56 | 228 | 228 |

@@ -6,43 +6,43 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~103,973 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~78,259 |
-| A Clear Conscience | 69.00% | ~77,141 |
-| Unleash Hell | 68.00% | ~76,023 |
-| Unfulfilled Desires | 68.00% | ~76,023 |
-| Funny Guy | 67.00% | ~74,905 |
-| Unshackled | 67.00% | ~74,905 |
-| Long Live the King | 66.00% | ~73,787 |
-| Resurrection | 62.00% | ~69,315 |
-| Wyrdly Reconstructed | 62.00% | ~69,315 |
-| Boxcar Kid | 60.00% | ~67,079 |
-| To Grandmother's House | 60.00% | ~67,079 |
-| Rush Hour | 59.00% | ~65,961 |
-| Serenity Now! | 52.00% | ~58,135 |
-| Hope Rekindled | 50.00% | ~55,900 |
-| Ramble On | 48.00% | ~53,664 |
-| Nope | 47.00% | ~52,546 |
-| This Looks Familiar | 38.00% | ~42,484 |
-| Now Stay Dead | 36.00% | ~40,248 |
-| Harvest Festival | 36.00% | ~40,248 |
-| Hot Air | 36.00% | ~40,248 |
-| Merry Time | 35.00% | ~39,130 |
-| Creep and Sleep | 32.00% | ~35,776 |
-| Overdue Notice | 31.00% | ~34,658 |
-| Whale | 31.00% | ~34,658 |
-| Banishment | 30.00% | ~33,540 |
-| FNG | 28.00% | ~31,304 |
-| Reverse Banditry | 24.00% | ~26,832 |
-| Autodidact | 24.00% | ~26,832 |
-| Predator | 23.00% | ~25,714 |
-| Meat and Greet | 22.00% | ~24,596 |
-| Spelunker | 21.00% | ~23,478 |
-| Road Trip | 21.00% | ~23,478 |
-| Eyes Up | 20.00% | ~22,360 |
-| It Rings a Bell | 19.00% | ~21,242 |
-| Escape from the Black Hole | 17.00% | ~19,006 |
-| It Happens | 17.00% | ~19,006 |
+| A Place to Lay Your Head | 93.00% | ~103,977 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~78,262 |
+| A Clear Conscience | 69.00% | ~77,144 |
+| Unleash Hell | 68.00% | ~76,026 |
+| Unfulfilled Desires | 68.00% | ~76,026 |
+| Funny Guy | 67.00% | ~74,908 |
+| Unshackled | 67.00% | ~74,908 |
+| Long Live the King | 66.00% | ~73,790 |
+| Resurrection | 62.00% | ~69,318 |
+| Wyrdly Reconstructed | 62.00% | ~69,318 |
+| Boxcar Kid | 60.00% | ~67,082 |
+| To Grandmother's House | 60.00% | ~67,082 |
+| Rush Hour | 59.00% | ~65,964 |
+| Serenity Now! | 52.00% | ~58,138 |
+| Hope Rekindled | 50.00% | ~55,902 |
+| Ramble On | 48.00% | ~53,665 |
+| Nope | 47.00% | ~52,547 |
+| This Looks Familiar | 38.00% | ~42,485 |
+| Now Stay Dead | 36.00% | ~40,249 |
+| Harvest Festival | 36.00% | ~40,249 |
+| Hot Air | 36.00% | ~40,249 |
+| Merry Time | 35.00% | ~39,131 |
+| Creep and Sleep | 32.00% | ~35,777 |
+| Overdue Notice | 31.00% | ~34,659 |
+| Whale | 31.00% | ~34,659 |
+| Banishment | 30.00% | ~33,541 |
+| FNG | 28.00% | ~31,305 |
+| Reverse Banditry | 24.00% | ~26,833 |
+| Autodidact | 24.00% | ~26,833 |
+| Predator | 23.00% | ~25,715 |
+| Meat and Greet | 22.00% | ~24,597 |
+| Spelunker | 21.00% | ~23,479 |
+| Road Trip | 21.00% | ~23,479 |
+| Eyes Up | 20.00% | ~22,361 |
+| It Rings a Bell | 19.00% | ~21,243 |
+| Escape from the Black Hole | 17.00% | ~19,007 |
+| It Happens | 17.00% | ~19,007 |
 | This Belongs in a Museum | 15.00% | ~16,770 |
 | Dissector | 15.00% | ~16,770 |
 | Handled | 15.00% | ~16,770 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~112 |
 | 20,000 Leagues Above the Sea | 0.10% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,799 (Ranked 66)  
+Progressed: 111,803 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,14 +157,14 @@ Completed: 1 (0.00%) (Ranked 240)
 | 2023-07-21 | 111,412 | 1 |
 | 2023-07-22 | 111,600 | 1 |
 | 2023-07-23 | 111,775 | 1 |
-| 2023-07-24 | 111,799 | 1 |
+| 2023-07-24 | 111,803 | 1 |
 ## Awards
-Max (Character Customization): 7,295  (Ranked 47)  
-Sum: 18,880 (Ranked 56)  
+Max (Character Customization): 7,298  (Ranked 47)  
+Sum: 18,883 (Ranked 56)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,295 |
+| This game has Inclusive Character Customization | 7,298 |
 | This game has Diverse Characters | 1,485 |
 | This game has Challenging Combat | 1,427 |
 | This game is Highly Recommended | 1,391 |
@@ -358,3 +358,4 @@ Diff (max vs sum): -9
 | 2023-07-21 | 4.68 | - | 7,293 | 18,869 |
 | 2023-07-22 | 4.68 | - | 7,295 | 18,876 |
 | 2023-07-23 | 4.68 | - | 7,295 | 18,880 |
+| 2023-07-24 | 4.68 | - | 7,298 | 18,883 |

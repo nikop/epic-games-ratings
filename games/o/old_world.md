@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~26 |
 | Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
+| Learn to Play 2 | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
-| Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
 | Learn to Play 5 | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,059 (Ranked 115)  
+Progressed: 13,060 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,059 | 5 |
+| 2023-07-24 | 13,060 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

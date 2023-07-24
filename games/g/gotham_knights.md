@@ -23,19 +23,19 @@ Rating: 4.18 (Ranked 858)
 | Lock and Key | 3.00% | ~2,020 |
 | Bad Apples in Every Orchard | 3.00% | ~2,020 |
 | From Inside Gotham's Walls | 3.00% | ~2,020 |
-| End of an Era | 2.00% | ~1,346 |
-| In Your Element | 2.00% | ~1,346 |
-| Rock and a Hard Place | 2.00% | ~1,346 |
-| Not On My Watch | 2.00% | ~1,346 |
-| Bulldozed | 2.00% | ~1,346 |
-| Shock Til They Drop | 2.00% | ~1,346 |
-| Drone You Out | 2.00% | ~1,346 |
-| Cooldown | 2.00% | ~1,346 |
-| Universal Health Scare | 2.00% | ~1,346 |
-| Voiceless | 2.00% | ~1,346 |
-| Seeking Asylum | 2.00% | ~1,346 |
-| Gotham Knight | 2.00% | ~1,346 |
-| Gotham City Confidential | 2.00% | ~1,346 |
+| End of an Era | 2.00% | ~1,347 |
+| In Your Element | 2.00% | ~1,347 |
+| Rock and a Hard Place | 2.00% | ~1,347 |
+| Not On My Watch | 2.00% | ~1,347 |
+| Bulldozed | 2.00% | ~1,347 |
+| Shock Til They Drop | 2.00% | ~1,347 |
+| Drone You Out | 2.00% | ~1,347 |
+| Cooldown | 2.00% | ~1,347 |
+| Universal Health Scare | 2.00% | ~1,347 |
+| Voiceless | 2.00% | ~1,347 |
+| Seeking Asylum | 2.00% | ~1,347 |
+| Gotham Knight | 2.00% | ~1,347 |
+| Gotham City Confidential | 2.00% | ~1,347 |
 | Fusion Expert | 1.00% | ~673 |
 | Out of Their League | 1.00% | ~673 |
 | Family Meeting | 1.00% | ~673 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,325 (Ranked 77)  
+Progressed: 67,327 (Ranked 77)  
 Completed: 104 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 104 (0.15%) (Ranked 175)
 | 2023-07-21 | 67,259 | 104 |
 | 2023-07-22 | 67,285 | 104 |
 | 2023-07-23 | 67,318 | 104 |
-| 2023-07-24 | 67,325 | 104 |
+| 2023-07-24 | 67,327 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,457  (Ranked 101)  
 Sum: 4,085 (Ranked 138)  

@@ -4,8 +4,8 @@
   "ProductSlug": "expeditions-viking",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-12T20:30:00+00:00",
     "PcReleaseDate": "2017-04-27T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.7031259+00:00",
   "LastChanged": "2023-03-31T05:58:28.703126+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:08.7285023+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:58:29.2988956+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:06:34.6124408+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:58:15.6490712+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:06:18.2857644+00:00"
 }

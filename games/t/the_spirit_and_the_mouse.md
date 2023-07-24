@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 89.00% | ~66 |
-| Lightbulb Seeker | 86.00% | ~64 |
-| Grilled Mouse | 84.00% | ~62 |
-| Lightbulbs Collector | 76.00% | ~56 |
+| Energy Seeker | 91.00% | ~67 |
+| Lightbulb Seeker | 88.00% | ~65 |
+| Grilled Mouse | 85.00% | ~63 |
+| Lightbulbs Collector | 77.00% | ~57 |
 | Energy Collector | 73.00% | ~54 |
 | East Street Energy | 51.00% | ~38 |
 | Energy Expert | 43.00% | ~32 |

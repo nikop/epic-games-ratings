@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -5979,9 +5979,9 @@
       "ID": "HUNT_DEER_5",
       "SetID": "5349c2e",
       "Name": "Oh Deer!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 911
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -6163,8 +6163,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-20T20:01:14.5225521+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:02:37.7839726+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:01:57.1927074+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.876024+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:01:42.3956206+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:02:37.7840849+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:01:09.0537961+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:01:57.1928161+00:00"
 }

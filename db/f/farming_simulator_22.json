@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6985,10 +6985,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 38337,
       "NumberOfAwardsMax": 4575
+    },
+    {
+      "Time": "2023-07-24T04:00:51.0739331+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 38339,
+      "NumberOfAwardsMax": 4575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38337,
+  "NumberOfAwards": 38339,
   "NumberOfAwardsMax": 4575,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7044,7 +7050,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3340
+      "Count": 3342
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7065,9 +7071,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45979,
+  "EOS_Progressed": 45980,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15335,6 +15341,11 @@
       "Time": "2023-07-24T03:04:31.9404013+00:00",
       "NumProgressed": 45979,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T04:04:10.2340236+00:00",
+      "NumProgressed": 45980,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -15442,7 +15453,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28047
+      "UsersEstimate": 28048
     },
     {
       "ID": "DeliveryGrapes",
@@ -15482,7 +15493,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27587
+      "UsersEstimate": 27588
     },
     {
       "ID": "Harvested",
@@ -15498,7 +15509,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34484
+      "UsersEstimate": 34485
     },
     {
       "ID": "HorseJumps",
@@ -15642,7 +15653,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5517
+      "UsersEstimate": 5518
     },
     {
       "ID": "TractorDriving",
@@ -15689,15 +15700,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45979,
+      "Progressed": 45980,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-07-23T21:00:05.3383847+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:04:31.9404008+00:00",
+  "LastChanged": "2023-07-24T04:00:51.0739328+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:04:10.2340227+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.331029+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:01:21.4892306+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:04:31.940504+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:00:51.0739337+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:04:10.2341803+00:00"
 }

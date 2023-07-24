@@ -6,11 +6,11 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,484 |
+| Own use | 75.00% | ~34,485 |
 | I read Shakespeare and stuff | 64.00% | ~29,427 |
 | Just a sprinkle | 63.00% | ~28,967 |
-| I'm stumped | 61.00% | ~28,047 |
-| Plant get enough | 60.00% | ~27,587 |
+| I'm stumped | 61.00% | ~28,048 |
+| Plant get enough | 60.00% | ~27,588 |
 | This is just my weekend vehicle | 58.00% | ~26,668 |
 | It's just the beginning | 58.00% | ~26,668 |
 | Hard work pays off | 53.00% | ~24,369 |
@@ -30,7 +30,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 15.00% | ~6,897 |
 | That's a wrap | 14.00% | ~6,437 |
 | Fix me up | 13.00% | ~5,977 |
-| Rock on | 12.00% | ~5,517 |
+| Rock on | 12.00% | ~5,518 |
 | It's sow easy | 11.00% | ~5,058 |
 | Highly cultivated | 10.00% | ~4,598 |
 | Giddy-up! | 10.00% | ~4,598 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,979 (Ranked 88)  
+Progressed: 45,980 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 5 (0.01%) (Ranked 228)
 | 2023-07-21 | 45,828 | 5 |
 | 2023-07-22 | 45,895 | 5 |
 | 2023-07-23 | 45,971 | 5 |
-| 2023-07-24 | 45,979 | 5 |
+| 2023-07-24 | 45,980 | 5 |
 ## Awards
 Max (Great for Beginners): 4,575  (Ranked 70)  
-Sum: 38,337 (Ranked 31)  
+Sum: 38,339 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 3,835 |
 | This game is Highly Recommended | 3,832 |
 | This game has Amazing Storytelling | 3,727 |
-| This game has Amazing Characters | 3,340 |
+| This game has Amazing Characters | 3,342 |
 | This game has a Creative Community | 3,183 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -355,3 +355,4 @@ Diff (max vs sum): 39
 | 2023-07-21 | 4.69 | - | 4,562 | 38,271 |
 | 2023-07-22 | 4.69 | - | 4,568 | 38,311 |
 | 2023-07-23 | 4.69 | - | 4,575 | 38,337 |
+| 2023-07-24 | 4.69 | - | 4,575 | 38,339 |

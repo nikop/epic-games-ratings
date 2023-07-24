@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~185,331 |
+| Boarded! | 94.00% | ~185,332 |
 | Snooper. | 10.00% | ~19,716 |
 | You have to start somewhere, right? | 7.00% | ~13,801 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,830 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 765)
 | Snooper + | 0.40% | ~789 |
 | Corrupted + | 0.30% | ~591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,161 (Ranked 55)  
+Progressed: 197,162 (Ranked 55)  
 Completed: 469 (0.24%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 469 (0.24%) (Ranked 160)
 | 2023-07-21 | 196,960 | 468 |
 | 2023-07-22 | 197,054 | 469 |
 | 2023-07-23 | 197,149 | 469 |
-| 2023-07-24 | 197,161 | 469 |
+| 2023-07-24 | 197,162 | 469 |
 ## Awards
 Max (Challenging Puzzles): 558  (Ranked 184)  
 Sum: 672 (Ranked 275)  

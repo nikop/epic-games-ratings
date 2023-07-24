@@ -4,8 +4,8 @@
   "ProductSlug": "the-last-photon-4bc2e9",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-24T17:00:00+00:00",
     "PcReleaseDate": "2023-03-24T17:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T19:04:06.0039213+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:06:10.884831+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:05:47.2062374+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:11.0876641+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:59:54.7108242+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:06:10.8848342+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:59:31.9316183+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:05:47.2062403+00:00"
 }

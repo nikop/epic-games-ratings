@@ -2,10 +2,10 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-07-24T02:08:15.3261392+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T04:05:47.7325016+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1007,9 +1012,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_first_first_blood",
@@ -1025,7 +1030,7 @@
       "Name": "Seeds of War",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1033,7 +1038,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1257,7 +1262,7 @@
       "Name": "No Asperascope",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1273,7 +1278,7 @@
       "Name": "10K",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_tripleKill",
@@ -1313,7 +1318,7 @@
       "Name": "Cornivore",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_all_koth_points",
@@ -1353,7 +1358,7 @@
       "Name": "Quick-Draw Pod",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1473,7 +1478,7 @@
       "Name": "Aspairagus",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1529,7 +1534,7 @@
       "Name": "Summers Here",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -1560,13 +1565,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 2
     }
   ],
@@ -1574,8 +1579,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:06:11.3412869+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:05:47.7324992+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.2452494+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:59:31.4939438+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:06:11.3413688+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:59:14.437729+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:05:47.7326491+00:00"
 }

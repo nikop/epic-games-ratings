@@ -4,11 +4,11 @@
   "ProductSlug": "killing-floor-2",
   "Ranking_Rating": 663,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6844,10 +6844,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 27407,
       "NumberOfAwardsMax": 12482
+    },
+    {
+      "Time": "2023-07-24T04:01:46.0874708+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 27411,
+      "NumberOfAwardsMax": 12482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27407,
+  "NumberOfAwards": 27411,
   "NumberOfAwardsMax": 12482,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6861,7 +6867,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1718
+      "Count": 1720
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6903,7 +6909,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1603
+      "Count": 1605
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6923,8 +6929,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-07-23T22:00:38.4574771+00:00",
+  "LastChanged": "2023-07-24T04:01:46.0874704+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.7863273+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:02:25.7555815+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:02:59.430509+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:01:46.0874713+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:02:18.0166303+00:00"
 }

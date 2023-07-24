@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 921)  
+Rating: 3.99 (Ranked 920)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,129 (Ranked 61)  
+Progressed: 133,131 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-21 | 132,985 | 122 |
 | 2023-07-22 | 133,052 | 122 |
 | 2023-07-23 | 133,125 | 122 |
-| 2023-07-24 | 133,129 | 122 |
+| 2023-07-24 | 133,131 | 122 |
 ## Awards
 Max (Great for Beginners): 4,670  (Ranked 69)  
 Sum: 26,966 (Ranked 46)  

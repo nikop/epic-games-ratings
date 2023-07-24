@@ -4,8 +4,8 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_4",
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:08:10.8277103+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:07:41.1505473+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:47.0033765+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:00:39.6877269+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:08:10.8277266+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:00:11.6494293+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:07:41.1505715+00:00"
 }

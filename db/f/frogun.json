@@ -4,8 +4,8 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -132,6 +132,11 @@
       "Time": "2023-07-22T03:07:11.4289024+00:00",
       "NumProgressed": 211,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T04:07:11.021183+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -141,9 +146,9 @@
       "ID": "Achievement_AllCoins",
       "SetID": "cn6a29l",
       "Name": "Coin collector",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -159,7 +164,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Achievement_Hexy",
@@ -183,7 +188,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Achievement_Notes",
@@ -191,7 +196,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Achievement_Prickly",
@@ -207,7 +212,7 @@
       "Name": "On foot racer",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement_RaceAll",
@@ -247,7 +252,7 @@
       "Name": "Snow digger",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement_arena",
@@ -295,7 +300,7 @@
       "Name": "Floater",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Achievement_hat",
@@ -319,7 +324,7 @@
       "Name": "Pragmatic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_hubworld",
@@ -349,9 +354,9 @@
       "ID": "Achievement_perfectionist",
       "SetID": "cn6a29l",
       "Name": "Perfectionist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_photofirstperson",
@@ -390,7 +395,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 4
     }
   ],
@@ -398,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:07:37.2260717+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:07:11.0211823+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.5317903+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:01:39.6406065+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:07:37.2260988+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:01:06.8768003+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:07:11.0212223+00:00"
 }

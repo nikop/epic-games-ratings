@@ -7,9 +7,9 @@
 | Self-Defence | 85.00% | ~22 |
 | Tinkerer | 50.00% | ~13 |
 | Welcome to the Club | 27.00% | ~7 |
-| Don't Cry Wolf | 19.00% | ~5 |
+| Don't Cry Wolf | 23.00% | ~6 |
+| A new World ahead | 19.00% | ~5 |
 | Can't touch this | 19.00% | ~5 |
-| A new World ahead | 15.00% | ~4 |
 | Apprentice | 15.00% | ~4 |
 | Freezing Cold | 12.00% | ~3 |
 | Bringing guns to a sword fight | 8.00% | ~2 |

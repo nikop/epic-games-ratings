@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5308,10 +5308,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39781,
       "NumberOfAwardsMax": 21217
+    },
+    {
+      "Time": "2023-07-24T03:58:06.8663831+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39782,
+      "NumberOfAwardsMax": 21217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39781,
+  "NumberOfAwards": 39782,
   "NumberOfAwardsMax": 21217,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5337,7 +5343,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 869
+      "Count": 870
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5388,7 +5394,7 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288430,
+  "EOS_Progressed": 288433,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 5,
@@ -15538,6 +15544,11 @@
       "Time": "2023-07-24T03:05:07.2255777+00:00",
       "NumProgressed": 288430,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-24T04:04:41.1085429+00:00",
+      "NumProgressed": 288433,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15557,7 +15568,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23074
+      "UsersEstimate": 23075
     },
     {
       "ID": "PFA_11",
@@ -15581,7 +15592,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23074
+      "UsersEstimate": 23075
     },
     {
       "ID": "PFA_14",
@@ -15653,7 +15664,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23074
+      "UsersEstimate": 23075
     },
     {
       "ID": "PFA_22",
@@ -15877,7 +15888,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31727
+      "UsersEstimate": 31728
     },
     {
       "ID": "PFA_7",
@@ -15908,16 +15919,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288430,
+      "Progressed": 288433,
       "Completed": 434
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-23T23:58:02.3081341+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:05:07.2255768+00:00",
+  "LastChanged": "2023-07-24T03:58:06.8663827+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:04:41.108542+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:58:19.8966789+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:05:07.2256757+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:58:06.8663839+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:04:41.1087285+00:00"
 }

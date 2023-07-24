@@ -5,8 +5,8 @@ Rating: 4.28 (Ranked 789)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,233 |
-| A Good Day To Die | 16.00% | ~4,986 |
+| Man 'O War | 20.00% | ~6,234 |
+| A Good Day To Die | 16.00% | ~4,987 |
 | Right Back Atcha | 6.00% | ~1,870 |
 | Killed by Death | 5.00% | ~1,558 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,558 |
@@ -28,14 +28,14 @@ Rating: 4.28 (Ranked 789)
 | Oh God, Mother! Blood! Blood! | 0.40% | ~125 |
 | Ice To See You | 0.40% | ~125 |
 | Smack My Imp Up | 0.40% | ~125 |
-| Vroll With It | 0.30% | ~93 |
-| Swift of Foot, Keen of Blade | 0.30% | ~93 |
+| Vroll With It | 0.30% | ~94 |
+| Swift of Foot, Keen of Blade | 0.30% | ~94 |
 | Flame Retardant | 0.20% | ~62 |
 | Death or Glory | 0.20% | ~62 |
 | Too Metal For Magic | 0.10% | ~31 |
 | Heart Of Steel | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,164 (Ranked 96)  
+Progressed: 31,169 (Ranked 96)  
 Completed: 20 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 20 (0.06%) (Ranked 199)
 | 2023-07-21 | 30,885 | 20 |
 | 2023-07-22 | 31,023 | 20 |
 | 2023-07-23 | 31,148 | 20 |
-| 2023-07-24 | 31,164 | 20 |
+| 2023-07-24 | 31,169 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 308)  
 Sum: 125 (Ranked 399)  

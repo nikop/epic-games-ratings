@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 238703,
+  "EOS_Progressed": 238705,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10613,6 +10613,11 @@
       "Time": "2023-07-24T03:02:42.3406041+00:00",
       "NumProgressed": 238703,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-24T04:02:01.7351487+00:00",
+      "NumProgressed": 238705,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10664,7 +10669,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26257
+      "UsersEstimate": 26258
     },
     {
       "ID": "ACH_ENJOY",
@@ -10688,7 +10693,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28644
+      "UsersEstimate": 28645
     },
     {
       "ID": "ACH_HATTRICK",
@@ -11039,7 +11044,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238703,
+      "Progressed": 238705,
       "Completed": 7
     }
   ],
@@ -11047,8 +11052,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:02:42.3406029+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:02:01.735148+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:59:04.7845602+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:02:42.3407363+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:58:47.8006038+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:02:01.7352798+00:00"
 }

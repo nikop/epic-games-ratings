@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1874,
+  "EOS_Progressed": 1875,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1723,6 +1723,11 @@
       "Time": "2023-07-24T02:04:05.3353908+00:00",
       "NumProgressed": 1874,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-24T04:02:07.7751153+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1742,7 +1747,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACHV_03",
@@ -1750,7 +1755,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHV_04",
@@ -1766,7 +1771,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHV_06",
@@ -1788,9 +1793,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHV_09",
@@ -1830,7 +1835,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_14",
@@ -1894,7 +1899,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHV_22",
@@ -1934,7 +1939,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "ACHV_27",
@@ -1950,7 +1955,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHV_29",
@@ -1958,7 +1963,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHV_30",
@@ -2038,7 +2043,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACHV_40",
@@ -2046,7 +2051,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_41",
@@ -2118,7 +2123,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_50",
@@ -2150,7 +2155,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_54",
@@ -2182,14 +2187,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1874,
+      "Progressed": 1875,
       "Completed": 10
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:02:48.6109534+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:02:07.7751145+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:57:14.2427195+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:02:48.6110479+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:57:05.6955021+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:02:07.7755341+00:00"
 }

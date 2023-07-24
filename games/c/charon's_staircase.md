@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The secret passage | 58.00% | ~45 |
 | Seth's office | 56.00% | ~43 |
-| Across the lake | 51.00% | ~39 |
+| Across the lake | 52.00% | ~40 |
 | First document retrieved | 49.00% | ~38 |
 | There is something strange here... | 49.00% | ~38 |
 | Curious by nature | 43.00% | ~33 |

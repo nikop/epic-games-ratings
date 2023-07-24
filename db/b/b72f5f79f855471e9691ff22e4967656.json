@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "killPlant5",
       "SetID": "ci65fo0",
       "Name": "Nature\u0027s enemy",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "killSWBoss",
@@ -443,9 +443,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "locBanditBoss",
@@ -619,9 +619,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "questEnemyTask",
@@ -643,9 +643,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questKillGoblinMage",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:04:21.1489782+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:03:51.0520585+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:57:33.4148909+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:04:21.1491577+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:57:25.9422809+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:03:51.0522024+00:00"
 }

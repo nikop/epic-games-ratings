@@ -27,11 +27,11 @@
 | Furious Scorpion Killer | 34.00% | ~22 |
 | Lethal Blade Mantis Killer | 32.00% | ~21 |
 | Squeaky Clean | 32.00% | ~21 |
-| Kind Adventurer | 31.00% | ~20 |
+| Kind Adventurer | 32.00% | ~21 |
 | Master Artificer | 31.00% | ~20 |
-| Mermaid Killer | 28.00% | ~18 |
+| Mermaid Killer | 29.00% | ~19 |
+| Cave Master | 26.00% | ~17 |
 | Face Slapper | 26.00% | ~17 |
-| Cave Master | 25.00% | ~16 |
 | Master Cook | 18.00% | ~12 |
 | Berserker Slayer | 15.00% | ~10 |
 | Warden Slayer | 15.00% | ~10 |

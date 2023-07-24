@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1055,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1145,6 +1145,11 @@
       "Time": "2023-07-23T21:02:04.5077563+00:00",
       "NumProgressed": 1055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T04:03:06.8903757+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1172,7 +1177,7 @@
       "Name": "Life or Death",
       "Percentage": 0.9,
       "XP": 150,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "04",
@@ -1188,7 +1193,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "06",
@@ -1196,7 +1201,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "07",
@@ -1204,7 +1209,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "08",
@@ -1236,7 +1241,7 @@
       "Name": "Someone to Protect",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "12",
@@ -1284,7 +1289,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "18",
@@ -1332,14 +1337,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1055,
+      "Progressed": 1056,
       "Completed": 0
     }
   ],
@@ -1347,8 +1352,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:03:20.5018277+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:03:06.8903746+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.8588633+00:00",
-  "LastUpdate_Ratings": "2023-07-24T03:01:23.3176296+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:03:20.501852+00:00"
+  "LastUpdate_Ratings": "2023-07-24T04:00:52.084935+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:03:06.8904188+00:00"
 }

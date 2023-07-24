@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1634,9 +1634,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 52491,
+  "EOS_Progressed": 52493,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11709,6 +11709,11 @@
       "Time": "2023-07-24T03:05:11.9106281+00:00",
       "NumProgressed": 52491,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T04:04:45.0325085+00:00",
+      "NumProgressed": 52493,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -11720,7 +11725,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 28870
+      "UsersEstimate": 28871
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -11976,7 +11981,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16797
+      "UsersEstimate": 16798
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -11984,7 +11989,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 20996
+      "UsersEstimate": 20997
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -12008,7 +12013,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 33069
+      "UsersEstimate": 33071
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -12056,7 +12061,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3674
+      "UsersEstimate": 3675
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -12088,7 +12093,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 40418
+      "UsersEstimate": 40420
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -12104,7 +12109,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3674
+      "UsersEstimate": 3675
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -12191,15 +12196,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 52491,
+      "Progressed": 52493,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-23T13:58:40.9089265+00:00",
-  "LastChanged_Achievements": "2023-07-24T03:05:11.9106276+00:00",
+  "LastChanged_Achievements": "2023-07-24T04:04:45.032508+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.429657+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:59:42.6439628+00:00",
-  "LastUpdate_Achievements": "2023-07-24T03:05:11.9107413+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:59:22.4443518+00:00",
+  "LastUpdate_Achievements": "2023-07-24T04:04:45.0326366+00:00"
 }
