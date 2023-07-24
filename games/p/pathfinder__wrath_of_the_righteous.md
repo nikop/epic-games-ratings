@@ -6,25 +6,25 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,213 |
+| Devoured by Darkness | 21.00% | ~2,214 |
 | A Spark | 15.00% | ~1,581 |
-| Burning City | 14.00% | ~1,475 |
-| Mythic Choices | 12.00% | ~1,264 |
-| Defender's Heart | 12.00% | ~1,264 |
-| Banner over the Citadel | 11.00% | ~1,159 |
+| Burning City | 14.00% | ~1,476 |
+| Mythic Choices | 12.00% | ~1,265 |
+| Defender's Heart | 12.00% | ~1,265 |
+| Banner over the Citadel | 11.00% | ~1,160 |
 | Queen's Gratitude | 10.00% | ~1,054 |
 | Fifth Crusade | 7.00% | ~738 |
 | Embrace of the Abyss | 5.00% | ~527 |
 | Path of the Angel | 5.00% | ~527 |
 | Demonic and Divine | 5.00% | ~527 |
-| Path of the Azata | 4.00% | ~421 |
-| Transformation | 4.00% | ~421 |
-| The Legacy | 4.00% | ~421 |
-| Great Upstart | 4.00% | ~421 |
-| Voice from Your Dreams | 4.00% | ~421 |
-| All Paths Open | 4.00% | ~421 |
-| Next-Door Play | 4.00% | ~421 |
-| Get the Toad | 4.00% | ~421 |
+| Path of the Azata | 4.00% | ~422 |
+| Transformation | 4.00% | ~422 |
+| The Legacy | 4.00% | ~422 |
+| Great Upstart | 4.00% | ~422 |
+| Voice from Your Dreams | 4.00% | ~422 |
+| All Paths Open | 4.00% | ~422 |
+| Next-Door Play | 4.00% | ~422 |
+| Get the Toad | 4.00% | ~422 |
 | Heart of the Fallen Land | 3.00% | ~316 |
 | Divide and Rule | 3.00% | ~316 |
 | Mythic Reinforcements | 3.00% | ~316 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,537 (Ranked 118)  
+Progressed: 10,542 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 10,460 | 0 |
 | 2023-07-22 | 10,494 | 0 |
 | 2023-07-23 | 10,524 | 0 |
-| 2023-07-24 | 10,537 | 0 |
+| 2023-07-24 | 10,542 | 0 |
 ## Awards
 Max (Character Customization): 1,689  (Ranked 117)  
 Sum: 6,834 (Ranked 115)  

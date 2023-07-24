@@ -5,10 +5,10 @@
   "Ranking_Rating": 574,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
-  "Ranking_EOS_Progress": 99,
+  "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1524,7 +1524,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24427,
+  "EOS_Progressed": 24428,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
@@ -8549,6 +8549,11 @@
       "Time": "2023-07-24T18:04:08.1781752+00:00",
       "NumProgressed": 24427,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-24T19:04:06.3107253+00:00",
+      "NumProgressed": 24428,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8568,7 +8573,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "Back_Off",
@@ -8576,7 +8581,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8549
+      "UsersEstimate": 8550
     },
     {
       "ID": "Best_Insurance",
@@ -8632,7 +8637,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "Diabolical",
@@ -8648,7 +8653,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14900
+      "UsersEstimate": 14901
     },
     {
       "ID": "Dont_Need_These",
@@ -8672,7 +8677,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15633
+      "UsersEstimate": 15634
     },
     {
       "ID": "Escape_Artist",
@@ -8688,7 +8693,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "Fully_Upgraded",
@@ -8832,7 +8837,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "Skilled",
@@ -8840,7 +8845,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "Solo_Capture",
@@ -8864,7 +8869,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21007
+      "UsersEstimate": 21008
     },
     {
       "ID": "Summoner",
@@ -8880,7 +8885,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "Swift_Removers",
@@ -8967,7 +8972,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24427,
+      "Progressed": 24428,
       "Completed": 48
     }
   ],
@@ -8975,8 +8980,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-23T23:00:31.6584892+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:04:08.1781748+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:04:06.3107246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:59:57.4247094+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:04:08.1782391+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:00:15.8059838+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:04:06.3108086+00:00"
 }

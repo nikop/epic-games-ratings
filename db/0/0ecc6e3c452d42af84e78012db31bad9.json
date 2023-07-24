@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1636,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2506,6 +2506,11 @@
       "Time": "2023-07-24T18:05:10.3878075+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-24T19:05:23.5460984+00:00",
+      "NumProgressed": 1636,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -2555,9 +2560,9 @@
       "ID": "ach_architecture_completed",
       "SetID": "3h4khpo",
       "Name": "Architecture - completed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -2565,7 +2570,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ach_bomb",
@@ -2581,7 +2586,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ach_first_picture",
@@ -2589,7 +2594,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ach_food_completed",
@@ -2605,7 +2610,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ach_game_opened",
@@ -2621,7 +2626,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ach_no_boosters",
@@ -2644,14 +2649,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1636,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:05:10.387807+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:05:23.5460979+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.4941332+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:57:26.8488124+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:05:10.3878277+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:57:32.3794916+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:05:23.5461228+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.52 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,430 |
-| Become King | 72.00% | ~1,287 |
+| Complete Guard Faction | 80.00% | ~1,431 |
+| Become King | 72.00% | ~1,288 |
 | Ranged Weapon | 61.00% | ~1,091 |
 | Defeat 25 Frogs | 61.00% | ~1,091 |
-| Collect Monster Parts | 58.00% | ~1,037 |
-| Two Handed Weapon | 56.00% | ~1,001 |
+| Collect Monster Parts | 58.00% | ~1,038 |
+| Two Handed Weapon | 56.00% | ~1,002 |
 | Defeat 25 Grubs | 52.00% | ~930 |
-| Rescue Redgi's Brothers | 52.00% | ~930 |
-| Collect Iron Ore | 47.00% | ~840 |
-| Kitchen Ready To Cook | 47.00% | ~840 |
-| Defeat 25 Mozis | 46.00% | ~822 |
+| Rescue Redgi's Brothers | 51.00% | ~912 |
+| Collect Iron Ore | 47.00% | ~841 |
+| Kitchen Ready To Cook | 47.00% | ~841 |
+| Defeat 25 Mozis | 46.00% | ~823 |
 | Collect Gold | 45.00% | ~805 |
 | Smithy Ready to Craft | 45.00% | ~805 |
 | Fix the Travellers Wagon | 43.00% | ~769 |
-| Complete Elder Faction | 40.00% | ~715 |
+| Complete Elder Faction | 40.00% | ~716 |
 | End of the Mozis | 37.00% | ~662 |
 | Throne Room Fit For A King | 37.00% | ~662 |
 | Meet the Creatures from the Deep | 35.00% | ~626 |
@@ -28,7 +28,7 @@ Rating: 4.52 (Ranked 520)
 | Return the Statues | 26.00% | ~465 |
 | Defeat Rattus Augustail | 26.00% | ~465 |
 | Complete the Chefs Book | 24.00% | ~429 |
-| Complete Ranger Faction | 21.00% | ~375 |
+| Complete Ranger Faction | 21.00% | ~376 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~358 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~340 |
 | Complete Arena Faction | 16.00% | ~286 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 520)
 | King of Kings | 7.00% | ~125 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,788 (Ranked 167)  
+Progressed: 1,789 (Ranked 167)  
 Completed: 8 (0.45%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 8 (0.45%) (Ranked 134)
 | 2023-07-21 | 1,769 | 8 |
 | 2023-07-22 | 1,779 | 8 |
 | 2023-07-23 | 1,785 | 8 |
-| 2023-07-24 | 1,788 | 8 |
+| 2023-07-24 | 1,789 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

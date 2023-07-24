@@ -6,12 +6,12 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~273 |
+| Getting started | 76.00% | ~277 |
 | Close call! | 73.00% | ~266 |
 | Builder | 53.00% | ~193 |
 | Pangs of conscience | 48.00% | ~175 |
-| Living it large! | 43.00% | ~157 |
-| Collector | 40.00% | ~146 |
+| Living it large! | 44.00% | ~160 |
+| Collector | 41.00% | ~149 |
 | Need to think | 39.00% | ~142 |
 | Completely nuts! | 37.00% | ~135 |
 | Just in time! | 33.00% | ~120 |

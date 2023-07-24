@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5254,10 +5254,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215136,
+  "EOS_Progressed": 215168,
   "EOS_Completed": 2060,
-  "EOS_NewPlayers": 2353,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 2363,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
@@ -15444,6 +15444,11 @@
       "Time": "2023-07-24T18:07:16.9605693+00:00",
       "NumProgressed": 215136,
       "NumCompleted": 2060
+    },
+    {
+      "Time": "2023-07-24T19:07:32.1832334+00:00",
+      "NumProgressed": 215168,
+      "NumCompleted": 2060
     }
   ],
   "TotalAchievements": 512,
@@ -18645,9 +18650,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_77",
@@ -19550,21 +19555,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181410,
+      "Progressed": 181442,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215136,
+      "Progressed": 215168,
       "Completed": 2060
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-24T16:59:50.0006609+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:07:16.9605688+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:07:32.1832328+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:58:50.7968426+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:07:16.9628562+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:59:05.8605782+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:07:32.1863012+00:00"
 }

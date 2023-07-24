@@ -8,9 +8,9 @@ Rating: 4.25 (Ranked 810)
 | Out of Shape | 4.00% | ~2,591 |
 | Bonfire Lit | 3.00% | ~1,943 |
 | Survival Expert | 3.00% | ~1,943 |
-| Denial | 2.00% | ~1,295 |
-| Acceptance | 2.00% | ~1,295 |
-| Bargaining | 2.00% | ~1,295 |
+| Denial | 2.00% | ~1,296 |
+| Acceptance | 2.00% | ~1,296 |
+| Bargaining | 2.00% | ~1,296 |
 | Anger | 1.00% | ~648 |
 | Fear Of The Dark | 1.00% | ~648 |
 | Detective of the occult | 1.00% | ~648 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 810)
 | Paparazzi | 0.30% | ~194 |
 | Ear Ringing | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,772 (Ranked 80)  
+Progressed: 64,776 (Ranked 80)  
 Completed: 13 (0.02%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 13 (0.02%) (Ranked 220)
 | 2023-07-21 | 64,686 | 13 |
 | 2023-07-22 | 64,717 | 13 |
 | 2023-07-23 | 64,755 | 13 |
-| 2023-07-24 | 64,772 | 13 |
+| 2023-07-24 | 64,776 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

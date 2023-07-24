@@ -7,7 +7,10 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.10% | ~3 |
+| Not So Fast... | 0.10% | ~3 |
 | Executioner | 0.10% | ~3 |
+| Friendly Fire | 0.10% | ~3 |
+| An Ill Omen | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
 | Gunmaster | 0.10% | ~3 |
@@ -33,16 +36,13 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Daemonkeeper | 0.00% | ~0 |
 | Hold Your Ground | 0.00% | ~0 |
-| Not So Fast... | 0.00% | ~0 |
 | Blood for the Blood God! | 0.00% | ~0 |
 | Corruption Cleanser | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
-| Friendly Fire | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
 | Watch Where You Step... | 0.00% | ~0 |
 | Purging Spree | 0.00% | ~0 |
 | Hands-On Research | 0.00% | ~0 |
-| An Ill Omen | 0.00% | ~0 |
 | Mind Like a Fortress | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |

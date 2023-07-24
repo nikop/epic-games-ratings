@@ -4,8 +4,8 @@
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 40,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 32.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:29.3073693+00:00",
@@ -78,6 +78,11 @@
       "Time": "2023-07-16T15:07:31.3045011+00:00",
       "NumProgressed": 40,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-24T19:07:26.9959366+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 13,
@@ -119,9 +124,9 @@
       "ID": "12",
       "SetID": "1kmik7f",
       "Name": "Starscout",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "2",
@@ -193,15 +198,15 @@
       "ID": "1kmik7f",
       "IsBase": true,
       "Progressed": 40,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:07:12.2521891+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:07:26.995936+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:27.9475506+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:59:37.3205392+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:07:12.2521981+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:59:56.9237682+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:07:26.9959452+00:00"
 }

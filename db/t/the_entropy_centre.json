@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -795,9 +795,9 @@
       "ID": "ACH_ACT15",
       "SetID": "2310cb1",
       "Name": "Cataclysm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ACT16",
@@ -972,8 +972,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:07:14.3610523+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:07:29.174382+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.9658074+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:58:05.85409+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:07:14.3610704+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:58:13.4582441+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:07:29.1744051+00:00"
 }

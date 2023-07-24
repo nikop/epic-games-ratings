@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 98.00% | ~103 |
-| Good to grow | 61.00% | ~64 |
-| Fashionista | 43.00% | ~45 |
+| So it begins | 97.00% | ~103 |
+| Good to grow | 60.00% | ~64 |
+| Fashionista | 42.00% | ~45 |
 | Irrigation not irritation | 38.00% | ~40 |
 | Graduated | 34.00% | ~36 |
 | Night Shift | 24.00% | ~25 |
 | It's about the journey | 12.00% | ~13 |
-| C'who? | 10.00% | ~10 |
-| Shine bright | 10.00% | ~10 |
-| Ay ay yarrr! | 9.00% | ~9 |
-| There be sand in me shorts | 9.00% | ~9 |
+| Shine bright | 11.00% | ~12 |
+| C'who? | 9.00% | ~10 |
+| Ay ay yarrr! | 9.00% | ~10 |
+| There be sand in me shorts | 8.00% | ~8 |
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
@@ -26,17 +26,17 @@
 | Who let the pets out? | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Zap! | 2.00% | ~2 |
-| Veggie Master | 1.00% | ~1 |
-| I am Root! | 1.00% | ~1 |
-| Yeehaw! | 1.00% | ~1 |
-| Yeetus Deletus | 1.00% | ~1 |
-| Best in the field | 1.00% | ~1 |
-| V is for Vegan | 1.00% | ~1 |
+| Veggie Master | 0.90% | ~1 |
+| I am Root! | 0.90% | ~1 |
+| Yeehaw! | 0.90% | ~1 |
+| Yeetus Deletus | 0.90% | ~1 |
+| Best in the field | 0.90% | ~1 |
+| V is for Vegan | 0.90% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 307)  
+Progressed: 106 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-06-22 | 103 | 0 |
 | 2023-06-27 | 104 | 0 |
 | 2023-07-22 | 105 | 0 |
+| 2023-07-24 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

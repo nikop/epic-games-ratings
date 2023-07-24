@@ -7,17 +7,17 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,784 |
-| Man of politics | 35.00% | ~4,937 |
-| Friends of sorts | 34.00% | ~4,796 |
-| Yet another secret | 34.00% | ~4,796 |
-| Let there be darkness | 33.00% | ~4,655 |
+| Man of politics | 35.00% | ~4,938 |
+| Friends of sorts | 34.00% | ~4,797 |
+| Yet another secret | 34.00% | ~4,797 |
+| Let there be darkness | 33.00% | ~4,656 |
 | End of Book One | 30.00% | ~4,232 |
 | Wannabe knight | 24.00% | ~3,386 |
 | Garden of Eden | 24.00% | ~3,386 |
 | Full house | 24.00% | ~3,386 |
 | Help an old friend | 22.00% | ~3,104 |
-| Two of us | 20.00% | ~2,821 |
-| Negotiation skills | 19.00% | ~2,680 |
+| Two of us | 20.00% | ~2,822 |
+| Negotiation skills | 19.00% | ~2,681 |
 | Workers' union | 18.00% | ~2,539 |
 | End of Book Two | 18.00% | ~2,539 |
 | Everything's in order | 17.00% | ~2,398 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,270 |
 | The End. | 9.00% | ~1,270 |
 | A cry for help | 8.00% | ~1,129 |
-| Silentium est aureum | 7.00% | ~987 |
+| Silentium est aureum | 7.00% | ~988 |
 | Rebel without a cause | 6.00% | ~846 |
 | Staring contest champion | 5.00% | ~705 |
 | Lone wolf | 5.00% | ~705 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~423 |
 | Boy of mystery | 2.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,107 (Ranked 113)  
+Progressed: 14,108 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 105 (0.74%) (Ranked 114)
 | 2023-07-21 | 14,047 | 105 |
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
-| 2023-07-24 | 14,107 | 105 |
+| 2023-07-24 | 14,108 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 368)  

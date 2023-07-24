@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -391,6 +391,11 @@
       "Time": "2023-07-24T18:05:13.0189199+00:00",
       "NumProgressed": 87,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T19:05:26.1859104+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -416,7 +421,7 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 44
     },
@@ -424,9 +429,9 @@
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CollectGold",
@@ -458,7 +463,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FirstBoss",
@@ -528,9 +533,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SecondBoss",
@@ -561,14 +566,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:05:13.0189195+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:05:26.1859098+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:57:39.8261122+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:05:13.018932+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:57:43.0747771+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:05:26.1859256+00:00"
 }

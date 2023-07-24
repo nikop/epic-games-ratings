@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -898,6 +898,11 @@
       "Time": "2023-07-23T04:04:18.4824594+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T19:04:27.3458077+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -931,9 +936,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "achBett",
@@ -973,7 +978,7 @@
       "Name": "Chest \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achCity",
@@ -1091,9 +1096,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achIvan",
@@ -1107,9 +1112,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "achLizun",
@@ -1179,9 +1184,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "achPriest",
@@ -1308,7 +1313,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
@@ -1316,8 +1321,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:04:30.3969006+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:04:27.3458071+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.6474315+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:01:28.3856667+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:04:30.3969371+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:01:41.3400794+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:04:27.3458561+00:00"
 }

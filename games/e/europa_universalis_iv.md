@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,632 |
-| That's a Grand Army | 8.00% | ~5,895 |
-| That is mine! | 8.00% | ~5,895 |
-| Victorious! | 8.00% | ~5,895 |
-| Brothers in Arms | 6.00% | ~4,421 |
-| That's a Grand Navy | 6.00% | ~4,421 |
-| Seriously?! | 6.00% | ~4,421 |
-| For the Glory | 5.00% | ~3,684 |
+| Until death do us apart | 9.00% | ~6,634 |
+| That's a Grand Army | 8.00% | ~5,897 |
+| That is mine! | 8.00% | ~5,897 |
+| Victorious! | 8.00% | ~5,897 |
+| Brothers in Arms | 6.00% | ~4,423 |
+| That's a Grand Navy | 6.00% | ~4,423 |
+| Seriously?! | 6.00% | ~4,423 |
+| For the Glory | 5.00% | ~3,686 |
 | Cold War | 4.00% | ~2,948 |
 | True Catholic | 4.00% | ~2,948 |
 | Defender of the Faith | 3.00% | ~2,211 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~442 |
 | This is My Faith | 0.60% | ~442 |
 | Time Bandit | 0.60% | ~442 |
-| Absolutely | 0.50% | ~368 |
-| Grand Coalition | 0.50% | ~368 |
-| In the Name of the Father | 0.50% | ~368 |
-| Live Long and Prosper | 0.50% | ~368 |
-| Ruina Imperii | 0.50% | ~368 |
-| Trophy Hunter | 0.50% | ~368 |
-| Voting Streak | 0.50% | ~368 |
+| Absolutely | 0.50% | ~369 |
+| Grand Coalition | 0.50% | ~369 |
+| In the Name of the Father | 0.50% | ~369 |
+| Live Long and Prosper | 0.50% | ~369 |
+| Ruina Imperii | 0.50% | ~369 |
+| Trophy Hunter | 0.50% | ~369 |
+| Voting Streak | 0.50% | ~369 |
 | All Your Trade Are Belong to Us | 0.40% | ~295 |
 | Bleed Them Dry | 0.40% | ~295 |
 | Dude, Where's my Boat? | 0.40% | ~295 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,688 (Ranked 74)  
+Progressed: 73,710 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,7 +456,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 72,487 | 0 |
 | 2023-07-22 | 72,954 | 0 |
 | 2023-07-23 | 73,383 | 0 |
-| 2023-07-24 | 73,688 | 0 |
+| 2023-07-24 | 73,710 | 0 |
 ## Awards
 Max (Educational): 5,579  (Ranked 61)  
 Sum: 45,978 (Ranked 26)  

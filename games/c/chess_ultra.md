@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~134,455 |
-| Doubled Pawn | 55.00% | ~107,175 |
-| Check | 54.00% | ~105,226 |
-| Absolute pin | 46.00% | ~89,637 |
-| Promotion | 30.00% | ~58,459 |
-| Checkmate | 29.00% | ~56,510 |
-| O-O | 23.00% | ~44,818 |
-| Spanish Bishop | 20.00% | ~38,973 |
-| Queen Sacrifice | 19.00% | ~37,024 |
-| Stalemate | 18.00% | ~35,075 |
-| O-O-O | 13.00% | ~25,332 |
-| Octopus | 13.00% | ~25,332 |
-| Stranger Danger | 12.00% | ~23,384 |
-| En Passant | 8.00% | ~15,589 |
-| Double Check | 7.00% | ~13,640 |
+| Chop Wood | 69.00% | ~134,464 |
+| Doubled Pawn | 55.00% | ~107,181 |
+| Check | 54.00% | ~105,232 |
+| Absolute pin | 46.00% | ~89,642 |
+| Promotion | 30.00% | ~58,462 |
+| Checkmate | 29.00% | ~56,514 |
+| O-O | 23.00% | ~44,821 |
+| Spanish Bishop | 20.00% | ~38,975 |
+| Queen Sacrifice | 19.00% | ~37,026 |
+| Stalemate | 18.00% | ~35,078 |
+| O-O-O | 13.00% | ~25,334 |
+| Octopus | 13.00% | ~25,334 |
+| Stranger Danger | 12.00% | ~23,385 |
+| En Passant | 8.00% | ~15,590 |
+| Double Check | 7.00% | ~13,641 |
 | Piece Collector | 6.00% | ~11,692 |
-| ELO | 5.00% | ~9,743 |
-| Family Fork | 5.00% | ~9,743 |
-| Friendly Fire | 5.00% | ~9,743 |
+| ELO | 5.00% | ~9,744 |
+| Family Fork | 5.00% | ~9,744 |
+| Friendly Fire | 5.00% | ~9,744 |
 | Underpromote | 4.00% | ~7,795 |
 | ELO ELO | 3.00% | ~5,846 |
-| Blind Pigs | 2.00% | ~3,897 |
-| ELO ELO ELO | 2.00% | ~3,897 |
-| Learner | 2.00% | ~3,897 |
+| Blind Pigs | 2.00% | ~3,898 |
+| ELO ELO ELO | 2.00% | ~3,898 |
+| Learner | 2.00% | ~3,898 |
 | Bobby Time | 1.00% | ~1,949 |
 | Back-rank Mate | 0.90% | ~1,754 |
 | Chess Champion | 0.30% | ~585 |
@@ -44,7 +44,7 @@ Rating: 4.27 (Ranked 797)
 | Tournament Master | 0.10% | ~195 |
 | Tournament Pro | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,863 (Ranked 57)  
+Progressed: 194,875 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-21 | 194,028 | 2 |
 | 2023-07-22 | 194,338 | 2 |
 | 2023-07-23 | 194,684 | 2 |
-| 2023-07-24 | 194,863 | 2 |
+| 2023-07-24 | 194,875 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

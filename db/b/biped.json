@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4516,
+  "EOS_Progressed": 4517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6841,6 +6841,11 @@
       "Time": "2023-07-24T18:07:12.0753815+00:00",
       "NumProgressed": 4516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T19:07:26.8205841+00:00",
+      "NumProgressed": 4517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6852,7 +6857,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "10",
@@ -6868,7 +6873,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "12",
@@ -6932,7 +6937,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "6",
@@ -6956,7 +6961,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "9",
@@ -6971,7 +6976,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4516,
+      "Progressed": 4517,
       "Completed": 0
     }
   ],
@@ -6979,8 +6984,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:07:12.0753808+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:07:26.8205836+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:58:43.1018487+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:07:12.0754215+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:58:57.1049116+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:07:26.8206348+00:00"
 }

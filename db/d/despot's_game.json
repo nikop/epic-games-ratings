@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-07-23T12:03:25.7413681+00:00",
       "NumProgressed": 409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T19:02:08.493644+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -397,7 +402,7 @@
       "Name": "Party",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "different-items2",
@@ -413,7 +418,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "finished-quest-cube",
@@ -437,7 +442,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "finished-quest-nurgle",
@@ -469,7 +474,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "finished-quest-sci",
@@ -493,7 +498,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "get-all",
@@ -509,7 +514,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "last-hero",
@@ -549,7 +554,7 @@
       "Name": "Great Hero",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "win-first-biom",
@@ -557,7 +562,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "win-first-level",
@@ -573,7 +578,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "win-koth-fights2",
@@ -595,9 +600,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "win-with-3-cultists",
@@ -620,7 +625,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 1
     }
   ],
@@ -628,8 +633,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:02:08.5780642+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:02:08.4936433+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:59:23.9323415+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:02:08.5780893+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:59:43.0555753+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:02:08.4936753+00:00"
 }

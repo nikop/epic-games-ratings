@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
+| Legendary Cities | 0.20% | ~26 |
 | Strong Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~13 |
 | Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
-| Legendary Cities | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,070 (Ranked 115)  
+Progressed: 13,071 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,070 | 5 |
+| 2023-07-24 | 13,071 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

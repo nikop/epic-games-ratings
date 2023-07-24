@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2644,9 +2644,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Bleed",
@@ -2684,9 +2684,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Interactable",
@@ -2724,9 +2724,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -3034,8 +3034,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:03:41.4581398+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:03:40.1671678+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:59:29.7338149+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:03:41.4582095+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:59:50.7265363+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:03:40.1672707+00:00"
 }

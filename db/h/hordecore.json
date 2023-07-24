@@ -4,8 +4,8 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.92,
+  "EOS_Completed_Percentage": 2.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -126,6 +126,11 @@
       "Time": "2023-07-22T09:04:22.3718162+00:00",
       "NumProgressed": 343,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-24T19:04:03.1631004+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -137,7 +142,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "10",
@@ -225,7 +230,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "20",
@@ -257,7 +262,7 @@
       "Name": "Collector",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "24",
@@ -303,9 +308,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 265
     },
     {
       "ID": "4",
@@ -313,7 +318,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "5",
@@ -327,9 +332,9 @@
       "ID": "6",
       "SetID": "1530e6b",
       "Name": "FOR THE GAUNTLET!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "7",
@@ -345,7 +350,7 @@
       "Name": "Master Chef",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "9",
@@ -360,7 +365,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 10
     }
   ],
@@ -368,8 +373,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:04:04.8750053+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:04:03.1630998+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.0014252+00:00",
-  "LastUpdate_Ratings": "2023-07-24T18:00:57.0493466+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:04:04.875022+00:00"
+  "LastUpdate_Ratings": "2023-07-24T19:01:14.7171255+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:04:03.16312+00:00"
 }

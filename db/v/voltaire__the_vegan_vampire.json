@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -188,6 +188,11 @@
       "Time": "2023-07-22T08:03:33.2755557+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T19:03:33.8378153+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -205,7 +210,7 @@
       "ID": "ALL_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Veggie Master",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -221,7 +226,7 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -229,7 +234,7 @@
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 64
     },
@@ -237,7 +242,7 @@
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -261,15 +266,15 @@
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -311,7 +316,7 @@
       "Name": "Ay ay yarrr!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KILL_ENEMIES",
@@ -325,7 +330,7 @@
       "ID": "KILL_GROVE",
       "SetID": "3c20ib3",
       "Name": "I am Root!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "KILL_HOGRIDER",
       "SetID": "3c20ib3",
       "Name": "Yeehaw!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -357,7 +362,7 @@
       "ID": "KILL_YEETUS",
       "SetID": "3c20ib3",
       "Name": "Yeetus Deletus",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -381,7 +386,7 @@
       "ID": "REACH_20",
       "SetID": "3c20ib3",
       "Name": "Best in the field",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -389,9 +394,9 @@
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "SNOWSCALE",
@@ -437,7 +442,7 @@
       "ID": "V_VEGAN",
       "SetID": "3c20ib3",
       "Name": "V is for Vegan",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -446,7 +451,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -454,8 +459,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-07-24T18:03:34.6986687+00:00",
+  "LastChanged_Achievements": "2023-07-24T19:03:33.8378147+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:15.7162615+00:00",
-  "LastUpdate_Ratings": "2023-07-24T17:58:02.1460057+00:00",
-  "LastUpdate_Achievements": "2023-07-24T18:03:34.6986883+00:00"
+  "LastUpdate_Ratings": "2023-07-24T18:58:08.423163+00:00",
+  "LastUpdate_Achievements": "2023-07-24T19:03:33.8378392+00:00"
 }
