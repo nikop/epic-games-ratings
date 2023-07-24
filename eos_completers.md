@@ -16,8 +16,8 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 16 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 17 | [Remains](games/r/remains.md) | 11.11% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.07% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.25% |
+| 18 | [Remains](games/r/remains.md) | 11.11% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.27% |
@@ -71,8 +71,8 @@
 | 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
-| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.45% |
+| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 74 | [FORECLOSED](games/f/foreclosed.md) | 2.41% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
