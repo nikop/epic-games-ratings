@@ -23,16 +23,16 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.18% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.34% |
-| 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.80% |
-| 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.80% |
+| 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
+| 26 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 8.33% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 31 | [Scorn](games/s/scorn.md) | 6.97% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.83% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -86,7 +86,7 @@
 | 84 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 85 | [Sifu](games/s/sifu.md) | 1.80% |
 | 86 | [Iron Danger](games/i/iron_danger.md) | 1.72% |
-| 87 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.69% |
+| 87 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.68% |
 | 88 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 89 | [Somerville](games/s/somerville.md) | 1.62% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
@@ -105,7 +105,7 @@
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 105 | [Adios](games/a/adios.md) | 0.98% |
-| 105 | [Sable](games/s/sable.md) | 0.98% |
+| 106 | [Sable](games/s/sable.md) | 0.97% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 108 | [Hades](games/h/hades.md) | 0.89% |
 | 109 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
