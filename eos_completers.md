@@ -22,7 +22,7 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.24% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.60% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.55% |
 | 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.77% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -77,7 +77,7 @@
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
+| 78 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 80 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 81 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -104,8 +104,8 @@
 | 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
-| 105 | [Adios](games/a/adios.md) | 0.98% |
-| 106 | [Sable](games/s/sable.md) | 0.97% |
+| 105 | [Adios](games/a/adios.md) | 0.97% |
+| 105 | [Sable](games/s/sable.md) | 0.97% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 108 | [Hades](games/h/hades.md) | 0.89% |
 | 109 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
