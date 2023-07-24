@@ -670,7 +670,7 @@
 | 663 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
 | 663 | [Sheltered](games/s/sheltered.md) | 4.42 | 268 | 243 |
 | 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 148 | 292 |
-| 663 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,217 | 132 |
+| 663 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,223 | 132 |
 | 672 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 505 |
 | 672 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.41 | 0 | 505 |
 | 672 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 505 |
@@ -930,10 +930,10 @@
 | 928 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 409 |
 | 929 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 505 |
 | 929 | [Patron](games/p/patron.md) | 3.94 | 0 | 505 |
+| 931 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 24 | 476 |
 | 931 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 505 |
 | 931 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 373 | 217 |
-| 933 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 458 |
-| 933 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 24 | 476 |
+| 934 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 458 |
 | 935 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 328 |
 | 935 | [Warface](games/w/warface.md) | 3.91 | 404 | 210 |
 | 937 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 505 |

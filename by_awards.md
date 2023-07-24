@@ -131,7 +131,7 @@
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,308 | 4.70 | 196 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 274 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,226 | 4.54 | 494 |
-| 132 | [World of Warships](games/w/world_of_warships.md) | 1,217 | 4.42 | 663 |
+| 132 | [World of Warships](games/w/world_of_warships.md) | 1,223 | 4.42 | 663 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,216 | 4.55 | 482 |
 | 134 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.69 | 214 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,170 | 4.43 | 654 |
@@ -457,7 +457,7 @@
 | 454 | [Blankos Block Party](games/b/blankos_block_party.md) | 31 | 4.21 | 837 |
 | 456 | [Northgard](games/n/northgard.md) | 30 | 4.71 | 182 |
 | 456 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 443 |
-| 458 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 933 |
+| 458 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 934 |
 | 458 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 624 |
 | 458 | [Poker Club](games/p/poker_club.md) | 29 | 3.80 | 945 |
 | 458 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 765 |
@@ -475,7 +475,7 @@
 | 471 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 672 |
 | 474 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 25 | 4.74 | 142 |
 | 474 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 731 |
-| 476 | [Chimeraland](games/c/chimeraland.md) | 24 | 3.92 | 933 |
+| 476 | [Chimeraland](games/c/chimeraland.md) | 24 | 3.93 | 931 |
 | 476 | [ELEX](games/e/elex.md) | 24 | 4.44 | 641 |
 | 476 | [Rayman Origins](games/r/rayman_origins.md) | 24 | 4.84 | 49 |
 | 476 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 316 |
