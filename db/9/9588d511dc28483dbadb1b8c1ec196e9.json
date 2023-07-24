@@ -2,9 +2,9 @@
   "ID": "9588d511dc28483dbadb1b8c1ec196e9",
   "Name": "Tri6 Infinite",
   "ProductSlug": "tri6-infinite-3ac4cc",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-07-23T06:04:42.18171+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T06:05:20.9880138+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -102,7 +107,7 @@
       "ID": "14",
       "SetID": "72mf9o7",
       "Name": "Destructor",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -142,7 +147,7 @@
       "ID": "19",
       "SetID": "72mf9o7",
       "Name": "High Speed",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "2",
       "SetID": "72mf9o7",
       "Name": "Hermes",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -247,13 +252,13 @@
     {
       "ID": "72mf9o7",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-02T08:01:17.6787047+00:00",
-  "LastChanged_Achievements": "2023-07-24T05:05:26.9750976+00:00",
+  "LastChanged_Achievements": "2023-07-24T06:05:20.9880132+00:00",
   "LastUpdate_AppInfo": "2023-07-23T09:57:01.3490664+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:57:33.1889693+00:00",
-  "LastUpdate_Achievements": "2023-07-24T05:05:26.9751172+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:57:26.9868681+00:00",
+  "LastUpdate_Achievements": "2023-07-24T06:05:20.9880314+00:00"
 }

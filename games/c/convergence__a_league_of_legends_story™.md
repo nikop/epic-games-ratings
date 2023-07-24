@@ -19,12 +19,12 @@
 | No, Thanks! | 15.00% | ~118 |
 | Breaking Down Barriers | 15.00% | ~118 |
 | The Wicked Twins | 15.00% | ~118 |
+| Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | Like Clockwork | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | The Loose Cannon | 14.00% | ~110 |
 | Cartographer | 14.00% | ~110 |
-| Honest Mistake | 14.00% | ~110 |
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |
 | The Family Fortune | 14.00% | ~110 |

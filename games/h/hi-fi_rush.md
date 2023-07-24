@@ -7,6 +7,7 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 3.00% | ~106 |
 | Feeling the beat! | 3.00% | ~106 |
+| Who put gears in there? | 3.00% | ~106 |
 | You can pet the cat! | 3.00% | ~106 |
 | NOW we got a kickass hideout! | 3.00% | ~62 |
 | Cream of the Crop | 2.00% | ~71 |
@@ -28,14 +29,13 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 2.00% | ~71 |
 | Kissing the sky! | 2.00% | ~71 |
 | I look cool. But I can look COOLER. | 2.00% | ~71 |
-| Who put gears in there? | 2.00% | ~71 |
 | Alright, that felt AWESOME! | 2.00% | ~71 |
 | Does that say weakpoint? | 2.00% | ~71 |
 | Well that was a rush! | 1.00% | ~35 |
 | Beat-hit mania | 1.00% | ~35 |
 | That's a lot of junk metal… | 1.00% | ~35 |
 | There's such a thing as TOO helpful | 1.00% | ~35 |
-| Chip-tuned | 0.60% | ~21 |
+| Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.60% | ~21 |
 | Check out my moves! | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |

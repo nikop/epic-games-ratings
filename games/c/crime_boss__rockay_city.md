@@ -5,27 +5,27 @@ Rating: 3.93 (Ranked 931)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,675 |
-| First One’s Free | 65.00% | ~45,390 |
-| Neophyte Ninja | 50.00% | ~34,916 |
-| Too Old for This | 47.00% | ~32,821 |
-| Fancy Pants | 35.00% | ~24,441 |
-| Case Closed | 34.00% | ~23,743 |
-| King of the Hill | 34.00% | ~23,743 |
-| Underworld Initiate | 29.00% | ~20,251 |
+| Downed but Not Outed | 74.00% | ~51,677 |
+| First One’s Free | 65.00% | ~45,392 |
+| Neophyte Ninja | 50.00% | ~34,917 |
+| Too Old for This | 47.00% | ~32,822 |
+| Fancy Pants | 35.00% | ~24,442 |
+| Case Closed | 34.00% | ~23,744 |
+| King of the Hill | 34.00% | ~23,744 |
+| Underworld Initiate | 29.00% | ~20,252 |
 | Roid Ranger | 21.00% | ~14,665 |
 | True Player | 19.00% | ~13,268 |
 | Off the Rocks | 19.00% | ~13,268 |
-| Dragonslayer | 17.00% | ~11,871 |
+| Dragonslayer | 17.00% | ~11,872 |
 | Raider’s Ruin | 16.00% | ~11,173 |
 | Hidden Sonata | 13.00% | ~9,078 |
-| Rockay Rex | 11.00% | ~7,681 |
+| Rockay Rex | 11.00% | ~7,682 |
 | Freebooter | 10.00% | ~6,983 |
 | Track Star | 9.00% | ~6,285 |
 | Classy Joint | 9.00% | ~6,285 |
-| I Like Trains | 8.00% | ~5,586 |
-| Headhunter | 8.00% | ~5,586 |
-| Ding Dong | 8.00% | ~5,586 |
+| I Like Trains | 8.00% | ~5,587 |
+| Headhunter | 8.00% | ~5,587 |
+| Ding Dong | 8.00% | ~5,587 |
 | Foo Finder | 7.00% | ~4,888 |
 | Legend Looter | 5.00% | ~3,492 |
 | Savvy Seeker | 5.00% | ~3,492 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 931)
 | Geek Out | 0.50% | ~349 |
 | Full House | 0.20% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,831 (Ranked 75)  
+Progressed: 69,834 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 36 (0.05%) (Ranked 204)
 | 2023-07-21 | 69,397 | 36 |
 | 2023-07-22 | 69,621 | 36 |
 | 2023-07-23 | 69,797 | 36 |
-| 2023-07-24 | 69,831 | 36 |
+| 2023-07-24 | 69,834 | 36 |
 ## Awards
 Max (Diverse Characters): 373  (Ranked 217)  
 Sum: 1,766 (Ranked 206)  

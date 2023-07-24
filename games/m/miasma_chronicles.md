@@ -5,34 +5,34 @@ Rating: 4.39 (Ranked 701)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,177 |
-| Ranidaphobia | 77.00% | ~985 |
-| Aspiring Editor | 75.00% | ~959 |
-| Gun for Hire | 70.00% | ~895 |
+| First Blood | 92.00% | ~1,178 |
+| Ranidaphobia | 77.00% | ~986 |
+| Aspiring Editor | 75.00% | ~960 |
+| Gun for Hire | 70.00% | ~896 |
 | I am the law! | 64.00% | ~819 |
-| Lumberjack | 52.00% | ~665 |
+| Lumberjack | 52.00% | ~666 |
 | Croaked | 48.00% | ~614 |
-| Limp Richard | 47.00% | ~601 |
-| Exorcist | 46.00% | ~588 |
-| From Darkness to Light | 46.00% | ~588 |
+| Limp Richard | 47.00% | ~602 |
+| Exorcist | 46.00% | ~589 |
+| From Darkness to Light | 46.00% | ~589 |
 | Editor Adept | 45.00% | ~576 |
 | Giant Killer | 44.00% | ~563 |
-| Sensei | 42.00% | ~537 |
-| Firestarter | 41.00% | ~524 |
+| Sensei | 42.00% | ~538 |
+| Firestarter | 41.00% | ~525 |
 | The meaning of Kain | 39.00% | ~499 |
 | Technophobe | 38.00% | ~486 |
-| Recycler | 37.00% | ~473 |
+| Recycler | 37.00% | ~474 |
 | Are you not entertained? | 33.00% | ~422 |
-| Ganglord | 32.00% | ~409 |
-| Jarhead | 32.00% | ~409 |
-| Infiltrator | 32.00% | ~409 |
+| Ganglord | 32.00% | ~410 |
+| Jarhead | 32.00% | ~410 |
+| Infiltrator | 32.00% | ~410 |
 | Pushing Daisy | 30.00% | ~384 |
 | Experienced | 29.00% | ~371 |
-| Hold The Line | 27.00% | ~345 |
+| Hold The Line | 27.00% | ~346 |
 | Endgame | 25.00% | ~320 |
 | Savior | 25.00% | ~320 |
 | There Can Be Only One! | 24.00% | ~307 |
-| Chain Killer | 22.00% | ~281 |
+| Chain Killer | 22.00% | ~282 |
 | The Watchers | 21.00% | ~269 |
 | Commando | 16.00% | ~205 |
 | Newtonian Knockout | 16.00% | ~205 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 701)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,279 (Ranked 181)  
+Progressed: 1,280 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 1,253 | 0 |
 | 2023-07-22 | 1,267 | 0 |
 | 2023-07-23 | 1,278 | 0 |
-| 2023-07-24 | 1,279 | 0 |
+| 2023-07-24 | 1,280 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

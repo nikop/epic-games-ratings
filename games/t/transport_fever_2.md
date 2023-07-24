@@ -52,8 +52,8 @@ Number of Ratings: 180  (23.09.2022)
 | E.P.E.C. | 5.00% | ~74 |
 | Transport shark (Hard mode) | 4.00% | ~59 |
 | Antique | 4.00% | ~59 |
+| Cannot get enough | 4.00% | ~59 |
 | Transport corporation | 4.00% | ~59 |
-| Cannot get enough | 3.00% | ~44 |
 | Industrialist | 3.00% | ~44 |
 | Transport tycoon (Hard mode) | 2.00% | ~30 |
 | No country for old trains | 2.00% | ~30 |

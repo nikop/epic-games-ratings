@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659750,
+  "EOS_Progressed": 659751,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9762,6 +9762,11 @@
       "Time": "2023-07-24T05:02:46.0256352+00:00",
       "NumProgressed": 659750,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-24T06:02:40.7141839+00:00",
+      "NumProgressed": 659751,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9773,7 +9778,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475020
+      "UsersEstimate": 475021
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -9781,7 +9786,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382655
+      "UsersEstimate": 382656
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9789,7 +9794,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151742
+      "UsersEstimate": 151743
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -9885,7 +9890,7 @@
       "Name": "Hero",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Achievement_16_Ally",
@@ -9901,7 +9906,7 @@
       "Name": "Rebel",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Achievement_18_Ninja",
@@ -9909,7 +9914,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151742
+      "UsersEstimate": 151743
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -9957,7 +9962,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -10029,7 +10034,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -10077,7 +10082,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -10156,15 +10161,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659750,
+      "Progressed": 659751,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-24T05:02:46.0256346+00:00",
+  "LastChanged_Achievements": "2023-07-24T06:02:40.7141834+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-24T04:58:47.6963713+00:00",
-  "LastUpdate_Achievements": "2023-07-24T05:02:46.0258122+00:00"
+  "LastUpdate_Ratings": "2023-07-24T05:58:37.1218036+00:00",
+  "LastUpdate_Achievements": "2023-07-24T06:02:40.714283+00:00"
 }

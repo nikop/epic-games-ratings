@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~105 |
 | Your first fight | 85.00% | ~103 |
+| First winning | 83.00% | ~100 |
+| Your first job | 83.00% | ~100 |
 | Good Person Chip | 83.00% | ~100 |
-| First winning | 82.00% | ~99 |
-| Your first job | 82.00% | ~99 |
-| Neurotrainer – power gainer! | 76.00% | ~92 |
-| First defeat | 75.00% | ~91 |
-| Old movies enjoyer | 73.00% | ~88 |
-| Depressed visitor | 73.00% | ~88 |
+| Neurotrainer – power gainer! | 77.00% | ~93 |
+| First defeat | 76.00% | ~92 |
+| Old movies enjoyer | 74.00% | ~90 |
+| Depressed visitor | 74.00% | ~90 |
 | Fitness professional | 72.00% | ~87 |
 | Employee of the week | 72.00% | ~87 |
 | Your own amateur gym | 65.00% | ~79 |
 | Run K, run! | 63.00% | ~76 |
 | Hello, world! | 63.00% | ~76 |
 | No bullying more | 62.00% | ~75 |
-| Intriguing candies | 58.00% | ~70 |
+| Intriguing candies | 59.00% | ~71 |
 | Fighting is cool | 56.00% | ~68 |
 | Pal of your father? | 53.00% | ~64 |
+| Spirit of the past | 51.00% | ~62 |
 | Little hacker | 50.00% | ~60 |
-| Spirit of the past | 50.00% | ~60 |
 | Employee of the month | 50.00% | ~60 |
 | Your own way | 47.00% | ~57 |
 | Law student | 46.00% | ~56 |
@@ -63,11 +63,11 @@
 | Keep nature safe | 11.00% | ~13 |
 | Family comes first | 10.00% | ~12 |
 | Not little hacker | 10.00% | ~12 |
+| Another world | 9.00% | ~11 |
+| The lonesome road | 9.00% | ~11 |
 | Key memories | 9.00% | ~11 |
 | Better cooking at home | 9.00% | ~11 |
-| Another world | 8.00% | ~10 |
-| The lonesome road | 8.00% | ~10 |
-| The heart of the Resistance | 8.00% | ~10 |
+| The heart of the Resistance | 9.00% | ~11 |
 | Silver’s past | 7.00% | ~8 |
 | The only right decision | 7.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

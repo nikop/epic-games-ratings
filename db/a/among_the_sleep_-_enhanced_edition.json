@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79753,
+  "EOS_Progressed": 79759,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -10548,6 +10548,11 @@
       "Time": "2023-07-24T04:05:09.8664096+00:00",
       "NumProgressed": 79753,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-07-24T06:05:39.2929912+00:00",
+      "NumProgressed": 79759,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 10,
@@ -10605,9 +10610,9 @@
       "ID": "DrawingsDLC",
       "SetID": "77jc0gi",
       "Name": "Prologue Drawings",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 399
+      "UsersEstimate": 479
     },
     {
       "ID": "GameCompleted",
@@ -10615,7 +10620,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7975
+      "UsersEstimate": 7976
     },
     {
       "ID": "Level00BowlingStrike",
@@ -10623,7 +10628,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27914
+      "UsersEstimate": 27916
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -10638,15 +10643,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 79753,
+      "Progressed": 79759,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-24T05:05:45.252028+00:00",
+  "LastChanged_Achievements": "2023-07-24T06:05:39.2929904+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:20.2385918+00:00",
-  "LastUpdate_Ratings": "2023-07-24T05:02:31.4487436+00:00",
-  "LastUpdate_Achievements": "2023-07-24T05:05:45.2521546+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:02:26.5580248+00:00",
+  "LastUpdate_Achievements": "2023-07-24T06:05:39.2931097+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.48 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~292 |
-| Increasing your Power Level | 27.00% | ~292 |
+| Rookie No More | 27.00% | ~293 |
+| Increasing your Power Level | 27.00% | ~293 |
 | Enter the Speed Gauntlet | 25.00% | ~271 |
 | I just can't choose | 25.00% | ~271 |
 | A Cheese Grater to the Face | 20.00% | ~217 |
 | It's like an haircut | 18.00% | ~195 |
 | Put it on a shelf | 18.00% | ~195 |
 | Suit up | 16.00% | ~173 |
-| Walked like an Egyptian | 15.00% | ~162 |
-| Ride in the rising sun | 15.00% | ~162 |
+| Walked like an Egyptian | 15.00% | ~163 |
+| Ride in the rising sun | 15.00% | ~163 |
 | Rookie No-No More | 13.00% | ~141 |
 | Running at the speed of sound | 13.00% | ~141 |
 | Martian explorer | 11.00% | ~119 |
-| To the core | 9.00% | ~97 |
-| Blurred photofinish | 9.00% | ~97 |
+| To the core | 9.00% | ~98 |
+| Blurred photofinish | 9.00% | ~98 |
 | EZ game EZ life | 7.00% | ~76 |
 | First step into a larger world | 7.00% | ~76 |
 | Over the clouds | 6.00% | ~65 |
@@ -34,12 +34,12 @@ Rating: 4.48 (Ranked 587)
 | Better luck next time | 4.00% | ~43 |
 | Dev, this! | 4.00% | ~43 |
 | He who laughs last... | 4.00% | ~43 |
-| Try them all | 3.00% | ~32 |
-| To infinity and gravity! | 3.00% | ~32 |
-| One giant drive for mankind | 3.00% | ~32 |
-| [Sweats profusely] | 3.00% | ~32 |
-| It's like a party! | 3.00% | ~32 |
-| Healthy competition | 3.00% | ~32 |
+| Try them all | 3.00% | ~33 |
+| To infinity and gravity! | 3.00% | ~33 |
+| One giant drive for mankind | 3.00% | ~33 |
+| [Sweats profusely] | 3.00% | ~33 |
+| It's like a party! | 3.00% | ~33 |
+| Healthy competition | 3.00% | ~33 |
 | A-mazing! | 2.00% | ~22 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 587)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 187)  
+Progressed: 1,084 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 1,077 | 0 |
 | 2023-07-22 | 1,079 | 0 |
 | 2023-07-23 | 1,082 | 0 |
-| 2023-07-24 | 1,083 | 0 |
+| 2023-07-24 | 1,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
