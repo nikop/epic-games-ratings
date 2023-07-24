@@ -22,7 +22,7 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.18% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.44% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.34% |
 | 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.80% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -35,8 +35,8 @@
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.83% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.62% |
-| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
+| 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.54% |
+| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.53% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
 | 47 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 48 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
@@ -61,7 +61,7 @@
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
-| 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
+| 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.95% |
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
 | 65 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
@@ -97,7 +97,7 @@
 | 95 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 97 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
-| 98 | [Chorus](games/c/chorus.md) | 1.23% |
+| 98 | [Chorus](games/c/chorus.md) | 1.22% |
 | 99 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 101 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.09% |
