@@ -30,12 +30,12 @@
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 31 | [Scorn](games/s/scorn.md) | 6.98% |
+| 31 | [Scorn](games/s/scorn.md) | 6.97% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.88% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.77% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.73% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
@@ -73,7 +73,7 @@
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
 | 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 74 | [FORECLOSED](games/f/foreclosed.md) | 2.41% |
+| 74 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
 | 75 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 77 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
@@ -185,11 +185,11 @@
 | 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 184 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 184 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 186 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 186 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 186 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
-| 186 | [Supraland](games/s/supraland.md) | 0.10% |
-| 186 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 187 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 187 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 187 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
+| 187 | [Supraland](games/s/supraland.md) | 0.10% |
 | 191 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 191 | [House Flipper](games/h/house_flipper.md) | 0.09% |
 | 191 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
