@@ -732,7 +732,7 @@
 | 722 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 447 |
 | 731 | [Core](games/c/core.md) | 4.36 | 743 | 158 |
 | 731 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 283 |
-| 731 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,591 | 29 |
+| 731 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,593 | 29 |
 | 731 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 505 |
 | 731 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
 | 731 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 402 |
@@ -784,18 +784,18 @@
 | 781 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 505 |
 | 781 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 505 |
 | 781 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 505 |
+| 781 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 505 |
 | 781 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,520,062 | 1 |
 | 781 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 702 | 164 |
 | 781 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 415 |
 | 781 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 505 |
-| 789 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 505 |
-| 789 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,679 | 82 |
-| 789 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 505 |
-| 789 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 505 |
-| 789 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 138 | 298 |
-| 789 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 308 |
-| 789 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 431 |
-| 789 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 282 |
+| 790 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,679 | 82 |
+| 790 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 505 |
+| 790 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 505 |
+| 790 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 138 | 298 |
+| 790 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 308 |
+| 790 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 431 |
+| 790 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 282 |
 | 797 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 505 |
 | 797 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 505 |
 | 797 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 505 |
@@ -828,18 +828,18 @@
 | 825 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 505 |
 | 825 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
 | 825 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 505 |
+| 825 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.23 | 0 | 505 |
 | 825 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.23 | 0 | 505 |
-| 830 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
-| 830 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 505 |
-| 830 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 505 |
-| 830 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 267 |
-| 830 | [Train Valley 2](games/t/train_valley_2.md) | 4.22 | 131 | 303 |
-| 830 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 505 |
-| 836 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 454 |
-| 836 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,886 | 23 |
-| 836 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.21 | 0 | 505 |
-| 836 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 505 |
-| 836 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 360 |
+| 831 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
+| 831 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 505 |
+| 831 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 505 |
+| 831 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 267 |
+| 831 | [Train Valley 2](games/t/train_valley_2.md) | 4.22 | 131 | 303 |
+| 831 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 505 |
+| 837 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 454 |
+| 837 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,886 | 23 |
+| 837 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 505 |
+| 837 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 360 |
 | 841 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 309 |
 | 841 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 312 |
 | 841 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 505 |

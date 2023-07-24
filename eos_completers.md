@@ -97,10 +97,10 @@
 | 95 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 97 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
-| 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
-| 99 | [Chorus](games/c/chorus.md) | 1.14% |
+| 98 | [Chorus](games/c/chorus.md) | 1.23% |
+| 99 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
-| 101 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.10% |
+| 101 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.09% |
 | 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
