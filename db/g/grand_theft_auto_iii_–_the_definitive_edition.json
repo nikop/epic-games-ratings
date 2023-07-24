@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7098,
+  "EOS_Progressed": 7099,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5992,6 +5992,11 @@
       "Time": "2023-07-24T04:05:32.3486392+00:00",
       "NumProgressed": 7098,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-24T07:05:08.9842706+00:00",
+      "NumProgressed": 7099,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6003,7 +6008,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "ACH02",
@@ -6011,7 +6016,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "ACH03",
@@ -6027,7 +6032,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACH05",
@@ -6075,7 +6080,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH11",
@@ -6123,7 +6128,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACH17",
@@ -6234,7 +6239,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7098,
+      "Progressed": 7099,
       "Completed": 41
     }
   ],
@@ -6242,8 +6247,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:06:05.0482216+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:05:08.98427+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-24T05:58:58.2728243+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:06:05.0482745+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:58:29.9253874+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:05:08.9843705+00:00"
 }

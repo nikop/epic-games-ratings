@@ -13,9 +13,9 @@
 | First defeat | 76.00% | ~92 |
 | Old movies enjoyer | 74.00% | ~90 |
 | Depressed visitor | 74.00% | ~90 |
-| Fitness professional | 72.00% | ~87 |
-| Employee of the week | 72.00% | ~87 |
-| Your own amateur gym | 65.00% | ~79 |
+| Fitness professional | 73.00% | ~88 |
+| Employee of the week | 73.00% | ~88 |
+| Your own amateur gym | 66.00% | ~80 |
 | Run K, run! | 63.00% | ~76 |
 | Hello, world! | 63.00% | ~76 |
 | No bullying more | 62.00% | ~75 |
@@ -23,15 +23,15 @@
 | Fighting is cool | 56.00% | ~68 |
 | Pal of your father? | 53.00% | ~64 |
 | Spirit of the past | 51.00% | ~62 |
+| Employee of the month | 51.00% | ~62 |
 | Little hacker | 50.00% | ~60 |
-| Employee of the month | 50.00% | ~60 |
 | Your own way | 47.00% | ~57 |
 | Law student | 46.00% | ~56 |
 | Workout professional | 44.00% | ~53 |
 | Champion – starter pack | 42.00% | ~51 |
 | Fight for life | 41.00% | ~50 |
+| Handyman | 41.00% | ~50 |
 | Own four walls | 41.00% | ~50 |
-| Handyman | 40.00% | ~48 |
 | It's good to be alive | 40.00% | ~48 |
 | Extreme neuropower! | 39.00% | ~47 |
 | Employee of the year | 39.00% | ~47 |
@@ -42,11 +42,11 @@
 | Mysterious voice | 26.00% | ~31 |
 | Guiding on the right path | 26.00% | ~31 |
 | Fight is life | 23.00% | ~28 |
-| Responsible approach | 22.00% | ~27 |
+| Responsible approach | 23.00% | ~28 |
+| Mom got better | 21.00% | ~25 |
+| Deal with life | 21.00% | ~25 |
 | Get out of my apartment! | 21.00% | ~25 |
-| Mom got better | 20.00% | ~24 |
-| Deal with life | 20.00% | ~24 |
-| The die is cast | 20.00% | ~24 |
+| The die is cast | 21.00% | ~25 |
 | Underground dwellers | 20.00% | ~24 |
 | Gang wrangler | 19.00% | ~23 |
 | Champion – no way back | 19.00% | ~23 |

@@ -2,13 +2,13 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "ProductSlug": "galactic-civilizations-iii",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-01-21T16:00:00+00:00",
     "PcReleaseDate": "2015-05-14T16:00:00+00:00",
@@ -1616,6 +1616,6 @@
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
   "LastChanged": "2023-07-24T04:01:20.2220992+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.8844457+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:01:54.7691091+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:04:13.0238139+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:01:02.8982426+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:03:34.5445638+00:00"
 }

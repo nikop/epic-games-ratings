@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
+| Strong Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Legendary Cities | 0.10% | ~13 |
-| Strong Cities | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |

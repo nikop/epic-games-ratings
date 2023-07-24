@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5865,7 +5865,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56675,
+  "EOS_Progressed": 56676,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
@@ -15710,6 +15710,11 @@
       "Time": "2023-07-24T06:08:22.3973542+00:00",
       "NumProgressed": 56675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T07:07:06.9798298+00:00",
+      "NumProgressed": 56676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15737,7 +15742,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "Best served cold",
@@ -15881,7 +15886,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "I can do it",
@@ -15929,7 +15934,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3401
     },
     {
       "ID": "Lance-a-lot",
@@ -15945,7 +15950,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17569
+      "UsersEstimate": 17570
     },
     {
       "ID": "Lawbringer",
@@ -15961,7 +15966,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "Long live the Empire",
@@ -16128,15 +16133,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56675,
+      "Progressed": 56676,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-24T05:01:38.9811968+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:08:22.3973538+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:07:06.9798293+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:01:32.1707266+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:08:22.3975043+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:00:40.7059247+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:07:06.9799578+00:00"
 }

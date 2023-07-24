@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1612,9 +1612,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 243499,
+  "EOS_Progressed": 243505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2261,
+  "EOS_NewPlayers": 2263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11917,6 +11917,11 @@
       "Time": "2023-07-24T06:05:50.7944761+00:00",
       "NumProgressed": 243499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T07:04:56.8992666+00:00",
+      "NumProgressed": 243505,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -11976,7 +11981,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26785
+      "UsersEstimate": 26786
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -12008,7 +12013,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -12024,7 +12029,7 @@
       "Name": "Table Mastered, part 10",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -12032,7 +12037,7 @@
       "Name": "Medal Hunter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -12040,7 +12045,7 @@
       "Name": "Medal Wizard",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -12056,7 +12061,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -12064,7 +12069,7 @@
       "Name": "Virtual Pinball Museum",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -12072,7 +12077,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -12080,7 +12085,7 @@
       "Name": "Challenge Accepted!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -12104,7 +12109,7 @@
       "Name": "Relic Hunter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -12112,7 +12117,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12120,7 +12125,7 @@
       "Name": "Show Them",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -12128,7 +12133,7 @@
       "Name": "Totally Furnished",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -12144,7 +12149,7 @@
       "Name": "Customizer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -12152,7 +12157,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 199669
+      "UsersEstimate": 199674
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -12160,22 +12165,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 94965
+      "UsersEstimate": 94967
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 243499,
+      "Progressed": 243505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-07-14T17:59:29.0857732+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:05:50.7944754+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:04:56.8992657+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.7266124+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:00:31.1498575+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:05:50.7945956+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:59:46.0716327+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:04:56.8993731+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -2289,9 +2289,9 @@
       "ID": "DEBTOR",
       "SetID": "64e5lgf",
       "Name": "DEBTOR",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "FIREFIGHTER",
@@ -2329,9 +2329,9 @@
       "ID": "INTRODUCTION",
       "SetID": "64e5lgf",
       "Name": "INTRODUCTION",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "SECOND_FLOOR",
@@ -2378,8 +2378,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:08:14.9671042+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:07:00.3475566+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.586733+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:00:58.9957999+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:08:14.9671352+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:00:13.1257962+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:07:00.3475975+00:00"
 }

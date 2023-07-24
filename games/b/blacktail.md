@@ -6,7 +6,7 @@ Rating: 4.68 (Ranked 238)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~149 |
-| Dental maturity | 19.00% | ~109 |
+| Dental maturity | 20.00% | ~115 |
 | Devil's in the details | 14.00% | ~80 |
 | Uprooting | 13.00% | ~74 |
 | Forbidden techniques | 12.00% | ~69 |
@@ -17,12 +17,12 @@ Rating: 4.68 (Ranked 238)
 | A friend in need... | 6.00% | ~34 |
 | Sneak peek | 5.00% | ~29 |
 | Fishing fanatic | 5.00% | ~29 |
+| The word around is... | 5.00% | ~29 |
 | Liar Liar | 5.00% | ~29 |
 | The cycle acknowledged | 5.00% | ~29 |
 | Baba Yaga | 5.00% | ~29 |
 | Extensive retelling | 4.00% | ~23 |
 | Favorite | 4.00% | ~23 |
-| The word around is... | 4.00% | ~23 |
 | Queen | 4.00% | ~23 |
 | Goal! | 3.00% | ~17 |
 | Both sides | 3.00% | ~17 |

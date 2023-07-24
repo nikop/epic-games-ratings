@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9138,
+  "EOS_Progressed": 9139,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6822,6 +6822,11 @@
       "Time": "2023-07-24T06:04:46.8799256+00:00",
       "NumProgressed": 9138,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-24T07:04:02.6781502+00:00",
+      "NumProgressed": 9139,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6849,7 +6854,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH04",
@@ -6903,9 +6908,9 @@
       "ID": "ACH10",
       "SetID": "9llo822",
       "Name": "Vice City Mogul",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 640
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH11",
@@ -6961,7 +6966,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH18",
@@ -6993,7 +6998,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ACH22",
@@ -7009,7 +7014,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "ACH24",
@@ -7104,7 +7109,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9138,
+      "Progressed": 9139,
       "Completed": 43
     }
   ],
@@ -7112,8 +7117,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:04:46.8799251+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:04:02.6781494+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-24T05:59:27.6593121+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:04:46.8800324+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:58:55.5724228+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:04:02.6782728+00:00"
 }

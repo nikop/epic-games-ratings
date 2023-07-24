@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9123,9 +9123,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -10793,8 +10793,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:06:35.4037899+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:05:35.963129+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-24T05:59:04.855489+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:06:35.4048256+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:58:35.3637071+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:05:35.9646359+00:00"
 }

@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16060,
+  "EOS_Progressed": 16061,
   "EOS_Completed": 332,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
@@ -10304,6 +10304,11 @@
       "Time": "2023-07-24T06:05:01.4927629+00:00",
       "NumProgressed": 16060,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-07-24T07:04:15.0155788+00:00",
+      "NumProgressed": 16061,
+      "NumCompleted": 332
     }
   ],
   "TotalAchievements": 20,
@@ -10331,7 +10336,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -10451,7 +10456,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -10467,22 +10472,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16060,
+      "Progressed": 16061,
       "Completed": 332
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:05:01.4927626+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:04:15.0155782+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:01:58.1103829+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:05:01.4928418+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:01:06.3758717+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:04:15.0156889+00:00"
 }

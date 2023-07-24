@@ -5,34 +5,34 @@ Rating: 3.93 (Ranked 931)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,677 |
-| First One’s Free | 65.00% | ~45,392 |
-| Neophyte Ninja | 50.00% | ~34,917 |
-| Too Old for This | 47.00% | ~32,822 |
-| Fancy Pants | 35.00% | ~24,442 |
-| Case Closed | 34.00% | ~23,744 |
-| King of the Hill | 34.00% | ~23,744 |
-| Underworld Initiate | 29.00% | ~20,252 |
-| Roid Ranger | 21.00% | ~14,665 |
-| True Player | 19.00% | ~13,268 |
-| Off the Rocks | 19.00% | ~13,268 |
-| Dragonslayer | 17.00% | ~11,872 |
-| Raider’s Ruin | 16.00% | ~11,173 |
-| Hidden Sonata | 13.00% | ~9,078 |
+| Downed but Not Outed | 74.00% | ~51,681 |
+| First One’s Free | 65.00% | ~45,395 |
+| Neophyte Ninja | 50.00% | ~34,920 |
+| Too Old for This | 47.00% | ~32,824 |
+| Fancy Pants | 35.00% | ~24,444 |
+| Case Closed | 34.00% | ~23,745 |
+| King of the Hill | 34.00% | ~23,745 |
+| Underworld Initiate | 29.00% | ~20,253 |
+| Roid Ranger | 21.00% | ~14,666 |
+| True Player | 19.00% | ~13,269 |
+| Off the Rocks | 19.00% | ~13,269 |
+| Dragonslayer | 17.00% | ~11,873 |
+| Raider’s Ruin | 16.00% | ~11,174 |
+| Hidden Sonata | 13.00% | ~9,079 |
 | Rockay Rex | 11.00% | ~7,682 |
-| Freebooter | 10.00% | ~6,983 |
-| Track Star | 9.00% | ~6,285 |
-| Classy Joint | 9.00% | ~6,285 |
+| Freebooter | 10.00% | ~6,984 |
+| Track Star | 9.00% | ~6,286 |
+| Classy Joint | 9.00% | ~6,286 |
 | I Like Trains | 8.00% | ~5,587 |
 | Headhunter | 8.00% | ~5,587 |
 | Ding Dong | 8.00% | ~5,587 |
-| Foo Finder | 7.00% | ~4,888 |
+| Foo Finder | 7.00% | ~4,889 |
 | Legend Looter | 5.00% | ~3,492 |
 | Savvy Seeker | 5.00% | ~3,492 |
-| Imports and Exports | 4.00% | ~2,793 |
-| Olympus Ascended | 4.00% | ~2,793 |
-| Cracked the Jack | 4.00% | ~2,793 |
-| Red Star | 4.00% | ~2,793 |
+| Imports and Exports | 4.00% | ~2,794 |
+| Olympus Ascended | 4.00% | ~2,794 |
+| Cracked the Jack | 4.00% | ~2,794 |
+| Red Star | 4.00% | ~2,794 |
 | Privateer | 3.00% | ~2,095 |
 | Groundhog Days | 3.00% | ~2,095 |
 | Rockay Raider | 2.00% | ~1,397 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 931)
 | Geek Out | 0.50% | ~349 |
 | Full House | 0.20% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,834 (Ranked 75)  
+Progressed: 69,839 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,17 +138,17 @@ Completed: 36 (0.05%) (Ranked 204)
 | 2023-07-21 | 69,397 | 36 |
 | 2023-07-22 | 69,621 | 36 |
 | 2023-07-23 | 69,797 | 36 |
-| 2023-07-24 | 69,834 | 36 |
+| 2023-07-24 | 69,839 | 36 |
 ## Awards
 Max (Diverse Characters): 373  (Ranked 217)  
-Sum: 1,766 (Ranked 206)  
+Sum: 1,767 (Ranked 206)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 373 |
 | This game has Quickly Understood Controls | 360 |
 | This game is Highly Recommended | 358 |
-| This game has Challenging Combat | 342 |
+| This game has Challenging Combat | 343 |
 | This game has Amazing Characters | 333 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -271,4 +271,4 @@ Diff (max vs sum): 11
 | 2023-07-21 | 3.93 | 371 | 1,756 |
 | 2023-07-22 | 3.93 | 371 | 1,760 |
 | 2023-07-23 | 3.94 | 373 | 1,765 |
-| 2023-07-24 | 3.93 | 373 | 1,766 |
+| 2023-07-24 | 3.93 | 373 | 1,767 |

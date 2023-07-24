@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1728,
+  "EOS_Progressed": 1729,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1480,6 +1480,11 @@
       "Time": "2023-07-24T00:04:52.1533525+00:00",
       "NumProgressed": 1728,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T07:04:39.6843495+00:00",
+      "NumProgressed": 1729,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1499,7 +1504,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1555,7 +1560,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1563,7 +1568,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1611,7 +1616,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -1723,7 +1728,7 @@
       "Name": "Off the Trail",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1739,7 +1744,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1787,7 +1792,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1819,7 +1824,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1851,7 +1856,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1867,7 +1872,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1875,7 +1880,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1899,7 +1904,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1914,15 +1919,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1728,
+      "Progressed": 1729,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-24T06:05:30.34983+00:00",
+  "LastChanged_Achievements": "2023-07-24T07:04:39.6843489+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-24T05:59:46.3608858+00:00",
-  "LastUpdate_Achievements": "2023-07-24T06:05:30.3499321+00:00"
+  "LastUpdate_Ratings": "2023-07-24T06:59:11.3515313+00:00",
+  "LastUpdate_Achievements": "2023-07-24T07:04:39.6844331+00:00"
 }

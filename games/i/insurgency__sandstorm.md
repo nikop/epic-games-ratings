@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,064 |
-| Exploitative | 4.00% | ~16,851 |
-| Point Shooting | 4.00% | ~16,851 |
-| Wet Feet | 4.00% | ~16,851 |
-| High Speed Low Drag | 3.00% | ~12,638 |
-| Lucky | 3.00% | ~12,638 |
-| Stylin' | 3.00% | ~12,638 |
-| Turf War | 3.00% | ~12,638 |
+| Wallbanger | 5.00% | ~21,065 |
+| Exploitative | 4.00% | ~16,852 |
+| Point Shooting | 4.00% | ~16,852 |
+| Wet Feet | 4.00% | ~16,852 |
+| High Speed Low Drag | 3.00% | ~12,639 |
+| Lucky | 3.00% | ~12,639 |
+| Stylin' | 3.00% | ~12,639 |
+| Turf War | 3.00% | ~12,639 |
 | Banged | 2.00% | ~8,426 |
 | Checkpoint Victory | 2.00% | ~8,426 |
 | First Blood | 2.00% | ~8,426 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~2,949 |
 | Firefight Victory | 0.60% | ~2,528 |
 | #1 | 0.60% | ~2,528 |
-| Cinematic | 0.50% | ~2,106 |
+| Cinematic | 0.50% | ~2,107 |
 | Thanks Station! | 0.40% | ~1,685 |
 | Knock Knock | 0.30% | ~1,264 |
 | There For You | 0.30% | ~1,264 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~421 |
 | Road Hazard | 0.10% | ~421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,280 (Ranked 39)  
+Progressed: 421,305 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-21 | 418,569 | 2 |
 | 2023-07-22 | 419,738 | 2 |
 | 2023-07-23 | 420,968 | 2 |
-| 2023-07-24 | 421,280 | 2 |
+| 2023-07-24 | 421,305 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 365  (Ranked 220)  
-Sum: 2,828 (Ranked 169)  
+Sum: 2,830 (Ranked 169)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -151,7 +151,7 @@ Diff (max vs sum): 51
 | This game has Realistic Visuals | 304 |
 | This game has Amazing Storytelling | 302 |
 | This game is Highly Recommended | 300 |
-| This game has Amazing Characters | 296 |
+| This game has Amazing Characters | 298 |
 | This game has a Competitive Community | 255 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -344,3 +344,4 @@ Diff (max vs sum): 51
 | 2023-07-21 | 4.61 | - | 364 | 2,817 |
 | 2023-07-22 | 4.62 | - | 364 | 2,821 |
 | 2023-07-23 | 4.62 | - | 365 | 2,828 |
+| 2023-07-24 | 4.62 | - | 365 | 2,830 |

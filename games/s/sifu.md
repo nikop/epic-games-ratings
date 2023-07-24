@@ -33,10 +33,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,114 |
 | The best strikes are the ones we avoid | 1.00% | ~207 |
 | Dance of the Praying Mantis | 0.90% | ~6,402 |
-| Muk Yan Master | 0.70% | ~4,979 |
-| Tiger on Fire | 0.70% | ~4,979 |
-| Source of Flying Daggers | 0.70% | ~4,979 |
-| Detective Story | 0.70% | ~4,979 |
+| Muk Yan Master | 0.70% | ~4,980 |
+| Tiger on Fire | 0.70% | ~4,980 |
+| Source of Flying Daggers | 0.70% | ~4,980 |
+| Detective Story | 0.70% | ~4,980 |
 | Deadly Venom | 0.70% | ~145 |
 | A Touch of Acumen | 0.70% | ~145 |
 | Iron Money | 0.60% | ~4,268 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,355 (Ranked 19)  
+Progressed: 711,360 (Ranked 19)  
 Completed: 12,831 (1.80%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 12,831 (1.80%) (Ranked 85)
 | 2023-07-21 | 711,067 | 12,829 |
 | 2023-07-22 | 711,203 | 12,830 |
 | 2023-07-23 | 711,328 | 12,831 |
-| 2023-07-24 | 711,355 | 12,831 |
+| 2023-07-24 | 711,360 | 12,831 |
 ## Awards
 Max (Great Boss Battles): 6,299  (Ranked 53)  
 Sum: 10,802 (Ranked 79)  
