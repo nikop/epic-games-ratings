@@ -2534,9 +2534,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 15983,
+  "EOS_Progressed": 15985,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7769,6 +7769,11 @@
       "Time": "2023-07-23T22:03:50.6683478+00:00",
       "NumProgressed": 15983,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-24T02:06:52.1592046+00:00",
+      "NumProgressed": 15985,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7860,7 +7865,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WinFirstGame",
@@ -7916,7 +7921,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WinNearCrystals",
@@ -7940,7 +7945,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WinNearFishmen",
@@ -8004,7 +8009,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WinNearStatue",
@@ -8042,9 +8047,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 639
     },
     {
       "ID": "WinOnCursed",
@@ -8092,7 +8097,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WinWIthCaches",
@@ -8179,15 +8184,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15983,
+      "Progressed": 15985,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-22T16:01:42.4352681+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:03:36.4751348+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:06:52.1592042+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-24T00:01:02.5199913+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:03:36.4752121+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:03:31.2015757+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:06:52.1592608+00:00"
 }

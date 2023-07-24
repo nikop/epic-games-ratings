@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1728,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1761,9 +1761,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_REVENANT",
@@ -1921,8 +1921,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:04:52.1533518+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:07:37.9373831+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:16.3947387+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:04:52.1534305+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:02:03.055735+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:07:37.9374224+00:00"
 }

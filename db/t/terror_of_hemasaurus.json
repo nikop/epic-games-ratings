@@ -2,7 +2,7 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 91,
@@ -227,9 +227,9 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -275,9 +275,9 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
@@ -307,9 +307,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -339,9 +339,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -419,9 +419,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -460,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:05:53.3323456+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:08:28.3237898+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.6415792+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:07.6298439+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:05:53.3323837+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:54.2818637+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:08:28.3238088+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2587,
+  "EOS_Progressed": 2591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3378,6 +3378,11 @@
       "Time": "2023-07-24T00:01:42.7901232+00:00",
       "NumProgressed": 2587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T02:04:03.4108851+00:00",
+      "NumProgressed": 2591,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3389,7 +3394,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3413,7 +3418,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -3421,7 +3426,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -3445,7 +3450,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -3469,7 +3474,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -3477,7 +3482,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -3485,7 +3490,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -3493,7 +3498,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3501,7 +3506,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_GOLDEN",
@@ -3541,7 +3546,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3549,7 +3554,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -3557,7 +3562,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -3573,7 +3578,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -3589,7 +3594,7 @@
       "Name": "NAHELL!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -3613,7 +3618,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -3621,7 +3626,7 @@
       "Name": "Purple passion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -3629,7 +3634,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -3645,7 +3650,7 @@
       "Name": "Squad goals",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -3653,7 +3658,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -3661,7 +3666,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -3725,7 +3730,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -3749,7 +3754,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -3757,7 +3762,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3765,22 +3770,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1477
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2587,
+      "Progressed": 2591,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:01:42.7901225+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:04:03.4108847+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-24T00:00:02.5771535+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:01:42.7902377+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:02:39.4676274+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:04:03.410931+00:00"
 }

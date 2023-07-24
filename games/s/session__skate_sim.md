@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 57.00% | ~1,475 |
-| Keeping it classy | 26.00% | ~673 |
-| Welcome to the family | 20.00% | ~517 |
+| You're free now! | 57.00% | ~1,477 |
+| Keeping it classy | 26.00% | ~674 |
+| Welcome to the family | 20.00% | ~518 |
 | The finer things in life | 18.00% | ~466 |
-| Backpacker | 13.00% | ~336 |
-| Go with the Flow | 12.00% | ~310 |
+| Backpacker | 13.00% | ~337 |
+| Go with the Flow | 12.00% | ~311 |
 | Plastic Surgeon | 9.00% | ~233 |
 | The flip trick crown jewel | 9.00% | ~233 |
 | The hard way | 9.00% | ~233 |
@@ -23,25 +23,25 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~155 |
 | That pinch! | 6.00% | ~155 |
 | Tight lipslides | 6.00% | ~155 |
-| Commence the Hijinx! | 5.00% | ~129 |
-| Fulfilled the dream | 5.00% | ~129 |
-| G'Day Mate! | 5.00% | ~129 |
-| Globetrotter | 5.00% | ~129 |
-| Laid back | 5.00% | ~129 |
-| NAHELL! | 5.00% | ~129 |
-| Purple passion | 5.00% | ~129 |
-| Squad goals | 5.00% | ~129 |
-| Sup widdit big dog! | 5.00% | ~129 |
-| Cops called! | 4.00% | ~103 |
-| DIY Boss | 4.00% | ~103 |
-| G.O.A.T. status | 4.00% | ~103 |
-| Lines for days | 4.00% | ~103 |
-| Manny Destroys All | 4.00% | ~103 |
-| Prince of Philly | 4.00% | ~103 |
-| Renaissance man | 4.00% | ~103 |
-| Tank commander | 4.00% | ~103 |
-| Trick shot marksman | 4.00% | ~103 |
-| We get it, you're good | 4.00% | ~103 |
+| Commence the Hijinx! | 5.00% | ~130 |
+| Fulfilled the dream | 5.00% | ~130 |
+| G'Day Mate! | 5.00% | ~130 |
+| Globetrotter | 5.00% | ~130 |
+| Laid back | 5.00% | ~130 |
+| NAHELL! | 5.00% | ~130 |
+| Purple passion | 5.00% | ~130 |
+| Squad goals | 5.00% | ~130 |
+| Sup widdit big dog! | 5.00% | ~130 |
+| Cops called! | 4.00% | ~104 |
+| DIY Boss | 4.00% | ~104 |
+| G.O.A.T. status | 4.00% | ~104 |
+| Lines for days | 4.00% | ~104 |
+| Manny Destroys All | 4.00% | ~104 |
+| Prince of Philly | 4.00% | ~104 |
+| Renaissance man | 4.00% | ~104 |
+| Tank commander | 4.00% | ~104 |
+| Trick shot marksman | 4.00% | ~104 |
+| We get it, you're good | 4.00% | ~104 |
 | Hoarder | 3.00% | ~78 |
 | Pew-Pew | 3.00% | ~78 |
 | Cross lock country | 2.00% | ~52 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,587 (Ranked 158)  
+Progressed: 2,591 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 2,554 | 0 |
 | 2023-07-22 | 2,571 | 0 |
 | 2023-07-23 | 2,585 | 0 |
-| 2023-07-24 | 2,587 | 0 |
+| 2023-07-24 | 2,591 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 397)  
 Sum: 439 (Ranked 305)  

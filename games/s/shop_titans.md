@@ -73,6 +73,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.10% | ~133 |
 | Helping Hand | 0.10% | ~133 |
 | Fat Cat Tag Team | 0.10% | ~133 |
+| Capitalist Camaraderie | 0.10% | ~133 |
 | Necromancer Queen | 0.10% | ~133 |
 | One-Armed Bandit | 0.10% | ~133 |
 | Jackpot! | 0.10% | ~133 |
@@ -117,9 +118,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.10% | ~133 |
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
-| Capitalist Camaraderie | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,126 (Ranked 61)  
+Progressed: 133,129 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-21 | 132,985 | 122 |
 | 2023-07-22 | 133,052 | 122 |
 | 2023-07-23 | 133,125 | 122 |
-| 2023-07-24 | 133,126 | 122 |
+| 2023-07-24 | 133,129 | 122 |
 ## Awards
 Max (Great for Beginners): 4,670  (Ranked 69)  
 Sum: 26,966 (Ranked 46)  

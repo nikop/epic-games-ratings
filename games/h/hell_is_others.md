@@ -5,13 +5,13 @@ Rating: 4.43 (Ranked 654)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,592 |
-| Predator I | 22.00% | ~55,775 |
-| Fixer I | 10.00% | ~25,352 |
-| A week in Century City | 10.00% | ~25,352 |
+| Survivor | 31.00% | ~78,593 |
+| Predator I | 22.00% | ~55,776 |
+| Fixer I | 10.00% | ~25,353 |
+| A week in Century City | 10.00% | ~25,353 |
 | The Wait | 7.00% | ~17,747 |
-| Green thumb I | 6.00% | ~15,211 |
-| Cleaning Company | 6.00% | ~15,211 |
+| Green thumb I | 6.00% | ~15,212 |
+| Cleaning Company | 6.00% | ~15,212 |
 | Well-oiled machine | 5.00% | ~12,676 |
 | Saver I | 5.00% | ~12,676 |
 | The Ascent | 4.00% | ~10,141 |
@@ -19,14 +19,14 @@ Rating: 4.43 (Ranked 654)
 | Vandalism | 4.00% | ~10,141 |
 | Capitalist I | 4.00% | ~10,141 |
 | Adrenaline | 3.00% | ~7,606 |
-| By a hair | 2.00% | ~5,070 |
-| Fixer II | 2.00% | ~5,070 |
-| It took a while | 2.00% | ~5,070 |
-| Samurai | 2.00% | ~5,070 |
-| I Left You a Present | 2.00% | ~5,070 |
-| Predator II | 2.00% | ~5,070 |
-| Truffle Dog | 2.00% | ~5,070 |
-| A month in Century City | 2.00% | ~5,070 |
+| By a hair | 2.00% | ~5,071 |
+| Fixer II | 2.00% | ~5,071 |
+| It took a while | 2.00% | ~5,071 |
+| Samurai | 2.00% | ~5,071 |
+| I Left You a Present | 2.00% | ~5,071 |
+| Predator II | 2.00% | ~5,071 |
+| Truffle Dog | 2.00% | ~5,071 |
+| A month in Century City | 2.00% | ~5,071 |
 | The Strengthening | 1.00% | ~2,535 |
 | Saver II | 1.00% | ~2,535 |
 | It's the last one, I swear | 1.00% | ~2,535 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 654)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,522 (Ranked 43)  
+Progressed: 253,526 (Ranked 43)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-21 | 253,366 | 2 |
 | 2023-07-22 | 253,454 | 2 |
 | 2023-07-23 | 253,521 | 2 |
-| 2023-07-24 | 253,522 | 2 |
+| 2023-07-24 | 253,526 | 2 |
 ## Awards
 Max (Unique Visuals): 32  (Ranked 447)  
 Sum: 201 (Ranked 360)  

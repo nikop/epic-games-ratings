@@ -8,14 +8,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~131 |
 | The Great Mage | 0.70% | ~91 |
+| Explorer | 0.50% | ~65 |
 | Settler | 0.50% | ~65 |
 | Play a Single Player Game | 0.50% | ~65 |
-| Explorer | 0.40% | ~52 |
+| Able | 0.40% | ~52 |
 | Intrepid | 0.40% | ~52 |
 | Friendly Family | 0.40% | ~52 |
 | Poetic Leader | 0.40% | ~52 |
-| Able | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
+| Enlightened | 0.30% | ~39 |
 | Good | 0.30% | ~39 |
 | Just | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
@@ -24,11 +25,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
+| Judaism | 0.30% | ~39 |
 | Greek Paganism | 0.30% | ~39 |
+| Naming Landmarks | 0.30% | ~39 |
 | Trade Caravan | 0.30% | ~39 |
 | Ambitious | 0.20% | ~26 |
 | Brilliant | 0.20% | ~26 |
-| Enlightened | 0.20% | ~26 |
 | Fountainhead | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
@@ -39,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
+| Artisans | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
@@ -47,13 +50,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Christianity | 0.20% | ~26 |
-| Judaism | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
 | Carthaginian Paganism | 0.20% | ~26 |
 | Roman Paganism | 0.20% | ~26 |
 | Zoroastrianism | 0.20% | ~26 |
-| Naming Landmarks | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -80,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
+| Avenger | 0.10% | ~13 |
 | Beloved | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
@@ -107,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
-| Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
@@ -182,6 +183,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
+| Pantheon in Roma | 0.10% | ~13 |
 | Building Wonders | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
@@ -242,7 +244,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Avenger | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Pantheon in Roma | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,054 (Ranked 115)  
+Progressed: 13,057 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,11 +398,11 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,054 | 5 |
+| 2023-07-24 | 13,057 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
-Sum: 1,783 (Ranked 204)  
-Diff (max vs sum): 56  
+Sum: 1,783 (Ranked 205)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

@@ -15,7 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Hands and Hammers | 0.90% | ~204 |
 | King and Kin | 0.80% | ~181 |
 | Progenitor and Protégé | 0.80% | ~181 |
-| Prequel to the Sequel | 0.70% | ~158 |
+| Prequel to the Sequel | 0.80% | ~181 |
 | For Glory | 0.50% | ~113 |
 | Truly Blessed | 0.40% | ~91 |
 | Pillow Investments | 0.40% | ~91 |

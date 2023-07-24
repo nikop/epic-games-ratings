@@ -7,7 +7,7 @@ Rating: 4.77 (Ranked 109)
 | ---- | ---------- | ----- |
 | In a Pinch | 20.00% | ~1,359 |
 | Energy Saver | 17.00% | ~1,155 |
-| The Journey Onwards | 13.00% | ~883 |
+| The Journey Onwards | 14.00% | ~951 |
 | Body and Soul | 11.00% | ~747 |
 | Globe Trotter | 11.00% | ~747 |
 | Ahem Ahem | 10.00% | ~679 |

@@ -6,24 +6,24 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,225 |
-| Un-Lonely Island | 48.00% | ~2,037 |
-| The Beginning of a Servantship | 45.00% | ~1,909 |
-| Trade Is My Trait | 37.00% | ~1,570 |
-| Number 18 | 24.00% | ~1,018 |
-| We Don't Have Time For That | 19.00% | ~806 |
+| Just One...More...Term... | 76.00% | ~3,227 |
+| Un-Lonely Island | 48.00% | ~2,038 |
+| The Beginning of a Servantship | 45.00% | ~1,911 |
+| Trade Is My Trait | 37.00% | ~1,571 |
+| Number 18 | 24.00% | ~1,019 |
+| We Don't Have Time For That | 19.00% | ~807 |
 | The Governator | 18.00% | ~764 |
-| The Legend of Langostino | 17.00% | ~721 |
+| The Legend of Langostino | 17.00% | ~722 |
 | Caribbean Comrade | 16.00% | ~679 |
 | The Dreamer of Dreams | 16.00% | ~679 |
 | Happy Ending? | 11.00% | ~467 |
 | Go Sovereigns! | 11.00% | ~467 |
 | For Science! | 11.00% | ~467 |
-| Of Seals And Men | 10.00% | ~424 |
-| Shackadelic | 10.00% | ~424 |
-| Double Trouble | 8.00% | ~339 |
-| Firestarter | 8.00% | ~339 |
-| Make Tropico Great Again! | 8.00% | ~339 |
+| Of Seals And Men | 10.00% | ~425 |
+| Shackadelic | 10.00% | ~425 |
+| Double Trouble | 8.00% | ~340 |
+| Firestarter | 8.00% | ~340 |
+| Make Tropico Great Again! | 8.00% | ~340 |
 | Don't Panic! | 7.00% | ~297 |
 | I Owe You Nothing | 7.00% | ~297 |
 | French Connection | 7.00% | ~297 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~38 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,243 (Ranked 143)  
+Progressed: 4,246 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 2 (0.05%) (Ranked 204)
 | 2023-07-21 | 4,189 | 2 |
 | 2023-07-22 | 4,210 | 2 |
 | 2023-07-23 | 4,242 | 2 |
-| 2023-07-24 | 4,243 | 2 |
+| 2023-07-24 | 4,246 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 337)  
 Sum: 669 (Ranked 276)  

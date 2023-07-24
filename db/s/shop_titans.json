@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5230,9 +5230,9 @@
       "Count": 3712
     }
   ],
-  "EOS_Progressed": 133126,
+  "EOS_Progressed": 133129,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14795,6 +14795,11 @@
       "Time": "2023-07-24T00:01:49.8665146+00:00",
       "NumProgressed": 133126,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-07-24T02:04:09.266118+00:00",
+      "NumProgressed": 133129,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 112,
@@ -15340,9 +15345,9 @@
       "ID": "help03",
       "SetID": "anfd17p",
       "Name": "Capitalist Camaraderie",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 133
     },
     {
       "ID": "hemma_a",
@@ -15701,15 +15706,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133126,
+      "Progressed": 133129,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-23T02:07:08.2029649+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:01:49.8665138+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:04:09.2661176+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:13.5946506+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:01:49.8668574+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:58.4203507+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:04:09.2662822+00:00"
 }

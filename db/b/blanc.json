@@ -3,7 +3,7 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2325,
+  "EOS_Progressed": 2327,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.2487989+00:00",
@@ -1953,6 +1953,11 @@
       "Time": "2023-07-24T00:04:25.1402038+00:00",
       "NumProgressed": 2325,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T02:07:15.2067148+00:00",
+      "NumProgressed": 2327,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1970,9 +1975,9 @@
       "ID": "BIG_LEAP",
       "SetID": "1a29mp6",
       "Name": "A big leap for wolfkind",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 209
     },
     {
       "ID": "FALLEN_TREE",
@@ -1980,7 +1985,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -2036,7 +2041,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "THE_END",
@@ -2060,14 +2065,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2325,
+      "Progressed": 2327,
       "Completed": 5
     }
   ],
@@ -2075,8 +2080,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:04:25.1402028+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:07:15.206714+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-24T00:00:09.4255337+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:04:25.140226+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:02:45.580966+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:07:15.2067323+00:00"
 }

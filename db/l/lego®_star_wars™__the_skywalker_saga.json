@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -9466,9 +9466,9 @@
       "ID": "COMPLETE_EPISODE_7",
       "SetID": "3fcpmbm",
       "Name": "The Force Awakens",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 12985
+      "UsersEstimate": 13484
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9674,8 +9674,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-24T00:01:35.6831312+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:01:41.5891735+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:04:02.2038799+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.7152364+00:00",
-  "LastUpdate_Ratings": "2023-07-24T00:01:35.683132+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:01:41.5893181+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:03:57.319179+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:04:02.2039465+00:00"
 }

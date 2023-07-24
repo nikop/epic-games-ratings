@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2698,9 +2698,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 819
     },
     {
       "ID": "INFILTRATOR",
@@ -2867,8 +2867,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:04:04.630024+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:06:58.6960799+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:01.1320655+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:04:04.6301339+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:48.6226479+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:06:58.696125+00:00"
 }

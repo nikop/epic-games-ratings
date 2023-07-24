@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,6 +488,11 @@
       "Time": "2023-07-23T17:03:42.9134706+00:00",
       "NumProgressed": 656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T02:06:34.4075578+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -547,7 +552,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "AhoyTrophy",
@@ -571,7 +576,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -643,7 +648,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "Ext4Trophy",
@@ -747,7 +752,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "KKBossTrophy",
@@ -777,9 +782,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 539
     },
     {
       "ID": "MaxPriceTrophy",
@@ -867,7 +872,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "TerrorTrophy",
@@ -899,7 +904,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -930,7 +935,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 0
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:03:14.8319328+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:06:34.407557+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3712017+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:00.0915763+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:03:14.8320067+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:47.7324327+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:06:34.4075993+00:00"
 }

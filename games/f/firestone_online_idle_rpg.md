@@ -5,12 +5,12 @@ Rating: 4.10 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,587 |
-| World Map | 79.00% | ~1,348 |
-| Temple of Eternals | 56.00% | ~955 |
-| Prestigious | 53.00% | ~904 |
-| Fellowship Power | 41.00% | ~699 |
-| Guild Power | 25.00% | ~426 |
+| Victor | 93.00% | ~1,588 |
+| World Map | 79.00% | ~1,349 |
+| Temple of Eternals | 56.00% | ~956 |
+| Prestigious | 53.00% | ~905 |
+| Fellowship Power | 41.00% | ~700 |
+| Guild Power | 25.00% | ~427 |
 | Prestigious x10 | 21.00% | ~358 |
 | The game is on | 19.00% | ~324 |
 | Exotic Merchant | 18.00% | ~307 |
@@ -39,9 +39,9 @@ Rating: 4.10 (Ranked 890)
 | Four Leaf Clover | 9.00% | ~154 |
 | Frostfire Liberator | 9.00% | ~154 |
 | Moving Up The Ladder | 9.00% | ~154 |
-| Here We Go Again | 8.00% | ~136 |
-| Master Enchanter | 8.00% | ~136 |
-| The father of Dragons | 8.00% | ~136 |
+| Here We Go Again | 8.00% | ~137 |
+| Master Enchanter | 8.00% | ~137 |
+| The father of Dragons | 8.00% | ~137 |
 | Enchanting skill | 7.00% | ~119 |
 | The Expeditioner | 7.00% | ~119 |
 | Trader | 7.00% | ~119 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,706 (Ranked 170)  
+Progressed: 1,707 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-21 | 1,690 | 1 |
 | 2023-07-22 | 1,699 | 1 |
 | 2023-07-23 | 1,706 | 1 |
+| 2023-07-24 | 1,707 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

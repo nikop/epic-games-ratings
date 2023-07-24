@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,605 |
-| That's a Grand Army | 8.00% | ~5,871 |
-| That is mine! | 8.00% | ~5,871 |
-| Victorious! | 8.00% | ~5,871 |
-| Brothers in Arms | 6.00% | ~4,403 |
-| That's a Grand Navy | 6.00% | ~4,403 |
-| Seriously?! | 6.00% | ~4,403 |
-| For the Glory | 5.00% | ~3,670 |
-| Cold War | 4.00% | ~2,936 |
-| True Catholic | 4.00% | ~2,936 |
+| Until death do us apart | 9.00% | ~6,607 |
+| That's a Grand Army | 8.00% | ~5,873 |
+| That is mine! | 8.00% | ~5,873 |
+| Victorious! | 8.00% | ~5,873 |
+| Brothers in Arms | 6.00% | ~4,405 |
+| That's a Grand Navy | 6.00% | ~4,405 |
+| Seriously?! | 6.00% | ~4,405 |
+| For the Glory | 5.00% | ~3,671 |
+| Cold War | 4.00% | ~2,937 |
+| True Catholic | 4.00% | ~2,937 |
 | Defender of the Faith | 3.00% | ~2,202 |
 | It's all about luck | 3.00% | ~2,202 |
 | It's all about the money | 3.00% | ~2,202 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,391 (Ranked 74)  
+Progressed: 73,413 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,10 +456,10 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 72,487 | 0 |
 | 2023-07-22 | 72,954 | 0 |
 | 2023-07-23 | 73,383 | 0 |
-| 2023-07-24 | 73,391 | 0 |
+| 2023-07-24 | 73,413 | 0 |
 ## Awards
 Max (Educational): 5,577  (Ranked 61)  
-Sum: 45,966 (Ranked 26)  
+Sum: 45,968 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -471,7 +471,7 @@ Diff (max vs sum): 35
 | This game is Relaxing | 5,151 |
 | This game has Competitive Players | 5,009 |
 | This game has Amazing Storytelling | 4,712 |
-| This game has Amazing Characters | 4,354 |
+| This game has Amazing Characters | 4,356 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -664,3 +664,4 @@ Diff (max vs sum): 35
 | 2023-07-21 | 4.69 | - | 5,572 | 45,910 |
 | 2023-07-22 | 4.69 | - | 5,572 | 45,935 |
 | 2023-07-23 | 4.69 | - | 5,577 | 45,966 |
+| 2023-07-24 | 4.69 | - | 5,577 | 45,968 |

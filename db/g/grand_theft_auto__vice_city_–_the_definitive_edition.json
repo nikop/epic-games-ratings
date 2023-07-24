@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9129,
+  "EOS_Progressed": 9131,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6797,6 +6797,11 @@
       "Time": "2023-07-24T00:04:14.768131+00:00",
       "NumProgressed": 9129,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-24T02:07:06.4879299+00:00",
+      "NumProgressed": 9131,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6832,7 +6837,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH05",
@@ -6912,7 +6917,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3744
     },
     {
       "ID": "ACH15",
@@ -6968,7 +6973,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "ACH22",
@@ -6984,7 +6989,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "ACH24",
@@ -7008,7 +7013,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH27",
@@ -7016,7 +7021,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH28",
@@ -7079,7 +7084,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9129,
+      "Progressed": 9131,
       "Completed": 43
     }
   ],
@@ -7087,8 +7092,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:04:14.7681303+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:07:06.4879292+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:59:00.8161134+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:04:14.7682132+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:48.2658765+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:07:06.487977+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,962 |
-| Landlord | 31.00% | ~17,563 |
-| Bannerlord | 22.00% | ~12,464 |
-| Horde breaker | 22.00% | ~12,464 |
-| Lawmaker | 22.00% | ~12,464 |
-| Trained | 21.00% | ~11,898 |
-| The king is pleased | 17.00% | ~9,631 |
-| King Solomon | 16.00% | ~9,065 |
-| I can do it | 15.00% | ~8,498 |
-| Apple of my eye | 14.00% | ~7,932 |
+| Lawbringer | 37.00% | ~20,965 |
+| Landlord | 31.00% | ~17,565 |
+| Bannerlord | 22.00% | ~12,465 |
+| Horde breaker | 22.00% | ~12,465 |
+| Lawmaker | 22.00% | ~12,465 |
+| Trained | 21.00% | ~11,899 |
+| The king is pleased | 17.00% | ~9,632 |
+| King Solomon | 16.00% | ~9,066 |
+| I can do it | 15.00% | ~8,499 |
+| Apple of my eye | 14.00% | ~7,933 |
 | God of the Arena | 12.00% | ~6,799 |
-| Against all odds | 11.00% | ~6,232 |
+| Against all odds | 11.00% | ~6,233 |
 | Swordbearer | 10.00% | ~5,666 |
 | Duelist | 9.00% | ~5,099 |
 | Dynasty | 9.00% | ~5,099 |
 | I spit on your grave | 9.00% | ~5,099 |
 | This Is Our Land | 9.00% | ~5,099 |
 | What have the Romans ever done for us? | 9.00% | ~5,099 |
-| Butterlord | 8.00% | ~4,532 |
+| Butterlord | 8.00% | ~4,533 |
 | Mastery | 7.00% | ~3,966 |
-| Know your enemy | 6.00% | ~3,399 |
+| Know your enemy | 6.00% | ~3,400 |
 | My way | 5.00% | ~2,833 |
 | Crowdfunded | 4.00% | ~2,266 |
 | Crush your enemies | 4.00% | ~2,266 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,655 (Ranked 83)  
+Progressed: 56,661 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 56,329 | 0 |
 | 2023-07-22 | 56,504 | 0 |
 | 2023-07-23 | 56,654 | 0 |
-| 2023-07-24 | 56,655 | 0 |
+| 2023-07-24 | 56,661 | 0 |
 ## Awards
 Max (Character Customization): 6,835  (Ranked 48)  
 Sum: 13,845 (Ranked 67)  

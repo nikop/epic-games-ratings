@@ -5,15 +5,15 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,993 |
-| Advancement | 73.00% | ~17,820 |
-| Meticulously Efficient | 64.00% | ~15,623 |
+| Stylish | 86.00% | ~20,994 |
+| Advancement | 73.00% | ~17,821 |
+| Meticulously Efficient | 64.00% | ~15,624 |
 | Discovery | 61.00% | ~14,891 |
 | Fully Upgraded | 54.00% | ~13,182 |
 | Swift Rift Removers | 54.00% | ~13,182 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,450 |
 | Cultured | 51.00% | ~12,450 |
-| Vaporous Expansion | 48.00% | ~11,717 |
+| Vaporous Expansion | 48.00% | ~11,718 |
 | Teamwork | 44.00% | ~10,741 |
 | There you are! | 43.00% | ~10,497 |
 | Clutch Capture | 41.00% | ~10,009 |
@@ -21,14 +21,14 @@ Rating: 4.49 (Ranked 575)
 | Daily Dose | 34.00% | ~8,300 |
 | Solo Capture | 32.00% | ~7,812 |
 | Welcome to the Crew | 32.00% | ~7,812 |
-| Ghostbuster In Training | 30.00% | ~7,323 |
-| Icing on the Cake | 30.00% | ~7,323 |
+| Ghostbuster In Training | 30.00% | ~7,324 |
+| Icing on the Cake | 30.00% | ~7,324 |
 | Side Hustle | 27.00% | ~6,591 |
+| Summoner | 27.00% | ~6,591 |
 | We have the best insurance | 26.00% | ~6,347 |
 | Legions | 26.00% | ~6,347 |
 | Right back at ya | 26.00% | ~6,347 |
 | Stunner | 26.00% | ~6,347 |
-| Summoner | 26.00% | ~6,347 |
 | Pesky Jerks | 25.00% | ~6,103 |
 | Animated | 24.00% | ~5,859 |
 | Skilled | 24.00% | ~5,859 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | Mycophile | 1.00% | ~244 |
 | I don't need these | 0.90% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,411 (Ranked 99)  
+Progressed: 24,412 (Ranked 99)  
 Completed: 48 (0.20%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 48 (0.20%) (Ranked 168)
 | 2023-07-21 | 24,360 | 47 |
 | 2023-07-22 | 24,388 | 48 |
 | 2023-07-23 | 24,410 | 48 |
-| 2023-07-24 | 24,411 | 48 |
+| 2023-07-24 | 24,412 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,177 (Ranked 189)  

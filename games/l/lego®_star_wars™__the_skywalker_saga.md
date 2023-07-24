@@ -20,7 +20,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Empire Strikes Back | 37.00% | ~18,479 |
 | ''A fine addition to my collection'' | 37.00% | ~18,479 |
 | Return of the Jedi | 32.00% | ~15,981 |
-| The Force Awakens | 26.00% | ~12,985 |
+| The Force Awakens | 27.00% | ~13,484 |
 | The Last Jedi | 23.00% | ~11,487 |
 | The Rise of Skywalker | 20.00% | ~9,988 |
 | ''It's true... all of it'' | 19.00% | ~9,489 |

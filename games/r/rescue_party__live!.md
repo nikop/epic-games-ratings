@@ -10,8 +10,8 @@
 | Safety first | 34.00% | ~68 |
 | Professional team! | 24.00% | ~48 |
 | Dawn of Victory | 14.00% | ~28 |
-| Team assemble | 13.00% | ~26 |
-| Resource manager | 13.00% | ~26 |
+| Team assemble | 14.00% | ~28 |
+| Resource manager | 14.00% | ~28 |
 | Gloable operation | 5.00% | ~10 |
 | My turn | 5.00% | ~10 |
 | Give me a hand | 4.00% | ~8 |

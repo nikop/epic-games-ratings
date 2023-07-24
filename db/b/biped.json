@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4475,
+  "EOS_Progressed": 4478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6766,6 +6766,11 @@
       "Time": "2023-07-24T00:07:16.8647279+00:00",
       "NumProgressed": 4475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T02:09:37.2434177+00:00",
+      "NumProgressed": 4478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6777,7 +6782,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1702
     },
     {
       "ID": "10",
@@ -6833,7 +6838,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "3",
@@ -6841,7 +6846,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "4",
@@ -6873,7 +6878,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "8",
@@ -6896,7 +6901,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4475,
+      "Progressed": 4478,
       "Completed": 0
     }
   ],
@@ -6904,8 +6909,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-24T00:07:16.864727+00:00",
+  "LastChanged_Achievements": "2023-07-24T02:09:37.2434173+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-23T23:58:46.9437059+00:00",
-  "LastUpdate_Achievements": "2023-07-24T00:07:16.8648977+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:01:34.9061498+00:00",
+  "LastUpdate_Achievements": "2023-07-24T02:09:37.2434553+00:00"
 }
