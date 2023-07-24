@@ -450,9 +450,9 @@
       "ID": "Big_Spender",
       "SetID": "gl7plp",
       "Name": "Big Spender",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "Clarity_of_Mind",
@@ -578,9 +578,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -723,8 +723,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-10T11:57:54.3747562+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:04:49.3842623+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:05:36.8533175+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:11.4295503+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:58:06.3347531+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:04:49.3842837+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:58:25.629781+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:05:36.8533528+00:00"
 }

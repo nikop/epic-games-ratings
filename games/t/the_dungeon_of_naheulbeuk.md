@@ -6,32 +6,32 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~114,426 |
-| Where's that freaking Dwarf? | 47.00% | ~92,725 |
-| GG EZ | 28.00% | ~55,240 |
-| Speedrun | 26.00% | ~51,295 |
-| Déjà vu | 21.00% | ~41,430 |
-| Sock! SOCK! | 17.00% | ~33,539 |
-| DM intervention | 13.00% | ~25,647 |
-| Fireproof Wizardess | 9.00% | ~17,756 |
-| Livin' in a dwarven paradise | 7.00% | ~13,810 |
-| Way of the Wimp | 7.00% | ~13,810 |
-| A beer, two curses, three companions | 7.00% | ~13,810 |
-| The plot thickens... At the tavern | 5.00% | ~9,864 |
-| The Woman in the High Castle | 4.00% | ~7,891 |
-| I am the night | 4.00% | ~7,891 |
-| Team Building Exercise | 4.00% | ~7,891 |
-| Shiny and Crôm | 3.00% | ~5,919 |
-| The demons' feast | 3.00% | ~5,919 |
-| Res Judicata | 3.00% | ~5,919 |
-| The Ranger of Chaos | 3.00% | ~5,919 |
-| Oh, when I'll be level 10... | 3.00% | ~5,919 |
-| The Great Library | 2.00% | ~3,946 |
-| Torture and Sensibility | 2.00% | ~3,946 |
-| Dwarf Fortress | 2.00% | ~3,946 |
-| The beards of change | 2.00% | ~3,946 |
-| Thieves' Guild Accreditation | 2.00% | ~3,946 |
-| Material Girl | 2.00% | ~3,946 |
+| Alt+F4 | 58.00% | ~114,451 |
+| Where's that freaking Dwarf? | 47.00% | ~92,745 |
+| GG EZ | 28.00% | ~55,252 |
+| Speedrun | 26.00% | ~51,306 |
+| Déjà vu | 21.00% | ~41,439 |
+| Sock! SOCK! | 17.00% | ~33,546 |
+| DM intervention | 13.00% | ~25,653 |
+| Fireproof Wizardess | 9.00% | ~17,760 |
+| Livin' in a dwarven paradise | 7.00% | ~13,813 |
+| Way of the Wimp | 7.00% | ~13,813 |
+| A beer, two curses, three companions | 7.00% | ~13,813 |
+| The plot thickens... At the tavern | 5.00% | ~9,866 |
+| The Woman in the High Castle | 4.00% | ~7,893 |
+| I am the night | 4.00% | ~7,893 |
+| Team Building Exercise | 4.00% | ~7,893 |
+| Shiny and Crôm | 3.00% | ~5,920 |
+| The demons' feast | 3.00% | ~5,920 |
+| Res Judicata | 3.00% | ~5,920 |
+| The Ranger of Chaos | 3.00% | ~5,920 |
+| Oh, when I'll be level 10... | 3.00% | ~5,920 |
+| The Great Library | 2.00% | ~3,947 |
+| Torture and Sensibility | 2.00% | ~3,947 |
+| Dwarf Fortress | 2.00% | ~3,947 |
+| The beards of change | 2.00% | ~3,947 |
+| Thieves' Guild Accreditation | 2.00% | ~3,947 |
+| Material Girl | 2.00% | ~3,947 |
 | Urik's Depths | 1.00% | ~1,973 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,973 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,973 |
@@ -41,14 +41,14 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,973 |
 | Lust and Debauchery | 1.00% | ~1,973 |
 | It's been a hard day's night | 0.90% | ~1,776 |
-| The Dungeon Master | 0.80% | ~1,578 |
-| The Famous Dungeon of Naheulbeuk | 0.80% | ~1,578 |
-| Dead for good | 0.80% | ~1,578 |
-| Law and Order | 0.80% | ~1,578 |
-| Lëgal Legend | 0.80% | ~1,578 |
+| The Dungeon Master | 0.80% | ~1,579 |
+| The Famous Dungeon of Naheulbeuk | 0.80% | ~1,579 |
+| Dead for good | 0.80% | ~1,579 |
+| Law and Order | 0.80% | ~1,579 |
+| Lëgal Legend | 0.80% | ~1,579 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,184 |
-| I'd rather... Just... Sing! | 0.50% | ~986 |
-| The number of the counting shalt be 7 | 0.50% | ~986 |
+| I'd rather... Just... Sing! | 0.50% | ~987 |
+| The number of the counting shalt be 7 | 0.50% | ~987 |
 | Holistic Adventuring Party | 0.40% | ~789 |
 | Scholar of the Lands of Fangh | 0.40% | ~789 |
 | Friendly fire | 0.40% | ~789 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,287 (Ranked 55)  
+Progressed: 197,330 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 194,527 | 0 |
 | 2023-07-22 | 195,737 | 0 |
 | 2023-07-23 | 196,973 | 0 |
-| 2023-07-24 | 197,287 | 0 |
+| 2023-07-24 | 197,330 | 0 |
 ## Awards
 Max (Character Customization): 129  (Ranked 306)  
 Sum: 129 (Ranked 397)  

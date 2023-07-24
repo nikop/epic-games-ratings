@@ -2,12 +2,12 @@
   "ID": "buttercup",
   "Name": "The Walking Dead: Season Two",
   "ProductSlug": "walking-dead-season-two",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 29,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2013-02-23T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -112,6 +112,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-24T11:00:44.5763128+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -130,8 +136,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
   "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
-  "LastChanged": "2023-04-13T14:57:49.969224+00:00",
+  "LastChanged": "2023-07-24T11:00:44.5763126+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.6749823+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:59:50.9464372+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:05:22.8231469+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:00:44.5763136+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:06:03.9677329+00:00"
 }

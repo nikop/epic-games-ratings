@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1191,6 +1191,11 @@
       "Time": "2023-07-24T00:05:29.8735558+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T11:05:51.7268073+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1266,7 +1271,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1362,7 +1367,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1392,9 +1397,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1410,7 +1415,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1649,15 +1654,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:05:21.0362198+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:05:51.7268069+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:01:16.1271563+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:05:21.0362658+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:02:33.6114944+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:05:51.726866+00:00"
 }

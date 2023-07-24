@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 461)
 | Don't judge a manhole by its cover | 60.00% | ~392 |
 | I just love stuff! | 42.00% | ~274 |
 | Keep 'em coming! | 42.00% | ~274 |
-| Big Spender | 38.00% | ~248 |
+| Big Spender | 39.00% | ~255 |
 | The things they print nowadays | 38.00% | ~248 |
 | That's gotta hurt | 36.00% | ~235 |
 | I think it's broke | 26.00% | ~170 |
@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 461)
 | Arm Wrestlin' | 9.00% | ~59 |
 | 1+1>2 | 9.00% | ~59 |
 | This can't be right… | 9.00% | ~59 |
+| So Fresh and So clean clean | 8.00% | ~52 |
 | Welcome home, 06 | 8.00% | ~52 |
 | Clarity of Mind | 7.00% | ~46 |
 | I'm walking here! | 7.00% | ~46 |
-| So Fresh and So clean clean | 7.00% | ~46 |
 | Supreme Bartender Ann | 7.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~39 |
 | Science, it works! | 6.00% | ~39 |

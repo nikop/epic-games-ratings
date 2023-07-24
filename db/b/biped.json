@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4495,
+  "EOS_Progressed": 4501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6801,6 +6801,11 @@
       "Time": "2023-07-24T10:06:48.3265815+00:00",
       "NumProgressed": 4495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T11:08:07.0610434+00:00",
+      "NumProgressed": 4501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6810,9 +6815,9 @@
       "ID": "1",
       "SetID": "1dkhij4",
       "Name": "First Step",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1710
     },
     {
       "ID": "10",
@@ -6820,7 +6825,7 @@
       "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "11",
@@ -6836,7 +6841,7 @@
       "Name": "Trend\u00A0hunters",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "13",
@@ -6844,7 +6849,7 @@
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
@@ -6860,7 +6865,7 @@
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "2",
@@ -6868,7 +6873,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1440
     },
     {
       "ID": "3",
@@ -6876,7 +6881,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "4",
@@ -6884,7 +6889,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "5",
@@ -6931,7 +6936,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4495,
+      "Progressed": 4501,
       "Completed": 0
     }
   ],
@@ -6939,8 +6944,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:06:48.3265806+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:08:07.0610429+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:58:41.541369+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:06:48.3266242+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:58:59.8415064+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:08:07.0610994+00:00"
 }

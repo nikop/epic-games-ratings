@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
@@ -436,6 +436,11 @@
       "Time": "2023-07-23T23:03:08.4026967+00:00",
       "NumProgressed": 506,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-24T11:02:41.5383998+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -487,7 +492,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -535,7 +540,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -543,7 +548,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -583,7 +588,7 @@
       "Name": "Meticulous",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NOT_CLUMSY",
@@ -607,7 +612,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "PERFECT_HEARING",
@@ -647,7 +652,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "SILENT",
@@ -679,7 +684,7 @@
       "Name": "There is another way",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "UNCERTAIN",
@@ -702,7 +707,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 15
     }
   ],
@@ -710,8 +715,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:01:22.2037567+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:02:41.5383993+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:25.5123158+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:59:20.349783+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:01:22.2037894+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:00:03.7545994+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:02:41.5384299+00:00"
 }

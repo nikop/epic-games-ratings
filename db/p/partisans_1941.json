@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-07-24T10:03:02.2166659+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T11:03:33.8326355+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1726,7 +1731,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Everyone_is_here",
@@ -1774,7 +1779,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "High_noon",
@@ -1798,7 +1803,7 @@
       "Name": "Spice It Up",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "KillAllM2",
@@ -1885,15 +1890,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1156,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:03:02.2166654+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:03:33.8326351+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:59:48.5643925+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:03:02.2166898+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:00:40.3903944+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:03:33.8326624+00:00"
 }

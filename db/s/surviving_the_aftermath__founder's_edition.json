@@ -1131,9 +1131,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7654,
+  "EOS_Progressed": 7655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8861,6 +8861,11 @@
       "Time": "2023-07-24T10:05:36.6641525+00:00",
       "NumProgressed": 7654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T11:06:22.1654836+00:00",
+      "NumProgressed": 7655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -8872,7 +8877,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "10",
@@ -8912,7 +8917,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "15",
@@ -8928,7 +8933,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "17",
@@ -8952,7 +8957,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "2",
@@ -8984,7 +8989,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "23",
@@ -8992,7 +8997,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "24",
@@ -9000,7 +9005,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "25",
@@ -9032,7 +9037,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "29",
@@ -9088,7 +9093,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "35",
@@ -9216,7 +9221,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "5",
@@ -9343,15 +9348,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7654,
+      "Progressed": 7655,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-21T17:01:17.0065734+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:05:36.6641519+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:06:22.1654831+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-24T10:00:40.1060295+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:05:36.6642307+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:01:38.7363088+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:06:22.1655909+00:00"
 }

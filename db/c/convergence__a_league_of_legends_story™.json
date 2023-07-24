@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 785,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2022,9 +2022,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2189,8 +2189,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:03:17.719475+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:03:54.1113304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:59:58.3870162+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:03:17.7195181+00:00"
+  "LastUpdate_Ratings": "2023-07-24T11:00:54.7943249+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:03:54.1113882+00:00"
 }

@@ -46,7 +46,7 @@
 | Final Showdown | 34.00% | ~358 |
 | Spot of Tea? | 34.00% | ~358 |
 | Going Home | 34.00% | ~358 |
-| Extraordinary! | 32.00% | ~337 |
+| Extraordinary! | 33.00% | ~347 |
 | Mirror, Mirror | 31.00% | ~326 |
 | Flower Power | 28.00% | ~295 |
 | Shopping Spree! | 25.00% | ~263 |

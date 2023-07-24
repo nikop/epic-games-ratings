@@ -8,35 +8,38 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~131 |
 | The Great Mage | 0.70% | ~91 |
+| Settler | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
 | Explorer | 0.50% | ~65 |
-| Settler | 0.50% | ~65 |
 | Friendly Family | 0.50% | ~65 |
 | Poetic Leader | 0.50% | ~65 |
 | Able | 0.40% | ~52 |
 | Intrepid | 0.40% | ~52 |
+| Ambitious | 0.30% | ~39 |
 | Architect | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
 | Good | 0.30% | ~39 |
 | Just | 0.30% | ~39 |
+| Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
 | Noble | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
 | Strong | 0.30% | ~39 |
 | Hanging Gardens | 0.30% | ~39 |
 | Oracle | 0.30% | ~39 |
+| Christianity | 0.30% | ~39 |
 | Judaism | 0.30% | ~39 |
 | Greek Paganism | 0.30% | ~39 |
+| Zoroastrianism | 0.30% | ~39 |
 | Naming Landmarks | 0.30% | ~39 |
 | Trade Caravan | 0.30% | ~39 |
-| Ambitious | 0.20% | ~26 |
+| Regicide | 0.20% | ~26 |
 | Brilliant | 0.20% | ~26 |
 | Fountainhead | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
-| Learned | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
 | Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
@@ -44,26 +47,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
+| Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
 | Ishtar Gate | 0.20% | ~26 |
 | Lighthouse | 0.20% | ~26 |
+| Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Pyramids | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
-| Christianity | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
 | Babylonian Paganism | 0.20% | ~26 |
 | Carthaginian Paganism | 0.20% | ~26 |
 | Roman Paganism | 0.20% | ~26 |
-| Zoroastrianism | 0.20% | ~26 |
+| Mythology | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
-| Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
 | Hanging Gardens in Babylon | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
+| Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
 | Carthage - Ox Hide | 0.10% | ~13 |
@@ -81,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~13 |
 | Carthage - Seizing Destiny | 0.10% | ~13 |
 | Bronze Victory (Carthage 4) | 0.10% | ~13 |
+| Epic Victory (Carthage 4) | 0.10% | ~13 |
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
@@ -142,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Tyresome Siege | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Acropolis | 0.10% | ~13 |
-| Apadana | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
@@ -150,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Mausoleum | 0.10% | ~13 |
-| Musaeum | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
@@ -195,7 +198,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Legalism | 0.10% | ~13 |
-| Mythology | 0.10% | ~13 |
 | Redemption | 0.10% | ~13 |
 | Revelation | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
@@ -213,8 +215,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.10% | ~13 |
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
+| One City Challenge | 0.10% | ~13 |
 | Points Victory | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
+| Randomized Leaders | 0.10% | ~13 |
 | Role-Playing | 0.10% | ~13 |
 | Time Victory | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
@@ -235,14 +239,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
-| Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
-| Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -295,15 +297,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
-| One City Challenge | 0.00% | ~0 |
-| Randomized Leaders | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,063 (Ranked 115)  
+Progressed: 13,064 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,063 | 5 |
+| 2023-07-24 | 13,064 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

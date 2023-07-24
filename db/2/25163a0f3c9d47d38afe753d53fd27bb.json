@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -1820,9 +1820,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_007",
@@ -2027,8 +2027,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:06:13.4610672+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:07:11.0863969+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:57:35.4314356+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:06:13.4610935+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:57:46.1978577+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:07:11.0864332+00:00"
 }

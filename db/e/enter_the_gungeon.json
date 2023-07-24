@@ -2,12 +2,12 @@
   "ID": "be13f6c4fb11427fbf3313ce93b97cc0",
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 41,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2016-04-05T15:00:00+00:00",
@@ -4595,6 +4595,6 @@
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
   "LastChanged": "2023-07-23T23:00:00.28251+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.0084838+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:59:17.7356877+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:01:28.5196613+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:59:58.1511891+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:02:49.7436947+00:00"
 }

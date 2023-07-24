@@ -31,8 +31,8 @@ Rating: 3.96 (Ranked 927)
 | Rocket Jump | 1.00% | ~14 |
 | Caveman | 0.90% | ~13 |
 | Thunderstruck | 0.80% | ~11 |
+| Planetary Defence | 0.70% | ~10 |
 | 5G Network | 0.60% | ~9 |
-| Planetary Defence | 0.60% | ~9 |
 | One does not simply... | 0.60% | ~9 |
 | Bull’s eye | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |

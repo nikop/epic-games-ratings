@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13063,
+  "EOS_Progressed": 13064,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8402,6 +8402,11 @@
       "Time": "2023-07-24T05:06:40.8238289+00:00",
       "NumProgressed": 13063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T11:06:21.8364986+00:00",
+      "NumProgressed": 13064,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8459,9 +8464,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -8507,9 +8512,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
       "SetID": "9201eeb",
       "Name": "Barbarian Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING",
@@ -8699,9 +8704,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_GOLD",
@@ -8747,9 +8752,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -8931,9 +8936,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -9035,9 +9040,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -9739,9 +9744,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -9843,9 +9848,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -10187,9 +10192,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -10275,9 +10280,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -10403,9 +10408,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -10571,9 +10576,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
       "SetID": "7l38kb8",
       "Name": "One City Challenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
@@ -10595,9 +10600,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
       "SetID": "9201eeb",
       "Name": "Randomized Leaders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
@@ -10780,21 +10785,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13063,
+      "Progressed": 13064,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13063,
+      "Progressed": 13064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-24T10:05:36.2722916+00:00",
+  "LastChanged_Achievements": "2023-07-24T11:06:21.8364975+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-24T09:58:35.8006582+00:00",
-  "LastUpdate_Achievements": "2023-07-24T10:05:36.2730155+00:00"
+  "LastUpdate_Ratings": "2023-07-24T10:58:54.4482051+00:00",
+  "LastUpdate_Achievements": "2023-07-24T11:06:21.8374254+00:00"
 }
