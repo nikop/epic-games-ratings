@@ -6,32 +6,32 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,601 |
-| Haikyo | 80.00% | ~341,558 |
+| Found a Friend | 95.00% | ~405,602 |
+| Haikyo | 80.00% | ~341,559 |
 | Good as New | 72.00% | ~307,403 |
-| Into the Woods | 69.00% | ~294,594 |
+| Into the Woods | 69.00% | ~294,595 |
 | Hunter in the Forest | 60.00% | ~256,169 |
 | Rot Commander | 60.00% | ~256,169 |
 | Taro's Fear | 56.00% | ~239,091 |
-| Between the Eyes | 46.00% | ~196,396 |
+| Between the Eyes | 46.00% | ~196,397 |
 | Taro's Love | 45.00% | ~192,127 |
 | Taro's Regret | 43.00% | ~183,588 |
-| Spirit Guide | 42.00% | ~179,318 |
-| Harness Your Power | 38.00% | ~162,240 |
+| Spirit Guide | 42.00% | ~179,319 |
+| Harness Your Power | 38.00% | ~162,241 |
 | The Open Range | 37.00% | ~157,971 |
-| Adira's Love | 34.00% | ~145,162 |
-| Adira's Fear | 32.00% | ~136,623 |
+| Adira's Love | 34.00% | ~145,163 |
+| Adira's Fear | 32.00% | ~136,624 |
 | Weigh Them Down | 31.00% | ~132,354 |
 | Adira's Regret | 31.00% | ~132,354 |
-| A Heavy Hammer | 30.00% | ~128,084 |
+| A Heavy Hammer | 30.00% | ~128,085 |
 | Crossing Over | 29.00% | ~123,815 |
 | Quick Draw | 29.00% | ~123,815 |
 | Toshi's Regret | 27.00% | ~115,276 |
 | Toshi's Fear | 27.00% | ~115,276 |
 | Toshi's Love | 27.00% | ~115,276 |
-| A Leader Walks Alone | 26.00% | ~111,006 |
-| Bow Master | 26.00% | ~111,006 |
-| The Lonely Path | 26.00% | ~111,006 |
+| A Leader Walks Alone | 26.00% | ~111,007 |
+| Bow Master | 26.00% | ~111,007 |
+| The Lonely Path | 26.00% | ~111,007 |
 | Restore Balance | 25.00% | ~106,737 |
 | Say Cheese | 16.00% | ~68,312 |
 | Skillful Spirit Guide | 15.00% | ~64,042 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,843 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,948 (Ranked 38)  
+Progressed: 426,949 (Ranked 38)  
 Completed: 519 (0.12%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 519 (0.12%) (Ranked 181)
 | 2023-07-21 | 426,898 | 517 |
 | 2023-07-22 | 426,914 | 518 |
 | 2023-07-23 | 426,946 | 519 |
-| 2023-07-24 | 426,948 | 519 |
+| 2023-07-24 | 426,949 | 519 |
 ## Awards
 Max (Great Boss Battles): 1,308  (Ranked 129)  
 Sum: 1,684 (Ranked 207)  

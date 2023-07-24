@@ -18,9 +18,9 @@ Rating: 4.46 (Ranked 610)
 | Muddy Waters | 14.00% | ~34,588 |
 | Toasty! | 13.00% | ~32,118 |
 | Lazy Laser | 8.00% | ~19,765 |
+| Just A Phaze | 7.00% | ~17,294 |
 | Into The Drift | 7.00% | ~17,294 |
 | Ready? Fight! | 7.00% | ~17,294 |
-| Just A Phaze | 6.00% | ~14,824 |
 | Butt Butt | 6.00% | ~14,824 |
 | He Who Laughs Last | 3.00% | ~7,412 |
 | Shoo, Cat! | 3.00% | ~7,412 |

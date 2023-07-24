@@ -838,9 +838,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ACT7",
@@ -942,9 +942,9 @@
       "ID": "ACH_SUMMERLOVE",
       "SetID": "2310cb1",
       "Name": "Summer Luvin\u0027",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TERMINATED",
@@ -967,8 +967,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:09:39.2682753+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:08:11.1708159+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.9658074+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:01:05.4975901+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:09:39.268295+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:58:23.4248372+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:08:11.1708409+00:00"
 }

@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7096,
+  "EOS_Progressed": 7097,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5982,6 +5982,11 @@
       "Time": "2023-07-24T02:08:02.7488797+00:00",
       "NumProgressed": 7096,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-24T03:05:54.2940593+00:00",
+      "NumProgressed": 7097,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5993,7 +5998,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "ACH02",
@@ -6097,7 +6102,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH15",
@@ -6121,7 +6126,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH18",
@@ -6224,7 +6229,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7096,
+      "Progressed": 7097,
       "Completed": 41
     }
   ],
@@ -6232,8 +6237,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:08:02.7488794+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:05:54.2940581+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:01:27.0432202+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:08:02.7489181+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:58:55.2588522+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:05:54.2941911+00:00"
 }

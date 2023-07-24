@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 90.00% | ~66 |
-| Lightbulb Seeker | 88.00% | ~64 |
-| Grilled Mouse | 85.00% | ~62 |
-| Lightbulbs Collector | 77.00% | ~56 |
-| Energy Collector | 74.00% | ~54 |
-| East Street Energy | 52.00% | ~38 |
-| Energy Expert | 44.00% | ~32 |
-| Lightbulbs Expert | 44.00% | ~32 |
-| That's one way to travel | 44.00% | ~32 |
-| The Old Man and the Café | 40.00% | ~29 |
-| South Town Energy | 33.00% | ~24 |
+| Energy Seeker | 89.00% | ~66 |
+| Lightbulb Seeker | 86.00% | ~64 |
+| Grilled Mouse | 84.00% | ~62 |
+| Lightbulbs Collector | 76.00% | ~56 |
+| Energy Collector | 73.00% | ~54 |
+| East Street Energy | 51.00% | ~38 |
+| Energy Expert | 43.00% | ~32 |
+| Lightbulbs Expert | 43.00% | ~32 |
+| That's one way to travel | 43.00% | ~32 |
+| The Old Man and the Café | 39.00% | ~29 |
+| South Town Energy | 32.00% | ~24 |
 | Photogenic | 30.00% | ~22 |
-| The Girl and the Homework | 29.00% | ~21 |
+| The Girl and the Homework | 28.00% | ~21 |
 | North Town Energy | 27.00% | ~20 |
 | OK, I heard you!! | 27.00% | ~20 |
-| Lightbulb Detective | 25.00% | ~18 |
+| Lightbulb Detective | 24.00% | ~18 |
 | Unlimited Power!! | 22.00% | ~16 |
 | The Quiche and the Hair Dryer | 22.00% | ~16 |
 | Cartographer | 22.00% | ~16 |
@@ -32,7 +32,7 @@
 | At your service | 12.00% | ~9 |
 | Riddle Master | 12.00% | ~9 |
 | East Street Lightbulbs | 11.00% | ~8 |
-| Out of service | 10.00% | ~7 |
+| Out of service | 9.00% | ~7 |
 | Lightbulb Master | 8.00% | ~6 |
 | North Town Lightbulbs | 8.00% | ~6 |
 | Deep Lore | 7.00% | ~5 |
@@ -45,7 +45,7 @@
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 330)  
+Progressed: 74 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-05-31 | 71 | 0 |
 | 2023-07-09 | 72 | 0 |
 | 2023-07-15 | 73 | 0 |
+| 2023-07-24 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

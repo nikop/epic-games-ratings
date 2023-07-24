@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -592,7 +592,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4733,
+  "EOS_Progressed": 4734,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -4822,6 +4822,11 @@
       "Time": "2023-07-23T23:03:42.1368061+00:00",
       "NumProgressed": 4733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T03:03:47.7198025+00:00",
+      "NumProgressed": 4734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4833,7 +4838,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4889,7 +4894,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5112,13 +5117,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4733,
+      "Progressed": 4734,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4105,
+      "Progressed": 4106,
       "Completed": 112
     }
   ],
@@ -5126,8 +5131,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:06:38.9292519+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:03:47.7198019+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:03:16.5755282+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:06:38.9292911+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:01:35.9392494+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:03:47.7198667+00:00"
 }

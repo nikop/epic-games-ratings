@@ -10,9 +10,9 @@
 | Command Centre | 50.00% | ~114 |
 | This is a Wall | 43.00% | ~98 |
 | Extendable Bridges | 41.00% | ~93 |
+| 48 Attempts | 37.00% | ~84 |
 | Man's Best Friend | 37.00% | ~84 |
 | Chain Reaction | 37.00% | ~84 |
-| 48 Attempts | 36.00% | ~82 |
 | Handyman | 24.00% | ~55 |
 | No Time To Relax | 20.00% | ~46 |
 | Bad Robots | 18.00% | ~41 |
@@ -27,7 +27,7 @@
 | Transformers, cubes in disguise | 11.00% | ~25 |
 | Final Charge | 11.00% | ~25 |
 | Cataclysm | 11.00% | ~25 |
-| Summer Luvin' | 4.00% | ~9 |
+| Summer Luvin' | 5.00% | ~11 |
 | You Are Terminated | 2.00% | ~5 |
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |

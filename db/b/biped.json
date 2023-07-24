@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4478,
+  "EOS_Progressed": 4480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6771,6 +6771,11 @@
       "Time": "2023-07-24T02:09:37.2434177+00:00",
       "NumProgressed": 4478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T03:08:08.3206531+00:00",
+      "NumProgressed": 4480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6838,7 +6843,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "3",
@@ -6894,14 +6899,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4478,
+      "Progressed": 4480,
       "Completed": 0
     }
   ],
@@ -6909,8 +6914,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:09:37.2434173+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:08:08.3206524+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:01:34.9061498+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:09:37.2434553+00:00"
+  "LastUpdate_Ratings": "2023-07-24T02:59:09.4367607+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:08:08.3207043+00:00"
 }

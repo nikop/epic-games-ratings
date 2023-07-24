@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,969 |
-| The Blues | 85.00% | ~610,428 |
-| Fast | 66.00% | ~473,980 |
-| Healthbar | 55.00% | ~394,983 |
-| Force Cube | 53.00% | ~380,620 |
-| Double Jump | 48.00% | ~344,712 |
-| Regeneration | 47.00% | ~337,531 |
-| Climb the hill | 42.00% | ~301,623 |
-| Triple Jump | 42.00% | ~301,623 |
-| Through the fire pipe | 38.00% | ~272,897 |
-| MacGuffin | 38.00% | ~272,897 |
-| Just once | 36.00% | ~258,534 |
-| Armor | 30.00% | ~215,445 |
-| True holy spirit | 27.00% | ~193,901 |
-| That's how electronics work obviously | 26.00% | ~186,719 |
+| Out of bed | 99.00% | ~710,972 |
+| The Blues | 85.00% | ~610,431 |
+| Fast | 66.00% | ~473,982 |
+| Healthbar | 55.00% | ~394,985 |
+| Force Cube | 53.00% | ~380,622 |
+| Double Jump | 48.00% | ~344,714 |
+| Regeneration | 47.00% | ~337,532 |
+| Climb the hill | 42.00% | ~301,625 |
+| Triple Jump | 42.00% | ~301,625 |
+| Through the fire pipe | 38.00% | ~272,899 |
+| MacGuffin | 38.00% | ~272,899 |
+| Just once | 36.00% | ~258,535 |
+| Armor | 30.00% | ~215,446 |
+| True holy spirit | 27.00% | ~193,902 |
+| That's how electronics work obviously | 26.00% | ~186,720 |
 | Force Cube Catapult | 25.00% | ~179,538 |
 | Holy Sword | 23.00% | ~165,175 |
-| Telefrag | 22.00% | ~157,993 |
+| Telefrag | 22.00% | ~157,994 |
 | Freed from prison | 21.00% | ~150,812 |
 | Stomp | 21.00% | ~150,812 |
-| Double Health | 18.00% | ~129,267 |
+| Double Health | 18.00% | ~129,268 |
 | Buckle | 17.00% | ~122,086 |
 | Green Keycard | 17.00% | ~122,086 |
 | Rattle Hag | 15.00% | ~107,723 |
-| All Shells | 14.00% | ~100,541 |
-| Beam | 14.00% | ~100,541 |
+| All Shells | 14.00% | ~100,542 |
+| Beam | 14.00% | ~100,542 |
 | Health Drink | 13.00% | ~93,360 |
 | 9 | 13.00% | ~93,360 |
 | Purple Cube | 13.00% | ~93,360 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~718 |
 | DLC: Top of the world | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,151 (Ranked 17)  
+Progressed: 718,154 (Ranked 17)  
 Completed: 712 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 712 (0.10%) (Ranked 187)
 | 2023-07-21 | 717,792 | 712 |
 | 2023-07-22 | 717,960 | 712 |
 | 2023-07-23 | 718,135 | 712 |
-| 2023-07-24 | 718,151 | 712 |
+| 2023-07-24 | 718,154 | 712 |
 ## Awards
 Max (Challenging Puzzles): 7,650  (Ranked 43)  
 Sum: 9,965 (Ranked 81)  

@@ -3,11 +3,11 @@
   "Name": "Ticket to Ride",
   "ProductSlug": "ticket-to-ride",
   "Ranking_Rating": 347,
-  "Ranking_Popularity": 381,
+  "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2012-05-24T08:00:00+00:00",
@@ -521,18 +521,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 379,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-07-24T03:01:32.7070161+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 379,
-  "NumberOfAwardsMax": 65,
+  "NumberOfAwards": 380,
+  "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -620,9 +626,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
-  "LastChanged": "2023-07-11T19:59:44.1101477+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:07:43.9626429+00:00",
+  "LastChanged": "2023-07-24T03:01:32.7070159+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:05:28.6695535+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:43.8236548+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:03:14.574499+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:07:43.9626455+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:01:32.7070165+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:05:28.6695592+00:00"
 }

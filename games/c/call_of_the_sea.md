@@ -5,43 +5,43 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~83,936 |
-| 74 miles East of Otaheité | 55.00% | ~58,436 |
-| Interesting... | 41.00% | ~43,562 |
-| The Everhart Expedition | 39.00% | ~41,437 |
-| Seaside Serenade | 30.00% | ~31,874 |
-| Halfway there | 29.00% | ~30,812 |
-| The Vanishing of the Lady Shannon | 29.00% | ~30,812 |
-| A brigantine, a brig and a barque | 28.00% | ~29,749 |
-| Weekend at Walakea's | 27.00% | ~28,687 |
-| 506 East Hampden Avenue | 27.00% | ~28,687 |
-| Quite a Show | 26.00% | ~27,624 |
+| A Family Heirloom | 79.00% | ~83,938 |
+| 74 miles East of Otaheité | 55.00% | ~58,438 |
+| Interesting... | 41.00% | ~43,563 |
+| The Everhart Expedition | 39.00% | ~41,438 |
+| Seaside Serenade | 30.00% | ~31,875 |
+| Halfway there | 29.00% | ~30,813 |
+| The Vanishing of the Lady Shannon | 29.00% | ~30,813 |
+| A brigantine, a brig and a barque | 28.00% | ~29,750 |
+| Weekend at Walakea's | 27.00% | ~28,688 |
+| 506 East Hampden Avenue | 27.00% | ~28,688 |
+| Quite a Show | 26.00% | ~27,625 |
 | Dark Water Ride | 24.00% | ~25,500 |
-| Sunken | 23.00% | ~24,437 |
-| Deep Cut | 23.00% | ~24,437 |
+| Sunken | 23.00% | ~24,438 |
+| Deep Cut | 23.00% | ~24,438 |
 | FHALGOF'N' | 22.00% | ~23,375 |
 | Marsh Cannery | 20.00% | ~21,250 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~18,062 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~18,063 |
 | The only thing I have now | 16.00% | ~17,000 |
-| Not Another Boring Slideshow! | 15.00% | ~15,937 |
-| Naacalvision | 15.00% | ~15,937 |
-| I'll make a note of that... | 9.00% | ~9,562 |
-| The Norahnomicon | 9.00% | ~9,562 |
+| Not Another Boring Slideshow! | 15.00% | ~15,938 |
+| Naacalvision | 15.00% | ~15,938 |
+| I'll make a note of that... | 9.00% | ~9,563 |
+| The Norahnomicon | 9.00% | ~9,563 |
 | Written in Stone | 6.00% | ~6,375 |
 | Play it again, Norah | 6.00% | ~6,375 |
 | Underwater Royalty | 6.00% | ~6,375 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,250 |
 | Fawning Developers | 4.00% | ~4,250 |
 | Candid Photo | 4.00% | ~4,250 |
-| The Lady Shannon Recording | 3.00% | ~3,187 |
+| The Lady Shannon Recording | 3.00% | ~3,188 |
 | You looked that up in a guide! | 2.00% | ~2,125 |
 | Soundcheck | 2.00% | ~2,125 |
 | Otherwordly Portal | 2.00% | ~2,125 |
-| Gently down the stream... | 1.00% | ~1,062 |
-| Meta-reference | 1.00% | ~1,062 |
+| Gently down the stream... | 1.00% | ~1,063 |
+| Meta-reference | 1.00% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106,248 (Ranked 68)  
-Completed: 830 (0.78%) (Ranked 111)  
+Progressed: 106,251 (Ranked 68)  
+Completed: 831 (0.78%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 830 (0.78%) (Ranked 111)
 | 2023-07-21 | 105,552 | 822 |
 | 2023-07-22 | 105,874 | 826 |
 | 2023-07-23 | 106,221 | 830 |
-| 2023-07-24 | 106,248 | 830 |
+| 2023-07-24 | 106,251 | 831 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

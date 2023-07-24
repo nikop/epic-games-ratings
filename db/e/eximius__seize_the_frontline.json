@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192823,
+  "EOS_Progressed": 192828,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10362,6 +10362,11 @@
       "Time": "2023-07-24T02:09:35.2324693+00:00",
       "NumProgressed": 192823,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T03:08:05.6708026+00:00",
+      "NumProgressed": 192828,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -10381,7 +10386,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 136904
+      "UsersEstimate": 136908
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -10405,7 +10410,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34708
+      "UsersEstimate": 34709
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -10477,7 +10482,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -10500,7 +10505,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 192823,
+      "Progressed": 192828,
       "Completed": 4
     }
   ],
@@ -10508,8 +10513,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-15T20:00:05.0110096+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:09:35.2324689+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:08:05.670802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.473583+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:03:08.2974416+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:09:35.2325247+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:01:21.3014668+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:08:05.6708754+00:00"
 }

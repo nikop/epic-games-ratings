@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.20% | ~26 |
 | Glorious | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
+| Intercessor | 0.20% | ~26 |
 | Keystone | 0.20% | ~26 |
 | Learned | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
-| Intercessor | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,057 (Ranked 115)  
+Progressed: 13,059 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 5 (0.04%) (Ranked 210)
 | 2023-07-21 | 12,996 | 5 |
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
-| 2023-07-24 | 13,057 | 5 |
+| 2023-07-24 | 13,059 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

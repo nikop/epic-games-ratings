@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -250,6 +250,11 @@
     {
       "Time": "2023-07-24T02:06:49.6988482+00:00",
       "NumProgressed": 68,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T03:04:13.1808115+00:00",
+      "NumProgressed": 69,
       "NumCompleted": 0
     }
   ],
@@ -533,7 +538,7 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -614,14 +619,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-24T02:06:49.6988478+00:00",
+  "LastChanged_Achievements": "2023-07-24T03:04:13.180811+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-24T02:02:17.9588349+00:00",
-  "LastUpdate_Achievements": "2023-07-24T02:06:49.6988795+00:00"
+  "LastUpdate_Ratings": "2023-07-24T03:00:13.4485311+00:00",
+  "LastUpdate_Achievements": "2023-07-24T03:04:13.1808487+00:00"
 }
