@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226769,
+  "EOS_Progressed": 226773,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10078,6 +10078,11 @@
       "Time": "2023-07-24T13:16:25.999132+00:00",
       "NumProgressed": 226769,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T14:04:49.218698+00:00",
+      "NumProgressed": 226773,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10153,7 +10158,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81637
+      "UsersEstimate": 81638
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -10233,7 +10238,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77101
+      "UsersEstimate": 77103
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10249,7 +10254,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49889
+      "UsersEstimate": 49890
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -10312,7 +10317,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226769,
+      "Progressed": 226773,
       "Completed": 3
     }
   ],
@@ -10320,8 +10325,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:16:25.9991316+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:04:49.2186973+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:12:22.0320028+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:16:25.999216+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:46.845644+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:04:49.2188223+00:00"
 }

@@ -5248,9 +5248,9 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215062,
+  "EOS_Progressed": 215064,
   "EOS_Completed": 2060,
-  "EOS_NewPlayers": 2378,
+  "EOS_NewPlayers": 2365,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -15413,6 +15413,11 @@
       "Time": "2023-07-24T07:07:08.1996969+00:00",
       "NumProgressed": 215062,
       "NumCompleted": 2060
+    },
+    {
+      "Time": "2023-07-24T14:07:11.1676971+00:00",
+      "NumProgressed": 215064,
+      "NumCompleted": 2060
     }
   ],
   "TotalAchievements": 512,
@@ -18606,9 +18611,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_76",
@@ -19519,21 +19524,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181336,
+      "Progressed": 181338,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215062,
+      "Progressed": 215064,
       "Completed": 2060
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-24T13:10:28.7128466+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:18:28.5250503+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:07:11.1676966+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:10:28.7128475+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:18:28.5277002+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:58:56.5975748+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:07:11.1714297+00:00"
 }

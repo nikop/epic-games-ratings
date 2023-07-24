@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1158,6 +1158,11 @@
       "Time": "2023-07-21T23:05:03.7991565+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T14:05:11.181455+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1273,7 +1278,7 @@
       "Name": "Explorer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_COLL_20",
@@ -1281,7 +1286,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1297,7 +1302,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1329,7 +1334,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -1393,7 +1398,7 @@
       "Name": "Cowardice",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1401,7 +1406,7 @@
       "Name": "The Breaking Point",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1409,7 +1414,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1423,9 +1428,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1433,15 +1438,15 @@
       "Name": "Opportunities",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1473,7 +1478,7 @@
       "Name": "Sorrow",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -1495,9 +1500,9 @@
       "ID": "ACH_HARD_ALL",
       "SetID": "1j25agn",
       "Name": "Piece of Cake",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_HEAL",
@@ -1513,7 +1518,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1537,7 +1542,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1553,7 +1558,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1561,7 +1566,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1585,7 +1590,7 @@
       "Name": "Food Massacre",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -1593,7 +1598,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1607,9 +1612,9 @@
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_NEST2",
@@ -1617,7 +1622,7 @@
       "Name": "Daddy Would Be Proud",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_NODETECT",
@@ -1640,15 +1645,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:16:38.0208196+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:05:11.1814544+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.8323679+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:09:46.370686+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:16:38.0208822+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:58:11.3030224+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:05:11.1815254+00:00"
 }

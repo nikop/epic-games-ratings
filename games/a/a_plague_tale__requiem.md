@@ -14,12 +14,12 @@ Rating: 4.73 (Ranked 158)
 | Leaving all Behind | 64.00% | ~7,832 |
 | Felons | 61.00% | ~7,465 |
 | A Sea of Promises | 60.00% | ~7,342 |
-| Tales and Revelations | 56.00% | ~6,853 |
+| Tales and Revelations | 57.00% | ~6,975 |
 | Bloodline | 52.00% | ~6,363 |
 | The Cradle of Centuries | 48.00% | ~5,874 |
 | The Life We Deserve | 45.00% | ~5,507 |
 | Night guard | 42.00% | ~5,140 |
-| Nothing Left | 38.00% | ~4,650 |
+| Nothing Left | 39.00% | ~4,772 |
 | Healing our Wounds | 36.00% | ~4,405 |
 | Dying Sun | 33.00% | ~4,038 |
 | Improved crossbow | 26.00% | ~3,182 |

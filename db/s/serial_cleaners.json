@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 219,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.76,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -351,6 +351,11 @@
       "Time": "2023-07-24T10:04:11.7774271+00:00",
       "NumProgressed": 217,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-24T14:04:20.072104+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -400,9 +405,9 @@
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -434,7 +439,7 @@
       "Name": "So it goes",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -520,9 +525,9 @@
       "ID": "PERFECT_CLEANED_ONE_MAP",
       "SetID": "2lk004m",
       "Name": "Mr. Hygeni",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -536,30 +541,30 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 80,
+      "Progressed": 82,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 219,
       "Completed": 6
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:15:56.373247+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:04:20.0721031+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:11:40.5766953+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:15:56.3732678+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:06.3248526+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:04:20.0721243+00:00"
 }

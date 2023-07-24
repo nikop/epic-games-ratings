@@ -5,38 +5,38 @@ Rating: 4.35 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 90.00% | ~361 |
-| Luc Piette | 75.00% | ~301 |
+| It Wasn’t a Burglary | 90.00% | ~362 |
+| Luc Piette | 75.00% | ~302 |
 | Angeline Van den Bosch | 73.00% | ~293 |
 | Elizabeth Padget | 69.00% | ~277 |
 | Little Grey Cells | 68.00% | ~273 |
-| The Bracelet | 65.00% | ~261 |
+| The Bracelet | 64.00% | ~257 |
 | The Blackmail | 55.00% | ~221 |
 | Major Felix Hagen | 55.00% | ~221 |
 | Florette Duval | 54.00% | ~217 |
-| Order and Method | 53.00% | ~213 |
 | Fine-toothed Comb | 53.00% | ~213 |
-| The Altercation | 50.00% | ~200 |
-| Truth from Within | 49.00% | ~196 |
-| The Major | 47.00% | ~188 |
-| Comtesse Margaux de Vos | 45.00% | ~180 |
-| Curious and Beautiful | 44.00% | ~176 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~176 |
-| The Interrogations | 43.00% | ~172 |
-| Well-acquainted | 42.00% | ~168 |
-| Zakariya Demir | 41.00% | ~164 |
-| Well-read | 39.00% | ~156 |
-| Cassandra Van den Bosch | 37.00% | ~148 |
-| The Secret | 37.00% | ~148 |
-| Gedeon Demir | 35.00% | ~140 |
-| Rehana Piette | 34.00% | ~136 |
-| Instinct is Marvellous | 32.00% | ~128 |
-| Ernesto da Silva | 32.00% | ~128 |
-| Inge Frank | 31.00% | ~124 |
-| The Search | 30.00% | ~120 |
-| Hugo Beckers | 29.00% | ~116 |
-| The Family | 27.00% | ~108 |
-| Well-travelled | 26.00% | ~104 |
+| Order and Method | 52.00% | ~209 |
+| The Altercation | 50.00% | ~201 |
+| Truth from Within | 49.00% | ~197 |
+| The Major | 47.00% | ~189 |
+| Comtesse Margaux de Vos | 45.00% | ~181 |
+| Curious and Beautiful | 44.00% | ~177 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~177 |
+| The Interrogations | 43.00% | ~173 |
+| Well-acquainted | 42.00% | ~169 |
+| Zakariya Demir | 41.00% | ~165 |
+| Well-read | 39.00% | ~157 |
+| Cassandra Van den Bosch | 37.00% | ~149 |
+| The Secret | 37.00% | ~149 |
+| Gedeon Demir | 35.00% | ~141 |
+| Rehana Piette | 34.00% | ~137 |
+| Instinct is Marvellous | 32.00% | ~129 |
+| Ernesto da Silva | 32.00% | ~129 |
+| Inge Frank | 31.00% | ~125 |
+| The Search | 30.00% | ~121 |
+| Hugo Beckers | 29.00% | ~117 |
+| The Family | 27.00% | ~109 |
+| Well-travelled | 26.00% | ~105 |
 | Thinking of Everything | 25.00% | ~100 |
 | Exquisite Artwork | 25.00% | ~100 |
 | Viscount Edwin Van den Bosch | 25.00% | ~100 |
@@ -52,8 +52,8 @@ Rating: 4.35 (Ranked 740)
 | Room with a View | 8.00% | ~32 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401 (Ranked 229)  
-Completed: 6 (1.50%) (Ranked 91)  
+Progressed: 402 (Ranked 229)  
+Completed: 6 (1.49%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 6 (1.50%) (Ranked 91)
 | 2023-07-17 | 396 | 6 |
 | 2023-07-22 | 399 | 6 |
 | 2023-07-23 | 401 | 6 |
+| 2023-07-24 | 402 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

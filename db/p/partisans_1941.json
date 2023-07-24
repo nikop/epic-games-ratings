@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-07-24T12:04:12.7047927+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T14:03:10.5984299+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1670,9 +1675,9 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Big_Bertha",
@@ -1744,7 +1749,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Experienced_strategist",
@@ -1872,7 +1877,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "We_were_not_here",
@@ -1895,15 +1900,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:15:05.5837935+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:03:10.5984293+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:11:38.2447253+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:15:05.5838273+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:03.2334291+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:03:10.5984633+00:00"
 }

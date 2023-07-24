@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2624,
+  "EOS_Progressed": 2626,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2023-07-24T12:06:21.0161716+00:00",
       "NumProgressed": 2624,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-24T14:05:11.6814413+00:00",
+      "NumProgressed": 2626,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2111,7 +2116,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_CLIMBER",
@@ -2135,7 +2140,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2149,9 +2154,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 656
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2183,7 +2188,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -2191,7 +2196,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2199,14 +2204,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1970
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2624,
+      "Progressed": 2626,
       "Completed": 101
     }
   ],
@@ -2214,8 +2219,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:16:39.1866602+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:05:11.6814407+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:12:53.5316472+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:16:39.1866838+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:01:18.3508509+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:05:11.6814668+00:00"
 }

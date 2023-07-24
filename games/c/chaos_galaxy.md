@@ -10,10 +10,10 @@
 | Assassination | 21.00% | ~4 |
 | Secret War | 16.00% | ~3 |
 | 2nd AI War | 11.00% | ~2 |
+| Princess Crowned | 11.00% | ~2 |
 | Investment | 11.00% | ~2 |
 | Tech Breakthrough | 11.00% | ~2 |
 | Punish Eastgalaxy | 5.00% | ~1 |
-| Princess Crowned | 5.00% | ~1 |
 | Sendai Shogunate | 5.00% | ~1 |
 | Pirate Raid | 5.00% | ~1 |
 | Heaven Tower | 5.00% | ~1 |

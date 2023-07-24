@@ -1336,9 +1336,9 @@
       "ID": "ID_02_SONICCD_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic CD",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -1616,8 +1616,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:13:21.0262771+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:01:47.2769354+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.4163627+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:10:10.1271422+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:13:21.026311+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:58:37.5662784+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:01:47.2769699+00:00"
 }

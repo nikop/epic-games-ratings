@@ -5,41 +5,41 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~114 |
-| Your first fight | 86.00% | ~112 |
+| Your first fight | 87.00% | ~113 |
 | Good Person Chip | 85.00% | ~110 |
-| First winning | 82.00% | ~107 |
-| Your first job | 82.00% | ~107 |
-| First defeat | 75.00% | ~98 |
+| First winning | 84.00% | ~109 |
+| Your first job | 84.00% | ~109 |
+| First defeat | 76.00% | ~99 |
+| Old movies enjoyer | 74.00% | ~96 |
 | Neurotrainer – power gainer! | 74.00% | ~96 |
-| Old movies enjoyer | 73.00% | ~95 |
-| Fitness professional | 72.00% | ~94 |
-| Depressed visitor | 72.00% | ~94 |
-| Employee of the week | 72.00% | ~94 |
-| Your own amateur gym | 65.00% | ~84 |
+| Fitness professional | 73.00% | ~95 |
+| Depressed visitor | 73.00% | ~95 |
+| Employee of the week | 73.00% | ~95 |
+| Your own amateur gym | 67.00% | ~87 |
 | No bullying more | 62.00% | ~81 |
 | Run K, run! | 62.00% | ~81 |
 | Hello, world! | 62.00% | ~81 |
-| Intriguing candies | 58.00% | ~75 |
-| Fighting is cool | 55.00% | ~72 |
+| Intriguing candies | 59.00% | ~77 |
+| Fighting is cool | 57.00% | ~74 |
 | Pal of your father? | 52.00% | ~68 |
 | Spirit of the past | 50.00% | ~65 |
 | Employee of the month | 50.00% | ~65 |
 | Little hacker | 49.00% | ~64 |
+| Law student | 45.00% | ~58 |
 | Your own way | 45.00% | ~58 |
-| Law student | 44.00% | ~57 |
-| Workout professional | 42.00% | ~55 |
+| Workout professional | 43.00% | ~56 |
 | Champion – starter pack | 40.00% | ~52 |
+| It's good to be alive | 40.00% | ~52 |
 | Fight for life | 39.00% | ~51 |
 | Handyman | 39.00% | ~51 |
-| It's good to be alive | 39.00% | ~51 |
 | Own four walls | 39.00% | ~51 |
 | Extreme neuropower! | 38.00% | ~49 |
-| Employee of the year | 37.00% | ~48 |
+| Employee of the year | 38.00% | ~49 |
 | Legal courier | 33.00% | ~43 |
 | Now you are worthy | 32.00% | ~42 |
 | Escaped from a big trouble | 31.00% | ~40 |
+| No blades in the gym | 28.00% | ~36 |
 | Guiding on the right path | 28.00% | ~36 |
-| No blades in the gym | 27.00% | ~35 |
 | Fight is life | 25.00% | ~32 |
 | Mysterious voice | 25.00% | ~32 |
 | Responsible approach | 24.00% | ~31 |
@@ -50,9 +50,9 @@
 | The die is cast | 20.00% | ~26 |
 | Gang wrangler | 19.00% | ~25 |
 | Champion – no way back | 19.00% | ~25 |
+| Anyone can resist | 18.00% | ~23 |
 | Seashell hunter | 18.00% | ~23 |
 | GYM professional | 17.00% | ~22 |
-| Anyone can resist | 17.00% | ~22 |
 | Problems of cyborgs | 15.00% | ~20 |
 | Poisoned fighter | 15.00% | ~20 |
 | The last bell ring | 15.00% | ~20 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 9.00% | ~12 |
 | Silver’s past | 8.00% | ~10 |
 | Better cooking at home | 8.00% | ~10 |
-| The only right decision | 7.00% | ~9 |
+| The only right decision | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 130 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 240)  

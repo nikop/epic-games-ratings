@@ -4,7 +4,7 @@
   "ProductSlug": "chaos-galaxy-a33dac",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "18",
       "SetID": "4fgie3j",
       "Name": "Princess Crowned",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "19",
@@ -481,8 +481,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:17:40.345922+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:06:12.7749596+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:34.2150233+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:12:08.9160815+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:17:40.3459634+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:34.6941768+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:06:12.7750012+00:00"
 }

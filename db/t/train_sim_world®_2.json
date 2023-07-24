@@ -2,7 +2,7 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 510,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 2541,
   "RatingHistory": [
     {
@@ -2594,6 +2594,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 4231,
       "NumberOfAwardsMax": 552
+    },
+    {
+      "Time": "2023-07-24T13:58:00.6795295+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4231,
+      "NumberOfAwardsMax": 552
     }
   ],
   "ReviewsDisabled": false,
@@ -2679,8 +2685,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-07-23T13:57:37.6921397+00:00",
+  "LastChanged": "2023-07-24T13:58:00.6795292+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:09.2720657+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:09:37.0707119+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:14:12.2272059+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:58:00.67953+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:01:57.8716615+00:00"
 }

@@ -6018,9 +6018,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 204
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -6200,8 +6200,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-22T11:59:16.0371547+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:15:05.2842462+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:03:10.3613138+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:11:38.6959275+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:15:05.284308+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:03.6113281+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:03:10.3613702+00:00"
 }

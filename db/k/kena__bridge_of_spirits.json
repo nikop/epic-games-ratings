@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1226,9 +1226,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 426957,
+  "EOS_Progressed": 426958,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7981,6 +7981,11 @@
       "Time": "2023-07-24T13:14:17.6102166+00:00",
       "NumProgressed": 426957,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-07-24T14:02:03.4311761+00:00",
+      "NumProgressed": 426958,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 41,
@@ -8008,7 +8013,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256174
+      "UsersEstimate": 256175
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -8024,7 +8029,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106739
+      "UsersEstimate": 106740
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -8072,7 +8077,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256174
+      "UsersEstimate": 256175
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -8128,7 +8133,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196400
+      "UsersEstimate": 196401
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -8160,7 +8165,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405609
+      "UsersEstimate": 405610
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -8176,7 +8181,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307409
+      "UsersEstimate": 307410
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -8192,7 +8197,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294600
+      "UsersEstimate": 294601
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -8248,7 +8253,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136626
+      "UsersEstimate": 136627
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -8256,7 +8261,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115278
+      "UsersEstimate": 115279
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -8264,7 +8269,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115278
+      "UsersEstimate": 115279
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -8288,7 +8293,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145165
+      "UsersEstimate": 145166
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -8296,7 +8301,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115278
+      "UsersEstimate": 115279
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -8319,15 +8324,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426957,
+      "Progressed": 426958,
       "Completed": 521
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-23T06:58:30.8356744+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:14:17.6102162+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:02:03.4311752+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.8486153+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:10:40.8794726+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:14:17.61031+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:59:09.1784448+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:02:03.4312673+00:00"
 }

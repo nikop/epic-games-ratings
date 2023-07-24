@@ -543,9 +543,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 218140,
+  "EOS_Progressed": 218142,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10673,6 +10673,11 @@
       "Time": "2023-07-24T13:17:23.3925726+00:00",
       "NumProgressed": 218140,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T14:05:55.2822448+00:00",
+      "NumProgressed": 218142,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -10692,7 +10697,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54535
+      "UsersEstimate": 54536
     },
     {
       "ID": "ACH_BASE_11",
@@ -10764,7 +10769,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13088
+      "UsersEstimate": 13089
     },
     {
       "ID": "ACH_BASE_20",
@@ -10955,7 +10960,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 218140,
+      "Progressed": 218142,
       "Completed": 4
     }
   ],
@@ -10963,8 +10968,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-21T21:59:39.6376149+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:17:23.3925722+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:05:55.2822442+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2623372+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:10:54.0710447+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:17:23.3926501+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:59:20.7539508+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:05:55.2823431+00:00"
 }

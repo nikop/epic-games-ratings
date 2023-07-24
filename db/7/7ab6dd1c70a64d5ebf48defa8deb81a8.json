@@ -146,9 +146,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_08",
@@ -210,9 +210,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_16",
@@ -274,9 +274,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_24",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:15:26.5686684+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:09:06.550861+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:15:26.5686984+00:00"
+  "LastChanged_Achievements": "2023-07-24T14:03:30.8305718+00:00",
+  "LastUpdate_Ratings": "2023-07-24T13:57:30.9613517+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:03:30.8306042+00:00"
 }

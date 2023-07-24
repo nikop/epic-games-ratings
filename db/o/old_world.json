@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 13067,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8682,9 +8682,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 3)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_SILVER",
@@ -10808,8 +10808,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:17:02.2702583+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:05:35.1842643+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:10:19.4246236+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:17:02.2710914+00:00"
+  "LastUpdate_Ratings": "2023-07-24T13:58:45.180442+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:05:35.185276+00:00"
 }

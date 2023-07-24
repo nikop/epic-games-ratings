@@ -5798,9 +5798,9 @@
       "ID": "ACH_09",
       "SetID": "9d4cf4c",
       "Name": "Tales and Revelations",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 6853
+      "UsersEstimate": 6975
     },
     {
       "ID": "ACH_10",
@@ -5830,9 +5830,9 @@
       "ID": "ACH_13",
       "SetID": "9d4cf4c",
       "Name": "Nothing Left",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4772
     },
     {
       "ID": "ACH_14",
@@ -6023,8 +6023,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-24T13:13:21.6463293+00:00",
+  "LastChanged_Achievements": "2023-07-24T14:01:47.9159372+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.4087699+00:00",
-  "LastUpdate_Ratings": "2023-07-24T13:11:54.1271459+00:00",
-  "LastUpdate_Achievements": "2023-07-24T13:13:21.6463932+00:00"
+  "LastUpdate_Ratings": "2023-07-24T14:00:20.1474904+00:00",
+  "LastUpdate_Achievements": "2023-07-24T14:01:47.9159992+00:00"
 }
