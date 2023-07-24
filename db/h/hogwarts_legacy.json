@@ -5400,9 +5400,9 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 288437,
+  "EOS_Progressed": 288438,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15570,6 +15570,11 @@
       "Time": "2023-07-24T07:04:28.7646082+00:00",
       "NumProgressed": 288437,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-24T08:04:35.5229184+00:00",
+      "NumProgressed": 288438,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15581,7 +15586,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34612
+      "UsersEstimate": 34613
     },
     {
       "ID": "PFA_10",
@@ -15669,7 +15674,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11537
+      "UsersEstimate": 11538
     },
     {
       "ID": "PFA_20",
@@ -15821,7 +15826,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "PFA_38",
@@ -15861,7 +15866,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11537
+      "UsersEstimate": 11538
     },
     {
       "ID": "PFA_42",
@@ -15940,7 +15945,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288437,
+      "Progressed": 288438,
       "Completed": 434
     }
   ],
@@ -15948,8 +15953,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-24T05:58:23.2464092+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:04:28.7646076+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:04:35.5229178+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:57:59.618503+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:04:28.7647206+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:57:54.0299417+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:04:35.5230132+00:00"
 }

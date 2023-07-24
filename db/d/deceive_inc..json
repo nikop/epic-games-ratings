@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7467,
+  "EOS_Progressed": 7468,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6163,6 +6163,11 @@
       "Time": "2023-07-24T03:02:57.4708973+00:00",
       "NumProgressed": 7467,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-24T08:02:05.7598608+00:00",
+      "NumProgressed": 7468,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6238,7 +6243,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "0010",
@@ -6326,7 +6331,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "0021",
@@ -6382,7 +6387,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "0028",
@@ -6390,7 +6395,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "0029",
@@ -6406,7 +6411,7 @@
       "Name": "For your Eyes only",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "0031",
@@ -6461,7 +6466,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7467,
+      "Progressed": 7468,
       "Completed": 1
     }
   ],
@@ -6469,8 +6474,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:02:07.823701+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:02:05.7598602+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:00:33.116049+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:02:07.8237745+00:00"
+  "LastUpdate_Ratings": "2023-07-24T08:00:30.3411603+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:02:05.7599148+00:00"
 }

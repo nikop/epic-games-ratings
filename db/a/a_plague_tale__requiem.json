@@ -350,7 +350,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12234,
+  "EOS_Progressed": 12235,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
@@ -5710,6 +5710,11 @@
       "Time": "2023-07-24T06:02:43.1921464+00:00",
       "NumProgressed": 12234,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-24T08:01:42.6239487+00:00",
+      "NumProgressed": 12235,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -5721,7 +5726,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11255
+      "UsersEstimate": 11256
     },
     {
       "ID": "ACH_02",
@@ -5737,7 +5742,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "ACH_04",
@@ -5745,7 +5750,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8442
     },
     {
       "ID": "ACH_05",
@@ -5777,7 +5782,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7340
+      "UsersEstimate": 7341
     },
     {
       "ID": "ACH_09",
@@ -5785,7 +5790,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ACH_10",
@@ -5801,7 +5806,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5872
+      "UsersEstimate": 5873
     },
     {
       "ID": "ACH_12",
@@ -5809,7 +5814,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "ACH_13",
@@ -5825,7 +5830,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ACH_15",
@@ -5833,7 +5838,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4038
     },
     {
       "ID": "ACH_16",
@@ -5905,7 +5910,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_25",
@@ -5929,7 +5934,7 @@
       "Name": "Night guard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "ACH_28",
@@ -5937,7 +5942,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8319
+      "UsersEstimate": 8320
     },
     {
       "ID": "ACH_29",
@@ -5969,7 +5974,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ACH_33",
@@ -6000,7 +6005,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12234,
+      "Progressed": 12235,
       "Completed": 38
     }
   ],
@@ -6008,8 +6013,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:01:44.2155978+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:01:42.6239481+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.4087699+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:00:17.3479206+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:01:44.2157139+00:00"
+  "LastUpdate_Ratings": "2023-07-24T08:00:14.7138138+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:01:42.6240126+00:00"
 }

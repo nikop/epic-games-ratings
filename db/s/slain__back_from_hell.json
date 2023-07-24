@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -193,7 +193,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31176,
+  "EOS_Progressed": 31179,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 0,
@@ -10413,6 +10413,11 @@
       "Time": "2023-07-24T07:04:17.9781226+00:00",
       "NumProgressed": 31176,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-24T08:04:24.8168431+00:00",
+      "NumProgressed": 31179,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10424,7 +10429,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10432,7 +10437,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6235
+      "UsersEstimate": 6236
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10655,7 +10660,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31176,
+      "Progressed": 31179,
       "Completed": 20
     }
   ],
@@ -10663,8 +10668,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:04:17.97812+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:04:24.8168425+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:00:59.2095128+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:04:17.9782721+00:00"
+  "LastUpdate_Ratings": "2023-07-24T08:00:54.9752221+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:04:24.8169128+00:00"
 }

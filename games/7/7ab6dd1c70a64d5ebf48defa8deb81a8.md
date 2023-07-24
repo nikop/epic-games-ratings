@@ -3,20 +3,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Calm before the Storm | 25.00% | ~5 |
+| Scholar | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
-| Calm before the Storm | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
-| Scholar | 20.00% | ~4 |
 | The Collector | 20.00% | ~4 |
+| Tributes of Caladrias | 15.00% | ~3 |
+| Essence Blow | 15.00% | ~3 |
+| Flawless Victory | 15.00% | ~3 |
 | Geared Up | 15.00% | ~3 |
 | Stone Collection | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
 | Adventurer | 10.00% | ~2 |
-| Tributes of Caladrias | 10.00% | ~2 |
-| Essence Blow | 10.00% | ~2 |
 | Alchemist | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
-| Flawless Victory | 5.00% | ~1 |
+| Big Bazar | 5.00% | ~1 |
 | I Found It | 5.00% | ~1 |
 | Miner | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

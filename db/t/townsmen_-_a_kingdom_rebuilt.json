@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "ID": "ACHIEVEMENT_PRESTIGE2",
       "SetID": "9eacipp",
       "Name": "An honorable Governor II",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1244,9 +1244,9 @@
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
       "SetID": "9eacipp",
       "Name": "Researcher",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -1700,8 +1700,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:04:58.4760013+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:05:04.8066272+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:58:38.2734604+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:04:58.4761451+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:58:34.2427316+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:05:04.8067589+00:00"
 }

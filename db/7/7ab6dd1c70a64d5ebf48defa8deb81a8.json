@@ -122,9 +122,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_05",
@@ -210,17 +210,17 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17",
@@ -250,17 +250,17 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 5,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_22",
@@ -298,9 +298,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_27",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:03:43.2356662+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:57:18.0426447+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:03:43.2357148+00:00"
+  "LastChanged_Achievements": "2023-07-24T08:03:40.0589871+00:00",
+  "LastUpdate_Ratings": "2023-07-24T07:57:12.9128428+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:03:40.0590133+00:00"
 }

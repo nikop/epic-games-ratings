@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.79,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -341,6 +341,11 @@
       "Time": "2023-07-23T15:04:24.0406368+00:00",
       "NumProgressed": 215,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-24T08:04:25.1949146+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -382,9 +387,9 @@
       "ID": "CHAPTER2_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Pride and Joy",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -424,7 +429,7 @@
       "Name": "So it goes",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -543,13 +548,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 6
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:04:18.3102597+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:04:25.1949139+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:00:03.1737994+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:04:18.3102909+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:59:59.2221454+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:04:25.1949332+00:00"
 }

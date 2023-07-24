@@ -27,7 +27,7 @@
 | Furious Scorpion Killer | 35.00% | ~23 |
 | Lethal Blade Mantis Killer | 33.00% | ~22 |
 | Squeaky Clean | 33.00% | ~22 |
-| Kind Adventurer | 32.00% | ~21 |
+| Kind Adventurer | 33.00% | ~22 |
 | Master Artificer | 32.00% | ~21 |
 | Mermaid Killer | 29.00% | ~19 |
 | Face Slapper | 27.00% | ~18 |
@@ -35,8 +35,8 @@
 | Master Cook | 20.00% | ~13 |
 | Berserker Slayer | 15.00% | ~10 |
 | Warden Slayer | 15.00% | ~10 |
+| Boss challenge | 14.00% | ~9 |
 | Giantess Slayer | 14.00% | ~9 |
-| Boss challenge | 12.00% | ~8 |
 | Big Face Goalkeeper Challenge | 5.00% | ~3 |
 | Rebellious | 3.00% | ~2 |
 | Blade Mantis Challenge | 3.00% | ~2 |

@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,611 |
-| That's a Grand Army | 8.00% | ~5,876 |
-| That is mine! | 8.00% | ~5,876 |
-| Victorious! | 8.00% | ~5,876 |
-| Brothers in Arms | 6.00% | ~4,407 |
-| That's a Grand Navy | 6.00% | ~4,407 |
-| Seriously?! | 6.00% | ~4,407 |
+| Until death do us apart | 9.00% | ~6,612 |
+| That's a Grand Army | 8.00% | ~5,877 |
+| That is mine! | 8.00% | ~5,877 |
+| Victorious! | 8.00% | ~5,877 |
+| Brothers in Arms | 6.00% | ~4,408 |
+| That's a Grand Navy | 6.00% | ~4,408 |
+| Seriously?! | 6.00% | ~4,408 |
 | For the Glory | 5.00% | ~3,673 |
-| Cold War | 4.00% | ~2,938 |
-| True Catholic | 4.00% | ~2,938 |
+| Cold War | 4.00% | ~2,939 |
+| True Catholic | 4.00% | ~2,939 |
 | Defender of the Faith | 3.00% | ~2,204 |
 | It's all about luck | 3.00% | ~2,204 |
 | It's all about the money | 3.00% | ~2,204 |
@@ -48,12 +48,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.70% | ~514 |
 | All belongs to Mother Russia | 0.60% | ~441 |
 | At every continent | 0.60% | ~441 |
-| Early-Modern Warfare | 0.60% | ~441 |
 | One Family to Rule them All | 0.60% | ~441 |
 | The pen is mightier than the sword | 0.60% | ~441 |
 | This is My Faith | 0.60% | ~441 |
 | Time Bandit | 0.60% | ~441 |
 | Absolutely | 0.50% | ~367 |
+| Early-Modern Warfare | 0.50% | ~367 |
 | Grand Coalition | 0.50% | ~367 |
 | In the Name of the Father | 0.50% | ~367 |
 | Live Long and Prosper | 0.50% | ~367 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,454 (Ranked 74)  
+Progressed: 73,466 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -456,7 +456,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 72,487 | 0 |
 | 2023-07-22 | 72,954 | 0 |
 | 2023-07-23 | 73,383 | 0 |
-| 2023-07-24 | 73,454 | 0 |
+| 2023-07-24 | 73,466 | 0 |
 ## Awards
 Max (Educational): 5,577  (Ranked 61)  
 Sum: 45,968 (Ranked 26)  

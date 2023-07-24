@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58502,
+  "EOS_Progressed": 58504,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1049,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8857,6 +8857,11 @@
       "Time": "2023-07-24T07:03:47.0287971+00:00",
       "NumProgressed": 58502,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-24T08:03:43.9878007+00:00",
+      "NumProgressed": 58504,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8876,7 +8881,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 12870
+      "UsersEstimate": 12871
     },
     {
       "ID": "03",
@@ -8884,7 +8889,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12285
+      "UsersEstimate": 12286
     },
     {
       "ID": "04",
@@ -8900,7 +8905,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10530
+      "UsersEstimate": 10531
     },
     {
       "ID": "06",
@@ -8908,7 +8913,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "07",
@@ -9092,7 +9097,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7605
+      "UsersEstimate": 7606
     },
     {
       "ID": "30",
@@ -9108,7 +9113,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "32",
@@ -9124,7 +9129,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7605
+      "UsersEstimate": 7606
     },
     {
       "ID": "34",
@@ -9188,7 +9193,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "42",
@@ -9204,7 +9209,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "44",
@@ -9228,7 +9233,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7605
+      "UsersEstimate": 7606
     },
     {
       "ID": "47",
@@ -9332,7 +9337,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "60",
@@ -9403,21 +9408,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58502,
+      "Progressed": 58504,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 21970,
+      "Progressed": 21972,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:03:47.0287964+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:03:43.9877999+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:58:19.1475868+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:03:47.0289898+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:58:11.6368485+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:03:43.9879148+00:00"
 }

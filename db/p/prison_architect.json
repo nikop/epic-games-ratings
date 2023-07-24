@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -4236,9 +4236,9 @@
       "Count": 281
     }
   ],
-  "EOS_Progressed": 154493,
+  "EOS_Progressed": 154503,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3779,
+  "EOS_NewPlayers": 3773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14461,6 +14461,11 @@
       "Time": "2023-07-24T07:04:00.9153994+00:00",
       "NumProgressed": 154493,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-24T08:04:07.6967996+00:00",
+      "NumProgressed": 154503,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -14480,7 +14485,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "Achievement_10",
@@ -14504,7 +14509,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 24719
+      "UsersEstimate": 24720
     },
     {
       "ID": "Achievement_13",
@@ -14512,7 +14517,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Achievement_14",
@@ -14520,7 +14525,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Achievement_15",
@@ -14552,7 +14557,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 40168
+      "UsersEstimate": 40171
     },
     {
       "ID": "Achievement_5",
@@ -14584,7 +14589,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 13904
+      "UsersEstimate": 13905
     },
     {
       "ID": "Achievement_9",
@@ -14599,15 +14604,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 154493,
+      "Progressed": 154503,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-07-23T22:59:53.7820167+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:04:00.9153987+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:04:07.6967989+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:17.7675279+00:00",
-  "LastUpdate_Ratings": "2023-07-24T06:59:21.9815986+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:04:00.9155205+00:00"
+  "LastUpdate_Ratings": "2023-07-24T07:59:16.6032112+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:04:07.6968607+00:00"
 }

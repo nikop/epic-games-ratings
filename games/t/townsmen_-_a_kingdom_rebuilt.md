@@ -12,13 +12,13 @@ Number of Ratings: 37  (23.09.2022)
 | Friends from the past | 9.00% | ~378 |
 | I like to build stuff... I | 8.00% | ~336 |
 | Builder I | 7.00% | ~294 |
+| Researcher | 7.00% | ~294 |
 | Tax-man II | 7.00% | ~294 |
 | A time consuming game I | 7.00% | ~294 |
 | Time for some trade | 7.00% | ~294 |
 | An honorable Governor I | 6.00% | ~252 |
 | Completionist I | 6.00% | ~252 |
 | Full-time job I | 6.00% | ~252 |
-| Researcher | 6.00% | ~252 |
 | Not a small trader anymore | 5.00% | ~210 |
 | Bread for the people I | 5.00% | ~210 |
 | I like to build stuff... II | 5.00% | ~210 |
@@ -30,13 +30,13 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 4.00% | ~168 |
 | The King's new clothes I | 4.00% | ~168 |
 | Builder II | 4.00% | ~168 |
+| An honorable Governor II | 4.00% | ~168 |
 | Tax-man III | 4.00% | ~168 |
 | Conflicting parties | 4.00% | ~168 |
 | Another one bites the dust | 3.00% | ~126 |
 | I like to build stuff... IV | 3.00% | ~126 |
 | Experienced decorator | 3.00% | ~126 |
 | My precious... I | 3.00% | ~126 |
-| An honorable Governor II | 3.00% | ~126 |
 | Full-time job III | 3.00% | ~126 |
 | Tax-man IV | 3.00% | ~126 |
 | A time consuming game III | 3.00% | ~126 |

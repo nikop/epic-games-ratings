@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1340,
+  "EOS_Progressed": 1341,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1258,6 +1258,11 @@
       "Time": "2023-07-23T23:08:12.3256392+00:00",
       "NumProgressed": 1340,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-24T08:07:09.250823+00:00",
+      "NumProgressed": 1341,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1293,7 +1298,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "13",
@@ -1493,7 +1498,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "9",
@@ -1508,15 +1513,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1340,
+      "Progressed": 1341,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-24T07:07:05.1399336+00:00",
+  "LastChanged_Achievements": "2023-07-24T08:07:09.2508224+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.0234782+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:00:18.4993447+00:00",
-  "LastUpdate_Achievements": "2023-07-24T07:07:05.1399829+00:00"
+  "LastUpdate_Ratings": "2023-07-24T08:00:16.1392502+00:00",
+  "LastUpdate_Achievements": "2023-07-24T08:07:09.2508505+00:00"
 }
