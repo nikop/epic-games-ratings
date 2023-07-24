@@ -17,7 +17,7 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.19% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -66,7 +66,7 @@
 | 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 65 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
-| 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.74% |
+| 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 70 | [Lamentum](games/l/lamentum.md) | 2.63% |
@@ -101,7 +101,7 @@
 | 99 | [Chorus](games/c/chorus.md) | 1.22% |
 | 100 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 101 | [Trifox](games/t/trifox.md) | 1.11% |
-| 102 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.09% |
+| 102 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.08% |
 | 103 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 104 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 105 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
@@ -180,10 +180,10 @@
 | 176 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 176 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 180 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 181 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.13% |
 | 181 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
-| 183 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 182 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.12% |
+| 182 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 185 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 185 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 185 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
@@ -508,4 +508,4 @@
 | 241 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 241 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 241 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,938 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,939 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
