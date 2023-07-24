@@ -24,7 +24,7 @@
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.55% |
 | 24 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 9.09% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.77% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.76% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -36,7 +36,7 @@
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.40% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.81% |
-| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
+| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -68,7 +68,7 @@
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.79% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 69 | [Lamentum](games/l/lamentum.md) | 2.65% |
+| 69 | [Lamentum](games/l/lamentum.md) | 2.64% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.45% |
@@ -82,7 +82,7 @@
 | 80 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 81 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 82 | [Night Book](games/n/night_book.md) | 1.91% |
-| 83 | [Frogun](games/f/frogun.md) | 1.90% |
+| 83 | [Frogun](games/f/frogun.md) | 1.89% |
 | 84 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 85 | [Sifu](games/s/sifu.md) | 1.80% |
 | 86 | [Iron Danger](games/i/iron_danger.md) | 1.72% |
@@ -97,7 +97,7 @@
 | 95 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 96 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 97 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
-| 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.22% |
+| 98 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 99 | [Chorus](games/c/chorus.md) | 1.14% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 101 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.10% |
@@ -145,8 +145,8 @@
 | 143 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 144 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 144 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 144 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 147 | [Scrapnaut](games/s/scrapnaut.md) | 0.32% |
+| 146 | [Scrapnaut](games/s/scrapnaut.md) | 0.32% |
+| 146 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
