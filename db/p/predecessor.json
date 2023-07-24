@@ -4,11 +4,11 @@
   "ProductSlug": "predecessor",
   "Ranking_Rating": 654,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 242,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -2260,10 +2260,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2023-07-24T23:02:48.1356599+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 842,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 842,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2340,8 +2346,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-07-24T22:02:25.982052+00:00",
+  "LastChanged": "2023-07-24T23:02:48.1356597+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:20.5525986+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:02:25.9820526+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:02:56.7086217+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:02:48.1356604+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:03:24.4811001+00:00"
 }

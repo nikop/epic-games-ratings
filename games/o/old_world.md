@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
+| Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Great Ziggurat | 0.20% | ~26 |
-| Ishtar Gate | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,074 (Ranked 115)  
-Completed: 5 (0.04%) (Ranked 211)  
+Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

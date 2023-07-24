@@ -6,11 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.40% | ~861 |
-| Beast Intentions | 0.40% | ~861 |
-| Maddening | 0.30% | ~646 |
-| The Silken Swamp | 0.20% | ~430 |
+| A Brief Tour of the Realms | 0.50% | ~1,076 |
+| Beast Intentions | 0.50% | ~1,076 |
+| Maddening | 0.40% | ~861 |
+| The Silken Swamp | 0.30% | ~646 |
+| Rocky Reception | 0.30% | ~544 |
+| Tall Tales | 0.20% | ~363 |
 | Supply Run | 0.20% | ~430 |
+| Vecna Lives! | 0.20% | ~363 |
+| Vecna Loots! | 0.20% | ~363 |
+| Escort to Waterdeep | 0.20% | ~430 |
 | The Mad Wizard | 0.20% | ~430 |
 | Waterdeep Detours | 0.20% | ~430 |
 | Lost in the Deep | 0.20% | ~430 |
@@ -21,7 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~430 |
 | Pure Energy | 0.20% | ~430 |
 | The Templar's Camp | 0.20% | ~430 |
-| Rocky Reception | 0.20% | ~363 |
+| The Champion's Guide to Wildspace | 0.20% | ~363 |
 | Rock and Roll | 0.20% | ~363 |
 | Flight of the Kindori Pod | 0.20% | ~363 |
 | Topolah's Tower | 0.20% | ~363 |
@@ -32,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~181 |
 | Friends and Foes | 0.10% | ~181 |
 | And Your Enemies Closer | 0.10% | ~181 |
-| Tall Tales | 0.10% | ~181 |
 | Nightmare Rats! | 0.10% | ~181 |
 | An Unexpected Geist | 0.10% | ~181 |
 | Back to Nature | 0.10% | ~181 |
@@ -105,10 +109,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flapjacks and Waffles | 0.10% | ~181 |
 | On the Hunt | 0.10% | ~215 |
 | Best Thay Ever | 0.10% | ~181 |
-| Vecna Lives! | 0.10% | ~181 |
 | Overwhelmed with Knowledge | 0.10% | ~181 |
 | A Demi-god's Defender | 0.10% | ~181 |
-| Vecna Loots! | 0.10% | ~181 |
 | Well Equipped | 0.10% | ~181 |
 | Friends of the Forest | 0.10% | ~215 |
 | More Than Well Equipped | 0.10% | ~181 |
@@ -404,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~181 |
 | Prisoners of Lolth | 0.10% | ~181 |
 | Prisoners of Unknown Choices | 0.10% | ~181 |
-| Escort to Waterdeep | 0.10% | ~215 |
 | The Giant's Bane Tavern | 0.10% | ~181 |
 | Rime Bandits | 0.10% | ~181 |
 | Giant-Size Adventure | 0.10% | ~181 |
@@ -505,7 +506,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.10% | ~181 |
 | Willing to Sacrifice | 0.10% | ~181 |
 | Devilishly Cold | 0.10% | ~181 |
-| The Champion's Guide to Wildspace | 0.10% | ~181 |
 | Not That Type of Helm! | 0.10% | ~181 |
 | Tiny Treaty | 0.10% | ~181 |
 | All The World's A Stage | 0.10% | ~181 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~181 |
 | Animated Giff | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,211 (Ranked 53)  
-Completed: 2,067 (0.96%) (Ranked 108)  
+Progressed: 215,218 (Ranked 53)  
+Completed: 2,071 (0.96%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -614,7 +614,7 @@ Completed: 2,067 (0.96%) (Ranked 108)
 | 2023-07-21 | 214,257 | 2,060 |
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
-| 2023-07-24 | 215,211 | 2,067 |
+| 2023-07-24 | 215,218 | 2,071 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,675 (Ranked 38)  

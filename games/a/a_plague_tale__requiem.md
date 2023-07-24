@@ -1,7 +1,7 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 158)  
+Rating: 4.73 (Ranked 159)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 158)
 | Malignant | 1.00% | ~123 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,257 (Ranked 116)  
-Completed: 38 (0.31%) (Ranked 149)  
+Completed: 38 (0.31%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

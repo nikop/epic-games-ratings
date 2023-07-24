@@ -39,10 +39,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.70% | ~4,980 |
 | Deadly Venom | 0.70% | ~145 |
 | A Touch of Acumen | 0.70% | ~145 |
-| Iron Money | 0.60% | ~4,268 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,268 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,268 |
-| Sword Stained With Blood | 0.60% | ~4,268 |
+| Iron Money | 0.60% | ~4,269 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,269 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,269 |
+| Sword Stained With Blood | 0.60% | ~4,269 |
 | Prodigal Child | 0.50% | ~3,557 |
 | Martial Artist | 0.40% | ~2,846 |
 | Knowledge Greed | 0.40% | ~2,846 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,414 (Ranked 19)  
+Progressed: 711,418 (Ranked 19)  
 Completed: 12,831 (1.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 12,831 (1.80%) (Ranked 86)
 | 2023-07-21 | 711,067 | 12,829 |
 | 2023-07-22 | 711,203 | 12,830 |
 | 2023-07-23 | 711,328 | 12,831 |
-| 2023-07-24 | 711,414 | 12,831 |
+| 2023-07-24 | 711,418 | 12,831 |
 ## Awards
 Max (Great Boss Battles): 6,299  (Ranked 53)  
 Sum: 10,805 (Ranked 79)  

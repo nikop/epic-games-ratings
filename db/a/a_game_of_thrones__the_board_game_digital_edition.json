@@ -6,8 +6,8 @@
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19407,
+  "EOS_Progressed": 19412,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 4,
@@ -11293,6 +11293,11 @@
       "Time": "2023-07-24T22:03:14.0622599+00:00",
       "NumProgressed": 19407,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-24T23:03:42.4589464+00:00",
+      "NumProgressed": 19412,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11312,7 +11317,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "1017",
@@ -11320,7 +11325,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "1018",
@@ -11328,7 +11333,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "1019",
@@ -11336,7 +11341,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "1020",
@@ -11344,7 +11349,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "1021",
@@ -11352,7 +11357,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "1022",
@@ -11360,7 +11365,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "1023",
@@ -11408,7 +11413,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "1029",
@@ -11424,7 +11429,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "1031",
@@ -11432,7 +11437,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "1032",
@@ -11440,7 +11445,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7763
+      "UsersEstimate": 7765
     },
     {
       "ID": "1033",
@@ -11456,7 +11461,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "1035",
@@ -11464,7 +11469,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "1036",
@@ -11479,15 +11484,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19407,
+      "Progressed": 19412,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:03:14.0622596+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:03:42.4589458+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:02:07.6300538+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:03:14.0623174+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:02:24.9274523+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:03:42.4590213+00:00"
 }

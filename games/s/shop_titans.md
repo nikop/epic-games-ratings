@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 133,181 (Ranked 61)  
-Completed: 122 (0.09%) (Ranked 192)  
+Completed: 122 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

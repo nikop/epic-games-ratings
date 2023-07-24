@@ -46,7 +46,7 @@ Rating: 4.63 (Ranked 331)
 | One for All, All for One | 1.00% | ~50 |
 | Pruning for Progress | 0.90% | ~45 |
 | I've Got Everything I Need Right Here | 0.80% | ~40 |
-| Manufactured War | 0.60% | ~30 |
+| Manufactured War | 0.70% | ~35 |
 | Snap Out of It! | 0.50% | ~25 |
 | Betrayal Most Foul | 0.30% | ~15 |
 | I Want to Break Free | 0.20% | ~10 |
@@ -57,7 +57,7 @@ Rating: 4.63 (Ranked 331)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,041 (Ranked 137)  
-Completed: 5 (0.10%) (Ranked 188)  
+Completed: 5 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

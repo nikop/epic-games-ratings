@@ -4,11 +4,11 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 460,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-12-14T08:00:00+00:00",
     "PcReleaseDate": "2021-12-14T08:00:00+00:00",
@@ -1017,6 +1017,6 @@
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
   "LastChanged": "2023-07-24T18:01:50.7600493+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.444722+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:02:29.662755+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:05:24.0414212+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:02:55.9132371+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:05:41.2040653+00:00"
 }

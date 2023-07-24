@@ -6,9 +6,9 @@
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7987,
+  "EOS_Progressed": 7988,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-07-24T20:07:22.9809083+00:00",
       "NumProgressed": 7987,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-24T23:06:03.6296384+00:00",
+      "NumProgressed": 7988,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3762,7 +3767,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "FakeGoddessGone",
@@ -3802,7 +3807,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "HeroSlayer",
@@ -3810,7 +3815,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "LeoniasFall",
@@ -3842,7 +3847,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "SavedElderEnt",
@@ -3882,7 +3887,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7428
+      "UsersEstimate": 7429
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3906,22 +3911,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7987,
+      "Progressed": 7988,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:05:26.3167841+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:06:03.6296379+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:00:27.3057654+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:05:26.3168099+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:00:41.804303+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:06:03.6296727+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8030,
+  "EOS_Progressed": 8039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4166,6 +4166,11 @@
       "Time": "2023-07-24T22:02:55.5600249+00:00",
       "NumProgressed": 8030,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T23:03:23.4216343+00:00",
+      "NumProgressed": 8039,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4177,7 +4182,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -4225,7 +4230,7 @@
       "Name": "Vermeer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -4249,7 +4254,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3457
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -4265,7 +4270,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -4345,7 +4350,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -4369,21 +4374,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1447
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 8030,
+      "Progressed": 8039,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:02:55.5600246+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:03:23.4216337+00:00",
   "LastUpdate_AppInfo": "2023-07-21T18:57:15.4178752+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:57:06.1434055+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:02:55.5600577+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:57:10.3155925+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:03:23.421677+00:00"
 }

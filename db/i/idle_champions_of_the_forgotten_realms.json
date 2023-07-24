@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5254,10 +5254,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215211,
-  "EOS_Completed": 2067,
-  "EOS_NewPlayers": 2362,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 215218,
+  "EOS_Completed": 2071,
+  "EOS_NewPlayers": 2357,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
@@ -15464,6 +15464,11 @@
       "Time": "2023-07-24T22:07:35.9470233+00:00",
       "NumProgressed": 215211,
       "NumCompleted": 2067
+    },
+    {
+      "Time": "2023-07-24T23:08:22.2834006+00:00",
+      "NumProgressed": 215218,
+      "NumCompleted": 2071
     }
   ],
   "TotalAchievements": 512,
@@ -15473,17 +15478,17 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1076
     },
     {
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_100",
@@ -15545,9 +15550,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1051",
@@ -15777,9 +15782,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1090",
@@ -15841,9 +15846,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1076
     },
     {
       "ID": "objective_completed_110",
@@ -16153,9 +16158,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1164",
@@ -16177,9 +16182,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1169",
@@ -18545,9 +18550,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_690",
@@ -19433,9 +19438,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1220",
@@ -19497,9 +19502,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 544
     },
     {
       "ID": "objective_completed_1376",
@@ -19570,21 +19575,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181485,
-      "Completed": 2861
+      "Progressed": 181492,
+      "Completed": 2870
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215211,
-      "Completed": 2067
+      "Progressed": 215218,
+      "Completed": 2071
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-24T16:59:50.0006609+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:07:35.9470228+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:08:22.2833996+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:59:11.3130746+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:07:35.949475+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:59:16.3860451+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:08:22.2860379+00:00"
 }

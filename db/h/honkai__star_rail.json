@@ -2,20 +2,20 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-04-26T04:02:27.1386207+00:00",
@@ -1492,10 +1492,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 8118,
       "NumberOfAwardsMax": 4407
+    },
+    {
+      "Time": "2023-07-24T23:02:48.2768415+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 8147,
+      "NumberOfAwardsMax": 4407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8118,
+  "NumberOfAwards": 8147,
   "NumberOfAwardsMax": 4407,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1521,7 +1527,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 405
+      "Count": 434
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1584,8 +1590,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-24T21:06:02.4239368+00:00",
+  "LastChanged": "2023-07-24T23:02:48.2768413+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.7517822+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:02:26.3875436+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:05:40.8594777+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:02:48.276842+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:06:18.0294809+00:00"
 }

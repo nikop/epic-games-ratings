@@ -10,7 +10,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Winter | 64.00% | ~1,989 |
 | Ready for Summer | 51.00% | ~1,585 |
 | Cordon Bleu | 44.00% | ~1,368 |
-| Tapped! | 36.00% | ~1,119 |
+| Tapped! | 37.00% | ~1,150 |
 | Eureka | 32.00% | ~995 |
 | Scourge Slayer | 25.00% | ~777 |
 | Science, Troglodyte! | 23.00% | ~715 |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,108 (Ranked 150)  
-Completed: 3 (0.10%) (Ranked 188)  
+Completed: 3 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

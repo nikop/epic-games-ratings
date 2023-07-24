@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3206,9 +3206,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10550,
+  "EOS_Progressed": 10551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9201,6 +9201,11 @@
       "Time": "2023-07-24T22:02:38.9231837+00:00",
       "NumProgressed": 10550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T23:03:06.7883341+00:00",
+      "NumProgressed": 10551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9228,7 +9233,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "04_FithCrusade",
@@ -9252,7 +9257,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "07_FinalThreshold",
@@ -9444,7 +9449,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "32_MythicReinforcements",
@@ -9452,7 +9457,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "33_DefendersHeart",
@@ -9580,7 +9585,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "49_Flame",
@@ -9588,7 +9593,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -9596,7 +9601,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -10139,21 +10144,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9332,
+      "Progressed": 9333,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10550,
+      "Progressed": 10551,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-24T17:00:19.8574597+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:02:38.9231834+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:03:06.7883335+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:59:36.7872079+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:02:38.9233534+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:59:43.5691182+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:03:06.788539+00:00"
 }

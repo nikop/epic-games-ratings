@@ -6,9 +6,9 @@
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -3644,9 +3644,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1150
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3764,8 +3764,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:06:34.0747434+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:07:10.743689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:58:48.3563236+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:06:34.0747794+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:58:54.5373815+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:07:10.7437391+00:00"
 }

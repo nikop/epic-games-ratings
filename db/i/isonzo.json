@@ -6,9 +6,9 @@
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6438,
+  "EOS_Progressed": 6439,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3627,6 +3627,11 @@
       "Time": "2023-07-24T21:09:28.6261901+00:00",
       "NumProgressed": 6438,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-24T23:06:07.3086819+00:00",
+      "NumProgressed": 6439,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3846,7 +3851,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3942,7 +3947,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -3958,7 +3963,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -3982,7 +3987,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3990,14 +3995,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6438,
+      "Progressed": 6439,
       "Completed": 8
     }
   ],
@@ -4005,8 +4010,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-24T22:05:30.0325337+00:00",
+  "LastChanged_Achievements": "2023-07-24T23:06:07.3086809+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-24T21:58:17.7480001+00:00",
-  "LastUpdate_Achievements": "2023-07-24T22:05:30.0325749+00:00"
+  "LastUpdate_Ratings": "2023-07-24T22:58:27.1353921+00:00",
+  "LastUpdate_Achievements": "2023-07-24T23:06:07.3087349+00:00"
 }

@@ -6,46 +6,46 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 38.00% | ~21,359 |
-| To The Nines | 35.00% | ~19,673 |
-| Optimized | 30.00% | ~16,863 |
-| Performance Review | 29.00% | ~16,301 |
-| Making a Name | 28.00% | ~15,739 |
-| Tune Up | 27.00% | ~15,176 |
-| Wet Work | 26.00% | ~14,614 |
-| Landlord | 26.00% | ~14,614 |
-| The Side Job | 25.00% | ~14,052 |
-| Wrecking Ball | 22.00% | ~12,366 |
-| Food for Thought | 22.00% | ~12,366 |
-| Finders Keepers | 20.00% | ~11,242 |
-| A Young Empire | 20.00% | ~11,242 |
-| Work Ethic | 19.00% | ~10,680 |
-| Power Players | 15.00% | ~8,431 |
-| Picking Fights | 15.00% | ~8,431 |
-| Quality Time | 14.00% | ~7,869 |
-| Showdown | 13.00% | ~7,307 |
-| Et tu? | 13.00% | ~7,307 |
-| Took It to The Limit | 13.00% | ~7,307 |
-| Kitted Out | 11.00% | ~6,183 |
-| Hijacked | 9.00% | ~5,059 |
-| Masters of Santo Ileso | 9.00% | ~5,059 |
-| The Spins | 8.00% | ~4,497 |
-| The Mechanic | 8.00% | ~4,497 |
+| First F#@!ing Day | 38.00% | ~21,364 |
+| To The Nines | 35.00% | ~19,678 |
+| Optimized | 30.00% | ~16,867 |
+| Performance Review | 29.00% | ~16,304 |
+| Making a Name | 28.00% | ~15,742 |
+| Tune Up | 27.00% | ~15,180 |
+| Wet Work | 26.00% | ~14,618 |
+| Landlord | 26.00% | ~14,618 |
+| The Side Job | 25.00% | ~14,056 |
+| Wrecking Ball | 22.00% | ~12,369 |
+| Food for Thought | 22.00% | ~12,369 |
+| Finders Keepers | 20.00% | ~11,244 |
+| A Young Empire | 20.00% | ~11,244 |
+| Work Ethic | 19.00% | ~10,682 |
+| Power Players | 15.00% | ~8,433 |
+| Picking Fights | 15.00% | ~8,433 |
+| Quality Time | 14.00% | ~7,871 |
+| Showdown | 13.00% | ~7,309 |
+| Et tu? | 13.00% | ~7,309 |
+| Took It to The Limit | 13.00% | ~7,309 |
+| Kitted Out | 11.00% | ~6,184 |
+| Hijacked | 9.00% | ~5,060 |
+| Masters of Santo Ileso | 9.00% | ~5,060 |
+| The Spins | 8.00% | ~4,498 |
+| The Mechanic | 8.00% | ~4,498 |
 | Closet Space | 6.00% | ~3,373 |
-| Producer Credit | 6.00% | ~1,671 |
-| We could go home, or… | 5.00% | ~2,810 |
-| Challenge Accepted | 5.00% | ~2,810 |
-| A Golden Age | 5.00% | ~2,810 |
-| Face Off | 5.00% | ~1,392 |
-| The Professional | 4.00% | ~2,248 |
-| Chaos Tamer | 4.00% | ~2,248 |
-| Untouchable | 4.00% | ~2,248 |
-| Free Refills | 4.00% | ~2,248 |
-| Prankster | 4.00% | ~2,248 |
-| Smooth Moves | 4.00% | ~2,248 |
+| Producer Credit | 6.00% | ~1,672 |
+| We could go home, or… | 5.00% | ~2,811 |
+| Challenge Accepted | 5.00% | ~2,811 |
+| A Golden Age | 5.00% | ~2,811 |
+| Face Off | 5.00% | ~1,393 |
+| The Professional | 4.00% | ~2,249 |
+| Chaos Tamer | 4.00% | ~2,249 |
+| Untouchable | 4.00% | ~2,249 |
+| Free Refills | 4.00% | ~2,249 |
+| Prankster | 4.00% | ~2,249 |
+| Smooth Moves | 4.00% | ~2,249 |
 | Hazardous Heist | 4.00% | ~1,114 |
-| Neighborly | 3.00% | ~1,686 |
-| Tourist | 3.00% | ~1,686 |
+| Neighborly | 3.00% | ~1,687 |
+| Tourist | 3.00% | ~1,687 |
 | Shopping Spree | 2.00% | ~1,124 |
 | Always Be Hustling | 2.00% | ~1,124 |
 | Bonus Round | 2.00% | ~1,124 |
@@ -53,15 +53,15 @@ Number of Ratings: 22,103  (23.09.2022)
 | It's a Bird! | 1.00% | ~562 |
 | The Collector | 1.00% | ~562 |
 | All Mine | 1.00% | ~562 |
-| Armor Piercing | 0.70% | ~393 |
+| Armor Piercing | 0.70% | ~394 |
 | Heard You Like Wheels | 0.60% | ~337 |
 | Jack of All Trades | 0.40% | ~225 |
 | Statement Pieces | 0.40% | ~225 |
 | A Car Named Simone | 0.10% | ~56 |
 | Fiesta Time | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,209 (Ranked 84)  
-Completed: 30 (0.05%) (Ranked 205)  
+Progressed: 56,222 (Ranked 84)  
+Completed: 30 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,7 +155,7 @@ Completed: 30 (0.05%) (Ranked 205)
 | 2023-07-21 | 55,012 | 29 |
 | 2023-07-22 | 55,451 | 29 |
 | 2023-07-23 | 55,874 | 30 |
-| 2023-07-24 | 56,209 | 30 |
+| 2023-07-24 | 56,222 | 30 |
 ## Awards
 Max (Extremely Fun): 1,051  (Ranked 139)  
 Sum: 8,534 (Ranked 93)  

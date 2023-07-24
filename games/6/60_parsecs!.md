@@ -34,7 +34,7 @@
 | Axel jump in space! | 6.00% | ~42 |
 | Extreme Makeover | 4.00% | ~28 |
 | The Improvinator | 4.00% | ~28 |
-| The Last Supper | 3.00% | ~21 |
+| The Last Supper | 4.00% | ~28 |
 | Bovine Domain | 2.00% | ~14 |
 | 2018: A Soup Odyssey | 2.00% | ~14 |
 | That's No Moon! | 2.00% | ~14 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 697 (Ranked 204)  
-Completed: 1 (0.14%) (Ranked 180)  
+Completed: 1 (0.14%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

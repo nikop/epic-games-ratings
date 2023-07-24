@@ -24,6 +24,7 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 0.10% | ~3 |
 | Bloodless | 0.10% | ~3 |
 | A Foul Creche | 0.10% | ~3 |
+| Junk Banishment | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
@@ -59,7 +60,6 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.00% | ~0 |
 | Engine Kill | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
-| Junk Banishment | 0.00% | ~0 |
 | A Gift Spurned | 0.00% | ~0 |
 | Death Comes For All | 0.00% | ~0 |
 | Long Distance Call | 0.00% | ~0 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,024 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 241)  
+Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

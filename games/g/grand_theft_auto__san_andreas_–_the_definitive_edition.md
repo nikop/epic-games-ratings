@@ -15,8 +15,8 @@ Rating: 4.56 (Ranked 460)
 | What happens in Las Venturas... | 14.00% | ~1,583 |
 | Horror of the Santa Maria | 10.00% | ~1,131 |
 | Liberty City State of Mind | 9.00% | ~1,018 |
-| The End of the Line | 7.00% | ~791 |
-| Original Gangster | 7.00% | ~791 |
+| The End of the Line | 7.00% | ~792 |
+| Original Gangster | 7.00% | ~792 |
 | With Extra Dip | 6.00% | ~678 |
 | Saviour | 6.00% | ~678 |
 | They Can’t Stop All of Us | 4.00% | ~452 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 460)
 | ...Here we go again | 0.40% | ~45 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,307 (Ranked 117)  
-Completed: 31 (0.27%) (Ranked 156)  
+Progressed: 11,308 (Ranked 117)  
+Completed: 31 (0.27%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,7 +136,7 @@ Completed: 31 (0.27%) (Ranked 156)
 | 2023-07-21 | 11,162 | 31 |
 | 2023-07-22 | 11,206 | 31 |
 | 2023-07-23 | 11,268 | 31 |
-| 2023-07-24 | 11,307 | 31 |
+| 2023-07-24 | 11,308 | 31 |
 ## Awards
 Max (Great Boss Battles): 228  (Ranked 253)  
 Sum: 228 (Ranked 350)  

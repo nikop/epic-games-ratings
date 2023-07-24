@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,505 |
-| Don't I Know You...? | 77.00% | ~1,448 |
+| Rigged And Ready | 80.00% | ~1,506 |
+| Don't I Know You...? | 77.00% | ~1,449 |
 | Jailbreak | 65.00% | ~1,223 |
 | HEADSHOT! | 38.00% | ~715 |
 | Suited and Booted | 38.00% | ~715 |
-| Sleeping With The Fishes | 35.00% | ~658 |
-| Overheated | 30.00% | ~564 |
-| High Performance | 30.00% | ~564 |
+| Sleeping With The Fishes | 35.00% | ~659 |
+| Overheated | 30.00% | ~565 |
+| High Performance | 30.00% | ~565 |
 | Powered Up | 28.00% | ~527 |
 | Studied The Blade | 25.00% | ~470 |
 | Home Invasion | 23.00% | ~433 |
@@ -21,8 +21,8 @@ Rating: 4.25 (Ranked 810)
 | True Survivor | 21.00% | ~395 |
 | Offensive Defense | 20.00% | ~376 |
 | Shocking | 20.00% | ~376 |
-| Court Martial | 19.00% | ~357 |
-| Unforeseeable Consequences | 19.00% | ~357 |
+| Court Martial | 19.00% | ~358 |
+| Unforeseeable Consequences | 19.00% | ~358 |
 | Dead Again | 18.00% | ~339 |
 | Clean Cut | 18.00% | ~339 |
 | Full Arsenal | 17.00% | ~320 |
@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 810)
 | Stimulating The Local Economy | 10.00% | ~188 |
 | Triplets | 10.00% | ~188 |
 | Defense in Depth | 9.00% | ~169 |
-| A Little Banged Up | 8.00% | ~150 |
-| Denying Prophecy | 8.00% | ~150 |
-| Following In Their Footsteps | 8.00% | ~150 |
+| A Little Banged Up | 8.00% | ~151 |
+| Denying Prophecy | 8.00% | ~151 |
+| Following In Their Footsteps | 8.00% | ~151 |
 | Reverse Engineering | 7.00% | ~132 |
 | Remote Surgery | 6.00% | ~113 |
 | Turbo Booster | 6.00% | ~113 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,881 (Ranked 166)  
-Completed: 10 (0.53%) (Ranked 129)  
+Progressed: 1,882 (Ranked 166)  
+Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 10 (0.53%) (Ranked 129)
 | 2023-07-21 | 1,853 | 10 |
 | 2023-07-22 | 1,867 | 10 |
 | 2023-07-23 | 1,873 | 10 |
-| 2023-07-24 | 1,881 | 10 |
+| 2023-07-24 | 1,882 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
