@@ -7,12 +7,12 @@
 | Time Heals All Wounds | 21.00% | ~165 |
 | Rail Rat | 18.00% | ~141 |
 | The Mysterious Stranger | 17.00% | ~133 |
-| The Steel Shadow | 16.00% | ~125 |
-| Make Up For Lost Time | 16.00% | ~125 |
-| The Prince in Heels | 16.00% | ~125 |
-| Immaculate Aim | 16.00% | ~125 |
-| Immaculate Aim | 16.00% | ~125 |
-| The Brass Boss | 16.00% | ~125 |
+| The Steel Shadow | 16.00% | ~126 |
+| Make Up For Lost Time | 16.00% | ~126 |
+| The Prince in Heels | 16.00% | ~126 |
+| Immaculate Aim | 16.00% | ~126 |
+| Immaculate Aim | 16.00% | ~126 |
+| The Brass Boss | 16.00% | ~126 |
 | The Betrayer | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784 (Ranked 199)  
+Progressed: 785 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,3 +119,4 @@ Completed: 4 (0.51%) (Ranked 129)
 | 2023-07-21 | 773 | 4 |
 | 2023-07-22 | 778 | 4 |
 | 2023-07-23 | 784 | 4 |
+| 2023-07-24 | 785 | 4 |

@@ -5,21 +5,21 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 65.00% | ~147,677 |
-| Destroyer-In-Chief | 58.00% | ~131,774 |
-| There Is No Pancakes | 55.00% | ~124,958 |
-| First of Many | 43.00% | ~97,694 |
-| Woah. | 38.00% | ~86,334 |
-| Don't Look Down | 30.00% | ~68,159 |
-| Don't Panic | 29.00% | ~65,887 |
-| Ooo A Piece of Candy! | 23.00% | ~52,255 |
-| Ghost in the Machine | 18.00% | ~40,895 |
-| All Too Easy | 16.00% | ~36,351 |
-| Didn't Need to See Him Naked | 14.00% | ~31,807 |
-| Indomitable | 10.00% | ~22,720 |
-| Blast from the Past | 9.00% | ~20,448 |
-| Bow to the Boss! | 9.00% | ~20,448 |
-| Friend of the Raptors | 9.00% | ~20,448 |
+| Zero Saints Thirty | 65.00% | ~147,684 |
+| Destroyer-In-Chief | 58.00% | ~131,779 |
+| There Is No Pancakes | 55.00% | ~124,963 |
+| First of Many | 43.00% | ~97,699 |
+| Woah. | 38.00% | ~86,338 |
+| Don't Look Down | 30.00% | ~68,162 |
+| Don't Panic | 29.00% | ~65,890 |
+| Ooo A Piece of Candy! | 23.00% | ~52,257 |
+| Ghost in the Machine | 18.00% | ~40,897 |
+| All Too Easy | 16.00% | ~36,353 |
+| Didn't Need to See Him Naked | 14.00% | ~31,809 |
+| Indomitable | 10.00% | ~22,721 |
+| Blast from the Past | 9.00% | ~20,449 |
+| Bow to the Boss! | 9.00% | ~20,449 |
+| Friend of the Raptors | 9.00% | ~20,449 |
 | About Time! | 8.00% | ~18,176 |
 | Actor-Turned-Politician | 7.00% | ~15,904 |
 | Betrayed | 7.00% | ~15,904 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 693)
 | Super Power Team Up! | 0.10% | ~227 |
 | Ultimate Hot Potato | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,196 (Ranked 50)  
+Progressed: 227,206 (Ranked 50)  
 Completed: 15 (0.01%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 15 (0.01%) (Ranked 228)
 | 2023-07-21 | 225,034 | 15 |
 | 2023-07-22 | 225,969 | 15 |
 | 2023-07-23 | 226,952 | 15 |
-| 2023-07-24 | 227,196 | 15 |
+| 2023-07-24 | 227,206 | 15 |
 ## Awards
 Max (Great Boss Battles): 429  (Ranked 202)  
 Sum: 429 (Ranked 308)  

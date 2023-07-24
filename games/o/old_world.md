@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
+| Defend Where? | 0.10% | ~13 |
 | Run, Pheidippides, Run! | 0.10% | ~13 |
 | Nenikekamen | 0.10% | ~13 |
 | Get the Hellas Out | 0.10% | ~13 |
@@ -256,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |

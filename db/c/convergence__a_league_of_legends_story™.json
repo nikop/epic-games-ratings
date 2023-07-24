@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-07-23T23:03:51.0426377+00:00",
       "NumProgressed": 784,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T09:03:40.8197776+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1763,7 +1768,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1947,7 +1952,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "MapCompletion1",
@@ -2035,7 +2040,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "RewindDamage1",
@@ -2131,7 +2136,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WarwickDefeated",
@@ -2139,7 +2144,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WatcherFought",
@@ -2163,7 +2168,7 @@
       "Name": "The Brass Boss",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2178,14 +2183,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-24T08:03:34.596374+00:00",
+  "LastChanged_Achievements": "2023-07-24T09:03:40.8197771+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-24T08:00:10.5728198+00:00",
-  "LastUpdate_Achievements": "2023-07-24T08:03:34.5964292+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:00:13.750771+00:00",
+  "LastUpdate_Achievements": "2023-07-24T09:03:40.8198743+00:00"
 }

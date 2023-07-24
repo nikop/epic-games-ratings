@@ -7,28 +7,28 @@
 | Scholar | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
+| Stone Collection | 20.00% | ~4 |
 | The Collector | 20.00% | ~4 |
+| Adventurer | 15.00% | ~3 |
 | Tributes of Caladrias | 15.00% | ~3 |
 | Essence Blow | 15.00% | ~3 |
 | Flawless Victory | 15.00% | ~3 |
 | Geared Up | 15.00% | ~3 |
-| Stone Collection | 15.00% | ~3 |
+| Alchemist | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
-| Adventurer | 10.00% | ~2 |
-| Alchemist | 10.00% | ~2 |
+| Miner | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
+| To Battle | 5.00% | ~1 |
+| Godslayer | 5.00% | ~1 |
+| Airborne | 5.00% | ~1 |
 | Big Bazar | 5.00% | ~1 |
 | I Found It | 5.00% | ~1 |
-| Miner | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
-| To Battle | 0.00% | ~0 |
-| Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Airborne | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |

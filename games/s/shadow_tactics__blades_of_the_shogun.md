@@ -7,18 +7,18 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,699 |
-| A thief's beginning | 9.00% | ~16,935 |
-| Thorough | 9.00% | ~16,935 |
+| A thief's beginning | 9.00% | ~16,936 |
+| Thorough | 9.00% | ~16,936 |
 | Tanuki Time | 8.00% | ~15,054 |
 | Disguised | 7.00% | ~13,172 |
 | Jonin | 7.00% | ~13,172 |
 | Rescue Takuma | 7.00% | ~13,172 |
 | Rollin' | 7.00% | ~13,172 |
-| Chunin | 6.00% | ~11,290 |
-| Happy Planning | 6.00% | ~11,290 |
-| Ice Ice Yuki | 6.00% | ~11,290 |
-| Stoned Ox | 6.00% | ~11,290 |
-| Yabu | 6.00% | ~11,290 |
+| Chunin | 6.00% | ~11,291 |
+| Happy Planning | 6.00% | ~11,291 |
+| Ice Ice Yuki | 6.00% | ~11,291 |
+| Stoned Ox | 6.00% | ~11,291 |
+| Yabu | 6.00% | ~11,291 |
 | Flying Rocks | 5.00% | ~9,409 |
 | Mugen Unchained | 5.00% | ~9,409 |
 | Warzone | 5.00% | ~9,409 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,645 |
 | Still Rollin' | 3.00% | ~5,645 |
 | Stoned | 3.00% | ~5,645 |
-| Atheist Ox | 2.00% | ~3,763 |
-| It's raining men | 2.00% | ~3,763 |
-| Old Man | 2.00% | ~3,763 |
-| The Old Way | 2.00% | ~3,763 |
-| Winner Winner | 2.00% | ~3,763 |
+| Atheist Ox | 2.00% | ~3,764 |
+| It's raining men | 2.00% | ~3,764 |
+| Old Man | 2.00% | ~3,764 |
+| The Old Way | 2.00% | ~3,764 |
+| Winner Winner | 2.00% | ~3,764 |
 | Meticulous | 1.00% | ~1,882 |
 | No Gimmicks | 1.00% | ~1,882 |
 | The End | 1.00% | ~1,882 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~188 |
 | Release the Kraken | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,171 (Ranked 59)  
+Progressed: 188,177 (Ranked 59)  
 Completed: 61 (0.03%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 61 (0.03%) (Ranked 214)
 | 2023-07-21 | 187,458 | 61 |
 | 2023-07-22 | 187,777 | 61 |
 | 2023-07-23 | 188,097 | 61 |
-| 2023-07-24 | 188,171 | 61 |
+| 2023-07-24 | 188,177 | 61 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 183)  
 Sum: 4,710 (Ranked 133)  

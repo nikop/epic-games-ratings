@@ -6,16 +6,16 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,613 |
-| First Class Student | 11.00% | ~31,728 |
+| First Class Student | 11.00% | ~31,729 |
 | A Keen Sense of Spell | 10.00% | ~28,844 |
 | Troll with the Punches | 10.00% | ~28,844 |
-| The One Who Mastered Memories | 9.00% | ~25,959 |
-| The Hallowed Hero | 9.00% | ~25,959 |
-| The Defender of Dragons | 9.00% | ~25,959 |
-| Loom for Improvement | 9.00% | ~25,959 |
-| A Talent for Spending | 9.00% | ~25,959 |
-| Coasting Along | 9.00% | ~25,959 |
-| That's a Keeper | 9.00% | ~25,959 |
+| The One Who Mastered Memories | 9.00% | ~25,960 |
+| The Hallowed Hero | 9.00% | ~25,960 |
+| The Defender of Dragons | 9.00% | ~25,960 |
+| Loom for Improvement | 9.00% | ~25,960 |
+| A Talent for Spending | 9.00% | ~25,960 |
+| Coasting Along | 9.00% | ~25,960 |
+| That's a Keeper | 9.00% | ~25,960 |
 | Grappling with a Graphorn | 8.00% | ~23,075 |
 | The Hero of Hogwarts | 8.00% | ~23,075 |
 | Challenge Accepted | 8.00% | ~23,075 |
@@ -23,9 +23,9 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 7.00% | ~20,191 |
 | The Spell Master | 7.00% | ~20,191 |
 | Rising From the Ashes | 7.00% | ~20,191 |
-| The Avenging Gazelle | 6.00% | ~17,306 |
-| Beast Friends | 6.00% | ~17,306 |
-| Flight the Good Flight | 6.00% | ~17,306 |
+| The Avenging Gazelle | 6.00% | ~17,307 |
+| Beast Friends | 6.00% | ~17,307 |
+| Flight the Good Flight | 6.00% | ~17,307 |
 | The Seeker of Knowledge | 5.00% | ~14,422 |
 | The Root of the Problem | 5.00% | ~14,422 |
 | Third Time's a Charm | 5.00% | ~14,422 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,442 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,438 (Ranked 42)  
+Progressed: 288,442 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 434 (0.15%) (Ranked 175)
 | 2023-07-21 | 288,218 | 433 |
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
-| 2023-07-24 | 288,438 | 434 |
+| 2023-07-24 | 288,442 | 434 |
 ## Awards
 Max (Character Customization): 21,217  (Ranked 17)  
 Sum: 39,784 (Ranked 30)  

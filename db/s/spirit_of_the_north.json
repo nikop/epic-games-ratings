@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63161,
+  "EOS_Progressed": 63162,
   "EOS_Completed": 321,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10393,6 +10393,11 @@
       "Time": "2023-07-24T08:02:05.3051773+00:00",
       "NumProgressed": 63161,
       "NumCompleted": 321
+    },
+    {
+      "Time": "2023-07-24T09:02:22.2446665+00:00",
+      "NumProgressed": 63162,
+      "NumCompleted": 321
     }
   ],
   "TotalAchievements": 24,
@@ -10420,7 +10425,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42949
+      "UsersEstimate": 42950
     },
     {
       "ID": "BEST_FRIENDS",
@@ -10428,7 +10433,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13895
+      "UsersEstimate": 13896
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -10452,7 +10457,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17053
+      "UsersEstimate": 17054
     },
     {
       "ID": "FOXIN_AROUND",
@@ -10484,7 +10489,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33475
+      "UsersEstimate": 33476
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -10524,7 +10529,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -10595,7 +10600,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 63161,
+      "Progressed": 63162,
       "Completed": 321
     }
   ],
@@ -10603,8 +10608,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-24T08:02:05.3051766+00:00",
+  "LastChanged_Achievements": "2023-07-24T09:02:22.2446658+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-24T08:00:13.9964359+00:00",
-  "LastUpdate_Achievements": "2023-07-24T08:02:05.3052513+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:00:17.840095+00:00",
+  "LastUpdate_Achievements": "2023-07-24T09:02:22.2447462+00:00"
 }

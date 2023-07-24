@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2591,
+  "EOS_Progressed": 2592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3383,6 +3383,11 @@
       "Time": "2023-07-24T02:04:03.4108851+00:00",
       "NumProgressed": 2591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T09:02:13.0746437+00:00",
+      "NumProgressed": 2592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3410,7 +3415,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -3458,7 +3463,7 @@
       "Name": "Fashionista",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -3466,7 +3471,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -3674,7 +3679,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3698,7 +3703,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3722,7 +3727,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -3777,15 +3782,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2591,
+      "Progressed": 2592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-24T08:01:46.5202787+00:00",
+  "LastChanged_Achievements": "2023-07-24T09:02:13.074643+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-24T07:59:52.7820114+00:00",
-  "LastUpdate_Achievements": "2023-07-24T08:01:46.5203332+00:00"
+  "LastUpdate_Ratings": "2023-07-24T08:59:58.6929687+00:00",
+  "LastUpdate_Achievements": "2023-07-24T09:02:13.0747413+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -1263,6 +1263,11 @@
       "Time": "2023-07-24T08:07:09.250823+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-24T09:07:22.118599+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1274,7 +1279,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "10",
@@ -1338,7 +1343,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "18",
@@ -1402,7 +1407,7 @@
       "Name": "In my shoes",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "25",
@@ -1482,15 +1487,15 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "7",
       "SetID": "n50no0",
       "Name": "Ain\u0027t no mountain high enough",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 107
     },
     {
       "ID": "8",
@@ -1513,15 +1518,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-24T08:07:09.2508224+00:00",
+  "LastChanged_Achievements": "2023-07-24T09:07:22.1185981+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.0234782+00:00",
-  "LastUpdate_Ratings": "2023-07-24T08:00:16.1392502+00:00",
-  "LastUpdate_Achievements": "2023-07-24T08:07:09.2508505+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:00:19.3552902+00:00",
+  "LastUpdate_Achievements": "2023-07-24T09:07:22.1186483+00:00"
 }

@@ -3925,9 +3925,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Survivalist",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4235
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -3982,8 +3982,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-21T17:01:47.0809227+00:00",
-  "LastChanged_Achievements": "2023-07-24T08:04:20.4677413+00:00",
+  "LastChanged_Achievements": "2023-07-24T09:04:16.5505685+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:14.6825908+00:00",
-  "LastUpdate_Ratings": "2023-07-24T08:01:19.4990577+00:00",
-  "LastUpdate_Achievements": "2023-07-24T08:04:20.4678177+00:00"
+  "LastUpdate_Ratings": "2023-07-24T09:01:24.9845136+00:00",
+  "LastUpdate_Achievements": "2023-07-24T09:04:16.5507034+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,842 |
-| Powergamer | 27.00% | ~64,455 |
-| Barely scratched the surface | 25.00% | ~59,681 |
-| Write that down | 24.00% | ~57,294 |
+| I will finish what you started | 28.00% | ~66,844 |
+| Powergamer | 27.00% | ~64,457 |
+| Barely scratched the surface | 25.00% | ~59,682 |
+| Write that down | 24.00% | ~57,295 |
 | Guns, lots of guns | 12.00% | ~28,647 |
 | Collector | 11.00% | ~26,260 |
-| Elementary! | 9.00% | ~21,485 |
+| Elementary! | 9.00% | ~21,486 |
 | Pumpkin Jack | 8.00% | ~19,098 |
 | Wake up! | 8.00% | ~19,098 |
 | It's honest work | 7.00% | ~16,711 |
 | Griever | 7.00% | ~16,711 |
-| Me smart | 6.00% | ~14,323 |
-| Trash compactor | 6.00% | ~14,323 |
+| Me smart | 6.00% | ~14,324 |
+| Trash compactor | 6.00% | ~14,324 |
 | Good listener | 5.00% | ~11,936 |
 | Valedictorian | 5.00% | ~11,936 |
 | BOY! | 4.00% | ~9,549 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,549 |
 | I like to sniff around | 3.00% | ~7,162 |
 | Mind reader | 3.00% | ~7,162 |
-| Gentleman's classic | 2.00% | ~4,774 |
-| Hoarder | 2.00% | ~4,774 |
-| Is that a rift? | 2.00% | ~4,774 |
-| It's alive! | 2.00% | ~4,774 |
-| Enjoy the beach | 2.00% | ~4,774 |
-| Rinse and repeat | 2.00% | ~4,774 |
-| Mama, I'm a criminal | 2.00% | ~4,774 |
-| Never gonna give you up | 2.00% | ~4,774 |
+| Gentleman's classic | 2.00% | ~4,775 |
+| Hoarder | 2.00% | ~4,775 |
+| Is that a rift? | 2.00% | ~4,775 |
+| It's alive! | 2.00% | ~4,775 |
+| Enjoy the beach | 2.00% | ~4,775 |
+| Rinse and repeat | 2.00% | ~4,775 |
+| Mama, I'm a criminal | 2.00% | ~4,775 |
+| Never gonna give you up | 2.00% | ~4,775 |
 | A muscle to rely on | 1.00% | ~2,387 |
 | Catnip | 1.00% | ~2,387 |
 | I am in great pain, please help me | 1.00% | ~2,387 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~477 |
 | Memory 5 | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,723 (Ranked 46)  
+Progressed: 238,729 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 7 (0.00%) (Ranked 240)
 | 2023-07-21 | 238,330 | 7 |
 | 2023-07-22 | 238,502 | 7 |
 | 2023-07-23 | 238,682 | 7 |
-| 2023-07-24 | 238,723 | 7 |
+| 2023-07-24 | 238,729 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 362)  
 Sum: 76 (Ranked 425)  
