@@ -7,20 +7,20 @@ Rating: 4.25 (Ranked 810)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,502 |
 | Don't I Know You...? | 76.00% | ~1,427 |
-| Jailbreak | 65.00% | ~1,220 |
-| HEADSHOT! | 38.00% | ~713 |
-| Suited and Booted | 38.00% | ~713 |
+| Jailbreak | 65.00% | ~1,221 |
+| HEADSHOT! | 38.00% | ~714 |
+| Suited and Booted | 38.00% | ~714 |
 | Sleeping With The Fishes | 35.00% | ~657 |
 | Overheated | 30.00% | ~563 |
 | High Performance | 30.00% | ~563 |
 | Powered Up | 28.00% | ~526 |
-| Studied The Blade | 25.00% | ~469 |
+| Studied The Blade | 25.00% | ~470 |
 | Home Invasion | 23.00% | ~432 |
 | Luminary | 22.00% | ~413 |
 | It's a Trap | 22.00% | ~413 |
 | True Survivor | 21.00% | ~394 |
-| Offensive Defense | 20.00% | ~375 |
-| Shocking | 20.00% | ~375 |
+| Offensive Defense | 20.00% | ~376 |
+| Shocking | 20.00% | ~376 |
 | Court Martial | 19.00% | ~357 |
 | Unforeseeable Consequences | 19.00% | ~357 |
 | Dead Again | 18.00% | ~338 |
@@ -34,7 +34,7 @@ Rating: 4.25 (Ranked 810)
 | What A Catchy Song | 13.00% | ~244 |
 | Marked For Success | 12.00% | ~225 |
 | Sorry, Didn't See You There | 12.00% | ~225 |
-| Corrupted Beauty | 11.00% | ~206 |
+| Corrupted Beauty | 11.00% | ~207 |
 | Stimulating The Local Economy | 10.00% | ~188 |
 | Triplets | 10.00% | ~188 |
 | Defense in Depth | 9.00% | ~169 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,877 (Ranked 166)  
+Progressed: 1,878 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 10 (0.53%) (Ranked 128)
 | 2023-07-21 | 1,853 | 10 |
 | 2023-07-22 | 1,867 | 10 |
 | 2023-07-23 | 1,873 | 10 |
-| 2023-07-24 | 1,877 | 10 |
+| 2023-07-24 | 1,878 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

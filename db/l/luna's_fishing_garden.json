@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.4,
+  "EOS_Completed_Percentage": 6.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -76,6 +76,11 @@
       "Time": "2023-07-22T16:08:12.9402082+00:00",
       "NumProgressed": 672,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-24T16:08:54.5858827+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -103,7 +108,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "12_art",
@@ -127,7 +132,7 @@
       "Name": "Up!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "2_reel",
@@ -135,7 +140,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "3_master_angler",
@@ -143,15 +148,15 @@
       "Name": "Master Angler",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "4_bird_breeder",
       "SetID": "459695l",
       "Name": "Bird Breeder",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 188
+      "UsersEstimate": 182
     },
     {
       "ID": "5_science",
@@ -183,7 +188,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "9_lotus",
@@ -198,7 +203,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 43
     }
   ],
@@ -206,8 +211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:06:42.4164275+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:08:54.5858823+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:14.9930113+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:57:48.5717196+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:06:42.4164421+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:58:35.4547842+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:08:54.5858947+00:00"
 }

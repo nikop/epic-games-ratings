@@ -11,8 +11,8 @@ Rating: 4.10 (Ranked 890)
 | Prestigious | 53.00% | ~905 |
 | Fellowship Power | 41.00% | ~700 |
 | Guild Power | 25.00% | ~427 |
-| Prestigious x10 | 21.00% | ~358 |
-| The game is on | 20.00% | ~341 |
+| Prestigious x10 | 21.00% | ~359 |
+| The game is on | 19.00% | ~325 |
 | Exotic Merchant | 18.00% | ~307 |
 | Dragon Clicker | 16.00% | ~273 |
 | Inspection | 16.00% | ~273 |
@@ -42,9 +42,9 @@ Rating: 4.10 (Ranked 890)
 | Here We Go Again | 8.00% | ~137 |
 | Master Enchanter | 8.00% | ~137 |
 | The father of Dragons | 8.00% | ~137 |
-| Enchanting skill | 7.00% | ~119 |
-| The Expeditioner | 7.00% | ~119 |
-| Trader | 7.00% | ~119 |
+| Enchanting skill | 7.00% | ~120 |
+| The Expeditioner | 7.00% | ~120 |
+| Trader | 7.00% | ~120 |
 | Crystal Mining | 6.00% | ~102 |
 | Dragon Slayer | 6.00% | ~102 |
 | Engineer Mastery | 6.00% | ~102 |
@@ -62,9 +62,9 @@ Rating: 4.10 (Ranked 890)
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
+| Gear Enchanting | 1.00% | ~17 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
-| Gear Enchanting | 0.90% | ~15 |
 | Cauldron Liberator | 0.80% | ~14 |
 | Training makes a Pro player | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,707 (Ranked 170)  
+Progressed: 1,708 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-21 | 1,690 | 1 |
 | 2023-07-22 | 1,699 | 1 |
 | 2023-07-23 | 1,706 | 1 |
-| 2023-07-24 | 1,707 | 1 |
+| 2023-07-24 | 1,708 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

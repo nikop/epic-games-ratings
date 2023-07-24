@@ -896,7 +896,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7984,
+  "EOS_Progressed": 7985,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -3696,6 +3696,11 @@
       "Time": "2023-07-24T15:05:05.6818027+00:00",
       "NumProgressed": 7984,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-24T16:06:40.0915779+00:00",
+      "NumProgressed": 7985,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3707,7 +3712,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "Chatterbox",
@@ -3731,7 +3736,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5030
+      "UsersEstimate": 5031
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3763,7 +3768,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -3803,7 +3808,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "LeoniasFall_2",
@@ -3835,7 +3840,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5030
+      "UsersEstimate": 5031
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3867,7 +3872,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7425
+      "UsersEstimate": 7426
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3875,7 +3880,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -3898,15 +3903,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7984,
+      "Progressed": 7985,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:05:05.6818023+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:06:40.0915774+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:59:38.8139231+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:05:05.6818435+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:01:15.6443478+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:06:40.0916154+00:00"
 }

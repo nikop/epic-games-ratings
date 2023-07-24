@@ -8,14 +8,14 @@ Number of Ratings: 266  (23.09.2022)
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,330 |
 | Ready for Winter | 64.00% | ~1,988 |
-| Ready for Summer | 51.00% | ~1,584 |
-| Cordon Bleu | 43.00% | ~1,336 |
-| Tapped! | 37.00% | ~1,149 |
+| Ready for Summer | 51.00% | ~1,585 |
+| Cordon Bleu | 44.00% | ~1,367 |
+| Tapped! | 36.00% | ~1,119 |
 | Eureka | 32.00% | ~994 |
-| Scourge Slayer | 25.00% | ~776 |
-| Science, Troglodyte! | 23.00% | ~714 |
-| Exceptional Skill | 22.00% | ~683 |
-| Home Sweet Home | 22.00% | ~683 |
+| Scourge Slayer | 25.00% | ~777 |
+| Science, Troglodyte! | 23.00% | ~715 |
+| Exceptional Skill | 22.00% | ~684 |
+| Home Sweet Home | 22.00% | ~684 |
 | Encyclopedic! | 20.00% | ~621 |
 | A Fortress Toppled! | 16.00% | ~497 |
 | Apex Predator | 16.00% | ~497 |
@@ -23,9 +23,9 @@ Number of Ratings: 266  (23.09.2022)
 | Strange amalgams | 12.00% | ~373 |
 | The Power of Faith | 12.00% | ~373 |
 | The Power of Freedom | 9.00% | ~280 |
-| Ace Detective | 8.00% | ~248 |
-| Gift from the Ancestors | 8.00% | ~248 |
-| Magic is a science | 8.00% | ~248 |
+| Ace Detective | 8.00% | ~249 |
+| Gift from the Ancestors | 8.00% | ~249 |
+| Magic is a science | 8.00% | ~249 |
 | House of Cards | 7.00% | ~217 |
 | Let ‘em eat magma! | 7.00% | ~217 |
 | The power of ambition | 7.00% | ~217 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,106 (Ranked 150)  
+Progressed: 3,107 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,11 +141,11 @@ Completed: 3 (0.10%) (Ranked 187)
 | 2023-07-21 | 3,077 | 3 |
 | 2023-07-22 | 3,086 | 3 |
 | 2023-07-23 | 3,104 | 3 |
-| 2023-07-24 | 3,106 | 3 |
+| 2023-07-24 | 3,107 | 3 |
 ## Awards
-Max (Highly Recommended): 33  (Ranked 442)  
+Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 349)  
-Diff (max vs sum): 93  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 33 |

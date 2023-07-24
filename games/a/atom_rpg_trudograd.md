@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~998 |
+| Fresh Prince of Trudograd | 88.00% | ~1,009 |
 | Household | 7.00% | ~80 |
 | An Old Friend | 6.00% | ~69 |
 | Lot 49 | 5.00% | ~57 |
@@ -115,8 +115,8 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-22 | 1,145 | 0 |
 | 2023-07-23 | 1,147 | 0 |
 ## Awards
-Max (Character Customization): 23  (Ranked 482)  
-Sum: 23 (Ranked 486)  
+Max (Character Customization): 23  (Ranked 483)  
+Sum: 23 (Ranked 487)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |

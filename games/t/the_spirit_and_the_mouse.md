@@ -13,7 +13,7 @@
 | Energy Expert | 43.00% | ~32 |
 | Lightbulbs Expert | 43.00% | ~32 |
 | That's one way to travel | 43.00% | ~32 |
-| The Old Man and the Café | 39.00% | ~29 |
+| The Old Man and the Café | 40.00% | ~30 |
 | South Town Energy | 32.00% | ~24 |
 | Photogenic | 29.00% | ~22 |
 | The Girl and the Homework | 28.00% | ~21 |

@@ -163,9 +163,9 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-23 | 1,476 | 0 |
 | 2023-07-24 | 1,480 | 0 |
 ## Awards
-Max (Highly Recommended): 40  (Ranked 422)  
+Max (Highly Recommended): 40  (Ranked 423)  
 Sum: 275 (Ranked 341)  
-Diff (max vs sum): 81  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 40 |

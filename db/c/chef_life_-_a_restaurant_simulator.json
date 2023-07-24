@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 89,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2023-07-24T12:03:46.4190303+00:00",
       "NumProgressed": 487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T16:04:08.1433055+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2081,7 +2086,7 @@
       "Name": "Culinary Arts",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "5OvenDishesMenu",
@@ -2137,7 +2142,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DilemasResponsibility10",
@@ -2233,15 +2238,15 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 322
     },
     {
       "ID": "Packing20",
@@ -2265,7 +2270,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "RecipeDifferent30",
@@ -2384,7 +2389,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 0
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:03:18.7851065+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:04:08.1433051+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:58:57.6869751+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:03:18.7851516+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:00:14.731997+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:04:08.1433538+00:00"
 }

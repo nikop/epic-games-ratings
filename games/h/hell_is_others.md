@@ -5,13 +5,13 @@ Rating: 4.43 (Ranked 654)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,601 |
-| Predator I | 22.00% | ~55,781 |
-| Fixer I | 10.00% | ~25,355 |
-| A week in Century City | 10.00% | ~25,355 |
+| Survivor | 31.00% | ~78,604 |
+| Predator I | 22.00% | ~55,783 |
+| Fixer I | 10.00% | ~25,356 |
+| A week in Century City | 10.00% | ~25,356 |
 | The Wait | 7.00% | ~17,749 |
-| Green thumb I | 6.00% | ~15,213 |
-| Cleaning Company | 6.00% | ~15,213 |
+| Green thumb I | 6.00% | ~15,214 |
+| Cleaning Company | 6.00% | ~15,214 |
 | Well-oiled machine | 5.00% | ~12,678 |
 | Saver I | 5.00% | ~12,678 |
 | The Ascent | 4.00% | ~10,142 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 654)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,552 (Ranked 43)  
+Progressed: 253,560 (Ranked 43)  
 Completed: 2 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,18 +157,18 @@ Completed: 2 (0.00%) (Ranked 240)
 | 2023-07-21 | 253,366 | 2 |
 | 2023-07-22 | 253,454 | 2 |
 | 2023-07-23 | 253,521 | 2 |
-| 2023-07-24 | 253,552 | 2 |
+| 2023-07-24 | 253,560 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 32  (Ranked 447)  
-Sum: 202 (Ranked 360)  
-Diff (max vs sum): 87  
+Max (Great for Quick Sessions): 32  (Ranked 448)  
+Sum: 203 (Ranked 360)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 32 |
 | This game has Unique Visuals | 32 |
 | This game has Amazing Characters | 27 |
 | This game has Challenging Combat | 25 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 22 |
 | This game has a Competitive Community | 21 |
 | This game has Competitive Players | 20 |
@@ -274,4 +274,4 @@ Diff (max vs sum): 87
 | 2023-07-19 | 4.42 | 32 | 179 |
 | 2023-07-21 | 4.43 | 32 | 180 |
 | 2023-07-23 | 4.43 | 32 | 201 |
-| 2023-07-24 | 4.43 | 32 | 202 |
+| 2023-07-24 | 4.43 | 32 | 203 |

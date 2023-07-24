@@ -9,13 +9,13 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 71.00% | ~5,439 |
 | Leader | 61.00% | ~4,673 |
 | Explorer | 53.00% | ~4,060 |
-| Healer | 52.00% | ~3,983 |
-| Aspiring Inventor | 44.00% | ~3,370 |
+| Healer | 52.00% | ~3,984 |
+| Aspiring Inventor | 44.00% | ~3,371 |
 | Adventurer | 41.00% | ~3,141 |
 | Famous Healer | 38.00% | ~2,911 |
 | Local Leader | 35.00% | ~2,681 |
-| Famous Explorer | 34.00% | ~2,604 |
-| New Opportunities | 34.00% | ~2,604 |
+| Famous Explorer | 34.00% | ~2,605 |
+| New Opportunities | 34.00% | ~2,605 |
 | Energized | 33.00% | ~2,528 |
 | The Long Haul | 33.00% | ~2,528 |
 | The Great Healer | 31.00% | ~2,375 |
@@ -30,14 +30,14 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 22.00% | ~1,685 |
 | Real Survivor | 22.00% | ~1,685 |
 | Merchant | 21.00% | ~1,609 |
-| War Never Changes | 19.00% | ~1,455 |
-| Rocket Surgeon | 19.00% | ~1,455 |
+| War Never Changes | 19.00% | ~1,456 |
+| Rocket Surgeon | 19.00% | ~1,456 |
 | Big Game Hunter | 17.00% | ~1,302 |
 | Spreading Influence | 17.00% | ~1,302 |
 | Friendly | 16.00% | ~1,226 |
 | Around the World | 16.00% | ~1,226 |
 | Bookworm | 15.00% | ~1,149 |
-| Famous Adventurer | 14.00% | ~1,072 |
+| Famous Adventurer | 14.00% | ~1,073 |
 | Prepared for Anything | 13.00% | ~996 |
 | Big Catastrofan | 13.00% | ~996 |
 | It's a Finnish Thing | 10.00% | ~766 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,660 (Ranked 125)  
+Progressed: 7,661 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-21 | 7,568 | 0 |
 | 2023-07-22 | 7,603 | 0 |
 | 2023-07-23 | 7,640 | 0 |
-| 2023-07-24 | 7,660 | 0 |
+| 2023-07-24 | 7,661 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 332)  
 Sum: 681 (Ranked 273)  

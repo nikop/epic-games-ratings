@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~480 |
 | A Real Challenge | 3.00% | ~480 |
 | Serving Ale | 2.00% | ~320 |
+| Refinery | 2.00% | ~320 |
 | Against All Odds | 2.00% | ~320 |
 | Ruined Armory | 2.00% | ~320 |
 | Bandit Camp | 2.00% | ~320 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 2.00% | ~320 |
 | Defying the Crown | 2.00% | ~320 |
 | Into the Forest | 2.00% | ~320 |
-| Refinery | 1.00% | ~160 |
 | Fishmen Ritual Site | 1.00% | ~160 |
 | Efficient Explorer | 0.90% | ~144 |
 | Prestigious Expedition | 0.80% | ~128 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,993 (Ranked 109)  
+Progressed: 15,995 (Ranked 109)  
 Completed: 40 (0.25%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 40 (0.25%) (Ranked 158)
 | 2023-07-21 | 15,947 | 40 |
 | 2023-07-22 | 15,968 | 40 |
 | 2023-07-23 | 15,983 | 40 |
-| 2023-07-24 | 15,993 | 40 |
+| 2023-07-24 | 15,995 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 204)  
 Sum: 3,076 (Ranked 158)  

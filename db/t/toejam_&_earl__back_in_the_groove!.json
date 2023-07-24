@@ -3,8 +3,8 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
   "Ranking_Rating": 765,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 113,
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55988,
+  "EOS_Progressed": 55990,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6212,6 +6212,11 @@
       "Time": "2023-07-24T15:05:18.8693036+00:00",
       "NumProgressed": 55988,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-24T16:06:58.8547986+00:00",
+      "NumProgressed": 55990,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6295,7 +6300,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "FlyingPresentMaster",
@@ -6367,7 +6372,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "HarshLove",
@@ -6614,7 +6619,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55988,
+      "Progressed": 55990,
       "Completed": 4
     }
   ],
@@ -6622,8 +6627,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:05:18.8693031+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:06:58.854798+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:23.1111168+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:01:16.3079582+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:05:18.8693985+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:03:22.7515524+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:06:58.8548896+00:00"
 }

@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 796)  
+Rating: 4.27 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 4.27 (Ranked 796)
 | PRUDENT | 11.00% | ~41 |
 | PATTY-KILLER | 9.00% | ~33 |
 | GOURMET | 8.00% | ~30 |
+| SCATTERBRAIN | 8.00% | ~30 |
 | EXPERIMENTALIST | 7.00% | ~26 |
-| SCATTERBRAIN | 7.00% | ~26 |
 | TASTE UNTASTY | 5.00% | ~18 |
 | HIGH TECHNOLOGIES | 3.00% | ~11 |
 | CORRUPTIONIST | 2.00% | ~7 |

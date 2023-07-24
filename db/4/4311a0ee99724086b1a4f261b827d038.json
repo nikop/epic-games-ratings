@@ -234,9 +234,9 @@
       "ID": "HW2_MISSION2_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Angel Moon Completed",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:03:30.9153067+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:04:23.5776645+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:57:00.9599232+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:03:30.9153393+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:57:26.8523469+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:04:23.577697+00:00"
 }

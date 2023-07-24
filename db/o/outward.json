@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 442,
+  "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 187,
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3106,
+  "EOS_Progressed": 3107,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3401,6 +3401,11 @@
       "Time": "2023-07-24T15:05:54.9862875+00:00",
       "NumProgressed": 3106,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-24T16:07:48.2923439+00:00",
+      "NumProgressed": 3107,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3420,7 +3425,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "AncestorsPride_13",
@@ -3450,9 +3455,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1367
     },
     {
       "ID": "CrowdPleaser",
@@ -3484,7 +3489,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ForAllAurai_8",
@@ -3500,7 +3505,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -3516,7 +3521,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "HouseofCards_19",
@@ -3556,7 +3561,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MasterofAurai_20",
@@ -3596,7 +3601,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3612,7 +3617,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3620,7 +3625,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3634,9 +3639,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1119
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3747,15 +3752,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3106,
+      "Progressed": 3107,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:05:54.9862869+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:07:48.2923426+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:58:20.4375211+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:05:54.9863397+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:59:19.704999+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:07:48.2924006+00:00"
 }

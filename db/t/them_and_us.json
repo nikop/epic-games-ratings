@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ETUA_OutRage",
@@ -955,9 +955,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "ETUA_StayDead",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:06:05.1077914+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:08:01.9615107+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:57:33.3756221+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:06:05.1078337+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:58:12.0277204+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:08:01.9615464+00:00"
 }

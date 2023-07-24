@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2596,
+  "EOS_Progressed": 2598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3403,6 +3403,11 @@
       "Time": "2023-07-24T15:03:06.4144986+00:00",
       "NumProgressed": 2596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T16:03:51.1384061+00:00",
+      "NumProgressed": 2598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3414,7 +3419,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3718,7 +3723,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3782,7 +3787,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3790,22 +3795,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2596,
+      "Progressed": 2598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:03:06.4144978+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:03:51.1384055+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:59:43.5660482+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:03:06.4145701+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:01:21.7831965+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:03:51.138465+00:00"
 }

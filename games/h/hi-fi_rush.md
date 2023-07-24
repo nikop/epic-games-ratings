@@ -36,13 +36,13 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 1.00% | ~35 |
 | There's such a thing as TOO helpful | 1.00% | ~35 |
 | Chip-tuned | 0.70% | ~25 |
+| Wanna hear my playlist? | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~14 |
-| Wanna hear my playlist? | 0.60% | ~21 |
 | Check out my moves! | 0.60% | ~21 |
 | I told you I'd be fine, Peppermint! | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~10 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
-| I think I found your calling, Macaron | 0.30% | ~11 |
+| I think I found your calling, Macaron | 0.40% | ~14 |
 | This is a breeze! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
 | First we parry, then we counter | 0.30% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,545 (Ranked 145)  
+Progressed: 3,547 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 6 (0.17%) (Ranked 170)
 | 2023-07-21 | 3,492 | 6 |
 | 2023-07-22 | 3,516 | 6 |
 | 2023-07-23 | 3,536 | 6 |
-| 2023-07-24 | 3,545 | 6 |
+| 2023-07-24 | 3,547 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

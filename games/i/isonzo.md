@@ -7,25 +7,25 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,538 |
-| Tutti Eroi! | 54.00% | ~3,473 |
+| Tutti Eroi! | 54.00% | ~3,474 |
 | You Shall Not Pass | 53.00% | ~3,409 |
-| Avanti Savoia! | 47.00% | ~3,023 |
+| Avanti Savoia! | 47.00% | ~3,024 |
 | Mamma Mia! | 37.00% | ~2,380 |
 | Conrad von Hotzensocks | 36.00% | ~2,316 |
 | Gabriele D'Annunzio | 33.00% | ~2,123 |
-| Silver Lining | 29.00% | ~1,865 |
-| Aurelio Baruzzi | 23.00% | ~1,479 |
+| Silver Lining | 29.00% | ~1,866 |
+| Aurelio Baruzzi | 23.00% | ~1,480 |
 | Veni Vidi Vici | 22.00% | ~1,415 |
 | Decimation | 21.00% | ~1,351 |
 | Donatello | 21.00% | ~1,351 |
-| The Italian Job | 20.00% | ~1,286 |
+| The Italian Job | 20.00% | ~1,287 |
 | Insubordination | 19.00% | ~1,222 |
 | The Lion of the Isonzo | 18.00% | ~1,158 |
-| Ragazzi del '99 | 17.00% | ~1,093 |
-| Dirty Dozen | 14.00% | ~900 |
-| Luigi Cadorna | 14.00% | ~900 |
-| Thus With A Kiss | 14.00% | ~900 |
-| Uomo Universale | 14.00% | ~900 |
+| Ragazzi del '99 | 17.00% | ~1,094 |
+| Dirty Dozen | 14.00% | ~901 |
+| Luigi Cadorna | 14.00% | ~901 |
+| Thus With A Kiss | 14.00% | ~901 |
+| Uomo Universale | 14.00% | ~901 |
 | Shaken, Not Stirred | 13.00% | ~836 |
 | Die Bosniaken Kommen! | 12.00% | ~772 |
 | Machiavelli | 12.00% | ~772 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,432 (Ranked 132)  
+Progressed: 6,433 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,11 +142,11 @@ Completed: 8 (0.12%) (Ranked 181)
 | 2023-07-21 | 6,391 | 8 |
 | 2023-07-22 | 6,404 | 8 |
 | 2023-07-23 | 6,424 | 8 |
-| 2023-07-24 | 6,432 | 8 |
+| 2023-07-24 | 6,433 | 8 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 434)  
+Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 347)  
-Diff (max vs sum): 87  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

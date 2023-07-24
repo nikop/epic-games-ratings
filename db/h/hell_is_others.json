@@ -3,7 +3,7 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 240,
@@ -674,10 +674,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-07-24T16:03:03.7453121+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 203,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -721,7 +727,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Competitive Players",
@@ -730,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253552,
+  "EOS_Progressed": 253560,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10380,6 +10386,11 @@
       "Time": "2023-07-24T14:06:00.2032834+00:00",
       "NumProgressed": 253552,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-24T16:07:50.966488+00:00",
+      "NumProgressed": 253560,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10439,7 +10450,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78601
+      "UsersEstimate": 78604
     },
     {
       "ID": "BackHomeNTimes",
@@ -10495,7 +10506,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25355
+      "UsersEstimate": 25356
     },
     {
       "ID": "CreditLevel2",
@@ -10591,7 +10602,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15213
+      "UsersEstimate": 15214
     },
     {
       "ID": "GrowPlants2",
@@ -10647,7 +10658,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15213
+      "UsersEstimate": 15214
     },
     {
       "ID": "KillOtherWithKatana",
@@ -10679,7 +10690,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55781
+      "UsersEstimate": 55783
     },
     {
       "ID": "KillOthers2",
@@ -10783,7 +10794,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25355
+      "UsersEstimate": 25356
     },
     {
       "ID": "ReachNDays2",
@@ -10838,16 +10849,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253552,
+      "Progressed": 253560,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-24T03:02:15.79934+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:05:57.4241725+00:00",
+  "LastChanged": "2023-07-24T16:03:03.7453119+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:07:50.9664875+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-24T15:01:04.9808447+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:05:57.4243041+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:03:03.7453126+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:07:50.9666103+00:00"
 }

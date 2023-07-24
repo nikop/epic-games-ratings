@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -146,6 +146,11 @@
       "Time": "2023-07-24T03:05:53.1538277+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-24T16:06:43.9929597+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -197,7 +202,7 @@
       "Name": "Tinkerer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -227,7 +232,7 @@
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
       "SetID": "7i20me3",
       "Name": "Bringing guns to a sword fight",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -235,15 +240,15 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 85,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -251,7 +256,7 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -259,7 +264,7 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -403,9 +408,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -419,7 +424,7 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -427,7 +432,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -435,7 +440,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -475,7 +480,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -499,7 +504,7 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -507,7 +512,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -515,7 +520,7 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     }
@@ -524,22 +529,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 28,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 24,
-      "Completed": 24
+      "Progressed": 26,
+      "Completed": 26
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:05:08.4771625+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:06:43.9929584+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.0350027+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:58:17.0100231+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:05:08.477209+00:00"
+  "LastUpdate_Ratings": "2023-07-24T15:59:14.6256348+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:06:43.9929978+00:00"
 }

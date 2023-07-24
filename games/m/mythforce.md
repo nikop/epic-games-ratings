@@ -7,18 +7,18 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 9.00% | ~21 |
-| First Strike | 8.00% | ~19 |
+| First Strike | 9.00% | ~21 |
 | Flawless Victory | 8.00% | ~19 |
 | Hit 'Em Where It Hurts | 8.00% | ~19 |
 | That'll Leave a Mark | 8.00% | ~19 |
 | Debuff Dogpile | 7.00% | ~16 |
 | Perk Shard Punch Card | 7.00% | ~16 |
+| Next Time on MythForce... | 6.00% | ~14 |
 | Spending Spree | 6.00% | ~14 |
 | Ten Steps from the Grave | 6.00% | ~14 |
 | Cold-Blooded Critters | 5.00% | ~12 |
 | Everything Must Go! | 5.00% | ~12 |
 | Mushroom Madness! | 5.00% | ~12 |
-| Next Time on MythForce... | 5.00% | ~12 |
 | On this Episode! | 5.00% | ~12 |
 | Deadication | 4.00% | ~9 |
 | The Harder They Fall | 4.00% | ~9 |
@@ -41,9 +41,9 @@ Completed: 0 (0.00%) (Ranked 240)
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 235 | 0 |
 ## Awards
-Max (Highly Recommended): 32  (Ranked 447)  
+Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

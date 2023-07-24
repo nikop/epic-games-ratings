@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 240,
@@ -1014,9 +1014,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -1078,9 +1078,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -1150,8 +1150,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-22T01:59:54.7200088+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:03:45.6146606+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:04:44.0309736+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:58:57.0993246+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:03:45.6146824+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:00:14.1807784+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:04:44.0309961+00:00"
 }

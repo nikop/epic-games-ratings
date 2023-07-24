@@ -40,7 +40,7 @@
 | Fire Beacon | 22.00% | ~36 |
 | Lunch Before The Lunch | 20.00% | ~32 |
 | From Here To Eternity | 18.00% | ~29 |
-| Building Blocks | 17.00% | ~28 |
+| Building Blocks | 18.00% | ~29 |
 | Octopostructure | 16.00% | ~26 |
 | Boss Hunter | 15.00% | ~24 |
 | Hawkman | 8.00% | ~13 |

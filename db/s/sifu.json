@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5328,9 +5328,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711387,
+  "EOS_Progressed": 711394,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14238,6 +14238,11 @@
       "Time": "2023-07-24T15:06:47.0620063+00:00",
       "NumProgressed": 711387,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-24T16:09:00.4633788+00:00",
+      "NumProgressed": 711394,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14409,7 +14414,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -14593,7 +14598,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14648,21 +14653,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20688,
+      "Progressed": 20695,
       "Completed": 10440
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711387,
+      "Progressed": 711394,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-24T12:00:46.114276+00:00",
-  "LastChanged_Achievements": "2023-07-24T15:06:47.0620029+00:00",
+  "LastChanged_Achievements": "2023-07-24T16:09:00.4633785+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-24T14:59:33.3920973+00:00",
-  "LastUpdate_Achievements": "2023-07-24T15:06:47.0621265+00:00"
+  "LastUpdate_Ratings": "2023-07-24T16:01:09.0763772+00:00",
+  "LastUpdate_Achievements": "2023-07-24T16:09:00.4634893+00:00"
 }
