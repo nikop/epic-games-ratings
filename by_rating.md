@@ -197,7 +197,7 @@
 | 182 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,712 | 116 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,548 | 71 |
 | 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 361 | 221 |
-| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 385 | 213 |
+| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 386 | 213 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 377 | 216 |
 | 196 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 506 |
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 506 |
@@ -219,7 +219,7 @@
 | 214 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 472 |
 | 214 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,579 | 61 |
 | 214 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.69 | 0 | 506 |
-| 214 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,575 | 70 |
+| 214 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,583 | 70 |
 | 214 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 506 |
 | 214 | [House Flipper](games/h/house_flipper.md) | 4.69 | 304 | 231 |
 | 214 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 506 |
@@ -309,7 +309,7 @@
 | 300 | [Old World](games/o/old_world.md) | 4.65 | 218 | 260 |
 | 300 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 52 | 392 |
 | 300 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 506 |
-| 300 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,711 | 16 |
+| 300 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,712 | 16 |
 | 300 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.65 | 0 | 506 |
 | 300 | [Tavern Master](games/t/tavern_master.md) | 4.65 | 0 | 506 |
 | 300 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 506 |
@@ -570,7 +570,7 @@
 | 556 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 506 |
 | 556 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 506 |
 | 556 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 737 | 159 |
-| 556 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 481,494 | 2 |
+| 556 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 481,561 | 2 |
 | 556 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 506 |
 | 556 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 35 | 435 |
 | 574 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 63 | 383 |
@@ -925,7 +925,7 @@
 | 922 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 506 |
 | 924 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 506 |
 | 924 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 506 |
-| 924 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 2,828 | 93 |
+| 924 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 2,842 | 93 |
 | 927 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.96 | 0 | 506 |
 | 928 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 409 |
 | 929 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 506 |

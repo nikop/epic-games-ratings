@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.67% |
-| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
+| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -22,8 +22,8 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.18% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.34% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.80% |
+| 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.29% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.79% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 26 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 8.33% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -36,7 +36,7 @@
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.56% |
+| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.52% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
@@ -57,13 +57,13 @@
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 57 | [Monster Harvest](games/m/monster_harvest.md) | 3.27% |
-| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.18% |
+| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 59 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 61 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
 | 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.95% |
 | 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 64 | [HordeCore](games/h/hordecore.md) | 2.92% |
+| 64 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 65 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.74% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -105,7 +105,7 @@
 | 103 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 104 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 105 | [Adios](games/a/adios.md) | 0.98% |
-| 106 | [Sable](games/s/sable.md) | 0.97% |
+| 105 | [Sable](games/s/sable.md) | 0.98% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 108 | [Hades](games/h/hades.md) | 0.89% |
 | 109 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
@@ -179,10 +179,10 @@
 | 175 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 179 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 180 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.13% |
 | 180 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
-| 181 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.12% |
-| 181 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 182 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 182 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 184 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 184 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
@@ -508,4 +508,4 @@
 | 240 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 240 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 240 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,937 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,938 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
