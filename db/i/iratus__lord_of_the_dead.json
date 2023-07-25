@@ -1988,10 +1988,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4154,
       "NumberOfAwardsMax": 2143
+    },
+    {
+      "Time": "2023-07-25T06:59:34.8079954+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4155,
+      "NumberOfAwardsMax": 2143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4154,
+  "NumberOfAwards": 4155,
   "NumberOfAwardsMax": 2143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2017,7 +2023,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game is Relaxing",
@@ -2062,7 +2068,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 35690,
+  "EOS_Progressed": 35691,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
@@ -12162,6 +12168,11 @@
       "Time": "2023-07-25T06:02:51.3949638+00:00",
       "NumProgressed": 35690,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-07-25T07:02:24.390951+00:00",
+      "NumProgressed": 35691,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -12205,7 +12216,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20343
+      "UsersEstimate": 20344
     },
     {
       "ID": "achievements_14",
@@ -12213,7 +12224,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "achievements_15",
@@ -12221,7 +12232,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 16774
+      "UsersEstimate": 16775
     },
     {
       "ID": "achievements_17",
@@ -12277,7 +12288,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21414
+      "UsersEstimate": 21415
     },
     {
       "ID": "achievements_24",
@@ -12413,7 +12424,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "achievements_4",
@@ -12421,7 +12432,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 23555
+      "UsersEstimate": 23556
     },
     {
       "ID": "achievements_40",
@@ -12477,7 +12488,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 30336
+      "UsersEstimate": 30337
     },
     {
       "ID": "achievements_47",
@@ -12541,7 +12552,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20343
+      "UsersEstimate": 20344
     },
     {
       "ID": "achievements_54",
@@ -12613,7 +12624,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9636
+      "UsersEstimate": 9637
     },
     {
       "ID": "achievements_63",
@@ -12621,7 +12632,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9279
+      "UsersEstimate": 9280
     },
     {
       "ID": "achievements_64",
@@ -12677,7 +12688,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 13562
+      "UsersEstimate": 13563
     },
     {
       "ID": "achievements_70",
@@ -12772,15 +12783,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 35690,
+      "Progressed": 35691,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-07-23T07:58:49.5547458+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:02:51.3949631+00:00",
+  "LastChanged": "2023-07-25T06:59:34.8079953+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:02:24.3909505+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:25.5840625+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:00:19.4060278+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:02:51.3951615+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:59:34.8079958+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:02:24.3910697+00:00"
 }

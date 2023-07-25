@@ -18,12 +18,12 @@
 | Junior Lieutenant Baran | 20.00% | ~24 |
 | Baran Senior Warrant Officer Grade 5 | 16.00% | ~20 |
 | Senior Lieutenant Baran | 14.00% | ~17 |
-| Captain Baran | 8.00% | ~10 |
-| Senior Major Baran | 8.00% | ~10 |
+| Captain Baran | 9.00% | ~11 |
+| Senior Major Baran | 9.00% | ~11 |
 | Lieutenant Colonel Baran | 7.00% | ~9 |
-| Colonel Baran | 4.00% | ~5 |
-| Brigadier General Baran | 2.00% | ~2 |
-| Lieutenant General Baran | 2.00% | ~2 |
+| Colonel Baran | 5.00% | ~6 |
+| Brigadier General Baran | 3.00% | ~4 |
+| Lieutenant General Baran | 3.00% | ~4 |
 | EMERAID RAM | 2.00% | ~2 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

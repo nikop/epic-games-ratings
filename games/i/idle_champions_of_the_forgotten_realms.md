@@ -8,33 +8,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,153 |
 | Beast Intentions | 1.00% | ~2,153 |
-| Maddening | 0.70% | ~1,507 |
+| Maddening | 0.80% | ~1,722 |
 | The Silken Swamp | 0.60% | ~1,292 |
 | Supply Run | 0.50% | ~1,077 |
 | Rocky Reception | 0.50% | ~908 |
 | Rock and Roll | 0.50% | ~908 |
+| Tall Tales | 0.40% | ~726 |
 | Vecna Lives! | 0.40% | ~726 |
+| Vecna Loots! | 0.40% | ~726 |
 | Flight of the Kindori Pod | 0.40% | ~726 |
+| Topolah's Tower | 0.40% | ~726 |
 | Pros and CONs | 0.30% | ~646 |
-| Tall Tales | 0.30% | ~545 |
+| The Witchlight Carnival | 0.30% | ~545 |
 | Wet Feet | 0.30% | ~646 |
 | Hatchlings Underfoot | 0.30% | ~646 |
+| Don't Look Up! | 0.30% | ~646 |
 | Seeds of Destruction | 0.30% | ~545 |
-| Vecna Loots! | 0.30% | ~545 |
 | Return to the Tomb | 0.30% | ~545 |
 | Heatwave | 0.30% | ~545 |
 | The Champion's Guide to Wildspace | 0.30% | ~545 |
+| Not That Type of Helm! | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
 | Goblin Halls: the Next Generation | 0.30% | ~545 |
-| Topolah's Tower | 0.30% | ~545 |
+| Bazaar Companions | 0.30% | ~545 |
+| Bahamut's Army | 0.30% | ~545 |
 | Krux's Speed Run | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
-| The Witchlight Carnival | 0.20% | ~363 |
 | Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
-| Don't Look Up! | 0.20% | ~431 |
 | Heavy Burden | 0.20% | ~431 |
 | Speeds of Destruction | 0.20% | ~363 |
+| Owlbear Necessities | 0.20% | ~363 |
 | The Evacuation of Waterdeep | 0.20% | ~363 |
 | On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
@@ -42,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.20% | ~431 |
 | The Dread Domain of Tovag | 0.20% | ~363 |
 | Were-verpowered | 0.20% | ~431 |
+| Homecoming | 0.20% | ~431 |
 | A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
 | Welcome to the Rock | 0.20% | ~363 |
@@ -74,9 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.20% | ~431 |
 | Willing to Sacrifice | 0.20% | ~363 |
 | Devilishly Cold | 0.20% | ~363 |
-| Not That Type of Helm! | 0.20% | ~363 |
-| Bazaar Companions | 0.20% | ~363 |
-| Bahamut's Army | 0.20% | ~363 |
+| Tiny Treaty | 0.20% | ~363 |
 | Luigi After Hours | 0.20% | ~363 |
 | Electric Mayhem | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
@@ -144,7 +147,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Owlbear Necessities | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
 | Well Equipped | 0.10% | ~182 |
@@ -170,7 +172,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~182 |
 | Xanathaaaaaaar! | 0.10% | ~182 |
 | A Whale of a Time | 0.10% | ~182 |
-| Homecoming | 0.10% | ~215 |
 | Anti-Dexterous Explorers | 0.10% | ~215 |
 | Struggling Toward Omu | 0.10% | ~215 |
 | Wagon Train | 0.10% | ~215 |
@@ -516,11 +517,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.10% | ~182 |
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
-| Tiny Treaty | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,304 (Ranked 53)  
-Completed: 2,091 (0.97%) (Ranked 107)  
+Progressed: 215,311 (Ranked 53)  
+Completed: 2,094 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,091 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,304 | 2,091 |
+| 2023-07-25 | 215,311 | 2,094 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

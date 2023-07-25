@@ -84,10 +84,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67428,
+  "EOS_Progressed": 67430,
   "EOS_Completed": 658,
-  "EOS_NewPlayers": 952,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 950,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -10494,6 +10494,11 @@
       "Time": "2023-07-25T06:08:01.0576264+00:00",
       "NumProgressed": 67428,
       "NumCompleted": 658
+    },
+    {
+      "Time": "2023-07-25T07:07:38.547127+00:00",
+      "NumProgressed": 67430,
+      "NumCompleted": 658
     }
   ],
   "TotalAchievements": 25,
@@ -10537,7 +10542,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -10561,7 +10566,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "Fair\u0027sFair",
@@ -10625,7 +10630,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12811
+      "UsersEstimate": 12812
     },
     {
       "ID": "Nice Try",
@@ -10633,7 +10638,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10788
+      "UsersEstimate": 10789
     },
     {
       "ID": "Nothing Left to Say",
@@ -10704,7 +10709,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 67428,
+      "Progressed": 67430,
       "Completed": 658
     }
   ],
@@ -10712,8 +10717,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-20T22:01:26.8795363+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:08:01.0576256+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:07:38.5471265+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.2305139+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:02:21.4992728+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:08:01.057755+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:01:40.4778446+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:07:38.5471887+00:00"
 }

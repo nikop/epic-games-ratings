@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4272,
+  "EOS_Progressed": 4274,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6695,6 +6695,11 @@
       "Time": "2023-07-25T04:06:30.3037869+00:00",
       "NumProgressed": 4272,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-25T07:06:23.8035318+00:00",
+      "NumProgressed": 4274,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6802,7 +6807,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6810,7 +6815,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -6826,7 +6831,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6866,7 +6871,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3206
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6962,7 +6967,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6992,9 +6997,9 @@
       "ID": "ACH_WATCHTHEWORLDBURN",
       "SetID": "1p8ab95",
       "Name": "Watch The World Burn",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -7025,15 +7030,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4272,
+      "Progressed": 4274,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:06:42.5461922+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:06:23.8035314+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:02:05.9883366+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:06:42.546274+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:01:26.5832094+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:06:23.8035818+00:00"
 }

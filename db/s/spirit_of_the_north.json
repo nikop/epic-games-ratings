@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63267,
+  "EOS_Progressed": 63268,
   "EOS_Completed": 323,
-  "EOS_NewPlayers": 848,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10493,6 +10493,11 @@
       "Time": "2023-07-25T05:03:14.5485143+00:00",
       "NumProgressed": 63267,
       "NumCompleted": 323
+    },
+    {
+      "Time": "2023-07-25T07:03:13.4437467+00:00",
+      "NumProgressed": 63268,
+      "NumCompleted": 323
     }
   ],
   "TotalAchievements": 24,
@@ -10536,7 +10541,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16450
     },
     {
       "ID": "ERADICATE",
@@ -10560,7 +10565,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18347
+      "UsersEstimate": 18348
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -10695,7 +10700,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 63267,
+      "Progressed": 63268,
       "Completed": 323
     }
   ],
@@ -10703,8 +10708,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:03:19.070869+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:03:13.443746+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:01:07.4973215+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:03:19.0709471+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:00:25.9159163+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:03:13.4438071+00:00"
 }

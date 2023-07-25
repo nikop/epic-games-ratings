@@ -263,9 +263,9 @@
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "quest003",
@@ -351,17 +351,17 @@
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "shop.teleport",
       "SetID": "bbgli2k",
       "Name": "That\u0027s one way to travel",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "sleepkb",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:08:03.9636226+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:07:42.1297208+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3689264+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:57:55.5310268+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:08:03.9636549+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:57:40.378784+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:07:42.1297467+00:00"
 }

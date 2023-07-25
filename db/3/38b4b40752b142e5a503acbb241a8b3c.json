@@ -4,7 +4,7 @@
   "ProductSlug": "f1-manager-2023",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-31T15:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:06:42.9386686+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:06:24.2689953+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.2413284+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:57:47.3923537+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:06:42.9386719+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:57:32.7351133+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:06:24.2689979+00:00"
 }

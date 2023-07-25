@@ -24,19 +24,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.40% | ~52 |
 | Hanging Gardens | 0.40% | ~52 |
 | Oracle | 0.40% | ~52 |
+| Judaism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
+| Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
-| Judaism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
-| Magnificent | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,077 (Ranked 115)  
+Progressed: 13,079 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,077 | 5 |
+| 2023-07-25 | 13,079 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

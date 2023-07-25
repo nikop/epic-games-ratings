@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant II",
   "ProductSlug": "remnant-2",
-  "Ranking_EOS_Progress": 98,
+  "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 5,
   "Ranking_EOS_NewCompleters": 93,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27864,
+  "EOS_Progressed": 28099,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27863,
+  "EOS_NewPlayers": 28098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-07-25T06:05:45.2247234+00:00",
       "NumProgressed": 27864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T07:05:30.9868962+00:00",
+      "NumProgressed": 28099,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -437,7 +442,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 281
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -467,9 +472,9 @@
       "ID": "Defeat_Boss_No_Damage",
       "SetID": "bkp3b1a",
       "Name": "Only Human",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -483,9 +488,9 @@
       "ID": "Defeat_Cube",
       "SetID": "bkp3b1a",
       "Name": "Gleaming the Cube",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -539,9 +544,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 140
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -557,7 +562,7 @@
       "Name": "Quest for Survival",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 281
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -621,23 +626,23 @@
       "Name": "First of Many",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 562
     },
     {
       "ID": "Obtain_Archetype_Dual",
       "SetID": "bkp3b1a",
       "Name": "Duality",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 253
     },
     {
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 169
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -667,9 +672,9 @@
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 281
     },
     {
       "ID": "Obtain_Guns_A",
@@ -739,9 +744,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 562
     },
     {
       "ID": "Obtain_Traits_B",
@@ -781,23 +786,23 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 225
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 169
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -811,9 +816,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 281
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -836,13 +841,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 27864,
+      "Progressed": 28099,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:05:45.2247228+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:05:30.9868955+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.8593105+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:01:58.8112041+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:05:45.2247732+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:01:16.9221474+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:05:30.9869312+00:00"
 }

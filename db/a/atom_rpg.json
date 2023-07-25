@@ -5,9 +5,9 @@
   "Ranking_Rating": 609,
   "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 447,
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1793,6 +1793,11 @@
       "Time": "2023-07-24T21:07:26.6572311+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T07:03:45.4925055+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1802,9 +1807,9 @@
       "ID": "BUSTIN_NUTS_1",
       "SetID": "bf13m8j",
       "Name": "Bustin\u0027 nuts",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 74
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -1860,7 +1865,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1043
     },
     {
       "ID": "EXPERT_1",
@@ -1876,7 +1881,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1900,7 +1905,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "INDY_1",
@@ -1956,7 +1961,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1964,7 +1969,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "PACIFIST",
@@ -1980,7 +1985,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2026,9 +2031,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "SECRET_ROOM",
@@ -2076,7 +2081,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "WISHMASTER_1",
@@ -2091,15 +2096,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1054,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:04:08.3530721+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:03:45.4925047+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:01:57.9311583+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:04:08.3531106+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:01:15.9392121+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:03:45.4925334+00:00"
 }

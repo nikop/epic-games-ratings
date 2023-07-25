@@ -4,7 +4,7 @@
   "ProductSlug": "wanna-survive",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-05-21T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.807526+00:00",
   "LastChanged": "2023-03-31T05:57:36.8075261+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:31.645265+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:01:15.5884032+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:07:38.7741796+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:00:32.9854001+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:07:13.9111584+00:00"
 }

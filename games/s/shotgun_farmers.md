@@ -24,10 +24,10 @@
 | Professional Survivor | 21.00% | ~38 |
 | Pork Chop Express | 16.00% | ~37 |
 | Skin Of Your Teeth | 14.00% | ~32 |
+| Eggtraordinary | 13.00% | ~30 |
 | Carrocketeer | 13.00% | ~30 |
 | Oh My Gourd | 13.00% | ~23 |
 | Getting Started | 12.00% | ~27 |
-| Eggtraordinary | 12.00% | ~27 |
 | This Is My Boomstick | 12.00% | ~21 |
 | Summers Here | 11.00% | ~20 |
 | Fresh Pancake | 10.00% | ~23 |

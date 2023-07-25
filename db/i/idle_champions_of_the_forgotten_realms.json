@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215304,
-  "EOS_Completed": 2091,
-  "EOS_NewPlayers": 2358,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 215311,
+  "EOS_Completed": 2094,
+  "EOS_NewPlayers": 2354,
+  "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15511,6 +15511,11 @@
       "Time": "2023-07-25T06:08:06.2648485+00:00",
       "NumProgressed": 215304,
       "NumCompleted": 2091
+    },
+    {
+      "Time": "2023-07-25T07:07:44.8321431+00:00",
+      "NumProgressed": 215311,
+      "NumCompleted": 2094
     }
   ],
   "TotalAchievements": 512,
@@ -15528,9 +15533,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1722
     },
     {
       "ID": "objective_completed_100",
@@ -15592,9 +15597,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1051",
@@ -15624,9 +15629,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1056",
@@ -15992,9 +15997,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1121",
@@ -16160,9 +16165,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1158",
@@ -16224,9 +16229,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1169",
@@ -16456,9 +16461,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_125",
@@ -19488,17 +19493,17 @@
       "ID": "objective_completed_1220",
       "SetID": "415jc5c",
       "Name": "Not That Type of Helm!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1327",
       "SetID": "415jc5c",
       "Name": "Tiny Treaty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1332",
@@ -19528,17 +19533,17 @@
       "ID": "objective_completed_663",
       "SetID": "415jc5c",
       "Name": "Bazaar Companions",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1375",
@@ -19592,9 +19597,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1391",
@@ -19617,21 +19622,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181578,
-      "Completed": 2935
+      "Progressed": 181585,
+      "Completed": 2941
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215304,
-      "Completed": 2091
+      "Progressed": 215311,
+      "Completed": 2094
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T06:08:06.2648479+00:00",
+  "LastChanged_Achievements": "2023-07-25T07:07:44.8321425+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:59:20.9725635+00:00",
-  "LastUpdate_Achievements": "2023-07-25T06:08:06.2680377+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:58:51.1814413+00:00",
+  "LastUpdate_Achievements": "2023-07-25T07:07:44.8344668+00:00"
 }
