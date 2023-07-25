@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~24 |
-| Tinkerer | 54.00% | ~15 |
-| Welcome to the Club | 29.00% | ~8 |
-| A new World ahead | 25.00% | ~7 |
+| Self-Defence | 86.00% | ~25 |
+| Tinkerer | 52.00% | ~15 |
+| Welcome to the Club | 31.00% | ~9 |
+| A new World ahead | 24.00% | ~7 |
 | Don't Cry Wolf | 21.00% | ~6 |
 | Can't touch this | 21.00% | ~6 |
-| Apprentice | 14.00% | ~4 |
-| Freezing Cold | 11.00% | ~3 |
+| Apprentice | 17.00% | ~5 |
+| Freezing Cold | 10.00% | ~3 |
 | Bringing guns to a sword fight | 7.00% | ~2 |
 | Searing Heat | 7.00% | ~2 |
 | Through Dangers Untold | 7.00% | ~2 |
+| Locked and Loaded | 7.00% | ~2 |
 | The Golden Flash | 7.00% | ~2 |
 | The Power of the Mountains | 7.00% | ~2 |
 | Changing the World | 7.00% | ~2 |
-| Mirror, Mirror on the Wall | 4.00% | ~1 |
-| Sponsor | 4.00% | ~1 |
-| Defeat Ingla | 4.00% | ~1 |
-| Defeat Tezuth | 4.00% | ~1 |
-| Defeat Uskol | 4.00% | ~1 |
-| Locked and Loaded | 4.00% | ~1 |
-| Nothing but the Truth | 4.00% | ~1 |
-| Finally! | 4.00% | ~1 |
-| The End | 4.00% | ~1 |
-| But what of the Acreans? | 4.00% | ~1 |
+| Mirror, Mirror on the Wall | 3.00% | ~1 |
+| Sponsor | 3.00% | ~1 |
+| Defeat Ingla | 3.00% | ~1 |
+| Defeat Tezuth | 3.00% | ~1 |
+| Defeat Uskol | 3.00% | ~1 |
+| Nothing but the Truth | 3.00% | ~1 |
+| Finally! | 3.00% | ~1 |
+| The End | 3.00% | ~1 |
+| But what of the Acreans? | 3.00% | ~1 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 373)  
+Progressed: 29 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 23 | 0 |
 | 2023-07-23 | 25 | 0 |
 | 2023-07-24 | 28 | 0 |
+| 2023-07-25 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2269,9 +2269,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 331
     },
     {
       "ID": "Packing20",
@@ -2422,8 +2422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:03:50.9669641+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:04:31.936711+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:00:12.7665699+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:03:50.9670341+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:00:28.9965811+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:04:31.9367845+00:00"
 }

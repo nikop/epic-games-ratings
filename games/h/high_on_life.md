@@ -1,24 +1,24 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 260)  
+Rating: 4.67 (Ranked 261)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,360 |
-| Mods Please Ban | 77.00% | ~17,960 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,727 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,027 |
+| Eye Scream, You Scream | 83.00% | ~19,361 |
+| Mods Please Ban | 77.00% | ~17,961 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,728 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,028 |
 | First Bounty Down | 59.00% | ~13,762 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,295 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,296 |
 | Luglox Genocide | 43.00% | ~10,030 |
-| Playing Card To Get | 33.00% | ~7,697 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,697 |
-| Creature Feature | 29.00% | ~6,764 |
+| Playing Card To Get | 33.00% | ~7,698 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,698 |
+| Creature Feature | 29.00% | ~6,765 |
 | Satisfied Gus-tomer | 28.00% | ~6,531 |
 | Cold-Blooded Driller | 28.00% | ~6,531 |
-| Are You Packin'? | 25.00% | ~5,831 |
-| G3 Graduation | 25.00% | ~5,831 |
+| Are You Packin'? | 25.00% | ~5,832 |
+| G3 Graduation | 25.00% | ~5,832 |
 | RIP Davey Glutes | 24.00% | ~5,598 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,598 |
 | Hardest Battle In The Game | 22.00% | ~5,132 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 260)
 | Who's The Boss? | 20.00% | ~4,665 |
 | Self-Actualization | 19.00% | ~4,432 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,432 |
-| Legendary Bounty Hunter | 18.00% | ~4,198 |
+| Legendary Bounty Hunter | 18.00% | ~4,199 |
 | Seeing All The Sights | 16.00% | ~3,732 |
 | Carried Stan's Load To Completion | 13.00% | ~3,032 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,799 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 260)
 | Epic Legendary Prize | 1.00% | ~233 |
 | A Starfish Is Born | 1.00% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,325 (Ranked 101)  
+Progressed: 23,326 (Ranked 101)  
 Completed: 9 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 9 (0.04%) (Ranked 212)
 | 2023-07-22 | 23,177 | 9 |
 | 2023-07-23 | 23,250 | 9 |
 | 2023-07-24 | 23,296 | 9 |
-| 2023-07-25 | 23,325 | 9 |
+| 2023-07-25 | 23,326 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

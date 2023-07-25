@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.40 (Ranked 691)  
+Rating: 4.41 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,7 +29,7 @@ Rating: 4.40 (Ranked 691)
 | Deep Into Insanity | 23.00% | ~699 |
 | The Passenger | 23.00% | ~699 |
 | Come on, You Wanna Live Forever? | 22.00% | ~668 |
-| Stuff Of Nightmares | 20.00% | ~608 |
+| Stuff Of Nightmares | 21.00% | ~638 |
 | El Riesgo Siempre Vive | 20.00% | ~608 |
 | The Spire | 20.00% | ~608 |
 | One For Every Occasion | 17.00% | ~516 |
@@ -119,3 +119,4 @@ Completed: 1 (0.03%) (Ranked 216)
 | 2023-07-20 | 4.42 | 0 | 0 |
 | 2023-07-21 | 4.41 | 0 | 0 |
 | 2023-07-24 | 4.40 | 0 | 0 |
+| 2023-07-25 | 4.41 | 0 | 0 |

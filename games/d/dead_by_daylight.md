@@ -6,48 +6,66 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One More Step | 0.50% | ~3,563 |
-| Extraterrestrial | 0.40% | ~2,850 |
-| Complete the Evolution | 0.30% | ~2,138 |
-| The Grand Sacrifice | 0.20% | ~1,425 |
-| Made it out alive! | 0.20% | ~1,425 |
-| Agonizing Escape | 0.20% | ~1,425 |
-| Backdoor Escape | 0.20% | ~1,425 |
-| I've got your back | 0.20% | ~1,425 |
-| No one left behind | 0.20% | ~1,425 |
-| Medic | 0.20% | ~1,425 |
-| Handyman | 0.20% | ~1,425 |
-| Nerves of steel | 0.20% | ~1,425 |
-| Perfect Escape | 0.20% | ~1,425 |
-| Perfect Killing | 0.20% | ~1,425 |
-| Zealous | 0.20% | ~1,425 |
-| It wakes | 0.20% | ~1,425 |
-| Not half bad | 0.20% | ~1,425 |
-| Bloody Millionaire | 0.20% | ~1,425 |
-| Apt Survivor | 0.20% | ~1,425 |
-| Apt Killer | 0.20% | ~1,425 |
-| Risk it all | 0.20% | ~1,425 |
-| Survival Treasures | 0.20% | ~1,425 |
-| Skillful | 0.20% | ~1,425 |
-| I | 0.20% | ~1,425 |
-| II | 0.20% | ~1,425 |
-| III | 0.20% | ~1,425 |
-| III-50 | 0.20% | ~1,425 |
-| Engineer | 0.20% | ~1,425 |
-| Sorted | 0.20% | ~1,425 |
-| Happy Holidays | 0.20% | ~1,425 |
-| A bite for the Entity | 0.10% | ~713 |
+| One More Step | 0.80% | ~5,702 |
+| Extraterrestrial | 0.60% | ~4,276 |
+| It wakes | 0.50% | ~3,564 |
+| Complete the Evolution | 0.50% | ~3,564 |
+| The Grand Sacrifice | 0.40% | ~2,851 |
+| No one left behind | 0.40% | ~2,851 |
+| Handyman | 0.40% | ~2,851 |
+| Nerves of steel | 0.40% | ~2,851 |
+| Zealous | 0.40% | ~2,851 |
+| Not half bad | 0.40% | ~2,851 |
+| Bloody Millionaire | 0.40% | ~2,851 |
+| Apt Survivor | 0.40% | ~2,851 |
+| Survival Treasures | 0.40% | ~2,851 |
+| Skillful | 0.40% | ~2,851 |
+| I | 0.40% | ~2,851 |
+| II | 0.40% | ~2,851 |
+| III | 0.40% | ~2,851 |
+| Sorted | 0.40% | ~2,851 |
+| Happy Holidays | 0.40% | ~2,851 |
+| Blood on your hands | 0.30% | ~2,138 |
+| Made it out alive! | 0.30% | ~2,138 |
+| Agonizing Escape | 0.30% | ~2,138 |
+| Backdoor Escape | 0.30% | ~2,138 |
+| I've got your back | 0.30% | ~2,138 |
+| Medic | 0.30% | ~2,138 |
+| Perfect Escape | 0.30% | ~2,138 |
+| Perfect Killing | 0.30% | ~2,138 |
+| Apt Killer | 0.30% | ~2,138 |
+| Risk it all | 0.30% | ~2,138 |
+| Vulture | 0.30% | ~2,138 |
+| III-50 | 0.30% | ~2,138 |
+| Engineer | 0.30% | ~2,138 |
+| Holiday Get-Together | 0.30% | ~2,138 |
+| Near-Death Experience | 0.30% | ~2,138 |
+| A bite for the Entity | 0.20% | ~1,425 |
+| Blood on your face | 0.20% | ~1,425 |
+| Escape Artist | 0.20% | ~1,425 |
+| Gifts for the Fog | 0.20% | ~1,425 |
+| Hemophobia | 0.20% | ~1,425 |
+| Shock Therapy | 0.20% | ~1,425 |
+| All Aboard | 0.20% | ~1,425 |
+| Deep Cleansing | 0.20% | ~1,425 |
+| Leapfrog | 0.20% | ~1,425 |
+| Item of Obsession | 0.20% | ~1,425 |
+| House of Pain | 0.20% | ~1,425 |
+| Cottage Owner | 0.20% | ~1,425 |
+| Texas BBQ | 0.20% | ~1,425 |
+| Serial Killer | 0.20% | ~1,425 |
+| Escaping the Nightmare | 0.20% | ~1,425 |
+| Game Over | 0.20% | ~1,425 |
+| Cherish your Life | 0.20% | ~1,425 |
+| Party Crasher | 0.20% | ~1,425 |
+| Campbell's Chapel Legacy | 0.20% | ~1,425 |
+| Outrage | 0.20% | ~1,425 |
 | A feast for the Entity | 0.10% | ~713 |
-| Blood on your hands | 0.10% | ~713 |
-| Blood on your face | 0.10% | ~713 |
 | Blood in your mouth | 0.10% | ~713 |
 | Cripple them all | 0.10% | ~713 |
 | Jump Scares | 0.10% | ~713 |
 | The Grind | 0.10% | ~713 |
-| Escape Artist | 0.10% | ~713 |
 | The Key to Escape | 0.10% | ~713 |
-| Gifts for the Fog | 0.10% | ~713 |
-| Vulture | 0.10% | ~713 |
 | Adept Jake | 0.10% | ~713 |
 | Adept Dwight | 0.10% | ~713 |
 | Adept Claudette | 0.10% | ~713 |
@@ -58,55 +76,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | In the void she walks | 0.10% | ~713 |
 | From the void she kills | 0.10% | ~713 |
 | Adept Nurse | 0.10% | ~713 |
-| Hemophobia | 0.10% | ~713 |
-| Shock Therapy | 0.10% | ~713 |
 | Adept Nea | 0.10% | ~713 |
 | Triggered | 0.10% | ~713 |
 | Even Punishment | 0.10% | ~713 |
 | Adept Hag | 0.10% | ~713 |
-| All Aboard | 0.10% | ~713 |
-| Deep Cleansing | 0.10% | ~713 |
 | Adept Ace | 0.10% | ~713 |
 | Shocking Treatment | 0.10% | ~713 |
 | Mad House | 0.10% | ~713 |
 | Adept Doctor | 0.10% | ~713 |
-| Leapfrog | 0.10% | ~713 |
 | Adept Min | 0.10% | ~713 |
 | The man behind the bush | 0.10% | ~713 |
 | Evil Incarnate | 0.10% | ~713 |
 | Adept Shape | 0.10% | ~713 |
-| Item of Obsession | 0.10% | ~713 |
-| House of Pain | 0.10% | ~713 |
 | Adept Laurie | 0.10% | ~713 |
 | Swirling Death | 0.10% | ~713 |
 | Skilled Huntress | 0.10% | ~713 |
 | Adept Huntress | 0.10% | ~713 |
-| Cottage Owner | 0.10% | ~713 |
 | Adept David | 0.10% | ~713 |
 | Butcherin' | 0.10% | ~713 |
-| Texas BBQ | 0.10% | ~713 |
 | Adept Cannibal | 0.10% | ~713 |
 | Dream Demon | 0.10% | ~713 |
-| Serial Killer | 0.10% | ~713 |
 | Adept Nightmare | 0.10% | ~713 |
 | Looter | 0.10% | ~713 |
-| Escaping the Nightmare | 0.10% | ~713 |
 | Adept Quentin | 0.10% | ~713 |
-| Holiday Get-Together | 0.10% | ~713 |
 | Milk 'n' Cookies | 0.10% | ~713 |
 | I Want to Play a Game | 0.10% | ~713 |
-| Game Over | 0.10% | ~713 |
 | Adept Pig | 0.10% | ~713 |
-| Near-Death Experience | 0.10% | ~713 |
-| Cherish your Life | 0.10% | ~713 |
 | Adept Tapp | 0.10% | ~713 |
-| Party Crasher | 0.10% | ~713 |
 | Smoked | 0.10% | ~713 |
 | Adept Clown | 0.10% | ~713 |
-| Campbell's Chapel Legacy | 0.10% | ~713 |
 | Whiffing to Success | 0.10% | ~713 |
 | Adept Kate | 0.10% | ~713 |
-| Outrage | 0.10% | ~713 |
 | Conniption | 0.10% | ~713 |
 | Adept Spirit | 0.10% | ~713 |
 | Ancestor's Rite | 0.10% | ~713 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Make Some Noise | 0.10% | ~713 |
 | Adept Cage | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,531 (Ranked 19)  
+Progressed: 712,719 (Ranked 19)  
 Completed: 42 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 42 (0.01%) (Ranked 230)
 | 2023-07-22 | 703,521 | 42 |
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
-| 2023-07-25 | 712,531 | 42 |
+| 2023-07-25 | 712,719 | 42 |
 ## Awards
 Max (Diverse Characters): 30,242  (Ranked 15)  
 Sum: 239,391 (Ranked 12)  

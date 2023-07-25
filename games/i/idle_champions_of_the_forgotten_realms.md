@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,308 |
-| Beast Intentions | 2.00% | ~4,308 |
+| A Brief Tour of the Realms | 2.00% | ~4,309 |
+| Beast Intentions | 2.00% | ~4,309 |
 | Maddening | 1.00% | ~2,154 |
-| The Silken Swamp | 0.80% | ~1,723 |
-| Supply Run | 0.70% | ~1,508 |
+| The Silken Swamp | 0.90% | ~1,939 |
+| Supply Run | 0.80% | ~1,724 |
 | Rocky Reception | 0.70% | ~1,272 |
+| Rock and Roll | 0.70% | ~1,272 |
 | Vecna Lives! | 0.60% | ~1,090 |
-| Rock and Roll | 0.60% | ~1,090 |
-| Tall Tales | 0.50% | ~908 |
-| Vecna Loots! | 0.50% | ~908 |
-| Flight of the Kindori Pod | 0.50% | ~908 |
-| Topolah's Tower | 0.50% | ~908 |
+| Flight of the Kindori Pod | 0.60% | ~1,090 |
+| Tall Tales | 0.50% | ~909 |
+| Vecna Loots! | 0.50% | ~909 |
+| Topolah's Tower | 0.50% | ~909 |
 | Pros and CONs | 0.40% | ~862 |
 | Wet Feet | 0.40% | ~862 |
 | Hatchlings Underfoot | 0.40% | ~862 |
@@ -26,8 +26,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.40% | ~727 |
 | Heatwave | 0.40% | ~727 |
 | The Champion's Guide to Wildspace | 0.40% | ~727 |
+| Not That Type of Helm! | 0.40% | ~727 |
 | Calcryx Tricks | 0.40% | ~727 |
 | Goblin Halls: the Next Generation | 0.40% | ~727 |
+| Bahamut's Army | 0.40% | ~727 |
 | The Witchlight Carnival | 0.30% | ~545 |
 | Thieves of the Coven | 0.30% | ~545 |
 | Heavy Burden | 0.30% | ~646 |
@@ -47,22 +49,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.30% | ~646 |
 | No Time To Rest | 0.30% | ~646 |
 | The Mists of Ravenloft | 0.30% | ~646 |
+| Invisible Shadows | 0.30% | ~646 |
 | The Dinner Party | 0.30% | ~646 |
 | The Botched Kidnapping | 0.30% | ~646 |
 | Devilishly Cold | 0.30% | ~545 |
-| Not That Type of Helm! | 0.30% | ~545 |
 | Bazaar Companions | 0.30% | ~545 |
-| Bahamut's Army | 0.30% | ~545 |
 | Luigi After Hours | 0.30% | ~545 |
 | Electric Mayhem | 0.30% | ~545 |
 | Krux's Speed Run | 0.30% | ~545 |
 | Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
+| Starving in the Jungle | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
 | The Prince of a Thousand Enemies | 0.20% | ~363 |
 | Downfall | 0.20% | ~363 |
 | Slack-jawed Lorna | 0.20% | ~363 |
+| The Fairy Rings of Thither | 0.20% | ~363 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
 | Best Thay Ever | 0.20% | ~363 |
@@ -78,14 +81,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~363 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
+| Force Grey Unleashed | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Tomb of the Nine Gods | 0.20% | ~431 |
-| Invisible Shadows | 0.20% | ~431 |
+| The Hunt for Owl-y | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
+| Seeking Allies | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
@@ -106,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiny Treaty | 0.20% | ~363 |
 | All The World's A Stage | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
-| Starving in the Jungle | 0.10% | ~215 |
 | Cold as Ice | 0.10% | ~182 |
 | Keep Your Friends Close | 0.10% | ~182 |
 | Friends and Foes | 0.10% | ~182 |
@@ -136,7 +140,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | I'm Sure I Saw It Move! | 0.10% | ~182 |
 | End of the Line | 0.10% | ~182 |
 | A Steadfast Love | 0.10% | ~182 |
-| The Fairy Rings of Thither | 0.10% | ~182 |
 | Zarak's Revenge | 0.10% | ~182 |
 | Bully for You! | 0.10% | ~182 |
 | The Dark Heart | 0.10% | ~182 |
@@ -207,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~215 |
 | Double Vision | 0.10% | ~215 |
 | Underground Railroad | 0.10% | ~215 |
-| Force Grey Unleashed | 0.10% | ~215 |
 | Vajra's Guards | 0.10% | ~215 |
 | Sleuth It Out | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
@@ -217,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~215 |
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
-| The Hunt for Owl-y | 0.10% | ~215 |
 | Werewolves in the Mist | 0.10% | ~215 |
 | We're not in Faerûn Anymore | 0.10% | ~215 |
 | Haunted Fortunes | 0.10% | ~215 |
@@ -265,7 +266,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~182 |
 | Flies on the Wall | 0.10% | ~215 |
 | The Killer Mists | 0.10% | ~215 |
-| Seeking Allies | 0.10% | ~215 |
 | Class Vacation | 0.10% | ~215 |
 | A Nod from Strahd | 0.10% | ~182 |
 | Backtracking Through Barovia | 0.10% | ~215 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,419 (Ranked 53)  
+Progressed: 215,444 (Ranked 53)  
 Completed: 2,107 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,10 +615,10 @@ Completed: 2,107 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,419 | 2,107 |
+| 2023-07-25 | 215,444 | 2,107 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
-Sum: 30,719 (Ranked 38)  
+Sum: 30,728 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -628,7 +628,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,571 |
 | This game has Amazing Characters | 4,033 |
 | This game is Highly Recommended | 4,024 |
-| This game has Playful Visuals | 3,309 |
+| This game has Playful Visuals | 3,318 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -812,4 +812,4 @@ Diff (max vs sum): 28
 | 2023-07-22 | 4.06 | - | 5,055 | 30,644 |
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
-| 2023-07-25 | 4.05 | - | 5,082 | 30,719 |
+| 2023-07-25 | 4.05 | - | 5,082 | 30,728 |

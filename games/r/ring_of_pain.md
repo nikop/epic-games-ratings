@@ -1,30 +1,30 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 425)  
+Rating: 4.58 (Ranked 424)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,775 |
-| Uncharted Territory | 89.00% | ~207,458 |
-| Getting A Glimpse | 73.00% | ~170,162 |
-| A Quick Escape | 65.00% | ~151,514 |
-| Explorer | 62.00% | ~144,521 |
-| Defeat The Dark | 61.00% | ~142,190 |
-| An Offering | 61.00% | ~142,190 |
-| Colorful Corpse | 58.00% | ~135,197 |
-| That Was Quick | 56.00% | ~130,535 |
-| A Donation | 56.00% | ~130,535 |
-| Goodbye, Frog Friend | 54.00% | ~125,873 |
-| Heavy Hitter | 53.00% | ~123,542 |
+| First Steps | 96.00% | ~223,777 |
+| Uncharted Territory | 89.00% | ~207,460 |
+| Getting A Glimpse | 73.00% | ~170,164 |
+| A Quick Escape | 65.00% | ~151,516 |
+| Explorer | 62.00% | ~144,523 |
+| Defeat The Dark | 61.00% | ~142,192 |
+| An Offering | 61.00% | ~142,192 |
+| Colorful Corpse | 58.00% | ~135,199 |
+| That Was Quick | 56.00% | ~130,537 |
+| A Donation | 56.00% | ~130,537 |
+| Goodbye, Frog Friend | 54.00% | ~125,875 |
+| Heavy Hitter | 53.00% | ~123,544 |
 | Heartless | 46.00% | ~107,226 |
 | Spine Breaker | 46.00% | ~107,226 |
 | Deflection | 45.00% | ~104,895 |
 | Sneaky | 43.00% | ~100,233 |
 | Delving Deeper | 42.00% | ~97,902 |
+| C-C-Combo | 42.00% | ~97,902 |
 | Ambitious Intent | 41.00% | ~95,571 |
-| C-C-Combo | 41.00% | ~95,571 |
 | Nothing To Lose | 40.00% | ~93,240 |
 | The Bestiary | 40.00% | ~93,240 |
 | What's Yours Is Mine | 38.00% | ~88,578 |
@@ -125,11 +125,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Only The Best | 0.60% | ~1,399 |
 | Mastermind | 0.60% | ~1,399 |
 | Nudie Run | 0.60% | ~1,399 |
-| Down Under | 0.50% | ~1,165 |
+| Down Under | 0.50% | ~1,166 |
 | Never Too Many Hats | 0.40% | ~932 |
 | Near Death Experience | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,099 (Ranked 48)  
+Progressed: 233,101 (Ranked 48)  
 Completed: 254 (0.11%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 254 (0.11%) (Ranked 186)
 | 2023-07-22 | 232,938 | 252 |
 | 2023-07-23 | 233,008 | 252 |
 | 2023-07-24 | 233,058 | 253 |
-| 2023-07-25 | 233,099 | 254 |
+| 2023-07-25 | 233,101 | 254 |
 ## Awards
 Max (Quickly Understood Controls): 1,486  (Ranked 120)  
 Sum: 11,497 (Ranked 75)  

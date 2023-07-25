@@ -5,14 +5,14 @@ Rating: 3.96 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~589 |
-| Electrician | 33.00% | ~474 |
+| I don't feel so good | 41.00% | ~590 |
+| Electrician | 33.00% | ~475 |
 | Fear my botany powers, Mars | 32.00% | ~460 |
 | Zero Waste | 29.00% | ~417 |
 | Bob The Builder | 29.00% | ~417 |
-| I am the greatest botanist on this planet. | 28.00% | ~402 |
-| Gardener | 25.00% | ~359 |
-| Miner | 25.00% | ~359 |
+| I am the greatest botanist on this planet. | 28.00% | ~403 |
+| Gardener | 25.00% | ~360 |
+| Miner | 25.00% | ~360 |
 | Occupy Mars! | 24.00% | ~345 |
 | Houston we have a problem | 21.00% | ~302 |
 | Detective | 18.00% | ~259 |
@@ -22,7 +22,7 @@ Rating: 3.96 (Ranked 927)
 | Space Forest | 7.00% | ~101 |
 | DeDust | 5.00% | ~72 |
 | ITS crash site | 5.00% | ~72 |
-| “Aliens” | 4.00% | ~57 |
+| “Aliens” | 4.00% | ~58 |
 | Plumber | 3.00% | ~43 |
 | Driver's License | 2.00% | ~29 |
 | Hard Landing | 2.00% | ~29 |
@@ -30,7 +30,7 @@ Rating: 3.96 (Ranked 927)
 | Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 1.00% | ~14 |
 | Caveman | 0.90% | ~13 |
-| Thunderstruck | 0.80% | ~11 |
+| Thunderstruck | 0.80% | ~12 |
 | Planetary Defence | 0.70% | ~10 |
 | 5G Network | 0.60% | ~9 |
 | One does not simply... | 0.60% | ~9 |
@@ -54,7 +54,7 @@ Rating: 3.96 (Ranked 927)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,437 (Ranked 176)  
+Progressed: 1,438 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 1,427 | 0 |
 | 2023-07-23 | 1,430 | 0 |
 | 2023-07-24 | 1,435 | 0 |
-| 2023-07-25 | 1,437 | 0 |
+| 2023-07-25 | 1,438 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1705,6 +1705,11 @@
       "Time": "2023-07-25T16:04:46.8217924+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T17:05:27.8235703+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1764,7 +1769,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Defense_Common",
@@ -1842,9 +1847,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 363
     },
     {
       "ID": "High_noon",
@@ -1868,7 +1873,7 @@
       "Name": "Spice It Up",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "KillAllM2",
@@ -1955,15 +1960,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:04:46.8217918+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:05:27.8235694+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:01:14.7159554+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:04:46.8218236+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:01:39.8327725+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:05:27.823628+00:00"
 }

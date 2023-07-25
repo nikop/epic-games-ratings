@@ -8,10 +8,11 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Look Over There! | 0.30% | ~9 |
 | Executioner | 0.30% | ~9 |
+| An Ill Omen | 0.30% | ~9 |
 | Not So Fast... | 0.20% | ~6 |
 | Watch Where You Step... | 0.20% | ~6 |
-| An Ill Omen | 0.20% | ~6 |
 | Bloodless | 0.20% | ~6 |
+| Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |
@@ -21,6 +22,7 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 0.10% | ~3 |
 | Purging Spree | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
+| Mind Like a Fortress | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
 | Gunmaster | 0.10% | ~3 |
@@ -46,7 +48,6 @@ Number of Ratings: 371  (23.09.2022)
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |
 | Clean Slate | 0.00% | ~0 |
-| Patron of Deimos | 0.00% | ~0 |
 | Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
@@ -57,7 +58,6 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
-| Mind Like a Fortress | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |

@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 238913,
+  "EOS_Progressed": 238917,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10788,6 +10788,11 @@
       "Time": "2023-07-25T16:03:56.5798913+00:00",
       "NumProgressed": 238913,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-25T17:04:37.5466607+00:00",
+      "NumProgressed": 238917,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10799,7 +10804,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64507
+      "UsersEstimate": 64508
     },
     {
       "ID": "ACH_AON",
@@ -10839,7 +10844,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26280
+      "UsersEstimate": 26281
     },
     {
       "ID": "ACH_ENJOY",
@@ -10879,7 +10884,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21502
+      "UsersEstimate": 21503
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -10919,7 +10924,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "ACH_IRONDEC",
@@ -10943,7 +10948,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66896
+      "UsersEstimate": 66897
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -11015,7 +11020,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57339
+      "UsersEstimate": 57340
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -11095,7 +11100,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -11119,7 +11124,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59728
+      "UsersEstimate": 59729
     },
     {
       "ID": "ACH_SOREAD",
@@ -11214,7 +11219,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238913,
+      "Progressed": 238917,
       "Completed": 7
     }
   ],
@@ -11222,8 +11227,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:03:56.5798908+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:04:37.5466598+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:59:25.9414776+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:03:56.5800225+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:59:35.2196018+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:04:37.546846+00:00"
 }

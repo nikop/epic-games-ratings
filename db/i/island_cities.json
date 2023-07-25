@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -2097,9 +2097,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_017",
@@ -2121,9 +2121,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "LEVEL_020",
@@ -2162,8 +2162,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:04:31.5595136+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:05:12.7110144+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:59:34.4498458+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:04:31.5595646+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:59:44.7988227+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:05:12.7110614+00:00"
 }

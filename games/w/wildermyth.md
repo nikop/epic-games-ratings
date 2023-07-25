@@ -30,11 +30,11 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 7.00% | ~93 |
 | Legends Never Die | 5.00% | ~67 |
 | In Soil, In Smoke | 5.00% | ~67 |
-| A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
 | All My Birds, Safely Home | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~53 |
+| A Hunger, Sated | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |
 | No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~40 |
@@ -45,6 +45,7 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 3.00% | ~40 |
 | Into Mulch | 3.00% | ~40 |
 | Astrology | 3.00% | ~40 |
+| Tempest | 3.00% | ~40 |
 | Lochias's Hunger | 3.00% | ~40 |
 | The Power of Friendship | 2.00% | ~27 |
 | Empty the Caves | 2.00% | ~27 |
@@ -54,7 +55,6 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 2.00% | ~27 |
 | Solid as the Hills | 2.00% | ~27 |
 | Symbiosis | 2.00% | ~27 |
-| Tempest | 2.00% | ~27 |
 | A Temperamental Shrub | 2.00% | ~27 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,333 (Ranked 179)  
-Completed: 5 (0.38%) (Ranked 144)  
+Progressed: 1,334 (Ranked 179)  
+Completed: 5 (0.37%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,6 +148,7 @@ Completed: 5 (0.38%) (Ranked 144)
 | 2023-07-22 | 1,329 | 5 |
 | 2023-07-23 | 1,330 | 5 |
 | 2023-07-24 | 1,333 | 5 |
+| 2023-07-25 | 1,334 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 463)  
 Sum: 28 (Ranked 475)  

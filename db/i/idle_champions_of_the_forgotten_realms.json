@@ -5228,10 +5228,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30719,
       "NumberOfAwardsMax": 5082
+    },
+    {
+      "Time": "2023-07-25T16:59:54.5888367+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30728,
+      "NumberOfAwardsMax": 5082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30719,
+  "NumberOfAwards": 30728,
   "NumberOfAwardsMax": 5082,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5275,12 +5281,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3309
+      "Count": 3318
     }
   ],
-  "EOS_Progressed": 215419,
+  "EOS_Progressed": 215444,
   "EOS_Completed": 2107,
-  "EOS_NewPlayers": 2332,
+  "EOS_NewPlayers": 2336,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15573,6 +15579,11 @@
       "Time": "2023-07-25T16:08:59.0000162+00:00",
       "NumProgressed": 215419,
       "NumCompleted": 2107
+    },
+    {
+      "Time": "2023-07-25T17:09:38.3700951+00:00",
+      "NumProgressed": 215444,
+      "NumCompleted": 2107
     }
   ],
   "TotalAchievements": 512,
@@ -15584,7 +15595,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "objective_completed_10",
@@ -15614,9 +15625,9 @@
       "ID": "objective_completed_102",
       "SetID": "cc37lbc",
       "Name": "Starving in the Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1040",
@@ -15656,7 +15667,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1051",
@@ -15886,9 +15897,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1939
     },
     {
       "ID": "objective_completed_1090",
@@ -15926,9 +15937,9 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1096",
@@ -15952,7 +15963,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "objective_completed_110",
@@ -16142,9 +16153,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1724
     },
     {
       "ID": "objective_completed_1142",
@@ -16288,7 +16299,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1169",
@@ -16790,9 +16801,9 @@
       "ID": "objective_completed_166",
       "SetID": "cc37lbc",
       "Name": "Force Grey Unleashed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_167",
@@ -16934,17 +16945,17 @@
       "ID": "objective_completed_209",
       "SetID": "cc37lbc",
       "Name": "The Hunt for Owl-y",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_210",
@@ -17374,9 +17385,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_390",
@@ -19550,9 +19561,9 @@
       "ID": "objective_completed_1220",
       "SetID": "415jc5c",
       "Name": "Not That Type of Helm!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1327",
@@ -19598,9 +19609,9 @@
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1375",
@@ -19622,9 +19633,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_1381",
@@ -19638,9 +19649,9 @@
       "ID": "objective_completed_1385",
       "SetID": "415jc5c",
       "Name": "Flight of the Kindori Pod",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 1090
     },
     {
       "ID": "objective_completed_1386",
@@ -19656,7 +19667,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1391",
@@ -19679,21 +19690,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181693,
-      "Completed": 2969
+      "Progressed": 181718,
+      "Completed": 2971
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215419,
+      "Progressed": 215444,
       "Completed": 2107
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-25T14:58:54.7851448+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:08:59.0000157+00:00",
+  "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:09:38.370094+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:59:42.4421233+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:08:59.003146+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:59:54.5888373+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:09:38.3737035+00:00"
 }

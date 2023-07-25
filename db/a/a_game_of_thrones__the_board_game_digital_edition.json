@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19464,
+  "EOS_Progressed": 19470,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11373,6 +11373,11 @@
       "Time": "2023-07-25T16:04:38.8355434+00:00",
       "NumProgressed": 19464,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-25T17:05:19.785754+00:00",
+      "NumProgressed": 19470,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11392,7 +11397,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "1017",
@@ -11416,7 +11421,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "1020",
@@ -11424,7 +11429,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "1021",
@@ -11456,7 +11461,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "1025",
@@ -11472,7 +11477,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "1027",
@@ -11488,7 +11493,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "1029",
@@ -11496,7 +11501,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "1030",
@@ -11504,7 +11509,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "1031",
@@ -11512,7 +11517,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "1032",
@@ -11520,7 +11525,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7786
+      "UsersEstimate": 7788
     },
     {
       "ID": "1033",
@@ -11536,7 +11541,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "1035",
@@ -11544,7 +11549,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "1036",
@@ -11552,22 +11557,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19464,
+      "Progressed": 19470,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:04:38.8355428+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:05:19.7857527+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:02:50.8167961+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:04:38.8356268+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:03:31.3337348+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:05:19.7858841+00:00"
 }

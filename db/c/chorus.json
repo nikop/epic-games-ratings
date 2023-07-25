@@ -1594,9 +1594,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 661
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1746,8 +1746,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:05:46.3516473+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:06:27.4290265+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:02:36.1973788+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:05:46.3516913+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:03:12.9480232+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:06:27.4290934+00:00"
 }

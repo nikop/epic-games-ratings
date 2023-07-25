@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1195,6 +1195,11 @@
       "Time": "2023-07-25T15:07:18.6110259+00:00",
       "NumProgressed": 464,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-25T17:09:34.6146863+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1254,7 +1259,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "kill-lieutenants",
@@ -1270,7 +1275,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "play-at-night",
@@ -1286,7 +1291,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "rage-quit",
@@ -1294,7 +1299,7 @@
       "Name": "Bad Trip",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "rename-lieutenant",
@@ -1316,9 +1321,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "send-smuggling",
@@ -1326,7 +1331,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "unlock-residences",
@@ -1357,15 +1362,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:08:55.1987982+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:09:34.6146855+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:02:48.0574143+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:08:55.1988213+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:03:26.2717281+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:09:34.6147153+00:00"
 }

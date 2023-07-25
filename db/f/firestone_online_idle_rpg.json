@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4547,9 +4547,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 103
     },
     {
       "ID": "cauldronliberator",
@@ -4771,9 +4771,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 274
     },
     {
       "ID": "jewelenchanting",
@@ -5108,8 +5108,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:04:47.3474474+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:05:28.3796267+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:59:33.4659776+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:04:47.3476354+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:59:43.8351512+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:05:28.3798282+00:00"
 }

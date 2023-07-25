@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3688,6 +3688,11 @@
       "Time": "2023-07-25T12:04:28.8302765+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T17:05:39.913585+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3811,7 +3816,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "A15",
@@ -3819,7 +3824,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "A16",
@@ -3859,7 +3864,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "A21",
@@ -3875,7 +3880,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "A23",
@@ -3907,7 +3912,7 @@
       "Name": "Max Power",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "A27",
@@ -3923,7 +3928,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "A29",
@@ -3971,7 +3976,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A35",
@@ -3987,7 +3992,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "A37",
@@ -3995,7 +4000,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "A38",
@@ -4041,9 +4046,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 469
     },
     {
       "ID": "A44",
@@ -4075,7 +4080,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "A48",
@@ -4138,7 +4143,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 0
     }
   ],
@@ -4146,8 +4151,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:04:58.8060145+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:05:39.9135841+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:59:41.6688915+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:04:58.8060903+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:59:53.8249443+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:05:39.9137049+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -797,6 +797,11 @@
       "Time": "2023-07-25T13:20:30.4865252+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T17:09:36.5973223+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -894,9 +899,9 @@
       "ID": "COMIDA_1",
       "SetID": "44dlcg0",
       "Name": "Food producer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "COMIDA_2",
@@ -1158,9 +1163,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "MILLS",
@@ -1240,15 +1245,15 @@
       "Name": "Small town",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "POPULATION_2",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "POPULATION_3",
@@ -1414,9 +1419,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "WELFARE_1",
@@ -1439,7 +1444,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-25T16:08:57.3366869+00:00",
+  "LastChanged_Achievements": "2023-07-25T17:09:36.5973214+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:00:49.3917113+00:00",
-  "LastUpdate_Achievements": "2023-07-25T16:08:57.3368534+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:01:08.7086913+00:00",
+  "LastUpdate_Achievements": "2023-07-25T17:09:36.5974845+00:00"
 }

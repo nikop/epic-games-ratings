@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.80% | ~105 |
 | Settler | 0.70% | ~92 |
 | Play a Single Player Game | 0.70% | ~92 |
-| Explorer | 0.60% | ~78 |
-| Friendly Family | 0.60% | ~78 |
-| Poetic Leader | 0.60% | ~78 |
+| Explorer | 0.60% | ~79 |
+| Friendly Family | 0.60% | ~79 |
+| Poetic Leader | 0.60% | ~79 |
 | Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Architect | 0.40% | ~52 |
@@ -29,12 +29,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
+| Brilliant | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Developing Cities | 0.30% | ~39 |
+| Able Difficulty | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
@@ -48,25 +50,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.30% | ~39 |
 | Regicide | 0.20% | ~26 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
-| Brilliant | 0.20% | ~26 |
+| Beloved | 0.20% | ~26 |
+| Drillmaster | 0.20% | ~26 |
+| Conqueror | 0.20% | ~26 |
 | Fountainhead | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
+| Valiant | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Strong Cities | 0.20% | ~26 |
-| Able Difficulty | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
+| Champions | 0.20% | ~26 |
+| Sages | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
+| Temple of Solomon | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
+| Power to the People | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
 | Egyptian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
@@ -100,10 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
 | Avenger | 0.10% | ~13 |
-| Beloved | 0.10% | ~13 |
-| Drillmaster | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
-| Conqueror | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
@@ -114,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
-| Valiant | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Good Difficulty | 0.10% | ~13 |
@@ -123,13 +127,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
-| Champions | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
 | Riders | 0.10% | ~13 |
-| Sages | 0.10% | ~13 |
 | Statesmen | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
@@ -157,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.10% | ~13 |
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
-| Temple of Solomon | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
@@ -186,7 +187,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Play a Play-By-Cloud Game | 0.10% | ~13 |
-| Power to the People | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,082 (Ranked 115)  
+Progressed: 13,084 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,082 | 5 |
+| 2023-07-25 | 13,084 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  
