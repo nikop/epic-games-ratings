@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1791,
+  "EOS_Progressed": 1792,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-07-24T23:02:57.637955+00:00",
       "NumProgressed": 1791,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-25T02:19:36.7951534+00:00",
+      "NumProgressed": 1792,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2189,7 +2194,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2197,7 +2202,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2237,7 +2242,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2253,7 +2258,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "GetRangedWeapon",
@@ -2269,7 +2274,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "Kill25Bugs",
@@ -2277,7 +2282,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "Kill25Frogs",
@@ -2341,7 +2346,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2356,22 +2361,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1791,
+      "Progressed": 1792,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 432,
-      "Completed": 432
+      "Progressed": 433,
+      "Completed": 433
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:04:10.0396852+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:19:36.795153+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-25T00:00:13.8167376+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:04:10.0397512+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:14:46.0389718+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:19:36.7951832+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,154 |
-| Gone Home | 93.00% | ~26,034 |
-| Wonderfalls | 87.00% | ~24,355 |
-| Got to Catch a Few | 77.00% | ~21,555 |
+| Everybody Gets One | 97.00% | ~27,155 |
+| Gone Home | 93.00% | ~26,035 |
+| Wonderfalls | 87.00% | ~24,356 |
+| Got to Catch a Few | 77.00% | ~21,556 |
 | Double Trapper | 75.00% | ~20,996 |
-| I'm Stuffed | 69.00% | ~19,316 |
-| Got to Catch a Lot | 66.00% | ~18,476 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,076 |
-| In the Arms of the Gramble | 59.00% | ~16,516 |
-| Know Thy Neighbor | 59.00% | ~16,516 |
+| I'm Stuffed | 69.00% | ~19,317 |
+| Got to Catch a Lot | 66.00% | ~18,477 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,077 |
+| In the Arms of the Gramble | 59.00% | ~16,517 |
+| Know Thy Neighbor | 59.00% | ~16,517 |
 | Launch Party | 56.00% | ~15,677 |
 | Perf Dirt | 56.00% | ~15,677 |
 | Vacation's End | 52.00% | ~14,557 |
-| Bossy Bugs | 46.00% | ~12,877 |
-| Survivor | 45.00% | ~12,597 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,037 |
+| Bossy Bugs | 46.00% | ~12,878 |
+| Survivor | 45.00% | ~12,598 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,038 |
 | Sidetracked | 40.00% | ~11,198 |
 | Film Buff | 38.00% | ~10,638 |
 | Combo Meal | 38.00% | ~10,638 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,240 |
 | Dapper Capper | 6.00% | ~1,680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,994 (Ranked 97)  
+Progressed: 27,995 (Ranked 97)  
 Completed: 1,316 (4.70%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1,316 (4.70%) (Ranked 44)
 | 2023-07-22 | 27,970 | 1,315 |
 | 2023-07-23 | 27,982 | 1,316 |
 | 2023-07-24 | 27,993 | 1,316 |
-| 2023-07-25 | 27,994 | 1,316 |
+| 2023-07-25 | 27,995 | 1,316 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 427)  
 Sum: 298 (Ranked 332)  

@@ -10,65 +10,65 @@
 | First winning | 84.00% | ~117 |
 | Your first job | 84.00% | ~117 |
 | First defeat | 78.00% | ~108 |
-| Old movies enjoyer | 76.00% | ~106 |
-| Fitness professional | 75.00% | ~104 |
+| Old movies enjoyer | 77.00% | ~107 |
+| Fitness professional | 76.00% | ~106 |
 | Depressed visitor | 75.00% | ~104 |
 | Neurotrainer – power gainer! | 75.00% | ~104 |
-| Employee of the week | 73.00% | ~101 |
-| Your own amateur gym | 68.00% | ~95 |
+| Employee of the week | 74.00% | ~103 |
+| Your own amateur gym | 69.00% | ~96 |
 | Run K, run! | 65.00% | ~90 |
-| No bullying more | 63.00% | ~88 |
+| No bullying more | 64.00% | ~89 |
 | Hello, world! | 63.00% | ~88 |
 | Fighting is cool | 60.00% | ~83 |
 | Intriguing candies | 60.00% | ~83 |
 | Pal of your father? | 56.00% | ~78 |
+| Employee of the month | 55.00% | ~76 |
 | Spirit of the past | 54.00% | ~75 |
-| Employee of the month | 53.00% | ~74 |
 | Little hacker | 52.00% | ~72 |
-| Law student | 49.00% | ~68 |
+| Workout professional | 50.00% | ~70 |
+| Law student | 50.00% | ~70 |
 | Your own way | 49.00% | ~68 |
-| Workout professional | 48.00% | ~67 |
-| Fight for life | 46.00% | ~64 |
-| Champion – starter pack | 46.00% | ~64 |
-| Employee of the year | 44.00% | ~61 |
+| Fight for life | 47.00% | ~65 |
+| Champion – starter pack | 47.00% | ~65 |
+| Employee of the year | 45.00% | ~63 |
+| It's good to be alive | 43.00% | ~60 |
+| Own four walls | 43.00% | ~60 |
 | Handyman | 42.00% | ~58 |
-| It's good to be alive | 42.00% | ~58 |
 | Extreme neuropower! | 42.00% | ~58 |
-| Own four walls | 42.00% | ~58 |
 | Now you are worthy | 37.00% | ~51 |
-| Legal courier | 35.00% | ~49 |
+| Legal courier | 36.00% | ~50 |
 | Escaped from a big trouble | 30.00% | ~42 |
 | No blades in the gym | 29.00% | ~40 |
 | Guiding on the right path | 29.00% | ~40 |
+| Fight is life | 27.00% | ~38 |
 | Mysterious voice | 27.00% | ~38 |
 | Responsible approach | 27.00% | ~38 |
-| Fight is life | 26.00% | ~36 |
 | Deal with life | 24.00% | ~33 |
 | Champion – no way back | 24.00% | ~33 |
+| Get out of my apartment! | 24.00% | ~33 |
 | Underground dwellers | 24.00% | ~33 |
-| Get out of my apartment! | 23.00% | ~32 |
-| Mom got better | 22.00% | ~31 |
+| Mom got better | 23.00% | ~32 |
+| The die is cast | 23.00% | ~32 |
 | Gang wrangler | 22.00% | ~31 |
-| The die is cast | 22.00% | ~31 |
 | Anyone can resist | 22.00% | ~31 |
 | Seashell hunter | 22.00% | ~31 |
 | GYM professional | 20.00% | ~28 |
 | Poisoned fighter | 20.00% | ~28 |
 | Problems of cyborgs | 19.00% | ~26 |
+| Undercover robot | 18.00% | ~25 |
 | Trap disarmed | 17.00% | ~24 |
+| The lonesome road | 17.00% | ~24 |
+| Keep nature safe | 17.00% | ~24 |
+| Key memories | 17.00% | ~24 |
 | The last bell ring | 17.00% | ~24 |
 | Careerist | 17.00% | ~24 |
-| Undercover robot | 16.00% | ~22 |
-| The lonesome road | 15.00% | ~21 |
-| Keep nature safe | 15.00% | ~21 |
-| Key memories | 15.00% | ~21 |
-| The heart of the Resistance | 15.00% | ~21 |
-| Another world | 14.00% | ~19 |
-| Family comes first | 14.00% | ~19 |
-| Not little hacker | 14.00% | ~19 |
-| Absolute Champion! | 14.00% | ~19 |
-| Silver’s past | 13.00% | ~18 |
-| Better cooking at home | 13.00% | ~18 |
+| The heart of the Resistance | 17.00% | ~24 |
+| Another world | 16.00% | ~22 |
+| Family comes first | 16.00% | ~22 |
+| Not little hacker | 16.00% | ~22 |
+| Absolute Champion! | 16.00% | ~22 |
+| Silver’s past | 14.00% | ~19 |
+| Better cooking at home | 14.00% | ~19 |
 | The only right decision | 11.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 293)  

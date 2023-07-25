@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~64 |
-| Training Simulation | 83.00% | ~57 |
-| Kuku Bird Hunter | 72.00% | ~50 |
-| Storm Traveller | 68.00% | ~47 |
-| Wolf King Killer | 68.00% | ~47 |
-| Fashion Connoisseur | 67.00% | ~46 |
-| Arms Mechanic | 61.00% | ~42 |
-| Flower Thief | 58.00% | ~40 |
-| Beginner Cook | 57.00% | ~39 |
-| Apostle of Flame | 57.00% | ~39 |
-| Beginner Artificer | 55.00% | ~38 |
+| Travel Streamer | 91.00% | ~64 |
+| Training Simulation | 81.00% | ~57 |
+| Kuku Bird Hunter | 71.00% | ~50 |
+| Storm Traveller | 67.00% | ~47 |
+| Wolf King Killer | 67.00% | ~47 |
+| Fashion Connoisseur | 66.00% | ~46 |
+| Arms Mechanic | 60.00% | ~42 |
+| Flower Thief | 57.00% | ~40 |
+| Beginner Cook | 56.00% | ~39 |
+| Apostle of Flame | 56.00% | ~39 |
+| Beginner Artificer | 54.00% | ~38 |
 | Seal Breaker | 49.00% | ~34 |
 | Handyman | 46.00% | ~32 |
-| Giant Lizard Killer | 45.00% | ~31 |
+| Giant Lizard Killer | 44.00% | ~31 |
 | Nosebleeder | 43.00% | ~30 |
-| Guardian | 42.00% | ~29 |
-| Trader | 42.00% | ~29 |
+| Guardian | 41.00% | ~29 |
+| Trader | 41.00% | ~29 |
 | Weapon Boost | 39.00% | ~27 |
-| Youth Magnet | 38.00% | ~26 |
+| Youth Magnet | 37.00% | ~26 |
 | Flying Kobold Killer | 36.00% | ~25 |
-| Furious Scorpion Killer | 35.00% | ~24 |
-| Lethal Blade Mantis Killer | 35.00% | ~24 |
-| Squeaky Clean | 35.00% | ~24 |
+| Furious Scorpion Killer | 34.00% | ~24 |
+| Lethal Blade Mantis Killer | 34.00% | ~24 |
+| Squeaky Clean | 34.00% | ~24 |
 | Kind Adventurer | 33.00% | ~23 |
 | Master Artificer | 33.00% | ~23 |
 | Mermaid Killer | 30.00% | ~21 |
@@ -50,7 +50,7 @@
 | Furious Scorpion Challenge | 1.00% | ~1 |
 | Giant Lizard Challenge | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 334)  
+Progressed: 70 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 64 | 0 |
 | 2023-07-23 | 65 | 0 |
 | 2023-07-24 | 69 | 0 |
+| 2023-07-25 | 70 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

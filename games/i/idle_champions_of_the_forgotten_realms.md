@@ -1,46 +1,57 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 905)  
+Rating: 4.05 (Ranked 906)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.60% | ~1,291 |
-| Beast Intentions | 0.60% | ~1,291 |
-| Maddening | 0.40% | ~861 |
-| The Silken Swamp | 0.30% | ~646 |
-| Supply Run | 0.30% | ~646 |
-| Rocky Reception | 0.30% | ~545 |
-| Rock and Roll | 0.30% | ~545 |
-| Pros and CONs | 0.20% | ~430 |
-| Tall Tales | 0.20% | ~363 |
-| Wet Feet | 0.20% | ~430 |
+| A Brief Tour of the Realms | 0.80% | ~1,722 |
+| Beast Intentions | 0.80% | ~1,722 |
+| Maddening | 0.60% | ~1,292 |
+| The Silken Swamp | 0.40% | ~861 |
+| Supply Run | 0.40% | ~861 |
+| Rocky Reception | 0.40% | ~726 |
+| Rock and Roll | 0.40% | ~726 |
+| Tall Tales | 0.30% | ~545 |
+| Vecna Lives! | 0.30% | ~545 |
+| Flight of the Kindori Pod | 0.30% | ~545 |
+| Topolah's Tower | 0.30% | ~545 |
+| Pros and CONs | 0.20% | ~431 |
+| The Witchlight Carnival | 0.20% | ~363 |
+| Wet Feet | 0.20% | ~431 |
+| Hatchlings Underfoot | 0.20% | ~431 |
+| Don't Look Up! | 0.20% | ~431 |
+| Heavy Burden | 0.20% | ~431 |
 | Seeds of Destruction | 0.20% | ~363 |
-| Vecna Lives! | 0.20% | ~363 |
+| The Evacuation of Waterdeep | 0.20% | ~363 |
 | Vecna Loots! | 0.20% | ~363 |
+| Friends of the Forest | 0.20% | ~431 |
 | Return to the Tomb | 0.20% | ~363 |
 | Heatwave | 0.20% | ~363 |
-| Escort to Waterdeep | 0.20% | ~430 |
-| The Mad Wizard | 0.20% | ~430 |
-| Waterdeep Detours | 0.20% | ~430 |
-| Lost in the Deep | 0.20% | ~430 |
-| Easily Distracted | 0.20% | ~430 |
-| Rude Welcome | 0.20% | ~430 |
-| Underdeep Cartography | 0.20% | ~430 |
-| Friendly Imps | 0.20% | ~430 |
-| Overdue Rendezvous | 0.20% | ~430 |
-| Pure Energy | 0.20% | ~430 |
-| The Templar's Camp | 0.20% | ~430 |
+| The Dread Domain of Tovag | 0.20% | ~363 |
+| Building Trust | 0.20% | ~431 |
+| Unearthed Evil | 0.20% | ~431 |
+| Running of the Saurs | 0.20% | ~431 |
+| Escort to Waterdeep | 0.20% | ~431 |
+| The Mad Wizard | 0.20% | ~431 |
+| Waterdeep Detours | 0.20% | ~431 |
+| Lost in the Deep | 0.20% | ~431 |
+| Easily Distracted | 0.20% | ~431 |
+| Rude Welcome | 0.20% | ~431 |
+| Underdeep Cartography | 0.20% | ~431 |
+| Friendly Imps | 0.20% | ~431 |
+| Overdue Rendezvous | 0.20% | ~431 |
+| Pure Energy | 0.20% | ~431 |
+| The Templar's Camp | 0.20% | ~431 |
 | The Champion's Guide to Wildspace | 0.20% | ~363 |
 | Not That Type of Helm! | 0.20% | ~363 |
 | Calcryx Tricks | 0.20% | ~363 |
 | Goblin Halls: the Next Generation | 0.20% | ~363 |
 | Bazaar Companions | 0.20% | ~363 |
 | Bahamut's Army | 0.20% | ~363 |
-| Flight of the Kindori Pod | 0.20% | ~363 |
-| Topolah's Tower | 0.20% | ~363 |
 | Krux's Speed Run | 0.20% | ~363 |
+| Animated Giff | 0.20% | ~363 |
 | Upholding the Law | 0.10% | ~215 |
 | Starving in the Jungle | 0.10% | ~215 |
 | Cold as Ice | 0.10% | ~182 |
@@ -50,7 +61,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~182 |
 | An Unexpected Geist | 0.10% | ~182 |
 | Back to Nature | 0.10% | ~182 |
-| The Witchlight Carnival | 0.10% | ~182 |
 | A Monarch Among Us | 0.10% | ~182 |
 | A Dragon Against Us | 0.10% | ~182 |
 | A Familiar Behind Us | 0.10% | ~182 |
@@ -88,12 +98,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~182 |
 | Thoughts on the Menu | 0.10% | ~182 |
 | Brains on Ice | 0.10% | ~182 |
-| Hatchlings Underfoot | 0.10% | ~215 |
 | The Oozing Hunger | 0.10% | ~182 |
 | Levelheaded | 0.10% | ~182 |
 | The Madness of Zuggtmoy | 0.10% | ~182 |
 | It's So Pretty… | 0.10% | ~182 |
-| Don't Look Up! | 0.10% | ~215 |
 | The Cult of Lolth | 0.10% | ~182 |
 | Head over Heals | 0.10% | ~182 |
 | The Demon Lords of the Abyss | 0.10% | ~182 |
@@ -110,23 +118,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Heavy Burden | 0.10% | ~215 |
 | Speeds of Destruction | 0.10% | ~182 |
 | Owlbear Necessities | 0.10% | ~182 |
-| The Evacuation of Waterdeep | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
 | On the Hunt | 0.10% | ~215 |
 | Best Thay Ever | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
 | A Demi-god's Defender | 0.10% | ~182 |
 | Well Equipped | 0.10% | ~182 |
-| Friends of the Forest | 0.10% | ~215 |
 | More Than Well Equipped | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
 | Keep Your Distance | 0.10% | ~182 |
 | To Avernus in a Handbasket | 0.10% | ~182 |
 | Hands Off! | 0.10% | ~182 |
-| The Dread Domain of Tovag | 0.10% | ~182 |
 | Weak Doesn't Mean Feeble | 0.10% | ~182 |
 | Frail Doesn't Mean Broken | 0.10% | ~182 |
 | The Castle of a Thousand Vecnas | 0.10% | ~182 |
@@ -181,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.10% | ~215 |
 | Force Grey Unleashed | 0.10% | ~215 |
 | Vajra's Guards | 0.10% | ~215 |
-| Building Trust | 0.10% | ~215 |
 | March of the Undead | 0.10% | ~215 |
 | Wisdom Check | 0.10% | ~215 |
 | Sleuth It Out | 0.10% | ~215 |
@@ -194,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~215 |
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
-| Unearthed Evil | 0.10% | ~215 |
 | No Time To Rest | 0.10% | ~215 |
 | The Mists of Ravenloft | 0.10% | ~215 |
 | The Hunt for Owl-y | 0.10% | ~215 |
@@ -339,7 +341,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~215 |
 | Strike! | 0.10% | ~182 |
 | Take Five | 0.10% | ~182 |
-| Running of the Saurs | 0.10% | ~215 |
 | Lost in the Goblin Halls | 0.10% | ~215 |
 | Batiri in the Goblin Halls | 0.10% | ~215 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~182 |
@@ -517,10 +518,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.10% | ~182 |
 | Electric Mayhem | 0.10% | ~182 |
 | 3,720 to 1 | 0.10% | ~182 |
-| Animated Giff | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,236 (Ranked 53)  
-Completed: 2,078 (0.97%) (Ranked 108)  
+Progressed: 215,260 (Ranked 53)  
+Completed: 2,082 (0.97%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,15 +615,15 @@ Completed: 2,078 (0.97%) (Ranked 108)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,236 | 2,078 |
+| 2023-07-25 | 215,260 | 2,082 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
-Sum: 30,675 (Ranked 38)  
+Sum: 30,690 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,064 |
-| This game is Great for Beginners | 5,003 |
+| This game is Great for Beginners | 5,018 |
 | This game has Quickly Understood Controls | 4,682 |
 | This game is Relaxing | 4,571 |
 | This game has Amazing Characters | 4,025 |
@@ -812,3 +812,4 @@ Diff (max vs sum): 28
 | 2023-07-22 | 4.06 | - | 5,055 | 30,644 |
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
+| 2023-07-25 | 4.05 | - | 5,064 | 30,690 |

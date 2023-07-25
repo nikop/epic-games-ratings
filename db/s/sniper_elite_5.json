@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -430,7 +430,7 @@
   "Tags": [],
   "EOS_Progressed": 3338,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5350,9 +5350,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -5758,9 +5758,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -5925,8 +5925,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:05:37.7789917+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:21:20.9139775+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:57:18.6692488+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:05:37.7791754+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:11:20.9480043+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:21:20.9140562+00:00"
 }

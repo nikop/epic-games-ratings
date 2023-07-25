@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -543,6 +543,11 @@
       "Time": "2023-07-24T18:04:02.6374485+00:00",
       "NumProgressed": 364,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-25T02:21:03.9028669+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -562,7 +567,7 @@
       "Name": "Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "03_philatelist",
@@ -594,7 +599,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "07_europe",
@@ -602,7 +607,7 @@
       "Name": "Europe",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "08_america",
@@ -650,7 +655,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "14_woodcutter",
@@ -714,7 +719,7 @@
       "Name": "Missed it!",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "22_ouroboros",
@@ -722,7 +727,7 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "23_closecall",
@@ -865,15 +870,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:05:23.5425788+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:21:03.9028664+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:58:58.7563733+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:05:23.5426361+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:13:19.1728625+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:21:03.9028919+00:00"
 }

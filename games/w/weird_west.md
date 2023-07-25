@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,523 |
-| Self-Improvement | 72.00% | ~1,246 |
-| Perky | 65.00% | ~1,125 |
+| Unforgiven | 88.00% | ~1,524 |
+| Self-Improvement | 72.00% | ~1,247 |
+| Perky | 65.00% | ~1,126 |
 | Let’s Ride | 60.00% | ~1,039 |
 | Welcome to the Weird West | 57.00% | ~987 |
-| Dead or Alive | 56.00% | ~969 |
-| Full House | 36.00% | ~623 |
-| Off the Trail | 33.00% | ~571 |
+| Dead or Alive | 55.00% | ~953 |
+| Full House | 36.00% | ~624 |
+| Off the Trail | 33.00% | ~572 |
 | Justice Served | 29.00% | ~502 |
-| Chain Reaction | 27.00% | ~467 |
+| Chain Reaction | 27.00% | ~468 |
 | Through Their Eyes | 26.00% | ~450 |
 | Scholar | 25.00% | ~433 |
-| Dishonored | 24.00% | ~415 |
-| Rain of Death | 24.00% | ~415 |
+| Dishonored | 24.00% | ~416 |
+| Rain of Death | 24.00% | ~416 |
 | The Great Escape | 23.00% | ~398 |
 | That’s All, Folks | 18.00% | ~312 |
 | Fallen Star | 16.00% | ~277 |
@@ -32,14 +32,14 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 12.00% | ~208 |
 | Power Behind the Pulpit | 12.00% | ~208 |
 | Turning the Tables | 12.00% | ~208 |
-| Something Wicked This Way Comes… | 11.00% | ~190 |
-| There is Hope | 11.00% | ~190 |
+| Something Wicked This Way Comes… | 11.00% | ~191 |
+| There is Hope | 11.00% | ~191 |
 | The Philosopher’s Stone | 10.00% | ~173 |
 | Loyalty to the Pack | 9.00% | ~156 |
 | Eternity Can Wait | 9.00% | ~156 |
 | Mystery Machine | 9.00% | ~156 |
-| Gold Digger | 8.00% | ~138 |
-| Knuckle Sandwich | 8.00% | ~138 |
+| Gold Digger | 8.00% | ~139 |
+| Knuckle Sandwich | 8.00% | ~139 |
 | Do Not Pass Go… | 7.00% | ~121 |
 | Getting the Gang Back Together | 7.00% | ~121 |
 | Monster Hunter | 7.00% | ~121 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,731 (Ranked 168)  
+Progressed: 1,732 (Ranked 168)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-22 | 1,718 | 3 |
 | 2023-07-23 | 1,727 | 3 |
 | 2023-07-24 | 1,731 | 3 |
+| 2023-07-25 | 1,732 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

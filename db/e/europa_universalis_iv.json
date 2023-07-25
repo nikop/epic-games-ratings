@@ -7458,7 +7458,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 73789,
+  "EOS_Progressed": 73815,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2789,
   "EOS_NewCompleters": 0,
@@ -17863,6 +17863,11 @@
       "Time": "2023-07-25T00:06:34.2019811+00:00",
       "NumProgressed": 73789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T02:22:28.03644+00:00",
+      "NumProgressed": 73815,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -18314,7 +18319,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4429
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -18394,7 +18399,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "achievement_colonial_management",
@@ -18546,7 +18551,7 @@
       "Name": "Down Under",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -18706,7 +18711,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3691
     },
     {
       "ID": "achievement_forever_golden",
@@ -18874,7 +18879,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5905
     },
     {
       "ID": "achievement_grand_coalition",
@@ -18898,7 +18903,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4429
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -19874,7 +19879,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4429
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -20154,7 +20159,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5905
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -20466,7 +20471,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -20538,7 +20543,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6641
+      "UsersEstimate": 6643
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -20570,7 +20575,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5905
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -20705,21 +20710,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 73789,
+      "Progressed": 73815,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 73789,
+      "Progressed": 73815,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-24T15:58:38.3834149+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:06:34.2019803+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:22:28.0364391+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.0524617+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:58:31.9865186+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:06:34.2034438+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:12:49.8266835+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:22:28.0374669+00:00"
 }

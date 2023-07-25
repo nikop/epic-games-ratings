@@ -5,26 +5,26 @@ Rating: 4.52 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,433 |
+| Complete Guard Faction | 80.00% | ~1,434 |
 | Become King | 72.00% | ~1,290 |
 | Ranged Weapon | 61.00% | ~1,093 |
 | Defeat 25 Frogs | 61.00% | ~1,093 |
 | Collect Monster Parts | 58.00% | ~1,039 |
-| Two Handed Weapon | 56.00% | ~1,003 |
-| Defeat 25 Grubs | 52.00% | ~931 |
-| Rescue Redgi's Brothers | 51.00% | ~913 |
+| Two Handed Weapon | 56.00% | ~1,004 |
+| Defeat 25 Grubs | 52.00% | ~932 |
+| Rescue Redgi's Brothers | 51.00% | ~914 |
 | Collect Iron Ore | 47.00% | ~842 |
 | Kitchen Ready To Cook | 47.00% | ~842 |
 | Defeat 25 Mozis | 46.00% | ~824 |
 | Collect Gold | 45.00% | ~806 |
 | Smithy Ready to Craft | 45.00% | ~806 |
-| Fix the Travellers Wagon | 43.00% | ~770 |
-| Complete Elder Faction | 40.00% | ~716 |
+| Fix the Travellers Wagon | 43.00% | ~771 |
+| Complete Elder Faction | 40.00% | ~717 |
 | End of the Mozis | 37.00% | ~663 |
 | Throne Room Fit For A King | 37.00% | ~663 |
 | Meet the Creatures from the Deep | 35.00% | ~627 |
 | Return Power To The Depths | 35.00% | ~627 |
-| Defeat Ratnor Rodentson | 29.00% | ~519 |
+| Defeat Ratnor Rodentson | 29.00% | ~520 |
 | Return the Statues | 26.00% | ~466 |
 | Defeat Rattus Augustail | 26.00% | ~466 |
 | Complete the Chefs Book | 24.00% | ~430 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 520)
 | King of Kings | 7.00% | ~125 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,791 (Ranked 167)  
+Progressed: 1,792 (Ranked 167)  
 Completed: 8 (0.45%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 8 (0.45%) (Ranked 136)
 | 2023-07-22 | 1,779 | 8 |
 | 2023-07-23 | 1,785 | 8 |
 | 2023-07-24 | 1,791 | 8 |
+| 2023-07-25 | 1,792 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

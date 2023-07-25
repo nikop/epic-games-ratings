@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2117,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -4086,6 +4086,11 @@
       "Time": "2023-07-25T00:05:14.8139855+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T02:20:53.8056915+00:00",
+      "NumProgressed": 2117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4129,7 +4134,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -4177,7 +4182,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "GLOVE_SLAP",
@@ -4185,7 +4190,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -4225,7 +4230,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -4233,7 +4238,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -4272,14 +4277,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2117,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:05:14.8139847+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:20:53.805691+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.446909+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:58:10.607352+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:05:14.8140555+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:12:19.9956195+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:20:53.8057221+00:00"
 }

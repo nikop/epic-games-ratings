@@ -17,7 +17,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 2.00% | ~14,228 |
 | Lightning Hands | 2.00% | ~14,228 |
 | Rumble in the Hangar | 2.00% | ~14,228 |
-| Bloody Sport | 2.00% | ~414 |
+| Bloody Sport | 2.00% | ~415 |
 | Lady Wing Chun | 1.00% | ~7,114 |
 | Furious Fists | 1.00% | ~7,114 |
 | Scareless | 1.00% | ~7,114 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,418 (Ranked 19)  
+Progressed: 711,425 (Ranked 19)  
 Completed: 12,831 (1.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 12,831 (1.80%) (Ranked 86)
 | 2023-07-22 | 711,203 | 12,830 |
 | 2023-07-23 | 711,328 | 12,831 |
 | 2023-07-24 | 711,418 | 12,831 |
+| 2023-07-25 | 711,425 | 12,831 |
 ## Awards
 Max (Great Boss Battles): 6,299  (Ranked 53)  
 Sum: 10,805 (Ranked 79)  

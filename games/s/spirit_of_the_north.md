@@ -6,24 +6,24 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~43,011 |
-| INFUSED WITH LIGHT | 53.00% | ~33,523 |
-| FOXIN' AROUND | 29.00% | ~18,343 |
-| FETCH | 27.00% | ~17,078 |
-| BLOOMS OF LIGHT | 26.00% | ~16,445 |
-| BEST FRIENDS | 22.00% | ~13,915 |
-| AWAKEN | 21.00% | ~13,283 |
-| ERADICATE | 21.00% | ~13,283 |
-| SPIRIT BARK | 21.00% | ~13,283 |
-| GARDEN OF LIGHT | 18.00% | ~11,385 |
-| SPIRIT FORM | 16.00% | ~10,120 |
-| UPROOTING DARKNESS | 15.00% | ~9,488 |
-| WRITTEN IN STONE | 15.00% | ~9,488 |
-| WEIGHTLESS | 12.00% | ~7,590 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~43,015 |
+| INFUSED WITH LIGHT | 53.00% | ~33,526 |
+| FOXIN' AROUND | 29.00% | ~18,345 |
+| FETCH | 27.00% | ~17,079 |
+| BLOOMS OF LIGHT | 26.00% | ~16,447 |
+| BEST FRIENDS | 22.00% | ~13,917 |
+| AWAKEN | 21.00% | ~13,284 |
+| ERADICATE | 21.00% | ~13,284 |
+| SPIRIT BARK | 21.00% | ~13,284 |
+| GARDEN OF LIGHT | 18.00% | ~11,386 |
+| SPIRIT FORM | 16.00% | ~10,121 |
+| UPROOTING DARKNESS | 15.00% | ~9,489 |
+| WRITTEN IN STONE | 15.00% | ~9,489 |
+| WEIGHTLESS | 12.00% | ~7,591 |
 | SPIRIT DASH | 11.00% | ~6,958 |
 | OLD COMPANION | 9.00% | ~5,693 |
-| PLAGUE DOCTOR | 8.00% | ~5,060 |
-| SPIRITED AWAY | 8.00% | ~5,060 |
+| PLAGUE DOCTOR | 8.00% | ~5,061 |
+| SPIRITED AWAY | 8.00% | ~5,061 |
 | MATCH MAKER | 7.00% | ~4,428 |
 | NORTHERN LIGHTS | 7.00% | ~4,428 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,530 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,265 |
 | KINDRED SPIRITS | 0.60% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,251 (Ranked 81)  
+Progressed: 63,257 (Ranked 81)  
 Completed: 323 (0.51%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 323 (0.51%) (Ranked 131)
 | 2023-07-22 | 62,995 | 320 |
 | 2023-07-23 | 63,135 | 321 |
 | 2023-07-24 | 63,242 | 323 |
-| 2023-07-25 | 63,251 | 323 |
+| 2023-07-25 | 63,257 | 323 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 475)  
 Sum: 113 (Ranked 407)  

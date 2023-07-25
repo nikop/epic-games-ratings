@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 574)  
+Rating: 4.50 (Ranked 556)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 10.00% | ~25 |
-| First Strike | 10.00% | ~25 |
+| Faceroll the Bones | 9.00% | ~23 |
+| First Strike | 9.00% | ~23 |
 | Flawless Victory | 9.00% | ~23 |
 | That'll Leave a Mark | 9.00% | ~23 |
-| Debuff Dogpile | 8.00% | ~20 |
-| Hit 'Em Where It Hurts | 8.00% | ~20 |
-| Perk Shard Punch Card | 8.00% | ~20 |
-| Ten Steps from the Grave | 8.00% | ~20 |
+| Debuff Dogpile | 8.00% | ~21 |
+| Hit 'Em Where It Hurts | 8.00% | ~21 |
+| Perk Shard Punch Card | 8.00% | ~21 |
 | Next Time on MythForce... | 7.00% | ~18 |
 | Spending Spree | 7.00% | ~18 |
-| Cold-Blooded Critters | 6.00% | ~15 |
+| Ten Steps from the Grave | 7.00% | ~18 |
 | Everything Must Go! | 6.00% | ~15 |
 | Mushroom Madness! | 6.00% | ~15 |
 | On this Episode! | 6.00% | ~15 |
+| Cold-Blooded Critters | 5.00% | ~13 |
 | Deadication | 5.00% | ~13 |
 | Horder Better Faster Stronger | 5.00% | ~13 |
 | The Fourth Gate | 4.00% | ~10 |
 | The Harder They Fall | 4.00% | ~10 |
-| Season Finale | 4.00% | ~10 |
+| Season Finale | 3.00% | ~8 |
 | We've Got a Kaiju on the Field | 0.40% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 257)  
+Progressed: 258 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
-| 2023-07-25 | 252 | 0 |
+| 2023-07-25 | 258 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  
@@ -131,3 +131,4 @@ Diff (max vs sum): 97
 | 2023-07-08 | 4.50 | - | 32 | 225 |
 | 2023-07-19 | 4.49 | - | 32 | 225 |
 | 2023-07-22 | 4.49 | - | 32 | 226 |
+| 2023-07-25 | 4.50 | - | 32 | 226 |

@@ -5,11 +5,11 @@ Rating: 4.41 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Liberté | 4.00% | ~134 |
 | Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
 | The Kraken Sleeps | 4.00% | ~134 |
 | Climbing the Ladder | 3.00% | ~100 |
-| Liberté | 3.00% | ~100 |
 | Meeting Resistance | 3.00% | ~100 |
 | Sharpshooter | 3.00% | ~100 |
 | Confirming Suspicions | 3.00% | ~100 |
@@ -59,11 +59,11 @@ Rating: 4.41 (Ranked 673)
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
 | Up close and personal | 0.30% | ~10 |
+| Can't Outrun A Bullet | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
-| Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~7 |
 | Reich To The Point | 0.20% | ~7 |
 | Covert Elimination | 0.20% | ~7 |

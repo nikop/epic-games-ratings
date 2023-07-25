@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3132,10 +3132,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6834,
       "NumberOfAwardsMax": 1689
+    },
+    {
+      "Time": "2023-07-25T02:15:01.3017822+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6836,
+      "NumberOfAwardsMax": 1689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6834,
+  "NumberOfAwards": 6836,
   "NumberOfAwardsMax": 1689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3203,10 +3209,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 381
+      "Count": 383
     }
   ],
-  "EOS_Progressed": 10551,
+  "EOS_Progressed": 10552,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
@@ -9206,6 +9212,11 @@
       "Time": "2023-07-24T23:03:06.7883341+00:00",
       "NumProgressed": 10551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T02:19:48.0198114+00:00",
+      "NumProgressed": 10552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10144,21 +10155,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9333,
+      "Progressed": 9334,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10551,
+      "Progressed": 10552,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-24T17:00:19.8574597+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:04:19.1295877+00:00",
+  "LastChanged": "2023-07-25T02:15:01.3017821+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:19:48.0198109+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-25T00:00:23.3988266+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:04:19.1298118+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:15:01.3017825+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:19:48.019962+00:00"
 }

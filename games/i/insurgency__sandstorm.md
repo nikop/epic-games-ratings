@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,098 |
-| Exploitative | 4.00% | ~16,878 |
-| Point Shooting | 4.00% | ~16,878 |
-| Wet Feet | 4.00% | ~16,878 |
-| High Speed Low Drag | 3.00% | ~12,659 |
-| Lucky | 3.00% | ~12,659 |
-| Stylin' | 3.00% | ~12,659 |
-| Turf War | 3.00% | ~12,659 |
-| Banged | 2.00% | ~8,439 |
-| Checkpoint Victory | 2.00% | ~8,439 |
-| First Blood | 2.00% | ~8,439 |
-| Flaccid Paralysis | 2.00% | ~8,439 |
-| Push Victory | 2.00% | ~8,439 |
-| Self-destructive | 2.00% | ~8,439 |
-| Blindfire | 1.00% | ~4,220 |
-| Ruthless | 1.00% | ~4,220 |
-| Semper Paratus | 1.00% | ~4,220 |
+| Wallbanger | 5.00% | ~21,103 |
+| Exploitative | 4.00% | ~16,882 |
+| Point Shooting | 4.00% | ~16,882 |
+| Wet Feet | 4.00% | ~16,882 |
+| High Speed Low Drag | 3.00% | ~12,662 |
+| Lucky | 3.00% | ~12,662 |
+| Stylin' | 3.00% | ~12,662 |
+| Turf War | 3.00% | ~12,662 |
+| Banged | 2.00% | ~8,441 |
+| Checkpoint Victory | 2.00% | ~8,441 |
+| First Blood | 2.00% | ~8,441 |
+| Flaccid Paralysis | 2.00% | ~8,441 |
+| Push Victory | 2.00% | ~8,441 |
+| Self-destructive | 2.00% | ~8,441 |
+| Blindfire | 1.00% | ~4,221 |
+| Ruthless | 1.00% | ~4,221 |
+| Semper Paratus | 1.00% | ~4,221 |
 | Carrying | 0.90% | ~3,798 |
 | Efficient | 0.90% | ~3,798 |
 | Mount & Gun | 0.90% | ~3,798 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~422 |
 | Road Hazard | 0.10% | ~422 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,962 (Ranked 39)  
+Progressed: 422,051 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,17 +138,17 @@ Completed: 2 (0.00%) (Ranked 242)
 | 2023-07-22 | 419,738 | 2 |
 | 2023-07-23 | 420,968 | 2 |
 | 2023-07-24 | 421,928 | 2 |
-| 2023-07-25 | 421,962 | 2 |
+| 2023-07-25 | 422,051 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 365  (Ranked 220)  
-Sum: 2,830 (Ranked 169)  
+Sum: 2,831 (Ranked 169)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 365 |
 | This game has Challenging Combat | 344 |
 | This game is Extremely Fun | 335 |
-| This game has Competitive Players | 327 |
+| This game has Competitive Players | 328 |
 | This game has Realistic Visuals | 304 |
 | This game has Amazing Storytelling | 302 |
 | This game is Highly Recommended | 300 |
@@ -346,3 +346,4 @@ Diff (max vs sum): 51
 | 2023-07-22 | 4.62 | - | 364 | 2,821 |
 | 2023-07-23 | 4.62 | - | 365 | 2,828 |
 | 2023-07-24 | 4.62 | - | 365 | 2,830 |
+| 2023-07-25 | 4.62 | - | 365 | 2,831 |

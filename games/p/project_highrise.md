@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~144 |
-| Starting Skyward | 52.00% | ~131 |
-| Grime is Not Good | 45.00% | ~113 |
-| Floor Galore | 38.00% | ~96 |
-| Campaign Launch | 38.00% | ~96 |
-| Dinner Dash | 37.00% | ~93 |
-| It's Technical | 35.00% | ~88 |
+| In the Black | 57.00% | ~145 |
+| Starting Skyward | 52.00% | ~132 |
+| Grime is Not Good | 44.00% | ~112 |
+| Floor Galore | 38.00% | ~97 |
+| Campaign Launch | 38.00% | ~97 |
+| Dinner Dash | 37.00% | ~94 |
+| It's Technical | 35.00% | ~89 |
 | Need a Consult | 34.00% | ~86 |
-| Upgrade Unlock | 33.00% | ~83 |
+| Upgrade Unlock | 33.00% | ~84 |
 | Delegate Maintenance | 32.00% | ~81 |
-| Proper Walls | 31.00% | ~78 |
+| Proper Walls | 30.00% | ~76 |
 | Destination Destiny | 28.00% | ~71 |
-| Happy Tenants | 25.00% | ~63 |
-| Smooth Service | 24.00% | ~60 |
+| Happy Tenants | 25.00% | ~64 |
+| Smooth Service | 24.00% | ~61 |
 | Your Prestige is Rising | 23.00% | ~58 |
 | Potent Potables | 23.00% | ~58 |
 | Retail Revenue | 23.00% | ~58 |
-| Lux Living | 22.00% | ~55 |
-| People Mover | 21.00% | ~53 |
+| Lux Living | 22.00% | ~56 |
 | Leveled Up Shops | 21.00% | ~53 |
-| Emporium Empire | 20.00% | ~50 |
-| We Don't Need No Education | 20.00% | ~50 |
-| Get Electrified | 20.00% | ~50 |
+| People Mover | 20.00% | ~51 |
+| Emporium Empire | 20.00% | ~51 |
+| We Don't Need No Education | 20.00% | ~51 |
+| Get Electrified | 20.00% | ~51 |
 | Artfully Done | 19.00% | ~48 |
 | Don't Feel a Loan | 19.00% | ~48 |
-| Rehab Expert | 18.00% | ~45 |
-| Tasty Profits | 18.00% | ~45 |
-| Under One Roof | 16.00% | ~40 |
-| Established Fame | 16.00% | ~40 |
-| Cashflow Chief | 16.00% | ~40 |
+| Rehab Expert | 18.00% | ~46 |
+| Tasty Profits | 18.00% | ~46 |
+| Under One Roof | 16.00% | ~41 |
+| Established Fame | 16.00% | ~41 |
+| Cashflow Chief | 16.00% | ~41 |
 | Starred Dining | 15.00% | ~38 |
 | Boutique Benefits | 15.00% | ~38 |
 | Terrifically Trashed | 15.00% | ~38 |
-| Smooth Operator | 14.00% | ~35 |
-| Thrilled Tenants | 14.00% | ~35 |
+| Smooth Operator | 14.00% | ~36 |
+| Thrilled Tenants | 14.00% | ~36 |
 | Swimming in Surplus | 12.00% | ~30 |
 | 28 Days Later | 11.00% | ~28 |
 | Master of Puppets | 10.00% | ~25 |
@@ -49,10 +49,10 @@
 | Aestheticly Pleased | 8.00% | ~20 |
 | Meet Me at HQ | 8.00% | ~20 |
 | Revenue Royalty | 8.00% | ~20 |
-| Pipe Up | 8.00% | ~20 |
 | Careful Constructor | 7.00% | ~18 |
 | Sky High Stature | 7.00% | ~18 |
 | Maximum Reuse | 7.00% | ~18 |
+| Pipe Up | 7.00% | ~18 |
 | Baron of Business | 6.00% | ~15 |
 | I'm Busy Ruling | 6.00% | ~15 |
 | Water Features | 6.00% | ~15 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 257)  
+Progressed: 254 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 246 | 0 |
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
+| 2023-07-25 | 254 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

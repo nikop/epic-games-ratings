@@ -16,6 +16,7 @@
 | Immaculate Aim | 16.00% | ~126 |
 | The Brass Boss | 16.00% | ~126 |
 | The Betrayer | 15.00% | ~118 |
+| The Loose Cannon | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
 | The Wicked Twins | 15.00% | ~118 |
@@ -23,7 +24,6 @@
 | Fast Learner | 15.00% | ~118 |
 | Like Clockwork | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
-| The Loose Cannon | 14.00% | ~110 |
 | Cartographer | 14.00% | ~110 |
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |

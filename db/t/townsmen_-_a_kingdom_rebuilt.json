@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4207,
+  "EOS_Progressed": 4208,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -880,6 +880,11 @@
       "Time": "2023-07-24T18:05:05.9231726+00:00",
       "NumProgressed": 4207,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T02:22:12.8812495+00:00",
+      "NumProgressed": 4208,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1123,7 +1128,7 @@
       "Name": "Builder I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -1251,7 +1256,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -1547,7 +1552,7 @@
       "Name": "Tax-man II",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -1579,7 +1584,7 @@
       "Name": "A time consuming game I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -1659,7 +1664,7 @@
       "Name": "Time for some trade",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -1698,15 +1703,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4207,
+      "Progressed": 4208,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:06:21.6099924+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:22:12.881249+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:59:33.7697614+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:06:21.6102356+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:13:58.6692143+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:22:12.8813458+00:00"
 }

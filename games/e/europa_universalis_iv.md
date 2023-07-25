@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,641 |
-| That's a Grand Army | 8.00% | ~5,903 |
-| That is mine! | 8.00% | ~5,903 |
-| Victorious! | 8.00% | ~5,903 |
-| Brothers in Arms | 6.00% | ~4,427 |
-| That's a Grand Navy | 6.00% | ~4,427 |
-| Seriously?! | 6.00% | ~4,427 |
-| For the Glory | 5.00% | ~3,689 |
-| Cold War | 4.00% | ~2,952 |
-| True Catholic | 4.00% | ~2,952 |
+| Until death do us apart | 9.00% | ~6,643 |
+| That's a Grand Army | 8.00% | ~5,905 |
+| That is mine! | 8.00% | ~5,905 |
+| Victorious! | 8.00% | ~5,905 |
+| Brothers in Arms | 6.00% | ~4,429 |
+| That's a Grand Navy | 6.00% | ~4,429 |
+| Seriously?! | 6.00% | ~4,429 |
+| For the Glory | 5.00% | ~3,691 |
+| Cold War | 4.00% | ~2,953 |
+| True Catholic | 4.00% | ~2,953 |
 | Defender of the Faith | 3.00% | ~2,214 |
 | It's all about luck | 3.00% | ~2,214 |
 | It's all about the money | 3.00% | ~2,214 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~664 |
 | Market Control | 0.90% | ~664 |
 | Trustworthy | 0.90% | ~664 |
-| Down Under | 0.80% | ~590 |
+| Down Under | 0.80% | ~591 |
 | Electable! | 0.70% | ~517 |
 | Populists in Government | 0.70% | ~517 |
 | All belongs to Mother Russia | 0.60% | ~443 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,789 (Ranked 74)  
+Progressed: 73,815 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -457,7 +457,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 72,954 | 0 |
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
-| 2023-07-25 | 73,789 | 0 |
+| 2023-07-25 | 73,815 | 0 |
 ## Awards
 Max (Educational): 5,579  (Ranked 61)  
 Sum: 45,978 (Ranked 26)  

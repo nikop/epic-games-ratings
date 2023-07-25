@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.05,
   "NumberOfRatings": 9041,
   "RatingHistory": [
     {
@@ -5204,10 +5204,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30675,
       "NumberOfAwardsMax": 5064
+    },
+    {
+      "Time": "2023-07-25T02:14:19.3637394+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30690,
+      "NumberOfAwardsMax": 5064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30675,
+  "NumberOfAwards": 30690,
   "NumberOfAwardsMax": 5064,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5215,7 +5221,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5003
+      "Count": 5018
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5254,10 +5260,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215236,
-  "EOS_Completed": 2078,
-  "EOS_NewPlayers": 2367,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 215260,
+  "EOS_Completed": 2082,
+  "EOS_NewPlayers": 2357,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15474,6 +15480,11 @@
       "Time": "2023-07-25T00:09:13.302893+00:00",
       "NumProgressed": 215236,
       "NumCompleted": 2078
+    },
+    {
+      "Time": "2023-07-25T02:24:42.6602957+00:00",
+      "NumProgressed": 215260,
+      "NumCompleted": 2082
     }
   ],
   "TotalAchievements": 512,
@@ -15483,17 +15494,17 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1722
     },
     {
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1292
     },
     {
       "ID": "objective_completed_100",
@@ -15501,7 +15512,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_101",
@@ -15555,9 +15566,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1051",
@@ -15587,9 +15598,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1056",
@@ -15787,9 +15798,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_1090",
@@ -15851,9 +15862,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1722
     },
     {
       "ID": "objective_completed_110",
@@ -15861,7 +15872,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1100",
@@ -15915,9 +15926,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1111",
@@ -15955,9 +15966,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1121",
@@ -16043,9 +16054,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_1142",
@@ -16099,9 +16110,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1152",
@@ -16131,9 +16142,9 @@
       "ID": "objective_completed_1158",
       "SetID": "415jc5c",
       "Name": "The Evacuation of Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1159",
@@ -16163,9 +16174,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1164",
@@ -16203,9 +16214,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1170",
@@ -16267,9 +16278,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1184",
@@ -16707,9 +16718,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_17",
@@ -16811,9 +16822,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_20",
@@ -17971,9 +17982,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_590",
@@ -18557,7 +18568,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_690",
@@ -18629,7 +18640,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_70",
@@ -18661,7 +18672,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_75",
@@ -18669,7 +18680,7 @@
       "Name": "Lost in the Deep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_76",
@@ -18677,7 +18688,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_77",
@@ -18685,7 +18696,7 @@
       "Name": "Rude Welcome",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_79",
@@ -18693,7 +18704,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_8",
@@ -18701,7 +18712,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_80",
@@ -18709,7 +18720,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_802",
@@ -19229,7 +19240,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_902",
@@ -19357,7 +19368,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_95",
@@ -19507,9 +19518,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1376",
@@ -19523,9 +19534,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1381",
@@ -19539,9 +19550,9 @@
       "ID": "objective_completed_1385",
       "SetID": "415jc5c",
       "Name": "Flight of the Kindori Pod",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1386",
@@ -19555,9 +19566,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1391",
@@ -19571,30 +19582,30 @@
       "ID": "objective_completed_1392",
       "SetID": "415jc5c",
       "Name": "Animated Giff",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181510,
-      "Completed": 2885
+      "Progressed": 181534,
+      "Completed": 2908
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215236,
-      "Completed": 2078
+      "Progressed": 215260,
+      "Completed": 2082
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-24T16:59:50.0006609+00:00",
-  "LastChanged_Achievements": "2023-07-25T00:09:13.3028922+00:00",
+  "LastChanged": "2023-07-25T02:14:19.3637393+00:00",
+  "LastChanged_Achievements": "2023-07-25T02:24:42.6602951+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-24T23:59:49.859193+00:00",
-  "LastUpdate_Achievements": "2023-07-25T00:09:13.3063199+00:00"
+  "LastUpdate_Ratings": "2023-07-25T02:14:19.3637401+00:00",
+  "LastUpdate_Achievements": "2023-07-25T02:24:42.6626283+00:00"
 }

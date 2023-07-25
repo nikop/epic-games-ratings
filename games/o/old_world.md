@@ -12,9 +12,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
 | Poetic Leader | 0.60% | ~78 |
+| Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Friendly Family | 0.50% | ~65 |
-| Able | 0.40% | ~52 |
 | Architect | 0.40% | ~52 |
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
@@ -26,9 +26,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.30% | ~39 |
 | Enlightened | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
+| Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
 | Pioneer | 0.30% | ~39 |
+| Warrior | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
@@ -45,9 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
-| Keystone | 0.20% | ~26 |
 | Magnificent | 0.20% | ~26 |
-| Warrior | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Developing Cities | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
@@ -182,6 +182,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
+| Play a Play-By-Cloud Game | 0.10% | ~13 |
 | Power to the People | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
-| Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,074 (Ranked 115)  
+Progressed: 13,075 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,6 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
+| 2023-07-25 | 13,075 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  
