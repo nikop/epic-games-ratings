@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,524,498 | 4.29 | 781 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 481,779 | 4.50 | 555 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 482,703 | 4.50 | 555 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,729 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 202,998 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 188,723 | 4.19 | 852 |
@@ -61,7 +61,7 @@
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,662 | 4.82 | 65 |
 | 60 | [Prey](games/p/prey.md) | 5,617 | 4.62 | 347 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,583 | 4.69 | 214 |
-| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,529 | 4.75 | 134 |
+| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,529 | 4.75 | 133 |
 | 62 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,529 | 4.85 | 41 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,371 | 4.54 | 494 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,186 | 4.33 | 757 |
@@ -104,13 +104,13 @@
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,433 | 4.80 | 83 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,364 | 4.78 | 100 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,240 | 4.67 | 261 |
-| 105 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,193 | 4.48 | 585 |
+| 105 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,200 | 4.48 | 585 |
 | 106 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,190 | 4.41 | 673 |
 | 107 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,186 | 4.63 | 331 |
 | 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,144 | 4.37 | 722 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,980 | 4.49 | 573 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,897 | 4.66 | 275 |
-| 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,857 | 4.90 | 8 |
+| 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,861 | 4.90 | 8 |
 | 112 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,856 | 4.70 | 196 |
 | 113 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,795 | 4.56 | 460 |
 | 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,760 | 4.63 | 331 |
@@ -147,8 +147,8 @@
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 958 | 4.31 | 772 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 930 | 4.69 | 214 |
 | 147 | [Sonic Mania](games/s/sonic_mania.md) | 925 | 4.78 | 100 |
-| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 908 | 4.75 | 134 |
-| 149 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 898 | 4.56 | 460 |
+| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 908 | 4.75 | 133 |
+| 149 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 899 | 4.56 | 460 |
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 866 | 4.45 | 623 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 812 | 4.56 | 460 |
 | 152 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 804 | 4.69 | 214 |
@@ -181,14 +181,14 @@
 | 179 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 586 | 4.73 | 158 |
 | 180 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 565 | 4.38 | 711 |
 | 180 | [Star Trek Online](games/s/star_trek_online.md) | 565 | 4.44 | 641 |
-| 182 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 240 |
-| 183 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 559 | 4.66 | 275 |
-| 184 | [Filament](games/f/filament.md) | 558 | 4.32 | 764 |
-| 184 | [Football Manager 2023](games/f/football_manager_2023.md) | 558 | 4.76 | 119 |
+| 182 | [Football Manager 2023](games/f/football_manager_2023.md) | 562 | 4.75 | 133 |
+| 183 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 240 |
+| 184 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 559 | 4.66 | 275 |
+| 185 | [Filament](games/f/filament.md) | 558 | 4.32 | 764 |
 | 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 553 | 4.41 | 673 |
 | 186 | [Vampyr](games/v/vampyr.md) | 553 | 4.32 | 764 |
 | 188 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 551 | 4.62 | 347 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 542 | 4.75 | 134 |
+| 189 | [Riders Republic](games/r/riders_republic.md) | 542 | 4.75 | 133 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 540 | 4.66 | 275 |
 | 191 | [Godfall Ultimate Edition](games/g/godfall.md) | 531 | 4.07 | 903 |
 | 192 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 521 | 4.24 | 818 |
@@ -241,7 +241,7 @@
 | 239 | [Dead Cells](games/d/dead_cells.md) | 275 | 4.87 | 24 |
 | 239 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 275 | 4.61 | 366 |
 | 241 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 573 |
-| 242 | [Diabotical](games/d/diabotical.md) | 271 | 4.75 | 134 |
+| 242 | [Diabotical](games/d/diabotical.md) | 271 | 4.75 | 133 |
 | 243 | [Sheltered](games/s/sheltered.md) | 268 | 4.42 | 661 |
 | 244 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 261 | 4.84 | 49 |
 | 245 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 253 | 4.58 | 424 |
@@ -316,7 +316,7 @@
 | 314 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 119 | 4.79 | 91 |
 | 315 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 757 |
 | 315 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 117 | 4.71 | 182 |
-| 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 116 | 4.75 | 134 |
+| 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 116 | 4.75 | 133 |
 | 318 | [First Class Trouble](games/f/first_class_trouble.md) | 115 | 4.50 | 555 |
 | 318 | [Overcooked](games/o/overcooked.md) | 115 | 4.68 | 240 |
 | 318 | [Tropico 5](games/t/tropico_5.md) | 115 | 4.45 | 623 |

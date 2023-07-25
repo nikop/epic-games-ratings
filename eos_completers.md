@@ -17,14 +17,14 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.19% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.42% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.39% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.95% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.82% |
+| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.90% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.87% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -42,8 +42,8 @@
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.81% |
-| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.79% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
@@ -67,7 +67,7 @@
 | 65 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
-| 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
 | 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
@@ -120,7 +120,7 @@
 | 118 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 119 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 120 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 121 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
+| 121 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.61% |
 | 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 122 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
