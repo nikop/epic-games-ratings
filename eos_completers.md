@@ -38,8 +38,8 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.06% |
-| 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
+| 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 43 | [JARS](games/j/jars.md) | 4.84% |
@@ -73,12 +73,12 @@
 | 71 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 74 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.43% |
+| 74 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.42% |
 | 75 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
 | 76 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 77 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 78 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 79 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.13% |
+| 79 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.08% |
 | 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
