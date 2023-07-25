@@ -53,9 +53,9 @@
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.69% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 53 | [ZZT!](games/z/zzt!.md) | 3.55% |
-| 54 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.51% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.51% |
-| 56 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
+| 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
+| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
 | 57 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.27% |
 | 59 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
@@ -86,7 +86,7 @@
 | 84 | [Frogun](games/f/frogun.md) | 1.88% |
 | 85 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 86 | [Sifu](games/s/sifu.md) | 1.80% |
-| 87 | [Iron Danger](games/i/iron_danger.md) | 1.71% |
+| 87 | [Iron Danger](games/i/iron_danger.md) | 1.70% |
 | 88 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.68% |
 | 89 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 90 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -96,26 +96,26 @@
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 95 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 96 | [Five Dates](games/f/five_dates.md) | 1.43% |
-| 97 | [Late Shift](games/l/late_shift.md) | 1.33% |
-| 98 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
-| 99 | [Chorus](games/c/chorus.md) | 1.22% |
-| 100 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
-| 101 | [Trifox](games/t/trifox.md) | 1.11% |
-| 102 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.08% |
-| 103 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
-| 104 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
-| 105 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
-| 106 | [Adios](games/a/adios.md) | 0.98% |
-| 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
-| 107 | [Sable](games/s/sable.md) | 0.97% |
-| 109 | [Hades](games/h/hades.md) | 0.89% |
-| 110 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 111 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 112 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
-| 113 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 114 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 115 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 0.71% |
+| 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.43% |
+| 98 | [Late Shift](games/l/late_shift.md) | 1.33% |
+| 99 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
+| 100 | [Chorus](games/c/chorus.md) | 1.22% |
+| 101 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
+| 102 | [Trifox](games/t/trifox.md) | 1.11% |
+| 103 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.08% |
+| 104 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
+| 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
+| 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
+| 107 | [Adios](games/a/adios.md) | 0.98% |
+| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
+| 108 | [Sable](games/s/sable.md) | 0.97% |
+| 110 | [Hades](games/h/hades.md) | 0.89% |
+| 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 113 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
+| 114 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 115 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 116 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 117 | [Haven](games/h/haven.md) | 0.67% |
 | 118 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 119 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
@@ -508,4 +508,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,940 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,941 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
