@@ -3,7 +3,7 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 275,
-  "Ranking_Popularity": 183,
+  "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 216,
@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 188584,
+  "EOS_Progressed": 188589,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1887,
+  "EOS_NewPlayers": 1888,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11875,6 +11875,11 @@
       "Time": "2023-07-25T22:06:24.505686+00:00",
       "NumProgressed": 188584,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-25T23:08:15.2053546+00:00",
+      "NumProgressed": 188589,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 44,
@@ -11958,7 +11963,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20744
+      "UsersEstimate": 20745
     },
     {
       "ID": "HappyLittleAccidents",
@@ -11966,7 +11971,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7543
+      "UsersEstimate": 7544
     },
     {
       "ID": "HappyPlanning",
@@ -12062,7 +12067,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7543
+      "UsersEstimate": 7544
     },
     {
       "ID": "OldMan",
@@ -12086,7 +12091,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7543
+      "UsersEstimate": 7544
     },
     {
       "ID": "ReleaseTheKraken",
@@ -12198,7 +12203,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7543
+      "UsersEstimate": 7544
     },
     {
       "ID": "Warzone",
@@ -12237,15 +12242,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 188584,
+      "Progressed": 188589,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:06:24.5056851+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:08:15.2053541+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.4942991+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:59:13.3677584+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:06:24.5057875+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:00:32.7301667+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:08:15.2054893+00:00"
 }

@@ -10,6 +10,7 @@
 | The Steel Shadow | 16.00% | ~126 |
 | Make Up For Lost Time | 16.00% | ~126 |
 | No, Thanks! | 16.00% | ~126 |
+| Breaking Down Barriers | 16.00% | ~126 |
 | The Prince in Heels | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
@@ -18,7 +19,6 @@
 | The Loose Cannon | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
-| Breaking Down Barriers | 15.00% | ~118 |
 | The Wicked Twins | 15.00% | ~118 |
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |

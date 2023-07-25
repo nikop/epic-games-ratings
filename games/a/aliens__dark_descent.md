@@ -34,10 +34,10 @@ Rating: 4.41 (Ranked 673)
 | The Spire | 20.00% | ~608 |
 | One For Every Occasion | 17.00% | ~516 |
 | Excavating The Truth | 17.00% | ~516 |
+| Abysmal Horrors | 17.00% | ~516 |
 | Bandage Lover | 16.00% | ~486 |
 | Frontliner | 16.00% | ~486 |
 | The Cable Guy | 16.00% | ~486 |
-| Abysmal Horrors | 16.00% | ~486 |
 | Regicide | 12.00% | ~365 |
 | Flawless Victory | 10.00% | ~304 |
 | This Went Smoothly | 10.00% | ~304 |

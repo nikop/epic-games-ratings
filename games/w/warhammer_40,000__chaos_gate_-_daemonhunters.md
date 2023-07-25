@@ -6,11 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Look Over There! | 0.30% | ~9 |
+| Look Over There! | 0.40% | ~12 |
+| An Ill Omen | 0.40% | ~12 |
 | Not So Fast... | 0.30% | ~9 |
 | Executioner | 0.30% | ~9 |
 | Watch Where You Step... | 0.30% | ~9 |
-| An Ill Omen | 0.30% | ~9 |
 | Bloodless | 0.30% | ~9 |
 | Friendly Fire | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
 | Gunmaster | 0.10% | ~3 |
+| Warp Flickers | 0.10% | ~3 |
 | Efficient Killer | 0.10% | ~3 |
 | Just a Scratch | 0.10% | ~3 |
 | A Foul Creche | 0.10% | ~3 |
@@ -62,7 +63,6 @@ Number of Ratings: 371  (23.09.2022)
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
-| Warp Flickers | 0.00% | ~0 |
 | Phalanx | 0.00% | ~0 |
 | Exercise in Restraint | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,030 (Ranked 153)  
+Progressed: 3,031 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
 | 2023-07-24 | 3,024 | 0 |
-| 2023-07-25 | 3,030 | 0 |
+| 2023-07-25 | 3,031 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  

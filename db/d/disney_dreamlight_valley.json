@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2838,10 +2838,10 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 7421,
+  "EOS_Progressed": 7426,
   "EOS_Completed": 179,
   "EOS_NewPlayers": 578,
-  "EOS_NewCompleters": 8,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
     {
@@ -7268,6 +7268,11 @@
       "Time": "2023-07-25T22:03:11.8614484+00:00",
       "NumProgressed": 7421,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-07-25T23:03:46.3961717+00:00",
+      "NumProgressed": 7426,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 15,
@@ -7287,7 +7292,7 @@
       "Name": "Banker",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3119
     },
     {
       "ID": "Bestest_Friend",
@@ -7295,7 +7300,7 @@
       "Name": "Bestest Friend",
       "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3787
     },
     {
       "ID": "Chef_Cook",
@@ -7303,7 +7308,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "Chit_Chatter",
@@ -7319,7 +7324,7 @@
       "Name": "Constructor",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4084
     },
     {
       "ID": "Duty_Bound",
@@ -7327,7 +7332,7 @@
       "Name": "Duty Bound",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Gardener",
@@ -7335,7 +7340,7 @@
       "Name": "Gardener",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2451
     },
     {
       "ID": "Generous",
@@ -7343,7 +7348,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "Goofys_Investor",
@@ -7351,7 +7356,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 73,
       "XP": 75,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5421
     },
     {
       "ID": "Miner",
@@ -7367,7 +7372,7 @@
       "Name": "Photographer",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5272
     },
     {
       "ID": "Renovator",
@@ -7375,7 +7380,7 @@
       "Name": "Renovator",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3936
     },
     {
       "ID": "Thorn_Cleaner",
@@ -7391,14 +7396,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4901
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7421,
+      "Progressed": 7426,
       "Completed": 179
     }
   ],
@@ -7406,8 +7411,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-25T18:58:31.7151399+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:03:11.8614476+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:03:46.3961709+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:43.0939004+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:58:22.6464199+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:03:11.8614878+00:00"
+  "LastUpdate_Ratings": "2023-07-25T22:59:13.1920628+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:03:46.3962222+00:00"
 }

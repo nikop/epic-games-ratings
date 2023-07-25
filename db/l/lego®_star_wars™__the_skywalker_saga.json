@@ -2798,7 +2798,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49959,
+  "EOS_Progressed": 49960,
   "EOS_Completed": 212,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 2,
@@ -9373,6 +9373,11 @@
       "Time": "2023-07-25T20:02:07.2854945+00:00",
       "NumProgressed": 49959,
       "NumCompleted": 212
+    },
+    {
+      "Time": "2023-07-25T23:03:02.7696025+00:00",
+      "NumProgressed": 49960,
+      "NumCompleted": 212
     }
   ],
   "TotalAchievements": 45,
@@ -9520,7 +9525,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23980
+      "UsersEstimate": 23981
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9624,7 +9629,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28976
+      "UsersEstimate": 28977
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -9648,7 +9653,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48460
+      "UsersEstimate": 48461
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9688,7 +9693,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35471
+      "UsersEstimate": 35472
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -9720,7 +9725,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26478
+      "UsersEstimate": 26479
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -9736,22 +9741,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35970
+      "UsersEstimate": 35971
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49959,
+      "Progressed": 49960,
       "Completed": 212
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-24T15:01:19.3852336+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:02:09.9749432+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:03:02.769602+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.7152364+00:00",
-  "LastUpdate_Ratings": "2023-07-25T22:00:28.6495235+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:02:09.9750238+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:02:24.8014212+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:03:02.7699667+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 480)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 23.00% | ~670 |
-| Sputnik 2049 | 20.00% | ~582 |
+| Sputnik 2049 | 20.00% | ~583 |
 | Infinite Growth... | 19.00% | ~553 |
 | Without Breaking Some Eggs... | 18.00% | ~524 |
 | Space Society | 13.00% | ~379 |
@@ -27,10 +27,10 @@ Rating: 4.55 (Ranked 480)
 | Sightseeing | 5.00% | ~146 |
 | Necessary Enhancement | 5.00% | ~146 |
 | Convenient Transport | 5.00% | ~146 |
-| Oats | 4.00% | ~116 |
-| Access Granted | 4.00% | ~116 |
-| All in Good Health | 4.00% | ~116 |
-| From the Past | 4.00% | ~116 |
+| Oats | 4.00% | ~117 |
+| Access Granted | 4.00% | ~117 |
+| All in Good Health | 4.00% | ~117 |
+| From the Past | 4.00% | ~117 |
 | What They Hide From Us | 3.00% | ~87 |
 | ...  in a finite world | 3.00% | ~87 |
 | Sustainable Energy | 3.00% | ~87 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 480)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,912 (Ranked 156)  
+Progressed: 2,913 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 2,884 | 0 |
 | 2023-07-23 | 2,897 | 0 |
 | 2023-07-24 | 2,907 | 0 |
-| 2023-07-25 | 2,912 | 0 |
+| 2023-07-25 | 2,913 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

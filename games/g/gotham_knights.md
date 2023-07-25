@@ -10,19 +10,19 @@ Rating: 4.18 (Ranked 858)
 | To the Victor Go the Spoils | 4.00% | ~2,695 |
 | Knighthood | 4.00% | ~2,695 |
 | Loose Ends | 4.00% | ~2,695 |
-| The Batman Family | 3.00% | ~2,021 |
-| Protector of Gotham | 3.00% | ~2,021 |
-| Something in the Clay | 3.00% | ~2,021 |
-| The Show Mud Go On | 3.00% | ~2,021 |
-| Quartzer Life Crisis | 3.00% | ~2,021 |
-| Snow Problem | 3.00% | ~2,021 |
-| Get ReQ'd | 3.00% | ~2,021 |
-| Working Hard or Harley Working? | 3.00% | ~2,021 |
-| Unstoppable Force | 3.00% | ~2,021 |
-| Whispered Words | 3.00% | ~2,021 |
-| Lock and Key | 3.00% | ~2,021 |
-| Bad Apples in Every Orchard | 3.00% | ~2,021 |
-| From Inside Gotham's Walls | 3.00% | ~2,021 |
+| The Batman Family | 3.00% | ~2,022 |
+| Protector of Gotham | 3.00% | ~2,022 |
+| Something in the Clay | 3.00% | ~2,022 |
+| The Show Mud Go On | 3.00% | ~2,022 |
+| Quartzer Life Crisis | 3.00% | ~2,022 |
+| Snow Problem | 3.00% | ~2,022 |
+| Get ReQ'd | 3.00% | ~2,022 |
+| Working Hard or Harley Working? | 3.00% | ~2,022 |
+| Unstoppable Force | 3.00% | ~2,022 |
+| Whispered Words | 3.00% | ~2,022 |
+| Lock and Key | 3.00% | ~2,022 |
+| Bad Apples in Every Orchard | 3.00% | ~2,022 |
+| From Inside Gotham's Walls | 3.00% | ~2,022 |
 | End of an Era | 2.00% | ~1,348 |
 | In Your Element | 2.00% | ~1,348 |
 | Rock and a Hard Place | 2.00% | ~1,348 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,382 (Ranked 78)  
+Progressed: 67,384 (Ranked 78)  
 Completed: 104 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 104 (0.15%) (Ranked 177)
 | 2023-07-22 | 67,285 | 104 |
 | 2023-07-23 | 67,318 | 104 |
 | 2023-07-24 | 67,351 | 104 |
-| 2023-07-25 | 67,382 | 104 |
+| 2023-07-25 | 67,384 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,462  (Ranked 101)  
 Sum: 4,092 (Ranked 139)  

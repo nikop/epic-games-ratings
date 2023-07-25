@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1206,6 +1206,11 @@
       "Time": "2023-07-25T17:07:38.3609984+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-25T23:06:17.6121119+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1249,7 +1254,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1361,7 +1366,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1383,9 +1388,9 @@
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_maimedHero",
@@ -1433,7 +1438,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "completedStory_cvawn",
@@ -1487,9 +1492,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 360
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1521,7 +1526,7 @@
       "Name": "Core Failure",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1664,15 +1669,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:05:01.2060808+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:06:17.6121115+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-25T22:00:27.9490763+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:05:01.2061374+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:02:23.61951+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:06:17.6122244+00:00"
 }

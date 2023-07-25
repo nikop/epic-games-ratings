@@ -2204,9 +2204,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67382,
+  "EOS_Progressed": 67384,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10844,6 +10844,11 @@
       "Time": "2023-07-25T22:04:31.6223723+00:00",
       "NumProgressed": 67382,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-25T23:05:37.1221107+00:00",
+      "NumProgressed": 67384,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -10903,7 +10908,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -10951,7 +10956,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "CLAYFACE_1",
@@ -10959,7 +10964,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "CLAYFACE_2",
@@ -10967,7 +10972,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "CLAYFACE_3",
@@ -11087,7 +11092,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "FREEZE_2",
@@ -11095,7 +11100,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "FREEZE_3",
@@ -11167,7 +11172,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "HARLEY_3",
@@ -11175,7 +11180,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "HARLEY_4",
@@ -11223,7 +11228,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -11255,7 +11260,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "MYSTERY_03",
@@ -11263,7 +11268,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "MYSTERY_04",
@@ -11271,7 +11276,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "MYSTERY_05",
@@ -11279,7 +11284,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "MYSTERY_06",
@@ -11342,13 +11347,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67382,
+      "Progressed": 67384,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37662,
+      "Progressed": 37664,
       "Completed": 2654
     }
   ],
@@ -11356,8 +11361,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-25T19:00:22.4030469+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:04:31.6223718+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:05:37.1221102+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.6510385+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:59:51.9429057+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:04:31.6224718+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:01:28.5699824+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:05:37.1222172+00:00"
 }

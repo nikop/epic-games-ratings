@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5284,9 +5284,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215515,
+  "EOS_Progressed": 215521,
   "EOS_Completed": 2110,
-  "EOS_NewPlayers": 2316,
+  "EOS_NewPlayers": 2312,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15609,6 +15609,11 @@
       "Time": "2023-07-25T22:06:26.0489327+00:00",
       "NumProgressed": 215515,
       "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-07-25T23:08:16.970329+00:00",
+      "NumProgressed": 215521,
+      "NumCompleted": 2110
     }
   ],
   "TotalAchievements": 512,
@@ -16250,9 +16255,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1154",
@@ -16298,9 +16303,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1273
     },
     {
       "ID": "objective_completed_1164",
@@ -17050,9 +17055,9 @@
       "ID": "objective_completed_232",
       "SetID": "cc37lbc",
       "Name": "Modron Assistance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_233",
@@ -17290,17 +17295,17 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_35",
@@ -19715,21 +19720,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181789,
-      "Completed": 2983
+      "Progressed": 181795,
+      "Completed": 2984
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215515,
+      "Progressed": 215521,
       "Completed": 2110
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:06:26.0489319+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:08:16.9703284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:58:25.0489719+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:06:26.0516944+00:00"
+  "LastUpdate_Ratings": "2023-07-25T22:59:16.7049993+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:08:16.973449+00:00"
 }

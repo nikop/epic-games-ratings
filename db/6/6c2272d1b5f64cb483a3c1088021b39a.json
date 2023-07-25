@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -2511,6 +2511,11 @@
       "Time": "2023-07-25T22:04:34.8229721+00:00",
       "NumProgressed": 837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T23:05:41.5347704+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2714,7 +2719,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "elite_deck_2",
@@ -2738,7 +2743,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "from_day_to_day_2",
@@ -2906,7 +2911,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "punctual_2",
@@ -3049,14 +3054,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-25T22:04:34.8229713+00:00",
+  "LastChanged_Achievements": "2023-07-25T23:05:41.5347699+00:00",
   "LastUpdate_AppInfo": "2023-07-25T03:57:19.8892517+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:57:21.7019222+00:00",
-  "LastUpdate_Achievements": "2023-07-25T22:04:34.8230534+00:00"
+  "LastUpdate_Ratings": "2023-07-25T22:57:43.6603508+00:00",
+  "LastUpdate_Achievements": "2023-07-25T23:05:41.5348535+00:00"
 }

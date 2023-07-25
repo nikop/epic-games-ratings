@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.90% | ~1,940 |
 | Supply Run | 0.80% | ~1,724 |
 | Rocky Reception | 0.80% | ~1,454 |
+| Vecna Lives! | 0.70% | ~1,273 |
 | Rock and Roll | 0.70% | ~1,273 |
-| Vecna Lives! | 0.60% | ~1,091 |
 | Flight of the Kindori Pod | 0.60% | ~1,091 |
 | Tall Tales | 0.50% | ~909 |
 | Wet Feet | 0.50% | ~1,078 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.40% | ~727 |
 | Upholding the Law | 0.30% | ~647 |
 | Thieves of the Coven | 0.30% | ~545 |
+| Speeds of Destruction | 0.30% | ~545 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | On the Hunt | 0.30% | ~647 |
 | A Demi-god's Defender | 0.30% | ~545 |
@@ -70,7 +71,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.20% | ~364 |
 | Slack-jawed Lorna | 0.20% | ~364 |
 | The Fairy Rings of Thither | 0.20% | ~364 |
-| Speeds of Destruction | 0.20% | ~364 |
 | Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Best Thay Ever | 0.20% | ~364 |
@@ -99,9 +99,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Werewolves in the Mist | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | Chatty Nobles | 0.20% | ~431 |
+| Modron Assistance | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
+| The Cursed Farmer | 0.20% | ~431 |
+| The Ring of Regeneration | 0.20% | ~431 |
 | The Crumbling Temple | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
@@ -231,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~216 |
 | Poor Fortune | 0.10% | ~216 |
 | Relentless Misfortune | 0.10% | ~216 |
-| Modron Assistance | 0.10% | ~216 |
 | Thine Bounty is Mine! | 0.10% | ~182 |
 | Haaave You Met Asmodeus? | 0.10% | ~216 |
 | Domesticated Owlbears | 0.10% | ~216 |
@@ -257,8 +259,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~216 |
 | Our Time To Shine | 0.10% | ~216 |
 | Review by the Blackstaff | 0.10% | ~182 |
-| The Cursed Farmer | 0.10% | ~216 |
-| The Ring of Regeneration | 0.10% | ~216 |
 | The Death Curse | 0.10% | ~216 |
 | Treasure Hunters | 0.10% | ~216 |
 | The Guardian of Orolunga | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,515 (Ranked 53)  
+Progressed: 215,521 (Ranked 53)  
 Completed: 2,110 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 2,110 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,515 | 2,110 |
+| 2023-07-25 | 215,521 | 2,110 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

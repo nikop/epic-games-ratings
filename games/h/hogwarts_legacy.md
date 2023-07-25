@@ -6,7 +6,7 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,627 |
-| First Class Student | 11.00% | ~31,741 |
+| First Class Student | 11.00% | ~31,742 |
 | A Keen Sense of Spell | 10.00% | ~28,856 |
 | Troll with the Punches | 10.00% | ~28,856 |
 | Grappling with a Graphorn | 9.00% | ~25,970 |
@@ -23,9 +23,9 @@ Rating: 4.77 (Ranked 109)
 | A Sallow Grave | 7.00% | ~20,199 |
 | The Spell Master | 7.00% | ~20,199 |
 | Rising From the Ashes | 7.00% | ~20,199 |
-| The Avenging Gazelle | 6.00% | ~17,313 |
-| Beast Friends | 6.00% | ~17,313 |
-| Flight the Good Flight | 6.00% | ~17,313 |
+| The Avenging Gazelle | 6.00% | ~17,314 |
+| Beast Friends | 6.00% | ~17,314 |
+| Flight the Good Flight | 6.00% | ~17,314 |
 | The Seeker of Knowledge | 5.00% | ~14,428 |
 | The Root of the Problem | 5.00% | ~14,428 |
 | Third Time's a Charm | 5.00% | ~14,428 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,557 (Ranked 42)  
+Progressed: 288,561 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
-| 2023-07-25 | 288,557 | 434 |
+| 2023-07-25 | 288,561 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
-Sum: 39,883 (Ranked 30)  
+Sum: 39,887 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 874 |
 | This game is Highly Recommended | 851 |
 | This game has Quickly Understood Controls | 809 |
-| This game has Beautiful Visuals | 748 |
+| This game has Beautiful Visuals | 752 |
 | This game has a Creative Community | 565 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -292,4 +292,4 @@ Diff (max vs sum): -13
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
-| 2023-07-25 | 4.77 | 21,271 | 39,883 |
+| 2023-07-25 | 4.77 | 21,271 | 39,887 |
