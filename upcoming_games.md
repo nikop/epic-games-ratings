@@ -1,9 +1,9 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |
+| [Remnant II](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 27,152 | - | - |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
-| [Remnant II](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 26,942 | - | - |
 | [Monster Boy and the Cursed Kingdom](games/2/2573986ce0c3433facd6b5a3fec5d950.md) | 2023-07-26 | - |  | - | - |
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
 | [Ratchet & Clank: Rift Apart Pre-Purchase](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | - | - |
@@ -19,7 +19,6 @@
 | [Secret Agent 001](games/3/3376364c2a914c1fbde839f5cf8824f6.md) | 2023-07-29 | - |  | - | - |
 | [Hombre](games/1/12351c3d2ae8457684e4dbfb93c04a5c.md) | 2023-07-31 | - |  | - | - |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-07-31 | - |  | - | - |
-| [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-07-31 | - |  | - | - |
 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2023-07-31 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 0 | - | - |

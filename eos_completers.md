@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.38% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.34% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
@@ -23,8 +23,8 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.42% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.19% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.79% |
+| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.14% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.78% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 8.33% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -32,13 +32,13 @@
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.96% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.80% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.39% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.36% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -73,7 +73,7 @@
 | 71 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 74 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.44% |
+| 74 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.43% |
 | 75 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
 | 76 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 77 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
@@ -126,9 +126,9 @@
 | 124 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 125 | [Them and Us](games/t/them_and_us.md) | 0.56% |
-| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.55% |
 | 127 | [Train Valley](games/t/train_valley.md) | 0.55% |
-| 129 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
+| 128 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.54% |
+| 128 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 130 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
 | 131 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.51% |
 | 131 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
