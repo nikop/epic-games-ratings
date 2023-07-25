@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.47% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.43% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
@@ -31,14 +31,14 @@
 | 29 | [Smelter](games/s/smelter.md) | 8.11% |
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 32 | [Scorn](games/s/scorn.md) | 6.97% |
+| 32 | [Scorn](games/s/scorn.md) | 6.96% |
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.83% |
 | 34 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.45% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.42% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -59,8 +59,8 @@
 | 57 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.27% |
 | 59 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 60 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.12% |
-| 61 | [The Complex](games/t/the_complex.md) | 3.05% |
+| 60 | [The Complex](games/t/the_complex.md) | 3.05% |
+| 61 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.03% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.99% |
 | 63 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.95% |
 | 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -107,7 +107,7 @@
 | 105 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 106 | [Adios](games/a/adios.md) | 0.98% |
 | 106 | [Sable](games/s/sable.md) | 0.98% |
-| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
+| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
 | 109 | [Hades](games/h/hades.md) | 0.89% |
 | 110 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 111 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
