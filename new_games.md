@@ -5,14 +5,14 @@
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-07-25 | - |  | - | - |
-| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 33,052 | - | 0 |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 33,872 | - | 0 |
 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 2023-07-25 | - |  | - | - |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | 0 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | - |  | - | - |
 | [Baby Adventure](games/a/abaa857d71214deb8f0d2a7eb1743006.md) | 2023-07-24 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | 0 |
 | [City Car Parking Simulator](games/8/81965a5531ee48309b6da807d7fed155.md) | 2023-07-23 | - |  | - | - |
-| [Police Car Escape Simulator](games/3/36669b93a631455abfc52bbed2c84f8d.md) | 2023-07-23 | - |  | - | - |
+| [Police Car Escape Simulator](games/3/36669b93a631455abfc52bbed2c84f8d.md) | 2023-07-23 | - |  | - | 0 |
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | 0 |
 | [Precious Stones](games/p/precious_stones.md) | 2023-07-23 | - |  | - | - |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-07-23 | 13 (1,000 XP) | 1 | - | - |
@@ -22,9 +22,9 @@
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [Kula](games/1/1a1f669b43f94c33b91f9db5ff063ba1.md) | 2023-07-20 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 148 | - | 0 |
-| [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 6 | - | - |
+| [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 7 | - | - |
 | [Elemental War 2](games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 2023-07-20 | 42 (1,000 XP) | 5 | - | - |
-| [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2023-07-20 | 41 (1,000 XP) | 12 | - | 0 |
+| [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2023-07-20 | 41 (1,000 XP) | 13 | - | 0 |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-07-20 | - |  | - | - |
 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2023-07-20 | - |  | 4.25 | 62 |
 | [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | 44 (1,000 XP) | 82 | - | 0 |
@@ -64,7 +64,7 @@
 | [The Legend of Heroes: Trails into Reverie](games/t/the_legend_of_heroes__trails_into_reverie.md) | 2023-07-07 | - |  | - | 0 |
 | [Play with Me - Escape Room](games/c/c3e57c64bb4a468f8261f4038f3e903e.md) | 2023-07-06 | - |  | - | 0 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 2023-07-06 | 42 (1,000 XP) | 15 | - | 0 |
-| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 162 | - | 0 |
+| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 164 | - | 0 |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-07-05 | - |  | - | 0 |
 | [Yomi 2](games/y/yomi_2.md) | 2023-07-05 | - |  | - | - |
 | [RedNeck Bowl Games](games/5/5a082af4cd244192bd5fefd7433b349a.md) | 2023-07-05 | - |  | - | - |
@@ -101,7 +101,7 @@
 | [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,678 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,679 | - | 0 |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 2023-06-29 | - |  | 4.32 | 57 |

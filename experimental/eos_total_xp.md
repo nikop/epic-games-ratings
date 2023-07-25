@@ -473,6 +473,7 @@
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
+| [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 30 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
