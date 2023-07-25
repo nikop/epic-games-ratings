@@ -17,7 +17,7 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.27% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.25% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.11% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.06% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -84,11 +84,11 @@
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 83 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 84 | [Night Book](games/n/night_book.md) | 1.91% |
-| 85 | [Frogun](games/f/frogun.md) | 1.88% |
+| 85 | [Frogun](games/f/frogun.md) | 1.87% |
 | 86 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 87 | [Sifu](games/s/sifu.md) | 1.80% |
 | 88 | [Iron Danger](games/i/iron_danger.md) | 1.70% |
-| 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.68% |
+| 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.67% |
 | 90 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 91 | [Somerville](games/s/somerville.md) | 1.62% |
 | 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.55% |
@@ -122,8 +122,8 @@
 | 120 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 121 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.62% |
 | 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 122 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.58% |
-| 124 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 123 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 125 | [Them and Us](games/t/them_and_us.md) | 0.56% |
 | 127 | [Train Valley](games/t/train_valley.md) | 0.55% |
