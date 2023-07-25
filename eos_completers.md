@@ -11,13 +11,13 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.25% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.49% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.25% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -74,7 +74,7 @@
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.42% |
+| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.41% |
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
@@ -127,10 +127,10 @@
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 125 | [Them and Us](games/t/them_and_us.md) | 0.56% |
 | 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.54% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 127 | [Train Valley](games/t/train_valley.md) | 0.54% |
-| 131 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.53% |
+| 130 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
 | 132 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.51% |
 | 132 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 134 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
