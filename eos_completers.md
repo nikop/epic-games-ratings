@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.20% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.17% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -49,7 +49,7 @@
 | 47 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.51% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.90% |
-| 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
+| 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.69% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 53 | [ZZT!](games/z/zzt!.md) | 3.55% |
@@ -96,7 +96,7 @@
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 95 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 96 | [Five Dates](games/f/five_dates.md) | 1.43% |
-| 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.43% |
+| 97 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.42% |
 | 98 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 99 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
 | 100 | [Chorus](games/c/chorus.md) | 1.22% |

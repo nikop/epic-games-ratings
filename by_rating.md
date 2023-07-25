@@ -95,9 +95,9 @@
 | 91 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
 | 91 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 506 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 739 | 159 |
-| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,363 | 125 |
+| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,365 | 125 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,940 | 56 |
-| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 215 |
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 382 | 214 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 506 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,545 | 36 |
@@ -153,7 +153,7 @@
 | 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 506 |
 | 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 506 |
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 506 |
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 783 | 154 |
+| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 784 | 154 |
 | 142 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 506 |
 | 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 631 | 171 |
 | 142 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 506 |
@@ -372,7 +372,7 @@
 | 367 | [Brawlhalla](games/b/brawlhalla.md) | 4.61 | 221 | 256 |
 | 367 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,402 | 74 |
 | 367 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 506 |
-| 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 381 | 214 |
+| 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 381 | 215 |
 | 367 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 74 | 367 |
 | 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 228 |
 | 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 41,597 | 12 |
@@ -623,7 +623,7 @@
 | 609 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 506 |
 | 609 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 285 | 236 |
 | 623 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 448 |
-| 623 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 239 | 250 |
+| 623 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 240 | 250 |
 | 623 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 322 |
 | 623 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 779 | 155 |
 | 623 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 506 |
@@ -819,18 +819,18 @@
 | 810 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 506 |
 | 818 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 506 |
 | 818 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 455 |
-| 818 | [Flatout](games/f/flatout.md) | 4.24 | 0 | 506 |
 | 818 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 506 |
 | 818 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 521 | 192 |
 | 818 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 410 |
 | 818 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 506 |
 | 818 | [Train Valley 2](games/t/train_valley_2.md) | 4.24 | 142 | 296 |
 | 818 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 477 |
-| 827 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 506 |
-| 827 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 506 |
-| 827 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
-| 827 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 506 |
-| 827 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.23 | 0 | 506 |
+| 826 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 506 |
+| 826 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 506 |
+| 826 | [Flatout](games/f/flatout.md) | 4.23 | 0 | 506 |
+| 826 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
+| 826 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 506 |
+| 826 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.23 | 0 | 506 |
 | 832 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
 | 832 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 506 |
 | 832 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 506 |
