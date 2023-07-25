@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15706,
+  "EOS_Progressed": 15707,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7637,6 +7637,11 @@
       "Time": "2023-07-25T09:04:56.0993755+00:00",
       "NumProgressed": 15706,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-25T11:04:44.7679683+00:00",
+      "NumProgressed": 15707,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7744,7 +7749,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8010
+      "UsersEstimate": 8011
     },
     {
       "ID": "Sole_Survivor",
@@ -7752,7 +7757,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "Still_Burning",
@@ -7775,15 +7780,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15706,
+      "Progressed": 15707,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:04:28.4842472+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:04:44.7679678+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.8297422+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:59:30.58862+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:04:28.4842907+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:59:52.6418113+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:04:44.7680112+00:00"
 }

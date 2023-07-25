@@ -4,23 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 3.00% | ~865 |
-| Expanding Horizons | 2.00% | ~577 |
-| Quest for Survival | 2.00% | ~577 |
-| Not Your Average Trait | 2.00% | ~577 |
-| Trait Chaser | 2.00% | ~577 |
-| Duality | 1.00% | ~288 |
-| Boss'n Up | 1.00% | ~288 |
-| Make Some Room | 1.00% | ~288 |
-| Top Performer | 0.90% | ~260 |
-| Good, But Could Be Better! | 0.90% | ~260 |
-| Not So Special Now | 0.70% | ~202 |
-| Almost There | 0.60% | ~173 |
-| Was This Supposed To Happen? | 0.40% | ~115 |
-| The Killing Jar | 0.30% | ~87 |
+| First of Many | 3.00% | ~874 |
+| Expanding Horizons | 2.00% | ~583 |
+| Quest for Survival | 2.00% | ~583 |
+| Boss'n Up | 2.00% | ~583 |
+| Not Your Average Trait | 2.00% | ~583 |
+| Trait Chaser | 2.00% | ~583 |
+| Duality | 1.00% | ~291 |
+| Top Performer | 1.00% | ~291 |
+| Make Some Room | 1.00% | ~291 |
+| Good, But Could Be Better! | 1.00% | ~291 |
+| Not So Special Now | 0.80% | ~233 |
+| Almost There | 0.70% | ~204 |
+| Was This Supposed To Happen? | 0.50% | ~146 |
+| The Killing Jar | 0.40% | ~117 |
 | Familiar Face | 0.30% | ~87 |
 | Only Human | 0.20% | ~58 |
 | Gleaming the Cube | 0.20% | ~58 |
+| Traitor | 0.20% | ~58 |
 | Not a Janitor | 0.20% | ~58 |
 | Equal Measures | 0.20% | ~58 |
 | Blue Goddess | 0.20% | ~58 |
@@ -31,7 +32,6 @@
 | Am I Seeing This? | 0.10% | ~29 |
 | Ghost in the Machine | 0.10% | ~29 |
 | Chaos | 0.10% | ~29 |
-| Traitor | 0.10% | ~29 |
 | Forever is a Long Time Coming | 0.10% | ~29 |
 | Power Surge | 0.10% | ~29 |
 | The God Gambit | 0.10% | ~29 |
@@ -55,7 +55,7 @@
 | Maxed Out! | 0.10% | ~29 |
 | Transmutate | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,840 (Ranked 97)  
+Progressed: 29,141 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 7,481 | 0 |
 | 2023-07-23 | 17,937 | 0 |
 | 2023-07-24 | 26,093 | 0 |
-| 2023-07-25 | 28,840 | 0 |
+| 2023-07-25 | 29,141 | 0 |

@@ -19,6 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.40% | ~861 |
 | Seeds of Destruction | 0.40% | ~726 |
 | Vecna Loots! | 0.40% | ~726 |
+| Return to the Tomb | 0.40% | ~726 |
+| The Champion's Guide to Wildspace | 0.40% | ~726 |
 | Topolah's Tower | 0.40% | ~726 |
 | Pros and CONs | 0.30% | ~646 |
 | The Witchlight Carnival | 0.30% | ~545 |
@@ -27,17 +29,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~646 |
-| Return to the Tomb | 0.30% | ~545 |
 | Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
+| Terror in the Dark | 0.30% | ~646 |
+| Building Trust | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
-| The Champion's Guide to Wildspace | 0.30% | ~545 |
 | Not That Type of Helm! | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
 | Goblin Halls: the Next Generation | 0.30% | ~545 |
 | Bazaar Companions | 0.30% | ~545 |
 | Bahamut's Army | 0.30% | ~545 |
 | Krux's Speed Run | 0.30% | ~545 |
+| Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~363 |
 | Thieves of the Coven | 0.20% | ~363 |
@@ -58,11 +61,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~363 |
 | Beast Mode | 0.20% | ~431 |
 | The Forbidden City | 0.20% | ~431 |
-| Terror in the Dark | 0.20% | ~431 |
 | Low Initiative | 0.20% | ~431 |
 | A Mysterious Summons | 0.20% | ~431 |
 | Street War | 0.20% | ~431 |
-| Building Trust | 0.20% | ~431 |
 | March of the Undead | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | No Time To Rest | 0.20% | ~431 |
@@ -83,17 +84,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~431 |
 | Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
-| Durable Deep | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
 | Willing to Sacrifice | 0.20% | ~363 |
 | Devilishly Cold | 0.20% | ~363 |
 | Tiny Treaty | 0.20% | ~363 |
+| All The World's A Stage | 0.20% | ~363 |
 | Luigi After Hours | 0.20% | ~363 |
 | Electric Mayhem | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
-| Animated Giff | 0.20% | ~363 |
 | Starving in the Jungle | 0.10% | ~215 |
 | Cold as Ice | 0.10% | ~182 |
 | Keep Your Friends Close | 0.10% | ~182 |
@@ -439,6 +439,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~182 |
 | Trench Coat Run | 0.10% | ~182 |
 | The Taunting Lord | 0.10% | ~182 |
+| Durable Deep | 0.10% | ~215 |
 | Lone Wolf Party | 0.10% | ~182 |
 | The Sibriex | 0.10% | ~182 |
 | The Archduke's Blessing | 0.10% | ~182 |
@@ -517,10 +518,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.10% | ~182 |
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
-| All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,333 (Ranked 53)  
-Completed: 2,096 (0.97%) (Ranked 108)  
+Progressed: 215,349 (Ranked 53)  
+Completed: 2,099 (0.97%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,096 (0.97%) (Ranked 108)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,333 | 2,096 |
+| 2023-07-25 | 215,349 | 2,099 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

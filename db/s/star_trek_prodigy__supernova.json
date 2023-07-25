@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:05:11.0073011+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:05:35.4734794+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:22.938118+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:58:16.2168251+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:05:11.007328+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:58:22.8034845+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:05:35.4735053+00:00"
 }

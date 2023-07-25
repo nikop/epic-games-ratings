@@ -6,13 +6,13 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,044 |
-| One HIT wonder | 35.00% | ~369 |
-| Wanderer | 35.00% | ~369 |
+| Atom Agent | 99.00% | ~1,045 |
+| One HIT wonder | 35.00% | ~370 |
+| Wanderer | 35.00% | ~370 |
 | One shot, one kill | 29.00% | ~306 |
 | Traveler | 25.00% | ~264 |
 | Head Burst | 20.00% | ~211 |
-| Grave Robber | 19.00% | ~200 |
+| Grave Robber | 19.00% | ~201 |
 | Explorer | 18.00% | ~190 |
 | Paranoia | 16.00% | ~169 |
 | Double agent | 15.00% | ~158 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055 (Ranked 191)  
+Progressed: 1,056 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 1,039 | 0 |
 | 2023-07-23 | 1,045 | 0 |
 | 2023-07-24 | 1,052 | 0 |
-| 2023-07-25 | 1,055 | 0 |
+| 2023-07-25 | 1,056 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 402)  
 Sum: 49 (Ranked 447)  

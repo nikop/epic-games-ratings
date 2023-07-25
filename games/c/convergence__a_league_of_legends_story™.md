@@ -23,12 +23,12 @@
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | The Family Fortune | 15.00% | ~118 |
+| Treasure Trove | 14.00% | ~110 |
 | Like Clockwork | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | Cartographer | 14.00% | ~110 |
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |
-| Treasure Trove | 13.00% | ~102 |
 | Right On Time | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |

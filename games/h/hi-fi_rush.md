@@ -51,6 +51,7 @@ Rating: 4.87 (Ranked 24)
 | Choose your own adventure | 0.30% | ~6 |
 | Easy Listening | 0.20% | ~7 |
 | I'm not done with you yet | 0.20% | ~7 |
+| You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | Problem solved... wait, what? | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
@@ -63,7 +64,6 @@ Rating: 4.87 (Ranked 24)
 | This was... not what I expected. | 0.10% | ~4 |
 | Have we met before? | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
-| You ever parry a volcano? | 0.10% | ~4 |
 | I am a good person who likes to help | 0.10% | ~4 |
 | With our powers combined…and to the rhythm… | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,563 (Ranked 145)  
+Progressed: 3,564 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-22 | 3,516 | 6 |
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
-| 2023-07-25 | 3,563 | 6 |
+| 2023-07-25 | 3,564 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

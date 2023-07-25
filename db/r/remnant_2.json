@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 28840,
+  "EOS_Progressed": 29141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28839,
+  "EOS_NewPlayers": 29140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-07-25T10:04:52.3077633+00:00",
       "NumProgressed": 28840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T11:05:13.3569526+00:00",
+      "NumProgressed": 29141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -457,7 +462,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 583
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -511,9 +516,9 @@
       "ID": "Defeat_Faelin_Faerin",
       "SetID": "bkp3b1a",
       "Name": "Traitor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -535,9 +540,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 117
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -559,9 +564,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 233
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -577,7 +582,7 @@
       "Name": "Quest for Survival",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 583
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -641,7 +646,7 @@
       "Name": "First of Many",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 874
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -649,15 +654,15 @@
       "Name": "Duality",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 291
     },
     {
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 291
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -679,17 +684,17 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 146
     },
     {
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 583
     },
     {
       "ID": "Obtain_Guns_A",
@@ -761,7 +766,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 583
     },
     {
       "ID": "Obtain_Traits_B",
@@ -799,9 +804,9 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 204
     },
     {
       "ID": "Upgrade_Relic",
@@ -809,15 +814,15 @@
       "Name": "Make Some Room",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 291
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 291
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -833,7 +838,7 @@
       "Name": "Trait Chaser",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 583
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -856,13 +861,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 28840,
+      "Progressed": 29141,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:04:52.3077626+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:05:13.3569518+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.8593105+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:00:37.1844877+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:04:52.3078027+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:01:14.7341791+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:05:13.3569868+00:00"
 }

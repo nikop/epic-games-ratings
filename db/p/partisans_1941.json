@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1685,6 +1685,11 @@
       "Time": "2023-07-25T10:03:36.2069124+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T11:03:40.6767051+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1712,7 +1717,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Big_Bertha",
@@ -1816,7 +1821,7 @@
       "Name": "Tough as Nails",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Heroes_never_die",
@@ -1912,7 +1917,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "We_were_not_here",
@@ -1935,15 +1940,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:03:36.2069119+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:03:40.6767046+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:59:41.7064879+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:03:36.206935+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:00:04.5249868+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:03:40.6767268+00:00"
 }

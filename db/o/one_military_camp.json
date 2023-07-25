@@ -466,9 +466,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -578,9 +578,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -665,8 +665,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:03:55.4344755+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:04:03.733765+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:59:18.2048623+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:03:55.4345103+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:59:35.754413+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:04:03.7337974+00:00"
 }

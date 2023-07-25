@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215333,
-  "EOS_Completed": 2096,
-  "EOS_NewPlayers": 2345,
-  "EOS_NewCompleters": 38,
+  "EOS_Progressed": 215349,
+  "EOS_Completed": 2099,
+  "EOS_NewPlayers": 2351,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15531,6 +15531,11 @@
       "Time": "2023-07-25T10:06:34.5271031+00:00",
       "NumProgressed": 215333,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-07-25T11:07:15.570543+00:00",
+      "NumProgressed": 215349,
+      "NumCompleted": 2099
     }
   ],
   "TotalAchievements": 512,
@@ -16276,9 +16281,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1174",
@@ -16660,9 +16665,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_150",
@@ -16764,9 +16769,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_17",
@@ -18828,9 +18833,9 @@
       "ID": "objective_completed_81",
       "SetID": "cc37lbc",
       "Name": "Durable Deep",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_810",
@@ -19500,9 +19505,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1220",
@@ -19524,9 +19529,9 @@
       "ID": "objective_completed_1332",
       "SetID": "415jc5c",
       "Name": "All The World\u0027s A Stage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_568",
@@ -19628,30 +19633,30 @@
       "ID": "objective_completed_1392",
       "SetID": "415jc5c",
       "Name": "Animated Giff",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181607,
-      "Completed": 2950
+      "Progressed": 181623,
+      "Completed": 2956
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215333,
-      "Completed": 2096
+      "Progressed": 215349,
+      "Completed": 2099
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:06:34.5271027+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:07:15.5705425+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:58:41.2545713+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:06:34.5293983+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:58:51.5211127+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:07:15.5729304+00:00"
 }

@@ -7,24 +7,24 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.20% | ~6 |
+| Not So Fast... | 0.20% | ~6 |
+| Executioner | 0.20% | ~6 |
+| An Ill Omen | 0.20% | ~6 |
+| Bloodless | 0.20% | ~6 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |
 | Hold Your Ground | 0.10% | ~3 |
-| Not So Fast... | 0.10% | ~3 |
 | Blood for the Blood God! | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
-| Executioner | 0.10% | ~3 |
 | Friendly Fire | 0.10% | ~3 |
 | Watch Where You Step... | 0.10% | ~3 |
 | Purging Spree | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
-| An Ill Omen | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
 | Nemesis Master | 0.10% | ~3 |
 | Gunmaster | 0.10% | ~3 |
 | Efficient Killer | 0.10% | ~3 |
-| Bloodless | 0.10% | ~3 |
 | Just a Scratch | 0.10% | ~3 |
 | A Foul Creche | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,025 (Ranked 153)  
+Progressed: 3,026 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
 | 2023-07-24 | 3,024 | 0 |
-| 2023-07-25 | 3,025 | 0 |
+| 2023-07-25 | 3,026 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  

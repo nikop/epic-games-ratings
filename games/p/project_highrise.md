@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~146 |
-| Starting Skyward | 52.00% | ~133 |
-| Grime is Not Good | 45.00% | ~115 |
-| Floor Galore | 38.00% | ~97 |
-| Campaign Launch | 38.00% | ~97 |
+| Starting Skyward | 51.00% | ~131 |
+| Grime is Not Good | 45.00% | ~116 |
+| Floor Galore | 37.00% | ~95 |
+| Campaign Launch | 37.00% | ~95 |
 | Dinner Dash | 37.00% | ~95 |
 | Need a Consult | 34.00% | ~87 |
 | It's Technical | 34.00% | ~87 |
-| Upgrade Unlock | 33.00% | ~84 |
+| Upgrade Unlock | 33.00% | ~85 |
 | Delegate Maintenance | 32.00% | ~82 |
 | Proper Walls | 30.00% | ~77 |
 | Destination Destiny | 27.00% | ~69 |
@@ -23,18 +23,18 @@
 | Smooth Service | 23.00% | ~59 |
 | Lux Living | 21.00% | ~54 |
 | Leveled Up Shops | 21.00% | ~54 |
-| Don't Feel a Loan | 20.00% | ~51 |
 | People Mover | 20.00% | ~51 |
-| Emporium Empire | 20.00% | ~51 |
-| We Don't Need No Education | 20.00% | ~51 |
-| Get Electrified | 20.00% | ~51 |
+| Don't Feel a Loan | 19.00% | ~49 |
+| Emporium Empire | 19.00% | ~49 |
+| We Don't Need No Education | 19.00% | ~49 |
+| Get Electrified | 19.00% | ~49 |
 | Artfully Done | 18.00% | ~46 |
 | Rehab Expert | 18.00% | ~46 |
 | Tasty Profits | 18.00% | ~46 |
 | Under One Roof | 16.00% | ~41 |
 | Established Fame | 16.00% | ~41 |
 | Cashflow Chief | 16.00% | ~41 |
-| Terrifically Trashed | 15.00% | ~38 |
+| Terrifically Trashed | 15.00% | ~39 |
 | Smooth Operator | 14.00% | ~36 |
 | Starred Dining | 14.00% | ~36 |
 | Boutique Benefits | 14.00% | ~36 |
@@ -45,10 +45,10 @@
 | Plaza Plan | 9.00% | ~23 |
 | Refined Palates | 9.00% | ~23 |
 | Phoning It In | 9.00% | ~23 |
-| First 100 Days | 8.00% | ~20 |
-| Aestheticly Pleased | 8.00% | ~20 |
-| Meet Me at HQ | 8.00% | ~20 |
-| Revenue Royalty | 8.00% | ~20 |
+| First 100 Days | 8.00% | ~21 |
+| Aestheticly Pleased | 8.00% | ~21 |
+| Meet Me at HQ | 8.00% | ~21 |
+| Revenue Royalty | 8.00% | ~21 |
 | Careful Constructor | 7.00% | ~18 |
 | Sky High Stature | 7.00% | ~18 |
 | Maximum Reuse | 7.00% | ~18 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256 (Ranked 258)  
+Progressed: 257 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 246 | 0 |
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
-| 2023-07-25 | 256 | 0 |
+| 2023-07-25 | 257 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

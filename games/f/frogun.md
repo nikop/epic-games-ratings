@@ -15,7 +15,7 @@
 | Prickly situation handler | 34.00% | ~72 |
 | Hat lover | 32.00% | ~68 |
 | Perfectionist | 31.00% | ~66 |
-| Protected | 29.00% | ~62 |
+| Protected | 30.00% | ~64 |
 | Pragmatic | 23.00% | ~49 |
 | Calory burner | 17.00% | ~36 |
 | Pacifist | 15.00% | ~32 |

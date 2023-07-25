@@ -4,7 +4,7 @@
   "ProductSlug": "togges-17f696",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-07T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.2919031+00:00",
   "LastChanged": "2023-03-31T05:58:43.2919032+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.2535215+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:00:31.0507288+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:06:17.8512677+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:01:04.6277842+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:06:55.5675823+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "defense-grid",
   "Ranking_Rating": 623,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 82,
@@ -1649,11 +1649,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 1669,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2023-07-25T10:59:07.0610354+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1670,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1669,
-  "NumberOfAwardsMax": 239,
+  "NumberOfAwards": 1670,
+  "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1672,7 +1678,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12339,9 +12345,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
-  "LastChanged": "2023-07-24T04:59:45.5951277+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:06:33.8339596+00:00",
+  "LastChanged": "2023-07-25T10:59:07.0610352+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:07:14.5402043+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.26993+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:58:54.0646966+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:06:33.8340834+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:59:07.061036+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:07:14.5403272+00:00"
 }

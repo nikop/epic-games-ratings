@@ -612,7 +612,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3025,
+  "EOS_Progressed": 3026,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -2482,6 +2482,11 @@
       "Time": "2023-07-25T05:04:25.9354558+00:00",
       "NumProgressed": 3025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T11:04:06.7741251+00:00",
+      "NumProgressed": 3026,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2659,9 +2664,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Kills_Bleed",
@@ -2683,9 +2688,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Kills_Exterminator",
@@ -2739,9 +2744,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2827,9 +2832,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3036,21 +3041,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:03:58.0887081+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:04:06.7741246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:59:16.1653183+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:03:58.0887697+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:59:33.1615566+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:04:06.7742062+00:00"
 }

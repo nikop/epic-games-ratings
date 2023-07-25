@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58699,
+  "EOS_Progressed": 58701,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8987,6 +8987,11 @@
       "Time": "2023-07-25T10:03:59.5543454+00:00",
       "NumProgressed": 58699,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-25T11:04:08.545317+00:00",
+      "NumProgressed": 58701,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9398,7 +9403,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "52",
@@ -9533,21 +9538,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58699,
+      "Progressed": 58701,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22167,
+      "Progressed": 22169,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:03:59.5543449+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:04:08.5453165+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:58:12.951443+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:03:59.5544387+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:58:18.8493933+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:04:08.5454183+00:00"
 }

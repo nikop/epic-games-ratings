@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523178,
+  "EOS_Progressed": 523179,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10440,6 +10440,11 @@
       "Time": "2023-07-25T10:03:54.4766014+00:00",
       "NumProgressed": 523178,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2023-07-25T11:04:02.7692667+00:00",
+      "NumProgressed": 523179,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 57,
@@ -10459,7 +10464,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235430
+      "UsersEstimate": 235431
     },
     {
       "ID": "11",
@@ -10531,7 +10536,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 324370
+      "UsersEstimate": 324371
     },
     {
       "ID": "2",
@@ -10571,7 +10576,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36622
+      "UsersEstimate": 36623
     },
     {
       "ID": "24",
@@ -10651,7 +10656,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36622
+      "UsersEstimate": 36623
     },
     {
       "ID": "33",
@@ -10675,7 +10680,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261589
+      "UsersEstimate": 261590
     },
     {
       "ID": "36",
@@ -10683,7 +10688,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83708
+      "UsersEstimate": 83709
     },
     {
       "ID": "37",
@@ -10755,7 +10760,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36622
+      "UsersEstimate": 36623
     },
     {
       "ID": "45",
@@ -10779,7 +10784,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 324370
+      "UsersEstimate": 324371
     },
     {
       "ID": "48",
@@ -10906,15 +10911,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 523178,
+      "Progressed": 523179,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-25T10:03:54.4766008+00:00",
+  "LastChanged_Achievements": "2023-07-25T11:04:02.7692663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.3854375+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:57:56.3971874+00:00",
-  "LastUpdate_Achievements": "2023-07-25T10:03:54.4766956+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:57:59.29877+00:00",
+  "LastUpdate_Achievements": "2023-07-25T11:04:02.7693544+00:00"
 }
