@@ -10,14 +10,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.80% | ~105 |
 | Explorer | 0.60% | ~78 |
 | Settler | 0.60% | ~78 |
+| Friendly Family | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
 | Poetic Leader | 0.60% | ~78 |
 | Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
-| Friendly Family | 0.50% | ~65 |
 | Architect | 0.40% | ~52 |
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
+| Mason | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
 | Pioneer | 0.40% | ~52 |
 | Strong | 0.40% | ~52 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
-| Mason | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
@@ -59,6 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
+| Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
-| Mausoleum | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,076 (Ranked 115)  
+Progressed: 13,077 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,076 | 5 |
+| 2023-07-25 | 13,077 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

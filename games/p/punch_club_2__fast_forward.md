@@ -38,9 +38,9 @@
 | Now you are worthy | 37.00% | ~51 |
 | Legal courier | 37.00% | ~51 |
 | Escaped from a big trouble | 31.00% | ~43 |
+| Guiding on the right path | 30.00% | ~42 |
 | Mysterious voice | 29.00% | ~40 |
 | No blades in the gym | 29.00% | ~40 |
-| Guiding on the right path | 29.00% | ~40 |
 | Responsible approach | 28.00% | ~39 |
 | Fight is life | 27.00% | ~38 |
 | Deal with life | 25.00% | ~35 |

@@ -19,6 +19,7 @@ Rating: 4.63 (Ranked 331)
 | Intimidation Tactics | 4.00% | ~202 |
 | Blood of the Dragon | 4.00% | ~202 |
 | Mighty Hoard | 4.00% | ~202 |
+| Valley of Wonders | 3.00% | ~151 |
 | There Can Only Be One! | 3.00% | ~151 |
 | Full Ascension | 3.00% | ~151 |
 | In a Liege of Your Own | 3.00% | ~151 |
@@ -26,7 +27,6 @@ Rating: 4.63 (Ranked 331)
 | Against the Odds | 3.00% | ~151 |
 | Impenetrable Fortress | 3.00% | ~151 |
 | Here be Dragons | 3.00% | ~151 |
-| Valley of Wonders | 2.00% | ~101 |
 | The Magic That Empowers Me! | 2.00% | ~101 |
 | Return of the Wizard King | 2.00% | ~101 |
 | God Emperor | 2.00% | ~101 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 331)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,043 (Ranked 137)  
+Progressed: 5,044 (Ranked 137)  
 Completed: 5 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 5 (0.10%) (Ranked 189)
 | 2023-07-22 | 5,033 | 5 |
 | 2023-07-23 | 5,038 | 5 |
 | 2023-07-24 | 5,041 | 5 |
-| 2023-07-25 | 5,043 | 5 |
+| 2023-07-25 | 5,044 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

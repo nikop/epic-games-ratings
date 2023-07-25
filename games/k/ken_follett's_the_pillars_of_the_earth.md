@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,14 +16,14 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~3,388 |
 | Full house | 24.00% | ~3,388 |
 | Help an old friend | 22.00% | ~3,106 |
-| Two of us | 20.00% | ~2,823 |
+| Two of us | 20.00% | ~2,824 |
 | Negotiation skills | 18.00% | ~2,541 |
 | Workers' union | 18.00% | ~2,541 |
 | End of Book Two | 18.00% | ~2,541 |
 | Everything's in order | 17.00% | ~2,400 |
 | Jack was here! | 15.00% | ~2,118 |
-| Twist of Fate | 14.00% | ~1,976 |
-| Exterminator | 14.00% | ~1,976 |
+| Twist of Fate | 14.00% | ~1,977 |
+| Exterminator | 14.00% | ~1,977 |
 | Whodunnit | 13.00% | ~1,835 |
 | Good midwife | 11.00% | ~1,553 |
 | Friar Tuck | 11.00% | ~1,553 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~424 |
 | Boy of mystery | 2.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,117 (Ranked 113)  
+Progressed: 14,118 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 105 (0.74%) (Ranked 115)
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
-| 2023-07-25 | 14,117 | 105 |
+| 2023-07-25 | 14,118 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 368)  

@@ -538,9 +538,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9166,
+  "EOS_Progressed": 9168,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6908,6 +6908,11 @@
       "Time": "2023-07-25T05:04:40.3642597+00:00",
       "NumProgressed": 9166,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-25T06:04:45.5076827+00:00",
+      "NumProgressed": 9168,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6919,7 +6924,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH02",
@@ -7023,7 +7028,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "ACH15",
@@ -7039,7 +7044,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH17",
@@ -7055,7 +7060,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH19",
@@ -7079,7 +7084,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "ACH22",
@@ -7103,7 +7108,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACH25",
@@ -7111,7 +7116,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACH26",
@@ -7190,7 +7195,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9166,
+      "Progressed": 9168,
       "Completed": 43
     }
   ],
@@ -7198,8 +7203,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-25T03:03:00.1337429+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:04:40.3642593+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:04:45.5076817+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:59:19.6487578+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:04:40.3643293+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:59:32.9121929+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:04:45.5077592+00:00"
 }

@@ -1,31 +1,31 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 443)  
+Rating: 4.57 (Ranked 442)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~114,886 |
-| Where's that freaking Dwarf? | 47.00% | ~93,098 |
-| GG EZ | 28.00% | ~55,462 |
-| Speedrun | 26.00% | ~51,501 |
-| Déjà vu | 21.00% | ~41,597 |
-| Sock! SOCK! | 17.00% | ~33,674 |
-| DM intervention | 13.00% | ~25,750 |
-| Fireproof Wizardess | 9.00% | ~17,827 |
-| Livin' in a dwarven paradise | 7.00% | ~13,866 |
-| Way of the Wimp | 7.00% | ~13,866 |
-| A beer, two curses, three companions | 7.00% | ~13,866 |
-| The plot thickens... At the tavern | 5.00% | ~9,904 |
-| The Woman in the High Castle | 4.00% | ~7,923 |
-| I am the night | 4.00% | ~7,923 |
-| Team Building Exercise | 4.00% | ~7,923 |
-| Shiny and Crôm | 3.00% | ~5,942 |
-| The demons' feast | 3.00% | ~5,942 |
-| Res Judicata | 3.00% | ~5,942 |
-| The Ranger of Chaos | 3.00% | ~5,942 |
-| Oh, when I'll be level 10... | 3.00% | ~5,942 |
+| Alt+F4 | 58.00% | ~114,897 |
+| Where's that freaking Dwarf? | 47.00% | ~93,107 |
+| GG EZ | 28.00% | ~55,468 |
+| Speedrun | 26.00% | ~51,506 |
+| Déjà vu | 21.00% | ~41,601 |
+| Sock! SOCK! | 17.00% | ~33,677 |
+| DM intervention | 13.00% | ~25,753 |
+| Fireproof Wizardess | 9.00% | ~17,829 |
+| Livin' in a dwarven paradise | 7.00% | ~13,867 |
+| Way of the Wimp | 7.00% | ~13,867 |
+| A beer, two curses, three companions | 7.00% | ~13,867 |
+| The plot thickens... At the tavern | 5.00% | ~9,905 |
+| The Woman in the High Castle | 4.00% | ~7,924 |
+| I am the night | 4.00% | ~7,924 |
+| Team Building Exercise | 4.00% | ~7,924 |
+| Shiny and Crôm | 3.00% | ~5,943 |
+| The demons' feast | 3.00% | ~5,943 |
+| Res Judicata | 3.00% | ~5,943 |
+| The Ranger of Chaos | 3.00% | ~5,943 |
+| Oh, when I'll be level 10... | 3.00% | ~5,943 |
 | The Great Library | 2.00% | ~3,962 |
 | Torture and Sensibility | 2.00% | ~3,962 |
 | Dwarf Fortress | 2.00% | ~3,962 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.80% | ~1,585 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,585 |
 | Lëgal Legend | 0.80% | ~1,585 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,188 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,189 |
 | I'd rather... Just... Sing! | 0.50% | ~990 |
 | The number of the counting shalt be 7 | 0.50% | ~990 |
 | Holistic Adventuring Party | 0.40% | ~792 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,080 (Ranked 55)  
+Progressed: 198,099 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 195,737 | 0 |
 | 2023-07-23 | 196,973 | 0 |
 | 2023-07-24 | 197,920 | 0 |
-| 2023-07-25 | 198,080 | 0 |
+| 2023-07-25 | 198,099 | 0 |
 ## Awards
 Max (Character Customization): 134  (Ranked 302)  
 Sum: 134 (Ranked 396)  

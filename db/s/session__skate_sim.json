@@ -3741,9 +3741,9 @@
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
       "SetID": "72olkc5",
       "Name": "The finer things in life",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3829,8 +3829,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:03:07.6245518+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:03:12.2007307+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:00:31.987098+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:03:07.6246088+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:00:47.198286+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:03:12.2008248+00:00"
 }

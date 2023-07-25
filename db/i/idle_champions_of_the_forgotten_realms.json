@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215299,
-  "EOS_Completed": 2089,
-  "EOS_NewPlayers": 2364,
-  "EOS_NewCompleters": 32,
+  "EOS_Progressed": 215304,
+  "EOS_Completed": 2091,
+  "EOS_NewPlayers": 2358,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15506,6 +15506,11 @@
       "Time": "2023-07-25T05:07:52.4635691+00:00",
       "NumProgressed": 215299,
       "NumCompleted": 2089
+    },
+    {
+      "Time": "2023-07-25T06:08:06.2648485+00:00",
+      "NumProgressed": 215304,
+      "NumCompleted": 2091
     }
   ],
   "TotalAchievements": 512,
@@ -15539,9 +15544,9 @@
       "ID": "objective_completed_101",
       "SetID": "cc37lbc",
       "Name": "Upholding the Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_102",
@@ -15683,9 +15688,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1066",
@@ -15819,9 +15824,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1292
     },
     {
       "ID": "objective_completed_1090",
@@ -15883,9 +15888,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 2153
     },
     {
       "ID": "objective_completed_110",
@@ -15947,9 +15952,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1111",
@@ -16077,7 +16082,7 @@
       "Name": "Supply Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "objective_completed_1142",
@@ -16147,9 +16152,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1154",
@@ -16211,9 +16216,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1168",
@@ -16275,9 +16280,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1179",
@@ -16603,9 +16608,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1351",
@@ -16875,9 +16880,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_210",
@@ -16899,9 +16904,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_214",
@@ -19515,9 +19520,9 @@
       "ID": "objective_completed_593",
       "SetID": "415jc5c",
       "Name": "Goblin Halls: the Next Generation",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_663",
@@ -19555,9 +19560,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 908
     },
     {
       "ID": "objective_completed_1381",
@@ -19595,9 +19600,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1392",
@@ -19612,21 +19617,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181573,
-      "Completed": 2926
+      "Progressed": 181578,
+      "Completed": 2935
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215299,
-      "Completed": 2089
+      "Progressed": 215304,
+      "Completed": 2091
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:07:52.4635688+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:08:06.2648479+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:59:10.9723033+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:07:52.4661836+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:59:20.9725635+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:08:06.2680377+00:00"
 }

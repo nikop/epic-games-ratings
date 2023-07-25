@@ -1,12 +1,12 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 610)  
+Rating: 4.46 (Ranked 609)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~12,270 |
+| Light at the end of the tunnel | 76.00% | ~12,271 |
 | Mama? | 28.00% | ~4,521 |
 | People's Haven | 19.00% | ~3,068 |
 | Cartographer | 17.00% | ~2,745 |
@@ -14,10 +14,10 @@ Number of Ratings: 170  (23.09.2022)
 | Knowledge for Power | 14.00% | ~2,260 |
 | Mausoleum of Ice | 14.00% | ~2,260 |
 | Gaze into the abyss | 13.00% | ~2,099 |
-| In the belly of the beast | 12.00% | ~1,937 |
-| Wings of Stone | 12.00% | ~1,937 |
-| Equilibrium | 12.00% | ~1,937 |
-| Condor condo | 10.00% | ~1,614 |
+| In the belly of the beast | 12.00% | ~1,938 |
+| Wings of Stone | 12.00% | ~1,938 |
+| Equilibrium | 12.00% | ~1,938 |
+| Condor condo | 10.00% | ~1,615 |
 | Memorial | 9.00% | ~1,453 |
 | An uninvited guest | 8.00% | ~1,292 |
 | Talk to all the spirit animals | 7.00% | ~1,130 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~969 |
 | Hide and Seek | 5.00% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,145 (Ranked 108)  
+Progressed: 16,146 (Ranked 108)  
 Completed: 334 (2.07%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 334 (2.07%) (Ranked 79)
 | 2023-07-22 | 15,929 | 330 |
 | 2023-07-23 | 16,045 | 331 |
 | 2023-07-24 | 16,126 | 333 |
-| 2023-07-25 | 16,145 | 334 |
+| 2023-07-25 | 16,146 | 334 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,28 +1,28 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 624)  
+Rating: 4.45 (Ranked 623)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~905 |
+| Another Life | 85.00% | ~906 |
 | Voices from the Past | 78.00% | ~831 |
 | Space Traveler | 78.00% | ~831 |
-| Demigod | 75.00% | ~799 |
-| The Great Destroyer | 74.00% | ~788 |
-| Shields Down | 72.00% | ~767 |
+| Demigod | 75.00% | ~800 |
+| The Great Destroyer | 74.00% | ~789 |
+| Shields Down | 72.00% | ~768 |
 | Helping Hand | 67.00% | ~714 |
-| Safe Home | 66.00% | ~703 |
-| Paragon | 63.00% | ~671 |
+| Safe Home | 66.00% | ~704 |
+| Paragon | 63.00% | ~672 |
 | Old Days Born Anew | 61.00% | ~650 |
-| Full Arsenal | 57.00% | ~607 |
+| Full Arsenal | 57.00% | ~608 |
 | Controlled Demolition | 55.00% | ~586 |
-| Payback | 53.00% | ~564 |
-| Huntress | 53.00% | ~564 |
+| Payback | 53.00% | ~565 |
+| Huntress | 53.00% | ~565 |
 | Born to Drift | 52.00% | ~554 |
 | Relentless | 49.00% | ~522 |
-| The Path Forward | 45.00% | ~479 |
+| The Path Forward | 45.00% | ~480 |
 | Disruption | 44.00% | ~469 |
 | Phoenix | 44.00% | ~469 |
 | Cult Slayer | 41.00% | ~437 |
@@ -43,14 +43,14 @@ Number of Ratings: 58  (23.09.2022)
 | Retaliate | 21.00% | ~224 |
 | Power Chord | 20.00% | ~213 |
 | Crash Test | 20.00% | ~213 |
-| Ascension | 19.00% | ~202 |
+| Ascension | 19.00% | ~203 |
 | Rise as One | 18.00% | ~192 |
 | Showoff | 15.00% | ~160 |
-| Radiation Area | 10.00% | ~106 |
+| Radiation Area | 10.00% | ~107 |
 | Overcharged | 9.00% | ~96 |
 | At Least You Tried | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,065 (Ranked 189)  
+Progressed: 1,066 (Ranked 189)  
 Completed: 13 (1.22%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 13 (1.22%) (Ranked 99)
 | 2023-07-22 | 1,050 | 12 |
 | 2023-07-23 | 1,057 | 12 |
 | 2023-07-24 | 1,063 | 13 |
-| 2023-07-25 | 1,065 | 13 |
+| 2023-07-25 | 1,066 | 13 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 448)  
 Sum: 32 (Ranked 469)  

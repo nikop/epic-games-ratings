@@ -6,11 +6,11 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start with a bang! | 3.00% | ~107 |
+| Cream of the Crop | 3.00% | ~107 |
 | Feeling the beat! | 3.00% | ~107 |
 | Who put gears in there? | 3.00% | ~107 |
 | You can pet the cat! | 3.00% | ~107 |
 | NOW we got a kickass hideout! | 3.00% | ~62 |
-| Cream of the Crop | 2.00% | ~71 |
 | This will cost you big time | 2.00% | ~71 |
 | The Negotiator | 2.00% | ~71 |
 | Headliner | 2.00% | ~71 |

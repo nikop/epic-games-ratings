@@ -4,20 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 2.00% | ~553 |
-| Expanding Horizons | 1.00% | ~276 |
-| Not Your Average Trait | 1.00% | ~276 |
-| Quest for Survival | 0.80% | ~221 |
-| Trait Chaser | 0.80% | ~221 |
-| Boss'n Up | 0.70% | ~193 |
-| Duality | 0.60% | ~166 |
-| Make Some Room | 0.60% | ~166 |
-| Good, But Could Be Better! | 0.50% | ~138 |
+| First of Many | 2.00% | ~557 |
+| Expanding Horizons | 1.00% | ~279 |
+| Quest for Survival | 1.00% | ~279 |
+| Not Your Average Trait | 1.00% | ~279 |
+| Boss'n Up | 0.90% | ~251 |
+| Trait Chaser | 0.90% | ~251 |
+| Duality | 0.80% | ~223 |
+| Make Some Room | 0.70% | ~195 |
+| Top Performer | 0.50% | ~139 |
+| Good, But Could Be Better! | 0.50% | ~139 |
 | Not So Special Now | 0.40% | ~111 |
-| Top Performer | 0.40% | ~111 |
-| Almost There | 0.30% | ~83 |
-| The Killing Jar | 0.20% | ~55 |
-| Was This Supposed To Happen? | 0.20% | ~55 |
+| Almost There | 0.40% | ~111 |
+| Was This Supposed To Happen? | 0.30% | ~84 |
+| The Killing Jar | 0.20% | ~56 |
+| Familiar Face | 0.20% | ~56 |
 | Crafty | 0.10% | ~28 |
 | Am I Seeing This? | 0.10% | ~28 |
 | Ghost in the Machine | 0.10% | ~28 |
@@ -33,7 +34,6 @@
 | Red Room | 0.10% | ~28 |
 | The Agenda | 0.10% | ~28 |
 | Not a Janitor | 0.10% | ~28 |
-| Familiar Face | 0.10% | ~28 |
 | Equal Measures | 0.10% | ~28 |
 | Tall Tales | 0.10% | ~28 |
 | Blue Goddess | 0.10% | ~28 |
@@ -55,7 +55,7 @@
 | Transmutate | 0.10% | ~28 |
 | Proving Grounds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,641 (Ranked 98)  
+Progressed: 27,864 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 7,481 | 0 |
 | 2023-07-23 | 17,937 | 0 |
 | 2023-07-24 | 26,093 | 0 |
-| 2023-07-25 | 27,641 | 0 |
+| 2023-07-25 | 27,864 | 0 |

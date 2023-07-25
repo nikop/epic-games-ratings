@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27641,
+  "EOS_Progressed": 27864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27640,
+  "EOS_NewPlayers": 27863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -420,6 +420,11 @@
       "Time": "2023-07-25T05:05:30.1934252+00:00",
       "NumProgressed": 27641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T06:05:45.2247234+00:00",
+      "NumProgressed": 27864,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -432,7 +437,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 279
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -512,7 +517,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -550,9 +555,9 @@
       "ID": "Defeat_World_Boss",
       "SetID": "bkp3b1a",
       "Name": "Quest for Survival",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 279
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -582,9 +587,9 @@
       "ID": "Meet_Flautist",
       "SetID": "bkp3b1a",
       "Name": "Familiar Face",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "Meet_Meidra",
@@ -616,23 +621,23 @@
       "Name": "First of Many",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 557
     },
     {
       "ID": "Obtain_Archetype_Dual",
       "SetID": "bkp3b1a",
       "Name": "Duality",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 139
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -654,17 +659,17 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 84
     },
     {
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 251
     },
     {
       "ID": "Obtain_Guns_A",
@@ -736,7 +741,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 279
     },
     {
       "ID": "Obtain_Traits_B",
@@ -774,17 +779,17 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 111
     },
     {
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 195
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -792,7 +797,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -806,9 +811,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 251
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -831,13 +836,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 27641,
+      "Progressed": 27864,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:05:30.1934249+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:05:45.2247228+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.8593105+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:01:45.6895056+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:05:30.193469+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:01:58.8112041+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:05:45.2247732+00:00"
 }

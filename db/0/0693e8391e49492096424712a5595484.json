@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -610,9 +610,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "BasiliskBroom",
@@ -674,9 +674,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -778,9 +778,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "HastrmanHappy",
@@ -890,9 +890,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "RogueKing",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:06:37.1762096+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:07:02.0333271+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:57:32.4683602+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:06:37.1762738+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:57:29.1881512+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:07:02.0333822+00:00"
 }

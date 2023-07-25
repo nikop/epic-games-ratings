@@ -7,37 +7,44 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,153 |
-| Beast Intentions | 0.90% | ~1,938 |
+| Beast Intentions | 1.00% | ~2,153 |
 | Maddening | 0.70% | ~1,507 |
-| The Silken Swamp | 0.50% | ~1,076 |
-| Supply Run | 0.50% | ~1,076 |
+| The Silken Swamp | 0.60% | ~1,292 |
+| Supply Run | 0.50% | ~1,077 |
 | Rocky Reception | 0.50% | ~908 |
+| Rock and Roll | 0.50% | ~908 |
 | Vecna Lives! | 0.40% | ~726 |
-| Rock and Roll | 0.40% | ~726 |
 | Flight of the Kindori Pod | 0.40% | ~726 |
 | Pros and CONs | 0.30% | ~646 |
 | Tall Tales | 0.30% | ~545 |
 | Wet Feet | 0.30% | ~646 |
+| Hatchlings Underfoot | 0.30% | ~646 |
 | Seeds of Destruction | 0.30% | ~545 |
 | Vecna Loots! | 0.30% | ~545 |
 | Return to the Tomb | 0.30% | ~545 |
+| Heatwave | 0.30% | ~545 |
 | The Champion's Guide to Wildspace | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
+| Goblin Halls: the Next Generation | 0.30% | ~545 |
 | Topolah's Tower | 0.30% | ~545 |
+| Krux's Speed Run | 0.30% | ~545 |
+| Upholding the Law | 0.20% | ~431 |
 | The Witchlight Carnival | 0.20% | ~363 |
 | Thieves of the Coven | 0.20% | ~363 |
-| Hatchlings Underfoot | 0.20% | ~431 |
+| Hither of the Feywild | 0.20% | ~363 |
 | Don't Look Up! | 0.20% | ~431 |
 | Heavy Burden | 0.20% | ~431 |
+| Speeds of Destruction | 0.20% | ~363 |
 | The Evacuation of Waterdeep | 0.20% | ~363 |
 | On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
+| A Demi-god's Defender | 0.20% | ~363 |
 | Friends of the Forest | 0.20% | ~431 |
-| Heatwave | 0.20% | ~363 |
 | The Dread Domain of Tovag | 0.20% | ~363 |
 | Were-verpowered | 0.20% | ~431 |
 | A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
+| Welcome to the Rock | 0.20% | ~363 |
 | Beast Mode | 0.20% | ~431 |
 | Terror in the Dark | 0.20% | ~431 |
 | Low Initiative | 0.20% | ~431 |
@@ -48,6 +55,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~431 |
 | No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
+| Invisible Shadows | 0.20% | ~431 |
+| Family Entanglements | 0.20% | ~431 |
 | The Dinner Party | 0.20% | ~431 |
 | The Botched Kidnapping | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
@@ -66,15 +75,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.20% | ~363 |
 | Devilishly Cold | 0.20% | ~363 |
 | Not That Type of Helm! | 0.20% | ~363 |
-| Goblin Halls: the Next Generation | 0.20% | ~363 |
 | Bazaar Companions | 0.20% | ~363 |
 | Bahamut's Army | 0.20% | ~363 |
 | Luigi After Hours | 0.20% | ~363 |
 | Electric Mayhem | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
-| Krux's Speed Run | 0.20% | ~363 |
 | Animated Giff | 0.20% | ~363 |
-| Upholding the Law | 0.10% | ~215 |
 | Starving in the Jungle | 0.10% | ~215 |
 | Cold as Ice | 0.10% | ~182 |
 | Keep Your Friends Close | 0.10% | ~182 |
@@ -89,7 +95,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.10% | ~182 |
 | Patron Party | 0.10% | ~182 |
 | Go Fourth | 0.10% | ~182 |
-| Hither of the Feywild | 0.10% | ~182 |
 | Don't Breathe the Marsh Gas | 0.10% | ~182 |
 | Don't Blast the Brigands | 0.10% | ~182 |
 | Don't Squeeze the Spiders | 0.10% | ~182 |
@@ -139,11 +144,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Speeds of Destruction | 0.10% | ~182 |
 | Owlbear Necessities | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
-| A Demi-god's Defender | 0.10% | ~182 |
 | Well Equipped | 0.10% | ~182 |
 | More Than Well Equipped | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
@@ -184,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~182 |
 | The Egg of Nat's Desire | 0.10% | ~182 |
 | Anchors Aweigh | 0.10% | ~182 |
-| Welcome to the Rock | 0.10% | ~182 |
 | Welcome to the Band | 0.10% | ~182 |
 | The Forbidden City | 0.10% | ~215 |
 | Periodic Petrification | 0.10% | ~215 |
@@ -208,10 +210,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
 | The Hunt for Owl-y | 0.10% | ~215 |
-| Invisible Shadows | 0.10% | ~215 |
 | Werewolves in the Mist | 0.10% | ~215 |
 | We're not in Faerûn Anymore | 0.10% | ~215 |
-| Family Entanglements | 0.10% | ~215 |
 | Haunted Fortunes | 0.10% | ~215 |
 | Poor Fortune | 0.10% | ~215 |
 | Relentless Misfortune | 0.10% | ~215 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiny Treaty | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,299 (Ranked 53)  
-Completed: 2,089 (0.97%) (Ranked 107)  
+Progressed: 215,304 (Ranked 53)  
+Completed: 2,091 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,089 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,299 | 2,089 |
+| 2023-07-25 | 215,304 | 2,091 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

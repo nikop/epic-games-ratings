@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 43,
@@ -736,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253591,
+  "EOS_Progressed": 253594,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10441,6 +10441,11 @@
       "Time": "2023-07-25T05:06:44.8129582+00:00",
       "NumProgressed": 253591,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T06:07:09.9182705+00:00",
+      "NumProgressed": 253594,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10452,7 +10457,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "Act2",
@@ -10500,7 +10505,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78613
+      "UsersEstimate": 78614
     },
     {
       "ID": "BackHomeNTimes",
@@ -10652,7 +10657,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "GrowPlants2",
@@ -10708,7 +10713,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "KillOtherWithKatana",
@@ -10740,7 +10745,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55790
+      "UsersEstimate": 55791
     },
     {
       "ID": "KillOthers2",
@@ -10899,7 +10904,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253591,
+      "Progressed": 253594,
       "Completed": 3
     }
   ],
@@ -10907,8 +10912,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-24T16:03:03.7453119+00:00",
-  "LastChanged_Achievements": "2023-07-25T05:06:44.8129578+00:00",
+  "LastChanged_Achievements": "2023-07-25T06:07:09.9182698+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-25T05:01:57.6429354+00:00",
-  "LastUpdate_Achievements": "2023-07-25T05:06:44.813093+00:00"
+  "LastUpdate_Ratings": "2023-07-25T06:02:09.1974974+00:00",
+  "LastUpdate_Achievements": "2023-07-25T06:07:09.9184131+00:00"
 }
