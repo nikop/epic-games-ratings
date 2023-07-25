@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3156,10 +3156,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6839,
       "NumberOfAwardsMax": 1690
+    },
+    {
+      "Time": "2023-07-25T14:59:11.5565053+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6840,
+      "NumberOfAwardsMax": 1690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6839,
+  "NumberOfAwards": 6840,
   "NumberOfAwardsMax": 1690,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3221,7 +3227,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 565
+      "Count": 566
     },
     {
       "Text": "This game has a Creative Community",
@@ -3230,9 +3236,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10563,
+  "EOS_Progressed": 10565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9275,6 +9281,11 @@
       "Time": "2023-07-25T14:02:07.6621004+00:00",
       "NumProgressed": 10563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T15:03:07.7458638+00:00",
+      "NumProgressed": 10565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9286,7 +9297,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "02_BurningCity",
@@ -9310,7 +9321,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9654,7 +9665,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "49_Flame",
@@ -10213,21 +10224,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9345,
+      "Progressed": 9347,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10563,
+      "Progressed": 10565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-25T13:12:31.3062432+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:02:07.6620996+00:00",
+  "LastChanged": "2023-07-25T14:59:11.5565051+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:03:07.7458632+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:58:59.6754476+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:02:07.6622595+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:59:11.5565056+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:03:07.7460144+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_10_SARAH",
@@ -210,9 +210,9 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_17_PICNIC",
@@ -226,9 +226,9 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_19_PYJAMA",
@@ -266,9 +266,9 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -313,8 +313,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:05:09.4521191+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:05:38.3306092+00:00",
   "LastUpdate_AppInfo": "2023-07-23T14:57:17.5342394+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:57:20.5677356+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:05:09.4521343+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:57:28.5016687+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:05:38.3306251+00:00"
 }

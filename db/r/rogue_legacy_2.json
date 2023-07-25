@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1305,9 +1305,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22650,
+  "EOS_Progressed": 22651,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5905,6 +5905,11 @@
       "Time": "2023-07-25T10:03:35.8664925+00:00",
       "NumProgressed": 22650,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-25T15:04:02.7582453+00:00",
+      "NumProgressed": 22651,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6044,7 +6049,7 @@
       "Name": "Harvest and Home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -6076,7 +6081,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -6092,7 +6097,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "BoxerBoss",
@@ -6108,7 +6113,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "EndTimerFail",
@@ -6227,21 +6232,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22650,
+      "Progressed": 22651,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-22T11:59:16.0371547+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:03:23.8009148+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:04:02.7582449+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:59:49.6149075+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:03:23.8009596+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:59:59.3436545+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:04:02.7582896+00:00"
 }

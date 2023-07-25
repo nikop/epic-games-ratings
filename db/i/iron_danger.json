@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -413,9 +413,9 @@
       "ID": "ACH_ENEMY_KILLER",
       "SetID": "ao59f0i",
       "Name": "Champion of Kalevala",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FORAGER",
@@ -598,8 +598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:04:02.5342607+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:04:32.0773015+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.6759163+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:00:40.3186362+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:04:02.5342756+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:00:50.5722424+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:04:32.0773173+00:00"
 }

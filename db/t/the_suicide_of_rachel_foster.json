@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1282,
+  "EOS_Progressed": 1283,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -1682,6 +1682,11 @@
       "Time": "2023-07-25T13:16:07.4528387+00:00",
       "NumProgressed": 1282,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-25T15:03:13.4450851+00:00",
+      "NumProgressed": 1283,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1693,7 +1698,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1709,7 +1714,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1757,7 +1762,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1780,15 +1785,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1282,
+      "Progressed": 1283,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:02:13.2503304+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:03:13.4450845+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:00:44.956199+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:02:13.2503439+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:00:53.7308794+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:03:13.445099+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1887,
+  "EOS_Progressed": 1888,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1783,6 +1783,11 @@
       "Time": "2023-07-25T12:03:30.2674378+00:00",
       "NumProgressed": 1887,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-25T15:03:18.4532757+00:00",
+      "NumProgressed": 1888,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1906,7 +1911,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_16",
@@ -1946,7 +1951,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHV_21",
@@ -1962,7 +1967,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_23",
@@ -2026,7 +2031,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACHV_31",
@@ -2058,7 +2063,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_35",
@@ -2066,7 +2071,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACHV_36",
@@ -2096,9 +2101,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACHV_40",
@@ -2122,7 +2127,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHV_43",
@@ -2162,7 +2167,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_48",
@@ -2194,7 +2199,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_52",
@@ -2226,7 +2231,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_56",
@@ -2249,7 +2254,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1887,
+      "Progressed": 1888,
       "Completed": 10
     }
   ],
@@ -2257,8 +2262,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:02:18.2518266+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:03:18.4532752+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:57:05.3567027+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:02:18.2518723+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:57:13.2607445+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:03:18.4533203+00:00"
 }

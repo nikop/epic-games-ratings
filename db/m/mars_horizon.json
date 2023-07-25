@@ -2,13 +2,13 @@
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
   "ProductSlug": "mars-horizon",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-06-22T14:00:00+00:00",
     "PcReleaseDate": "2020-06-16T14:00:00+00:00",
@@ -133,6 +133,6 @@
   "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
   "LastChanged": "2023-07-21T15:59:52.1707311+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.7690059+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:59:35.3767593+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:03:36.995892+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:59:48.5591489+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:04:15.8412082+00:00"
 }

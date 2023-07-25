@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -3809,9 +3809,9 @@
       "ID": "ISONZO_ACH_INSUBORDINATION",
       "SetID": "akchbl3",
       "Name": "Insubordination",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1290
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -4050,8 +4050,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:05:01.866082+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:05:30.4872155+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:58:06.9757183+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:05:01.8661204+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:58:16.2839197+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:05:30.487256+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "605762",
       "SetID": "4lpaifm",
       "Name": "Creator of Humanity",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "605772",
@@ -410,8 +410,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:01:19.2437652+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:02:10.2350334+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.2697094+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:00:05.0467802+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:01:19.2437872+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:00:14.5718751+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:02:10.2350491+00:00"
 }

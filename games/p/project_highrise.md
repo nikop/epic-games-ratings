@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~148 |
+| In the Black | 57.00% | ~149 |
 | Starting Skyward | 51.00% | ~133 |
-| Grime is Not Good | 45.00% | ~117 |
-| Floor Galore | 37.00% | ~96 |
-| Campaign Launch | 37.00% | ~96 |
-| Dinner Dash | 37.00% | ~96 |
-| Need a Consult | 34.00% | ~88 |
-| It's Technical | 34.00% | ~88 |
+| Grime is Not Good | 44.00% | ~115 |
+| Floor Galore | 37.00% | ~97 |
+| Campaign Launch | 37.00% | ~97 |
+| Dinner Dash | 36.00% | ~94 |
+| Need a Consult | 34.00% | ~89 |
+| It's Technical | 34.00% | ~89 |
 | Upgrade Unlock | 33.00% | ~86 |
-| Delegate Maintenance | 32.00% | ~83 |
+| Delegate Maintenance | 32.00% | ~84 |
 | Proper Walls | 30.00% | ~78 |
 | Destination Destiny | 27.00% | ~70 |
 | Happy Tenants | 25.00% | ~65 |
@@ -25,9 +25,9 @@
 | Leveled Up Shops | 21.00% | ~55 |
 | People Mover | 20.00% | ~52 |
 | We Don't Need No Education | 20.00% | ~52 |
-| Don't Feel a Loan | 19.00% | ~49 |
-| Emporium Empire | 19.00% | ~49 |
-| Get Electrified | 19.00% | ~49 |
+| Don't Feel a Loan | 19.00% | ~50 |
+| Emporium Empire | 19.00% | ~50 |
+| Get Electrified | 19.00% | ~50 |
 | Artfully Done | 18.00% | ~47 |
 | Rehab Expert | 18.00% | ~47 |
 | Tasty Profits | 18.00% | ~47 |
@@ -35,12 +35,12 @@
 | Under One Roof | 15.00% | ~39 |
 | Established Fame | 15.00% | ~39 |
 | Terrifically Trashed | 15.00% | ~39 |
-| Starred Dining | 14.00% | ~36 |
-| Boutique Benefits | 14.00% | ~36 |
+| Starred Dining | 14.00% | ~37 |
+| Boutique Benefits | 14.00% | ~37 |
 | Smooth Operator | 13.00% | ~34 |
 | Thrilled Tenants | 13.00% | ~34 |
-| Swimming in Surplus | 12.00% | ~31 |
 | 28 Days Later | 11.00% | ~29 |
+| Swimming in Surplus | 11.00% | ~29 |
 | Master of Puppets | 10.00% | ~26 |
 | Phoning It In | 9.00% | ~23 |
 | First 100 Days | 8.00% | ~21 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260 (Ranked 257)  
+Progressed: 261 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 246 | 0 |
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
-| 2023-07-25 | 260 | 0 |
+| 2023-07-25 | 261 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,767 |
-| Biggest Communism Builder | 24.00% | ~29,801 |
-| The World's Most Laughable Centrist | 20.00% | ~24,834 |
-| Il Coppo Del'Arte! | 18.00% | ~22,350 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,867 |
-| Hyperstellar Law Official | 15.00% | ~18,625 |
+| Goodest Of The Good Cops | 28.00% | ~34,769 |
+| Biggest Communism Builder | 24.00% | ~29,802 |
+| The World's Most Laughable Centrist | 20.00% | ~24,835 |
+| Il Coppo Del'Arte! | 18.00% | ~22,351 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,868 |
+| Hyperstellar Law Official | 15.00% | ~18,626 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,384 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,142 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,142 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,143 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,143 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,659 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,175 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,176 |
 | Unbelievably Boring **** | 8.00% | ~9,934 |
 | Enemy Of The Physical Realm | 8.00% | ~9,934 |
 | Hardie's Heroes | 6.00% | ~7,450 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,169 (Ranked 63)  
+Progressed: 124,174 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 27 (0.02%) (Ranked 222)
 | 2023-07-22 | 123,797 | 27 |
 | 2023-07-23 | 123,969 | 27 |
 | 2023-07-24 | 124,096 | 27 |
-| 2023-07-25 | 124,169 | 27 |
+| 2023-07-25 | 124,174 | 27 |
 ## Awards
-Max (Character Customization): 707  (Ranked 162)  
-Sum: 1,069 (Ranked 233)  
+Max (Character Customization): 708  (Ranked 162)  
+Sum: 1,070 (Ranked 233)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 707 |
+| This game has Inclusive Character Customization | 708 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -279,4 +279,4 @@ Diff (max vs sum): -71
 | 2023-07-16 | 4.86 | - | 705 | 1,066 |
 | 2023-07-17 | 4.86 | - | 705 | 1,067 |
 | 2023-07-19 | 4.86 | - | 707 | 1,069 |
-| 2023-07-25 | 4.87 | - | 707 | 1,069 |
+| 2023-07-25 | 4.87 | - | 708 | 1,070 |

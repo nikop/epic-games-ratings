@@ -17,35 +17,40 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.50% | ~908 |
 | Vecna Loots! | 0.50% | ~908 |
 | Flight of the Kindori Pod | 0.50% | ~908 |
+| Topolah's Tower | 0.50% | ~908 |
 | Pros and CONs | 0.40% | ~862 |
 | Wet Feet | 0.40% | ~862 |
 | Hatchlings Underfoot | 0.40% | ~862 |
+| Don't Look Up! | 0.40% | ~862 |
 | Seeds of Destruction | 0.40% | ~727 |
 | Return to the Tomb | 0.40% | ~727 |
 | Heatwave | 0.40% | ~727 |
 | The Champion's Guide to Wildspace | 0.40% | ~727 |
 | Calcryx Tricks | 0.40% | ~727 |
-| Topolah's Tower | 0.40% | ~727 |
+| Goblin Halls: the Next Generation | 0.40% | ~727 |
 | The Witchlight Carnival | 0.30% | ~545 |
 | Thieves of the Coven | 0.30% | ~545 |
-| Don't Look Up! | 0.30% | ~646 |
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~646 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
+| Were-verpowered | 0.30% | ~646 |
 | A Persistent Buzzing | 0.30% | ~646 |
 | Beast Mode | 0.30% | ~646 |
 | Terror in the Dark | 0.30% | ~646 |
 | Low Initiative | 0.30% | ~646 |
 | A Mysterious Summons | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
+| March of the Undead | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
 | No Time To Rest | 0.30% | ~646 |
+| The Mists of Ravenloft | 0.30% | ~646 |
 | The Dinner Party | 0.30% | ~646 |
 | Not That Type of Helm! | 0.30% | ~545 |
-| Goblin Halls: the Next Generation | 0.30% | ~545 |
 | Bazaar Companions | 0.30% | ~545 |
 | Bahamut's Army | 0.30% | ~545 |
+| Luigi After Hours | 0.30% | ~545 |
+| Electric Mayhem | 0.30% | ~545 |
 | Krux's Speed Run | 0.30% | ~545 |
 | Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
@@ -59,7 +64,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
 | Well Equipped | 0.20% | ~363 |
-| Were-verpowered | 0.20% | ~431 |
 | Who Lurks Below? | 0.20% | ~363 |
 | Xanathaaaaaaar! | 0.20% | ~363 |
 | Homecoming | 0.20% | ~431 |
@@ -69,11 +73,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
 | Street War | 0.20% | ~431 |
-| March of the Undead | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Tomb of the Nine Gods | 0.20% | ~431 |
-| The Mists of Ravenloft | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | The Botched Kidnapping | 0.20% | ~431 |
@@ -98,8 +100,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.20% | ~363 |
 | Tiny Treaty | 0.20% | ~363 |
 | All The World's A Stage | 0.20% | ~363 |
-| Luigi After Hours | 0.20% | ~363 |
-| Electric Mayhem | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
 | Starving in the Jungle | 0.10% | ~215 |
 | Cold as Ice | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,393 (Ranked 53)  
-Completed: 2,103 (0.98%) (Ranked 107)  
+Progressed: 215,403 (Ranked 53)  
+Completed: 2,106 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,10 +615,10 @@ Completed: 2,103 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,393 | 2,103 |
+| 2023-07-25 | 215,403 | 2,106 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
-Sum: 30,716 (Ranked 38)  
+Sum: 30,719 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -627,7 +627,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,682 |
 | This game is Relaxing | 4,571 |
 | This game has Amazing Characters | 4,033 |
-| This game is Highly Recommended | 4,021 |
+| This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,309 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -812,4 +812,4 @@ Diff (max vs sum): 28
 | 2023-07-22 | 4.06 | - | 5,055 | 30,644 |
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
-| 2023-07-25 | 4.05 | - | 5,082 | 30,716 |
+| 2023-07-25 | 4.05 | - | 5,082 | 30,719 |

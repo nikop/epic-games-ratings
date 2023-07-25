@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-07-25T00:06:14.6061615+00:00",
       "NumProgressed": 760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T15:05:16.7320452+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1464,7 +1469,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH002",
@@ -1512,7 +1517,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH008",
@@ -1560,7 +1565,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH014",
@@ -1694,9 +1699,9 @@
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH031",
@@ -1712,7 +1717,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH033",
@@ -1744,7 +1749,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH037",
@@ -1855,15 +1860,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:04:47.5994486+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:05:16.7320446+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.3549085+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:59:00.874143+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:04:47.5994907+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:59:13.5223179+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:05:16.7320818+00:00"
 }

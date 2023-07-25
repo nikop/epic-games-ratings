@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.40% | ~52 |
 | Judaism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
+| Naming Landmarks | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
-| Naming Landmarks | 0.30% | ~39 |
 | Trade Caravan | 0.30% | ~39 |
 | Regicide | 0.20% | ~26 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |

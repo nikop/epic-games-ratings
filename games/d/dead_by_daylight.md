@@ -6,72 +6,6 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 10.00% | ~71,221 |
-| Healthy Obsession | 9.00% | ~64,099 |
-| Preemptive Strike | 9.00% | ~64,099 |
-| Humanitarian | 9.00% | ~64,099 |
-| Close Shave | 8.00% | ~56,977 |
-| Wounded Healer | 7.00% | ~49,855 |
-| Unforgettable Getaway | 5.00% | ~35,611 |
-| First to the Punch | 5.00% | ~35,611 |
-| Old West Oasis | 5.00% | ~35,611 |
-| Every Last Drop | 5.00% | ~35,611 |
-| Raccoon City Recruit | 5.00% | ~35,611 |
-| With Scars to Show | 5.00% | ~35,611 |
-| Flight to Freedom | 5.00% | ~35,611 |
-| Ancestor's Rite | 4.00% | ~28,489 |
-| Cutting Out | 4.00% | ~28,489 |
-| Outrun Evil | 4.00% | ~28,489 |
-| Operation: Survival | 4.00% | ~28,489 |
-| Classy Act | 4.00% | ~28,489 |
-| A Fast Death | 4.00% | ~28,489 |
-| Lifting The Fog | 4.00% | ~28,489 |
-| Chorus of Chaos | 4.00% | ~28,489 |
-| Devoted Gatekeeping | 3.00% | ~21,366 |
-| Shrine Apparatus | 3.00% | ~21,366 |
-| Broken Bodies | 3.00% | ~21,366 |
-| Grim Pilgrimage | 3.00% | ~21,366 |
-| Selfless Survival | 3.00% | ~21,366 |
-| End of Days | 3.00% | ~21,366 |
-| Insult and Injury | 3.00% | ~21,366 |
-| Outrun the Overlap | 3.00% | ~21,366 |
-| Heavy Burden | 2.00% | ~14,244 |
-| I See You | 2.00% | ~14,244 |
-| Power Moves | 2.00% | ~14,244 |
-| Punch Drunk | 2.00% | ~14,244 |
-| Prowler | 2.00% | ~14,244 |
-| Triage | 2.00% | ~14,244 |
-| High Speed Pursuit | 2.00% | ~14,244 |
-| Rebuilding The Borgo | 2.00% | ~14,244 |
-| Hack the Mainframe | 2.00% | ~14,244 |
-| Deranged Pursuit | 1.00% | ~7,122 |
-| Denied! | 1.00% | ~7,122 |
-| Death of Ignorance | 1.00% | ~7,122 |
-| Left For Dead | 0.90% | ~6,410 |
-| Bodyguard | 0.90% | ~6,410 |
-| Rescue Mission | 0.90% | ~6,410 |
-| From the Deep | 0.90% | ~6,410 |
-| Dismantle | 0.80% | ~5,698 |
-| Speed Kills | 0.80% | ~5,698 |
-| One Thousand Cuts | 0.80% | ~5,698 |
-| Ghost in the Machine | 0.80% | ~5,698 |
-| Silent Approach | 0.60% | ~4,273 |
-| Bound and Downed | 0.60% | ~4,273 |
-| Multi-tasker | 0.60% | ~4,273 |
-| Tear Their Soul Apart | 0.50% | ~3,561 |
-| Viral Video | 0.50% | ~3,561 |
-| Conniption | 0.40% | ~2,849 |
-| Terminal Illness | 0.40% | ~2,849 |
-| Totally Vulnerable | 0.40% | ~2,849 |
-| Bloodbath | 0.30% | ~2,137 |
-| Biological Weaponry | 0.30% | ~2,137 |
-| Fleet of Foot | 0.30% | ~2,137 |
-| Taking One For The Team | 0.20% | ~1,424 |
-| Adept Bill | 0.20% | ~1,424 |
-| Quick Draw | 0.20% | ~1,424 |
-| Cleansed in Agony | 0.20% | ~1,424 |
-| Bump in the Night | 0.20% | ~1,424 |
-| Thrill of the Chase | 0.20% | ~1,424 |
 | The Grand Sacrifice | 0.10% | ~712 |
 | A bite for the Entity | 0.10% | ~712 |
 | A feast for the Entity | 0.10% | ~712 |
@@ -170,54 +104,120 @@ Number of Ratings: 70,340  (23.09.2022)
 | Whiffing to Success | 0.10% | ~712 |
 | Adept Kate | 0.10% | ~712 |
 | Outrage | 0.10% | ~712 |
+| Conniption | 0.10% | ~712 |
 | Adept Spirit | 0.10% | ~712 |
+| Ancestor's Rite | 0.10% | ~712 |
 | Not Today | 0.10% | ~712 |
 | Adept Adam | 0.10% | ~712 |
+| Heavy Burden | 0.10% | ~712 |
+| Deranged Pursuit | 0.10% | ~712 |
 | Adept Legion | 0.10% | ~712 |
+| Dismantle | 0.10% | ~712 |
+| Unforgettable Getaway | 0.10% | ~712 |
 | Adept Jeff | 0.10% | ~712 |
+| Devoted Gatekeeping | 0.10% | ~712 |
+| Terminal Illness | 0.10% | ~712 |
 | Adept Plague | 0.10% | ~712 |
+| Wounded Healer | 0.10% | ~712 |
+| Shrine Apparatus | 0.10% | ~712 |
 | Adept Jane | 0.10% | ~712 |
+| Cutting Out | 0.10% | ~712 |
+| Outrun Evil | 0.10% | ~712 |
 | Adept Ash | 0.10% | ~712 |
+| Silent Approach | 0.10% | ~712 |
+| Totally Vulnerable | 0.10% | ~712 |
 | Adept Ghost Face | 0.10% | ~712 |
+| Taking One For The Team | 0.10% | ~712 |
+| Left For Dead | 0.10% | ~712 |
+| Adept Bill | 0.10% | ~712 |
+| Denied! | 0.10% | ~712 |
+| First to the Punch | 0.10% | ~712 |
 | Tools of the Trade | 0.10% | ~712 |
+| Operation: Survival | 0.10% | ~712 |
 | Expert Generalist | 0.10% | ~712 |
 | Skilled Generalist | 0.10% | ~712 |
+| Broken Bodies | 0.10% | ~712 |
+| Bloodbath | 0.10% | ~712 |
 | Adept Oni | 0.10% | ~712 |
+| Grim Pilgrimage | 0.10% | ~712 |
+| Bodyguard | 0.10% | ~712 |
 | Adept Yui | 0.10% | ~712 |
+| Bound and Downed | 0.10% | ~712 |
+| Quick Draw | 0.10% | ~712 |
 | Adept Deathslinger | 0.10% | ~712 |
+| Old West Oasis | 0.10% | ~712 |
+| Selfless Survival | 0.10% | ~712 |
 | Adept Zarina | 0.10% | ~712 |
+| Cleansed in Agony | 0.10% | ~712 |
+| Death of Ignorance | 0.10% | ~712 |
 | Adept Executioner | 0.10% | ~712 |
+| Classy Act | 0.10% | ~712 |
+| Healthy Obsession | 0.10% | ~712 |
 | Adept Cheryl | 0.10% | ~712 |
+| Speed Kills | 0.10% | ~712 |
+| I See You | 0.10% | ~712 |
 | Adept Blight | 0.10% | ~712 |
+| Every Last Drop | 0.10% | ~712 |
+| Resurgence | 0.10% | ~712 |
 | Adept Felix | 0.10% | ~712 |
 | Tag Team | 0.10% | ~712 |
+| End of Days | 0.10% | ~712 |
 | Adept Twins | 0.10% | ~712 |
+| Rescue Mission | 0.10% | ~712 |
+| Power Moves | 0.10% | ~712 |
 | Adept Élodie | 0.10% | ~712 |
+| One Thousand Cuts | 0.10% | ~712 |
+| Multi-tasker | 0.10% | ~712 |
 | Adept Trickster | 0.10% | ~712 |
+| Insult and Injury | 0.10% | ~712 |
+| Close Shave | 0.10% | ~712 |
 | Adept Yun-Jin | 0.10% | ~712 |
+| Biological Weaponry | 0.10% | ~712 |
+| Preemptive Strike | 0.10% | ~712 |
 | Adept Nemesis | 0.10% | ~712 |
+| Raccoon City Recruit | 0.10% | ~712 |
 | Adept Leon | 0.10% | ~712 |
 | Adept Jill | 0.10% | ~712 |
+| Tear Their Soul Apart | 0.10% | ~712 |
+| Punch Drunk | 0.10% | ~712 |
 | Adept Cenobite | 0.10% | ~712 |
 | Bless You | 0.10% | ~712 |
+| Humanitarian | 0.10% | ~712 |
 | Adept Mikaela | 0.10% | ~712 |
 | Caws of Death | 0.10% | ~712 |
+| Prowler | 0.10% | ~712 |
 | Adept Artist | 0.10% | ~712 |
+| With Scars to Show | 0.10% | ~712 |
+| Flight to Freedom | 0.10% | ~712 |
 | Adept Jonah | 0.10% | ~712 |
+| Viral Video | 0.10% | ~712 |
+| Ghost in the Machine | 0.10% | ~712 |
 | Adept Onryō | 0.10% | ~712 |
+| Fleet of Foot | 0.10% | ~712 |
+| Triage | 0.10% | ~712 |
 | Adept Yoichi | 0.10% | ~712 |
+| Bump in the Night | 0.10% | ~712 |
+| From the Deep | 0.10% | ~712 |
 | Adept Dredge | 0.10% | ~712 |
+| Outrun the Overlap | 0.10% | ~712 |
 | Hiding Seeker | 0.10% | ~712 |
 | Adept Haddie | 0.10% | ~712 |
 | Collision Course | 0.10% | ~712 |
+| High Speed Pursuit | 0.10% | ~712 |
 | Adept Mastermind | 0.10% | ~712 |
 | Outbreak Breakout | 0.10% | ~712 |
 | Adept Ada | 0.10% | ~712 |
 | Adept Rebecca | 0.10% | ~712 |
 | Cruelty Loves Company | 0.10% | ~712 |
+| A Fast Death | 0.10% | ~712 |
 | Adept Knight | 0.10% | ~712 |
+| Rebuilding The Borgo | 0.10% | ~712 |
+| Lifting The Fog | 0.10% | ~712 |
 | Adept Vittorio | 0.10% | ~712 |
+| Thrill of the Chase | 0.10% | ~712 |
+| Chorus of Chaos | 0.10% | ~712 |
 | Adept Skull Merchant | 0.10% | ~712 |
+| Hack the Mainframe | 0.10% | ~712 |
 | Adept Thalita | 0.10% | ~712 |
 | Adept Renato | 0.10% | ~712 |
 | Slip Into the Stream | 0.10% | ~712 |
@@ -226,8 +226,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.10% | ~712 |
 | One More Step | 0.10% | ~712 |
 | Adept Gabriel | 0.10% | ~712 |
+| Second Act | 0.10% | ~712 |
+| Make Some Noise | 0.10% | ~712 |
+| Adept Cage | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,214 (Ranked 19)  
+Progressed: 712,377 (Ranked 19)  
 Completed: 42 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +326,7 @@ Completed: 42 (0.01%) (Ranked 230)
 | 2023-07-22 | 703,521 | 42 |
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
-| 2023-07-25 | 712,214 | 42 |
+| 2023-07-25 | 712,377 | 42 |
 ## Awards
 Max (Diverse Characters): 30,242  (Ranked 15)  
 Sum: 239,391 (Ranked 12)  

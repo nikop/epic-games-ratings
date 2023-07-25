@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1254,9 +1254,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_sextaKill",
@@ -1486,9 +1486,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:05:13.6639515+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:05:42.4595722+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.2452494+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:58:51.1849429+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:05:13.6640149+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:59:03.3505714+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:05:42.4596333+00:00"
 }

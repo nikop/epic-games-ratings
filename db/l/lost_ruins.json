@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -636,6 +636,11 @@
       "Time": "2023-07-23T19:02:34.6963066+00:00",
       "NumProgressed": 407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T15:04:08.0150178+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -663,7 +668,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Assassin",
@@ -765,9 +770,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "Librarian",
@@ -823,7 +828,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "OrcMustDie",
@@ -871,7 +876,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SlingOfDavid",
@@ -927,7 +932,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TreasureHunter",
@@ -935,7 +940,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Troubleshooter",
@@ -966,7 +971,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 0
     }
   ],
@@ -974,8 +979,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:03:29.1862196+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:04:08.0150172+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:33.5392368+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:00:13.6432901+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:03:29.1862467+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:00:23.9562364+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:04:08.0150441+00:00"
 }

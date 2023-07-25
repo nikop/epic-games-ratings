@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 74.00% | ~170 |
-| Aspairagus | 55.00% | ~99 |
+| Aspairagus | 56.00% | ~101 |
 | First Blood | 54.00% | ~124 |
 | Triple Kill | 53.00% | ~122 |
 | Survivor | 53.00% | ~95 |
@@ -22,7 +22,7 @@
 | Drinking Problem | 22.00% | ~51 |
 | Quick-Draw Pod | 21.00% | ~38 |
 | Professional Survivor | 20.00% | ~36 |
-| Pork Chop Express | 16.00% | ~37 |
+| Pork Chop Express | 17.00% | ~39 |
 | Skin Of Your Teeth | 14.00% | ~32 |
 | Eggtraordinary | 13.00% | ~30 |
 | Carrocketeer | 13.00% | ~30 |

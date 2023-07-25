@@ -5222,10 +5222,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30716,
       "NumberOfAwardsMax": 5082
+    },
+    {
+      "Time": "2023-07-25T14:58:54.785145+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30719,
+      "NumberOfAwardsMax": 5082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30716,
+  "NumberOfAwards": 30719,
   "NumberOfAwardsMax": 5082,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5257,7 +5263,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4021
+      "Count": 4024
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5272,10 +5278,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215393,
-  "EOS_Completed": 2103,
-  "EOS_NewPlayers": 2341,
-  "EOS_NewCompleters": 45,
+  "EOS_Progressed": 215403,
+  "EOS_Completed": 2106,
+  "EOS_NewPlayers": 2331,
+  "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15557,6 +15563,11 @@
       "Time": "2023-07-25T14:06:36.4889997+00:00",
       "NumProgressed": 215393,
       "NumCompleted": 2103
+    },
+    {
+      "Time": "2023-07-25T15:07:21.7259501+00:00",
+      "NumProgressed": 215403,
+      "NumCompleted": 2106
     }
   ],
   "TotalAchievements": 512,
@@ -16038,9 +16049,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_1121",
@@ -16430,9 +16441,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1203",
@@ -16798,9 +16809,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_170",
@@ -16910,9 +16921,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_209",
@@ -19566,9 +19577,9 @@
       "ID": "objective_completed_593",
       "SetID": "415jc5c",
       "Name": "Goblin Halls: the Next Generation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_663",
@@ -19598,9 +19609,9 @@
       "ID": "objective_completed_1376",
       "SetID": "415jc5c",
       "Name": "Luigi After Hours",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1380",
@@ -19614,9 +19625,9 @@
       "ID": "objective_completed_1381",
       "SetID": "415jc5c",
       "Name": "Electric Mayhem",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1385",
@@ -19638,9 +19649,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 908
     },
     {
       "ID": "objective_completed_1391",
@@ -19663,21 +19674,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181667,
-      "Completed": 2963
+      "Progressed": 181677,
+      "Completed": 2966
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215393,
-      "Completed": 2103
+      "Progressed": 215403,
+      "Completed": 2106
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-25T13:58:40.0534432+00:00",
-  "LastChanged_Achievements": "2023-07-25T14:06:36.4889992+00:00",
+  "LastChanged": "2023-07-25T14:58:54.7851448+00:00",
+  "LastChanged_Achievements": "2023-07-25T15:07:21.7259495+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:58:40.0534442+00:00",
-  "LastUpdate_Achievements": "2023-07-25T14:06:36.4913198+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:58:54.7851454+00:00",
+  "LastUpdate_Achievements": "2023-07-25T15:07:21.7282286+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,058 |
-| Apprentice | 58.00% | ~382,686 |
-| Close Shave | 25.00% | ~164,951 |
-| Mercenary | 23.00% | ~151,755 |
-| Ninja | 23.00% | ~151,755 |
+| The Fool | 72.00% | ~475,062 |
+| Apprentice | 58.00% | ~382,689 |
+| Close Shave | 25.00% | ~164,952 |
+| Mercenary | 23.00% | ~151,756 |
+| Ninja | 23.00% | ~151,756 |
 | Northern Scourge | 17.00% | ~112,167 |
-| Thief Bane | 14.00% | ~92,372 |
-| Master of Arms | 12.00% | ~79,176 |
-| Gambler | 10.00% | ~65,980 |
-| Dice Master | 10.00% | ~65,980 |
-| Swordsman | 9.00% | ~59,382 |
-| Knight | 8.00% | ~52,784 |
-| Cure for Corruption | 8.00% | ~52,784 |
-| Focused | 8.00% | ~52,784 |
-| Flurry of Fury | 8.00% | ~52,784 |
-| Long Shot | 7.00% | ~46,186 |
-| Devil Dice | 7.00% | ~46,186 |
-| Broken Heart | 7.00% | ~46,186 |
+| Thief Bane | 14.00% | ~92,373 |
+| Master of Arms | 12.00% | ~79,177 |
+| Gambler | 10.00% | ~65,981 |
+| Dice Master | 10.00% | ~65,981 |
+| Swordsman | 9.00% | ~59,383 |
+| Knight | 8.00% | ~52,785 |
+| Cure for Corruption | 8.00% | ~52,785 |
+| Focused | 8.00% | ~52,785 |
+| Flurry of Fury | 8.00% | ~52,785 |
+| Long Shot | 7.00% | ~46,187 |
+| Devil Dice | 7.00% | ~46,187 |
+| Broken Heart | 7.00% | ~46,187 |
 | Adventurer | 6.00% | ~39,588 |
 | Empire's Bane | 6.00% | ~39,588 |
 | Jack of all Trades | 5.00% | ~32,990 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,803 (Ranked 22)  
+Progressed: 659,808 (Ranked 22)  
 Completed: 167 (0.03%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 167 (0.03%) (Ranked 216)
 | 2023-07-22 | 659,686 | 167 |
 | 2023-07-23 | 659,734 | 167 |
 | 2023-07-24 | 659,774 | 167 |
-| 2023-07-25 | 659,803 | 167 |
+| 2023-07-25 | 659,808 | 167 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 435)  
 Sum: 180 (Ranked 375)  
