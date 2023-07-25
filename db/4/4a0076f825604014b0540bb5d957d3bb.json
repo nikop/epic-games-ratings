@@ -174,9 +174,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -318,9 +318,9 @@
       "ID": "CgkInO_K3eIdEAIQGA",
       "SetID": "6bj96in",
       "Name": "BLIND FAITH",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkInO_K3eIdEAIQGQ",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:10.7280191+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:04:51.8909442+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:57:19.9444942+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:10.7280347+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:57:31.9407334+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:04:51.8909643+00:00"
 }

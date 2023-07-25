@@ -8,11 +8,11 @@ Rating: 4.14 (Ranked 883)
 | Attachments | 9.00% | ~3,530 |
 | Unlocked Potential | 9.00% | ~3,530 |
 | Tinkerer | 7.00% | ~2,746 |
-| Leapfrogger | 6.00% | ~2,353 |
-| Knock 'Em Dead | 6.00% | ~2,353 |
-| Pilgrimage: Initiate | 6.00% | ~2,353 |
-| Hell of a Run | 6.00% | ~2,353 |
-| Call of the Fount: Baptized | 6.00% | ~2,353 |
+| Leapfrogger | 6.00% | ~2,354 |
+| Knock 'Em Dead | 6.00% | ~2,354 |
+| Pilgrimage: Initiate | 6.00% | ~2,354 |
+| Hell of a Run | 6.00% | ~2,354 |
+| Call of the Fount: Baptized | 6.00% | ~2,354 |
 | No Mercy | 5.00% | ~1,961 |
 | Explorer: Seeker | 5.00% | ~1,961 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,569 |
@@ -21,13 +21,13 @@ Rating: 4.14 (Ranked 883)
 | The Interloper | 3.00% | ~1,177 |
 | Hop, Step, Jump | 3.00% | ~1,177 |
 | Endless Runner | 3.00% | ~1,177 |
-| Outdoorsperson | 2.00% | ~784 |
-| What Must Be Done | 2.00% | ~784 |
-| Might and Main | 2.00% | ~784 |
-| Damned If You Do... | 2.00% | ~784 |
-| Explorer: Pathfinder | 2.00% | ~784 |
-| Shocker | 2.00% | ~784 |
-| From Every Angle | 2.00% | ~784 |
+| Outdoorsperson | 2.00% | ~785 |
+| What Must Be Done | 2.00% | ~785 |
+| Might and Main | 2.00% | ~785 |
+| Damned If You Do... | 2.00% | ~785 |
+| Explorer: Pathfinder | 2.00% | ~785 |
+| Shocker | 2.00% | ~785 |
+| From Every Angle | 2.00% | ~785 |
 | The Hue of Blue | 1.00% | ~392 |
 | The Truth Will Out | 1.00% | ~392 |
 | Breaking Point | 1.00% | ~392 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 883)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,223 (Ranked 90)  
+Progressed: 39,226 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 3 (0.01%) (Ranked 230)
 | 2023-07-22 | 39,152 | 3 |
 | 2023-07-23 | 39,194 | 3 |
 | 2023-07-24 | 39,218 | 3 |
-| 2023-07-25 | 39,223 | 3 |
+| 2023-07-25 | 39,226 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
 Sum: 21 (Ranked 494)  

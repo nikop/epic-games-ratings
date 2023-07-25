@@ -6,18 +6,18 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,525 |
+| Unforgiven | 88.00% | ~1,526 |
 | Self-Improvement | 72.00% | ~1,248 |
-| Perky | 65.00% | ~1,126 |
+| Perky | 65.00% | ~1,127 |
 | Let’s Ride | 60.00% | ~1,040 |
 | Welcome to the Weird West | 57.00% | ~988 |
-| Dead or Alive | 56.00% | ~970 |
+| Dead or Alive | 56.00% | ~971 |
 | Full House | 36.00% | ~624 |
 | Off the Trail | 33.00% | ~572 |
 | Justice Served | 29.00% | ~503 |
 | Chain Reaction | 27.00% | ~468 |
 | Through Their Eyes | 26.00% | ~451 |
-| Scholar | 25.00% | ~433 |
+| Scholar | 25.00% | ~434 |
 | Dishonored | 24.00% | ~416 |
 | Rain of Death | 24.00% | ~416 |
 | The Great Escape | 23.00% | ~399 |
@@ -50,8 +50,8 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~52 |
 | Moondrunk | 3.00% | ~52 |
 | Lord Inut Sends His Regards | 2.00% | ~35 |
-| 'Ma Barker | 2.00% | ~35 |
 | Hog Wild | 1.00% | ~17 |
+| 'Ma Barker | 1.00% | ~17 |
 | I Kicked a Bird and I Liked it | 0.90% | ~16 |
 | End the world | 0.60% | ~10 |
 | Explorer | 0.50% | ~9 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,733 (Ranked 168)  
+Progressed: 1,734 (Ranked 168)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-22 | 1,718 | 3 |
 | 2023-07-23 | 1,727 | 3 |
 | 2023-07-24 | 1,731 | 3 |
-| 2023-07-25 | 1,733 | 3 |
+| 2023-07-25 | 1,734 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

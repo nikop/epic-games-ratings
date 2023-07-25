@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1845,9 +1845,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43136,
+  "EOS_Progressed": 43137,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5355,6 +5355,11 @@
       "Time": "2023-07-24T19:04:20.0881375+00:00",
       "NumProgressed": 43136,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-25T12:05:15.3793383+00:00",
+      "NumProgressed": 43137,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5366,7 +5371,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26313
+      "UsersEstimate": 26314
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5558,7 +5563,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26744
+      "UsersEstimate": 26745
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5574,7 +5579,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -5606,7 +5611,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -5654,7 +5659,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15960
+      "UsersEstimate": 15961
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -5662,7 +5667,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18117
+      "UsersEstimate": 18118
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -5694,7 +5699,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29764
+      "UsersEstimate": 29765
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5806,7 +5811,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -5822,7 +5827,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28038
+      "UsersEstimate": 28039
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5870,7 +5875,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6470
+      "UsersEstimate": 6471
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -5878,7 +5883,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -5893,15 +5898,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43136,
+      "Progressed": 43137,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-17T15:01:08.5861106+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:31.3655894+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:05:15.379337+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.6064619+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:00:55.8695744+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:31.3656578+00:00"
+  "LastUpdate_Ratings": "2023-07-25T12:01:42.2055376+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:05:15.3794432+00:00"
 }

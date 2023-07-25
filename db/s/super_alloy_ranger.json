@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -272,25 +272,25 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "Achi_02",
-      "SetID": "51a97k7",
-      "Name": "The Deep Frozen Conqueror",
       "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
     {
-      "ID": "Achi_03",
+      "ID": "Achi_02",
       "SetID": "51a97k7",
-      "Name": "The Abyss Conqueror",
+      "Name": "The Deep Frozen Conqueror",
       "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
+    },
+    {
+      "ID": "Achi_03",
+      "SetID": "51a97k7",
+      "Name": "The Abyss Conqueror",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_04",
@@ -304,9 +304,9 @@
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_06",
@@ -320,9 +320,9 @@
       "ID": "Achi_07",
       "SetID": "51a97k7",
       "Name": "The Zero Dimensional Capital Conqueror",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_08",
@@ -336,9 +336,9 @@
       "ID": "Achi_09",
       "SetID": "51a97k7",
       "Name": "The Hypergravitational Abyss Conqueror",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_10",
@@ -368,9 +368,9 @@
       "ID": "Achi_13",
       "SetID": "51a97k7",
       "Name": "Grand Escape",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_14",
@@ -400,9 +400,9 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_18",
@@ -448,9 +448,9 @@
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_24",
@@ -464,9 +464,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_26",
@@ -488,9 +488,9 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_29",
@@ -584,9 +584,9 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_41",
@@ -640,9 +640,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_48",
@@ -681,8 +681,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:34.1173792+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:05:18.2523754+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.3124838+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:00:58.7655681+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:34.1174147+00:00"
+  "LastUpdate_Ratings": "2023-07-25T12:01:46.9911489+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:05:18.2524139+00:00"
 }

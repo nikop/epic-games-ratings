@@ -2547,7 +2547,7 @@
   ],
   "EOS_Progressed": 233080,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12739,9 +12739,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 95563
+      "UsersEstimate": 97894
     },
     {
       "ID": "NOEPIC",
@@ -13124,8 +13124,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-24T03:01:11.7411434+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:46.4955955+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:05:33.2640367+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:28.9863415+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:00:29.2241773+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:46.4957795+00:00"
+  "LastUpdate_Ratings": "2023-07-25T12:01:10.6263215+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:05:33.264319+00:00"
 }

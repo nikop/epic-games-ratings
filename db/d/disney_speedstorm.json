@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -3828,9 +3828,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 361
     },
     {
       "ID": "18",
@@ -3962,8 +3962,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:06:24.4510225+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:07:26.1558926+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:59:51.1608151+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:06:24.4510547+00:00"
+  "LastUpdate_Ratings": "2023-07-25T12:00:28.8227766+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:07:26.1560389+00:00"
 }

@@ -7,30 +7,30 @@
 | Such a strange dream… | 89.00% | ~125 |
 | Your first fight | 87.00% | ~123 |
 | Good Person Chip | 86.00% | ~121 |
-| First winning | 84.00% | ~118 |
-| Your first job | 84.00% | ~118 |
-| First defeat | 79.00% | ~111 |
+| First winning | 85.00% | ~120 |
+| Your first job | 85.00% | ~120 |
+| First defeat | 80.00% | ~113 |
 | Old movies enjoyer | 77.00% | ~109 |
 | Fitness professional | 76.00% | ~107 |
-| Depressed visitor | 74.00% | ~104 |
-| Neurotrainer – power gainer! | 74.00% | ~104 |
+| Depressed visitor | 76.00% | ~107 |
+| Neurotrainer – power gainer! | 75.00% | ~106 |
 | Employee of the week | 74.00% | ~104 |
 | Your own amateur gym | 70.00% | ~99 |
 | Run K, run! | 67.00% | ~94 |
-| No bullying more | 65.00% | ~92 |
-| Hello, world! | 64.00% | ~90 |
+| No bullying more | 66.00% | ~93 |
+| Hello, world! | 65.00% | ~92 |
 | Intriguing candies | 62.00% | ~87 |
 | Fighting is cool | 61.00% | ~86 |
 | Pal of your father? | 56.00% | ~79 |
 | Employee of the month | 55.00% | ~78 |
 | Spirit of the past | 54.00% | ~76 |
 | Little hacker | 52.00% | ~73 |
+| Workout professional | 50.00% | ~70 |
+| Law student | 50.00% | ~70 |
 | Your own way | 50.00% | ~70 |
-| Workout professional | 49.00% | ~69 |
-| Law student | 49.00% | ~69 |
-| Fight for life | 46.00% | ~65 |
-| Champion – starter pack | 46.00% | ~65 |
-| Employee of the year | 44.00% | ~62 |
+| Fight for life | 47.00% | ~66 |
+| Champion – starter pack | 47.00% | ~66 |
+| Employee of the year | 45.00% | ~63 |
 | Handyman | 43.00% | ~61 |
 | It's good to be alive | 43.00% | ~61 |
 | Own four walls | 43.00% | ~61 |
@@ -69,10 +69,10 @@
 | The heart of the Resistance | 16.00% | ~23 |
 | Silver’s past | 14.00% | ~20 |
 | Better cooking at home | 14.00% | ~20 |
-| The only right decision | 11.00% | ~16 |
+| The only right decision | 12.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 141 (Ranked 293)  
-Completed: 2 (1.42%) (Ranked 97)  
+Completed: 3 (2.13%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 2 (1.42%) (Ranked 97)
 | 2023-07-22 | 87 | 0 |
 | 2023-07-23 | 115 | 0 |
 | 2023-07-24 | 138 | 1 |
-| 2023-07-25 | 141 | 2 |
+| 2023-07-25 | 141 | 3 |

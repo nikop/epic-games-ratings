@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2023-07-25T07:05:12.5831927+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T12:05:44.7869031+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -429,7 +434,7 @@
       "Name": "Construct your world",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "goblin_slayed",
@@ -469,7 +474,7 @@
       "Name": "Pianist",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "platformer_player",
@@ -509,7 +514,7 @@
       "Name": "NFT Gallery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "super_creator",
@@ -549,7 +554,7 @@
       "Name": "Visit Cleric",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "waifu_kata",
@@ -557,21 +562,21 @@
       "Name": "Waifu Kata",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:56.5122172+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:05:44.7869023+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:57:24.26936+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:56.51223+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:57:37.0065207+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:05:44.7869489+00:00"
 }

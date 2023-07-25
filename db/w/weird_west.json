@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1733,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1505,6 +1505,11 @@
       "Time": "2023-07-25T07:05:13.8389255+00:00",
       "NumProgressed": 1733,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T12:05:45.7894463+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1524,7 +1529,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1706,9 +1711,9 @@
       "ID": "ACH_MA_BARKER",
       "SetID": "8j30i9k",
       "Name": "\u0027Ma Barker",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_MONSTER_HUNTER",
@@ -1764,7 +1769,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1804,7 +1809,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1892,7 +1897,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1939,15 +1944,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1733,
+      "Progressed": 1734,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:04:57.4254338+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:05:45.7894456+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:59:15.0915636+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:04:57.4254763+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:59:48.2946055+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:05:45.7895015+00:00"
 }

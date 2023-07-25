@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,153 |
-| Beast Intentions | 1.00% | ~2,153 |
-| Maddening | 0.90% | ~1,938 |
-| The Silken Swamp | 0.70% | ~1,507 |
-| Supply Run | 0.60% | ~1,292 |
+| A Brief Tour of the Realms | 1.00% | ~2,154 |
+| Maddening | 1.00% | ~2,154 |
+| Beast Intentions | 1.00% | ~2,154 |
+| The Silken Swamp | 0.70% | ~1,508 |
+| Supply Run | 0.70% | ~1,508 |
 | Rocky Reception | 0.60% | ~1,090 |
+| Rock and Roll | 0.60% | ~1,090 |
 | Vecna Lives! | 0.50% | ~908 |
-| Rock and Roll | 0.50% | ~908 |
 | Flight of the Kindori Pod | 0.50% | ~908 |
-| Tall Tales | 0.40% | ~726 |
+| Tall Tales | 0.40% | ~727 |
 | Wet Feet | 0.40% | ~861 |
-| Seeds of Destruction | 0.40% | ~726 |
-| Vecna Loots! | 0.40% | ~726 |
-| Return to the Tomb | 0.40% | ~726 |
-| The Champion's Guide to Wildspace | 0.40% | ~726 |
-| Topolah's Tower | 0.40% | ~726 |
+| Seeds of Destruction | 0.40% | ~727 |
+| Vecna Loots! | 0.40% | ~727 |
+| Return to the Tomb | 0.40% | ~727 |
+| The Champion's Guide to Wildspace | 0.40% | ~727 |
+| Topolah's Tower | 0.40% | ~727 |
 | Pros and CONs | 0.30% | ~646 |
 | The Witchlight Carnival | 0.30% | ~545 |
 | Hatchlings Underfoot | 0.30% | ~646 |
@@ -31,7 +31,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.30% | ~646 |
 | Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
+| Beast Mode | 0.30% | ~646 |
 | Terror in the Dark | 0.30% | ~646 |
+| A Mysterious Summons | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
 | Not That Type of Helm! | 0.30% | ~545 |
@@ -46,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
 | The Prince of a Thousand Enemies | 0.20% | ~363 |
+| Downfall | 0.20% | ~363 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
 | On the Hunt | 0.20% | ~431 |
@@ -59,13 +62,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
 | Welcome to the Rock | 0.20% | ~363 |
-| Beast Mode | 0.20% | ~431 |
 | The Forbidden City | 0.20% | ~431 |
+| Captured! | 0.20% | ~431 |
 | Low Initiative | 0.20% | ~431 |
-| A Mysterious Summons | 0.20% | ~431 |
 | Street War | 0.20% | ~431 |
 | March of the Undead | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
+| A Grand Puzzle | 0.20% | ~431 |
+| Tomb of the Nine Gods | 0.20% | ~431 |
 | No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
@@ -84,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~431 |
 | Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
+| Durable Deep | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
@@ -118,7 +123,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.10% | ~182 |
 | The Birds | 0.10% | ~182 |
 | Where the Magic Happens | 0.10% | ~182 |
-| Downfall | 0.10% | ~182 |
 | First Third Out | 0.10% | ~182 |
 | Second Third Out | 0.10% | ~182 |
 | Third Third Out | 0.10% | ~182 |
@@ -197,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~215 |
 | No Good at All | 0.10% | ~215 |
 | Fall From Grace | 0.10% | ~215 |
-| Captured! | 0.10% | ~215 |
 | Home Field Advantage | 0.10% | ~215 |
 | Double Vision | 0.10% | ~215 |
 | Underground Railroad | 0.10% | ~215 |
@@ -205,11 +208,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.10% | ~215 |
 | Sleuth It Out | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
-| A Grand Puzzle | 0.10% | ~215 |
 | Never Split the Party | 0.10% | ~215 |
 | Azaka's Procession - Part 1 | 0.10% | ~215 |
 | Snakes on our Plane | 0.10% | ~182 |
-| Tomb of the Nine Gods | 0.10% | ~215 |
 | The Soulmonger Calls | 0.10% | ~215 |
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
@@ -439,7 +440,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~182 |
 | Trench Coat Run | 0.10% | ~182 |
 | The Taunting Lord | 0.10% | ~182 |
-| Durable Deep | 0.10% | ~215 |
 | Lone Wolf Party | 0.10% | ~182 |
 | The Sibriex | 0.10% | ~182 |
 | The Archduke's Blessing | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,349 (Ranked 53)  
-Completed: 2,099 (0.97%) (Ranked 108)  
+Progressed: 215,364 (Ranked 53)  
+Completed: 2,101 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,099 (0.97%) (Ranked 108)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,349 | 2,099 |
+| 2023-07-25 | 215,364 | 2,101 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

@@ -34,7 +34,7 @@ Rating: 4.55 (Ranked 480)
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 895 (Ranked 195)  
-Completed: 15 (1.68%) (Ranked 88)  
+Completed: 15 (1.68%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

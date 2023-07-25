@@ -23,8 +23,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 45.00% | ~104,886 |
 | Sneaky | 43.00% | ~100,224 |
 | Delving Deeper | 42.00% | ~97,894 |
+| C-C-Combo | 42.00% | ~97,894 |
 | Ambitious Intent | 41.00% | ~95,563 |
-| C-C-Combo | 41.00% | ~95,563 |
 | Nothing To Lose | 40.00% | ~93,232 |
 | The Bestiary | 40.00% | ~93,232 |
 | What's Yours Is Mine | 38.00% | ~88,570 |

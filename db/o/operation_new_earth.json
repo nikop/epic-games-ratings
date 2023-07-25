@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -2116,6 +2116,11 @@
       "Time": "2023-07-25T07:06:18.6753305+00:00",
       "NumProgressed": 616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T12:06:54.6105064+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2143,7 +2148,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2159,7 +2164,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -2191,7 +2196,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2263,7 +2268,7 @@
       "Name": "Captain",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2271,7 +2276,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -2430,14 +2435,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:05:57.3946156+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:06:54.6105053+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:01:33.8273444+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:05:57.3947067+00:00"
+  "LastUpdate_Ratings": "2023-07-25T12:02:25.2581549+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:06:54.6105699+00:00"
 }

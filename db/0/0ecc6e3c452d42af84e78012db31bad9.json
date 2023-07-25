@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1659,
+  "EOS_Progressed": 1660,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2566,6 +2566,11 @@
       "Time": "2023-07-25T11:05:21.6063373+00:00",
       "NumProgressed": 1659,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-25T12:06:13.2756324+00:00",
+      "NumProgressed": 1660,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -2593,7 +2598,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach_animals_completed",
@@ -2609,7 +2614,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ach_architecture_completed",
@@ -2649,7 +2654,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ach_food_completed",
@@ -2704,14 +2709,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1659,
+      "Progressed": 1660,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-25T11:05:21.6063368+00:00",
+  "LastChanged_Achievements": "2023-07-25T12:06:13.2756315+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.4941332+00:00",
-  "LastUpdate_Ratings": "2023-07-25T10:57:29.3522032+00:00",
-  "LastUpdate_Achievements": "2023-07-25T11:05:21.6063582+00:00"
+  "LastUpdate_Ratings": "2023-07-25T11:57:46.7312047+00:00",
+  "LastUpdate_Achievements": "2023-07-25T12:06:13.2756629+00:00"
 }
