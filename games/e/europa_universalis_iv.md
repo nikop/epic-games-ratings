@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,648 |
-| That's a Grand Army | 8.00% | ~5,909 |
-| That is mine! | 8.00% | ~5,909 |
-| Victorious! | 8.00% | ~5,909 |
-| Brothers in Arms | 6.00% | ~4,432 |
-| That's a Grand Navy | 6.00% | ~4,432 |
-| Seriously?! | 6.00% | ~4,432 |
-| For the Glory | 5.00% | ~3,693 |
+| Until death do us apart | 9.00% | ~6,649 |
+| That's a Grand Army | 8.00% | ~5,910 |
+| That is mine! | 8.00% | ~5,910 |
+| Victorious! | 8.00% | ~5,910 |
+| Brothers in Arms | 6.00% | ~4,433 |
+| That's a Grand Navy | 6.00% | ~4,433 |
+| Seriously?! | 6.00% | ~4,433 |
+| For the Glory | 5.00% | ~3,694 |
 | Cold War | 4.00% | ~2,955 |
 | True Catholic | 4.00% | ~2,955 |
 | Defender of the Faith | 3.00% | ~2,216 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,216 |
 | The Princess is in this Castle | 3.00% | ~2,216 |
 | Truly Divine Ruler | 3.00% | ~2,216 |
-| Agressive Expander | 2.00% | ~1,477 |
-| Blockader | 2.00% | ~1,477 |
-| Combined Arms | 2.00% | ~1,477 |
-| Double the Love | 2.00% | ~1,477 |
-| Gentle Persuasion | 2.00% | ~1,477 |
-| My armies are invincible! | 2.00% | ~1,477 |
-| Queen of Conquest | 2.00% | ~1,477 |
-| Royal Authority | 2.00% | ~1,477 |
-| Total Control | 2.00% | ~1,477 |
+| Agressive Expander | 2.00% | ~1,478 |
+| Blockader | 2.00% | ~1,478 |
+| Combined Arms | 2.00% | ~1,478 |
+| Double the Love | 2.00% | ~1,478 |
+| Gentle Persuasion | 2.00% | ~1,478 |
+| My armies are invincible! | 2.00% | ~1,478 |
+| Queen of Conquest | 2.00% | ~1,478 |
+| Royal Authority | 2.00% | ~1,478 |
+| Total Control | 2.00% | ~1,478 |
 | All That's Thine Shall Be Mine | 1.00% | ~739 |
 | Azur semé de lis or | 1.00% | ~739 |
 | Bright Spark | 1.00% | ~739 |
@@ -60,17 +60,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~369 |
 | Trophy Hunter | 0.50% | ~369 |
 | Voting Streak | 0.50% | ~369 |
-| All Your Trade Are Belong to Us | 0.40% | ~295 |
-| Bleed Them Dry | 0.40% | ~295 |
-| Dude, Where's my Boat? | 0.40% | ~295 |
-| Four For Trade | 0.40% | ~295 |
-| Global Hegemony | 0.40% | ~295 |
-| Italian Ambition | 0.40% | ~295 |
-| Just a Little Patience | 0.40% | ~295 |
-| One Night in Paris | 0.40% | ~295 |
-| Tear Down This Wall | 0.40% | ~295 |
-| The Continuation of Diplomacy | 0.40% | ~295 |
-| Wonderful | 0.40% | ~295 |
+| All Your Trade Are Belong to Us | 0.40% | ~296 |
+| Bleed Them Dry | 0.40% | ~296 |
+| Dude, Where's my Boat? | 0.40% | ~296 |
+| Four For Trade | 0.40% | ~296 |
+| Global Hegemony | 0.40% | ~296 |
+| Italian Ambition | 0.40% | ~296 |
+| Just a Little Patience | 0.40% | ~296 |
+| One Night in Paris | 0.40% | ~296 |
+| Tear Down This Wall | 0.40% | ~296 |
+| The Continuation of Diplomacy | 0.40% | ~296 |
+| Wonderful | 0.40% | ~296 |
 | A Decent Reserve | 0.30% | ~222 |
 | A Pile of Gold | 0.30% | ~222 |
 | Grand Duchy | 0.30% | ~222 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,866 (Ranked 74)  
+Progressed: 73,880 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -457,10 +457,10 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 72,954 | 0 |
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
-| 2023-07-25 | 73,866 | 0 |
+| 2023-07-25 | 73,880 | 0 |
 ## Awards
 Max (Educational): 5,579  (Ranked 61)  
-Sum: 45,987 (Ranked 26)  
+Sum: 45,996 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -468,11 +468,11 @@ Diff (max vs sum): 35
 | This game is Highly Recommended | 5,336 |
 | This game has Challenging Combat | 5,294 |
 | This game is Extremely Fun | 5,286 |
-| This game has Diverse Characters | 5,251 |
+| This game has Diverse Characters | 5,257 |
 | This game is Relaxing | 5,155 |
 | This game has Competitive Players | 5,014 |
 | This game has Amazing Storytelling | 4,716 |
-| This game has Amazing Characters | 4,356 |
+| This game has Amazing Characters | 4,359 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -666,4 +666,4 @@ Diff (max vs sum): 35
 | 2023-07-22 | 4.69 | - | 5,572 | 45,935 |
 | 2023-07-23 | 4.69 | - | 5,577 | 45,966 |
 | 2023-07-24 | 4.69 | - | 5,579 | 45,978 |
-| 2023-07-25 | 4.69 | - | 5,579 | 45,987 |
+| 2023-07-25 | 4.69 | - | 5,579 | 45,996 |

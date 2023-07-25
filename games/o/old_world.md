@@ -33,12 +33,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
+| Developing Cities | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
+| Carthaginian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
 | Naming Landmarks | 0.30% | ~39 |
@@ -50,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
-| Developing Cities | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Strong Cities | 0.20% | ~26 |
 | Able Difficulty | 0.20% | ~26 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
-| Carthaginian Paganism | 0.20% | ~26 |
 | Egyptian Paganism | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |

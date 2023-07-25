@@ -34,9 +34,9 @@
 | Face Slapper | 26.00% | ~18 |
 | Master Cook | 23.00% | ~16 |
 | Berserker Slayer | 16.00% | ~11 |
+| Giantess Slayer | 14.00% | ~10 |
 | Warden Slayer | 14.00% | ~10 |
 | Boss challenge | 13.00% | ~9 |
-| Giantess Slayer | 13.00% | ~9 |
 | Big Face Goalkeeper Challenge | 4.00% | ~3 |
 | Rebellious | 3.00% | ~2 |
 | Blade Mantis Challenge | 3.00% | ~2 |

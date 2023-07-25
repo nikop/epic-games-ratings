@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -193,7 +193,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31286,
+  "EOS_Progressed": 31288,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
@@ -10538,6 +10538,11 @@
       "Time": "2023-07-25T09:04:47.3831733+00:00",
       "NumProgressed": 31286,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-25T10:04:21.5535468+00:00",
+      "NumProgressed": 31288,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10557,7 +10562,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6257
+      "UsersEstimate": 6258
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10643,9 +10648,9 @@
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
       "SetID": "443p4o4",
       "Name": "Oh God, Mother! Blood! Blood!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -10693,7 +10698,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -10780,7 +10785,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31286,
+      "Progressed": 31288,
       "Completed": 20
     }
   ],
@@ -10788,8 +10793,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:04:47.3831726+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:04:21.5535464+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:01:12.8386249+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:04:47.3832354+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:00:30.2676543+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:04:21.5536113+00:00"
 }

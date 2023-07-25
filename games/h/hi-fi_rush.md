@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 3.00% | ~107 |
+| Start with a bang! | 4.00% | ~143 |
 | Cream of the Crop | 3.00% | ~107 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~107 |
 | Feeling the beat! | 3.00% | ~107 |

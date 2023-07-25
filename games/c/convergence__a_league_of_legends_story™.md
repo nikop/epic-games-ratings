@@ -22,12 +22,12 @@
 | The Wicked Twins | 15.00% | ~118 |
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
+| The Family Fortune | 15.00% | ~118 |
 | Like Clockwork | 14.00% | ~110 |
 | The Man Who Shattered Time | 14.00% | ~110 |
 | Cartographer | 14.00% | ~110 |
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |
-| The Family Fortune | 14.00% | ~110 |
 | Treasure Trove | 13.00% | ~102 |
 | Right On Time | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
@@ -41,10 +41,10 @@
 | Syron for Hope | 8.00% | ~63 |
 | Ask Questions Later | 8.00% | ~63 |
 | Cultivair Explorer | 7.00% | ~55 |
+| Entresol Explorer | 7.00% | ~55 |
 | Factorywood Explorer | 7.00% | ~55 |
 | Corin Goes Home | 6.00% | ~47 |
 | Sartorialist | 6.00% | ~47 |
-| Entresol Explorer | 6.00% | ~47 |
 | Golem Hunter | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
 | Hexlock for Protection | 4.00% | ~31 |

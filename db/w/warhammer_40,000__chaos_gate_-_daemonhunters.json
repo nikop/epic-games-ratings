@@ -2987,25 +2987,25 @@
       "ID": "ExperiencedEversor",
       "SetID": "2im8phi",
       "Name": "Killing Rampage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ExperiencedVindicare",
       "SetID": "2im8phi",
       "Name": "Deadshot",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_BioMeltdown",
       "SetID": "2im8phi",
       "Name": "Terminal Meltdown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_TaintedSons_Execution",
@@ -3019,17 +3019,17 @@
       "ID": "MissionVictory_BoardingAction",
       "SetID": "2im8phi",
       "Name": "Tactical Sabotage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -3049,8 +3049,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:04:16.4652589+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:03:58.0887081+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:59:45.9355446+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:04:16.46532+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:59:16.1653183+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:03:58.0887697+00:00"
 }

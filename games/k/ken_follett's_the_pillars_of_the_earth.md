@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,789 |
-| Man of politics | 35.00% | ~4,942 |
+| Tattletale | 41.00% | ~5,790 |
+| Man of politics | 35.00% | ~4,943 |
 | Friends of sorts | 34.00% | ~4,801 |
 | Yet another secret | 34.00% | ~4,801 |
 | Let there be darkness | 33.00% | ~4,660 |
-| End of Book One | 30.00% | ~4,236 |
+| End of Book One | 30.00% | ~4,237 |
 | Wannabe knight | 24.00% | ~3,389 |
 | Garden of Eden | 24.00% | ~3,389 |
 | Full house | 24.00% | ~3,389 |
-| Help an old friend | 22.00% | ~3,106 |
+| Help an old friend | 22.00% | ~3,107 |
 | Two of us | 20.00% | ~2,824 |
 | Negotiation skills | 18.00% | ~2,542 |
 | Workers' union | 18.00% | ~2,542 |
 | End of Book Two | 18.00% | ~2,542 |
-| Everything's in order | 17.00% | ~2,400 |
+| Everything's in order | 17.00% | ~2,401 |
 | Jack was here! | 15.00% | ~2,118 |
 | Twist of Fate | 14.00% | ~1,977 |
 | Exterminator | 14.00% | ~1,977 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,271 |
 | The End. | 9.00% | ~1,271 |
 | A cry for help | 8.00% | ~1,130 |
-| Silentium est aureum | 7.00% | ~988 |
+| Silentium est aureum | 7.00% | ~989 |
 | Rebel without a cause | 6.00% | ~847 |
 | Staring contest champion | 5.00% | ~706 |
 | Lone wolf | 5.00% | ~706 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~424 |
 | Boy of mystery | 2.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,120 (Ranked 113)  
-Completed: 105 (0.74%) (Ranked 115)  
+Progressed: 14,122 (Ranked 113)  
+Completed: 105 (0.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,7 +144,7 @@ Completed: 105 (0.74%) (Ranked 115)
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
-| 2023-07-25 | 14,120 | 105 |
+| 2023-07-25 | 14,122 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 368)  

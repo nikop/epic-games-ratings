@@ -14,18 +14,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.60% | ~1,090 |
 | Vecna Lives! | 0.50% | ~908 |
 | Rock and Roll | 0.50% | ~908 |
+| Flight of the Kindori Pod | 0.50% | ~908 |
 | Tall Tales | 0.40% | ~726 |
+| Wet Feet | 0.40% | ~861 |
+| Seeds of Destruction | 0.40% | ~726 |
 | Vecna Loots! | 0.40% | ~726 |
-| Flight of the Kindori Pod | 0.40% | ~726 |
 | Topolah's Tower | 0.40% | ~726 |
 | Pros and CONs | 0.30% | ~646 |
 | The Witchlight Carnival | 0.30% | ~545 |
-| Wet Feet | 0.30% | ~646 |
 | Hatchlings Underfoot | 0.30% | ~646 |
 | Don't Look Up! | 0.30% | ~646 |
 | Heavy Burden | 0.30% | ~646 |
-| Seeds of Destruction | 0.30% | ~545 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
+| Friends of the Forest | 0.30% | ~646 |
 | Return to the Tomb | 0.30% | ~545 |
 | Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
@@ -38,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.30% | ~545 |
 | Krux's Speed Run | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
+| Nightmare Rats! | 0.20% | ~363 |
 | Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
 | The Prince of a Thousand Enemies | 0.20% | ~363 |
@@ -46,14 +48,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
-| Friends of the Forest | 0.20% | ~431 |
 | Were-verpowered | 0.20% | ~431 |
+| Who Lurks Below? | 0.20% | ~363 |
+| Xanathaaaaaaar! | 0.20% | ~363 |
 | Homecoming | 0.20% | ~431 |
 | The Lost Heir of Omu | 0.20% | ~431 |
 | A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
 | Welcome to the Rock | 0.20% | ~363 |
 | Beast Mode | 0.20% | ~431 |
+| The Forbidden City | 0.20% | ~431 |
 | Terror in the Dark | 0.20% | ~431 |
 | Low Initiative | 0.20% | ~431 |
 | A Mysterious Summons | 0.20% | ~431 |
@@ -79,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~431 |
 | Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
+| Durable Deep | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
@@ -94,7 +99,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~182 |
 | Friends and Foes | 0.10% | ~182 |
 | And Your Enemies Closer | 0.10% | ~182 |
-| Nightmare Rats! | 0.10% | ~182 |
 | An Unexpected Geist | 0.10% | ~182 |
 | Back to Nature | 0.10% | ~182 |
 | A Monarch Among Us | 0.10% | ~182 |
@@ -172,9 +176,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.10% | ~182 |
 | Vecna Out! | 0.10% | ~182 |
 | Bully for Vecna | 0.10% | ~182 |
-| Who Lurks Below? | 0.10% | ~182 |
 | Clowning Around | 0.10% | ~182 |
-| Xanathaaaaaaar! | 0.10% | ~182 |
 | A Whale of a Time | 0.10% | ~182 |
 | Anti-Dexterous Explorers | 0.10% | ~215 |
 | Struggling Toward Omu | 0.10% | ~215 |
@@ -192,7 +194,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~182 |
 | Anchors Aweigh | 0.10% | ~182 |
 | Welcome to the Band | 0.10% | ~182 |
-| The Forbidden City | 0.10% | ~215 |
 | Periodic Petrification | 0.10% | ~215 |
 | No Good at All | 0.10% | ~215 |
 | Fall From Grace | 0.10% | ~215 |
@@ -438,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~182 |
 | Trench Coat Run | 0.10% | ~182 |
 | The Taunting Lord | 0.10% | ~182 |
-| Durable Deep | 0.10% | ~215 |
 | Lone Wolf Party | 0.10% | ~182 |
 | The Sibriex | 0.10% | ~182 |
 | The Archduke's Blessing | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,327 (Ranked 53)  
-Completed: 2,096 (0.97%) (Ranked 107)  
+Progressed: 215,333 (Ranked 53)  
+Completed: 2,096 (0.97%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,096 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,327 | 2,096 |
+| 2023-07-25 | 215,333 | 2,096 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

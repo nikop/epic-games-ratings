@@ -23,11 +23,11 @@
 | Smooth Service | 23.00% | ~59 |
 | Lux Living | 21.00% | ~54 |
 | Leveled Up Shops | 21.00% | ~54 |
+| Don't Feel a Loan | 20.00% | ~51 |
 | People Mover | 20.00% | ~51 |
 | Emporium Empire | 20.00% | ~51 |
 | We Don't Need No Education | 20.00% | ~51 |
 | Get Electrified | 20.00% | ~51 |
-| Don't Feel a Loan | 19.00% | ~49 |
 | Artfully Done | 18.00% | ~46 |
 | Rehab Expert | 18.00% | ~46 |
 | Tasty Profits | 18.00% | ~46 |

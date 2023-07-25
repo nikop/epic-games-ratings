@@ -6,7 +6,7 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -608,9 +608,9 @@
       "ID": "Misanthrope",
       "SetID": "ek310c",
       "Name": "Antisocial Club",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "Missing_Shot",
@@ -705,8 +705,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:05:09.0128567+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:04:38.6065943+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4895779+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:57:20.5489799+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:05:09.0128745+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:57:14.9626721+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:04:38.606613+00:00"
 }

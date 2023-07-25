@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1680,6 +1680,11 @@
       "Time": "2023-07-25T09:03:39.0494487+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T10:03:36.2069124+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1691,7 +1696,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Auditor",
@@ -1715,7 +1720,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Boy",
@@ -1723,7 +1728,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Commandos",
@@ -1739,7 +1744,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Defense_Common",
@@ -1771,7 +1776,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Everyone_is_here",
@@ -1779,7 +1784,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Experienced_strategist",
@@ -1803,7 +1808,7 @@
       "Name": "Grenadier",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "Hard_Serpent",
@@ -1819,7 +1824,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "High_noon",
@@ -1875,7 +1880,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MoskitoBite",
@@ -1930,15 +1935,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1166,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:03:39.0494479+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:03:36.2069119+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:00:18.3529987+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:03:39.049472+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:59:41.7064879+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:03:36.206935+00:00"
 }

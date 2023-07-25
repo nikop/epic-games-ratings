@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1020,9 +1020,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13352,
+  "EOS_Progressed": 13353,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11100,6 +11100,11 @@
       "Time": "2023-07-25T09:03:15.1187308+00:00",
       "NumProgressed": 13352,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-25T10:03:17.7687792+00:00",
+      "NumProgressed": 13353,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -11135,7 +11140,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "CantRunCantHide",
@@ -11295,7 +11300,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "Perfection",
@@ -11383,7 +11388,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "SwordToAGunfight",
@@ -11439,7 +11444,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "WhereAreMyKeys",
@@ -11447,7 +11452,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "WhereHeStood",
@@ -11470,21 +11475,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 13352,
+      "Progressed": 13353,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 13352,
+      "Progressed": 13353,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-25T05:59:11.8576046+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:03:15.1187304+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:03:17.7687788+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.3951611+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:59:01.7474828+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:03:15.1188048+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:58:35.8735001+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:03:17.7688527+00:00"
 }

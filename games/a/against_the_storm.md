@@ -44,9 +44,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 1.00% | ~160 |
 | Efficient Explorer | 0.90% | ~144 |
 | Prestigious Expedition | 0.80% | ~128 |
-| Feeding The People | 0.70% | ~112 |
 | Blood Flower Farmer | 0.70% | ~112 |
 | Victory through Prosperity | 0.70% | ~112 |
+| Feeding The People | 0.60% | ~96 |
 | Beaver Utopia | 0.50% | ~80 |
 | Human Utopia | 0.50% | ~80 |
 | Lizard Utopia | 0.50% | ~80 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,000 (Ranked 109)  
+Progressed: 16,001 (Ranked 109)  
 Completed: 40 (0.25%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 40 (0.25%) (Ranked 160)
 | 2023-07-22 | 15,968 | 40 |
 | 2023-07-23 | 15,983 | 40 |
 | 2023-07-24 | 15,996 | 40 |
-| 2023-07-25 | 16,000 | 40 |
+| 2023-07-25 | 16,001 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,076 (Ranked 158)  

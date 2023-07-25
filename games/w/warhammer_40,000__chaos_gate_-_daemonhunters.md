@@ -32,6 +32,11 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
+| Killing Rampage | 0.10% | ~3 |
+| Deadshot | 0.10% | ~3 |
+| Terminal Meltdown | 0.10% | ~3 |
+| Tactical Sabotage | 0.10% | ~3 |
+| Hive Exterminator | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Blood and Iron | 0.00% | ~0 |
@@ -68,12 +73,7 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 | Tactical Flexibility | 0.00% | ~0 |
-| Killing Rampage | 0.00% | ~0 |
-| Deadshot | 0.00% | ~0 |
-| Terminal Meltdown | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
-| Tactical Sabotage | 0.00% | ~0 |
-| Hive Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,025 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  

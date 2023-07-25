@@ -4,26 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 3.00% | ~857 |
-| Expanding Horizons | 2.00% | ~571 |
-| Quest for Survival | 2.00% | ~571 |
-| Not Your Average Trait | 2.00% | ~571 |
-| Duality | 1.00% | ~286 |
-| Boss'n Up | 1.00% | ~286 |
-| Make Some Room | 1.00% | ~286 |
-| Trait Chaser | 1.00% | ~286 |
-| Top Performer | 0.80% | ~228 |
-| Good, But Could Be Better! | 0.80% | ~228 |
-| Not So Special Now | 0.70% | ~200 |
-| Almost There | 0.60% | ~171 |
-| Was This Supposed To Happen? | 0.40% | ~114 |
-| The Killing Jar | 0.30% | ~86 |
-| Only Human | 0.20% | ~57 |
-| Gleaming the Cube | 0.20% | ~57 |
-| Familiar Face | 0.20% | ~57 |
-| Blue Goddess | 0.20% | ~57 |
-| Scrap Collector | 0.20% | ~57 |
-| All These Traits� | 0.20% | ~57 |
+| First of Many | 3.00% | ~865 |
+| Expanding Horizons | 2.00% | ~577 |
+| Quest for Survival | 2.00% | ~577 |
+| Not Your Average Trait | 2.00% | ~577 |
+| Trait Chaser | 2.00% | ~577 |
+| Duality | 1.00% | ~288 |
+| Boss'n Up | 1.00% | ~288 |
+| Make Some Room | 1.00% | ~288 |
+| Top Performer | 0.90% | ~260 |
+| Good, But Could Be Better! | 0.90% | ~260 |
+| Not So Special Now | 0.70% | ~202 |
+| Almost There | 0.60% | ~173 |
+| Was This Supposed To Happen? | 0.40% | ~115 |
+| The Killing Jar | 0.30% | ~87 |
+| Familiar Face | 0.30% | ~87 |
+| Only Human | 0.20% | ~58 |
+| Gleaming the Cube | 0.20% | ~58 |
+| Not a Janitor | 0.20% | ~58 |
+| Equal Measures | 0.20% | ~58 |
+| Blue Goddess | 0.20% | ~58 |
+| Shhh...It's a Secret | 0.20% | ~58 |
+| Scrap Collector | 0.20% | ~58 |
+| All These Traits� | 0.20% | ~58 |
 | Crafty | 0.10% | ~29 |
 | Am I Seeing This? | 0.10% | ~29 |
 | Ghost in the Machine | 0.10% | ~29 |
@@ -36,10 +39,7 @@
 | Madman's Paradise | 0.10% | ~29 |
 | Red Room | 0.10% | ~29 |
 | The Agenda | 0.10% | ~29 |
-| Not a Janitor | 0.10% | ~29 |
-| Equal Measures | 0.10% | ~29 |
 | Tall Tales | 0.10% | ~29 |
-| Shhh...It's a Secret | 0.10% | ~29 |
 | Bad Moon Rising | 0.10% | ~29 |
 | Strapped | 0.10% | ~29 |
 | The Trigger | 0.10% | ~29 |
@@ -55,7 +55,7 @@
 | Maxed Out! | 0.10% | ~29 |
 | Transmutate | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,560 (Ranked 97)  
+Progressed: 28,840 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 7,481 | 0 |
 | 2023-07-23 | 17,937 | 0 |
 | 2023-07-24 | 26,093 | 0 |
-| 2023-07-25 | 28,560 | 0 |
+| 2023-07-25 | 28,840 | 0 |

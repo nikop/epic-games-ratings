@@ -21,9 +21,9 @@ Rating: 3.82 (Ranked 940)
 | A Stealthy Outlook | 7.00% | ~33 |
 | Catch You Later | 6.00% | ~29 |
 | Between the Covers | 5.00% | ~24 |
+| Antisocial Club | 5.00% | ~24 |
 | Den Mother | 5.00% | ~24 |
 | Everything Must Go! | 4.00% | ~19 |
-| Antisocial Club | 4.00% | ~19 |
 | You Had One Job... | 4.00% | ~19 |
 | Smart cookie | 4.00% | ~19 |
 | Paparazzi | 3.00% | ~14 |
@@ -36,7 +36,7 @@ Rating: 3.82 (Ranked 940)
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 476 (Ranked 220)  
-Completed: 5 (1.05%) (Ranked 104)  
+Completed: 5 (1.05%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

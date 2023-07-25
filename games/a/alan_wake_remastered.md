@@ -6,19 +6,19 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,544 |
-| Let There Be Light | 28.00% | ~16,435 |
-| Float Like a Butterfly | 27.00% | ~15,848 |
-| Nordic Walking | 22.00% | ~12,913 |
-| Bright Falls' Finest | 21.00% | ~12,326 |
-| Under a Thin Layer of Skin | 19.00% | ~11,152 |
-| Park Ranger | 15.00% | ~8,804 |
-| Paging Mr. Wake | 15.00% | ~8,804 |
-| Back! Back, I Say! | 14.00% | ~8,217 |
-| Finders Keepers | 14.00% | ~8,217 |
-| Sound and Fury | 13.00% | ~7,630 |
-| Missed by a Mile | 13.00% | ~7,630 |
-| Damn Good Cup of Coffee | 13.00% | ~7,630 |
+| Follow the Light | 35.00% | ~20,545 |
+| Let There Be Light | 28.00% | ~16,436 |
+| Float Like a Butterfly | 27.00% | ~15,849 |
+| Nordic Walking | 22.00% | ~12,914 |
+| Bright Falls' Finest | 21.00% | ~12,327 |
+| Under a Thin Layer of Skin | 19.00% | ~11,153 |
+| Park Ranger | 15.00% | ~8,805 |
+| Paging Mr. Wake | 15.00% | ~8,805 |
+| Back! Back, I Say! | 14.00% | ~8,218 |
+| Finders Keepers | 14.00% | ~8,218 |
+| Sound and Fury | 13.00% | ~7,631 |
+| Missed by a Mile | 13.00% | ~7,631 |
+| Damn Good Cup of Coffee | 13.00% | ~7,631 |
 | Wheels Within Wheels | 12.00% | ~7,044 |
 | They're Heeeeeere! | 12.00% | ~7,044 |
 | The Six-Gun Scribe | 12.00% | ~7,044 |
@@ -55,7 +55,7 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Will | 2.00% | ~443 |
 | Couch Potato | 1.00% | ~587 |
 | Go Gentle Into That Good Light | 1.00% | ~222 |
-| Words Will Never Harm You | 0.60% | ~133 |
+| Words Will Never Harm You | 0.70% | ~155 |
 | Cardboard Companions | 0.60% | ~133 |
 | Fast and Furious | 0.50% | ~111 |
 | Run-On Sentence | 0.40% | ~89 |
@@ -65,7 +65,7 @@ Number of Ratings: 524  (23.09.2022)
 | Alan, Wake Up | 0.30% | ~176 |
 | Meet the Deadline | 0.30% | ~176 |
 | Picking Up After Yourself | 0.30% | ~176 |
-| Tick Tock | 0.30% | ~66 |
+| Tick Tock | 0.30% | ~67 |
 | Gunless Wonder | 0.20% | ~117 |
 | Every Nook and Cranny | 0.20% | ~117 |
 | Bright Falls Aficionado | 0.20% | ~117 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,696 (Ranked 82)  
+Progressed: 58,699 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-22 | 58,172 | 58 |
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
-| 2023-07-25 | 58,696 | 58 |
+| 2023-07-25 | 58,699 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

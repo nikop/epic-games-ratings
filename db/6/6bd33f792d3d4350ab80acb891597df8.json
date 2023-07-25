@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -186,9 +186,9 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
@@ -234,9 +234,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-25T09:05:37.0515794+00:00",
+  "LastChanged_Achievements": "2023-07-25T10:04:59.9955937+00:00",
   "LastUpdate_AppInfo": "2023-07-18T11:56:59.8645708+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:57:38.3534655+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:05:37.0515971+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:57:30.2453704+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:04:59.9956115+00:00"
 }

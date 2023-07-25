@@ -4,12 +4,12 @@
 Rating: 4.58 (Ranked 424)  
 Number of Ratings: 169  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 22  (Ranked 486)  
-Sum: 44 (Ranked 452)  
-Diff (max vs sum): 34  
+Max (Amazing Storytelling): 23  (Ranked 483)  
+Sum: 45 (Ranked 452)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 22 |
+| This game has Amazing Storytelling | 23 |
 | This game has Amazing Characters | 22 |
 | This game has Competitive Players | 20 |
 ## Ratings History
@@ -118,3 +118,4 @@ Diff (max vs sum): 34
 | 2023-07-12 | 4.57 | - | 22 | 43 |
 | 2023-07-17 | 4.57 | - | 22 | 44 |
 | 2023-07-20 | 4.58 | - | 22 | 44 |
+| 2023-07-25 | 4.58 | - | 23 | 45 |

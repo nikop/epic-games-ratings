@@ -2,7 +2,7 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 510,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "NumberOfRatings": 60,
   "RatingHistory": [
     {
@@ -1026,11 +1026,17 @@
       "Rating": 4.33,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-07-25T10:00:23.6332354+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 500,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1055,7 +1061,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Competitive Players",
@@ -1123,8 +1129,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-07-23T18:00:06.4044938+00:00",
+  "LastChanged": "2023-07-25T10:00:23.6332352+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:49.8101172+00:00",
-  "LastUpdate_Ratings": "2023-07-25T09:01:06.1039922+00:00",
-  "LastUpdate_Achievements": "2023-07-25T09:07:03.2818088+00:00"
+  "LastUpdate_Ratings": "2023-07-25T10:00:23.6332357+00:00",
+  "LastUpdate_Achievements": "2023-07-25T10:06:06.2384414+00:00"
 }
