@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7119,9 +7119,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46029,
+  "EOS_Progressed": 46030,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15484,6 +15484,11 @@
       "Time": "2023-07-25T06:04:41.865201+00:00",
       "NumProgressed": 46029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-25T09:04:28.4537831+00:00",
+      "NumProgressed": 46030,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -15527,7 +15532,7 @@
       "Name": "Road Trip",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "CollectiblesAlpine",
@@ -15631,7 +15636,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27617
+      "UsersEstimate": 27618
     },
     {
       "ID": "Harvested",
@@ -15703,7 +15708,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24395
+      "UsersEstimate": 24396
     },
     {
       "ID": "NumBeehives",
@@ -15783,7 +15788,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28998
+      "UsersEstimate": 28999
     },
     {
       "ID": "Stones",
@@ -15791,7 +15796,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "TractorDriving",
@@ -15799,7 +15804,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "TruckDriving",
@@ -15838,15 +15843,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46029,
+      "Progressed": 46030,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-24T22:01:25.2242451+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:04:23.8272075+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:04:28.4537825+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.331029+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:00:22.8829857+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:04:23.827272+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:00:49.9919947+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:04:28.4538456+00:00"
 }

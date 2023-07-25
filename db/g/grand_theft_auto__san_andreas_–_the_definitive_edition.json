@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 460,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11323,
+  "EOS_Progressed": 11325,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7309,6 +7309,11 @@
       "Time": "2023-07-25T08:07:13.8593067+00:00",
       "NumProgressed": 11323,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-25T09:07:35.4892226+00:00",
+      "NumProgressed": 11325,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7320,7 +7325,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9172
+      "UsersEstimate": 9173
     },
     {
       "ID": "ACH02",
@@ -7328,7 +7333,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH03",
@@ -7456,7 +7461,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH19",
@@ -7488,7 +7493,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "ACH23",
@@ -7544,7 +7549,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH30",
@@ -7599,7 +7604,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11323,
+      "Progressed": 11325,
       "Completed": 31
     }
   ],
@@ -7607,8 +7612,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-24T04:01:31.0123071+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:07:13.8593064+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:07:35.4892221+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:01:01.1398204+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:07:13.8593565+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:01:30.4047482+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:07:35.4892713+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.25 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,508 |
-| Don't I Know You...? | 77.00% | ~1,451 |
-| Jailbreak | 65.00% | ~1,225 |
-| HEADSHOT! | 38.00% | ~716 |
-| Suited and Booted | 38.00% | ~716 |
+| Rigged And Ready | 80.00% | ~1,509 |
+| Don't I Know You...? | 77.00% | ~1,452 |
+| Jailbreak | 65.00% | ~1,226 |
+| HEADSHOT! | 38.00% | ~717 |
+| Suited and Booted | 38.00% | ~717 |
 | Sleeping With The Fishes | 35.00% | ~660 |
 | Overheated | 30.00% | ~566 |
 | High Performance | 30.00% | ~566 |
 | Powered Up | 28.00% | ~528 |
-| Studied The Blade | 25.00% | ~471 |
+| Studied The Blade | 24.00% | ~453 |
 | Home Invasion | 23.00% | ~434 |
 | Luminary | 22.00% | ~415 |
 | It's a Trap | 22.00% | ~415 |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 810)
 | Unforeseeable Consequences | 19.00% | ~358 |
 | Dead Again | 18.00% | ~339 |
 | Clean Cut | 18.00% | ~339 |
-| Full Arsenal | 17.00% | ~320 |
+| Full Arsenal | 17.00% | ~321 |
 | Can't Trust Banks | 15.00% | ~283 |
 | Mommy Dearest | 13.00% | ~245 |
 | Bad Dog | 13.00% | ~245 |
@@ -35,8 +35,8 @@ Rating: 4.25 (Ranked 810)
 | Marked For Success | 12.00% | ~226 |
 | Sorry, Didn't See You There | 12.00% | ~226 |
 | Corrupted Beauty | 11.00% | ~207 |
-| Stimulating The Local Economy | 10.00% | ~188 |
-| Triplets | 10.00% | ~188 |
+| Stimulating The Local Economy | 10.00% | ~189 |
+| Triplets | 10.00% | ~189 |
 | Defense in Depth | 9.00% | ~170 |
 | A Little Banged Up | 8.00% | ~151 |
 | Denying Prophecy | 8.00% | ~151 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,885 (Ranked 166)  
+Progressed: 1,886 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-22 | 1,867 | 10 |
 | 2023-07-23 | 1,873 | 10 |
 | 2023-07-24 | 1,882 | 10 |
-| 2023-07-25 | 1,885 | 10 |
+| 2023-07-25 | 1,886 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

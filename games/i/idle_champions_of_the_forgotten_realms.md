@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,153 |
 | Beast Intentions | 1.00% | ~2,153 |
-| Maddening | 0.80% | ~1,723 |
-| The Silken Swamp | 0.60% | ~1,292 |
+| Maddening | 0.90% | ~1,938 |
+| The Silken Swamp | 0.70% | ~1,507 |
 | Supply Run | 0.60% | ~1,292 |
 | Rocky Reception | 0.60% | ~1,090 |
 | Vecna Lives! | 0.50% | ~908 |
@@ -25,9 +25,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.30% | ~646 |
 | Heavy Burden | 0.30% | ~646 |
 | Seeds of Destruction | 0.30% | ~545 |
+| The Evacuation of Waterdeep | 0.30% | ~545 |
 | Return to the Tomb | 0.30% | ~545 |
 | Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
+| Unearthed Evil | 0.30% | ~646 |
 | The Champion's Guide to Wildspace | 0.30% | ~545 |
 | Not That Type of Helm! | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
@@ -38,9 +40,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.20% | ~431 |
 | Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
+| The Prince of a Thousand Enemies | 0.20% | ~363 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
-| The Evacuation of Waterdeep | 0.20% | ~363 |
 | On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
@@ -59,14 +61,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~431 |
 | March of the Undead | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
-| Unearthed Evil | 0.20% | ~431 |
 | No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | The Dinner Party | 0.20% | ~431 |
 | The Botched Kidnapping | 0.20% | ~431 |
+| Tower on the Lake | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
+| The Contagious Curse | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
 | The Mad Wizard | 0.20% | ~431 |
 | Waterdeep Detours | 0.20% | ~431 |
@@ -108,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~182 |
 | Icequake | 0.10% | ~182 |
 | A Lesson in Classes | 0.10% | ~182 |
-| The Prince of a Thousand Enemies | 0.10% | ~182 |
 | Uncommon Allies | 0.10% | ~182 |
 | The Birds | 0.10% | ~182 |
 | Where the Magic Happens | 0.10% | ~182 |
@@ -230,7 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~215 |
 | Distribute Your Weight | 0.10% | ~215 |
 | Mongrelfolk Incursion | 0.10% | ~182 |
-| Tower on the Lake | 0.10% | ~215 |
 | Only the Strong Survive | 0.10% | ~215 |
 | Shorty's Day Off | 0.10% | ~215 |
 | Intelligence Hunt | 0.10% | ~215 |
@@ -354,7 +355,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~215 |
 | The Nimble Grove | 0.10% | ~215 |
 | The Misty Grove | 0.10% | ~182 |
-| The Contagious Curse | 0.10% | ~215 |
 | Dinosaur Racing | 0.10% | ~215 |
 | Elturel Has Fallen | 0.10% | ~215 |
 | Everything is Awful | 0.10% | ~215 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,316 (Ranked 53)  
-Completed: 2,095 (0.97%) (Ranked 107)  
+Progressed: 215,327 (Ranked 53)  
+Completed: 2,096 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,095 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,316 | 2,095 |
+| 2023-07-25 | 215,327 | 2,096 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

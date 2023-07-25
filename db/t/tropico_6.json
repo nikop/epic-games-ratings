@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1020,7 +1020,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4274,
+  "EOS_Progressed": 4276,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -6700,6 +6700,11 @@
       "Time": "2023-07-25T07:06:23.8035318+00:00",
       "NumProgressed": 4274,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-25T09:06:18.4611837+00:00",
+      "NumProgressed": 4276,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6711,7 +6716,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -6775,7 +6780,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -6791,7 +6796,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -6799,7 +6804,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -6807,7 +6812,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6823,7 +6828,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -6863,7 +6868,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -6871,7 +6876,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6887,7 +6892,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -6935,7 +6940,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -6959,7 +6964,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -6983,7 +6988,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7023,22 +7028,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4274,
+      "Progressed": 4276,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:06:03.6616464+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:06:18.4611834+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:01:03.5026601+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:06:03.661696+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:01:33.0887535+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:06:18.461234+00:00"
 }

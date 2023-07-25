@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 1.00% | ~131 |
 | The Great Mage | 0.80% | ~105 |
+| Settler | 0.70% | ~92 |
 | Explorer | 0.60% | ~78 |
-| Settler | 0.60% | ~78 |
 | Friendly Family | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
 | Poetic Leader | 0.60% | ~78 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,079 (Ranked 115)  
+Progressed: 13,080 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,079 | 5 |
+| 2023-07-25 | 13,080 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

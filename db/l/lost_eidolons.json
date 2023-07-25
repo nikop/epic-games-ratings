@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1056,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1150,6 +1150,11 @@
       "Time": "2023-07-24T04:03:06.8903757+00:00",
       "NumProgressed": 1056,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T09:03:29.3985149+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1191,9 +1196,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 708
     },
     {
       "ID": "06",
@@ -1215,9 +1220,9 @@
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 296
     },
     {
       "ID": "09",
@@ -1305,7 +1310,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "20",
@@ -1344,7 +1349,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1056,
+      "Progressed": 1057,
       "Completed": 0
     }
   ],
@@ -1352,8 +1357,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:03:39.0672326+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:03:29.3985144+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.8588633+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:00:23.4862358+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:03:39.06725+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:00:50.6120649+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:03:29.39853+00:00"
 }

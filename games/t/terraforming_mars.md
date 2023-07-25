@@ -1,28 +1,28 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 495)  
+Rating: 4.54 (Ranked 494)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~26,105 |
-| Final touch | 37.00% | ~25,418 |
-| Prop-M Rover | 33.00% | ~22,670 |
-| Changing the Planet | 29.00% | ~19,922 |
-| Sojourner | 27.00% | ~18,548 |
-| New Home | 24.00% | ~16,487 |
-| Beagle 2 | 24.00% | ~16,487 |
-| Winner Winner Terraformer | 23.00% | ~15,800 |
-| Project Manager | 20.00% | ~13,739 |
-| Curiosity | 20.00% | ~13,739 |
-| Collector | 20.00% | ~13,739 |
-| Master | 20.00% | ~13,739 |
-| No Longer Red | 19.00% | ~13,052 |
-| Self-sufficient | 19.00% | ~13,052 |
-| Money money | 16.00% | ~10,992 |
-| Biggest Reward | 14.00% | ~9,618 |
-| Acquired knowledge | 13.00% | ~8,931 |
+| It's a steal! | 38.00% | ~26,108 |
+| Final touch | 37.00% | ~25,420 |
+| Prop-M Rover | 33.00% | ~22,672 |
+| Changing the Planet | 29.00% | ~19,924 |
+| Sojourner | 27.00% | ~18,550 |
+| New Home | 24.00% | ~16,489 |
+| Beagle 2 | 24.00% | ~16,489 |
+| Winner Winner Terraformer | 23.00% | ~15,802 |
+| Project Manager | 20.00% | ~13,741 |
+| Curiosity | 20.00% | ~13,741 |
+| Collector | 20.00% | ~13,741 |
+| Master | 20.00% | ~13,741 |
+| No Longer Red | 19.00% | ~13,054 |
+| Self-sufficient | 19.00% | ~13,054 |
+| Money money | 16.00% | ~10,993 |
+| Biggest Reward | 14.00% | ~9,619 |
+| Acquired knowledge | 13.00% | ~8,932 |
 | First Journey | 12.00% | ~8,244 |
 | Most Achievements | 12.00% | ~8,244 |
 | Hellenic Elysium | 12.00% | ~8,244 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,061 |
 | Opportunity | 3.00% | ~2,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,697 (Ranked 76)  
+Progressed: 68,704 (Ranked 76)  
 Completed: 78 (0.11%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 78 (0.11%) (Ranked 186)
 | 2023-07-22 | 68,389 | 72 |
 | 2023-07-23 | 68,562 | 72 |
 | 2023-07-24 | 68,677 | 78 |
-| 2023-07-25 | 68,697 | 78 |
+| 2023-07-25 | 68,704 | 78 |
 ## Awards
 Max (Relaxing): 506  (Ranked 194)  
 Sum: 3,126 (Ranked 155)  

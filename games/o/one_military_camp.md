@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 45.00% | ~35 |
-| First Step | 41.00% | ~32 |
+| The 4 Pillars | 46.00% | ~36 |
+| First Step | 42.00% | ~33 |
 | Indebted | 10.00% | ~8 |
+| Desert Rat | 8.00% | ~6 |
 | Capitalism | 6.00% | ~5 |
-| Desert Rat | 6.00% | ~5 |
 | Good payer | 5.00% | ~4 |
 | Health Care | 4.00% | ~3 |
 | Pathfinder | 4.00% | ~3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2971,17 +2971,17 @@
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ExperiencedCulexus",
       "SetID": "2im8phi",
       "Name": "Abomination",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ExperiencedEversor",
@@ -3049,8 +3049,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:04:13.2058443+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:04:16.4652589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:59:23.5207927+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:04:13.2059165+00:00"
+  "LastUpdate_Ratings": "2023-07-25T08:59:45.9355446+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:04:16.46532+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1798,6 +1798,11 @@
       "Time": "2023-07-25T07:03:45.4925055+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T09:03:42.2951169+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1865,7 +1870,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "EXPERT_1",
@@ -1929,7 +1934,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2063,9 +2068,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 264
     },
     {
       "ID": "VVE",
@@ -2096,15 +2101,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-25T08:03:50.7860255+00:00",
+  "LastChanged_Achievements": "2023-07-25T09:03:42.2951164+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-25T08:00:55.4768884+00:00",
-  "LastUpdate_Achievements": "2023-07-25T08:03:50.7860535+00:00"
+  "LastUpdate_Ratings": "2023-07-25T09:01:21.9152305+00:00",
+  "LastUpdate_Achievements": "2023-07-25T09:03:42.2951449+00:00"
 }

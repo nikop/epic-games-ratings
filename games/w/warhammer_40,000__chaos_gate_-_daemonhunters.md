@@ -30,6 +30,8 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
+| Reign of Confusion | 0.10% | ~3 |
+| Abomination | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Blood and Iron | 0.00% | ~0 |
@@ -66,8 +68,6 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 | Tactical Flexibility | 0.00% | ~0 |
-| Reign of Confusion | 0.00% | ~0 |
-| Abomination | 0.00% | ~0 |
 | Killing Rampage | 0.00% | ~0 |
 | Deadshot | 0.00% | ~0 |
 | Terminal Meltdown | 0.00% | ~0 |
