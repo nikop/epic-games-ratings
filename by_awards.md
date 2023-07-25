@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 41,597 | 4.61 | 367 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,908 | 4.50 | 554 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,938 | 4.74 | 142 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,216 | 4.52 | 518 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,242 | 4.52 | 518 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,712 | 4.65 | 300 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,242 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,927 | 4.53 | 506 |
@@ -22,7 +22,7 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,173 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 16,117 | 4.61 | 367 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,000 | 4.25 | 810 |
-| 23 | [League of Legends](games/l/league_of_legends.md) | 14,910 | 4.21 | 837 |
+| 23 | [League of Legends](games/l/league_of_legends.md) | 14,929 | 4.21 | 837 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 14,874 | 4.76 | 119 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,428 | 4.58 | 424 |
 | 26 | [Maneater](games/m/maneater.md) | 13,589 | 4.49 | 573 |
@@ -351,9 +351,9 @@
 | 349 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 494 |
 | 349 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 58 |
 | 351 | [Armored Warfare](games/a/armored_warfare.md) | 86 | 4.11 | 890 |
-| 352 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 119 |
-| 352 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.60 | 393 |
-| 354 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 84 | 4.36 | 730 |
+| 351 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 86 | 4.36 | 730 |
+| 353 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 119 |
+| 353 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.60 | 393 |
 | 355 | [Dead Space](games/d/dead_space.md) | 83 | 4.62 | 347 |
 | 355 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 573 |
 | 357 | [Super Meat Boy](games/s/super_meat_boy.md) | 80 | 4.70 | 197 |

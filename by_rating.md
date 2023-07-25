@@ -119,7 +119,7 @@
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 506 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 463 |
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,874 | 24 |
-| 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 352 |
+| 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 353 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 506 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,285 | 89 |
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 42 | 416 |
@@ -408,7 +408,7 @@
 | 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 506 |
 | 393 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 487 |
 | 393 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 397 | 211 |
-| 393 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 352 |
+| 393 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 353 |
 | 393 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 506 |
 | 411 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 410 |
 | 411 | [DOOM 3](games/d/doom_3.md) | 4.59 | 67 | 377 |
@@ -519,7 +519,7 @@
 | 506 | [VALORANT](games/v/valorant.md) | 4.53 | 61,988 | 10 |
 | 518 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 483 |
 | 518 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 759 | 156 |
-| 518 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,216 | 15 |
+| 518 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,242 | 15 |
 | 518 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 494 |
 | 518 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,807 | 7 |
 | 518 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 518 | 193 |
@@ -736,7 +736,7 @@
 | 730 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 475 |
 | 730 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 402 |
 | 730 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 506 |
-| 730 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 84 | 354 |
+| 730 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 86 | 351 |
 | 730 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 105 | 325 |
 | 730 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 506 |
 | 740 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 506 |
@@ -837,7 +837,7 @@
 | 832 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 205 | 267 |
 | 832 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 506 |
 | 837 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 455 |
-| 837 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,910 | 23 |
+| 837 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,929 | 23 |
 | 837 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 506 |
 | 837 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 360 |
 | 841 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 309 |
