@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,309 |
 | Beast Intentions | 2.00% | ~4,309 |
-| Maddening | 1.00% | ~2,154 |
+| Maddening | 1.00% | ~2,155 |
 | The Silken Swamp | 0.90% | ~1,939 |
 | Supply Run | 0.80% | ~1,724 |
 | Rocky Reception | 0.70% | ~1,272 |
@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.50% | ~909 |
 | Topolah's Tower | 0.50% | ~909 |
 | Pros and CONs | 0.40% | ~862 |
+| The Witchlight Carnival | 0.40% | ~727 |
 | Wet Feet | 0.40% | ~862 |
 | Hatchlings Underfoot | 0.40% | ~862 |
 | Don't Look Up! | 0.40% | ~862 |
@@ -29,8 +30,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.40% | ~727 |
 | Calcryx Tricks | 0.40% | ~727 |
 | Goblin Halls: the Next Generation | 0.40% | ~727 |
+| Bazaar Companions | 0.40% | ~727 |
 | Bahamut's Army | 0.40% | ~727 |
-| The Witchlight Carnival | 0.30% | ~545 |
+| Krux's Speed Run | 0.40% | ~727 |
 | Thieves of the Coven | 0.30% | ~545 |
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
@@ -53,10 +55,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~646 |
 | The Botched Kidnapping | 0.30% | ~646 |
 | Devilishly Cold | 0.30% | ~545 |
-| Bazaar Companions | 0.30% | ~545 |
 | Luigi After Hours | 0.30% | ~545 |
 | Electric Mayhem | 0.30% | ~545 |
-| Krux's Speed Run | 0.30% | ~545 |
 | Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
 | Starving in the Jungle | 0.20% | ~431 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~363 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
+| Flapjacks and Waffles | 0.20% | ~363 |
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
 | Well Equipped | 0.20% | ~363 |
@@ -83,9 +84,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~431 |
 | Force Grey Unleashed | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
+| Sleuth It Out | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Tomb of the Nine Gods | 0.20% | ~431 |
 | The Hunt for Owl-y | 0.20% | ~431 |
+| Werewolves in the Mist | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
@@ -168,7 +171,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Flapjacks and Waffles | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
 | To Avernus in a Handbasket | 0.10% | ~182 |
@@ -211,7 +213,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~215 |
 | Underground Railroad | 0.10% | ~215 |
 | Vajra's Guards | 0.10% | ~215 |
-| Sleuth It Out | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
 | Never Split the Party | 0.10% | ~215 |
 | Azaka's Procession - Part 1 | 0.10% | ~215 |
@@ -219,7 +220,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~215 |
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
-| Werewolves in the Mist | 0.10% | ~215 |
 | We're not in Faerûn Anymore | 0.10% | ~215 |
 | Haunted Fortunes | 0.10% | ~215 |
 | Poor Fortune | 0.10% | ~215 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,444 (Ranked 53)  
+Progressed: 215,452 (Ranked 53)  
 Completed: 2,107 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 2,107 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,444 | 2,107 |
+| 2023-07-25 | 215,452 | 2,107 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

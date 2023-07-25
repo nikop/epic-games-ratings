@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 48.00% | ~38 |
-| First Step | 43.00% | ~34 |
+| The 4 Pillars | 46.00% | ~38 |
+| First Step | 41.00% | ~34 |
 | Indebted | 10.00% | ~8 |
-| Capitalism | 8.00% | ~6 |
-| Desert Rat | 8.00% | ~6 |
+| Capitalism | 7.00% | ~6 |
+| Desert Rat | 7.00% | ~6 |
 | Good payer | 5.00% | ~4 |
 | Health Care | 4.00% | ~3 |
 | Pathfinder | 4.00% | ~3 |
 | Great Producer | 4.00% | ~3 |
 | Green Energy | 4.00% | ~3 |
-| Jantine: the Misfortunes of Evil | 3.00% | ~2 |
-| Healing | 3.00% | ~2 |
-| There's something in those trees | 3.00% | ~2 |
-| Self-sufficient | 3.00% | ~2 |
-| Food Tycoon | 3.00% | ~2 |
-| Medicine Tycoon | 3.00% | ~2 |
-| Ammo Tycoon | 3.00% | ~2 |
+| Jantine: the Misfortunes of Evil | 2.00% | ~2 |
+| Healing | 2.00% | ~2 |
+| There's something in those trees | 2.00% | ~2 |
+| Self-sufficient | 2.00% | ~2 |
+| Food Tycoon | 2.00% | ~2 |
+| Medicine Tycoon | 2.00% | ~2 |
+| Ammo Tycoon | 2.00% | ~2 |
 | Perfect Soldier | 1.00% | ~1 |
 | Outdoor Decorator | 1.00% | ~1 |
 | Desert Power | 1.00% | ~1 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 324)  
+Progressed: 82 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 50 | 0 |
 | 2023-07-23 | 67 | 0 |
 | 2023-07-24 | 76 | 0 |
-| 2023-07-25 | 80 | 0 |
+| 2023-07-25 | 82 | 0 |

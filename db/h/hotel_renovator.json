@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 897,
+  "EOS_Progressed": 898,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
@@ -1091,6 +1091,11 @@
       "Time": "2023-07-25T16:06:24.2623348+00:00",
       "NumProgressed": 897,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-25T18:04:37.7408159+00:00",
+      "NumProgressed": 898,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1116,9 +1121,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1158,7 +1163,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1190,7 +1195,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1198,7 +1203,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1206,7 +1211,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1230,7 +1235,7 @@
       "Name": "Island boy",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1238,7 +1243,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1246,7 +1251,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_STAR_1",
@@ -1278,7 +1283,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_STAR_5",
@@ -1286,7 +1291,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1294,7 +1299,7 @@
       "Name": "Reunited",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1310,14 +1315,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 897,
+      "Progressed": 898,
       "Completed": 15
     }
   ],
@@ -1325,8 +1330,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:07:04.6692462+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:04:37.7408154+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:58:21.2467006+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:07:04.6692887+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:57:42.9091763+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:04:37.7408349+00:00"
 }

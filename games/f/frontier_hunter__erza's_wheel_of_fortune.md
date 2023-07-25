@@ -11,7 +11,7 @@
 | Wolf King Killer | 68.00% | ~48 |
 | Fashion Connoisseur | 66.00% | ~47 |
 | Arms Mechanic | 61.00% | ~43 |
-| Flower Thief | 56.00% | ~40 |
+| Flower Thief | 58.00% | ~41 |
 | Beginner Cook | 55.00% | ~39 |
 | Apostle of Flame | 55.00% | ~39 |
 | Beginner Artificer | 54.00% | ~38 |

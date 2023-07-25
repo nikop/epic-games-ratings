@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15716,
+  "EOS_Progressed": 15717,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7667,6 +7667,11 @@
       "Time": "2023-07-25T17:06:41.448346+00:00",
       "NumProgressed": 15716,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-25T18:04:21.7608575+00:00",
+      "NumProgressed": 15717,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7678,7 +7683,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4244
     },
     {
       "ID": "Burning_For_You",
@@ -7686,7 +7691,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "Deadline",
@@ -7694,7 +7699,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -7726,7 +7731,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5186
+      "UsersEstimate": 5187
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -7774,7 +7779,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8015
+      "UsersEstimate": 8016
     },
     {
       "ID": "Sole_Survivor",
@@ -7805,15 +7810,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15716,
+      "Progressed": 15717,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:06:41.4483452+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:04:21.760857+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.8297422+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:01:24.5113064+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:06:41.4484024+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:59:41.792865+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:04:21.7609047+00:00"
 }

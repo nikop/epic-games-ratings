@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2866,6 +2866,11 @@
       "Time": "2023-07-25T17:06:36.0224848+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T18:04:18.1259618+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2949,7 +2954,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3077,7 +3082,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3260,7 +3265,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1439,
       "Completed": 0
     }
   ],
@@ -3268,8 +3273,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-23T06:57:40.642563+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:06:36.0224842+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:04:18.1259611+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:15.5467087+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:58:41.0775691+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:06:36.0225821+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:57:59.8832786+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:04:18.126003+00:00"
 }

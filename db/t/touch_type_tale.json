@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3078,
+  "EOS_Progressed": 3079,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2549,6 +2549,11 @@
       "Time": "2023-07-24T16:05:09.0067468+00:00",
       "NumProgressed": 3078,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-25T18:03:24.6234005+00:00",
+      "NumProgressed": 3079,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2568,7 +2573,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "bonus3",
@@ -2608,7 +2613,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "campaign10",
@@ -2616,7 +2621,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "campaign11",
@@ -2632,7 +2637,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "campaign13",
@@ -2720,7 +2725,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "campaign5",
@@ -2823,7 +2828,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3078,
+      "Progressed": 3079,
       "Completed": 10
     }
   ],
@@ -2831,8 +2836,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:06:02.449416+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:03:24.6233998+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.9778965+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:03:30.1988464+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:06:02.4494592+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:00:56.8277495+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:03:24.6234306+00:00"
 }

@@ -5284,9 +5284,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215444,
+  "EOS_Progressed": 215452,
   "EOS_Completed": 2107,
-  "EOS_NewPlayers": 2336,
+  "EOS_NewPlayers": 2327,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15584,6 +15584,11 @@
       "Time": "2023-07-25T17:09:38.3700951+00:00",
       "NumProgressed": 215444,
       "NumCompleted": 2107
+    },
+    {
+      "Time": "2023-07-25T18:06:45.4619683+00:00",
+      "NumProgressed": 215452,
+      "NumCompleted": 2107
     }
   ],
   "TotalAchievements": 512,
@@ -15603,7 +15608,7 @@
       "Name": "Maddening",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "objective_completed_100",
@@ -15697,9 +15702,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1056",
@@ -16249,9 +16254,9 @@
       "ID": "objective_completed_1159",
       "SetID": "415jc5c",
       "Name": "Flapjacks and Waffles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_116",
@@ -16841,9 +16846,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_172",
@@ -16961,9 +16966,9 @@
       "ID": "objective_completed_210",
       "SetID": "cc37lbc",
       "Name": "Werewolves in the Mist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_211",
@@ -19601,9 +19606,9 @@
       "ID": "objective_completed_663",
       "SetID": "415jc5c",
       "Name": "Bazaar Companions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_668",
@@ -19673,9 +19678,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1392",
@@ -19690,21 +19695,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181718,
-      "Completed": 2971
+      "Progressed": 181726,
+      "Completed": 2976
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215444,
+      "Progressed": 215452,
       "Completed": 2107
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:09:38.370094+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:06:45.4619676+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:59:54.5888373+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:09:38.3737035+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:58:46.3501799+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:06:45.4642223+00:00"
 }

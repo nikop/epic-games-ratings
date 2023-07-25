@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.40% | ~52 |
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
+| Learned | 0.40% | ~52 |
 | Mason | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
 | Pioneer | 0.40% | ~52 |
@@ -28,11 +29,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
+| Trade Caravan | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
-| Learned | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Developing Cities | 0.30% | ~39 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
-| Trade Caravan | 0.30% | ~39 |
 | Regicide | 0.20% | ~26 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
+| Statesmen | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
@@ -78,7 +79,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.20% | ~26 |
 | Egyptian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
+| Building Wonders | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
+| Points Victory | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
@@ -132,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
 | Riders | 0.10% | ~13 |
-| Statesmen | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
@@ -192,7 +194,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
-| Building Wonders | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
@@ -220,7 +221,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
-| Points Victory | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
 | Randomized Leaders | 0.10% | ~13 |
 | Role-Playing | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,084 (Ranked 115)  
+Progressed: 13,086 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,084 | 5 |
+| 2023-07-25 | 13,086 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

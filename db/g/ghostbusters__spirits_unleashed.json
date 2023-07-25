@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1530,9 +1530,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24445,
+  "EOS_Progressed": 24446,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8610,6 +8610,11 @@
       "Time": "2023-07-25T17:06:06.2877294+00:00",
       "NumProgressed": 24445,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-25T18:03:27.2004137+00:00",
+      "NumProgressed": 24446,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8621,7 +8626,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17845
+      "UsersEstimate": 17846
     },
     {
       "ID": "Animated",
@@ -8661,7 +8666,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10022
+      "UsersEstimate": 10023
     },
     {
       "ID": "Collect_Spores",
@@ -8677,7 +8682,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "Cultured",
@@ -8693,7 +8698,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8311
+      "UsersEstimate": 8312
     },
     {
       "ID": "Diabolical",
@@ -8709,7 +8714,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "Dont_Need_These",
@@ -8725,7 +8730,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "Efficient",
@@ -8757,7 +8762,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "GB_In_Training",
@@ -8797,7 +8802,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Line_Em_Up",
@@ -8837,7 +8842,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "Reckless",
@@ -8877,7 +8882,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Seasoned",
@@ -8909,7 +8914,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "Stunner",
@@ -8925,7 +8930,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21023
+      "UsersEstimate": 21024
     },
     {
       "ID": "Summoner",
@@ -8949,7 +8954,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "Teamwork",
@@ -8981,7 +8986,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9013,7 +9018,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "Whoopsie",
@@ -9021,14 +9026,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24445,
+      "Progressed": 24446,
       "Completed": 48
     }
   ],
@@ -9036,8 +9041,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-25T00:01:26.5531768+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:06:06.2877285+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:03:27.200413+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:01:31.4545558+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:06:06.2878776+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:59:46.5453988+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:03:27.2004804+00:00"
 }

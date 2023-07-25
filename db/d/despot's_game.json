@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -340,6 +340,11 @@
       "Time": "2023-07-24T21:06:27.3712575+00:00",
       "NumProgressed": 411,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T18:02:07.1963252+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -383,7 +388,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "collect-discounted-items2",
@@ -407,7 +412,7 @@
       "Name": "Party",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "different-items2",
@@ -455,7 +460,7 @@
       "Name": "Feed a God",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "finished-quest-pit",
@@ -567,7 +572,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "win-first-level",
@@ -575,7 +580,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "win-koth-fights1",
@@ -630,7 +635,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 1
     }
   ],
@@ -638,8 +643,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:04:40.943687+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:02:07.1963246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:00:49.0549075+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:04:40.9437338+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:59:22.0674472+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:02:07.1963473+00:00"
 }

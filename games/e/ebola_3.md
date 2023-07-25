@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~123 |
+| Fright ✔ | 57.00% | ~124 |
 | Chest ✔ | 54.00% | ~117 |
-| Inventory ✔ | 53.00% | ~114 |
-| Police officers ✔ | 27.00% | ~58 |
+| Inventory ✔ | 53.00% | ~115 |
+| Police officers ✔ | 27.00% | ~59 |
 | Mutation ✔ | 25.00% | ~54 |
 | Doberman ✔ | 14.00% | ~30 |
 | Chess ✔ | 10.00% | ~22 |
 | Weapon ✔ | 10.00% | ~22 |
-| Master of Unlocking ✔ | 9.00% | ~19 |
+| Master of Unlocking ✔ | 9.00% | ~20 |
 | Survival ✔ | 8.00% | ~17 |
 | Thirst ✔ | 7.00% | ~15 |
 | Alice ✔ | 6.00% | ~13 |
@@ -36,12 +36,12 @@
 | Priest ✔ | 4.00% | ~9 |
 | Rank A ✔ | 4.00% | ~9 |
 | Broadcasting ✔ | 4.00% | ~9 |
-| Crocodile Attack ✔ | 3.00% | ~6 |
-| Secret ✔ | 3.00% | ~6 |
-| Boss 2 ✔ | 3.00% | ~6 |
-| Mutant run ✔ | 3.00% | ~6 |
-| Osipov's video message ✔ | 3.00% | ~6 |
-| Boss 3 ✔ | 3.00% | ~6 |
+| Crocodile Attack ✔ | 3.00% | ~7 |
+| Secret ✔ | 3.00% | ~7 |
+| Boss 2 ✔ | 3.00% | ~7 |
+| Mutant run ✔ | 3.00% | ~7 |
+| Osipov's video message ✔ | 3.00% | ~7 |
+| Boss 3 ✔ | 3.00% | ~7 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
 | The escape ✔ | 2.00% | ~4 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.50% | ~1 |
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 268)  
+Progressed: 217 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 213 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 216 | 0 |
+| 2023-07-25 | 217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

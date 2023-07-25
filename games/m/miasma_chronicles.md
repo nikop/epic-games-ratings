@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.40 (Ranked 691)  
+Rating: 4.40 (Ranked 690)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,9 +36,9 @@ Rating: 4.40 (Ranked 691)
 | The Watchers | 20.00% | ~258 |
 | Commando | 16.00% | ~206 |
 | Newtonian Knockout | 16.00% | ~206 |
+| Silent but Violent | 16.00% | ~206 |
 | Chaos Theory | 15.00% | ~194 |
 | Dr Jones | 15.00% | ~194 |
-| Silent but Violent | 15.00% | ~194 |
 | Ruthless | 14.00% | ~181 |
 | Side Order | 10.00% | ~129 |
 | Chain Reaction | 9.00% | ~116 |

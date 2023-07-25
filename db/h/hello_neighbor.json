@@ -3,7 +3,7 @@
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 480,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
@@ -2503,11 +2503,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 1540,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2023-07-25T17:59:09.6851291+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1541,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1540,
-  "NumberOfAwardsMax": 227,
+  "NumberOfAwards": 1541,
+  "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -2526,7 +2532,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2582,8 +2588,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-07-25T09:59:02.440087+00:00",
+  "LastChanged": "2023-07-25T17:59:09.6851288+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:06.9990471+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:00:30.6969579+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:04:34.6405253+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:59:09.6851295+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:02:03.0299897+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2730,9 +2730,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "Kills_Streak",
@@ -2970,9 +2970,9 @@
       "ID": "UnlockedAllStratagems",
       "SetID": "3jha1np",
       "Name": "Tactical Flexibility",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -3064,8 +3064,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-24T09:59:17.4597226+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:05:59.0416051+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:03:22.184561+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:00:53.8306578+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:05:59.0417413+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:59:26.639217+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:03:22.1846217+00:00"
 }

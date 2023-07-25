@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -84,17 +84,17 @@
       "ID": "HW1_MISSION14_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Bridge of Sighs Completed",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Chapel Perilous Completed",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HW1_MISSION16_COMPLETE",
@@ -330,8 +330,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:05:20.2398601+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:02:35.4905239+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:57:26.2502839+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:05:20.2398966+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:56:58.7824347+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:02:35.4905441+00:00"
 }

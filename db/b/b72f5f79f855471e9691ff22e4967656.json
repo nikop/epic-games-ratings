@@ -716,9 +716,9 @@
       "ID": "questRedsBoss",
       "SetID": "ci65fo0",
       "Name": "The conqueror of the Reds",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questReturnSun",
@@ -825,8 +825,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-25T17:06:02.5048075+00:00",
+  "LastChanged_Achievements": "2023-07-25T18:03:24.7058144+00:00",
   "LastUpdate_AppInfo": "2023-07-19T09:57:15.9649833+00:00",
-  "LastUpdate_Ratings": "2023-07-25T16:57:47.0258576+00:00",
-  "LastUpdate_Achievements": "2023-07-25T17:06:02.5049442+00:00"
+  "LastUpdate_Ratings": "2023-07-25T17:57:18.4267919+00:00",
+  "LastUpdate_Achievements": "2023-07-25T18:03:24.7058742+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 555)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 84.00% | ~345 |
-| Vanquisher of Robots | 75.00% | ~308 |
-| Party | 47.00% | ~193 |
+| Good start! | 84.00% | ~346 |
+| Vanquisher of Robots | 75.00% | ~309 |
+| Party | 47.00% | ~194 |
 | Impossible Cube | 45.00% | ~185 |
 | Knowledge is Power | 43.00% | ~177 |
 | No Mercy | 42.00% | ~173 |
@@ -21,8 +21,8 @@ Rating: 4.50 (Ranked 555)
 | He's Seen It All | 26.00% | ~107 |
 | Rookie | 26.00% | ~107 |
 | Assemble a Meganewbie | 24.00% | ~99 |
-| Frugal | 22.00% | ~90 |
-| Feed a God | 21.00% | ~86 |
+| Frugal | 22.00% | ~91 |
+| Feed a God | 21.00% | ~87 |
 | To the Moon and Back | 20.00% | ~82 |
 | Great Flight | 17.00% | ~70 |
 | Holy Vengeance | 16.00% | ~66 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 555)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 226)  
+Progressed: 412 (Ranked 226)  
 Completed: 1 (0.24%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 1 (0.24%) (Ranked 162)
 | 2023-07-22 | 408 | 1 |
 | 2023-07-23 | 409 | 1 |
 | 2023-07-24 | 411 | 1 |
+| 2023-07-25 | 412 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

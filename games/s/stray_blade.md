@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 86.00% | ~25 |
-| Tinkerer | 52.00% | ~15 |
+| Tinkerer | 55.00% | ~16 |
 | Welcome to the Club | 31.00% | ~9 |
 | A new World ahead | 24.00% | ~7 |
 | Don't Cry Wolf | 21.00% | ~6 |

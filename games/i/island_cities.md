@@ -12,7 +12,7 @@
 | Found an oasis | 44.00% | ~181 |
 | Burger or pizza? | 39.00% | ~160 |
 | Passion for sports | 33.00% | ~136 |
-| Who loves trains? | 29.00% | ~119 |
+| Who loves trains? | 30.00% | ~123 |
 | Easy and steady climb | 28.00% | ~115 |
 | At the heart of the city | 26.00% | ~107 |
 | Calm neighborhood | 25.00% | ~103 |
@@ -21,13 +21,13 @@
 | Monumental tribute | 22.00% | ~90 |
 | The beach is right there | 21.00% | ~86 |
 | Commuting | 20.00% | ~82 |
-| Le jardin magnifique | 19.00% | ~78 |
+| Le jardin magnifique | 20.00% | ~82 |
 | Aiming for a living and human city | 19.00% | ~78 |
 | City of dreams | 18.00% | ~74 |
 | Happy Christmas night! | 18.00% | ~74 |
 | Night walk along the beach | 18.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 226)  
+Progressed: 411 (Ranked 227)  
 Completed: 75 (18.25%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |

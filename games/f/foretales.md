@@ -7,18 +7,18 @@
 | Caged tiger | 62.00% | ~166 |
 | Gorilla warfare | 58.00% | ~155 |
 | Isenburg's fall | 49.00% | ~131 |
-| Pieces of eight! | 41.00% | ~109 |
+| Pieces of eight! | 41.00% | ~110 |
 | Aboard the Sea Bird | 31.00% | ~83 |
 | Elephant in the room | 30.00% | ~80 |
-| Dark and stinky | 29.00% | ~77 |
-| Sneak in, sneak out | 26.00% | ~69 |
+| Dark and stinky | 29.00% | ~78 |
+| Sneak in, sneak out | 26.00% | ~70 |
 | Is this the end? | 25.00% | ~67 |
 | A gift horse | 24.00% | ~64 |
 | You sssaved me | 24.00% | ~64 |
 | Say hello to my little friends | 21.00% | ~56 |
 | Gotcha | 18.00% | ~48 |
 | Heal thyself | 18.00% | ~48 |
-| It's not cheating | 17.00% | ~45 |
+| It's not cheating | 17.00% | ~46 |
 | Double trouble | 16.00% | ~43 |
 | Stronk | 15.00% | ~40 |
 | Welcome to Forte Ailes | 13.00% | ~35 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 256)  
+Progressed: 268 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-06-27 | 264 | 0 |
 | 2023-06-29 | 265 | 0 |
 | 2023-07-23 | 267 | 0 |
+| 2023-07-25 | 268 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

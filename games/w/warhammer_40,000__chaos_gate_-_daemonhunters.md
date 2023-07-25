@@ -8,9 +8,9 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Look Over There! | 0.30% | ~9 |
 | Executioner | 0.30% | ~9 |
+| Watch Where You Step... | 0.30% | ~9 |
 | An Ill Omen | 0.30% | ~9 |
 | Not So Fast... | 0.20% | ~6 |
-| Watch Where You Step... | 0.20% | ~6 |
 | Bloodless | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
@@ -33,6 +33,7 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
 | Long Distance Call | 0.10% | ~3 |
+| Tactical Flexibility | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
@@ -72,7 +73,6 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.00% | ~0 |
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
-| Tactical Flexibility | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,029 (Ranked 153)  
