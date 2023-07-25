@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Look Over There! | 0.10% | ~3 |
+| Look Over There! | 0.20% | ~6 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |

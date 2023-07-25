@@ -5,33 +5,33 @@ Rating: 4.58 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~631 |
-| Fetch Quest Complete | 90.00% | ~591 |
-| I can't wait! | 83.00% | ~545 |
-| Swish | 56.00% | ~368 |
-| Clean up on Aisle 9 | 40.00% | ~263 |
-| Machine Maxed | 30.00% | ~197 |
-| Bug Fixer | 25.00% | ~164 |
-| Existential dread | 25.00% | ~164 |
-| Gerald of Riviera | 25.00% | ~164 |
+| Pushing a pull door | 97.00% | ~639 |
+| Fetch Quest Complete | 90.00% | ~593 |
+| I can't wait! | 83.00% | ~547 |
+| Swish | 55.00% | ~362 |
+| Clean up on Aisle 9 | 39.00% | ~257 |
+| Machine Maxed | 30.00% | ~198 |
+| Bug Fixer | 25.00% | ~165 |
+| Existential dread | 25.00% | ~165 |
+| Gerald of Riviera | 25.00% | ~165 |
 | Goal | 22.00% | ~145 |
 | I ran the numbers | 15.00% | ~99 |
-| Taking the plunge | 13.00% | ~85 |
+| Taking the plunge | 13.00% | ~86 |
 | Hidden Packages | 11.00% | ~72 |
 | GOOOAAAL | 9.00% | ~59 |
-| Ahoy Hoy | 6.00% | ~39 |
-| Rhythm is a dancer | 6.00% | ~39 |
-| New Kid on the Block | 6.00% | ~39 |
-| Jimmy Goldman Would be Proud | 6.00% | ~39 |
-| You Spin Me Round | 6.00% | ~39 |
+| Ahoy Hoy | 6.00% | ~40 |
+| Rhythm is a dancer | 6.00% | ~40 |
+| New Kid on the Block | 6.00% | ~40 |
+| Jimmy Goldman Would be Proud | 6.00% | ~40 |
+| You Spin Me Round | 6.00% | ~40 |
 | Bombscare | 5.00% | ~33 |
 | Your Bloody Valentine | 5.00% | ~33 |
 | GoldGuy Jr | 4.00% | ~26 |
 | Nose to the Grindstone | 4.00% | ~26 |
-| Waking nightmare | 4.00% | ~26 |
 | We come in peace | 3.00% | ~20 |
 | Crowning achievement | 3.00% | ~20 |
 | Hammer time | 3.00% | ~20 |
+| Waking nightmare | 3.00% | ~20 |
 | 1CC | 2.00% | ~13 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
 | To do. Done! | 2.00% | ~13 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 425)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657 (Ranked 207)  
+Progressed: 659 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 653 | 0 |
 | 2023-07-23 | 656 | 0 |
 | 2023-07-24 | 657 | 0 |
+| 2023-07-25 | 659 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

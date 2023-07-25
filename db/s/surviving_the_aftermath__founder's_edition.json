@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1131,7 +1131,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7681,
+  "EOS_Progressed": 7682,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -8931,6 +8931,11 @@
       "Time": "2023-07-25T03:10:24.8767055+00:00",
       "NumProgressed": 7681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T04:06:21.314291+00:00",
+      "NumProgressed": 7682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -8998,15 +9003,15 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "17",
       "SetID": "8idi9ml",
       "Name": "Famous Adventurer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 999
     },
     {
       "ID": "18",
@@ -9022,7 +9027,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "2",
@@ -9030,7 +9035,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "20",
@@ -9110,7 +9115,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "3",
@@ -9166,7 +9171,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "36",
@@ -9198,7 +9203,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "4",
@@ -9214,7 +9219,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "41",
@@ -9413,15 +9418,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7681,
+      "Progressed": 7682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-21T17:01:17.0065734+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:10:24.8767051+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:06:21.3142905+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:05:44.2006025+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:10:24.8767859+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:01:19.2707481+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:06:21.3144788+00:00"
 }

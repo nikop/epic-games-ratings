@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11315,
+  "EOS_Progressed": 11318,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7284,6 +7284,11 @@
       "Time": "2023-07-25T03:11:57.660986+00:00",
       "NumProgressed": 11315,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-25T04:07:39.1761917+00:00",
+      "NumProgressed": 11318,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7295,7 +7300,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9168
     },
     {
       "ID": "ACH02",
@@ -7351,7 +7356,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "ACH09",
@@ -7359,7 +7364,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH10",
@@ -7375,7 +7380,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ACH12",
@@ -7415,7 +7420,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ACH17",
@@ -7463,7 +7468,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH23",
@@ -7471,7 +7476,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "ACH24",
@@ -7487,7 +7492,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH26",
@@ -7519,7 +7524,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACH30",
@@ -7574,7 +7579,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11315,
+      "Progressed": 11318,
       "Completed": 31
     }
   ],
@@ -7582,8 +7587,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-24T04:01:31.0123071+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:11:57.6609856+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:07:39.1761912+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:06:12.362842+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:11:57.6610361+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:01:40.1068+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:07:39.176262+00:00"
 }

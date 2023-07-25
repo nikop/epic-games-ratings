@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3555,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4627,6 +4627,11 @@
       "Time": "2023-07-25T03:08:00.6254414+00:00",
       "NumProgressed": 3555,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-25T04:04:07.6997164+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5172,9 +5177,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach069",
@@ -5205,13 +5210,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3555,
+      "Progressed": 3559,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2076,
+      "Progressed": 2080,
       "Completed": 1928
     }
   ],
@@ -5219,8 +5224,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:08:00.6254406+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:04:07.699716+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:03:34.1786959+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:08:00.6255261+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:59:40.6384592+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:04:07.6998407+00:00"
 }

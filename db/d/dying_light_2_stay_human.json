@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -7391,10 +7391,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 20258,
       "NumberOfAwardsMax": 8539
+    },
+    {
+      "Time": "2023-07-25T04:01:25.2592559+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 20261,
+      "NumberOfAwardsMax": 8539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20258,
+  "NumberOfAwards": 20261,
   "NumberOfAwardsMax": 8539,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7444,7 +7450,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 772
+      "Count": 775
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7471,7 +7477,7 @@
       "Count": 605
     }
   ],
-  "EOS_Progressed": 600977,
+  "EOS_Progressed": 600986,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 4351,
   "EOS_NewCompleters": 0,
@@ -17891,6 +17897,11 @@
       "Time": "2023-07-25T03:09:03.020956+00:00",
       "NumProgressed": 600977,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-25T04:05:11.3162103+00:00",
+      "NumProgressed": 600986,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 65,
@@ -17902,7 +17913,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 60098
+      "UsersEstimate": 60099
     },
     {
       "ID": "achievement_02",
@@ -17910,7 +17921,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 60098
+      "UsersEstimate": 60099
     },
     {
       "ID": "achievement_03",
@@ -17918,7 +17929,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54088
+      "UsersEstimate": 54089
     },
     {
       "ID": "achievement_04",
@@ -17926,7 +17937,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42068
+      "UsersEstimate": 42069
     },
     {
       "ID": "achievement_05",
@@ -17934,7 +17945,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42068
+      "UsersEstimate": 42069
     },
     {
       "ID": "achievement_06",
@@ -18038,7 +18049,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48078
+      "UsersEstimate": 48079
     },
     {
       "ID": "achievement_19",
@@ -18046,7 +18057,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18029
+      "UsersEstimate": 18030
     },
     {
       "ID": "achievement_20",
@@ -18094,7 +18105,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42068
+      "UsersEstimate": 42069
     },
     {
       "ID": "achievement_26",
@@ -18110,7 +18121,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 66107
+      "UsersEstimate": 66108
     },
     {
       "ID": "achievement_28",
@@ -18118,7 +18129,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 42068
+      "UsersEstimate": 42069
     },
     {
       "ID": "achievement_29",
@@ -18190,7 +18201,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54088
+      "UsersEstimate": 54089
     },
     {
       "ID": "achievement_38",
@@ -18206,7 +18217,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42068
+      "UsersEstimate": 42069
     },
     {
       "ID": "achievement_40",
@@ -18294,15 +18305,15 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18029
+      "UsersEstimate": 18030
     },
     {
       "ID": "achievement_51",
       "SetID": "3cbf5jh",
       "Name": "Don\u0027t Look Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 1202
     },
     {
       "ID": "achievement_52",
@@ -18421,21 +18432,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 600977,
+      "Progressed": 600986,
       "Completed": 60
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 246421,
+      "Progressed": 246430,
       "Completed": 1422
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-07-25T03:05:50.2214123+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:09:03.0209555+00:00",
+  "LastChanged": "2023-07-25T04:01:25.2592557+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:05:11.3162098+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:54.9654755+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:05:50.2214132+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:09:03.0210563+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:01:25.2592574+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:05:11.3163604+00:00"
 }

@@ -3,13 +3,13 @@
 [View Rawdata](../../db/t/the_outlast_trials.json)  
 Rating: 4.66 (Ranked 274)  
 ## Awards
-Max (Amazing Storytelling): 90  (Ranked 345)  
-Sum: 628 (Ranked 288)  
-Diff (max vs sum): 57  
+Max (Quickly Understood Controls): 91  (Ranked 345)  
+Sum: 629 (Ranked 286)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 91 |
 | This game has Amazing Storytelling | 90 |
-| This game has Quickly Understood Controls | 90 |
 | This game is Great for Beginners | 90 |
 | This game is Extremely Fun | 74 |
 | This game is Highly Recommended | 72 |
@@ -85,3 +85,4 @@ Diff (max vs sum): 57
 | 2023-07-22 | 4.66 | 89 | 620 |
 | 2023-07-23 | 4.66 | 90 | 626 |
 | 2023-07-24 | 4.66 | 90 | 628 |
+| 2023-07-25 | 4.66 | 91 | 629 |

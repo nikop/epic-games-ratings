@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,891 |
-| Right Back At Ya | 39.00% | ~338,320 |
-| The Lovers | 34.00% | ~294,946 |
-| Stanislavski's Method | 28.00% | ~242,896 |
-| The Wheel of Fortune | 27.00% | ~234,221 |
-| The Hermit | 24.00% | ~208,197 |
-| True Soldier | 23.00% | ~199,522 |
-| Christmas Tree Attack | 22.00% | ~190,847 |
-| The High Priestess | 21.00% | ~182,172 |
-| Legend of The Afterlife | 21.00% | ~182,172 |
-| Life of the Road | 20.00% | ~173,497 |
-| Full Body Conversion | 18.00% | ~156,148 |
-| The World | 17.00% | ~147,473 |
-| Bushido and Chill | 16.00% | ~138,798 |
-| Gun Fu | 15.00% | ~130,123 |
-| True Warrior | 15.00% | ~130,123 |
-| I Am The Law | 14.00% | ~121,448 |
-| Judy vs Night City | 14.00% | ~121,448 |
-| To Protect and Serve | 13.00% | ~112,773 |
-| Master Crafter | 13.00% | ~112,773 |
+| The Fool | 68.00% | ~589,895 |
+| Right Back At Ya | 39.00% | ~338,322 |
+| The Lovers | 34.00% | ~294,948 |
+| Stanislavski's Method | 28.00% | ~242,898 |
+| The Wheel of Fortune | 27.00% | ~234,223 |
+| The Hermit | 24.00% | ~208,198 |
+| True Soldier | 23.00% | ~199,523 |
+| Christmas Tree Attack | 22.00% | ~190,848 |
+| The High Priestess | 21.00% | ~182,174 |
+| Legend of The Afterlife | 21.00% | ~182,174 |
+| Life of the Road | 20.00% | ~173,499 |
+| Full Body Conversion | 18.00% | ~156,149 |
+| The World | 17.00% | ~147,474 |
+| Bushido and Chill | 16.00% | ~138,799 |
+| Gun Fu | 15.00% | ~130,124 |
+| True Warrior | 15.00% | ~130,124 |
+| I Am The Law | 14.00% | ~121,449 |
+| Judy vs Night City | 14.00% | ~121,449 |
+| To Protect and Serve | 13.00% | ~112,774 |
+| Master Crafter | 13.00% | ~112,774 |
 | Two Heads, One Bullet | 11.00% | ~95,424 |
 | The Wandering Fool | 9.00% | ~78,074 |
 | The Quick and the Dead | 9.00% | ~78,074 |
 | Breathtaking | 8.00% | ~69,399 |
 | Ten out of Ten | 8.00% | ~69,399 |
-| The Star | 7.00% | ~60,724 |
-| To Bad Decisions! | 6.00% | ~52,049 |
-| The Sun | 6.00% | ~52,049 |
-| Must Be Rats | 4.00% | ~34,699 |
-| Temperance | 4.00% | ~34,699 |
+| The Star | 7.00% | ~60,725 |
+| To Bad Decisions! | 6.00% | ~52,050 |
+| The Sun | 6.00% | ~52,050 |
+| Must Be Rats | 4.00% | ~34,700 |
+| Temperance | 4.00% | ~34,700 |
 | City Lights | 3.00% | ~26,025 |
 | Mean Streets | 3.00% | ~26,025 |
 | Little Tokyo | 3.00% | ~26,025 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,675 |
 | Rough Landing | 0.50% | ~4,337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,487 (Ranked 14)  
+Progressed: 867,493 (Ranked 14)  
 Completed: 1,903 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1,903 (0.22%) (Ranked 164)
 | 2023-07-22 | 867,103 | 1,894 |
 | 2023-07-23 | 867,304 | 1,896 |
 | 2023-07-24 | 867,476 | 1,903 |
-| 2023-07-25 | 867,487 | 1,903 |
+| 2023-07-25 | 867,493 | 1,903 |
 ## Awards
 Max (Character Customization): 74,031  (Ranked 9)  
 Sum: 194,600 (Ranked 13)  

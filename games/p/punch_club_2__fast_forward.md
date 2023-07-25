@@ -16,11 +16,11 @@
 | Neurotrainer – power gainer! | 75.00% | ~104 |
 | Employee of the week | 74.00% | ~103 |
 | Your own amateur gym | 69.00% | ~96 |
-| Run K, run! | 65.00% | ~90 |
-| No bullying more | 64.00% | ~89 |
-| Hello, world! | 63.00% | ~88 |
+| Run K, run! | 66.00% | ~92 |
+| No bullying more | 65.00% | ~90 |
+| Hello, world! | 64.00% | ~89 |
+| Intriguing candies | 61.00% | ~85 |
 | Fighting is cool | 60.00% | ~83 |
-| Intriguing candies | 60.00% | ~83 |
 | Pal of your father? | 56.00% | ~78 |
 | Employee of the month | 55.00% | ~76 |
 | Spirit of the past | 54.00% | ~75 |
@@ -36,19 +36,19 @@
 | Handyman | 42.00% | ~58 |
 | Extreme neuropower! | 42.00% | ~58 |
 | Now you are worthy | 37.00% | ~51 |
-| Legal courier | 36.00% | ~50 |
+| Legal courier | 37.00% | ~51 |
 | Escaped from a big trouble | 30.00% | ~42 |
 | Mysterious voice | 29.00% | ~40 |
 | No blades in the gym | 29.00% | ~40 |
 | Guiding on the right path | 29.00% | ~40 |
 | Fight is life | 27.00% | ~38 |
 | Responsible approach | 27.00% | ~38 |
-| Deal with life | 24.00% | ~33 |
+| Deal with life | 25.00% | ~35 |
 | Champion – no way back | 24.00% | ~33 |
 | Get out of my apartment! | 24.00% | ~33 |
+| The die is cast | 24.00% | ~33 |
 | Underground dwellers | 24.00% | ~33 |
 | Mom got better | 23.00% | ~32 |
-| The die is cast | 23.00% | ~32 |
 | Gang wrangler | 22.00% | ~31 |
 | Anyone can resist | 22.00% | ~31 |
 | Seashell hunter | 22.00% | ~31 |

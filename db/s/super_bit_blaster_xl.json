@@ -3,9 +3,9 @@
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
-  "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.27,
+  "EOS_Progressed": 165,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.85,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -776,6 +776,11 @@
       "Time": "2023-07-22T05:07:53.7775745+00:00",
       "NumProgressed": 164,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-25T04:07:35.207129+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -787,7 +792,7 @@
       "Name": "1.5 Million",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "10K",
@@ -811,7 +816,7 @@
       "Name": "1K",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "2.5K",
@@ -819,7 +824,7 @@
       "Name": "2.5K",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "25K",
@@ -833,9 +838,9 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "50K",
@@ -865,9 +870,9 @@
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Bit Blaster V3",
@@ -881,55 +886,55 @@
       "ID": "Bit Blaster V4",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V4",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "Bit Blaster V5",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V5",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Bit Blaster V6",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V6",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Bit Blaster V7",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V7",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Bit Blaster V8",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V8",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 164,
-      "Completed": 7
+      "Progressed": 165,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:11:53.4346568+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:07:35.2071284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.2196832+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:02:11.0001785+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:11:53.4346706+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:58:38.5043827+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:07:35.2071492+00:00"
 }

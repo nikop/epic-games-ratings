@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31269,
+  "EOS_Progressed": 31275,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10508,6 +10508,11 @@
       "Time": "2023-07-25T03:08:39.6372374+00:00",
       "NumProgressed": 31269,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-25T04:04:40.7493468+00:00",
+      "NumProgressed": 31275,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10519,7 +10524,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10527,7 +10532,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6254
+      "UsersEstimate": 6255
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10559,7 +10564,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -10591,7 +10596,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -10631,7 +10636,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -10671,7 +10676,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -10750,7 +10755,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31269,
+      "Progressed": 31275,
       "Completed": 20
     }
   ],
@@ -10758,8 +10763,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:08:39.6372369+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:04:40.7493459+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:05:52.27968+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:08:39.6373014+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:01:27.9067126+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:04:40.7494971+00:00"
 }

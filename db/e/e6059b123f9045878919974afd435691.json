@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -1266,6 +1266,11 @@
       "Time": "2023-07-23T07:04:51.5999537+00:00",
       "NumProgressed": 639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T04:06:11.7713816+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1285,7 +1290,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1347,9 +1352,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 275
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1804,14 +1809,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:10:12.9735592+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:06:11.7713811+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:00:43.778272+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:10:12.9736455+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:57:34.0023614+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:06:11.7714554+00:00"
 }

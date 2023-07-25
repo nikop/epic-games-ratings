@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1665,6 +1665,11 @@
       "Time": "2023-07-24T22:03:20.4783266+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T04:03:34.3696243+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1676,7 +1681,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Auditor",
@@ -1756,7 +1761,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "Everyone_is_here",
@@ -1780,7 +1785,7 @@
       "Name": "Game Over",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Grenadier",
@@ -1804,7 +1809,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "High_noon",
@@ -1860,7 +1865,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "MoskitoBite",
@@ -1915,15 +1920,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1162,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:07:44.4633481+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:03:34.3696237+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:04:40.165152+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:07:44.4633707+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:00:28.1502146+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:03:34.3696607+00:00"
 }

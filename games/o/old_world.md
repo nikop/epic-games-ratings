@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
+| Pioneer | 0.40% | ~52 |
 | Strong | 0.40% | ~52 |
 | Hanging Gardens | 0.40% | ~52 |
 | Oracle | 0.40% | ~52 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
-| Pioneer | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |

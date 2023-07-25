@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215277,
-  "EOS_Completed": 2084,
-  "EOS_NewPlayers": 2367,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 215291,
+  "EOS_Completed": 2087,
+  "EOS_NewPlayers": 2373,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15496,6 +15496,11 @@
       "Time": "2023-07-25T03:12:00.0786806+00:00",
       "NumProgressed": 215277,
       "NumCompleted": 2084
+    },
+    {
+      "Time": "2023-07-25T04:07:41.3835525+00:00",
+      "NumProgressed": 215291,
+      "NumCompleted": 2087
     }
   ],
   "TotalAchievements": 512,
@@ -15507,7 +15512,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "objective_completed_10",
@@ -15873,9 +15878,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1938
     },
     {
       "ID": "objective_completed_110",
@@ -16169,9 +16174,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1160",
@@ -16481,9 +16486,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_130",
@@ -16689,9 +16694,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_164",
@@ -16849,9 +16854,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_209",
@@ -19449,9 +19454,9 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1047",
@@ -19465,9 +19470,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1220",
@@ -19602,21 +19607,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181551,
-      "Completed": 2914
+      "Progressed": 181565,
+      "Completed": 2920
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215277,
-      "Completed": 2084
+      "Progressed": 215291,
+      "Completed": 2087
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T03:12:00.07868+00:00",
+  "LastChanged_Achievements": "2023-07-25T04:07:41.3835521+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:02:51.3588736+00:00",
-  "LastUpdate_Achievements": "2023-07-25T03:12:00.0810713+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:59:08.4622643+00:00",
+  "LastUpdate_Achievements": "2023-07-25T04:07:41.3864186+00:00"
 }
