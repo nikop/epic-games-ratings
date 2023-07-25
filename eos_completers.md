@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.20% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -115,7 +115,7 @@
 | 113 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 114 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 115 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 0.72% |
+| 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 0.71% |
 | 117 | [Haven](games/h/haven.md) | 0.67% |
 | 118 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 119 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
@@ -136,9 +136,9 @@
 | 134 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 134 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 136 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
-| 137 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.44% |
 | 137 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
-| 139 | [Tchia](games/t/tchia.md) | 0.43% |
+| 138 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.43% |
+| 138 | [Tchia](games/t/tchia.md) | 0.43% |
 | 140 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 141 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 142 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
