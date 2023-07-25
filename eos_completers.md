@@ -11,13 +11,13 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.34% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.29% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.30% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.28% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -32,8 +32,8 @@
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.96% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.80% |
-| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
+| 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -41,12 +41,12 @@
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.36% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
-| 42 | [JARS](games/j/jars.md) | 4.84% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
-| 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 45 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
-| 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.51% |
-| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.27% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 43 | [JARS](games/j/jars.md) | 4.84% |
+| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
+| 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 46 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
+| 47 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.51% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.90% |
 | 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
@@ -106,8 +106,8 @@
 | 104 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 105 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 106 | [Adios](games/a/adios.md) | 0.98% |
-| 106 | [Sable](games/s/sable.md) | 0.98% |
-| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
+| 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
+| 107 | [Sable](games/s/sable.md) | 0.97% |
 | 109 | [Hades](games/h/hades.md) | 0.89% |
 | 110 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 111 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |

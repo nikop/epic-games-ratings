@@ -5,7 +5,7 @@
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | 0 |
 | [City Car Parking Simulator](games/8/81965a5531ee48309b6da807d7fed155.md) | 2023-07-23 | - |  | - | - |
 | [Police Car Escape Simulator](games/3/36669b93a631455abfc52bbed2c84f8d.md) | 2023-07-23 | - |  | - | - |
-| [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
+| [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | 0 |
 | [Precious Stones](games/p/precious_stones.md) | 2023-07-23 | - |  | - | - |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-07-23 | 13 (1,000 XP) | 1 | - | - |
 | [Garbage Truck Driving Simulator](games/e/ee72cd979c3c4fa99c162e8cd7a03f28.md) | 2023-07-21 | - |  | - | - |
@@ -73,7 +73,7 @@
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | 2023-07-01 | - |  | - | - |
 | [Corrupt - Political Simulator](games/8/898948344c0c49218e067f34221acd08.md) | 2023-07-01 | - |  | - | 0 |
-| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 639 | - | 0 |
+| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 640 | - | 0 |
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | 0 |
 | [A Long Journey to an Uncertain End](games/b/be9da78f6f3449c8a2cdbb100853fc30.md) | 2023-06-30 | - |  | - | - |
 | [Sleengster](games/1/1573f526f4ae4d3b89c6aa09e0020c1b.md) | 2023-06-30 | - |  | - | - |

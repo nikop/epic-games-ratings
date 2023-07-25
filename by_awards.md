@@ -81,7 +81,7 @@
 | 79 | [SMITE](games/s/smite.md) | 4,066 | 4.44 | 642 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,885 | 4.68 | 238 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,734 | 4.77 | 109 |
-| 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,679 | 4.28 | 790 |
+| 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,684 | 4.28 | 790 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,571 | 4.57 | 443 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,491 | 4.47 | 601 |
 | 85 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,456 | 4.46 | 610 |
@@ -132,7 +132,7 @@
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 274 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,226 | 4.54 | 495 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,223 | 4.42 | 663 |
-| 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,217 | 4.55 | 482 |
+| 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,217 | 4.55 | 481 |
 | 134 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.69 | 214 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,170 | 4.43 | 654 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,149 | 4.61 | 367 |
@@ -228,7 +228,7 @@
 | 226 | [Tannenberg](games/t/tannenberg.md) | 328 | 4.39 | 702 |
 | 227 | [The Messenger](games/t/the_messenger.md) | 323 | 4.80 | 83 |
 | 228 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 367 |
-| 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 319 | 4.55 | 482 |
+| 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 319 | 4.55 | 481 |
 | 230 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 317 | 4.72 | 169 |
 | 231 | [House Flipper](games/h/house_flipper.md) | 304 | 4.69 | 214 |
 | 231 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 331 |
@@ -253,7 +253,7 @@
 | 251 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 235 | 4.84 | 49 |
 | 252 | [Overcooked! 2](games/o/overcooked!_2.md) | 230 | 4.73 | 158 |
 | 253 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 228 | 4.56 | 460 |
-| 254 | [Hello Neighbor](games/h/hello_neighbor.md) | 227 | 4.55 | 482 |
+| 254 | [Hello Neighbor](games/h/hello_neighbor.md) | 227 | 4.55 | 481 |
 | 255 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 222 | 4.81 | 77 |
 | 256 | [Brawlhalla](games/b/brawlhalla.md) | 221 | 4.61 | 367 |
 | 256 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 221 | 4.59 | 411 |
@@ -290,7 +290,7 @@
 | 287 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 162 | 4.51 | 539 |
 | 289 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 159 | 4.79 | 91 |
 | 289 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 159 | 4.66 | 274 |
-| 291 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 151 | 4.55 | 482 |
+| 291 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 151 | 4.55 | 481 |
 | 292 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.52 | 520 |
 | 292 | [Star Stable Online](games/s/star_stable_online.md) | 148 | 4.42 | 663 |
 | 294 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 146 | 4.77 | 109 |
@@ -344,9 +344,9 @@
 | 339 | [Verdun](games/v/verdun.md) | 95 | 4.52 | 520 |
 | 343 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 93 | 4.54 | 495 |
 | 344 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.18 | 858 |
-| 345 | [Darksiders III](games/d/darksiders_iii.md) | 90 | 4.51 | 539 |
-| 345 | [The Outlast Trials](games/t/the_outlast_trials.md) | 90 | 4.66 | 274 |
-| 347 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 89 | 4.55 | 482 |
+| 345 | [The Outlast Trials](games/t/the_outlast_trials.md) | 91 | 4.66 | 274 |
+| 346 | [Darksiders III](games/d/darksiders_iii.md) | 90 | 4.51 | 539 |
+| 347 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 89 | 4.55 | 481 |
 | 348 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 88 | 4.68 | 238 |
 | 349 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 495 |
 | 349 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 58 |
@@ -383,7 +383,7 @@
 | 378 | [Ticket to Ride](games/t/ticket_to_ride.md) | 66 | 4.62 | 347 |
 | 382 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 64 | 4.42 | 663 |
 | 383 | [Arcadegeddon](games/a/arcadegeddon.md) | 63 | 4.49 | 575 |
-| 383 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 63 | 4.55 | 482 |
+| 383 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 63 | 4.55 | 481 |
 | 383 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 539 |
 | 386 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 393 |
 | 387 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 642 |
@@ -397,7 +397,7 @@
 | 392 | [The Escapists 2](games/t/the_escapists_2.md) | 52 | 4.58 | 425 |
 | 396 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 49 |
 | 397 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 851 |
-| 397 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 460 |
+| 397 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.55 | 481 |
 | 397 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 196 |
 | 397 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 50 | 4.66 | 274 |
 | 397 | [Session: Skate Sim](games/s/session__skate_sim.md) | 50 | 4.68 | 238 |
@@ -445,7 +445,7 @@
 | 443 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 495 |
 | 443 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.82 | 65 |
 | 443 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 851 |
-| 443 | [Outward Definitive Edition](games/o/outward.md) | 33 | 4.55 | 482 |
+| 443 | [Outward Definitive Edition](games/o/outward.md) | 33 | 4.55 | 481 |
 | 443 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.53 | 507 |
 | 448 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.15 | 874 |
 | 448 | [Chorus](games/c/chorus.md) | 32 | 4.45 | 624 |

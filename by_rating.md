@@ -294,7 +294,7 @@
 | 274 | [SOMA](games/s/soma.md) | 4.66 | 0 | 506 |
 | 274 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 448 |
 | 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 538 | 190 |
-| 274 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 90 | 345 |
+| 274 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 91 | 345 |
 | 274 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 506 |
 | 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,819 | 57 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
@@ -462,7 +462,6 @@
 | 460 | [Aimlabs](games/a/aimlabs.md) | 4.56 | 0 | 506 |
 | 460 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 506 |
 | 460 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 506 |
-| 460 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 397 |
 | 460 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 506 |
 | 460 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 811 | 151 |
 | 460 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 228 | 253 |
@@ -481,19 +480,20 @@
 | 460 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 506 |
 | 460 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 360 |
 | 460 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,198 | 76 |
-| 482 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 506 |
-| 482 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 506 |
-| 482 | [Far Cry](games/f/far_cry.md) | 4.55 | 0 | 506 |
-| 482 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 63 | 383 |
-| 482 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 227 | 254 |
-| 482 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 151 | 291 |
-| 482 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.55 | 0 | 506 |
-| 482 | [IXION](games/i/ixion.md) | 4.55 | 0 | 506 |
-| 482 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 443 |
-| 482 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 347 |
-| 482 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 506 |
-| 482 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 319 | 229 |
-| 482 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,217 | 133 |
+| 481 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 506 |
+| 481 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 506 |
+| 481 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 397 |
+| 481 | [Far Cry](games/f/far_cry.md) | 4.55 | 0 | 506 |
+| 481 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 63 | 383 |
+| 481 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 227 | 254 |
+| 481 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 151 | 291 |
+| 481 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.55 | 0 | 506 |
+| 481 | [IXION](games/i/ixion.md) | 4.55 | 0 | 506 |
+| 481 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 443 |
+| 481 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 347 |
+| 481 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 506 |
+| 481 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 319 | 229 |
+| 481 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,217 | 133 |
 | 495 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,344 | 127 |
 | 495 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,360 | 64 |
 | 495 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 443 |
@@ -543,7 +543,7 @@
 | 539 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,105 | 78 |
 | 539 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 506 |
 | 539 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 419 |
-| 539 | [Darksiders III](games/d/darksiders_iii.md) | 4.51 | 90 | 345 |
+| 539 | [Darksiders III](games/d/darksiders_iii.md) | 4.51 | 90 | 346 |
 | 539 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.51 | 0 | 506 |
 | 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,577 | 95 |
 | 539 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 325 |
@@ -789,7 +789,7 @@
 | 781 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 702 | 164 |
 | 781 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 415 |
 | 781 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 506 |
-| 790 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,679 | 82 |
+| 790 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,684 | 82 |
 | 790 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 506 |
 | 790 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 138 | 298 |
 | 790 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 308 |
