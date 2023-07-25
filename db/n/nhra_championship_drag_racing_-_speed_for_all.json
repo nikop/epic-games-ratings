@@ -4,8 +4,8 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747,
+  "EOS_Progressed": 748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-07-25T17:05:31.9798673+00:00",
       "NumProgressed": 747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T20:03:48.9336912+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -454,7 +459,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "11",
@@ -478,7 +483,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "14",
@@ -486,7 +491,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "15",
@@ -550,7 +555,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "22",
@@ -710,14 +715,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 747,
+      "Progressed": 748,
       "Completed": 0
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:03:16.7026652+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:03:48.9336907+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.6913323+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:58:47.2294938+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:03:16.7026937+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:59:15.3156183+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:03:48.9337114+00:00"
 }

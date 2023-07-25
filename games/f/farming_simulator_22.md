@@ -6,39 +6,39 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,549 |
-| I read Shakespeare and stuff | 64.00% | ~29,482 |
-| Just a sprinkle | 63.00% | ~29,021 |
-| I'm stumped | 61.00% | ~28,100 |
-| Plant get enough | 60.00% | ~27,639 |
-| This is just my weekend vehicle | 58.00% | ~26,718 |
-| It's just the beginning | 58.00% | ~26,718 |
-| Hard work pays off | 53.00% | ~24,414 |
-| It's never too late to farm | 48.00% | ~22,111 |
-| All out of Land | 44.00% | ~20,269 |
-| Field Trip | 43.00% | ~19,808 |
-| I like to switch it up | 40.00% | ~18,426 |
-| Help me to help you | 38.00% | ~17,505 |
-| Ultimutt Pawesomeness | 28.00% | ~12,898 |
-| Van Gogh | 26.00% | ~11,977 |
-| You wood not believe it | 21.00% | ~9,674 |
-| Vehicle fleet | 21.00% | ~9,674 |
-| The plot thickens | 16.00% | ~7,370 |
-| Well-Oiled Machine | 16.00% | ~7,370 |
-| Long haul | 16.00% | ~7,370 |
-| Clucky Streak | 15.00% | ~6,910 |
-| Large-scale supplier | 15.00% | ~6,910 |
-| That's a wrap | 14.00% | ~6,449 |
-| Fix me up | 13.00% | ~5,988 |
-| Rock on | 12.00% | ~5,528 |
-| It's sow easy | 11.00% | ~5,067 |
-| Highly cultivated | 10.00% | ~4,606 |
-| Giddy-up! | 10.00% | ~4,606 |
+| Own use | 75.00% | ~34,554 |
+| I read Shakespeare and stuff | 64.00% | ~29,486 |
+| Just a sprinkle | 63.00% | ~29,025 |
+| I'm stumped | 61.00% | ~28,104 |
+| Plant get enough | 60.00% | ~27,643 |
+| This is just my weekend vehicle | 58.00% | ~26,722 |
+| It's just the beginning | 58.00% | ~26,722 |
+| Hard work pays off | 53.00% | ~24,418 |
+| It's never too late to farm | 48.00% | ~22,115 |
+| All out of Land | 44.00% | ~20,272 |
+| Field Trip | 43.00% | ~19,811 |
+| I like to switch it up | 40.00% | ~18,429 |
+| Help me to help you | 38.00% | ~17,507 |
+| Ultimutt Pawesomeness | 28.00% | ~12,900 |
+| Van Gogh | 26.00% | ~11,979 |
+| You wood not believe it | 21.00% | ~9,675 |
+| Vehicle fleet | 21.00% | ~9,675 |
+| The plot thickens | 16.00% | ~7,372 |
+| Well-Oiled Machine | 16.00% | ~7,372 |
+| Long haul | 16.00% | ~7,372 |
+| Clucky Streak | 15.00% | ~6,911 |
+| Large-scale supplier | 15.00% | ~6,911 |
+| That's a wrap | 14.00% | ~6,450 |
+| Fix me up | 13.00% | ~5,989 |
+| Rock on | 12.00% | ~5,529 |
+| It's sow easy | 11.00% | ~5,068 |
+| Highly cultivated | 10.00% | ~4,607 |
+| Giddy-up! | 10.00% | ~4,607 |
 | Cowherd | 7.00% | ~3,225 |
 | Fluffyness | 6.00% | ~2,764 |
 | Helper A does not stop … ever | 6.00% | ~2,764 |
 | Bringing in the Honey | 6.00% | ~2,764 |
-| Road Trip | 5.00% | ~2,303 |
+| Road Trip | 5.00% | ~2,304 |
 | Three little piggies… | 4.00% | ~1,843 |
 | Game on | 4.00% | ~1,843 |
 | Pretty colourful | 0.90% | ~415 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,065 (Ranked 88)  
+Progressed: 46,072 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,20 +146,20 @@ Completed: 5 (0.01%) (Ranked 230)
 | 2023-07-22 | 45,895 | 5 |
 | 2023-07-23 | 45,971 | 5 |
 | 2023-07-24 | 46,023 | 5 |
-| 2023-07-25 | 46,065 | 5 |
+| 2023-07-25 | 46,072 | 5 |
 ## Awards
-Max (Great for Beginners): 4,583  (Ranked 70)  
-Sum: 38,391 (Ranked 31)  
+Max (Great for Beginners): 4,593  (Ranked 70)  
+Sum: 38,407 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,583 |
+| This game is Great for Beginners | 4,593 |
 | This game is Relaxing | 4,030 |
 | This game is Educational | 4,007 |
-| This game has Quickly Understood Controls | 3,957 |
+| This game has Quickly Understood Controls | 3,959 |
 | This game has Diverse Characters | 3,876 |
 | This game is Extremely Fun | 3,841 |
-| This game is Highly Recommended | 3,834 |
+| This game is Highly Recommended | 3,838 |
 | This game has Amazing Storytelling | 3,730 |
 | This game has Amazing Characters | 3,346 |
 | This game has a Creative Community | 3,187 |
@@ -357,4 +357,4 @@ Diff (max vs sum): 39
 | 2023-07-22 | 4.69 | - | 4,568 | 38,311 |
 | 2023-07-23 | 4.69 | - | 4,575 | 38,337 |
 | 2023-07-24 | 4.69 | - | 4,583 | 38,370 |
-| 2023-07-25 | 4.69 | - | 4,583 | 38,391 |
+| 2023-07-25 | 4.69 | - | 4,593 | 38,407 |

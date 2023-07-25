@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 580,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 11.25,
+  "EOS_Completed_Percentage": 11.21,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1811,6 +1811,11 @@
       "Time": "2023-07-25T14:05:58.7780354+00:00",
       "NumProgressed": 578,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-25T20:06:39.0426631+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 30,
@@ -1822,7 +1827,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 557
     },
     {
       "ID": "LEVEL_002",
@@ -1830,23 +1835,23 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 470
     },
     {
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 400
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 331
     },
     {
       "ID": "LEVEL_005",
@@ -1854,7 +1859,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_006",
@@ -1862,7 +1867,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "LEVEL_007",
@@ -1870,7 +1875,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_008",
@@ -1894,7 +1899,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LEVEL_011",
@@ -1910,7 +1915,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_013",
@@ -1918,7 +1923,7 @@
       "Name": "Higher ground",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_014",
@@ -1942,7 +1947,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_017",
@@ -1950,7 +1955,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_018",
@@ -2061,14 +2066,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 580,
       "Completed": 65
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:05:40.5823837+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:06:39.0426627+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:57:28.183542+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:05:40.5824197+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:57:46.1222811+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:06:39.0426883+00:00"
 }

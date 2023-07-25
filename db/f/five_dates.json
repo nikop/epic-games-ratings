@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -797,6 +797,11 @@
       "Time": "2023-07-25T08:06:21.3653228+00:00",
       "NumProgressed": 489,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-25T20:06:27.4474188+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -808,7 +813,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "booty_call",
@@ -832,7 +837,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "hold_my_beer",
@@ -927,7 +932,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 7
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:05:31.3144377+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:06:27.4474185+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:47.7918471+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:58:34.7324196+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:05:31.3144665+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:58:58.0391993+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:06:27.4474324+00:00"
 }

@@ -14,8 +14,8 @@ Number of Ratings: 36  (23.09.2022)
 | Truly Shocking! | 48.00% | ~401 |
 | Critical Thinker | 35.00% | ~292 |
 | Always Finding Your Mark | 29.00% | ~242 |
+| The Weight of the World | 29.00% | ~242 |
 | Act I Complete | 28.00% | ~234 |
-| The Weight of the World | 28.00% | ~234 |
 | A drop in the Ocean | 27.00% | ~225 |
 | No Niños | 27.00% | ~225 |
 | I ain’t afraid of no Ghost | 23.00% | ~192 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 196)  
+Progressed: 835 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

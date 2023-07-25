@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 1.00% | ~131 |
-| The Great Mage | 0.80% | ~105 |
+| The Clergy | 2.00% | ~262 |
+| The Great Mage | 0.90% | ~118 |
 | Settler | 0.70% | ~92 |
 | Play a Single Player Game | 0.70% | ~92 |
+| Poetic Leader | 0.70% | ~92 |
 | Explorer | 0.60% | ~79 |
 | Friendly Family | 0.60% | ~79 |
-| Poetic Leader | 0.60% | ~79 |
 | Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Architect | 0.40% | ~52 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
+| Pilgrimage | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
@@ -234,7 +235,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
 | The Mythical Beast | 0.10% | ~13 |
-| Pilgrimage | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
 | Hypatia the Teacher | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1896,9 +1896,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 355
     },
     {
       "ID": "MQ01_2",
@@ -1944,9 +1944,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "MQ03_2",
@@ -2129,8 +2129,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:05:47.648731+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:06:47.8552691+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:57:37.7023773+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:05:47.6487651+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:57:57.0887763+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:06:47.8552952+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 424,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 338,
-  "Ranking_EOS_Progress": 93,
+  "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -679,9 +679,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34214,
+  "EOS_Progressed": 34216,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10349,6 +10349,11 @@
       "Time": "2023-07-25T19:03:11.1824946+00:00",
       "NumProgressed": 34214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T20:03:42.2267011+00:00",
+      "NumProgressed": 34216,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -10376,7 +10381,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "ach_antiquarian10",
@@ -10432,7 +10437,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_cursestorm",
@@ -10480,7 +10485,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12317
+      "UsersEstimate": 12318
     },
     {
       "ID": "ach_die10",
@@ -10791,15 +10796,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34214,
+      "Progressed": 34216,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-22T09:01:18.3447402+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:03:11.1824939+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:03:42.2267007+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:40.7310625+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:00:13.3024721+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:03:11.1826145+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:00:52.7583816+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:03:42.2267814+00:00"
 }

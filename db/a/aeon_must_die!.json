@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 2945,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3535,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.79,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-07-24T22:07:34.0899364+00:00",
       "NumProgressed": 3534,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-07-25T20:07:31.0121555+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -478,7 +483,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "17",
@@ -518,7 +523,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "21",
@@ -558,7 +563,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "26",
@@ -590,7 +595,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "3",
@@ -701,7 +706,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3535,
       "Completed": -28
     }
   ],
@@ -709,8 +714,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:06:26.9349471+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:07:31.0121553+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.5959813+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:57:40.6414484+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:06:26.9349773+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:58:00.0679677+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:07:31.0121758+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,309 |
-| Beast Intentions | 2.00% | ~4,309 |
+| A Brief Tour of the Realms | 2.00% | ~4,310 |
+| Beast Intentions | 2.00% | ~4,310 |
 | Maddening | 1.00% | ~2,155 |
 | The Silken Swamp | 0.90% | ~1,939 |
 | Supply Run | 0.80% | ~1,724 |
 | Rocky Reception | 0.80% | ~1,454 |
 | Rock and Roll | 0.70% | ~1,272 |
-| Vecna Lives! | 0.60% | ~1,090 |
-| Flight of the Kindori Pod | 0.60% | ~1,090 |
+| Vecna Lives! | 0.60% | ~1,091 |
+| Flight of the Kindori Pod | 0.60% | ~1,091 |
 | Tall Tales | 0.50% | ~909 |
 | Wet Feet | 0.50% | ~1,077 |
 | Seeds of Destruction | 0.50% | ~909 |
@@ -56,35 +56,38 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~646 |
 | The Botched Kidnapping | 0.30% | ~646 |
 | The Mad Wizard | 0.30% | ~646 |
+| Willing to Sacrifice | 0.30% | ~545 |
 | Devilishly Cold | 0.30% | ~545 |
 | Luigi After Hours | 0.30% | ~545 |
 | Electric Mayhem | 0.30% | ~545 |
+| 3,720 to 1 | 0.30% | ~545 |
 | Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
 | Starving in the Jungle | 0.20% | ~431 |
-| Nightmare Rats! | 0.20% | ~363 |
-| Hither of the Feywild | 0.20% | ~363 |
-| The Prince of a Thousand Enemies | 0.20% | ~363 |
-| Downfall | 0.20% | ~363 |
-| Slack-jawed Lorna | 0.20% | ~363 |
-| The Fairy Rings of Thither | 0.20% | ~363 |
-| Speeds of Destruction | 0.20% | ~363 |
-| Owlbear Necessities | 0.20% | ~363 |
-| Flapjacks and Waffles | 0.20% | ~363 |
-| Best Thay Ever | 0.20% | ~363 |
-| Well Equipped | 0.20% | ~363 |
-| More Than Well Equipped | 0.20% | ~363 |
-| Keep Your Distance | 0.20% | ~363 |
-| The Castle of a Thousand Vecnas | 0.20% | ~363 |
-| Who Lurks Below? | 0.20% | ~363 |
-| Xanathaaaaaaar! | 0.20% | ~363 |
+| Nightmare Rats! | 0.20% | ~364 |
+| Hither of the Feywild | 0.20% | ~364 |
+| The Prince of a Thousand Enemies | 0.20% | ~364 |
+| Downfall | 0.20% | ~364 |
+| Slack-jawed Lorna | 0.20% | ~364 |
+| The Fairy Rings of Thither | 0.20% | ~364 |
+| Speeds of Destruction | 0.20% | ~364 |
+| Owlbear Necessities | 0.20% | ~364 |
+| Flapjacks and Waffles | 0.20% | ~364 |
+| Best Thay Ever | 0.20% | ~364 |
+| Well Equipped | 0.20% | ~364 |
+| More Than Well Equipped | 0.20% | ~364 |
+| Keep Your Distance | 0.20% | ~364 |
+| The Castle of a Thousand Vecnas | 0.20% | ~364 |
+| Who Lurks Below? | 0.20% | ~364 |
+| Xanathaaaaaaar! | 0.20% | ~364 |
 | Homecoming | 0.20% | ~431 |
 | The Lost Heir of Omu | 0.20% | ~431 |
-| No One Can Hear You Scream | 0.20% | ~363 |
-| Welcome to the Rock | 0.20% | ~363 |
+| No One Can Hear You Scream | 0.20% | ~364 |
+| Welcome to the Rock | 0.20% | ~364 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
 | Force Grey Unleashed | 0.20% | ~431 |
+| Vajra's Guards | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | Sleuth It Out | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
@@ -102,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
+| The Giant's Bane Tavern | 0.20% | ~364 |
 | Close Escort | 0.20% | ~431 |
 | Constant Banditry | 0.20% | ~431 |
 | Waterdeep Detours | 0.20% | ~431 |
@@ -115,10 +119,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
-| Willing to Sacrifice | 0.20% | ~363 |
-| Tiny Treaty | 0.20% | ~363 |
-| All The World's A Stage | 0.20% | ~363 |
-| 3,720 to 1 | 0.20% | ~363 |
+| Tiny Treaty | 0.20% | ~364 |
+| All The World's A Stage | 0.20% | ~364 |
 | Cold as Ice | 0.10% | ~182 |
 | Keep Your Friends Close | 0.10% | ~182 |
 | Friends and Foes | 0.10% | ~182 |
@@ -216,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~215 |
 | Double Vision | 0.10% | ~215 |
 | Underground Railroad | 0.10% | ~215 |
-| Vajra's Guards | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
 | Never Split the Party | 0.10% | ~215 |
 | Azaka's Procession - Part 1 | 0.10% | ~215 |
@@ -424,7 +425,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~182 |
 | Prisoners of Lolth | 0.10% | ~182 |
 | Prisoners of Unknown Choices | 0.10% | ~182 |
-| The Giant's Bane Tavern | 0.10% | ~182 |
 | Rime Bandits | 0.10% | ~182 |
 | Giant-Size Adventure | 0.10% | ~182 |
 | Power of Three | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,468 (Ranked 53)  
-Completed: 2,107 (0.98%) (Ranked 107)  
+Progressed: 215,480 (Ranked 53)  
+Completed: 2,108 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,107 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,468 | 2,107 |
+| 2023-07-25 | 215,480 | 2,108 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

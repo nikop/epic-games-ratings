@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5380,10 +5380,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39882,
       "NumberOfAwardsMax": 21271
+    },
+    {
+      "Time": "2023-07-25T19:58:07.3175062+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39883,
+      "NumberOfAwardsMax": 21271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39882,
+  "NumberOfAwards": 39883,
   "NumberOfAwardsMax": 21271,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5451,7 +5457,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 808
+      "Count": 809
     },
     {
       "Text": "This game has a Creative Community",
@@ -5460,9 +5466,9 @@
       "Count": 565
     }
   ],
-  "EOS_Progressed": 288542,
+  "EOS_Progressed": 288548,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15795,6 +15801,11 @@
       "Time": "2023-07-25T19:04:07.4825669+00:00",
       "NumProgressed": 288542,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-25T20:04:59.2478582+00:00",
+      "NumProgressed": 288548,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15806,7 +15817,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34625
+      "UsersEstimate": 34626
     },
     {
       "ID": "PFA_10",
@@ -15838,7 +15849,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23083
+      "UsersEstimate": 23084
     },
     {
       "ID": "PFA_14",
@@ -15910,7 +15921,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23083
+      "UsersEstimate": 23084
     },
     {
       "ID": "PFA_22",
@@ -15926,7 +15937,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28854
+      "UsersEstimate": 28855
     },
     {
       "ID": "PFA_24",
@@ -16142,7 +16153,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28854
+      "UsersEstimate": 28855
     },
     {
       "ID": "PFA_8",
@@ -16165,16 +16176,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288542,
+      "Progressed": 288548,
       "Completed": 434
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-25T18:57:47.4374935+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:04:07.4825664+00:00",
+  "LastChanged": "2023-07-25T19:58:07.3175061+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:04:59.2478578+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:57:47.4374946+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:04:07.4826803+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:58:07.3175066+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:04:59.2479384+00:00"
 }

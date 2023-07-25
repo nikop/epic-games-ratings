@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2023-07-25T14:03:51.6568188+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T20:04:28.3042085+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2575,7 +2580,7 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "CROAKED",
@@ -2583,7 +2588,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "CRUELTY",
@@ -2615,7 +2620,7 @@
       "Name": "Limp Richard",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2645,9 +2650,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 594
     },
     {
       "ID": "ENDGAME",
@@ -2655,7 +2660,7 @@
       "Name": "Endgame",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "EXORCIST",
@@ -2663,7 +2668,7 @@
       "Name": "Exorcist",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "EXPERIENCED",
@@ -2687,7 +2692,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2709,9 +2714,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 607
     },
     {
       "ID": "GIANT_KILLER",
@@ -2735,7 +2740,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2743,7 +2748,7 @@
       "Name": "Hold The Line",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "IM_THE_LAW",
@@ -2783,7 +2788,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2807,7 +2812,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "RECYCLER",
@@ -2815,7 +2820,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "RUTHLESS",
@@ -2831,7 +2836,7 @@
       "Name": "Savior",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "SENSEI",
@@ -2861,9 +2866,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 194
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2871,7 +2876,7 @@
       "Name": "Technophobe",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2910,7 +2915,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 0
     }
   ],
@@ -2918,8 +2923,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:03:41.0983501+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:04:28.3042077+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:58:40.6614269+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:03:41.0984108+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:59:06.5539956+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:04:28.3042515+00:00"
 }

@@ -64,7 +64,7 @@ Rating: 4.25 (Ranked 809)
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,891 (Ranked 166)  
-Completed: 10 (0.53%) (Ranked 131)  
+Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

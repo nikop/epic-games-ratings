@@ -6,15 +6,15 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,547 |
-| Tutti Eroi! | 54.00% | ~3,482 |
+| Peak Performance | 55.00% | ~3,548 |
+| Tutti Eroi! | 54.00% | ~3,483 |
 | You Shall Not Pass | 53.00% | ~3,418 |
-| Avanti Savoia! | 47.00% | ~3,031 |
+| Avanti Savoia! | 47.00% | ~3,032 |
 | Mamma Mia! | 37.00% | ~2,386 |
 | Conrad von Hotzensocks | 36.00% | ~2,322 |
 | Gabriele D'Annunzio | 33.00% | ~2,128 |
 | Silver Lining | 29.00% | ~1,870 |
-| Aurelio Baruzzi | 23.00% | ~1,483 |
+| Aurelio Baruzzi | 23.00% | ~1,484 |
 | Veni Vidi Vici | 22.00% | ~1,419 |
 | Decimation | 21.00% | ~1,354 |
 | Donatello | 21.00% | ~1,354 |
@@ -29,8 +29,8 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 13.00% | ~838 |
 | Die Bosniaken Kommen! | 12.00% | ~774 |
 | Machiavelli | 12.00% | ~774 |
-| Dante's Inferno | 11.00% | ~709 |
-| The Devil's Paintbrush | 11.00% | ~709 |
+| Dante's Inferno | 11.00% | ~710 |
+| The Devil's Paintbrush | 11.00% | ~710 |
 | I Have the High Ground | 10.00% | ~645 |
 | Millenial | 10.00% | ~645 |
 | The Show Must Go On | 9.00% | ~580 |
@@ -40,9 +40,9 @@ Number of Ratings: 98  (23.09.2022)
 | The Enlightment | 6.00% | ~387 |
 | Generalissimo | 5.00% | ~322 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~258 |
-| Ponte of No Return | 3.00% | ~193 |
-| Seeing Red | 3.00% | ~193 |
-| Soča Drag | 3.00% | ~193 |
+| Ponte of No Return | 3.00% | ~194 |
+| Seeing Red | 3.00% | ~194 |
+| Soča Drag | 3.00% | ~194 |
 | Farewell to Arms | 2.00% | ~129 |
 | Saboteur | 2.00% | ~129 |
 | Compagnia della Morte | 1.00% | ~64 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,449 (Ranked 132)  
+Progressed: 6,450 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 8 (0.12%) (Ranked 184)
 | 2023-07-22 | 6,404 | 8 |
 | 2023-07-23 | 6,424 | 8 |
 | 2023-07-24 | 6,439 | 8 |
-| 2023-07-25 | 6,449 | 8 |
+| 2023-07-25 | 6,450 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 347)  

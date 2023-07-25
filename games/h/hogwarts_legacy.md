@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,625 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,626 |
 | First Class Student | 11.00% | ~31,740 |
-| A Keen Sense of Spell | 10.00% | ~28,854 |
-| Troll with the Punches | 10.00% | ~28,854 |
+| A Keen Sense of Spell | 10.00% | ~28,855 |
+| Troll with the Punches | 10.00% | ~28,855 |
 | Grappling with a Graphorn | 9.00% | ~25,969 |
 | The One Who Mastered Memories | 9.00% | ~25,969 |
 | The Hallowed Hero | 9.00% | ~25,969 |
@@ -17,8 +17,8 @@ Rating: 4.77 (Ranked 109)
 | A Talent for Spending | 9.00% | ~25,969 |
 | Coasting Along | 9.00% | ~25,969 |
 | That's a Keeper | 9.00% | ~25,969 |
-| The Hero of Hogwarts | 8.00% | ~23,083 |
-| Challenge Accepted | 8.00% | ~23,083 |
+| The Hero of Hogwarts | 8.00% | ~23,084 |
+| Challenge Accepted | 8.00% | ~23,084 |
 | A Sallow Grave | 7.00% | ~20,198 |
 | Followed the Butterflies | 7.00% | ~20,198 |
 | The Spell Master | 7.00% | ~20,198 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,542 (Ranked 42)  
+Progressed: 288,548 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
-| 2023-07-25 | 288,542 | 434 |
+| 2023-07-25 | 288,548 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
-Sum: 39,882 (Ranked 30)  
+Sum: 39,883 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -163,7 +163,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 896 |
 | This game has Amazing Characters | 874 |
 | This game is Highly Recommended | 851 |
-| This game has Quickly Understood Controls | 808 |
+| This game has Quickly Understood Controls | 809 |
 | This game has Beautiful Visuals | 748 |
 | This game has a Creative Community | 565 |
 ## Ratings History
@@ -292,4 +292,4 @@ Diff (max vs sum): -13
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
-| 2023-07-25 | 4.77 | 21,271 | 39,882 |
+| 2023-07-25 | 4.77 | 21,271 | 39,883 |

@@ -16,7 +16,7 @@
 | Easy and steady climb | 28.00% | ~115 |
 | At the heart of the city | 26.00% | ~107 |
 | Calm neighborhood | 25.00% | ~103 |
-| Elevated ring | 23.00% | ~95 |
+| Elevated ring | 24.00% | ~99 |
 | Not lonely anymore | 23.00% | ~95 |
 | Monumental tribute | 22.00% | ~90 |
 | The beach is right there | 21.00% | ~86 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 18.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 411 (Ranked 227)  
-Completed: 75 (18.25%) (Ranked 12)  
+Completed: 76 (18.49%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 75 (18.25%) (Ranked 12)
 | 2023-07-22 | 399 | 74 |
 | 2023-07-23 | 403 | 75 |
 | 2023-07-24 | 406 | 75 |
-| 2023-07-25 | 411 | 75 |
+| 2023-07-25 | 411 | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

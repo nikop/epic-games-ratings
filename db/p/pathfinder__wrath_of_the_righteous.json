@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3236,9 +3236,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10572,
+  "EOS_Progressed": 10574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9306,6 +9306,11 @@
       "Time": "2023-07-25T19:02:09.6342813+00:00",
       "NumProgressed": 10572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T20:03:05.2139586+00:00",
+      "NumProgressed": 10574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9317,7 +9322,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "02_BurningCity",
@@ -9747,9 +9752,9 @@
       "ID": "56_GetToad",
       "SetID": "989of5o",
       "Name": "Get the Toad",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 423
     },
     {
       "ID": "57_PathOfDevil",
@@ -10244,21 +10249,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9354,
+      "Progressed": 9356,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10572,
+      "Progressed": 10574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-25T14:59:11.5565051+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:02:09.6342808+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:03:05.2139581+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:58:51.8024012+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:02:09.6345009+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:59:22.5499158+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:03:05.2141163+00:00"
 }

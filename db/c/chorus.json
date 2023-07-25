@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1423,9 +1423,9 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 716
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1599,9 +1599,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 662
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1751,8 +1751,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:03:54.8879016+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:04:44.6982546+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:00:34.4451323+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:03:54.8879439+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:01:17.1294571+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:04:44.6982871+00:00"
 }

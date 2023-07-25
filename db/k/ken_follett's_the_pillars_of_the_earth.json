@@ -4,11 +4,11 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 518,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 369,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14136,
+  "EOS_Progressed": 14138,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -6819,6 +6819,11 @@
       "Time": "2023-07-25T19:01:13.4761776+00:00",
       "NumProgressed": 14136,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-25T20:02:07.0032469+00:00",
+      "NumProgressed": 14138,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6870,7 +6875,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "tpote_achievement_15",
@@ -6910,7 +6915,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "tpote_achievement_2",
@@ -6918,7 +6923,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "tpote_achievement_20",
@@ -6942,7 +6947,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "tpote_achievement_23",
@@ -6966,7 +6971,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "tpote_achievement_26",
@@ -6982,7 +6987,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "tpote_achievement_28",
@@ -7006,7 +7011,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4666
     },
     {
       "ID": "tpote_achievement_30",
@@ -7022,7 +7027,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "tpote_achievement_32",
@@ -7030,7 +7035,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "tpote_achievement_33",
@@ -7054,7 +7059,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "tpote_achievement_36",
@@ -7078,7 +7083,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "tpote_achievement_39",
@@ -7094,7 +7099,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5797
     },
     {
       "ID": "tpote_achievement_40",
@@ -7157,15 +7162,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14136,
+      "Progressed": 14138,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-25T19:01:13.4761771+00:00",
+  "LastChanged_Achievements": "2023-07-25T20:02:07.0032464+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:00:30.5384879+00:00",
-  "LastUpdate_Achievements": "2023-07-25T19:01:13.4762534+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:01:11.5947504+00:00",
+  "LastUpdate_Achievements": "2023-07-25T20:02:07.0033061+00:00"
 }
