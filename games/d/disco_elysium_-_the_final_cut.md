@@ -1,27 +1,27 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,765 |
-| Biggest Communism Builder | 24.00% | ~29,799 |
-| The World's Most Laughable Centrist | 20.00% | ~24,832 |
-| Il Coppo Del'Arte! | 18.00% | ~22,349 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,866 |
-| Hyperstellar Law Official | 15.00% | ~18,624 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,383 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,141 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,141 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,658 |
+| Goodest Of The Good Cops | 28.00% | ~34,767 |
+| Biggest Communism Builder | 24.00% | ~29,801 |
+| The World's Most Laughable Centrist | 20.00% | ~24,834 |
+| Il Coppo Del'Arte! | 18.00% | ~22,350 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,867 |
+| Hyperstellar Law Official | 15.00% | ~18,625 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,384 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,142 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,142 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,659 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,175 |
-| Unbelievably Boring **** | 8.00% | ~9,933 |
-| Enemy Of The Physical Realm | 8.00% | ~9,933 |
+| Unbelievably Boring **** | 8.00% | ~9,934 |
+| Enemy Of The Physical Realm | 8.00% | ~9,934 |
 | Hardie's Heroes | 6.00% | ~7,450 |
-| The Lawbringer | 4.00% | ~4,966 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,966 |
+| The Lawbringer | 4.00% | ~4,967 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,967 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,725 |
 | Bother Kim After Hours | 3.00% | ~3,725 |
 | Baddest Of the Bad Cops | 2.00% | ~2,483 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,483 |
 | Massive Torque Dork | 1.00% | ~1,242 |
 | Avowed Inframaterialist | 1.00% | ~1,242 |
-| Real Musor | 0.90% | ~1,117 |
+| Real Musor | 0.90% | ~1,118 |
 | Baddest Brow in Town | 0.80% | ~993 |
 | Committee of la Responsabilité | 0.80% | ~993 |
 | Venture into the HARDCORE | 0.80% | ~993 |
 | Networthy Individual | 0.70% | ~869 |
 | Leopard Mindset | 0.60% | ~745 |
-| Modus: Mullen | 0.30% | ~372 |
-| Palerunner | 0.30% | ~372 |
+| Modus: Mullen | 0.30% | ~373 |
+| Palerunner | 0.30% | ~373 |
 | Cause a ****storm | 0.20% | ~248 |
 | True Detective | 0.20% | ~248 |
 | The Icebreaker | 0.20% | ~248 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,162 (Ranked 63)  
+Progressed: 124,169 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 27 (0.02%) (Ranked 222)
 | 2023-07-22 | 123,797 | 27 |
 | 2023-07-23 | 123,969 | 27 |
 | 2023-07-24 | 124,096 | 27 |
-| 2023-07-25 | 124,162 | 27 |
+| 2023-07-25 | 124,169 | 27 |
 ## Awards
 Max (Character Customization): 707  (Ranked 162)  
 Sum: 1,069 (Ranked 233)  
@@ -279,3 +279,4 @@ Diff (max vs sum): -71
 | 2023-07-16 | 4.86 | - | 705 | 1,066 |
 | 2023-07-17 | 4.86 | - | 705 | 1,067 |
 | 2023-07-19 | 4.86 | - | 707 | 1,069 |
+| 2023-07-25 | 4.87 | - | 707 | 1,069 |

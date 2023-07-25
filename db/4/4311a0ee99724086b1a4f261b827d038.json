@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "HW1_MISSION13_COMPLETE",
       "SetID": "ae07go3",
       "Name": "The Karos Graveyard Completed",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HW1_MISSION14_COMPLETE",
@@ -330,8 +330,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-25T13:16:37.4268866+00:00",
+  "LastChanged_Achievements": "2023-07-25T14:03:18.1202897+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:10:08.5193678+00:00",
-  "LastUpdate_Achievements": "2023-07-25T13:16:37.4269299+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:57:07.7570431+00:00",
+  "LastUpdate_Achievements": "2023-07-25T14:03:18.1203091+00:00"
 }

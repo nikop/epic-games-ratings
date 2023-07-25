@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
 | Egyptian Paganism | 0.20% | ~26 |
+| Persian Paganism | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
@@ -189,7 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
-| Persian Paganism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
 | Building Wonders | 0.10% | ~13 |

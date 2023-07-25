@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 21.00% | ~165 |
-| Rail Rat | 18.00% | ~141 |
+| Rail Rat | 18.00% | ~142 |
 | The Mysterious Stranger | 17.00% | ~134 |
 | The Steel Shadow | 16.00% | ~126 |
 | Make Up For Lost Time | 16.00% | ~126 |
@@ -31,7 +31,7 @@
 | Check Your Pulse | 14.00% | ~110 |
 | Right On Time | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
-| Whiz Kid | 11.00% | ~86 |
+| Whiz Kid | 11.00% | ~87 |
 | Chaincrawler Explorer | 10.00% | ~79 |
 | Good Neighbor | 10.00% | ~79 |
 | Family Memories | 9.00% | ~71 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 199)  
+Progressed: 787 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,3 +120,4 @@ Completed: 4 (0.51%) (Ranked 131)
 | 2023-07-22 | 778 | 4 |
 | 2023-07-23 | 784 | 4 |
 | 2023-07-24 | 786 | 4 |
+| 2023-07-25 | 787 | 4 |

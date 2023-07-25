@@ -6,40 +6,43 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,154 |
+| A Brief Tour of the Realms | 2.00% | ~4,308 |
 | Maddening | 1.00% | ~2,154 |
 | Beast Intentions | 1.00% | ~2,154 |
 | The Silken Swamp | 0.80% | ~1,723 |
 | Supply Run | 0.70% | ~1,508 |
 | Rocky Reception | 0.70% | ~1,272 |
+| Vecna Lives! | 0.60% | ~1,090 |
 | Rock and Roll | 0.60% | ~1,090 |
-| Vecna Lives! | 0.50% | ~908 |
+| Tall Tales | 0.50% | ~908 |
+| Vecna Loots! | 0.50% | ~908 |
 | Flight of the Kindori Pod | 0.50% | ~908 |
 | Pros and CONs | 0.40% | ~862 |
-| Tall Tales | 0.40% | ~727 |
 | Wet Feet | 0.40% | ~862 |
 | Hatchlings Underfoot | 0.40% | ~862 |
 | Seeds of Destruction | 0.40% | ~727 |
-| Vecna Loots! | 0.40% | ~727 |
 | Return to the Tomb | 0.40% | ~727 |
+| Heatwave | 0.40% | ~727 |
 | The Champion's Guide to Wildspace | 0.40% | ~727 |
+| Calcryx Tricks | 0.40% | ~727 |
 | Topolah's Tower | 0.40% | ~727 |
 | The Witchlight Carnival | 0.30% | ~545 |
+| Thieves of the Coven | 0.30% | ~545 |
 | Don't Look Up! | 0.30% | ~646 |
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~646 |
-| Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
 | A Persistent Buzzing | 0.30% | ~646 |
 | Beast Mode | 0.30% | ~646 |
 | Terror in the Dark | 0.30% | ~646 |
+| Low Initiative | 0.30% | ~646 |
 | A Mysterious Summons | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
+| No Time To Rest | 0.30% | ~646 |
 | The Dinner Party | 0.30% | ~646 |
 | Not That Type of Helm! | 0.30% | ~545 |
-| Calcryx Tricks | 0.30% | ~545 |
 | Goblin Halls: the Next Generation | 0.30% | ~545 |
 | Bazaar Companions | 0.30% | ~545 |
 | Bahamut's Army | 0.30% | ~545 |
@@ -47,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.30% | ~545 |
 | Upholding the Law | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~363 |
-| Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
 | The Prince of a Thousand Enemies | 0.20% | ~363 |
 | Downfall | 0.20% | ~363 |
@@ -66,17 +68,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~363 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
-| Low Initiative | 0.20% | ~431 |
 | Street War | 0.20% | ~431 |
 | March of the Undead | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Tomb of the Nine Gods | 0.20% | ~431 |
-| No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
 | The Botched Kidnapping | 0.20% | ~431 |
+| The Immortal Warrior | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
@@ -226,7 +227,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.10% | ~215 |
 | Domesticated Owlbears | 0.10% | ~215 |
 | This Quest Stinks! | 0.10% | ~182 |
-| The Immortal Warrior | 0.10% | ~215 |
 | Hold for the Red Wizards | 0.10% | ~215 |
 | Form Ranks | 0.10% | ~215 |
 | Drop of Time | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,383 (Ranked 53)  
-Completed: 2,102 (0.98%) (Ranked 107)  
+Progressed: 215,393 (Ranked 53)  
+Completed: 2,103 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,14 +615,14 @@ Completed: 2,102 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,383 | 2,102 |
+| 2023-07-25 | 215,393 | 2,103 |
 ## Awards
-Max (Diverse Characters): 5,064  (Ranked 66)  
-Sum: 30,698 (Ranked 38)  
+Max (Diverse Characters): 5,082  (Ranked 66)  
+Sum: 30,716 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,064 |
+| This game has Diverse Characters | 5,082 |
 | This game is Great for Beginners | 5,018 |
 | This game has Quickly Understood Controls | 4,682 |
 | This game is Relaxing | 4,571 |
@@ -812,4 +812,4 @@ Diff (max vs sum): 28
 | 2023-07-22 | 4.06 | - | 5,055 | 30,644 |
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
-| 2023-07-25 | 4.05 | - | 5,064 | 30,698 |
+| 2023-07-25 | 4.05 | - | 5,082 | 30,716 |

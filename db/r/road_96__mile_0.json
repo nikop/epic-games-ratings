@@ -3,8 +3,8 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1014,6 +1014,11 @@
       "Time": "2023-07-24T08:03:18.7875443+00:00",
       "NumProgressed": 347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-25T14:03:26.5374255+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1087,9 +1092,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrh1",
@@ -1144,7 +1149,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 2
     }
   ],
@@ -1152,8 +1157,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-25T13:16:47.2950062+00:00",
+  "LastChanged_Achievements": "2023-07-25T14:03:26.5374249+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.0367431+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:12:58.0793006+00:00",
-  "LastUpdate_Achievements": "2023-07-25T13:16:47.2950365+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:59:21.3427906+00:00",
+  "LastUpdate_Achievements": "2023-07-25T14:03:26.5374393+00:00"
 }

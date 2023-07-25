@@ -16,9 +16,9 @@
 | Employee of the week | 76.00% | ~107 |
 | Neurotrainer – power gainer! | 75.00% | ~106 |
 | Your own amateur gym | 71.00% | ~100 |
+| No bullying more | 67.00% | ~94 |
 | Run K, run! | 67.00% | ~94 |
-| No bullying more | 66.00% | ~93 |
-| Hello, world! | 65.00% | ~92 |
+| Hello, world! | 67.00% | ~94 |
 | Fighting is cool | 62.00% | ~87 |
 | Intriguing candies | 62.00% | ~87 |
 | Pal of your father? | 57.00% | ~80 |
@@ -31,15 +31,15 @@
 | Fight for life | 47.00% | ~66 |
 | Champion – starter pack | 47.00% | ~66 |
 | Employee of the year | 45.00% | ~63 |
+| It's good to be alive | 44.00% | ~62 |
 | Handyman | 43.00% | ~61 |
-| It's good to be alive | 43.00% | ~61 |
 | Own four walls | 43.00% | ~61 |
 | Extreme neuropower! | 42.00% | ~59 |
 | Legal courier | 40.00% | ~56 |
 | Now you are worthy | 36.00% | ~51 |
 | Escaped from a big trouble | 33.00% | ~47 |
+| Guiding on the right path | 31.00% | ~44 |
 | No blades in the gym | 30.00% | ~42 |
-| Guiding on the right path | 30.00% | ~42 |
 | Mysterious voice | 29.00% | ~41 |
 | Responsible approach | 28.00% | ~39 |
 | Fight is life | 27.00% | ~38 |
@@ -47,17 +47,18 @@
 | Champion – no way back | 26.00% | ~37 |
 | Get out of my apartment! | 26.00% | ~37 |
 | Underground dwellers | 26.00% | ~37 |
-| Mom got better | 24.00% | ~34 |
-| The die is cast | 24.00% | ~34 |
+| Mom got better | 25.00% | ~35 |
+| The die is cast | 25.00% | ~35 |
 | Seashell hunter | 24.00% | ~34 |
 | Gang wrangler | 22.00% | ~31 |
 | Anyone can resist | 22.00% | ~31 |
 | GYM professional | 21.00% | ~30 |
 | Poisoned fighter | 21.00% | ~30 |
+| Problems of cyborgs | 20.00% | ~28 |
 | The last bell ring | 19.00% | ~27 |
-| Problems of cyborgs | 18.00% | ~25 |
+| Trap disarmed | 18.00% | ~25 |
 | Undercover robot | 18.00% | ~25 |
-| Trap disarmed | 17.00% | ~24 |
+| Absolute Champion! | 17.00% | ~24 |
 | Careerist | 17.00% | ~24 |
 | Another world | 16.00% | ~23 |
 | The lonesome road | 16.00% | ~23 |
@@ -65,7 +66,6 @@
 | Family comes first | 16.00% | ~23 |
 | Key memories | 16.00% | ~23 |
 | Not little hacker | 16.00% | ~23 |
-| Absolute Champion! | 16.00% | ~23 |
 | The heart of the Resistance | 16.00% | ~23 |
 | Silver’s past | 14.00% | ~20 |
 | Better cooking at home | 14.00% | ~20 |

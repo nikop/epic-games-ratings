@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11327,
+  "EOS_Progressed": 11330,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7324,6 +7324,11 @@
       "Time": "2023-07-25T13:20:29.5805713+00:00",
       "NumProgressed": 11327,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-25T14:06:34.279295+00:00",
+      "NumProgressed": 11330,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7335,7 +7340,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9175
+      "UsersEstimate": 9177
     },
     {
       "ID": "ACH02",
@@ -7391,7 +7396,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "ACH09",
@@ -7415,7 +7420,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH12",
@@ -7455,7 +7460,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH17",
@@ -7559,7 +7564,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH30",
@@ -7614,7 +7619,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11327,
+      "Progressed": 11330,
       "Completed": 31
     }
   ],
@@ -7622,8 +7627,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-24T04:01:31.0123071+00:00",
-  "LastChanged_Achievements": "2023-07-25T13:20:29.5805706+00:00",
+  "LastChanged_Achievements": "2023-07-25T14:06:34.2792946+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-25T13:14:43.3750812+00:00",
-  "LastUpdate_Achievements": "2023-07-25T13:20:29.5806961+00:00"
+  "LastUpdate_Ratings": "2023-07-25T14:00:56.156837+00:00",
+  "LastUpdate_Achievements": "2023-07-25T14:06:34.2793468+00:00"
 }
