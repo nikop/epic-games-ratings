@@ -15,7 +15,7 @@
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.28% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |

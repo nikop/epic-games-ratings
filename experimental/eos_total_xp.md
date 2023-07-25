@@ -102,6 +102,7 @@
 | [Bunny Park](../games/b/bunny_park.md) | 18 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
 | [Butchers Don't Surf!](../games/b/butchers_don't_surf!.md) | 21 | 1,000 |
+| [CadriaItemShop](../games/1/156fe52117754eb98a332471081ff9ba.md) | 54 | 1,000 |
 | [Cafe Owner Simulator](../games/c/cafe_owner_simulator.md) | 14 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Cartel Tycoon](../games/c/cartel_tycoon.md) | 19 | 1,000 |
