@@ -11,22 +11,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 1.00% | ~2,155 |
 | The Silken Swamp | 0.90% | ~1,939 |
 | Supply Run | 0.80% | ~1,724 |
-| Rocky Reception | 0.70% | ~1,272 |
+| Rocky Reception | 0.80% | ~1,454 |
 | Rock and Roll | 0.70% | ~1,272 |
 | Vecna Lives! | 0.60% | ~1,090 |
 | Flight of the Kindori Pod | 0.60% | ~1,090 |
 | Tall Tales | 0.50% | ~909 |
+| Wet Feet | 0.50% | ~1,077 |
+| Seeds of Destruction | 0.50% | ~909 |
 | Vecna Loots! | 0.50% | ~909 |
+| Return to the Tomb | 0.50% | ~909 |
+| The Champion's Guide to Wildspace | 0.50% | ~909 |
 | Topolah's Tower | 0.50% | ~909 |
 | Pros and CONs | 0.40% | ~862 |
 | The Witchlight Carnival | 0.40% | ~727 |
-| Wet Feet | 0.40% | ~862 |
 | Hatchlings Underfoot | 0.40% | ~862 |
 | Don't Look Up! | 0.40% | ~862 |
-| Seeds of Destruction | 0.40% | ~727 |
-| Return to the Tomb | 0.40% | ~727 |
+| Heavy Burden | 0.40% | ~862 |
 | Heatwave | 0.40% | ~727 |
-| The Champion's Guide to Wildspace | 0.40% | ~727 |
+| The Dread Domain of Tovag | 0.40% | ~727 |
+| Unearthed Evil | 0.40% | ~862 |
 | Not That Type of Helm! | 0.40% | ~727 |
 | Calcryx Tricks | 0.40% | ~727 |
 | Goblin Halls: the Next Generation | 0.40% | ~727 |
@@ -34,11 +37,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.40% | ~727 |
 | Krux's Speed Run | 0.40% | ~727 |
 | Thieves of the Coven | 0.30% | ~545 |
-| Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | On the Hunt | 0.30% | ~646 |
+| A Demi-god's Defender | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~646 |
-| The Dread Domain of Tovag | 0.30% | ~545 |
 | Were-verpowered | 0.30% | ~646 |
 | A Persistent Buzzing | 0.30% | ~646 |
 | Beast Mode | 0.30% | ~646 |
@@ -48,12 +50,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
 | March of the Undead | 0.30% | ~646 |
-| Unearthed Evil | 0.30% | ~646 |
 | No Time To Rest | 0.30% | ~646 |
 | The Mists of Ravenloft | 0.30% | ~646 |
 | Invisible Shadows | 0.30% | ~646 |
 | The Dinner Party | 0.30% | ~646 |
 | The Botched Kidnapping | 0.30% | ~646 |
+| The Mad Wizard | 0.30% | ~646 |
 | Devilishly Cold | 0.30% | ~545 |
 | Luigi After Hours | 0.30% | ~545 |
 | Electric Mayhem | 0.30% | ~545 |
@@ -70,10 +72,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.20% | ~363 |
 | Flapjacks and Waffles | 0.20% | ~363 |
 | Best Thay Ever | 0.20% | ~363 |
-| A Demi-god's Defender | 0.20% | ~363 |
 | Well Equipped | 0.20% | ~363 |
 | More Than Well Equipped | 0.20% | ~363 |
 | Keep Your Distance | 0.20% | ~363 |
+| The Castle of a Thousand Vecnas | 0.20% | ~363 |
 | Who Lurks Below? | 0.20% | ~363 |
 | Xanathaaaaaaar! | 0.20% | ~363 |
 | Homecoming | 0.20% | ~431 |
@@ -90,15 +92,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.20% | ~431 |
 | Werewolves in the Mist | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
+| Chatty Nobles | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
+| The Crumbling Temple | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
-| The Mad Wizard | 0.20% | ~431 |
+| Close Escort | 0.20% | ~431 |
+| Constant Banditry | 0.20% | ~431 |
 | Waterdeep Detours | 0.20% | ~431 |
 | Lost in the Deep | 0.20% | ~431 |
 | Easily Distracted | 0.20% | ~431 |
@@ -177,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.10% | ~182 |
 | Weak Doesn't Mean Feeble | 0.10% | ~182 |
 | Frail Doesn't Mean Broken | 0.10% | ~182 |
-| The Castle of a Thousand Vecnas | 0.10% | ~182 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~182 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~182 |
 | The Sanctum of the Sword | 0.10% | ~182 |
@@ -224,7 +228,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~215 |
 | Poor Fortune | 0.10% | ~215 |
 | Relentless Misfortune | 0.10% | ~215 |
-| Chatty Nobles | 0.10% | ~215 |
 | Modron Assistance | 0.10% | ~215 |
 | Thine Bounty is Mine! | 0.10% | ~182 |
 | Haaave You Met Asmodeus? | 0.10% | ~215 |
@@ -253,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Review by the Blackstaff | 0.10% | ~182 |
 | The Cursed Farmer | 0.10% | ~215 |
 | The Ring of Regeneration | 0.10% | ~215 |
-| The Crumbling Temple | 0.10% | ~215 |
 | The Death Curse | 0.10% | ~215 |
 | Treasure Hunters | 0.10% | ~215 |
 | The Guardian of Orolunga | 0.10% | ~215 |
@@ -430,8 +432,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~182 |
 | Mirage Arcane | 0.10% | ~182 |
 | Only Human | 0.10% | ~182 |
-| Close Escort | 0.10% | ~215 |
-| Constant Banditry | 0.10% | ~215 |
 | The Long Haul | 0.10% | ~215 |
 | Moose Tracks | 0.10% | ~182 |
 | An Awakened Axe | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,452 (Ranked 53)  
+Progressed: 215,468 (Ranked 53)  
 Completed: 2,107 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 2,107 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,452 | 2,107 |
+| 2023-07-25 | 215,468 | 2,107 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

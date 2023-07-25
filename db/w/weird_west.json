@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1735,
+  "EOS_Progressed": 1736,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-07-25T14:04:37.1676227+00:00",
       "NumProgressed": 1735,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T19:04:15.488645+00:00",
+      "NumProgressed": 1736,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1526,7 +1531,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1550,7 +1555,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1566,7 +1571,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -1614,7 +1619,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -1678,7 +1683,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1726,7 +1731,7 @@
       "Name": "Monster Hunter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -1772,9 +1777,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1798,7 +1803,7 @@
       "Name": "Rain of Death",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_REVENANT",
@@ -1822,7 +1827,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1902,7 +1907,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1910,7 +1915,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1949,15 +1954,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1735,
+      "Progressed": 1736,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:04:32.0211775+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:04:15.4886446+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:59:08.9269855+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:04:32.021218+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:58:53.406433+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:04:15.4887091+00:00"
 }

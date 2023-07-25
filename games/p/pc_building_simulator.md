@@ -6,40 +6,40 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,733,243 |
-| Easy to forget | 46.00% | ~1,627,126 |
-| Back in the black | 39.00% | ~1,379,520 |
-| That's what I'm talking about | 28.00% | ~990,424 |
-| The Best of Both Worlds | 25.00% | ~884,308 |
-| Get your wings | 20.00% | ~707,446 |
-| Double trouble | 15.00% | ~530,584 |
-| Smashing it | 10.00% | ~353,723 |
-| But can it run Crysis? | 9.00% | ~318,351 |
-| My favourite feature... | 9.00% | ~318,351 |
-| From humble beginnings... | 7.00% | ~247,606 |
-| Customer satisfaction | 7.00% | ~247,606 |
-| Keeping things neat | 4.00% | ~141,489 |
-| Seems you're pretty good at this | 4.00% | ~141,489 |
-| Bending over backwards | 4.00% | ~141,489 |
-| Triple threat | 3.00% | ~106,117 |
-| You rock at this! | 3.00% | ~106,117 |
-| Your music sucks | 3.00% | ~106,117 |
+| You need to plug it in... | 49.00% | ~1,733,258 |
+| Easy to forget | 46.00% | ~1,627,140 |
+| Back in the black | 39.00% | ~1,379,532 |
+| That's what I'm talking about | 28.00% | ~990,433 |
+| The Best of Both Worlds | 25.00% | ~884,315 |
+| Get your wings | 20.00% | ~707,452 |
+| Double trouble | 15.00% | ~530,589 |
+| Smashing it | 10.00% | ~353,726 |
+| But can it run Crysis? | 9.00% | ~318,353 |
+| My favourite feature... | 9.00% | ~318,353 |
+| From humble beginnings... | 7.00% | ~247,608 |
+| Customer satisfaction | 7.00% | ~247,608 |
+| Keeping things neat | 4.00% | ~141,490 |
+| Seems you're pretty good at this | 4.00% | ~141,490 |
+| Bending over backwards | 4.00% | ~141,490 |
+| Triple threat | 3.00% | ~106,118 |
+| You rock at this! | 3.00% | ~106,118 |
+| Your music sucks | 3.00% | ~106,118 |
 | I'm broke, Uncle! | 2.00% | ~70,745 |
 | Maybe you should try something else? | 2.00% | ~70,745 |
 | Taking care of business | 2.00% | ~70,745 |
 | Perfection | 2.00% | ~70,745 |
 | Calling in Sick | 2.00% | ~70,745 |
-| Overvolted | 1.00% | ~35,372 |
-| If you fail the first time... | 1.00% | ~35,372 |
-| Amazonian | 1.00% | ~35,372 |
-| Things are under control | 1.00% | ~35,372 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,372 |
-| Building isn't cheap! | 1.00% | ~35,372 |
-| Majority Shareholder | 1.00% | ~35,372 |
-| Owner | 1.00% | ~35,372 |
+| Overvolted | 1.00% | ~35,373 |
+| If you fail the first time... | 1.00% | ~35,373 |
+| Amazonian | 1.00% | ~35,373 |
+| Things are under control | 1.00% | ~35,373 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,373 |
+| Building isn't cheap! | 1.00% | ~35,373 |
+| Majority Shareholder | 1.00% | ~35,373 |
+| Owner | 1.00% | ~35,373 |
 | Show off | 0.90% | ~31,835 |
 | Work ethic 101 | 0.70% | ~24,761 |
-| Building momentum | 0.60% | ~21,223 |
+| Building momentum | 0.60% | ~21,224 |
 | Lead by example | 0.50% | ~17,686 |
 | Treat yourself - RAM | 0.50% | ~17,686 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,612 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,612 |
 | Customer's ALWAYS right. | 0.30% | ~10,612 |
 | Treat yourself - CPU | 0.30% | ~10,612 |
-| 1920x1080 | 0.20% | ~7,074 |
-| Blow 'em away | 0.20% | ~7,074 |
+| 1920x1080 | 0.20% | ~7,075 |
+| Blow 'em away | 0.20% | ~7,075 |
 | Hasta La Vista, Baby. | 0.10% | ~3,537 |
 | Wow to build a PC! | 0.10% | ~3,537 |
 | Hoarder | 0.10% | ~3,537 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,537 |
 | Treat yourself - GPU | 0.10% | ~3,537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,537,230 (Ranked 4)  
+Progressed: 3,537,261 (Ranked 4)  
 Completed: 31 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 31 (0.00%) (Ranked 242)
 | 2023-07-22 | 3,535,687 | 30 |
 | 2023-07-23 | 3,536,303 | 31 |
 | 2023-07-24 | 3,536,856 | 31 |
-| 2023-07-25 | 3,537,230 | 31 |
+| 2023-07-25 | 3,537,261 | 31 |
 ## Awards
 Max (Great for Beginners): 1,056  (Ranked 138)  
 Sum: 7,900 (Ranked 98)  

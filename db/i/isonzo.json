@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6448,
+  "EOS_Progressed": 6449,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3672,6 +3672,11 @@
       "Time": "2023-07-25T14:05:01.8660824+00:00",
       "NumProgressed": 6448,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-25T19:04:38.4277865+00:00",
+      "NumProgressed": 6449,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3731,7 +3736,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3875,7 +3880,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3546
+      "UsersEstimate": 3547
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4035,14 +4040,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6448,
+      "Progressed": 6449,
       "Completed": 8
     }
   ],
@@ -4050,8 +4055,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:05:05.2656572+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:04:38.4277859+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:58:08.8042345+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:05:05.2656987+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:57:55.2146356+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:04:38.4278448+00:00"
 }

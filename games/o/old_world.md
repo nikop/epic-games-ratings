@@ -166,6 +166,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
+| Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
@@ -287,7 +288,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |

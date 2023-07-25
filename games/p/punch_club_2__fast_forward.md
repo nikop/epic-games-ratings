@@ -9,31 +9,31 @@
 | First winning | 86.00% | ~127 |
 | Your first job | 86.00% | ~127 |
 | Good Person Chip | 86.00% | ~127 |
-| First defeat | 79.00% | ~117 |
+| First defeat | 80.00% | ~118 |
+| Fitness professional | 78.00% | ~115 |
 | Old movies enjoyer | 78.00% | ~115 |
-| Fitness professional | 76.00% | ~112 |
+| Depressed visitor | 76.00% | ~112 |
+| Employee of the week | 76.00% | ~112 |
 | Neurotrainer – power gainer! | 75.00% | ~111 |
-| Depressed visitor | 74.00% | ~110 |
-| Employee of the week | 74.00% | ~110 |
-| Your own amateur gym | 70.00% | ~104 |
-| Run K, run! | 67.00% | ~99 |
+| Your own amateur gym | 72.00% | ~107 |
+| Run K, run! | 68.00% | ~101 |
 | Hello, world! | 66.00% | ~98 |
-| No bullying more | 64.00% | ~95 |
-| Fighting is cool | 60.00% | ~89 |
+| No bullying more | 65.00% | ~96 |
+| Fighting is cool | 61.00% | ~90 |
 | Intriguing candies | 59.00% | ~87 |
-| Pal of your father? | 55.00% | ~81 |
-| Employee of the month | 55.00% | ~81 |
+| Pal of your father? | 57.00% | ~84 |
+| Employee of the month | 56.00% | ~83 |
+| Spirit of the past | 55.00% | ~81 |
 | Little hacker | 53.00% | ~78 |
-| Spirit of the past | 53.00% | ~78 |
-| Workout professional | 49.00% | ~73 |
-| Law student | 49.00% | ~73 |
-| Your own way | 49.00% | ~73 |
-| Fight for life | 46.00% | ~68 |
-| Champion – starter pack | 46.00% | ~68 |
+| Workout professional | 51.00% | ~75 |
+| Your own way | 51.00% | ~75 |
+| Law student | 50.00% | ~74 |
+| Fight for life | 47.00% | ~70 |
+| Champion – starter pack | 47.00% | ~70 |
 | Employee of the year | 45.00% | ~67 |
 | It's good to be alive | 43.00% | ~64 |
 | Own four walls | 43.00% | ~64 |
-| Handyman | 41.00% | ~61 |
+| Handyman | 42.00% | ~62 |
 | Extreme neuropower! | 41.00% | ~61 |
 | Legal courier | 39.00% | ~58 |
 | Now you are worthy | 34.00% | ~50 |
@@ -43,22 +43,22 @@
 | Mysterious voice | 28.00% | ~41 |
 | Responsible approach | 28.00% | ~41 |
 | Fight is life | 26.00% | ~38 |
+| Champion – no way back | 26.00% | ~38 |
 | Deal with life | 25.00% | ~37 |
-| Champion – no way back | 25.00% | ~37 |
 | Get out of my apartment! | 25.00% | ~37 |
 | Underground dwellers | 25.00% | ~37 |
 | Mom got better | 24.00% | ~36 |
 | The die is cast | 24.00% | ~36 |
-| Seashell hunter | 23.00% | ~34 |
+| Seashell hunter | 24.00% | ~36 |
+| Gang wrangler | 22.00% | ~33 |
 | Poisoned fighter | 22.00% | ~33 |
-| Gang wrangler | 21.00% | ~31 |
+| Anyone can resist | 22.00% | ~33 |
 | GYM professional | 21.00% | ~31 |
-| Anyone can resist | 21.00% | ~31 |
 | Problems of cyborgs | 20.00% | ~30 |
+| Undercover robot | 20.00% | ~30 |
 | The last bell ring | 19.00% | ~28 |
 | Trap disarmed | 18.00% | ~27 |
 | Careerist | 18.00% | ~27 |
-| Undercover robot | 18.00% | ~27 |
 | Another world | 16.00% | ~24 |
 | The lonesome road | 16.00% | ~24 |
 | Keep nature safe | 16.00% | ~24 |

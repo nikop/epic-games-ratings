@@ -9,9 +9,6 @@
 | The Mysterious Stranger | 17.00% | ~134 |
 | The Steel Shadow | 16.00% | ~126 |
 | Make Up For Lost Time | 16.00% | ~126 |
-| No, Thanks! | 16.00% | ~126 |
-| Breaking Down Barriers | 16.00% | ~126 |
-| The Wicked Twins | 16.00% | ~126 |
 | The Prince in Heels | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
@@ -20,6 +17,9 @@
 | The Loose Cannon | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
+| No, Thanks! | 15.00% | ~118 |
+| Breaking Down Barriers | 15.00% | ~118 |
+| The Wicked Twins | 15.00% | ~118 |
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | The Family Fortune | 15.00% | ~118 |
@@ -30,7 +30,7 @@
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |
 | Right On Time | 13.00% | ~102 |
-| Street Style | 12.00% | ~94 |
+| Street Style | 12.00% | ~95 |
 | Whiz Kid | 11.00% | ~87 |
 | Chaincrawler Explorer | 10.00% | ~79 |
 | Good Neighbor | 10.00% | ~79 |
@@ -47,8 +47,8 @@
 | Sartorialist | 6.00% | ~47 |
 | Golem Hunter | 5.00% | ~39 |
 | Rungs Was Right | 5.00% | ~39 |
-| Clovemary for Remembering | 4.00% | ~31 |
-| Hexlock for Protection | 4.00% | ~31 |
+| Clovemary for Remembering | 4.00% | ~32 |
+| Hexlock for Protection | 4.00% | ~32 |
 | Wunderkind | 2.00% | ~16 |
 | Fitting In | 2.00% | ~16 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 199)  
+Progressed: 788 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,4 +120,4 @@ Completed: 4 (0.51%) (Ranked 132)
 | 2023-07-22 | 778 | 4 |
 | 2023-07-23 | 784 | 4 |
 | 2023-07-24 | 786 | 4 |
-| 2023-07-25 | 787 | 4 |
+| 2023-07-25 | 788 | 4 |

@@ -23,9 +23,251 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "458bbdk",
+      "Name": "Urshanabi Hoarder",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "458bbdk",
+      "Name": "Data Miner",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "458bbdk",
+      "Name": "The Pit and the Pirates",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "458bbdk",
+      "Name": "Data Archivist",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "458bbdk",
+      "Name": "Oyedang, Kopengs",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "458bbdk",
+      "Name": "Doctor Approved",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "458bbdk",
+      "Name": "Stogie for Fogey",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "458bbdk",
+      "Name": "Drug Gifter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "458bbdk",
+      "Name": "Spore Taste",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "458bbdk",
+      "Name": "Bottoms up!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "458bbdk",
+      "Name": "Martian Music",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "458bbdk",
+      "Name": "Data Logger",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "458bbdk",
+      "Name": "Thorston Mayer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "458bbdk",
+      "Name": "Drone Dodger",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "458bbdk",
+      "Name": "Brother\u0027s Reaper",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "458bbdk",
+      "Name": "Heal Thy Medic",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "458bbdk",
+      "Name": "Miraculous Maya",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "458bbdk",
+      "Name": "Khan\u0027s Revenge",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "458bbdk",
+      "Name": "Call it Even",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "458bbdk",
+      "Name": "Bosmang",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "458bbdk",
+      "Name": "Scavenger Star",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "458bbdk",
+      "Name": "Data Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "458bbdk",
+      "Name": "Captain Drummer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "458bbdk",
+      "Name": "No Belter Left Behind",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "458bbdk",
+      "Name": "Debris Spree",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "458bbdk",
+      "Name": "Data Master",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "458bbdk",
+      "Name": "Celebrations are in Order",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "458bbdk",
+      "Name": "Grave Robber",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "458bbdk",
+      "Name": "Data Recoverer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "458bbdk",
+      "Name": "Impossible Objects",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
@@ -35,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:05:07.5822104+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:04:40.7062446+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.4640063+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:59:50.9174525+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:05:07.5822136+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:59:37.4780853+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:04:40.7062678+00:00"
 }

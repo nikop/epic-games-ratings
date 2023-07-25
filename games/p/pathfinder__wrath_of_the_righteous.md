@@ -9,14 +9,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 21.00% | ~2,220 |
 | A Spark | 15.00% | ~1,586 |
 | Burning City | 14.00% | ~1,480 |
-| Mythic Choices | 12.00% | ~1,268 |
-| Defender's Heart | 12.00% | ~1,268 |
+| Mythic Choices | 12.00% | ~1,269 |
+| Defender's Heart | 12.00% | ~1,269 |
 | Banner over the Citadel | 11.00% | ~1,163 |
 | Queen's Gratitude | 10.00% | ~1,057 |
 | Fifth Crusade | 7.00% | ~740 |
-| Embrace of the Abyss | 5.00% | ~528 |
-| Path of the Angel | 5.00% | ~528 |
-| Demonic and Divine | 5.00% | ~528 |
+| Embrace of the Abyss | 5.00% | ~529 |
+| Path of the Angel | 5.00% | ~529 |
+| Demonic and Divine | 5.00% | ~529 |
 | Path of the Azata | 4.00% | ~423 |
 | Transformation | 4.00% | ~423 |
 | The Legacy | 4.00% | ~423 |
@@ -24,12 +24,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~423 |
 | All Paths Open | 4.00% | ~423 |
 | Next-Door Play | 4.00% | ~423 |
-| Get the Toad | 4.00% | ~423 |
 | Heart of the Fallen Land | 3.00% | ~317 |
 | Divide and Rule | 3.00% | ~317 |
 | Mythic Reinforcements | 3.00% | ~317 |
 | A Flame | 3.00% | ~317 |
 | Hey, I Know You! | 3.00% | ~317 |
+| Get the Toad | 3.00% | ~317 |
 | The Lady of the Forest | 3.00% | ~281 |
 | Beware Still Water | 3.00% | ~281 |
 | Path of the Aeon | 2.00% | ~211 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,570 (Ranked 118)  
+Progressed: 10,572 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 10,494 | 0 |
 | 2023-07-23 | 10,524 | 0 |
 | 2023-07-24 | 10,551 | 0 |
-| 2023-07-25 | 10,570 | 0 |
+| 2023-07-25 | 10,572 | 0 |
 ## Awards
 Max (Character Customization): 1,690  (Ranked 117)  
 Sum: 6,840 (Ranked 115)  

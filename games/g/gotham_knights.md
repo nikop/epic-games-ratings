@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 858)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,042 |
+| First Step Into the Knight | 6.00% | ~4,043 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,369 |
 | To the Victor Go the Spoils | 4.00% | ~2,695 |
 | Knighthood | 4.00% | ~2,695 |
@@ -23,19 +23,19 @@ Rating: 4.18 (Ranked 858)
 | Lock and Key | 3.00% | ~2,021 |
 | Bad Apples in Every Orchard | 3.00% | ~2,021 |
 | From Inside Gotham's Walls | 3.00% | ~2,021 |
-| End of an Era | 2.00% | ~1,347 |
-| In Your Element | 2.00% | ~1,347 |
-| Rock and a Hard Place | 2.00% | ~1,347 |
-| Not On My Watch | 2.00% | ~1,347 |
-| Bulldozed | 2.00% | ~1,347 |
-| Shock Til They Drop | 2.00% | ~1,347 |
-| Drone You Out | 2.00% | ~1,347 |
-| Cooldown | 2.00% | ~1,347 |
-| Universal Health Scare | 2.00% | ~1,347 |
-| Voiceless | 2.00% | ~1,347 |
-| Seeking Asylum | 2.00% | ~1,347 |
-| Gotham Knight | 2.00% | ~1,347 |
-| Gotham City Confidential | 2.00% | ~1,347 |
+| End of an Era | 2.00% | ~1,348 |
+| In Your Element | 2.00% | ~1,348 |
+| Rock and a Hard Place | 2.00% | ~1,348 |
+| Not On My Watch | 2.00% | ~1,348 |
+| Bulldozed | 2.00% | ~1,348 |
+| Shock Til They Drop | 2.00% | ~1,348 |
+| Drone You Out | 2.00% | ~1,348 |
+| Cooldown | 2.00% | ~1,348 |
+| Universal Health Scare | 2.00% | ~1,348 |
+| Voiceless | 2.00% | ~1,348 |
+| Seeking Asylum | 2.00% | ~1,348 |
+| Gotham Knight | 2.00% | ~1,348 |
+| Gotham City Confidential | 2.00% | ~1,348 |
 | Fusion Expert | 1.00% | ~674 |
 | Out of Their League | 1.00% | ~674 |
 | Family Meeting | 1.00% | ~674 |
@@ -45,7 +45,7 @@ Rating: 4.18 (Ranked 858)
 | Dressed to Impress | 0.80% | ~539 |
 | A Momentum Occasion | 0.60% | ~404 |
 | Bat Out of Hell | 0.50% | ~337 |
-| He'd Be So Proud of You | 0.40% | ~269 |
+| He'd Be So Proud of You | 0.40% | ~270 |
 | Hammer and Icicle | 0.30% | ~113 |
 | Renewable Enemy Source | 0.30% | ~113 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~113 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 858)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,373 (Ranked 78)  
+Progressed: 67,376 (Ranked 78)  
 Completed: 104 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 104 (0.15%) (Ranked 177)
 | 2023-07-22 | 67,285 | 104 |
 | 2023-07-23 | 67,318 | 104 |
 | 2023-07-24 | 67,351 | 104 |
-| 2023-07-25 | 67,373 | 104 |
+| 2023-07-25 | 67,376 | 104 |
 ## Awards
-Max (Great Boss Battles): 2,461  (Ranked 101)  
-Sum: 4,091 (Ranked 138)  
+Max (Great Boss Battles): 2,462  (Ranked 101)  
+Sum: 4,092 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,461 |
+| This game has Great Boss Battles | 2,462 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
 | This game is Extremely Fun | 210 |
@@ -337,4 +337,4 @@ Diff (max vs sum): -37
 | 2023-07-22 | 4.18 | 2,455 | 4,081 |
 | 2023-07-23 | 4.18 | 2,457 | 4,085 |
 | 2023-07-24 | 4.18 | 2,461 | 4,090 |
-| 2023-07-25 | 4.18 | 2,461 | 4,091 |
+| 2023-07-25 | 4.18 | 2,462 | 4,092 |

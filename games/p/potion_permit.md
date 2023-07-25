@@ -5,24 +5,24 @@ Rating: 3.82 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,461 |
-| The First Step | 89.00% | ~1,327 |
-| Moonbury Traveller | 64.00% | ~954 |
-| Rookie Chemist | 63.00% | ~939 |
-| Great Doctor | 52.00% | ~775 |
-| Dog Whisperer | 49.00% | ~731 |
-| Friendly | 48.00% | ~716 |
-| The Capitalist | 44.00% | ~656 |
-| K.O.! | 43.00% | ~641 |
-| Intermediate Chemist | 40.00% | ~596 |
-| Decorative Mind | 31.00% | ~462 |
-| Lumber Specialist | 31.00% | ~462 |
+| Welcome to Moonbury | 98.00% | ~1,463 |
+| The First Step | 89.00% | ~1,329 |
+| Moonbury Traveller | 64.00% | ~956 |
+| Rookie Chemist | 63.00% | ~941 |
+| Great Doctor | 51.00% | ~761 |
+| Dog Whisperer | 49.00% | ~732 |
+| Friendly | 48.00% | ~717 |
+| The Capitalist | 44.00% | ~657 |
+| K.O.! | 43.00% | ~642 |
+| Intermediate Chemist | 40.00% | ~597 |
+| Decorative Mind | 31.00% | ~463 |
+| Lumber Specialist | 31.00% | ~463 |
 | Catch of the Day | 25.00% | ~373 |
 | Kind-hearted | 24.00% | ~358 |
 | Amateur Chef | 22.00% | ~328 |
-| Fishing Guru | 20.00% | ~298 |
-| Spark of Love | 17.00% | ~253 |
-| Community Helper | 17.00% | ~253 |
+| Fishing Guru | 20.00% | ~299 |
+| Spark of Love | 17.00% | ~254 |
+| Community Helper | 17.00% | ~254 |
 | Expert Chemist | 14.00% | ~209 |
 | Stone Specialist | 14.00% | ~209 |
 | Ablutomaniac | 13.00% | ~194 |
@@ -32,8 +32,8 @@ Rating: 3.82 (Ranked 940)
 | Good Samaritan | 10.00% | ~149 |
 | Acrobatic Adventurer | 9.00% | ~134 |
 | Animal Exterminator | 8.00% | ~119 |
-| Adolescent Love | 6.00% | ~89 |
-| Mail Carrier | 6.00% | ~89 |
+| Adolescent Love | 6.00% | ~90 |
+| Mail Carrier | 6.00% | ~90 |
 | Plantation Exterminator | 5.00% | ~75 |
 | Grape Supplier | 4.00% | ~60 |
 | Sous Chef | 3.00% | ~45 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 940)
 | Moonbury Navigator | 0.90% | ~13 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,491 (Ranked 174)  
+Progressed: 1,493 (Ranked 174)  
 Completed: 8 (0.54%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 8 (0.54%) (Ranked 127)
 | 2023-07-22 | 1,482 | 8 |
 | 2023-07-23 | 1,488 | 8 |
 | 2023-07-24 | 1,489 | 8 |
-| 2023-07-25 | 1,491 | 8 |
+| 2023-07-25 | 1,493 | 8 |
 ## Awards
 Max (Character Customization): 68  (Ranked 376)  
 Sum: 68 (Ranked 433)  

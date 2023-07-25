@@ -1764,9 +1764,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 20159,
+  "EOS_Progressed": 20162,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-07-25T18:06:40.2377965+00:00",
       "NumProgressed": 20159,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-25T19:06:23.6352198+00:00",
+      "NumProgressed": 20162,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6508,7 +6513,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18949
+      "UsersEstimate": 18952
     },
     {
       "ID": "GameOver",
@@ -6572,7 +6577,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "Negotiator",
@@ -6596,7 +6601,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "SeniorEstateAgent",
@@ -6620,7 +6625,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "VeronicaLiptson",
@@ -6643,15 +6648,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20159,
+      "Progressed": 20162,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-24T05:01:19.725814+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:06:40.2377958+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:06:23.6352187+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:00:18.5136475+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:06:40.2378307+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:59:59.6370255+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:06:23.6352712+00:00"
 }

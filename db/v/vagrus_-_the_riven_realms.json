@@ -387,9 +387,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1188,8 +1188,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:04:10.9151282+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:03:53.7652702+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:24.2862582+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:59:27.8547972+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:04:10.9152217+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:59:14.2255458+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:03:53.7653847+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -6311,9 +6311,9 @@
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3594
     },
     {
       "ID": "0010",
@@ -6544,8 +6544,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:02:21.4708957+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:02:24.5724557+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-25T18:00:27.5934671+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:02:21.4709434+00:00"
+  "LastUpdate_Ratings": "2023-07-25T19:00:11.6379317+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:02:24.572527+00:00"
 }

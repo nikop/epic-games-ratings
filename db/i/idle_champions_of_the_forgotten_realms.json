@@ -5284,9 +5284,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215452,
+  "EOS_Progressed": 215468,
   "EOS_Completed": 2107,
-  "EOS_NewPlayers": 2327,
+  "EOS_NewPlayers": 2324,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15589,6 +15589,11 @@
       "Time": "2023-07-25T18:06:45.4619683+00:00",
       "NumProgressed": 215452,
       "NumCompleted": 2107
+    },
+    {
+      "Time": "2023-07-25T19:06:28.9272888+00:00",
+      "NumProgressed": 215468,
+      "NumCompleted": 2107
     }
   ],
   "TotalAchievements": 512,
@@ -15974,9 +15979,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 1077
     },
     {
       "ID": "objective_completed_1100",
@@ -16214,17 +16219,17 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1153",
@@ -16294,9 +16299,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1168",
@@ -16334,9 +16339,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1174",
@@ -16382,9 +16387,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1184",
@@ -16406,9 +16411,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1189",
@@ -16926,9 +16931,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_20",
@@ -17022,9 +17027,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_232",
@@ -17286,9 +17291,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_36",
@@ -18742,25 +18747,25 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_72",
@@ -19558,9 +19563,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_1220",
@@ -19622,9 +19627,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1454
     },
     {
       "ID": "objective_completed_1376",
@@ -19695,21 +19700,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181726,
-      "Completed": 2976
+      "Progressed": 181742,
+      "Completed": 2979
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215452,
+      "Progressed": 215468,
       "Completed": 2107
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:06:45.4619676+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:06:28.9272883+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:58:46.3501799+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:06:45.4642223+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:58:33.8604431+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:06:28.9300364+00:00"
 }

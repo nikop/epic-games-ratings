@@ -7,11 +7,11 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Look Over There! | 0.30% | ~9 |
+| Not So Fast... | 0.30% | ~9 |
 | Executioner | 0.30% | ~9 |
 | Watch Where You Step... | 0.30% | ~9 |
 | An Ill Omen | 0.30% | ~9 |
-| Not So Fast... | 0.20% | ~6 |
-| Bloodless | 0.20% | ~6 |
+| Bloodless | 0.30% | ~9 |
 | Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |

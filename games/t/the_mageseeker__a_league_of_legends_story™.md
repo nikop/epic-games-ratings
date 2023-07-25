@@ -5,22 +5,22 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,364 |
-| No more cages! | 92.00% | ~2,266 |
-| Everfrost | 78.00% | ~1,921 |
+| For Demacia | 96.00% | ~2,365 |
+| No more cages! | 92.00% | ~2,267 |
+| Everfrost | 78.00% | ~1,922 |
 | Pentakill | 77.00% | ~1,897 |
 | Dark Forest | 77.00% | ~1,897 |
 | The use of petricite | 74.00% | ~1,823 |
-| You can pet the dog | 61.00% | ~1,502 |
+| You can pet the dog | 61.00% | ~1,503 |
 | Big Helmet Bro | 36.00% | ~887 |
 | Clarion Cove | 36.00% | ~887 |
 | Past trauma | 35.00% | ~862 |
 | Thornbarrow | 35.00% | ~862 |
-| Elemental master | 34.00% | ~837 |
-| Ternmoat Headquarters | 34.00% | ~837 |
+| Elemental master | 34.00% | ~838 |
+| Ternmoat Headquarters | 34.00% | ~838 |
 | Cypress Glen Headquarters | 32.00% | ~788 |
 | Petricite Burst | 30.00% | ~739 |
-| Old friend | 29.00% | ~714 |
+| Old friend | 29.00% | ~715 |
 | Hijack | 28.00% | ~690 |
 | Devineur | 28.00% | ~690 |
 | Whispers in the Woods I | 27.00% | ~665 |
@@ -36,9 +36,9 @@ Rating: 4.81 (Ranked 77)
 | Quickmoore Headquarters | 17.00% | ~419 |
 | No more holding back | 16.00% | ~394 |
 | Terbisia | 16.00% | ~394 |
-| Whispers in the Woods III | 15.00% | ~369 |
-| True power | 15.00% | ~369 |
-| Meltridge | 15.00% | ~369 |
+| Whispers in the Woods III | 15.00% | ~370 |
+| True power | 15.00% | ~370 |
+| Meltridge | 15.00% | ~370 |
 | My heart and sword always for Demacia | 14.00% | ~345 |
 | Friendly fire | 14.00% | ~345 |
 | The Central Headquarters | 14.00% | ~345 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 77)
 | Silverwing nest | 2.00% | ~49 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,463 (Ranked 159)  
+Progressed: 2,464 (Ranked 159)  
 Completed: 5 (0.20%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 5 (0.20%) (Ranked 170)
 | 2023-07-22 | 2,458 | 5 |
 | 2023-07-23 | 2,460 | 5 |
 | 2023-07-24 | 2,463 | 5 |
+| 2023-07-25 | 2,464 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

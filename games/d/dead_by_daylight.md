@@ -6,64 +6,66 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One More Step | 1.00% | ~7,129 |
-| Extraterrestrial | 0.80% | ~5,703 |
-| Complete the Evolution | 0.70% | ~4,990 |
-| Zealous | 0.60% | ~4,277 |
-| It wakes | 0.60% | ~4,277 |
-| Not half bad | 0.60% | ~4,277 |
-| Apt Survivor | 0.60% | ~4,277 |
-| Skillful | 0.60% | ~4,277 |
-| The Grand Sacrifice | 0.50% | ~3,564 |
-| Agonizing Escape | 0.50% | ~3,564 |
-| Backdoor Escape | 0.50% | ~3,564 |
-| No one left behind | 0.50% | ~3,564 |
-| Handyman | 0.50% | ~3,564 |
-| Nerves of steel | 0.50% | ~3,564 |
-| Perfect Escape | 0.50% | ~3,564 |
-| Bloody Millionaire | 0.50% | ~3,564 |
-| Survival Treasures | 0.50% | ~3,564 |
-| I | 0.50% | ~3,564 |
-| II | 0.50% | ~3,564 |
-| III | 0.50% | ~3,564 |
-| Sorted | 0.50% | ~3,564 |
-| Happy Holidays | 0.50% | ~3,564 |
-| I've got your back | 0.40% | ~2,852 |
-| Medic | 0.40% | ~2,852 |
-| Perfect Killing | 0.40% | ~2,852 |
-| Apt Killer | 0.40% | ~2,852 |
-| Risk it all | 0.40% | ~2,852 |
-| III-50 | 0.40% | ~2,852 |
-| Engineer | 0.40% | ~2,852 |
-| A bite for the Entity | 0.30% | ~2,139 |
-| Blood on your hands | 0.30% | ~2,139 |
+| Extraterrestrial | 1.00% | ~7,131 |
+| One More Step | 1.00% | ~7,131 |
+| Zealous | 0.80% | ~5,705 |
+| It wakes | 0.80% | ~5,705 |
+| Skillful | 0.80% | ~5,705 |
+| Complete the Evolution | 0.80% | ~5,705 |
+| Nerves of steel | 0.70% | ~4,992 |
+| Not half bad | 0.70% | ~4,992 |
+| Bloody Millionaire | 0.70% | ~4,992 |
+| Apt Survivor | 0.70% | ~4,992 |
+| Survival Treasures | 0.70% | ~4,992 |
+| I | 0.70% | ~4,992 |
+| The Grand Sacrifice | 0.60% | ~4,279 |
+| Agonizing Escape | 0.60% | ~4,279 |
+| Backdoor Escape | 0.60% | ~4,279 |
+| I've got your back | 0.60% | ~4,279 |
+| No one left behind | 0.60% | ~4,279 |
+| Medic | 0.60% | ~4,279 |
+| Handyman | 0.60% | ~4,279 |
+| Perfect Escape | 0.60% | ~4,279 |
+| Perfect Killing | 0.60% | ~4,279 |
+| II | 0.60% | ~4,279 |
+| III | 0.60% | ~4,279 |
+| Engineer | 0.60% | ~4,279 |
+| Sorted | 0.60% | ~4,279 |
+| Happy Holidays | 0.60% | ~4,279 |
+| Apt Killer | 0.50% | ~3,566 |
+| Risk it all | 0.50% | ~3,566 |
+| III-50 | 0.50% | ~3,566 |
+| A bite for the Entity | 0.40% | ~2,852 |
+| Blood on your hands | 0.40% | ~2,852 |
+| Escape Artist | 0.40% | ~2,852 |
+| Made it out alive! | 0.40% | ~2,852 |
+| Gifts for the Fog | 0.40% | ~2,852 |
+| Vulture | 0.40% | ~2,852 |
+| All Aboard | 0.40% | ~2,852 |
+| Leapfrog | 0.40% | ~2,852 |
+| House of Pain | 0.40% | ~2,852 |
+| Escaping the Nightmare | 0.40% | ~2,852 |
+| Holiday Get-Together | 0.40% | ~2,852 |
+| Near-Death Experience | 0.40% | ~2,852 |
+| Cherish your Life | 0.40% | ~2,852 |
+| Campbell's Chapel Legacy | 0.40% | ~2,852 |
 | Blood on your face | 0.30% | ~2,139 |
-| Escape Artist | 0.30% | ~2,139 |
-| Made it out alive! | 0.30% | ~2,139 |
-| Gifts for the Fog | 0.30% | ~2,139 |
-| Vulture | 0.30% | ~2,139 |
+| Hemophobia | 0.30% | ~2,139 |
 | Shock Therapy | 0.30% | ~2,139 |
-| All Aboard | 0.30% | ~2,139 |
 | Deep Cleansing | 0.30% | ~2,139 |
-| Leapfrog | 0.30% | ~2,139 |
 | Item of Obsession | 0.30% | ~2,139 |
-| House of Pain | 0.30% | ~2,139 |
 | Cottage Owner | 0.30% | ~2,139 |
+| Texas BBQ | 0.30% | ~2,139 |
 | Serial Killer | 0.30% | ~2,139 |
-| Escaping the Nightmare | 0.30% | ~2,139 |
-| Holiday Get-Together | 0.30% | ~2,139 |
 | Game Over | 0.30% | ~2,139 |
-| Near-Death Experience | 0.30% | ~2,139 |
-| Cherish your Life | 0.30% | ~2,139 |
-| Campbell's Chapel Legacy | 0.30% | ~2,139 |
+| Party Crasher | 0.30% | ~2,139 |
 | Outrage | 0.30% | ~2,139 |
+| A feast for the Entity | 0.20% | ~1,426 |
 | Blood in your mouth | 0.20% | ~1,426 |
 | Jump Scares | 0.20% | ~1,426 |
-| Hemophobia | 0.20% | ~1,426 |
-| Texas BBQ | 0.20% | ~1,426 |
-| Party Crasher | 0.20% | ~1,426 |
+| Mad House | 0.20% | ~1,426 |
+| Looter | 0.20% | ~1,426 |
 | Whiffing to Success | 0.20% | ~1,426 |
-| A feast for the Entity | 0.10% | ~713 |
 | Cripple them all | 0.10% | ~713 |
 | The Grind | 0.10% | ~713 |
 | The Key to Escape | 0.10% | ~713 |
@@ -83,7 +85,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Hag | 0.10% | ~713 |
 | Adept Ace | 0.10% | ~713 |
 | Shocking Treatment | 0.10% | ~713 |
-| Mad House | 0.10% | ~713 |
 | Adept Doctor | 0.10% | ~713 |
 | Adept Min | 0.10% | ~713 |
 | The man behind the bush | 0.10% | ~713 |
@@ -98,7 +99,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Cannibal | 0.10% | ~713 |
 | Dream Demon | 0.10% | ~713 |
 | Adept Nightmare | 0.10% | ~713 |
-| Looter | 0.10% | ~713 |
 | Adept Quentin | 0.10% | ~713 |
 | Milk 'n' Cookies | 0.10% | ~713 |
 | I Want to Play a Game | 0.10% | ~713 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Make Some Noise | 0.10% | ~713 |
 | Adept Cage | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,889 (Ranked 19)  
+Progressed: 713,100 (Ranked 18)  
 Completed: 42 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 42 (0.01%) (Ranked 230)
 | 2023-07-22 | 703,521 | 42 |
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
-| 2023-07-25 | 712,889 | 42 |
+| 2023-07-25 | 713,100 | 42 |
 ## Awards
 Max (Diverse Characters): 30,242  (Ranked 15)  
 Sum: 239,422 (Ranked 12)  

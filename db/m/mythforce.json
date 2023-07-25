@@ -5,7 +5,7 @@
   "Ranking_Rating": 555,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 351,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 91,
@@ -569,9 +569,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-07-25T18:03:08.4622932+00:00",
       "NumProgressed": 282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T19:03:21.7200887+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1102,17 +1107,17 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -1120,7 +1125,7 @@
       "Name": "Flawless Victory",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -1142,9 +1147,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -1158,7 +1163,7 @@
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1200,7 +1205,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -1224,7 +1229,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -1239,15 +1244,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-25T02:15:01.1446676+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:03:08.4622922+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:03:21.720088+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:59:07.2603789+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:03:08.4623076+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:58:51.8756985+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:03:21.7201122+00:00"
 }

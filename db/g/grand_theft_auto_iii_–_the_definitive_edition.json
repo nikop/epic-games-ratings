@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7135,
+  "EOS_Progressed": 7136,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6082,6 +6082,11 @@
       "Time": "2023-07-25T18:05:04.0671301+00:00",
       "NumProgressed": 7135,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-25T19:04:37.3116006+00:00",
+      "NumProgressed": 7136,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6093,7 +6098,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5922
+      "UsersEstimate": 5923
     },
     {
       "ID": "ACH02",
@@ -6237,7 +6242,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH20",
@@ -6324,7 +6329,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7135,
+      "Progressed": 7136,
       "Completed": 41
     }
   ],
@@ -6332,8 +6337,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:05:04.0671295+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:04:37.3115999+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:58:30.7565733+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:05:04.0671723+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:58:16.0252767+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:04:37.3116595+00:00"
 }

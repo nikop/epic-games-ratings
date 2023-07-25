@@ -9,7 +9,7 @@
 | Grime is Not Good | 45.00% | ~118 |
 | Floor Galore | 37.00% | ~97 |
 | Campaign Launch | 37.00% | ~97 |
-| Dinner Dash | 36.00% | ~94 |
+| Dinner Dash | 37.00% | ~97 |
 | Need a Consult | 34.00% | ~89 |
 | It's Technical | 34.00% | ~89 |
 | Upgrade Unlock | 33.00% | ~86 |

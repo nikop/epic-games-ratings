@@ -6,12 +6,12 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 10.00% | ~28 |
-| First Strike | 10.00% | ~28 |
-| Flawless Victory | 9.00% | ~25 |
-| Hit 'Em Where It Hurts | 9.00% | ~25 |
-| That'll Leave a Mark | 9.00% | ~25 |
+| Faceroll the Bones | 9.00% | ~26 |
+| First Strike | 9.00% | ~26 |
+| Flawless Victory | 9.00% | ~26 |
+| That'll Leave a Mark | 9.00% | ~26 |
 | Debuff Dogpile | 8.00% | ~23 |
+| Hit 'Em Where It Hurts | 8.00% | ~23 |
 | Perk Shard Punch Card | 8.00% | ~23 |
 | Ten Steps from the Grave | 8.00% | ~23 |
 | Mushroom Madness! | 7.00% | ~20 |
@@ -24,13 +24,13 @@ Number of Ratings: 285  (23.09.2022)
 | Deadication | 5.00% | ~14 |
 | The Fourth Gate | 5.00% | ~14 |
 | The Harder They Fall | 5.00% | ~14 |
-| Season Finale | 4.00% | ~11 |
-| We've Got a Kaiju on the Field | 0.40% | ~1 |
+| Season Finale | 4.00% | ~12 |
+| We've Got a Kaiju on the Field | 0.30% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 253)  
+Progressed: 288 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
-| 2023-07-25 | 282 | 0 |
+| 2023-07-25 | 288 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

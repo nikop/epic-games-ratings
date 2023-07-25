@@ -6,56 +6,56 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,561 |
-| Let There Be Light | 28.00% | ~16,449 |
-| Float Like a Butterfly | 27.00% | ~15,861 |
-| Nordic Walking | 22.00% | ~12,924 |
-| Bright Falls' Finest | 21.00% | ~12,337 |
-| Under a Thin Layer of Skin | 19.00% | ~11,162 |
-| Park Ranger | 15.00% | ~8,812 |
-| Paging Mr. Wake | 15.00% | ~8,812 |
-| Back! Back, I Say! | 14.00% | ~8,224 |
-| Finders Keepers | 14.00% | ~8,224 |
-| Sound and Fury | 13.00% | ~7,637 |
-| Missed by a Mile | 13.00% | ~7,637 |
-| Damn Good Cup of Coffee | 13.00% | ~7,637 |
+| Follow the Light | 35.00% | ~20,563 |
+| Let There Be Light | 28.00% | ~16,451 |
+| Float Like a Butterfly | 27.00% | ~15,863 |
+| Nordic Walking | 22.00% | ~12,925 |
+| Bright Falls' Finest | 21.00% | ~12,338 |
+| Under a Thin Layer of Skin | 19.00% | ~11,163 |
+| Park Ranger | 15.00% | ~8,813 |
+| Paging Mr. Wake | 15.00% | ~8,813 |
+| Back! Back, I Say! | 14.00% | ~8,225 |
+| Finders Keepers | 14.00% | ~8,225 |
+| Sound and Fury | 13.00% | ~7,638 |
+| Missed by a Mile | 13.00% | ~7,638 |
+| Damn Good Cup of Coffee | 13.00% | ~7,638 |
 | Wheels Within Wheels | 12.00% | ~7,050 |
 | They're Heeeeeere! | 12.00% | ~7,050 |
 | The Six-Gun Scribe | 12.00% | ~7,050 |
-| Heavy Metal | 11.00% | ~6,462 |
-| Iron Horse | 11.00% | ~6,462 |
-| Collateral Carnage | 11.00% | ~6,462 |
-| Come One, Come All | 11.00% | ~6,462 |
+| Heavy Metal | 11.00% | ~6,463 |
+| Iron Horse | 11.00% | ~6,463 |
+| Collateral Carnage | 11.00% | ~6,463 |
+| Come One, Come All | 11.00% | ~6,463 |
 | Perchance to Dream | 10.00% | ~5,875 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,875 |
 | Thunder and Lightning | 10.00% | ~5,875 |
 | Two For the Price of One | 10.00% | ~5,875 |
-| Gatekeeper | 9.00% | ~5,287 |
-| The Lady of the Light | 9.00% | ~5,287 |
-| Energized! | 9.00% | ~5,287 |
+| Gatekeeper | 9.00% | ~5,288 |
+| The Lady of the Light | 9.00% | ~5,288 |
+| Energized! | 9.00% | ~5,288 |
 | What Light Through Yonder Window | 8.00% | ~4,700 |
 | Right of Way | 8.00% | ~4,700 |
-| A Friend in Need | 8.00% | ~1,777 |
-| Tornado Wrangler | 7.00% | ~4,112 |
+| A Friend in Need | 8.00% | ~1,778 |
+| Tornado Wrangler | 7.00% | ~4,113 |
 | Departure | 6.00% | ~3,525 |
 | A Friend Indeed | 6.00% | ~1,333 |
-| Drink 'Em Both Up | 5.00% | ~2,937 |
-| Hardboiled Writer | 5.00% | ~2,937 |
+| Drink 'Em Both Up | 5.00% | ~2,938 |
+| Hardboiled Writer | 5.00% | ~2,938 |
 | Ding! | 5.00% | ~1,111 |
 | Boob Tube | 4.00% | ~2,350 |
 | Children of the Elder God | 4.00% | ~2,350 |
 | If It Flies, It Burns | 4.00% | ~2,350 |
 | KBF-FM | 4.00% | ~2,350 |
-| Kill Your Darlings | 3.00% | ~666 |
-| Heartbreaker | 3.00% | ~666 |
+| Kill Your Darlings | 3.00% | ~667 |
+| Heartbreaker | 3.00% | ~667 |
 | Medical Opinions | 2.00% | ~1,175 |
 | Taken Season | 2.00% | ~1,175 |
 | Carny | 2.00% | ~1,175 |
 | An Idyllic Small Town | 2.00% | ~1,175 |
 | Iron Will | 2.00% | ~444 |
-| Couch Potato | 1.00% | ~587 |
+| Couch Potato | 1.00% | ~588 |
 | Go Gentle Into That Good Light | 1.00% | ~222 |
-| Words Will Never Harm You | 0.70% | ~155 |
+| Words Will Never Harm You | 0.70% | ~156 |
 | Cardboard Companions | 0.60% | ~133 |
 | Fast and Furious | 0.50% | ~111 |
 | Run-On Sentence | 0.40% | ~89 |
@@ -66,15 +66,15 @@ Number of Ratings: 524  (23.09.2022)
 | Meet the Deadline | 0.30% | ~176 |
 | Picking Up After Yourself | 0.30% | ~176 |
 | Tick Tock | 0.30% | ~67 |
-| Gunless Wonder | 0.20% | ~117 |
-| Every Nook and Cranny | 0.20% | ~117 |
-| Bright Falls Aficionado | 0.20% | ~117 |
+| Gunless Wonder | 0.20% | ~118 |
+| Every Nook and Cranny | 0.20% | ~118 |
+| Bright Falls Aficionado | 0.20% | ~118 |
 | Licensed Properties | 0.20% | ~44 |
 | Collector's Edition | 0.10% | ~59 |
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,746 (Ranked 82)  
+Progressed: 58,752 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-22 | 58,172 | 58 |
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
-| 2023-07-25 | 58,746 | 58 |
+| 2023-07-25 | 58,752 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

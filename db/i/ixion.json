@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2909,
+  "EOS_Progressed": 2910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3854,6 +3854,11 @@
       "Time": "2023-07-25T13:18:32.8752973+00:00",
       "NumProgressed": 2909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T19:04:40.6767096+00:00",
+      "NumProgressed": 2910,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3879,9 +3884,9 @@
       "ID": "ACH_BASE_11",
       "SetID": "92iocjf",
       "Name": "Mutual Loyalty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_BASE_12",
@@ -3943,9 +3948,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_BASE_21",
@@ -3993,7 +3998,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_BASE_27",
@@ -4089,7 +4094,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_BASE_38",
@@ -4191,9 +4196,9 @@
       "ID": "ACH_BASE_51",
       "SetID": "92iocjf",
       "Name": "Convenient Transport",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_BASE_52",
@@ -4320,13 +4325,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1091,
+      "Progressed": 1092,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2909,
+      "Progressed": 2910,
       "Completed": 0
     }
   ],
@@ -4334,8 +4339,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-25T18:05:07.4846122+00:00",
+  "LastChanged_Achievements": "2023-07-25T19:04:40.6767091+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-25T17:59:13.4565174+00:00",
-  "LastUpdate_Achievements": "2023-07-25T18:05:07.4846722+00:00"
+  "LastUpdate_Ratings": "2023-07-25T18:58:58.0196663+00:00",
+  "LastUpdate_Achievements": "2023-07-25T19:04:40.6767953+00:00"
 }

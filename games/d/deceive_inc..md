@@ -6,8 +6,8 @@ Rating: 4.65 (Ranked 300)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 65.00% | ~4,867 |
+| Mainframe Hacker | 48.00% | ~3,594 |
 | The Spy who eliminated me | 48.00% | ~3,594 |
-| Mainframe Hacker | 47.00% | ~3,519 |
 | Tomorrow Never Dyes | 45.00% | ~3,369 |
 | Never Say Loser Again | 40.00% | ~2,995 |
 | For your Eyes only | 38.00% | ~2,845 |

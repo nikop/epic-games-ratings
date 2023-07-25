@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 842)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,771 (Ranked 111)  
+Progressed: 15,772 (Ranked 111)  
 Completed: 69 (0.44%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 69 (0.44%) (Ranked 138)
 | 2023-07-22 | 15,755 | 68 |
 | 2023-07-23 | 15,762 | 68 |
 | 2023-07-24 | 15,769 | 69 |
-| 2023-07-25 | 15,771 | 69 |
+| 2023-07-25 | 15,772 | 69 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 371)  
 Sum: 398 (Ranked 314)  
