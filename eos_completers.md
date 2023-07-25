@@ -31,9 +31,9 @@
 | 29 | [Smelter](games/s/smelter.md) | 8.11% |
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 32 | [Scorn](games/s/scorn.md) | 6.95% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
-| 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
+| 32 | [Scorn](games/s/scorn.md) | 6.99% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
@@ -68,18 +68,18 @@
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 69 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.70% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 70 | [Lamentum](games/l/lamentum.md) | 2.63% |
-| 71 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 74 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.42% |
-| 75 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
-| 76 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
-| 77 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
-| 78 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.13% |
-| 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
-| 80 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.05% |
+| 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
+| 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.42% |
+| 76 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
+| 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
+| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
+| 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.13% |
+| 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 83 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -98,7 +98,7 @@
 | 96 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 97 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 98 | [Late Shift](games/l/late_shift.md) | 1.32% |
-| 99 | [A Musical Story](games/a/a_musical_story.md) | 1.25% |
+| 99 | [A Musical Story](games/a/a_musical_story.md) | 1.23% |
 | 100 | [Chorus](games/c/chorus.md) | 1.22% |
 | 101 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 102 | [Trifox](games/t/trifox.md) | 1.11% |
@@ -508,4 +508,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,942 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,945 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
