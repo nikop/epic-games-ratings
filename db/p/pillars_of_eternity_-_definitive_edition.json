@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2754,9 +2754,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
     {
       "Time": "2023-07-23T13:06:08.2237311+00:00",
       "NumProgressed": 1086,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-25T03:07:15.8319039+00:00",
+      "NumProgressed": 1087,
       "NumCompleted": 4
     }
   ],
@@ -2923,7 +2928,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_13",
@@ -3113,9 +3118,9 @@
       "ID": "achievement_36",
       "SetID": "70p237j",
       "Name": "Kickstarter Backer",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_37",
@@ -3218,15 +3223,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1087,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-07-25T02:13:17.4499657+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:07.8898314+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:07:15.8319034+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:14.0921265+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:13:17.4499663+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:07.8898644+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:02:06.6287663+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:07:15.8319364+00:00"
 }

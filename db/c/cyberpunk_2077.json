@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9389,9 +9389,9 @@
       "Count": 5412
     }
   ],
-  "EOS_Progressed": 867485,
+  "EOS_Progressed": 867487,
   "EOS_Completed": 1903,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1205,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19759,6 +19759,11 @@
       "Time": "2023-07-25T02:20:55.1270997+00:00",
       "NumProgressed": 867485,
       "NumCompleted": 1903
+    },
+    {
+      "Time": "2023-07-25T03:08:02.5230701+00:00",
+      "NumProgressed": 867487,
+      "NumCompleted": 1903
     }
   ],
   "TotalAchievements": 44,
@@ -19794,7 +19799,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156147
+      "UsersEstimate": 156148
     },
     {
       "ID": "Denied",
@@ -19802,7 +19807,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338319
+      "UsersEstimate": 338320
     },
     {
       "ID": "FollowingTheRiver",
@@ -19986,7 +19991,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589890
+      "UsersEstimate": 589891
     },
     {
       "ID": "TheHermit",
@@ -19994,7 +19999,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208196
+      "UsersEstimate": 208197
     },
     {
       "ID": "TheHightPriestess",
@@ -20010,7 +20015,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294945
+      "UsersEstimate": 294946
     },
     {
       "ID": "TheStar",
@@ -20042,7 +20047,7 @@
       "Name": "The World",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 147472
+      "UsersEstimate": 147473
     },
     {
       "ID": "ThisIsPacifica",
@@ -20082,7 +20087,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95423
+      "UsersEstimate": 95424
     },
     {
       "ID": "UnderPressure",
@@ -20121,15 +20126,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 867485,
+      "Progressed": 867487,
       "Completed": 1903
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-25T02:13:45.620197+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:55.1270955+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:08:02.5230695+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:31.2727335+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:13:45.6201975+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:55.1271737+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:02:27.0659872+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:08:02.5231561+00:00"
 }

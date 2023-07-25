@@ -27,7 +27,7 @@
 | Little hacker | 52.00% | ~72 |
 | Workout professional | 50.00% | ~70 |
 | Law student | 50.00% | ~70 |
-| Your own way | 49.00% | ~68 |
+| Your own way | 50.00% | ~70 |
 | Fight for life | 47.00% | ~65 |
 | Champion – starter pack | 47.00% | ~65 |
 | Employee of the year | 45.00% | ~63 |
@@ -38,10 +38,10 @@
 | Now you are worthy | 37.00% | ~51 |
 | Legal courier | 36.00% | ~50 |
 | Escaped from a big trouble | 30.00% | ~42 |
+| Mysterious voice | 29.00% | ~40 |
 | No blades in the gym | 29.00% | ~40 |
 | Guiding on the right path | 29.00% | ~40 |
 | Fight is life | 27.00% | ~38 |
-| Mysterious voice | 27.00% | ~38 |
 | Responsible approach | 27.00% | ~38 |
 | Deal with life | 24.00% | ~33 |
 | Champion – no way back | 24.00% | ~33 |
@@ -60,16 +60,16 @@
 | The lonesome road | 17.00% | ~24 |
 | Keep nature safe | 17.00% | ~24 |
 | Key memories | 17.00% | ~24 |
+| Absolute Champion! | 17.00% | ~24 |
 | The last bell ring | 17.00% | ~24 |
 | Careerist | 17.00% | ~24 |
 | The heart of the Resistance | 17.00% | ~24 |
 | Another world | 16.00% | ~22 |
 | Family comes first | 16.00% | ~22 |
 | Not little hacker | 16.00% | ~22 |
-| Absolute Champion! | 16.00% | ~22 |
 | Silver’s past | 14.00% | ~19 |
 | Better cooking at home | 14.00% | ~19 |
-| The only right decision | 11.00% | ~15 |
+| The only right decision | 12.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 293)  
 Completed: 1 (0.72%) (Ranked 116)  

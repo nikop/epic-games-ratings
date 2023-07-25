@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -417,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:21:02.473458+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:08:09.876158+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.1480965+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:18:34.4554187+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:21:02.47347+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:06:06.3268623+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:08:09.8761694+00:00"
 }

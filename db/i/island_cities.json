@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 18.38,
+  "EOS_Completed_Percentage": 18.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1953,6 +1953,11 @@
       "Time": "2023-07-25T02:20:22.9252382+00:00",
       "NumProgressed": 408,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-07-25T03:07:30.5539486+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -1964,7 +1969,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "LEVEL_002",
@@ -1972,7 +1977,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "LEVEL_003",
@@ -1980,7 +1985,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "LEVEL_004",
@@ -2012,7 +2017,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_008",
@@ -2028,7 +2033,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_010",
@@ -2036,7 +2041,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_011",
@@ -2066,9 +2071,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_015",
@@ -2116,7 +2121,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_021",
@@ -2124,7 +2129,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_022",
@@ -2132,14 +2137,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 75
     }
   ],
@@ -2147,8 +2152,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:22.9252377+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:07:30.5539481+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:14:08.60481+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:22.925261+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:02:42.5304109+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:07:30.5539701+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 9.00% | ~23 |
-| First Strike | 9.00% | ~23 |
-| Flawless Victory | 9.00% | ~23 |
-| That'll Leave a Mark | 9.00% | ~23 |
+| Faceroll the Bones | 9.00% | ~24 |
+| First Strike | 9.00% | ~24 |
+| That'll Leave a Mark | 9.00% | ~24 |
 | Debuff Dogpile | 8.00% | ~21 |
+| Flawless Victory | 8.00% | ~21 |
 | Hit 'Em Where It Hurts | 8.00% | ~21 |
 | Perk Shard Punch Card | 8.00% | ~21 |
-| Next Time on MythForce... | 7.00% | ~18 |
 | Spending Spree | 7.00% | ~18 |
 | Ten Steps from the Grave | 7.00% | ~18 |
-| Everything Must Go! | 6.00% | ~15 |
-| Mushroom Madness! | 6.00% | ~15 |
-| On this Episode! | 6.00% | ~15 |
+| Everything Must Go! | 6.00% | ~16 |
+| Mushroom Madness! | 6.00% | ~16 |
+| Next Time on MythForce... | 6.00% | ~16 |
+| On this Episode! | 6.00% | ~16 |
 | Cold-Blooded Critters | 5.00% | ~13 |
 | Deadication | 5.00% | ~13 |
 | Horder Better Faster Stronger | 5.00% | ~13 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258 (Ranked 256)  
+Progressed: 262 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
-| 2023-07-25 | 258 | 0 |
+| 2023-07-25 | 262 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

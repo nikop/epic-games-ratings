@@ -12,11 +12,11 @@ Number of Ratings: 37  (23.09.2022)
 | Friends from the past | 9.00% | ~379 |
 | I like to build stuff... I | 8.00% | ~337 |
 | Builder I | 7.00% | ~295 |
+| An honorable Governor I | 7.00% | ~295 |
 | Researcher | 7.00% | ~295 |
 | Tax-man II | 7.00% | ~295 |
 | A time consuming game I | 7.00% | ~295 |
 | Time for some trade | 7.00% | ~295 |
-| An honorable Governor I | 6.00% | ~252 |
 | Completionist I | 6.00% | ~252 |
 | Full-time job I | 6.00% | ~252 |
 | Not a small trader anymore | 5.00% | ~210 |

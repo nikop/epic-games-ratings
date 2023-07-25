@@ -1226,9 +1226,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 426971,
+  "EOS_Progressed": 426972,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8016,6 +8016,11 @@
       "Time": "2023-07-25T02:19:40.5675545+00:00",
       "NumProgressed": 426971,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-07-25T03:06:48.8209092+00:00",
+      "NumProgressed": 426972,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 41,
@@ -8075,7 +8080,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111012
+      "UsersEstimate": 111013
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -8083,7 +8088,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128091
+      "UsersEstimate": 128092
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -8147,7 +8152,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111012
+      "UsersEstimate": 111013
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -8195,7 +8200,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405622
+      "UsersEstimate": 405623
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -8211,7 +8216,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307419
+      "UsersEstimate": 307420
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -8219,7 +8224,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157979
+      "UsersEstimate": 157980
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -8227,7 +8232,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294610
+      "UsersEstimate": 294611
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -8235,7 +8240,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111012
+      "UsersEstimate": 111013
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -8243,7 +8248,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341577
+      "UsersEstimate": 341578
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -8267,7 +8272,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68315
+      "UsersEstimate": 68316
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -8354,15 +8359,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426971,
+      "Progressed": 426972,
       "Completed": 521
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-23T06:58:30.8356744+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:19:40.5675539+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:06:48.8209084+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.8486153+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:14:42.671554+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:19:40.5676164+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:03:05.5648761+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:06:48.8209701+00:00"
 }

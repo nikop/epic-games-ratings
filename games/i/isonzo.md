@@ -7,20 +7,20 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,543 |
-| Tutti Eroi! | 54.00% | ~3,478 |
+| Tutti Eroi! | 54.00% | ~3,479 |
 | You Shall Not Pass | 53.00% | ~3,414 |
-| Avanti Savoia! | 47.00% | ~3,027 |
-| Mamma Mia! | 37.00% | ~2,383 |
+| Avanti Savoia! | 47.00% | ~3,028 |
+| Mamma Mia! | 37.00% | ~2,384 |
 | Conrad von Hotzensocks | 36.00% | ~2,319 |
 | Gabriele D'Annunzio | 33.00% | ~2,126 |
 | Silver Lining | 29.00% | ~1,868 |
-| Aurelio Baruzzi | 23.00% | ~1,481 |
+| Aurelio Baruzzi | 23.00% | ~1,482 |
 | Veni Vidi Vici | 22.00% | ~1,417 |
 | Decimation | 21.00% | ~1,353 |
 | Donatello | 21.00% | ~1,353 |
 | The Italian Job | 20.00% | ~1,288 |
 | Insubordination | 19.00% | ~1,224 |
-| The Lion of the Isonzo | 18.00% | ~1,159 |
+| The Lion of the Isonzo | 18.00% | ~1,160 |
 | Ragazzi del '99 | 17.00% | ~1,095 |
 | Dirty Dozen | 14.00% | ~902 |
 | Luigi Cadorna | 14.00% | ~902 |
@@ -35,9 +35,9 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 10.00% | ~644 |
 | The Show Must Go On | 9.00% | ~580 |
 | Tosca | 9.00% | ~580 |
-| 12th Bottle of the Isonzo | 6.00% | ~386 |
-| Cercatore d'Oro | 6.00% | ~386 |
-| The Enlightment | 6.00% | ~386 |
+| 12th Bottle of the Isonzo | 6.00% | ~387 |
+| Cercatore d'Oro | 6.00% | ~387 |
+| The Enlightment | 6.00% | ~387 |
 | Generalissimo | 5.00% | ~322 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~258 |
 | Ponte of No Return | 3.00% | ~193 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,441 (Ranked 132)  
+Progressed: 6,442 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 8 (0.12%) (Ranked 183)
 | 2023-07-22 | 6,404 | 8 |
 | 2023-07-23 | 6,424 | 8 |
 | 2023-07-24 | 6,439 | 8 |
-| 2023-07-25 | 6,441 | 8 |
+| 2023-07-25 | 6,442 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 347)  

@@ -5210,10 +5210,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30690,
       "NumberOfAwardsMax": 5064
+    },
+    {
+      "Time": "2023-07-25T03:02:51.3588732+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30698,
+      "NumberOfAwardsMax": 5064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30690,
+  "NumberOfAwards": 30698,
   "NumberOfAwardsMax": 5064,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5251,7 +5257,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4025
+      "Count": 4033
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5260,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215260,
-  "EOS_Completed": 2082,
-  "EOS_NewPlayers": 2357,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 215277,
+  "EOS_Completed": 2084,
+  "EOS_NewPlayers": 2367,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15485,6 +15491,11 @@
       "Time": "2023-07-25T02:24:42.6602957+00:00",
       "NumProgressed": 215260,
       "NumCompleted": 2082
+    },
+    {
+      "Time": "2023-07-25T03:12:00.0786806+00:00",
+      "NumProgressed": 215277,
+      "NumCompleted": 2084
     }
   ],
   "TotalAchievements": 512,
@@ -15494,9 +15505,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1937
     },
     {
       "ID": "objective_completed_10",
@@ -15630,9 +15641,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1061",
@@ -15798,9 +15809,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1076
     },
     {
       "ID": "objective_completed_1090",
@@ -16198,9 +16209,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1169",
@@ -16598,9 +16609,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_149",
@@ -16614,9 +16625,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_150",
@@ -16686,9 +16697,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_165",
@@ -16910,9 +16921,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_231",
@@ -19446,9 +19457,9 @@
       "ID": "objective_completed_1047",
       "SetID": "415jc5c",
       "Name": "Devilishly Cold",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1215",
@@ -19526,9 +19537,9 @@
       "ID": "objective_completed_1376",
       "SetID": "415jc5c",
       "Name": "Luigi After Hours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1380",
@@ -19542,9 +19553,9 @@
       "ID": "objective_completed_1381",
       "SetID": "415jc5c",
       "Name": "Electric Mayhem",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1385",
@@ -19591,21 +19602,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181534,
-      "Completed": 2908
+      "Progressed": 181551,
+      "Completed": 2914
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215260,
-      "Completed": 2082
+      "Progressed": 215277,
+      "Completed": 2084
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-25T02:14:19.3637393+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:24:42.6602951+00:00",
+  "LastChanged": "2023-07-25T03:02:51.358873+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:12:00.07868+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:14:19.3637401+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:24:42.6626283+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:02:51.3588736+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:12:00.0810713+00:00"
 }

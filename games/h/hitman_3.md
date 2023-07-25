@@ -6,30 +6,30 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~603,746 |
-| Death From Above | 46.00% | ~603,746 |
-| Master of the Household | 39.00% | ~511,872 |
-| Death of the Party | 36.00% | ~472,497 |
-| NEXUS-47 | 33.00% | ~433,122 |
-| The Last Tango | 32.00% | ~419,997 |
-| Nightmare Fuel | 31.00% | ~406,873 |
-| The Result of Previous Training | 28.00% | ~367,498 |
-| Tools of the Trade | 28.00% | ~367,498 |
-| Cleared for Field Duty | 27.00% | ~354,373 |
-| Seizing the Opportunity | 25.00% | ~328,123 |
-| Bullet Train | 21.00% | ~275,623 |
-| Stylish Assassin | 20.00% | ~262,498 |
-| Silent Assassin | 14.00% | ~183,749 |
-| Rise Up | 13.00% | ~170,624 |
-| Evil Wine Club | 12.00% | ~157,499 |
-| Console Cowboy | 10.00% | ~131,249 |
-| Last Stop | 10.00% | ~131,249 |
-| A New Profile | 9.00% | ~118,124 |
-| Full House | 9.00% | ~118,124 |
-| Dune Raider | 8.00% | ~104,999 |
-| No Stone Unturned | 8.00% | ~104,999 |
-| Train Surfing | 8.00% | ~104,999 |
-| Icebreaker | 7.00% | ~91,874 |
+| Unseen Assassin | 46.00% | ~603,751 |
+| Death From Above | 46.00% | ~603,751 |
+| Master of the Household | 39.00% | ~511,876 |
+| Death of the Party | 36.00% | ~472,501 |
+| NEXUS-47 | 33.00% | ~433,126 |
+| The Last Tango | 32.00% | ~420,001 |
+| Nightmare Fuel | 31.00% | ~406,876 |
+| The Result of Previous Training | 28.00% | ~367,501 |
+| Tools of the Trade | 28.00% | ~367,501 |
+| Cleared for Field Duty | 27.00% | ~354,376 |
+| Seizing the Opportunity | 25.00% | ~328,126 |
+| Bullet Train | 21.00% | ~275,625 |
+| Stylish Assassin | 20.00% | ~262,500 |
+| Silent Assassin | 14.00% | ~183,750 |
+| Rise Up | 13.00% | ~170,625 |
+| Evil Wine Club | 12.00% | ~157,500 |
+| Console Cowboy | 10.00% | ~131,250 |
+| Last Stop | 10.00% | ~131,250 |
+| A New Profile | 9.00% | ~118,125 |
+| Full House | 9.00% | ~118,125 |
+| Dune Raider | 8.00% | ~105,000 |
+| No Stone Unturned | 8.00% | ~105,000 |
+| Train Surfing | 8.00% | ~105,000 |
+| Icebreaker | 7.00% | ~91,875 |
 | Family Feud | 6.00% | ~78,750 |
 | Rich Harvest | 6.00% | ~78,750 |
 | Count Down From 47 | 6.00% | ~78,750 |
@@ -52,9 +52,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Bird Art | 2.00% | ~26,250 |
 | Top of the Class | 1.00% | ~13,125 |
 | Ripe for the Picking | 1.00% | ~13,125 |
-| The Creative Assassin | 0.70% | ~9,187 |
+| The Creative Assassin | 0.70% | ~9,188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312,492 (Ranked 9)  
+Progressed: 1,312,502 (Ranked 9)  
 Completed: 2,112 (0.16%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2,112 (0.16%) (Ranked 176)
 | 2023-07-22 | 1,311,616 | 2,111 |
 | 2023-07-23 | 1,312,059 | 2,111 |
 | 2023-07-24 | 1,312,452 | 2,112 |
-| 2023-07-25 | 1,312,492 | 2,112 |
+| 2023-07-25 | 1,312,502 | 2,112 |
 ## Awards
 Max (Diverse Characters): 9,545  (Ranked 36)  
 Sum: 68,721 (Ranked 20)  

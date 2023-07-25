@@ -56,7 +56,7 @@
 | In Her Prime | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 364)  
+Progressed: 37 (Ranked 366)  
 Completed: 3 (8.11%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_EOS_NewPlayers": 5,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
-    "ReleaseDate": "2023-07-25T23:00:00+00:00",
+    "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26942,
+  "EOS_Progressed": 27152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26941,
+  "EOS_NewPlayers": 27151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -405,6 +405,11 @@
       "Time": "2023-07-25T02:22:08.2263341+00:00",
       "NumProgressed": 26942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T03:09:27.0700997+00:00",
+      "NumProgressed": 27152,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -415,25 +420,25 @@
       "ID": "Craft_Weapon_Mod_A",
       "SetID": "bkp3b1a",
       "Name": "Expanding Horizons",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 190
     },
     {
       "ID": "Craft_Weapon_Mod_B",
       "SetID": "bkp3b1a",
       "Name": "Crafty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "Defeat_Abberations_A",
       "SetID": "bkp3b1a",
       "Name": "Am I Seeing This?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -455,9 +460,9 @@
       "ID": "Defeat_Corrupted_Ravager",
       "SetID": "bkp3b1a",
       "Name": "Chaos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "Defeat_Cube",
@@ -519,9 +524,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 81
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -535,9 +540,9 @@
       "ID": "Defeat_World_Boss",
       "SetID": "bkp3b1a",
       "Name": "Quest for Survival",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 163
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -599,25 +604,25 @@
       "ID": "Obtain_Archetype",
       "SetID": "bkp3b1a",
       "Name": "First of Many",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 272
     },
     {
       "ID": "Obtain_Archetype_Dual",
       "SetID": "bkp3b1a",
       "Name": "Duality",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 109
     },
     {
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 81
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -639,17 +644,17 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 54
     },
     {
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 136
     },
     {
       "ID": "Obtain_Guns_A",
@@ -695,9 +700,9 @@
       "ID": "Obtain_Relics",
       "SetID": "bkp3b1a",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -719,9 +724,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 217
     },
     {
       "ID": "Obtain_Traits_B",
@@ -759,25 +764,25 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 54
     },
     {
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 109
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 81
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -791,9 +796,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 136
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -807,22 +812,22 @@
       "ID": "Upgrade_Weapon_Mutator",
       "SetID": "bkp3b1a",
       "Name": "Transmutate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 26942,
+      "Progressed": 27152,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:22:08.2263336+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:09:27.0700992+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.8593105+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:18:31.4674003+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:22:08.2263693+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:06:04.5463621+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:09:27.0701336+00:00"
 }

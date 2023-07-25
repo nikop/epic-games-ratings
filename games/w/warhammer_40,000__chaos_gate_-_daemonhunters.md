@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 412)  
+Rating: 4.59 (Ranked 411)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,6 +9,7 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
+| Daemonkeeper | 0.10% | ~3 |
 | Hold Your Ground | 0.10% | ~3 |
 | Not So Fast... | 0.10% | ~3 |
 | Blood for the Blood God! | 0.10% | ~3 |
@@ -44,7 +45,6 @@ Number of Ratings: 371  (23.09.2022)
 | Unstable Immaterium | 0.00% | ~0 |
 | Strike Force | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
-| Daemonkeeper | 0.00% | ~0 |
 | Exterminator | 0.00% | ~0 |
 | Opportunist | 0.00% | ~0 |
 | Hands-On Research | 0.00% | ~0 |

@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19420,
+  "EOS_Progressed": 19422,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11308,6 +11308,11 @@
       "Time": "2023-07-25T02:20:29.6803243+00:00",
       "NumProgressed": 19420,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-25T03:07:37.1902539+00:00",
+      "NumProgressed": 19422,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11327,7 +11332,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "1017",
@@ -11351,7 +11356,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "1020",
@@ -11455,7 +11460,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7768
+      "UsersEstimate": 7769
     },
     {
       "ID": "1033",
@@ -11471,7 +11476,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "1035",
@@ -11494,15 +11499,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19420,
+      "Progressed": 19422,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:29.6803239+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:07:37.1902532+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:18:38.9757776+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:29.6803798+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:06:11.3471673+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:07:37.1903139+00:00"
 }

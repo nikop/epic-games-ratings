@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~21,011 |
+| Lawbringer | 37.00% | ~21,012 |
 | Landlord | 31.00% | ~17,604 |
 | Bannerlord | 22.00% | ~12,493 |
 | Horde breaker | 22.00% | ~12,493 |
@@ -16,8 +16,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 16.00% | ~9,086 |
 | I can do it | 15.00% | ~8,518 |
 | Apple of my eye | 14.00% | ~7,950 |
-| God of the Arena | 12.00% | ~6,814 |
-| Against all odds | 11.00% | ~6,246 |
+| God of the Arena | 12.00% | ~6,815 |
+| Against all odds | 11.00% | ~6,247 |
 | Swordbearer | 10.00% | ~5,679 |
 | Duelist | 9.00% | ~5,111 |
 | Dynasty | 9.00% | ~5,111 |
@@ -28,9 +28,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~3,975 |
 | Know your enemy | 6.00% | ~3,407 |
 | My way | 5.00% | ~2,839 |
-| Crowdfunded | 4.00% | ~2,271 |
-| Crush your enemies | 4.00% | ~2,271 |
-| Veni vidi vici | 4.00% | ~2,271 |
+| Crowdfunded | 4.00% | ~2,272 |
+| Crush your enemies | 4.00% | ~2,272 |
+| Veni vidi vici | 4.00% | ~2,272 |
 | Freedom! | 3.00% | ~1,704 |
 | Real Estate | 3.00% | ~1,704 |
 | Long live the Empire! | 2.00% | ~1,136 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,786 (Ranked 83)  
+Progressed: 56,788 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 56,504 | 0 |
 | 2023-07-23 | 56,654 | 0 |
 | 2023-07-24 | 56,780 | 0 |
-| 2023-07-25 | 56,786 | 0 |
+| 2023-07-25 | 56,788 | 0 |
 ## Awards
 Max (Character Customization): 6,840  (Ranked 48)  
 Sum: 13,860 (Ranked 67)  

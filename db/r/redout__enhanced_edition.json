@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228043,
+  "EOS_Progressed": 228045,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10218,6 +10218,11 @@
       "Time": "2023-07-25T02:20:52.5929122+00:00",
       "NumProgressed": 228043,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-25T03:08:00.0275846+00:00",
+      "NumProgressed": 228045,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -10245,7 +10250,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63852
+      "UsersEstimate": 63853
     },
     {
       "ID": "CENTAUR",
@@ -10253,7 +10258,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18243
+      "UsersEstimate": 18244
     },
     {
       "ID": "CHALLENGER",
@@ -10293,7 +10298,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18243
+      "UsersEstimate": 18244
     },
     {
       "ID": "FLAWLESS",
@@ -10365,7 +10370,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75254
+      "UsersEstimate": 75255
     },
     {
       "ID": "NOBUNAGA",
@@ -10453,7 +10458,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50169
+      "UsersEstimate": 50170
     },
     {
       "ID": "TACTICIAN",
@@ -10477,7 +10482,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50169
+      "UsersEstimate": 50170
     },
     {
       "ID": "TUNINGMANIAC",
@@ -10500,15 +10505,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228043,
+      "Progressed": 228045,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:52.5929117+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:08:00.0275841+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.7252486+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:14:38.8608145+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:52.5929769+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:03:02.634362+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:08:00.0276552+00:00"
 }

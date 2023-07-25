@@ -569,9 +569,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-07-25T02:20:47.2444789+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T03:07:54.5041174+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1046,7 +1051,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -1054,7 +1059,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -1062,15 +1067,15 @@
       "Name": "First Strike",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -1118,15 +1123,15 @@
       "Name": "Mushroom Madness!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -1134,7 +1139,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -1174,7 +1179,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -1189,15 +1194,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-25T02:15:01.1446676+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:20:47.2444782+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:07:54.5041171+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:15:01.144668+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:20:47.2445164+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:03:23.3890421+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:07:54.5041307+00:00"
 }

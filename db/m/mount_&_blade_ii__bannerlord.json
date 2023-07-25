@@ -5907,9 +5907,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56786,
+  "EOS_Progressed": 56788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15847,6 +15847,11 @@
       "Time": "2023-07-25T02:24:41.3445428+00:00",
       "NumProgressed": 56786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T03:11:58.891052+00:00",
+      "NumProgressed": 56788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15858,7 +15863,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "Apple of my eye",
@@ -15914,7 +15919,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "Crackshot",
@@ -15930,7 +15935,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "Duelist",
@@ -15986,7 +15991,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6814
+      "UsersEstimate": 6815
     },
     {
       "ID": "Great Granny",
@@ -16090,7 +16095,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21011
+      "UsersEstimate": 21012
     },
     {
       "ID": "Lawmaker",
@@ -16250,7 +16255,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -16265,15 +16270,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56786,
+      "Progressed": 56788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-25T00:02:46.6894519+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:24:41.3445423+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:11:58.8910515+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:17:49.8845372+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:24:41.3446225+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:05:33.5279839+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:11:58.8911295+00:00"
 }

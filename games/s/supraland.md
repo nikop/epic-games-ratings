@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~711,113 |
+| Out of bed | 99.00% | ~711,114 |
 | The Blues | 85.00% | ~610,552 |
-| Fast | 66.00% | ~474,075 |
+| Fast | 66.00% | ~474,076 |
 | Healthbar | 55.00% | ~395,063 |
 | Force Cube | 53.00% | ~380,697 |
-| Double Jump | 48.00% | ~344,782 |
-| Regeneration | 47.00% | ~337,599 |
-| Climb the hill | 42.00% | ~301,684 |
-| Triple Jump | 42.00% | ~301,684 |
-| Through the fire pipe | 38.00% | ~272,952 |
-| MacGuffin | 38.00% | ~272,952 |
+| Double Jump | 48.00% | ~344,783 |
+| Regeneration | 47.00% | ~337,600 |
+| Climb the hill | 42.00% | ~301,685 |
+| Triple Jump | 42.00% | ~301,685 |
+| Through the fire pipe | 38.00% | ~272,953 |
+| MacGuffin | 38.00% | ~272,953 |
 | Just once | 36.00% | ~258,587 |
 | Armor | 30.00% | ~215,489 |
 | True holy spirit | 27.00% | ~193,940 |
@@ -29,13 +29,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 18.00% | ~129,293 |
 | Buckle | 17.00% | ~122,110 |
 | Green Keycard | 17.00% | ~122,110 |
-| Rattle Hag | 15.00% | ~107,744 |
-| All Shells | 14.00% | ~100,561 |
-| Beam | 14.00% | ~100,561 |
-| Health Drink | 13.00% | ~93,378 |
-| 9 | 13.00% | ~93,378 |
-| Purple Cube | 13.00% | ~93,378 |
-| Supraball Noob | 13.00% | ~93,378 |
+| Rattle Hag | 15.00% | ~107,745 |
+| All Shells | 14.00% | ~100,562 |
+| Beam | 14.00% | ~100,562 |
+| Health Drink | 13.00% | ~93,379 |
+| 9 | 13.00% | ~93,379 |
+| Purple Cube | 13.00% | ~93,379 |
+| Supraball Noob | 13.00% | ~93,379 |
 | Helped a star | 12.00% | ~86,196 |
 | Strong | 12.00% | ~86,196 |
 | Blue King's lair | 11.00% | ~79,013 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~718 |
 | DLC: Top of the world | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,296 (Ranked 17)  
+Progressed: 718,297 (Ranked 17)  
 Completed: 714 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 714 (0.10%) (Ranked 189)
 | 2023-07-22 | 717,960 | 712 |
 | 2023-07-23 | 718,135 | 712 |
 | 2023-07-24 | 718,282 | 714 |
-| 2023-07-25 | 718,296 | 714 |
+| 2023-07-25 | 718,297 | 714 |
 ## Awards
 Max (Challenging Puzzles): 7,650  (Ranked 43)  
 Sum: 9,967 (Ranked 81)  

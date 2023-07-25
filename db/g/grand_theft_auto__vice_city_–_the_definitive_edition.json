@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 386,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 134,
@@ -518,23 +518,29 @@
       "Rating": 4.55,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-07-25T03:03:00.133743+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 61
+      "Count": 63
     }
   ],
-  "EOS_Progressed": 9162,
+  "EOS_Progressed": 9165,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6892,6 +6898,11 @@
       "Time": "2023-07-25T02:21:17.827419+00:00",
       "NumProgressed": 9162,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-25T03:08:25.3633364+00:00",
+      "NumProgressed": 9165,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6959,7 +6970,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH09",
@@ -6975,7 +6986,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ACH11",
@@ -7007,7 +7018,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3758
     },
     {
       "ID": "ACH15",
@@ -7063,7 +7074,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "ACH22",
@@ -7079,7 +7090,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "ACH24",
@@ -7103,7 +7114,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH27",
@@ -7174,16 +7185,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9162,
+      "Progressed": 9165,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-25T02:21:17.8274185+00:00",
+  "LastChanged": "2023-07-25T03:03:00.1337429+00:00",
+  "LastChanged_Achievements": "2023-07-25T03:08:25.363336+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-25T02:14:36.5102149+00:00",
-  "LastUpdate_Achievements": "2023-07-25T02:21:17.8274656+00:00"
+  "LastUpdate_Ratings": "2023-07-25T03:03:00.1337433+00:00",
+  "LastUpdate_Achievements": "2023-07-25T03:08:25.3633834+00:00"
 }
