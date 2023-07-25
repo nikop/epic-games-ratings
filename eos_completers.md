@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.33% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -90,7 +90,7 @@
 | 88 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.68% |
 | 89 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 90 | [Somerville](games/s/somerville.md) | 1.62% |
-| 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.56% |
+| 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.55% |
 | 92 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 93 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
 | 93 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
