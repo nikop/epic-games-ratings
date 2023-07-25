@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1232,9 +1232,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_STAR_2",
@@ -1305,8 +1305,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-24T23:05:30.1076252+00:00",
+  "LastChanged_Achievements": "2023-07-25T00:06:11.3877869+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:57:53.9143763+00:00",
-  "LastUpdate_Achievements": "2023-07-24T23:05:30.1076507+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:58:13.9609532+00:00",
+  "LastUpdate_Achievements": "2023-07-25T00:06:11.3878571+00:00"
 }

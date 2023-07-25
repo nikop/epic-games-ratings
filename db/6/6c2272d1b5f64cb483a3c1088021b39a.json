@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 833,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2486,6 +2486,11 @@
       "Time": "2023-07-24T16:06:17.5358112+00:00",
       "NumProgressed": 831,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T00:06:08.7989282+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2497,7 +2502,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "adventurous_2",
@@ -2665,7 +2670,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "elemental_stones_2",
@@ -2905,7 +2910,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -3024,14 +3029,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 833,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-24T23:05:27.4007464+00:00",
+  "LastChanged_Achievements": "2023-07-25T00:06:08.7989276+00:00",
   "LastUpdate_AppInfo": "2023-07-18T03:15:33.4430036+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:57:33.1644241+00:00",
-  "LastUpdate_Achievements": "2023-07-24T23:05:27.400824+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:57:48.6562721+00:00",
+  "LastUpdate_Achievements": "2023-07-25T00:06:08.7990109+00:00"
 }

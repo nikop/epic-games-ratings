@@ -11,9 +11,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.60% | ~78 |
 | Settler | 0.60% | ~78 |
 | Play a Single Player Game | 0.60% | ~78 |
+| Poetic Leader | 0.60% | ~78 |
 | Intrepid | 0.50% | ~65 |
 | Friendly Family | 0.50% | ~65 |
-| Poetic Leader | 0.50% | ~65 |
 | Able | 0.40% | ~52 |
 | Architect | 0.40% | ~52 |
 | Good | 0.40% | ~52 |

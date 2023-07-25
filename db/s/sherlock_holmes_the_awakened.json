@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 214,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2023-06-25T15:57:48.817635+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-24T23:58:19.6744244+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1949,9 +1955,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 283
+      "UsersEstimate": 288
     },
     {
       "ID": "MQ03_4",
@@ -2117,9 +2123,9 @@
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-24T23:07:32.081901+00:00",
+  "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
+  "LastChanged_Achievements": "2023-07-25T00:08:23.3205561+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:58:00.7463339+00:00",
-  "LastUpdate_Achievements": "2023-07-24T23:07:32.0819313+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:58:19.6744254+00:00",
+  "LastUpdate_Achievements": "2023-07-25T00:08:23.32061+00:00"
 }

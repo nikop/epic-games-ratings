@@ -8,42 +8,42 @@ Number of Ratings: 19,160  (23.09.2022)
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~234,014 |
 | First Victory | 50.00% | ~234,014 |
-| Clean Sheet | 49.00% | ~229,333 |
-| He's Sold! | 47.00% | ~219,973 |
-| I'm The Boss! | 41.00% | ~191,891 |
-| Hat-trick | 41.00% | ~191,891 |
-| Scoring Streak | 38.00% | ~177,850 |
-| Unbeatable! | 37.00% | ~173,170 |
-| Thumping | 37.00% | ~173,170 |
-| Superb Dressing Room Atmosphere | 35.00% | ~163,809 |
+| Clean Sheet | 49.00% | ~229,334 |
+| He's Sold! | 47.00% | ~219,974 |
+| I'm The Boss! | 41.00% | ~191,892 |
+| Hat-trick | 41.00% | ~191,892 |
+| Scoring Streak | 38.00% | ~177,851 |
+| Unbeatable! | 37.00% | ~173,171 |
+| Thumping | 37.00% | ~173,171 |
+| Superb Dressing Room Atmosphere | 35.00% | ~163,810 |
 | Total Support | 32.00% | ~149,769 |
 | Record Signing | 32.00% | ~149,769 |
-| Millionaire's Club | 31.00% | ~145,088 |
-| Team Performance | 30.00% | ~140,408 |
-| He's a Natural | 30.00% | ~140,408 |
+| Millionaire's Club | 31.00% | ~145,089 |
+| Team Performance | 30.00% | ~140,409 |
+| He's a Natural | 30.00% | ~140,409 |
 | Parked The Bus | 29.00% | ~135,728 |
 | Shrewd Spender | 29.00% | ~135,728 |
 | Star Man | 29.00% | ~135,728 |
 | Attack! | 28.00% | ~131,048 |
-| You're On Fire | 26.00% | ~121,687 |
-| On A Roll | 26.00% | ~121,687 |
-| Tremendous Trio | 26.00% | ~121,687 |
-| Record Sale | 26.00% | ~121,687 |
+| You're On Fire | 26.00% | ~121,688 |
+| On A Roll | 26.00% | ~121,688 |
+| Tremendous Trio | 26.00% | ~121,688 |
+| Record Sale | 26.00% | ~121,688 |
 | Unstoppable Force | 25.00% | ~117,007 |
-| Fantastic Five | 24.00% | ~112,326 |
-| Full Faith | 24.00% | ~112,326 |
-| The Boss | 24.00% | ~112,326 |
-| Armchair Expert | 24.00% | ~112,326 |
-| Iron Curtain | 23.00% | ~107,646 |
-| Goal Machine | 23.00% | ~107,646 |
+| Fantastic Five | 24.00% | ~112,327 |
+| Full Faith | 24.00% | ~112,327 |
+| The Boss | 24.00% | ~112,327 |
+| Armchair Expert | 24.00% | ~112,327 |
+| Iron Curtain | 23.00% | ~107,647 |
+| Goal Machine | 23.00% | ~107,647 |
 | What A Goal! | 22.00% | ~102,966 |
 | Top Of The Class | 22.00% | ~102,966 |
 | Cup Glory! | 22.00% | ~102,966 |
 | Splashing The Cash | 21.00% | ~98,286 |
 | Clean Bill of Health | 21.00% | ~98,286 |
-| Do The Double | 19.00% | ~88,925 |
-| Irresistible Force | 19.00% | ~88,925 |
-| Excellent Match Cohesion | 19.00% | ~88,925 |
+| Do The Double | 19.00% | ~88,926 |
+| Irresistible Force | 19.00% | ~88,926 |
+| Excellent Match Cohesion | 19.00% | ~88,926 |
 | Top Form | 17.00% | ~79,565 |
 | Cash To Burn | 17.00% | ~79,565 |
 | Beating Expectations | 15.00% | ~70,204 |
@@ -57,10 +57,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Superb Strike | 10.00% | ~46,803 |
 | Invincible! | 10.00% | ~46,803 |
 | Best In The World | 10.00% | ~46,803 |
-| Best In Europe | 9.00% | ~42,122 |
-| Headhunted | 9.00% | ~42,122 |
-| International Superstar | 9.00% | ~42,122 |
-| Domination | 9.00% | ~42,122 |
+| Best In Europe | 9.00% | ~42,123 |
+| Headhunted | 9.00% | ~42,123 |
+| International Superstar | 9.00% | ~42,123 |
+| Domination | 9.00% | ~42,123 |
 | Best In The Business | 8.00% | ~37,442 |
 | National Service | 8.00% | ~37,442 |
 | Legend | 6.00% | ~28,082 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~468 |
 | Shoestring Budget | 0.10% | ~468 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,027 (Ranked 35)  
+Progressed: 468,029 (Ranked 35)  
 Completed: 19 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,13 +201,14 @@ Completed: 19 (0.00%) (Ranked 242)
 | 2023-07-22 | 467,807 | 19 |
 | 2023-07-23 | 467,928 | 19 |
 | 2023-07-24 | 468,027 | 19 |
+| 2023-07-25 | 468,029 | 19 |
 ## Awards
-Max (Relaxing): 6,369  (Ranked 52)  
-Sum: 50,196 (Ranked 24)  
+Max (Relaxing): 6,371  (Ranked 52)  
+Sum: 50,198 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,369 |
+| This game is Relaxing | 6,371 |
 | This game is Extremely Fun | 5,994 |
 | This game has Competitive Players | 5,817 |
 | This game has Quickly Understood Controls | 5,813 |
@@ -401,3 +402,4 @@ Diff (max vs sum): 28
 | 2023-07-22 | 4.80 | - | 6,366 | 50,172 |
 | 2023-07-23 | 4.80 | - | 6,369 | 50,187 |
 | 2023-07-24 | 4.80 | - | 6,369 | 50,196 |
+| 2023-07-25 | 4.80 | - | 6,371 | 50,198 |

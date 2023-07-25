@@ -160,9 +160,9 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ARTEMIS",
@@ -240,9 +240,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -431,8 +431,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-24T23:04:07.4011426+00:00",
+  "LastChanged_Achievements": "2023-07-25T00:05:19.1229382+00:00",
   "LastUpdate_AppInfo": "2023-07-21T20:57:00.8152155+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:57:06.9593089+00:00",
-  "LastUpdate_Achievements": "2023-07-24T23:04:07.4011739+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:57:23.3866816+00:00",
+  "LastUpdate_Achievements": "2023-07-25T00:05:19.1229817+00:00"
 }

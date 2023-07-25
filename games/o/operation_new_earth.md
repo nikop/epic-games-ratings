@@ -18,7 +18,7 @@
 | Infantry Reporting | 11.00% | ~67 |
 | Fighting for Survival | 9.00% | ~55 |
 | Silver Competitor | 9.00% | ~55 |
-| Captain | 8.00% | ~49 |
+| Captain | 9.00% | ~55 |
 | Factory Expansion | 8.00% | ~49 |
 | Exterminator | 7.00% | ~43 |
 | Brothers in Arms | 6.00% | ~37 |

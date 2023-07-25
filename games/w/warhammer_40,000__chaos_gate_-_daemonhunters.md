@@ -23,7 +23,9 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 0.10% | ~3 |
 | Efficient Killer | 0.10% | ~3 |
 | Bloodless | 0.10% | ~3 |
+| Just a Scratch | 0.10% | ~3 |
 | A Foul Creche | 0.10% | ~3 |
+| Preservationist | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
@@ -54,10 +56,8 @@ Number of Ratings: 371  (23.09.2022)
 | Phalanx | 0.00% | ~0 |
 | Exercise in Restraint | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
-| Just a Scratch | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Only in Death | 0.00% | ~0 |
-| Preservationist | 0.00% | ~0 |
 | Engine Kill | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
 | A Gift Spurned | 0.00% | ~0 |

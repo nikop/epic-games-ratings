@@ -9297,18 +9297,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 194480,
       "NumberOfAwardsMax": 73930
+    },
+    {
+      "Time": "2023-07-24T23:59:23.8210229+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 194581,
+      "NumberOfAwardsMax": 74031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 194480,
-  "NumberOfAwardsMax": 73930,
+  "NumberOfAwards": 194581,
+  "NumberOfAwardsMax": 74031,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 73930
+      "Count": 74031
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9377,9 +9383,9 @@
       "Count": 5401
     }
   ],
-  "EOS_Progressed": 867476,
+  "EOS_Progressed": 867478,
   "EOS_Completed": 1903,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19737,6 +19743,11 @@
       "Time": "2023-07-24T23:04:04.4462903+00:00",
       "NumProgressed": 867476,
       "NumCompleted": 1903
+    },
+    {
+      "Time": "2023-07-25T00:05:15.9841566+00:00",
+      "NumProgressed": 867478,
+      "NumCompleted": 1903
     }
   ],
   "TotalAchievements": 44,
@@ -19820,7 +19831,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130121
+      "UsersEstimate": 130122
     },
     {
       "ID": "Gunslinger",
@@ -19916,7 +19927,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173495
+      "UsersEstimate": 173496
     },
     {
       "ID": "Roleplayer",
@@ -19924,7 +19935,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 242893
+      "UsersEstimate": 242894
     },
     {
       "ID": "Specialist",
@@ -19964,7 +19975,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589884
+      "UsersEstimate": 589885
     },
     {
       "ID": "TheHermit",
@@ -19972,7 +19983,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208194
+      "UsersEstimate": 208195
     },
     {
       "ID": "TheHightPriestess",
@@ -19988,7 +19999,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294942
+      "UsersEstimate": 294943
     },
     {
       "ID": "TheStar",
@@ -20044,7 +20055,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199519
+      "UsersEstimate": 199520
     },
     {
       "ID": "TrueWarrior",
@@ -20052,7 +20063,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130121
+      "UsersEstimate": 130122
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -20060,7 +20071,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95422
+      "UsersEstimate": 95423
     },
     {
       "ID": "UnderPressure",
@@ -20099,15 +20110,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 867476,
+      "Progressed": 867478,
       "Completed": 1903
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-24T22:58:54.6618015+00:00",
-  "LastChanged_Achievements": "2023-07-24T23:04:04.4462896+00:00",
+  "LastChanged": "2023-07-24T23:59:23.8210227+00:00",
+  "LastChanged_Achievements": "2023-07-25T00:05:15.9841555+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:31.2727335+00:00",
-  "LastUpdate_Ratings": "2023-07-24T22:58:54.6618021+00:00",
-  "LastUpdate_Achievements": "2023-07-24T23:04:04.4463876+00:00"
+  "LastUpdate_Ratings": "2023-07-24T23:59:23.8210239+00:00",
+  "LastUpdate_Achievements": "2023-07-25T00:05:15.9843336+00:00"
 }
