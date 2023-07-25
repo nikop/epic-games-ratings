@@ -370,7 +370,7 @@
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
-| [Remnant II](../games/r/remnant_2.md) | 50 | 1,000 |
+| [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |

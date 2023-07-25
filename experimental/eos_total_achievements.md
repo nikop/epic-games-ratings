@@ -122,7 +122,7 @@
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
-| [Remnant II](../games/r/remnant_2.md) | 50 | 1,000 |
+| [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
