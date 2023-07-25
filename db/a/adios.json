@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67430,
+  "EOS_Progressed": 67432,
   "EOS_Completed": 658,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -10499,6 +10499,11 @@
       "Time": "2023-07-25T07:07:38.547127+00:00",
       "NumProgressed": 67430,
       "NumCompleted": 658
+    },
+    {
+      "Time": "2023-07-25T08:07:10.7865543+00:00",
+      "NumProgressed": 67432,
+      "NumCompleted": 658
     }
   ],
   "TotalAchievements": 25,
@@ -10526,7 +10531,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12137
+      "UsersEstimate": 12138
     },
     {
       "ID": "Audiophile",
@@ -10550,7 +10555,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12137
+      "UsersEstimate": 12138
     },
     {
       "ID": "Butcher",
@@ -10702,14 +10707,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 67430,
+      "Progressed": 67432,
       "Completed": 658
     }
   ],
@@ -10717,8 +10722,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-20T22:01:26.8795363+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:07:38.5471265+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:07:10.7865539+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.2305139+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:01:40.4778446+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:07:38.5471887+00:00"
+  "LastUpdate_Ratings": "2023-07-25T08:01:14.8736098+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:07:10.7866119+00:00"
 }

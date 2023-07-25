@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16146,
+  "EOS_Progressed": 16148,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
@@ -10419,6 +10419,11 @@
       "Time": "2023-07-25T06:05:07.1922728+00:00",
       "NumProgressed": 16146,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-07-25T08:04:39.1912906+00:00",
+      "NumProgressed": 16148,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 20,
@@ -10446,7 +10451,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -10550,7 +10555,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12271
+      "UsersEstimate": 12272
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10566,7 +10571,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -10589,15 +10594,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16146,
+      "Progressed": 16148,
       "Completed": 334
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:04:49.2228277+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:04:39.1912901+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:01:13.6188862+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:04:49.2228855+00:00"
+  "LastUpdate_Ratings": "2023-07-25T08:00:53.4269106+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:04:39.1913473+00:00"
 }

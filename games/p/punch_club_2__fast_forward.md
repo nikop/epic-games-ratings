@@ -16,13 +16,13 @@
 | Neurotrainer – power gainer! | 75.00% | ~104 |
 | Employee of the week | 74.00% | ~103 |
 | Your own amateur gym | 70.00% | ~97 |
-| Run K, run! | 66.00% | ~92 |
+| Run K, run! | 67.00% | ~93 |
 | No bullying more | 65.00% | ~90 |
 | Hello, world! | 64.00% | ~89 |
 | Fighting is cool | 61.00% | ~85 |
 | Intriguing candies | 61.00% | ~85 |
 | Pal of your father? | 56.00% | ~78 |
-| Employee of the month | 55.00% | ~76 |
+| Employee of the month | 56.00% | ~78 |
 | Spirit of the past | 54.00% | ~75 |
 | Little hacker | 52.00% | ~72 |
 | Workout professional | 50.00% | ~70 |
@@ -35,12 +35,12 @@
 | Own four walls | 43.00% | ~60 |
 | Handyman | 42.00% | ~58 |
 | Extreme neuropower! | 42.00% | ~58 |
+| Legal courier | 39.00% | ~54 |
 | Now you are worthy | 37.00% | ~51 |
-| Legal courier | 37.00% | ~51 |
-| Escaped from a big trouble | 31.00% | ~43 |
+| Escaped from a big trouble | 32.00% | ~44 |
+| No blades in the gym | 31.00% | ~43 |
 | Guiding on the right path | 30.00% | ~42 |
 | Mysterious voice | 29.00% | ~40 |
-| No blades in the gym | 29.00% | ~40 |
 | Responsible approach | 28.00% | ~39 |
 | Fight is life | 27.00% | ~38 |
 | Deal with life | 25.00% | ~35 |

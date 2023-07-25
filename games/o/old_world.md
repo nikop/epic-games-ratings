@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Architect | 0.40% | ~52 |
+| Enlightened | 0.40% | ~52 |
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
 | Mason | 0.40% | ~52 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Ambitious | 0.30% | ~39 |
-| Enlightened | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
 | Learned | 0.30% | ~39 |
@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
+| Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
-| Acropolis | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |

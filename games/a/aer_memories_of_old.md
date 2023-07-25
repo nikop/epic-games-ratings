@@ -6,13 +6,13 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~12,271 |
+| Light at the end of the tunnel | 76.00% | ~12,272 |
 | Mama? | 28.00% | ~4,521 |
 | People's Haven | 19.00% | ~3,068 |
 | Cartographer | 17.00% | ~2,745 |
 | Antlers of Stone | 15.00% | ~2,422 |
-| Knowledge for Power | 14.00% | ~2,260 |
-| Mausoleum of Ice | 14.00% | ~2,260 |
+| Knowledge for Power | 14.00% | ~2,261 |
+| Mausoleum of Ice | 14.00% | ~2,261 |
 | Gaze into the abyss | 13.00% | ~2,099 |
 | In the belly of the beast | 12.00% | ~1,938 |
 | Wings of Stone | 12.00% | ~1,938 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~969 |
 | Hide and Seek | 5.00% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,146 (Ranked 108)  
+Progressed: 16,148 (Ranked 108)  
 Completed: 334 (2.07%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 334 (2.07%) (Ranked 79)
 | 2023-07-22 | 15,929 | 330 |
 | 2023-07-23 | 16,045 | 331 |
 | 2023-07-24 | 16,126 | 333 |
-| 2023-07-25 | 16,146 | 334 |
+| 2023-07-25 | 16,148 | 334 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

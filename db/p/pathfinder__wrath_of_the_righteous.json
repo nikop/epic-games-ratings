@@ -3218,9 +3218,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10554,
+  "EOS_Progressed": 10555,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9233,6 +9233,11 @@
       "Time": "2023-07-25T05:02:32.9046474+00:00",
       "NumProgressed": 10554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T08:03:02.5468594+00:00",
+      "NumProgressed": 10555,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9244,7 +9249,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "02_BurningCity",
@@ -9380,7 +9385,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "19_EqualToAroden",
@@ -9444,7 +9449,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "28_GreatUpstart",
@@ -9492,7 +9497,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10171,21 +10176,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9336,
+      "Progressed": 9337,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10554,
+      "Progressed": 10555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-25T04:59:34.6819223+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:02:20.1395873+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:03:02.5468589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:59:12.1862275+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:02:20.1397493+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:59:01.0677442+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:03:02.5470176+00:00"
 }

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 28099,
+  "EOS_Progressed": 28318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28098,
+  "EOS_NewPlayers": 28317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-07-25T07:05:30.9868962+00:00",
       "NumProgressed": 28099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T08:05:16.8474484+00:00",
+      "NumProgressed": 28318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -440,9 +445,9 @@
       "ID": "Craft_Weapon_Mod_A",
       "SetID": "bkp3b1a",
       "Name": "Expanding Horizons",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 566
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -474,7 +479,7 @@
       "Name": "Only Human",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -490,7 +495,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -520,9 +525,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 85
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -544,9 +549,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 170
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -562,7 +567,7 @@
       "Name": "Quest for Survival",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 283
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -594,7 +599,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Meet_Meidra",
@@ -616,9 +621,9 @@
       "ID": "Meet_Nimue",
       "SetID": "bkp3b1a",
       "Name": "Blue Goddess",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 57
     },
     {
       "ID": "Obtain_Archetype",
@@ -626,23 +631,23 @@
       "Name": "First of Many",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 566
     },
     {
       "ID": "Obtain_Archetype_Dual",
       "SetID": "bkp3b1a",
       "Name": "Duality",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 283
     },
     {
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 227
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -664,9 +669,9 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 113
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -674,7 +679,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 283
     },
     {
       "ID": "Obtain_Guns_A",
@@ -728,9 +733,9 @@
       "ID": "Obtain_Scrap_A",
       "SetID": "bkp3b1a",
       "Name": "Scrap Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 57
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -746,7 +751,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 566
     },
     {
       "ID": "Obtain_Traits_B",
@@ -760,9 +765,9 @@
       "ID": "Obtain_Traits_C",
       "SetID": "bkp3b1a",
       "Name": "Proving Grounds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 28
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -784,25 +789,25 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 142
     },
     {
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 255
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 227
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -818,7 +823,7 @@
       "Name": "Trait Chaser",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 283
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -841,13 +846,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 28099,
+      "Progressed": 28318,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:05:30.9868955+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:05:16.8474479+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:03.8593105+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:01:16.9221474+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:05:30.9869312+00:00"
+  "LastUpdate_Ratings": "2023-07-25T08:00:56.3166755+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:05:16.8474825+00:00"
 }

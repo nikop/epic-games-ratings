@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6444,
+  "EOS_Progressed": 6445,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3657,6 +3657,11 @@
       "Time": "2023-07-25T06:06:07.4996687+00:00",
       "NumProgressed": 6444,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-25T08:05:28.966399+00:00",
+      "NumProgressed": 6445,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3796,7 +3801,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -3836,7 +3841,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3860,7 +3865,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3876,7 +3881,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4020,14 +4025,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6444,
+      "Progressed": 6445,
       "Completed": 8
     }
   ],
@@ -4035,8 +4040,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:05:44.5653921+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:05:28.9663984+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:58:07.0069629+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:05:44.5654337+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:58:04.1416314+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:05:28.9664385+00:00"
 }

@@ -1530,9 +1530,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24432,
+  "EOS_Progressed": 24434,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8580,6 +8580,11 @@
       "Time": "2023-07-25T06:04:37.270079+00:00",
       "NumProgressed": 24432,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-25T08:04:19.2782921+00:00",
+      "NumProgressed": 24434,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8591,7 +8596,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17835
+      "UsersEstimate": 17837
     },
     {
       "ID": "Animated",
@@ -8607,7 +8612,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8551
+      "UsersEstimate": 8552
     },
     {
       "ID": "Best_Insurance",
@@ -8615,7 +8620,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -8631,7 +8636,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10017
+      "UsersEstimate": 10018
     },
     {
       "ID": "Collect_Spores",
@@ -8639,7 +8644,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12460
+      "UsersEstimate": 12461
     },
     {
       "ID": "Collector",
@@ -8647,7 +8652,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Cultured",
@@ -8655,7 +8660,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12460
+      "UsersEstimate": 12461
     },
     {
       "ID": "Daily_Dose",
@@ -8663,7 +8668,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8307
+      "UsersEstimate": 8308
     },
     {
       "ID": "Diabolical",
@@ -8679,7 +8684,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14904
+      "UsersEstimate": 14905
     },
     {
       "ID": "Dont_Need_These",
@@ -8695,7 +8700,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Efficient",
@@ -8703,7 +8708,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15636
+      "UsersEstimate": 15638
     },
     {
       "ID": "Escape_Artist",
@@ -8727,7 +8732,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13193
+      "UsersEstimate": 13194
     },
     {
       "ID": "GB_In_Training",
@@ -8759,7 +8764,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Liability",
@@ -8815,7 +8820,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4153
+      "UsersEstimate": 4154
     },
     {
       "ID": "Rift_Destroyer",
@@ -8839,7 +8844,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Rivalry",
@@ -8879,7 +8884,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "Stunner",
@@ -8887,7 +8892,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Stylish",
@@ -8895,7 +8900,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21012
+      "UsersEstimate": 21013
     },
     {
       "ID": "Summoner",
@@ -8903,7 +8908,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Surprise",
@@ -8919,7 +8924,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13193
+      "UsersEstimate": 13194
     },
     {
       "ID": "Teamwork",
@@ -8927,7 +8932,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "Terrifying",
@@ -8951,7 +8956,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "Tobins_Prodigy",
@@ -8975,7 +8980,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11727
+      "UsersEstimate": 11728
     },
     {
       "ID": "Welcome_Crew",
@@ -8983,7 +8988,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "Whoopsie",
@@ -8998,7 +9003,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24432,
+      "Progressed": 24434,
       "Completed": 48
     }
   ],
@@ -9006,8 +9011,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-25T00:01:26.5531768+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:04:27.2259207+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:04:19.2782916+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:59:58.5515525+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:04:27.2259882+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:59:45.7791237+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:04:19.2783564+00:00"
 }

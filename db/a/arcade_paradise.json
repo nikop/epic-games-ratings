@@ -912,9 +912,9 @@
       "ID": "TrashTrophy",
       "SetID": "32aeje8",
       "Name": "Clean up on Aisle 9",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 264
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:03:49.5282103+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:03:54.7222475+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3712017+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:58:58.1728323+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:03:49.528249+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:58:49.0639939+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:03:54.7222877+00:00"
 }

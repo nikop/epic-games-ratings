@@ -6,33 +6,33 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~114,907 |
-| Where's that freaking Dwarf? | 47.00% | ~93,114 |
-| GG EZ | 28.00% | ~55,472 |
-| Speedrun | 26.00% | ~51,510 |
-| Déjà vu | 21.00% | ~41,604 |
-| Sock! SOCK! | 17.00% | ~33,680 |
-| DM intervention | 13.00% | ~25,755 |
-| Fireproof Wizardess | 9.00% | ~17,830 |
-| Livin' in a dwarven paradise | 7.00% | ~13,868 |
-| Way of the Wimp | 7.00% | ~13,868 |
-| A beer, two curses, three companions | 7.00% | ~13,868 |
-| The plot thickens... At the tavern | 5.00% | ~9,906 |
+| Alt+F4 | 58.00% | ~114,918 |
+| Where's that freaking Dwarf? | 47.00% | ~93,123 |
+| GG EZ | 28.00% | ~55,478 |
+| Speedrun | 26.00% | ~51,515 |
+| Déjà vu | 21.00% | ~41,608 |
+| Sock! SOCK! | 17.00% | ~33,683 |
+| DM intervention | 13.00% | ~25,757 |
+| Fireproof Wizardess | 9.00% | ~17,832 |
+| Livin' in a dwarven paradise | 7.00% | ~13,869 |
+| Way of the Wimp | 7.00% | ~13,869 |
+| A beer, two curses, three companions | 7.00% | ~13,869 |
+| The plot thickens... At the tavern | 5.00% | ~9,907 |
 | The Woman in the High Castle | 4.00% | ~7,925 |
 | I am the night | 4.00% | ~7,925 |
 | Team Building Exercise | 4.00% | ~7,925 |
-| Shiny and Crôm | 3.00% | ~5,943 |
-| The demons' feast | 3.00% | ~5,943 |
-| Res Judicata | 3.00% | ~5,943 |
-| The Ranger of Chaos | 3.00% | ~5,943 |
-| Oh, when I'll be level 10... | 3.00% | ~5,943 |
-| The Great Library | 2.00% | ~3,962 |
-| Torture and Sensibility | 2.00% | ~3,962 |
-| Dwarf Fortress | 2.00% | ~3,962 |
-| Look but don't touch | 2.00% | ~3,962 |
-| The beards of change | 2.00% | ~3,962 |
-| Thieves' Guild Accreditation | 2.00% | ~3,962 |
-| Material Girl | 2.00% | ~3,962 |
+| Shiny and Crôm | 3.00% | ~5,944 |
+| The demons' feast | 3.00% | ~5,944 |
+| Res Judicata | 3.00% | ~5,944 |
+| The Ranger of Chaos | 3.00% | ~5,944 |
+| Oh, when I'll be level 10... | 3.00% | ~5,944 |
+| The Great Library | 2.00% | ~3,963 |
+| Torture and Sensibility | 2.00% | ~3,963 |
+| Dwarf Fortress | 2.00% | ~3,963 |
+| Look but don't touch | 2.00% | ~3,963 |
+| The beards of change | 2.00% | ~3,963 |
+| Thieves' Guild Accreditation | 2.00% | ~3,963 |
+| Material Girl | 2.00% | ~3,963 |
 | Urik's Depths | 1.00% | ~1,981 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,981 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,981 |
@@ -49,9 +49,9 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.60% | ~1,189 |
 | I'd rather... Just... Sing! | 0.50% | ~991 |
 | The number of the counting shalt be 7 | 0.50% | ~991 |
-| Holistic Adventuring Party | 0.40% | ~792 |
-| Scholar of the Lands of Fangh | 0.40% | ~792 |
-| Friendly fire | 0.40% | ~792 |
+| Holistic Adventuring Party | 0.40% | ~793 |
+| Scholar of the Lands of Fangh | 0.40% | ~793 |
+| Friendly fire | 0.40% | ~793 |
 | Insult to injury | 0.30% | ~594 |
 | The Blood Countess | 0.20% | ~396 |
 | We come in peace | 0.20% | ~396 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,115 (Ranked 55)  
+Progressed: 198,134 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 195,737 | 0 |
 | 2023-07-23 | 196,973 | 0 |
 | 2023-07-24 | 197,920 | 0 |
-| 2023-07-25 | 198,115 | 0 |
+| 2023-07-25 | 198,134 | 0 |
 ## Awards
 Max (Character Customization): 134  (Ranked 303)  
 Sum: 134 (Ranked 396)  

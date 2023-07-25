@@ -6107,7 +6107,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468049,
+  "EOS_Progressed": 468050,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 0,
@@ -16022,6 +16022,11 @@
       "Time": "2023-07-25T07:05:03.8648276+00:00",
       "NumProgressed": 468049,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-25T08:04:52.7967108+00:00",
+      "NumProgressed": 468050,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -16177,7 +16182,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70207
+      "UsersEstimate": 70208
     },
     {
       "ID": "achievement_big_win",
@@ -16233,7 +16238,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 88929
+      "UsersEstimate": 88930
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -16281,7 +16286,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -16329,7 +16334,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88929
+      "UsersEstimate": 88930
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -16337,7 +16342,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "achievement_good_finance_control",
@@ -16401,7 +16406,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107651
+      "UsersEstimate": 107652
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -16449,7 +16454,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70207
+      "UsersEstimate": 70208
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -16457,7 +16462,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 163817
+      "UsersEstimate": 163818
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -16473,7 +16478,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88929
+      "UsersEstimate": 88930
     },
     {
       "ID": "achievement_pick_feeder",
@@ -16545,7 +16550,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70207
+      "UsersEstimate": 70208
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -16577,7 +16582,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 219983
+      "UsersEstimate": 219984
     },
     {
       "ID": "achievement_signed_a_player",
@@ -16585,7 +16590,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234024
+      "UsersEstimate": 234025
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -16593,7 +16598,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 107651
+      "UsersEstimate": 107652
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -16649,7 +16654,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70207
+      "UsersEstimate": 70208
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -16657,7 +16662,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "achievement_won_a_match",
@@ -16665,7 +16670,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234024
+      "UsersEstimate": 234025
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -16681,7 +16686,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "achievement_won_promotion",
@@ -16729,7 +16734,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 145095
+      "UsersEstimate": 145096
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -16816,15 +16821,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468049,
+      "Progressed": 468050,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-25T00:03:33.9250634+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:05:03.864827+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:04:52.7967105+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0444975+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:01:28.9037061+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:05:03.8649624+00:00"
+  "LastUpdate_Ratings": "2023-07-25T08:01:05.4847506+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:04:52.7968489+00:00"
 }

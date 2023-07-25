@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 196,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 95,
@@ -727,9 +727,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 32544,
+  "EOS_Progressed": 32546,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11057,6 +11057,11 @@
       "Time": "2023-07-25T07:03:43.9257754+00:00",
       "NumProgressed": 32544,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-25T08:03:49.4003221+00:00",
+      "NumProgressed": 32546,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11092,7 +11097,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "distance500000",
@@ -11108,7 +11113,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "goals180",
@@ -11276,7 +11281,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "sandboarder",
@@ -11379,15 +11384,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32544,
+      "Progressed": 32546,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-23T17:00:52.7319174+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:03:43.9257748+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:03:49.4003214+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-25T07:00:15.8770985+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:03:43.9258464+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:59:59.7063496+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:03:49.4003927+00:00"
 }

@@ -8,13 +8,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,153 |
 | Beast Intentions | 1.00% | ~2,153 |
-| Maddening | 0.80% | ~1,722 |
+| Maddening | 0.80% | ~1,723 |
 | The Silken Swamp | 0.60% | ~1,292 |
-| Supply Run | 0.50% | ~1,077 |
-| Rocky Reception | 0.50% | ~908 |
+| Supply Run | 0.60% | ~1,292 |
+| Rocky Reception | 0.60% | ~1,090 |
+| Vecna Lives! | 0.50% | ~908 |
 | Rock and Roll | 0.50% | ~908 |
 | Tall Tales | 0.40% | ~726 |
-| Vecna Lives! | 0.40% | ~726 |
 | Vecna Loots! | 0.40% | ~726 |
 | Flight of the Kindori Pod | 0.40% | ~726 |
 | Topolah's Tower | 0.40% | ~726 |
@@ -23,9 +23,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.30% | ~646 |
 | Hatchlings Underfoot | 0.30% | ~646 |
 | Don't Look Up! | 0.30% | ~646 |
+| Heavy Burden | 0.30% | ~646 |
 | Seeds of Destruction | 0.30% | ~545 |
 | Return to the Tomb | 0.30% | ~545 |
 | Heatwave | 0.30% | ~545 |
+| The Dread Domain of Tovag | 0.30% | ~545 |
 | The Champion's Guide to Wildspace | 0.30% | ~545 |
 | Not That Type of Helm! | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
@@ -36,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.20% | ~431 |
 | Thieves of the Coven | 0.20% | ~363 |
 | Hither of the Feywild | 0.20% | ~363 |
-| Heavy Burden | 0.20% | ~431 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
 | The Evacuation of Waterdeep | 0.20% | ~363 |
@@ -44,9 +45,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
 | Friends of the Forest | 0.20% | ~431 |
-| The Dread Domain of Tovag | 0.20% | ~363 |
 | Were-verpowered | 0.20% | ~431 |
 | Homecoming | 0.20% | ~431 |
+| The Lost Heir of Omu | 0.20% | ~431 |
 | A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
 | Welcome to the Rock | 0.20% | ~363 |
@@ -57,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~431 |
 | Building Trust | 0.20% | ~431 |
 | March of the Undead | 0.20% | ~431 |
+| Wisdom Check | 0.20% | ~431 |
 | Unearthed Evil | 0.20% | ~431 |
 | No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
@@ -175,7 +177,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~215 |
 | Struggling Toward Omu | 0.10% | ~215 |
 | Wagon Train | 0.10% | ~215 |
-| The Lost Heir of Omu | 0.10% | ~215 |
 | Not Very Charming | 0.10% | ~215 |
 | Lobsterfolk Assault | 0.10% | ~215 |
 | Taking Responsibility | 0.10% | ~215 |
@@ -199,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~215 |
 | Force Grey Unleashed | 0.10% | ~215 |
 | Vajra's Guards | 0.10% | ~215 |
-| Wisdom Check | 0.10% | ~215 |
 | Sleuth It Out | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
 | A Grand Puzzle | 0.10% | ~215 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,311 (Ranked 53)  
-Completed: 2,094 (0.97%) (Ranked 107)  
+Progressed: 215,316 (Ranked 53)  
+Completed: 2,095 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,094 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,311 | 2,094 |
+| 2023-07-25 | 215,316 | 2,095 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

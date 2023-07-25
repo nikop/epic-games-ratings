@@ -5,9 +5,9 @@
   "Ranking_Rating": 65,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 79,
-  "Ranking_EOS_Progress": 19,
+  "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5254,18 +5254,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10805,
       "NumberOfAwardsMax": 6299
+    },
+    {
+      "Time": "2023-07-25T07:59:40.3430501+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10809,
+      "NumberOfAwardsMax": 6303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10805,
-  "NumberOfAwardsMax": 6299,
+  "NumberOfAwards": 10809,
+  "NumberOfAwardsMax": 6303,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6299
+      "Count": 6303
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5334,9 +5340,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711433,
+  "EOS_Progressed": 711441,
   "EOS_Completed": 12831,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14314,6 +14320,11 @@
       "Time": "2023-07-25T07:07:43.2479216+00:00",
       "NumProgressed": 711433,
       "NumCompleted": 12831
+    },
+    {
+      "Time": "2023-07-25T08:07:14.8643846+00:00",
+      "NumProgressed": 711441,
+      "NumCompleted": 12831
     }
   ],
   "TotalAchievements": 50,
@@ -14661,7 +14672,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -14724,21 +14735,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20734,
+      "Progressed": 20742,
       "Completed": 10441
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711433,
+      "Progressed": 711441,
       "Completed": 12831
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-24T19:00:08.0519874+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:07:43.2479212+00:00",
+  "LastChanged": "2023-07-25T07:59:40.3430499+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:07:14.8643842+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:59:52.8069058+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:07:43.2479952+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:59:40.3430505+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:07:14.8644602+00:00"
 }

@@ -25,9 +25,443 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-25T08:03:39.2941151+00:00",
+  "TotalAchievements": 54,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Hero01",
+      "SetID": "17olomo",
+      "Name": "Free Swordsman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero02",
+      "SetID": "17olomo",
+      "Name": "Wilderness Guard",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero03",
+      "SetID": "17olomo",
+      "Name": "Archer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero04",
+      "SetID": "17olomo",
+      "Name": "Fairy Witch",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero05",
+      "SetID": "17olomo",
+      "Name": "Priest of Sacrifice",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero06",
+      "SetID": "17olomo",
+      "Name": "Poisonous Shooter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero07",
+      "SetID": "17olomo",
+      "Name": "Reaper",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero08",
+      "SetID": "17olomo",
+      "Name": "Master Swordsman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero09",
+      "SetID": "17olomo",
+      "Name": "Armored Knight",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero10",
+      "SetID": "17olomo",
+      "Name": "Emerald Dragon Girl",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero11",
+      "SetID": "17olomo",
+      "Name": "Demon Slayer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero12",
+      "SetID": "17olomo",
+      "Name": "Holy Lord",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero13",
+      "SetID": "17olomo",
+      "Name": "Barbarian",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero14",
+      "SetID": "17olomo",
+      "Name": "Berserker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero15",
+      "SetID": "17olomo",
+      "Name": "Dreamwalker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero16",
+      "SetID": "17olomo",
+      "Name": "Elf Shooter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero17",
+      "SetID": "17olomo",
+      "Name": "Heart of Manticore",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero18",
+      "SetID": "17olomo",
+      "Name": "Archangel",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero19",
+      "SetID": "17olomo",
+      "Name": "Ice Prince",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero20",
+      "SetID": "17olomo",
+      "Name": "Plague Princess",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero21",
+      "SetID": "17olomo",
+      "Name": "Priest of Light",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero22",
+      "SetID": "17olomo",
+      "Name": "Blessingheart",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero23",
+      "SetID": "17olomo",
+      "Name": "Prophet",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero24",
+      "SetID": "17olomo",
+      "Name": "Iceshard Witch",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero25",
+      "SetID": "17olomo",
+      "Name": "Queen of the Sun",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero26",
+      "SetID": "17olomo",
+      "Name": "Thunder Mech",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero27",
+      "SetID": "17olomo",
+      "Name": "Celestial Herald",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero28",
+      "SetID": "17olomo",
+      "Name": "Chrono-Rogue",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero29",
+      "SetID": "17olomo",
+      "Name": "Death Knight",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero30",
+      "SetID": "17olomo",
+      "Name": "Ghost Housekeeper",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero31",
+      "SetID": "17olomo",
+      "Name": "Devil Fox",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero32",
+      "SetID": "17olomo",
+      "Name": "Forest Goddess",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero33",
+      "SetID": "17olomo",
+      "Name": "Strange Doctor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero34",
+      "SetID": "17olomo",
+      "Name": "Travelling Poet",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero35",
+      "SetID": "17olomo",
+      "Name": "Gladiator",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero36",
+      "SetID": "17olomo",
+      "Name": "Nightstalker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero37",
+      "SetID": "17olomo",
+      "Name": "Queen of Darkness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero38",
+      "SetID": "17olomo",
+      "Name": "Guardian Tree",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero39",
+      "SetID": "17olomo",
+      "Name": "Flame Fox",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero40",
+      "SetID": "17olomo",
+      "Name": "Onmyouji",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero41",
+      "SetID": "17olomo",
+      "Name": "The Meow King",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero42",
+      "SetID": "17olomo",
+      "Name": "Light Guardian",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero43",
+      "SetID": "17olomo",
+      "Name": "Moon Rabbit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero44",
+      "SetID": "17olomo",
+      "Name": "Shadow of Succubus",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero45",
+      "SetID": "17olomo",
+      "Name": "Super Star",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero46",
+      "SetID": "17olomo",
+      "Name": "Librarian",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero47",
+      "SetID": "17olomo",
+      "Name": "Chrono Boy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero48",
+      "SetID": "17olomo",
+      "Name": "Desolate Rider",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero49",
+      "SetID": "17olomo",
+      "Name": "Maid of Tides",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero50",
+      "SetID": "17olomo",
+      "Name": "Dragonborn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero51",
+      "SetID": "17olomo",
+      "Name": "Darkelf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero52",
+      "SetID": "17olomo",
+      "Name": "Flowery Fairy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero53",
+      "SetID": "17olomo",
+      "Name": "Windblade Dancer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hero54",
+      "SetID": "17olomo",
+      "Name": "Knight of the Knitting Wool",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "17olomo",
@@ -37,8 +471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T07:01:34.2359081+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:03:32.574071+00:00",
-  "LastUpdate_AppInfo": "2023-07-18T06:57:00.3357374+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:57:00.1941247+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:03:32.5740733+00:00"
+  "LastChanged_Achievements": "2023-07-25T08:03:39.2941135+00:00",
+  "LastUpdate_AppInfo": "2023-07-25T07:57:00.3506986+00:00",
+  "LastUpdate_Ratings": "2023-07-25T07:57:06.6484069+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:03:39.2941499+00:00"
 }

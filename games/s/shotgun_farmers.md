@@ -42,8 +42,8 @@
 | I Have The High Ground | 4.00% | ~9 |
 | Master Survivor | 3.00% | ~5 |
 | Heart Breaker | 3.00% | ~5 |
+| 15 Days | 2.00% | ~5 |
 | Easy Peasy | 2.00% | ~4 |
-| 15 Days | 1.00% | ~2 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
 | Pro Pyromancer | 0.90% | ~2 |

@@ -1348,9 +1348,9 @@
       "ID": "ACH_COLL_CH07",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VII",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -1652,8 +1652,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-25T07:05:43.9080257+00:00",
+  "LastChanged_Achievements": "2023-07-25T08:05:28.3725164+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.8323679+00:00",
-  "LastUpdate_Ratings": "2023-07-25T06:58:01.3216359+00:00",
-  "LastUpdate_Achievements": "2023-07-25T07:05:43.9080693+00:00"
+  "LastUpdate_Ratings": "2023-07-25T07:57:59.0746448+00:00",
+  "LastUpdate_Achievements": "2023-07-25T08:05:28.3725631+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~26,894 |
-| Just The Two of Us | 32.00% | ~25,312 |
-| Up On High | 25.00% | ~19,775 |
-| Under The Hood | 25.00% | ~19,775 |
-| Got Your Nose | 24.00% | ~18,984 |
-| The Gift of Gab | 24.00% | ~18,984 |
-| Wrapping Up | 22.00% | ~17,402 |
-| More Than A Box Of Sand | 18.00% | ~14,238 |
-| The Dunboyne | 17.00% | ~13,447 |
-| Badge Hobbyist | 17.00% | ~13,447 |
-| Chum Novice | 16.00% | ~12,656 |
-| Silver-Tongued Sable | 16.00% | ~12,656 |
-| Sticky Paws | 16.00% | ~12,656 |
-| Bubble Up | 16.00% | ~12,656 |
-| Thread The Needle | 15.00% | ~11,865 |
-| Power to the People | 14.00% | ~11,074 |
-| Take That! | 13.00% | ~10,283 |
-| Nesting Giant | 13.00% | ~10,283 |
-| Treasure Tracker | 13.00% | ~10,283 |
-| Big Spender | 13.00% | ~10,283 |
-| Badge Collector | 12.00% | ~9,492 |
-| Quite The Catch | 12.00% | ~9,492 |
-| Rowleys Way | 11.00% | ~8,701 |
-| The Machinist Mask | 10.00% | ~7,910 |
-| The Cartographer Mask | 10.00% | ~7,910 |
-| Balfron Connection | 10.00% | ~7,910 |
-| Ceiling Of Stars | 10.00% | ~7,910 |
-| Playing Dress Up | 10.00% | ~7,910 |
-| Many Different Faces | 9.00% | ~7,119 |
-| Trellick's Pillar | 9.00% | ~7,119 |
-| Centre Of Brunswick | 9.00% | ~7,119 |
-| Bike Collector | 9.00% | ~7,119 |
-| Not That Kind Of Gliding | 9.00% | ~7,119 |
-| The Scrapper Mask | 8.00% | ~6,328 |
-| Shadow Of Neave | 8.00% | ~6,328 |
-| Fragile Goods | 8.00% | ~6,328 |
-| Glider on the Storm | 8.00% | ~6,328 |
-| Squeeze One Out | 8.00% | ~6,328 |
-| Dune Rider | 8.00% | ~6,328 |
-| The Beetle Mask | 7.00% | ~5,537 |
-| The Guard Mask | 7.00% | ~5,537 |
-| Smoked Out | 7.00% | ~5,537 |
+| Simoon | 34.00% | ~26,897 |
+| Just The Two of Us | 32.00% | ~25,315 |
+| Up On High | 25.00% | ~19,777 |
+| Under The Hood | 25.00% | ~19,777 |
+| Got Your Nose | 24.00% | ~18,986 |
+| The Gift of Gab | 24.00% | ~18,986 |
+| Wrapping Up | 22.00% | ~17,404 |
+| More Than A Box Of Sand | 18.00% | ~14,239 |
+| The Dunboyne | 17.00% | ~13,448 |
+| Badge Hobbyist | 17.00% | ~13,448 |
+| Chum Novice | 16.00% | ~12,657 |
+| Silver-Tongued Sable | 16.00% | ~12,657 |
+| Sticky Paws | 16.00% | ~12,657 |
+| Bubble Up | 16.00% | ~12,657 |
+| Thread The Needle | 15.00% | ~11,866 |
+| Power to the People | 14.00% | ~11,075 |
+| Take That! | 13.00% | ~10,284 |
+| Nesting Giant | 13.00% | ~10,284 |
+| Treasure Tracker | 13.00% | ~10,284 |
+| Big Spender | 13.00% | ~10,284 |
+| Badge Collector | 12.00% | ~9,493 |
+| Quite The Catch | 12.00% | ~9,493 |
+| Rowleys Way | 11.00% | ~8,702 |
+| The Machinist Mask | 10.00% | ~7,911 |
+| The Cartographer Mask | 10.00% | ~7,911 |
+| Balfron Connection | 10.00% | ~7,911 |
+| Ceiling Of Stars | 10.00% | ~7,911 |
+| Playing Dress Up | 10.00% | ~7,911 |
+| Many Different Faces | 9.00% | ~7,120 |
+| Trellick's Pillar | 9.00% | ~7,120 |
+| Centre Of Brunswick | 9.00% | ~7,120 |
+| Bike Collector | 9.00% | ~7,120 |
+| Not That Kind Of Gliding | 9.00% | ~7,120 |
+| The Scrapper Mask | 8.00% | ~6,329 |
+| Shadow Of Neave | 8.00% | ~6,329 |
+| Fragile Goods | 8.00% | ~6,329 |
+| Glider on the Storm | 8.00% | ~6,329 |
+| Squeeze One Out | 8.00% | ~6,329 |
+| Dune Rider | 8.00% | ~6,329 |
+| The Beetle Mask | 7.00% | ~5,538 |
+| The Guard Mask | 7.00% | ~5,538 |
+| Smoked Out | 7.00% | ~5,538 |
 | Amateur Historian | 6.00% | ~4,746 |
 | The Climber Mask | 6.00% | ~4,746 |
 | The Merchant Mask | 6.00% | ~4,746 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,373 |
 | Vivacious Vivarium | 2.00% | ~1,582 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,101 (Ranked 73)  
+Progressed: 79,108 (Ranked 73)  
 Completed: 771 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 771 (0.97%) (Ranked 107)
 | 2023-07-22 | 78,587 | 763 |
 | 2023-07-23 | 78,823 | 766 |
 | 2023-07-24 | 79,042 | 771 |
-| 2023-07-25 | 79,101 | 771 |
+| 2023-07-25 | 79,108 | 771 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 502)  
 Sum: 20 (Ranked 502)  
