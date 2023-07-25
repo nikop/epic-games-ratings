@@ -23,7 +23,7 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.42% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.99% |
+| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.95% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.82% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -68,8 +68,8 @@
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 69 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.70% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
 | 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -106,9 +106,9 @@
 | 104 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
+| 107 | [Adios](games/a/adios.md) | 0.98% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 108 | [Adios](games/a/adios.md) | 0.97% |
-| 108 | [Sable](games/s/sable.md) | 0.97% |
+| 107 | [Sable](games/s/sable.md) | 0.98% |
 | 110 | [Hades](games/h/hades.md) | 0.89% |
 | 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
@@ -508,4 +508,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,945 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,946 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
