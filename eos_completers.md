@@ -40,7 +40,7 @@
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.33% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 43 | [JARS](games/j/jars.md) | 4.84% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
@@ -83,7 +83,7 @@
 | 81 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 83 | [Night Book](games/n/night_book.md) | 1.91% |
-| 84 | [Frogun](games/f/frogun.md) | 1.89% |
+| 84 | [Frogun](games/f/frogun.md) | 1.88% |
 | 85 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 86 | [Sifu](games/s/sifu.md) | 1.80% |
 | 87 | [Iron Danger](games/i/iron_danger.md) | 1.71% |
@@ -508,4 +508,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,939 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,940 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
