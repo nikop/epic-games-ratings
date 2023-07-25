@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "05_TimeCapsule",
@@ -353,9 +353,9 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "28_Act2",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:03:47.6443696+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:16:28.2178633+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:28.5089787+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:58:56.6353693+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:03:47.6443951+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:11:43.0628571+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:16:28.2178999+00:00"
 }

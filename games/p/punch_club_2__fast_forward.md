@@ -10,20 +10,20 @@
 | First winning | 85.00% | ~120 |
 | Your first job | 85.00% | ~120 |
 | First defeat | 80.00% | ~113 |
-| Old movies enjoyer | 77.00% | ~109 |
-| Fitness professional | 76.00% | ~107 |
+| Old movies enjoyer | 78.00% | ~110 |
+| Fitness professional | 77.00% | ~109 |
 | Depressed visitor | 76.00% | ~107 |
+| Employee of the week | 76.00% | ~107 |
 | Neurotrainer – power gainer! | 75.00% | ~106 |
-| Employee of the week | 74.00% | ~104 |
-| Your own amateur gym | 70.00% | ~99 |
+| Your own amateur gym | 71.00% | ~100 |
 | Run K, run! | 67.00% | ~94 |
 | No bullying more | 66.00% | ~93 |
 | Hello, world! | 65.00% | ~92 |
+| Fighting is cool | 62.00% | ~87 |
 | Intriguing candies | 62.00% | ~87 |
-| Fighting is cool | 61.00% | ~86 |
-| Pal of your father? | 56.00% | ~79 |
-| Employee of the month | 55.00% | ~78 |
-| Spirit of the past | 54.00% | ~76 |
+| Pal of your father? | 57.00% | ~80 |
+| Employee of the month | 57.00% | ~80 |
+| Spirit of the past | 55.00% | ~78 |
 | Little hacker | 52.00% | ~73 |
 | Workout professional | 50.00% | ~70 |
 | Law student | 50.00% | ~70 |
@@ -35,7 +35,7 @@
 | It's good to be alive | 43.00% | ~61 |
 | Own four walls | 43.00% | ~61 |
 | Extreme neuropower! | 42.00% | ~59 |
-| Legal courier | 39.00% | ~55 |
+| Legal courier | 40.00% | ~56 |
 | Now you are worthy | 36.00% | ~51 |
 | Escaped from a big trouble | 33.00% | ~47 |
 | No blades in the gym | 30.00% | ~42 |
@@ -43,17 +43,17 @@
 | Mysterious voice | 29.00% | ~41 |
 | Responsible approach | 28.00% | ~39 |
 | Fight is life | 27.00% | ~38 |
+| Deal with life | 26.00% | ~37 |
+| Champion – no way back | 26.00% | ~37 |
 | Get out of my apartment! | 26.00% | ~37 |
-| Deal with life | 25.00% | ~35 |
-| Champion – no way back | 25.00% | ~35 |
-| Underground dwellers | 25.00% | ~35 |
+| Underground dwellers | 26.00% | ~37 |
 | Mom got better | 24.00% | ~34 |
 | The die is cast | 24.00% | ~34 |
-| Seashell hunter | 23.00% | ~32 |
+| Seashell hunter | 24.00% | ~34 |
 | Gang wrangler | 22.00% | ~31 |
 | Anyone can resist | 22.00% | ~31 |
-| GYM professional | 20.00% | ~28 |
-| Poisoned fighter | 20.00% | ~28 |
+| GYM professional | 21.00% | ~30 |
+| Poisoned fighter | 21.00% | ~30 |
 | The last bell ring | 19.00% | ~27 |
 | Problems of cyborgs | 18.00% | ~25 |
 | Undercover robot | 18.00% | ~25 |

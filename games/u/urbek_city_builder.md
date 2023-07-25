@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 64.00% | ~184 |
-| I like parks | 53.00% | ~152 |
-| It is nice to share with friends in the city | 28.00% | ~80 |
+| I like parks | 52.00% | ~150 |
+| It is nice to share with friends in the city | 28.00% | ~81 |
 | Sport is good for you | 26.00% | ~75 |
 | The spiritual world... | 23.00% | ~66 |
 | The woodcutter | 23.00% | ~66 |
-| I like books | 20.00% | ~57 |
-| I like my life | 20.00% | ~57 |
+| I like books | 20.00% | ~58 |
+| I like my life | 20.00% | ~58 |
 | Soviet town | 19.00% | ~55 |
 | Clean energy | 17.00% | ~49 |
 | Bucolic city | 14.00% | ~40 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 251)  
+Progressed: 288 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 283 | 0 |
 | 2023-07-23 | 285 | 0 |
 | 2023-07-24 | 287 | 0 |
+| 2023-07-25 | 288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

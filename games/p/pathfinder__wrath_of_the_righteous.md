@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 21.00% | ~2,218 |
 | A Spark | 15.00% | ~1,584 |
-| Burning City | 14.00% | ~1,478 |
+| Burning City | 14.00% | ~1,479 |
 | Mythic Choices | 12.00% | ~1,267 |
 | Defender's Heart | 12.00% | ~1,267 |
 | Banner over the Citadel | 11.00% | ~1,162 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,560 (Ranked 118)  
+Progressed: 10,561 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 10,494 | 0 |
 | 2023-07-23 | 10,524 | 0 |
 | 2023-07-24 | 10,551 | 0 |
-| 2023-07-25 | 10,560 | 0 |
+| 2023-07-25 | 10,561 | 0 |
 ## Awards
 Max (Character Customization): 1,690  (Ranked 117)  
-Sum: 6,838 (Ranked 115)  
+Sum: 6,839 (Ranked 115)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 642 |
 | This game is Highly Recommended | 626 |
 | This game has Amazing Characters | 622 |
-| This game has Diverse Characters | 609 |
+| This game has Diverse Characters | 610 |
 | This game has Amazing Storytelling | 602 |
 | This game has Challenging Combat | 565 |
 | This game has Quickly Understood Controls | 561 |
@@ -414,4 +414,4 @@ Diff (max vs sum): 2
 | 2023-07-21 | 4.76 | - | 1,686 | 6,829 |
 | 2023-07-23 | 4.76 | - | 1,689 | 6,833 |
 | 2023-07-24 | 4.76 | - | 1,689 | 6,834 |
-| 2023-07-25 | 4.76 | - | 1,690 | 6,838 |
+| 2023-07-25 | 4.76 | - | 1,690 | 6,839 |

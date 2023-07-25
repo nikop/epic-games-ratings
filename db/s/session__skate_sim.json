@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2605,
+  "EOS_Progressed": 2606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3438,6 +3438,11 @@
       "Time": "2023-07-25T12:03:28.2417721+00:00",
       "NumProgressed": 2605,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T13:16:11.4318943+00:00",
+      "NumProgressed": 2606,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3601,7 +3606,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3665,7 +3670,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -3751,9 +3756,9 @@
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
       "SetID": "72olkc5",
       "Name": "The finer things in life",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3761,7 +3766,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -3769,7 +3774,7 @@
       "Name": "The hard way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -3832,15 +3837,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2605,
+      "Progressed": 2606,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:03:28.2417715+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:16:11.4318936+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-25T12:00:43.2652038+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:03:28.2418258+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:13:24.5120872+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:16:11.4319722+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.51,
+  "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -211,6 +211,11 @@
       "Time": "2023-07-24T16:03:40.0123746+00:00",
       "NumProgressed": 228,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-25T13:15:07.7332693+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -222,7 +227,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "605742",
@@ -236,17 +241,17 @@
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "605762",
       "SetID": "4lpaifm",
       "Name": "Creator of Humanity",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "605772",
@@ -262,7 +267,7 @@
       "Name": "Creator of Technology",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "605792",
@@ -270,7 +275,7 @@
       "Name": "Creator of Modernity",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "605802",
@@ -308,9 +313,9 @@
       "ID": "605842",
       "SetID": "4lpaifm",
       "Name": "God of Patience",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "605852",
@@ -342,7 +347,7 @@
       "Name": "Similar to Similar",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "605912",
@@ -372,9 +377,9 @@
       "ID": "610001",
       "SetID": "4lpaifm",
       "Name": "Salvation!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "740512",
@@ -382,7 +387,7 @@
       "Name": "Honorable Santa",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "844452",
@@ -397,7 +402,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 8
     }
   ],
@@ -405,8 +410,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:02:38.2474916+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:15:07.7332688+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.2697094+00:00",
-  "LastUpdate_Ratings": "2023-07-25T12:01:05.3678344+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:02:38.2475104+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:13:45.1093359+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:15:07.7332928+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it begins | 96.00% | ~103 |
-| Good to grow | 60.00% | ~64 |
+| Good to grow | 61.00% | ~65 |
 | Fashionista | 42.00% | ~45 |
 | Irrigation not irritation | 37.00% | ~40 |
 | Graduated | 34.00% | ~36 |
@@ -19,7 +19,7 @@
 | Holy Crops! | 7.00% | ~7 |
 | It gets everywhere | 7.00% | ~7 |
 | Do you wanna build a snowboiii? | 6.00% | ~6 |
-| Peaceful skies | 4.00% | ~4 |
+| Peaceful skies | 5.00% | ~5 |
 | Groovy! | 4.00% | ~4 |
 | It's a bug's life | 3.00% | ~3 |
 | Homecoming | 2.00% | ~2 |

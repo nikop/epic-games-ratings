@@ -11,6 +11,7 @@
 | Make Up For Lost Time | 16.00% | ~126 |
 | No, Thanks! | 16.00% | ~126 |
 | Breaking Down Barriers | 16.00% | ~126 |
+| The Wicked Twins | 16.00% | ~126 |
 | The Prince in Heels | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
@@ -19,7 +20,6 @@
 | The Loose Cannon | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
-| The Wicked Twins | 15.00% | ~118 |
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | The Family Fortune | 15.00% | ~118 |
@@ -32,8 +32,8 @@
 | Right On Time | 13.00% | ~102 |
 | Street Style | 12.00% | ~94 |
 | Whiz Kid | 11.00% | ~86 |
+| Chaincrawler Explorer | 10.00% | ~79 |
 | Good Neighbor | 10.00% | ~79 |
-| Chaincrawler Explorer | 9.00% | ~71 |
 | Family Memories | 9.00% | ~71 |
 | Theater Explorer | 9.00% | ~71 |
 | Fairgrounds Explorer | 8.00% | ~63 |
@@ -46,9 +46,9 @@
 | Corin Goes Home | 6.00% | ~47 |
 | Sartorialist | 6.00% | ~47 |
 | Golem Hunter | 5.00% | ~39 |
+| Rungs Was Right | 5.00% | ~39 |
 | Clovemary for Remembering | 4.00% | ~31 |
 | Hexlock for Protection | 4.00% | ~31 |
-| Rungs Was Right | 4.00% | ~31 |
 | Wunderkind | 2.00% | ~16 |
 | Fitting In | 2.00% | ~16 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |

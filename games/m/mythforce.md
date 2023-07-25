@@ -10,8 +10,8 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 9.00% | ~24 |
 | Flawless Victory | 9.00% | ~24 |
 | That'll Leave a Mark | 9.00% | ~24 |
-| Hit 'Em Where It Hurts | 8.00% | ~21 |
-| Perk Shard Punch Card | 8.00% | ~21 |
+| Hit 'Em Where It Hurts | 8.00% | ~22 |
+| Perk Shard Punch Card | 8.00% | ~22 |
 | Debuff Dogpile | 7.00% | ~19 |
 | Next Time on MythForce... | 7.00% | ~19 |
 | Spending Spree | 7.00% | ~19 |
@@ -20,8 +20,8 @@ Number of Ratings: 285  (23.09.2022)
 | Everything Must Go! | 6.00% | ~16 |
 | Mushroom Madness! | 6.00% | ~16 |
 | On this Episode! | 6.00% | ~16 |
-| Deadication | 5.00% | ~13 |
-| Horder Better Faster Stronger | 5.00% | ~13 |
+| Deadication | 5.00% | ~14 |
+| Horder Better Faster Stronger | 5.00% | ~14 |
 | The Fourth Gate | 4.00% | ~11 |
 | The Harder They Fall | 4.00% | ~11 |
 | Season Finale | 3.00% | ~8 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 254)  
+Progressed: 270 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
-| 2023-07-25 | 268 | 0 |
+| 2023-07-25 | 270 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

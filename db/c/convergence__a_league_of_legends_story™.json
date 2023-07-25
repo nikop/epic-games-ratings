@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 79
     },
     {
       "ID": "ChestCompletion1",
@@ -2035,9 +2035,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "PidgeDefeated",
@@ -2083,9 +2083,9 @@
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "SkillProgress1",
@@ -2194,8 +2194,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:04:38.4820716+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:17:03.2217036+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-25T12:00:58.4753171+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:04:38.4821252+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:13:38.0864438+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:17:03.2218087+00:00"
 }

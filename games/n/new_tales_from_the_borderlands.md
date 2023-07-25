@@ -27,12 +27,12 @@ Rating: 4.09 (Ranked 895)
 | Bring back the butt! | 4.00% | ~140 |
 | Hey, thanks! | 4.00% | ~140 |
 | Murderous Mascot Mayhem | 3.00% | ~105 |
-| New Business | 0.90% | ~31 |
-| Okay, Vain Much? | 0.50% | ~17 |
+| New Business | 0.90% | ~32 |
+| Okay, Vain Much? | 0.50% | ~18 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 147)  
+Progressed: 3,500 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 3,492 | 0 |
 | 2023-07-23 | 3,495 | 0 |
 | 2023-07-24 | 3,499 | 0 |
+| 2023-07-25 | 3,500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

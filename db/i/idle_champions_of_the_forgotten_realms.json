@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215364,
-  "EOS_Completed": 2101,
-  "EOS_NewPlayers": 2349,
-  "EOS_NewCompleters": 43,
+  "EOS_Progressed": 215383,
+  "EOS_Completed": 2102,
+  "EOS_NewPlayers": 2346,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15541,6 +15541,11 @@
       "Time": "2023-07-25T12:08:26.9668357+00:00",
       "NumProgressed": 215364,
       "NumCompleted": 2101
+    },
+    {
+      "Time": "2023-07-25T13:20:31.990116+00:00",
+      "NumProgressed": 215383,
+      "NumCompleted": 2102
     }
   ],
   "TotalAchievements": 512,
@@ -15566,9 +15571,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_101",
@@ -15854,9 +15859,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1723
     },
     {
       "ID": "objective_completed_1090",
@@ -15928,7 +15933,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_1100",
@@ -15982,9 +15987,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_1111",
@@ -16262,9 +16267,9 @@
       "ID": "objective_completed_1169",
       "SetID": "415jc5c",
       "Name": "Well Equipped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_117",
@@ -16526,9 +16531,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_130",
@@ -16966,9 +16971,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_231",
@@ -19574,9 +19579,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_1376",
@@ -19647,21 +19652,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181638,
-      "Completed": 2958
+      "Progressed": 181657,
+      "Completed": 2961
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215364,
-      "Completed": 2101
+      "Progressed": 215383,
+      "Completed": 2102
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:08:26.966835+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:20:31.9901154+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:59:20.6477019+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:08:26.9696178+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:12:07.6007486+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:20:31.9933791+00:00"
 }

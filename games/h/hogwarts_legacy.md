@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,621 |
-| First Class Student | 11.00% | ~31,736 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,622 |
+| First Class Student | 11.00% | ~31,737 |
 | A Keen Sense of Spell | 10.00% | ~28,851 |
 | Troll with the Punches | 10.00% | ~28,851 |
 | Grappling with a Graphorn | 9.00% | ~25,966 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,426 |
 | Third Time's a Charm | 5.00% | ~14,426 |
 | Raising Expectations | 5.00% | ~14,426 |
-| The Toast of the Town | 4.00% | ~11,540 |
-| The Ends Petrify the Means | 4.00% | ~11,540 |
+| The Toast of the Town | 4.00% | ~11,541 |
+| The Ends Petrify the Means | 4.00% | ~11,541 |
 | Going Through the Potions | 3.00% | ~8,655 |
 | Room with a View | 3.00% | ~8,655 |
 | The Intrepid Explorer | 3.00% | ~8,655 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,512 (Ranked 42)  
+Progressed: 288,514 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,14 +147,14 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
-| 2023-07-25 | 288,512 | 434 |
+| 2023-07-25 | 288,514 | 434 |
 ## Awards
-Max (Character Customization): 21,242  (Ranked 17)  
-Sum: 39,849 (Ranked 30)  
+Max (Character Customization): 21,271  (Ranked 17)  
+Sum: 39,878 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,242 |
+| This game has Inclusive Character Customization | 21,271 |
 | This game has Great Boss Battles | 10,216 |
 | This game is Great for Beginners | 937 |
 | This game is Extremely Fun | 917 |
@@ -292,4 +292,4 @@ Diff (max vs sum): -13
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
-| 2023-07-25 | 4.77 | 21,242 | 39,849 |
+| 2023-07-25 | 4.77 | 21,271 | 39,878 |

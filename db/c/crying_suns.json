@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463748,
+  "EOS_Progressed": 463750,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10397,6 +10397,11 @@
       "Time": "2023-07-25T12:04:31.8723126+00:00",
       "NumProgressed": 463748,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-25T13:16:57.410018+00:00",
+      "NumProgressed": 463750,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10408,7 +10413,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -10416,7 +10421,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_first_death",
@@ -10440,7 +10445,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -10448,7 +10453,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -10560,7 +10565,7 @@
       "Name": "Tetsuo",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -10576,7 +10581,7 @@
       "Name": "Pope Zenon",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_story_neon_child",
@@ -11039,21 +11044,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7682,
+      "Progressed": 7684,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463748,
+      "Progressed": 463750,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:04:31.8723119+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:16:57.4100174+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-25T12:00:54.0178011+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:04:31.8724774+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:13:33.8890734+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:16:57.4103201+00:00"
 }

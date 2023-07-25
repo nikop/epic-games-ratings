@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5362,18 +5362,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39849,
       "NumberOfAwardsMax": 21242
+    },
+    {
+      "Time": "2023-07-25T13:11:09.7581761+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39878,
+      "NumberOfAwardsMax": 21271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39849,
-  "NumberOfAwardsMax": 21242,
+  "NumberOfAwards": 39878,
+  "NumberOfAwardsMax": 21271,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21242
+      "Count": 21271
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5442,9 +5448,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 288512,
+  "EOS_Progressed": 288514,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15742,6 +15748,11 @@
       "Time": "2023-07-25T12:05:34.4653913+00:00",
       "NumProgressed": 288512,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-25T13:17:51.3785034+00:00",
+      "NumProgressed": 288514,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15753,7 +15764,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34621
+      "UsersEstimate": 34622
     },
     {
       "ID": "PFA_10",
@@ -15841,7 +15852,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11540
+      "UsersEstimate": 11541
     },
     {
       "ID": "PFA_20",
@@ -16033,7 +16044,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11540
+      "UsersEstimate": 11541
     },
     {
       "ID": "PFA_42",
@@ -16081,7 +16092,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31736
+      "UsersEstimate": 31737
     },
     {
       "ID": "PFA_7",
@@ -16112,16 +16123,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288512,
+      "Progressed": 288514,
       "Completed": 434
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-25T11:58:24.3096946+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:05:34.4653901+00:00",
+  "LastChanged": "2023-07-25T13:11:09.7581759+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:17:51.3785027+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:58:24.3096954+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:05:34.4655065+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:11:09.7581766+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:17:51.3786903+00:00"
 }

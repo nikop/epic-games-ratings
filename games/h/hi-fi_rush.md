@@ -6,9 +6,9 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start with a bang! | 4.00% | ~143 |
+| Feeling the beat! | 4.00% | ~143 |
 | Cream of the Crop | 3.00% | ~107 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~107 |
-| Feeling the beat! | 3.00% | ~107 |
 | Who put gears in there? | 3.00% | ~107 |
 | You can pet the cat! | 3.00% | ~107 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,564 (Ranked 145)  
+Progressed: 3,569 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-22 | 3,516 | 6 |
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
-| 2023-07-25 | 3,564 | 6 |
+| 2023-07-25 | 3,569 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

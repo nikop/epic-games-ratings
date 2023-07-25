@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
+| Long Distance Call | 0.10% | ~3 |
 | Execution Force | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
@@ -69,13 +70,12 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.00% | ~0 |
 | A Gift Spurned | 0.00% | ~0 |
 | Death Comes For All | 0.00% | ~0 |
-| Long Distance Call | 0.00% | ~0 |
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 | Tactical Flexibility | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,026 (Ranked 153)  
+Progressed: 3,027 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 3,012 | 0 |
 | 2023-07-23 | 3,018 | 0 |
 | 2023-07-24 | 3,024 | 0 |
-| 2023-07-25 | 3,026 | 0 |
+| 2023-07-25 | 3,027 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 452 (Ranked 304)  

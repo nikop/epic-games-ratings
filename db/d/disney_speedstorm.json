@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 3007,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -3772,9 +3772,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1263
     },
     {
       "ID": "11",
@@ -3962,8 +3962,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-25T12:07:26.1558926+00:00",
+  "LastChanged_Achievements": "2023-07-25T13:19:30.2527304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-25T12:00:28.8227766+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:07:26.1560389+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:13:12.7575805+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:19:30.2527757+00:00"
 }

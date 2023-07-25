@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~13 |
 | Statesmen | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
+| Battle of the Fertile Crescent | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
@@ -258,7 +259,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |

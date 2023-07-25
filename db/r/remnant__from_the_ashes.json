@@ -3,7 +3,7 @@
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
   "Ranking_Rating": 367,
-  "Ranking_Popularity": 37,
+  "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
@@ -5218,18 +5218,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 15003,
       "NumberOfAwardsMax": 9536
+    },
+    {
+      "Time": "2023-07-25T13:12:29.0464152+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 15012,
+      "NumberOfAwardsMax": 9545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15003,
-  "NumberOfAwardsMax": 9536,
+  "NumberOfAwards": 15012,
+  "NumberOfAwardsMax": 9545,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9536
+      "Count": 9545
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5309,8 +5315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-07-25T11:59:43.6668215+00:00",
+  "LastChanged": "2023-07-25T13:12:29.0464149+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.9544711+00:00",
-  "LastUpdate_Ratings": "2023-07-25T11:59:43.6668224+00:00",
-  "LastUpdate_Achievements": "2023-07-25T12:04:41.4177179+00:00"
+  "LastUpdate_Ratings": "2023-07-25T13:12:29.0464159+00:00",
+  "LastUpdate_Achievements": "2023-07-25T13:17:05.6486864+00:00"
 }

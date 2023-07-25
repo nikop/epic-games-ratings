@@ -9,33 +9,35 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,154 |
 | Maddening | 1.00% | ~2,154 |
 | Beast Intentions | 1.00% | ~2,154 |
-| The Silken Swamp | 0.70% | ~1,508 |
+| The Silken Swamp | 0.80% | ~1,723 |
 | Supply Run | 0.70% | ~1,508 |
-| Rocky Reception | 0.60% | ~1,090 |
+| Rocky Reception | 0.70% | ~1,272 |
 | Rock and Roll | 0.60% | ~1,090 |
 | Vecna Lives! | 0.50% | ~908 |
 | Flight of the Kindori Pod | 0.50% | ~908 |
+| Pros and CONs | 0.40% | ~862 |
 | Tall Tales | 0.40% | ~727 |
-| Wet Feet | 0.40% | ~861 |
+| Wet Feet | 0.40% | ~862 |
+| Hatchlings Underfoot | 0.40% | ~862 |
 | Seeds of Destruction | 0.40% | ~727 |
 | Vecna Loots! | 0.40% | ~727 |
 | Return to the Tomb | 0.40% | ~727 |
 | The Champion's Guide to Wildspace | 0.40% | ~727 |
 | Topolah's Tower | 0.40% | ~727 |
-| Pros and CONs | 0.30% | ~646 |
 | The Witchlight Carnival | 0.30% | ~545 |
-| Hatchlings Underfoot | 0.30% | ~646 |
 | Don't Look Up! | 0.30% | ~646 |
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~646 |
 | Heatwave | 0.30% | ~545 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
+| A Persistent Buzzing | 0.30% | ~646 |
 | Beast Mode | 0.30% | ~646 |
 | Terror in the Dark | 0.30% | ~646 |
 | A Mysterious Summons | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
+| The Dinner Party | 0.30% | ~646 |
 | Not That Type of Helm! | 0.30% | ~545 |
 | Calcryx Tricks | 0.30% | ~545 |
 | Goblin Halls: the Next Generation | 0.30% | ~545 |
@@ -54,12 +56,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
+| Well Equipped | 0.20% | ~363 |
 | Were-verpowered | 0.20% | ~431 |
 | Who Lurks Below? | 0.20% | ~363 |
 | Xanathaaaaaaar! | 0.20% | ~363 |
 | Homecoming | 0.20% | ~431 |
 | The Lost Heir of Omu | 0.20% | ~431 |
-| A Persistent Buzzing | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~363 |
 | Welcome to the Rock | 0.20% | ~363 |
 | The Forbidden City | 0.20% | ~431 |
@@ -74,7 +76,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
-| The Dinner Party | 0.20% | ~431 |
 | The Botched Kidnapping | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
@@ -161,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
-| Well Equipped | 0.10% | ~182 |
 | More Than Well Equipped | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
 | Keep Your Distance | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,364 (Ranked 53)  
-Completed: 2,101 (0.98%) (Ranked 107)  
+Progressed: 215,383 (Ranked 53)  
+Completed: 2,102 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,101 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,364 | 2,101 |
+| 2023-07-25 | 215,383 | 2,102 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  
