@@ -899,9 +899,9 @@
       "ID": "COMIDA_1",
       "SetID": "44dlcg0",
       "Name": "Food producer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "COMIDA_2",
@@ -963,9 +963,9 @@
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "CULTURE_3",
@@ -1027,9 +1027,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "FAITH_2",
@@ -1251,9 +1251,9 @@
       "ID": "POPULATION_2",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "POPULATION_3",
@@ -1452,8 +1452,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:08:13.1175224+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:06:24.7594026+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:00:22.1556761+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:08:13.117628+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:59:03.172399+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:06:24.7595012+00:00"
 }

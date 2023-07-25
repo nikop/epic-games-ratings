@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2611,
+  "EOS_Progressed": 2612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3468,6 +3468,11 @@
       "Time": "2023-07-25T20:03:15.6517658+00:00",
       "NumProgressed": 2611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T22:03:03.6908204+00:00",
+      "NumProgressed": 2612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3479,7 +3484,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3781,9 +3786,9 @@
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
       "SetID": "72olkc5",
       "Name": "The finer things in life",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3855,22 +3860,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2611,
+      "Progressed": 2612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:03:18.1587996+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:03:03.6908197+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:00:41.2128696+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:03:18.1589019+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:59:16.2209922+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:03:03.6908833+00:00"
 }

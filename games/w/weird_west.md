@@ -8,16 +8,16 @@ Number of Ratings: 125  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,529 |
 | Self-Improvement | 72.00% | ~1,251 |
-| Perky | 65.00% | ~1,129 |
-| Let’s Ride | 60.00% | ~1,042 |
-| Welcome to the Weird West | 57.00% | ~990 |
+| Perky | 65.00% | ~1,130 |
+| Let’s Ride | 60.00% | ~1,043 |
+| Welcome to the Weird West | 57.00% | ~991 |
 | Dead or Alive | 56.00% | ~973 |
-| Full House | 36.00% | ~625 |
-| Off the Trail | 33.00% | ~573 |
+| Full House | 36.00% | ~626 |
+| Off the Trail | 33.00% | ~574 |
 | Justice Served | 29.00% | ~504 |
 | Chain Reaction | 27.00% | ~469 |
-| Through Their Eyes | 26.00% | ~452 |
 | Scholar | 25.00% | ~434 |
+| Through Their Eyes | 25.00% | ~434 |
 | Dishonored | 24.00% | ~417 |
 | Rain of Death | 24.00% | ~417 |
 | The Great Escape | 23.00% | ~400 |
@@ -28,10 +28,10 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~278 |
 | Dog Days | 13.00% | ~226 |
 | Workers' Rights | 13.00% | ~226 |
-| Elusive Prey | 12.00% | ~208 |
-| Out on the Ebb Tide | 12.00% | ~208 |
-| Power Behind the Pulpit | 12.00% | ~208 |
-| Turning the Tables | 12.00% | ~208 |
+| Elusive Prey | 12.00% | ~209 |
+| Out on the Ebb Tide | 12.00% | ~209 |
+| Power Behind the Pulpit | 12.00% | ~209 |
+| Turning the Tables | 12.00% | ~209 |
 | Something Wicked This Way Comes… | 11.00% | ~191 |
 | There is Hope | 11.00% | ~191 |
 | The Philosopher’s Stone | 10.00% | ~174 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,737 (Ranked 168)  
+Progressed: 1,738 (Ranked 168)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-22 | 1,718 | 3 |
 | 2023-07-23 | 1,727 | 3 |
 | 2023-07-24 | 1,731 | 3 |
-| 2023-07-25 | 1,737 | 3 |
+| 2023-07-25 | 1,738 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

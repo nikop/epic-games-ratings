@@ -159,17 +159,17 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -255,9 +255,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:06:01.175402+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:04:52.2545283+00:00",
   "LastUpdate_AppInfo": "2023-07-25T11:57:10.4401913+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:57:49.4600518+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:06:01.1754286+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:57:20.2382451+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:04:52.2545477+00:00"
 }

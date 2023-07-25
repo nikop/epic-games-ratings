@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
 | Trade Caravan | 0.40% | ~52 |
+| Regicide | 0.30% | ~39 |
 | Ambitious | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
-| Regicide | 0.20% | ~26 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
 | Drillmaster | 0.20% | ~26 |
@@ -70,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
+| Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
-| Adur Burzen-Mihr | 0.10% | ~13 |
 | Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
@@ -231,6 +231,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Time Victory | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
+| Win a MP Teams Game | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
 | Win a Single Player Game | 0.10% | ~13 |
 | Deposed Tribe | 0.10% | ~13 |
@@ -300,10 +301,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
-| Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,088 (Ranked 115)  
+Progressed: 13,090 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,088 | 5 |
+| 2023-07-25 | 13,090 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

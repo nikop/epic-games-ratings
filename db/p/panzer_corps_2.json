@@ -3,11 +3,11 @@
   "Name": "Panzer Corps 2",
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 555,
-  "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 483,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -274,18 +274,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-07-25T21:58:04.9907306+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 65,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -311,8 +317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-07-22T19:58:33.1487798+00:00",
+  "LastChanged": "2023-07-25T21:58:04.9907304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:22.570733+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:58:54.5685181+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:03:22.0572237+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:58:04.9907309+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:03:06.2925101+00:00"
 }

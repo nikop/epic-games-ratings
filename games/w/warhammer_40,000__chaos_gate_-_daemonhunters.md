@@ -12,6 +12,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 0.30% | ~9 |
 | An Ill Omen | 0.30% | ~9 |
 | Bloodless | 0.30% | ~9 |
+| Friendly Fire | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Surgical Excision | 0.10% | ~3 |
@@ -19,7 +20,6 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.10% | ~3 |
 | Blood for the Blood God! | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
-| Friendly Fire | 0.10% | ~3 |
 | Purging Spree | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Mind Like a Fortress | 0.10% | ~3 |

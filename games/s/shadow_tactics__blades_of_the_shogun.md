@@ -6,14 +6,14 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,743 |
-| A thief's beginning | 9.00% | ~16,972 |
-| Thorough | 9.00% | ~16,972 |
-| Tanuki Time | 8.00% | ~15,086 |
-| Disguised | 7.00% | ~13,200 |
-| Jonin | 7.00% | ~13,200 |
-| Rescue Takuma | 7.00% | ~13,200 |
-| Rollin' | 7.00% | ~13,200 |
+| Genin | 11.00% | ~20,744 |
+| A thief's beginning | 9.00% | ~16,973 |
+| Thorough | 9.00% | ~16,973 |
+| Tanuki Time | 8.00% | ~15,087 |
+| Disguised | 7.00% | ~13,201 |
+| Jonin | 7.00% | ~13,201 |
+| Rescue Takuma | 7.00% | ~13,201 |
+| Rollin' | 7.00% | ~13,201 |
 | Chunin | 6.00% | ~11,315 |
 | Happy Planning | 6.00% | ~11,315 |
 | Ice Ice Yuki | 6.00% | ~11,315 |
@@ -26,10 +26,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,543 |
 | Prisoners | 4.00% | ~7,543 |
 | Too Early | 4.00% | ~7,543 |
-| Gear up | 3.00% | ~5,657 |
-| Noboru | 3.00% | ~5,657 |
-| Still Rollin' | 3.00% | ~5,657 |
-| Stoned | 3.00% | ~5,657 |
+| Gear up | 3.00% | ~5,658 |
+| Noboru | 3.00% | ~5,658 |
+| Still Rollin' | 3.00% | ~5,658 |
+| Stoned | 3.00% | ~5,658 |
 | Atheist Ox | 2.00% | ~3,772 |
 | It's raining men | 2.00% | ~3,772 |
 | Old Man | 2.00% | ~3,772 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~189 |
 | Release the Kraken | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,576 (Ranked 59)  
+Progressed: 188,584 (Ranked 59)  
 Completed: 62 (0.03%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 62 (0.03%) (Ranked 216)
 | 2023-07-22 | 187,777 | 61 |
 | 2023-07-23 | 188,097 | 61 |
 | 2023-07-24 | 188,326 | 62 |
-| 2023-07-25 | 188,576 | 62 |
+| 2023-07-25 | 188,584 | 62 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 183)  
 Sum: 4,710 (Ranked 133)  

@@ -8,14 +8,14 @@ Rating: 4.65 (Ranked 300)
 | On Deceive Inc.'s Secret Service | 65.00% | ~4,867 |
 | Mainframe Hacker | 48.00% | ~3,594 |
 | The Spy who eliminated me | 48.00% | ~3,594 |
-| Tomorrow Never Dyes | 45.00% | ~3,369 |
+| Tomorrow Never Dyes | 45.00% | ~3,370 |
 | Never Say Loser Again | 40.00% | ~2,995 |
 | For your Eyes only | 38.00% | ~2,845 |
-| From the Vault with Love | 37.00% | ~2,770 |
-| Tailor-Made | 37.00% | ~2,770 |
+| From the Vault with Love | 37.00% | ~2,771 |
+| Tailor-Made | 37.00% | ~2,771 |
 | Fully Decked Out | 34.00% | ~2,546 |
 | You Only Live Twice | 33.00% | ~2,471 |
-| A view to Win | 27.00% | ~2,021 |
+| A view to Win | 27.00% | ~2,022 |
 | Smells Like Trouble | 25.00% | ~1,872 |
 | Assistant Accountant | 24.00% | ~1,797 |
 | The Living Portrait | 24.00% | ~1,797 |
@@ -31,8 +31,8 @@ Rating: 4.65 (Ranked 300)
 | Social of Solace | 8.00% | ~599 |
 | Safe Withdrawal | 6.00% | ~449 |
 | Live and let lie | 5.00% | ~374 |
-| Call Me Maybe | 4.00% | ~299 |
-| PHD in VIP | 4.00% | ~299 |
+| Call Me Maybe | 4.00% | ~300 |
+| PHD in VIP | 4.00% | ~300 |
 | Branch Manager | 3.00% | ~225 |
 | The terminals are not enough | 2.00% | ~150 |
 | Lose Another Day | 2.00% | ~150 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 300)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,487 (Ranked 127)  
+Progressed: 7,488 (Ranked 127)  
 Completed: 1 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.01%) (Ranked 230)
 | 2023-07-22 | 7,449 | 1 |
 | 2023-07-23 | 7,465 | 1 |
 | 2023-07-24 | 7,477 | 1 |
-| 2023-07-25 | 7,487 | 1 |
+| 2023-07-25 | 7,488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

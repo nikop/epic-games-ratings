@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7487,
+  "EOS_Progressed": 7488,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6238,6 +6238,11 @@
       "Time": "2023-07-25T18:02:21.4708962+00:00",
       "NumProgressed": 7487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T22:03:09.662967+00:00",
+      "NumProgressed": 7488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6305,7 +6310,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "0009",
@@ -6409,7 +6414,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "0022",
@@ -6417,7 +6422,7 @@
       "Name": "PHD in VIP",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "0023",
@@ -6433,7 +6438,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "0025",
@@ -6441,7 +6446,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "0026",
@@ -6473,7 +6478,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0030",
@@ -6536,7 +6541,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7487,
+      "Progressed": 7488,
       "Completed": 1
     }
   ],
@@ -6544,8 +6549,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:03:26.7034839+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:03:09.6629665+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:01:24.9772194+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:03:26.7035505+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:59:44.8407252+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:03:09.6630532+00:00"
 }

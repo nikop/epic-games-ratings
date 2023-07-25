@@ -9590,9 +9590,9 @@
       "ID": "COMPLETE_KAMINO",
       "SetID": "3fcpmbm",
       "Name": "Rishi Maze",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1998
+      "UsersEstimate": 2498
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -9750,8 +9750,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-24T15:01:19.3852336+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:02:44.6711719+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:02:09.9749432+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.7152364+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:02:28.2464548+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:02:44.6712658+00:00"
+  "LastUpdate_Ratings": "2023-07-25T22:00:28.6495235+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:02:09.9750238+00:00"
 }

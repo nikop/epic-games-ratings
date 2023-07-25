@@ -26,7 +26,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''It's true... all of it'' | 19.00% | ~9,492 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,993 |
 | ''Raw, untamed power'' | 8.00% | ~3,997 |
-| Rishi Maze | 4.00% | ~1,998 |
+| Rishi Maze | 5.00% | ~2,498 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,998 |
 | ''You may fire when ready'' | 3.00% | ~1,499 |
 | ''What have you done with those plans?'' | 3.00% | ~1,499 |

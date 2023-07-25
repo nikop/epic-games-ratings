@@ -575,9 +575,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "03_philatelist",
@@ -607,9 +607,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "07_europe",
@@ -887,8 +887,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:04:34.262355+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:03:50.1589599+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:58:44.7240309+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:04:34.2623951+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:57:57.6449087+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:03:50.1589943+00:00"
 }

@@ -6,34 +6,34 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~117,205 |
-| Where's that freaking Dwarf? | 47.00% | ~93,367 |
-| GG EZ | 28.00% | ~55,623 |
-| Speedrun | 26.00% | ~51,650 |
-| Déjà vu | 21.00% | ~41,717 |
-| Sock! SOCK! | 17.00% | ~33,771 |
-| DM intervention | 13.00% | ~25,825 |
-| Fireproof Wizardess | 9.00% | ~17,879 |
-| Livin' in a dwarven paradise | 7.00% | ~13,906 |
-| Way of the Wimp | 7.00% | ~13,906 |
-| A beer, two curses, three companions | 7.00% | ~13,906 |
-| The plot thickens... At the tavern | 5.00% | ~9,933 |
-| The Woman in the High Castle | 4.00% | ~7,946 |
-| I am the night | 4.00% | ~7,946 |
-| Team Building Exercise | 4.00% | ~7,946 |
+| Alt+F4 | 59.00% | ~117,219 |
+| Where's that freaking Dwarf? | 47.00% | ~93,378 |
+| GG EZ | 28.00% | ~55,629 |
+| Speedrun | 26.00% | ~51,656 |
+| Déjà vu | 21.00% | ~41,722 |
+| Sock! SOCK! | 17.00% | ~33,775 |
+| DM intervention | 13.00% | ~25,828 |
+| Fireproof Wizardess | 9.00% | ~17,881 |
+| Livin' in a dwarven paradise | 7.00% | ~13,907 |
+| Way of the Wimp | 7.00% | ~13,907 |
+| A beer, two curses, three companions | 7.00% | ~13,907 |
+| The plot thickens... At the tavern | 5.00% | ~9,934 |
+| The Woman in the High Castle | 4.00% | ~7,947 |
+| I am the night | 4.00% | ~7,947 |
+| Team Building Exercise | 4.00% | ~7,947 |
 | Shiny and Crôm | 3.00% | ~5,960 |
 | The demons' feast | 3.00% | ~5,960 |
 | Res Judicata | 3.00% | ~5,960 |
 | Dwarf Fortress | 3.00% | ~5,960 |
 | The Ranger of Chaos | 3.00% | ~5,960 |
 | Oh, when I'll be level 10... | 3.00% | ~5,960 |
-| The Great Library | 2.00% | ~3,973 |
-| Torture and Sensibility | 2.00% | ~3,973 |
-| Look but don't touch | 2.00% | ~3,973 |
-| The beards of change | 2.00% | ~3,973 |
-| Gargantua | 2.00% | ~3,973 |
-| Thieves' Guild Accreditation | 2.00% | ~3,973 |
-| Material Girl | 2.00% | ~3,973 |
+| The Great Library | 2.00% | ~3,974 |
+| Torture and Sensibility | 2.00% | ~3,974 |
+| Look but don't touch | 2.00% | ~3,974 |
+| The beards of change | 2.00% | ~3,974 |
+| Gargantua | 2.00% | ~3,974 |
+| Thieves' Guild Accreditation | 2.00% | ~3,974 |
+| Material Girl | 2.00% | ~3,974 |
 | Urik's Depths | 1.00% | ~1,987 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,987 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,987 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,653 (Ranked 55)  
+Progressed: 198,676 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 195,737 | 0 |
 | 2023-07-23 | 196,973 | 0 |
 | 2023-07-24 | 197,920 | 0 |
-| 2023-07-25 | 198,653 | 0 |
+| 2023-07-25 | 198,676 | 0 |
 ## Awards
 Max (Character Customization): 134  (Ranked 303)  
 Sum: 134 (Ranked 396)  

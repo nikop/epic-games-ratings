@@ -2,12 +2,12 @@
   "ID": "27aa2ebdcda14b3bb8a669aab73ca55f",
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
-  "Ranking_Rating": 809,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-07-21T13:07:17.4893091+00:00",
@@ -82,6 +82,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-07-25T21:59:43.7111769+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 62,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
@@ -108,8 +114,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-07-25T16:02:01.2198041+00:00",
+  "LastChanged": "2023-07-25T21:59:43.7111768+00:00",
   "LastUpdate_AppInfo": "2023-07-20T16:57:13.6660354+00:00",
-  "LastUpdate_Ratings": "2023-07-25T21:01:23.6766129+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:06:54.8535139+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:59:43.7111774+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:05:29.1730916+00:00"
 }

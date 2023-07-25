@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1737,
+  "EOS_Progressed": 1738,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1525,6 +1525,11 @@
       "Time": "2023-07-25T21:05:32.0320817+00:00",
       "NumProgressed": 1737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T22:04:31.2059918+00:00",
+      "NumProgressed": 1738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1584,7 +1589,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_EXPLORER",
@@ -1616,7 +1621,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1688,7 +1693,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1768,7 +1773,7 @@
       "Name": "Off the Trail",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1776,7 +1781,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_PERKY",
@@ -1784,7 +1789,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1800,7 +1805,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -1894,9 +1899,9 @@
       "ID": "ACH_THROUGH_THEIR_EYES",
       "SetID": "8j30i9k",
       "Name": "Through Their Eyes",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1904,7 +1909,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -1920,7 +1925,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1959,15 +1964,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:05:32.0320808+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:04:31.2059913+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:59:48.9900126+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:05:32.0321477+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:58:40.8772435+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:04:31.2060496+00:00"
 }

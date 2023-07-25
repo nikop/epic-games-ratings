@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -486,6 +486,11 @@
       "Time": "2023-07-24T20:07:13.1929006+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T22:04:40.7302792+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -503,7 +508,7 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 100,
       "UsersEstimate": 81
     },
@@ -568,14 +573,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:05:45.4797396+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:04:40.7302764+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.9420415+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:58:19.8899019+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:05:45.4797522+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:57:40.0354919+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:04:40.7302897+00:00"
 }

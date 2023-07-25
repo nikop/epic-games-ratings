@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -2159,9 +2159,9 @@
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1041
     },
     {
       "ID": "CollectAllStatues",
@@ -2390,8 +2390,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:02:55.8147255+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:02:17.5770739+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:59:38.8476806+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:02:55.8147679+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:58:34.7302888+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:02:17.5771098+00:00"
 }

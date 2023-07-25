@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6802,
+  "EOS_Progressed": 6803,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4909,6 +4909,11 @@
       "Time": "2023-07-25T21:04:47.6792763+00:00",
       "NumProgressed": 6802,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-25T22:03:59.7932178+00:00",
+      "NumProgressed": 6803,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4968,7 +4973,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5024,7 +5029,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "LIBERATOR",
@@ -5087,7 +5092,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6802,
+      "Progressed": 6803,
       "Completed": 29
     }
   ],
@@ -5095,8 +5100,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-25T21:04:47.6792753+00:00",
+  "LastChanged_Achievements": "2023-07-25T22:03:59.7932169+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:59:06.2310255+00:00",
-  "LastUpdate_Achievements": "2023-07-25T21:04:47.6793304+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:58:12.956882+00:00",
+  "LastUpdate_Achievements": "2023-07-25T22:03:59.7932623+00:00"
 }
