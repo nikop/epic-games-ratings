@@ -18,6 +18,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 3.00% | ~480 |
 | Lost Colonies | 3.00% | ~480 |
 | A Real Challenge | 3.00% | ~480 |
+| Trade Baron | 3.00% | ~480 |
 | Serving Ale | 2.00% | ~320 |
 | Refinery | 2.00% | ~320 |
 | Against All Odds | 2.00% | ~320 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 2.00% | ~320 |
 | Cursed Lands | 2.00% | ~320 |
 | Like a Machine | 2.00% | ~320 |
-| Trade Baron | 2.00% | ~320 |
 | Defying the Crown | 2.00% | ~320 |
 | Into the Forest | 2.00% | ~320 |
 | Fishmen Ritual Site | 1.00% | ~160 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,006 (Ranked 109)  
+Progressed: 16,008 (Ranked 109)  
 Completed: 40 (0.25%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 40 (0.25%) (Ranked 160)
 | 2023-07-22 | 15,968 | 40 |
 | 2023-07-23 | 15,983 | 40 |
 | 2023-07-24 | 15,996 | 40 |
-| 2023-07-25 | 16,006 | 40 |
+| 2023-07-25 | 16,008 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,076 (Ranked 158)  

@@ -5,34 +5,34 @@ Rating: 3.43 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,846 |
-| Hard Worker | 20.00% | ~13,497 |
-| Master, Commander | 20.00% | ~13,497 |
-| Mechanic | 19.00% | ~12,822 |
-| Adios, Friendo | 18.00% | ~12,147 |
-| Bottom's Up | 18.00% | ~12,147 |
-| Nice Try | 16.00% | ~10,797 |
-| Right On Target | 13.00% | ~8,773 |
-| Piano Man | 10.00% | ~6,748 |
-| Lazy Bones | 9.00% | ~6,073 |
-| Vinyl Vibes | 8.00% | ~5,399 |
-| Nothing Left to Say | 7.00% | ~4,724 |
-| Sniper | 7.00% | ~4,724 |
-| Cut Call | 5.00% | ~3,374 |
-| Butcher | 4.00% | ~2,699 |
-| Magnetic Miracles | 4.00% | ~2,699 |
-| Spicy | 4.00% | ~2,699 |
-| A Man Of Taste | 3.00% | ~2,024 |
-| Ace in the Hole | 3.00% | ~2,024 |
-| Fair's Fair | 3.00% | ~2,024 |
-| Hearty | 3.00% | ~2,024 |
-| Meaty | 3.00% | ~2,024 |
-| Taco Toto | 3.00% | ~2,024 |
+| Be Seeing You | 22.00% | ~14,849 |
+| Hard Worker | 20.00% | ~13,499 |
+| Master, Commander | 20.00% | ~13,499 |
+| Mechanic | 19.00% | ~12,824 |
+| Adios, Friendo | 18.00% | ~12,149 |
+| Bottom's Up | 18.00% | ~12,149 |
+| Nice Try | 16.00% | ~10,800 |
+| Right On Target | 13.00% | ~8,775 |
+| Piano Man | 10.00% | ~6,750 |
+| Lazy Bones | 9.00% | ~6,075 |
+| Vinyl Vibes | 8.00% | ~5,400 |
+| Nothing Left to Say | 7.00% | ~4,725 |
+| Sniper | 7.00% | ~4,725 |
+| Cut Call | 5.00% | ~3,375 |
+| Butcher | 4.00% | ~2,700 |
+| Magnetic Miracles | 4.00% | ~2,700 |
+| Spicy | 4.00% | ~2,700 |
+| A Man Of Taste | 3.00% | ~2,025 |
+| Ace in the Hole | 3.00% | ~2,025 |
+| Fair's Fair | 3.00% | ~2,025 |
+| Hearty | 3.00% | ~2,025 |
+| Meaty | 3.00% | ~2,025 |
+| Taco Toto | 3.00% | ~2,025 |
 | Audiophile | 2.00% | ~1,350 |
 | Tape Head | 2.00% | ~1,350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,483 (Ranked 77)  
-Completed: 658 (0.98%) (Ranked 107)  
+Progressed: 67,497 (Ranked 77)  
+Completed: 658 (0.97%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 658 (0.98%) (Ranked 107)
 | 2023-07-22 | 67,115 | 651 |
 | 2023-07-23 | 67,265 | 655 |
 | 2023-07-24 | 67,405 | 658 |
-| 2023-07-25 | 67,483 | 658 |
+| 2023-07-25 | 67,497 | 658 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

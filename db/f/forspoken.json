@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39228,
+  "EOS_Progressed": 39232,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5938,6 +5938,11 @@
       "Time": "2023-07-25T13:17:34.0952737+00:00",
       "NumProgressed": 39228,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T16:05:44.7411249+00:00",
+      "NumProgressed": 39232,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6109,7 +6114,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -6165,7 +6170,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -6372,22 +6377,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39228,
+      "Progressed": 39232,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4065,
-      "Completed": 4065
+      "Progressed": 4069,
+      "Completed": 4069
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:44.5148051+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:05:44.7411243+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:59:17.3982459+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:44.5148684+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:00:16.5925695+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:05:44.7412343+00:00"
 }

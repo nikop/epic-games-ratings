@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:28.3802161+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:05:21.9454554+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:57:25.1474477+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:28.380232+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:57:35.6301939+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:05:21.9454783+00:00"
 }

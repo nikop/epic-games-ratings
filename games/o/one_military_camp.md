@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 325)  
+Progressed: 80 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 50 | 0 |
 | 2023-07-23 | 67 | 0 |
 | 2023-07-24 | 76 | 0 |
-| 2023-07-25 | 79 | 0 |
+| 2023-07-25 | 80 | 0 |

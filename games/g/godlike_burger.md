@@ -32,10 +32,10 @@ Rating: 4.27 (Ranked 796)
 | DEBTOR | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |
 | TRAVELER | 1.00% | ~4 |
-| MISTER ALL THUMBS | 0.30% | ~1 |
+| MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 371 (Ranked 233)  
-Completed: 1 (0.27%) (Ranked 157)  
+Completed: 2 (0.54%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 1 (0.27%) (Ranked 157)
 | 2023-07-17 | 367 | 1 |
 | 2023-07-20 | 369 | 1 |
 | 2023-07-22 | 370 | 1 |
-| 2023-07-25 | 371 | 1 |
+| 2023-07-25 | 371 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

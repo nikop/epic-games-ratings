@@ -5278,10 +5278,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215403,
-  "EOS_Completed": 2106,
-  "EOS_NewPlayers": 2331,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 215419,
+  "EOS_Completed": 2107,
+  "EOS_NewPlayers": 2332,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15568,6 +15568,11 @@
       "Time": "2023-07-25T15:07:21.7259501+00:00",
       "NumProgressed": 215403,
       "NumCompleted": 2106
+    },
+    {
+      "Time": "2023-07-25T16:08:59.0000162+00:00",
+      "NumProgressed": 215419,
+      "NumCompleted": 2107
     }
   ],
   "TotalAchievements": 512,
@@ -15889,9 +15894,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1091",
@@ -15945,9 +15950,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2154
+      "UsersEstimate": 4308
     },
     {
       "ID": "objective_completed_110",
@@ -16241,9 +16246,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1160",
@@ -16305,9 +16310,9 @@
       "ID": "objective_completed_1170",
       "SetID": "415jc5c",
       "Name": "More Than Well Equipped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1173",
@@ -16329,9 +16334,9 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1178",
@@ -16777,9 +16782,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_166",
@@ -17025,9 +17030,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_236",
@@ -17089,9 +17094,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_252",
@@ -17721,9 +17726,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_540",
@@ -19529,9 +19534,9 @@
       "ID": "objective_completed_1047",
       "SetID": "415jc5c",
       "Name": "Devilishly Cold",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1215",
@@ -19674,21 +19679,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181677,
-      "Completed": 2966
+      "Progressed": 181693,
+      "Completed": 2969
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215403,
-      "Completed": 2106
+      "Progressed": 215419,
+      "Completed": 2107
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T14:58:54.7851448+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:07:21.7259495+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:08:59.0000157+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:58:54.7851454+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:07:21.7282286+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:59:42.4421233+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:08:59.003146+00:00"
 }

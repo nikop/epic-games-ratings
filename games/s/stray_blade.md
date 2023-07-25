@@ -9,7 +9,7 @@
 | Welcome to the Club | 29.00% | ~8 |
 | A new World ahead | 25.00% | ~7 |
 | Don't Cry Wolf | 21.00% | ~6 |
-| Can't touch this | 18.00% | ~5 |
+| Can't touch this | 21.00% | ~6 |
 | Apprentice | 14.00% | ~4 |
 | Freezing Cold | 11.00% | ~3 |
 | Bringing guns to a sword fight | 7.00% | ~2 |

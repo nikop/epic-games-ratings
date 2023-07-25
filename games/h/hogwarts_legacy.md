@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,622 |
-| First Class Student | 11.00% | ~31,737 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,623 |
+| First Class Student | 11.00% | ~31,738 |
 | A Keen Sense of Spell | 10.00% | ~28,852 |
 | Troll with the Punches | 10.00% | ~28,852 |
 | Grappling with a Graphorn | 9.00% | ~25,967 |
@@ -17,12 +17,12 @@ Rating: 4.77 (Ranked 109)
 | A Talent for Spending | 9.00% | ~25,967 |
 | Coasting Along | 9.00% | ~25,967 |
 | That's a Keeper | 9.00% | ~25,967 |
-| The Hero of Hogwarts | 8.00% | ~23,081 |
-| Challenge Accepted | 8.00% | ~23,081 |
-| A Sallow Grave | 7.00% | ~20,196 |
-| Followed the Butterflies | 7.00% | ~20,196 |
-| The Spell Master | 7.00% | ~20,196 |
-| Rising From the Ashes | 7.00% | ~20,196 |
+| The Hero of Hogwarts | 8.00% | ~23,082 |
+| Challenge Accepted | 8.00% | ~23,082 |
+| A Sallow Grave | 7.00% | ~20,197 |
+| Followed the Butterflies | 7.00% | ~20,197 |
+| The Spell Master | 7.00% | ~20,197 |
+| Rising From the Ashes | 7.00% | ~20,197 |
 | The Avenging Gazelle | 6.00% | ~17,311 |
 | Beast Friends | 6.00% | ~17,311 |
 | Flight the Good Flight | 6.00% | ~17,311 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,517 (Ranked 42)  
+Progressed: 288,523 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-22 | 288,321 | 433 |
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
-| 2023-07-25 | 288,517 | 434 |
+| 2023-07-25 | 288,523 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
-Sum: 39,878 (Ranked 30)  
+Sum: 39,879 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -165,7 +165,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 851 |
 | This game has Quickly Understood Controls | 808 |
 | This game has Beautiful Visuals | 748 |
-| This game has a Creative Community | 564 |
+| This game has a Creative Community | 565 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -292,4 +292,4 @@ Diff (max vs sum): -13
 | 2023-07-22 | 4.77 | 21,184 | 39,692 |
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
-| 2023-07-25 | 4.77 | 21,271 | 39,878 |
+| 2023-07-25 | 4.77 | 21,271 | 39,879 |

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -3777,9 +3777,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1263
     },
     {
       "ID": "11",
@@ -3967,8 +3967,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:06:19.0299404+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:07:58.423779+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:59:47.8735777+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:06:19.029971+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:00:58.6007307+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:07:58.4238474+00:00"
 }

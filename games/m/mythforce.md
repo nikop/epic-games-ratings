@@ -19,11 +19,11 @@ Number of Ratings: 285  (23.09.2022)
 | Spending Spree | 7.00% | ~19 |
 | Cold-Blooded Critters | 6.00% | ~17 |
 | Everything Must Go! | 6.00% | ~17 |
+| Horder Better Faster Stronger | 6.00% | ~17 |
 | On this Episode! | 6.00% | ~17 |
 | Deadication | 5.00% | ~14 |
 | The Fourth Gate | 5.00% | ~14 |
 | The Harder They Fall | 5.00% | ~14 |
-| Horder Better Faster Stronger | 5.00% | ~14 |
 | Season Finale | 4.00% | ~11 |
 | We've Got a Kaiju on the Field | 0.40% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |

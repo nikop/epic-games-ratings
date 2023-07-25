@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,308 |
+| Beast Intentions | 2.00% | ~4,308 |
 | Maddening | 1.00% | ~2,154 |
-| Beast Intentions | 1.00% | ~2,154 |
 | The Silken Swamp | 0.80% | ~1,723 |
 | Supply Run | 0.70% | ~1,508 |
 | Rocky Reception | 0.70% | ~1,272 |
@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.30% | ~545 |
 | Heavy Burden | 0.30% | ~646 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
+| On the Hunt | 0.30% | ~646 |
 | Friends of the Forest | 0.30% | ~646 |
 | The Dread Domain of Tovag | 0.30% | ~545 |
 | Were-verpowered | 0.30% | ~646 |
@@ -40,12 +41,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.30% | ~646 |
 | Low Initiative | 0.30% | ~646 |
 | A Mysterious Summons | 0.30% | ~646 |
+| Street War | 0.30% | ~646 |
 | Building Trust | 0.30% | ~646 |
 | March of the Undead | 0.30% | ~646 |
 | Unearthed Evil | 0.30% | ~646 |
 | No Time To Rest | 0.30% | ~646 |
 | The Mists of Ravenloft | 0.30% | ~646 |
 | The Dinner Party | 0.30% | ~646 |
+| The Botched Kidnapping | 0.30% | ~646 |
+| Devilishly Cold | 0.30% | ~545 |
 | Not That Type of Helm! | 0.30% | ~545 |
 | Bazaar Companions | 0.30% | ~545 |
 | Bahamut's Army | 0.30% | ~545 |
@@ -58,12 +62,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~363 |
 | The Prince of a Thousand Enemies | 0.20% | ~363 |
 | Downfall | 0.20% | ~363 |
+| Slack-jawed Lorna | 0.20% | ~363 |
 | Speeds of Destruction | 0.20% | ~363 |
 | Owlbear Necessities | 0.20% | ~363 |
-| On the Hunt | 0.20% | ~431 |
 | Best Thay Ever | 0.20% | ~363 |
 | A Demi-god's Defender | 0.20% | ~363 |
 | Well Equipped | 0.20% | ~363 |
+| More Than Well Equipped | 0.20% | ~363 |
+| Keep Your Distance | 0.20% | ~363 |
 | Who Lurks Below? | 0.20% | ~363 |
 | Xanathaaaaaaar! | 0.20% | ~363 |
 | Homecoming | 0.20% | ~431 |
@@ -72,15 +78,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~363 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
-| Street War | 0.20% | ~431 |
 | Wisdom Check | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Tomb of the Nine Gods | 0.20% | ~431 |
 | Invisible Shadows | 0.20% | ~431 |
 | Family Entanglements | 0.20% | ~431 |
-| The Botched Kidnapping | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
+| The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
+| Exploring Port Nyanzaru | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
@@ -97,7 +103,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
 | Willing to Sacrifice | 0.20% | ~363 |
-| Devilishly Cold | 0.20% | ~363 |
 | Tiny Treaty | 0.20% | ~363 |
 | All The World's A Stage | 0.20% | ~363 |
 | 3,720 to 1 | 0.20% | ~363 |
@@ -128,7 +133,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~182 |
 | Second Third Out | 0.10% | ~182 |
 | Third Third Out | 0.10% | ~182 |
-| Slack-jawed Lorna | 0.10% | ~182 |
 | I'm Sure I Saw It Move! | 0.10% | ~182 |
 | End of the Line | 0.10% | ~182 |
 | A Steadfast Love | 0.10% | ~182 |
@@ -163,9 +167,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
-| More Than Well Equipped | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
-| Keep Your Distance | 0.10% | ~182 |
 | To Avernus in a Handbasket | 0.10% | ~182 |
 | Hands Off! | 0.10% | ~182 |
 | Weak Doesn't Mean Feeble | 0.10% | ~182 |
@@ -230,7 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.10% | ~215 |
 | Form Ranks | 0.10% | ~215 |
 | Drop of Time | 0.10% | ~182 |
-| The Wyrmheart Mine | 0.10% | ~215 |
 | They Who Smelt It | 0.10% | ~215 |
 | Distribute Your Weight | 0.10% | ~215 |
 | Mongrelfolk Incursion | 0.10% | ~182 |
@@ -308,7 +309,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dino Nightmare | 0.10% | ~215 |
 | A Familiar Friend | 0.10% | ~182 |
 | Mad Cow Disease | 0.10% | ~215 |
-| Exploring Port Nyanzaru | 0.10% | ~215 |
 | A Tale of Two Cities | 0.10% | ~215 |
 | A Tale of Two Fiends | 0.10% | ~215 |
 | A Tale of Two Champions | 0.10% | ~215 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,403 (Ranked 53)  
-Completed: 2,106 (0.98%) (Ranked 107)  
+Progressed: 215,419 (Ranked 53)  
+Completed: 2,107 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,106 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,403 | 2,106 |
+| 2023-07-25 | 215,419 | 2,107 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,719 (Ranked 38)  

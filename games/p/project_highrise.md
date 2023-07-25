@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~149 |
 | Starting Skyward | 51.00% | ~133 |
-| Grime is Not Good | 44.00% | ~115 |
+| Grime is Not Good | 45.00% | ~117 |
 | Floor Galore | 37.00% | ~97 |
 | Campaign Launch | 37.00% | ~97 |
 | Dinner Dash | 36.00% | ~94 |
@@ -35,9 +35,9 @@
 | Under One Roof | 15.00% | ~39 |
 | Established Fame | 15.00% | ~39 |
 | Terrifically Trashed | 15.00% | ~39 |
+| Smooth Operator | 14.00% | ~37 |
 | Starred Dining | 14.00% | ~37 |
 | Boutique Benefits | 14.00% | ~37 |
-| Smooth Operator | 13.00% | ~34 |
 | Thrilled Tenants | 13.00% | ~34 |
 | 28 Days Later | 11.00% | ~29 |
 | Swimming in Surplus | 11.00% | ~29 |

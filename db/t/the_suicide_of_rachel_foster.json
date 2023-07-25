@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -1687,6 +1687,11 @@
       "Time": "2023-07-25T15:03:13.4450851+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-25T16:04:05.6555683+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1706,7 +1711,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1730,7 +1735,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_FineEV9",
@@ -1738,7 +1743,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_FineGioco",
@@ -1746,7 +1751,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1754,7 +1759,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1762,7 +1767,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1785,15 +1790,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:03:13.4450845+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:04:05.6555676+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:00:53.7308794+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:03:13.445099+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:02:37.947183+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:04:05.6556164+00:00"
 }

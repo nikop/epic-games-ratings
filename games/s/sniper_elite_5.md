@@ -10,6 +10,7 @@ Rating: 4.41 (Ranked 673)
 | Target America | 4.00% | ~134 |
 | The Kraken Sleeps | 4.00% | ~134 |
 | Climbing the Ladder | 3.00% | ~100 |
+| No Stone Unturned | 3.00% | ~100 |
 | Meeting Resistance | 3.00% | ~100 |
 | Sharpshooter | 3.00% | ~100 |
 | Confirming Suspicions | 3.00% | ~100 |
@@ -19,7 +20,6 @@ Rating: 4.41 (Ranked 673)
 | The Kraken Wakes | 3.00% | ~100 |
 | It's Starting to Crack | 3.00% | ~100 |
 | Change the Channel | 3.00% | ~100 |
-| No Stone Unturned | 2.00% | ~67 |
 | Opposing Force | 2.00% | ~67 |
 | Organ Grinder | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 673)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,343 (Ranked 148)  
-Completed: 9 (0.27%) (Ranked 157)  
+Progressed: 3,346 (Ranked 148)  
+Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,7 +172,7 @@ Completed: 9 (0.27%) (Ranked 157)
 | 2023-07-22 | 3,325 | 9 |
 | 2023-07-23 | 3,334 | 9 |
 | 2023-07-24 | 3,338 | 9 |
-| 2023-07-25 | 3,343 | 9 |
+| 2023-07-25 | 3,346 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

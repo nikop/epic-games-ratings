@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 4.00% | ~1,239 |
-| Expanding Horizons | 3.00% | ~929 |
-| Not Your Average Trait | 3.00% | ~929 |
-| Quest for Survival | 2.00% | ~619 |
-| Duality | 2.00% | ~619 |
-| Boss'n Up | 2.00% | ~619 |
-| Make Some Room | 2.00% | ~619 |
-| Trait Chaser | 2.00% | ~619 |
-| Not So Special Now | 1.00% | ~310 |
-| Top Performer | 1.00% | ~310 |
-| Good, But Could Be Better! | 1.00% | ~310 |
-| Almost There | 0.90% | ~279 |
-| Was This Supposed To Happen? | 0.60% | ~186 |
-| The Killing Jar | 0.50% | ~155 |
-| Familiar Face | 0.50% | ~155 |
-| Only Human | 0.30% | ~93 |
-| Gleaming the Cube | 0.30% | ~93 |
-| Not a Janitor | 0.30% | ~93 |
-| Equal Measures | 0.30% | ~93 |
-| Blue Goddess | 0.30% | ~93 |
-| Shhh...It's a Secret | 0.30% | ~93 |
-| Scrap Collector | 0.30% | ~93 |
-| All These Traits� | 0.30% | ~93 |
-| Chaos | 0.20% | ~62 |
-| Traitor | 0.20% | ~62 |
-| Power Surge | 0.20% | ~62 |
-| The God Gambit | 0.20% | ~62 |
-| Dark Designs | 0.20% | ~62 |
-| Madman's Paradise | 0.20% | ~62 |
-| The Agenda | 0.20% | ~62 |
-| Strapped | 0.20% | ~62 |
-| Edgelord | 0.20% | ~62 |
-| The Web | 0.20% | ~62 |
-| The Ultimate Weapon | 0.20% | ~62 |
-| No One Should Have All That Power | 0.20% | ~62 |
+| First of Many | 4.00% | ~1,258 |
+| Expanding Horizons | 3.00% | ~944 |
+| Quest for Survival | 3.00% | ~944 |
+| Not Your Average Trait | 3.00% | ~944 |
+| Duality | 2.00% | ~629 |
+| Boss'n Up | 2.00% | ~629 |
+| Make Some Room | 2.00% | ~629 |
+| Trait Chaser | 2.00% | ~629 |
+| Not So Special Now | 1.00% | ~315 |
+| Top Performer | 1.00% | ~315 |
+| Almost There | 1.00% | ~315 |
+| Good, But Could Be Better! | 1.00% | ~315 |
+| Was This Supposed To Happen? | 0.70% | ~220 |
+| The Killing Jar | 0.60% | ~189 |
+| Familiar Face | 0.50% | ~157 |
+| Gleaming the Cube | 0.40% | ~126 |
+| Not a Janitor | 0.40% | ~126 |
+| Blue Goddess | 0.40% | ~126 |
+| Only Human | 0.30% | ~94 |
+| Traitor | 0.30% | ~94 |
+| Equal Measures | 0.30% | ~94 |
+| Shhh...It's a Secret | 0.30% | ~94 |
+| Scrap Collector | 0.30% | ~94 |
+| All These Traits� | 0.30% | ~94 |
+| Chaos | 0.20% | ~63 |
+| Power Surge | 0.20% | ~63 |
+| The God Gambit | 0.20% | ~63 |
+| Dark Designs | 0.20% | ~63 |
+| Madman's Paradise | 0.20% | ~63 |
+| The Agenda | 0.20% | ~63 |
+| Strapped | 0.20% | ~63 |
+| Edgelord | 0.20% | ~63 |
+| The Web | 0.20% | ~63 |
+| The Ultimate Weapon | 0.20% | ~63 |
+| No One Should Have All That Power | 0.20% | ~63 |
 | Crafty | 0.10% | ~31 |
 | Am I Seeing This? | 0.10% | ~31 |
 | Ghost in the Machine | 0.10% | ~31 |
@@ -55,7 +55,7 @@
 | Maxed Out! | 0.10% | ~31 |
 | Transmutate | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,963 (Ranked 97)  
+Progressed: 31,453 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 7,481 | 0 |
 | 2023-07-23 | 17,937 | 0 |
 | 2023-07-24 | 26,093 | 0 |
-| 2023-07-25 | 30,963 | 0 |
+| 2023-07-25 | 31,453 | 0 |

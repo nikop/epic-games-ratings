@@ -1,24 +1,24 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 810)  
+Rating: 4.25 (Ranked 809)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,510 |
-| Don't I Know You...? | 76.00% | ~1,435 |
-| Jailbreak | 65.00% | ~1,227 |
-| HEADSHOT! | 38.00% | ~717 |
-| Suited and Booted | 38.00% | ~717 |
+| Rigged And Ready | 80.00% | ~1,511 |
+| Don't I Know You...? | 76.00% | ~1,436 |
+| Jailbreak | 65.00% | ~1,228 |
+| HEADSHOT! | 38.00% | ~718 |
+| Suited and Booted | 38.00% | ~718 |
 | Sleeping With The Fishes | 35.00% | ~661 |
-| Overheated | 30.00% | ~566 |
-| High Performance | 30.00% | ~566 |
+| Overheated | 30.00% | ~567 |
+| High Performance | 30.00% | ~567 |
 | Powered Up | 28.00% | ~529 |
-| Studied The Blade | 24.00% | ~453 |
+| Studied The Blade | 25.00% | ~472 |
 | Home Invasion | 23.00% | ~434 |
-| Luminary | 22.00% | ~415 |
-| It's a Trap | 22.00% | ~415 |
-| True Survivor | 21.00% | ~396 |
+| Luminary | 22.00% | ~416 |
+| It's a Trap | 22.00% | ~416 |
+| True Survivor | 21.00% | ~397 |
 | Offensive Defense | 20.00% | ~378 |
 | Shocking | 20.00% | ~378 |
 | Court Martial | 19.00% | ~359 |
@@ -27,11 +27,11 @@ Rating: 4.25 (Ranked 810)
 | Clean Cut | 18.00% | ~340 |
 | Full Arsenal | 17.00% | ~321 |
 | Can't Trust Banks | 15.00% | ~283 |
-| Mommy Dearest | 13.00% | ~245 |
-| Bad Dog | 13.00% | ~245 |
-| Where It All Began | 13.00% | ~245 |
-| Risk Tolerant | 13.00% | ~245 |
-| What A Catchy Song | 13.00% | ~245 |
+| Mommy Dearest | 13.00% | ~246 |
+| Bad Dog | 13.00% | ~246 |
+| Where It All Began | 13.00% | ~246 |
+| Risk Tolerant | 13.00% | ~246 |
+| What A Catchy Song | 13.00% | ~246 |
 | Marked For Success | 12.00% | ~227 |
 | Sorry, Didn't See You There | 12.00% | ~227 |
 | Corrupted Beauty | 11.00% | ~208 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,888 (Ranked 166)  
-Completed: 10 (0.53%) (Ranked 130)  
+Progressed: 1,889 (Ranked 166)  
+Completed: 10 (0.53%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-22 | 1,867 | 10 |
 | 2023-07-23 | 1,873 | 10 |
 | 2023-07-24 | 1,882 | 10 |
-| 2023-07-25 | 1,888 | 10 |
+| 2023-07-25 | 1,889 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

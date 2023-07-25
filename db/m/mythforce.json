@@ -1140,9 +1140,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -1236,8 +1236,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-25T02:15:01.1446676+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:10.6346969+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:04:57.863739+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:59:11.6341119+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:10.6347183+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:00:10.7931285+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:04:57.8637621+00:00"
 }

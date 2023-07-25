@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1700,6 +1700,11 @@
       "Time": "2023-07-25T15:04:02.8957674+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-25T16:04:46.8217924+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1711,7 +1716,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Auditor",
@@ -1871,7 +1876,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Kultprosvet",
@@ -1895,7 +1900,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MoskitoBite",
@@ -1903,7 +1908,7 @@
       "Name": "Mosquito bite",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Scout",
@@ -1943,22 +1948,22 @@
       "Name": "Your Answer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:02.8957668+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:04:46.8217918+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:59:59.0935066+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:02.8957917+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:01:14.7159554+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:04:46.8218236+00:00"
 }

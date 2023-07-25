@@ -2540,7 +2540,7 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 16006,
+  "EOS_Progressed": 16008,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -7855,6 +7855,11 @@
       "Time": "2023-07-25T14:03:46.120401+00:00",
       "NumProgressed": 16006,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-25T16:05:18.043645+00:00",
+      "NumProgressed": 16008,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -8232,9 +8237,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 480
     },
     {
       "ID": "WinWithoutDeath",
@@ -8265,15 +8270,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16006,
+      "Progressed": 16008,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-24T05:02:02.4885311+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:25.3153577+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:05:18.0436445+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-25T15:00:53.2467531+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:25.3154151+00:00"
+  "LastUpdate_Ratings": "2023-07-25T16:02:37.2740455+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:05:18.0437257+00:00"
 }

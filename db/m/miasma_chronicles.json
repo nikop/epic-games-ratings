@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2885,9 +2885,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 516
     },
     {
       "ID": "THE_WATCHERS",
@@ -2918,8 +2918,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:04:31.2720756+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:05:25.7620844+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:59:01.5574534+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:04:31.2721183+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:59:53.7637442+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:05:25.7621573+00:00"
 }

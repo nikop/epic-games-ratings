@@ -5,16 +5,16 @@ Rating: 4.10 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,593 |
-| World Map | 79.00% | ~1,353 |
-| Temple of Eternals | 56.00% | ~959 |
-| Prestigious | 53.00% | ~908 |
-| Fellowship Power | 41.00% | ~702 |
-| Guild Power | 25.00% | ~428 |
+| Victor | 93.00% | ~1,595 |
+| World Map | 79.00% | ~1,355 |
+| Temple of Eternals | 56.00% | ~960 |
+| Prestigious | 53.00% | ~909 |
+| Fellowship Power | 41.00% | ~703 |
+| Guild Power | 25.00% | ~429 |
 | Prestigious x10 | 21.00% | ~360 |
-| The game is on | 19.00% | ~325 |
-| Exotic Merchant | 18.00% | ~308 |
-| Dragon Clicker | 17.00% | ~291 |
+| The game is on | 19.00% | ~326 |
+| Exotic Merchant | 18.00% | ~309 |
+| Dragon Clicker | 17.00% | ~292 |
 | Miner Clicker | 16.00% | ~274 |
 | Full Party | 15.00% | ~257 |
 | Inspection | 15.00% | ~257 |
@@ -27,14 +27,14 @@ Rating: 4.10 (Ranked 891)
 | Milestone collector | 12.00% | ~206 |
 | Natural Talent | 12.00% | ~206 |
 | Superior | 12.00% | ~206 |
-| Scientist | 11.00% | ~188 |
-| Challenger | 10.00% | ~171 |
-| Doing My Part | 10.00% | ~171 |
-| Hunter | 10.00% | ~171 |
-| Mastery | 10.00% | ~171 |
-| Relic Of The Past | 10.00% | ~171 |
-| Scroll Master | 10.00% | ~171 |
-| The power of Awakening | 10.00% | ~171 |
+| Scientist | 11.00% | ~189 |
+| Challenger | 10.00% | ~172 |
+| Doing My Part | 10.00% | ~172 |
+| Hunter | 10.00% | ~172 |
+| Mastery | 10.00% | ~172 |
+| Relic Of The Past | 10.00% | ~172 |
+| Scroll Master | 10.00% | ~172 |
+| The power of Awakening | 10.00% | ~172 |
 | Daily Quest Completionist | 9.00% | ~154 |
 | Four Leaf Clover | 9.00% | ~154 |
 | Frostfire Liberator | 9.00% | ~154 |
@@ -54,11 +54,11 @@ Rating: 4.10 (Ranked 891)
 | Ancient Knowledge | 5.00% | ~86 |
 | Blueprint Upgrades | 5.00% | ~86 |
 | Lock And Load | 5.00% | ~86 |
-| Active Member | 4.00% | ~69 |
 | Background Story | 4.00% | ~69 |
 | Legendary | 4.00% | ~69 |
 | Sailor | 4.00% | ~69 |
 | The Alchemist | 4.00% | ~69 |
+| Active Member | 3.00% | ~51 |
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 891)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,713 (Ranked 170)  
+Progressed: 1,715 (Ranked 170)  
 Completed: 1 (0.06%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.06%) (Ranked 201)
 | 2023-07-22 | 1,699 | 1 |
 | 2023-07-23 | 1,706 | 1 |
 | 2023-07-24 | 1,712 | 1 |
-| 2023-07-25 | 1,713 | 1 |
+| 2023-07-25 | 1,715 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

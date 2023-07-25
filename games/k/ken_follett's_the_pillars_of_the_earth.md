@@ -10,11 +10,11 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 35.00% | ~4,946 |
 | Friends of sorts | 34.00% | ~4,805 |
 | Yet another secret | 34.00% | ~4,805 |
-| Let there be darkness | 33.00% | ~4,663 |
-| End of Book One | 30.00% | ~4,239 |
-| Wannabe knight | 24.00% | ~3,391 |
-| Garden of Eden | 24.00% | ~3,391 |
-| Full house | 24.00% | ~3,391 |
+| Let there be darkness | 33.00% | ~4,664 |
+| End of Book One | 30.00% | ~4,240 |
+| Wannabe knight | 24.00% | ~3,392 |
+| Garden of Eden | 24.00% | ~3,392 |
+| Full house | 24.00% | ~3,392 |
 | Help an old friend | 22.00% | ~3,109 |
 | Two of us | 20.00% | ~2,826 |
 | Negotiation skills | 18.00% | ~2,544 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~1,978 |
 | Exterminator | 14.00% | ~1,978 |
 | Whodunnit | 13.00% | ~1,837 |
-| Good midwife | 11.00% | ~1,554 |
-| Friar Tuck | 11.00% | ~1,554 |
-| First profit | 11.00% | ~1,554 |
+| Good midwife | 11.00% | ~1,555 |
+| Friar Tuck | 11.00% | ~1,555 |
+| First profit | 11.00% | ~1,555 |
 | Team player | 10.00% | ~1,413 |
 | Skilled merchant | 9.00% | ~1,272 |
 | Nothing but make-believe | 9.00% | ~1,272 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,272 |
 | The truth revealed | 9.00% | ~1,272 |
 | The End. | 9.00% | ~1,272 |
-| A cry for help | 8.00% | ~1,130 |
+| A cry for help | 8.00% | ~1,131 |
 | Silentium est aureum | 7.00% | ~989 |
 | Rebel without a cause | 6.00% | ~848 |
 | Staring contest champion | 5.00% | ~707 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~424 |
 | Boy of mystery | 2.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,131 (Ranked 113)  
+Progressed: 14,132 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 105 (0.74%) (Ranked 116)
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
-| 2023-07-25 | 14,131 | 105 |
+| 2023-07-25 | 14,132 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 369)  

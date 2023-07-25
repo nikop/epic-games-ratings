@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2023-07-25T14:05:12.3611936+00:00",
       "NumProgressed": 642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T16:07:04.4533918+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1300,15 +1305,15 @@
       "Name": "How Many Do You Need?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1364,7 +1369,7 @@
       "Name": "Capraphobia",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1492,7 +1497,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1508,7 +1513,7 @@
       "Name": "Fire Alarm",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1532,7 +1537,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1540,7 +1545,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1564,7 +1569,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1612,7 +1617,7 @@
       "Name": "And There We Go",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1819,14 +1824,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-25T15:05:41.2603013+00:00",
+  "LastChanged_Achievements": "2023-07-25T16:07:04.4533912+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-25T14:57:24.9918596+00:00",
-  "LastUpdate_Achievements": "2023-07-25T15:05:41.2603602+00:00"
+  "LastUpdate_Ratings": "2023-07-25T15:57:35.3700796+00:00",
+  "LastUpdate_Achievements": "2023-07-25T16:07:04.4534764+00:00"
 }
