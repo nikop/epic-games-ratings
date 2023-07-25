@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.30% | ~39 |
 | Mason | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
+| Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Colossus | 0.20% | ~26 |
-| Great Ziggurat | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Necropolis | 0.20% | ~26 |
 | Learn to Play 1 | 0.20% | ~26 |

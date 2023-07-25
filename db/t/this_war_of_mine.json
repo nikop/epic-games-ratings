@@ -2,12 +2,12 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
-  "Ranking_Rating": 142,
+  "Ranking_Rating": 157,
   "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 1090,
   "RatingHistory": [
     {
@@ -1342,6 +1342,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 650,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-07-25T05:00:42.0759585+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 650,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
@@ -1429,9 +1435,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-07-24T05:01:01.8765099+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:02:04.4291146+00:00",
+  "LastChanged": "2023-07-25T05:00:42.0759584+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:02:20.2822317+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:18.9775859+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:00:40.2679254+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:02:04.4291225+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:00:42.075959+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:02:20.2822344+00:00"
 }

@@ -6,42 +6,50 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.90% | ~1,938 |
+| A Brief Tour of the Realms | 1.00% | ~2,153 |
 | Beast Intentions | 0.90% | ~1,938 |
-| Maddening | 0.60% | ~1,292 |
+| Maddening | 0.70% | ~1,507 |
 | The Silken Swamp | 0.50% | ~1,076 |
-| Supply Run | 0.40% | ~861 |
-| Rocky Reception | 0.40% | ~726 |
+| Supply Run | 0.50% | ~1,076 |
+| Rocky Reception | 0.50% | ~908 |
+| Vecna Lives! | 0.40% | ~726 |
 | Rock and Roll | 0.40% | ~726 |
+| Flight of the Kindori Pod | 0.40% | ~726 |
+| Pros and CONs | 0.30% | ~646 |
 | Tall Tales | 0.30% | ~545 |
-| Vecna Lives! | 0.30% | ~545 |
+| Wet Feet | 0.30% | ~646 |
+| Seeds of Destruction | 0.30% | ~545 |
 | Vecna Loots! | 0.30% | ~545 |
+| Return to the Tomb | 0.30% | ~545 |
 | The Champion's Guide to Wildspace | 0.30% | ~545 |
-| Flight of the Kindori Pod | 0.30% | ~545 |
+| Calcryx Tricks | 0.30% | ~545 |
 | Topolah's Tower | 0.30% | ~545 |
-| Pros and CONs | 0.20% | ~431 |
 | The Witchlight Carnival | 0.20% | ~363 |
 | Thieves of the Coven | 0.20% | ~363 |
-| Wet Feet | 0.20% | ~431 |
 | Hatchlings Underfoot | 0.20% | ~431 |
 | Don't Look Up! | 0.20% | ~431 |
 | Heavy Burden | 0.20% | ~431 |
-| Seeds of Destruction | 0.20% | ~363 |
 | The Evacuation of Waterdeep | 0.20% | ~363 |
 | On the Hunt | 0.20% | ~431 |
+| Best Thay Ever | 0.20% | ~363 |
 | Friends of the Forest | 0.20% | ~431 |
-| Return to the Tomb | 0.20% | ~363 |
 | Heatwave | 0.20% | ~363 |
 | The Dread Domain of Tovag | 0.20% | ~363 |
+| Were-verpowered | 0.20% | ~431 |
 | A Persistent Buzzing | 0.20% | ~431 |
+| No One Can Hear You Scream | 0.20% | ~363 |
 | Beast Mode | 0.20% | ~431 |
 | Terror in the Dark | 0.20% | ~431 |
 | Low Initiative | 0.20% | ~431 |
 | A Mysterious Summons | 0.20% | ~431 |
+| Street War | 0.20% | ~431 |
 | Building Trust | 0.20% | ~431 |
+| March of the Undead | 0.20% | ~431 |
 | Unearthed Evil | 0.20% | ~431 |
+| No Time To Rest | 0.20% | ~431 |
 | The Mists of Ravenloft | 0.20% | ~431 |
 | The Dinner Party | 0.20% | ~431 |
+| The Botched Kidnapping | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
 | The Mad Wizard | 0.20% | ~431 |
@@ -54,15 +62,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
+| Rescue in the Jungle | 0.20% | ~431 |
 | Willing to Sacrifice | 0.20% | ~363 |
 | Devilishly Cold | 0.20% | ~363 |
 | Not That Type of Helm! | 0.20% | ~363 |
-| Calcryx Tricks | 0.20% | ~363 |
 | Goblin Halls: the Next Generation | 0.20% | ~363 |
 | Bazaar Companions | 0.20% | ~363 |
 | Bahamut's Army | 0.20% | ~363 |
 | Luigi After Hours | 0.20% | ~363 |
 | Electric Mayhem | 0.20% | ~363 |
+| 3,720 to 1 | 0.20% | ~363 |
 | Krux's Speed Run | 0.20% | ~363 |
 | Animated Giff | 0.20% | ~363 |
 | Upholding the Law | 0.10% | ~215 |
@@ -133,7 +142,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.10% | ~182 |
 | Owlbear Necessities | 0.10% | ~182 |
 | Flapjacks and Waffles | 0.10% | ~182 |
-| Best Thay Ever | 0.10% | ~182 |
 | Overwhelmed with Knowledge | 0.10% | ~182 |
 | A Demi-god's Defender | 0.10% | ~182 |
 | Well Equipped | 0.10% | ~182 |
@@ -151,7 +159,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~182 |
 | Get Back In The Castle | 0.10% | ~182 |
 | Kas the Destroyer | 0.10% | ~182 |
-| Were-verpowered | 0.10% | ~215 |
 | Checkmate | 0.10% | ~182 |
 | Pin and Skewer | 0.10% | ~182 |
 | Vecna Out! | 0.10% | ~182 |
@@ -176,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~182 |
 | The Palace of Heart's Desire | 0.10% | ~182 |
 | The Egg of Nat's Desire | 0.10% | ~182 |
-| No One Can Hear You Scream | 0.10% | ~182 |
 | Anchors Aweigh | 0.10% | ~182 |
 | Welcome to the Rock | 0.10% | ~182 |
 | Welcome to the Band | 0.10% | ~182 |
@@ -188,10 +194,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~215 |
 | Double Vision | 0.10% | ~215 |
 | Underground Railroad | 0.10% | ~215 |
-| Street War | 0.10% | ~215 |
 | Force Grey Unleashed | 0.10% | ~215 |
 | Vajra's Guards | 0.10% | ~215 |
-| March of the Undead | 0.10% | ~215 |
 | Wisdom Check | 0.10% | ~215 |
 | Sleuth It Out | 0.10% | ~215 |
 | The Newcomers of Notoriety | 0.10% | ~182 |
@@ -203,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~215 |
 | Azaka's Procession - Part 2 | 0.10% | ~215 |
 | Acererak's Puzzle | 0.10% | ~182 |
-| No Time To Rest | 0.10% | ~215 |
 | The Hunt for Owl-y | 0.10% | ~215 |
 | Invisible Shadows | 0.10% | ~215 |
 | Werewolves in the Mist | 0.10% | ~215 |
@@ -215,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~215 |
 | Modron Assistance | 0.10% | ~215 |
 | Thine Bounty is Mine! | 0.10% | ~182 |
-| The Botched Kidnapping | 0.10% | ~215 |
 | Haaave You Met Asmodeus? | 0.10% | ~215 |
 | Domesticated Owlbears | 0.10% | ~215 |
 | This Quest Stinks! | 0.10% | ~182 |
@@ -510,17 +512,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~215 |
 | Poor Guidance | 0.10% | ~215 |
 | Overwhelming Force | 0.10% | ~215 |
-| Rescue in the Jungle | 0.10% | ~215 |
 | The Court of Storms | 0.10% | ~182 |
 | Coasting to the Finish | 0.10% | ~182 |
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 | Tiny Treaty | 0.10% | ~182 |
 | All The World's A Stage | 0.10% | ~182 |
-| 3,720 to 1 | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,291 (Ranked 53)  
-Completed: 2,087 (0.97%) (Ranked 107)  
+Progressed: 215,299 (Ranked 53)  
+Completed: 2,089 (0.97%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -615,7 +615,7 @@ Completed: 2,087 (0.97%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,291 | 2,087 |
+| 2023-07-25 | 215,299 | 2,089 |
 ## Awards
 Max (Diverse Characters): 5,064  (Ranked 66)  
 Sum: 30,698 (Ranked 38)  

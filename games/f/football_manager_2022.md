@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~234,021 |
-| First Victory | 50.00% | ~234,021 |
+| He's Signed! | 50.00% | ~234,022 |
+| First Victory | 50.00% | ~234,022 |
 | Clean Sheet | 49.00% | ~229,341 |
 | He's Sold! | 47.00% | ~219,980 |
-| I'm The Boss! | 41.00% | ~191,897 |
-| Hat-trick | 41.00% | ~191,897 |
+| I'm The Boss! | 41.00% | ~191,898 |
+| Hat-trick | 41.00% | ~191,898 |
 | Scoring Streak | 38.00% | ~177,856 |
 | Unbeatable! | 37.00% | ~173,176 |
 | Thumping | 37.00% | ~173,176 |
 | Superb Dressing Room Atmosphere | 35.00% | ~163,815 |
-| Total Support | 32.00% | ~149,773 |
-| Record Signing | 32.00% | ~149,773 |
+| Total Support | 32.00% | ~149,774 |
+| Record Signing | 32.00% | ~149,774 |
 | Millionaire's Club | 31.00% | ~145,093 |
 | Team Performance | 30.00% | ~140,413 |
 | He's a Natural | 30.00% | ~140,413 |
@@ -29,7 +29,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~121,691 |
 | Tremendous Trio | 26.00% | ~121,691 |
 | Record Sale | 26.00% | ~121,691 |
-| Unstoppable Force | 25.00% | ~117,010 |
+| Unstoppable Force | 25.00% | ~117,011 |
 | Fantastic Five | 24.00% | ~112,330 |
 | Full Faith | 24.00% | ~112,330 |
 | The Boss | 24.00% | ~112,330 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,206 |
 | Window Shopping | 15.00% | ~70,206 |
 | Eyes and Ears | 14.00% | ~65,526 |
-| Comeback King! | 13.00% | ~60,845 |
-| You're Up! | 13.00% | ~60,845 |
+| Comeback King! | 13.00% | ~60,846 |
+| You're Up! | 13.00% | ~60,846 |
 | Money, Money, Money | 12.00% | ~56,165 |
 | Superb Strike | 10.00% | ~46,804 |
 | Invincible! | 10.00% | ~46,804 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~468 |
 | Shoestring Budget | 0.10% | ~468 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,042 (Ranked 35)  
+Progressed: 468,043 (Ranked 35)  
 Completed: 19 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 19 (0.00%) (Ranked 242)
 | 2023-07-22 | 467,807 | 19 |
 | 2023-07-23 | 467,928 | 19 |
 | 2023-07-24 | 468,027 | 19 |
-| 2023-07-25 | 468,042 | 19 |
+| 2023-07-25 | 468,043 | 19 |
 ## Awards
 Max (Relaxing): 6,371  (Ranked 52)  
 Sum: 50,198 (Ranked 24)  

@@ -569,9 +569,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-07-25T03:07:54.5041174+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T05:04:09.7610406+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1083,7 +1088,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -1091,7 +1096,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -1194,15 +1199,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-25T02:15:01.1446676+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:04:02.5528024+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:04:09.7610402+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:59:29.6864902+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:04:02.5528262+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:59:34.5319688+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:04:09.7610606+00:00"
 }

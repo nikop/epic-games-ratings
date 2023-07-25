@@ -22,15 +22,15 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 5.00% | ~13 |
 | Deadication | 5.00% | ~13 |
 | Horder Better Faster Stronger | 5.00% | ~13 |
-| The Fourth Gate | 4.00% | ~10 |
-| The Harder They Fall | 4.00% | ~10 |
+| The Fourth Gate | 4.00% | ~11 |
+| The Harder They Fall | 4.00% | ~11 |
 | Season Finale | 3.00% | ~8 |
 | We've Got a Kaiju on the Field | 0.40% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 256)  
+Progressed: 263 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 161 | 0 |
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
-| 2023-07-25 | 262 | 0 |
+| 2023-07-25 | 263 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

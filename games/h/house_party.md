@@ -6,8 +6,8 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 3.00% | ~175 |
-| Smooth Operator: Madison | 3.00% | ~175 |
+| A Friend in Need... | 3.00% | ~176 |
+| Smooth Operator: Madison | 3.00% | ~176 |
 | The Brahdyssey | 2.00% | ~117 |
 | Caught in the Act | 2.00% | ~117 |
 | Katherine | 2.00% | ~117 |
@@ -32,12 +32,12 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Crush | 0.40% | ~23 |
+| Te Amo Lety | 0.40% | ~23 |
 | Ashley | 0.30% | ~18 |
 | Benedict Brahrnold | 0.30% | ~18 |
 | Love Conquers All | 0.30% | ~18 |
 | Rachael | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
-| Te Amo Lety | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | The Bride | 0.20% | ~12 |
 | Deck the Balls | 0.20% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,849 (Ranked 134)  
+Progressed: 5,850 (Ranked 134)  
 Completed: 3 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 3 (0.05%) (Ranked 206)
 | 2023-07-22 | 5,818 | 3 |
 | 2023-07-23 | 5,839 | 3 |
 | 2023-07-24 | 5,846 | 3 |
-| 2023-07-25 | 5,849 | 3 |
+| 2023-07-25 | 5,850 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

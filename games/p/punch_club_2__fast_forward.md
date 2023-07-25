@@ -15,7 +15,7 @@
 | Depressed visitor | 75.00% | ~104 |
 | Neurotrainer – power gainer! | 75.00% | ~104 |
 | Employee of the week | 74.00% | ~103 |
-| Your own amateur gym | 69.00% | ~96 |
+| Your own amateur gym | 70.00% | ~97 |
 | Run K, run! | 66.00% | ~92 |
 | No bullying more | 65.00% | ~90 |
 | Hello, world! | 64.00% | ~89 |
@@ -37,18 +37,18 @@
 | Extreme neuropower! | 42.00% | ~58 |
 | Now you are worthy | 37.00% | ~51 |
 | Legal courier | 37.00% | ~51 |
-| Escaped from a big trouble | 30.00% | ~42 |
+| Escaped from a big trouble | 31.00% | ~43 |
 | Mysterious voice | 29.00% | ~40 |
 | No blades in the gym | 29.00% | ~40 |
 | Guiding on the right path | 29.00% | ~40 |
+| Responsible approach | 28.00% | ~39 |
 | Fight is life | 27.00% | ~38 |
-| Responsible approach | 27.00% | ~38 |
 | Deal with life | 25.00% | ~35 |
+| Mom got better | 24.00% | ~33 |
 | Champion – no way back | 24.00% | ~33 |
 | Get out of my apartment! | 24.00% | ~33 |
 | The die is cast | 24.00% | ~33 |
 | Underground dwellers | 24.00% | ~33 |
-| Mom got better | 23.00% | ~32 |
 | Gang wrangler | 22.00% | ~31 |
 | Anyone can resist | 22.00% | ~31 |
 | Seashell hunter | 22.00% | ~31 |

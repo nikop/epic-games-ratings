@@ -6,7 +6,7 @@
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6442,
+  "EOS_Progressed": 6443,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3647,6 +3647,11 @@
       "Time": "2023-07-25T03:09:39.49252+00:00",
       "NumProgressed": 6442,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-25T05:05:42.5702936+00:00",
+      "NumProgressed": 6443,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3850,7 +3855,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3543
+      "UsersEstimate": 3544
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3898,7 +3903,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -3946,7 +3951,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -4010,14 +4015,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6442,
+      "Progressed": 6443,
       "Completed": 8
     }
   ],
@@ -4025,8 +4030,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:05:41.1412247+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:05:42.5702931+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:58:29.7926927+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:05:41.14129+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:58:25.7696312+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:05:42.5703486+00:00"
 }

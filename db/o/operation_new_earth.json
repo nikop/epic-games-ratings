@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-07-24T21:10:07.2183674+00:00",
       "NumProgressed": 612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T05:06:23.4454045+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2112,7 +2117,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2136,7 +2141,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2184,7 +2189,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_headquarters_10",
@@ -2200,7 +2205,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_headquarters_20",
@@ -2288,7 +2293,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2304,7 +2309,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2368,7 +2373,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2415,14 +2420,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:06:26.6396396+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:06:23.4454041+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:01:51.9086961+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:06:26.63969+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:02:07.5599107+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:06:23.4454543+00:00"
 }

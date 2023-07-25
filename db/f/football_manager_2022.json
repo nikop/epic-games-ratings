@@ -6107,7 +6107,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468042,
+  "EOS_Progressed": 468043,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
@@ -16007,6 +16007,11 @@
       "Time": "2023-07-25T04:05:09.9995979+00:00",
       "NumProgressed": 468042,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-25T05:05:05.3827259+00:00",
+      "NumProgressed": 468043,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -16250,7 +16255,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191897
+      "UsersEstimate": 191898
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -16338,7 +16343,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191897
+      "UsersEstimate": 191898
     },
     {
       "ID": "achievement_head_to_head",
@@ -16410,7 +16415,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117010
+      "UsersEstimate": 117011
     },
     {
       "ID": "achievement_mr_delegator",
@@ -16450,7 +16455,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 149773
+      "UsersEstimate": 149774
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -16522,7 +16527,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 149773
+      "UsersEstimate": 149774
     },
     {
       "ID": "achievement_rushed_signing",
@@ -16570,7 +16575,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234021
+      "UsersEstimate": 234022
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -16618,7 +16623,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60845
+      "UsersEstimate": 60846
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -16650,7 +16655,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234021
+      "UsersEstimate": 234022
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -16674,7 +16679,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60845
+      "UsersEstimate": 60846
     },
     {
       "ID": "achievement_won_world_cup",
@@ -16801,15 +16806,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468042,
+      "Progressed": 468043,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-25T00:03:33.9250634+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:05:09.9995973+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:05:05.3827254+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0444975+00:00",
-  "LastUpdate_Ratings": "2023-07-25T04:01:44.3374713+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:05:09.9999249+00:00"
+  "LastUpdate_Ratings": "2023-07-25T05:01:57.7110731+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:05:05.3828913+00:00"
 }

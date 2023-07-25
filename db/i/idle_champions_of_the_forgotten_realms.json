@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5266,10 +5266,10 @@
       "Count": 3309
     }
   ],
-  "EOS_Progressed": 215291,
-  "EOS_Completed": 2087,
-  "EOS_NewPlayers": 2373,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 215299,
+  "EOS_Completed": 2089,
+  "EOS_NewPlayers": 2364,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -15501,6 +15501,11 @@
       "Time": "2023-07-25T04:07:41.3835525+00:00",
       "NumProgressed": 215291,
       "NumCompleted": 2087
+    },
+    {
+      "Time": "2023-07-25T05:07:52.4635691+00:00",
+      "NumProgressed": 215299,
+      "NumCompleted": 2089
     }
   ],
   "TotalAchievements": 512,
@@ -15510,25 +15515,25 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 2153
     },
     {
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1507
     },
     {
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_101",
@@ -15886,9 +15891,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1100",
@@ -16070,9 +16075,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1076
     },
     {
       "ID": "objective_completed_1142",
@@ -16134,9 +16139,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1153",
@@ -16182,17 +16187,17 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1164",
@@ -16246,9 +16251,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1174",
@@ -16374,9 +16379,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1203",
@@ -16582,9 +16587,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1346",
@@ -16710,9 +16715,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_166",
@@ -16742,9 +16747,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_170",
@@ -16846,9 +16851,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_208",
@@ -16958,9 +16963,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_236",
@@ -19414,9 +19419,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_1355",
@@ -19502,9 +19507,9 @@
       "ID": "objective_completed_568",
       "SetID": "415jc5c",
       "Name": "Calcryx Tricks",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_593",
@@ -19534,9 +19539,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 908
     },
     {
       "ID": "objective_completed_1376",
@@ -19566,17 +19571,17 @@
       "ID": "objective_completed_1385",
       "SetID": "415jc5c",
       "Name": "Flight of the Kindori Pod",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_1386",
       "SetID": "415jc5c",
       "Name": "3,720 to 1",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_1390",
@@ -19607,21 +19612,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181565,
-      "Completed": 2920
+      "Progressed": 181573,
+      "Completed": 2926
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215291,
-      "Completed": 2087
+      "Progressed": 215299,
+      "Completed": 2089
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T03:02:51.358873+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:07:41.3835521+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:07:52.4635688+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:59:08.4622643+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:07:41.3864186+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:59:10.9723033+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:07:52.4661836+00:00"
 }

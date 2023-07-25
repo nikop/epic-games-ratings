@@ -720,9 +720,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -736,17 +736,17 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:06:13.804494+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:06:07.2248201+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:57:39.8150034+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:06:13.8045115+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:57:33.5667801+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:06:07.2248375+00:00"
 }

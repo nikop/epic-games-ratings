@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523164,
+  "EOS_Progressed": 523165,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10410,6 +10410,11 @@
       "Time": "2023-07-25T04:04:12.8889465+00:00",
       "NumProgressed": 523164,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2023-07-25T05:04:21.9994968+00:00",
+      "NumProgressed": 523165,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 57,
@@ -10437,7 +10442,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366215
+      "UsersEstimate": 366216
     },
     {
       "ID": "12",
@@ -10517,7 +10522,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125559
+      "UsersEstimate": 125560
     },
     {
       "ID": "21",
@@ -10541,7 +10546,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36621
+      "UsersEstimate": 36622
     },
     {
       "ID": "24",
@@ -10621,7 +10626,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36621
+      "UsersEstimate": 36622
     },
     {
       "ID": "33",
@@ -10725,7 +10730,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36621
+      "UsersEstimate": 36622
     },
     {
       "ID": "45",
@@ -10797,7 +10802,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240655
+      "UsersEstimate": 240656
     },
     {
       "ID": "53",
@@ -10876,15 +10881,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 523164,
+      "Progressed": 523165,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-25T04:04:12.8889457+00:00",
+  "LastChanged_Achievements": "2023-07-25T05:04:21.9994965+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.3854375+00:00",
-  "LastUpdate_Ratings": "2023-07-25T03:58:23.2018923+00:00",
-  "LastUpdate_Achievements": "2023-07-25T04:04:12.8890886+00:00"
+  "LastUpdate_Ratings": "2023-07-25T04:58:16.7757528+00:00",
+  "LastUpdate_Achievements": "2023-07-25T05:04:21.9996044+00:00"
 }
