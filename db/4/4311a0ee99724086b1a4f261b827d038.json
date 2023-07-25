@@ -2,9 +2,9 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-07-24T19:03:12.3333295+00:00",
       "NumProgressed": 23,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T21:03:46.298999+00:00",
+      "NumProgressed": 24,
       "NumCompleted": 0
     }
   ],
@@ -108,7 +113,7 @@
       "ID": "HW1_MISSION1_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Kharak System Completed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -236,7 +241,7 @@
       "ID": "HW2_MISSION1_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Tanis Completed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -325,13 +330,13 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:03:39.5605295+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:03:46.2989983+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:57:13.1149818+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:03:39.5605507+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:57:24.6909765+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:03:46.2990275+00:00"
 }

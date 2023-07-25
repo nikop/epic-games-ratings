@@ -1313,9 +1313,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "sell-variety",
@@ -1369,8 +1369,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:07:29.8162963+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:08:10.825177+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:01:24.8348892+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:07:29.8163107+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:02:01.0604449+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:08:10.8251983+00:00"
 }

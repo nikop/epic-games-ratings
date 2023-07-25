@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.40% | ~727 |
 | Bahamut's Army | 0.40% | ~727 |
 | Krux's Speed Run | 0.40% | ~727 |
+| Upholding the Law | 0.30% | ~646 |
 | Thieves of the Coven | 0.30% | ~545 |
 | The Evacuation of Waterdeep | 0.30% | ~545 |
 | On the Hunt | 0.30% | ~646 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.30% | ~545 |
 | 3,720 to 1 | 0.30% | ~545 |
 | Animated Giff | 0.30% | ~545 |
-| Upholding the Law | 0.20% | ~431 |
 | Starving in the Jungle | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~364 |
 | Hither of the Feywild | 0.20% | ~364 |
@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Best Thay Ever | 0.20% | ~364 |
+| Overwhelmed with Knowledge | 0.20% | ~364 |
 | Well Equipped | 0.20% | ~364 |
 | More Than Well Equipped | 0.20% | ~364 |
 | Keep Your Distance | 0.20% | ~364 |
@@ -104,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
+| Dinosaur Racing | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | Close Escort | 0.20% | ~431 |
@@ -178,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Overwhelmed with Knowledge | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
 | To Avernus in a Handbasket | 0.10% | ~182 |
 | Hands Off! | 0.10% | ~182 |
@@ -360,7 +361,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~215 |
 | The Nimble Grove | 0.10% | ~215 |
 | The Misty Grove | 0.10% | ~182 |
-| Dinosaur Racing | 0.10% | ~215 |
 | Elturel Has Fallen | 0.10% | ~215 |
 | Everything is Awful | 0.10% | ~215 |
 | Earthquake! | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,480 (Ranked 53)  
+Progressed: 215,493 (Ranked 53)  
 Completed: 2,108 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 2,108 (0.98%) (Ranked 107)
 | 2023-07-22 | 214,639 | 2,060 |
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
-| 2023-07-25 | 215,480 | 2,108 |
+| 2023-07-25 | 215,493 | 2,108 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

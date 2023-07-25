@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 77.00% | ~217 |
-| Photo shoot | 15.00% | ~42 |
-| Wannabe | 9.00% | ~25 |
-| No brakes | 9.00% | ~25 |
+| Newbie | 78.00% | ~223 |
+| Photo shoot | 15.00% | ~43 |
+| Wannabe | 10.00% | ~29 |
+| No brakes | 9.00% | ~26 |
 | Better than cake | 7.00% | ~20 |
-| First taste | 4.00% | ~11 |
+| First taste | 3.00% | ~9 |
 | Amateur hitchhiker | 2.00% | ~6 |
 | Hero | 1.00% | ~3 |
 | Loyalty | 0.70% | ~2 |
@@ -18,20 +18,20 @@
 | Hattrick | 0.70% | ~2 |
 | Tutorial master | 0.70% | ~2 |
 | Weatherman | 0.70% | ~2 |
-| Amateur newbie | 0.40% | ~1 |
-| Pro newbie | 0.40% | ~1 |
-| Monster Amateur car | 0.40% | ~1 |
-| Pro hitchhiker | 0.40% | ~1 |
-| Amateur wannabe | 0.40% | ~1 |
-| Knockout Amateur | 0.40% | ~1 |
-| No brakes Amateur | 0.40% | ~1 |
-| First Amateur taste | 0.40% | ~1 |
-| Addict | 0.40% | ~1 |
-| Shepherd | 0.40% | ~1 |
-| Amateur hattrick | 0.40% | ~1 |
-| Untouchable | 0.40% | ~1 |
-| Amateur photo shoot | 0.40% | ~1 |
-| On the top | 0.40% | ~1 |
+| Amateur newbie | 0.30% | ~1 |
+| Pro newbie | 0.30% | ~1 |
+| Monster Amateur car | 0.30% | ~1 |
+| Pro hitchhiker | 0.30% | ~1 |
+| Amateur wannabe | 0.30% | ~1 |
+| Knockout Amateur | 0.30% | ~1 |
+| No brakes Amateur | 0.30% | ~1 |
+| First Amateur taste | 0.30% | ~1 |
+| Addict | 0.30% | ~1 |
+| Shepherd | 0.30% | ~1 |
+| Amateur hattrick | 0.30% | ~1 |
+| Untouchable | 0.30% | ~1 |
+| Amateur photo shoot | 0.30% | ~1 |
+| On the top | 0.30% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 254)  
+Progressed: 286 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,4 +224,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-19 | 274 | 0 |
 | 2023-07-21 | 280 | 0 |
 | 2023-07-22 | 281 | 0 |
-| 2023-07-25 | 282 | 0 |
+| 2023-07-25 | 286 | 0 |

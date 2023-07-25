@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,7 +80,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1085,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -700,6 +700,11 @@
       "Time": "2023-07-24T15:03:35.4002717+00:00",
       "NumProgressed": 1085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T21:04:03.3783472+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -863,7 +868,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -885,9 +890,9 @@
       "ID": "CAREERTRIALSA",
       "SetID": "3dh70f3",
       "Name": "Had to sweat a bit",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 33
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1007,7 +1012,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ONELIVERY",
@@ -1029,9 +1034,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 185
     },
     {
       "ID": "ONEPLATINUM",
@@ -1101,9 +1106,9 @@
       "ID": "WINLAST",
       "SetID": "3dh70f3",
       "Name": "He who laughs last...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 33
     },
     {
       "ID": "WINONEONLINE",
@@ -1126,7 +1131,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1085,
+      "Progressed": 1086,
       "Completed": 0
     }
   ],
@@ -1134,8 +1139,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:03:45.6570377+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:04:03.3783464+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:48.2095913+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:58:59.3021231+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:03:45.657076+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:59:24.5046518+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:04:03.3784093+00:00"
 }

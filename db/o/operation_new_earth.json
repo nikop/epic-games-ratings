@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2136,6 +2136,11 @@
       "Time": "2023-07-25T20:06:05.6861706+00:00",
       "NumProgressed": 622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-25T21:06:42.1760162+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2227,7 +2232,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_headquarters_15",
@@ -2323,7 +2328,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2387,7 +2392,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2450,14 +2455,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:06:05.6861702+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:06:42.1760155+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:01:45.1657816+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:06:05.6862027+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:02:20.7744887+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:06:42.1760593+00:00"
 }

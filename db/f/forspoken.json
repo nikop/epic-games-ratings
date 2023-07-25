@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39233,
+  "EOS_Progressed": 39236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5948,6 +5948,11 @@
       "Time": "2023-07-25T19:03:53.7466971+00:00",
       "NumProgressed": 39233,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T21:05:00.9101317+00:00",
+      "NumProgressed": 39236,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6111,7 +6116,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "CUFF_ATTACK",
@@ -6382,22 +6387,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39233,
+      "Progressed": 39236,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4070,
-      "Completed": 4070
+      "Progressed": 4073,
+      "Completed": 4073
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:43.2135257+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:05:00.9101309+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:59:28.1223326+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:43.2135898+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:59:52.9275404+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:05:00.9102337+00:00"
 }

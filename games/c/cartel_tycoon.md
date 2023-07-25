@@ -18,7 +18,7 @@ Number of Ratings: 101  (23.09.2022)
 | Don't Let Mom Know You're A Druglord | 31.00% | ~144 |
 | Architect of Fortunes | 25.00% | ~116 |
 | Pampered Life | 25.00% | ~116 |
-| Bite the Blow | 23.00% | ~107 |
+| Bite the Blow | 24.00% | ~112 |
 | Spreading Fear | 10.00% | ~46 |
 | I'm Going To Call You Kitty | 8.00% | ~37 |
 | Follow the Money | 7.00% | ~33 |

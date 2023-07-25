@@ -95,9 +95,9 @@
       "ID": "energy1500",
       "SetID": "bbgli2k",
       "Name": "Unlimited Power!!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "energy250",
@@ -295,9 +295,9 @@
       "ID": "quest006",
       "SetID": "bbgli2k",
       "Name": "The Woman and the Pizzeria",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "quest007",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:07:31.009903+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:08:12.0222606+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3689264+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:57:50.9469954+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:07:31.0099268+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:58:07.6734639+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:08:12.0222978+00:00"
 }

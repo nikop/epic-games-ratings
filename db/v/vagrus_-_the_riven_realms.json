@@ -619,9 +619,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1188,8 +1188,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:43.315115+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:05:00.9653323+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:24.2862582+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:59:44.8645916+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:43.3152121+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:00:12.9451575+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:05:00.9654962+00:00"
 }

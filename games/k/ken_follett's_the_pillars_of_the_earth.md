@@ -7,20 +7,20 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,797 |
-| Man of politics | 35.00% | ~4,948 |
+| Man of politics | 35.00% | ~4,949 |
 | Friends of sorts | 34.00% | ~4,807 |
 | Yet another secret | 34.00% | ~4,807 |
 | Let there be darkness | 33.00% | ~4,666 |
-| End of Book One | 30.00% | ~4,241 |
+| End of Book One | 30.00% | ~4,242 |
 | Wannabe knight | 24.00% | ~3,393 |
 | Garden of Eden | 24.00% | ~3,393 |
 | Full house | 24.00% | ~3,393 |
-| Help an old friend | 22.00% | ~3,110 |
+| Help an old friend | 22.00% | ~3,111 |
 | Two of us | 20.00% | ~2,828 |
 | Negotiation skills | 18.00% | ~2,545 |
 | Workers' union | 18.00% | ~2,545 |
 | End of Book Two | 18.00% | ~2,545 |
-| Everything's in order | 17.00% | ~2,403 |
+| Everything's in order | 17.00% | ~2,404 |
 | Jack was here! | 15.00% | ~2,121 |
 | Twist of Fate | 14.00% | ~1,979 |
 | Exterminator | 14.00% | ~1,979 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,555 |
 | First profit | 11.00% | ~1,555 |
 | Team player | 10.00% | ~1,414 |
-| Skilled merchant | 9.00% | ~1,272 |
-| Nothing but make-believe | 9.00% | ~1,272 |
-| Brother Marcus | 9.00% | ~1,272 |
-| The oath | 9.00% | ~1,272 |
-| The truth revealed | 9.00% | ~1,272 |
-| The End. | 9.00% | ~1,272 |
+| Skilled merchant | 9.00% | ~1,273 |
+| Nothing but make-believe | 9.00% | ~1,273 |
+| Brother Marcus | 9.00% | ~1,273 |
+| The oath | 9.00% | ~1,273 |
+| The truth revealed | 9.00% | ~1,273 |
+| The End. | 9.00% | ~1,273 |
 | A cry for help | 8.00% | ~1,131 |
 | Silentium est aureum | 7.00% | ~990 |
 | Rebel without a cause | 6.00% | ~848 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~424 |
 | Boy of mystery | 2.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,138 (Ranked 113)  
+Progressed: 14,139 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 105 (0.74%) (Ranked 116)
 | 2023-07-22 | 14,063 | 105 |
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
-| 2023-07-25 | 14,138 | 105 |
+| 2023-07-25 | 14,139 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 370)  

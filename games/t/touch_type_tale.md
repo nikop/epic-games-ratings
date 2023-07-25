@@ -32,9 +32,9 @@
 | Reinforcements | 4.00% | ~123 |
 | Sweet Revenge | 4.00% | ~123 |
 | Figure of Breach | 4.00% | ~123 |
+| A Brief Moment of Respite | 4.00% | ~123 |
 | Almost Like Winning | 3.00% | ~92 |
 | The Handyman Can! | 3.00% | ~92 |
-| A Brief Moment of Respite | 3.00% | ~92 |
 | Untouchable | 1.00% | ~31 |
 | All Geared Up | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)

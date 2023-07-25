@@ -294,10 +294,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 627,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-07-25T21:01:04.4770623+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 628,
+      "NumberOfAwardsMax": 410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 627,
+  "NumberOfAwards": 628,
   "NumberOfAwardsMax": 410,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -323,7 +329,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -362,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12276,
+  "EOS_Progressed": 12277,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 1,
@@ -5832,6 +5838,11 @@
       "Time": "2023-07-25T20:03:13.0082133+00:00",
       "NumProgressed": 12276,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-25T21:03:15.1214661+00:00",
+      "NumProgressed": 12277,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -5843,7 +5854,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11294
+      "UsersEstimate": 11295
     },
     {
       "ID": "ACH_02",
@@ -5851,7 +5862,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9575
+      "UsersEstimate": 9576
     },
     {
       "ID": "ACH_03",
@@ -5859,7 +5870,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "ACH_04",
@@ -5867,7 +5878,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8470
+      "UsersEstimate": 8471
     },
     {
       "ID": "ACH_05",
@@ -5875,7 +5886,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8225
+      "UsersEstimate": 8226
     },
     {
       "ID": "ACH_06",
@@ -5891,7 +5902,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7488
+      "UsersEstimate": 7489
     },
     {
       "ID": "ACH_08",
@@ -5923,7 +5934,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ACH_12",
@@ -5931,7 +5942,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "ACH_13",
@@ -5947,7 +5958,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "ACH_15",
@@ -6122,16 +6133,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12276,
+      "Progressed": 12277,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-07-25T20:00:31.1006902+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:03:13.0082129+00:00",
+  "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:03:15.1214654+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.4087699+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:00:31.1006906+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:03:13.0082614+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:01:04.4770626+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:03:15.1215436+00:00"
 }

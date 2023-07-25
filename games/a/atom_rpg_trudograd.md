@@ -9,10 +9,10 @@ Rating: 4.52 (Ranked 518)
 | Household | 7.00% | ~80 |
 | An Old Friend | 6.00% | ~69 |
 | Lot 49 | 5.00% | ~57 |
+| Viva La Revolution | 5.00% | ~57 |
 | Atomic Soda | 4.00% | ~46 |
 | Mysterious Knife | 4.00% | ~46 |
 | Shadow over Trudograd | 4.00% | ~46 |
-| Viva La Revolution | 4.00% | ~46 |
 | Walking Fortress | 4.00% | ~46 |
 | Freelance Police | 3.00% | ~34 |
 | The Great and Powerful | 3.00% | ~34 |

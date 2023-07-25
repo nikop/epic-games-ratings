@@ -5,22 +5,22 @@ Rating: 4.73 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,294 |
-| Newcomers | 78.00% | ~9,575 |
-| A Burden of Blood | 73.00% | ~8,961 |
-| Protector's Duty | 69.00% | ~8,470 |
+| Under a New Sun | 92.00% | ~11,295 |
+| Newcomers | 78.00% | ~9,576 |
+| A Burden of Blood | 73.00% | ~8,962 |
+| Protector's Duty | 69.00% | ~8,471 |
 | Alchemist | 68.00% | ~8,348 |
-| In our Wake | 67.00% | ~8,225 |
+| In our Wake | 67.00% | ~8,226 |
 | Leaving all Behind | 64.00% | ~7,857 |
-| Felons | 61.00% | ~7,488 |
+| Felons | 61.00% | ~7,489 |
 | A Sea of Promises | 60.00% | ~7,366 |
 | Tales and Revelations | 56.00% | ~6,875 |
 | Bloodline | 52.00% | ~6,384 |
-| The Cradle of Centuries | 48.00% | ~5,892 |
-| The Life We Deserve | 45.00% | ~5,524 |
+| The Cradle of Centuries | 48.00% | ~5,893 |
+| The Life We Deserve | 45.00% | ~5,525 |
 | Night guard | 42.00% | ~5,156 |
 | Nothing Left | 38.00% | ~4,665 |
-| Healing our Wounds | 36.00% | ~4,419 |
+| Healing our Wounds | 36.00% | ~4,420 |
 | Dying Sun | 33.00% | ~4,051 |
 | Improved crossbow | 26.00% | ~3,192 |
 | King Hugo | 24.00% | ~2,946 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 158)
 | Explorer | 1.00% | ~123 |
 | Malignant | 1.00% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,276 (Ranked 116)  
+Progressed: 12,277 (Ranked 116)  
 Completed: 38 (0.31%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 38 (0.31%) (Ranked 151)
 | 2023-07-22 | 12,164 | 38 |
 | 2023-07-23 | 12,220 | 38 |
 | 2023-07-24 | 12,257 | 38 |
-| 2023-07-25 | 12,276 | 38 |
+| 2023-07-25 | 12,277 | 38 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 208)  
-Sum: 627 (Ranked 289)  
+Sum: 628 (Ranked 289)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
@@ -148,8 +148,8 @@ Diff (max vs sum): -81
 | This game is Highly Recommended | 29 |
 | This game has Diverse Characters | 28 |
 | This game is Great for Beginners | 27 |
+| This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 25 |
-| This game is Relaxing | 24 |
 | This game is Extremely Fun | 24 |
 | This game has Quickly Understood Controls | 20 |
 | This game has a Creative Community | 20 |
@@ -201,4 +201,4 @@ Diff (max vs sum): -81
 | 2023-06-29 | 4.73 | 408 | 585 |
 | 2023-07-02 | 4.73 | 408 | 605 |
 | 2023-07-11 | 4.73 | 410 | 607 |
-| 2023-07-25 | 4.73 | 410 | 627 |
+| 2023-07-25 | 4.73 | 410 | 628 |

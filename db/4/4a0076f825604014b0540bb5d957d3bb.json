@@ -2,9 +2,9 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:24.9935261+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:04:38.607874+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:57:22.520333+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:24.9935392+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:57:38.3361652+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:04:38.6078998+00:00"
 }

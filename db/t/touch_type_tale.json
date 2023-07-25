@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -2819,9 +2819,9 @@
       "ID": "scenario7",
       "SetID": "2h56gn1",
       "Name": "A Brief Moment of Respite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
@@ -2836,8 +2836,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:23.8736858+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:04:37.1584397+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.9778965+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:01:28.4770844+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:23.8737164+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:02:03.8389838+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:04:37.1585213+00:00"
 }

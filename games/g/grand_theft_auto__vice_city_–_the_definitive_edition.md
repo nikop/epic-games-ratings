@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 480)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,134 |
-| Greasy Palms | 41.00% | ~3,767 |
-| South American Connection | 25.00% | ~2,297 |
+| Legal Counsel | 45.00% | ~4,136 |
+| Greasy Palms | 41.00% | ~3,768 |
+| South American Connection | 25.00% | ~2,298 |
 | Life of the Party | 19.00% | ~1,746 |
 | Tommy Two-Wheels | 15.00% | ~1,378 |
-| Big Heat from Little Havana | 14.00% | ~1,286 |
-| Chauffeur | 14.00% | ~1,286 |
+| Big Heat from Little Havana | 14.00% | ~1,287 |
+| Chauffeur | 14.00% | ~1,287 |
+| Iron-y | 10.00% | ~919 |
 | Salutations My Little Friend | 10.00% | ~919 |
-| Iron-y | 9.00% | ~827 |
 | Gun for Hire | 9.00% | ~827 |
 | Mischief Managed | 8.00% | ~735 |
 | Vice City Mogul | 6.00% | ~551 |
 | Catch Me if You Can | 6.00% | ~551 |
 | Bloodstained Hands | 6.00% | ~551 |
-| Not my First Time | 5.00% | ~459 |
-| Grand Theft Auto | 5.00% | ~459 |
-| Pie Guy | 4.00% | ~367 |
+| Not my First Time | 5.00% | ~460 |
+| Grand Theft Auto | 5.00% | ~460 |
+| Pie Guy | 4.00% | ~368 |
 | Running Rampant | 3.00% | ~276 |
 | Point A to Point B | 3.00% | ~276 |
 | High Quality H2O | 3.00% | ~276 |
@@ -37,10 +37,10 @@ Rating: 4.55 (Ranked 480)
 | Born in the 80’s | 0.90% | ~83 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~83 |
 | I'm Famous! | 0.90% | ~83 |
-| Done it All | 0.80% | ~73 |
+| Done it All | 0.80% | ~74 |
 | Kingpin | 0.50% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,187 (Ranked 121)  
+Progressed: 9,190 (Ranked 121)  
 Completed: 43 (0.47%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,11 +136,11 @@ Completed: 43 (0.47%) (Ranked 135)
 | 2023-07-22 | 9,075 | 43 |
 | 2023-07-23 | 9,127 | 43 |
 | 2023-07-24 | 9,161 | 43 |
-| 2023-07-25 | 9,187 | 43 |
+| 2023-07-25 | 9,190 | 43 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 383)  
-Sum: 63 (Ranked 440)  
-Diff (max vs sum): -57  
+Sum: 63 (Ranked 441)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 63 |

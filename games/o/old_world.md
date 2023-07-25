@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Developing Cities | 0.30% | ~39 |
+| Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
-| Strong Cities | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |
 | Artisans | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
@@ -81,6 +81,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
+| Revelation | 0.20% | ~26 |
+| Phalangite | 0.20% | ~26 |
+| Ambition Victory | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
@@ -186,6 +189,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.10% | ~13 |
 | One True Faith | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
+| Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
@@ -194,6 +198,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
+| Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
@@ -206,7 +211,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.10% | ~13 |
 | Legalism | 0.10% | ~13 |
 | Redemption | 0.10% | ~13 |
-| Revelation | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
@@ -214,11 +218,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.10% | ~13 |
 | Kushite Cavalry | 0.10% | ~13 |
 | Legionary | 0.10% | ~13 |
-| Phalangite | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
 | All Nations | 0.10% | ~13 |
-| Ambition Victory | 0.10% | ~13 |
 | Conquest Victory | 0.10% | ~13 |
 | Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
@@ -290,11 +292,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
-| Roman Papacy | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,086 (Ranked 115)  
+Progressed: 13,088 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-22 | 13,019 | 5 |
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
-| 2023-07-25 | 13,086 | 5 |
+| 2023-07-25 | 13,088 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

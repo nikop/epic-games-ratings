@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,978 |
-| Right Back At Ya | 39.00% | ~338,369 |
-| The Lovers | 34.00% | ~294,989 |
-| Stanislavski's Method | 28.00% | ~242,932 |
-| The Wheel of Fortune | 27.00% | ~234,256 |
-| The Hermit | 24.00% | ~208,227 |
-| True Soldier | 23.00% | ~199,551 |
-| Christmas Tree Attack | 22.00% | ~190,875 |
-| The High Priestess | 21.00% | ~182,199 |
-| Legend of The Afterlife | 21.00% | ~182,199 |
-| Life of the Road | 20.00% | ~173,523 |
+| The Fool | 68.00% | ~589,980 |
+| Right Back At Ya | 39.00% | ~338,371 |
+| The Lovers | 34.00% | ~294,990 |
+| Stanislavski's Method | 28.00% | ~242,933 |
+| The Wheel of Fortune | 27.00% | ~234,257 |
+| The Hermit | 24.00% | ~208,228 |
+| True Soldier | 23.00% | ~199,552 |
+| Christmas Tree Attack | 22.00% | ~190,876 |
+| The High Priestess | 21.00% | ~182,200 |
+| Legend of The Afterlife | 21.00% | ~182,200 |
+| Life of the Road | 20.00% | ~173,524 |
 | Full Body Conversion | 18.00% | ~156,171 |
-| The World | 17.00% | ~147,494 |
-| Bushido and Chill | 16.00% | ~138,818 |
-| Gun Fu | 15.00% | ~130,142 |
-| True Warrior | 15.00% | ~130,142 |
-| I Am The Law | 14.00% | ~121,466 |
-| Judy vs Night City | 14.00% | ~121,466 |
+| The World | 17.00% | ~147,495 |
+| Bushido and Chill | 16.00% | ~138,819 |
+| Gun Fu | 15.00% | ~130,143 |
+| True Warrior | 15.00% | ~130,143 |
+| I Am The Law | 14.00% | ~121,467 |
+| Judy vs Night City | 14.00% | ~121,467 |
 | To Protect and Serve | 13.00% | ~112,790 |
 | Master Crafter | 13.00% | ~112,790 |
 | Two Heads, One Bullet | 11.00% | ~95,438 |
-| The Wandering Fool | 9.00% | ~78,085 |
-| The Quick and the Dead | 9.00% | ~78,085 |
+| The Wandering Fool | 9.00% | ~78,086 |
+| The Quick and the Dead | 9.00% | ~78,086 |
 | Breathtaking | 8.00% | ~69,409 |
 | Ten out of Ten | 8.00% | ~69,409 |
 | The Star | 7.00% | ~60,733 |
@@ -36,13 +36,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 6.00% | ~52,057 |
 | Must Be Rats | 4.00% | ~34,705 |
 | Temperance | 4.00% | ~34,705 |
-| City Lights | 3.00% | ~26,028 |
-| Mean Streets | 3.00% | ~26,028 |
-| Little Tokyo | 3.00% | ~26,028 |
-| Greetings from Pacifica! | 3.00% | ~26,028 |
-| The Jungle | 3.00% | ~26,028 |
-| V for Vendetta | 3.00% | ~26,028 |
-| It's Elementary | 3.00% | ~26,028 |
+| City Lights | 3.00% | ~26,029 |
+| Mean Streets | 3.00% | ~26,029 |
+| Little Tokyo | 3.00% | ~26,029 |
+| Greetings from Pacifica! | 3.00% | ~26,029 |
+| The Jungle | 3.00% | ~26,029 |
+| V for Vendetta | 3.00% | ~26,029 |
+| It's Elementary | 3.00% | ~26,029 |
 | Autojock | 2.00% | ~17,352 |
 | Frequent Flyer | 2.00% | ~17,352 |
 | The Wasteland | 2.00% | ~17,352 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,676 |
 | Rough Landing | 0.50% | ~4,338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,614 (Ranked 14)  
+Progressed: 867,618 (Ranked 14)  
 Completed: 1,905 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 1,905 (0.22%) (Ranked 164)
 | 2023-07-22 | 867,103 | 1,894 |
 | 2023-07-23 | 867,304 | 1,896 |
 | 2023-07-24 | 867,476 | 1,903 |
-| 2023-07-25 | 867,614 | 1,905 |
+| 2023-07-25 | 867,618 | 1,905 |
 ## Awards
 Max (Character Customization): 74,031  (Ranked 9)  
-Sum: 194,708 (Ranked 13)  
+Sum: 194,720 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -161,7 +161,7 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 8,580 |
 | This game is Extremely Fun | 8,466 |
 | This game is Highly Recommended | 8,421 |
-| This game is Relaxing | 8,375 |
+| This game is Relaxing | 8,387 |
 | This game has Quickly Understood Controls | 8,250 |
 | This game has Amazing Characters | 8,247 |
 | This game has a Creative Community | 5,412 |
@@ -355,4 +355,4 @@ Diff (max vs sum): -4
 | 2023-07-22 | 4.62 | - | 73,841 | 194,003 |
 | 2023-07-23 | 4.62 | - | 73,930 | 194,285 |
 | 2023-07-24 | 4.62 | - | 74,031 | 194,581 |
-| 2023-07-25 | 4.62 | - | 74,031 | 194,708 |
+| 2023-07-25 | 4.62 | - | 74,031 | 194,720 |

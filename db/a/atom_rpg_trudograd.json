@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -1203,9 +1203,9 @@
       "ID": "VIVA_LA_REVOLUTION",
       "SetID": "62d2oh4",
       "Name": "Viva La Revolution",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 57
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1236,8 +1236,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:08.7085187+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:04:18.7702395+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.1070752+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:58:00.3740939+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:08.708547+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:58:20.013808+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:04:18.77027+00:00"
 }

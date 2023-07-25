@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23335,
+  "EOS_Progressed": 23337,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2840,6 +2840,11 @@
       "Time": "2023-07-25T20:07:10.242957+00:00",
       "NumProgressed": 23335,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-25T21:07:47.179414+00:00",
+      "NumProgressed": 23337,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -2867,7 +2872,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17968
+      "UsersEstimate": 17969
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2875,7 +2880,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -2891,7 +2896,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2915,7 +2920,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17735
+      "UsersEstimate": 17736
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2931,7 +2936,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2939,7 +2944,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -2955,7 +2960,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19368
+      "UsersEstimate": 19370
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2971,7 +2976,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2979,7 +2984,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2995,7 +3000,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -3035,7 +3040,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17035
+      "UsersEstimate": 17036
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -3051,7 +3056,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -3106,22 +3111,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23335,
+      "Progressed": 23337,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 628,
-      "Completed": 628
+      "Progressed": 630,
+      "Completed": 630
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:07:10.2429566+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:07:47.1794133+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.72934+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:58:44.4955089+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:07:10.2429892+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:59:08.5931552+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:07:47.1794644+00:00"
 }

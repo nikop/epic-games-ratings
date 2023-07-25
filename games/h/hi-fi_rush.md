@@ -46,11 +46,11 @@ Rating: 4.87 (Ranked 24)
 | This is a breeze! | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
+| I'm not done with you yet | 0.30% | ~11 |
 | First we parry, then we counter | 0.30% | ~11 |
 | I hit things with a guitar really well. | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | Easy Listening | 0.20% | ~7 |
-| I'm not done with you yet | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | Problem solved... wait, what? | 0.10% | ~4 |

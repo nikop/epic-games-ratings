@@ -5284,9 +5284,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215480,
+  "EOS_Progressed": 215493,
   "EOS_Completed": 2108,
-  "EOS_NewPlayers": 2319,
+  "EOS_NewPlayers": 2312,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15599,6 +15599,11 @@
       "Time": "2023-07-25T20:07:33.1587209+00:00",
       "NumProgressed": 215480,
       "NumCompleted": 2108
+    },
+    {
+      "Time": "2023-07-25T21:08:14.5672283+00:00",
+      "NumProgressed": 215493,
+      "NumCompleted": 2108
     }
   ],
   "TotalAchievements": 512,
@@ -15632,9 +15637,9 @@
       "ID": "objective_completed_101",
       "SetID": "cc37lbc",
       "Name": "Upholding the Law",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_102",
@@ -16296,9 +16301,9 @@
       "ID": "objective_completed_1164",
       "SetID": "415jc5c",
       "Name": "Overwhelmed with Knowledge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1165",
@@ -18160,9 +18165,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_600",
@@ -19705,21 +19710,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181754,
-      "Completed": 2981
+      "Progressed": 181767,
+      "Completed": 2982
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215480,
+      "Progressed": 215493,
       "Completed": 2108
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:07:33.1587205+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:08:14.5672275+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:58:56.9694434+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:07:33.161046+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:59:21.6984821+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:08:14.5710972+00:00"
 }

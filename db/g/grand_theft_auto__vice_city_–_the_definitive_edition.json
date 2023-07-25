@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 480,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 106,
@@ -538,9 +538,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9187,
+  "EOS_Progressed": 9190,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -6953,6 +6953,11 @@
       "Time": "2023-07-25T20:04:34.9950832+00:00",
       "NumProgressed": 9187,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-25T21:04:50.3688631+00:00",
+      "NumProgressed": 9190,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6978,9 +6983,9 @@
       "ID": "ACH03",
       "SetID": "9llo822",
       "Name": "Iron-y",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 827
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH04",
@@ -6988,7 +6993,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH05",
@@ -7020,7 +7025,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH09",
@@ -7068,7 +7073,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     },
     {
       "ID": "ACH15",
@@ -7124,7 +7129,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4134
+      "UsersEstimate": 4136
     },
     {
       "ID": "ACH22",
@@ -7140,7 +7145,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "ACH24",
@@ -7148,7 +7153,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACH25",
@@ -7156,7 +7161,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACH26",
@@ -7172,7 +7177,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH28",
@@ -7220,7 +7225,7 @@
       "Name": "Done it All",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH34",
@@ -7235,7 +7240,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9187,
+      "Progressed": 9190,
       "Completed": 43
     }
   ],
@@ -7243,8 +7248,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-25T03:03:00.1337429+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:04:34.9950826+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:04:50.3688623+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-25T19:59:06.0793143+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:04:34.9951343+00:00"
+  "LastUpdate_Ratings": "2023-07-25T20:59:31.6745643+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:04:50.3689415+00:00"
 }

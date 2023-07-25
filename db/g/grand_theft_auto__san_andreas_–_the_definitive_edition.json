@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 117,
@@ -604,9 +604,9 @@
       "Count": 228
     }
   ],
-  "EOS_Progressed": 11342,
+  "EOS_Progressed": 11346,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7354,6 +7354,11 @@
       "Time": "2023-07-25T19:06:26.7255871+00:00",
       "NumProgressed": 11342,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-25T21:08:11.9763938+00:00",
+      "NumProgressed": 11346,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7365,7 +7370,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9187
+      "UsersEstimate": 9190
     },
     {
       "ID": "ACH02",
@@ -7421,7 +7426,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5673
     },
     {
       "ID": "ACH09",
@@ -7469,7 +7474,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH15",
@@ -7581,7 +7586,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACH29",
@@ -7589,7 +7594,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "ACH30",
@@ -7644,7 +7649,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11342,
+      "Progressed": 11346,
       "Completed": 31
     }
   ],
@@ -7652,8 +7657,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-24T04:01:31.0123071+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:07:30.7571824+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:08:11.976393+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:01:29.9598104+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:07:30.7572309+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:02:05.3608111+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:08:11.9764768+00:00"
 }

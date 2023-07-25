@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247129,
+  "EOS_Progressed": 247130,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9369,6 +9369,11 @@
       "Time": "2023-07-25T19:02:25.3083134+00:00",
       "NumProgressed": 247129,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-25T21:03:27.5697691+00:00",
+      "NumProgressed": 247130,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9452,7 +9457,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37069
+      "UsersEstimate": 37070
     },
     {
       "ID": "clearCut",
@@ -9556,7 +9561,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130978
+      "UsersEstimate": 130979
     },
     {
       "ID": "indegestible",
@@ -9620,7 +9625,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123564
+      "UsersEstimate": 123565
     },
     {
       "ID": "notScared",
@@ -9747,7 +9752,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247129,
+      "Progressed": 247130,
       "Completed": 3
     }
   ],
@@ -9755,8 +9760,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:03:23.8413304+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:03:27.5697685+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.360681+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:00:15.6570457+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:03:23.8414023+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:00:45.7491066+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:03:27.569891+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -250,25 +250,25 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -337,8 +337,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-07-25T20:06:01.512793+00:00",
+  "LastChanged_Achievements": "2023-07-25T21:06:36.8255062+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:45.2697684+00:00",
-  "LastUpdate_Ratings": "2023-07-25T20:00:09.13701+00:00",
-  "LastUpdate_Achievements": "2023-07-25T20:06:01.5128009+00:00"
+  "LastUpdate_Ratings": "2023-07-25T21:00:37.4959971+00:00",
+  "LastUpdate_Achievements": "2023-07-25T21:06:36.8255187+00:00"
 }
