@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |
-| [Remnant II](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 27,374 | - | - |
+| [Remnant II](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 27,641 | - | - |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
 | [Monster Boy and the Cursed Kingdom](games/2/2573986ce0c3433facd6b5a3fec5d950.md) | 2023-07-26 | - |  | - | - |

@@ -73,7 +73,7 @@
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | 2023-07-01 | - |  | - | - |
 | [Corrupt - Political Simulator](games/8/898948344c0c49218e067f34221acd08.md) | 2023-07-01 | - |  | - | 0 |
-| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 640 | - | 0 |
+| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 641 | - | 0 |
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | 0 |
 | [A Long Journey to an Uncertain End](games/b/be9da78f6f3449c8a2cdbb100853fc30.md) | 2023-06-30 | - |  | - | - |
 | [Sleengster](games/1/1573f526f4ae4d3b89c6aa09e0020c1b.md) | 2023-06-30 | - |  | - | - |

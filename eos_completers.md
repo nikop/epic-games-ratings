@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.36% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.33% |
 | 40 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 41 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -140,8 +140,8 @@
 | 137 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
 | 139 | [Tchia](games/t/tchia.md) | 0.43% |
 | 140 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
-| 141 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
 | 141 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 142 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 143 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 144 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 145 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
@@ -181,10 +181,10 @@
 | 177 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 177 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 181 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 182 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.13% |
 | 182 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
-| 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.12% |
-| 183 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 183 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 184 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 184 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 186 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 186 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 186 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
