@@ -40,9 +40,9 @@
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.89% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
-| 43 | [JARS](games/j/jars.md) | 4.84% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 42 | [JARS](games/j/jars.md) | 4.84% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.81% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
@@ -52,7 +52,7 @@
 | 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.72% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
-| 53 | [ZZT!](games/z/zzt!.md) | 3.55% |
+| 53 | [ZZT!](games/z/zzt!.md) | 3.54% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.48% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
@@ -69,19 +69,19 @@
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
 | 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.41% |
-| 76 | [FORECLOSED](games/f/foreclosed.md) | 2.38% |
+| 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.11% |
 | 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
-| 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.96% |
+| 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.94% |
 | 83 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 84 | [Night Book](games/n/night_book.md) | 1.91% |
 | 85 | [Frogun](games/f/frogun.md) | 1.87% |
