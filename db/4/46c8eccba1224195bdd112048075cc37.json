@@ -548,17 +548,17 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TenLevel",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:06:06.7126313+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:06:08.8447135+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-25T22:57:56.1409081+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:06:06.7126511+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:58:01.5745948+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:06:08.8447413+00:00"
 }

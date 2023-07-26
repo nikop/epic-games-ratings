@@ -5,9 +5,9 @@
   "Ranking_Rating": 585,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2023-07-25T21:04:03.3783472+00:00",
       "NumProgressed": 1086,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T00:04:10.0602261+00:00",
+      "NumProgressed": 1087,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -812,7 +817,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1052,7 +1057,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1131,7 +1136,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1087,
       "Completed": 0
     }
   ],
@@ -1139,8 +1144,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:04:09.2306315+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:04:10.0602254+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:48.2095913+00:00",
-  "LastUpdate_Ratings": "2023-07-25T22:59:20.3284565+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:04:09.2306852+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:59:23.6129118+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:04:10.0603182+00:00"
 }

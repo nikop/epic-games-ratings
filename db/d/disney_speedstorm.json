@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -3780,6 +3780,11 @@
       "Time": "2023-07-25T23:07:17.0329518+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-07-26T00:07:19.4086463+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 24,
@@ -3791,15 +3796,15 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1235
     },
     {
       "ID": "11",
@@ -3847,7 +3852,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "17",
@@ -3855,7 +3860,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "18",
@@ -3943,7 +3948,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "6",
@@ -3982,13 +3987,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 112
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:07:17.0329514+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:07:19.4086457+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:00:24.4531893+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:07:17.0330039+00:00"
+  "LastUpdate_Ratings": "2023-07-26T00:00:26.9950711+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:07:19.4087183+00:00"
 }

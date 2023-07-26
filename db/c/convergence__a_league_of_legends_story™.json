@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-07-25T19:03:29.3325517+00:00",
       "NumProgressed": 788,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-26T00:04:31.9036782+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1807,7 +1812,7 @@
       "Name": "Right On Time",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1893,9 +1898,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 134
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2063,7 +2068,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "RewindParry",
@@ -2198,14 +2203,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:04:30.9756594+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:04:31.9036775+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:00:52.4912985+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:04:30.9757154+00:00"
+  "LastUpdate_Ratings": "2023-07-26T00:00:54.9880263+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:04:31.9037583+00:00"
 }

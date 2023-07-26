@@ -1201,9 +1201,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 719
     },
     {
       "ID": "06",
@@ -1362,8 +1362,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:04:00.1128799+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:04:00.8022934+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.8588633+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:01:15.9655965+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:04:00.1129025+00:00"
+  "LastUpdate_Ratings": "2023-07-26T00:01:21.2251653+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:04:00.8023303+00:00"
 }

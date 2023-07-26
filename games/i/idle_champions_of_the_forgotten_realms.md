@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,310 |
-| Beast Intentions | 2.00% | ~4,310 |
+| A Brief Tour of the Realms | 2.00% | ~4,311 |
+| Beast Intentions | 2.00% | ~4,311 |
 | Maddening | 1.00% | ~2,155 |
 | The Silken Swamp | 0.90% | ~1,940 |
 | Supply Run | 0.80% | ~1,724 |
@@ -27,9 +27,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hatchlings Underfoot | 0.40% | ~862 |
 | Don't Look Up! | 0.40% | ~862 |
 | Heavy Burden | 0.40% | ~862 |
+| The Evacuation of Waterdeep | 0.40% | ~727 |
 | Heatwave | 0.40% | ~727 |
 | The Dread Domain of Tovag | 0.40% | ~727 |
 | Terror in the Dark | 0.40% | ~862 |
+| Building Trust | 0.40% | ~862 |
 | Unearthed Evil | 0.40% | ~862 |
 | Not That Type of Helm! | 0.40% | ~727 |
 | Calcryx Tricks | 0.40% | ~727 |
@@ -40,8 +42,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.30% | ~647 |
 | Thieves of the Coven | 0.30% | ~545 |
 | Speeds of Destruction | 0.30% | ~545 |
-| The Evacuation of Waterdeep | 0.30% | ~545 |
 | On the Hunt | 0.30% | ~647 |
+| Best Thay Ever | 0.30% | ~545 |
 | A Demi-god's Defender | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~647 |
 | Were-verpowered | 0.30% | ~647 |
@@ -50,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~647 |
 | A Mysterious Summons | 0.30% | ~647 |
 | Street War | 0.30% | ~647 |
-| Building Trust | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
 | No Time To Rest | 0.30% | ~647 |
 | The Mists of Ravenloft | 0.30% | ~647 |
@@ -73,7 +74,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~364 |
 | Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
-| Best Thay Ever | 0.20% | ~364 |
 | Overwhelmed with Knowledge | 0.20% | ~364 |
 | Well Equipped | 0.20% | ~364 |
 | More Than Well Equipped | 0.20% | ~364 |
@@ -100,6 +100,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~431 |
 | Chatty Nobles | 0.20% | ~431 |
 | Modron Assistance | 0.20% | ~431 |
+| Haaave You Met Asmodeus? | 0.20% | ~431 |
+| Domesticated Owlbears | 0.20% | ~431 |
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
@@ -107,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~431 |
 | The Crumbling Temple | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
+| Useless Allies | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
@@ -235,8 +238,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Fortune | 0.10% | ~216 |
 | Relentless Misfortune | 0.10% | ~216 |
 | Thine Bounty is Mine! | 0.10% | ~182 |
-| Haaave You Met Asmodeus? | 0.10% | ~216 |
-| Domesticated Owlbears | 0.10% | ~216 |
 | This Quest Stinks! | 0.10% | ~182 |
 | Hold for the Red Wizards | 0.10% | ~216 |
 | Form Ranks | 0.10% | ~216 |
@@ -280,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.10% | ~216 |
 | Nimblest Escape | 0.10% | ~216 |
 | Are Ya Chicken? | 0.10% | ~216 |
-| Useless Allies | 0.10% | ~216 |
 | Stumbling Escape | 0.10% | ~216 |
 | Distracted Escape | 0.10% | ~182 |
 | Fugitives | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,521 (Ranked 53)  
+Progressed: 215,530 (Ranked 53)  
 Completed: 2,110 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,6 +616,7 @@ Completed: 2,110 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
+| 2023-07-26 | 215,530 | 2,110 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

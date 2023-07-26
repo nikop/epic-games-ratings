@@ -1,27 +1,27 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 826)  
+Rating: 4.23 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~342,278 |
-| Well educated | 37.00% | ~263,840 |
-| City Planner | 19.00% | ~135,485 |
-| Deforester | 17.00% | ~121,224 |
-| Big Hauling | 16.00% | ~114,093 |
-| Apprentice Manufacturer | 13.00% | ~92,700 |
-| Exporter | 13.00% | ~92,700 |
-| I would drive 500 tiles... | 12.00% | ~85,570 |
-| Landscaper | 12.00% | ~85,570 |
-| Railwayman | 7.00% | ~49,916 |
-| Penniless | 6.00% | ~42,785 |
-| Massive Gains | 6.00% | ~42,785 |
-| Salesman | 3.00% | ~21,392 |
+| Entrepreneur | 48.00% | ~342,285 |
+| Well educated | 37.00% | ~263,845 |
+| City Planner | 19.00% | ~135,488 |
+| Deforester | 17.00% | ~121,226 |
+| Big Hauling | 16.00% | ~114,095 |
+| Apprentice Manufacturer | 13.00% | ~92,702 |
+| Exporter | 13.00% | ~92,702 |
+| I would drive 500 tiles... | 12.00% | ~85,571 |
+| Landscaper | 12.00% | ~85,571 |
+| Railwayman | 7.00% | ~49,917 |
+| Penniless | 6.00% | ~42,786 |
+| Massive Gains | 6.00% | ~42,786 |
+| Salesman | 3.00% | ~21,393 |
 | Engineer | 2.00% | ~14,262 |
 | High Flyer | 2.00% | ~14,262 |
 | Captain | 0.80% | ~5,705 |
-| Billionaire | 0.60% | ~4,278 |
+| Billionaire | 0.60% | ~4,279 |
 | Vroom Vroom | 0.40% | ~2,852 |
 | Excavator | 0.30% | ~2,139 |
 | Loan Ranger | 0.30% | ~2,139 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 826)
 | Master Builder | 0.10% | ~713 |
 | Hard working | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,080 (Ranked 19)  
+Progressed: 713,094 (Ranked 19)  
 Completed: 3 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 3 (0.00%) (Ranked 242)
 | 2023-07-23 | 712,173 | 3 |
 | 2023-07-24 | 712,626 | 3 |
 | 2023-07-25 | 713,080 | 3 |
+| 2023-07-26 | 713,094 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

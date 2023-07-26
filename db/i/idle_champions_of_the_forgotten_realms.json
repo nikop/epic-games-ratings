@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5284,9 +5284,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215521,
+  "EOS_Progressed": 215530,
   "EOS_Completed": 2110,
-  "EOS_NewPlayers": 2312,
+  "EOS_NewPlayers": 2314,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15614,6 +15614,11 @@
       "Time": "2023-07-25T23:08:16.970329+00:00",
       "NumProgressed": 215521,
       "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-07-26T00:08:19.5013416+00:00",
+      "NumProgressed": 215530,
+      "NumCompleted": 2110
     }
   ],
   "TotalAchievements": 512,
@@ -15625,7 +15630,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4311
     },
     {
       "ID": "objective_completed_10",
@@ -15993,7 +15998,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4311
     },
     {
       "ID": "objective_completed_110",
@@ -16271,9 +16276,9 @@
       "ID": "objective_completed_1158",
       "SetID": "415jc5c",
       "Name": "The Evacuation of Waterdeep",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 727
     },
     {
       "ID": "objective_completed_1159",
@@ -16295,9 +16300,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_completed_1163",
@@ -16847,9 +16852,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_17",
@@ -17079,17 +17084,17 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_237",
       "SetID": "cc37lbc",
       "Name": "Domesticated Owlbears",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_238",
@@ -17495,9 +17500,9 @@
       "ID": "objective_completed_40",
       "SetID": "cc37lbc",
       "Name": "Useless Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_400",
@@ -19720,21 +19725,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181795,
-      "Completed": 2984
+      "Progressed": 181804,
+      "Completed": 2985
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215521,
+      "Progressed": 215530,
       "Completed": 2110
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:08:16.9703284+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:08:19.5013407+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T22:59:16.7049993+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:08:16.973449+00:00"
+  "LastUpdate_Ratings": "2023-07-25T23:59:20.7074877+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:08:19.5070329+00:00"
 }

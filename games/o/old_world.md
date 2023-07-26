@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
+| Artisans | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |
-| Artisans | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,091 (Ranked 115)  
+Progressed: 13,092 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,6 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
+| 2023-07-26 | 13,092 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,783 (Ranked 205)  

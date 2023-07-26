@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2146,6 +2146,11 @@
       "Time": "2023-07-25T22:05:20.2979091+00:00",
       "NumProgressed": 624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T00:06:46.8574938+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2261,7 +2266,7 @@
       "Name": "Facility Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2269,7 +2274,7 @@
       "Name": "Corporal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2325,7 +2330,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -2379,9 +2384,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2413,7 +2418,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2460,14 +2465,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:06:44.756152+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:06:46.857493+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:02:17.4775754+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:06:44.7562002+00:00"
+  "LastUpdate_Ratings": "2023-07-26T00:02:18.3587508+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:06:46.8575672+00:00"
 }

@@ -2546,9 +2546,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 16012,
+  "EOS_Progressed": 16013,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7881,6 +7881,11 @@
       "Time": "2023-07-25T23:04:39.9382495+00:00",
       "NumProgressed": 16012,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-26T00:04:40.4828347+00:00",
+      "NumProgressed": 16013,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7980,7 +7985,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinHard",
@@ -7988,7 +7993,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinImpossible",
@@ -8156,7 +8161,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinOnCursed",
@@ -8172,7 +8177,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinOnMoorlands",
@@ -8180,7 +8185,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinPrestige10",
@@ -8228,7 +8233,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinWithResolve",
@@ -8268,7 +8273,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "WinWithoutOrders",
@@ -8291,15 +8296,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16012,
+      "Progressed": 16013,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-25T20:01:17.9098166+00:00",
-  "LastChanged_Achievements": "2023-07-25T23:04:39.9382487+00:00",
+  "LastChanged_Achievements": "2023-07-26T00:04:40.4828337+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:01:47.297535+00:00",
-  "LastUpdate_Achievements": "2023-07-25T23:04:39.9383386+00:00"
+  "LastUpdate_Ratings": "2023-07-26T00:01:51.5714862+00:00",
+  "LastUpdate_Achievements": "2023-07-26T00:04:40.4829742+00:00"
 }

@@ -12,25 +12,25 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 3.00% | ~107 |
 | You can pet the cat! | 3.00% | ~107 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
-| This will cost you big time | 2.00% | ~71 |
-| The Negotiator | 2.00% | ~71 |
-| Headliner | 2.00% | ~71 |
-| Time to pay up! | 2.00% | ~71 |
-| Who's the boss now? | 2.00% | ~71 |
-| I play my own way! | 2.00% | ~71 |
-| Whoa! There's ANOTHER health bar!? | 2.00% | ~71 |
-| I have to read these things? | 2.00% | ~71 |
-| You got this, Peppermint? | 2.00% | ~71 |
-| You must like calling me in, Chai | 2.00% | ~71 |
-| Z-shielding's got nothing on us! | 2.00% | ~71 |
-| Out in a puff of smoke | 2.00% | ~71 |
-| Perfect Parry | 2.00% | ~71 |
-| Perfecter Parry-er! | 2.00% | ~71 |
-| Uh, they were broken when I got here | 2.00% | ~71 |
-| Kissing the sky! | 2.00% | ~71 |
-| I look cool. But I can look COOLER. | 2.00% | ~71 |
-| Alright, that felt AWESOME! | 2.00% | ~71 |
-| Does that say weakpoint? | 2.00% | ~71 |
+| This will cost you big time | 2.00% | ~72 |
+| The Negotiator | 2.00% | ~72 |
+| Headliner | 2.00% | ~72 |
+| Time to pay up! | 2.00% | ~72 |
+| Who's the boss now? | 2.00% | ~72 |
+| I play my own way! | 2.00% | ~72 |
+| Whoa! There's ANOTHER health bar!? | 2.00% | ~72 |
+| I have to read these things? | 2.00% | ~72 |
+| You got this, Peppermint? | 2.00% | ~72 |
+| You must like calling me in, Chai | 2.00% | ~72 |
+| Z-shielding's got nothing on us! | 2.00% | ~72 |
+| Out in a puff of smoke | 2.00% | ~72 |
+| Perfect Parry | 2.00% | ~72 |
+| Perfecter Parry-er! | 2.00% | ~72 |
+| Uh, they were broken when I got here | 2.00% | ~72 |
+| Kissing the sky! | 2.00% | ~72 |
+| I look cool. But I can look COOLER. | 2.00% | ~72 |
+| Alright, that felt AWESOME! | 2.00% | ~72 |
+| Does that say weakpoint? | 2.00% | ~72 |
 | Well that was a rush! | 1.00% | ~36 |
 | Beat-hit mania | 1.00% | ~36 |
 | That's a lot of junk metal… | 1.00% | ~36 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574 (Ranked 145)  
+Progressed: 3,575 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
+| 2023-07-26 | 3,575 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -54,11 +54,11 @@ Rating: 4.10 (Ranked 891)
 | Weekly Quest Completionist | 6.00% | ~103 |
 | Ancient Knowledge | 5.00% | ~86 |
 | Lock And Load | 5.00% | ~86 |
+| Active Member | 4.00% | ~69 |
 | Background Story | 4.00% | ~69 |
 | Legendary | 4.00% | ~69 |
 | Sailor | 4.00% | ~69 |
 | The Alchemist | 4.00% | ~69 |
-| Active Member | 3.00% | ~51 |
 | Arena Challenger | 3.00% | ~51 |
 | Ebony Jungle Liberator | 3.00% | ~51 |
 | What lies behind the bush | 3.00% | ~51 |
