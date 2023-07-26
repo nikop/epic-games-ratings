@@ -38,17 +38,17 @@
 | Legal courier | 39.00% | ~59 |
 | Now you are worthy | 35.00% | ~53 |
 | Escaped from a big trouble | 32.00% | ~48 |
+| No blades in the gym | 31.00% | ~47 |
 | Guiding on the right path | 31.00% | ~47 |
-| No blades in the gym | 30.00% | ~45 |
 | Mysterious voice | 29.00% | ~44 |
 | Fight is life | 28.00% | ~42 |
 | Responsible approach | 28.00% | ~42 |
 | Champion – no way back | 26.00% | ~39 |
 | Deal with life | 25.00% | ~38 |
+| Poisoned fighter | 25.00% | ~38 |
 | Get out of my apartment! | 25.00% | ~38 |
 | Underground dwellers | 25.00% | ~38 |
 | Mom got better | 24.00% | ~36 |
-| Poisoned fighter | 24.00% | ~36 |
 | The die is cast | 24.00% | ~36 |
 | Seashell hunter | 24.00% | ~36 |
 | GYM professional | 23.00% | ~35 |

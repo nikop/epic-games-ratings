@@ -9,8 +9,8 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 38.00% | ~508 |
 | Me and My Familiar | 35.00% | ~468 |
 | This Too Shall Pass | 30.00% | ~401 |
-| Passing Shadow | 29.00% | ~387 |
-| Cutthroat Competitors | 29.00% | ~387 |
+| Passing Shadow | 29.00% | ~388 |
+| Cutthroat Competitors | 29.00% | ~388 |
 | How Romantic! | 27.00% | ~361 |
 | Daybreak | 27.00% | ~361 |
 | Gotta Ca... Must Collect All of Them | 25.00% | ~334 |
@@ -23,18 +23,18 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 9.00% | ~120 |
 | Echoes Die | 9.00% | ~120 |
 | Chain Reaction | 8.00% | ~107 |
+| Everfading | 8.00% | ~107 |
 | Let Me Get My Chisel | 7.00% | ~94 |
 | Plague Doctor | 7.00% | ~94 |
-| Everfading | 7.00% | ~94 |
 | Another Tale to Tell | 7.00% | ~94 |
 | A Story of Heroes | 7.00% | ~94 |
 | Legends Never Die | 5.00% | ~67 |
 | In Soil, In Smoke | 5.00% | ~67 |
+| A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
 | All My Birds, Safely Home | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~53 |
-| A Hunger, Sated | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |
 | No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~40 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,336 (Ranked 179)  
+Progressed: 1,337 (Ranked 179)  
 Completed: 5 (0.37%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 5 (0.37%) (Ranked 144)
 | 2023-07-23 | 1,330 | 5 |
 | 2023-07-24 | 1,333 | 5 |
 | 2023-07-25 | 1,335 | 5 |
-| 2023-07-26 | 1,336 | 5 |
+| 2023-07-26 | 1,337 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 463)  
 Sum: 28 (Ranked 475)  

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2349,
+  "EOS_Progressed": 2352,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-07-25T21:02:40.4167935+00:00",
       "NumProgressed": 2349,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T03:00:58.7967071+00:00",
+      "NumProgressed": 2352,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -2058,7 +2063,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "MOVE_ON",
@@ -2066,7 +2071,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "REUNION",
@@ -2074,7 +2079,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "SLIDERS",
@@ -2082,7 +2087,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "SNOW_RUINS",
@@ -2098,7 +2103,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2106,7 +2111,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "THE_END",
@@ -2122,7 +2127,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2137,7 +2142,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2349,
+      "Progressed": 2352,
       "Completed": 5
     }
   ],
@@ -2145,8 +2150,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:02:38.8633379+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:00:58.7967064+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:04:55.6554852+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:02:38.8633672+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:59:37.7425521+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:00:58.7967305+00:00"
 }

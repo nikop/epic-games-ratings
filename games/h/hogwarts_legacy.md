@@ -7,8 +7,8 @@ Rating: 4.77 (Ranked 109)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,629 |
 | First Class Student | 11.00% | ~31,743 |
-| A Keen Sense of Spell | 10.00% | ~28,857 |
-| Troll with the Punches | 10.00% | ~28,857 |
+| A Keen Sense of Spell | 10.00% | ~28,858 |
+| Troll with the Punches | 10.00% | ~28,858 |
 | Grappling with a Graphorn | 9.00% | ~25,972 |
 | The One Who Mastered Memories | 9.00% | ~25,972 |
 | The Hallowed Hero | 9.00% | ~25,972 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 3.00% | ~8,657 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,657 |
 | The Wise Owl | 3.00% | ~8,657 |
-| The Good Samaritan | 2.00% | ~5,771 |
-| Put Down Roots | 2.00% | ~5,771 |
-| The Auror's Apprentice | 2.00% | ~5,771 |
-| Floo Around the World | 2.00% | ~5,771 |
-| Rise to the Challenges | 2.00% | ~5,771 |
+| The Good Samaritan | 2.00% | ~5,772 |
+| Put Down Roots | 2.00% | ~5,772 |
+| The Auror's Apprentice | 2.00% | ~5,772 |
+| Floo Around the World | 2.00% | ~5,772 |
+| Rise to the Challenges | 2.00% | ~5,772 |
 | Savvy Spender | 1.00% | ~2,886 |
 | Demiguise Dread | 1.00% | ~2,886 |
 | Finishing Touches | 1.00% | ~2,886 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,573 (Ranked 42)  
+Progressed: 288,575 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
-| 2023-07-26 | 288,573 | 434 |
+| 2023-07-26 | 288,575 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
 Sum: 39,889 (Ranked 30)  

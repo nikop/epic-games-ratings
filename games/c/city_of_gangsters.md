@@ -5,19 +5,19 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,962 |
-| Copacetic Coordination | 16.00% | ~53,204 |
+| Corner Clout | 46.00% | ~152,963 |
+| Copacetic Coordination | 16.00% | ~53,205 |
 | Fronting the Money | 14.00% | ~46,554 |
 | The Dawn of Automation | 14.00% | ~46,554 |
 | Extraordinary Logistics | 14.00% | ~46,554 |
-| Dirty Money | 13.00% | ~43,228 |
-| Family First | 13.00% | ~43,228 |
+| Dirty Money | 13.00% | ~43,229 |
+| Family First | 13.00% | ~43,229 |
 | Cleaning House | 12.00% | ~39,903 |
 | Room in the Back | 12.00% | ~39,903 |
 | Booze Baron | 11.00% | ~36,578 |
-| Beating the Heat | 10.00% | ~33,252 |
-| Friends on the Force | 10.00% | ~33,252 |
-| Neighborhood Watch | 10.00% | ~33,252 |
+| Beating the Heat | 10.00% | ~33,253 |
+| Friends on the Force | 10.00% | ~33,253 |
+| Neighborhood Watch | 10.00% | ~33,253 |
 | Core Corps | 8.00% | ~26,602 |
 | Sizeable Stash | 8.00% | ~26,602 |
 | Street Fighter | 7.00% | ~23,277 |
@@ -48,11 +48,11 @@ Rating: 4.26 (Ranked 804)
 | Still Stalwart | 3.00% | ~9,976 |
 | Bees Knees Bootlegger | 3.00% | ~9,976 |
 | Tighten the Screws | 3.00% | ~9,976 |
-| One of Us | 2.00% | ~6,650 |
-| Baker’s Dozen | 2.00% | ~6,650 |
-| Dropping the Dime | 2.00% | ~6,650 |
-| Spiffy Speakeasies | 2.00% | ~6,650 |
-| Keeping Your Word | 2.00% | ~6,650 |
+| One of Us | 2.00% | ~6,651 |
+| Baker’s Dozen | 2.00% | ~6,651 |
+| Dropping the Dime | 2.00% | ~6,651 |
+| Spiffy Speakeasies | 2.00% | ~6,651 |
+| Keeping Your Word | 2.00% | ~6,651 |
 | Boxing Them In | 1.00% | ~3,325 |
 | Backroom Empire | 1.00% | ~3,325 |
 | Corner Control | 1.00% | ~3,325 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~333 |
 | Station Master | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,525 (Ranked 41)  
+Progressed: 332,529 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 5 (0.00%) (Ranked 242)
 | 2023-07-23 | 332,057 | 5 |
 | 2023-07-24 | 332,274 | 5 |
 | 2023-07-25 | 332,508 | 5 |
-| 2023-07-26 | 332,525 | 5 |
+| 2023-07-26 | 332,529 | 5 |
 ## Awards
 Max (Relaxing): 27  (Ranked 466)  
 Sum: 122 (Ranked 401)  

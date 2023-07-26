@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 238982,
+  "EOS_Progressed": 238984,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10833,6 +10833,11 @@
       "Time": "2023-07-26T02:08:18.6840713+00:00",
       "NumProgressed": 238982,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-26T03:02:23.9733381+00:00",
+      "NumProgressed": 238984,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -10844,7 +10849,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64525
+      "UsersEstimate": 64526
     },
     {
       "ID": "ACH_AON",
@@ -10924,7 +10929,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21508
+      "UsersEstimate": 21509
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -10964,7 +10969,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7169
+      "UsersEstimate": 7170
     },
     {
       "ID": "ACH_IRONDEC",
@@ -10988,7 +10993,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66915
+      "UsersEstimate": 66916
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -11140,7 +11145,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7169
+      "UsersEstimate": 7170
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -11259,7 +11264,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 238982,
+      "Progressed": 238984,
       "Completed": 7
     }
   ],
@@ -11267,8 +11272,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:08:18.6840708+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:02:23.9733376+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:03:38.8544287+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:08:18.6841806+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:58:20.4915811+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:02:23.9734254+00:00"
 }

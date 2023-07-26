@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~152 |
-| Starting Skyward | 52.00% | ~136 |
+| In the Black | 58.00% | ~153 |
+| Starting Skyward | 52.00% | ~137 |
 | Grime is Not Good | 45.00% | ~118 |
 | Floor Galore | 37.00% | ~97 |
 | Campaign Launch | 37.00% | ~97 |
 | Dinner Dash | 37.00% | ~97 |
 | Need a Consult | 34.00% | ~89 |
-| Upgrade Unlock | 34.00% | ~89 |
 | It's Technical | 34.00% | ~89 |
+| Upgrade Unlock | 33.00% | ~87 |
 | Delegate Maintenance | 32.00% | ~84 |
-| Proper Walls | 31.00% | ~81 |
+| Proper Walls | 31.00% | ~82 |
 | Destination Destiny | 27.00% | ~71 |
 | Happy Tenants | 25.00% | ~66 |
 | Smooth Service | 24.00% | ~63 |
 | Your Prestige is Rising | 23.00% | ~60 |
-| Potent Potables | 23.00% | ~60 |
+| Potent Potables | 22.00% | ~58 |
 | Retail Revenue | 22.00% | ~58 |
 | Lux Living | 21.00% | ~55 |
 | Leveled Up Shops | 21.00% | ~55 |
-| People Mover | 20.00% | ~52 |
+| People Mover | 20.00% | ~53 |
 | Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
 | Emporium Empire | 19.00% | ~50 |
@@ -39,7 +39,7 @@
 | Starred Dining | 14.00% | ~37 |
 | Boutique Benefits | 14.00% | ~37 |
 | Thrilled Tenants | 14.00% | ~37 |
-| Swimming in Surplus | 12.00% | ~31 |
+| Swimming in Surplus | 12.00% | ~32 |
 | 28 Days Later | 11.00% | ~29 |
 | Master of Puppets | 10.00% | ~26 |
 | Phoning It In | 9.00% | ~24 |
@@ -52,6 +52,7 @@
 | Pipe Up | 8.00% | ~21 |
 | Careful Constructor | 7.00% | ~18 |
 | Maximum Reuse | 7.00% | ~18 |
+| Baron of Business | 6.00% | ~16 |
 | I'm Busy Ruling | 6.00% | ~16 |
 | Water Features | 6.00% | ~16 |
 | Sky High Stature | 6.00% | ~16 |
@@ -60,7 +61,6 @@
 | It's a Gas | 6.00% | ~16 |
 | Meet ADA/360 | 5.00% | ~13 |
 | Penthouse in the Sky | 5.00% | ~13 |
-| Baron of Business | 5.00% | ~13 |
 | Office Bigwigs | 5.00% | ~13 |
 | Golden Opportunity | 5.00% | ~13 |
 | Decorator's Touch | 3.00% | ~8 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 257)  
+Progressed: 263 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
+| 2023-07-26 | 263 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2700,9 +2700,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 70057,
+  "EOS_Progressed": 70058,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 952,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12780,6 +12780,11 @@
       "Time": "2023-07-26T02:10:25.1001093+00:00",
       "NumProgressed": 70057,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-26T03:05:08.4898117+00:00",
+      "NumProgressed": 70058,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -12791,7 +12796,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35028
+      "UsersEstimate": 35029
     },
     {
       "ID": "ACH_0011",
@@ -12815,7 +12820,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9107
+      "UsersEstimate": 9108
     },
     {
       "ID": "ACH_0014",
@@ -12935,7 +12940,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 45537
+      "UsersEstimate": 45538
     },
     {
       "ID": "ACH_0210",
@@ -12943,7 +12948,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51842
+      "UsersEstimate": 51843
     },
     {
       "ID": "ACH_0211",
@@ -13007,7 +13012,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "ACH_0420",
@@ -13015,7 +13020,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "ACH_0430",
@@ -13086,7 +13091,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 70057,
+      "Progressed": 70058,
       "Completed": 36
     }
   ],
@@ -13094,8 +13099,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-25T11:01:00.4964174+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:10:25.1001088+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:05:08.4898112+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.2423638+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:05:38.8713524+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:10:25.1002024+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:00:23.8733679+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:05:08.4898803+00:00"
 }

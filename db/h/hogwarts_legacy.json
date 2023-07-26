@@ -5478,9 +5478,9 @@
       "Count": 565
     }
   ],
-  "EOS_Progressed": 288573,
+  "EOS_Progressed": 288575,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15843,6 +15843,11 @@
       "Time": "2023-07-26T02:09:48.4420592+00:00",
       "NumProgressed": 288573,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-26T03:04:32.025735+00:00",
+      "NumProgressed": 288575,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15950,7 +15955,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "PFA_21",
@@ -15974,7 +15979,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28857
+      "UsersEstimate": 28858
     },
     {
       "ID": "PFA_24",
@@ -16014,7 +16019,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "PFA_29",
@@ -16030,7 +16035,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "PFA_30",
@@ -16070,7 +16075,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "PFA_35",
@@ -16086,7 +16091,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "PFA_37",
@@ -16190,7 +16195,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28857
+      "UsersEstimate": 28858
     },
     {
       "ID": "PFA_8",
@@ -16213,7 +16218,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288573,
+      "Progressed": 288575,
       "Completed": 434
     }
   ],
@@ -16221,8 +16226,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-26T02:03:12.2767887+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:09:48.4420581+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:04:32.0257345+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:03:12.2767899+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:09:48.4421818+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:57:50.2032732+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:04:32.025811+00:00"
 }

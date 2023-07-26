@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15945,
+  "EOS_Progressed": 15946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3330,6 +3330,11 @@
       "Time": "2023-07-26T00:05:26.3048639+00:00",
       "NumProgressed": 15945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T03:04:31.5166466+00:00",
+      "NumProgressed": 15946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3341,7 +3346,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15148
+      "UsersEstimate": 15149
     },
     {
       "ID": "ACH001",
@@ -3349,7 +3354,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13872
+      "UsersEstimate": 13873
     },
     {
       "ID": "ACH0010",
@@ -3373,7 +3378,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7494
+      "UsersEstimate": 7495
     },
     {
       "ID": "ACH0013",
@@ -3389,7 +3394,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "ACH0015",
@@ -3437,7 +3442,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11481
     },
     {
       "ID": "ACH0020",
@@ -3461,7 +3466,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5421
+      "UsersEstimate": 5422
     },
     {
       "ID": "ACH0023",
@@ -3517,7 +3522,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "ACH007",
@@ -3525,7 +3530,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACH008",
@@ -3548,7 +3553,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15945,
+      "Progressed": 15946,
       "Completed": 0
     }
   ],
@@ -3556,8 +3561,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-07-15T00:01:25.4338441+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:09:48.0349209+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:04:31.5166456+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.9125867+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:05:48.6652901+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:09:48.0349606+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:00:35.1624038+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:04:31.5166754+00:00"
 }

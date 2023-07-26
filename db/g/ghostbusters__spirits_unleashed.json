@@ -6,8 +6,8 @@
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 100,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1456,10 +1456,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2180,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-07-26T02:59:27.514702+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2181,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2180,
+  "NumberOfAwards": 2181,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1497,7 +1503,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1536,9 +1542,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24452,
+  "EOS_Progressed": 24453,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8641,6 +8647,11 @@
       "Time": "2023-07-26T00:04:48.1684037+00:00",
       "NumProgressed": 24452,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-26T03:04:04.9693575+00:00",
+      "NumProgressed": 24453,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8652,7 +8663,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "Animated",
@@ -8660,7 +8671,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "Back_Off",
@@ -8668,7 +8679,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "Best_Insurance",
@@ -8692,7 +8703,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10025
+      "UsersEstimate": 10026
     },
     {
       "ID": "Collect_Spores",
@@ -8764,7 +8775,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15649
+      "UsersEstimate": 15650
     },
     {
       "ID": "Escape_Artist",
@@ -8788,7 +8799,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13204
+      "UsersEstimate": 13205
     },
     {
       "ID": "GB_In_Training",
@@ -8932,7 +8943,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "Solo_Capture",
@@ -8956,7 +8967,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21029
+      "UsersEstimate": 21030
     },
     {
       "ID": "Summoner",
@@ -8980,7 +8991,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13204
+      "UsersEstimate": 13205
     },
     {
       "ID": "Teamwork",
@@ -8996,7 +9007,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "Therapeutic",
@@ -9012,7 +9023,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9020,7 +9031,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "Ultimate_Defense",
@@ -9059,16 +9070,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24452,
+      "Progressed": 24453,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-07-26T02:04:45.8203055+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:09:21.0026266+00:00",
+  "LastChanged": "2023-07-26T02:59:27.5147019+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:04:04.9693571+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:04:45.8203066+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:09:21.0027154+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:59:27.5147024+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:04:04.9694289+00:00"
 }

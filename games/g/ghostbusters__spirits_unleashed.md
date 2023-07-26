@@ -5,19 +5,19 @@ Rating: 4.49 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,029 |
-| Advancement | 73.00% | ~17,850 |
-| Meticulously Efficient | 64.00% | ~15,649 |
+| Stylish | 86.00% | ~21,030 |
+| Advancement | 73.00% | ~17,851 |
+| Meticulously Efficient | 64.00% | ~15,650 |
 | Discovery | 61.00% | ~14,916 |
-| Fully Upgraded | 54.00% | ~13,204 |
-| Swift Rift Removers | 54.00% | ~13,204 |
+| Fully Upgraded | 54.00% | ~13,205 |
+| Swift Rift Removers | 54.00% | ~13,205 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,471 |
 | Cultured | 51.00% | ~12,471 |
 | Vaporous Expansion | 48.00% | ~11,737 |
 | Teamwork | 44.00% | ~10,759 |
-| There you are! | 43.00% | ~10,514 |
-| Clutch Capture | 41.00% | ~10,025 |
-| Back Off | 35.00% | ~8,558 |
+| There you are! | 43.00% | ~10,515 |
+| Clutch Capture | 41.00% | ~10,026 |
+| Back Off | 35.00% | ~8,559 |
 | Daily Dose | 34.00% | ~8,314 |
 | Solo Capture | 32.00% | ~7,825 |
 | Welcome to the Crew | 32.00% | ~7,825 |
@@ -30,13 +30,13 @@ Rating: 4.49 (Ranked 572)
 | Stunner | 26.00% | ~6,358 |
 | Summoner | 26.00% | ~6,358 |
 | Pesky Jerks | 25.00% | ~6,113 |
-| Animated | 24.00% | ~5,868 |
-| Skilled | 24.00% | ~5,868 |
+| Animated | 24.00% | ~5,869 |
+| Skilled | 24.00% | ~5,869 |
 | Collector | 23.00% | ~5,624 |
 | Ectoplasmic Entity | 23.00% | ~5,624 |
 | Rift Destroyer | 19.00% | ~4,646 |
-| Terrifying | 18.00% | ~4,401 |
-| Tobin's Prodigy | 18.00% | ~4,401 |
+| Terrifying | 18.00% | ~4,402 |
+| Tobin's Prodigy | 18.00% | ~4,402 |
 | Reckless | 17.00% | ~4,157 |
 | Diabolical | 16.00% | ~3,912 |
 | Escape Artist | 16.00% | ~3,912 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 572)
 | Mycophile | 1.00% | ~245 |
 | I don't need these | 0.90% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,452 (Ranked 100)  
-Completed: 48 (0.20%) (Ranked 170)  
+Progressed: 24,453 (Ranked 100)  
+Completed: 48 (0.20%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,10 +154,10 @@ Completed: 48 (0.20%) (Ranked 170)
 | 2023-07-23 | 24,410 | 48 |
 | 2023-07-24 | 24,428 | 48 |
 | 2023-07-25 | 24,451 | 48 |
-| 2023-07-26 | 24,452 | 48 |
+| 2023-07-26 | 24,453 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
-Sum: 2,180 (Ranked 189)  
+Sum: 2,181 (Ranked 189)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -169,7 +169,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 213 |
 | This game is Highly Recommended | 213 |
 | This game is Relaxing | 213 |
-| This game has Quickly Understood Controls | 203 |
+| This game has Quickly Understood Controls | 204 |
 | This game has Amazing Characters | 202 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -295,4 +295,4 @@ Diff (max vs sum): 60
 | 2023-07-21 | 4.49 | 243 | 2,176 |
 | 2023-07-23 | 4.49 | 243 | 2,177 |
 | 2023-07-25 | 4.49 | 243 | 2,179 |
-| 2023-07-26 | 4.49 | 243 | 2,180 |
+| 2023-07-26 | 4.49 | 243 | 2,181 |

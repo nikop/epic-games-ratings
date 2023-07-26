@@ -10,12 +10,12 @@ Rating: 3.96 (Ranked 927)
 | Fear my botany powers, Mars | 32.00% | ~461 |
 | Zero Waste | 29.00% | ~418 |
 | Bob The Builder | 29.00% | ~418 |
-| I am the greatest botanist on this planet. | 28.00% | ~403 |
+| I am the greatest botanist on this planet. | 28.00% | ~404 |
 | Gardener | 25.00% | ~360 |
 | Miner | 25.00% | ~360 |
 | Occupy Mars! | 24.00% | ~346 |
 | Houston we have a problem | 21.00% | ~303 |
-| Detective | 18.00% | ~259 |
+| Detective | 18.00% | ~260 |
 | The Collector | 17.00% | ~245 |
 | Get your hands dirty | 9.00% | ~130 |
 | All Wheel Trouble | 7.00% | ~101 |
@@ -54,7 +54,7 @@ Rating: 3.96 (Ranked 927)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,441 (Ranked 176)  
+Progressed: 1,442 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 1,430 | 0 |
 | 2023-07-24 | 1,435 | 0 |
 | 2023-07-25 | 1,441 | 0 |
+| 2023-07-26 | 1,442 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,585 |
-| Let There Be Light | 28.00% | ~16,468 |
-| Float Like a Butterfly | 27.00% | ~15,880 |
-| Nordic Walking | 22.00% | ~12,939 |
-| Bright Falls' Finest | 21.00% | ~12,351 |
-| Under a Thin Layer of Skin | 19.00% | ~11,174 |
-| Park Ranger | 15.00% | ~8,822 |
-| Paging Mr. Wake | 15.00% | ~8,822 |
+| Follow the Light | 35.00% | ~20,586 |
+| Let There Be Light | 28.00% | ~16,469 |
+| Float Like a Butterfly | 27.00% | ~15,881 |
+| Nordic Walking | 22.00% | ~12,940 |
+| Bright Falls' Finest | 21.00% | ~12,352 |
+| Under a Thin Layer of Skin | 19.00% | ~11,175 |
+| Park Ranger | 15.00% | ~8,823 |
+| Paging Mr. Wake | 15.00% | ~8,823 |
 | Back! Back, I Say! | 14.00% | ~8,234 |
 | Finders Keepers | 14.00% | ~8,234 |
 | Sound and Fury | 13.00% | ~7,646 |
@@ -22,20 +22,20 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 12.00% | ~7,058 |
 | They're Heeeeeere! | 12.00% | ~7,058 |
 | The Six-Gun Scribe | 12.00% | ~7,058 |
-| Heavy Metal | 11.00% | ~6,469 |
-| Iron Horse | 11.00% | ~6,469 |
-| Perchance to Dream | 11.00% | ~6,469 |
-| Collateral Carnage | 11.00% | ~6,469 |
-| Come One, Come All | 11.00% | ~6,469 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,881 |
-| Thunder and Lightning | 10.00% | ~5,881 |
-| Two For the Price of One | 10.00% | ~5,881 |
-| Gatekeeper | 9.00% | ~5,293 |
-| The Lady of the Light | 9.00% | ~5,293 |
-| Energized! | 9.00% | ~5,293 |
+| Heavy Metal | 11.00% | ~6,470 |
+| Iron Horse | 11.00% | ~6,470 |
+| Perchance to Dream | 11.00% | ~6,470 |
+| Collateral Carnage | 11.00% | ~6,470 |
+| Come One, Come All | 11.00% | ~6,470 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,882 |
+| Thunder and Lightning | 10.00% | ~5,882 |
+| Two For the Price of One | 10.00% | ~5,882 |
+| Gatekeeper | 9.00% | ~5,294 |
+| The Lady of the Light | 9.00% | ~5,294 |
+| Energized! | 9.00% | ~5,294 |
 | What Light Through Yonder Window | 8.00% | ~4,705 |
 | Right of Way | 8.00% | ~4,705 |
-| A Friend in Need | 8.00% | ~1,782 |
+| A Friend in Need | 8.00% | ~1,783 |
 | Tornado Wrangler | 7.00% | ~4,117 |
 | Departure | 6.00% | ~3,529 |
 | A Friend Indeed | 6.00% | ~1,337 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,353 |
 | If It Flies, It Burns | 4.00% | ~2,353 |
 | KBF-FM | 4.00% | ~2,353 |
-| Kill Your Darlings | 3.00% | ~668 |
-| Heartbreaker | 3.00% | ~668 |
+| Kill Your Darlings | 3.00% | ~669 |
+| Heartbreaker | 3.00% | ~669 |
 | Medical Opinions | 2.00% | ~1,176 |
 | Taken Season | 2.00% | ~1,176 |
 | Carny | 2.00% | ~1,176 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,813 (Ranked 82)  
+Progressed: 58,817 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
-| 2023-07-26 | 58,813 | 58 |
+| 2023-07-26 | 58,817 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

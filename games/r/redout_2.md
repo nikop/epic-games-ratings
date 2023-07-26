@@ -5,11 +5,11 @@ Rating: 4.48 (Ranked 585)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~293 |
-| Increasing your Power Level | 27.00% | ~293 |
+| Rookie No More | 27.00% | ~294 |
+| Increasing your Power Level | 27.00% | ~294 |
 | Enter the Speed Gauntlet | 25.00% | ~272 |
 | I just can't choose | 25.00% | ~272 |
-| A Cheese Grater to the Face | 20.00% | ~217 |
+| A Cheese Grater to the Face | 20.00% | ~218 |
 | Put it on a shelf | 18.00% | ~196 |
 | It's like an haircut | 17.00% | ~185 |
 | Suit up | 16.00% | ~174 |
@@ -27,11 +27,11 @@ Rating: 4.48 (Ranked 585)
 | Even Faster! | 6.00% | ~65 |
 | Longshot | 6.00% | ~65 |
 | B-asic! | 5.00% | ~54 |
-| Under the neon lights | 4.00% | ~43 |
-| All Power to Engines! | 4.00% | ~43 |
-| Almost broke the game | 4.00% | ~43 |
-| Better luck next time | 4.00% | ~43 |
-| Dev, this! | 4.00% | ~43 |
+| Under the neon lights | 4.00% | ~44 |
+| All Power to Engines! | 4.00% | ~44 |
+| Almost broke the game | 4.00% | ~44 |
+| Better luck next time | 4.00% | ~44 |
+| Dev, this! | 4.00% | ~44 |
 | Try them all | 3.00% | ~33 |
 | To infinity and gravity! | 3.00% | ~33 |
 | One giant drive for mankind | 3.00% | ~33 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 585)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 187)  
+Progressed: 1,088 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 1,082 | 0 |
 | 2023-07-24 | 1,085 | 0 |
 | 2023-07-25 | 1,086 | 0 |
-| 2023-07-26 | 1,087 | 0 |
+| 2023-07-26 | 1,088 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

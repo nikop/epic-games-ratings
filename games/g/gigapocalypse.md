@@ -18,9 +18,9 @@
 | Impenetrable Skin | 55.00% | ~90 |
 | Chomp Chomp! | 44.00% | ~72 |
 | Supreme Power | 43.00% | ~70 |
+| The Duelist | 41.00% | ~67 |
 | Glorious Battle | 41.00% | ~67 |
 | Target Practice | 41.00% | ~67 |
-| The Duelist | 40.00% | ~65 |
 | Diaper Time! | 40.00% | ~65 |
 | Meat Larder | 38.00% | ~62 |
 | Mutant And Proud | 37.00% | ~60 |

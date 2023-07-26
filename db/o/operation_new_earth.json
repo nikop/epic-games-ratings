@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2156,6 +2156,11 @@
       "Time": "2023-07-26T02:10:45.9594619+00:00",
       "NumProgressed": 626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T03:05:28.8454808+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2287,7 +2292,7 @@
       "Name": "Sergeant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2295,7 +2300,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2375,7 +2380,7 @@
       "Name": "Stocking Up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2391,7 +2396,7 @@
       "Name": "On Target",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2470,14 +2475,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 627,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:10:45.9594614+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:05:28.8454804+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:06:06.5206472+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:10:45.9595136+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:00:51.4036432+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:05:28.8455129+00:00"
 }

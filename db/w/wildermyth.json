@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-07-26T02:10:26.4640059+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T03:05:09.7959419+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1299,7 +1304,7 @@
       "Name": "Passing Shadow",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1419,7 +1424,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1457,9 +1462,9 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1505,9 +1510,9 @@
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1674,15 +1679,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:10:26.4640054+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:05:09.7959415+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:06:12.8688722+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:10:26.4640614+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:00:56.8400714+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:05:09.7959864+00:00"
 }

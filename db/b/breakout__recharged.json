@@ -2,9 +2,9 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-07-25T19:04:40.5291529+00:00",
       "NumProgressed": 95,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T03:05:05.2448846+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -180,7 +185,7 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 68
     },
@@ -196,7 +201,7 @@
       "ID": "ACH_ANOTHER_BRICK_3",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 3)",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 34
     },
@@ -206,7 +211,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -228,7 +233,7 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
       "UsersEstimate": 79
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -252,9 +257,9 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
@@ -268,7 +273,7 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 57
     },
@@ -301,7 +306,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 2
     }
   ],
@@ -309,8 +314,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:10:22.0821142+00:00",
+  "LastChanged_Achievements": "2023-07-26T03:05:05.244884+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:14.58668+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:03:08.5550946+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:10:22.0821264+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:57:45.0512955+00:00",
+  "LastUpdate_Achievements": "2023-07-26T03:05:05.2448946+00:00"
 }
