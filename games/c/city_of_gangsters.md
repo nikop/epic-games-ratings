@@ -5,21 +5,21 @@ Rating: 4.26 (Ranked 806)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,995 |
-| Copacetic Coordination | 16.00% | ~53,216 |
-| Fronting the Money | 14.00% | ~46,564 |
-| The Dawn of Automation | 14.00% | ~46,564 |
-| Extraordinary Logistics | 14.00% | ~46,564 |
-| Dirty Money | 13.00% | ~43,238 |
-| Family First | 13.00% | ~43,238 |
-| Cleaning House | 12.00% | ~39,912 |
-| Room in the Back | 12.00% | ~39,912 |
-| Booze Baron | 11.00% | ~36,586 |
-| Beating the Heat | 10.00% | ~33,260 |
-| Friends on the Force | 10.00% | ~33,260 |
-| Neighborhood Watch | 10.00% | ~33,260 |
-| Core Corps | 8.00% | ~26,608 |
-| Sizeable Stash | 8.00% | ~26,608 |
+| Corner Clout | 46.00% | ~152,999 |
+| Copacetic Coordination | 16.00% | ~53,217 |
+| Fronting the Money | 14.00% | ~46,565 |
+| The Dawn of Automation | 14.00% | ~46,565 |
+| Extraordinary Logistics | 14.00% | ~46,565 |
+| Dirty Money | 13.00% | ~43,239 |
+| Family First | 13.00% | ~43,239 |
+| Cleaning House | 12.00% | ~39,913 |
+| Room in the Back | 12.00% | ~39,913 |
+| Booze Baron | 11.00% | ~36,587 |
+| Beating the Heat | 10.00% | ~33,261 |
+| Friends on the Force | 10.00% | ~33,261 |
+| Neighborhood Watch | 10.00% | ~33,261 |
+| Core Corps | 8.00% | ~26,609 |
+| Sizeable Stash | 8.00% | ~26,609 |
 | Street Fighter | 7.00% | ~23,282 |
 | Friendly Gestures | 7.00% | ~23,282 |
 | People Person | 7.00% | ~23,282 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 806)
 | High Pillow | 0.10% | ~333 |
 | Station Master | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,598 (Ranked 41)  
+Progressed: 332,607 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 5 (0.00%) (Ranked 242)
 | 2023-07-23 | 332,057 | 5 |
 | 2023-07-24 | 332,274 | 5 |
 | 2023-07-25 | 332,508 | 5 |
-| 2023-07-26 | 332,598 | 5 |
+| 2023-07-26 | 332,607 | 5 |
 ## Awards
 Max (Relaxing): 27  (Ranked 466)  
 Sum: 122 (Ranked 401)  

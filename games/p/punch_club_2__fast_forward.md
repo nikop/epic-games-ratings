@@ -19,7 +19,7 @@
 | Run K, run! | 71.00% | ~109 |
 | No bullying more | 67.00% | ~103 |
 | Hello, world! | 67.00% | ~103 |
-| Fighting is cool | 63.00% | ~96 |
+| Fighting is cool | 64.00% | ~98 |
 | Intriguing candies | 60.00% | ~92 |
 | Employee of the month | 60.00% | ~92 |
 | Pal of your father? | 58.00% | ~89 |
@@ -28,14 +28,14 @@
 | Law student | 54.00% | ~83 |
 | Little hacker | 53.00% | ~81 |
 | Your own way | 52.00% | ~80 |
+| Fight for life | 50.00% | ~76 |
 | Champion – starter pack | 50.00% | ~76 |
-| Fight for life | 49.00% | ~75 |
+| Employee of the year | 49.00% | ~75 |
+| Handyman | 48.00% | ~73 |
 | It's good to be alive | 48.00% | ~73 |
-| Employee of the year | 48.00% | ~73 |
-| Handyman | 47.00% | ~72 |
-| Own four walls | 47.00% | ~72 |
+| Own four walls | 48.00% | ~73 |
 | Extreme neuropower! | 43.00% | ~66 |
-| Legal courier | 39.00% | ~60 |
+| Legal courier | 40.00% | ~61 |
 | Now you are worthy | 37.00% | ~57 |
 | Escaped from a big trouble | 33.00% | ~50 |
 | Guiding on the right path | 32.00% | ~49 |
@@ -58,7 +58,7 @@
 | Undercover robot | 21.00% | ~32 |
 | Trap disarmed | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Careerist | 19.00% | ~29 |
+| Careerist | 20.00% | ~31 |
 | Keep nature safe | 18.00% | ~28 |
 | Not little hacker | 18.00% | ~28 |
 | Absolute Champion! | 18.00% | ~28 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 17.00% | ~26 |
 | Silver’s past | 16.00% | ~24 |
 | Better cooking at home | 14.00% | ~21 |
-| The only right decision | 12.00% | ~18 |
+| The only right decision | 13.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 292)  
 Completed: 5 (3.27%) (Ranked 58)  

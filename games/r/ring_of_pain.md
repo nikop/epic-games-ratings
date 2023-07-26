@@ -6,22 +6,22 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,824 |
+| First Steps | 96.00% | ~223,825 |
 | Uncharted Territory | 89.00% | ~207,504 |
 | Getting A Glimpse | 73.00% | ~170,200 |
 | A Quick Escape | 65.00% | ~151,548 |
-| Explorer | 62.00% | ~144,553 |
+| Explorer | 62.00% | ~144,554 |
 | Defeat The Dark | 61.00% | ~142,222 |
 | An Offering | 61.00% | ~142,222 |
-| Colorful Corpse | 58.00% | ~135,227 |
-| That Was Quick | 56.00% | ~130,564 |
-| A Donation | 56.00% | ~130,564 |
-| Goodbye, Frog Friend | 54.00% | ~125,901 |
+| Colorful Corpse | 58.00% | ~135,228 |
+| That Was Quick | 56.00% | ~130,565 |
+| A Donation | 56.00% | ~130,565 |
+| Goodbye, Frog Friend | 54.00% | ~125,902 |
 | Heavy Hitter | 53.00% | ~123,570 |
 | Heartless | 46.00% | ~107,249 |
 | Spine Breaker | 46.00% | ~107,249 |
 | Deflection | 45.00% | ~104,918 |
-| Sneaky | 43.00% | ~100,254 |
+| Sneaky | 43.00% | ~100,255 |
 | Delving Deeper | 42.00% | ~97,923 |
 | Ambitious Intent | 41.00% | ~95,592 |
 | C-C-Combo | 41.00% | ~95,592 |
@@ -30,7 +30,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 38.00% | ~88,597 |
 | R.I.P | 36.00% | ~83,934 |
 | Shootout | 36.00% | ~83,934 |
-| I Am Overburdened | 35.00% | ~81,602 |
+| I Am Overburdened | 35.00% | ~81,603 |
 | Cold Hearted | 34.00% | ~79,271 |
 | Dig Your Own Grave | 33.00% | ~76,940 |
 | Toxic | 33.00% | ~76,940 |
@@ -48,20 +48,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 20.00% | ~46,630 |
 | Well Prepared | 20.00% | ~46,630 |
 | Just Chilling | 20.00% | ~46,630 |
-| Stop Hitting Yourself | 19.00% | ~44,298 |
+| Stop Hitting Yourself | 19.00% | ~44,299 |
 | All Consuming | 18.00% | ~41,967 |
 | Shadow Spreads | 17.00% | ~39,636 |
 | Don't Ignore Me! | 17.00% | ~39,636 |
 | Illuminate, Eliminate | 17.00% | ~39,636 |
 | Max Damage! | 16.00% | ~37,304 |
 | Doing Time | 16.00% | ~37,304 |
-| Spreading Plague | 15.00% | ~34,972 |
+| Spreading Plague | 15.00% | ~34,973 |
 | The Long Run | 14.00% | ~32,641 |
 | A Rough Road | 13.00% | ~30,310 |
 | Chain Reaction | 13.00% | ~30,310 |
 | Berzerker | 12.00% | ~27,978 |
 | Antivenom | 12.00% | ~27,978 |
-| Thank You, Friend | 11.00% | ~25,646 |
+| Thank You, Friend | 11.00% | ~25,647 |
 | Barbecue | 10.00% | ~23,315 |
 | Snake Sneak | 9.00% | ~20,984 |
 | Challenge Increases | 8.00% | ~18,652 |
@@ -92,16 +92,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 4.00% | ~9,326 |
 | Become The Nightmare | 4.00% | ~9,326 |
 | No Mercy | 4.00% | ~9,326 |
-| Quick Descent | 3.00% | ~6,994 |
-| A Week Attempt | 3.00% | ~6,994 |
-| Dead Revels | 3.00% | ~6,994 |
-| Powerful Potion | 3.00% | ~6,994 |
-| Here Comes The Airplane | 3.00% | ~6,994 |
-| Trail Of Death | 3.00% | ~6,994 |
-| The Boulder | 3.00% | ~6,994 |
-| Overthrown | 3.00% | ~6,994 |
-| Illuminate, Annihilate | 3.00% | ~6,994 |
-| Masochist | 3.00% | ~6,994 |
+| Quick Descent | 3.00% | ~6,995 |
+| A Week Attempt | 3.00% | ~6,995 |
+| Dead Revels | 3.00% | ~6,995 |
+| Powerful Potion | 3.00% | ~6,995 |
+| Here Comes The Airplane | 3.00% | ~6,995 |
+| Trail Of Death | 3.00% | ~6,995 |
+| The Boulder | 3.00% | ~6,995 |
+| Overthrown | 3.00% | ~6,995 |
+| Illuminate, Annihilate | 3.00% | ~6,995 |
+| Masochist | 3.00% | ~6,995 |
 | Poor Choices | 2.00% | ~4,663 |
 | Not What I Meant | 2.00% | ~4,663 |
 | A Rock And A Hard Place | 2.00% | ~4,663 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~933 |
 | Near Death Experience | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,150 (Ranked 48)  
+Progressed: 233,151 (Ranked 48)  
 Completed: 254 (0.11%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 254 (0.11%) (Ranked 187)
 | 2023-07-23 | 233,008 | 252 |
 | 2023-07-24 | 233,058 | 253 |
 | 2023-07-25 | 233,113 | 254 |
-| 2023-07-26 | 233,150 | 254 |
+| 2023-07-26 | 233,151 | 254 |
 ## Awards
 Max (Quickly Understood Controls): 1,486  (Ranked 120)  
 Sum: 11,498 (Ranked 75)  

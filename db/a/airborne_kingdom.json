@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6875,
+  "EOS_Progressed": 6876,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2988,6 +2988,11 @@
       "Time": "2023-07-26T12:03:03.5591498+00:00",
       "NumProgressed": 6875,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-26T13:09:25.4749818+00:00",
+      "NumProgressed": 6876,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3047,7 +3052,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3151,7 +3156,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3214,15 +3219,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6875,
+      "Progressed": 6876,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:03:03.5591493+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:09:25.4749813+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:57:51.0235563+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:03:03.5591892+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:04:45.6269152+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:09:25.4750108+00:00"
 }

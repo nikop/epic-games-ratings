@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-07-26T10:03:27.8720018+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T13:10:22.798052+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1778,7 +1783,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Commandos",
@@ -1794,7 +1799,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Defense_Common",
@@ -1826,7 +1831,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Everyone_is_here",
@@ -1858,7 +1863,7 @@
       "Name": "Grenadier",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Hard_Serpent",
@@ -1898,7 +1903,7 @@
       "Name": "Spice It Up",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "KillAllM2",
@@ -1922,7 +1927,7 @@
       "Name": "One by One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Miner",
@@ -1938,7 +1943,7 @@
       "Name": "Mosquito bite",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Scout",
@@ -1962,7 +1967,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "We_were_not_here",
@@ -1985,15 +1990,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1179,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:03:30.7008782+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:10:22.7980515+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:59:24.1732739+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:03:30.7009112+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:06:16.0157283+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:10:22.7980752+00:00"
 }

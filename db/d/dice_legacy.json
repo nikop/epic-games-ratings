@@ -2,13 +2,13 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 798,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-07-26T02:09:34.9493411+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T13:11:03.7473251+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1165,7 +1170,7 @@
       "Name": "Full house",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -1181,7 +1186,7 @@
       "Name": "The First King",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
@@ -1237,7 +1242,7 @@
       "Name": "The great fire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
@@ -1317,7 +1322,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -1365,7 +1370,7 @@
       "Name": "Hear me out",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RUIN_CLEAR",
@@ -1397,7 +1402,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -1524,7 +1529,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 0
     }
   ],
@@ -1532,8 +1537,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:04:20.896259+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:11:03.7473247+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.3997168+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:04.2033605+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:04:20.8963747+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:04:58.571852+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:11:03.7473702+00:00"
 }

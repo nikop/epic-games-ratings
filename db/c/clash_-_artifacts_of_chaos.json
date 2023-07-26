@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement3",
@@ -399,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:04:33.0010655+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:11:16.5514727+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:11.4625039+00:00",
-  "LastUpdate_Ratings": "2023-07-26T12:00:23.4906179+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:04:33.0010826+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:07:14.1323895+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:11:16.5514908+00:00"
 }

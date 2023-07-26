@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,313 |
-| Beast Intentions | 2.00% | ~4,313 |
+| A Brief Tour of the Realms | 2.00% | ~4,314 |
+| Beast Intentions | 2.00% | ~4,314 |
 | Maddening | 1.00% | ~2,157 |
 | The Silken Swamp | 1.00% | ~2,157 |
 | Supply Run | 0.90% | ~1,941 |
@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~863 |
 | Building Trust | 0.40% | ~863 |
 | Unearthed Evil | 0.40% | ~863 |
+| The Dinner Party | 0.40% | ~863 |
 | Not That Type of Helm! | 0.40% | ~728 |
 | Calcryx Tricks | 0.40% | ~728 |
 | Goblin Halls: the Next Generation | 0.40% | ~728 |
@@ -60,7 +61,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
 | Family Entanglements | 0.30% | ~647 |
-| The Dinner Party | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
 | Waterdeep Detours | 0.30% | ~647 |
@@ -123,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~431 |
 | The Dead Three | 0.20% | ~431 |
 | Flying Monkey Skulls of Doom | 0.20% | ~431 |
+| The Darkness Runs Deeper | 0.20% | ~431 |
 | Difficult Terrain | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
@@ -343,7 +344,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~216 |
 | The Tallest of Kobolds | 0.10% | ~182 |
 | Patience is Key | 0.10% | ~216 |
-| The Darkness Runs Deeper | 0.10% | ~216 |
 | Troublesome Prisoner | 0.10% | ~216 |
 | Dark Doppelgangers | 0.10% | ~216 |
 | Faerûn's Most Wanted | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,668 (Ranked 53)  
-Completed: 2,111 (0.98%) (Ranked 107)  
+Progressed: 215,682 (Ranked 53)  
+Completed: 2,112 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,668 | 2,111 |
+| 2023-07-26 | 215,682 | 2,112 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

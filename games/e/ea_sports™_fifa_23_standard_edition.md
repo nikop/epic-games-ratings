@@ -3,12 +3,12 @@
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
 Rating: 4.25 (Ranked 812)  
 ## Awards
-Max (Diverse Characters): 16,045  (Ranked 22)  
-Sum: 73,848 (Ranked 19)  
+Max (Diverse Characters): 16,106  (Ranked 22)  
+Sum: 73,909 (Ranked 19)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 16,045 |
+| This game has Diverse Characters | 16,106 |
 | This game is Highly Recommended | 11,449 |
 | This game has a Competitive Community | 10,701 |
 | This game has Amazing Characters | 9,372 |
@@ -222,4 +222,4 @@ Diff (max vs sum): 3
 | 2023-07-23 | 4.25 | 15,935 | 73,290 |
 | 2023-07-24 | 4.25 | 16,000 | 73,554 |
 | 2023-07-25 | 4.25 | 16,045 | 73,796 |
-| 2023-07-26 | 4.25 | 16,045 | 73,848 |
+| 2023-07-26 | 4.25 | 16,106 | 73,909 |

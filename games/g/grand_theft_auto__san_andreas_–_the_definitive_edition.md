@@ -1,36 +1,36 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 462)  
+Rating: 4.56 (Ranked 461)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,213 |
-| Pay 'n' Spray | 50.00% | ~5,687 |
-| All Dressed Up for San Fierro | 25.00% | ~2,844 |
-| The American Dream | 18.00% | ~2,047 |
-| School's Out | 18.00% | ~2,047 |
-| Smooth Moves | 16.00% | ~1,820 |
-| Today Was a Good Day | 15.00% | ~1,706 |
-| What happens in Las Venturas... | 14.00% | ~1,592 |
-| Horror of the Santa Maria | 10.00% | ~1,137 |
+| Getting Started | 81.00% | ~9,217 |
+| Pay 'n' Spray | 50.00% | ~5,690 |
+| All Dressed Up for San Fierro | 25.00% | ~2,845 |
+| The American Dream | 18.00% | ~2,048 |
+| School's Out | 18.00% | ~2,048 |
+| Smooth Moves | 16.00% | ~1,821 |
+| Today Was a Good Day | 15.00% | ~1,707 |
+| What happens in Las Venturas... | 14.00% | ~1,593 |
+| Horror of the Santa Maria | 10.00% | ~1,138 |
 | Liberty City State of Mind | 9.00% | ~1,024 |
 | Original Gangster | 8.00% | ~910 |
-| The End of the Line | 7.00% | ~796 |
-| With Extra Dip | 6.00% | ~682 |
-| Saviour | 6.00% | ~682 |
+| The End of the Line | 7.00% | ~797 |
+| With Extra Dip | 6.00% | ~683 |
+| Saviour | 6.00% | ~683 |
 | They Can’t Stop All of Us | 4.00% | ~455 |
 | Rescue a Kitten Too? | 4.00% | ~455 |
 | Bike or Biker | 3.00% | ~341 |
 | What are the Odds | 3.00% | ~341 |
-| A Legitimate Business | 2.00% | ~227 |
-| I’ll Have Two Number 9s | 2.00% | ~227 |
-| Who Needs Directions? | 2.00% | ~227 |
-| What the City Needs | 2.00% | ~227 |
-| Yes I Speak English | 2.00% | ~227 |
-| Double or Nothin' | 2.00% | ~227 |
-| Public Enemy No. 1 | 2.00% | ~227 |
-| Ain’t Nothing But a G Thing | 2.00% | ~227 |
+| A Legitimate Business | 2.00% | ~228 |
+| I’ll Have Two Number 9s | 2.00% | ~228 |
+| Who Needs Directions? | 2.00% | ~228 |
+| What the City Needs | 2.00% | ~228 |
+| Yes I Speak English | 2.00% | ~228 |
+| Double or Nothin' | 2.00% | ~228 |
+| Public Enemy No. 1 | 2.00% | ~228 |
+| Ain’t Nothing But a G Thing | 2.00% | ~228 |
 | Hoopin' it Up | 1.00% | ~114 |
 | Swiss Army Strife | 1.00% | ~114 |
 | Lucky Spinner | 1.00% | ~114 |
@@ -38,10 +38,10 @@ Rating: 4.56 (Ranked 462)
 | Chick Magnet | 1.00% | ~114 |
 | Not a Player | 0.80% | ~91 |
 | Remastered | 0.60% | ~68 |
-| ...Here we go again | 0.40% | ~45 |
+| ...Here we go again | 0.40% | ~46 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,374 (Ranked 117)  
+Progressed: 11,379 (Ranked 117)  
 Completed: 31 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 31 (0.27%) (Ranked 158)
 | 2023-07-23 | 11,268 | 31 |
 | 2023-07-24 | 11,308 | 31 |
 | 2023-07-25 | 11,348 | 31 |
-| 2023-07-26 | 11,374 | 31 |
+| 2023-07-26 | 11,379 | 31 |
 ## Awards
 Max (Great Boss Battles): 229  (Ranked 253)  
 Sum: 229 (Ranked 350)  

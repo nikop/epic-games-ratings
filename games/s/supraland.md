@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~711,313 |
-| The Blues | 85.00% | ~610,723 |
-| Fast | 66.00% | ~474,209 |
-| Healthbar | 55.00% | ~395,174 |
-| Force Cube | 53.00% | ~380,804 |
-| Double Jump | 48.00% | ~344,879 |
-| Regeneration | 47.00% | ~337,694 |
-| Climb the hill | 42.00% | ~301,769 |
-| Triple Jump | 42.00% | ~301,769 |
-| Through the fire pipe | 38.00% | ~273,029 |
-| MacGuffin | 38.00% | ~273,029 |
-| Just once | 36.00% | ~258,659 |
-| Armor | 30.00% | ~215,549 |
-| True holy spirit | 27.00% | ~193,994 |
-| That's how electronics work obviously | 26.00% | ~186,809 |
-| Force Cube Catapult | 25.00% | ~179,624 |
-| Holy Sword | 23.00% | ~165,255 |
-| Telefrag | 22.00% | ~158,070 |
-| Freed from prison | 21.00% | ~150,885 |
-| Stomp | 21.00% | ~150,885 |
-| Double Health | 18.00% | ~129,330 |
-| Buckle | 17.00% | ~122,145 |
-| Green Keycard | 17.00% | ~122,145 |
-| Rattle Hag | 15.00% | ~107,775 |
-| All Shells | 14.00% | ~100,590 |
-| Beam | 14.00% | ~100,590 |
-| Health Drink | 13.00% | ~93,405 |
-| 9 | 13.00% | ~93,405 |
-| Purple Cube | 13.00% | ~93,405 |
-| Supraball Noob | 13.00% | ~93,405 |
-| Helped a star | 12.00% | ~86,220 |
-| Strong | 12.00% | ~86,220 |
-| Blue King's lair | 11.00% | ~79,035 |
-| Payback | 11.00% | ~79,035 |
-| Got the coins back | 11.00% | ~79,035 |
-| Got the gun back | 11.00% | ~79,035 |
-| Infiltrated | 11.00% | ~79,035 |
-| Robbed | 11.00% | ~79,035 |
+| Out of bed | 99.00% | ~711,320 |
+| The Blues | 85.00% | ~610,729 |
+| Fast | 66.00% | ~474,213 |
+| Healthbar | 55.00% | ~395,178 |
+| Force Cube | 53.00% | ~380,808 |
+| Double Jump | 48.00% | ~344,882 |
+| Regeneration | 47.00% | ~337,697 |
+| Climb the hill | 42.00% | ~301,772 |
+| Triple Jump | 42.00% | ~301,772 |
+| Through the fire pipe | 38.00% | ~273,032 |
+| MacGuffin | 38.00% | ~273,032 |
+| Just once | 36.00% | ~258,662 |
+| Armor | 30.00% | ~215,552 |
+| True holy spirit | 27.00% | ~193,996 |
+| That's how electronics work obviously | 26.00% | ~186,811 |
+| Force Cube Catapult | 25.00% | ~179,626 |
+| Holy Sword | 23.00% | ~165,256 |
+| Telefrag | 22.00% | ~158,071 |
+| Freed from prison | 21.00% | ~150,886 |
+| Stomp | 21.00% | ~150,886 |
+| Double Health | 18.00% | ~129,331 |
+| Buckle | 17.00% | ~122,146 |
+| Green Keycard | 17.00% | ~122,146 |
+| Rattle Hag | 15.00% | ~107,776 |
+| All Shells | 14.00% | ~100,591 |
+| Beam | 14.00% | ~100,591 |
+| Health Drink | 13.00% | ~93,406 |
+| 9 | 13.00% | ~93,406 |
+| Purple Cube | 13.00% | ~93,406 |
+| Supraball Noob | 13.00% | ~93,406 |
+| Helped a star | 12.00% | ~86,221 |
+| Strong | 12.00% | ~86,221 |
+| Blue King's lair | 11.00% | ~79,036 |
+| Payback | 11.00% | ~79,036 |
+| Got the coins back | 11.00% | ~79,036 |
+| Got the gun back | 11.00% | ~79,036 |
+| Infiltrated | 11.00% | ~79,036 |
+| Robbed | 11.00% | ~79,036 |
 | Fire Flies | 10.00% | ~71,850 |
 | Cave Flies | 10.00% | ~71,850 |
 | Gold Scam | 10.00% | ~71,850 |
@@ -66,21 +66,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,185 |
 | Jesus Christ Suprastar | 1.00% | ~7,185 |
 | Redstone Pickaxe | 1.00% | ~7,185 |
-| DLC: Green Bird | 0.50% | ~3,592 |
-| DLC: Basement Robbery | 0.50% | ~3,592 |
-| DLC: Rooftop Chase | 0.50% | ~3,592 |
-| DLC: Home Invasion | 0.50% | ~3,592 |
-| DLC: Crashed again | 0.50% | ~3,592 |
-| DLC: Crashed again (again) | 0.50% | ~3,592 |
-| DLC: Crashed | 0.50% | ~3,592 |
-| DLC: Discovering the Globe | 0.50% | ~3,592 |
-| DLC: Gotta Jump High | 0.50% | ~3,592 |
-| DLC: Gotta Run Fast | 0.50% | ~3,592 |
-| DLC: Monster Maker | 0.50% | ~3,592 |
-| DLC: Race the First | 0.50% | ~3,592 |
-| DLC: No-ball Winner | 0.50% | ~3,592 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,592 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,592 |
+| DLC: Green Bird | 0.50% | ~3,593 |
+| DLC: Basement Robbery | 0.50% | ~3,593 |
+| DLC: Rooftop Chase | 0.50% | ~3,593 |
+| DLC: Home Invasion | 0.50% | ~3,593 |
+| DLC: Crashed again | 0.50% | ~3,593 |
+| DLC: Crashed again (again) | 0.50% | ~3,593 |
+| DLC: Crashed | 0.50% | ~3,593 |
+| DLC: Discovering the Globe | 0.50% | ~3,593 |
+| DLC: Gotta Jump High | 0.50% | ~3,593 |
+| DLC: Gotta Run Fast | 0.50% | ~3,593 |
+| DLC: Monster Maker | 0.50% | ~3,593 |
+| DLC: Race the First | 0.50% | ~3,593 |
+| DLC: No-ball Winner | 0.50% | ~3,593 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,593 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,593 |
 | DLC: The palace job | 0.40% | ~2,874 |
 | DLC: A Criminal Revealed | 0.40% | ~2,874 |
 | DLC: Crashed for the final time! | 0.40% | ~2,874 |
@@ -95,17 +95,17 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Thrown | 0.40% | ~2,874 |
 | DLC: To the House | 0.40% | ~2,874 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,874 |
-| DLC: Birds | 0.30% | ~2,155 |
-| DLC: Horticultural | 0.30% | ~2,155 |
-| DLC: Non-NPC | 0.30% | ~2,155 |
+| DLC: Birds | 0.30% | ~2,156 |
+| DLC: Horticultural | 0.30% | ~2,156 |
+| DLC: Non-NPC | 0.30% | ~2,156 |
 | DLC: The Giant's Workshop | 0.20% | ~1,437 |
 | DLC: A good cause! | 0.20% | ~1,437 |
 | DLC: Shady stick | 0.20% | ~1,437 |
-| DLC: Invisible Wall | 0.10% | ~718 |
-| DLC: There he is! | 0.10% | ~718 |
-| DLC: Top of the world | 0.10% | ~718 |
+| DLC: Invisible Wall | 0.10% | ~719 |
+| DLC: There he is! | 0.10% | ~719 |
+| DLC: Top of the world | 0.10% | ~719 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,498 (Ranked 17)  
+Progressed: 718,505 (Ranked 17)  
 Completed: 714 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 714 (0.10%) (Ranked 189)
 | 2023-07-23 | 718,135 | 712 |
 | 2023-07-24 | 718,282 | 714 |
 | 2023-07-25 | 718,426 | 714 |
-| 2023-07-26 | 718,498 | 714 |
+| 2023-07-26 | 718,505 | 714 |
 ## Awards
 Max (Challenging Puzzles): 7,652  (Ranked 43)  
 Sum: 9,969 (Ranked 81)  

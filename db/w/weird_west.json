@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1787,9 +1787,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1147
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1971,8 +1971,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:04:42.7241554+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:11:26.90072+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:43.9425621+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:04:42.7242163+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:05:40.023377+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:11:26.9007617+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The 4 Pillars | 48.00% | ~39 |
-| First Step | 45.00% | ~37 |
+| First Step | 46.00% | ~38 |
 | Indebted | 10.00% | ~8 |
 | Capitalism | 7.00% | ~6 |
 | Desert Rat | 7.00% | ~6 |

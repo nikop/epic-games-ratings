@@ -16,7 +16,7 @@
 | Winner | 24.00% | ~22 |
 | The Pride of Moozhaw | 23.00% | ~21 |
 | Omnia Vincit Amor | 23.00% | ~21 |
-| Stilt House | 15.00% | ~14 |
+| Stilt House | 16.00% | ~15 |
 | Armor Collector | 13.00% | ~12 |
 | Corwid Hill | 12.00% | ~11 |
 | Dreamwalker | 10.00% | ~9 |

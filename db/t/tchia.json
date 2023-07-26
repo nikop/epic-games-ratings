@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,11 +194,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6805,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Progressed": 6807,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 37,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -4924,6 +4924,11 @@
       "Time": "2023-07-26T10:03:58.0366089+00:00",
       "NumProgressed": 6805,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-26T13:10:53.8203152+00:00",
+      "NumProgressed": 6807,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -4935,7 +4940,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ARRR",
@@ -5102,16 +5107,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6805,
-      "Completed": 29
+      "Progressed": 6807,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:04:11.6686461+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:10:53.8203147+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:16.8868079+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:04:11.6686911+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:05:11.3794935+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:10:53.8203486+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 3.93 (Ranked 932)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,877 |
-| First One’s Free | 65.00% | ~45,568 |
-| Neophyte Ninja | 50.00% | ~35,052 |
-| Too Old for This | 47.00% | ~32,949 |
-| Fancy Pants | 35.00% | ~24,536 |
-| Case Closed | 34.00% | ~23,835 |
-| King of the Hill | 34.00% | ~23,835 |
-| Underworld Initiate | 29.00% | ~20,330 |
-| Roid Ranger | 21.00% | ~14,722 |
-| True Player | 19.00% | ~13,320 |
-| Off the Rocks | 19.00% | ~13,320 |
+| Downed but Not Outed | 74.00% | ~51,880 |
+| First One’s Free | 65.00% | ~45,570 |
+| Neophyte Ninja | 50.00% | ~35,054 |
+| Too Old for This | 47.00% | ~32,951 |
+| Fancy Pants | 35.00% | ~24,538 |
+| Case Closed | 34.00% | ~23,837 |
+| King of the Hill | 34.00% | ~23,837 |
+| Underworld Initiate | 29.00% | ~20,331 |
+| Roid Ranger | 21.00% | ~14,723 |
+| True Player | 19.00% | ~13,321 |
+| Off the Rocks | 19.00% | ~13,321 |
 | Dragonslayer | 17.00% | ~11,918 |
 | Raider’s Ruin | 16.00% | ~11,217 |
 | Hidden Sonata | 13.00% | ~9,114 |
-| Rockay Rex | 11.00% | ~7,711 |
-| Freebooter | 10.00% | ~7,010 |
-| Track Star | 9.00% | ~6,309 |
-| Classy Joint | 9.00% | ~6,309 |
-| I Like Trains | 8.00% | ~5,608 |
-| Headhunter | 8.00% | ~5,608 |
-| Ding Dong | 8.00% | ~5,608 |
-| Foo Finder | 7.00% | ~4,907 |
+| Rockay Rex | 11.00% | ~7,712 |
+| Freebooter | 10.00% | ~7,011 |
+| Track Star | 9.00% | ~6,310 |
+| Classy Joint | 9.00% | ~6,310 |
+| I Like Trains | 8.00% | ~5,609 |
+| Headhunter | 8.00% | ~5,609 |
+| Ding Dong | 8.00% | ~5,609 |
+| Foo Finder | 7.00% | ~4,908 |
 | Legend Looter | 5.00% | ~3,505 |
 | Savvy Seeker | 5.00% | ~3,505 |
 | Imports and Exports | 4.00% | ~2,804 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 932)
 | Geek Out | 0.50% | ~351 |
 | Full House | 0.20% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,104 (Ranked 75)  
+Progressed: 70,108 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,14 +140,14 @@ Completed: 36 (0.05%) (Ranked 206)
 | 2023-07-23 | 69,797 | 36 |
 | 2023-07-24 | 69,937 | 36 |
 | 2023-07-25 | 70,040 | 36 |
-| 2023-07-26 | 70,104 | 36 |
+| 2023-07-26 | 70,108 | 36 |
 ## Awards
-Max (Diverse Characters): 376  (Ranked 217)  
-Sum: 1,779 (Ranked 206)  
-Diff (max vs sum): 11  
+Max (Diverse Characters): 378  (Ranked 216)  
+Sum: 1,781 (Ranked 206)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 376 |
+| This game has Diverse Characters | 378 |
 | This game has Quickly Understood Controls | 364 |
 | This game is Highly Recommended | 359 |
 | This game has Challenging Combat | 344 |
@@ -275,3 +275,4 @@ Diff (max vs sum): 11
 | 2023-07-23 | 3.94 | 373 | 1,765 |
 | 2023-07-24 | 3.93 | 373 | 1,767 |
 | 2023-07-25 | 3.93 | 376 | 1,779 |
+| 2023-07-26 | 3.93 | 378 | 1,781 |

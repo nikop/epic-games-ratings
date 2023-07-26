@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463813,
+  "EOS_Progressed": 463816,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10502,6 +10502,11 @@
       "Time": "2023-07-26T12:03:41.5166667+00:00",
       "NumProgressed": 463813,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-26T13:10:33.9132222+00:00",
+      "NumProgressed": 463816,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11065,7 +11070,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -11073,7 +11078,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -11144,21 +11149,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7747,
+      "Progressed": 7750,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463813,
+      "Progressed": 463816,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:03:41.5166656+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:10:33.9132218+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:59:30.0794751+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:03:41.516814+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:06:21.7329666+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:10:33.9133449+00:00"
 }

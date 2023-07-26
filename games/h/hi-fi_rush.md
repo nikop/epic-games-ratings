@@ -8,11 +8,11 @@ Rating: 4.87 (Ranked 23)
 | Start with a bang! | 4.00% | ~143 |
 | Feeling the beat! | 4.00% | ~143 |
 | You can pet the cat! | 4.00% | ~143 |
-| Cream of the Crop | 3.00% | ~107 |
-| Thanks for the free chip, Peppermint! | 3.00% | ~107 |
-| You got this, Peppermint? | 3.00% | ~107 |
-| Perfect Parry | 3.00% | ~107 |
-| Who put gears in there? | 3.00% | ~107 |
+| Cream of the Crop | 3.00% | ~108 |
+| Thanks for the free chip, Peppermint! | 3.00% | ~108 |
+| You got this, Peppermint? | 3.00% | ~108 |
+| Perfect Parry | 3.00% | ~108 |
+| Who put gears in there? | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
 | This will cost you big time | 2.00% | ~72 |
 | The Negotiator | 2.00% | ~72 |
@@ -38,8 +38,8 @@ Rating: 4.87 (Ranked 23)
 | Call me Turbo Chai | 0.80% | ~17 |
 | Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.70% | ~25 |
-| I told you I'd be fine, Peppermint! | 0.60% | ~21 |
-| Check out my moves! | 0.60% | ~21 |
+| I told you I'd be fine, Peppermint! | 0.60% | ~22 |
+| Check out my moves! | 0.60% | ~22 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
 | I think I found your calling, Macaron | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,582 (Ranked 145)  
+Progressed: 3,584 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
-| 2023-07-26 | 3,582 | 6 |
+| 2023-07-26 | 3,584 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

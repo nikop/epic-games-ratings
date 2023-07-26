@@ -5296,10 +5296,10 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215668,
-  "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2328,
-  "EOS_NewCompleters": 53,
+  "EOS_Progressed": 215682,
+  "EOS_Completed": 2112,
+  "EOS_NewPlayers": 2324,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15676,6 +15676,11 @@
       "Time": "2023-07-26T12:00:44.2285019+00:00",
       "NumProgressed": 215668,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T13:07:38.4198641+00:00",
+      "NumProgressed": 215682,
+      "NumCompleted": 2112
     }
   ],
   "TotalAchievements": 512,
@@ -15687,7 +15692,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "objective_completed_10",
@@ -16055,7 +16060,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "objective_completed_110",
@@ -17101,9 +17106,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_231",
@@ -18045,9 +18050,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_571",
@@ -19782,21 +19787,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181942,
+      "Progressed": 181956,
       "Completed": 2993
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215668,
-      "Completed": 2111
+      "Progressed": 215682,
+      "Completed": 2112
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:00:44.2285013+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:07:38.4198635+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:27.3532198+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:00:44.2313936+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:05:23.1679885+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:07:38.4224956+00:00"
 }

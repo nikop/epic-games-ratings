@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64833,
+  "EOS_Progressed": 64834,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6060,6 +6060,11 @@
       "Time": "2023-07-26T11:06:18.5062853+00:00",
       "NumProgressed": 64833,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-26T13:11:54.6043169+00:00",
+      "NumProgressed": 64834,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -6103,7 +6108,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -6119,7 +6124,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -6230,7 +6235,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64833,
+      "Progressed": 64834,
       "Completed": 13
     }
   ],
@@ -6238,8 +6243,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:05:10.7188882+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:11:54.6043162+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:21.1649523+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:57:54.6843875+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:05:10.718937+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:04:49.34912+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:11:54.6043585+00:00"
 }

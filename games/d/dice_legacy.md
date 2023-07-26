@@ -1,17 +1,17 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.27 (Ranked 797)  
+Rating: 4.27 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 35.00% | ~332 |
 | Manipulating Fate | 8.00% | ~76 |
 | The City | 8.00% | ~76 |
-| Full house | 5.00% | ~47 |
-| Burn and Pillage | 5.00% | ~47 |
-| Hear me out | 5.00% | ~47 |
-| Listening to the crowd | 5.00% | ~47 |
+| Full house | 5.00% | ~48 |
+| Burn and Pillage | 5.00% | ~48 |
+| Hear me out | 5.00% | ~48 |
+| Listening to the crowd | 5.00% | ~48 |
 | Ascended | 4.00% | ~38 |
 | The Penitent Ones | 4.00% | ~38 |
 | Greedy | 4.00% | ~38 |
@@ -23,8 +23,8 @@ Rating: 4.27 (Ranked 797)
 | Prophecy Fulfilled | 3.00% | ~28 |
 | The Greedy Ones | 2.00% | ~19 |
 | The Unruly Ones | 2.00% | ~19 |
-| The First King | 1.00% | ~9 |
-| The great fire | 1.00% | ~9 |
+| The First King | 1.00% | ~10 |
+| The great fire | 1.00% | ~10 |
 | The Council | 0.90% | ~9 |
 | The Mad | 0.80% | ~8 |
 | Like the dream | 0.60% | ~6 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 797)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 949 (Ranked 193)  
+Progressed: 950 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 940 | 0 |
 | 2023-07-24 | 944 | 0 |
 | 2023-07-25 | 948 | 0 |
-| 2023-07-26 | 949 | 0 |
+| 2023-07-26 | 950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

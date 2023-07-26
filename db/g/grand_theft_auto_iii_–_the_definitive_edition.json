@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -388,7 +388,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7151,
+  "EOS_Progressed": 7152,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -6128,6 +6128,11 @@
       "Time": "2023-07-26T12:05:05.0924031+00:00",
       "NumProgressed": 7151,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-26T13:11:49.0763345+00:00",
+      "NumProgressed": 7152,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6139,7 +6144,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "ACH02",
@@ -6211,7 +6216,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "ACH11",
@@ -6370,7 +6375,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7151,
+      "Progressed": 7152,
       "Completed": 41
     }
   ],
@@ -6378,8 +6383,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:05:05.0924024+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:11:49.076334+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:14.507909+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:05:05.0924609+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:05:08.7935493+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:11:49.0763772+00:00"
 }

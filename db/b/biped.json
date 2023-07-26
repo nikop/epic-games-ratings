@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4594,
+  "EOS_Progressed": 4595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6991,6 +6991,11 @@
       "Time": "2023-07-26T12:06:29.9537903+00:00",
       "NumProgressed": 4594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T13:13:14.366181+00:00",
+      "NumProgressed": 4595,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7018,7 +7023,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "12",
@@ -7082,7 +7087,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "6",
@@ -7121,7 +7126,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4594,
+      "Progressed": 4595,
       "Completed": 0
     }
   ],
@@ -7129,8 +7134,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:06:29.95379+00:00",
+  "LastChanged_Achievements": "2023-07-26T13:13:14.3661803+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:58:21.5345462+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:06:29.9538451+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:05:17.2064087+00:00",
+  "LastUpdate_Achievements": "2023-07-26T13:13:14.3662226+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~153 |
-| Starting Skyward | 52.00% | ~137 |
+| In the Black | 58.00% | ~154 |
+| Starting Skyward | 51.00% | ~135 |
 | Grime is Not Good | 45.00% | ~119 |
-| Floor Galore | 38.00% | ~100 |
-| Campaign Launch | 38.00% | ~100 |
+| Campaign Launch | 38.00% | ~101 |
+| Floor Galore | 37.00% | ~98 |
 | Dinner Dash | 37.00% | ~98 |
 | Need a Consult | 34.00% | ~90 |
 | It's Technical | 34.00% | ~90 |
 | Upgrade Unlock | 33.00% | ~87 |
-| Delegate Maintenance | 33.00% | ~87 |
+| Delegate Maintenance | 32.00% | ~85 |
 | Proper Walls | 31.00% | ~82 |
 | Destination Destiny | 28.00% | ~74 |
 | Happy Tenants | 25.00% | ~66 |
@@ -21,19 +21,19 @@
 | Potent Potables | 23.00% | ~61 |
 | Retail Revenue | 23.00% | ~61 |
 | Smooth Service | 23.00% | ~61 |
-| Lux Living | 21.00% | ~55 |
+| Lux Living | 21.00% | ~56 |
 | People Mover | 20.00% | ~53 |
 | Emporium Empire | 20.00% | ~53 |
 | Leveled Up Shops | 20.00% | ~53 |
 | Get Electrified | 20.00% | ~53 |
-| Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
 | We Don't Need No Education | 19.00% | ~50 |
+| Artfully Done | 18.00% | ~48 |
 | Rehab Expert | 18.00% | ~48 |
 | Tasty Profits | 18.00% | ~48 |
-| Under One Roof | 16.00% | ~42 |
-| Established Fame | 16.00% | ~42 |
 | Cashflow Chief | 16.00% | ~42 |
+| Under One Roof | 15.00% | ~40 |
+| Established Fame | 15.00% | ~40 |
 | Terrifically Trashed | 15.00% | ~40 |
 | Smooth Operator | 14.00% | ~37 |
 | Starred Dining | 14.00% | ~37 |
@@ -50,8 +50,8 @@
 | Plaza Plan | 8.00% | ~21 |
 | Revenue Royalty | 8.00% | ~21 |
 | Pipe Up | 8.00% | ~21 |
-| Careful Constructor | 7.00% | ~18 |
-| Maximum Reuse | 7.00% | ~18 |
+| Careful Constructor | 7.00% | ~19 |
+| Maximum Reuse | 7.00% | ~19 |
 | Baron of Business | 6.00% | ~16 |
 | I'm Busy Ruling | 6.00% | ~16 |
 | Water Features | 6.00% | ~16 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 257)  
+Progressed: 265 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
-| 2023-07-26 | 264 | 0 |
+| 2023-07-26 | 265 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

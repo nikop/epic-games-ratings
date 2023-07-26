@@ -14,8 +14,8 @@ Rating: 4.35 (Ranked 741)
 | The Blackmail | 55.00% | ~222 |
 | Major Felix Hagen | 55.00% | ~222 |
 | Florette Duval | 54.00% | ~218 |
+| Order and Method | 53.00% | ~214 |
 | Fine-toothed Comb | 53.00% | ~214 |
-| Order and Method | 52.00% | ~210 |
 | The Altercation | 50.00% | ~202 |
 | Truth from Within | 49.00% | ~197 |
 | The Major | 47.00% | ~189 |
@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 741)
 | The Interrogations | 43.00% | ~173 |
 | Well-acquainted | 41.00% | ~165 |
 | Zakariya Demir | 41.00% | ~165 |
-| Well-read | 38.00% | ~153 |
+| Well-read | 39.00% | ~157 |
 | Cassandra Van den Bosch | 37.00% | ~149 |
 | The Secret | 37.00% | ~149 |
 | Gedeon Demir | 35.00% | ~141 |
@@ -48,7 +48,7 @@ Rating: 4.35 (Ranked 741)
 | I Like an Audience | 18.00% | ~73 |
 | The Denouement | 17.00% | ~69 |
 | Probably the Greatest Detective in the World | 13.00% | ~52 |
-| Take a Break | 11.00% | ~44 |
+| Take a Break | 12.00% | ~48 |
 | Room with a View | 8.00% | ~32 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

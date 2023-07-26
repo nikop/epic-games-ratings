@@ -9,17 +9,17 @@ Rating: 4.41 (Ranked 674)
 | Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
 | The Kraken Sleeps | 4.00% | ~134 |
-| Climbing the Ladder | 3.00% | ~100 |
-| No Stone Unturned | 3.00% | ~100 |
-| Meeting Resistance | 3.00% | ~100 |
-| Sharpshooter | 3.00% | ~100 |
-| Confirming Suspicions | 3.00% | ~100 |
-| Lord of War | 3.00% | ~100 |
-| Resourceful | 3.00% | ~100 |
-| As Quiet as a Mouse | 3.00% | ~100 |
-| The Kraken Wakes | 3.00% | ~100 |
-| It's Starting to Crack | 3.00% | ~100 |
-| Change the Channel | 3.00% | ~100 |
+| Climbing the Ladder | 3.00% | ~101 |
+| No Stone Unturned | 3.00% | ~101 |
+| Meeting Resistance | 3.00% | ~101 |
+| Sharpshooter | 3.00% | ~101 |
+| Confirming Suspicions | 3.00% | ~101 |
+| Lord of War | 3.00% | ~101 |
+| Resourceful | 3.00% | ~101 |
+| As Quiet as a Mouse | 3.00% | ~101 |
+| The Kraken Wakes | 3.00% | ~101 |
+| It's Starting to Crack | 3.00% | ~101 |
+| Change the Channel | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
 | Organ Grinder | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
@@ -31,12 +31,12 @@ Rating: 4.41 (Ranked 674)
 | Close Quarters | 2.00% | ~67 |
 | Snake in the Grass | 2.00% | ~67 |
 | Brains of the Operation | 2.00% | ~67 |
-| Enemy at the Gates | 1.00% | ~33 |
-| Fields of Glory | 1.00% | ~33 |
-| Just a Flesh Wound | 1.00% | ~33 |
-| Precision Is Key | 1.00% | ~33 |
-| Rigged to Blow | 1.00% | ~33 |
-| Die Nussknacker Sweet! | 1.00% | ~33 |
+| Enemy at the Gates | 1.00% | ~34 |
+| Fields of Glory | 1.00% | ~34 |
+| Just a Flesh Wound | 1.00% | ~34 |
+| Precision Is Key | 1.00% | ~34 |
+| Rigged to Blow | 1.00% | ~34 |
+| Die Nussknacker Sweet! | 1.00% | ~34 |
 | The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.90% | ~30 |
 | Don't hold your breath | 0.80% | ~27 |
@@ -49,9 +49,9 @@ Rating: 4.41 (Ranked 674)
 | Burn after reading | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
-| Operation Foxley | 0.50% | ~16 |
-| Siegebreaker | 0.50% | ~16 |
-| Ghost of Falaise | 0.50% | ~16 |
+| Operation Foxley | 0.50% | ~17 |
+| Siegebreaker | 0.50% | ~17 |
+| Ghost of Falaise | 0.50% | ~17 |
 | Eagle Eyed | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Shoot for the Moon | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 674)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,349 (Ranked 148)  
+Progressed: 3,351 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 9 (0.27%) (Ranked 158)
 | 2023-07-23 | 3,334 | 9 |
 | 2023-07-24 | 3,338 | 9 |
 | 2023-07-25 | 3,348 | 9 |
-| 2023-07-26 | 3,349 | 9 |
+| 2023-07-26 | 3,351 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
