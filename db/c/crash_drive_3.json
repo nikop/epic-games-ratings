@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -306,6 +306,11 @@
       "Time": "2023-07-24T20:06:13.1045652+00:00",
       "NumProgressed": 349,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T22:04:24.4965934+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -333,7 +338,7 @@
       "Name": "Fore!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CATAPULT_THROW",
@@ -341,7 +346,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "COIN_COLLECT",
@@ -349,7 +354,7 @@
       "Name": "The Collector",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -365,7 +370,7 @@
       "Name": "A Starting Collector",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "COLLECT_500_COIN",
@@ -381,7 +386,7 @@
       "Name": "Ultimate Car Collector",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COP_3_ROBBERS",
@@ -461,7 +466,7 @@
       "Name": "Master Mechanic",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FULLY_LEVEL_CAR",
@@ -493,7 +498,7 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -525,7 +530,7 @@
       "Name": "Insurance fraud",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -541,7 +546,7 @@
       "Name": "Toot Toot!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -557,7 +562,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEFT_LEVEL",
@@ -573,7 +578,7 @@
       "Name": "The Wild West",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -587,9 +592,9 @@
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -621,7 +626,7 @@
       "Name": "To war!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SPIN_1080",
@@ -653,7 +658,7 @@
       "Name": "Hoarder",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "USE_FERRY",
@@ -685,7 +690,7 @@
       "Name": "Event Master",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -749,14 +754,14 @@
       "Name": "Blasting away!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 2
     }
   ],
@@ -764,8 +769,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:04:31.3365984+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:04:24.4965925+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:27.2481373+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:59:20.0925462+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:04:31.3366392+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:59:14.9878987+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:04:24.4966457+00:00"
 }

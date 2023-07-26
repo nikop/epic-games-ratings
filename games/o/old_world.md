@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.50% | ~66 |
 | Mason | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
+| Pioneer | 0.50% | ~66 |
 | Strong | 0.50% | ~66 |
 | Hanging Gardens | 0.50% | ~66 |
 | Oracle | 0.50% | ~66 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.40% | ~52 |
 | Keystone | 0.40% | ~52 |
 | Learned | 0.40% | ~52 |
-| Pioneer | 0.40% | ~52 |
 | Warrior | 0.40% | ~52 |
 | Developing Cities | 0.40% | ~52 |
 | Great Ziggurat | 0.40% | ~52 |

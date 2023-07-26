@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -288,8 +288,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:05:25.1117481+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:05:15.657072+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.4640063+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:59:41.6726743+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:05:25.1117662+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:59:34.9987936+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:05:15.6570998+00:00"
 }

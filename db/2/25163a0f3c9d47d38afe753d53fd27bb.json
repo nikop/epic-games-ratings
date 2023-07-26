@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -1949,17 +1949,17 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "LEVEL_016",
@@ -2092,8 +2092,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:06:16.6817539+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:06:06.3134158+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:57:45.6684593+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:06:16.68178+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:57:40.2177865+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:06:06.3134518+00:00"
 }

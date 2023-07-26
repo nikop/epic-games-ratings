@@ -11,11 +11,11 @@
 | A Forest Walk | 30.00% | ~105 |
 | C-C-C-Combo! | 28.00% | ~98 |
 | Multiply that! | 28.00% | ~98 |
-| Snow Fun! | 26.00% | ~91 |
-| Fore! | 25.00% | ~87 |
-| The Collector | 25.00% | ~87 |
-| Insurance fraud | 25.00% | ~87 |
-| The Wild West | 25.00% | ~87 |
+| Fore! | 25.00% | ~88 |
+| The Collector | 25.00% | ~88 |
+| Insurance fraud | 25.00% | ~88 |
+| The Wild West | 25.00% | ~88 |
+| Snow Fun! | 25.00% | ~88 |
 | Bag of Tricks | 24.00% | ~84 |
 | I see the light! | 24.00% | ~84 |
 | You're it | 24.00% | ~84 |
@@ -26,9 +26,9 @@
 | In the Bag! | 23.00% | ~80 |
 | Disoriented | 22.00% | ~77 |
 | Beach Party! | 22.00% | ~77 |
-| Car-Tapult | 21.00% | ~73 |
-| Anger Issues | 21.00% | ~73 |
-| Your Highness | 21.00% | ~73 |
+| Car-Tapult | 21.00% | ~74 |
+| Anger Issues | 21.00% | ~74 |
+| Your Highness | 21.00% | ~74 |
 | Event Amateur | 20.00% | ~70 |
 | Feeling Dizzy? | 19.00% | ~66 |
 | Drift King! | 18.00% | ~63 |
@@ -38,17 +38,17 @@
 | Speed of light | 18.00% | ~63 |
 | Out of this League | 15.00% | ~52 |
 | Special Forces | 14.00% | ~49 |
-| Toot Toot! | 13.00% | ~45 |
-| Blasting away! | 13.00% | ~45 |
+| Toot Toot! | 13.00% | ~46 |
+| Blasting away! | 13.00% | ~46 |
 | High Roller | 12.00% | ~42 |
 | Earth Defense Force | 12.00% | ~42 |
 | Rocketman | 12.00% | ~42 |
 | Event Pro | 11.00% | ~38 |
 | Space Crash | 8.00% | ~28 |
-| To war! | 7.00% | ~24 |
-| Hoarder | 7.00% | ~24 |
-| A Starting Collector | 5.00% | ~17 |
-| Event Master | 5.00% | ~17 |
+| To war! | 7.00% | ~25 |
+| Hoarder | 7.00% | ~25 |
+| A Starting Collector | 5.00% | ~18 |
+| Event Master | 5.00% | ~18 |
 | Apprentice Mechanic | 4.00% | ~14 |
 | 433 Eros | 4.00% | ~14 |
 | Best Friends! | 4.00% | ~14 |
@@ -56,11 +56,11 @@
 | My Precious | 3.00% | ~10 |
 | One Million Dollars! | 3.00% | ~10 |
 | Monkey Madness | 2.00% | ~7 |
-| Ultimate Car Collector | 1.00% | ~3 |
-| Master Mechanic | 1.00% | ~3 |
+| Ultimate Car Collector | 1.00% | ~4 |
+| Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 238)  
+Progressed: 350 (Ranked 238)  
 Completed: 2 (0.57%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 2 (0.57%) (Ranked 122)
 | 2023-07-17 | 347 | 2 |
 | 2023-07-19 | 348 | 2 |
 | 2023-07-24 | 349 | 2 |
+| 2023-07-26 | 350 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

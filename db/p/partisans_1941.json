@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1184,
+  "EOS_Progressed": 1185,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1755,6 +1755,11 @@
       "Time": "2023-07-26T21:03:57.5623893+00:00",
       "NumProgressed": 1184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T22:03:51.604825+00:00",
+      "NumProgressed": 1185,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1814,7 +1819,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Defense_Common",
@@ -1846,7 +1851,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Everyone_is_here",
@@ -1950,7 +1955,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MoskitoBite",
@@ -1958,7 +1963,7 @@
       "Name": "Mosquito bite",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Scout",
@@ -2005,15 +2010,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1184,
+      "Progressed": 1185,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:03:57.562389+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:03:51.6048244+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:59:42.9473458+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:03:57.5624184+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:59:36.1111958+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:03:51.6048696+00:00"
 }

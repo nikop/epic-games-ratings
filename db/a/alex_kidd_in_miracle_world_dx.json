@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -271,9 +271,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -335,9 +335,9 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
@@ -352,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:06:47.5399441+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:06:36.3967838+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.4255335+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:58:40.2183787+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:06:47.5399547+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:58:37.3110284+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:06:36.3968+00:00"
 }

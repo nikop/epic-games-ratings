@@ -27,8 +27,8 @@
 | Law student | 56.00% | ~87 |
 | Workout professional | 55.00% | ~85 |
 | Little hacker | 53.00% | ~82 |
+| Champion – starter pack | 53.00% | ~82 |
 | Your own way | 53.00% | ~82 |
-| Champion – starter pack | 52.00% | ~81 |
 | Own four walls | 51.00% | ~79 |
 | Employee of the year | 51.00% | ~79 |
 | Fight for life | 50.00% | ~78 |
@@ -37,7 +37,7 @@
 | Extreme neuropower! | 45.00% | ~70 |
 | Legal courier | 42.00% | ~65 |
 | Now you are worthy | 37.00% | ~57 |
-| Escaped from a big trouble | 35.00% | ~54 |
+| Escaped from a big trouble | 36.00% | ~56 |
 | Guiding on the right path | 33.00% | ~51 |
 | No blades in the gym | 32.00% | ~50 |
 | Fight is life | 30.00% | ~46 |
@@ -57,18 +57,18 @@
 | Problems of cyborgs | 22.00% | ~34 |
 | Undercover robot | 22.00% | ~34 |
 | Trap disarmed | 21.00% | ~33 |
+| Another world | 21.00% | ~33 |
+| The lonesome road | 21.00% | ~33 |
 | Keep nature safe | 21.00% | ~33 |
+| Key memories | 21.00% | ~33 |
+| Not little hacker | 21.00% | ~33 |
 | Careerist | 21.00% | ~33 |
-| Not little hacker | 20.00% | ~31 |
+| The heart of the Resistance | 21.00% | ~33 |
+| Family comes first | 20.00% | ~31 |
 | Absolute Champion! | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Another world | 19.00% | ~29 |
-| The lonesome road | 19.00% | ~29 |
-| Family comes first | 19.00% | ~29 |
-| Key memories | 19.00% | ~29 |
-| The heart of the Resistance | 19.00% | ~29 |
 | Silver’s past | 17.00% | ~26 |
-| Better cooking at home | 15.00% | ~23 |
+| Better cooking at home | 17.00% | ~26 |
 | The only right decision | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 292)  

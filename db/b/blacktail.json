@@ -1383,9 +1383,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "DevilDetail",
@@ -1583,9 +1583,9 @@
       "ID": "Toxic",
       "SetID": "2aagp3d",
       "Name": "Toxic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "Webbed",
@@ -1624,8 +1624,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:00:58.0072663+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:00:50.9605589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:58:29.7249726+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:00:58.0073018+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:58:27.9966903+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:00:50.9606291+00:00"
 }

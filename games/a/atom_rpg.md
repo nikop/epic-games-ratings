@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 98.00% | ~1,043 |
+| Atom Agent | 99.00% | ~1,053 |
 | One HIT wonder | 35.00% | ~372 |
 | Wanderer | 35.00% | ~372 |
 | One shot, one kill | 29.00% | ~309 |

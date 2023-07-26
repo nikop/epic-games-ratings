@@ -5314,7 +5314,7 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215794,
+  "EOS_Progressed": 215807,
   "EOS_Completed": 2119,
   "EOS_NewPlayers": 2303,
   "EOS_NewCompleters": 61,
@@ -15739,6 +15739,11 @@
       "Time": "2023-07-26T21:03:12.0537413+00:00",
       "NumProgressed": 215794,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-07-26T22:03:08.0895726+00:00",
+      "NumProgressed": 215807,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 512,
@@ -15804,9 +15809,9 @@
       "ID": "objective_completed_1045",
       "SetID": "415jc5c",
       "Name": "Friends and Foes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1046",
@@ -16430,7 +16435,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_1164",
@@ -16716,9 +16721,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_13",
@@ -18236,9 +18241,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_590",
@@ -18972,9 +18977,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_802",
@@ -19748,9 +19753,9 @@
       "ID": "objective_completed_593",
       "SetID": "415jc5c",
       "Name": "Goblin Halls: the Next Generation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_663",
@@ -19806,7 +19811,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_1386",
@@ -19845,21 +19850,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182068,
-      "Completed": 3003
+      "Progressed": 182081,
+      "Completed": 3006
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215794,
+      "Progressed": 215807,
       "Completed": 2119
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:03:12.0537408+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:03:08.089572+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:58:41.5599774+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:03:12.0560873+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:58:38.109266+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:03:08.0928445+00:00"
 }

@@ -538,9 +538,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9226,
+  "EOS_Progressed": 9228,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7048,6 +7048,11 @@
       "Time": "2023-07-26T21:04:29.875546+00:00",
       "NumProgressed": 9226,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-26T22:04:23.086199+00:00",
+      "NumProgressed": 9228,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7075,7 +7080,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH04",
@@ -7137,9 +7142,9 @@
       "ID": "ACH11",
       "SetID": "9llo822",
       "Name": "Salutations My Little Friend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH12",
@@ -7187,7 +7192,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH18",
@@ -7219,7 +7224,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "ACH22",
@@ -7235,7 +7240,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "ACH24",
@@ -7330,7 +7335,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9226,
+      "Progressed": 9228,
       "Completed": 43
     }
   ],
@@ -7338,8 +7343,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-25T03:03:00.1337429+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:04:29.8755456+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:04:23.0861983+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:58:48.1629915+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:04:29.8755937+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:58:45.8189925+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:04:23.086268+00:00"
 }

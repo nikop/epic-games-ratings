@@ -6,7 +6,7 @@ Rating: 4.68 (Ranked 240)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~151 |
-| Dental maturity | 19.00% | ~110 |
+| Dental maturity | 20.00% | ~116 |
 | Devil's in the details | 14.00% | ~81 |
 | Uprooting | 13.00% | ~75 |
 | Forbidden techniques | 12.00% | ~70 |
@@ -27,11 +27,11 @@ Rating: 4.68 (Ranked 240)
 | Goal! | 3.00% | ~17 |
 | Both sides | 3.00% | ~17 |
 | Specialist | 3.00% | ~17 |
+| Toxic | 3.00% | ~17 |
 | Witch's cookbook | 3.00% | ~17 |
 | Bad apple | 2.00% | ~12 |
 | Gnowlledgeable | 2.00% | ~12 |
 | Always worth a try | 2.00% | ~12 |
-| Toxic | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
 | Loremaster | 1.00% | ~6 |
 | Awards unwarded | 1.00% | ~6 |

@@ -21,13 +21,13 @@ Rating: 4.14 (Ranked 883)
 | The Interloper | 3.00% | ~1,178 |
 | Hop, Step, Jump | 3.00% | ~1,178 |
 | Endless Runner | 3.00% | ~1,178 |
-| Outdoorsperson | 2.00% | ~785 |
-| What Must Be Done | 2.00% | ~785 |
-| Might and Main | 2.00% | ~785 |
-| Damned If You Do... | 2.00% | ~785 |
-| Explorer: Pathfinder | 2.00% | ~785 |
-| Shocker | 2.00% | ~785 |
-| From Every Angle | 2.00% | ~785 |
+| Outdoorsperson | 2.00% | ~786 |
+| What Must Be Done | 2.00% | ~786 |
+| Might and Main | 2.00% | ~786 |
+| Damned If You Do... | 2.00% | ~786 |
+| Explorer: Pathfinder | 2.00% | ~786 |
+| Shocker | 2.00% | ~786 |
+| From Every Angle | 2.00% | ~786 |
 | The Hue of Blue | 1.00% | ~393 |
 | The Truth Will Out | 1.00% | ~393 |
 | Breaking Point | 1.00% | ~393 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 883)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,273 (Ranked 91)  
+Progressed: 39,275 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.01%) (Ranked 230)
 | 2023-07-23 | 39,194 | 3 |
 | 2023-07-24 | 39,218 | 3 |
 | 2023-07-25 | 39,237 | 3 |
-| 2023-07-26 | 39,273 | 3 |
+| 2023-07-26 | 39,275 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
 Sum: 21 (Ranked 494)  

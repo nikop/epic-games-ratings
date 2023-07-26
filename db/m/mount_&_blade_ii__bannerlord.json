@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 143,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 83,
@@ -5955,9 +5955,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57011,
+  "EOS_Progressed": 57016,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16095,6 +16095,11 @@
       "Time": "2023-07-26T21:03:11.2042245+00:00",
       "NumProgressed": 57011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T22:03:06.6215627+00:00",
+      "NumProgressed": 57016,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16106,7 +16111,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "Apple of my eye",
@@ -16122,7 +16127,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12542
+      "UsersEstimate": 12544
     },
     {
       "ID": "Best served cold",
@@ -16162,7 +16167,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "Crackshot",
@@ -16178,7 +16183,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "Duelist",
@@ -16234,7 +16239,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6841
+      "UsersEstimate": 6842
     },
     {
       "ID": "Great Granny",
@@ -16266,7 +16271,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12542
+      "UsersEstimate": 12544
     },
     {
       "ID": "I can do it",
@@ -16298,7 +16303,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "Kingslayer",
@@ -16330,7 +16335,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17675
     },
     {
       "ID": "Lawbringer",
@@ -16338,7 +16343,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21094
+      "UsersEstimate": 21096
     },
     {
       "ID": "Lawmaker",
@@ -16346,7 +16351,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12542
+      "UsersEstimate": 12544
     },
     {
       "ID": "Long live the Empire",
@@ -16450,7 +16455,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "The king is pleased",
@@ -16458,7 +16463,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9692
+      "UsersEstimate": 9693
     },
     {
       "ID": "This Is Our Land",
@@ -16482,7 +16487,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12542
+      "UsersEstimate": 12544
     },
     {
       "ID": "Undercover",
@@ -16498,7 +16503,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -16513,15 +16518,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57011,
+      "Progressed": 57016,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-26T15:00:06.3086185+00:00",
-  "LastChanged_Achievements": "2023-07-26T21:03:11.2042241+00:00",
+  "LastChanged_Achievements": "2023-07-26T22:03:06.621562+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:00:17.7065384+00:00",
-  "LastUpdate_Achievements": "2023-07-26T21:03:11.2043056+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:00:05.6601872+00:00",
+  "LastUpdate_Achievements": "2023-07-26T22:03:06.6216867+00:00"
 }
