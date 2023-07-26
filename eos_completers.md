@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.03% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -57,8 +57,8 @@
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.47% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
 | 57 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.24% |
-| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.23% |
+| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.23% |
+| 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
 | 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 61 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 62 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.94% |
@@ -70,7 +70,7 @@
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 69 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.70% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
+| 71 | [Lamentum](games/l/lamentum.md) | 2.62% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.44% |

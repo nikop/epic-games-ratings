@@ -8,7 +8,7 @@
 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 2023-07-27 | 14 (1,000 XP) | 1 | - | - |
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-27 | 39 (1,000 XP) | 3 | - | - |
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-07-28 | 20 (1,000 XP) | 0 | - | - |
-| [Mega City Police](games/m/mega_city_police.md) | 2023-07-28 | 26 (1,000 XP) | 4 | - | - |
+| [Mega City Police](games/m/mega_city_police.md) | 2023-07-28 | 26 (1,000 XP) | 5 | - | - |
 | [Secret Agent 001](games/3/3376364c2a914c1fbde839f5cf8824f6.md) | 2023-07-29 | - |  | - | - |
 | [Hombre](games/1/12351c3d2ae8457684e4dbfb93c04a5c.md) | 2023-07-31 | - |  | - | - |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-07-31 | - |  | - | - |
