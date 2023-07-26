@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1293,
+  "EOS_Progressed": 1294,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.87,
   "EosHistory": [
@@ -1732,6 +1732,11 @@
       "Time": "2023-07-26T20:03:28.7226841+00:00",
       "NumProgressed": 1293,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-26T21:03:31.1636106+00:00",
+      "NumProgressed": 1294,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1751,7 +1756,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1781,9 +1786,9 @@
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 517
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_FineGioco",
@@ -1799,7 +1804,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1815,7 +1820,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1823,22 +1828,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1293,
+      "Progressed": 1294,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:03:28.7226834+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:03:31.1636102+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:23.1741218+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:03:28.7227016+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:34.8527935+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:03:31.1636254+00:00"
 }

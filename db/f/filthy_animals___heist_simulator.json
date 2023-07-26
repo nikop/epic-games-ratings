@@ -4,7 +4,7 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3338,6 +3338,11 @@
       "Time": "2023-07-26T19:08:13.487692+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T21:06:48.7220793+00:00",
+      "NumProgressed": 7501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -3349,7 +3354,7 @@
       "Name": "All Objectives Complete",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "allSerums",
@@ -3373,7 +3378,7 @@
       "Name": "All Gold Chest Slots Unlocked",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "allSombreros",
@@ -3405,7 +3410,7 @@
       "Name": "Bank Objectives Complete",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "bankSuccess",
@@ -3413,7 +3418,7 @@
       "Name": "Bank Heisted",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "chickenMax",
@@ -3421,7 +3426,7 @@
       "Name": "Chicken Maxed Out",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "crocMax",
@@ -3437,7 +3442,7 @@
       "Name": "All Weapons Purchased",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "militaryAllObjectives",
@@ -3453,7 +3458,7 @@
       "Name": "Military Base Heisted",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "monkeyMax",
@@ -3461,7 +3466,7 @@
       "Name": "Monkey Maxed Out",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "mooseMax",
@@ -3469,7 +3474,7 @@
       "Name": "Moose Maxed Out",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "nuclearAllObjectives",
@@ -3493,7 +3498,7 @@
       "Name": "Prison Objectives Complete",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "prisonSuccess",
@@ -3501,7 +3506,7 @@
       "Name": "Prison Heisted",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "spaceAllObjectives",
@@ -3572,7 +3577,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7501,
       "Completed": 0
     }
   ],
@@ -3580,8 +3585,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:06:46.0861117+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:06:48.7220789+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.1787783+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:58:34.4108336+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:06:46.0861482+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:58:34.5201192+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:06:48.7221111+00:00"
 }

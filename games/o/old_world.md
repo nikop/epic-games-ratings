@@ -19,51 +19,53 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.50% | ~66 |
 | Just | 0.50% | ~66 |
 | Mason | 0.50% | ~66 |
+| Noble | 0.50% | ~66 |
 | Strong | 0.50% | ~66 |
 | Hanging Gardens | 0.50% | ~66 |
 | Oracle | 0.50% | ~66 |
+| Greek Paganism | 0.50% | ~66 |
 | Enlightened | 0.40% | ~52 |
 | Glorious | 0.40% | ~52 |
 | Keystone | 0.40% | ~52 |
 | Learned | 0.40% | ~52 |
-| Noble | 0.40% | ~52 |
 | Pioneer | 0.40% | ~52 |
+| Warrior | 0.40% | ~52 |
+| Developing Cities | 0.40% | ~52 |
+| Great Ziggurat | 0.40% | ~52 |
+| Lighthouse | 0.40% | ~52 |
+| Pyramids | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
 | Judaism | 0.40% | ~52 |
 | Carthaginian Paganism | 0.40% | ~52 |
-| Greek Paganism | 0.40% | ~52 |
 | Roman Paganism | 0.40% | ~52 |
+| Zoroastrianism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
 | Trade Caravan | 0.40% | ~52 |
 | Regicide | 0.30% | ~39 |
 | Ambitious | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
+| Great | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
-| Warrior | 0.30% | ~39 |
 | Wise | 0.30% | ~39 |
-| Developing Cities | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
 | Artisans | 0.30% | ~39 |
 | Colossus | 0.30% | ~39 |
-| Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
-| Lighthouse | 0.30% | ~39 |
+| Musaeum | 0.30% | ~39 |
 | Necropolis | 0.30% | ~39 |
-| Pyramids | 0.30% | ~39 |
 | Learn to Play 1 | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
-| Zoroastrianism | 0.30% | ~39 |
+| Mythology | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
 | Drillmaster | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
-| Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
@@ -72,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
+| Riders | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
@@ -81,18 +84,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
-| Musaeum | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
+| Carthage | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
-| Mythology | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
+| Cimmerian Archer | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
 | Legionary | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
@@ -100,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
+| Centenarian | 0.10% | ~13 |
 | Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Alliance Victory | 0.10% | ~13 |
@@ -139,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
+| Rebuilder | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
@@ -150,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
-| Riders | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
@@ -182,6 +186,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
+| Learn By Playing 3 - Good | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
 | Learn to Play 5 | 0.10% | ~13 |
@@ -191,7 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
-| Carthage | 0.10% | ~13 |
 | Egypt | 0.10% | ~13 |
 | Hatti | 0.10% | ~13 |
 | Persia | 0.10% | ~13 |
@@ -221,7 +225,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
-| Cimmerian Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
@@ -245,7 +248,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.10% | ~13 |
 | Hypatia the Teacher | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |
-| Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
@@ -256,7 +258,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
@@ -291,7 +292,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 3 - Good | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,105 (Ranked 115)  
+Progressed: 13,107 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,105 | 5 |
+| 2023-07-26 | 13,107 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 4852,
+  "EOS_Progressed": 4853,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6095,6 +6095,11 @@
       "Time": "2023-07-26T20:03:28.8402411+00:00",
       "NumProgressed": 4852,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-26T21:03:31.1846794+00:00",
+      "NumProgressed": 4853,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -6104,9 +6109,9 @@
       "ID": "BUILD_ROOM",
       "SetID": "5349c2e",
       "Name": "Get A Room",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3591
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -6136,9 +6141,9 @@
       "ID": "HARVEST_CROPS_200",
       "SetID": "5349c2e",
       "Name": "Green Thumb",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3203
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -6146,7 +6151,7 @@
       "Name": "Having A Field Day",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -6154,7 +6159,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -6250,7 +6255,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -6266,7 +6271,7 @@
       "Name": "The First Day",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -6280,9 +6285,9 @@
       "ID": "SURVIVE_FIRST_SUMMER",
       "SetID": "5349c2e",
       "Name": "Heating Up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1407
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -6290,7 +6295,7 @@
       "Name": "Winter Is Here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -6314,7 +6319,7 @@
       "Name": "Novice Researcher",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -6353,15 +6358,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4852,
+      "Progressed": 4853,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-25T02:18:05.0917098+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:03:28.8402405+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:03:31.184679+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.876024+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:14.8554978+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:03:28.8402951+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:24.5360535+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:03:31.1847199+00:00"
 }

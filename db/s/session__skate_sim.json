@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2619,
+  "EOS_Progressed": 2620,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3503,6 +3503,11 @@
       "Time": "2023-07-26T20:03:07.1636673+00:00",
       "NumProgressed": 2619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T21:03:09.6132388+00:00",
+      "NumProgressed": 2620,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3514,7 +3519,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3897,15 +3902,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2619,
+      "Progressed": 2620,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:03:07.1636668+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:03:09.6132385+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:59:32.3810397+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:03:07.1637494+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:59:40.9989249+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:03:09.6133014+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 495,
   "Ranking_Popularity": 127,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
@@ -5191,10 +5191,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9472,
       "NumberOfAwardsMax": 1352
+    },
+    {
+      "Time": "2023-07-26T21:00:44.7491834+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9480,
+      "NumberOfAwardsMax": 1352
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9472,
+  "NumberOfAwards": 9480,
   "NumberOfAwardsMax": 1352,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5214,7 +5220,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1254
+      "Count": 1262
     },
     {
       "Text": "This game is Relaxing",
@@ -5264,8 +5270,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-07-26T20:00:32.5152827+00:00",
+  "LastChanged": "2023-07-26T21:00:44.7491833+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9009703+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:32.5152839+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:05:45.5117071+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:44.7491838+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:05:46.9868255+00:00"
 }

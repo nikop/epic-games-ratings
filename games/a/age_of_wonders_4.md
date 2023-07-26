@@ -20,15 +20,15 @@ Rating: 4.63 (Ranked 330)
 | Here be Dragons | 4.00% | ~202 |
 | Blood of the Dragon | 4.00% | ~202 |
 | Mighty Hoard | 4.00% | ~202 |
-| Valley of Wonders | 3.00% | ~151 |
-| There Can Only Be One! | 3.00% | ~151 |
-| Full Ascension | 3.00% | ~151 |
-| Digging for Treasure | 3.00% | ~151 |
-| Preparation Is Everything | 3.00% | ~151 |
-| In a Liege of Your Own | 3.00% | ~151 |
-| Fiery Friend | 3.00% | ~151 |
-| Against the Odds | 3.00% | ~151 |
-| Impenetrable Fortress | 3.00% | ~151 |
+| Valley of Wonders | 3.00% | ~152 |
+| There Can Only Be One! | 3.00% | ~152 |
+| Full Ascension | 3.00% | ~152 |
+| Digging for Treasure | 3.00% | ~152 |
+| Preparation Is Everything | 3.00% | ~152 |
+| In a Liege of Your Own | 3.00% | ~152 |
+| Fiery Friend | 3.00% | ~152 |
+| Against the Odds | 3.00% | ~152 |
+| Impenetrable Fortress | 3.00% | ~152 |
 | The Magic That Empowers Me! | 2.00% | ~101 |
 | Return of the Wizard King | 2.00% | ~101 |
 | God Emperor | 2.00% | ~101 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 330)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,049 (Ranked 137)  
+Progressed: 5,050 (Ranked 137)  
 Completed: 5 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 5 (0.10%) (Ranked 189)
 | 2023-07-23 | 5,038 | 5 |
 | 2023-07-24 | 5,041 | 5 |
 | 2023-07-25 | 5,045 | 5 |
-| 2023-07-26 | 5,049 | 5 |
+| 2023-07-26 | 5,050 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

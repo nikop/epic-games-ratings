@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -456,6 +456,11 @@
       "Time": "2023-07-26T20:04:57.3616496+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T21:04:58.6306908+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -482,9 +487,9 @@
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "goblin_slayed",
@@ -619,14 +624,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:04:57.3616488+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:04:58.6306904+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:57:33.0169082+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:04:57.3616654+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:57:30.372769+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:04:58.6307041+00:00"
 }

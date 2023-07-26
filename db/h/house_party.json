@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 134,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "NumberOfRatings": 177,
   "RatingHistory": [
     {
@@ -348,6 +348,12 @@
     {
       "Time": "2023-03-31T05:57:11.1498579+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-26T20:57:57.6865469+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4375,9 +4381,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
-  "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:06:22.7649135+00:00",
+  "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:06:24.7315689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.6654543+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:57:57.2923115+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:06:22.7650083+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:57:57.6865473+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:06:24.7316407+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -610,9 +610,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 11392,
+  "EOS_Progressed": 11396,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7465,6 +7465,11 @@
       "Time": "2023-07-26T20:06:47.8937937+00:00",
       "NumProgressed": 11392,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-26T21:06:50.4333482+00:00",
+      "NumProgressed": 11396,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7476,7 +7481,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9228
+      "UsersEstimate": 9231
     },
     {
       "ID": "ACH02",
@@ -7492,7 +7497,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH04",
@@ -7532,7 +7537,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5696
+      "UsersEstimate": 5698
     },
     {
       "ID": "ACH09",
@@ -7556,7 +7561,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH12",
@@ -7580,7 +7585,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH15",
@@ -7652,7 +7657,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "ACH24",
@@ -7692,7 +7697,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH29",
@@ -7755,7 +7760,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11392,
+      "Progressed": 11396,
       "Completed": 31
     }
   ],
@@ -7763,8 +7768,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-26T12:00:19.6576508+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:06:47.8937927+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:06:50.4333479+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:32.275219+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:06:47.8938635+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:44.5045305+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:06:50.4334013+00:00"
 }

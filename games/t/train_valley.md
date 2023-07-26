@@ -7,11 +7,11 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~284 |
-| Close call! | 72.00% | ~269 |
+| Close call! | 73.00% | ~273 |
 | Builder | 52.00% | ~194 |
 | Pangs of conscience | 47.00% | ~176 |
 | Living it large! | 43.00% | ~161 |
-| Collector | 40.00% | ~150 |
+| Collector | 41.00% | ~153 |
 | Need to think | 39.00% | ~146 |
 | Completely nuts! | 37.00% | ~138 |
 | Just in time! | 32.00% | ~120 |

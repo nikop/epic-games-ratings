@@ -5314,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215783,
-  "EOS_Completed": 2117,
-  "EOS_NewPlayers": 2306,
-  "EOS_NewCompleters": 59,
+  "EOS_Progressed": 215794,
+  "EOS_Completed": 2119,
+  "EOS_NewPlayers": 2303,
+  "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15734,6 +15734,11 @@
       "Time": "2023-07-26T20:03:08.9848455+00:00",
       "NumProgressed": 215783,
       "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-07-26T21:03:12.0537413+00:00",
+      "NumProgressed": 215794,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 512,
@@ -19735,9 +19740,9 @@
       "ID": "objective_completed_568",
       "SetID": "415jc5c",
       "Name": "Calcryx Tricks",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_593",
@@ -19785,7 +19790,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "objective_completed_1381",
@@ -19831,30 +19836,30 @@
       "ID": "objective_completed_1392",
       "SetID": "415jc5c",
       "Name": "Animated Giff",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 728
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182057,
-      "Completed": 3000
+      "Progressed": 182068,
+      "Completed": 3003
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215783,
-      "Completed": 2117
+      "Progressed": 215794,
+      "Completed": 2119
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:03:08.9848451+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:03:12.0537408+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:58:40.1607675+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:03:08.9874336+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:58:41.5599774+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:03:12.0560873+00:00"
 }

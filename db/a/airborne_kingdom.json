@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6881,
+  "EOS_Progressed": 6883,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3008,6 +3008,11 @@
       "Time": "2023-07-26T19:03:22.5397657+00:00",
       "NumProgressed": 6881,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-26T21:03:31.6550794+00:00",
+      "NumProgressed": 6883,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3027,7 +3032,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3035,7 +3040,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3051,7 +3056,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3075,7 +3080,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -3083,7 +3088,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3099,7 +3104,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3123,7 +3128,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -3147,7 +3152,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -3155,7 +3160,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3163,7 +3168,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3171,7 +3176,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3219,7 +3224,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2753
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3227,22 +3232,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6881,
+      "Progressed": 6883,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:03:29.1753603+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:03:31.6550791+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:58:01.5899504+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:03:29.1753977+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:58:02.0801647+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:03:31.6551078+00:00"
 }

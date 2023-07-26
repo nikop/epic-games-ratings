@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 1.00% | ~2,158 |
 | Supply Run | 0.90% | ~1,942 |
 | Rocky Reception | 0.90% | ~1,639 |
-| Rock and Roll | 0.80% | ~1,456 |
+| Rock and Roll | 0.80% | ~1,457 |
 | Vecna Lives! | 0.70% | ~1,274 |
 | Flight of the Kindori Pod | 0.70% | ~1,274 |
 | Tall Tales | 0.60% | ~1,092 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.50% | ~910 |
 | Heatwave | 0.50% | ~910 |
 | The Champion's Guide to Wildspace | 0.50% | ~910 |
+| Calcryx Tricks | 0.50% | ~910 |
 | The Witchlight Carnival | 0.40% | ~728 |
 | Don't Look Up! | 0.40% | ~863 |
 | Heavy Burden | 0.40% | ~863 |
@@ -42,11 +43,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~863 |
 | The Dinner Party | 0.40% | ~863 |
 | Not That Type of Helm! | 0.40% | ~728 |
-| Calcryx Tricks | 0.40% | ~728 |
 | Goblin Halls: the Next Generation | 0.40% | ~728 |
 | Bazaar Companions | 0.40% | ~728 |
 | Bahamut's Army | 0.40% | ~728 |
 | Krux's Speed Run | 0.40% | ~728 |
+| Animated Giff | 0.40% | ~728 |
 | Upholding the Law | 0.30% | ~647 |
 | Thieves of the Coven | 0.30% | ~546 |
 | Hither of the Feywild | 0.30% | ~546 |
@@ -76,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.30% | ~546 |
 | Electric Mayhem | 0.30% | ~546 |
 | 3,720 to 1 | 0.30% | ~546 |
-| Animated Giff | 0.30% | ~546 |
 | Starving in the Jungle | 0.20% | ~432 |
 | Cold as Ice | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,783 (Ranked 53)  
-Completed: 2,117 (0.98%) (Ranked 107)  
+Progressed: 215,794 (Ranked 53)  
+Completed: 2,119 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,117 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,783 | 2,117 |
+| 2023-07-26 | 215,794 | 2,119 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

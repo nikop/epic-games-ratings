@@ -5370,9 +5370,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711549,
+  "EOS_Progressed": 711553,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14520,6 +14520,11 @@
       "Time": "2023-07-26T20:06:48.6333721+00:00",
       "NumProgressed": 711549,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-26T21:06:51.2494959+00:00",
+      "NumProgressed": 711553,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14563,7 +14568,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "06_Vengeance_H5",
@@ -14571,7 +14576,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "07_Wude_H1",
@@ -14619,7 +14624,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "13_LowAge",
@@ -14635,7 +14640,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "15_Detective_H1",
@@ -14683,7 +14688,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -14699,7 +14704,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -14723,7 +14728,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "26_ShrineSpirit",
@@ -14739,7 +14744,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14763,7 +14768,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "31_ComboHigh",
@@ -14779,7 +14784,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "33_BladeOneShot",
@@ -14803,7 +14808,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -14811,7 +14816,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14843,7 +14848,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -14875,7 +14880,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14915,7 +14920,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -14930,21 +14935,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20850,
+      "Progressed": 20854,
       "Completed": 10446
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711549,
+      "Progressed": 711553,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-26T19:00:27.0271539+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:06:48.6333715+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:06:51.2494954+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:59:25.011327+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:06:48.6334658+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:59:32.4848586+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:06:51.2495702+00:00"
 }

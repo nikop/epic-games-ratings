@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,620 |
-| Let There Be Light | 28.00% | ~16,496 |
-| Float Like a Butterfly | 27.00% | ~15,907 |
-| Nordic Walking | 22.00% | ~12,961 |
-| Bright Falls' Finest | 21.00% | ~12,372 |
-| Under a Thin Layer of Skin | 19.00% | ~11,194 |
-| Park Ranger | 15.00% | ~8,837 |
-| Paging Mr. Wake | 15.00% | ~8,837 |
-| Back! Back, I Say! | 14.00% | ~8,248 |
-| Finders Keepers | 14.00% | ~8,248 |
+| Follow the Light | 35.00% | ~20,622 |
+| Let There Be Light | 28.00% | ~16,497 |
+| Float Like a Butterfly | 27.00% | ~15,908 |
+| Nordic Walking | 22.00% | ~12,962 |
+| Bright Falls' Finest | 21.00% | ~12,373 |
+| Under a Thin Layer of Skin | 19.00% | ~11,195 |
+| Park Ranger | 15.00% | ~8,838 |
+| Paging Mr. Wake | 15.00% | ~8,838 |
+| Back! Back, I Say! | 14.00% | ~8,249 |
+| Finders Keepers | 14.00% | ~8,249 |
 | Sound and Fury | 13.00% | ~7,659 |
 | Missed by a Mile | 13.00% | ~7,659 |
 | Damn Good Cup of Coffee | 13.00% | ~7,659 |
@@ -30,11 +30,11 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 10.00% | ~5,892 |
 | Thunder and Lightning | 10.00% | ~5,892 |
 | Two For the Price of One | 10.00% | ~5,892 |
-| Gatekeeper | 9.00% | ~5,302 |
-| The Lady of the Light | 9.00% | ~5,302 |
-| Energized! | 9.00% | ~5,302 |
-| What Light Through Yonder Window | 8.00% | ~4,713 |
-| Right of Way | 8.00% | ~4,713 |
+| Gatekeeper | 9.00% | ~5,303 |
+| The Lady of the Light | 9.00% | ~5,303 |
+| Energized! | 9.00% | ~5,303 |
+| What Light Through Yonder Window | 8.00% | ~4,714 |
+| Right of Way | 8.00% | ~4,714 |
 | A Friend in Need | 8.00% | ~1,791 |
 | Tornado Wrangler | 7.00% | ~4,124 |
 | Departure | 6.00% | ~3,535 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,357 |
 | If It Flies, It Burns | 4.00% | ~2,357 |
 | KBF-FM | 4.00% | ~2,357 |
-| Kill Your Darlings | 3.00% | ~671 |
-| Heartbreaker | 3.00% | ~671 |
+| Kill Your Darlings | 3.00% | ~672 |
+| Heartbreaker | 3.00% | ~672 |
 | Medical Opinions | 2.00% | ~1,178 |
 | Taken Season | 2.00% | ~1,178 |
 | Carny | 2.00% | ~1,178 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,915 (Ranked 82)  
+Progressed: 58,919 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
-| 2023-07-26 | 58,915 | 58 |
+| 2023-07-26 | 58,919 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

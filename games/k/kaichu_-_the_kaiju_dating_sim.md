@@ -7,9 +7,9 @@
 | Everything's Coming Up Gigachu | 91.00% | ~31 |
 | Cyber Bully | 71.00% | ~24 |
 | Loving Commute | 65.00% | ~22 |
+| Friendzoned | 38.00% | ~13 |
 | Love is in Bloom | 38.00% | ~13 |
 | Royal Romance | 38.00% | ~13 |
-| Friendzoned | 35.00% | ~12 |
 | Love is in the Air | 24.00% | ~8 |
 | Speed Dating | 24.00% | ~8 |
 | Spread the Love | 24.00% | ~8 |

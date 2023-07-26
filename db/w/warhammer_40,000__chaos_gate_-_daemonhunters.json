@@ -624,7 +624,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3044,
+  "EOS_Progressed": 3045,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -2564,6 +2564,11 @@
       "Time": "2023-07-26T19:04:28.3231403+00:00",
       "NumProgressed": 3044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T21:04:19.7065401+00:00",
+      "NumProgressed": 3045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2941,9 +2946,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -3118,21 +3123,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3044,
+      "Progressed": 3045,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3044,
+      "Progressed": 3045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-26T19:59:11.3005543+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:04:18.0141636+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:04:19.7065396+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:59:11.300555+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:04:18.0142375+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:59:15.8976113+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:04:19.7066023+00:00"
 }

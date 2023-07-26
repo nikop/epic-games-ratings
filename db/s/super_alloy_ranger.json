@@ -290,9 +290,9 @@
       "ID": "Achi_02",
       "SetID": "51a97k7",
       "Name": "The Deep Frozen Conqueror",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_03",
@@ -691,8 +691,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:04:38.8623881+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:04:40.8761565+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.3124838+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:17.124371+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:04:38.8624282+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:26.8223351+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:04:40.8761894+00:00"
 }

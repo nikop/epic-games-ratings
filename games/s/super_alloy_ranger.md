@@ -20,13 +20,13 @@
 | Grand Escape | 12.00% | ~6 |
 | Space Warrior: Prologue | 12.00% | ~6 |
 | Keep it Up, rookie! | 8.00% | ~4 |
+| The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Abyss Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
-| The Deep Frozen Conqueror | 4.00% | ~2 |
 | The Fortress Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |

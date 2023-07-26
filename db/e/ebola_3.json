@@ -991,9 +991,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "achCity",
@@ -1127,9 +1127,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "achLizun",
@@ -1336,8 +1336,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:04:43.5932766+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:04:45.5866338+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.6474315+00:00",
-  "LastUpdate_Ratings": "2023-07-26T20:00:34.5844284+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:04:43.5933287+00:00"
+  "LastUpdate_Ratings": "2023-07-26T21:00:46.963391+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:04:45.5866735+00:00"
 }

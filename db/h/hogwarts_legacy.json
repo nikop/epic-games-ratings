@@ -5514,7 +5514,7 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288627,
+  "EOS_Progressed": 288629,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 3,
@@ -15964,6 +15964,11 @@
       "Time": "2023-07-26T20:04:55.1414196+00:00",
       "NumProgressed": 288627,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-26T21:04:56.4636763+00:00",
+      "NumProgressed": 288629,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15983,7 +15988,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_11",
@@ -15991,7 +15996,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_12",
@@ -15999,7 +16004,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_13",
@@ -16031,7 +16036,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_17",
@@ -16103,7 +16108,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_25",
@@ -16159,7 +16164,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_31",
@@ -16231,7 +16236,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_4",
@@ -16319,7 +16324,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25976
+      "UsersEstimate": 25977
     },
     {
       "ID": "PFA_9",
@@ -16334,7 +16339,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288627,
+      "Progressed": 288629,
       "Completed": 434
     }
   ],
@@ -16342,8 +16347,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-26T17:58:12.5115985+00:00",
-  "LastChanged_Achievements": "2023-07-26T20:04:55.1414191+00:00",
+  "LastChanged_Achievements": "2023-07-26T21:04:56.4636759+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:58:01.7240008+00:00",
-  "LastUpdate_Achievements": "2023-07-26T20:04:55.141529+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:58:02.3258893+00:00",
+  "LastUpdate_Achievements": "2023-07-26T21:04:56.4637542+00:00"
 }

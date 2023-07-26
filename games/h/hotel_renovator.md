@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~676 |
+| Good start | 76.00% | ~686 |
 | And so it begins | 72.00% | ~649 |
 | No pressure | 69.00% | ~622 |
-| Memento | 61.00% | ~550 |
+| Memento | 62.00% | ~559 |
 | Let there be light | 59.00% | ~532 |
 | I think you dropped this | 54.00% | ~487 |
 | Soulmate? | 52.00% | ~469 |
