@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 302 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,168 | 77 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 161,865 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,786 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,796 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 488 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 275 | 239 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,414 | 123 |
@@ -65,8 +65,8 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 349 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 439 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 506 |
-| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,471 | 121 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,662 | 59 |
+| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,475 | 121 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,667 | 59 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 506 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 506 |
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 443 |
@@ -143,7 +143,7 @@
 | 133 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 506 |
 | 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 25 | 475 |
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 506 |
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 631 | 171 |
+| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 633 | 171 |
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 798 | 153 |
 | 142 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 4,537 | 72 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 646 | 170 |
@@ -155,7 +155,7 @@
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 506 |
 | 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 784 | 154 |
 | 142 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 506 |
-| 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 631 | 171 |
+| 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 631 | 172 |
 | 142 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 506 |
 | 158 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 410 | 208 |
 | 158 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 80 | 357 |
@@ -528,7 +528,7 @@
 | 518 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 311 |
 | 518 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,359 | 126 |
 | 518 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 506 |
-| 518 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 291 | 235 |
+| 518 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 293 | 235 |
 | 518 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 506 |
 | 518 | [Sable](games/s/sable.md) | 4.52 | 20 | 502 |
 | 518 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 506 |
@@ -646,7 +646,7 @@
 | 641 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 506 |
 | 641 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 506 |
 | 641 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 506 |
-| 641 | [SMITE](games/s/smite.md) | 4.44 | 4,066 | 79 |
+| 641 | [SMITE](games/s/smite.md) | 4.44 | 4,074 | 79 |
 | 641 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 565 | 180 |
 | 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 506 |
 | 641 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 335 |
@@ -893,7 +893,7 @@
 | 891 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 0 | 506 |
 | 891 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 506 |
 | 891 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 393 |
-| 891 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,467 | 100 |
+| 891 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,470 | 100 |
 | 895 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 506 |
 | 895 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 506 |
 | 895 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 0 | 506 |

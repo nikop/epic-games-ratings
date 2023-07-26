@@ -21,7 +21,7 @@
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.39% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.90% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.86% |
@@ -32,7 +32,7 @@
 | 30 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.99% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.71% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -78,7 +78,7 @@
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
-| 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.11% |
+| 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
 | 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.94% |
@@ -99,7 +99,7 @@
 | 97 | [Five Dates](games/f/five_dates.md) | 1.43% |
 | 98 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 99 | [A Musical Story](games/a/a_musical_story.md) | 1.23% |
-| 100 | [Chorus](games/c/chorus.md) | 1.22% |
+| 100 | [Chorus](games/c/chorus.md) | 1.21% |
 | 101 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 102 | [Trifox](games/t/trifox.md) | 1.11% |
 | 103 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.08% |
@@ -165,12 +165,12 @@
 | 162 | [Filament](games/f/filament.md) | 0.24% |
 | 164 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 164 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
-| 166 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 166 | [Blanc](games/b/blanc.md) | 0.21% |
 | 166 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 166 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 170 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 169 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 169 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
+| 169 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 172 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
 | 172 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 172 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
