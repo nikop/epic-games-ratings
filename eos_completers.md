@@ -34,9 +34,9 @@
 | 32 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 33 | [Scorn](games/s/scorn.md) | 6.99% |
 | 34 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
-| 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.39% |
+| 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.53% |
+| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
@@ -475,6 +475,7 @@
 | 242 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 0.00% |
 | 242 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 0.00% |
 | 242 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
+| 242 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.00% |
 | 242 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 0.00% |
 | 242 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 242 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
@@ -510,4 +511,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,949 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,951 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
