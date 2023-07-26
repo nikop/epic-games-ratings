@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1020,7 +1020,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4325,
+  "EOS_Progressed": 4326,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
@@ -6850,6 +6850,11 @@
       "Time": "2023-07-26T22:05:43.8423423+00:00",
       "NumProgressed": 4325,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T23:06:17.7793109+00:00",
+      "NumProgressed": 4326,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6861,7 +6866,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -6941,7 +6946,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -6957,7 +6962,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6973,7 +6978,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7013,7 +7018,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -7037,7 +7042,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -7085,7 +7090,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -7109,7 +7114,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -7133,7 +7138,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7173,22 +7178,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4325,
+      "Progressed": 4326,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:05:43.8423417+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:06:17.7793103+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:00:36.7986208+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:05:43.842421+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:01:22.7318673+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:06:17.7793838+00:00"
 }

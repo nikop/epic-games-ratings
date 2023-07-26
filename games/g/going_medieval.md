@@ -1,24 +1,24 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 393)  
+Rating: 4.60 (Ranked 392)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,592 |
-| Having A Field Day | 73.00% | ~3,543 |
+| Get A Room | 74.00% | ~3,593 |
+| Having A Field Day | 73.00% | ~3,544 |
 | Reap What You Sow | 70.00% | ~3,398 |
-| The First Day | 67.00% | ~3,252 |
-| Green Thumb | 65.00% | ~3,155 |
+| The First Day | 67.00% | ~3,253 |
+| Green Thumb | 65.00% | ~3,156 |
 | Novice Researcher | 64.00% | ~3,107 |
-| Putting Food on the Table | 60.00% | ~2,912 |
+| Putting Food on the Table | 60.00% | ~2,913 |
 | Home Cooked Meal | 55.00% | ~2,670 |
 | Onward | 55.00% | ~2,670 |
 | The First Week | 53.00% | ~2,573 |
-| Beam Me Up | 50.00% | ~2,427 |
-| Feast or Famine | 50.00% | ~2,427 |
-| Studious Researcher | 50.00% | ~2,427 |
+| Beam Me Up | 50.00% | ~2,428 |
+| Feast or Famine | 50.00% | ~2,428 |
+| Studious Researcher | 50.00% | ~2,428 |
 | Adept Researcher | 44.00% | ~2,136 |
 | Retribution | 40.00% | ~1,942 |
 | ...And Don’t Come Back! | 40.00% | ~1,942 |
@@ -31,14 +31,14 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 19.00% | ~922 |
 | Oh Deer! | 19.00% | ~922 |
 | All Year Round | 19.00% | ~922 |
-| Nothing Wasted | 12.00% | ~582 |
+| Nothing Wasted | 12.00% | ~583 |
 | Don't Cry Wolf | 11.00% | ~534 |
 | Deerly Departed | 8.00% | ~388 |
 | Where Wolf? | 5.00% | ~243 |
 | Food Chain | 2.00% | ~97 |
 | Wabbit Season | 0.60% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,854 (Ranked 138)  
+Progressed: 4,855 (Ranked 138)  
 Completed: 10 (0.21%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 10 (0.21%) (Ranked 166)
 | 2023-07-23 | 4,790 | 10 |
 | 2023-07-24 | 4,812 | 10 |
 | 2023-07-25 | 4,834 | 10 |
-| 2023-07-26 | 4,854 | 10 |
+| 2023-07-26 | 4,855 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 312)  
 Sum: 964 (Ranked 238)  

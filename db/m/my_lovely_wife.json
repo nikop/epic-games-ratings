@@ -333,9 +333,9 @@
       "ID": "ACH_ASSIGN_LEARN_1",
       "SetID": "ajki3eh",
       "Name": "Learner",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
@@ -453,9 +453,9 @@
       "ID": "ACH_KILL_SUCC_1",
       "SetID": "ajki3eh",
       "Name": "I... I did it?",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -605,8 +605,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:05:02.5345794+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:05:25.1852368+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:47.1456254+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:39.5948761+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:05:02.5346068+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:58:56.8190974+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:05:25.1852795+00:00"
 }

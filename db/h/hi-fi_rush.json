@@ -5170,9 +5170,9 @@
       "ID": "Ach054",
       "SetID": "12n4k20",
       "Name": "I told you I\u0027d be fine, Peppermint!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach055",
@@ -5282,9 +5282,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach069",
@@ -5329,8 +5329,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:04:04.864849+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:04:13.623464+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:59.9916887+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:04:04.8649776+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:59:23.8222931+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:04:13.6235813+00:00"
 }

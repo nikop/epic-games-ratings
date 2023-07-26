@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58926,
+  "EOS_Progressed": 58927,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1372,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9162,6 +9162,11 @@
       "Time": "2023-07-26T22:04:14.2351715+00:00",
       "NumProgressed": 58926,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-26T23:04:25.1893081+00:00",
+      "NumProgressed": 58927,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9189,7 +9194,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12374
+      "UsersEstimate": 12375
     },
     {
       "ID": "04",
@@ -9397,7 +9402,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7660
+      "UsersEstimate": 7661
     },
     {
       "ID": "30",
@@ -9429,7 +9434,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7660
+      "UsersEstimate": 7661
     },
     {
       "ID": "34",
@@ -9445,7 +9450,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16499
+      "UsersEstimate": 16500
     },
     {
       "ID": "36",
@@ -9533,7 +9538,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7660
+      "UsersEstimate": 7661
     },
     {
       "ID": "47",
@@ -9708,21 +9713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58926,
+      "Progressed": 58927,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22394,
+      "Progressed": 22395,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:04:14.2351707+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:04:25.1893067+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:15.5546804+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:04:14.2352972+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:58:22.9083123+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:04:25.189425+00:00"
 }

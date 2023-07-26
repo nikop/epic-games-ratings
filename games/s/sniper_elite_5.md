@@ -26,6 +26,7 @@ Rating: 4.41 (Ranked 674)
 | Gunslinger | 2.00% | ~67 |
 | Skirmisher | 2.00% | ~67 |
 | Set Europe Ablaze | 2.00% | ~67 |
+| Precision Is Key | 2.00% | ~67 |
 | My Little Friend | 2.00% | ~67 |
 | Explosive Efficiency | 2.00% | ~67 |
 | Der Geist | 2.00% | ~67 |
@@ -34,7 +35,6 @@ Rating: 4.41 (Ranked 674)
 | Enemy at the Gates | 1.00% | ~34 |
 | Fields of Glory | 1.00% | ~34 |
 | Just a Flesh Wound | 1.00% | ~34 |
-| Precision Is Key | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Die Nussknacker Sweet! | 1.00% | ~34 |
 | The Long Game | 0.90% | ~30 |
@@ -49,11 +49,11 @@ Rating: 4.41 (Ranked 674)
 | Burn after reading | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
+| Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |
 | Eagle Eyed | 0.40% | ~13 |
-| Locomotion Commotion | 0.40% | ~13 |
 | Shoot for the Moon | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |

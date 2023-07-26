@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~65 |
-| Accessory Unlocked | 83.00% | ~65 |
-| Character Unlocked | 82.00% | ~64 |
-| Settle Down | 73.00% | ~57 |
-| Homer | 72.00% | ~56 |
-| Butter Fingers | 72.00% | ~56 |
-| Have a good trip! | 71.00% | ~55 |
-| Kickball Unlocked | 69.00% | ~54 |
-| Stay Hydrated | 67.00% | ~52 |
+| Hat Unlocked | 82.00% | ~65 |
+| Accessory Unlocked | 82.00% | ~65 |
+| Character Unlocked | 81.00% | ~64 |
+| Settle Down | 73.00% | ~58 |
+| Homer | 72.00% | ~57 |
+| Butter Fingers | 71.00% | ~56 |
+| Have a good trip! | 70.00% | ~55 |
+| Kickball Unlocked | 68.00% | ~54 |
+| Stay Hydrated | 66.00% | ~52 |
 | First Win | 65.00% | ~51 |
-| True Story! | 44.00% | ~34 |
+| True Story! | 43.00% | ~34 |
 | Bedroom Secret Spot | 37.00% | ~29 |
 | Kick It | 32.00% | ~25 |
 | Spooky | 28.00% | ~22 |
-| Grand Slam! | 26.00% | ~20 |
-| Classroom Secret Spot | 26.00% | ~20 |
+| Grand Slam! | 25.00% | ~20 |
+| Classroom Secret Spot | 25.00% | ~20 |
 | Have Mercy | 24.00% | ~19 |
 | Save some water for the fishies | 23.00% | ~18 |
 | Bathroom Secret Spot | 22.00% | ~17 |
 | Angry Dad | 22.00% | ~17 |
-| At least everyone still had fun | 21.00% | ~16 |
+| At least everyone still had fun | 20.00% | ~16 |
 | Living Room Secret Spot | 18.00% | ~14 |
 | Hi Hungry, I'm Dad | 15.00% | ~12 |
 | Angry Mom | 13.00% | ~10 |
-| Just how we drew it up | 12.00% | ~9 |
+| Just how we drew it up | 11.00% | ~9 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | You broke it, you bought it | 5.00% | ~4 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 326)  
+Progressed: 79 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-13 | 76 | 0 |
 | 2023-07-15 | 77 | 0 |
 | 2023-07-23 | 78 | 0 |
+| 2023-07-26 | 79 | 0 |

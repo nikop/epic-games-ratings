@@ -35,11 +35,11 @@
 | Handyman | 50.00% | ~78 |
 | It's good to be alive | 50.00% | ~78 |
 | Extreme neuropower! | 45.00% | ~70 |
-| Legal courier | 42.00% | ~65 |
+| Legal courier | 43.00% | ~67 |
 | Now you are worthy | 37.00% | ~57 |
-| Escaped from a big trouble | 36.00% | ~56 |
+| Escaped from a big trouble | 37.00% | ~57 |
+| No blades in the gym | 34.00% | ~53 |
 | Guiding on the right path | 33.00% | ~51 |
-| No blades in the gym | 32.00% | ~50 |
 | Fight is life | 30.00% | ~46 |
 | Mysterious voice | 30.00% | ~46 |
 | Responsible approach | 30.00% | ~46 |
@@ -72,7 +72,7 @@
 | The only right decision | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 292)  
-Completed: 5 (3.23%) (Ranked 59)  
+Completed: 5 (3.23%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

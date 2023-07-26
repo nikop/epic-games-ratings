@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,707 |
+| Until death do us apart | 9.00% | ~6,708 |
 | That's a Grand Army | 8.00% | ~5,962 |
 | That is mine! | 8.00% | ~5,962 |
 | Victorious! | 8.00% | ~5,962 |
-| Brothers in Arms | 6.00% | ~4,471 |
-| That's a Grand Navy | 6.00% | ~4,471 |
-| Seriously?! | 6.00% | ~4,471 |
-| For the Glory | 5.00% | ~3,726 |
+| Brothers in Arms | 6.00% | ~4,472 |
+| That's a Grand Navy | 6.00% | ~4,472 |
+| Seriously?! | 6.00% | ~4,472 |
+| For the Glory | 5.00% | ~3,727 |
 | Cold War | 4.00% | ~2,981 |
 | True Catholic | 4.00% | ~2,981 |
 | Defender of the Faith | 3.00% | ~2,236 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,236 |
 | The Princess is in this Castle | 3.00% | ~2,236 |
 | Truly Divine Ruler | 3.00% | ~2,236 |
-| Agressive Expander | 2.00% | ~1,490 |
-| Blockader | 2.00% | ~1,490 |
-| Combined Arms | 2.00% | ~1,490 |
-| Double the Love | 2.00% | ~1,490 |
-| Gentle Persuasion | 2.00% | ~1,490 |
-| My armies are invincible! | 2.00% | ~1,490 |
-| Queen of Conquest | 2.00% | ~1,490 |
-| Royal Authority | 2.00% | ~1,490 |
-| Total Control | 2.00% | ~1,490 |
+| Agressive Expander | 2.00% | ~1,491 |
+| Blockader | 2.00% | ~1,491 |
+| Combined Arms | 2.00% | ~1,491 |
+| Double the Love | 2.00% | ~1,491 |
+| Gentle Persuasion | 2.00% | ~1,491 |
+| My armies are invincible! | 2.00% | ~1,491 |
+| Queen of Conquest | 2.00% | ~1,491 |
+| Royal Authority | 2.00% | ~1,491 |
+| Total Control | 2.00% | ~1,491 |
 | All That's Thine Shall Be Mine | 1.00% | ~745 |
 | Azur semé de lis or | 1.00% | ~745 |
 | Bright Spark | 1.00% | ~745 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,519 (Ranked 74)  
+Progressed: 74,531 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
-| 2023-07-26 | 74,519 | 0 |
+| 2023-07-26 | 74,531 | 0 |
 ## Awards
 Max (Educational): 5,583  (Ranked 61)  
 Sum: 46,038 (Ranked 26)  

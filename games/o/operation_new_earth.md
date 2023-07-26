@@ -36,7 +36,7 @@
 | General | 1.00% | ~6 |
 | Seek & Destroy | 1.00% | ~6 |
 | Titan Tanks | 1.00% | ~6 |
-| Shock Troops | 0.90% | ~6 |
+| Shock Troops | 1.00% | ~6 |
 | Jet Troops | 0.80% | ~5 |
 | Advanced Interceptors | 0.60% | ~4 |
 | Gold Competitor | 0.00% | ~0 |

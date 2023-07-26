@@ -22,7 +22,7 @@ Rating: 4.40 (Ranked 692)
 | The meaning of Kain | 40.00% | ~518 |
 | Technophobe | 38.00% | ~492 |
 | Recycler | 37.00% | ~480 |
-| Are you not entertained? | 32.00% | ~415 |
+| Are you not entertained? | 33.00% | ~428 |
 | Ganglord | 32.00% | ~415 |
 | Jarhead | 32.00% | ~415 |
 | Infiltrator | 32.00% | ~415 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 692)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,296 (Ranked 181)  
+Progressed: 1,296 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,16 +6,16 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,909 |
-| Worker Specialization | 78.00% | ~4,847 |
-| First Contact | 73.00% | ~4,536 |
-| Win a Battle | 67.00% | ~4,163 |
+| Colonize a Planet | 79.00% | ~4,910 |
+| Worker Specialization | 78.00% | ~4,848 |
+| First Contact | 73.00% | ~4,537 |
+| Win a Battle | 67.00% | ~4,164 |
 | Anomaly Researcher | 63.00% | ~3,915 |
 | Unleash My Power | 62.00% | ~3,853 |
 | Own 30 Planets | 34.00% | ~2,113 |
 | Xenocide | 33.00% | ~2,051 |
-| Design a Civilization | 32.00% | ~1,988 |
-| Commodity Trader | 31.00% | ~1,926 |
+| Design a Civilization | 32.00% | ~1,989 |
+| Commodity Trader | 31.00% | ~1,927 |
 | Design a Ship | 29.00% | ~1,802 |
 | Commodity Seller | 26.00% | ~1,616 |
 | Prestige Victory! | 14.00% | ~870 |
@@ -41,10 +41,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Navigators | 0.90% | ~56 |
 | Win as Torians | 0.90% | ~56 |
 | Win as Xeloxi | 0.80% | ~50 |
-| Win as the Drath | 0.70% | ~43 |
-| Win as the Drengin | 0.70% | ~43 |
-| Win as the Krynn | 0.70% | ~43 |
-| Win as the Manti | 0.70% | ~43 |
+| Win as the Drath | 0.70% | ~44 |
+| Win as the Drengin | 0.70% | ~44 |
+| Win as the Krynn | 0.70% | ~44 |
+| Win as the Manti | 0.70% | ~44 |
 | Win as the Iconians | 0.60% | ~37 |
 | Win as the Iridium | 0.60% | ~37 |
 | Win as the Onyx | 0.60% | ~37 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,214 (Ranked 133)  
+Progressed: 6,215 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 6,193 | 0 |
 | 2023-07-24 | 6,199 | 0 |
 | 2023-07-25 | 6,204 | 0 |
-| 2023-07-26 | 6,214 | 0 |
+| 2023-07-26 | 6,215 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 346)  
 Sum: 668 (Ranked 277)  

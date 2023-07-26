@@ -12,7 +12,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 0.60% | ~18 |
 | Not So Fast... | 0.50% | ~15 |
 | Bloodless | 0.50% | ~15 |
-| Blood for the Blood God! | 0.30% | ~9 |
+| Blood for the Blood God! | 0.40% | ~12 |
 | Friendly Fire | 0.30% | ~9 |
 | Purging Spree | 0.30% | ~9 |
 | A Foul Creche | 0.30% | ~9 |

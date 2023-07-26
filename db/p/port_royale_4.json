@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1465,6 +1465,11 @@
       "Time": "2023-07-26T20:05:08.513101+00:00",
       "NumProgressed": 764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T23:05:23.5411049+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1476,7 +1481,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH001",
@@ -1540,7 +1545,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH009",
@@ -1564,7 +1569,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH012",
@@ -1692,7 +1697,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH028",
@@ -1716,7 +1721,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH031",
@@ -1875,15 +1880,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:05:01.1276579+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:05:23.5411045+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.3549085+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:56.4101719+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:05:01.1277166+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:59:19.0320299+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:05:23.5411483+00:00"
 }

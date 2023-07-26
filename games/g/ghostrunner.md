@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~10,273 |
-| Sword Runner | 62.00% | ~8,381 |
-| Wallrunner | 55.00% | ~7,434 |
-| Running out of breath | 54.00% | ~7,299 |
-| Homerunner | 46.00% | ~6,218 |
-| Out of order | 45.00% | ~6,083 |
-| I call it luck | 44.00% | ~5,947 |
-| Where are my Keys? | 41.00% | ~5,542 |
-| Back to hell | 37.00% | ~5,001 |
-| Perfection | 32.00% | ~4,325 |
-| Sword to a gunfight | 30.00% | ~4,055 |
-| Why not both | 30.00% | ~4,055 |
-| Upgrades not mandatory | 29.00% | ~3,920 |
+| Longrunner | 76.00% | ~10,274 |
+| Sword Runner | 62.00% | ~8,382 |
+| Wallrunner | 55.00% | ~7,435 |
+| Running out of breath | 54.00% | ~7,300 |
+| Homerunner | 46.00% | ~6,219 |
+| Out of order | 45.00% | ~6,084 |
+| I call it luck | 44.00% | ~5,948 |
+| Where are my Keys? | 41.00% | ~5,543 |
+| Back to hell | 37.00% | ~5,002 |
+| Perfection | 32.00% | ~4,326 |
+| Sword to a gunfight | 30.00% | ~4,056 |
+| Why not both | 30.00% | ~4,056 |
+| Upgrades not mandatory | 29.00% | ~3,921 |
 | Artificial selection | 28.00% | ~3,785 |
 | Control freak | 28.00% | ~3,785 |
 | Running Wild | 28.00% | ~3,785 |
-| Finish line | 26.00% | ~3,514 |
+| Finish line | 26.00% | ~3,515 |
 | Unstoppable force | 23.00% | ~3,109 |
 | Wave of mutilation | 22.00% | ~2,974 |
 | Can't Run Can't Hide | 17.00% | ~2,298 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~54 |
 | Up Close And Personal | 0.40% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,517 (Ranked 114)  
+Progressed: 13,519 (Ranked 114)  
 Completed: 54 (0.40%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 54 (0.40%) (Ranked 143)
 | 2023-07-23 | 13,213 | 54 |
 | 2023-07-24 | 13,315 | 54 |
 | 2023-07-25 | 13,414 | 54 |
-| 2023-07-26 | 13,517 | 54 |
+| 2023-07-26 | 13,519 | 54 |
 ## Awards
 Max (Great Boss Battles): 472  (Ranked 196)  
 Sum: 632 (Ranked 286)  

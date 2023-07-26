@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~523,996 |
-| Every story has a beginning | 36.00% | ~232,887 |
-| The first of many | 32.00% | ~207,011 |
-| Positive word of mouth | 18.00% | ~116,444 |
-| Lawn in the U.S.A. | 15.00% | ~97,036 |
-| Blade Runner | 9.00% | ~58,222 |
+| The dream begins | 81.00% | ~524,005 |
+| Every story has a beginning | 36.00% | ~232,891 |
+| The first of many | 32.00% | ~207,014 |
+| Positive word of mouth | 18.00% | ~116,446 |
+| Lawn in the U.S.A. | 15.00% | ~97,038 |
+| Blade Runner | 9.00% | ~58,223 |
 | Credible | 7.00% | ~45,284 |
 | Teamwork makes the dream work | 6.00% | ~38,815 |
-| Where there's muck there's brass | 4.00% | ~25,876 |
-| Bigger and better | 4.00% | ~25,876 |
-| Aggressive expansion | 4.00% | ~25,876 |
-| Size isn't everything | 3.00% | ~19,407 |
-| Close shave | 3.00% | ~19,407 |
-| Established | 3.00% | ~19,407 |
+| Where there's muck there's brass | 4.00% | ~25,877 |
+| Bigger and better | 4.00% | ~25,877 |
+| Aggressive expansion | 4.00% | ~25,877 |
+| Size isn't everything | 3.00% | ~19,408 |
+| Close shave | 3.00% | ~19,408 |
+| Established | 3.00% | ~19,408 |
 | Fighting on all fronts | 2.00% | ~12,938 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,938 |
 | Every good deed… | 2.00% | ~12,938 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~647 |
 | Mo mowers, mo problems | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,909 (Ranked 23)  
+Progressed: 646,920 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 15 (0.00%) (Ranked 242)
 | 2023-07-23 | 645,693 | 15 |
 | 2023-07-24 | 646,111 | 15 |
 | 2023-07-25 | 646,533 | 15 |
-| 2023-07-26 | 646,909 | 15 |
+| 2023-07-26 | 646,920 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 277)  
 Sum: 969 (Ranked 237)  

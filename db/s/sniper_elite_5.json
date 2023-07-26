@@ -5562,9 +5562,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 67
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -5730,9 +5730,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -5985,8 +5985,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:04:26.8854092+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:04:41.3528985+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:57:15.645895+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:04:26.8855335+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:57:13.632497+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:04:41.3530124+00:00"
 }

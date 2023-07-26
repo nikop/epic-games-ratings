@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31457,
+  "EOS_Progressed": 31463,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10718,6 +10718,11 @@
       "Time": "2023-07-26T22:04:33.5549496+00:00",
       "NumProgressed": 31457,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-26T23:04:49.8063528+00:00",
+      "NumProgressed": 31463,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10737,7 +10742,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6293
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10873,7 +10878,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -10889,7 +10894,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -10960,7 +10965,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31457,
+      "Progressed": 31463,
       "Completed": 20
     }
   ],
@@ -10968,8 +10973,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:04:33.5549489+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:04:49.8063522+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:00:21.4107642+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:04:33.5550534+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:01:04.45154+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:04:49.8064457+00:00"
 }

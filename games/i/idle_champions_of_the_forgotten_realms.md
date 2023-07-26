@@ -15,9 +15,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.80% | ~1,457 |
 | Vecna Lives! | 0.70% | ~1,275 |
 | Flight of the Kindori Pod | 0.70% | ~1,275 |
-| Tall Tales | 0.60% | ~1,092 |
-| Vecna Loots! | 0.60% | ~1,092 |
-| Topolah's Tower | 0.60% | ~1,092 |
+| Tall Tales | 0.60% | ~1,093 |
+| Vecna Loots! | 0.60% | ~1,093 |
+| Topolah's Tower | 0.60% | ~1,093 |
 | Pros and CONs | 0.50% | ~1,079 |
 | Wet Feet | 0.50% | ~1,079 |
 | Hatchlings Underfoot | 0.50% | ~1,079 |
@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.40% | ~863 |
 | Unearthed Evil | 0.40% | ~863 |
 | No Time To Rest | 0.40% | ~863 |
+| The Mists of Ravenloft | 0.40% | ~863 |
 | The Dinner Party | 0.40% | ~863 |
 | Not That Type of Helm! | 0.40% | ~728 |
 | Bazaar Companions | 0.40% | ~728 |
@@ -63,7 +64,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
 | Wisdom Check | 0.30% | ~647 |
-| The Mists of Ravenloft | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
 | Family Entanglements | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,807 (Ranked 53)  
+Progressed: 215,817 (Ranked 53)  
 Completed: 2,119 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,119 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,807 | 2,119 |
+| 2023-07-26 | 215,817 | 2,119 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

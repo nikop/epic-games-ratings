@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.03,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -706,6 +706,11 @@
       "Time": "2023-07-26T21:06:01.3721885+00:00",
       "NumProgressed": 199,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-26T23:06:27.5534518+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -749,15 +754,15 @@
       "Name": "Ouch!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "BearRum",
@@ -779,9 +784,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -797,7 +802,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "BroomAmanita",
@@ -805,7 +810,7 @@
       "Name": "Gone Cooking",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "BroomPistol",
@@ -821,7 +826,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "DevilRope",
@@ -829,7 +834,7 @@
       "Name": "The Devil is My Friend",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Drunkard",
@@ -869,15 +874,15 @@
       "Name": "Happy Reunion",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "HastrmanAmanita",
@@ -891,9 +896,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "HastrmanRum",
@@ -909,7 +914,7 @@
       "Name": "Flower",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "KingDiamond",
@@ -973,7 +978,7 @@
       "Name": "Blessed",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "PrincessThrone",
@@ -989,7 +994,7 @@
       "Name": "Treasure Chest",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "RogueEat",
@@ -997,7 +1002,7 @@
       "Name": "Debt Free",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "RogueKing",
@@ -1021,15 +1026,15 @@
       "Name": "In Good Spirits",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1076,14 +1081,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:05:51.4321197+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:06:27.5534511+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:57:22.2969631+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:05:51.4321638+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:57:20.012415+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:06:27.5534897+00:00"
 }

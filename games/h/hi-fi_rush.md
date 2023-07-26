@@ -38,11 +38,11 @@ Rating: 4.87 (Ranked 23)
 | Chip-tuned | 0.80% | ~29 |
 | Wanna hear my playlist? | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
-| I told you I'd be fine, Peppermint! | 0.60% | ~22 |
+| I told you I'd be fine, Peppermint! | 0.70% | ~25 |
 | Check out my moves! | 0.60% | ~22 |
+| New bad guys? No problem! | 0.50% | ~11 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
 | I think I found your calling, Macaron | 0.40% | ~14 |
-| New bad guys? No problem! | 0.40% | ~8 |
 | This is a breeze! | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |

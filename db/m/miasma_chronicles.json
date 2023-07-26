@@ -5,9 +5,9 @@
   "Ranking_Rating": 692,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 181,
+  "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2539,9 +2539,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 428
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2948,8 +2948,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:04:18.4231378+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:04:30.5958355+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:45.521151+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:04:18.4232098+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:59:03.4198516+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:04:30.5958931+00:00"
 }

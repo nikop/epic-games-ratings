@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215807,
+  "EOS_Progressed": 215817,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2294,
   "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15744,6 +15744,11 @@
       "Time": "2023-07-26T22:03:08.0895726+00:00",
       "NumProgressed": 215807,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-07-26T23:02:22.8627278+00:00",
+      "NumProgressed": 215817,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 512,
@@ -15827,7 +15832,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "objective_completed_1051",
@@ -16459,7 +16464,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "objective_completed_1169",
@@ -17097,9 +17102,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_209",
@@ -19827,7 +19832,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "objective_completed_1391",
@@ -19850,21 +19855,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182081,
+      "Progressed": 182091,
       "Completed": 3006
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215807,
+      "Progressed": 215817,
       "Completed": 2119
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-26T22:03:08.089572+00:00",
+  "LastChanged_Achievements": "2023-07-26T23:02:22.862727+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T21:58:38.109266+00:00",
-  "LastUpdate_Achievements": "2023-07-26T22:03:08.0928445+00:00"
+  "LastUpdate_Ratings": "2023-07-26T22:58:55.1318256+00:00",
+  "LastUpdate_Achievements": "2023-07-26T23:02:22.865041+00:00"
 }
