@@ -422,7 +422,7 @@
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 364 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 299 | 233 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 998 | 144 |
-| 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 704 | 163 |
+| 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 705 | 163 |
 | 412 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 214 | 263 |
 | 425 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 506 |
 | 425 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,358 | 11 |
@@ -706,7 +706,7 @@
 | 704 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 506 |
 | 704 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,008 | 143 |
 | 704 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 506 |
-| 704 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,731 | 32 |
+| 704 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,732 | 32 |
 | 704 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 506 |
 | 704 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
 | 704 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 100 | 331 |

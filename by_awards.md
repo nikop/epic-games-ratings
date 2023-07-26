@@ -31,7 +31,7 @@
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,595 | 4.36 | 732 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,500 | 4.42 | 662 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,197 | 4.86 | 29 |
-| 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,731 | 4.39 | 704 |
+| 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,732 | 4.39 | 704 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,325 | 4.69 | 215 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,939 | 4.45 | 624 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,796 | 4.88 | 18 |
@@ -162,7 +162,7 @@
 | 160 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 737 | 4.78 | 100 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 737 | 4.50 | 556 |
 | 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 708 | 4.87 | 23 |
-| 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 704 | 4.59 | 412 |
+| 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 705 | 4.59 | 412 |
 | 164 | [Neverwinter](games/n/neverwinter.md) | 702 | 4.30 | 778 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 682 | 4.60 | 394 |
 | 166 | [Neon Abyss](games/n/neon_abyss.md) | 678 | 4.68 | 241 |
