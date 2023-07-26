@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~26 |
-| Tinkerer | 57.00% | ~17 |
-| Welcome to the Club | 33.00% | ~10 |
-| A new World ahead | 27.00% | ~8 |
+| Self-Defence | 87.00% | ~27 |
+| Tinkerer | 55.00% | ~17 |
+| Welcome to the Club | 32.00% | ~10 |
+| A new World ahead | 26.00% | ~8 |
 | Don't Cry Wolf | 23.00% | ~7 |
-| Can't touch this | 20.00% | ~6 |
-| Apprentice | 17.00% | ~5 |
+| Can't touch this | 23.00% | ~7 |
+| Apprentice | 16.00% | ~5 |
 | Freezing Cold | 10.00% | ~3 |
-| Bringing guns to a sword fight | 7.00% | ~2 |
-| Searing Heat | 7.00% | ~2 |
-| Through Dangers Untold | 7.00% | ~2 |
-| Locked and Loaded | 7.00% | ~2 |
-| The Golden Flash | 7.00% | ~2 |
-| The Power of the Mountains | 7.00% | ~2 |
-| Changing the World | 7.00% | ~2 |
+| Through Dangers Untold | 10.00% | ~3 |
+| The Golden Flash | 10.00% | ~3 |
+| The Power of the Mountains | 10.00% | ~3 |
+| Changing the World | 10.00% | ~3 |
+| Bringing guns to a sword fight | 6.00% | ~2 |
+| Searing Heat | 6.00% | ~2 |
+| Locked and Loaded | 6.00% | ~2 |
+| Nothing but the Truth | 6.00% | ~2 |
 | Mirror, Mirror on the Wall | 3.00% | ~1 |
 | Sponsor | 3.00% | ~1 |
 | Defeat Ingla | 3.00% | ~1 |
 | Defeat Tezuth | 3.00% | ~1 |
 | Defeat Uskol | 3.00% | ~1 |
-| Nothing but the Truth | 3.00% | ~1 |
 | Finally! | 3.00% | ~1 |
 | The End | 3.00% | ~1 |
 | But what of the Acreans? | 3.00% | ~1 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 373)  
+Progressed: 31 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 25 | 0 |
 | 2023-07-24 | 28 | 0 |
 | 2023-07-25 | 30 | 0 |
+| 2023-07-26 | 31 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

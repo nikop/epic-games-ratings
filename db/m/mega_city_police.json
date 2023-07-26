@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -25,9 +25,219 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-26T06:05:38.0002826+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BLAST_APART_100",
+      "SetID": "a2aifpa",
+      "Name": "Gibbing Love",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BOSSES_100",
+      "SetID": "a2aifpa",
+      "Name": "Head of the Snake",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BURN_50",
+      "SetID": "a2aifpa",
+      "Name": "Barbecue Time",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CAR_KILLS_5",
+      "SetID": "a2aifpa",
+      "Name": "Vehicular Mayhem",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COLLECTABLES_10",
+      "SetID": "a2aifpa",
+      "Name": "Vintage Collector",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_1",
+      "SetID": "a2aifpa",
+      "Name": "Welcome to Mega City",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DECAPITATE_50",
+      "SetID": "a2aifpa",
+      "Name": "Losing your Head",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DIFFICULTY_01",
+      "SetID": "a2aifpa",
+      "Name": "Lieutenant",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DIFFICULTY_02",
+      "SetID": "a2aifpa",
+      "Name": "Captain",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DIFFICULTY_03",
+      "SetID": "a2aifpa",
+      "Name": "Chief",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DISINTEGRATE_100",
+      "SetID": "a2aifpa",
+      "Name": "Dust to Dust",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ELECTROCUTE_100",
+      "SetID": "a2aifpa",
+      "Name": "Feel the Spark",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENEMIES_1000",
+      "SetID": "a2aifpa",
+      "Name": "Overkill",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLAWLESS_BOSS",
+      "SetID": "a2aifpa",
+      "Name": "Flawless Victory",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IMPALE_100",
+      "SetID": "a2aifpa",
+      "Name": "The Hunt",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IRRADIATE_100",
+      "SetID": "a2aifpa",
+      "Name": "For Science",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_01",
+      "SetID": "a2aifpa",
+      "Name": "Law and Order",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_02",
+      "SetID": "a2aifpa",
+      "Name": "Hammer Time",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_03",
+      "SetID": "a2aifpa",
+      "Name": "Escape From M.C.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_04",
+      "SetID": "a2aifpa",
+      "Name": "Restore Honor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_05",
+      "SetID": "a2aifpa",
+      "Name": "Bring Down the Corp",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MONEY_1000000",
+      "SetID": "a2aifpa",
+      "Name": "Millionaire",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKINS_10",
+      "SetID": "a2aifpa",
+      "Name": "Fashionista",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPEEDRUN_15",
+      "SetID": "a2aifpa",
+      "Name": "Speedrunner",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THROW_KILLS_50",
+      "SetID": "a2aifpa",
+      "Name": "Knife Juggler",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TUTORIAL",
+      "SetID": "a2aifpa",
+      "Name": "Licence To Kill",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a2aifpa",
@@ -37,8 +247,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:05:05.3624665+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:05:38.0002806+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.5663951+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:49.2510765+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:05:05.3624693+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:59:24.2625876+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:05:38.0003033+00:00"
 }

@@ -6,50 +6,50 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 71.00% | ~240,084 |
-| Full garage | 58.00% | ~196,125 |
-| To the eyeballs! | 49.00% | ~165,692 |
-| Individual delivery | 44.00% | ~148,785 |
-| Non-Stop | 43.00% | ~145,403 |
-| Juggler | 34.00% | ~114,970 |
-| Forgot something | 33.00% | ~111,589 |
-| Close call! | 28.00% | ~94,681 |
-| Get out my way | 26.00% | ~87,918 |
-| Common cause | 24.00% | ~81,155 |
-| Critical care | 23.00% | ~77,774 |
-| Mega-railroad | 21.00% | ~71,011 |
-| Upgrade complete | 21.00% | ~71,011 |
-| Just in time! | 16.00% | ~54,104 |
-| Builder | 15.00% | ~50,722 |
-| Steam Age | 14.00% | ~47,341 |
-| Long Haul | 14.00% | ~47,248 |
-| Bridgemania | 12.00% | ~40,578 |
-| Multilevel road | 12.00% | ~40,578 |
-| Need to think | 12.00% | ~40,578 |
-| The Tortoise | 11.00% | ~37,196 |
-| Without a lunch break | 9.00% | ~30,433 |
-| Beginner | 8.00% | ~27,052 |
-| Relocation | 8.00% | ~27,052 |
-| One way | 7.00% | ~23,670 |
-| Industrial Age | 6.00% | ~20,289 |
-| Prick of conscience | 6.00% | ~20,289 |
-| Just One More Valley | 6.00% | ~20,249 |
-| At the last moment! | 5.00% | ~16,907 |
-| Highlander | 4.00% | ~13,526 |
-| Missed it! | 4.00% | ~13,526 |
-| Jewelry accuracy | 3.00% | ~10,144 |
-| Overseer | 3.00% | ~10,144 |
-| Bridge builder | 2.00% | ~6,763 |
-| Electrical Age | 2.00% | ~6,763 |
-| Large construction | 2.00% | ~6,763 |
-| Squander | 2.00% | ~6,763 |
-| Stargazer | 2.00% | ~6,763 |
-| Engineer | 1.00% | ~3,381 |
-| Sabotage | 1.00% | ~3,381 |
-| The Hare | 1.00% | ~3,381 |
-| Living it large | 0.90% | ~3,043 |
-| Woodcutter | 0.90% | ~3,043 |
-| Test Batch | 0.90% | ~3,037 |
+| Dealmaker | 71.00% | ~240,126 |
+| Full garage | 58.00% | ~196,159 |
+| To the eyeballs! | 49.00% | ~165,721 |
+| Individual delivery | 44.00% | ~148,811 |
+| Non-Stop | 43.00% | ~145,429 |
+| Juggler | 34.00% | ~114,990 |
+| Forgot something | 33.00% | ~111,608 |
+| Close call! | 28.00% | ~94,698 |
+| Get out my way | 26.00% | ~87,934 |
+| Common cause | 24.00% | ~81,169 |
+| Critical care | 23.00% | ~77,787 |
+| Mega-railroad | 21.00% | ~71,023 |
+| Upgrade complete | 21.00% | ~71,023 |
+| Just in time! | 16.00% | ~54,113 |
+| Builder | 15.00% | ~50,731 |
+| Steam Age | 14.00% | ~47,349 |
+| Long Haul | 14.00% | ~47,257 |
+| Bridgemania | 12.00% | ~40,585 |
+| Multilevel road | 12.00% | ~40,585 |
+| Need to think | 12.00% | ~40,585 |
+| The Tortoise | 11.00% | ~37,203 |
+| Without a lunch break | 9.00% | ~30,439 |
+| Beginner | 8.00% | ~27,056 |
+| Relocation | 8.00% | ~27,056 |
+| One way | 7.00% | ~23,674 |
+| Industrial Age | 6.00% | ~20,292 |
+| Prick of conscience | 6.00% | ~20,292 |
+| Just One More Valley | 6.00% | ~20,253 |
+| At the last moment! | 5.00% | ~16,910 |
+| Highlander | 4.00% | ~13,528 |
+| Missed it! | 4.00% | ~13,528 |
+| Jewelry accuracy | 3.00% | ~10,146 |
+| Overseer | 3.00% | ~10,146 |
+| Bridge builder | 2.00% | ~6,764 |
+| Electrical Age | 2.00% | ~6,764 |
+| Large construction | 2.00% | ~6,764 |
+| Squander | 2.00% | ~6,764 |
+| Stargazer | 2.00% | ~6,764 |
+| Engineer | 1.00% | ~3,382 |
+| Sabotage | 1.00% | ~3,382 |
+| The Hare | 1.00% | ~3,382 |
+| Living it large | 0.90% | ~3,044 |
+| Woodcutter | 0.90% | ~3,044 |
+| Test Batch | 0.90% | ~3,038 |
 | Will work | 0.70% | ~2,367 |
 | Astronomer | 0.60% | ~2,029 |
 | Globalisation Age | 0.50% | ~1,691 |
@@ -57,46 +57,46 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 0.50% | ~1,691 |
 | Innovator | 0.40% | ~1,353 |
 | Ouroboros | 0.40% | ~1,353 |
-| Occupied! | 0.30% | ~1,012 |
+| Occupied! | 0.30% | ~1,013 |
 | Metro builder | 0.20% | ~676 |
 | The Hare with an espresso | 0.20% | ~676 |
 | Achiever | 0.10% | ~338 |
 | Alchemist | 0.10% | ~338 |
-| Arcturus | 0.10% | ~337 |
-| Astrochemist | 0.10% | ~337 |
+| Arcturus | 0.10% | ~338 |
+| Astrochemist | 0.10% | ~338 |
 | Astrophysicist | 0.10% | ~338 |
-| Atomic Age | 0.10% | ~337 |
+| Atomic Age | 0.10% | ~338 |
 | BBQ | 0.10% | ~338 |
-| Digital Age | 0.10% | ~337 |
+| Digital Age | 0.10% | ~338 |
 | Environmental activist | 0.10% | ~338 |
 | Forgotten | 0.10% | ~338 |
-| Gemologist | 0.10% | ~337 |
-| Information Age | 0.10% | ~337 |
+| Gemologist | 0.10% | ~338 |
+| Information Age | 0.10% | ~338 |
 | It's no coincidence | 0.10% | ~338 |
-| Jeweller | 0.10% | ~337 |
-| Miner | 0.10% | ~337 |
+| Jeweller | 0.10% | ~338 |
+| Miner | 0.10% | ~338 |
 | Miscalculation | 0.10% | ~338 |
-| Pink Ruby | 0.10% | ~337 |
+| Pink Ruby | 0.10% | ~338 |
 | Railroad tycoon | 0.10% | ~338 |
 | Space Age | 0.10% | ~338 |
-| Star Sapphire | 0.10% | ~337 |
+| Star Sapphire | 0.10% | ~338 |
 | Tourism Age | 0.10% | ~338 |
-| Trapiche Emerald | 0.10% | ~337 |
+| Trapiche Emerald | 0.10% | ~338 |
 | Urbanization Age | 0.10% | ~338 |
-| Vostok | 0.10% | ~337 |
+| Vostok | 0.10% | ~338 |
 | Voyager | 0.10% | ~338 |
-| Across The Infinite | 0.10% | ~337 |
-| Knowing The Ropes | 0.10% | ~337 |
-| Maiden Voyage | 0.10% | ~337 |
-| Mass Production | 0.10% | ~337 |
-| Open Sesame! | 0.10% | ~337 |
-| Please Come Back Later | 0.10% | ~337 |
-| Running A Tight Ship | 0.10% | ~337 |
-| The Explorer | 0.10% | ~337 |
-| Whoooosh! | 0.10% | ~337 |
-| World Zapper | 0.10% | ~337 |
+| Across The Infinite | 0.10% | ~338 |
+| Knowing The Ropes | 0.10% | ~338 |
+| Maiden Voyage | 0.10% | ~338 |
+| Mass Production | 0.10% | ~338 |
+| Open Sesame! | 0.10% | ~338 |
+| Please Come Back Later | 0.10% | ~338 |
+| Running A Tight Ship | 0.10% | ~338 |
+| The Explorer | 0.10% | ~338 |
+| Whoooosh! | 0.10% | ~338 |
+| World Zapper | 0.10% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,147 (Ranked 40)  
+Progressed: 338,206 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.00%) (Ranked 242)
 | 2023-07-23 | 330,700 | 4 |
 | 2023-07-24 | 334,441 | 4 |
 | 2023-07-25 | 337,597 | 4 |
-| 2023-07-26 | 338,147 | 4 |
+| 2023-07-26 | 338,206 | 4 |
 ## Awards
 Max (Challenging Puzzles): 142  (Ranked 296)  
 Sum: 205 (Ranked 360)  

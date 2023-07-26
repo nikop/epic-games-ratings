@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.20% | ~266 |
-| Basic in Bulk | 0.20% | ~266 |
-| Tinkle of Coins | 0.20% | ~266 |
-| Titan's First Steps | 0.20% | ~266 |
+| Sponsored by Argon | 0.20% | ~267 |
+| Basic in Bulk | 0.20% | ~267 |
+| Tinkle of Coins | 0.20% | ~267 |
+| Titan's First Steps | 0.20% | ~267 |
 | The Daily Grind | 0.10% | ~133 |
 | On the Path to Greatness | 0.10% | ~133 |
 | A Notch Above the Rest | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,249 (Ranked 61)  
+Progressed: 133,251 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 122 (0.09%) (Ranked 193)
 | 2023-07-23 | 133,125 | 122 |
 | 2023-07-24 | 133,181 | 122 |
 | 2023-07-25 | 133,231 | 122 |
-| 2023-07-26 | 133,249 | 122 |
+| 2023-07-26 | 133,251 | 122 |
 ## Awards
 Max (Great for Beginners): 4,671  (Ranked 69)  
 Sum: 26,982 (Ranked 46)  

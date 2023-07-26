@@ -1,7 +1,7 @@
 # Baldur's Gate II: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/baldurs-gate-2-enhanced-edition)  
 [View Rawdata](../../db/b/baldur's_gate_ii__enhanced_edition.json)  
-Rating: 4.92 (Ranked 4)  
+Rating: 4.85 (Ranked 40)  
 Number of Ratings: 29  (23.09.2022)  
 ## Awards
 Max (Character Customization): 21  (Ranked 494)  
@@ -36,3 +36,4 @@ Diff (max vs sum): 0
 | 2023-04-20 | 4.91 | - | 20 | 20 |
 | 2023-06-02 | 4.92 | - | 20 | 20 |
 | 2023-06-25 | 4.92 | - | 21 | 21 |
+| 2023-07-26 | 4.85 | - | 21 | 21 |

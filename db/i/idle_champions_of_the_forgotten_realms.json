@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5290,9 +5290,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215589,
+  "EOS_Progressed": 215598,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2317,
+  "EOS_NewPlayers": 2320,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15640,6 +15640,11 @@
       "Time": "2023-07-26T05:00:21.0845607+00:00",
       "NumProgressed": 215589,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T06:00:58.598816+00:00",
+      "NumProgressed": 215598,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -16353,9 +16358,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 1091
     },
     {
       "ID": "objective_completed_1169",
@@ -16753,9 +16758,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_149",
@@ -17025,9 +17030,9 @@
       "ID": "objective_completed_211",
       "SetID": "cc37lbc",
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_213",
@@ -19746,21 +19751,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181863,
+      "Progressed": 181872,
       "Completed": 2989
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215589,
+      "Progressed": 215598,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T03:58:32.9376809+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:00:21.0845601+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:00:58.5988156+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:16.0133987+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:00:21.0872224+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:58:50.5068967+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:00:58.6020092+00:00"
 }

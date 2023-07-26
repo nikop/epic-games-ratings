@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
+| Patrons | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
@@ -75,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
+| Learn to Play 3 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Manichaeism | 0.20% | ~26 |
@@ -140,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
-| Patrons | 0.10% | ~13 |
 | Riders | 0.10% | ~13 |
 | Traders | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
-| Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
 | Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,094 (Ranked 115)  
+Progressed: 13,095 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,094 | 5 |
+| 2023-07-26 | 13,095 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5484,9 +5484,9 @@
       "Count": 565
     }
   ],
-  "EOS_Progressed": 288584,
+  "EOS_Progressed": 288586,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15864,6 +15864,11 @@
       "Time": "2023-07-26T05:04:20.2813123+00:00",
       "NumProgressed": 288584,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-26T06:04:53.672229+00:00",
+      "NumProgressed": 288586,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15995,7 +16000,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28858
+      "UsersEstimate": 28859
     },
     {
       "ID": "PFA_24",
@@ -16211,7 +16216,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28858
+      "UsersEstimate": 28859
     },
     {
       "ID": "PFA_8",
@@ -16234,7 +16239,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288584,
+      "Progressed": 288586,
       "Completed": 434
     }
   ],
@@ -16242,8 +16247,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-26T04:57:40.2876485+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:04:20.2813119+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:04:53.6722288+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:57:40.287649+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:04:20.2814205+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:58:17.3787979+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:04:53.6723359+00:00"
 }

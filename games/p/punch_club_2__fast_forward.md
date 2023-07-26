@@ -17,23 +17,23 @@
 | Employee of the week | 76.00% | ~116 |
 | Your own amateur gym | 72.00% | ~109 |
 | Run K, run! | 72.00% | ~109 |
+| Hello, world! | 67.00% | ~102 |
 | No bullying more | 66.00% | ~100 |
-| Hello, world! | 66.00% | ~100 |
 | Fighting is cool | 64.00% | ~97 |
 | Intriguing candies | 61.00% | ~93 |
+| Employee of the month | 60.00% | ~91 |
 | Pal of your father? | 59.00% | ~90 |
-| Employee of the month | 59.00% | ~90 |
 | Spirit of the past | 56.00% | ~85 |
+| Workout professional | 53.00% | ~81 |
 | Little hacker | 53.00% | ~81 |
-| Workout professional | 52.00% | ~79 |
-| Law student | 52.00% | ~79 |
+| Law student | 53.00% | ~81 |
 | Your own way | 51.00% | ~78 |
 | Champion – starter pack | 48.00% | ~73 |
 | Fight for life | 47.00% | ~71 |
 | Employee of the year | 47.00% | ~71 |
-| It's good to be alive | 45.00% | ~68 |
+| It's good to be alive | 46.00% | ~70 |
+| Handyman | 45.00% | ~68 |
 | Own four walls | 45.00% | ~68 |
-| Handyman | 44.00% | ~67 |
 | Extreme neuropower! | 43.00% | ~65 |
 | Legal courier | 39.00% | ~59 |
 | Now you are worthy | 36.00% | ~55 |
@@ -41,18 +41,18 @@
 | Guiding on the right path | 32.00% | ~49 |
 | No blades in the gym | 31.00% | ~47 |
 | Mysterious voice | 30.00% | ~46 |
+| Responsible approach | 29.00% | ~44 |
 | Fight is life | 28.00% | ~43 |
-| Responsible approach | 28.00% | ~43 |
 | Champion – no way back | 26.00% | ~40 |
 | Get out of my apartment! | 26.00% | ~40 |
+| Deal with life | 25.00% | ~38 |
 | Mom got better | 24.00% | ~36 |
-| Deal with life | 24.00% | ~36 |
 | Poisoned fighter | 24.00% | ~36 |
 | The die is cast | 24.00% | ~36 |
 | Underground dwellers | 24.00% | ~36 |
 | Seashell hunter | 24.00% | ~36 |
+| GYM professional | 23.00% | ~35 |
 | Gang wrangler | 22.00% | ~33 |
-| GYM professional | 22.00% | ~33 |
 | Anyone can resist | 22.00% | ~33 |
 | Problems of cyborgs | 21.00% | ~32 |
 | The last bell ring | 20.00% | ~30 |

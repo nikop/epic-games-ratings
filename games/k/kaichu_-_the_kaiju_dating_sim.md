@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everything's Coming Up Gigachu | 91.00% | ~30 |
-| Cyber Bully | 73.00% | ~24 |
-| Loving Commute | 64.00% | ~21 |
-| Love is in Bloom | 39.00% | ~13 |
-| Royal Romance | 39.00% | ~13 |
-| Friendzoned | 36.00% | ~12 |
+| Everything's Coming Up Gigachu | 88.00% | ~30 |
+| Cyber Bully | 71.00% | ~24 |
+| Loving Commute | 62.00% | ~21 |
+| Love is in Bloom | 38.00% | ~13 |
+| Royal Romance | 38.00% | ~13 |
+| Friendzoned | 35.00% | ~12 |
 | Love is in the Air | 24.00% | ~8 |
 | Speed Dating | 24.00% | ~8 |
 | Spread the Love | 24.00% | ~8 |
@@ -20,8 +20,8 @@
 | Polyamorousasaurus | 15.00% | ~5 |
 | Loved and Lost | 12.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 370)  
-Completed: 4 (12.12%) (Ranked 15)  
+Progressed: 34 (Ranked 369)  
+Completed: 4 (11.76%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -37,6 +37,7 @@ Completed: 4 (12.12%) (Ranked 15)
 | 2023-06-13 | 31 | 4 |
 | 2023-07-18 | 32 | 4 |
 | 2023-07-23 | 33 | 4 |
+| 2023-07-26 | 34 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

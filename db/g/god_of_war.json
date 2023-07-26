@@ -2,13 +2,13 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -3201,6 +3201,6 @@
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
   "LastChanged": "2023-07-25T17:02:44.4673342+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:43.1219174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:59:35.7669607+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:05:27.508116+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:00:11.6753483+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:05:59.3573521+00:00"
 }

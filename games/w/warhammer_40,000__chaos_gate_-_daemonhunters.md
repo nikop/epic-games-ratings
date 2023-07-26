@@ -6,13 +6,14 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Look Over There! | 0.40% | ~12 |
+| Look Over There! | 0.50% | ~15 |
+| An Ill Omen | 0.50% | ~15 |
 | Not So Fast... | 0.40% | ~12 |
 | Executioner | 0.40% | ~12 |
 | Watch Where You Step... | 0.40% | ~12 |
-| An Ill Omen | 0.40% | ~12 |
-| Bloodless | 0.30% | ~9 |
+| Bloodless | 0.40% | ~12 |
 | Friendly Fire | 0.20% | ~6 |
+| Purging Spree | 0.20% | ~6 |
 | A Foul Creche | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
@@ -21,7 +22,6 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.10% | ~3 |
 | Blood for the Blood God! | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
-| Purging Spree | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Mind Like a Fortress | 0.10% | ~3 |
 | The Emperor Protects | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,035 (Ranked 153)  
+Progressed: 3,036 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,22 +167,22 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 3,018 | 0 |
 | 2023-07-24 | 3,024 | 0 |
 | 2023-07-25 | 3,031 | 0 |
-| 2023-07-26 | 3,035 | 0 |
+| 2023-07-26 | 3,036 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
-Sum: 452 (Ranked 304)  
-Diff (max vs sum): -41  
+Sum: 454 (Ranked 303)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |
 | This game is Extremely Fun | 32 |
 | This game has Amazing Storytelling | 30 |
+| This game is Highly Recommended | 30 |
 | This game has Amazing Characters | 29 |
-| This game is Highly Recommended | 29 |
 | This game has Challenging Combat | 27 |
 | This game has Competitive Players | 26 |
 | This game has Diverse Characters | 23 |
-| This game is Relaxing | 22 |
+| This game is Relaxing | 23 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -275,3 +275,4 @@ Diff (max vs sum): -41
 | 2023-07-12 | 4.59 | - | 214 | 450 |
 | 2023-07-13 | 4.59 | - | 214 | 451 |
 | 2023-07-24 | 4.59 | - | 214 | 452 |
+| 2023-07-26 | 4.59 | - | 214 | 454 |

@@ -2,13 +2,13 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3580,
+  "EOS_Progressed": 3581,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4697,6 +4697,11 @@
       "Time": "2023-07-26T04:03:50.3702548+00:00",
       "NumProgressed": 3580,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-26T06:04:13.9987451+00:00",
+      "NumProgressed": 3581,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5275,13 +5280,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3580,
+      "Progressed": 3581,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2101,
+      "Progressed": 2102,
       "Completed": 1928
     }
   ],
@@ -5289,8 +5294,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:03:39.864508+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:04:13.9987443+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:36.6327347+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:03:39.8646173+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:59:11.3087026+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:04:13.9988945+00:00"
 }

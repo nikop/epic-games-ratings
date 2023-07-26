@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1563,9 +1563,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13094,
+  "EOS_Progressed": 13095,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8528,6 +8528,11 @@
       "Time": "2023-07-26T03:05:29.9162127+00:00",
       "NumProgressed": 13094,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T06:05:50.3786706+00:00",
+      "NumProgressed": 13095,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9409,9 +9414,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -10073,9 +10078,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -10906,21 +10911,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13094,
+      "Progressed": 13095,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13094,
+      "Progressed": 13095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:05:17.976257+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:05:50.37867+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:05.2235905+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:05:17.9772172+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:58:41.2665046+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:05:50.379713+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -453,6 +453,11 @@
       "Time": "2023-07-26T03:03:30.9901956+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T06:03:43.8172967+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -472,7 +477,7 @@
       "Name": "In the bank",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "12",
@@ -496,7 +501,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "15",
@@ -512,7 +517,7 @@
       "Name": "American Legend",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
@@ -640,7 +645,7 @@
       "Name": "Ready to Mingle",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "31",
@@ -720,14 +725,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:03:29.3506057+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:03:43.8172962+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.6913323+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:26.7670912+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:03:29.3506345+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:59:01.4743442+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:03:43.8173281+00:00"
 }

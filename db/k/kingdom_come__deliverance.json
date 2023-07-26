@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6162,9 +6162,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794211,
+  "EOS_Progressed": 794212,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16592,6 +16592,11 @@
       "Time": "2023-07-26T05:03:38.8461722+00:00",
       "NumProgressed": 794211,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-26T06:04:13.0250351+00:00",
+      "NumProgressed": 794212,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -16635,7 +16640,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 166784
+      "UsersEstimate": 166785
     },
     {
       "ID": "BadGirl",
@@ -16683,7 +16688,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246205
+      "UsersEstimate": 246206
     },
     {
       "ID": "Bookworm",
@@ -16923,7 +16928,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103247
+      "UsersEstimate": 103248
     },
     {
       "ID": "Judas",
@@ -17258,15 +17263,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794211,
+      "Progressed": 794212,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-26T03:58:48.4543721+00:00",
-  "LastChanged_Achievements": "2023-07-26T05:03:38.8461719+00:00",
+  "LastChanged_Achievements": "2023-07-26T06:04:13.0250342+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.4287749+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:58:29.1781089+00:00",
-  "LastUpdate_Achievements": "2023-07-26T05:03:38.8463271+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:59:03.6663134+00:00",
+  "LastUpdate_Achievements": "2023-07-26T06:04:13.0253338+00:00"
 }
