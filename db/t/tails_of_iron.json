@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1798,
+  "EOS_Progressed": 1799,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2023-07-26T19:03:11.6565795+00:00",
       "NumProgressed": 1798,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-26T20:03:20.8858623+00:00",
+      "NumProgressed": 1799,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2160,7 +2165,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Collect20Iron",
@@ -2168,15 +2173,15 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1025
     },
     {
       "ID": "CollectAllStatues",
@@ -2184,7 +2189,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2224,7 +2229,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2232,7 +2237,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2264,7 +2269,7 @@
       "Name": "End of the Mozis",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2272,7 +2277,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2280,7 +2285,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -2288,7 +2293,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "GetRangedWeapon",
@@ -2328,7 +2333,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "MeetTheMoles",
@@ -2336,7 +2341,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2352,7 +2357,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "RepairSmith",
@@ -2360,7 +2365,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "RepairThroneRoom",
@@ -2368,7 +2373,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "RescueBrothers",
@@ -2384,29 +2389,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1798,
+      "Progressed": 1799,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 439,
-      "Completed": 439
+      "Progressed": 440,
+      "Completed": 440
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:03:11.6565791+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:03:20.8858612+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:59:31.0518758+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:03:11.6566066+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:50.1076416+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:03:20.8859063+00:00"
 }

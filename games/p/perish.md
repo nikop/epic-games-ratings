@@ -38,6 +38,7 @@
 | The Midas Touch | 2.00% | ~66 |
 | Hapax Legomenon | 2.00% | ~66 |
 | Don't Pay the Ferryman | 2.00% | ~66 |
+| Veneration of Hephaestus | 2.00% | ~66 |
 | Vandili | 2.00% | ~66 |
 | No Scylla in Sight | 2.00% | ~66 |
 | Cloaca Maxima | 2.00% | ~66 |
@@ -47,7 +48,6 @@
 | The Nameless One | 1.00% | ~33 |
 | Rule of Thirds | 1.00% | ~33 |
 | Pyr Demon | 1.00% | ~33 |
-| Veneration of Hephaestus | 1.00% | ~33 |
 | Biotechnology | 1.00% | ~33 |
 | The Archimedes Principle | 1.00% | ~33 |
 | Rites at Sea | 1.00% | ~33 |

@@ -6,29 +6,29 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~1,065 |
-| Lovebirds | 50.00% | ~674 |
-| Life’s short, ride long | 45.00% | ~607 |
-| Hug therapy | 44.00% | ~593 |
-| Over my dead body | 41.00% | ~553 |
-| Shake the rust off their feet | 21.00% | ~283 |
+| Balding bloot! | 79.00% | ~1,066 |
+| Lovebirds | 50.00% | ~675 |
+| Life’s short, ride long | 45.00% | ~608 |
+| Hug therapy | 44.00% | ~594 |
+| Over my dead body | 41.00% | ~554 |
+| Shake the rust off their feet | 21.00% | ~284 |
 | My little pony | 20.00% | ~270 |
 | Strike! | 19.00% | ~256 |
 | A love supreme | 19.00% | ~256 |
-| In my shoes | 17.00% | ~229 |
+| In my shoes | 17.00% | ~230 |
 | Like new! | 15.00% | ~202 |
-| Heartstrings | 14.00% | ~189 |
 | Head in the clouds | 14.00% | ~189 |
-| Don't look back | 13.00% | ~175 |
+| Don't look back | 13.00% | ~176 |
+| Heartstrings | 13.00% | ~176 |
 | Back to rust | 12.00% | ~162 |
 | Flower Powered | 12.00% | ~162 |
 | Perfect timing | 10.00% | ~135 |
 | Unstoppable | 10.00% | ~135 |
 | Self-sustainability | 8.00% | ~108 |
 | Ain't no mountain high enough | 8.00% | ~108 |
-| Can't get wetter... | 5.00% | ~67 |
-| Spring cleaning | 5.00% | ~67 |
-| An eye for an eye | 5.00% | ~67 |
+| Can't get wetter... | 5.00% | ~68 |
+| Spring cleaning | 5.00% | ~68 |
+| An eye for an eye | 5.00% | ~68 |
 | Second thoughts | 4.00% | ~54 |
 | Mooning the moon | 4.00% | ~54 |
 | Strip-a-bobble | 4.00% | ~54 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~27 |
 | À la carte | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348 (Ranked 178)  
+Progressed: 1,350 (Ranked 178)  
 Completed: 9 (0.67%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 9 (0.67%) (Ranked 117)
 | 2023-07-23 | 1,340 | 9 |
 | 2023-07-24 | 1,342 | 9 |
 | 2023-07-25 | 1,346 | 9 |
-| 2023-07-26 | 1,348 | 9 |
+| 2023-07-26 | 1,350 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

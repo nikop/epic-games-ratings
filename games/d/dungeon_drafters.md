@@ -24,6 +24,8 @@
 | No Stone Unturned | 6.00% | ~4 |
 | Traveler Mastery | 5.00% | ~3 |
 | The Plot Thickens | 5.00% | ~3 |
+| The False Prophet | 5.00% | ~3 |
+| Sealed Once Again | 5.00% | ~3 |
 | Best Pupil | 3.00% | ~2 |
 | Oracle Mastery | 3.00% | ~2 |
 | FOR JUSTICE! | 3.00% | ~2 |
@@ -37,8 +39,6 @@
 | The Usurper | 3.00% | ~2 |
 | First time? | 3.00% | ~2 |
 | Harmony | 3.00% | ~2 |
-| The False Prophet | 3.00% | ~2 |
-| Sealed Once Again | 3.00% | ~2 |
 | A New Tomorrow | 3.00% | ~2 |
 | ACHOO! | 3.00% | ~2 |
 | The New Demon Lord | 2.00% | ~1 |

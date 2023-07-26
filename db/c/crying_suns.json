@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463832,
+  "EOS_Progressed": 463834,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10537,6 +10537,11 @@
       "Time": "2023-07-26T19:04:13.9301409+00:00",
       "NumProgressed": 463832,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-26T20:04:07.05585+00:00",
+      "NumProgressed": 463834,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10548,7 +10553,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -10572,7 +10577,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -10668,7 +10673,7 @@
       "Name": "Mother",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -10724,7 +10729,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -10996,7 +11001,7 @@
       "Name": "Plan for the worst",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -11060,7 +11065,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -11179,21 +11184,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7766,
+      "Progressed": 7768,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463832,
+      "Progressed": 463834,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:13.9301405+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:07.0558494+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:00:53.381807+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:13.9302554+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:59:39.9606233+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:07.0560217+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,315 |
-| Beast Intentions | 2.00% | ~4,315 |
+| A Brief Tour of the Realms | 2.00% | ~4,316 |
+| Beast Intentions | 2.00% | ~4,316 |
 | Maddening | 1.00% | ~2,158 |
 | The Silken Swamp | 1.00% | ~2,158 |
 | Supply Run | 0.90% | ~1,942 |
-| Rocky Reception | 0.90% | ~1,638 |
+| Rocky Reception | 0.90% | ~1,639 |
 | Rock and Roll | 0.80% | ~1,456 |
 | Vecna Lives! | 0.70% | ~1,274 |
+| Flight of the Kindori Pod | 0.70% | ~1,274 |
 | Tall Tales | 0.60% | ~1,092 |
 | Vecna Loots! | 0.60% | ~1,092 |
-| Flight of the Kindori Pod | 0.60% | ~1,092 |
 | Topolah's Tower | 0.60% | ~1,092 |
 | Pros and CONs | 0.50% | ~1,079 |
 | Wet Feet | 0.50% | ~1,079 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~863 |
 | Building Trust | 0.40% | ~863 |
 | Unearthed Evil | 0.40% | ~863 |
+| No Time To Rest | 0.40% | ~863 |
 | The Dinner Party | 0.40% | ~863 |
 | Not That Type of Helm! | 0.40% | ~728 |
 | Calcryx Tricks | 0.40% | ~728 |
@@ -50,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.30% | ~546 |
 | Hither of the Feywild | 0.30% | ~546 |
 | Speeds of Destruction | 0.30% | ~546 |
+| Owlbear Necessities | 0.30% | ~546 |
 | On the Hunt | 0.30% | ~647 |
 | Best Thay Ever | 0.30% | ~546 |
 | A Demi-god's Defender | 0.30% | ~546 |
@@ -59,7 +61,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
 | Wisdom Check | 0.30% | ~647 |
-| No Time To Rest | 0.30% | ~647 |
 | The Mists of Ravenloft | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
 | Family Entanglements | 0.30% | ~647 |
@@ -86,7 +87,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~364 |
 | Will of the Feywild | 0.20% | ~364 |
 | The Roots of Loomlurch | 0.20% | ~364 |
-| Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Overwhelmed with Knowledge | 0.20% | ~364 |
 | Well Equipped | 0.20% | ~364 |
@@ -126,8 +126,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~432 |
 | The Death Curse | 0.20% | ~432 |
 | Seeking Allies | 0.20% | ~432 |
+| Nimble Escape | 0.20% | ~432 |
 | Are Ya Chicken? | 0.20% | ~432 |
 | Useless Allies | 0.20% | ~432 |
+| Fugitives | 0.20% | ~432 |
 | Premature Betrayal | 0.20% | ~432 |
 | Mad Cow Disease | 0.20% | ~432 |
 | Exploring Port Nyanzaru | 0.20% | ~432 |
@@ -290,11 +292,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~216 |
 | Late Game | 0.10% | ~216 |
 | Shadowfell Stalwarts | 0.10% | ~182 |
-| Nimble Escape | 0.10% | ~216 |
 | Nimblest Escape | 0.10% | ~216 |
 | Stumbling Escape | 0.10% | ~216 |
 | Distracted Escape | 0.10% | ~182 |
-| Fugitives | 0.10% | ~216 |
 | From The Shadows | 0.10% | ~216 |
 | Spined Nuisances | 0.10% | ~216 |
 | Twilight Twist | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,766 (Ranked 53)  
-Completed: 2,116 (0.98%) (Ranked 107)  
+Progressed: 215,783 (Ranked 53)  
+Completed: 2,117 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,16 +616,16 @@ Completed: 2,116 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,766 | 2,116 |
+| 2023-07-26 | 215,783 | 2,117 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
-Sum: 30,742 (Ranked 38)  
+Sum: 30,745 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,084 |
 | This game is Great for Beginners | 5,023 |
-| This game has Quickly Understood Controls | 4,682 |
+| This game has Quickly Understood Controls | 4,685 |
 | This game is Relaxing | 4,574 |
 | This game has Amazing Characters | 4,034 |
 | This game is Highly Recommended | 4,024 |
@@ -814,4 +814,4 @@ Diff (max vs sum): 28
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
-| 2023-07-26 | 4.05 | - | 5,084 | 30,742 |
+| 2023-07-26 | 4.05 | - | 5,084 | 30,745 |

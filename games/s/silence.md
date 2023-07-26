@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 48.00% | ~45 |
-| Fire in the... nevermind | 48.00% | ~45 |
-| Haute cuisine | 45.00% | ~42 |
+| Chapter I | 47.00% | ~45 |
+| Fire in the... nevermind | 47.00% | ~45 |
+| Haute cuisine | 44.00% | ~42 |
 | I didn't do it! | 40.00% | ~38 |
 | Keep away from children | 36.00% | ~34 |
 | Artistic fool | 35.00% | ~33 |
 | Demolition expert | 35.00% | ~33 |
 | Wooooooow! | 34.00% | ~32 |
 | Chapter II | 31.00% | ~29 |
-| Achoo!! | 30.00% | ~28 |
-| Let the boot talk | 29.00% | ~27 |
-| Open up wide | 29.00% | ~27 |
-| Chapter III | 29.00% | ~27 |
-| Like a moth in the Wind | 29.00% | ~27 |
+| Achoo!! | 29.00% | ~28 |
+| Let the boot talk | 28.00% | ~27 |
+| Open up wide | 28.00% | ~27 |
+| Chapter III | 28.00% | ~27 |
+| Like a moth in the Wind | 28.00% | ~27 |
 | Bubblekillerfamily | 24.00% | ~23 |
 | Mirror mirror on the wall... | 24.00% | ~23 |
 | Fastidious Clown | 23.00% | ~22 |
@@ -33,10 +33,10 @@
 | To err is human... | 12.00% | ~11 |
 | Nothing can stop me | 12.00% | ~11 |
 | Mumbo Jumbo | 11.00% | ~10 |
-| Useless but beautiful | 10.00% | ~9 |
-| Lollipop | 10.00% | ~9 |
-| It's nothing personal | 10.00% | ~9 |
-| Where there is life, there is hope | 9.00% | ~8 |
+| Useless but beautiful | 9.00% | ~9 |
+| Lollipop | 9.00% | ~9 |
+| It's nothing personal | 9.00% | ~9 |
+| Where there is life, there is hope | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
 | Sadist | 5.00% | ~5 |
 | The hands of a healer | 5.00% | ~5 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 312)  
+Progressed: 95 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-08 | 92 | 0 |
 | 2023-07-12 | 93 | 0 |
 | 2023-07-16 | 94 | 0 |
+| 2023-07-26 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

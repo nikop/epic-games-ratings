@@ -5,9 +5,9 @@ Rating: 4.87 (Ranked 23)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 4.00% | ~143 |
-| Feeling the beat! | 4.00% | ~143 |
-| You can pet the cat! | 4.00% | ~143 |
+| Start with a bang! | 4.00% | ~144 |
+| Feeling the beat! | 4.00% | ~144 |
+| You can pet the cat! | 4.00% | ~144 |
 | Cream of the Crop | 3.00% | ~108 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~108 |
 | I play my own way! | 3.00% | ~108 |
@@ -36,8 +36,8 @@ Rating: 4.87 (Ranked 23)
 | That's a lot of junk metal… | 1.00% | ~36 |
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.80% | ~29 |
+| Wanna hear my playlist? | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
-| Wanna hear my playlist? | 0.70% | ~25 |
 | I told you I'd be fine, Peppermint! | 0.60% | ~22 |
 | Check out my moves! | 0.60% | ~22 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,587 (Ranked 145)  
+Progressed: 3,588 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
-| 2023-07-26 | 3,587 | 6 |
+| 2023-07-26 | 3,588 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

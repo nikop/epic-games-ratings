@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -1624,8 +1624,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:02:39.3253882+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:00:58.0072663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:58:58.1929758+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:02:39.3254185+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:29.3731254+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:00:58.0073018+00:00"
 }

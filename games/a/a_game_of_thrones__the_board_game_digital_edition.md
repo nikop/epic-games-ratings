@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~7,830 |
-| Battering Crew | 20.00% | ~3,915 |
-| The Kingsroad | 18.00% | ~3,523 |
-| Well Stocked | 14.00% | ~2,740 |
-| Royal Fleet | 13.00% | ~2,545 |
+| Conqueror | 40.00% | ~7,833 |
+| Battering Crew | 20.00% | ~3,916 |
+| The Kingsroad | 18.00% | ~3,525 |
+| Well Stocked | 14.00% | ~2,741 |
+| Royal Fleet | 13.00% | ~2,546 |
 | The Kraken’s Grasp | 9.00% | ~1,762 |
-| Daggers in the Dark | 8.00% | ~1,566 |
-| Oathkeeper | 8.00% | ~1,566 |
-| Alliance | 8.00% | ~1,566 |
-| A Long Journey | 8.00% | ~1,566 |
-| Ours is the Fury | 7.00% | ~1,370 |
-| Winter is Coming | 7.00% | ~1,370 |
-| Influential | 7.00% | ~1,370 |
-| We Do Not Sow | 6.00% | ~1,174 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,174 |
-| Hear me Roar! | 6.00% | ~1,174 |
-| Defender of the Wall | 6.00% | ~1,174 |
+| Daggers in the Dark | 8.00% | ~1,567 |
+| Oathkeeper | 8.00% | ~1,567 |
+| Alliance | 8.00% | ~1,567 |
+| A Long Journey | 8.00% | ~1,567 |
+| Ours is the Fury | 7.00% | ~1,371 |
+| Winter is Coming | 7.00% | ~1,371 |
+| Influential | 7.00% | ~1,371 |
+| We Do Not Sow | 6.00% | ~1,175 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,175 |
+| Hear me Roar! | 6.00% | ~1,175 |
+| Defender of the Wall | 6.00% | ~1,175 |
 | Growing Strong | 5.00% | ~979 |
 | What is Dead may Never Die | 3.00% | ~587 |
 | The Swift | 3.00% | ~587 |
-| King in the North | 2.00% | ~391 |
+| King in the North | 2.00% | ~392 |
 | War of the Five Kings | 1.00% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,574 (Ranked 105)  
+Progressed: 19,582 (Ranked 105)  
 Completed: 40 (0.20%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 40 (0.20%) (Ranked 169)
 | 2023-07-23 | 19,317 | 40 |
 | 2023-07-24 | 19,412 | 40 |
 | 2023-07-25 | 19,502 | 40 |
-| 2023-07-26 | 19,574 | 40 |
+| 2023-07-26 | 19,582 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 309)  
 Sum: 785 (Ranked 260)  

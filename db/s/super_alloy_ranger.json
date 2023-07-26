@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_02",
@@ -474,9 +474,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_26",
@@ -691,8 +691,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:56.2584866+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:38.8623881+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.3124838+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:01:44.3529664+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:56.2585226+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:00:17.124371+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:38.8624282+00:00"
 }

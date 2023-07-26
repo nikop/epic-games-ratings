@@ -27,13 +27,13 @@ Rating: 4.50 (Ranked 555)
 | Great Flight | 17.00% | ~70 |
 | Holy Vengeance | 16.00% | ~66 |
 | Honorary Cultist | 12.00% | ~49 |
+| Strength and Sorcery | 10.00% | ~41 |
 | Brain and Brawn | 10.00% | ~41 |
-| Strength and Sorcery | 9.00% | ~37 |
 | Omae Wa Mou Shindeiru | 8.00% | ~33 |
 | Experimentalist | 6.00% | ~25 |
 | Wide Selection | 6.00% | ~25 |
 | Soldier | 6.00% | ~25 |
-| Android Power | 5.00% | ~21 |
+| Android Power | 6.00% | ~25 |
 | Shopaholic | 3.00% | ~12 |
 | Zombie Lover | 3.00% | ~12 |
 | Full House | 1.00% | ~4 |

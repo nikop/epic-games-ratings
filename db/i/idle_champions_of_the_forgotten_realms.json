@@ -5258,10 +5258,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30742,
       "NumberOfAwardsMax": 5084
+    },
+    {
+      "Time": "2023-07-26T19:58:40.1607668+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30745,
+      "NumberOfAwardsMax": 5084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30742,
+  "NumberOfAwards": 30745,
   "NumberOfAwardsMax": 5084,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5281,7 +5287,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4682
+      "Count": 4685
     },
     {
       "Text": "This game is Relaxing",
@@ -5308,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215766,
-  "EOS_Completed": 2116,
-  "EOS_NewPlayers": 2308,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 215783,
+  "EOS_Completed": 2117,
+  "EOS_NewPlayers": 2306,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15723,6 +15729,11 @@
       "Time": "2023-07-26T19:02:54.3509248+00:00",
       "NumProgressed": 215766,
       "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-07-26T20:03:08.9848455+00:00",
+      "NumProgressed": 215783,
+      "NumCompleted": 2117
     }
   ],
   "TotalAchievements": 512,
@@ -15734,7 +15745,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "objective_completed_10",
@@ -16102,7 +16113,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "objective_completed_110",
@@ -16372,9 +16383,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1158",
@@ -17068,9 +17079,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_208",
@@ -17580,9 +17591,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_399",
@@ -17628,9 +17639,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_404",
@@ -19758,7 +19769,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "objective_completed_1376",
@@ -19788,9 +19799,9 @@
       "ID": "objective_completed_1385",
       "SetID": "415jc5c",
       "Name": "Flight of the Kindori Pod",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_1386",
@@ -19829,21 +19840,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182040,
-      "Completed": 2995
+      "Progressed": 182057,
+      "Completed": 3000
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215766,
-      "Completed": 2116
+      "Progressed": 215783,
+      "Completed": 2117
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-26T17:58:55.3918053+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:02:54.3509243+00:00",
+  "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:03:08.9848451+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:59:13.676338+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:02:54.3532769+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:40.1607675+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:03:08.9874336+00:00"
 }

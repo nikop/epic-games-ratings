@@ -39,10 +39,10 @@ Rating: 4.41 (Ranked 674)
 | Die Nussknacker Sweet! | 1.00% | ~34 |
 | The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.90% | ~30 |
+| Road Rage | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |
 | Herr Today, Gone Tomorrow | 0.80% | ~26 |
 | It'll Buff Right Out | 0.70% | ~23 |
-| Road Rage | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
 | From Paris with Love | 0.60% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 674)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,352 (Ranked 148)  
+Progressed: 3,353 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 9 (0.27%) (Ranked 158)
 | 2023-07-23 | 3,334 | 9 |
 | 2023-07-24 | 3,338 | 9 |
 | 2023-07-25 | 3,348 | 9 |
-| 2023-07-26 | 3,352 | 9 |
+| 2023-07-26 | 3,353 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

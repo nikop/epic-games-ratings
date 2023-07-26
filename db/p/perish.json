@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -2617,9 +2617,9 @@
       "ID": "ACH_OB_FC",
       "SetID": "b3fep3o",
       "Name": "Veneration of Hephaestus",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_OB_FT",
@@ -2850,8 +2850,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:14.4184265+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:07.3229461+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:42.6602284+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:01:27.8073699+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:14.4184839+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:00:05.0118976+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:07.323012+00:00"
 }

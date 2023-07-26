@@ -8,7 +8,7 @@ Number of Ratings: 125  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,531 |
 | Self-Improvement | 72.00% | ~1,253 |
-| Perky | 65.00% | ~1,131 |
+| Perky | 66.00% | ~1,148 |
 | Let’s Ride | 60.00% | ~1,044 |
 | Welcome to the Weird West | 57.00% | ~992 |
 | Dead or Alive | 56.00% | ~974 |
@@ -145,9 +145,9 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-25 | 1,738 | 3 |
 | 2023-07-26 | 1,740 | 3 |
 ## Awards
-Max (Impact the Story): 24  (Ranked 477)  
+Max (Impact the Story): 24  (Ranked 478)  
 Sum: 24 (Ranked 482)  
-Diff (max vs sum): -5  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

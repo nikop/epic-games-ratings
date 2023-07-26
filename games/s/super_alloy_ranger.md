@@ -16,21 +16,21 @@
 | Toe to Toe | 17.00% | ~9 |
 | Phew! | 15.00% | ~8 |
 | The Hidden Secret | 13.00% | ~7 |
+| Mr. Want It All | 13.00% | ~7 |
 | Grand Escape | 12.00% | ~6 |
 | Space Warrior: Prologue | 12.00% | ~6 |
-| Mr. Want It All | 12.00% | ~6 |
 | Keep it Up, rookie! | 8.00% | ~4 |
 | The Abyss Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
+| The Sunken City Conqueror | 4.00% | ~2 |
 | The Deep Frozen Conqueror | 4.00% | ~2 |
 | The Fortress Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | Hell of a Fight | 4.00% | ~2 |
-| The Sunken City Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |
 | The Inactivated Frozen Conqueror | 2.00% | ~1 |
 | Death Bringer Conqueror | 2.00% | ~1 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -591,17 +591,17 @@
       "ID": "madking_free",
       "SetID": "3b8n56h",
       "Name": "The False Prophet",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ok_ending",
       "SetID": "3b8n56h",
       "Name": "Sealed Once Again",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "perfect_ending",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:03:40.8499938+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:03:42.5071747+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:09.4299221+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:58:04.0814101+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:03:40.8500203+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:57:54.625009+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:03:42.5072071+00:00"
 }

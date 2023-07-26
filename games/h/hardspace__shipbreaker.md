@@ -1,29 +1,29 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 274)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~619 |
-| It’s Heating up! | 70.00% | ~586 |
-| Let’s patch things up | 66.00% | ~552 |
-| I can fix it! | 63.00% | ~527 |
-| Post No Bills | 55.00% | ~460 |
-| Truly Shocking! | 49.00% | ~410 |
+| Breathe In… Breathe Out… | 74.00% | ~620 |
+| It’s Heating up! | 69.00% | ~578 |
+| Let’s patch things up | 66.00% | ~553 |
+| I can fix it! | 63.00% | ~528 |
+| Post No Bills | 55.00% | ~461 |
+| Truly Shocking! | 49.00% | ~411 |
 | Critical Thinker | 35.00% | ~293 |
 | Always Finding Your Mark | 29.00% | ~243 |
 | The Weight of the World | 29.00% | ~243 |
-| Act I Complete | 28.00% | ~234 |
+| Act I Complete | 28.00% | ~235 |
 | A drop in the Ocean | 27.00% | ~226 |
 | No Niños | 27.00% | ~226 |
 | I ain’t afraid of no Ghost | 23.00% | ~193 |
-| Act II Complete | 20.00% | ~167 |
+| Act II Complete | 20.00% | ~168 |
 | A successful procedure! | 18.00% | ~151 |
 | Bing Bang BOOM | 18.00% | ~151 |
 | Breaking the Ice | 17.00% | ~142 |
-| Solidarity Forever | 12.00% | ~100 |
+| Solidarity Forever | 12.00% | ~101 |
 | A Tucked Tale | 10.00% | ~84 |
 | The best thing money can buy | 9.00% | ~75 |
 | Act III Complete | 6.00% | ~50 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837 (Ranked 197)  
+Progressed: 838 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 832 | 0 |
 | 2023-07-24 | 834 | 0 |
 | 2023-07-25 | 835 | 0 |
-| 2023-07-26 | 837 | 0 |
+| 2023-07-26 | 838 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

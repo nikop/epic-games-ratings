@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7159,
+  "EOS_Progressed": 7162,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6163,6 +6163,11 @@
       "Time": "2023-07-26T19:06:03.6797372+00:00",
       "NumProgressed": 7159,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-26T20:05:20.8626783+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6174,7 +6179,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5944
     },
     {
       "ID": "ACH02",
@@ -6182,7 +6187,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH03",
@@ -6198,7 +6203,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH05",
@@ -6278,7 +6283,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACH15",
@@ -6310,7 +6315,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH19",
@@ -6405,7 +6410,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7159,
+      "Progressed": 7162,
       "Completed": 41
     }
   ],
@@ -6413,8 +6418,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:06:03.6797368+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:05:20.8626779+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:58:54.5573413+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:06:03.6797804+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:27.0026285+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:05:20.8627363+00:00"
 }

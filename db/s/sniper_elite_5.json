@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -428,9 +428,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3352,
+  "EOS_Progressed": 3353,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5388,6 +5388,11 @@
       "Time": "2023-07-26T15:04:10.838265+00:00",
       "NumProgressed": 3352,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-26T20:04:32.5728049+00:00",
+      "NumProgressed": 3353,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5749,9 +5754,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -5966,13 +5971,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3303,
+      "Progressed": 3304,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3352,
+      "Progressed": 3353,
       "Completed": 9
     }
   ],
@@ -5980,8 +5985,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:47.5862361+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:32.5728041+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:57:14.4674026+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:47.5863148+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:57:25.3465558+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:32.5729226+00:00"
 }

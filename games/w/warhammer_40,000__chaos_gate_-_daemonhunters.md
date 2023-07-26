@@ -8,7 +8,7 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | An Ill Omen | 0.80% | ~24 |
 | Look Over There! | 0.70% | ~21 |
-| Executioner | 0.60% | ~18 |
+| Executioner | 0.70% | ~21 |
 | Watch Where You Step... | 0.60% | ~18 |
 | Not So Fast... | 0.50% | ~15 |
 | Bloodless | 0.50% | ~15 |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-26 | 3,044 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
-Sum: 454 (Ranked 303)  
+Sum: 455 (Ranked 303)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): -40
 | This game has Amazing Characters | 29 |
 | This game has Challenging Combat | 27 |
 | This game has Competitive Players | 26 |
-| This game has Diverse Characters | 23 |
+| This game has Diverse Characters | 24 |
 | This game is Relaxing | 23 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
@@ -275,4 +275,4 @@ Diff (max vs sum): -40
 | 2023-07-12 | 4.59 | - | 214 | 450 |
 | 2023-07-13 | 4.59 | - | 214 | 451 |
 | 2023-07-24 | 4.59 | - | 214 | 452 |
-| 2023-07-26 | 4.59 | - | 214 | 454 |
+| 2023-07-26 | 4.59 | - | 214 | 455 |

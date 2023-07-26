@@ -3,12 +3,12 @@
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 425,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
     "PcReleaseDate": "2021-12-16T00:00:00+00:00",
@@ -581,18 +581,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-07-26T20:00:40.8893321+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 68,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",
@@ -624,8 +630,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2023-07-26T02:06:04.9750297+00:00",
+  "LastChanged": "2023-07-26T20:00:40.8893318+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.6839401+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:02:21.1597927+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:05:38.5178196+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:00:40.8893326+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:05:10.2072621+00:00"
 }

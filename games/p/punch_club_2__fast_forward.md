@@ -15,7 +15,7 @@
 | Depressed visitor | 78.00% | ~121 |
 | Neurotrainer – power gainer! | 76.00% | ~118 |
 | Employee of the week | 76.00% | ~118 |
-| Your own amateur gym | 73.00% | ~113 |
+| Your own amateur gym | 74.00% | ~115 |
 | Run K, run! | 71.00% | ~110 |
 | Hello, world! | 68.00% | ~105 |
 | No bullying more | 67.00% | ~104 |
@@ -27,8 +27,8 @@
 | Workout professional | 55.00% | ~85 |
 | Law student | 55.00% | ~85 |
 | Little hacker | 53.00% | ~82 |
+| Champion – starter pack | 52.00% | ~81 |
 | Your own way | 52.00% | ~81 |
-| Champion – starter pack | 51.00% | ~79 |
 | Employee of the year | 51.00% | ~79 |
 | Fight for life | 50.00% | ~78 |
 | Handyman | 50.00% | ~78 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 19.00% | ~29 |
 | Silver’s past | 17.00% | ~26 |
 | Better cooking at home | 15.00% | ~23 |
-| The only right decision | 14.00% | ~22 |
+| The only right decision | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 292)  
 Completed: 5 (3.23%) (Ranked 59)  

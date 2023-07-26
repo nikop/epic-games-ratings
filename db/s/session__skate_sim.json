@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2618,
+  "EOS_Progressed": 2619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3498,6 +3498,11 @@
       "Time": "2023-07-26T19:02:52.7594692+00:00",
       "NumProgressed": 2618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T20:03:07.1636673+00:00",
+      "NumProgressed": 2619,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3637,7 +3642,7 @@
       "Name": "Good vibes",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_HOARDER",
@@ -3653,7 +3658,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3861,7 +3866,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -3885,22 +3890,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2618,
+      "Progressed": 2619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-23T06:59:13.2604151+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:02:52.7594688+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:03:07.1636668+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:00:38.8664345+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:02:52.7595202+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:59:32.3810397+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:03:07.1637494+00:00"
 }

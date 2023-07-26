@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1159,6 +1159,11 @@
       "Time": "2023-07-26T13:11:03.7473251+00:00",
       "NumProgressed": 950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T20:04:36.2496379+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1266,7 +1271,7 @@
       "Name": "Just Chilling",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -1298,7 +1303,7 @@
       "Name": "Incredible Strength",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ENDING_TRUE",
@@ -1394,7 +1399,7 @@
       "Name": "We made it",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -1522,14 +1527,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 951,
       "Completed": 0
     }
   ],
@@ -1537,8 +1542,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:52.9477835+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:36.2496374+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.3997168+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:58:37.5767204+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:52.9478222+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:16.8950236+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:36.2496846+00:00"
 }

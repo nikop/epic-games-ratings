@@ -17,7 +17,7 @@ Rating: 4.55 (Ranked 481)
 | Fully Recycled | 10.00% | ~292 |
 | Ain't Nobody Got Time for That | 10.00% | ~292 |
 | The Ship of Theseus | 10.00% | ~292 |
-| Hope Seeker | 9.00% | ~262 |
+| Hope Seeker | 9.00% | ~263 |
 | A Hunk of Junk | 8.00% | ~233 |
 | Exceeding Capacity | 8.00% | ~233 |
 | Breaking Protocol | 8.00% | ~233 |
@@ -31,11 +31,11 @@ Rating: 4.55 (Ranked 481)
 | Access Granted | 4.00% | ~117 |
 | All in Good Health | 4.00% | ~117 |
 | From the Past | 4.00% | ~117 |
-| What They Hide From Us | 3.00% | ~87 |
-| ...  in a finite world | 3.00% | ~87 |
-| Sustainable Energy | 3.00% | ~87 |
-| BRAWL! | 3.00% | ~87 |
-| What the Ruins Teach Us | 3.00% | ~87 |
+| What They Hide From Us | 3.00% | ~88 |
+| ...  in a finite world | 3.00% | ~88 |
+| Sustainable Energy | 3.00% | ~88 |
+| BRAWL! | 3.00% | ~88 |
+| What the Ruins Teach Us | 3.00% | ~88 |
 | Mutual Loyalty | 2.00% | ~58 |
 | In Dolos We Trust | 2.00% | ~58 |
 | Praise the Hull! | 2.00% | ~58 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,916 (Ranked 156)  
+Progressed: 2,917 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 2,897 | 0 |
 | 2023-07-24 | 2,907 | 0 |
 | 2023-07-25 | 2,913 | 0 |
-| 2023-07-26 | 2,916 | 0 |
+| 2023-07-26 | 2,917 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

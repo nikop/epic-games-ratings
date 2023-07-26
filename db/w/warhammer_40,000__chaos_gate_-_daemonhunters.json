@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -550,10 +550,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2023-07-26T19:59:11.3005546+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 214
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 214,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -585,7 +591,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Competitive Players",
@@ -2759,9 +2765,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Kills_Exterminator",
@@ -3124,9 +3130,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-07-26T05:59:20.6428845+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:28.3231399+00:00",
+  "LastChanged": "2023-07-26T19:59:11.3005543+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:18.0141636+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:00:05.0560368+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:28.3232188+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:59:11.300555+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:18.0142375+00:00"
 }

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 91.00% | ~82 |
-| MLG 360 no scope kill! | 91.00% | ~82 |
-| Are you ready to rumble? | 91.00% | ~82 |
-| That's what cheese said! | 84.00% | ~76 |
-| I like you...but I have to kill you... | 83.00% | ~75 |
-| Nerd | 83.00% | ~75 |
-| AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~74 |
-| Not so hip anymore! | 82.00% | ~74 |
-| Blurry depth perception | 80.00% | ~72 |
-| Up and down | 78.00% | ~70 |
+| Tastes just like chicken! | 92.00% | ~83 |
+| MLG 360 no scope kill! | 92.00% | ~83 |
+| Are you ready to rumble? | 92.00% | ~83 |
+| That's what cheese said! | 86.00% | ~77 |
+| I like you...but I have to kill you... | 84.00% | ~76 |
+| Nerd | 84.00% | ~76 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~75 |
+| Not so hip anymore! | 83.00% | ~75 |
+| Blurry depth perception | 81.00% | ~73 |
+| Up and down | 79.00% | ~71 |
 | Rolling, Rolling, Rolling | 71.00% | ~64 |
 | Fire-fighter! | 67.00% | ~60 |
-| Oh, you're up to no gouda! | 62.00% | ~56 |
+| Oh, you're up to no gouda! | 63.00% | ~57 |
 | Make Love not War-Craft a Mistlefoe | 61.00% | ~55 |
 | Meat grinder | 60.00% | ~54 |
 | You're not going to blow me up! | 54.00% | ~49 |
@@ -32,9 +32,9 @@
 | Haemochromatosis | 39.00% | ~35 |
 | Make America Grate Again | 37.00% | ~33 |
 | Catch the bus with me! | 34.00% | ~31 |
+| Karaoke king | 34.00% | ~31 |
 | Pasta Bolognese | 34.00% | ~31 |
 | You are no match for me, Billy! | 33.00% | ~30 |
-| Karaoke king | 33.00% | ~30 |
 | You can't stop me, bro! | 33.00% | ~30 |
 | I'm going to get a concussion | 32.00% | ~29 |
 | Meatballs, coming up! | 29.00% | ~26 |

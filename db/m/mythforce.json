@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -575,9 +575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1140,6 +1140,11 @@
       "Time": "2023-07-26T19:04:08.4613871+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T20:04:02.6544493+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1150,25 +1155,25 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
       "SetID": "9b9n573",
       "Name": "Deadalus and Loving It",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -1182,25 +1187,25 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 0.6,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -1222,17 +1227,17 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.9,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -1246,25 +1251,25 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -1326,24 +1331,24 @@
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:04:08.4613866+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:04:02.6544486+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:04.99518+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:59:40.5089929+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:04:08.4614022+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:58:56.7986112+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:04:02.6544721+00:00"
 }

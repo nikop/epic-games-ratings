@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 330,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226889,
+  "EOS_Progressed": 226890,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10308,6 +10308,11 @@
       "Time": "2023-07-26T18:05:16.5992405+00:00",
       "NumProgressed": 226889,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-26T20:05:09.6475804+00:00",
+      "NumProgressed": 226890,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10463,7 +10468,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77142
+      "UsersEstimate": 77143
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10542,7 +10547,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226889,
+      "Progressed": 226890,
       "Completed": 3
     }
   ],
@@ -10550,8 +10555,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-26T19:05:37.7935186+00:00",
+  "LastChanged_Achievements": "2023-07-26T20:05:09.6475798+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-26T19:01:32.1196544+00:00",
-  "LastUpdate_Achievements": "2023-07-26T19:05:37.7935793+00:00"
+  "LastUpdate_Ratings": "2023-07-26T20:00:09.4937758+00:00",
+  "LastUpdate_Achievements": "2023-07-26T20:05:09.6476679+00:00"
 }
