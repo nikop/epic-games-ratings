@@ -297,7 +297,7 @@
 | 276 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 540 | 190 |
 | 276 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 91 | 345 |
 | 276 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 506 |
-| 276 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,819 | 58 |
+| 276 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,820 | 58 |
 | 276 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
 | 276 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 506 |
 | 301 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 506 |
@@ -877,30 +877,30 @@
 | 875 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.15 | 32 | 448 |
 | 875 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 506 |
 | 875 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 506 |
-| 875 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.15 | 0 | 506 |
 | 875 | [Pine](games/p/pine.md) | 4.15 | 0 | 506 |
 | 875 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 270 |
 | 875 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 506 |
 | 875 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 506 |
 | 875 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 506 |
-| 884 | [Forspoken](games/f/forspoken.md) | 4.14 | 21 | 494 |
-| 884 | [Men of War](games/m/men_of_war.md) | 4.14 | 0 | 506 |
-| 884 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 506 |
-| 887 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 506 |
-| 887 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 0 | 506 |
-| 887 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 506 |
-| 890 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 506 |
-| 891 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 86 | 351 |
-| 892 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 0 | 506 |
-| 892 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 506 |
-| 892 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 393 |
-| 892 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,470 | 100 |
-| 896 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 506 |
-| 896 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 506 |
-| 896 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 0 | 506 |
-| 896 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 506 |
-| 896 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 506 |
-| 896 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 506 |
+| 883 | [Forspoken](games/f/forspoken.md) | 4.14 | 21 | 494 |
+| 883 | [Men of War](games/m/men_of_war.md) | 4.14 | 0 | 506 |
+| 883 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 506 |
+| 886 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 506 |
+| 886 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 0 | 506 |
+| 886 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 506 |
+| 889 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 506 |
+| 890 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 86 | 351 |
+| 891 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 0 | 506 |
+| 891 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 506 |
+| 891 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 393 |
+| 891 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,470 | 100 |
+| 895 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 506 |
+| 895 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 506 |
+| 895 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 0 | 506 |
+| 895 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 506 |
+| 895 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.09 | 0 | 506 |
+| 895 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 506 |
+| 895 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 506 |
 | 902 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 506 |
 | 902 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 506 |
 | 904 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 531 | 191 |
