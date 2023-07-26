@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 94.00% | ~76 |
-| Rehearsal | 93.00% | ~75 |
-| Daily Life | 89.00% | ~72 |
-| Assembly Line Work | 85.00% | ~69 |
-| Solitude | 79.00% | ~64 |
-| Pinewood, Here we come! | 72.00% | ~58 |
-| The Van | 65.00% | ~53 |
-| Road-Trip | 59.00% | ~48 |
-| A Musical Pause | 58.00% | ~47 |
+| ECG | 94.00% | ~77 |
+| Rehearsal | 93.00% | ~76 |
+| Daily Life | 89.00% | ~73 |
+| Assembly Line Work | 85.00% | ~70 |
+| Solitude | 79.00% | ~65 |
+| Pinewood, Here we come! | 72.00% | ~59 |
+| The Van | 66.00% | ~54 |
+| Road-Trip | 60.00% | ~49 |
+| A Musical Pause | 59.00% | ~48 |
+| Sound of Noise | 48.00% | ~39 |
 | Briget's | 48.00% | ~39 |
-| Sound of Noise | 47.00% | ~38 |
-| Big City Music | 43.00% | ~35 |
-| Love at First Sight | 41.00% | ~33 |
-| First Kiss | 35.00% | ~28 |
+| Big City Music | 44.00% | ~36 |
+| Love at First Sight | 40.00% | ~33 |
+| First Kiss | 34.00% | ~28 |
+| Symbiosis | 33.00% | ~27 |
 | A Bigger Band | 32.00% | ~26 |
-| Symbiosis | 32.00% | ~26 |
 | Fuel | 27.00% | ~22 |
 | Alone Together | 26.00% | ~21 |
-| Threatening Nature | 25.00% | ~20 |
-| TV Dreams | 22.00% | ~18 |
+| Threatening Nature | 24.00% | ~20 |
+| TV Dreams | 23.00% | ~19 |
 | Flat Tire | 21.00% | ~17 |
+| Dreamers | 18.00% | ~15 |
 | The Clash | 17.00% | ~14 |
-| Dreamers | 17.00% | ~14 |
-| The Fix | 15.00% | ~12 |
-| Time | 11.00% | ~9 |
+| The Fix | 16.00% | ~13 |
+| Time | 12.00% | ~10 |
+| The Mountains, The Valleys | 12.00% | ~10 |
 | Regrets | 11.00% | ~9 |
 | The Accident | 11.00% | ~9 |
-| The Mountains, The Valleys | 11.00% | ~9 |
 | Bad Trip | 10.00% | ~8 |
 | The Awakening | 10.00% | ~8 |
 | Love | 9.00% | ~7 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 325)  
-Completed: 1 (1.23%) (Ranked 99)  
+Progressed: 82 (Ranked 325)  
+Completed: 1 (1.22%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 1 (1.23%) (Ranked 99)
 | 2023-07-22 | 79 | 1 |
 | 2023-07-23 | 80 | 1 |
 | 2023-07-25 | 81 | 1 |
+| 2023-07-26 | 82 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

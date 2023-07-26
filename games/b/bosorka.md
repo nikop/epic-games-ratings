@@ -7,8 +7,8 @@
 | Path of purity | 82.00% | ~74 |
 | Witch's duty | 61.00% | ~55 |
 | A good start | 57.00% | ~51 |
+| First time, yes? | 56.00% | ~50 |
 | Runes collector | 54.00% | ~49 |
-| First time, yes? | 54.00% | ~49 |
 | Skilled rider | 50.00% | ~45 |
 | Kind heart | 48.00% | ~43 |
 | Devil's dozen | 30.00% | ~27 |
@@ -16,8 +16,8 @@
 | This is just the beginning... | 19.00% | ~17 |
 | A small victory | 19.00% | ~17 |
 | Unstoppable Curiosity | 18.00% | ~16 |
+| Time is on my side | 12.00% | ~11 |
 | Gold Digger | 12.00% | ~11 |
-| Time is on my side | 11.00% | ~10 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90 (Ranked 316)  

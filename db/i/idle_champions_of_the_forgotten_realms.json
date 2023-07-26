@@ -5308,7 +5308,7 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215750,
+  "EOS_Progressed": 215766,
   "EOS_Completed": 2116,
   "EOS_NewPlayers": 2308,
   "EOS_NewCompleters": 58,
@@ -15718,6 +15718,11 @@
       "Time": "2023-07-26T18:03:12.5498117+00:00",
       "NumProgressed": 215750,
       "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-07-26T19:02:54.3509248+00:00",
+      "NumProgressed": 215766,
+      "NumCompleted": 2116
     }
   ],
   "TotalAchievements": 512,
@@ -18351,9 +18356,9 @@
       "ID": "objective_completed_61",
       "SetID": "cc37lbc",
       "Name": "Market Fluctuations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_610",
@@ -19824,21 +19829,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182024,
+      "Progressed": 182040,
       "Completed": 2995
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215750,
+      "Progressed": 215766,
       "Completed": 2116
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T17:58:55.3918053+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:03:12.5498106+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:02:54.3509243+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:58:55.391806+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:03:12.5525872+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:59:13.676338+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:02:54.3532769+00:00"
 }

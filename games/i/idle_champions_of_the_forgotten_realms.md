@@ -139,6 +139,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~432 |
 | The Contagious Curse | 0.20% | ~432 |
 | Dinosaur Racing | 0.20% | ~432 |
+| Market Fluctuations | 0.20% | ~432 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | The Everlasting Rime | 0.20% | ~364 |
 | Close Escort | 0.20% | ~432 |
@@ -373,7 +374,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~216 |
 | Shadow Stalkers | 0.10% | ~182 |
 | Avernus Frozen Over | 0.10% | ~182 |
-| Market Fluctuations | 0.10% | ~216 |
 | Once More Into The Breach | 0.10% | ~216 |
 | Twice More Into The Breach | 0.10% | ~216 |
 | Thrice More Into The Breach | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,750 (Ranked 53)  
+Progressed: 215,766 (Ranked 53)  
 Completed: 2,116 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,116 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,750 | 2,116 |
+| 2023-07-26 | 215,766 | 2,116 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,742 (Ranked 38)  

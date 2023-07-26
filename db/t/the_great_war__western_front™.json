@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1484,6 +1484,11 @@
       "Time": "2023-07-26T18:06:02.0555578+00:00",
       "NumProgressed": 336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T19:06:47.7653323+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1557,9 +1562,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 165
+      "UsersEstimate": 162
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1567,7 +1572,7 @@
       "Name": "La Der des Ders",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1590,7 +1595,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 0
     }
   ],
@@ -1598,8 +1603,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:06:02.0555572+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:06:47.7653319+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.6267757+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:59:21.4188474+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:06:02.0555797+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:59:48.7618989+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:06:47.7653462+00:00"
 }

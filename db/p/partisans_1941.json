@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1181,
+  "EOS_Progressed": 1182,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1745,6 +1745,11 @@
       "Time": "2023-07-26T18:04:01.6680968+00:00",
       "NumProgressed": 1181,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T19:03:58.0118703+00:00",
+      "NumProgressed": 1182,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1754,9 +1759,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 248
     },
     {
       "ID": "Auditor",
@@ -1836,7 +1841,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Everyone_is_here",
@@ -1948,7 +1953,7 @@
       "Name": "Mosquito bite",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Scout",
@@ -1995,15 +2000,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1181,
+      "Progressed": 1182,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:04:01.6680962+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:03:58.0118698+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-26T18:00:04.0633854+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:04:01.6681292+00:00"
+  "LastUpdate_Ratings": "2023-07-26T19:00:44.3607897+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:03:58.0118952+00:00"
 }

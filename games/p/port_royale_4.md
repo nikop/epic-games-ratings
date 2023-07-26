@@ -24,7 +24,7 @@ Number of Ratings: 53  (23.09.2022)
 | Christening | 26.00% | ~198 |
 | Groundskeeper | 25.00% | ~191 |
 | Wholesale | 22.00% | ~168 |
-| Walk the plank | 20.00% | ~153 |
+| Walk the plank | 21.00% | ~160 |
 | Pearly gates | 17.00% | ~130 |
 | My precious! | 17.00% | ~130 |
 | Conquistador | 13.00% | ~99 |

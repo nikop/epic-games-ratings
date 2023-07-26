@@ -35,8 +35,8 @@ Rating: 4.87 (Ranked 23)
 | Beat-hit mania | 1.00% | ~36 |
 | That's a lot of junk metal… | 1.00% | ~36 |
 | There's such a thing as TOO helpful | 1.00% | ~36 |
+| Chip-tuned | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
-| Chip-tuned | 0.70% | ~25 |
 | Wanna hear my playlist? | 0.70% | ~25 |
 | I told you I'd be fine, Peppermint! | 0.60% | ~22 |
 | Check out my moves! | 0.60% | ~22 |

@@ -7,23 +7,23 @@
 | Such a strange dream… | 90.00% | ~140 |
 | Your first fight | 88.00% | ~136 |
 | Good Person Chip | 87.00% | ~135 |
+| First winning | 86.00% | ~133 |
 | Your first job | 86.00% | ~133 |
-| First winning | 85.00% | ~132 |
-| First defeat | 80.00% | ~124 |
-| Old movies enjoyer | 79.00% | ~122 |
-| Fitness professional | 77.00% | ~119 |
-| Depressed visitor | 77.00% | ~119 |
+| First defeat | 81.00% | ~126 |
+| Old movies enjoyer | 80.00% | ~124 |
+| Fitness professional | 78.00% | ~121 |
+| Depressed visitor | 78.00% | ~121 |
 | Neurotrainer – power gainer! | 76.00% | ~118 |
-| Employee of the week | 75.00% | ~116 |
-| Your own amateur gym | 72.00% | ~112 |
-| Run K, run! | 70.00% | ~108 |
+| Employee of the week | 76.00% | ~118 |
+| Your own amateur gym | 73.00% | ~113 |
+| Run K, run! | 71.00% | ~110 |
+| Hello, world! | 68.00% | ~105 |
 | No bullying more | 67.00% | ~104 |
-| Hello, world! | 67.00% | ~104 |
 | Fighting is cool | 65.00% | ~101 |
 | Employee of the month | 61.00% | ~95 |
 | Pal of your father? | 60.00% | ~93 |
-| Intriguing candies | 59.00% | ~91 |
-| Spirit of the past | 57.00% | ~88 |
+| Intriguing candies | 60.00% | ~93 |
+| Spirit of the past | 58.00% | ~90 |
 | Workout professional | 55.00% | ~85 |
 | Law student | 55.00% | ~85 |
 | Little hacker | 53.00% | ~82 |
@@ -31,15 +31,15 @@
 | Champion – starter pack | 51.00% | ~79 |
 | Employee of the year | 51.00% | ~79 |
 | Fight for life | 50.00% | ~78 |
-| Handyman | 49.00% | ~76 |
-| It's good to be alive | 49.00% | ~76 |
-| Own four walls | 49.00% | ~76 |
-| Extreme neuropower! | 43.00% | ~67 |
+| Handyman | 50.00% | ~78 |
+| It's good to be alive | 50.00% | ~78 |
+| Own four walls | 50.00% | ~78 |
+| Extreme neuropower! | 45.00% | ~70 |
 | Legal courier | 41.00% | ~64 |
 | Now you are worthy | 37.00% | ~57 |
 | Escaped from a big trouble | 34.00% | ~53 |
+| Guiding on the right path | 33.00% | ~51 |
 | No blades in the gym | 32.00% | ~50 |
-| Guiding on the right path | 32.00% | ~50 |
 | Fight is life | 30.00% | ~46 |
 | Mysterious voice | 30.00% | ~46 |
 | Responsible approach | 30.00% | ~46 |

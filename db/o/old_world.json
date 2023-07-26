@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13104,
+  "EOS_Progressed": 13105,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8563,6 +8563,11 @@
       "Time": "2023-07-26T18:06:00.1775101+00:00",
       "NumProgressed": 13104,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T19:06:45.5029925+00:00",
+      "NumProgressed": 13105,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8612,9 +8617,9 @@
       "ID": "ACHIEVEMENT_ALLIANCE_VICTORY",
       "SetID": "7l38kb8",
       "Name": "Alliance Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
@@ -10028,9 +10033,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -10428,9 +10433,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -10644,9 +10649,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -10941,21 +10946,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13104,
+      "Progressed": 13105,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13104,
+      "Progressed": 13105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:06:00.1775095+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:06:45.5029919+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:58:44.6866037+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:06:00.1783938+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:58:58.9404309+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:06:45.5037459+00:00"
 }

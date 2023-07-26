@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 22,
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659847,
+  "EOS_Progressed": 659848,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9987,6 +9987,11 @@
       "Time": "2023-07-26T18:03:29.4312991+00:00",
       "NumProgressed": 659847,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-26T19:03:16.3450171+00:00",
+      "NumProgressed": 659848,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9998,7 +10003,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475090
+      "UsersEstimate": 475091
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10006,7 +10011,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382711
+      "UsersEstimate": 382712
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10381,15 +10386,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659847,
+      "Progressed": 659848,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:03:29.4312981+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:03:16.3450167+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:58:27.9206402+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:03:29.4314032+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:58:33.6399841+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:03:16.3450903+00:00"
 }

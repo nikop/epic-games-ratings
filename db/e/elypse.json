@@ -412,9 +412,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach_BossSlug",
@@ -659,8 +659,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:04:34.5586414+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:04:41.3851406+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.2495239+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:58:53.3208971+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:04:34.5586725+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:59:09.385558+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:04:41.3851631+00:00"
 }

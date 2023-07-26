@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.40% | ~52 |
 | Carthaginian Paganism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
+| Roman Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
 | Trade Caravan | 0.40% | ~52 |
 | Regicide | 0.30% | ~39 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
-| Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
+| Pantheon | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
@@ -93,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
+| Legionary | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Double Victory | 0.20% | ~26 |
@@ -100,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.20% | ~26 |
 | Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |
+| Alliance Victory | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
@@ -176,7 +179,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
-| Pantheon | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -221,7 +223,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
-| Legionary | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
 | All Nations | 0.10% | ~13 |
@@ -247,7 +248,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Alliance Victory | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,104 (Ranked 115)  
+Progressed: 13,105 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,104 | 5 |
+| 2023-07-26 | 13,105 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

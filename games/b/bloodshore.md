@@ -9,7 +9,7 @@
 | Um, ok... | 49.00% | ~87 |
 | Superstar-crossed lovers | 41.00% | ~73 |
 | A leader, you are not | 35.00% | ~62 |
-| Comedy Killer | 33.00% | ~58 |
+| Comedy Killer | 34.00% | ~60 |
 | This won't end well... | 33.00% | ~58 |
 | Bromance | 32.00% | ~57 |
 | Mission Complete | 32.00% | ~57 |

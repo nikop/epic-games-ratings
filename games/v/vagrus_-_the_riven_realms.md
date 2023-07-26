@@ -13,9 +13,9 @@
 | Tactician | 7.00% | ~9 |
 | Breached | 7.00% | ~9 |
 | Fight Another Day | 7.00% | ~9 |
+| Taskmaster | 6.00% | ~7 |
 | Conciliator | 5.00% | ~6 |
 | Scholar | 5.00% | ~6 |
-| Taskmaster | 5.00% | ~6 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |

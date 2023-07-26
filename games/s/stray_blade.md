@@ -8,13 +8,13 @@
 | Tinkerer | 55.00% | ~17 |
 | Welcome to the Club | 32.00% | ~10 |
 | A new World ahead | 26.00% | ~8 |
+| Can't touch this | 26.00% | ~8 |
 | Don't Cry Wolf | 23.00% | ~7 |
-| Can't touch this | 23.00% | ~7 |
 | Apprentice | 23.00% | ~7 |
-| Freezing Cold | 10.00% | ~3 |
+| Freezing Cold | 13.00% | ~4 |
+| The Power of the Mountains | 13.00% | ~4 |
 | Through Dangers Untold | 10.00% | ~3 |
 | The Golden Flash | 10.00% | ~3 |
-| The Power of the Mountains | 10.00% | ~3 |
 | Changing the World | 10.00% | ~3 |
 | Bringing guns to a sword fight | 6.00% | ~2 |
 | Searing Heat | 6.00% | ~2 |

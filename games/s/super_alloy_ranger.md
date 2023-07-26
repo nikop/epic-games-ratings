@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 77.00% | ~40 |
-| Gear Up | 69.00% | ~36 |
-| A Grand Show | 69.00% | ~36 |
+| Gear Up | 71.00% | ~37 |
+| A Grand Show | 71.00% | ~37 |
 | Freshen Up | 60.00% | ~31 |
-| GG EZ | 56.00% | ~29 |
+| GG EZ | 58.00% | ~30 |
 | Hydrophobia | 38.00% | ~20 |
-| Ka-Ching! | 35.00% | ~18 |
+| Ka-Ching! | 37.00% | ~19 |
 | Stop Right There | 33.00% | ~17 |
 | Get to the Point | 31.00% | ~16 |
 | Toe to Toe | 17.00% | ~9 |
@@ -22,13 +22,13 @@
 | Keep it Up, rookie! | 8.00% | ~4 |
 | The Abyss Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
+| Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
 | The Deep Frozen Conqueror | 4.00% | ~2 |
 | The Fortress Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
-| Antaeus | 4.00% | ~2 |
 | Hell of a Fight | 4.00% | ~2 |
 | The Sunken City Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2517,6 +2517,11 @@
       "Time": "2023-07-26T16:04:51.1639667+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T19:04:35.9921529+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2534,9 +2539,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 415
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2544,7 +2549,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2632,7 +2637,7 @@
       "Name": "Ganglord",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "DEAD_DICK",
@@ -2648,7 +2653,7 @@
       "Name": "Jarhead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2712,7 +2717,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2760,7 +2765,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2784,7 +2789,7 @@
       "Name": "Infiltrator",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "LUMBERJACK",
@@ -2792,7 +2797,7 @@
       "Name": "Lumberjack",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2816,7 +2821,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2832,7 +2837,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "RECYCLER",
@@ -2840,7 +2845,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "RUTHLESS",
@@ -2935,7 +2940,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 0
     }
   ],
@@ -2943,8 +2948,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:04:30.5931107+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:04:35.9921525+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:59:02.0522648+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:04:30.5931739+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:59:23.0333827+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:04:35.9921979+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,514 |
+| Rigged And Ready | 80.00% | ~1,515 |
 | Don't I Know You...? | 77.00% | ~1,458 |
-| Jailbreak | 65.00% | ~1,230 |
-| HEADSHOT! | 38.00% | ~719 |
-| Suited and Booted | 38.00% | ~719 |
+| Jailbreak | 65.00% | ~1,231 |
+| HEADSHOT! | 38.00% | ~720 |
+| Suited and Booted | 38.00% | ~720 |
 | Sleeping With The Fishes | 35.00% | ~663 |
 | Overheated | 30.00% | ~568 |
 | High Performance | 30.00% | ~568 |
 | Powered Up | 28.00% | ~530 |
-| Studied The Blade | 25.00% | ~473 |
-| Home Invasion | 23.00% | ~435 |
-| Luminary | 22.00% | ~416 |
-| It's a Trap | 22.00% | ~416 |
+| Studied The Blade | 24.00% | ~455 |
+| Home Invasion | 23.00% | ~436 |
+| Luminary | 22.00% | ~417 |
+| It's a Trap | 22.00% | ~417 |
 | True Survivor | 21.00% | ~398 |
 | Offensive Defense | 20.00% | ~379 |
 | Shocking | 20.00% | ~379 |
@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 812)
 | Stimulating The Local Economy | 10.00% | ~189 |
 | Triplets | 10.00% | ~189 |
 | Defense in Depth | 9.00% | ~170 |
-| A Little Banged Up | 8.00% | ~151 |
-| Denying Prophecy | 8.00% | ~151 |
-| Following In Their Footsteps | 8.00% | ~151 |
+| A Little Banged Up | 8.00% | ~152 |
+| Denying Prophecy | 8.00% | ~152 |
+| Following In Their Footsteps | 8.00% | ~152 |
 | Reverse Engineering | 7.00% | ~133 |
 | Remote Surgery | 6.00% | ~114 |
 | Turbo Booster | 6.00% | ~114 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 812)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,893 (Ranked 166)  
+Progressed: 1,894 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-23 | 1,873 | 10 |
 | 2023-07-24 | 1,882 | 10 |
 | 2023-07-25 | 1,891 | 10 |
-| 2023-07-26 | 1,893 | 10 |
+| 2023-07-26 | 1,894 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

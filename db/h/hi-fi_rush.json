@@ -4856,9 +4856,9 @@
       "ID": "Ach016",
       "SetID": "12n4k20",
       "Name": "Chip-tuned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "Ach017",
@@ -5319,8 +5319,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-26T18:04:16.3989121+00:00",
+  "LastChanged_Achievements": "2023-07-26T19:04:16.86863+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:59:22.3790053+00:00",
-  "LastUpdate_Achievements": "2023-07-26T18:04:16.3990275+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:59:49.9563087+00:00",
+  "LastUpdate_Achievements": "2023-07-26T19:04:16.8687051+00:00"
 }

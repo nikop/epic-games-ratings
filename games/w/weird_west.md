@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,529 |
-| Self-Improvement | 72.00% | ~1,251 |
-| Perky | 66.00% | ~1,147 |
-| Let’s Ride | 60.00% | ~1,043 |
-| Welcome to the Weird West | 57.00% | ~991 |
-| Dead or Alive | 56.00% | ~973 |
+| Unforgiven | 88.00% | ~1,531 |
+| Self-Improvement | 72.00% | ~1,253 |
+| Perky | 65.00% | ~1,131 |
+| Let’s Ride | 60.00% | ~1,044 |
+| Welcome to the Weird West | 57.00% | ~992 |
+| Dead or Alive | 56.00% | ~974 |
 | Full House | 36.00% | ~626 |
-| Off the Trail | 33.00% | ~574 |
-| Justice Served | 29.00% | ~504 |
-| Chain Reaction | 27.00% | ~469 |
-| Scholar | 25.00% | ~434 |
-| Through Their Eyes | 25.00% | ~434 |
-| Dishonored | 24.00% | ~417 |
-| Rain of Death | 24.00% | ~417 |
+| Off the Trail | 34.00% | ~592 |
+| Justice Served | 29.00% | ~505 |
+| Chain Reaction | 27.00% | ~470 |
+| Through Their Eyes | 26.00% | ~452 |
+| Scholar | 25.00% | ~435 |
+| Dishonored | 24.00% | ~418 |
+| Rain of Death | 24.00% | ~418 |
 | The Great Escape | 23.00% | ~400 |
 | That’s All, Folks | 18.00% | ~313 |
 | Fallen Star | 16.00% | ~278 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 11.00% | ~191 |
 | There is Hope | 11.00% | ~191 |
 | The Philosopher’s Stone | 10.00% | ~174 |
-| Loyalty to the Pack | 9.00% | ~156 |
-| Eternity Can Wait | 9.00% | ~156 |
-| Mystery Machine | 9.00% | ~156 |
+| Loyalty to the Pack | 9.00% | ~157 |
+| Eternity Can Wait | 9.00% | ~157 |
+| Mystery Machine | 9.00% | ~157 |
 | Gold Digger | 8.00% | ~139 |
 | Knuckle Sandwich | 8.00% | ~139 |
 | Do Not Pass Go… | 7.00% | ~122 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,738 (Ranked 168)  
+Progressed: 1,740 (Ranked 168)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-23 | 1,727 | 3 |
 | 2023-07-24 | 1,731 | 3 |
 | 2023-07-25 | 1,738 | 3 |
+| 2023-07-26 | 1,740 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  
