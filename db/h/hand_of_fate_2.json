@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 22,
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659827,
+  "EOS_Progressed": 659828,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9942,6 +9942,11 @@
       "Time": "2023-07-26T08:03:06.1533292+00:00",
       "NumProgressed": 659827,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-26T09:03:33.2412155+00:00",
+      "NumProgressed": 659828,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9953,7 +9958,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475075
+      "UsersEstimate": 475076
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10233,7 +10238,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59384
+      "UsersEstimate": 59385
     },
     {
       "ID": "Achievement_37_Champion",
@@ -10336,15 +10341,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659827,
+      "Progressed": 659828,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:03:06.1533284+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:03:33.241215+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:58:32.6352421+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:03:06.1534963+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:58:25.4457931+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:03:33.2413404+00:00"
 }

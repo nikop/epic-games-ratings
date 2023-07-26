@@ -14,8 +14,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.70% | ~92 |
 | Friendly Family | 0.60% | ~79 |
 | Able | 0.50% | ~65 |
+| Architect | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
-| Architect | 0.40% | ~52 |
+| Strong | 0.50% | ~65 |
 | Enlightened | 0.40% | ~52 |
 | Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
@@ -23,7 +24,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
 | Pioneer | 0.40% | ~52 |
-| Strong | 0.40% | ~52 |
 | Hanging Gardens | 0.40% | ~52 |
 | Oracle | 0.40% | ~52 |
 | Judaism | 0.40% | ~52 |
@@ -59,9 +59,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
+| Mighty | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
 | Wise | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
+| Good Difficulty | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
@@ -83,8 +85,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
+| Economic Reform | 0.20% | ~26 |
+| Dualism | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
+| Kushite Cavalry | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Double Victory | 0.20% | ~26 |
@@ -126,14 +131,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
-| Mighty | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Ready | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
-| Good Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
@@ -157,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~13 |
 | Tell the Spartans | 0.10% | ~13 |
 | Shape of Things to Come | 0.10% | ~13 |
+| I am the Archon Now | 0.10% | ~13 |
 | The Olive Wreath | 0.10% | ~13 |
 | Those Were Mine | 0.10% | ~13 |
 | What's 'hubris' in Greek? | 0.10% | ~13 |
@@ -205,10 +209,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
-| Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
 | Military Prestige | 0.10% | ~13 |
-| Dualism | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Legalism | 0.10% | ~13 |
@@ -218,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~13 |
 | Cimmerian Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
-| Kushite Cavalry | 0.10% | ~13 |
 | Legionary | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
 | Turreted Elephant | 0.10% | ~13 |
@@ -268,7 +269,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | Unfinished Business | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,095 (Ranked 115)  
+Progressed: 13,096 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,095 | 5 |
+| 2023-07-26 | 13,096 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

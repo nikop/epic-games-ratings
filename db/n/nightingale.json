@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:58.4060462+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:59:23.839148+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:04:42.8507809+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:59:15.6526398+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:04:57.0748616+00:00"
 }

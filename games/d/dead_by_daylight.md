@@ -6,66 +6,66 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~14,299 |
-| Nerves of steel | 2.00% | ~14,299 |
-| Zealous | 2.00% | ~14,299 |
-| It wakes | 2.00% | ~14,299 |
-| Not half bad | 2.00% | ~14,299 |
-| Bloody Millionaire | 2.00% | ~14,299 |
-| Apt Survivor | 2.00% | ~14,299 |
-| Survival Treasures | 2.00% | ~14,299 |
-| Skillful | 2.00% | ~14,299 |
-| I | 2.00% | ~14,299 |
-| Sorted | 2.00% | ~14,299 |
-| Complete the Evolution | 2.00% | ~14,299 |
-| Extraterrestrial | 2.00% | ~14,299 |
-| One More Step | 2.00% | ~14,299 |
-| The Grand Sacrifice | 1.00% | ~7,150 |
-| Agonizing Escape | 1.00% | ~7,150 |
-| Backdoor Escape | 1.00% | ~7,150 |
-| I've got your back | 1.00% | ~7,150 |
-| No one left behind | 1.00% | ~7,150 |
-| Medic | 1.00% | ~7,150 |
-| Perfect Escape | 1.00% | ~7,150 |
-| Perfect Killing | 1.00% | ~7,150 |
-| Apt Killer | 1.00% | ~7,150 |
-| Risk it all | 1.00% | ~7,150 |
-| Vulture | 1.00% | ~7,150 |
-| II | 1.00% | ~7,150 |
-| III | 1.00% | ~7,150 |
-| III-50 | 1.00% | ~7,150 |
-| Engineer | 1.00% | ~7,150 |
-| Happy Holidays | 1.00% | ~7,150 |
-| Near-Death Experience | 1.00% | ~7,150 |
-| Blood on your hands | 0.90% | ~6,435 |
-| Escape Artist | 0.90% | ~6,435 |
-| Made it out alive! | 0.90% | ~6,435 |
-| Holiday Get-Together | 0.90% | ~6,435 |
-| Cherish your Life | 0.90% | ~6,435 |
-| Campbell's Chapel Legacy | 0.90% | ~6,435 |
+| No one left behind | 2.00% | ~14,301 |
+| Handyman | 2.00% | ~14,301 |
+| Nerves of steel | 2.00% | ~14,301 |
+| Zealous | 2.00% | ~14,301 |
+| It wakes | 2.00% | ~14,301 |
+| Not half bad | 2.00% | ~14,301 |
+| Bloody Millionaire | 2.00% | ~14,301 |
+| Apt Survivor | 2.00% | ~14,301 |
+| Survival Treasures | 2.00% | ~14,301 |
+| Skillful | 2.00% | ~14,301 |
+| I | 2.00% | ~14,301 |
+| II | 2.00% | ~14,301 |
+| Sorted | 2.00% | ~14,301 |
+| Complete the Evolution | 2.00% | ~14,301 |
+| Extraterrestrial | 2.00% | ~14,301 |
+| One More Step | 2.00% | ~14,301 |
+| The Grand Sacrifice | 1.00% | ~7,151 |
+| Made it out alive! | 1.00% | ~7,151 |
+| Agonizing Escape | 1.00% | ~7,151 |
+| Backdoor Escape | 1.00% | ~7,151 |
+| I've got your back | 1.00% | ~7,151 |
+| Medic | 1.00% | ~7,151 |
+| Perfect Escape | 1.00% | ~7,151 |
+| Perfect Killing | 1.00% | ~7,151 |
+| Apt Killer | 1.00% | ~7,151 |
+| Risk it all | 1.00% | ~7,151 |
+| Vulture | 1.00% | ~7,151 |
+| III | 1.00% | ~7,151 |
+| III-50 | 1.00% | ~7,151 |
+| Engineer | 1.00% | ~7,151 |
+| Happy Holidays | 1.00% | ~7,151 |
+| Near-Death Experience | 1.00% | ~7,151 |
+| Blood on your hands | 0.90% | ~6,436 |
+| Escape Artist | 0.90% | ~6,436 |
+| House of Pain | 0.90% | ~6,436 |
+| Holiday Get-Together | 0.90% | ~6,436 |
+| Cherish your Life | 0.90% | ~6,436 |
+| Campbell's Chapel Legacy | 0.90% | ~6,436 |
 | A bite for the Entity | 0.80% | ~5,720 |
 | Gifts for the Fog | 0.80% | ~5,720 |
 | Shock Therapy | 0.80% | ~5,720 |
 | All Aboard | 0.80% | ~5,720 |
 | Leapfrog | 0.80% | ~5,720 |
 | Item of Obsession | 0.80% | ~5,720 |
-| House of Pain | 0.80% | ~5,720 |
+| Cottage Owner | 0.80% | ~5,720 |
 | Escaping the Nightmare | 0.80% | ~5,720 |
+| Make Some Noise | 0.80% | ~5,720 |
 | Blood on your face | 0.70% | ~5,005 |
 | Deep Cleansing | 0.70% | ~5,005 |
-| Cottage Owner | 0.70% | ~5,005 |
 | Serial Killer | 0.70% | ~5,005 |
-| Make Some Noise | 0.70% | ~5,005 |
+| Game Over | 0.70% | ~5,005 |
 | Hemophobia | 0.60% | ~4,290 |
 | Texas BBQ | 0.60% | ~4,290 |
-| Game Over | 0.60% | ~4,290 |
 | Party Crasher | 0.60% | ~4,290 |
 | Outrage | 0.60% | ~4,290 |
 | Jump Scares | 0.50% | ~3,575 |
 | Blood in your mouth | 0.40% | ~2,860 |
+| Mad House | 0.40% | ~2,860 |
 | Whiffing to Success | 0.40% | ~2,860 |
 | A feast for the Entity | 0.30% | ~2,145 |
-| Mad House | 0.30% | ~2,145 |
 | Looter | 0.30% | ~2,145 |
 | In the void she walks | 0.20% | ~1,430 |
 | Milk 'n' Cookies | 0.20% | ~1,430 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.10% | ~715 |
 | Adept Cage | 0.10% | ~715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,954 (Ranked 18)  
+Progressed: 715,060 (Ranked 18)  
 Completed: 43 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 43 (0.01%) (Ranked 230)
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
 | 2023-07-25 | 713,895 | 43 |
-| 2023-07-26 | 714,954 | 43 |
+| 2023-07-26 | 715,060 | 43 |
 ## Awards
 Max (Diverse Characters): 30,242  (Ranked 15)  
 Sum: 239,541 (Ranked 12)  

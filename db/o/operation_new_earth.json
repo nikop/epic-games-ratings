@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2176,6 +2176,11 @@
       "Time": "2023-07-26T08:06:44.1529499+00:00",
       "NumProgressed": 631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T09:06:29.7653456+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2265,9 +2270,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_headquarters_15",
@@ -2289,9 +2294,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 184
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2363,7 +2368,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2409,9 +2414,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2427,7 +2432,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2435,7 +2440,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -2443,7 +2448,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2465,7 +2470,7 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -2490,14 +2495,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 634,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:06:44.1529494+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:06:29.7653449+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:01:51.7444868+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:06:44.1530218+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:01:32.0030178+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:06:29.7653954+00:00"
 }

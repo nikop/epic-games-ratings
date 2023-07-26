@@ -9,7 +9,7 @@
 | Good Person Chip | 87.00% | ~133 |
 | First winning | 86.00% | ~132 |
 | Your first job | 86.00% | ~132 |
-| First defeat | 80.00% | ~122 |
+| First defeat | 81.00% | ~124 |
 | Old movies enjoyer | 80.00% | ~122 |
 | Fitness professional | 78.00% | ~119 |
 | Depressed visitor | 77.00% | ~118 |
@@ -38,11 +38,11 @@
 | Legal courier | 39.00% | ~60 |
 | Now you are worthy | 36.00% | ~55 |
 | Escaped from a big trouble | 33.00% | ~50 |
+| Guiding on the right path | 32.00% | ~49 |
 | No blades in the gym | 31.00% | ~47 |
-| Guiding on the right path | 31.00% | ~47 |
 | Mysterious voice | 30.00% | ~46 |
+| Fight is life | 29.00% | ~44 |
 | Responsible approach | 29.00% | ~44 |
-| Fight is life | 28.00% | ~43 |
 | Champion – no way back | 27.00% | ~41 |
 | Deal with life | 25.00% | ~38 |
 | Poisoned fighter | 25.00% | ~38 |
@@ -57,17 +57,17 @@
 | Problems of cyborgs | 21.00% | ~32 |
 | Trap disarmed | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Undercover robot | 19.00% | ~29 |
+| Undercover robot | 20.00% | ~31 |
 | Keep nature safe | 18.00% | ~28 |
 | Not little hacker | 18.00% | ~28 |
 | Absolute Champion! | 18.00% | ~28 |
 | Careerist | 18.00% | ~28 |
+| Another world | 17.00% | ~26 |
+| The lonesome road | 17.00% | ~26 |
 | Family comes first | 17.00% | ~26 |
-| Another world | 16.00% | ~24 |
-| The lonesome road | 16.00% | ~24 |
-| Key memories | 16.00% | ~24 |
+| Key memories | 17.00% | ~26 |
+| The heart of the Resistance | 17.00% | ~26 |
 | Silver’s past | 16.00% | ~24 |
-| The heart of the Resistance | 16.00% | ~24 |
 | Better cooking at home | 14.00% | ~21 |
 | The only right decision | 12.00% | ~18 |
 ## Popularity (Based on EOS Achievements)

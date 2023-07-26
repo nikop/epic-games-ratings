@@ -6,17 +6,17 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,500 |
-| Finding Your Footing | 26.00% | ~8,500 |
+| Rookie | 26.00% | ~8,501 |
+| Finding Your Footing | 26.00% | ~8,501 |
 | Nomad | 18.00% | ~5,885 |
 | Picking Up Speed | 16.00% | ~5,231 |
 | Welcome Maya | 15.00% | ~4,904 |
 | Sightseer | 11.00% | ~3,596 |
-| Scout | 10.00% | ~3,269 |
-| Amateur | 9.00% | ~2,942 |
-| Enter Paz | 8.00% | ~2,615 |
-| Wanderer | 8.00% | ~2,615 |
-| Unlock Maya | 7.00% | ~2,288 |
+| Scout | 10.00% | ~3,270 |
+| Amateur | 9.00% | ~2,943 |
+| Enter Paz | 8.00% | ~2,616 |
+| Wanderer | 8.00% | ~2,616 |
+| Unlock Maya | 7.00% | ~2,289 |
 | Aviator | 6.00% | ~1,962 |
 | One With The Board | 6.00% | ~1,962 |
 | My Little Friend | 5.00% | ~1,635 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~33 |
 | Windswept | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,692 (Ranked 96)  
+Progressed: 32,695 (Ranked 96)  
 Completed: 5 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,10 +143,10 @@ Completed: 5 (0.02%) (Ranked 222)
 | 2023-07-23 | 32,367 | 5 |
 | 2023-07-24 | 32,512 | 5 |
 | 2023-07-25 | 32,659 | 5 |
-| 2023-07-26 | 32,692 | 5 |
+| 2023-07-26 | 32,695 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 411)  
-Sum: 356 (Ranked 322)  
+Sum: 357 (Ranked 322)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 89
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
 | This game has Diverse Characters | 28 |
-| This game has Amazing Storytelling | 27 |
+| This game has Amazing Storytelling | 28 |
 | This game has Amazing Characters | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -259,3 +259,4 @@ Diff (max vs sum): 89
 | 2023-07-21 | 4.70 | - | 45 | 353 |
 | 2023-07-22 | 4.70 | - | 45 | 355 |
 | 2023-07-23 | 4.70 | - | 45 | 356 |
+| 2023-07-26 | 4.70 | - | 45 | 357 |

@@ -30,9 +30,9 @@
 | Bullet Hell | 1.00% | ~2 |
 | Machine Man | 1.00% | ~2 |
 | Mushroom Man | 1.00% | ~2 |
+| Total Walrus | 1.00% | ~2 |
+| True Victory | 1.00% | ~2 |
 | Untouchable | 1.00% | ~2 |
-| Total Walrus | 0.70% | ~1 |
-| True Victory | 0.70% | ~1 |
 | Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)

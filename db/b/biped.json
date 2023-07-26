@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4591,
+  "EOS_Progressed": 4593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
@@ -6981,6 +6981,11 @@
       "Time": "2023-07-26T08:07:58.5781396+00:00",
       "NumProgressed": 4591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T09:07:40.9154353+00:00",
+      "NumProgressed": 4593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6992,7 +6997,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "10",
@@ -7048,7 +7053,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "3",
@@ -7088,7 +7093,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "8",
@@ -7104,14 +7109,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4591,
+      "Progressed": 4593,
       "Completed": 0
     }
   ],
@@ -7119,8 +7124,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:07:58.5781388+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:07:40.9154345+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:58:59.4976354+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:07:58.5782355+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:58:51.2594409+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:07:40.9154975+00:00"
 }

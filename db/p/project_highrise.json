@@ -1089,9 +1089,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_restaurants_5",
@@ -1257,9 +1257,9 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
@@ -1274,8 +1274,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:03:07.5344597+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:03:34.5228229+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:58:58.3333312+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:03:07.5346537+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:58:50.0592913+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:03:34.5229777+00:00"
 }

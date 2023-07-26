@@ -6113,9 +6113,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468137,
+  "EOS_Progressed": 468138,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16148,6 +16148,11 @@
       "Time": "2023-07-26T08:05:31.331737+00:00",
       "NumProgressed": 468137,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-26T09:05:23.3678475+00:00",
+      "NumProgressed": 468138,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -16343,7 +16348,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229387
+      "UsersEstimate": 229388
     },
     {
       "ID": "achievement_club_world_cup",
@@ -16391,7 +16396,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191936
+      "UsersEstimate": 191937
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -16447,7 +16452,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 131078
+      "UsersEstimate": 131079
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -16479,7 +16484,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191936
+      "UsersEstimate": 191937
     },
     {
       "ID": "achievement_head_to_head",
@@ -16599,7 +16604,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93627
+      "UsersEstimate": 93628
     },
     {
       "ID": "achievement_pick_feeder",
@@ -16703,7 +16708,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 220024
+      "UsersEstimate": 220025
     },
     {
       "ID": "achievement_signed_a_player",
@@ -16711,7 +16716,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234068
+      "UsersEstimate": 234069
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -16791,7 +16796,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234068
+      "UsersEstimate": 234069
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -16847,7 +16852,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56176
+      "UsersEstimate": 56177
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -16855,7 +16860,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 145122
+      "UsersEstimate": 145123
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -16942,15 +16947,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468137,
+      "Progressed": 468138,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-26T05:00:04.3989352+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:05:31.3317361+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:05:23.3678465+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0444975+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:01:43.0504751+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:05:31.3319598+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:01:21.8899578+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:05:23.3680814+00:00"
 }

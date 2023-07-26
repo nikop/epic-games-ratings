@@ -5296,9 +5296,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215620,
+  "EOS_Progressed": 215629,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2326,
+  "EOS_NewPlayers": 2324,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15656,6 +15656,11 @@
       "Time": "2023-07-26T08:02:01.3203235+00:00",
       "NumProgressed": 215620,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T09:01:41.536717+00:00",
+      "NumProgressed": 215629,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -15667,7 +15672,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "objective_completed_10",
@@ -15683,7 +15688,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_101",
@@ -15739,7 +15744,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_1051",
@@ -15969,9 +15974,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 2156
     },
     {
       "ID": "objective_completed_1090",
@@ -16035,7 +16040,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "objective_completed_110",
@@ -16099,7 +16104,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_1111",
@@ -16139,7 +16144,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_1121",
@@ -16225,9 +16230,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1941
     },
     {
       "ID": "objective_completed_1142",
@@ -16283,7 +16288,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_1152",
@@ -16291,7 +16296,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_1153",
@@ -16403,7 +16408,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_1174",
@@ -16529,9 +16534,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_1203",
@@ -16643,7 +16648,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_130",
@@ -16737,9 +16742,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1346",
@@ -16771,7 +16776,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_149",
@@ -16787,7 +16792,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_150",
@@ -16825,9 +16830,9 @@
       "ID": "objective_completed_155",
       "SetID": "cc37lbc",
       "Name": "Home Field Advantage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_156",
@@ -16859,7 +16864,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_165",
@@ -16891,7 +16896,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_17",
@@ -16995,7 +17000,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_20",
@@ -19627,7 +19632,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_1220",
@@ -19762,21 +19767,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181894,
-      "Completed": 2991
+      "Progressed": 181903,
+      "Completed": 2992
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215620,
+      "Progressed": 215629,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T08:02:01.3203222+00:00",
+  "LastChanged_Achievements": "2023-07-26T09:01:41.5367162+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:59:07.2902525+00:00",
-  "LastUpdate_Achievements": "2023-07-26T08:02:01.3269215+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:58:58.4926965+00:00",
+  "LastUpdate_Achievements": "2023-07-26T09:01:41.5399543+00:00"
 }
