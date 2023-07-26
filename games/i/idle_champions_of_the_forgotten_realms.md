@@ -8,12 +8,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,313 |
 | Beast Intentions | 2.00% | ~4,313 |
-| Maddening | 1.00% | ~2,156 |
-| The Silken Swamp | 1.00% | ~2,156 |
+| Maddening | 1.00% | ~2,157 |
+| The Silken Swamp | 1.00% | ~2,157 |
 | Supply Run | 0.90% | ~1,941 |
-| Rocky Reception | 0.80% | ~1,455 |
-| Vecna Lives! | 0.70% | ~1,273 |
-| Rock and Roll | 0.70% | ~1,273 |
+| Rocky Reception | 0.80% | ~1,456 |
+| Rock and Roll | 0.80% | ~1,456 |
+| Vecna Lives! | 0.70% | ~1,274 |
 | Vecna Loots! | 0.60% | ~1,092 |
 | Flight of the Kindori Pod | 0.60% | ~1,092 |
 | Topolah's Tower | 0.60% | ~1,092 |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.40% | ~863 |
 | Heavy Burden | 0.40% | ~863 |
 | The Evacuation of Waterdeep | 0.40% | ~728 |
+| Friends of the Forest | 0.40% | ~863 |
 | Heatwave | 0.40% | ~728 |
 | The Dread Domain of Tovag | 0.40% | ~728 |
 | Were-verpowered | 0.40% | ~863 |
@@ -50,7 +51,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.30% | ~647 |
 | Best Thay Ever | 0.30% | ~546 |
 | A Demi-god's Defender | 0.30% | ~546 |
-| Friends of the Forest | 0.30% | ~647 |
 | No One Can Hear You Scream | 0.30% | ~546 |
 | Welcome to the Rock | 0.30% | ~546 |
 | Low Initiative | 0.30% | ~647 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,650 (Ranked 53)  
+Progressed: 215,668 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,650 | 2,111 |
+| 2023-07-26 | 215,668 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

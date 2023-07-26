@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 125.00% | ~5 |
+| Welcome to Mega City | 150.00% | ~6 |
+| Licence To Kill | 50.00% | ~2 |
 | Law and Order | 25.00% | ~1 |
-| Licence To Kill | 25.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |

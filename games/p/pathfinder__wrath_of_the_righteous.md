@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,222 |
-| A Spark | 15.00% | ~1,587 |
-| Burning City | 14.00% | ~1,481 |
+| Devoured by Darkness | 21.00% | ~2,223 |
+| A Spark | 15.00% | ~1,588 |
+| Burning City | 14.00% | ~1,482 |
 | Mythic Choices | 12.00% | ~1,270 |
 | Defender's Heart | 12.00% | ~1,270 |
 | Banner over the Citadel | 11.00% | ~1,164 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 4.00% | ~423 |
 | Next-Door Play | 4.00% | ~423 |
 | Get the Toad | 4.00% | ~423 |
-| Heart of the Fallen Land | 3.00% | ~317 |
-| Divide and Rule | 3.00% | ~317 |
-| Mythic Reinforcements | 3.00% | ~317 |
-| A Flame | 3.00% | ~317 |
-| Hey, I Know You! | 3.00% | ~317 |
+| Heart of the Fallen Land | 3.00% | ~318 |
+| Divide and Rule | 3.00% | ~318 |
+| Mythic Reinforcements | 3.00% | ~318 |
+| A Flame | 3.00% | ~318 |
+| Hey, I Know You! | 3.00% | ~318 |
 | The Lady of the Forest | 3.00% | ~281 |
 | Beware Still Water | 3.00% | ~281 |
 | Path of the Aeon | 2.00% | ~212 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.70% | ~74 |
 | Playful Mood | 0.70% | ~74 |
 | Truly Profane Gift | 0.70% | ~74 |
-| Dreadful Dragon | 0.60% | ~63 |
+| Dreadful Dragon | 0.60% | ~64 |
 | Masterful Charge | 0.50% | ~53 |
 | Prelate's Nemesis | 0.40% | ~42 |
 | Just Pathetic | 0.30% | ~32 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,582 (Ranked 118)  
+Progressed: 10,584 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 10,524 | 0 |
 | 2023-07-24 | 10,551 | 0 |
 | 2023-07-25 | 10,575 | 0 |
-| 2023-07-26 | 10,582 | 0 |
+| 2023-07-26 | 10,584 | 0 |
 ## Awards
 Max (Character Customization): 1,690  (Ranked 117)  
 Sum: 6,841 (Ranked 115)  

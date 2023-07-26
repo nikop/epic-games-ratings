@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-07-25T21:05:40.3831853+00:00",
       "NumProgressed": 899,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-26T12:04:48.6834905+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1126,9 +1131,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1198,9 +1203,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1208,7 +1213,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1216,7 +1221,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1248,7 +1253,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1264,7 +1269,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_STAR_2",
@@ -1320,14 +1325,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 15
     }
   ],
@@ -1335,8 +1340,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:05:47.7044552+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:04:48.68349+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:57:53.7105087+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:05:47.7044881+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:57:39.1007946+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:04:48.6835172+00:00"
 }

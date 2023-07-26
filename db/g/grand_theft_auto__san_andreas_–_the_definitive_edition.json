@@ -590,21 +590,27 @@
       "Rating": 4.56,
       "NumberOfAwards": 228,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-07-26T12:00:19.6576509+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 229,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228,
-  "NumberOfAwardsMax": 228,
+  "NumberOfAwards": 229,
+  "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 228
+      "Count": 229
     }
   ],
-  "EOS_Progressed": 11373,
+  "EOS_Progressed": 11374,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -7419,6 +7425,11 @@
       "Time": "2023-07-26T11:08:15.7818307+00:00",
       "NumProgressed": 11373,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-26T12:06:33.2783204+00:00",
+      "NumProgressed": 11374,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7430,7 +7441,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "ACH02",
@@ -7486,7 +7497,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "ACH09",
@@ -7606,7 +7617,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "ACH24",
@@ -7709,16 +7720,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11373,
+      "Progressed": 11374,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-24T04:01:31.0123071+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:08:15.78183+00:00",
+  "LastChanged": "2023-07-26T12:00:19.6576508+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:06:33.2783193+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:01:52.9020042+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:08:15.7819032+00:00"
+  "LastUpdate_Ratings": "2023-07-26T12:00:19.6576514+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:06:33.2783932+00:00"
 }

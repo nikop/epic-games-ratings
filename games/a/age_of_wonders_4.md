@@ -23,6 +23,8 @@ Rating: 4.63 (Ranked 331)
 | Valley of Wonders | 3.00% | ~151 |
 | There Can Only Be One! | 3.00% | ~151 |
 | Full Ascension | 3.00% | ~151 |
+| Digging for Treasure | 3.00% | ~151 |
+| Preparation Is Everything | 3.00% | ~151 |
 | In a Liege of Your Own | 3.00% | ~151 |
 | Fiery Friend | 3.00% | ~151 |
 | Against the Odds | 3.00% | ~151 |
@@ -36,9 +38,7 @@ Rating: 4.63 (Ranked 331)
 | Enchanted Archipelago | 2.00% | ~101 |
 | The Goddess of Nature | 2.00% | ~101 |
 | Eternal Lord | 2.00% | ~101 |
-| Digging for Treasure | 2.00% | ~101 |
 | Crimson Caldera | 2.00% | ~101 |
-| Preparation Is Everything | 2.00% | ~101 |
 | The Eternal Court | 2.00% | ~101 |
 | Duality | 2.00% | ~101 |
 | Jack of All Tomes | 1.00% | ~50 |

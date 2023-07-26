@@ -24,16 +24,16 @@
 | Employee of the month | 60.00% | ~92 |
 | Pal of your father? | 58.00% | ~89 |
 | Spirit of the past | 56.00% | ~86 |
+| Workout professional | 54.00% | ~83 |
 | Law student | 54.00% | ~83 |
-| Workout professional | 53.00% | ~81 |
 | Little hacker | 53.00% | ~81 |
 | Your own way | 52.00% | ~80 |
-| Fight for life | 48.00% | ~73 |
-| Champion – starter pack | 48.00% | ~73 |
+| Champion – starter pack | 50.00% | ~76 |
+| Fight for life | 49.00% | ~75 |
+| It's good to be alive | 48.00% | ~73 |
 | Employee of the year | 48.00% | ~73 |
-| It's good to be alive | 47.00% | ~72 |
-| Handyman | 46.00% | ~70 |
-| Own four walls | 46.00% | ~70 |
+| Handyman | 47.00% | ~72 |
+| Own four walls | 47.00% | ~72 |
 | Extreme neuropower! | 43.00% | ~66 |
 | Legal courier | 39.00% | ~60 |
 | Now you are worthy | 37.00% | ~57 |
@@ -52,16 +52,16 @@
 | The die is cast | 25.00% | ~38 |
 | Seashell hunter | 25.00% | ~38 |
 | GYM professional | 24.00% | ~37 |
-| Anyone can resist | 23.00% | ~35 |
-| Gang wrangler | 22.00% | ~34 |
+| Anyone can resist | 24.00% | ~37 |
+| Gang wrangler | 23.00% | ~35 |
 | Problems of cyborgs | 22.00% | ~34 |
+| Undercover robot | 21.00% | ~32 |
 | Trap disarmed | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Undercover robot | 20.00% | ~31 |
+| Careerist | 19.00% | ~29 |
 | Keep nature safe | 18.00% | ~28 |
 | Not little hacker | 18.00% | ~28 |
 | Absolute Champion! | 18.00% | ~28 |
-| Careerist | 18.00% | ~28 |
 | Another world | 17.00% | ~26 |
 | The lonesome road | 17.00% | ~26 |
 | Family comes first | 17.00% | ~26 |
@@ -72,7 +72,7 @@
 | The only right decision | 12.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 292)  
-Completed: 4 (2.61%) (Ranked 71)  
+Completed: 5 (3.27%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,4 +83,4 @@ Completed: 4 (2.61%) (Ranked 71)
 | 2023-07-23 | 115 | 0 |
 | 2023-07-24 | 138 | 1 |
 | 2023-07-25 | 150 | 4 |
-| 2023-07-26 | 153 | 4 |
+| 2023-07-26 | 153 | 5 |

@@ -10,7 +10,7 @@
 | A new World ahead | 26.00% | ~8 |
 | Don't Cry Wolf | 23.00% | ~7 |
 | Can't touch this | 23.00% | ~7 |
-| Apprentice | 19.00% | ~6 |
+| Apprentice | 23.00% | ~7 |
 | Freezing Cold | 10.00% | ~3 |
 | Through Dangers Untold | 10.00% | ~3 |
 | The Golden Flash | 10.00% | ~3 |

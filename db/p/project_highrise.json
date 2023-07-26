@@ -713,9 +713,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_consultants_b",
@@ -1105,9 +1105,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_retail_2",
@@ -1274,8 +1274,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:03:25.1230017+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:02:18.7385606+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:58:59.1295498+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:03:25.1231917+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:58:20.3288273+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:02:18.7386762+00:00"
 }

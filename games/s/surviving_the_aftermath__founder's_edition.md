@@ -55,10 +55,10 @@ Number of Ratings: 836  (23.09.2022)
 | Diplomat | 2.00% | ~154 |
 | Doomsday is canceled | 2.00% | ~154 |
 | Biggest Catastrofan | 2.00% | ~154 |
+| True Survivor | 2.00% | ~154 |
 | The Friendliest | 1.00% | ~77 |
 | Legendary Adventurer | 1.00% | ~77 |
 | A Closer Look | 1.00% | ~77 |
-| True Survivor | 1.00% | ~77 |
 | Slimy yet Satisfying | 0.90% | ~69 |
 | Feng Shui | 0.90% | ~69 |
 | Finnished | 0.30% | ~23 |

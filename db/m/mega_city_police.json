@@ -4,7 +4,7 @@
   "ProductSlug": "mega-city-police-22a245",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 125,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DECAPITATE_50",
@@ -244,9 +244,9 @@
       "ID": "ACH_TUTORIAL",
       "SetID": "a2aifpa",
       "Name": "Licence To Kill",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -258,8 +258,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:06:32.1996114+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:05:20.2119806+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.5663951+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:00:01.5544396+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:06:32.1996421+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:59:04.3670339+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:05:20.2120012+00:00"
 }

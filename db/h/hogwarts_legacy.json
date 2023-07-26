@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 110,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5490,9 +5490,9 @@
       "Count": 565
     }
   ],
-  "EOS_Progressed": 288595,
+  "EOS_Progressed": 288600,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15895,6 +15895,11 @@
       "Time": "2023-07-26T10:04:26.1937288+00:00",
       "NumProgressed": 288595,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-26T12:04:39.0623289+00:00",
+      "NumProgressed": 288600,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15906,7 +15911,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34631
+      "UsersEstimate": 34632
     },
     {
       "ID": "PFA_10",
@@ -16234,7 +16239,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31745
+      "UsersEstimate": 31746
     },
     {
       "ID": "PFA_7",
@@ -16265,7 +16270,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288595,
+      "Progressed": 288600,
       "Completed": 434
     }
   ],
@@ -16273,8 +16278,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-26T10:58:12.8347536+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:05:33.0760342+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:04:39.0623285+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:58:12.8347543+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:05:33.0761446+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:57:51.4116495+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:04:39.0624271+00:00"
 }

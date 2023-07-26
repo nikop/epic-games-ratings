@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
 | Mythology | 0.20% | ~26 |
+| Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
@@ -215,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Legalism | 0.10% | ~13 |
-| Redemption | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |

@@ -19,8 +19,8 @@
 | Happy Tenants | 25.00% | ~66 |
 | Your Prestige is Rising | 23.00% | ~61 |
 | Potent Potables | 23.00% | ~61 |
+| Retail Revenue | 23.00% | ~61 |
 | Smooth Service | 23.00% | ~61 |
-| Retail Revenue | 22.00% | ~58 |
 | Lux Living | 21.00% | ~55 |
 | People Mover | 20.00% | ~53 |
 | Emporium Empire | 20.00% | ~53 |
@@ -41,11 +41,11 @@
 | Thrilled Tenants | 14.00% | ~37 |
 | Swimming in Surplus | 12.00% | ~32 |
 | 28 Days Later | 11.00% | ~29 |
+| Aestheticly Pleased | 9.00% | ~24 |
 | Master of Puppets | 9.00% | ~24 |
 | Refined Palates | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~21 |
-| Aestheticly Pleased | 8.00% | ~21 |
 | Meet Me at HQ | 8.00% | ~21 |
 | Plaza Plan | 8.00% | ~21 |
 | Revenue Royalty | 8.00% | ~21 |

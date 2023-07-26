@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4312,
+  "EOS_Progressed": 4313,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6800,6 +6800,11 @@
       "Time": "2023-07-26T11:06:54.8594147+00:00",
       "NumProgressed": 4312,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T12:05:36.394573+00:00",
+      "NumProgressed": 4313,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6907,7 +6912,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6947,7 +6952,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -6971,7 +6976,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7083,7 +7088,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7130,15 +7135,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4312,
+      "Progressed": 4313,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:06:54.8594138+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:05:36.3945722+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:01:56.3855771+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:06:54.8595316+00:00"
+  "LastUpdate_Ratings": "2023-07-26T12:00:21.9655205+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:05:36.394639+00:00"
 }

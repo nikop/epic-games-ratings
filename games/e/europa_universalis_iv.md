@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,685 |
-| That's a Grand Army | 8.00% | ~5,942 |
-| That is mine! | 8.00% | ~5,942 |
-| Victorious! | 8.00% | ~5,942 |
-| Brothers in Arms | 6.00% | ~4,457 |
-| That's a Grand Navy | 6.00% | ~4,457 |
-| Seriously?! | 6.00% | ~4,457 |
-| For the Glory | 5.00% | ~3,714 |
-| Cold War | 4.00% | ~2,971 |
-| True Catholic | 4.00% | ~2,971 |
-| Defender of the Faith | 3.00% | ~2,228 |
-| It's all about luck | 3.00% | ~2,228 |
-| It's all about the money | 3.00% | ~2,228 |
-| Respected | 3.00% | ~2,228 |
-| The Princess is in this Castle | 3.00% | ~2,228 |
-| Truly Divine Ruler | 3.00% | ~2,228 |
+| Until death do us apart | 9.00% | ~6,687 |
+| That's a Grand Army | 8.00% | ~5,944 |
+| That is mine! | 8.00% | ~5,944 |
+| Victorious! | 8.00% | ~5,944 |
+| Brothers in Arms | 6.00% | ~4,458 |
+| That's a Grand Navy | 6.00% | ~4,458 |
+| Seriously?! | 6.00% | ~4,458 |
+| For the Glory | 5.00% | ~3,715 |
+| Cold War | 4.00% | ~2,972 |
+| True Catholic | 4.00% | ~2,972 |
+| Defender of the Faith | 3.00% | ~2,229 |
+| It's all about luck | 3.00% | ~2,229 |
+| It's all about the money | 3.00% | ~2,229 |
+| Respected | 3.00% | ~2,229 |
+| The Princess is in this Castle | 3.00% | ~2,229 |
+| Truly Divine Ruler | 3.00% | ~2,229 |
 | Agressive Expander | 2.00% | ~1,486 |
 | Blockader | 2.00% | ~1,486 |
 | Combined Arms | 2.00% | ~1,486 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~297 |
 | Tear Down This Wall | 0.40% | ~297 |
 | The Continuation of Diplomacy | 0.40% | ~297 |
-| Traditional Player | 0.40% | ~297 |
 | Wonderful | 0.40% | ~297 |
 | A Decent Reserve | 0.30% | ~223 |
 | A Pile of Gold | 0.30% | ~223 |
@@ -80,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~223 |
 | The Chrysanthemum Throne | 0.30% | ~223 |
 | Three Trivial Tributary Tribes | 0.30% | ~223 |
+| Traditional Player | 0.30% | ~223 |
 | Vasa or Wettin? | 0.30% | ~223 |
 | World Discoverer | 0.30% | ~223 |
 | A Protected Market | 0.20% | ~149 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,279 (Ranked 74)  
+Progressed: 74,296 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
-| 2023-07-26 | 74,279 | 0 |
+| 2023-07-26 | 74,296 | 0 |
 ## Awards
 Max (Educational): 5,583  (Ranked 61)  
 Sum: 46,028 (Ranked 26)  

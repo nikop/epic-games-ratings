@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 811)  
+Rating: 4.25 (Ranked 812)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.25 (Ranked 811)
 | Overheated | 30.00% | ~568 |
 | High Performance | 30.00% | ~568 |
 | Powered Up | 28.00% | ~530 |
-| Studied The Blade | 24.00% | ~454 |
+| Studied The Blade | 25.00% | ~473 |
 | Home Invasion | 23.00% | ~435 |
 | Luminary | 22.00% | ~416 |
 | It's a Trap | 22.00% | ~416 |

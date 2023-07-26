@@ -3347,9 +3347,9 @@
       "ID": "ACH_MAX_RECON",
       "SetID": "816efe",
       "Name": "Frontliner",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3548,8 +3548,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-25T20:00:25.2549705+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:03:41.6504477+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:03:10.276315+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:00:44.7567245+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:03:41.6505458+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:59:32.75466+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:03:10.2763758+00:00"
 }

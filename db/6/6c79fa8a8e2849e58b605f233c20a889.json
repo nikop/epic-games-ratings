@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2125,
+  "EOS_Progressed": 2126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4131,6 +4131,11 @@
       "Time": "2023-07-26T10:03:39.4854509+00:00",
       "NumProgressed": 2125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T12:03:42.4302927+00:00",
+      "NumProgressed": 2126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4166,7 +4171,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "CONQUEROR",
@@ -4206,7 +4211,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -4246,7 +4251,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "GUARD_MAKER",
@@ -4286,7 +4291,7 @@
       "Name": "Chief Physician",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -4317,14 +4322,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2125,
+      "Progressed": 2126,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:04:27.2884086+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:03:42.4302922+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.9403478+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:57:51.9964213+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:04:27.2884566+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:57:37.9443354+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:03:42.4303351+00:00"
 }

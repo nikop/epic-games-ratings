@@ -938,9 +938,9 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ETUA_Researcher",
@@ -1091,8 +1091,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:07:23.1910763+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:05:56.368977+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:57:49.099898+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:07:23.1911387+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:57:35.7776538+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:05:56.3690147+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16233,
+  "EOS_Progressed": 16234,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 608,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 604,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
@@ -10549,6 +10549,11 @@
       "Time": "2023-07-26T11:05:10.3265033+00:00",
       "NumProgressed": 16233,
       "NumCompleted": 337
+    },
+    {
+      "Time": "2023-07-26T12:04:22.7670463+00:00",
+      "NumProgressed": 16234,
+      "NumCompleted": 337
     }
   ],
   "TotalAchievements": 20,
@@ -10680,7 +10685,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12337
+      "UsersEstimate": 12338
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10688,7 +10693,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "NORTH_FINISHED",
@@ -10719,15 +10724,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16233,
+      "Progressed": 16234,
       "Completed": 337
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:05:10.3265024+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:04:22.7670456+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:01:42.8544904+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:05:10.3266384+00:00"
+  "LastUpdate_Ratings": "2023-07-26T12:00:12.3320836+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:04:22.7672095+00:00"
 }

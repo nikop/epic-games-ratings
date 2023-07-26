@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7495,
+  "EOS_Progressed": 7496,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6268,6 +6268,11 @@
       "Time": "2023-07-26T11:03:42.4283348+00:00",
       "NumProgressed": 7495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T12:03:10.8340854+00:00",
+      "NumProgressed": 7496,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6335,7 +6340,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "0009",
@@ -6367,7 +6372,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "0013",
@@ -6383,7 +6388,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "0015",
@@ -6471,7 +6476,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "0026",
@@ -6566,7 +6571,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7495,
+      "Progressed": 7496,
       "Completed": 1
     }
   ],
@@ -6574,8 +6579,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:03:42.4283339+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:03:10.8340849+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:01:11.7096846+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:03:42.4284492+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:59:50.0083713+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:03:10.834153+00:00"
 }

@@ -407,9 +407,9 @@
       "ID": "secret23",
       "SetID": "39f6ck8",
       "Name": "Fashion Victim",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "secret24",
@@ -535,9 +535,9 @@
       "ID": "secret38",
       "SetID": "39f6ck8",
       "Name": "Loyal Companion",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "secret39",
@@ -720,8 +720,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:03:28.4157182+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:02:21.1661614+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.8489819+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:01:29.6415898+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:03:28.4157813+00:00"
+  "LastUpdate_Ratings": "2023-07-26T12:00:02.050747+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:02:21.1662136+00:00"
 }

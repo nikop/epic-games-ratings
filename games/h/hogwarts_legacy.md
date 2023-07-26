@@ -1,12 +1,12 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 110)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,631 |
-| First Class Student | 11.00% | ~31,745 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,632 |
+| First Class Student | 11.00% | ~31,746 |
 | A Keen Sense of Spell | 10.00% | ~28,860 |
 | Troll with the Punches | 10.00% | ~28,860 |
 | Grappling with a Graphorn | 9.00% | ~25,974 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,595 (Ranked 42)  
+Progressed: 288,600 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
-| 2023-07-26 | 288,595 | 434 |
+| 2023-07-26 | 288,600 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
 Sum: 39,910 (Ranked 30)  

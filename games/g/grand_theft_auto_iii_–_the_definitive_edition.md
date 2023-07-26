@@ -5,37 +5,37 @@ Rating: 4.17 (Ranked 866)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,933 |
-| Disposing of the Evidence | 37.00% | ~2,645 |
-| Without a Scratch | 33.00% | ~2,359 |
-| Wreckless Driving | 28.00% | ~2,001 |
-| A Marked Man | 25.00% | ~1,787 |
+| First Day on the Job | 83.00% | ~5,935 |
+| Disposing of the Evidence | 37.00% | ~2,646 |
+| Without a Scratch | 33.00% | ~2,360 |
+| Wreckless Driving | 28.00% | ~2,002 |
+| A Marked Man | 25.00% | ~1,788 |
 | Street Sweeper | 18.00% | ~1,287 |
 | Liberty City Minute | 16.00% | ~1,144 |
-| Offshore Delivery | 13.00% | ~929 |
+| Offshore Delivery | 13.00% | ~930 |
 | Dirty Money | 12.00% | ~858 |
 | By a Mile | 10.00% | ~715 |
 | Right-hand Man | 10.00% | ~715 |
-| Not So Fast | 9.00% | ~643 |
-| A Gift from the King | 7.00% | ~500 |
+| Not So Fast | 9.00% | ~644 |
+| A Gift from the King | 7.00% | ~501 |
 | Full Artillery | 4.00% | ~286 |
 | Mob Boss | 2.00% | ~143 |
 | Splish Splash | 2.00% | ~143 |
 | Liberty City Secrets | 2.00% | ~143 |
-| Escape Artist | 1.00% | ~71 |
-| Planned Ahead | 1.00% | ~71 |
-| Got This Figured Out | 1.00% | ~71 |
-| Wheels Up | 1.00% | ~71 |
-| Come Out to Play-y-y-y | 1.00% | ~71 |
-| Where To? | 1.00% | ~71 |
-| Man Toyz | 1.00% | ~71 |
-| Playing Doctor | 1.00% | ~71 |
-| Going Rogue | 1.00% | ~71 |
+| Escape Artist | 1.00% | ~72 |
+| Planned Ahead | 1.00% | ~72 |
+| Got This Figured Out | 1.00% | ~72 |
+| Wheels Up | 1.00% | ~72 |
+| Come Out to Play-y-y-y | 1.00% | ~72 |
+| Where To? | 1.00% | ~72 |
+| Man Toyz | 1.00% | ~72 |
+| Playing Doctor | 1.00% | ~72 |
+| Going Rogue | 1.00% | ~72 |
 | Furious First Responder | 0.90% | ~64 |
 | Is That All You've Got? | 0.80% | ~57 |
 | King of Liberty City | 0.60% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,148 (Ranked 129)  
+Progressed: 7,151 (Ranked 129)  
 Completed: 41 (0.57%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 41 (0.57%) (Ranked 122)
 | 2023-07-23 | 7,092 | 41 |
 | 2023-07-24 | 7,117 | 41 |
 | 2023-07-25 | 7,138 | 41 |
-| 2023-07-26 | 7,148 | 41 |
+| 2023-07-26 | 7,151 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

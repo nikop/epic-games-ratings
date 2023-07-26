@@ -50,10 +50,10 @@ Rating: 4.10 (Ranked 890)
 | Dragon Slayer | 6.00% | ~103 |
 | Engineer Mastery | 6.00% | ~103 |
 | How Do You Turn This On? | 6.00% | ~103 |
+| Lock And Load | 6.00% | ~103 |
 | Missions Dedication | 6.00% | ~103 |
 | Weekly Quest Completionist | 6.00% | ~103 |
 | Ancient Knowledge | 5.00% | ~86 |
-| Lock And Load | 5.00% | ~86 |
 | Active Member | 4.00% | ~69 |
 | Background Story | 4.00% | ~69 |
 | Legendary | 4.00% | ~69 |

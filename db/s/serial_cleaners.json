@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.71,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-07-26T04:04:28.0040392+00:00",
       "NumProgressed": 221,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-26T12:04:26.2465334+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -409,7 +414,7 @@
       "Name": "Pride and Joy",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -447,9 +452,9 @@
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -551,9 +556,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "VIPER_HACKING",
@@ -568,13 +573,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 6
     }
   ],
@@ -582,8 +587,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:05:14.9801023+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:04:26.2465323+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:00:33.2828427+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:05:14.9801351+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:59:26.6130579+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:04:26.2465548+00:00"
 }

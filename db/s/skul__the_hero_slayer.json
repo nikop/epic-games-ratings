@@ -902,9 +902,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8004,
+  "EOS_Progressed": 8005,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3787,6 +3787,11 @@
       "Time": "2023-07-26T10:04:48.3596777+00:00",
       "NumProgressed": 8004,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-26T12:05:01.4374693+00:00",
+      "NumProgressed": 8005,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3838,7 +3843,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "FakeGoddessGone",
@@ -3894,7 +3899,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "LeoniasFall_2",
@@ -3934,7 +3939,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "SkeletonKing",
@@ -3950,7 +3955,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "TheLegendBegins",
@@ -3958,7 +3963,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3982,22 +3987,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8004,
+      "Progressed": 8005,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-26T11:06:05.5672057+00:00",
+  "LastChanged_Achievements": "2023-07-26T12:05:01.4374689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-26T11:00:21.0054566+00:00",
-  "LastUpdate_Achievements": "2023-07-26T11:06:05.5672658+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:59:19.4112018+00:00",
+  "LastUpdate_Achievements": "2023-07-26T12:05:01.4375072+00:00"
 }

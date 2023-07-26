@@ -13,14 +13,15 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 0.40% | ~12 |
 | Bloodless | 0.40% | ~12 |
 | Surgical Excision | 0.20% | ~6 |
+| Blood for the Blood God! | 0.20% | ~6 |
 | Friendly Fire | 0.20% | ~6 |
 | Purging Spree | 0.20% | ~6 |
 | A Foul Creche | 0.20% | ~6 |
+| Execution Force | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
 | Honoured Battle-Brother | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |
 | Hold Your Ground | 0.10% | ~3 |
-| Blood for the Blood God! | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Mind Like a Fortress | 0.10% | ~3 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 0.10% | ~3 |
 | Long Distance Call | 0.10% | ~3 |
 | Tactical Flexibility | 0.10% | ~3 |
-| Execution Force | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
