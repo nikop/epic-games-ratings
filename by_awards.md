@@ -391,7 +391,7 @@
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.59 | 412 |
 | 389 | [Returnal™](games/r/returnal™.md) | 58 | 4.61 | 367 |
 | 391 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 57 | 4.32 | 765 |
-| 392 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 56 | 4.57 | 442 |
+| 391 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 57 | 4.57 | 442 |
 | 393 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 891 |
 | 393 | [Ranch Simulator](games/r/ranch_simulator.md) | 52 | 4.45 | 624 |
 | 393 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 52 | 4.66 | 276 |
@@ -460,7 +460,7 @@
 | 457 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 442 |
 | 459 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 935 |
 | 459 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 624 |
-| 459 | [Poker Club](games/p/poker_club.md) | 29 | 3.80 | 945 |
+| 459 | [Poker Club](games/p/poker_club.md) | 29 | 3.81 | 945 |
 | 459 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 765 |
 | 463 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 77 |
 | 463 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 110 |

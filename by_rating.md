@@ -459,7 +459,7 @@
 | 442 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
 | 442 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,039 | 19 |
 | 442 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,757 | 115 |
-| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 56 | 392 |
+| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 391 |
 | 461 | [Aimlabs](games/a/aimlabs.md) | 4.56 | 0 | 506 |
 | 461 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 506 |
 | 461 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 506 |
@@ -944,7 +944,7 @@
 | 941 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 506 |
 | 941 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 376 |
 | 941 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 506 |
-| 945 | [Poker Club](games/p/poker_club.md) | 3.80 | 29 | 459 |
+| 945 | [Poker Club](games/p/poker_club.md) | 3.81 | 29 | 459 |
 | 946 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 0 | 506 |
 | 947 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,051 | 139 |
 | 947 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 506 |

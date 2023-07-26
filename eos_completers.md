@@ -23,8 +23,8 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.90% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.85% |
+| 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.85% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.85% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,7 +43,7 @@
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.74% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.71% |
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
@@ -70,7 +70,7 @@
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.71% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 70 | [Lamentum](games/l/lamentum.md) | 2.63% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.63% |
+| 71 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.61% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
@@ -369,6 +369,7 @@
 | 242 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 242 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
 | 242 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 0.00% |
+| 242 | [Mega City Police](games/m/mega_city_police.md) | 0.00% |
 | 242 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 0.00% |
 | 242 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 0.00% |
 | 242 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 0.00% |
