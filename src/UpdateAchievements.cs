@@ -1,4 +1,6 @@
-﻿using EpicRatingsUpdater.EGSApi;
+﻿using Discord.Webhook;
+
+using EpicRatingsUpdater.EGSApi;
 using EpicRatingsUpdater.GameDatabase;
 
 using GraphQL.Client.Http;
@@ -9,8 +11,27 @@ namespace EpicRatingsUpdater
     {
         DateTimeOffset newPlayersCutOff = DateTimeOffset.UtcNow.AddDays(-7);
 
+        DiscordWebhookClient? webhookClient = null;
+
         internal UpdateAchievements()
         {
+            try
+            {
+                var webhookUri = Environment.GetEnvironmentVariable("WEBHOOK_ACHIEVEMENTS");
+
+                if (webhookUri != null)
+                {
+                    webhookClient = new(webhookUri);
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+            if (webhookClient == null)
+            {
+                Console.WriteLine("::error::Webhook uri is invalid/missing");
+            }
         }
 
         public async Task Run(List<GameDbItem> items)
@@ -104,6 +125,7 @@ namespace EpicRatingsUpdater
                     if (item.FirstSeenAchievements == null)
                     {
                         item.FirstSeenAchievements = DateTimeOffset.UtcNow;
+
                     }
                 }
 
@@ -116,6 +138,7 @@ namespace EpicRatingsUpdater
                 if (previousAchies == 0 && item.TotalAchievements > 0)
                 {
                     item.AchievementsAdded = DateTimeOffset.UtcNow;
+                    webhookClient?.SendMessageAsync($"Achievements Added: [{item.Name}](https://epicgames.com/achievements/{item.ProductSlug}) - {item.TotalAchievements} achievements for {item.TotalAchievementsXP} XP");
                 }
 
                 // Sets

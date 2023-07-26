@@ -18,4 +18,7 @@ jobs:
     - name: Git Config
       run: git config user.name rebuild-bot && git config user.email 117409949+rebuild-bot@users.noreply.github.com
     - name: Run Updater
+      env:
+          WEBHOOK_APPS: ${{ secrets.WEBHOOK_APPS }}
+          WEBHOOK_ACHIEVEMENTS: ${{ secrets.WEBHOOK_ACHIEVEMENTS }}
       run: ./update.sh

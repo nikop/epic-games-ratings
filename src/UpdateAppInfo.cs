@@ -1,4 +1,6 @@
-﻿using EpicRatingsUpdater.EGSApi;
+﻿using Discord.Webhook;
+
+using EpicRatingsUpdater.EGSApi;
 using EpicRatingsUpdater.GameDatabase;
 
 using GraphQL.Client.Http;
@@ -9,8 +11,27 @@ namespace EpicRatingsUpdater
 {
     internal class UpdateAppInfo
     {
+        DiscordWebhookClient? webhookClient = null;
+
         internal UpdateAppInfo()
         {
+            try
+            {
+                var webhookUri = Environment.GetEnvironmentVariable("WEBHOOK_APPS");
+
+                if (webhookUri != null)
+                {
+                    webhookClient = new(webhookUri);
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+            if (webhookClient == null)
+            {
+                Console.WriteLine("::error::Webhook uri is invalid/missing");
+            }
         }
 
         public async Task Run(GlobalDb globalDb, List<GameDbItem> items)

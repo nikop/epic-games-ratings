@@ -1,10 +1,35 @@
-﻿using EpicRatingsUpdater.EGSApi;
+﻿using Discord.Webhook;
+
+using EpicRatingsUpdater.EGSApi;
 using EpicRatingsUpdater.GameDatabase;
 
 namespace EpicRatingsUpdater
 {
     internal class UpdateCatalog
     {
+        DiscordWebhookClient? webhookClient = null;
+
+        public UpdateCatalog()
+        {
+            try
+            {
+                var webhookUri = Environment.GetEnvironmentVariable("WEBHOOK_APPS");
+
+                if (webhookUri != null)
+                {
+                    webhookClient = new(webhookUri);
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+            if (webhookClient == null)
+            {
+                Console.WriteLine("::error::Webhook uri is invalid/missing");
+            }
+        }
+
         List<string> IgnoredAttributes = new List<string>
         {
             "epicgames.app.productSlug",
@@ -124,6 +149,11 @@ namespace EpicRatingsUpdater
                         item.Store.isBlockchainUsed = blockChain?.value.Equals("true", StringComparison.InvariantCultureIgnoreCase) == true;
 
                         item.Store.CustomAttributes.Clear();
+
+                        if (item.IsNew)
+                        {
+                            webhookClient?.SendMessageAsync($"New App: [{item.Name}](https://epicgames.com/product/{item.ProductSlug})");
+                        }
 
                         foreach (var attr in el.customAttributes)
                         {
