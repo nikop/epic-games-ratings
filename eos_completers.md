@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.31% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -48,7 +48,7 @@
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
+| 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.75% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
@@ -78,8 +78,8 @@
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
-| 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
+| 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.94% |
 | 83 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
