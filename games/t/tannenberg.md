@@ -6,16 +6,16 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~109,200 |
+| Immovable Object | 89.00% | ~109,201 |
 | Comeback | 81.00% | ~99,385 |
 | Information is Key | 80.00% | ~98,158 |
-| Unlucky | 71.00% | ~87,115 |
-| Anarchist | 68.00% | ~83,434 |
-| Wallhack | 65.00% | ~79,753 |
-| Steady Supply | 60.00% | ~73,618 |
-| Lucky Shot | 53.00% | ~65,029 |
-| Forward Observer | 52.00% | ~63,802 |
-| Ring Ring! | 52.00% | ~63,802 |
+| Unlucky | 71.00% | ~87,116 |
+| Anarchist | 68.00% | ~83,435 |
+| Wallhack | 65.00% | ~79,754 |
+| Steady Supply | 60.00% | ~73,619 |
+| Lucky Shot | 53.00% | ~65,030 |
+| Forward Observer | 52.00% | ~63,803 |
+| Ring Ring! | 52.00% | ~63,803 |
 | Bossing Around | 45.00% | ~55,214 |
 | Frostbite | 45.00% | ~55,214 |
 | Night Owl | 44.00% | ~53,987 |
@@ -33,14 +33,14 @@ Number of Ratings: 13,393  (23.09.2022)
 | Together As One | 31.00% | ~38,036 |
 | Gavrilo Princip | 27.00% | ~33,128 |
 | Lead Harvest | 25.00% | ~30,674 |
-| Skynet Confirmed | 23.00% | ~28,220 |
-| Kesselschlacht | 22.00% | ~26,993 |
-| Democracy Works! | 20.00% | ~24,539 |
-| Switch, Please! | 19.00% | ~23,312 |
-| I've Seen It All | 18.00% | ~22,085 |
-| Tourist | 18.00% | ~22,085 |
-| At Least This Way I Can Win... | 17.00% | ~20,858 |
-| Oops! | 17.00% | ~20,858 |
+| Skynet Confirmed | 23.00% | ~28,221 |
+| Kesselschlacht | 22.00% | ~26,994 |
+| Democracy Works! | 20.00% | ~24,540 |
+| Switch, Please! | 19.00% | ~23,313 |
+| I've Seen It All | 18.00% | ~22,086 |
+| Tourist | 18.00% | ~22,086 |
+| At Least This Way I Can Win... | 17.00% | ~20,859 |
+| Oops! | 17.00% | ~20,859 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~19,632 |
 | Butcher | 12.00% | ~14,724 |
 | Before the Leaves Fall | 10.00% | ~12,270 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,104 |
 | Road to Berlin | 0.60% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,697 (Ranked 65)  
+Progressed: 122,698 (Ranked 65)  
 Completed: 28 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 28 (0.02%) (Ranked 222)
 | 2023-07-23 | 122,350 | 28 |
 | 2023-07-24 | 122,518 | 28 |
 | 2023-07-25 | 122,680 | 28 |
-| 2023-07-26 | 122,697 | 28 |
+| 2023-07-26 | 122,698 | 28 |
 ## Awards
 Max (Competitive Players): 328  (Ranked 226)  
 Sum: 2,867 (Ranked 167)  

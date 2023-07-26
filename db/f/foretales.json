@@ -429,9 +429,9 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "theUnionLeader",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:05:07.5452713+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:04:46.3988543+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.4416968+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:00:50.4667741+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:05:07.5453016+00:00"
+  "LastUpdate_Ratings": "2023-07-26T05:00:11.9474796+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:04:46.3988873+00:00"
 }

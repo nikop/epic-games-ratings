@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.30% | ~647 |
 | The Mists of Ravenloft | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
+| Family Entanglements | 0.30% | ~647 |
 | The Dinner Party | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
@@ -98,7 +99,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.20% | ~431 |
 | The Hunt for Owl-y | 0.20% | ~431 |
 | Werewolves in the Mist | 0.20% | ~431 |
-| Family Entanglements | 0.20% | ~431 |
 | Chatty Nobles | 0.20% | ~431 |
 | Modron Assistance | 0.20% | ~431 |
 | Haaave You Met Asmodeus? | 0.20% | ~431 |
@@ -106,6 +106,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.20% | ~431 |
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
+| Trollskull Manor | 0.20% | ~431 |
 | The Cursed Farmer | 0.20% | ~431 |
 | The Ring of Regeneration | 0.20% | ~431 |
 | The Crumbling Temple | 0.20% | ~431 |
@@ -255,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~216 |
 | Seeds of Corruption | 0.10% | ~216 |
 | The Strahd Squad | 0.10% | ~182 |
-| Trollskull Manor | 0.10% | ~216 |
 | The Gargoyle's Apprentice | 0.10% | ~216 |
 | House of Darkness | 0.10% | ~216 |
 | Home Not So Alone | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,578 (Ranked 53)  
+Progressed: 215,589 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,578 | 2,111 |
+| 2023-07-26 | 215,589 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,729 (Ranked 38)  

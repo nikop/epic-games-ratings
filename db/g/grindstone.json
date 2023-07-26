@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5138,
+  "EOS_Progressed": 5139,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -685,6 +685,11 @@
       "Time": "2023-07-18T22:05:40.5790525+00:00",
       "NumProgressed": 5138,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-26T05:04:52.2207031+00:00",
+      "NumProgressed": 5139,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -704,7 +709,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -720,7 +725,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -736,7 +741,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -752,7 +757,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -768,7 +773,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -824,7 +829,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -968,7 +973,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -984,15 +989,15 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Humerus Achievement",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1008,7 +1013,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1024,7 +1029,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1040,7 +1045,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1080,22 +1085,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5138,
+      "Progressed": 5139,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:05:14.3271468+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:04:52.2207026+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.625096+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:00:24.1218509+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:05:14.3271898+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:59:49.8818114+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:04:52.2207515+00:00"
 }

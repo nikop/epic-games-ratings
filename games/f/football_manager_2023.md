@@ -5,20 +5,20 @@ Rating: 4.75 (Ranked 134)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~61,655 |
+| Motivational Speaker | 77.00% | ~61,656 |
 | The Player Whisperer | 76.00% | ~60,855 |
 | One of Us, One of Us! | 73.00% | ~58,453 |
-| Clean Sheet | 68.00% | ~54,449 |
-| First Victory | 68.00% | ~54,449 |
-| #DoneDeal | 67.00% | ~53,648 |
+| Clean Sheet | 68.00% | ~54,450 |
+| First Victory | 68.00% | ~54,450 |
+| #DoneDeal | 67.00% | ~53,649 |
 | Off the Books | 65.00% | ~52,047 |
 | Super-Sub | 65.00% | ~52,047 |
-| Hat-trick | 60.00% | ~48,043 |
+| Hat-trick | 60.00% | ~48,044 |
 | "I Would Love It If We Beat Them" | 58.00% | ~46,442 |
 | Planned Signing | 58.00% | ~46,442 |
-| Thumping | 53.00% | ~42,438 |
-| Scoring Streak | 53.00% | ~42,438 |
-| Wheeler Dealer | 52.00% | ~41,637 |
+| Thumping | 53.00% | ~42,439 |
+| Scoring Streak | 53.00% | ~42,439 |
+| Wheeler Dealer | 52.00% | ~41,638 |
 | People Pleaser | 51.00% | ~40,837 |
 | Unbeatable! | 50.00% | ~40,036 |
 | One Of Our Own | 48.00% | ~38,435 |
@@ -37,17 +37,17 @@ Rating: 4.75 (Ranked 134)
 | Flavour Of The Month | 36.00% | ~28,826 |
 | Unstoppable Force | 36.00% | ~28,826 |
 | Record Sale | 36.00% | ~28,826 |
-| Tremendous Trio | 35.00% | ~28,025 |
-| Shots For Days | 35.00% | ~28,025 |
-| You're on Fire | 34.00% | ~27,224 |
-| The Special One | 34.00% | ~27,224 |
+| Tremendous Trio | 35.00% | ~28,026 |
+| Shots For Days | 35.00% | ~28,026 |
+| You're on Fire | 34.00% | ~27,225 |
+| The Special One | 34.00% | ~27,225 |
 | Splashing the Cash | 33.00% | ~26,424 |
 | On a Roll | 32.00% | ~25,623 |
-| Drilling Down | 31.00% | ~24,822 |
-| Goal Machine | 31.00% | ~24,822 |
+| Drilling Down | 31.00% | ~24,823 |
+| Goal Machine | 31.00% | ~24,823 |
 | Immovable Object | 29.00% | ~23,221 |
 | Cup Glory! | 29.00% | ~23,221 |
-| Cash to Burn | 27.00% | ~21,619 |
+| Cash to Burn | 27.00% | ~21,620 |
 | Irresistible Force | 26.00% | ~20,819 |
 | Do The Double | 23.00% | ~18,417 |
 | A Game of Two Halves | 22.00% | ~17,616 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 134)
 | Versus Anyone | 0.10% | ~80 |
 | 200 Club | 0.10% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,072 (Ranked 70)  
+Progressed: 80,073 (Ranked 70)  
 Completed: 22 (0.03%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 22 (0.03%) (Ranked 216)
 | 2023-07-23 | 79,799 | 22 |
 | 2023-07-24 | 79,933 | 22 |
 | 2023-07-25 | 80,058 | 22 |
-| 2023-07-26 | 80,072 | 22 |
+| 2023-07-26 | 80,073 | 22 |
 ## Awards
 Max (Diverse Characters): 562  (Ranked 182)  
 Sum: 4,101 (Ranked 138)  

@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
+| Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
@@ -244,7 +245,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Lighthouse in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |

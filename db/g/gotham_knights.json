@@ -2204,9 +2204,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67388,
+  "EOS_Progressed": 67390,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10859,6 +10859,11 @@
       "Time": "2023-07-26T03:04:40.6844979+00:00",
       "NumProgressed": 67388,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-26T05:04:28.7534226+00:00",
+      "NumProgressed": 67390,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -11022,7 +11027,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -11174,7 +11179,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "HARLEY_2",
@@ -11357,13 +11362,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67388,
+      "Progressed": 67390,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37668,
+      "Progressed": 37670,
       "Completed": 2654
     }
   ],
@@ -11371,8 +11376,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-25T19:00:22.4030469+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:04:47.4680096+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:04:28.7534219+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.6510385+00:00",
-  "LastUpdate_Ratings": "2023-07-26T04:00:11.2371764+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:04:47.4681201+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:59:39.2021703+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:04:28.7535358+00:00"
 }

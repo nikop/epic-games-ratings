@@ -3,7 +3,7 @@
   "Name": "The Sinking City",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:02.7095812+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:59:02.9904952+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:06:19.5980285+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:58:41.7976388+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:05:49.0546834+00:00"
 }

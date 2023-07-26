@@ -4,7 +4,7 @@
   "ProductSlug": "gardenia-630482",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-29T09:58:37.8459962+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:24.8179155+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:59:08.8892815+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:01:04.992373+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:58:46.6346211+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:00:27.0740569+00:00"
 }

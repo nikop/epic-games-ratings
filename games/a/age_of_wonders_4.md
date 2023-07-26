@@ -17,6 +17,7 @@ Rating: 4.63 (Ranked 332)
 | My Final Form | 4.00% | ~202 |
 | Seat of Power | 4.00% | ~202 |
 | Intimidation Tactics | 4.00% | ~202 |
+| Here be Dragons | 4.00% | ~202 |
 | Blood of the Dragon | 4.00% | ~202 |
 | Mighty Hoard | 4.00% | ~202 |
 | Valley of Wonders | 3.00% | ~151 |
@@ -26,7 +27,6 @@ Rating: 4.63 (Ranked 332)
 | Fiery Friend | 3.00% | ~151 |
 | Against the Odds | 3.00% | ~151 |
 | Impenetrable Fortress | 3.00% | ~151 |
-| Here be Dragons | 3.00% | ~151 |
 | The Magic That Empowers Me! | 2.00% | ~101 |
 | Return of the Wizard King | 2.00% | ~101 |
 | God Emperor | 2.00% | ~101 |

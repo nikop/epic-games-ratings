@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5290,9 +5290,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215578,
+  "EOS_Progressed": 215589,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2316,
+  "EOS_NewPlayers": 2317,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15635,6 +15635,11 @@
       "Time": "2023-07-26T04:00:57.5382866+00:00",
       "NumProgressed": 215578,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T05:00:21.0845607+00:00",
+      "NumProgressed": 215589,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -17028,9 +17033,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_214",
@@ -17252,9 +17257,9 @@
       "ID": "objective_completed_278",
       "SetID": "cc37lbc",
       "Name": "Trollskull Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_279",
@@ -19741,21 +19746,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181852,
-      "Completed": 2988
+      "Progressed": 181863,
+      "Completed": 2989
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215578,
+      "Progressed": 215589,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T03:58:32.9376809+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:00:57.5382861+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:00:21.0845601+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:58:32.9376815+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:00:57.5408487+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:58:16.0133987+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:00:21.0872224+00:00"
 }

@@ -9,7 +9,7 @@
 | Good Person Chip | 87.00% | ~132 |
 | First winning | 86.00% | ~131 |
 | Your first job | 86.00% | ~131 |
-| First defeat | 80.00% | ~122 |
+| First defeat | 81.00% | ~123 |
 | Old movies enjoyer | 80.00% | ~122 |
 | Fitness professional | 78.00% | ~119 |
 | Depressed visitor | 77.00% | ~117 |
@@ -19,17 +19,17 @@
 | Run K, run! | 72.00% | ~109 |
 | No bullying more | 66.00% | ~100 |
 | Hello, world! | 66.00% | ~100 |
-| Fighting is cool | 63.00% | ~96 |
-| Intriguing candies | 60.00% | ~91 |
+| Fighting is cool | 64.00% | ~97 |
+| Intriguing candies | 61.00% | ~93 |
+| Pal of your father? | 59.00% | ~90 |
 | Employee of the month | 59.00% | ~90 |
-| Pal of your father? | 58.00% | ~88 |
-| Spirit of the past | 55.00% | ~84 |
+| Spirit of the past | 56.00% | ~85 |
 | Little hacker | 53.00% | ~81 |
 | Workout professional | 52.00% | ~79 |
 | Law student | 52.00% | ~79 |
 | Your own way | 51.00% | ~78 |
+| Champion – starter pack | 48.00% | ~73 |
 | Fight for life | 47.00% | ~71 |
-| Champion – starter pack | 47.00% | ~71 |
 | Employee of the year | 47.00% | ~71 |
 | It's good to be alive | 45.00% | ~68 |
 | Own four walls | 45.00% | ~68 |
@@ -40,7 +40,7 @@
 | Escaped from a big trouble | 32.00% | ~49 |
 | Guiding on the right path | 32.00% | ~49 |
 | No blades in the gym | 31.00% | ~47 |
-| Mysterious voice | 29.00% | ~44 |
+| Mysterious voice | 30.00% | ~46 |
 | Fight is life | 28.00% | ~43 |
 | Responsible approach | 28.00% | ~43 |
 | Champion – no way back | 26.00% | ~40 |
@@ -55,8 +55,8 @@
 | GYM professional | 22.00% | ~33 |
 | Anyone can resist | 22.00% | ~33 |
 | Problems of cyborgs | 21.00% | ~32 |
+| The last bell ring | 20.00% | ~30 |
 | Trap disarmed | 19.00% | ~29 |
-| The last bell ring | 19.00% | ~29 |
 | Undercover robot | 19.00% | ~29 |
 | Keep nature safe | 18.00% | ~27 |
 | Absolute Champion! | 18.00% | ~27 |

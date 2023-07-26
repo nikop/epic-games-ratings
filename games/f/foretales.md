@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 61.00% | ~164 |
+| Caged tiger | 62.00% | ~167 |
 | Gorilla warfare | 58.00% | ~156 |
 | Isenburg's fall | 48.00% | ~129 |
 | Pieces of eight! | 41.00% | ~110 |

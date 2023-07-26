@@ -1300,9 +1300,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 367
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1732,9 +1732,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 142
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1835,8 +1835,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:05:26.3789623+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:05:02.5763815+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:57:11.2496958+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:05:26.3790359+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:57:08.8889558+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:05:02.5764836+00:00"
 }

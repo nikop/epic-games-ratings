@@ -765,7 +765,7 @@
   ],
   "EOS_Progressed": 8125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6625,9 +6625,9 @@
       "ID": "ACH_PLAYING_WITH_POWER",
       "SetID": "97mcd7i",
       "Name": "Playing With Power",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6338
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -6825,8 +6825,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:06:18.7698499+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:05:48.3408751+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.1787346+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:58:49.2301068+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:06:18.7699257+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:58:29.8275165+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:05:48.3409525+00:00"
 }

@@ -1046,9 +1046,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1462,9 +1462,9 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_waves_40",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-26T04:05:27.2855041+00:00",
+  "LastChanged_Achievements": "2023-07-26T05:05:03.2356552+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.2452494+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:58:41.6607405+00:00",
-  "LastUpdate_Achievements": "2023-07-26T04:05:27.2855737+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:58:23.5175142+00:00",
+  "LastUpdate_Achievements": "2023-07-26T05:05:03.235739+00:00"
 }
