@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2151,6 +2151,11 @@
       "Time": "2023-07-26T00:06:46.8574938+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T02:10:45.9594619+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2258,7 +2263,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_headquarters_5",
@@ -2314,7 +2319,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -2338,7 +2343,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2346,7 +2351,7 @@
       "Name": "Covert Operative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2378,15 +2383,15 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2394,7 +2399,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -2458,21 +2463,21 @@
       "Name": "Control the Skies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:06:46.857493+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:10:45.9594614+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:02:18.3587508+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:06:46.8575672+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:06:06.5206472+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:10:45.9595136+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5340,9 +5340,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711486,
+  "EOS_Progressed": 711495,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14400,6 +14400,11 @@
       "Time": "2023-07-26T00:08:17.8122933+00:00",
       "NumProgressed": 711486,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-26T02:12:00.5275742+00:00",
+      "NumProgressed": 711495,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14747,7 +14752,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -14755,7 +14760,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14810,21 +14815,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20787,
+      "Progressed": 20796,
       "Completed": 10444
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711486,
+      "Progressed": 711495,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-25T07:59:40.3430499+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:08:17.8122925+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:12:00.5275737+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:00:28.7767734+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:08:17.8124632+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:04:42.2849594+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:12:00.5276757+00:00"
 }

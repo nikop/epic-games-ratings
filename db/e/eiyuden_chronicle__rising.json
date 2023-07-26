@@ -321,9 +321,9 @@
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -361,9 +361,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -681,8 +681,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:06:15.7972995+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:10:23.4455111+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:10.2706579+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:02:06.6189073+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:06:15.7973807+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:05:58.8026385+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:10:23.4455589+00:00"
 }

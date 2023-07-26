@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 1.00% | ~2,155 |
 | The Silken Swamp | 0.90% | ~1,940 |
 | Supply Run | 0.80% | ~1,724 |
-| Rocky Reception | 0.80% | ~1,454 |
+| Rocky Reception | 0.80% | ~1,455 |
 | Vecna Lives! | 0.70% | ~1,273 |
 | Rock and Roll | 0.70% | ~1,273 |
 | Flight of the Kindori Pod | 0.60% | ~1,091 |
@@ -30,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.40% | ~727 |
 | Heatwave | 0.40% | ~727 |
 | The Dread Domain of Tovag | 0.40% | ~727 |
+| A Persistent Buzzing | 0.40% | ~862 |
 | Terror in the Dark | 0.40% | ~862 |
 | Building Trust | 0.40% | ~862 |
 | Unearthed Evil | 0.40% | ~862 |
@@ -47,7 +48,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Demi-god's Defender | 0.30% | ~545 |
 | Friends of the Forest | 0.30% | ~647 |
 | Were-verpowered | 0.30% | ~647 |
-| A Persistent Buzzing | 0.30% | ~647 |
 | Beast Mode | 0.30% | ~647 |
 | Low Initiative | 0.30% | ~647 |
 | A Mysterious Summons | 0.30% | ~647 |
@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.20% | ~364 |
 | Keep Your Distance | 0.20% | ~364 |
 | The Castle of a Thousand Vecnas | 0.20% | ~364 |
+| The Sanctum of the Sword | 0.20% | ~364 |
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
 | Homecoming | 0.20% | ~431 |
@@ -110,7 +111,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
 | Useless Allies | 0.20% | ~431 |
+| Mad Cow Disease | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
+| A Tale of Two Cities | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Dinosaur Racing | 0.20% | ~431 |
@@ -196,7 +199,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~182 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~182 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~182 |
-| The Sanctum of the Sword | 0.10% | ~182 |
 | Kas the Bloody Handed | 0.10% | ~182 |
 | Get Back In The Castle | 0.10% | ~182 |
 | Kas the Destroyer | 0.10% | ~182 |
@@ -313,8 +315,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~216 |
 | Dino Nightmare | 0.10% | ~216 |
 | A Familiar Friend | 0.10% | ~182 |
-| Mad Cow Disease | 0.10% | ~216 |
-| A Tale of Two Cities | 0.10% | ~216 |
 | A Tale of Two Fiends | 0.10% | ~216 |
 | A Tale of Two Champions | 0.10% | ~216 |
 | A Tale of Two Years | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,530 (Ranked 53)  
-Completed: 2,110 (0.98%) (Ranked 107)  
+Progressed: 215,549 (Ranked 53)  
+Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,110 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,530 | 2,110 |
+| 2023-07-26 | 215,549 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,728 (Ranked 38)  

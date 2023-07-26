@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2764,10 +2764,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7328,
       "NumberOfAwardsMax": 908
+    },
+    {
+      "Time": "2023-07-26T02:03:46.4608333+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7329,
+      "NumberOfAwardsMax": 908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7328,
+  "NumberOfAwards": 7329,
   "NumberOfAwardsMax": 908,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2823,7 +2829,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 746
+      "Count": 747
     },
     {
       "Text": "This game has a Creative Community",
@@ -2838,9 +2844,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 7427,
+  "EOS_Progressed": 7435,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -7278,6 +7284,11 @@
       "Time": "2023-07-26T00:03:46.6303357+00:00",
       "NumProgressed": 7427,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-07-26T02:08:36.4824263+00:00",
+      "NumProgressed": 7435,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 15,
@@ -7289,7 +7300,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Banker",
@@ -7297,15 +7308,15 @@
       "Name": "Banker",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3123
     },
     {
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3718
     },
     {
       "ID": "Chef_Cook",
@@ -7313,7 +7324,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "Chit_Chatter",
@@ -7329,7 +7340,7 @@
       "Name": "Constructor",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4089
     },
     {
       "ID": "Duty_Bound",
@@ -7345,7 +7356,7 @@
       "Name": "Gardener",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2454
     },
     {
       "ID": "Generous",
@@ -7353,7 +7364,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1784
     },
     {
       "ID": "Goofys_Investor",
@@ -7361,7 +7372,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 73,
       "XP": 75,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5428
     },
     {
       "ID": "Miner",
@@ -7369,7 +7380,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Photographer",
@@ -7377,7 +7388,7 @@
       "Name": "Photographer",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5279
     },
     {
       "ID": "Renovator",
@@ -7385,7 +7396,7 @@
       "Name": "Renovator",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3941
     },
     {
       "ID": "Thorn_Cleaner",
@@ -7401,23 +7412,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4907
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7427,
+      "Progressed": 7435,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-07-25T18:58:31.7151399+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:03:46.6303353+00:00",
+  "LastChanged": "2023-07-26T02:03:46.4608331+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:08:36.4824257+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:43.0939004+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:59:17.3000006+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:03:46.6304036+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:03:46.4608342+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:08:36.482467+00:00"
 }

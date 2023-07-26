@@ -5284,10 +5284,10 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215530,
-  "EOS_Completed": 2110,
-  "EOS_NewPlayers": 2314,
-  "EOS_NewCompleters": 52,
+  "EOS_Progressed": 215549,
+  "EOS_Completed": 2111,
+  "EOS_NewPlayers": 2299,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15619,6 +15619,11 @@
       "Time": "2023-07-26T00:08:19.5013416+00:00",
       "NumProgressed": 215530,
       "NumCompleted": 2110
+    },
+    {
+      "Time": "2023-07-26T02:12:01.9789834+00:00",
+      "NumProgressed": 215549,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -16460,9 +16465,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1194",
@@ -16604,9 +16609,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_130",
@@ -17764,9 +17769,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_54",
@@ -17780,9 +17785,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_541",
@@ -19654,7 +19659,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "objective_completed_1376",
@@ -19725,21 +19730,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181804,
-      "Completed": 2985
+      "Progressed": 181823,
+      "Completed": 2987
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215530,
-      "Completed": 2110
+      "Progressed": 215549,
+      "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:08:19.5013407+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:12:01.978983+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:59:20.7074877+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:08:19.5070329+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:03:48.7504341+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:12:01.9816165+00:00"
 }

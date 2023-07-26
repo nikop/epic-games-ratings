@@ -2,7 +2,7 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 510,
@@ -3538,11 +3538,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 3864,
       "NumberOfAwardsMax": 521
+    },
+    {
+      "Time": "2023-07-26T02:04:46.0730875+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 3868,
+      "NumberOfAwardsMax": 522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3864,
-  "NumberOfAwardsMax": 521,
+  "NumberOfAwards": 3868,
+  "NumberOfAwardsMax": 522,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3567,7 +3573,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 521
+      "Count": 522
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3579,7 +3585,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 468
+      "Count": 471
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3636,8 +3642,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-07-25T21:59:12.7950387+00:00",
+  "LastChanged": "2023-07-26T02:04:46.0730874+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.1343045+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:00:34.0322839+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:06:03.0619273+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:04:46.0730879+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:10:14.1645635+00:00"
 }

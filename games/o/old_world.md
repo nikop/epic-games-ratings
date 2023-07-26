@@ -8,10 +8,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~262 |
 | The Great Mage | 0.90% | ~118 |
+| Explorer | 0.70% | ~92 |
 | Settler | 0.70% | ~92 |
 | Play a Single Player Game | 0.70% | ~92 |
 | Poetic Leader | 0.70% | ~92 |
-| Explorer | 0.60% | ~79 |
 | Friendly Family | 0.60% | ~79 |
 | Able | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.30% | ~39 |
 | Ambitious | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
+| Fountainhead | 0.30% | ~39 |
 | Glorious | 0.30% | ~39 |
 | Keystone | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
@@ -44,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
+| Necropolis | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Learn to Play 1 | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
@@ -55,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.20% | ~26 |
 | Drillmaster | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
-| Fountainhead | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
-| Necropolis | 0.20% | ~26 |
 | Learn to Play 2 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
+| Double Victory | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
 | Musaeum in Alexandria | 0.10% | ~13 |
@@ -222,7 +223,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.10% | ~13 |
 | All Nations | 0.10% | ~13 |
 | Conquest Victory | 0.10% | ~13 |
-| Double Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,092 (Ranked 115)  
+Progressed: 13,093 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,16 +400,16 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,092 | 5 |
+| 2023-07-26 | 13,093 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
-Sum: 1,783 (Ranked 205)  
+Sum: 1,784 (Ranked 205)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |
 | This game is Extremely Fun | 206 |
-| This game has Diverse Characters | 204 |
+| This game has Diverse Characters | 205 |
 | This game is Highly Recommended | 204 |
 | This game is Educational | 203 |
 | This game has Challenging Combat | 190 |
@@ -528,3 +528,4 @@ Diff (max vs sum): 55
 | 2023-07-17 | 4.65 | - | 218 | 1,781 |
 | 2023-07-20 | 4.65 | - | 218 | 1,782 |
 | 2023-07-21 | 4.65 | - | 218 | 1,783 |
+| 2023-07-26 | 4.65 | - | 218 | 1,784 |

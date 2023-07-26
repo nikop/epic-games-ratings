@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7138,
+  "EOS_Progressed": 7141,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6098,6 +6098,11 @@
       "Time": "2023-07-25T23:06:07.3512501+00:00",
       "NumProgressed": 7138,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-26T02:10:18.8152339+00:00",
+      "NumProgressed": 7141,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6109,7 +6114,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5925
+      "UsersEstimate": 5927
     },
     {
       "ID": "ACH02",
@@ -6117,7 +6122,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH03",
@@ -6133,7 +6138,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "ACH05",
@@ -6213,7 +6218,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH15",
@@ -6229,7 +6234,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACH17",
@@ -6245,7 +6250,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH19",
@@ -6340,7 +6345,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7138,
+      "Progressed": 7141,
       "Completed": 41
     }
   ],
@@ -6348,8 +6353,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:06:09.4640694+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:10:18.8152335+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:59:00.2302303+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:06:09.4641702+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:03:34.9166941+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:10:18.8152878+00:00"
 }

@@ -5,42 +5,42 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~152 |
-| Starting Skyward | 51.00% | ~134 |
+| Starting Skyward | 52.00% | ~136 |
 | Grime is Not Good | 45.00% | ~118 |
 | Floor Galore | 37.00% | ~97 |
 | Campaign Launch | 37.00% | ~97 |
 | Dinner Dash | 37.00% | ~97 |
 | Need a Consult | 34.00% | ~89 |
+| Upgrade Unlock | 34.00% | ~89 |
 | It's Technical | 34.00% | ~89 |
-| Upgrade Unlock | 33.00% | ~86 |
 | Delegate Maintenance | 32.00% | ~84 |
 | Proper Walls | 31.00% | ~81 |
 | Destination Destiny | 27.00% | ~71 |
-| Happy Tenants | 24.00% | ~63 |
-| Smooth Service | 23.00% | ~60 |
-| Your Prestige is Rising | 22.00% | ~58 |
-| Potent Potables | 22.00% | ~58 |
+| Happy Tenants | 25.00% | ~66 |
+| Smooth Service | 24.00% | ~63 |
+| Your Prestige is Rising | 23.00% | ~60 |
+| Potent Potables | 23.00% | ~60 |
 | Retail Revenue | 22.00% | ~58 |
 | Lux Living | 21.00% | ~55 |
 | Leveled Up Shops | 21.00% | ~55 |
 | People Mover | 20.00% | ~52 |
+| Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
 | Emporium Empire | 19.00% | ~50 |
 | We Don't Need No Education | 19.00% | ~50 |
 | Get Electrified | 19.00% | ~50 |
-| Artfully Done | 18.00% | ~47 |
 | Rehab Expert | 18.00% | ~47 |
 | Tasty Profits | 18.00% | ~47 |
+| Under One Roof | 16.00% | ~42 |
 | Cashflow Chief | 16.00% | ~42 |
-| Under One Roof | 15.00% | ~39 |
 | Established Fame | 15.00% | ~39 |
 | Terrifically Trashed | 15.00% | ~39 |
 | Smooth Operator | 14.00% | ~37 |
 | Starred Dining | 14.00% | ~37 |
 | Boutique Benefits | 14.00% | ~37 |
-| Thrilled Tenants | 13.00% | ~34 |
+| Thrilled Tenants | 14.00% | ~37 |
+| Swimming in Surplus | 12.00% | ~31 |
 | 28 Days Later | 11.00% | ~29 |
-| Swimming in Surplus | 11.00% | ~29 |
 | Master of Puppets | 10.00% | ~26 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~21 |
@@ -49,10 +49,10 @@
 | Plaza Plan | 8.00% | ~21 |
 | Refined Palates | 8.00% | ~21 |
 | Revenue Royalty | 8.00% | ~21 |
+| Pipe Up | 8.00% | ~21 |
+| Careful Constructor | 7.00% | ~18 |
 | Maximum Reuse | 7.00% | ~18 |
-| Pipe Up | 7.00% | ~18 |
 | I'm Busy Ruling | 6.00% | ~16 |
-| Careful Constructor | 6.00% | ~16 |
 | Water Features | 6.00% | ~16 |
 | Sky High Stature | 6.00% | ~16 |
 | Profound Proceeds | 6.00% | ~16 |
@@ -80,11 +80,11 @@
 | It is Payday | 2.00% | ~5 |
 | Scenario Success | 2.00% | ~5 |
 | Double Down | 1.00% | ~3 |
+| Such Great Heights | 1.00% | ~3 |
 | Lofty Landlord | 1.00% | ~3 |
 | Artistic Largesse | 0.80% | ~2 |
 | High Hand | 0.80% | ~2 |
 | Poker Face | 0.80% | ~2 |
-| Such Great Heights | 0.80% | ~2 |
 | Scenario Master | 0.80% | ~2 |
 | Infrastructure Info | 0.40% | ~1 |
 | Statue Stature | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "achPriest",
@@ -1326,8 +1326,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:05:16.6697538+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:09:41.8003019+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.6474315+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:02:05.2718114+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:05:16.6698053+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:05:57.7634648+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:09:41.8003533+00:00"
 }

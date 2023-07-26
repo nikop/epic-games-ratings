@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -95,7 +95,7 @@
   "Tags": [],
   "EOS_Progressed": 369,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -577,9 +577,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 280
     },
     {
       "ID": "02_collector",
@@ -897,8 +897,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:04:40.9522488+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:09:15.9351663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-25T23:58:43.7077923+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:04:40.9522861+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:03:23.561206+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:09:15.9351988+00:00"
 }

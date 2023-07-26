@@ -21,7 +21,7 @@ Rating: 4.65 (Ranked 300)
 | Back In The Saddle | 46.00% | ~255 |
 | Land, Ho! | 46.00% | ~255 |
 | No Man Is An Island | 45.00% | ~250 |
-| At Wits' End | 44.00% | ~244 |
+| At Wits' End | 45.00% | ~250 |
 | Fhtagn! | 43.00% | ~239 |
 | Up In Flames | 42.00% | ~233 |
 | Bookworm | 41.00% | ~228 |

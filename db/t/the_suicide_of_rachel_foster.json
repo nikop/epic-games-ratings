@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -1697,6 +1697,11 @@
       "Time": "2023-07-25T19:02:15.0438636+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-26T02:08:24.8793499+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1716,7 +1721,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1724,7 +1729,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1795,15 +1800,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1286,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-26T00:03:30.65259+00:00",
+  "LastChanged_Achievements": "2023-07-26T02:08:24.8793494+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-26T00:01:52.4077788+00:00",
-  "LastUpdate_Achievements": "2023-07-26T00:03:30.65263+00:00"
+  "LastUpdate_Ratings": "2023-07-26T02:05:43.6537904+00:00",
+  "LastUpdate_Achievements": "2023-07-26T02:08:24.8793736+00:00"
 }

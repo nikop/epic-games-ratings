@@ -10,7 +10,7 @@
 | Who's A Good Boy | 69.00% | ~112 |
 | Power Up | 69.00% | ~112 |
 | Thick Skin | 67.00% | ~109 |
-| Math Wizard | 64.00% | ~104 |
+| Math Wizard | 65.00% | ~106 |
 | Destroy Erase Improve | 64.00% | ~104 |
 | Power Overload | 63.00% | ~103 |
 | Quite A Snack | 58.00% | ~95 |
@@ -18,10 +18,10 @@
 | Impenetrable Skin | 55.00% | ~90 |
 | Chomp Chomp! | 44.00% | ~72 |
 | Supreme Power | 43.00% | ~70 |
+| Glorious Battle | 41.00% | ~67 |
+| Target Practice | 41.00% | ~67 |
 | The Duelist | 40.00% | ~65 |
-| Glorious Battle | 40.00% | ~65 |
 | Diaper Time! | 40.00% | ~65 |
-| Target Practice | 40.00% | ~65 |
 | Meat Larder | 38.00% | ~62 |
 | Mutant And Proud | 37.00% | ~60 |
 | The Emperor's New Clothes | 33.00% | ~54 |
