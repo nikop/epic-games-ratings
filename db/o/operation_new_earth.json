@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -2181,6 +2181,11 @@
       "Time": "2023-07-26T09:06:29.7653456+00:00",
       "NumProgressed": 634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T11:06:48.751398+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2304,7 +2309,7 @@
       "Name": "Corporal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2312,7 +2317,7 @@
       "Name": "Sergeant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2320,7 +2325,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2400,7 +2405,7 @@
       "Name": "Stocking Up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2495,14 +2500,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T10:05:19.6829222+00:00",
+  "LastChanged_Achievements": "2023-07-26T11:06:48.7513972+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T10:00:20.4527251+00:00",
-  "LastUpdate_Achievements": "2023-07-26T10:05:19.6829635+00:00"
+  "LastUpdate_Ratings": "2023-07-26T11:02:09.4825886+00:00",
+  "LastUpdate_Achievements": "2023-07-26T11:06:48.7514729+00:00"
 }

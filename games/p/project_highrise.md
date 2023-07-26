@@ -25,15 +25,15 @@
 | People Mover | 20.00% | ~53 |
 | Emporium Empire | 20.00% | ~53 |
 | Leveled Up Shops | 20.00% | ~53 |
+| Get Electrified | 20.00% | ~53 |
 | Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
 | We Don't Need No Education | 19.00% | ~50 |
-| Get Electrified | 19.00% | ~50 |
 | Rehab Expert | 18.00% | ~48 |
 | Tasty Profits | 18.00% | ~48 |
 | Under One Roof | 16.00% | ~42 |
+| Established Fame | 16.00% | ~42 |
 | Cashflow Chief | 16.00% | ~42 |
-| Established Fame | 15.00% | ~40 |
 | Terrifically Trashed | 15.00% | ~40 |
 | Smooth Operator | 14.00% | ~37 |
 | Starred Dining | 14.00% | ~37 |
@@ -42,12 +42,12 @@
 | Swimming in Surplus | 12.00% | ~32 |
 | 28 Days Later | 11.00% | ~29 |
 | Master of Puppets | 9.00% | ~24 |
+| Refined Palates | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~21 |
 | Aestheticly Pleased | 8.00% | ~21 |
 | Meet Me at HQ | 8.00% | ~21 |
 | Plaza Plan | 8.00% | ~21 |
-| Refined Palates | 8.00% | ~21 |
 | Revenue Royalty | 8.00% | ~21 |
 | Pipe Up | 8.00% | ~21 |
 | Careful Constructor | 7.00% | ~18 |

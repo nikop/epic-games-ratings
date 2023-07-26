@@ -5296,9 +5296,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215642,
+  "EOS_Progressed": 215650,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2324,
+  "EOS_NewPlayers": 2323,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15666,6 +15666,11 @@
       "Time": "2023-07-26T10:00:29.7851497+00:00",
       "NumProgressed": 215642,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T11:02:30.145333+00:00",
+      "NumProgressed": 215650,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -15843,9 +15848,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1066",
@@ -16187,9 +16192,9 @@
       "ID": "objective_completed_1132",
       "SetID": "415jc5c",
       "Name": "Will of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1133",
@@ -16381,7 +16386,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1169",
@@ -16523,9 +16528,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1199",
@@ -18067,9 +18072,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_576",
@@ -19733,7 +19738,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1386",
@@ -19749,7 +19754,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1391",
@@ -19772,21 +19777,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181916,
-      "Completed": 2992
+      "Progressed": 181924,
+      "Completed": 2993
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215642,
+      "Progressed": 215650,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T10:00:29.7851489+00:00",
+  "LastChanged_Achievements": "2023-07-26T11:02:30.1453321+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T09:58:18.9807003+00:00",
-  "LastUpdate_Achievements": "2023-07-26T10:00:29.7877128+00:00"
+  "LastUpdate_Ratings": "2023-07-26T10:59:09.2494439+00:00",
+  "LastUpdate_Achievements": "2023-07-26T11:02:30.1510901+00:00"
 }

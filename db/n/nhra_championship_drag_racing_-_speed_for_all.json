@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-07-26T06:03:43.8172967+00:00",
       "NumProgressed": 750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T11:04:14.4096178+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -469,7 +474,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "11",
@@ -493,7 +498,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "14",
@@ -501,7 +506,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "15",
@@ -732,7 +737,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 0
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-26T10:03:30.4464166+00:00",
+  "LastChanged_Achievements": "2023-07-26T11:04:14.4096167+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.6913323+00:00",
-  "LastUpdate_Ratings": "2023-07-26T09:58:29.776669+00:00",
-  "LastUpdate_Achievements": "2023-07-26T10:03:30.4464457+00:00"
+  "LastUpdate_Ratings": "2023-07-26T10:59:25.5013869+00:00",
+  "LastUpdate_Achievements": "2023-07-26T11:04:14.4096655+00:00"
 }

@@ -15,10 +15,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.60% | ~79 |
 | Able | 0.50% | ~65 |
 | Architect | 0.50% | ~65 |
+| Good | 0.50% | ~65 |
 | Intrepid | 0.50% | ~65 |
 | Strong | 0.50% | ~65 |
 | Enlightened | 0.40% | ~52 |
-| Good | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
 | Learned | 0.40% | ~52 |
 | Mason | 0.40% | ~52 |

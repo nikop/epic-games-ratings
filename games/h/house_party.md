@@ -8,12 +8,12 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 4.00% | ~235 |
 | Smooth Operator: Madison | 3.00% | ~176 |
-| The Brahdyssey | 2.00% | ~117 |
-| Caught in the Act | 2.00% | ~117 |
-| Katherine | 2.00% | ~117 |
+| The Brahdyssey | 2.00% | ~118 |
+| Caught in the Act | 2.00% | ~118 |
+| Katherine | 2.00% | ~118 |
 | Life Found a Way | 2.00% | ~58 |
-| Relentless | 2.00% | ~117 |
-| If at First You Don't Succeed... | 2.00% | ~117 |
+| Relentless | 2.00% | ~118 |
+| If at First You Don't Succeed... | 2.00% | ~118 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~59 |
 | Drunk and Disorderly: Ashley | 0.80% | ~47 |
 | IRL Let's Player | 0.70% | ~41 |
@@ -25,14 +25,14 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Ashley | 0.50% | ~29 |
 | The Magic Number | 0.50% | ~29 |
 | Vickie | 0.50% | ~29 |
-| Amy: Scavenger Hunt | 0.40% | ~23 |
-| I'll Be Back | 0.40% | ~23 |
-| Casanova | 0.40% | ~23 |
+| Amy: Scavenger Hunt | 0.40% | ~24 |
+| I'll Be Back | 0.40% | ~24 |
+| Casanova | 0.40% | ~24 |
 | It Smells Like Roses | 0.40% | ~12 |
-| Now It's a Party! | 0.40% | ~23 |
-| Stephanie | 0.40% | ~23 |
-| The Crush | 0.40% | ~23 |
-| Te Amo Lety | 0.40% | ~23 |
+| Now It's a Party! | 0.40% | ~24 |
+| Stephanie | 0.40% | ~24 |
+| The Crush | 0.40% | ~24 |
+| Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
 | Benedict Brahrnold | 0.30% | ~18 |
 | Love Conquers All | 0.30% | ~18 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 134)  
+Progressed: 5,875 (Ranked 134)  
 Completed: 3 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 3 (0.05%) (Ranked 206)
 | 2023-07-23 | 5,839 | 3 |
 | 2023-07-24 | 5,846 | 3 |
 | 2023-07-25 | 5,869 | 3 |
-| 2023-07-26 | 5,874 | 3 |
+| 2023-07-26 | 5,875 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

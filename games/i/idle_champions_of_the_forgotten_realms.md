@@ -14,9 +14,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.80% | ~1,455 |
 | Vecna Lives! | 0.70% | ~1,273 |
 | Rock and Roll | 0.70% | ~1,273 |
-| Vecna Loots! | 0.60% | ~1,091 |
-| Flight of the Kindori Pod | 0.60% | ~1,091 |
-| Topolah's Tower | 0.60% | ~1,091 |
+| Vecna Loots! | 0.60% | ~1,092 |
+| Flight of the Kindori Pod | 0.60% | ~1,092 |
+| Topolah's Tower | 0.60% | ~1,092 |
 | Pros and CONs | 0.50% | ~1,078 |
 | Tall Tales | 0.50% | ~910 |
 | Wet Feet | 0.50% | ~1,078 |
@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.40% | ~728 |
 | Upholding the Law | 0.30% | ~647 |
 | Thieves of the Coven | 0.30% | ~546 |
+| Hither of the Feywild | 0.30% | ~546 |
 | Speeds of Destruction | 0.30% | ~546 |
 | On the Hunt | 0.30% | ~647 |
 | Best Thay Ever | 0.30% | ~546 |
@@ -71,11 +72,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.30% | ~546 |
 | Starving in the Jungle | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~364 |
-| Hither of the Feywild | 0.20% | ~364 |
 | The Prince of a Thousand Enemies | 0.20% | ~364 |
 | Downfall | 0.20% | ~364 |
 | Slack-jawed Lorna | 0.20% | ~364 |
 | The Fairy Rings of Thither | 0.20% | ~364 |
+| Will of the Feywild | 0.20% | ~364 |
 | Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Overwhelmed with Knowledge | 0.20% | ~364 |
@@ -84,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.20% | ~364 |
 | The Castle of a Thousand Vecnas | 0.20% | ~364 |
 | The Sanctum of the Sword | 0.20% | ~364 |
+| Get Back In The Castle | 0.20% | ~364 |
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
 | Homecoming | 0.20% | ~431 |
@@ -121,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~431 |
 | The Dead Three | 0.20% | ~431 |
 | Flying Monkey Skulls of Doom | 0.20% | ~431 |
+| Difficult Terrain | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Dinosaur Racing | 0.20% | ~431 |
@@ -188,7 +191,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~182 |
 | The Demon Lords of the Abyss | 0.10% | ~182 |
 | Speed Demons | 0.10% | ~182 |
-| Will of the Feywild | 0.10% | ~182 |
 | All Damage, All The Time | 0.10% | ~182 |
 | Will of the Frozen Feywild | 0.10% | ~182 |
 | The Roots of Loomlurch | 0.10% | ~182 |
@@ -208,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~182 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~182 |
 | Kas the Bloody Handed | 0.10% | ~182 |
-| Get Back In The Castle | 0.10% | ~182 |
 | Kas the Destroyer | 0.10% | ~182 |
 | Checkmate | 0.10% | ~182 |
 | Pin and Skewer | 0.10% | ~182 |
@@ -346,7 +347,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~216 |
 | Dark Doppelgangers | 0.10% | ~216 |
 | Faerûn's Most Wanted | 0.10% | ~182 |
-| Difficult Terrain | 0.10% | ~216 |
 | Cold & Wet | 0.10% | ~216 |
 | Madcap Adventures | 0.10% | ~216 |
 | Faerûn's Most Neglected | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,642 (Ranked 53)  
+Progressed: 215,650 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,642 | 2,111 |
+| 2023-07-26 | 215,650 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

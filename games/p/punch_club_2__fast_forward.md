@@ -15,7 +15,7 @@
 | Depressed visitor | 77.00% | ~118 |
 | Neurotrainer – power gainer! | 76.00% | ~116 |
 | Employee of the week | 76.00% | ~116 |
-| Your own amateur gym | 72.00% | ~110 |
+| Your own amateur gym | 73.00% | ~112 |
 | Run K, run! | 71.00% | ~109 |
 | No bullying more | 67.00% | ~103 |
 | Hello, world! | 67.00% | ~103 |
@@ -34,7 +34,7 @@
 | It's good to be alive | 47.00% | ~72 |
 | Handyman | 46.00% | ~70 |
 | Own four walls | 46.00% | ~70 |
-| Extreme neuropower! | 42.00% | ~64 |
+| Extreme neuropower! | 43.00% | ~66 |
 | Legal courier | 39.00% | ~60 |
 | Now you are worthy | 37.00% | ~57 |
 | Escaped from a big trouble | 33.00% | ~50 |
@@ -43,15 +43,15 @@
 | Mysterious voice | 30.00% | ~46 |
 | Fight is life | 29.00% | ~44 |
 | Responsible approach | 29.00% | ~44 |
-| Champion – no way back | 27.00% | ~41 |
+| Champion – no way back | 28.00% | ~43 |
+| Get out of my apartment! | 26.00% | ~40 |
 | Underground dwellers | 26.00% | ~40 |
+| Mom got better | 25.00% | ~38 |
 | Deal with life | 25.00% | ~38 |
 | Poisoned fighter | 25.00% | ~38 |
-| Get out of my apartment! | 25.00% | ~38 |
+| The die is cast | 25.00% | ~38 |
 | Seashell hunter | 25.00% | ~38 |
-| Mom got better | 24.00% | ~37 |
 | GYM professional | 24.00% | ~37 |
-| The die is cast | 24.00% | ~37 |
 | Anyone can resist | 23.00% | ~35 |
 | Gang wrangler | 22.00% | ~34 |
 | Problems of cyborgs | 22.00% | ~34 |

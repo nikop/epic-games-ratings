@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6873,
+  "EOS_Progressed": 6874,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -2978,6 +2978,11 @@
       "Time": "2023-07-26T02:08:24.7684774+00:00",
       "NumProgressed": 6873,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-26T11:03:32.0086386+00:00",
+      "NumProgressed": 6874,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3077,7 +3082,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "AK_ON_TOWN",
@@ -3085,7 +3090,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3101,7 +3106,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -3189,7 +3194,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3204,15 +3209,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6873,
+      "Progressed": 6874,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-26T10:02:20.2199415+00:00",
+  "LastChanged_Achievements": "2023-07-26T11:03:32.0086378+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T09:57:41.7893678+00:00",
-  "LastUpdate_Achievements": "2023-07-26T10:02:20.2199818+00:00"
+  "LastUpdate_Ratings": "2023-07-26T10:58:12.4593908+00:00",
+  "LastUpdate_Achievements": "2023-07-26T11:03:32.0087011+00:00"
 }
