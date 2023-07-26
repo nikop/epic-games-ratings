@@ -7,9 +7,9 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~3,238 |
-| Un-Lonely Island | 48.00% | ~2,072 |
+| Un-Lonely Island | 48.00% | ~2,073 |
 | The Beginning of a Servantship | 45.00% | ~1,943 |
-| Trade Is My Trait | 37.00% | ~1,597 |
+| Trade Is My Trait | 37.00% | ~1,598 |
 | Number 18 | 24.00% | ~1,036 |
 | We Don't Have Time For That | 19.00% | ~820 |
 | The Governator | 18.00% | ~777 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~39 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,317 (Ranked 143)  
+Progressed: 4,318 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,11 +144,11 @@ Completed: 2 (0.05%) (Ranked 206)
 | 2023-07-23 | 4,242 | 2 |
 | 2023-07-24 | 4,266 | 2 |
 | 2023-07-25 | 4,303 | 2 |
-| 2023-07-26 | 4,317 | 2 |
+| 2023-07-26 | 4,318 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 96  (Ranked 337)  
+Max (Quickly Understood Controls): 96  (Ranked 338)  
 Sum: 669 (Ranked 276)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

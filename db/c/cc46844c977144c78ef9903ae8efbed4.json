@@ -2,10 +2,10 @@
   "ID": "cc46844c977144c78ef9903ae8efbed4",
   "Name": "Whale Fall",
   "ProductSlug": "whale-fall-8b9464",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-23T06:56:59.0890815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:57:18.0803232+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:03:58.3494986+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:57:37.9091467+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:04:45.5549457+00:00"
 }

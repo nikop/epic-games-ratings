@@ -2,13 +2,13 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1311,9 +1311,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22670,
+  "EOS_Progressed": 22675,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5996,6 +5996,11 @@
       "Time": "2023-07-26T15:03:33.279654+00:00",
       "NumProgressed": 22670,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-26T16:04:12.6001431+00:00",
+      "NumProgressed": 22675,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6071,7 +6076,7 @@
       "Name": "Captain and Crew",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -6087,7 +6092,7 @@
       "Name": "Spells and Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -6318,21 +6323,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22670,
+      "Progressed": 22675,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1600,
+      "Progressed": 1605,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-26T08:00:18.8066009+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:03:33.2796534+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:04:12.6001367+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:59:34.789814+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:03:33.2796976+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:00:39.5399328+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:04:12.6002098+00:00"
 }

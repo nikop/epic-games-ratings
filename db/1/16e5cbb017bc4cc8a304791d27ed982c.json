@@ -2,10 +2,10 @@
   "ID": "16e5cbb017bc4cc8a304791d27ed982c",
   "Name": "Smelogs Playground",
   "ProductSlug": "smelogs-playground-a953e3",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.3567983+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:57:08.3428814+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:03:17.9746469+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:57:21.380956+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:03:42.0614495+00:00"
 }

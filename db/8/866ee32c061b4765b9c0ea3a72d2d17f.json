@@ -2,10 +2,10 @@
   "ID": "866ee32c061b4765b9c0ea3a72d2d17f",
   "Name": "Barrett Foster - Chapter One",
   "ProductSlug": "barrett-foster-chatper-one-3c91e2",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-02T08:00:00+00:00",
     "PcReleaseDate": "2023-06-02T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T20:56:52.4061803+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:57:30.0095978+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:04:55.2747032+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:57:56.7054531+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:06:04.519114+00:00"
 }

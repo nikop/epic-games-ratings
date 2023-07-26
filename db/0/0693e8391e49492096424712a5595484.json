@@ -714,9 +714,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "BearPistol",
@@ -738,9 +738,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "BearSword",
@@ -826,9 +826,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "DwarfHobo",
@@ -930,17 +930,17 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Priestess",
@@ -1018,9 +1018,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "SwordDiamond",
@@ -1057,8 +1057,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:05:39.7476782+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:07:04.6164722+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:57:16.7502399+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:05:39.7477157+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:57:34.5475139+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:07:04.6165142+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2191,6 +2191,11 @@
       "Time": "2023-07-26T13:12:15.7537646+00:00",
       "NumProgressed": 637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T16:06:47.6860185+00:00",
+      "NumProgressed": 639,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2202,7 +2207,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2218,7 +2223,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2226,7 +2231,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2266,7 +2271,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2274,15 +2279,15 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_headquarters_15",
@@ -2290,7 +2295,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_headquarters_20",
@@ -2306,7 +2311,7 @@
       "Name": "Facility Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2314,7 +2319,7 @@
       "Name": "Corporal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2338,7 +2343,7 @@
       "Name": "Captain",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2394,7 +2399,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2426,7 +2431,7 @@
       "Name": "On Target",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2458,7 +2463,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2505,14 +2510,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 639,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:05:26.9775711+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:06:47.6860178+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:00:42.5454696+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:05:26.9776056+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:02:15.8844345+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:06:47.6860611+00:00"
 }

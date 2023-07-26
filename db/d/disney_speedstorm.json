@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -18,7 +18,7 @@
   "EOS_Progressed": 3016,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 13,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
     {
@@ -3865,9 +3865,9 @@
       "ID": "16",
       "SetID": "9p3jgda",
       "Name": "RELEASE THE KRAKEN",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 362
+      "UsersEstimate": 392
     },
     {
       "ID": "17",
@@ -4007,8 +4007,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:05:50.1516376+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:07:18.3409716+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:59:23.0006421+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:05:50.1516674+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:00:24.5731258+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:07:18.3410205+00:00"
 }

@@ -1,13 +1,13 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 40)  
+Rating: 4.85 (Ranked 39)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Captain and Crew | 2.00% | ~453 |
-| Spells and Swords | 2.00% | ~453 |
+| Captain and Crew | 2.00% | ~454 |
+| Spells and Swords | 2.00% | ~454 |
 | Harvest and Home | 1.00% | ~227 |
 | Poise and Poisons | 1.00% | ~227 |
 | Suns and Soldiers | 1.00% | ~227 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,670 (Ranked 102)  
+Progressed: 22,675 (Ranked 102)  
 Completed: 35 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 35 (0.15%) (Ranked 177)
 | 2023-07-23 | 22,625 | 35 |
 | 2023-07-24 | 22,646 | 35 |
 | 2023-07-25 | 22,658 | 35 |
-| 2023-07-26 | 22,670 | 35 |
+| 2023-07-26 | 22,675 | 35 |
 ## Awards
 Max (Extremely Fun): 219  (Ranked 258)  
 Sum: 1,671 (Ranked 208)  

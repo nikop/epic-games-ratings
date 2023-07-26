@@ -194,7 +194,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6812,
+  "EOS_Progressed": 6814,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -4939,6 +4939,11 @@
       "Time": "2023-07-26T15:04:05.3396283+00:00",
       "NumProgressed": 6812,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-26T16:04:55.1110202+00:00",
+      "NumProgressed": 6814,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -4974,7 +4979,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5022,7 +5027,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5054,7 +5059,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "LIBERATOR",
@@ -5070,7 +5075,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "SHREDDER",
@@ -5117,7 +5122,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6812,
+      "Progressed": 6814,
       "Completed": 30
     }
   ],
@@ -5125,8 +5130,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:04:05.3396278+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:04:55.1110196+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:58:18.6836563+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:04:05.3396628+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:59:01.213649+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:04:55.1110615+00:00"
 }

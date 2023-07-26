@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7155,
+  "EOS_Progressed": 7156,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6143,6 +6143,11 @@
       "Time": "2023-07-26T15:04:59.5621931+00:00",
       "NumProgressed": 7155,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-26T16:06:10.4533976+00:00",
+      "NumProgressed": 7156,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6178,7 +6183,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "ACH05",
@@ -6226,7 +6231,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH11",
@@ -6385,7 +6390,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7155,
+      "Progressed": 7156,
       "Completed": 41
     }
   ],
@@ -6393,8 +6398,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:04:59.5621926+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:06:10.4533969+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:58:16.3681449+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:04:59.562233+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:58:57.5765213+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:06:10.4534541+00:00"
 }

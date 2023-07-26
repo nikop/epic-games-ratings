@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Urshanabi Hoarder | 0.00% | ~0 |
+| Urshanabi Hoarder | 300.00% | ~3 |
+| Captain Drummer | 100.00% | ~1 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Bosmang | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
-| Captain Drummer | 0.00% | ~0 |
 | No Belter Left Behind | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
 | Data Master | 0.00% | ~0 |
@@ -34,3 +34,10 @@
 | Grave Robber | 0.00% | ~0 |
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 470)  
+Completed: 0 (0.00%) (Ranked 242)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-07-26 | 1 | 0 |

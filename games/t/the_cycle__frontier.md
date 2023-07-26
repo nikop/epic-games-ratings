@@ -1,16 +1,16 @@
 # The Cycle: Frontier
 [Store](https://store.epicgames.com/en-US/p/thecycle)  
 [View Rawdata](../../db/t/the_cycle__frontier.json)  
-Rating: 4.10 (Ranked 890)  
+Rating: 4.10 (Ranked 891)  
 Number of Ratings: 15,671  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 2,470  (Ranked 100)  
-Sum: 13,899 (Ranked 66)  
+Sum: 13,900 (Ranked 66)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,470 |
-| This game has Challenging Combat | 2,454 |
+| This game has Challenging Combat | 2,455 |
 | This game is Highly Recommended | 2,404 |
 | This game has Quickly Understood Controls | 2,375 |
 | This game is Extremely Fun | 2,213 |
@@ -207,4 +207,4 @@ Diff (max vs sum): 34
 | 2023-07-22 | 4.10 | - | 2,464 | 13,880 |
 | 2023-07-24 | 4.10 | - | 2,467 | 13,887 |
 | 2023-07-25 | 4.10 | - | 2,467 | 13,894 |
-| 2023-07-26 | 4.10 | - | 2,470 | 13,899 |
+| 2023-07-26 | 4.10 | - | 2,470 | 13,900 |

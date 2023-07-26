@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 1.00% | ~2,157 |
 | The Silken Swamp | 1.00% | ~2,157 |
 | Supply Run | 0.90% | ~1,941 |
-| Rocky Reception | 0.80% | ~1,456 |
+| Rocky Reception | 0.90% | ~1,638 |
 | Rock and Roll | 0.80% | ~1,456 |
 | Vecna Lives! | 0.70% | ~1,274 |
 | Tall Tales | 0.60% | ~1,092 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.30% | ~647 |
 | Waterdeep Detours | 0.30% | ~647 |
 | Underdeep Cartography | 0.30% | ~647 |
+| Friendly Imps | 0.30% | ~647 |
 | Willing to Sacrifice | 0.30% | ~546 |
 | Devilishly Cold | 0.30% | ~546 |
 | Luigi After Hours | 0.30% | ~546 |
@@ -77,11 +78,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.20% | ~431 |
 | Cold as Ice | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
+| An Unexpected Geist | 0.20% | ~364 |
 | The Prince of a Thousand Enemies | 0.20% | ~364 |
 | Downfall | 0.20% | ~364 |
 | Slack-jawed Lorna | 0.20% | ~364 |
 | The Fairy Rings of Thither | 0.20% | ~364 |
 | Will of the Feywild | 0.20% | ~364 |
+| The Roots of Loomlurch | 0.20% | ~364 |
 | Owlbear Necessities | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Overwhelmed with Knowledge | 0.20% | ~364 |
@@ -94,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
 | The Lost Heir of Omu | 0.20% | ~431 |
+| Lobsterfolk Assault | 0.20% | ~431 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
 | Home Field Advantage | 0.20% | ~431 |
@@ -142,8 +146,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~431 |
 | Easily Distracted | 0.20% | ~431 |
 | Rude Welcome | 0.20% | ~431 |
-| Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
+| Moose Tracks | 0.20% | ~364 |
 | Durable Deep | 0.20% | ~431 |
 | Expert Opinion | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
@@ -154,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~182 |
 | Friends and Foes | 0.10% | ~182 |
 | And Your Enemies Closer | 0.10% | ~182 |
-| An Unexpected Geist | 0.10% | ~182 |
 | Back to Nature | 0.10% | ~182 |
 | A Monarch Among Us | 0.10% | ~182 |
 | A Dragon Against Us | 0.10% | ~182 |
@@ -197,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speed Demons | 0.10% | ~182 |
 | All Damage, All The Time | 0.10% | ~182 |
 | Will of the Frozen Feywild | 0.10% | ~182 |
-| The Roots of Loomlurch | 0.10% | ~182 |
 | The Loots of Loomlurch | 0.10% | ~182 |
 | The Lutes of Loomlurch | 0.10% | ~182 |
 | Best Laid Plans | 0.10% | ~182 |
@@ -225,7 +227,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~216 |
 | Wagon Train | 0.10% | ~216 |
 | Not Very Charming | 0.10% | ~216 |
-| Lobsterfolk Assault | 0.10% | ~216 |
 | Taking Responsibility | 0.10% | ~216 |
 | The Minions of Endelyn Moongrave | 0.10% | ~182 |
 | Between a Brigganock and a Hard Place | 0.10% | ~182 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~182 |
 | Mirage Arcane | 0.10% | ~182 |
 | Only Human | 0.10% | ~182 |
-| Moose Tracks | 0.10% | ~182 |
 | An Awakened Axe | 0.10% | ~182 |
 | CONtagious Cold | 0.10% | ~182 |
 | Ten in Ten-Towns | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,707 (Ranked 53)  
-Completed: 2,114 (0.98%) (Ranked 107)  
+Progressed: 215,722 (Ranked 53)  
+Completed: 2,116 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,114 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,707 | 2,114 |
+| 2023-07-26 | 215,722 | 2,116 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

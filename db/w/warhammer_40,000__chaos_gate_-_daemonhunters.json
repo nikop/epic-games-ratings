@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -618,9 +618,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3040,
+  "EOS_Progressed": 3042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2548,6 +2548,11 @@
       "Time": "2023-07-26T15:03:56.4389931+00:00",
       "NumProgressed": 3040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T16:04:43.0616895+00:00",
+      "NumProgressed": 3042,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2717,9 +2722,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Kills_Auto",
@@ -2749,17 +2754,17 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Exterminator",
       "SetID": "3jha1np",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -2781,9 +2786,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Streak",
@@ -2805,9 +2810,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2893,9 +2898,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3102,21 +3107,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3040,
+      "Progressed": 3042,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3040,
+      "Progressed": 3042,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-26T05:59:20.6428845+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:03:56.4389927+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:04:43.0616887+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:59:10.3972645+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:03:56.4390538+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:00:06.53594+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:04:43.061825+00:00"
 }

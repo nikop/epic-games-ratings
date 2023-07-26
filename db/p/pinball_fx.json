@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1612,9 +1612,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 244147,
+  "EOS_Progressed": 244167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2172,
+  "EOS_NewPlayers": 2178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12192,6 +12192,11 @@
       "Time": "2023-07-26T15:04:50.1974656+00:00",
       "NumProgressed": 244147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T16:05:57.5045169+00:00",
+      "NumProgressed": 244167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -12251,7 +12256,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26856
+      "UsersEstimate": 26858
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -12267,7 +12272,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -12283,7 +12288,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -12291,7 +12296,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -12323,7 +12328,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7324
+      "UsersEstimate": 7325
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -12331,7 +12336,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -12347,7 +12352,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -12363,7 +12368,7 @@
       "Name": "I Found it!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19532
+      "UsersEstimate": 19533
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -12387,7 +12392,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12411,7 +12416,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7324
+      "UsersEstimate": 7325
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -12427,7 +12432,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 200201
+      "UsersEstimate": 200217
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -12435,22 +12440,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 95217
+      "UsersEstimate": 95225
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 244147,
+      "Progressed": 244167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-07-14T17:59:29.0857732+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:04:50.1974652+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:05:57.5045161+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.7266124+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:59:23.3929593+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:04:50.1975317+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:00:24.9645234+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:05:57.5046676+00:00"
 }

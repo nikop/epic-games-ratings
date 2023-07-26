@@ -7,21 +7,21 @@
 | Fright ✔ | 56.00% | ~123 |
 | Chest ✔ | 54.00% | ~118 |
 | Inventory ✔ | 53.00% | ~116 |
-| Police officers ✔ | 27.00% | ~59 |
+| Police officers ✔ | 28.00% | ~61 |
 | Mutation ✔ | 25.00% | ~55 |
-| Doberman ✔ | 14.00% | ~31 |
+| Doberman ✔ | 15.00% | ~33 |
+| Chess ✔ | 11.00% | ~24 |
 | Weapon ✔ | 11.00% | ~24 |
-| Chess ✔ | 10.00% | ~22 |
+| Survival ✔ | 9.00% | ~20 |
 | Master of Unlocking ✔ | 9.00% | ~20 |
-| Survival ✔ | 8.00% | ~18 |
 | Thirst ✔ | 7.00% | ~15 |
 | Alice ✔ | 6.00% | ~13 |
+| Antivirus ✔ | 6.00% | ~13 |
 | Betty ✔ | 6.00% | ~13 |
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
 | Food ✔ | 6.00% | ~13 |
 | Hospital ✔ | 6.00% | ~13 |
-| Antivirus ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
 | Eva ✔ | 5.00% | ~11 |
 | Mutant fight ✔ | 5.00% | ~11 |

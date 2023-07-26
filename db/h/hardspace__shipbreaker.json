@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1504,9 +1504,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1593,8 +1593,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:04:45.3525005+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:05:51.0035929+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:57:57.3932285+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:04:45.3525208+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:58:28.8629539+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:05:51.0036194+00:00"
 }

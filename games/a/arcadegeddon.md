@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,406 |
-| Photogenic | 88.00% | ~7,162 |
-| Surge Gauntlet Jockey | 85.00% | ~6,918 |
-| Plug It In | 84.00% | ~6,837 |
-| Adventure Time | 80.00% | ~6,511 |
-| Playing With Power | 78.00% | ~6,348 |
-| Coup d'Etat | 59.00% | ~4,802 |
+| Let's Get This Party Started | 91.00% | ~7,407 |
+| Photogenic | 88.00% | ~7,163 |
+| Surge Gauntlet Jockey | 85.00% | ~6,919 |
+| Plug It In | 84.00% | ~6,838 |
+| Adventure Time | 80.00% | ~6,512 |
+| Playing With Power | 78.00% | ~6,349 |
+| Coup d'Etat | 59.00% | ~4,803 |
 | You're Fired | 58.00% | ~4,721 |
 | Get Furious | 56.00% | ~4,558 |
-| Gunplay And Cosplay | 55.00% | ~4,476 |
-| Hacks In Stacks | 55.00% | ~4,476 |
-| Meching Enemies | 49.00% | ~3,988 |
-| Ticket Toddler | 44.00% | ~3,581 |
+| Gunplay And Cosplay | 55.00% | ~4,477 |
+| Hacks In Stacks | 55.00% | ~4,477 |
+| Meching Enemies | 49.00% | ~3,989 |
+| Ticket Toddler | 44.00% | ~3,582 |
 | Booty Bashing | 41.00% | ~3,337 |
 | Field Medic | 38.00% | ~3,093 |
 | Here Comes a New Challenger | 38.00% | ~3,093 |
 | Rapid Response | 33.00% | ~2,686 |
 | Surge Ahead | 31.00% | ~2,523 |
 | The Full Monty | 31.00% | ~2,523 |
-| Guardian Angel | 29.00% | ~2,360 |
+| Guardian Angel | 29.00% | ~2,361 |
 | Poppin Noggins | 25.00% | ~2,035 |
 | Clips and Crits | 21.00% | ~1,709 |
 | Grey Goo | 18.00% | ~1,465 |
 | Boss of Bosses | 15.00% | ~1,221 |
-| The Final Blow | 14.00% | ~1,139 |
+| The Final Blow | 14.00% | ~1,140 |
 | To Be Continued | 13.00% | ~1,058 |
 | Light My Fire | 12.00% | ~977 |
 | Seasoned Adventurer | 12.00% | ~977 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,139 (Ranked 123)  
+Progressed: 8,140 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,11 +154,11 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 8,029 | 0 |
 | 2023-07-24 | 8,065 | 0 |
 | 2023-07-25 | 8,121 | 0 |
-| 2023-07-26 | 8,139 | 0 |
+| 2023-07-26 | 8,140 | 0 |
 ## Awards
-Max (Great for Beginners): 63  (Ranked 383)  
+Max (Great for Beginners): 63  (Ranked 384)  
 Sum: 454 (Ranked 303)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |

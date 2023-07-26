@@ -6,67 +6,67 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~21,478 |
-| It wakes | 3.00% | ~21,478 |
-| Skillful | 3.00% | ~21,478 |
-| One More Step | 3.00% | ~21,478 |
-| The Grand Sacrifice | 2.00% | ~14,319 |
-| Agonizing Escape | 2.00% | ~14,319 |
-| Backdoor Escape | 2.00% | ~14,319 |
-| I've got your back | 2.00% | ~14,319 |
-| No one left behind | 2.00% | ~14,319 |
-| Medic | 2.00% | ~14,319 |
-| Handyman | 2.00% | ~14,319 |
-| Nerves of steel | 2.00% | ~14,319 |
-| Perfect Escape | 2.00% | ~14,319 |
-| Perfect Killing | 2.00% | ~14,319 |
-| Not half bad | 2.00% | ~14,319 |
-| Bloody Millionaire | 2.00% | ~14,319 |
-| Apt Survivor | 2.00% | ~14,319 |
-| Apt Killer | 2.00% | ~14,319 |
-| Risk it all | 2.00% | ~14,319 |
-| Survival Treasures | 2.00% | ~14,319 |
-| I | 2.00% | ~14,319 |
-| II | 2.00% | ~14,319 |
-| III | 2.00% | ~14,319 |
-| Engineer | 2.00% | ~14,319 |
-| Sorted | 2.00% | ~14,319 |
-| Happy Holidays | 2.00% | ~14,319 |
-| Complete the Evolution | 2.00% | ~14,319 |
-| Extraterrestrial | 2.00% | ~14,319 |
-| Blood on your hands | 1.00% | ~7,159 |
-| Escape Artist | 1.00% | ~7,159 |
-| Made it out alive! | 1.00% | ~7,159 |
-| Gifts for the Fog | 1.00% | ~7,159 |
-| Vulture | 1.00% | ~7,159 |
-| III-50 | 1.00% | ~7,159 |
-| All Aboard | 1.00% | ~7,159 |
-| Leapfrog | 1.00% | ~7,159 |
-| Item of Obsession | 1.00% | ~7,159 |
-| House of Pain | 1.00% | ~7,159 |
-| Holiday Get-Together | 1.00% | ~7,159 |
-| Near-Death Experience | 1.00% | ~7,159 |
-| Cherish your Life | 1.00% | ~7,159 |
-| Campbell's Chapel Legacy | 1.00% | ~7,159 |
-| Make Some Noise | 1.00% | ~7,159 |
-| A bite for the Entity | 0.90% | ~6,443 |
-| Shock Therapy | 0.90% | ~6,443 |
-| Cottage Owner | 0.90% | ~6,443 |
-| Serial Killer | 0.90% | ~6,443 |
-| Escaping the Nightmare | 0.90% | ~6,443 |
-| Blood on your face | 0.80% | ~5,728 |
-| Deep Cleansing | 0.80% | ~5,728 |
-| Game Over | 0.80% | ~5,728 |
-| Hemophobia | 0.70% | ~5,012 |
-| Texas BBQ | 0.70% | ~5,012 |
-| Party Crasher | 0.70% | ~5,012 |
-| Outrage | 0.70% | ~5,012 |
-| Jump Scares | 0.60% | ~4,296 |
-| Blood in your mouth | 0.50% | ~3,580 |
-| Whiffing to Success | 0.50% | ~3,580 |
-| Mad House | 0.40% | ~2,864 |
-| Looter | 0.40% | ~2,864 |
-| A feast for the Entity | 0.30% | ~2,148 |
+| Zealous | 3.00% | ~21,484 |
+| It wakes | 3.00% | ~21,484 |
+| Skillful | 3.00% | ~21,484 |
+| One More Step | 3.00% | ~21,484 |
+| The Grand Sacrifice | 2.00% | ~14,323 |
+| Agonizing Escape | 2.00% | ~14,323 |
+| Backdoor Escape | 2.00% | ~14,323 |
+| I've got your back | 2.00% | ~14,323 |
+| No one left behind | 2.00% | ~14,323 |
+| Medic | 2.00% | ~14,323 |
+| Handyman | 2.00% | ~14,323 |
+| Nerves of steel | 2.00% | ~14,323 |
+| Perfect Escape | 2.00% | ~14,323 |
+| Perfect Killing | 2.00% | ~14,323 |
+| Not half bad | 2.00% | ~14,323 |
+| Bloody Millionaire | 2.00% | ~14,323 |
+| Apt Survivor | 2.00% | ~14,323 |
+| Apt Killer | 2.00% | ~14,323 |
+| Risk it all | 2.00% | ~14,323 |
+| Survival Treasures | 2.00% | ~14,323 |
+| I | 2.00% | ~14,323 |
+| II | 2.00% | ~14,323 |
+| III | 2.00% | ~14,323 |
+| Engineer | 2.00% | ~14,323 |
+| Sorted | 2.00% | ~14,323 |
+| Happy Holidays | 2.00% | ~14,323 |
+| Complete the Evolution | 2.00% | ~14,323 |
+| Extraterrestrial | 2.00% | ~14,323 |
+| A bite for the Entity | 1.00% | ~7,161 |
+| Blood on your hands | 1.00% | ~7,161 |
+| Escape Artist | 1.00% | ~7,161 |
+| Made it out alive! | 1.00% | ~7,161 |
+| Gifts for the Fog | 1.00% | ~7,161 |
+| Vulture | 1.00% | ~7,161 |
+| III-50 | 1.00% | ~7,161 |
+| Shock Therapy | 1.00% | ~7,161 |
+| All Aboard | 1.00% | ~7,161 |
+| Leapfrog | 1.00% | ~7,161 |
+| Item of Obsession | 1.00% | ~7,161 |
+| House of Pain | 1.00% | ~7,161 |
+| Escaping the Nightmare | 1.00% | ~7,161 |
+| Holiday Get-Together | 1.00% | ~7,161 |
+| Near-Death Experience | 1.00% | ~7,161 |
+| Cherish your Life | 1.00% | ~7,161 |
+| Campbell's Chapel Legacy | 1.00% | ~7,161 |
+| Make Some Noise | 1.00% | ~7,161 |
+| Blood on your face | 0.90% | ~6,445 |
+| Cottage Owner | 0.90% | ~6,445 |
+| Serial Killer | 0.90% | ~6,445 |
+| Deep Cleansing | 0.80% | ~5,729 |
+| Game Over | 0.80% | ~5,729 |
+| Outrage | 0.80% | ~5,729 |
+| Jump Scares | 0.70% | ~5,013 |
+| Hemophobia | 0.70% | ~5,013 |
+| Texas BBQ | 0.70% | ~5,013 |
+| Party Crasher | 0.70% | ~5,013 |
+| Blood in your mouth | 0.50% | ~3,581 |
+| Whiffing to Success | 0.50% | ~3,581 |
+| A feast for the Entity | 0.40% | ~2,865 |
+| Mad House | 0.40% | ~2,865 |
+| Looter | 0.40% | ~2,865 |
 | In the void she walks | 0.30% | ~2,148 |
 | Milk 'n' Cookies | 0.30% | ~2,148 |
 | Even Punishment | 0.20% | ~1,432 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.10% | ~716 |
 | Adept Cage | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,941 (Ranked 18)  
+Progressed: 716,139 (Ranked 18)  
 Completed: 43 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 43 (0.01%) (Ranked 230)
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
 | 2023-07-25 | 713,895 | 43 |
-| 2023-07-26 | 715,941 | 43 |
+| 2023-07-26 | 716,139 | 43 |
 ## Awards
 Max (Diverse Characters): 30,324  (Ranked 15)  
-Sum: 239,783 (Ranked 12)  
+Sum: 239,831 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 26,962 |
 | This game has Quickly Understood Controls | 26,773 |
 | This game has Challenging Combat | 26,257 |
-| This game has Amazing Storytelling | 24,650 |
+| This game has Amazing Storytelling | 24,698 |
 | This game has a Competitive Community | 22,946 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -531,4 +531,4 @@ Diff (max vs sum): 3
 | 2023-07-23 | 4.52 | - | 30,192 | 239,092 |
 | 2023-07-24 | 4.52 | - | 30,216 | 239,287 |
 | 2023-07-25 | 4.52 | - | 30,242 | 239,541 |
-| 2023-07-26 | 4.52 | - | 30,324 | 239,783 |
+| 2023-07-26 | 4.52 | - | 30,324 | 239,831 |

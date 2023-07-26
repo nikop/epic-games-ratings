@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
+| Wise | 0.30% | ~39 |
 | Developing Cities | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
-| Wise | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
 | Just Difficulty | 0.20% | ~26 |

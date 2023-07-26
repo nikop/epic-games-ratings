@@ -5,12 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 21.00% | ~166 |
+| The Mysterious Stranger | 18.00% | ~142 |
 | Rail Rat | 18.00% | ~142 |
-| The Mysterious Stranger | 17.00% | ~134 |
 | The Steel Shadow | 16.00% | ~126 |
 | Make Up For Lost Time | 16.00% | ~126 |
 | No, Thanks! | 16.00% | ~126 |
 | Breaking Down Barriers | 16.00% | ~126 |
+| The Wicked Twins | 16.00% | ~126 |
 | The Prince in Heels | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
 | Immaculate Aim | 16.00% | ~126 |
@@ -20,7 +21,6 @@
 | The Loose Cannon | 15.00% | ~118 |
 | Time Flies | 15.00% | ~118 |
 | The Harder They Fall | 15.00% | ~118 |
-| The Wicked Twins | 15.00% | ~118 |
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | The Family Fortune | 15.00% | ~118 |
@@ -30,7 +30,7 @@
 | Golem Chaser | 14.00% | ~110 |
 | Check Your Pulse | 14.00% | ~110 |
 | Right On Time | 13.00% | ~103 |
-| Street Style | 12.00% | ~95 |
+| Street Style | 13.00% | ~103 |
 | Whiz Kid | 11.00% | ~87 |
 | Chaincrawler Explorer | 10.00% | ~79 |
 | Good Neighbor | 10.00% | ~79 |

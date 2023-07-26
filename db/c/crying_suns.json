@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,7 +562,7 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463818,
+  "EOS_Progressed": 463820,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
@@ -10517,6 +10517,11 @@
       "Time": "2023-07-26T15:03:44.7647576+00:00",
       "NumProgressed": 463818,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-26T16:04:28.484559+00:00",
+      "NumProgressed": 463820,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10526,9 +10531,9 @@
       "ID": "achievement_expedition_overcome_mech",
       "SetID": "8cokdon",
       "Name": "Knightmare Frames",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 1391
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -11159,21 +11164,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7752,
+      "Progressed": 7754,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463818,
+      "Progressed": 463820,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:03:44.7647573+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:04:28.4845576+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:59:41.2565302+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:03:44.7648681+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:00:47.8917183+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:04:28.4848073+00:00"
 }

@@ -5296,10 +5296,10 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215707,
-  "EOS_Completed": 2114,
-  "EOS_NewPlayers": 2315,
-  "EOS_NewCompleters": 56,
+  "EOS_Progressed": 215722,
+  "EOS_Completed": 2116,
+  "EOS_NewPlayers": 2311,
+  "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15691,6 +15691,11 @@
       "Time": "2023-07-26T15:01:01.4450824+00:00",
       "NumProgressed": 215707,
       "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-07-26T16:02:45.3352325+00:00",
+      "NumProgressed": 215722,
+      "NumCompleted": 2116
     }
   ],
   "TotalAchievements": 512,
@@ -15788,9 +15793,9 @@
       "ID": "objective_completed_1052",
       "SetID": "415jc5c",
       "Name": "An Unexpected Geist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1053",
@@ -16236,9 +16241,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1138",
@@ -16692,9 +16697,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_132",
@@ -18916,9 +18921,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_80",
@@ -18932,9 +18937,9 @@
       "ID": "objective_completed_802",
       "SetID": "415jc5c",
       "Name": "Moose Tracks",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_803",
@@ -19724,9 +19729,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1638
     },
     {
       "ID": "objective_completed_1376",
@@ -19797,21 +19802,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181981,
-      "Completed": 2993
+      "Progressed": 181996,
+      "Completed": 2994
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215707,
-      "Completed": 2114
+      "Progressed": 215722,
+      "Completed": 2116
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:01:01.4450819+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:02:45.3352316+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:58:33.2569436+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:01:01.4474348+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:59:16.6639963+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:02:45.3385947+00:00"
 }

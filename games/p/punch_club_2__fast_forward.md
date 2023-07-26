@@ -28,17 +28,17 @@
 | Law student | 55.00% | ~84 |
 | Little hacker | 53.00% | ~81 |
 | Your own way | 53.00% | ~81 |
+| Fight for life | 51.00% | ~78 |
 | Employee of the year | 51.00% | ~78 |
-| Fight for life | 50.00% | ~76 |
 | Champion – starter pack | 50.00% | ~76 |
+| It's good to be alive | 49.00% | ~75 |
+| Own four walls | 49.00% | ~75 |
 | Handyman | 48.00% | ~73 |
-| It's good to be alive | 48.00% | ~73 |
-| Own four walls | 48.00% | ~73 |
-| Extreme neuropower! | 43.00% | ~66 |
+| Extreme neuropower! | 44.00% | ~67 |
 | Legal courier | 41.00% | ~63 |
 | Now you are worthy | 37.00% | ~57 |
 | Escaped from a big trouble | 34.00% | ~52 |
-| Guiding on the right path | 32.00% | ~49 |
+| Guiding on the right path | 33.00% | ~50 |
 | No blades in the gym | 31.00% | ~47 |
 | Mysterious voice | 30.00% | ~46 |
 | Fight is life | 29.00% | ~44 |
@@ -58,14 +58,14 @@
 | Undercover robot | 22.00% | ~34 |
 | Trap disarmed | 21.00% | ~32 |
 | Careerist | 21.00% | ~32 |
+| Keep nature safe | 20.00% | ~31 |
+| Absolute Champion! | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Keep nature safe | 19.00% | ~29 |
-| Absolute Champion! | 19.00% | ~29 |
+| Not little hacker | 19.00% | ~29 |
 | Another world | 18.00% | ~28 |
 | The lonesome road | 18.00% | ~28 |
 | Family comes first | 18.00% | ~28 |
 | Key memories | 18.00% | ~28 |
-| Not little hacker | 18.00% | ~28 |
 | The heart of the Resistance | 18.00% | ~28 |
 | Silver’s past | 16.00% | ~24 |
 | Better cooking at home | 15.00% | ~23 |

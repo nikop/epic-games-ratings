@@ -36,8 +36,8 @@ Number of Ratings: 281  (23.09.2022)
 | Trollsporet Tale Teller | 0.30% | ~12 |
 | Cache and Carry | 0.30% | ~12 |
 | Golden Ridge Ranger | 0.20% | ~10 |
+| Buckaroo | 0.20% | ~10 |
 | Lost and Flounder | 0.10% | ~5 |
-| Buckaroo | 0.10% | ~5 |
 | Norway Jose | 0.10% | ~4 |
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |

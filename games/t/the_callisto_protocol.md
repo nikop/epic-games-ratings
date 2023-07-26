@@ -7,13 +7,13 @@ Rating: 4.20 (Ranked 843)
 | ---- | ---------- | ----- |
 | Get a Grip | 4.00% | ~631 |
 | Flesh Wound | 3.00% | ~473 |
+| Two Heads Are Better Than One | 3.00% | ~473 |
 | Float Like A Butterfly | 3.00% | ~473 |
 | Paper Jams | 3.00% | ~473 |
 | Keep Fighting | 3.00% | ~111 |
 | Giving Back | 2.00% | ~315 |
 | You Need a Gun | 2.00% | ~315 |
 | I Do Belong Here | 2.00% | ~315 |
-| Two Heads Are Better Than One | 2.00% | ~315 |
 | Chew 'Em Up | 2.00% | ~315 |
 | Terminated | 2.00% | ~315 |
 | Workplace Hazard | 2.00% | ~315 |
@@ -151,9 +151,9 @@ Completed: 70 (0.44%) (Ranked 138)
 | 2023-07-25 | 15,772 | 69 |
 | 2023-07-26 | 15,773 | 70 |
 ## Awards
-Max (Amazing Storytelling): 72  (Ranked 371)  
+Max (Amazing Storytelling): 72  (Ranked 372)  
 Sum: 398 (Ranked 314)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 72 |

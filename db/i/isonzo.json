@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6455,
+  "EOS_Progressed": 6456,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3702,6 +3702,11 @@
       "Time": "2023-07-26T14:05:42.8265551+00:00",
       "NumProgressed": 6455,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-26T16:06:12.4567703+00:00",
+      "NumProgressed": 6456,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3881,7 +3886,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3905,7 +3910,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3921,7 +3926,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4065,14 +4070,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6455,
+      "Progressed": 6456,
       "Completed": 8
     }
   ],
@@ -4080,8 +4085,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-26T15:05:01.16276+00:00",
+  "LastChanged_Achievements": "2023-07-26T16:06:12.4567697+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:58:00.4370281+00:00",
-  "LastUpdate_Achievements": "2023-07-26T15:05:01.1628008+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:58:33.3438865+00:00",
+  "LastUpdate_Achievements": "2023-07-26T16:06:12.4568305+00:00"
 }
