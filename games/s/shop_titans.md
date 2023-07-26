@@ -9,6 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 0.20% | ~267 |
 | Basic in Bulk | 0.20% | ~267 |
 | Tinkle of Coins | 0.20% | ~267 |
+| Capitalism Ho! | 0.20% | ~267 |
 | Titan's First Steps | 0.20% | ~267 |
 | The Daily Grind | 0.10% | ~133 |
 | On the Path to Greatness | 0.10% | ~133 |
@@ -104,7 +105,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.10% | ~133 |
 | Marvels from the World Over | 0.10% | ~133 |
 | Moment of Respite | 0.10% | ~133 |
-| Capitalism Ho! | 0.10% | ~133 |
 | Black Friday Special | 0.10% | ~133 |
 | Cash Only Please | 0.10% | ~133 |
 | King's Shadow | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,276 (Ranked 61)  
+Progressed: 133,280 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,11 +216,11 @@ Completed: 122 (0.09%) (Ranked 193)
 | 2023-07-23 | 133,125 | 122 |
 | 2023-07-24 | 133,181 | 122 |
 | 2023-07-25 | 133,231 | 122 |
-| 2023-07-26 | 133,276 | 122 |
+| 2023-07-26 | 133,280 | 122 |
 ## Awards
-Max (Great for Beginners): 4,671  (Ranked 69)  
+Max (Great for Beginners): 4,671  (Ranked 70)  
 Sum: 26,982 (Ranked 46)  
-Diff (max vs sum): 23  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,671 |

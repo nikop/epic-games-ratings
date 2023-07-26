@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,802 |
-| Man of politics | 35.00% | ~4,952 |
+| Man of politics | 35.00% | ~4,953 |
 | Friends of sorts | 34.00% | ~4,811 |
 | Yet another secret | 34.00% | ~4,811 |
 | Let there be darkness | 33.00% | ~4,670 |
@@ -17,17 +17,17 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,396 |
 | Help an old friend | 22.00% | ~3,113 |
 | Two of us | 20.00% | ~2,830 |
-| Negotiation skills | 18.00% | ~2,547 |
+| Negotiation skills | 19.00% | ~2,689 |
 | Workers' union | 18.00% | ~2,547 |
 | End of Book Two | 18.00% | ~2,547 |
 | Everything's in order | 17.00% | ~2,406 |
-| Jack was here! | 15.00% | ~2,122 |
+| Jack was here! | 15.00% | ~2,123 |
 | Twist of Fate | 14.00% | ~1,981 |
 | Exterminator | 14.00% | ~1,981 |
 | Whodunnit | 13.00% | ~1,840 |
-| Good midwife | 11.00% | ~1,556 |
-| Friar Tuck | 11.00% | ~1,556 |
-| First profit | 11.00% | ~1,556 |
+| Good midwife | 11.00% | ~1,557 |
+| Friar Tuck | 11.00% | ~1,557 |
+| First profit | 11.00% | ~1,557 |
 | Team player | 10.00% | ~1,415 |
 | Skilled merchant | 9.00% | ~1,274 |
 | Nothing but make-believe | 9.00% | ~1,274 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~566 |
 | Self-defense | 4.00% | ~566 |
 | Countess Aliena | 4.00% | ~566 |
-| Care, like a brother cares | 3.00% | ~424 |
-| A brush with death | 3.00% | ~424 |
+| Care, like a brother cares | 3.00% | ~425 |
+| A brush with death | 3.00% | ~425 |
 | Boy of mystery | 2.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,150 (Ranked 113)  
+Progressed: 14,151 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 105 (0.74%) (Ranked 116)
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
 | 2023-07-25 | 14,139 | 105 |
-| 2023-07-26 | 14,150 | 105 |
+| 2023-07-26 | 14,151 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 370)  

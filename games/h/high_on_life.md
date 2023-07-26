@@ -1,19 +1,19 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 262)  
+Rating: 4.67 (Ranked 261)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,388 |
-| Mods Please Ban | 77.00% | ~17,986 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,753 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,052 |
+| Eye Scream, You Scream | 83.00% | ~19,389 |
+| Mods Please Ban | 77.00% | ~17,987 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,754 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,053 |
 | First Bounty Down | 59.00% | ~13,782 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,315 |
-| Luglox Genocide | 43.00% | ~10,044 |
-| Playing Card To Get | 33.00% | ~7,708 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,708 |
+| Luglox Genocide | 43.00% | ~10,045 |
+| Playing Card To Get | 33.00% | ~7,709 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,709 |
 | Creature Feature | 29.00% | ~6,774 |
 | Satisfied Gus-tomer | 28.00% | ~6,541 |
 | Cold-Blooded Driller | 28.00% | ~6,541 |
@@ -28,7 +28,7 @@ Rating: 4.67 (Ranked 262)
 | Self-Actualization | 19.00% | ~4,438 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,438 |
 | Legendary Bounty Hunter | 18.00% | ~4,205 |
-| Seeing All The Sights | 16.00% | ~3,737 |
+| Seeing All The Sights | 16.00% | ~3,738 |
 | Carried Stan's Load To Completion | 13.00% | ~3,037 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,803 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,102 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 262)
 | Epic Legendary Prize | 1.00% | ~234 |
 | A Starfish Is Born | 1.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,359 (Ranked 101)  
+Progressed: 23,360 (Ranked 101)  
 Completed: 9 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 9 (0.04%) (Ranked 212)
 | 2023-07-23 | 23,250 | 9 |
 | 2023-07-24 | 23,296 | 9 |
 | 2023-07-25 | 23,339 | 9 |
-| 2023-07-26 | 23,359 | 9 |
+| 2023-07-26 | 23,360 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

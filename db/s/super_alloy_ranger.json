@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "Achi_24",
       "SetID": "51a97k7",
       "Name": "The Truth?",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_25",
@@ -686,8 +686,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:04:48.4420038+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:04:17.2009651+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.3124838+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:00:57.0752356+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:04:48.4420482+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:00:16.2552341+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:04:17.2009997+00:00"
 }

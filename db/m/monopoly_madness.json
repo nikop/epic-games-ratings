@@ -4,8 +4,8 @@
   "ProductSlug": "monopoly-madness",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.8580822+00:00",
   "LastChanged": "2023-03-31T05:58:17.8580823+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:06.2929992+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:57:09.836968+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:07:20.5396077+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:57:08.9996003+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:06:22.0099104+00:00"
 }

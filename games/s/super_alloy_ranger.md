@@ -37,6 +37,7 @@
 | he Ultra Fortress Conqueror | 2.00% | ~1 |
 | Break Through the Forbidden | 2.00% | ~1 |
 | Space Ranger: Prologue | 2.00% | ~1 |
+| The Truth? | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Rapidfire | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
@@ -45,7 +46,6 @@
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
 | Breaking the Limit | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
-| The Truth? | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |

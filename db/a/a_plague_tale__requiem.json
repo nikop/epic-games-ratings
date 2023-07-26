@@ -370,7 +370,7 @@
   ],
   "EOS_Progressed": 12294,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6174,9 +6174,9 @@
       "ID": "ACH_35",
       "SetID": "9d4cf4c",
       "Name": "Mercy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2951
     }
   ],
   "AchievementSets": [
@@ -6191,8 +6191,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:02:04.0480919+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:00:55.2588163+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.4087699+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:00:18.7759568+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:02:04.0481605+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:59:47.2170641+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:00:55.2588659+00:00"
 }

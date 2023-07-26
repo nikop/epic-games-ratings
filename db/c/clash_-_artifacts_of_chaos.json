@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -222,9 +222,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement10",
@@ -399,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:05:00.9027698+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:04:27.2712639+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:11.4625039+00:00",
-  "LastUpdate_Ratings": "2023-07-26T14:01:21.1311498+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:05:00.902787+00:00"
+  "LastUpdate_Ratings": "2023-07-26T15:00:34.9945424+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:04:27.2712924+00:00"
 }

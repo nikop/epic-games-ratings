@@ -5296,10 +5296,10 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215692,
-  "EOS_Completed": 2113,
-  "EOS_NewPlayers": 2317,
-  "EOS_NewCompleters": 55,
+  "EOS_Progressed": 215707,
+  "EOS_Completed": 2114,
+  "EOS_NewPlayers": 2315,
+  "EOS_NewCompleters": 56,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15686,6 +15686,11 @@
       "Time": "2023-07-26T14:02:11.7342042+00:00",
       "NumProgressed": 215692,
       "NumCompleted": 2113
+    },
+    {
+      "Time": "2023-07-26T15:01:01.4450824+00:00",
+      "NumProgressed": 215707,
+      "NumCompleted": 2114
     }
   ],
   "TotalAchievements": 512,
@@ -15713,7 +15718,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_101",
@@ -15735,9 +15740,9 @@
       "ID": "objective_completed_1040",
       "SetID": "415jc5c",
       "Name": "Cold as Ice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1041",
@@ -16073,7 +16078,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_1100",
@@ -16631,9 +16636,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_125",
@@ -17639,9 +17644,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_410",
@@ -18767,9 +18772,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_690",
@@ -19792,21 +19797,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181966,
+      "Progressed": 181981,
       "Completed": 2993
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215692,
-      "Completed": 2113
+      "Progressed": 215707,
+      "Completed": 2114
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:02:11.7342036+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:01:01.4450819+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:58:50.7885573+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:02:11.7369321+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:58:33.2569436+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:01:01.4474348+00:00"
 }

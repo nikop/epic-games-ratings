@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -967,6 +967,11 @@
       "Time": "2023-07-26T08:04:10.7158925+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T15:03:43.7317764+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -986,7 +991,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ATOM_KVAS",
@@ -1034,7 +1039,7 @@
       "Name": "Death of the Author",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -1058,7 +1063,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -1074,7 +1079,7 @@
       "Name": "Household",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -1106,7 +1111,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -1122,7 +1127,7 @@
       "Name": "Memoirs of a Nibbler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MYST_KNIFE",
@@ -1146,7 +1151,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -1210,7 +1215,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1226,14 +1231,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1013
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1151,
       "Completed": 0
     }
   ],
@@ -1241,8 +1246,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:04:08.3267218+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:03:43.731776+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.1070752+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:57:54.1986273+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:04:08.3267507+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:57:45.0103003+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:03:43.7317981+00:00"
 }

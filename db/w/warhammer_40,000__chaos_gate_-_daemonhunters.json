@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -618,9 +618,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3038,
+  "EOS_Progressed": 3040,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2543,6 +2543,11 @@
       "Time": "2023-07-26T14:04:22.9666981+00:00",
       "NumProgressed": 3038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T15:03:56.4389931+00:00",
+      "NumProgressed": 3040,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2720,9 +2725,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "Kills_Bleed",
@@ -3097,21 +3102,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3038,
+      "Progressed": 3040,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3038,
+      "Progressed": 3040,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-26T05:59:20.6428845+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:04:22.9666976+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:03:56.4389927+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:59:33.0848372+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:04:22.9668089+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:59:10.3972645+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:03:56.4390538+00:00"
 }

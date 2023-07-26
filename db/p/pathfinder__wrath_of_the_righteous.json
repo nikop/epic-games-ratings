@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3168,10 +3168,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6841,
       "NumberOfAwardsMax": 1690
+    },
+    {
+      "Time": "2023-07-26T14:58:50.1676217+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6843,
+      "NumberOfAwardsMax": 1690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6841,
+  "NumberOfAwards": 6843,
   "NumberOfAwardsMax": 1690,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3203,7 +3209,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 610
+      "Count": 612
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3242,9 +3248,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10585,
+  "EOS_Progressed": 10586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9362,6 +9368,11 @@
       "Time": "2023-07-26T14:03:09.007036+00:00",
       "NumProgressed": 10585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T15:03:02.9837764+00:00",
+      "NumProgressed": 10586,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9573,7 +9584,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "28_GreatUpstart",
@@ -10300,21 +10311,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9367,
+      "Progressed": 9368,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10585,
+      "Progressed": 10586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-25T21:58:39.5470056+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:03:09.0070354+00:00",
+  "LastChanged": "2023-07-26T14:58:50.1676215+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:03:02.9837757+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:59:10.672481+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:03:09.0072561+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:58:50.167622+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:03:02.9839325+00:00"
 }

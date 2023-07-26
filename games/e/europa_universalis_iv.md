@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,692 |
-| That's a Grand Army | 8.00% | ~5,948 |
-| That is mine! | 8.00% | ~5,948 |
-| Victorious! | 8.00% | ~5,948 |
-| Brothers in Arms | 6.00% | ~4,461 |
-| That's a Grand Navy | 6.00% | ~4,461 |
-| Seriously?! | 6.00% | ~4,461 |
+| Until death do us apart | 9.00% | ~6,693 |
+| That's a Grand Army | 8.00% | ~5,949 |
+| That is mine! | 8.00% | ~5,949 |
+| Victorious! | 8.00% | ~5,949 |
+| Brothers in Arms | 6.00% | ~4,462 |
+| That's a Grand Navy | 6.00% | ~4,462 |
+| Seriously?! | 6.00% | ~4,462 |
 | For the Glory | 5.00% | ~3,718 |
-| Cold War | 4.00% | ~2,974 |
-| True Catholic | 4.00% | ~2,974 |
+| Cold War | 4.00% | ~2,975 |
+| True Catholic | 4.00% | ~2,975 |
 | Defender of the Faith | 3.00% | ~2,231 |
 | It's all about luck | 3.00% | ~2,231 |
 | It's all about the money | 3.00% | ~2,231 |
@@ -44,16 +44,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~669 |
 | Trustworthy | 0.90% | ~669 |
 | Down Under | 0.80% | ~595 |
-| Electable! | 0.70% | ~520 |
-| Populists in Government | 0.70% | ~520 |
+| Electable! | 0.70% | ~521 |
+| Populists in Government | 0.70% | ~521 |
 | All belongs to Mother Russia | 0.60% | ~446 |
 | At every continent | 0.60% | ~446 |
-| Early-Modern Warfare | 0.60% | ~446 |
 | One Family to Rule them All | 0.60% | ~446 |
 | The pen is mightier than the sword | 0.60% | ~446 |
 | This is My Faith | 0.60% | ~446 |
 | Time Bandit | 0.60% | ~446 |
 | Absolutely | 0.50% | ~372 |
+| Early-Modern Warfare | 0.50% | ~372 |
 | Grand Coalition | 0.50% | ~372 |
 | In the Name of the Father | 0.50% | ~372 |
 | Live Long and Prosper | 0.50% | ~372 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,351 (Ranked 74)  
+Progressed: 74,368 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
-| 2023-07-26 | 74,351 | 0 |
+| 2023-07-26 | 74,368 | 0 |
 ## Awards
 Max (Educational): 5,583  (Ranked 61)  
 Sum: 46,034 (Ranked 26)  

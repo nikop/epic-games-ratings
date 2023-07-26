@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -153,9 +153,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "12",
@@ -177,9 +177,9 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "15",
@@ -241,9 +241,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "5",
@@ -298,8 +298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:06:07.0205155+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:05:21.2792974+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.6611139+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:59:53.0073322+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:06:07.0205304+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:59:24.8924768+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:05:21.2793087+00:00"
 }

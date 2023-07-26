@@ -18,8 +18,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.60% | ~1,092 |
 | Flight of the Kindori Pod | 0.60% | ~1,092 |
 | Topolah's Tower | 0.60% | ~1,092 |
-| Pros and CONs | 0.50% | ~1,078 |
-| Wet Feet | 0.50% | ~1,078 |
+| Pros and CONs | 0.50% | ~1,079 |
+| Wet Feet | 0.50% | ~1,079 |
 | Seeds of Destruction | 0.50% | ~910 |
 | Return to the Tomb | 0.50% | ~910 |
 | The Champion's Guide to Wildspace | 0.50% | ~910 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.30% | ~647 |
 | Best Thay Ever | 0.30% | ~546 |
 | A Demi-god's Defender | 0.30% | ~546 |
+| Homecoming | 0.30% | ~647 |
 | No One Can Hear You Scream | 0.30% | ~546 |
 | Welcome to the Rock | 0.30% | ~546 |
 | Low Initiative | 0.30% | ~647 |
@@ -63,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~647 |
 | Family Entanglements | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
+| Escort to Waterdeep | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
 | Waterdeep Detours | 0.30% | ~647 |
 | Underdeep Cartography | 0.30% | ~647 |
@@ -73,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.30% | ~546 |
 | Animated Giff | 0.30% | ~546 |
 | Starving in the Jungle | 0.20% | ~431 |
+| Cold as Ice | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
 | The Prince of a Thousand Enemies | 0.20% | ~364 |
 | Downfall | 0.20% | ~364 |
@@ -90,7 +93,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~364 |
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
-| Homecoming | 0.20% | ~431 |
 | The Lost Heir of Omu | 0.20% | ~431 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
@@ -121,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~431 |
 | Are Ya Chicken? | 0.20% | ~431 |
 | Useless Allies | 0.20% | ~431 |
+| Premature Betrayal | 0.20% | ~431 |
 | Mad Cow Disease | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | A Tale of Two Cities | 0.20% | ~431 |
@@ -131,7 +134,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Dinosaur Racing | 0.20% | ~431 |
-| Escort to Waterdeep | 0.20% | ~431 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | The Everlasting Rime | 0.20% | ~364 |
 | Close Escort | 0.20% | ~431 |
@@ -149,7 +151,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.20% | ~431 |
 | Tiny Treaty | 0.20% | ~364 |
 | All The World's A Stage | 0.20% | ~364 |
-| Cold as Ice | 0.10% | ~182 |
 | Keep Your Friends Close | 0.10% | ~182 |
 | Friends and Foes | 0.10% | ~182 |
 | And Your Enemies Closer | 0.10% | ~182 |
@@ -297,7 +298,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~182 |
 | Excavating History | 0.10% | ~216 |
 | Screams of the Dead | 0.10% | ~216 |
-| Premature Betrayal | 0.10% | ~216 |
 | Frantic Excavation | 0.10% | ~216 |
 | Birds of a Feather | 0.10% | ~182 |
 | Towering Expectations | 0.10% | ~216 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,692 (Ranked 53)  
-Completed: 2,113 (0.98%) (Ranked 107)  
+Progressed: 215,707 (Ranked 53)  
+Completed: 2,114 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,113 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,692 | 2,113 |
+| 2023-07-26 | 215,707 | 2,114 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

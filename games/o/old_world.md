@@ -8,24 +8,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~262 |
 | The Great Mage | 1.00% | ~131 |
+| Settler | 0.80% | ~105 |
+| Play a Single Player Game | 0.80% | ~105 |
 | Explorer | 0.70% | ~92 |
-| Settler | 0.70% | ~92 |
-| Play a Single Player Game | 0.70% | ~92 |
+| Friendly Family | 0.70% | ~92 |
 | Poetic Leader | 0.70% | ~92 |
-| Friendly Family | 0.60% | ~79 |
+| Intrepid | 0.60% | ~79 |
 | Able | 0.50% | ~66 |
 | Architect | 0.50% | ~66 |
 | Good | 0.50% | ~66 |
-| Intrepid | 0.50% | ~66 |
+| Just | 0.50% | ~66 |
+| Mason | 0.50% | ~66 |
 | Strong | 0.50% | ~66 |
+| Hanging Gardens | 0.50% | ~66 |
+| Oracle | 0.50% | ~66 |
 | Enlightened | 0.40% | ~52 |
-| Just | 0.40% | ~52 |
+| Glorious | 0.40% | ~52 |
+| Keystone | 0.40% | ~52 |
 | Learned | 0.40% | ~52 |
-| Mason | 0.40% | ~52 |
 | Noble | 0.40% | ~52 |
 | Pioneer | 0.40% | ~52 |
-| Hanging Gardens | 0.40% | ~52 |
-| Oracle | 0.40% | ~52 |
+| Christianity | 0.40% | ~52 |
 | Judaism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
@@ -34,14 +37,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
-| Glorious | 0.30% | ~39 |
-| Keystone | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Warrior | 0.30% | ~39 |
 | Developing Cities | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
 | Artisans | 0.30% | ~39 |
+| Colossus | 0.30% | ~39 |
 | Great Ziggurat | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Lighthouse | 0.30% | ~39 |
@@ -49,15 +51,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.30% | ~39 |
 | Learn to Play 1 | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
-| Christianity | 0.30% | ~39 |
+| Manichaeism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
 | Carthaginian Paganism | 0.30% | ~39 |
+| Egyptian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
 | Drillmaster | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
+| Devout | 0.20% | ~26 |
 | Great | 0.20% | ~26 |
 | Intercessor | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
@@ -70,10 +74,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
+| Traders | 0.20% | ~26 |
 | Furious Family | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
-| Colossus | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
@@ -81,8 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
-| Manichaeism | 0.20% | ~26 |
-| Egyptian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
@@ -128,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
-| Devout | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Invincible | 0.10% | ~13 |
 | Lion | 0.10% | ~13 |
@@ -147,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
 | Riders | 0.10% | ~13 |
-| Traders | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,100 (Ranked 115)  
+Progressed: 13,103 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,100 | 5 |
+| 2023-07-26 | 13,103 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

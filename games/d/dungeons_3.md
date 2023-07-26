@@ -31,8 +31,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~6,536 |
 | Difficult family relationships | 25.00% | ~6,284 |
 | MASS-O-BOT | 25.00% | ~6,284 |
+| Prepare the grave | 25.00% | ~6,284 |
 | Angel of Fire | 25.00% | ~6,284 |
-| Prepare the grave | 24.00% | ~6,033 |
 | Where there is Light, there is Shadow | 24.00% | ~6,033 |
 | At the foot of Mount Destiny | 23.00% | ~5,782 |
 | The Force disturbed | 22.00% | ~5,530 |

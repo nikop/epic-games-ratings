@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 23)
 | You can pet the cat! | 4.00% | ~143 |
 | Cream of the Crop | 3.00% | ~108 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~108 |
+| I play my own way! | 3.00% | ~108 |
 | You got this, Peppermint? | 3.00% | ~108 |
 | Perfect Parry | 3.00% | ~108 |
 | Who put gears in there? | 3.00% | ~108 |
@@ -19,7 +20,6 @@ Rating: 4.87 (Ranked 23)
 | Headliner | 2.00% | ~72 |
 | Time to pay up! | 2.00% | ~72 |
 | Who's the boss now? | 2.00% | ~72 |
-| I play my own way! | 2.00% | ~72 |
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~72 |
 | I have to read these things? | 2.00% | ~72 |
 | You must like calling me in, Chai | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,585 (Ranked 145)  
+Progressed: 3,586 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
-| 2023-07-26 | 3,585 | 6 |
+| 2023-07-26 | 3,586 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

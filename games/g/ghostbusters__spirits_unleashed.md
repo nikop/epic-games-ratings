@@ -5,25 +5,25 @@ Rating: 4.49 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,033 |
+| Stylish | 86.00% | ~21,034 |
 | Advancement | 73.00% | ~17,854 |
-| Meticulously Efficient | 64.00% | ~15,652 |
+| Meticulously Efficient | 64.00% | ~15,653 |
 | Discovery | 61.00% | ~14,919 |
 | Fully Upgraded | 54.00% | ~13,207 |
 | Swift Rift Removers | 54.00% | ~13,207 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,473 |
-| Cultured | 51.00% | ~12,473 |
-| Vaporous Expansion | 48.00% | ~11,739 |
-| Teamwork | 44.00% | ~10,761 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,474 |
+| Cultured | 51.00% | ~12,474 |
+| Vaporous Expansion | 48.00% | ~11,740 |
+| Teamwork | 44.00% | ~10,762 |
 | There you are! | 43.00% | ~10,517 |
-| Clutch Capture | 41.00% | ~10,027 |
+| Clutch Capture | 41.00% | ~10,028 |
 | Back Off | 35.00% | ~8,560 |
-| Daily Dose | 34.00% | ~8,315 |
-| Solo Capture | 32.00% | ~7,826 |
-| Welcome to the Crew | 32.00% | ~7,826 |
+| Daily Dose | 34.00% | ~8,316 |
+| Solo Capture | 32.00% | ~7,827 |
+| Welcome to the Crew | 32.00% | ~7,827 |
 | Ghostbuster In Training | 30.00% | ~7,337 |
 | Icing on the Cake | 30.00% | ~7,337 |
-| Side Hustle | 27.00% | ~6,603 |
+| Side Hustle | 27.00% | ~6,604 |
 | We have the best insurance | 26.00% | ~6,359 |
 | Legions | 26.00% | ~6,359 |
 | Right back at ya | 26.00% | ~6,359 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | Mycophile | 1.00% | ~245 |
 | I don't need these | 0.90% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,457 (Ranked 100)  
+Progressed: 24,458 (Ranked 100)  
 Completed: 48 (0.20%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 48 (0.20%) (Ranked 169)
 | 2023-07-23 | 24,410 | 48 |
 | 2023-07-24 | 24,428 | 48 |
 | 2023-07-25 | 24,451 | 48 |
-| 2023-07-26 | 24,457 | 48 |
+| 2023-07-26 | 24,458 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,181 (Ranked 189)  

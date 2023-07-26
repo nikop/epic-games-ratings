@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -7512,9 +7512,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 74351,
+  "EOS_Progressed": 74368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2809,
+  "EOS_NewPlayers": 2804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18097,6 +18097,11 @@
       "Time": "2023-07-26T14:05:56.8801184+00:00",
       "NumProgressed": 74351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T15:05:13.1581783+00:00",
+      "NumProgressed": 74368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -18548,7 +18553,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -18628,7 +18633,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "achievement_colonial_management",
@@ -18802,9 +18807,9 @@
       "ID": "achievement_early_modern_warfare",
       "SetID": "8p2n7he",
       "Name": "Early-Modern Warfare",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -18820,7 +18825,7 @@
       "Name": "Electable!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -19108,7 +19113,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "achievement_grand_coalition",
@@ -19132,7 +19137,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -19916,7 +19921,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_prester_john",
@@ -20108,7 +20113,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -20388,7 +20393,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -20700,7 +20705,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -20772,7 +20777,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -20804,7 +20809,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -20939,21 +20944,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 74351,
+      "Progressed": 74368,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 74351,
+      "Progressed": 74368,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-26T13:58:02.1126823+00:00",
-  "LastChanged_Achievements": "2023-07-26T14:05:56.880118+00:00",
+  "LastChanged_Achievements": "2023-07-26T15:05:13.1581779+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.0524617+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:58:02.112683+00:00",
-  "LastUpdate_Achievements": "2023-07-26T14:05:56.8813351+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:57:49.4741979+00:00",
+  "LastUpdate_Achievements": "2023-07-26T15:05:13.1592345+00:00"
 }

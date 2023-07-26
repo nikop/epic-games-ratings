@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 88.00% | ~1,011 |
-| Household | 7.00% | ~80 |
+| Fresh Prince of Trudograd | 88.00% | ~1,013 |
+| Household | 7.00% | ~81 |
 | An Old Friend | 6.00% | ~69 |
-| Lot 49 | 5.00% | ~57 |
-| Viva La Revolution | 5.00% | ~57 |
+| Lot 49 | 5.00% | ~58 |
+| Viva La Revolution | 5.00% | ~58 |
 | Atomic Soda | 4.00% | ~46 |
 | Mysterious Knife | 4.00% | ~46 |
 | Shadow over Trudograd | 4.00% | ~46 |
 | Walking Fortress | 4.00% | ~46 |
-| Freelance Police | 3.00% | ~34 |
-| The Great and Powerful | 3.00% | ~34 |
+| Freelance Police | 3.00% | ~35 |
+| The Great and Powerful | 3.00% | ~35 |
 | Fight Club | 2.00% | ~23 |
 | Human Antidote | 2.00% | ~23 |
-| Albino Bloodsucker | 1.00% | ~11 |
-| Death of the Author | 1.00% | ~11 |
-| Memoirs of a Nibbler | 1.00% | ~11 |
+| Albino Bloodsucker | 1.00% | ~12 |
+| Death of the Author | 1.00% | ~12 |
+| Memoirs of a Nibbler | 1.00% | ~12 |
 | KGB Bunker | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
 | Rising Star | 0.70% | ~8 |
@@ -38,7 +38,7 @@ Rating: 4.52 (Ranked 519)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 185)  
+Progressed: 1,151 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 1,145 | 0 |
 | 2023-07-23 | 1,147 | 0 |
 | 2023-07-25 | 1,148 | 0 |
-| 2023-07-26 | 1,149 | 0 |
+| 2023-07-26 | 1,151 | 0 |
 ## Awards
 Max (Character Customization): 23  (Ranked 483)  
 Sum: 23 (Ranked 487)  

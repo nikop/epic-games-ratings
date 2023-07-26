@@ -16,20 +16,20 @@
 | Quite A Snack | 58.00% | ~95 |
 | Overwhelming Power | 56.00% | ~91 |
 | Impenetrable Skin | 55.00% | ~90 |
-| Chomp Chomp! | 44.00% | ~72 |
-| Supreme Power | 43.00% | ~70 |
+| Chomp Chomp! | 45.00% | ~73 |
+| Supreme Power | 44.00% | ~72 |
 | The Duelist | 41.00% | ~67 |
 | Glorious Battle | 41.00% | ~67 |
+| Diaper Time! | 41.00% | ~67 |
 | Target Practice | 41.00% | ~67 |
-| Diaper Time! | 40.00% | ~65 |
-| Meat Larder | 38.00% | ~62 |
+| Meat Larder | 39.00% | ~64 |
 | Mutant And Proud | 37.00% | ~60 |
 | The Emperor's New Clothes | 33.00% | ~54 |
+| Final Evolution | 30.00% | ~49 |
 | You Shall Not Pass | 29.00% | ~47 |
 | Godlike Power | 29.00% | ~47 |
 | Undying Skin | 29.00% | ~47 |
 | Happy Little Home | 29.00% | ~47 |
-| Final Evolution | 29.00% | ~47 |
 | Animal Lover | 28.00% | ~46 |
 | Fight Me! | 28.00% | ~46 |
 | Supremacy | 28.00% | ~46 |

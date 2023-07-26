@@ -19,25 +19,25 @@
 | Run K, run! | 71.00% | ~109 |
 | No bullying more | 67.00% | ~103 |
 | Hello, world! | 67.00% | ~103 |
-| Fighting is cool | 64.00% | ~98 |
+| Fighting is cool | 65.00% | ~99 |
 | Employee of the month | 61.00% | ~93 |
 | Intriguing candies | 60.00% | ~92 |
 | Pal of your father? | 59.00% | ~90 |
 | Spirit of the past | 58.00% | ~89 |
+| Workout professional | 55.00% | ~84 |
 | Law student | 55.00% | ~84 |
-| Workout professional | 54.00% | ~83 |
 | Little hacker | 53.00% | ~81 |
 | Your own way | 53.00% | ~81 |
+| Employee of the year | 51.00% | ~78 |
 | Fight for life | 50.00% | ~76 |
 | Champion – starter pack | 50.00% | ~76 |
-| Employee of the year | 50.00% | ~76 |
 | Handyman | 48.00% | ~73 |
 | It's good to be alive | 48.00% | ~73 |
 | Own four walls | 48.00% | ~73 |
 | Extreme neuropower! | 43.00% | ~66 |
 | Legal courier | 41.00% | ~63 |
 | Now you are worthy | 37.00% | ~57 |
-| Escaped from a big trouble | 33.00% | ~50 |
+| Escaped from a big trouble | 34.00% | ~52 |
 | Guiding on the right path | 32.00% | ~49 |
 | No blades in the gym | 31.00% | ~47 |
 | Mysterious voice | 30.00% | ~46 |
@@ -60,16 +60,16 @@
 | Careerist | 21.00% | ~32 |
 | The last bell ring | 20.00% | ~31 |
 | Keep nature safe | 19.00% | ~29 |
+| Absolute Champion! | 19.00% | ~29 |
+| Another world | 18.00% | ~28 |
+| The lonesome road | 18.00% | ~28 |
 | Family comes first | 18.00% | ~28 |
 | Key memories | 18.00% | ~28 |
 | Not little hacker | 18.00% | ~28 |
-| Absolute Champion! | 18.00% | ~28 |
-| Another world | 17.00% | ~26 |
-| The lonesome road | 17.00% | ~26 |
-| The heart of the Resistance | 17.00% | ~26 |
+| The heart of the Resistance | 18.00% | ~28 |
 | Silver’s past | 16.00% | ~24 |
 | Better cooking at home | 15.00% | ~23 |
-| The only right decision | 13.00% | ~20 |
+| The only right decision | 14.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 292)  
 Completed: 5 (3.27%) (Ranked 58)  

@@ -6,44 +6,44 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 39.00% | ~22,096 |
-| To The Nines | 35.00% | ~19,830 |
-| Optimized | 30.00% | ~16,997 |
-| Performance Review | 30.00% | ~16,997 |
-| Making a Name | 28.00% | ~15,864 |
-| Tune Up | 27.00% | ~15,297 |
-| Wet Work | 26.00% | ~14,731 |
-| Landlord | 26.00% | ~14,731 |
-| The Side Job | 25.00% | ~14,164 |
-| Wrecking Ball | 22.00% | ~12,464 |
-| Food for Thought | 22.00% | ~12,464 |
-| Finders Keepers | 20.00% | ~11,331 |
-| A Young Empire | 20.00% | ~11,331 |
-| Work Ethic | 19.00% | ~10,765 |
-| Power Players | 15.00% | ~8,498 |
-| Picking Fights | 15.00% | ~8,498 |
-| Quality Time | 14.00% | ~7,932 |
-| Showdown | 13.00% | ~7,365 |
-| Et tu? | 13.00% | ~7,365 |
-| Took It to The Limit | 13.00% | ~7,365 |
-| Kitted Out | 11.00% | ~6,232 |
-| Hijacked | 9.00% | ~5,099 |
-| Masters of Santo Ileso | 9.00% | ~5,099 |
-| The Spins | 8.00% | ~4,532 |
-| The Mechanic | 8.00% | ~4,532 |
-| Closet Space | 6.00% | ~3,399 |
+| First F#@!ing Day | 39.00% | ~22,101 |
+| To The Nines | 35.00% | ~19,834 |
+| Optimized | 30.00% | ~17,001 |
+| Performance Review | 30.00% | ~17,001 |
+| Making a Name | 28.00% | ~15,867 |
+| Tune Up | 27.00% | ~15,301 |
+| Wet Work | 26.00% | ~14,734 |
+| Landlord | 26.00% | ~14,734 |
+| The Side Job | 25.00% | ~14,167 |
+| Wrecking Ball | 22.00% | ~12,467 |
+| Food for Thought | 22.00% | ~12,467 |
+| Finders Keepers | 20.00% | ~11,334 |
+| A Young Empire | 20.00% | ~11,334 |
+| Work Ethic | 19.00% | ~10,767 |
+| Power Players | 15.00% | ~8,500 |
+| Picking Fights | 15.00% | ~8,500 |
+| Quality Time | 14.00% | ~7,934 |
+| Showdown | 13.00% | ~7,367 |
+| Et tu? | 13.00% | ~7,367 |
+| Took It to The Limit | 13.00% | ~7,367 |
+| Kitted Out | 11.00% | ~6,234 |
+| Hijacked | 9.00% | ~5,100 |
+| Masters of Santo Ileso | 9.00% | ~5,100 |
+| The Spins | 8.00% | ~4,534 |
+| The Mechanic | 8.00% | ~4,534 |
+| Closet Space | 6.00% | ~3,400 |
 | Producer Credit | 6.00% | ~1,698 |
 | We could go home, or… | 5.00% | ~2,833 |
 | Challenge Accepted | 5.00% | ~2,833 |
 | A Golden Age | 5.00% | ~2,833 |
 | Face Off | 5.00% | ~1,415 |
-| The Professional | 4.00% | ~2,266 |
-| Chaos Tamer | 4.00% | ~2,266 |
-| Untouchable | 4.00% | ~2,266 |
-| Free Refills | 4.00% | ~2,266 |
-| Neighborly | 4.00% | ~2,266 |
-| Prankster | 4.00% | ~2,266 |
-| Smooth Moves | 4.00% | ~2,266 |
+| The Professional | 4.00% | ~2,267 |
+| Chaos Tamer | 4.00% | ~2,267 |
+| Untouchable | 4.00% | ~2,267 |
+| Free Refills | 4.00% | ~2,267 |
+| Neighborly | 4.00% | ~2,267 |
+| Prankster | 4.00% | ~2,267 |
+| Smooth Moves | 4.00% | ~2,267 |
 | Hazardous Heist | 4.00% | ~1,132 |
 | Tourist | 3.00% | ~1,700 |
 | Shopping Spree | 2.00% | ~1,133 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~57 |
 | Fiesta Time | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,656 (Ranked 84)  
+Progressed: 56,669 (Ranked 84)  
 Completed: 30 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,10 +157,10 @@ Completed: 30 (0.05%) (Ranked 206)
 | 2023-07-23 | 55,874 | 30 |
 | 2023-07-24 | 56,222 | 30 |
 | 2023-07-25 | 56,510 | 30 |
-| 2023-07-26 | 56,656 | 30 |
+| 2023-07-26 | 56,669 | 30 |
 ## Awards
 Max (Extremely Fun): 1,051  (Ranked 139)  
-Sum: 8,534 (Ranked 94)  
+Sum: 8,535 (Ranked 94)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -171,7 +171,7 @@ Diff (max vs sum): 45
 | This game is Great for Beginners | 982 |
 | This game is Relaxing | 975 |
 | This game has Amazing Characters | 973 |
-| This game has Amazing Storytelling | 962 |
+| This game has Amazing Storytelling | 963 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 590 |
 ## Ratings History
@@ -311,3 +311,4 @@ Diff (max vs sum): 45
 | 2023-07-22 | 3.78 | - | 1,051 | 8,529 |
 | 2023-07-23 | 3.78 | - | 1,051 | 8,532 |
 | 2023-07-24 | 3.78 | - | 1,051 | 8,534 |
+| 2023-07-26 | 3.78 | - | 1,051 | 8,535 |
