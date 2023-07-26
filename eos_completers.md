@@ -24,7 +24,7 @@
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
-| 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.72% |
+| 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.63% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 43 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.76% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.69% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.66% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
@@ -52,7 +52,7 @@
 | 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.75% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
-| 53 | [ZZT!](games/z/zzt!.md) | 3.54% |
+| 53 | [ZZT!](games/z/zzt!.md) | 3.58% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.47% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
@@ -88,7 +88,7 @@
 | 86 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 87 | [Sifu](games/s/sifu.md) | 1.80% |
 | 88 | [Iron Danger](games/i/iron_danger.md) | 1.70% |
-| 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.67% |
+| 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.66% |
 | 90 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 91 | [Somerville](games/s/somerville.md) | 1.62% |
 | 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.54% |
@@ -290,6 +290,7 @@
 | 242 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
 | 242 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
 | 242 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
+| 242 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 0.00% |
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
 | 242 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 0.00% |
 | 242 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
