@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 920)  
+Rating: 3.99 (Ranked 921)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,242 (Ranked 61)  
+Progressed: 133,246 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 122 (0.09%) (Ranked 193)
 | 2023-07-23 | 133,125 | 122 |
 | 2023-07-24 | 133,181 | 122 |
 | 2023-07-25 | 133,231 | 122 |
-| 2023-07-26 | 133,242 | 122 |
+| 2023-07-26 | 133,246 | 122 |
 ## Awards
 Max (Great for Beginners): 4,671  (Ranked 69)  
-Sum: 26,980 (Ranked 46)  
+Sum: 26,982 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 23
 | This game has Quickly Understood Controls | 3,977 |
 | This game has Diverse Characters | 3,833 |
 | This game is Highly Recommended | 3,713 |
-| This game has Easy Combat | 3,657 |
+| This game has Easy Combat | 3,659 |
 | This game has Playful Visuals | 3,141 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -417,4 +417,4 @@ Diff (max vs sum): 23
 | 2023-07-23 | 3.99 | - | 4,670 | 26,966 |
 | 2023-07-24 | 3.99 | - | 4,671 | 26,972 |
 | 2023-07-25 | 3.99 | - | 4,671 | 26,976 |
-| 2023-07-26 | 3.99 | - | 4,671 | 26,980 |
+| 2023-07-26 | 3.99 | - | 4,671 | 26,982 |

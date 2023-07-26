@@ -2,7 +2,7 @@
   "ID": "bec822fb982843c3be794d440728336b",
   "Name": "Moonlighter",
   "ProductSlug": "moonlighter",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 510,
@@ -606,6 +606,6 @@
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
   "LastChanged": "2023-03-31T05:57:22.4424645+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.2626063+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:00:15.9330119+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:02:26.9854308+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:00:11.0767377+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:02:19.525317+00:00"
 }

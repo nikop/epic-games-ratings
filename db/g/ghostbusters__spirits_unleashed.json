@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1542,9 +1542,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24453,
+  "EOS_Progressed": 24454,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8652,6 +8652,11 @@
       "Time": "2023-07-26T03:04:04.9693575+00:00",
       "NumProgressed": 24453,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-26T04:04:05.8162115+00:00",
+      "NumProgressed": 24454,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8711,7 +8716,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     },
     {
       "ID": "Collector",
@@ -8727,7 +8732,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     },
     {
       "ID": "Daily_Dose",
@@ -8743,7 +8748,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "Discovery",
@@ -8751,7 +8756,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "Dont_Need_These",
@@ -8775,7 +8780,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15650
+      "UsersEstimate": 15651
     },
     {
       "ID": "Escape_Artist",
@@ -8783,7 +8788,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "Fragile_Panes",
@@ -8879,7 +8884,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Reckless",
@@ -8927,7 +8932,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "Side_Hustle",
@@ -8935,7 +8940,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6602
+      "UsersEstimate": 6603
     },
     {
       "ID": "Skilled",
@@ -8999,7 +9004,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10759
+      "UsersEstimate": 10760
     },
     {
       "ID": "Terrifying",
@@ -9047,7 +9052,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11737
+      "UsersEstimate": 11738
     },
     {
       "ID": "Welcome_Crew",
@@ -9070,7 +9075,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24453,
+      "Progressed": 24454,
       "Completed": 48
     }
   ],
@@ -9078,8 +9083,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-26T02:59:27.5147019+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:04:04.9693571+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:04:05.816211+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:59:27.5147024+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:04:04.9694289+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:59:26.5116434+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:04:05.8162985+00:00"
 }

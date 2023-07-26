@@ -1,31 +1,31 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 347)  
+Rating: 4.62 (Ranked 348)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,141 |
-| Exploitative | 4.00% | ~16,913 |
-| Point Shooting | 4.00% | ~16,913 |
-| Wet Feet | 4.00% | ~16,913 |
-| High Speed Low Drag | 3.00% | ~12,685 |
-| Lucky | 3.00% | ~12,685 |
-| Stylin' | 3.00% | ~12,685 |
-| Turf War | 3.00% | ~12,685 |
+| Wallbanger | 5.00% | ~21,143 |
+| Exploitative | 4.00% | ~16,914 |
+| Point Shooting | 4.00% | ~16,914 |
+| Wet Feet | 4.00% | ~16,914 |
+| High Speed Low Drag | 3.00% | ~12,686 |
+| Lucky | 3.00% | ~12,686 |
+| Stylin' | 3.00% | ~12,686 |
+| Turf War | 3.00% | ~12,686 |
 | Banged | 2.00% | ~8,457 |
 | Checkpoint Victory | 2.00% | ~8,457 |
 | First Blood | 2.00% | ~8,457 |
 | Flaccid Paralysis | 2.00% | ~8,457 |
 | Push Victory | 2.00% | ~8,457 |
 | Self-destructive | 2.00% | ~8,457 |
-| Blindfire | 1.00% | ~4,228 |
-| Ruthless | 1.00% | ~4,228 |
-| Semper Paratus | 1.00% | ~4,228 |
-| Carrying | 0.90% | ~3,805 |
-| Efficient | 0.90% | ~3,805 |
-| Mount & Gun | 0.90% | ~3,805 |
+| Blindfire | 1.00% | ~4,229 |
+| Ruthless | 1.00% | ~4,229 |
+| Semper Paratus | 1.00% | ~4,229 |
+| Carrying | 0.90% | ~3,806 |
+| Efficient | 0.90% | ~3,806 |
+| Mount & Gun | 0.90% | ~3,806 |
 | Grounded | 0.80% | ~3,383 |
 | Personal | 0.80% | ~3,383 |
 | Play to Win | 0.80% | ~3,383 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,537 |
 | Cinematic | 0.50% | ~2,114 |
 | Thanks Station! | 0.40% | ~1,691 |
-| Knock Knock | 0.30% | ~1,268 |
-| There For You | 0.30% | ~1,268 |
+| Knock Knock | 0.30% | ~1,269 |
+| There For You | 0.30% | ~1,269 |
 | Hit and Run | 0.20% | ~846 |
 | Designated Driver | 0.10% | ~423 |
 | J.R. .50 | 0.10% | ~423 |
 | It's All in the Reflexes | 0.10% | ~423 |
 | Road Hazard | 0.10% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422,826 (Ranked 39)  
+Progressed: 422,852 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,17 +139,17 @@ Completed: 2 (0.00%) (Ranked 242)
 | 2023-07-23 | 420,968 | 2 |
 | 2023-07-24 | 421,928 | 2 |
 | 2023-07-25 | 422,684 | 2 |
-| 2023-07-26 | 422,826 | 2 |
+| 2023-07-26 | 422,852 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 365  (Ranked 220)  
-Sum: 2,833 (Ranked 169)  
+Sum: 2,834 (Ranked 169)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 365 |
 | This game has Challenging Combat | 344 |
 | This game is Extremely Fun | 335 |
-| This game has Competitive Players | 328 |
+| This game has Competitive Players | 329 |
 | This game has Realistic Visuals | 304 |
 | This game has Amazing Storytelling | 302 |
 | This game is Highly Recommended | 300 |
@@ -348,4 +348,4 @@ Diff (max vs sum): 51
 | 2023-07-23 | 4.62 | - | 365 | 2,828 |
 | 2023-07-24 | 4.62 | - | 365 | 2,830 |
 | 2023-07-25 | 4.62 | - | 365 | 2,832 |
-| 2023-07-26 | 4.62 | - | 365 | 2,833 |
+| 2023-07-26 | 4.62 | - | 365 | 2,834 |

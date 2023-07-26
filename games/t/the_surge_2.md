@@ -1,19 +1,19 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 809)  
+Rating: 4.25 (Ranked 810)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,513 |
-| Don't I Know You...? | 77.00% | ~1,456 |
-| Jailbreak | 65.00% | ~1,229 |
+| Rigged And Ready | 80.00% | ~1,514 |
+| Don't I Know You...? | 77.00% | ~1,457 |
+| Jailbreak | 65.00% | ~1,230 |
 | HEADSHOT! | 38.00% | ~719 |
 | Suited and Booted | 38.00% | ~719 |
 | Sleeping With The Fishes | 35.00% | ~662 |
-| Overheated | 30.00% | ~567 |
-| High Performance | 30.00% | ~567 |
-| Powered Up | 28.00% | ~529 |
+| Overheated | 30.00% | ~568 |
+| High Performance | 30.00% | ~568 |
+| Powered Up | 28.00% | ~530 |
 | Studied The Blade | 24.00% | ~454 |
 | Home Invasion | 23.00% | ~435 |
 | Luminary | 22.00% | ~416 |
@@ -23,9 +23,9 @@ Rating: 4.25 (Ranked 809)
 | Shocking | 20.00% | ~378 |
 | Court Martial | 19.00% | ~359 |
 | Unforeseeable Consequences | 19.00% | ~359 |
-| Dead Again | 18.00% | ~340 |
-| Clean Cut | 18.00% | ~340 |
-| Full Arsenal | 17.00% | ~321 |
+| Dead Again | 18.00% | ~341 |
+| Clean Cut | 18.00% | ~341 |
+| Full Arsenal | 17.00% | ~322 |
 | Can't Trust Banks | 15.00% | ~284 |
 | Mommy Dearest | 13.00% | ~246 |
 | Bad Dog | 13.00% | ~246 |
@@ -42,10 +42,10 @@ Rating: 4.25 (Ranked 809)
 | Denying Prophecy | 8.00% | ~151 |
 | Following In Their Footsteps | 8.00% | ~151 |
 | Reverse Engineering | 7.00% | ~132 |
-| Remote Surgery | 6.00% | ~113 |
-| Turbo Booster | 6.00% | ~113 |
-| Juiced Up | 6.00% | ~113 |
-| Squid Pro Quo | 6.00% | ~113 |
+| Remote Surgery | 6.00% | ~114 |
+| Turbo Booster | 6.00% | ~114 |
+| Juiced Up | 6.00% | ~114 |
+| Squid Pro Quo | 6.00% | ~114 |
 | Reborn | 5.00% | ~95 |
 | Counter-Sniper | 5.00% | ~95 |
 | Shrimp Cocktail | 5.00% | ~95 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 809)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,891 (Ranked 166)  
+Progressed: 1,892 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-23 | 1,873 | 10 |
 | 2023-07-24 | 1,882 | 10 |
 | 2023-07-25 | 1,891 | 10 |
+| 2023-07-26 | 1,892 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

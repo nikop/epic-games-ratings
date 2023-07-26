@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 623,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 157,
@@ -354,7 +354,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2637,
+  "EOS_Progressed": 2638,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -2129,6 +2129,11 @@
       "Time": "2023-07-25T19:04:37.4818886+00:00",
       "NumProgressed": 2637,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-26T04:05:12.1257212+00:00",
+      "NumProgressed": 2638,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2140,7 +2145,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2148,7 +2153,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2172,7 +2177,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2180,7 +2185,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2251,7 +2256,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2637,
+      "Progressed": 2638,
       "Completed": 101
     }
   ],
@@ -2259,8 +2264,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:05:02.395782+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:05:12.1257206+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0025879+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:00:42.3782739+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:05:02.3957995+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:00:37.4191363+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:05:12.1257426+00:00"
 }

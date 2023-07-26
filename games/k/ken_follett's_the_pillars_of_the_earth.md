@@ -1,16 +1,16 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 518)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,797 |
+| Tattletale | 41.00% | ~5,798 |
 | Man of politics | 35.00% | ~4,949 |
 | Friends of sorts | 34.00% | ~4,808 |
 | Yet another secret | 34.00% | ~4,808 |
-| Let there be darkness | 33.00% | ~4,666 |
+| Let there be darkness | 33.00% | ~4,667 |
 | End of Book One | 30.00% | ~4,242 |
 | Wannabe knight | 24.00% | ~3,394 |
 | Garden of Eden | 24.00% | ~3,394 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~1,980 |
 | Exterminator | 14.00% | ~1,980 |
 | Whodunnit | 13.00% | ~1,838 |
-| Good midwife | 11.00% | ~1,555 |
-| Friar Tuck | 11.00% | ~1,555 |
-| First profit | 11.00% | ~1,555 |
+| Good midwife | 11.00% | ~1,556 |
+| Friar Tuck | 11.00% | ~1,556 |
+| First profit | 11.00% | ~1,556 |
 | Team player | 10.00% | ~1,414 |
 | Skilled merchant | 9.00% | ~1,273 |
 | Nothing but make-believe | 9.00% | ~1,273 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~424 |
 | Boy of mystery | 2.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,140 (Ranked 113)  
+Progressed: 14,141 (Ranked 113)  
 Completed: 105 (0.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 105 (0.74%) (Ranked 116)
 | 2023-07-23 | 14,089 | 105 |
 | 2023-07-24 | 14,114 | 105 |
 | 2023-07-25 | 14,139 | 105 |
-| 2023-07-26 | 14,140 | 105 |
+| 2023-07-26 | 14,141 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 370)  

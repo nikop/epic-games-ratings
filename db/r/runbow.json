@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247138,
+  "EOS_Progressed": 247140,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9384,6 +9384,11 @@
       "Time": "2023-07-26T03:03:10.2074892+00:00",
       "NumProgressed": 247138,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-26T04:03:13.9034918+00:00",
+      "NumProgressed": 247140,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9451,7 +9456,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42013
+      "UsersEstimate": 42014
     },
     {
       "ID": "cantBeKeptDown",
@@ -9571,7 +9576,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130983
+      "UsersEstimate": 130984
     },
     {
       "ID": "indegestible",
@@ -9627,7 +9632,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34599
+      "UsersEstimate": 34600
     },
     {
       "ID": "myFirstRunbow",
@@ -9635,7 +9640,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123569
+      "UsersEstimate": 123570
     },
     {
       "ID": "notScared",
@@ -9762,7 +9767,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247138,
+      "Progressed": 247140,
       "Completed": 3
     }
   ],
@@ -9770,8 +9775,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:03:10.2074884+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:03:13.9034913+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.360681+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:59:35.0942564+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:03:10.2075606+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:59:33.8655172+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:03:13.9035845+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 510,
@@ -1373,10 +1373,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8110,
       "NumberOfAwardsMax": 3491
+    },
+    {
+      "Time": "2023-07-26T03:58:22.6039675+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8111,
+      "NumberOfAwardsMax": 3491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8110,
+  "NumberOfAwards": 8111,
   "NumberOfAwardsMax": 3491,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1420,7 +1426,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 475
+      "Count": 476
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1465,8 +1471,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2023-07-25T10:58:38.8047224+00:00",
+  "LastChanged": "2023-07-26T03:58:22.6039674+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.8093263+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:58:23.4366209+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:05:35.8340105+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:58:22.6039678+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:05:50.6535895+00:00"
 }

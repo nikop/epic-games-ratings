@@ -1,26 +1,26 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 537)  
+Rating: 4.51 (Ranked 538)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~555,969 |
-| Error: Stack Overflow | 66.00% | ~394,559 |
-| We need more gold | 60.00% | ~358,690 |
-| The dawn of civilization | 53.00% | ~316,842 |
-| More FPS for the FPS god! | 49.00% | ~292,930 |
-| Beauty and harmony | 48.00% | ~286,952 |
-| One more! | 44.00% | ~263,039 |
-| Overmind | 24.00% | ~143,476 |
-| RNG is my best friend now | 18.00% | ~107,607 |
-| Cosplay | 13.00% | ~77,716 |
-| Evolution in progress... | 13.00% | ~77,716 |
-| Step by step | 8.00% | ~47,825 |
-| README reader | 3.00% | ~17,934 |
-| Data scientist | 3.00% | ~17,934 |
-| One small step for a man... | 3.00% | ~17,934 |
+| First.. Bit? | 93.00% | ~555,974 |
+| Error: Stack Overflow | 66.00% | ~394,562 |
+| We need more gold | 60.00% | ~358,693 |
+| The dawn of civilization | 53.00% | ~316,845 |
+| More FPS for the FPS god! | 49.00% | ~292,932 |
+| Beauty and harmony | 48.00% | ~286,954 |
+| One more! | 44.00% | ~263,041 |
+| Overmind | 24.00% | ~143,477 |
+| RNG is my best friend now | 18.00% | ~107,608 |
+| Cosplay | 13.00% | ~77,717 |
+| Evolution in progress... | 13.00% | ~77,717 |
+| Step by step | 8.00% | ~47,826 |
+| README reader | 3.00% | ~17,935 |
+| Data scientist | 3.00% | ~17,935 |
+| One small step for a man... | 3.00% | ~17,935 |
 | To see it all, to learn it all | 2.00% | ~11,956 |
 | Evolution complete | 2.00% | ~11,956 |
 | Best deal on the market | 2.00% | ~11,956 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,793 |
 | The Scrooge | 0.10% | ~598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597,816 (Ranked 27)  
+Progressed: 597,821 (Ranked 27)  
 Completed: 506 (0.08%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 506 (0.08%) (Ranked 199)
 | 2023-07-23 | 597,528 | 506 |
 | 2023-07-24 | 597,667 | 506 |
 | 2023-07-25 | 597,795 | 506 |
-| 2023-07-26 | 597,816 | 506 |
+| 2023-07-26 | 597,821 | 506 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 303)  
 Sum: 134 (Ranked 396)  

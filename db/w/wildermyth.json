@@ -2,7 +2,7 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 109,
+  "Ranking_Rating": 110,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 179,
@@ -1526,9 +1526,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1686,8 +1686,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:05:09.7959415+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:05:20.67953+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:00:56.8400714+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:05:09.7959864+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:00:53.7160901+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:05:20.6795865+00:00"
 }

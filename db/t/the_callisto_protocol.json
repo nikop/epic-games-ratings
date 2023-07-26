@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1028,9 +1028,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15772,
+  "EOS_Progressed": 15773,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6018,6 +6018,11 @@
       "Time": "2023-07-25T19:01:13.3626935+00:00",
       "NumProgressed": 15772,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-07-26T04:00:59.3444355+00:00",
+      "NumProgressed": 15773,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 47,
@@ -6404,13 +6409,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15772,
+      "Progressed": 15773,
       "Completed": 69
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3698,
+      "Progressed": 3699,
       "Completed": 29
     }
   ],
@@ -6418,8 +6423,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-24T23:59:36.4552357+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:00:59.5859617+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:00:59.3444349+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.4220886+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:58:25.858855+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:00:59.586022+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:58:25.6245771+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:00:59.344511+00:00"
 }

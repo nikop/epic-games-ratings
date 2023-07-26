@@ -32,32 +32,32 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,115 |
 | Take damage to save time | 1.00% | ~7,115 |
 | The best strikes are the ones we avoid | 1.00% | ~208 |
-| Dance of the Praying Mantis | 0.90% | ~6,403 |
-| Muk Yan Master | 0.70% | ~4,980 |
-| Tiger on Fire | 0.70% | ~4,980 |
-| Source of Flying Daggers | 0.70% | ~4,980 |
-| Detective Story | 0.70% | ~4,980 |
+| Dance of the Praying Mantis | 0.90% | ~6,404 |
+| Muk Yan Master | 0.70% | ~4,981 |
+| Tiger on Fire | 0.70% | ~4,981 |
+| Source of Flying Daggers | 0.70% | ~4,981 |
+| Detective Story | 0.70% | ~4,981 |
 | Deadly Venom | 0.70% | ~146 |
 | A Touch of Acumen | 0.70% | ~146 |
 | Iron Money | 0.60% | ~4,269 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,269 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,269 |
 | Sword Stained With Blood | 0.60% | ~4,269 |
-| Prodigal Child | 0.50% | ~3,557 |
+| Prodigal Child | 0.50% | ~3,558 |
 | Martial Artist | 0.40% | ~2,846 |
 | Knowledge Greed | 0.40% | ~2,846 |
 | Martial Hub | 0.40% | ~83 |
 | Secure, Protect, Leave | 0.40% | ~83 |
-| Drunken Fighter | 0.30% | ~2,134 |
-| Healing Memory | 0.30% | ~2,134 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,134 |
-| The Pit Protector | 0.30% | ~2,134 |
-| Be like water my friend | 0.30% | ~2,134 |
-| Come Snap With Me | 0.30% | ~2,134 |
+| Drunken Fighter | 0.30% | ~2,135 |
+| Healing Memory | 0.30% | ~2,135 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,135 |
+| The Pit Protector | 0.30% | ~2,135 |
+| Be like water my friend | 0.30% | ~2,135 |
+| Come Snap With Me | 0.30% | ~2,135 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
-| Warriors from the Mountain | 0.10% | ~711 |
+| Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,498 (Ranked 20)  
+Progressed: 711,504 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-23 | 711,328 | 12,831 |
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
-| 2023-07-26 | 711,498 | 12,833 |
+| 2023-07-26 | 711,504 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,303  (Ranked 53)  
 Sum: 10,809 (Ranked 79)  

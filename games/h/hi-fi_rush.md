@@ -7,10 +7,12 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 4.00% | ~143 |
 | Feeling the beat! | 4.00% | ~143 |
+| You can pet the cat! | 4.00% | ~143 |
 | Cream of the Crop | 3.00% | ~107 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~107 |
+| You got this, Peppermint? | 3.00% | ~107 |
+| Perfect Parry | 3.00% | ~107 |
 | Who put gears in there? | 3.00% | ~107 |
-| You can pet the cat! | 3.00% | ~107 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
 | This will cost you big time | 2.00% | ~72 |
 | The Negotiator | 2.00% | ~72 |
@@ -20,11 +22,9 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 2.00% | ~72 |
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~72 |
 | I have to read these things? | 2.00% | ~72 |
-| You got this, Peppermint? | 2.00% | ~72 |
 | You must like calling me in, Chai | 2.00% | ~72 |
 | Z-shielding's got nothing on us! | 2.00% | ~72 |
 | Out in a puff of smoke | 2.00% | ~72 |
-| Perfect Parry | 2.00% | ~72 |
 | Perfecter Parry-er! | 2.00% | ~72 |
 | Uh, they were broken when I got here | 2.00% | ~72 |
 | Kissing the sky! | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,579 (Ranked 145)  
+Progressed: 3,580 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
-| 2023-07-26 | 3,579 | 6 |
+| 2023-07-26 | 3,580 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

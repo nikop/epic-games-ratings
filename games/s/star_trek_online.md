@@ -1,16 +1,16 @@
 # Star Trek Online
 [Store](https://store.epicgames.com/en-US/p/star-trek-online)  
 [View Rawdata](../../db/s/star_trek_online.json)  
-Rating: 4.44 (Ranked 641)  
+Rating: 4.44 (Ranked 642)  
 Number of Ratings: 565  (23.09.2022)  
 ## Awards
 Max (Character Customization): 565  (Ranked 180)  
-Sum: 2,326 (Ranked 181)  
+Sum: 2,327 (Ranked 181)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 565 |
-| This game is Great for Beginners | 242 |
+| This game is Great for Beginners | 243 |
 | This game has Diverse Characters | 233 |
 | This game is Relaxing | 222 |
 | This game is Extremely Fun | 220 |
@@ -202,4 +202,4 @@ Diff (max vs sum): -1
 | 2023-07-20 | 4.44 | - | 564 | 2,321 |
 | 2023-07-21 | 4.44 | - | 564 | 2,322 |
 | 2023-07-22 | 4.44 | - | 565 | 2,324 |
-| 2023-07-26 | 4.44 | - | 565 | 2,326 |
+| 2023-07-26 | 4.44 | - | 565 | 2,327 |

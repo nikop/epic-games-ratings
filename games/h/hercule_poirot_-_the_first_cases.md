@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 740)  
+Rating: 4.35 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,7 +30,7 @@ Rating: 4.35 (Ranked 740)
 | The Secret | 37.00% | ~149 |
 | Gedeon Demir | 35.00% | ~141 |
 | Rehana Piette | 34.00% | ~137 |
-| Instinct is Marvellous | 32.00% | ~129 |
+| Instinct is Marvellous | 33.00% | ~133 |
 | Ernesto da Silva | 32.00% | ~129 |
 | Inge Frank | 31.00% | ~125 |
 | The Search | 30.00% | ~121 |

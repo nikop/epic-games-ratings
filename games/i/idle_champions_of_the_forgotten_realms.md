@@ -1,16 +1,16 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 906)  
+Rating: 4.05 (Ranked 907)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,311 |
-| Beast Intentions | 2.00% | ~4,311 |
-| Maddening | 1.00% | ~2,155 |
+| A Brief Tour of the Realms | 2.00% | ~4,312 |
+| Beast Intentions | 2.00% | ~4,312 |
+| Maddening | 1.00% | ~2,156 |
 | The Silken Swamp | 0.90% | ~1,940 |
-| Supply Run | 0.80% | ~1,724 |
+| Supply Run | 0.80% | ~1,725 |
 | Rocky Reception | 0.80% | ~1,455 |
 | Vecna Lives! | 0.70% | ~1,273 |
 | Rock and Roll | 0.70% | ~1,273 |
@@ -41,11 +41,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.40% | ~727 |
 | Krux's Speed Run | 0.40% | ~727 |
 | Upholding the Law | 0.30% | ~647 |
-| Thieves of the Coven | 0.30% | ~545 |
-| Speeds of Destruction | 0.30% | ~545 |
+| Thieves of the Coven | 0.30% | ~546 |
+| Speeds of Destruction | 0.30% | ~546 |
 | On the Hunt | 0.30% | ~647 |
-| Best Thay Ever | 0.30% | ~545 |
-| A Demi-god's Defender | 0.30% | ~545 |
+| Best Thay Ever | 0.30% | ~546 |
+| A Demi-god's Defender | 0.30% | ~546 |
 | Friends of the Forest | 0.30% | ~647 |
 | Were-verpowered | 0.30% | ~647 |
 | Beast Mode | 0.30% | ~647 |
@@ -59,12 +59,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
-| Willing to Sacrifice | 0.30% | ~545 |
-| Devilishly Cold | 0.30% | ~545 |
-| Luigi After Hours | 0.30% | ~545 |
-| Electric Mayhem | 0.30% | ~545 |
-| 3,720 to 1 | 0.30% | ~545 |
-| Animated Giff | 0.30% | ~545 |
+| Willing to Sacrifice | 0.30% | ~546 |
+| Devilishly Cold | 0.30% | ~546 |
+| Luigi After Hours | 0.30% | ~546 |
+| Electric Mayhem | 0.30% | ~546 |
+| 3,720 to 1 | 0.30% | ~546 |
+| Animated Giff | 0.30% | ~546 |
 | Starving in the Jungle | 0.20% | ~431 |
 | Nightmare Rats! | 0.20% | ~364 |
 | Hither of the Feywild | 0.20% | ~364 |
@@ -119,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~431 |
 | Escort to Waterdeep | 0.20% | ~431 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
+| The Everlasting Rime | 0.20% | ~364 |
 | Close Escort | 0.20% | ~431 |
 | Constant Banditry | 0.20% | ~431 |
 | The Long Haul | 0.20% | ~431 |
@@ -429,7 +430,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~182 |
 | Giant-Size Adventure | 0.10% | ~182 |
 | Power of Three | 0.10% | ~182 |
-| The Everlasting Rime | 0.10% | ~182 |
 | Enemy Summit | 0.10% | ~182 |
 | Mirage Arcane | 0.10% | ~182 |
 | Only Human | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,549 (Ranked 53)  
+Progressed: 215,578 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,10 +616,10 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,549 | 2,111 |
+| 2023-07-26 | 215,578 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
-Sum: 30,728 (Ranked 38)  
+Sum: 30,729 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -627,7 +627,7 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 5,018 |
 | This game has Quickly Understood Controls | 4,682 |
 | This game is Relaxing | 4,571 |
-| This game has Amazing Characters | 4,033 |
+| This game has Amazing Characters | 4,034 |
 | This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,318 |
 ## Ratings History
@@ -814,3 +814,4 @@ Diff (max vs sum): 28
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
+| 2023-07-26 | 4.05 | - | 5,082 | 30,729 |

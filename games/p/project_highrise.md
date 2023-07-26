@@ -6,42 +6,42 @@
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~153 |
 | Starting Skyward | 52.00% | ~137 |
-| Grime is Not Good | 45.00% | ~118 |
-| Floor Galore | 37.00% | ~97 |
-| Campaign Launch | 37.00% | ~97 |
-| Dinner Dash | 37.00% | ~97 |
-| Need a Consult | 34.00% | ~89 |
-| It's Technical | 34.00% | ~89 |
+| Grime is Not Good | 45.00% | ~119 |
+| Floor Galore | 37.00% | ~98 |
+| Campaign Launch | 37.00% | ~98 |
+| Dinner Dash | 37.00% | ~98 |
+| Need a Consult | 34.00% | ~90 |
+| It's Technical | 34.00% | ~90 |
 | Upgrade Unlock | 33.00% | ~87 |
-| Delegate Maintenance | 32.00% | ~84 |
+| Delegate Maintenance | 33.00% | ~87 |
 | Proper Walls | 31.00% | ~82 |
 | Destination Destiny | 27.00% | ~71 |
 | Happy Tenants | 25.00% | ~66 |
-| Smooth Service | 24.00% | ~63 |
-| Your Prestige is Rising | 23.00% | ~60 |
+| Your Prestige is Rising | 23.00% | ~61 |
+| Smooth Service | 23.00% | ~61 |
 | Potent Potables | 22.00% | ~58 |
 | Retail Revenue | 22.00% | ~58 |
 | Lux Living | 21.00% | ~55 |
-| Leveled Up Shops | 21.00% | ~55 |
 | People Mover | 20.00% | ~53 |
+| Leveled Up Shops | 20.00% | ~53 |
 | Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
 | Emporium Empire | 19.00% | ~50 |
 | We Don't Need No Education | 19.00% | ~50 |
 | Get Electrified | 19.00% | ~50 |
-| Rehab Expert | 18.00% | ~47 |
-| Tasty Profits | 18.00% | ~47 |
+| Rehab Expert | 18.00% | ~48 |
+| Tasty Profits | 18.00% | ~48 |
 | Under One Roof | 16.00% | ~42 |
 | Cashflow Chief | 16.00% | ~42 |
-| Established Fame | 15.00% | ~39 |
-| Terrifically Trashed | 15.00% | ~39 |
+| Established Fame | 15.00% | ~40 |
+| Terrifically Trashed | 15.00% | ~40 |
 | Smooth Operator | 14.00% | ~37 |
 | Starred Dining | 14.00% | ~37 |
 | Boutique Benefits | 14.00% | ~37 |
 | Thrilled Tenants | 14.00% | ~37 |
 | Swimming in Surplus | 12.00% | ~32 |
 | 28 Days Later | 11.00% | ~29 |
-| Master of Puppets | 10.00% | ~26 |
+| Master of Puppets | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~21 |
 | Aestheticly Pleased | 8.00% | ~21 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 257)  
+Progressed: 264 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
-| 2023-07-26 | 263 | 0 |
+| 2023-07-26 | 264 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

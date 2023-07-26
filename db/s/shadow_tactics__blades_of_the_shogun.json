@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 276,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
@@ -1351,9 +1351,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 188619,
+  "EOS_Progressed": 188625,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1887,
+  "EOS_NewPlayers": 1888,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11901,6 +11901,11 @@
       "Time": "2023-07-26T03:06:31.4540131+00:00",
       "NumProgressed": 188619,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-26T04:06:54.1923392+00:00",
+      "NumProgressed": 188625,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 44,
@@ -11936,7 +11941,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "CompleteMastery",
@@ -11952,7 +11957,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "FiveShadows",
@@ -11984,7 +11989,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "HappyLittleAccidents",
@@ -12000,7 +12005,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "HighFiveTheMoon",
@@ -12016,7 +12021,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "ItsRainingMen",
@@ -12032,7 +12037,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "Mercyful",
@@ -12128,7 +12133,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "Rollin",
@@ -12136,7 +12141,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "StillRollin",
@@ -12160,7 +12165,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "TanukiTime",
@@ -12256,22 +12261,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 188619,
+      "Progressed": 188625,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-26T02:59:28.5760933+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:06:31.4540127+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:06:54.1923387+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.4942991+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:59:28.5760938+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:06:31.4540902+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:59:27.584415+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:06:54.1924402+00:00"
 }

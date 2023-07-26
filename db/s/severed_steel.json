@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 37,
@@ -296,9 +296,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 430201,
+  "EOS_Progressed": 430217,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 4360,
+  "EOS_NewPlayers": 4369,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10791,6 +10791,11 @@
       "Time": "2023-07-26T03:03:48.7477248+00:00",
       "NumProgressed": 430201,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-26T04:03:58.5243912+00:00",
+      "NumProgressed": 430217,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 52,
@@ -10802,7 +10807,7 @@
       "Name": "1000 KILLS",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21510
+      "UsersEstimate": 21511
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -10810,7 +10815,7 @@
       "Name": "100 KILLS",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 64530
+      "UsersEstimate": 64533
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -10818,7 +10823,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 38718
+      "UsersEstimate": 38720
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -10826,7 +10831,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 60228
+      "UsersEstimate": 60230
     },
     {
       "ID": "BIGUPS",
@@ -10866,7 +10871,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 47322
+      "UsersEstimate": 47324
     },
     {
       "ID": "CHAPTER2",
@@ -10874,7 +10879,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34416
+      "UsersEstimate": 34417
     },
     {
       "ID": "CHAPTER3",
@@ -10882,7 +10887,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 30114
+      "UsersEstimate": 30115
     },
     {
       "ID": "CHAPTER4",
@@ -10890,7 +10895,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25812
+      "UsersEstimate": 25813
     },
     {
       "ID": "CHAPTER5",
@@ -10898,7 +10903,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21510
+      "UsersEstimate": 21511
     },
     {
       "ID": "CHAPTER6",
@@ -10906,7 +10911,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21510
+      "UsersEstimate": 21511
     },
     {
       "ID": "CHURCH",
@@ -10930,7 +10935,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21510
+      "UsersEstimate": 21511
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -11178,7 +11183,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 47322
+      "UsersEstimate": 47324
     },
     {
       "ID": "SOUL",
@@ -11217,7 +11222,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 430201,
+      "Progressed": 430217,
       "Completed": 39
     }
   ],
@@ -11225,8 +11230,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-25T20:00:36.9061803+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:03:48.7477244+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:03:58.5243907+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.011154+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:59:52.2460262+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:03:48.7478064+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:59:50.5752115+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:03:58.5245182+00:00"
 }

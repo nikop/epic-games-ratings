@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 110)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,11 +28,11 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 7.00% | ~94 |
 | Another Tale to Tell | 7.00% | ~94 |
 | A Story of Heroes | 7.00% | ~94 |
+| All My Birds, Safely Home | 6.00% | ~80 |
 | Legends Never Die | 5.00% | ~67 |
 | In Soil, In Smoke | 5.00% | ~67 |
 | A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
-| All My Birds, Safely Home | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |

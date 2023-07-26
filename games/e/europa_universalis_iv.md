@@ -1,27 +1,27 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 215)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,676 |
+| Until death do us apart | 9.00% | ~6,677 |
 | That's a Grand Army | 8.00% | ~5,935 |
 | That is mine! | 8.00% | ~5,935 |
 | Victorious! | 8.00% | ~5,935 |
 | Brothers in Arms | 6.00% | ~4,451 |
 | That's a Grand Navy | 6.00% | ~4,451 |
 | Seriously?! | 6.00% | ~4,451 |
-| For the Glory | 5.00% | ~3,709 |
-| Cold War | 4.00% | ~2,967 |
-| True Catholic | 4.00% | ~2,967 |
-| Defender of the Faith | 3.00% | ~2,225 |
-| It's all about luck | 3.00% | ~2,225 |
-| It's all about the money | 3.00% | ~2,225 |
-| Respected | 3.00% | ~2,225 |
-| The Princess is in this Castle | 3.00% | ~2,225 |
-| Truly Divine Ruler | 3.00% | ~2,225 |
+| For the Glory | 5.00% | ~3,710 |
+| Cold War | 4.00% | ~2,968 |
+| True Catholic | 4.00% | ~2,968 |
+| Defender of the Faith | 3.00% | ~2,226 |
+| It's all about luck | 3.00% | ~2,226 |
+| It's all about the money | 3.00% | ~2,226 |
+| Respected | 3.00% | ~2,226 |
+| The Princess is in this Castle | 3.00% | ~2,226 |
+| Truly Divine Ruler | 3.00% | ~2,226 |
 | Agressive Expander | 2.00% | ~1,484 |
 | Blockader | 2.00% | ~1,484 |
 | Combined Arms | 2.00% | ~1,484 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~668 |
 | Market Control | 0.90% | ~668 |
 | Trustworthy | 0.90% | ~668 |
-| Down Under | 0.80% | ~593 |
+| Down Under | 0.80% | ~594 |
 | Electable! | 0.70% | ~519 |
 | Populists in Government | 0.70% | ~519 |
 | All belongs to Mother Russia | 0.60% | ~445 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,183 (Ranked 74)  
+Progressed: 74,191 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
-| 2023-07-26 | 74,183 | 0 |
+| 2023-07-26 | 74,191 | 0 |
 ## Awards
 Max (Educational): 5,583  (Ranked 61)  
 Sum: 46,013 (Ranked 26)  

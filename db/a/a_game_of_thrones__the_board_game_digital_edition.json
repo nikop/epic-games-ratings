@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19514,
+  "EOS_Progressed": 19515,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -11423,6 +11423,11 @@
       "Time": "2023-07-26T03:03:22.7980026+00:00",
       "NumProgressed": 19514,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-26T04:03:28.4989707+00:00",
+      "NumProgressed": 19515,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11609,15 +11614,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19514,
+      "Progressed": 19515,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:03:22.7980021+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:03:28.4989703+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:00:38.9618128+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:03:22.7980628+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:00:34.3407677+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:03:28.4990462+00:00"
 }

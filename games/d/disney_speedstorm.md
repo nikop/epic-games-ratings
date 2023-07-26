@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 53.00% | ~1,597 |
-| IT MAKES BOOM! | 42.00% | ~1,265 |
-| EXTRA BOOST | 41.00% | ~1,235 |
-| PRO | 33.00% | ~994 |
+| IT MAKES BOOM! | 42.00% | ~1,266 |
+| EXTRA BOOST | 41.00% | ~1,236 |
+| PRO | 33.00% | ~995 |
 | PROTECTED | 31.00% | ~934 |
 | A TIGER'S FEAR | 31.00% | ~934 |
 | HERE ARE SOME BARE NECESSITIES | 31.00% | ~934 |
@@ -23,13 +23,13 @@
 | LEGENDARY HERO | 13.00% | ~392 |
 | RELEASE THE KRAKEN | 12.00% | ~362 |
 | BE OUR GUEST | 12.00% | ~362 |
-| PERFECTLY POISED | 11.00% | ~331 |
-| THE EYE OF THE HUNTER | 11.00% | ~331 |
+| PERFECTLY POISED | 11.00% | ~332 |
+| THE EYE OF THE HUNTER | 11.00% | ~332 |
 | ACE TRICKSTER | 9.00% | ~271 |
 | EXPERIENCED CREW | 5.00% | ~151 |
 | FRAMED! | 5.00% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,013 (Ranked 154)  
+Progressed: 3,014 (Ranked 154)  
 Completed: 112 (3.72%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 112 (3.72%) (Ranked 51)
 | 2023-07-23 | 3,000 | 107 |
 | 2023-07-24 | 3,006 | 109 |
 | 2023-07-25 | 3,012 | 112 |
-| 2023-07-26 | 3,013 | 112 |
+| 2023-07-26 | 3,014 | 112 |

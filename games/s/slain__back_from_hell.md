@@ -1,7 +1,7 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 790)  
+Rating: 4.28 (Ranked 791)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.28 (Ranked 790)
 | Killed by Death | 5.00% | ~1,569 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,569 |
 | Kill 'Em All | 4.00% | ~1,255 |
-| Down Boy! | 2.00% | ~627 |
-| A Snowball's Chance in Hell | 2.00% | ~627 |
+| Down Boy! | 2.00% | ~628 |
+| A Snowball's Chance in Hell | 2.00% | ~628 |
 | Enjoy The Silence | 1.00% | ~314 |
 | Thorn in My Herbicide | 0.80% | ~251 |
 | Sure Footed As A Goat | 0.80% | ~251 |
@@ -25,9 +25,9 @@ Rating: 4.28 (Ranked 790)
 | That'll Come In Handy... | 0.70% | ~220 |
 | Start As You Mean To Go On | 0.60% | ~188 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~157 |
-| Four Legged Friend | 0.40% | ~125 |
-| Ice To See You | 0.40% | ~125 |
-| Smack My Imp Up | 0.40% | ~125 |
+| Four Legged Friend | 0.40% | ~126 |
+| Ice To See You | 0.40% | ~126 |
+| Smack My Imp Up | 0.40% | ~126 |
 | Vroll With It | 0.30% | ~94 |
 | Swift of Foot, Keen of Blade | 0.30% | ~94 |
 | Flame Retardant | 0.20% | ~63 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 790)
 | Heart Of Steel | 0.10% | ~31 |
 | Death or Glory | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,373 (Ranked 97)  
+Progressed: 31,375 (Ranked 97)  
 Completed: 20 (0.06%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 20 (0.06%) (Ranked 201)
 | 2023-07-23 | 31,148 | 20 |
 | 2023-07-24 | 31,253 | 20 |
 | 2023-07-25 | 31,356 | 20 |
-| 2023-07-26 | 31,373 | 20 |
+| 2023-07-26 | 31,375 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 308)  
 Sum: 125 (Ranked 399)  

@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 86,
@@ -1636,7 +1636,7 @@
   ],
   "EOS_Progressed": 52753,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12428,8 +12428,8 @@
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-23T13:58:40.9089265+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:04:35.543075+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:04:41.8931159+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.429657+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:58:49.1793253+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:04:35.5431629+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:58:49.256745+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:04:41.8932306+00:00"
 }

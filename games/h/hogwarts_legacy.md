@@ -1,12 +1,12 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 110)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,629 |
-| First Class Student | 11.00% | ~31,743 |
+| First Class Student | 11.00% | ~31,744 |
 | A Keen Sense of Spell | 10.00% | ~28,858 |
 | Troll with the Punches | 10.00% | ~28,858 |
 | Grappling with a Graphorn | 9.00% | ~25,972 |
@@ -20,12 +20,12 @@ Rating: 4.77 (Ranked 109)
 | The Hero of Hogwarts | 8.00% | ~23,086 |
 | Challenge Accepted | 8.00% | ~23,086 |
 | Followed the Butterflies | 8.00% | ~23,086 |
-| A Sallow Grave | 7.00% | ~20,200 |
-| The Spell Master | 7.00% | ~20,200 |
-| Rising From the Ashes | 7.00% | ~20,200 |
-| The Avenging Gazelle | 6.00% | ~17,314 |
-| Beast Friends | 6.00% | ~17,314 |
-| Flight the Good Flight | 6.00% | ~17,314 |
+| A Sallow Grave | 7.00% | ~20,201 |
+| The Spell Master | 7.00% | ~20,201 |
+| Rising From the Ashes | 7.00% | ~20,201 |
+| The Avenging Gazelle | 6.00% | ~17,315 |
+| Beast Friends | 6.00% | ~17,315 |
+| Flight the Good Flight | 6.00% | ~17,315 |
 | The Seeker of Knowledge | 5.00% | ~14,429 |
 | The Root of the Problem | 5.00% | ~14,429 |
 | Third Time's a Charm | 5.00% | ~14,429 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,575 (Ranked 42)  
+Progressed: 288,579 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
-| 2023-07-26 | 288,575 | 434 |
+| 2023-07-26 | 288,579 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
 Sum: 39,889 (Ranked 30)  

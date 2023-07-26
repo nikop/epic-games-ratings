@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5234,10 +5234,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30728,
       "NumberOfAwardsMax": 5082
+    },
+    {
+      "Time": "2023-07-26T03:58:32.937681+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30729,
+      "NumberOfAwardsMax": 5082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30728,
+  "NumberOfAwards": 30729,
   "NumberOfAwardsMax": 5082,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5275,7 +5281,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4033
+      "Count": 4034
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5284,9 +5290,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215549,
+  "EOS_Progressed": 215578,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2299,
+  "EOS_NewPlayers": 2316,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15624,6 +15630,11 @@
       "Time": "2023-07-26T02:12:01.9789834+00:00",
       "NumProgressed": 215549,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T04:00:57.5382866+00:00",
+      "NumProgressed": 215578,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -15635,7 +15646,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "objective_completed_10",
@@ -15643,7 +15654,7 @@
       "Name": "Maddening",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "objective_completed_100",
@@ -15771,7 +15782,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1061",
@@ -16003,7 +16014,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "objective_completed_110",
@@ -16195,7 +16206,7 @@
       "Name": "Supply Run",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "objective_completed_1142",
@@ -16267,7 +16278,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1154",
@@ -16307,7 +16318,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1163",
@@ -16331,7 +16342,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1168",
@@ -18745,9 +18756,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_696",
@@ -19579,7 +19590,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1047",
@@ -19587,7 +19598,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1215",
@@ -19667,7 +19678,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1380",
@@ -19683,7 +19694,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1385",
@@ -19699,7 +19710,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1390",
@@ -19723,28 +19734,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181823,
-      "Completed": 2987
+      "Progressed": 181852,
+      "Completed": 2988
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215549,
+      "Progressed": 215578,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-25T16:59:54.5888366+00:00",
-  "LastChanged_Achievements": "2023-07-26T02:12:01.978983+00:00",
+  "LastChanged": "2023-07-26T03:58:32.9376809+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:00:57.5382861+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:58:33.1611671+00:00",
-  "LastUpdate_Achievements": "2023-07-26T02:12:01.9816165+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:58:32.9376815+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:00:57.5408487+00:00"
 }

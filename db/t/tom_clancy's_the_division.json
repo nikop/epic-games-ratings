@@ -2,7 +2,7 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 510,
@@ -1226,10 +1226,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 728,
       "NumberOfAwardsMax": 299
+    },
+    {
+      "Time": "2023-07-26T04:00:23.622341+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 729,
+      "NumberOfAwardsMax": 299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 728,
+  "NumberOfAwards": 729,
   "NumberOfAwardsMax": 299,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1261,7 +1267,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Competitive Players",
@@ -1317,8 +1323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-07-25T02:18:19.9548626+00:00",
+  "LastChanged": "2023-07-26T04:00:23.6223409+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.7641753+00:00",
-  "LastUpdate_Ratings": "2023-07-26T03:00:27.1498203+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:04:12.5476774+00:00"
+  "LastUpdate_Ratings": "2023-07-26T04:00:23.6223414+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:04:14.4875241+00:00"
 }

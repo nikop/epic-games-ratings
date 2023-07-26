@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 56,
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 197343,
+  "EOS_Progressed": 197347,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -10475,6 +10475,11 @@
       "Time": "2023-07-26T03:02:23.8203252+00:00",
       "NumProgressed": 197343,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-07-26T04:02:15.826943+00:00",
+      "NumProgressed": 197347,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 29,
@@ -10510,7 +10515,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185502
+      "UsersEstimate": 185506
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -10670,7 +10675,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19734
+      "UsersEstimate": 19735
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -10717,7 +10722,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 197343,
+      "Progressed": 197347,
       "Completed": 469
     }
   ],
@@ -10725,8 +10730,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-26T03:02:23.8203247+00:00",
+  "LastChanged_Achievements": "2023-07-26T04:02:15.8269424+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.4091464+00:00",
-  "LastUpdate_Ratings": "2023-07-26T02:59:14.4202998+00:00",
-  "LastUpdate_Achievements": "2023-07-26T03:02:23.8203959+00:00"
+  "LastUpdate_Ratings": "2023-07-26T03:59:15.1511851+00:00",
+  "LastUpdate_Achievements": "2023-07-26T04:02:15.8270329+00:00"
 }

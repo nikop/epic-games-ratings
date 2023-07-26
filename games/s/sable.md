@@ -1,33 +1,33 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 518)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~26,958 |
-| Just The Two of Us | 32.00% | ~25,372 |
-| Up On High | 25.00% | ~19,822 |
-| Under The Hood | 25.00% | ~19,822 |
-| Got Your Nose | 24.00% | ~19,029 |
-| The Gift of Gab | 24.00% | ~19,029 |
-| Wrapping Up | 22.00% | ~17,443 |
-| More Than A Box Of Sand | 18.00% | ~14,272 |
-| The Dunboyne | 17.00% | ~13,479 |
-| Badge Hobbyist | 17.00% | ~13,479 |
-| Chum Novice | 16.00% | ~12,686 |
-| Silver-Tongued Sable | 16.00% | ~12,686 |
-| Sticky Paws | 16.00% | ~12,686 |
-| Bubble Up | 16.00% | ~12,686 |
-| Thread The Needle | 15.00% | ~11,893 |
-| Power to the People | 14.00% | ~11,100 |
-| Take That! | 13.00% | ~10,307 |
-| Nesting Giant | 13.00% | ~10,307 |
-| Treasure Tracker | 13.00% | ~10,307 |
-| Big Spender | 13.00% | ~10,307 |
-| Badge Collector | 12.00% | ~9,514 |
-| Quite The Catch | 12.00% | ~9,514 |
+| Simoon | 34.00% | ~26,959 |
+| Just The Two of Us | 32.00% | ~25,373 |
+| Up On High | 25.00% | ~19,823 |
+| Under The Hood | 25.00% | ~19,823 |
+| Got Your Nose | 24.00% | ~19,030 |
+| The Gift of Gab | 24.00% | ~19,030 |
+| Wrapping Up | 22.00% | ~17,444 |
+| More Than A Box Of Sand | 18.00% | ~14,273 |
+| The Dunboyne | 17.00% | ~13,480 |
+| Badge Hobbyist | 17.00% | ~13,480 |
+| Chum Novice | 16.00% | ~12,687 |
+| Silver-Tongued Sable | 16.00% | ~12,687 |
+| Sticky Paws | 16.00% | ~12,687 |
+| Bubble Up | 16.00% | ~12,687 |
+| Thread The Needle | 15.00% | ~11,894 |
+| Power to the People | 14.00% | ~11,101 |
+| Take That! | 13.00% | ~10,308 |
+| Nesting Giant | 13.00% | ~10,308 |
+| Treasure Tracker | 13.00% | ~10,308 |
+| Big Spender | 13.00% | ~10,308 |
+| Badge Collector | 12.00% | ~9,515 |
+| Quite The Catch | 12.00% | ~9,515 |
 | Rowleys Way | 11.00% | ~8,722 |
 | The Machinist Mask | 10.00% | ~7,929 |
 | The Cartographer Mask | 10.00% | ~7,929 |
@@ -49,21 +49,21 @@ Number of Ratings: 43  (23.09.2022)
 | The Beetle Mask | 7.00% | ~5,550 |
 | The Guard Mask | 7.00% | ~5,550 |
 | Smoked Out | 7.00% | ~5,550 |
-| The Climber Mask | 6.00% | ~4,757 |
-| The Merchant Mask | 6.00% | ~4,757 |
-| Honorary Chum | 6.00% | ~4,757 |
-| A Hard Place | 6.00% | ~4,757 |
-| Bikes Don't Fly | 6.00% | ~4,757 |
-| The Entertainer Mask | 5.00% | ~3,964 |
-| The Gliding | 4.00% | ~3,171 |
-| The Quick and the Curious | 4.00% | ~3,171 |
-| Bike Aficionado | 4.00% | ~3,171 |
+| The Climber Mask | 6.00% | ~4,758 |
+| The Merchant Mask | 6.00% | ~4,758 |
+| Honorary Chum | 6.00% | ~4,758 |
+| A Hard Place | 6.00% | ~4,758 |
+| Bikes Don't Fly | 6.00% | ~4,758 |
+| The Entertainer Mask | 5.00% | ~3,965 |
+| The Gliding | 4.00% | ~3,172 |
+| The Quick and the Curious | 4.00% | ~3,172 |
+| Bike Aficionado | 4.00% | ~3,172 |
 | Chum Expert | 3.00% | ~2,379 |
 | Gastric Bypass | 3.00% | ~2,379 |
 | The Angler Mask | 3.00% | ~2,379 |
 | Vivacious Vivarium | 2.00% | ~1,586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,287 (Ranked 72)  
+Progressed: 79,292 (Ranked 72)  
 Completed: 773 (0.97%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 773 (0.97%) (Ranked 109)
 | 2023-07-23 | 78,823 | 766 |
 | 2023-07-24 | 79,042 | 771 |
 | 2023-07-25 | 79,253 | 773 |
-| 2023-07-26 | 79,287 | 773 |
+| 2023-07-26 | 79,292 | 773 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 502)  
 Sum: 20 (Ranked 502)  
