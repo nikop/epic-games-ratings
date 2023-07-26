@@ -1563,9 +1563,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13099,
+  "EOS_Progressed": 13100,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8548,6 +8548,11 @@
       "Time": "2023-07-26T13:12:18.274888+00:00",
       "NumProgressed": 13099,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T14:06:17.6231945+00:00",
+      "NumProgressed": 13100,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8887,7 +8892,7 @@
       "Name": "Able",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -8911,7 +8916,7 @@
       "Name": "Architect",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -9015,7 +9020,7 @@
       "Name": "Good",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -9047,7 +9052,7 @@
       "Name": "Intrepid",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -9191,7 +9196,7 @@
       "Name": "Strong",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -10085,9 +10090,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -10869,9 +10874,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -10926,21 +10931,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13099,
+      "Progressed": 13100,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13099,
+      "Progressed": 13100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:12:18.2748875+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:06:17.6231939+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:05:12.1018526+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:12:18.2756453+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:58:38.3795892+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:06:17.6242103+00:00"
 }

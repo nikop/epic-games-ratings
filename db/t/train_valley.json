@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -95,7 +95,7 @@
   "Tags": [],
   "EOS_Progressed": 372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -846,9 +846,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "35_achtung",
@@ -902,8 +902,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:10:43.5003281+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:04:21.5951634+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:04:56.5785903+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:10:43.5003552+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:58:17.8845416+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:04:21.5952026+00:00"
 }

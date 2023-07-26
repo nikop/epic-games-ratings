@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~684 |
-| And so it begins | 72.00% | ~648 |
-| No pressure | 69.00% | ~621 |
-| Memento | 61.00% | ~549 |
-| Let there be light | 59.00% | ~531 |
-| I think you dropped this | 54.00% | ~486 |
-| Soulmate? | 52.00% | ~468 |
+| Good start | 76.00% | ~685 |
+| And so it begins | 72.00% | ~649 |
+| No pressure | 69.00% | ~622 |
+| Memento | 61.00% | ~550 |
+| Let there be light | 59.00% | ~532 |
+| I think you dropped this | 54.00% | ~487 |
+| Soulmate? | 52.00% | ~469 |
 | Excellent service | 48.00% | ~432 |
 | Roll with it | 45.00% | ~405 |
 | Humble beginnings | 43.00% | ~387 |
@@ -33,8 +33,8 @@ Rating: 4.55 (Ranked 481)
 | King of hospitality | 11.00% | ~99 |
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 900 (Ranked 195)  
-Completed: 15 (1.67%) (Ranked 89)  
+Progressed: 901 (Ranked 195)  
+Completed: 15 (1.66%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 15 (1.67%) (Ranked 89)
 | 2023-07-23 | 885 | 15 |
 | 2023-07-24 | 893 | 15 |
 | 2023-07-25 | 899 | 15 |
-| 2023-07-26 | 900 | 15 |
+| 2023-07-26 | 901 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

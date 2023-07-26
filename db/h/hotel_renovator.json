@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 901,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-07-26T12:04:48.6834905+00:00",
       "NumProgressed": 900,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-26T14:05:20.7537257+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1133,7 +1138,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1205,7 +1210,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1213,7 +1218,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1221,7 +1226,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1253,7 +1258,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1269,7 +1274,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_STAR_2",
@@ -1325,14 +1330,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 901,
       "Completed": 15
     }
   ],
@@ -1340,8 +1345,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:11:32.8368596+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:05:20.7537252+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:04:32.9801456+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:11:32.8368818+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:57:44.9242374+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:05:20.7537545+00:00"
 }

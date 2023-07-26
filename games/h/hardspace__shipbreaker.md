@@ -16,7 +16,7 @@ Number of Ratings: 36  (23.09.2022)
 | Always Finding Your Mark | 29.00% | ~242 |
 | The Weight of the World | 29.00% | ~242 |
 | Act I Complete | 28.00% | ~234 |
-| A drop in the Ocean | 27.00% | ~225 |
+| A drop in the Ocean | 28.00% | ~234 |
 | No Niños | 27.00% | ~225 |
 | I ain’t afraid of no Ghost | 23.00% | ~192 |
 | Act II Complete | 20.00% | ~167 |

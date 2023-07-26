@@ -14,11 +14,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.80% | ~1,456 |
 | Rock and Roll | 0.80% | ~1,456 |
 | Vecna Lives! | 0.70% | ~1,274 |
+| Tall Tales | 0.60% | ~1,092 |
 | Vecna Loots! | 0.60% | ~1,092 |
 | Flight of the Kindori Pod | 0.60% | ~1,092 |
 | Topolah's Tower | 0.60% | ~1,092 |
 | Pros and CONs | 0.50% | ~1,078 |
-| Tall Tales | 0.50% | ~910 |
 | Wet Feet | 0.50% | ~1,078 |
 | Seeds of Destruction | 0.50% | ~910 |
 | Return to the Tomb | 0.50% | ~910 |
@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~647 |
 | Street War | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
+| Wisdom Check | 0.30% | ~647 |
 | No Time To Rest | 0.30% | ~647 |
 | The Mists of Ravenloft | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
@@ -64,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
 | Waterdeep Detours | 0.30% | ~647 |
+| Underdeep Cartography | 0.30% | ~647 |
 | Willing to Sacrifice | 0.30% | ~546 |
 | Devilishly Cold | 0.30% | ~546 |
 | Luigi After Hours | 0.30% | ~546 |
@@ -95,7 +97,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.20% | ~431 |
 | Force Grey Unleashed | 0.20% | ~431 |
 | Vajra's Guards | 0.20% | ~431 |
-| Wisdom Check | 0.20% | ~431 |
 | Sleuth It Out | 0.20% | ~431 |
 | A Grand Puzzle | 0.20% | ~431 |
 | Azaka's Procession - Part 1 | 0.20% | ~431 |
@@ -112,11 +113,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~431 |
 | Tower on the Lake | 0.20% | ~431 |
 | Trollskull Manor | 0.20% | ~431 |
+| Attack on the Manor | 0.20% | ~431 |
 | The Cursed Farmer | 0.20% | ~431 |
 | The Ring of Regeneration | 0.20% | ~431 |
 | The Crumbling Temple | 0.20% | ~431 |
 | The Death Curse | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
+| Are Ya Chicken? | 0.20% | ~431 |
 | Useless Allies | 0.20% | ~431 |
 | Mad Cow Disease | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
@@ -137,7 +140,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~431 |
 | Easily Distracted | 0.20% | ~431 |
 | Rude Welcome | 0.20% | ~431 |
-| Underdeep Cartography | 0.20% | ~431 |
 | Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
 | Durable Deep | 0.20% | ~431 |
@@ -265,7 +267,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~216 |
 | House of Darkness | 0.10% | ~216 |
 | Home Not So Alone | 0.10% | ~182 |
-| Attack on the Manor | 0.10% | ~216 |
 | The Trepidatious Trio | 0.10% | ~216 |
 | Our Time To Shine | 0.10% | ~216 |
 | Review by the Blackstaff | 0.10% | ~182 |
@@ -288,7 +289,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~182 |
 | Nimble Escape | 0.10% | ~216 |
 | Nimblest Escape | 0.10% | ~216 |
-| Are Ya Chicken? | 0.10% | ~216 |
 | Stumbling Escape | 0.10% | ~216 |
 | Distracted Escape | 0.10% | ~182 |
 | Fugitives | 0.10% | ~216 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,682 (Ranked 53)  
-Completed: 2,112 (0.98%) (Ranked 107)  
+Progressed: 215,692 (Ranked 53)  
+Completed: 2,113 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 2,112 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,682 | 2,112 |
+| 2023-07-26 | 215,692 | 2,113 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

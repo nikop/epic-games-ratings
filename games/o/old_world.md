@@ -7,17 +7,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~262 |
-| The Great Mage | 0.90% | ~118 |
+| The Great Mage | 1.00% | ~131 |
 | Explorer | 0.70% | ~92 |
 | Settler | 0.70% | ~92 |
 | Play a Single Player Game | 0.70% | ~92 |
 | Poetic Leader | 0.70% | ~92 |
 | Friendly Family | 0.60% | ~79 |
-| Able | 0.50% | ~65 |
-| Architect | 0.50% | ~65 |
-| Good | 0.50% | ~65 |
-| Intrepid | 0.50% | ~65 |
-| Strong | 0.50% | ~65 |
+| Able | 0.50% | ~66 |
+| Architect | 0.50% | ~66 |
+| Good | 0.50% | ~66 |
+| Intrepid | 0.50% | ~66 |
+| Strong | 0.50% | ~66 |
 | Enlightened | 0.40% | ~52 |
 | Just | 0.40% | ~52 |
 | Learned | 0.40% | ~52 |
@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.30% | ~39 |
 | Pyramids | 0.30% | ~39 |
 | Learn to Play 1 | 0.30% | ~39 |
+| Learn to Play 2 | 0.30% | ~39 |
 | Christianity | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
 | Carthaginian Paganism | 0.30% | ~39 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
 | Musaeum | 0.20% | ~26 |
-| Learn to Play 2 | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,099 (Ranked 115)  
+Progressed: 13,100 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,099 | 5 |
+| 2023-07-26 | 13,100 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

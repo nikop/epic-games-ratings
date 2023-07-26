@@ -1542,7 +1542,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24456,
+  "EOS_Progressed": 24457,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 2,
@@ -8667,6 +8667,11 @@
       "Time": "2023-07-26T09:04:45.5856066+00:00",
       "NumProgressed": 24456,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-26T14:04:29.2719831+00:00",
+      "NumProgressed": 24457,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8678,7 +8683,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17853
+      "UsersEstimate": 17854
     },
     {
       "ID": "Animated",
@@ -8686,7 +8691,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "Back_Off",
@@ -8766,7 +8771,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "Dont_Need_These",
@@ -8814,7 +8819,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13206
+      "UsersEstimate": 13207
     },
     {
       "ID": "GB_In_Training",
@@ -8958,7 +8963,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "Solo_Capture",
@@ -8982,7 +8987,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21032
+      "UsersEstimate": 21033
     },
     {
       "ID": "Summoner",
@@ -9006,7 +9011,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13206
+      "UsersEstimate": 13207
     },
     {
       "ID": "Teamwork",
@@ -9038,7 +9043,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10516
+      "UsersEstimate": 10517
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9085,7 +9090,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24456,
+      "Progressed": 24457,
       "Completed": 48
     }
   ],
@@ -9093,8 +9098,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-26T02:59:27.5147019+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:10:49.5011139+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:04:29.2719821+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:06:10.4552549+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:10:49.5011834+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:59:56.432971+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:04:29.272072+00:00"
 }

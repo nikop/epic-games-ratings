@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1340,6 +1340,11 @@
       "Time": "2023-07-26T02:06:16.1942468+00:00",
       "NumProgressed": 578,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-26T14:01:37.7777631+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1439,7 +1444,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "GossipGirl",
@@ -1567,7 +1572,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Toxic",
@@ -1606,7 +1611,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 1
     }
   ],
@@ -1614,8 +1619,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-26T12:00:48.8747627+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:01:37.7777618+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:05:11.4962208+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:00:48.8747961+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:58:37.5655502+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:01:37.7778563+00:00"
 }

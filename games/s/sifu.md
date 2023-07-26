@@ -8,16 +8,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,041 |
 | Project Arena | 4.00% | ~833 |
-| The Old Grandmaster | 2.00% | ~14,230 |
-| The Assault | 2.00% | ~14,230 |
-| The Hateful Pole Fighter | 2.00% | ~14,230 |
-| A Lady's Blood in the Snow | 2.00% | ~14,230 |
-| Life is your teacher | 2.00% | ~14,230 |
-| State of constant learning | 2.00% | ~14,230 |
-| Qi Gong: Breath | 2.00% | ~14,230 |
-| Lightning Hands | 2.00% | ~14,230 |
-| Rumble in the Hangar | 2.00% | ~14,230 |
-| Bloody Sport | 2.00% | ~416 |
+| The Old Grandmaster | 2.00% | ~14,231 |
+| The Assault | 2.00% | ~14,231 |
+| The Hateful Pole Fighter | 2.00% | ~14,231 |
+| A Lady's Blood in the Snow | 2.00% | ~14,231 |
+| Life is your teacher | 2.00% | ~14,231 |
+| State of constant learning | 2.00% | ~14,231 |
+| Qi Gong: Breath | 2.00% | ~14,231 |
+| Lightning Hands | 2.00% | ~14,231 |
+| Rumble in the Hangar | 2.00% | ~14,231 |
+| Bloody Sport | 2.00% | ~417 |
 | Lady Wing Chun | 1.00% | ~7,115 |
 | Furious Fists | 1.00% | ~7,115 |
 | Scareless | 1.00% | ~7,115 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,524 (Ranked 20)  
+Progressed: 711,528 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,10 +154,10 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-23 | 711,328 | 12,831 |
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
-| 2023-07-26 | 711,524 | 12,833 |
+| 2023-07-26 | 711,528 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,303  (Ranked 53)  
-Sum: 10,811 (Ranked 79)  
+Sum: 10,813 (Ranked 79)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -165,7 +165,7 @@ Diff (max vs sum): -26
 | This game has Diverse Characters | 555 |
 | This game has Challenging Combat | 534 |
 | This game has Quickly Understood Controls | 527 |
-| This game is Extremely Fun | 518 |
+| This game is Extremely Fun | 520 |
 | This game has Amazing Storytelling | 514 |
 | This game is Highly Recommended | 509 |
 | This game has Amazing Characters | 505 |
@@ -366,4 +366,4 @@ Diff (max vs sum): -26
 | 2023-07-23 | 4.82 | - | 6,299 | 10,802 |
 | 2023-07-24 | 4.82 | - | 6,299 | 10,805 |
 | 2023-07-25 | 4.82 | - | 6,303 | 10,809 |
-| 2023-07-26 | 4.82 | - | 6,303 | 10,811 |
+| 2023-07-26 | 4.82 | - | 6,303 | 10,813 |

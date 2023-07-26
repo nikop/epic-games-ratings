@@ -2,9 +2,9 @@
   "ID": "c0e5cbb5b4e7431fa414a2e19638b2f0",
   "Name": "Derelicts",
   "ProductSlug": "derelicts-675012",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T02:57:05.7032205+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:04:36.8499391+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:10:56.1152863+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:57:49.1344328+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:04:37.047303+00:00"
 }

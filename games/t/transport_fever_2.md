@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 11.00% | ~164 |
 | Truck Fever | 11.00% | ~164 |
 | No free seats | 10.00% | ~149 |
+| Back to the future | 9.00% | ~134 |
 | Transport belt | 9.00% | ~134 |
 | Penny pincher | 9.00% | ~134 |
-| Back to the future | 8.00% | ~119 |
 | E.P.E.C. | 6.00% | ~89 |
 | Campaign shark | 5.00% | ~74 |
 | Transport shark (Hard mode) | 4.00% | ~60 |

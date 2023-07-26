@@ -2,9 +2,9 @@
   "ID": "9acb0d22292b48acaeb0eb38b391df93",
   "Name": "Need for Speed\u2122 Unbound Standard Edition",
   "ProductSlug": "need-for-speed-unbound",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:10:31.3538414+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:04:06.0700365+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:11.9730112+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:04:53.2822202+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:10:31.353844+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:58:13.6230095+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:04:06.0700408+00:00"
 }

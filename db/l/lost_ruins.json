@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2023-07-26T10:00:40.2333492+00:00",
       "NumProgressed": 409,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T14:02:19.7235562+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -721,7 +726,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Gladiator",
@@ -769,7 +774,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Inquisitor",
@@ -857,7 +862,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Roughneck",
@@ -976,7 +981,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 0
     }
   ],
@@ -984,8 +989,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:09:06.6618459+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:02:19.7235557+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:33.5392368+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:06:37.4151476+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:09:06.6618748+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:00:32.6014142+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:02:19.7235946+00:00"
 }

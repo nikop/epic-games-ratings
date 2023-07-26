@@ -5768,9 +5768,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -5975,8 +5975,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:10:59.8138275+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:04:40.8249103+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:04:05.8373762+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:10:59.8139092+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:57:11.8505821+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:04:40.8250167+00:00"
 }

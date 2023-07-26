@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,236 |
-| Un-Lonely Island | 48.00% | ~2,071 |
-| The Beginning of a Servantship | 45.00% | ~1,941 |
-| Trade Is My Trait | 37.00% | ~1,596 |
-| Number 18 | 24.00% | ~1,035 |
+| Just One...More...Term... | 75.00% | ~3,237 |
+| Un-Lonely Island | 48.00% | ~2,072 |
+| The Beginning of a Servantship | 45.00% | ~1,942 |
+| Trade Is My Trait | 37.00% | ~1,597 |
+| Number 18 | 24.00% | ~1,036 |
 | We Don't Have Time For That | 19.00% | ~820 |
 | The Governator | 18.00% | ~777 |
-| The Legend of Langostino | 17.00% | ~733 |
-| Caribbean Comrade | 16.00% | ~690 |
-| The Dreamer of Dreams | 16.00% | ~690 |
+| The Legend of Langostino | 17.00% | ~734 |
+| Caribbean Comrade | 16.00% | ~691 |
+| The Dreamer of Dreams | 16.00% | ~691 |
 | Happy Ending? | 11.00% | ~475 |
 | Go Sovereigns! | 11.00% | ~475 |
 | For Science! | 11.00% | ~475 |
-| Of Seals And Men | 10.00% | ~431 |
-| Shackadelic | 10.00% | ~431 |
+| Of Seals And Men | 10.00% | ~432 |
+| Shackadelic | 10.00% | ~432 |
 | Double Trouble | 8.00% | ~345 |
 | Firestarter | 8.00% | ~345 |
 | Make Tropico Great Again! | 8.00% | ~345 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~86 |
 | Curse of the Mummy | 2.00% | ~86 |
 | From Knight to Little Duck | 1.00% | ~43 |
-| Survivor | 1.00% | ~43 |
 | Teamplayer | 1.00% | ~43 |
+| Survivor | 0.90% | ~39 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,314 (Ranked 143)  
+Progressed: 4,316 (Ranked 143)  
 Completed: 2 (0.05%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 2 (0.05%) (Ranked 206)
 | 2023-07-23 | 4,242 | 2 |
 | 2023-07-24 | 4,266 | 2 |
 | 2023-07-25 | 4,303 | 2 |
-| 2023-07-26 | 4,314 | 2 |
+| 2023-07-26 | 4,316 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 337)  
 Sum: 669 (Ranked 276)  

@@ -2,9 +2,9 @@
   "ID": "b36b7a4e0cb940bda5e3cac83b0955f4",
   "Name": "Mariachi Legends",
   "ProductSlug": "mariachi-legends-773b34",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-25T20:57:17.1949211+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:03:56.3232046+00:00",
-  "LastUpdate_Achievements": "2023-07-26T12:00:48.6384571+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:57:01.3965011+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:01:37.3307148+00:00"
 }

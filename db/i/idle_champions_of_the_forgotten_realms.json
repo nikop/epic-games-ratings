@@ -5296,10 +5296,10 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215682,
-  "EOS_Completed": 2112,
-  "EOS_NewPlayers": 2324,
-  "EOS_NewCompleters": 54,
+  "EOS_Progressed": 215692,
+  "EOS_Completed": 2113,
+  "EOS_NewPlayers": 2317,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15681,6 +15681,11 @@
       "Time": "2023-07-26T13:07:38.4198641+00:00",
       "NumProgressed": 215682,
       "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-07-26T14:02:11.7342042+00:00",
+      "NumProgressed": 215692,
+      "NumCompleted": 2113
     }
   ],
   "TotalAchievements": 512,
@@ -15762,9 +15767,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1051",
@@ -16930,9 +16935,9 @@
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_171",
@@ -17330,9 +17335,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_284",
@@ -17554,9 +17559,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_40",
@@ -18898,9 +18903,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_8",
@@ -19787,21 +19792,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181956,
+      "Progressed": 181966,
       "Completed": 2993
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215682,
-      "Completed": 2112
+      "Progressed": 215692,
+      "Completed": 2113
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:07:38.4198635+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:02:11.7342036+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:05:23.1679885+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:07:38.4224956+00:00"
+  "LastUpdate_Ratings": "2023-07-26T13:58:50.7885573+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:02:11.7369321+00:00"
 }

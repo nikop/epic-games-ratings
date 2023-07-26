@@ -20,6 +20,7 @@ Rating: 4.41 (Ranked 674)
 | The Kraken Wakes | 3.00% | ~101 |
 | It's Starting to Crack | 3.00% | ~101 |
 | Change the Channel | 3.00% | ~101 |
+| Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
 | Organ Grinder | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
@@ -30,7 +31,6 @@ Rating: 4.41 (Ranked 674)
 | Der Geist | 2.00% | ~67 |
 | Close Quarters | 2.00% | ~67 |
 | Snake in the Grass | 2.00% | ~67 |
-| Brains of the Operation | 2.00% | ~67 |
 | Enemy at the Gates | 1.00% | ~34 |
 | Fields of Glory | 1.00% | ~34 |
 | Just a Flesh Wound | 1.00% | ~34 |

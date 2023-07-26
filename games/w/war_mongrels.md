@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~270 |
+| Explorer | 64.00% | ~274 |
 | Cowardice | 56.00% | ~240 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~210 |
 | Eat Lead! | 46.00% | ~197 |
@@ -16,7 +16,7 @@ Number of Ratings: 34  (23.09.2022)
 | Treasure Hunter | 39.00% | ~167 |
 | Sniper Wolf | 38.00% | ~163 |
 | The Motivation | 37.00% | ~158 |
-| Heroism | 35.00% | ~150 |
+| Heroism | 36.00% | ~154 |
 | Missing in Action | 34.00% | ~146 |
 | Collectibles of Chapter I | 33.00% | ~141 |
 | Consequences | 31.00% | ~133 |
@@ -32,9 +32,9 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 18.00% | ~77 |
 | Food Massacre | 18.00% | ~77 |
 | Atonement | 16.00% | ~68 |
+| Collectibles of Chapter IV | 15.00% | ~64 |
 | Helping Hand | 15.00% | ~64 |
 | Collectibles of Chapter III | 14.00% | ~60 |
-| Collectibles of Chapter IV | 14.00% | ~60 |
 | Without a Second Thought | 14.00% | ~60 |
 | Collectibles of Chapter V | 10.00% | ~43 |
 | Such is War! | 8.00% | ~34 |

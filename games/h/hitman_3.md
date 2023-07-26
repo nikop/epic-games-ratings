@@ -1,35 +1,35 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 101)  
+Rating: 4.78 (Ranked 102)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~604,031 |
-| Death From Above | 46.00% | ~604,031 |
-| Master of the Household | 39.00% | ~512,113 |
-| Death of the Party | 36.00% | ~472,720 |
-| NEXUS-47 | 33.00% | ~433,326 |
-| The Last Tango | 32.00% | ~420,195 |
-| Nightmare Fuel | 31.00% | ~407,064 |
-| The Result of Previous Training | 28.00% | ~367,671 |
-| Tools of the Trade | 28.00% | ~367,671 |
-| Cleared for Field Duty | 27.00% | ~354,540 |
-| Seizing the Opportunity | 25.00% | ~328,278 |
-| Bullet Train | 21.00% | ~275,753 |
-| Stylish Assassin | 20.00% | ~262,622 |
-| Silent Assassin | 14.00% | ~183,835 |
-| Rise Up | 13.00% | ~170,704 |
-| Evil Wine Club | 12.00% | ~157,573 |
-| Console Cowboy | 10.00% | ~131,311 |
-| Last Stop | 10.00% | ~131,311 |
-| A New Profile | 9.00% | ~118,180 |
-| Full House | 9.00% | ~118,180 |
-| Dune Raider | 8.00% | ~105,049 |
-| No Stone Unturned | 8.00% | ~105,049 |
-| Train Surfing | 8.00% | ~105,049 |
-| Icebreaker | 7.00% | ~91,918 |
+| Unseen Assassin | 46.00% | ~604,037 |
+| Death From Above | 46.00% | ~604,037 |
+| Master of the Household | 39.00% | ~512,118 |
+| Death of the Party | 36.00% | ~472,725 |
+| NEXUS-47 | 33.00% | ~433,331 |
+| The Last Tango | 32.00% | ~420,200 |
+| Nightmare Fuel | 31.00% | ~407,068 |
+| The Result of Previous Training | 28.00% | ~367,675 |
+| Tools of the Trade | 28.00% | ~367,675 |
+| Cleared for Field Duty | 27.00% | ~354,543 |
+| Seizing the Opportunity | 25.00% | ~328,281 |
+| Bullet Train | 21.00% | ~275,756 |
+| Stylish Assassin | 20.00% | ~262,625 |
+| Silent Assassin | 14.00% | ~183,837 |
+| Rise Up | 13.00% | ~170,706 |
+| Evil Wine Club | 12.00% | ~157,575 |
+| Console Cowboy | 10.00% | ~131,312 |
+| Last Stop | 10.00% | ~131,312 |
+| A New Profile | 9.00% | ~118,181 |
+| Full House | 9.00% | ~118,181 |
+| Dune Raider | 8.00% | ~105,050 |
+| No Stone Unturned | 8.00% | ~105,050 |
+| Train Surfing | 8.00% | ~105,050 |
+| Icebreaker | 7.00% | ~91,919 |
 | Family Feud | 6.00% | ~78,787 |
 | Rich Harvest | 6.00% | ~78,787 |
 | Count Down From 47 | 6.00% | ~78,787 |
@@ -38,23 +38,23 @@ Number of Ratings: 21,082  (23.09.2022)
 | Stair Master | 5.00% | ~65,656 |
 | Followed the Trails | 5.00% | ~65,656 |
 | Last Call | 5.00% | ~65,656 |
-| Upstairs, Downstairs | 4.00% | ~52,524 |
-| The Great Outdoors | 4.00% | ~52,524 |
-| Partied Out | 4.00% | ~52,524 |
-| Surveillance Master | 4.00% | ~52,524 |
-| Hack the Planet | 4.00% | ~52,524 |
-| Training Escalated | 3.00% | ~39,393 |
-| Keep Your Eyes Peeled | 3.00% | ~39,393 |
-| Warehouse Veteran | 3.00% | ~39,393 |
-| Future Shock | 3.00% | ~39,393 |
-| Master the Terroir | 3.00% | ~39,393 |
-| Vineyard Virtuoso | 3.00% | ~39,393 |
+| Upstairs, Downstairs | 4.00% | ~52,525 |
+| The Great Outdoors | 4.00% | ~52,525 |
+| Partied Out | 4.00% | ~52,525 |
+| Surveillance Master | 4.00% | ~52,525 |
+| Hack the Planet | 4.00% | ~52,525 |
+| Training Escalated | 3.00% | ~39,394 |
+| Keep Your Eyes Peeled | 3.00% | ~39,394 |
+| Warehouse Veteran | 3.00% | ~39,394 |
+| Future Shock | 3.00% | ~39,394 |
+| Master the Terroir | 3.00% | ~39,394 |
+| Vineyard Virtuoso | 3.00% | ~39,394 |
 | Bird Art | 2.00% | ~26,262 |
 | Top of the Class | 1.00% | ~13,131 |
 | Ripe for the Picking | 1.00% | ~13,131 |
 | The Creative Assassin | 0.70% | ~9,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,313,110 (Ranked 9)  
+Progressed: 1,313,124 (Ranked 9)  
 Completed: 2,113 (0.16%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2,113 (0.16%) (Ranked 176)
 | 2023-07-23 | 1,312,059 | 2,111 |
 | 2023-07-24 | 1,312,452 | 2,112 |
 | 2023-07-25 | 1,312,899 | 2,112 |
-| 2023-07-26 | 1,313,110 | 2,113 |
+| 2023-07-26 | 1,313,124 | 2,113 |
 ## Awards
 Max (Diverse Characters): 9,549  (Ranked 36)  
 Sum: 68,759 (Ranked 20)  

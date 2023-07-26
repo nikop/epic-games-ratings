@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12293,
+  "EOS_Progressed": 12294,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5888,6 +5888,11 @@
       "Time": "2023-07-26T13:07:33.0858103+00:00",
       "NumProgressed": 12293,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-26T14:02:04.0480924+00:00",
+      "NumProgressed": 12294,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -5915,7 +5920,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8974
+      "UsersEstimate": 8975
     },
     {
       "ID": "ACH_04",
@@ -5923,7 +5928,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ACH_05",
@@ -5931,7 +5936,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8236
+      "UsersEstimate": 8237
     },
     {
       "ID": "ACH_06",
@@ -5963,7 +5968,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6884
+      "UsersEstimate": 6885
     },
     {
       "ID": "ACH_10",
@@ -5971,7 +5976,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "ACH_11",
@@ -5995,7 +6000,7 @@
       "Name": "Nothing Left",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "ACH_14",
@@ -6003,7 +6008,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "ACH_15",
@@ -6019,7 +6024,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "ACH_17",
@@ -6115,7 +6120,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8359
+      "UsersEstimate": 8360
     },
     {
       "ID": "ACH_29",
@@ -6147,7 +6152,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "ACH_33",
@@ -6171,14 +6176,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12293,
+      "Progressed": 12294,
       "Completed": 38
     }
   ],
@@ -6186,8 +6191,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-07-26T13:07:33.0858095+00:00",
+  "LastChanged_Achievements": "2023-07-26T14:02:04.0480919+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.4087699+00:00",
-  "LastUpdate_Ratings": "2023-07-26T13:06:28.5943495+00:00",
-  "LastUpdate_Achievements": "2023-07-26T13:07:33.085866+00:00"
+  "LastUpdate_Ratings": "2023-07-26T14:00:18.7759568+00:00",
+  "LastUpdate_Achievements": "2023-07-26T14:02:04.0481605+00:00"
 }

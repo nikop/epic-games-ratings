@@ -16,10 +16,10 @@
 | Ball Collector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
 | Nomad | 5.00% | ~8 |
+| Ticking Clock | 5.00% | ~8 |
 | You Are Actually Supposed To Use Those | 5.00% | ~8 |
 | Back From The Dead | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
-| Ticking Clock | 4.00% | ~6 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |
 | Medium Rare | 3.00% | ~5 |

@@ -11,9 +11,9 @@
 | The Fallen | 22.00% | ~90 |
 | Artifact Collector | 20.00% | ~82 |
 | Trap Master | 20.00% | ~82 |
-| Ghost Buster | 16.00% | ~65 |
-| Iconoclasm | 15.00% | ~61 |
-| Reincarnation | 15.00% | ~61 |
+| Ghost Buster | 16.00% | ~66 |
+| Iconoclasm | 15.00% | ~62 |
+| Reincarnation | 15.00% | ~62 |
 | Librarian | 14.00% | ~57 |
 | Orcs Must Die! | 13.00% | ~53 |
 | The End | 13.00% | ~53 |
@@ -45,7 +45,7 @@
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409 (Ranked 228)  
+Progressed: 410 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-21 | 405 | 0 |
 | 2023-07-23 | 407 | 0 |
 | 2023-07-25 | 408 | 0 |
-| 2023-07-26 | 409 | 0 |
+| 2023-07-26 | 410 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

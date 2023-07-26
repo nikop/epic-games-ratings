@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,632 |
-| First Class Student | 11.00% | ~31,746 |
-| A Keen Sense of Spell | 10.00% | ~28,860 |
-| Troll with the Punches | 10.00% | ~28,860 |
-| Grappling with a Graphorn | 9.00% | ~25,974 |
-| The One Who Mastered Memories | 9.00% | ~25,974 |
-| The Hallowed Hero | 9.00% | ~25,974 |
-| The Defender of Dragons | 9.00% | ~25,974 |
-| Loom for Improvement | 9.00% | ~25,974 |
-| A Talent for Spending | 9.00% | ~25,974 |
-| Coasting Along | 9.00% | ~25,974 |
-| That's a Keeper | 9.00% | ~25,974 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,633 |
+| First Class Student | 11.00% | ~31,747 |
+| A Keen Sense of Spell | 10.00% | ~28,861 |
+| Troll with the Punches | 10.00% | ~28,861 |
+| Grappling with a Graphorn | 9.00% | ~25,975 |
+| The One Who Mastered Memories | 9.00% | ~25,975 |
+| The Hallowed Hero | 9.00% | ~25,975 |
+| The Defender of Dragons | 9.00% | ~25,975 |
+| Loom for Improvement | 9.00% | ~25,975 |
+| A Talent for Spending | 9.00% | ~25,975 |
+| Coasting Along | 9.00% | ~25,975 |
+| That's a Keeper | 9.00% | ~25,975 |
 | The Hero of Hogwarts | 8.00% | ~23,088 |
 | Challenge Accepted | 8.00% | ~23,088 |
 | Followed the Butterflies | 8.00% | ~23,088 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,602 (Ranked 42)  
+Progressed: 288,606 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,14 +148,14 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
-| 2023-07-26 | 288,602 | 434 |
+| 2023-07-26 | 288,606 | 434 |
 ## Awards
-Max (Character Customization): 21,271  (Ranked 17)  
-Sum: 39,913 (Ranked 30)  
+Max (Character Customization): 21,300  (Ranked 17)  
+Sum: 39,942 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,271 |
+| This game has Inclusive Character Customization | 21,300 |
 | This game has Great Boss Battles | 10,235 |
 | This game is Great for Beginners | 939 |
 | This game is Extremely Fun | 917 |
@@ -294,4 +294,4 @@ Diff (max vs sum): -13
 | 2023-07-23 | 4.77 | 21,217 | 39,781 |
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
 | 2023-07-25 | 4.77 | 21,271 | 39,887 |
-| 2023-07-26 | 4.77 | 21,271 | 39,913 |
+| 2023-07-26 | 4.77 | 21,300 | 39,942 |
