@@ -5937,9 +5937,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56924,
+  "EOS_Progressed": 56926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16007,6 +16007,11 @@
       "Time": "2023-07-26T07:00:50.228244+00:00",
       "NumProgressed": 56924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T08:02:12.0652727+00:00",
+      "NumProgressed": 56926,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16026,7 +16031,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "Bannerlord",
@@ -16034,7 +16039,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "Best served cold",
@@ -16178,7 +16183,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "I can do it",
@@ -16226,7 +16231,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "Lance-a-lot",
@@ -16242,7 +16247,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17646
+      "UsersEstimate": 17647
     },
     {
       "ID": "Lawbringer",
@@ -16250,7 +16255,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21062
+      "UsersEstimate": 21063
     },
     {
       "ID": "Lawmaker",
@@ -16258,7 +16263,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "Long live the Empire",
@@ -16266,7 +16271,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "Mastery",
@@ -16362,7 +16367,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "The king is pleased",
@@ -16394,7 +16399,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "Undercover",
@@ -16425,15 +16430,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56924,
+      "Progressed": 56926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-26T07:00:03.5086192+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:00:50.2282431+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:02:12.0652721+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:00:03.50862+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:00:50.2283321+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:01:01.5224641+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:02:12.0654679+00:00"
 }

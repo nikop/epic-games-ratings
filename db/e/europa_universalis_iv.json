@@ -7494,9 +7494,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 74220,
+  "EOS_Progressed": 74227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2790,
+  "EOS_NewPlayers": 2789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18044,6 +18044,11 @@
       "Time": "2023-07-26T07:05:15.0293999+00:00",
       "NumProgressed": 74220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T08:06:25.1069916+00:00",
+      "NumProgressed": 74227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -18183,7 +18188,7 @@
       "Name": "Agressive Expander",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -18447,7 +18452,7 @@
       "Name": "Blockader",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -18495,7 +18500,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -18591,7 +18596,7 @@
       "Name": "Combined Arms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -18711,7 +18716,7 @@
       "Name": "Double the Love",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -18975,7 +18980,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -19079,7 +19084,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -19623,7 +19628,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_my_true_friend",
@@ -19919,7 +19924,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -20007,7 +20012,7 @@
       "Name": "Royal Authority",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -20055,7 +20060,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -20607,7 +20612,7 @@
       "Name": "Total Control",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -20886,21 +20891,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 74220,
+      "Progressed": 74227,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 74220,
+      "Progressed": 74227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-26T05:58:15.8685143+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:05:15.0293991+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:06:25.1069908+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.0524617+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:58:03.5406935+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:05:15.0304358+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:58:17.6236532+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:06:25.1094676+00:00"
 }

@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659826,
+  "EOS_Progressed": 659827,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9937,6 +9937,11 @@
       "Time": "2023-07-26T06:03:07.8220283+00:00",
       "NumProgressed": 659826,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-26T08:03:06.1533292+00:00",
+      "NumProgressed": 659827,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 48,
@@ -9956,7 +9961,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382699
+      "UsersEstimate": 382700
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10100,7 +10105,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112170
+      "UsersEstimate": 112171
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10212,7 +10217,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164956
+      "UsersEstimate": 164957
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -10331,15 +10336,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659826,
+      "Progressed": 659827,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:02:19.7399195+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:03:06.1533284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:58:14.9255793+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:02:19.7399968+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:58:32.6352421+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:03:06.1534963+00:00"
 }

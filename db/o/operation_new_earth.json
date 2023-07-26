@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2171,6 +2171,11 @@
       "Time": "2023-07-26T06:05:48.7573156+00:00",
       "NumProgressed": 629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T08:06:44.1529499+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2294,15 +2299,15 @@
       "Name": "Corporal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2366,7 +2371,7 @@
       "Name": "Covert Operative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2374,7 +2379,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2438,7 +2443,7 @@
       "Name": "Defenses Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2485,14 +2490,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 631,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:05:30.0661374+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:06:44.1529494+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:00:37.6425039+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:05:30.066174+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:01:51.7444868+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:06:44.1530218+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,477 |
-| Leader | 60.00% | ~4,628 |
-| Explorer | 53.00% | ~4,088 |
-| Healer | 52.00% | ~4,011 |
-| Aspiring Inventor | 44.00% | ~3,394 |
+| First Step | 71.00% | ~5,478 |
+| Leader | 60.00% | ~4,629 |
+| Explorer | 53.00% | ~4,089 |
+| Healer | 52.00% | ~4,012 |
+| Aspiring Inventor | 44.00% | ~3,395 |
 | Adventurer | 41.00% | ~3,163 |
-| Famous Healer | 38.00% | ~2,931 |
+| Famous Healer | 38.00% | ~2,932 |
 | Local Leader | 35.00% | ~2,700 |
 | Famous Explorer | 34.00% | ~2,623 |
 | New Opportunities | 34.00% | ~2,623 |
 | Energized | 33.00% | ~2,546 |
 | The Long Haul | 33.00% | ~2,546 |
-| The Great Healer | 31.00% | ~2,391 |
-| Survivor | 31.00% | ~2,391 |
+| The Great Healer | 31.00% | ~2,392 |
+| Survivor | 31.00% | ~2,392 |
 | Cleaner | 28.00% | ~2,160 |
 | Catastrofan | 28.00% | ~2,160 |
 | Legendary Explorer | 27.00% | ~2,083 |
 | Finders, Keepers | 26.00% | ~2,006 |
-| Top Notch | 25.00% | ~1,928 |
+| Top Notch | 25.00% | ~1,929 |
 | Ice Lakes | 23.00% | ~1,774 |
 | Mentor | 23.00% | ~1,774 |
 | Great Leader | 22.00% | ~1,697 |
@@ -32,15 +32,15 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 21.00% | ~1,620 |
 | War Never Changes | 19.00% | ~1,466 |
 | Rocket Surgeon | 19.00% | ~1,466 |
-| Big Game Hunter | 17.00% | ~1,311 |
+| Big Game Hunter | 17.00% | ~1,312 |
+| Spreading Influence | 17.00% | ~1,312 |
 | Friendly | 16.00% | ~1,234 |
 | Around the World | 16.00% | ~1,234 |
-| Spreading Influence | 16.00% | ~1,234 |
 | Bookworm | 15.00% | ~1,157 |
 | Famous Adventurer | 13.00% | ~1,003 |
 | Prepared for Anything | 13.00% | ~1,003 |
 | Big Catastrofan | 13.00% | ~1,003 |
-| It's a Finnish Thing | 10.00% | ~771 |
+| It's a Finnish Thing | 10.00% | ~772 |
 | Sky Burial | 9.00% | ~694 |
 | Trader | 8.00% | ~617 |
 | Bread and Circuses | 8.00% | ~617 |
@@ -61,12 +61,12 @@ Number of Ratings: 836  (23.09.2022)
 | True Survivor | 1.00% | ~77 |
 | Slimy yet Satisfying | 0.90% | ~69 |
 | Feng Shui | 0.90% | ~69 |
-| Finnished | 0.40% | ~31 |
+| Finnished | 0.30% | ~23 |
 | Fun and Games | 0.20% | ~15 |
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,714 (Ranked 125)  
+Progressed: 7,715 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 7,640 | 0 |
 | 2023-07-24 | 7,673 | 0 |
 | 2023-07-25 | 7,711 | 0 |
-| 2023-07-26 | 7,714 | 0 |
+| 2023-07-26 | 7,715 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 332)  
 Sum: 681 (Ranked 273)  

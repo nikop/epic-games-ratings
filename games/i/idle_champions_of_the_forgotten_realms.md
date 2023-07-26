@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 907)  
+Rating: 4.05 (Ranked 906)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,38 +9,39 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,312 |
 | Beast Intentions | 2.00% | ~4,312 |
 | Maddening | 1.00% | ~2,156 |
-| The Silken Swamp | 0.90% | ~1,940 |
+| The Silken Swamp | 0.90% | ~1,941 |
 | Supply Run | 0.80% | ~1,725 |
 | Rocky Reception | 0.80% | ~1,455 |
 | Vecna Lives! | 0.70% | ~1,273 |
 | Rock and Roll | 0.70% | ~1,273 |
 | Vecna Loots! | 0.60% | ~1,091 |
 | Flight of the Kindori Pod | 0.60% | ~1,091 |
+| Topolah's Tower | 0.60% | ~1,091 |
 | Tall Tales | 0.50% | ~909 |
 | Wet Feet | 0.50% | ~1,078 |
 | Seeds of Destruction | 0.50% | ~909 |
 | Return to the Tomb | 0.50% | ~909 |
 | The Champion's Guide to Wildspace | 0.50% | ~909 |
-| Topolah's Tower | 0.50% | ~909 |
 | Pros and CONs | 0.40% | ~862 |
-| The Witchlight Carnival | 0.40% | ~727 |
+| The Witchlight Carnival | 0.40% | ~728 |
 | Hatchlings Underfoot | 0.40% | ~862 |
 | Don't Look Up! | 0.40% | ~862 |
 | Heavy Burden | 0.40% | ~862 |
-| The Evacuation of Waterdeep | 0.40% | ~727 |
-| Heatwave | 0.40% | ~727 |
-| The Dread Domain of Tovag | 0.40% | ~727 |
+| The Evacuation of Waterdeep | 0.40% | ~728 |
+| Heatwave | 0.40% | ~728 |
+| The Dread Domain of Tovag | 0.40% | ~728 |
 | A Persistent Buzzing | 0.40% | ~862 |
 | Beast Mode | 0.40% | ~862 |
 | Terror in the Dark | 0.40% | ~862 |
+| A Mysterious Summons | 0.40% | ~862 |
 | Building Trust | 0.40% | ~862 |
 | Unearthed Evil | 0.40% | ~862 |
-| Not That Type of Helm! | 0.40% | ~727 |
-| Calcryx Tricks | 0.40% | ~727 |
-| Goblin Halls: the Next Generation | 0.40% | ~727 |
-| Bazaar Companions | 0.40% | ~727 |
-| Bahamut's Army | 0.40% | ~727 |
-| Krux's Speed Run | 0.40% | ~727 |
+| Not That Type of Helm! | 0.40% | ~728 |
+| Calcryx Tricks | 0.40% | ~728 |
+| Goblin Halls: the Next Generation | 0.40% | ~728 |
+| Bazaar Companions | 0.40% | ~728 |
+| Bahamut's Army | 0.40% | ~728 |
+| Krux's Speed Run | 0.40% | ~728 |
 | Upholding the Law | 0.30% | ~647 |
 | Thieves of the Coven | 0.30% | ~546 |
 | Speeds of Destruction | 0.30% | ~546 |
@@ -49,8 +50,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Demi-god's Defender | 0.30% | ~546 |
 | Friends of the Forest | 0.30% | ~647 |
 | Were-verpowered | 0.30% | ~647 |
+| Welcome to the Rock | 0.30% | ~546 |
 | Low Initiative | 0.30% | ~647 |
-| A Mysterious Summons | 0.30% | ~647 |
 | Street War | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
 | No Time To Rest | 0.30% | ~647 |
@@ -60,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~647 |
 | The Botched Kidnapping | 0.30% | ~647 |
 | The Mad Wizard | 0.30% | ~647 |
+| Waterdeep Detours | 0.30% | ~647 |
 | Willing to Sacrifice | 0.30% | ~546 |
 | Devilishly Cold | 0.30% | ~546 |
 | Luigi After Hours | 0.30% | ~546 |
@@ -86,7 +88,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~431 |
 | The Lost Heir of Omu | 0.20% | ~431 |
 | No One Can Hear You Scream | 0.20% | ~364 |
-| Welcome to the Rock | 0.20% | ~364 |
 | The Forbidden City | 0.20% | ~431 |
 | Captured! | 0.20% | ~431 |
 | Force Grey Unleashed | 0.20% | ~431 |
@@ -111,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.20% | ~431 |
 | The Ring of Regeneration | 0.20% | ~431 |
 | The Crumbling Temple | 0.20% | ~431 |
+| The Death Curse | 0.20% | ~431 |
 | Seeking Allies | 0.20% | ~431 |
 | Useless Allies | 0.20% | ~431 |
 | Mad Cow Disease | 0.20% | ~431 |
@@ -125,7 +127,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~431 |
 | Constant Banditry | 0.20% | ~431 |
 | The Long Haul | 0.20% | ~431 |
-| Waterdeep Detours | 0.20% | ~431 |
 | Lost in the Deep | 0.20% | ~431 |
 | Easily Distracted | 0.20% | ~431 |
 | Rude Welcome | 0.20% | ~431 |
@@ -133,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.20% | ~431 |
 | Overdue Rendezvous | 0.20% | ~431 |
 | Durable Deep | 0.20% | ~431 |
+| Expert Opinion | 0.20% | ~431 |
 | Pure Energy | 0.20% | ~431 |
 | The Templar's Camp | 0.20% | ~431 |
 | Rescue in the Jungle | 0.20% | ~431 |
@@ -263,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~216 |
 | Our Time To Shine | 0.10% | ~216 |
 | Review by the Blackstaff | 0.10% | ~182 |
-| The Death Curse | 0.10% | ~216 |
 | Treasure Hunters | 0.10% | ~216 |
 | The Guardian of Orolunga | 0.10% | ~216 |
 | Think Your Way Out Of It | 0.10% | ~216 |
@@ -447,7 +448,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~182 |
 | Relentless Peril | 0.10% | ~182 |
 | Rickety Rubble | 0.10% | ~182 |
-| Expert Opinion | 0.10% | ~216 |
 | Dwarven Rumors | 0.10% | ~182 |
 | Mimic Perception | 0.10% | ~182 |
 | Frozen in Fear | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,598 (Ranked 53)  
+Progressed: 215,620 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,15 +616,15 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,598 | 2,111 |
+| 2023-07-26 | 215,620 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
-Sum: 30,729 (Ranked 38)  
+Sum: 30,734 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,082 |
-| This game is Great for Beginners | 5,018 |
+| This game is Great for Beginners | 5,023 |
 | This game has Quickly Understood Controls | 4,682 |
 | This game is Relaxing | 4,571 |
 | This game has Amazing Characters | 4,034 |
@@ -814,4 +814,4 @@ Diff (max vs sum): 28
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
-| 2023-07-26 | 4.05 | - | 5,082 | 30,729 |
+| 2023-07-26 | 4.05 | - | 5,082 | 30,734 |

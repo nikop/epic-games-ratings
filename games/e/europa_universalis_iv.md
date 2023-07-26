@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 8.00% | ~5,938 |
 | That is mine! | 8.00% | ~5,938 |
 | Victorious! | 8.00% | ~5,938 |
-| Brothers in Arms | 6.00% | ~4,453 |
-| That's a Grand Navy | 6.00% | ~4,453 |
-| Seriously?! | 6.00% | ~4,453 |
+| Brothers in Arms | 6.00% | ~4,454 |
+| That's a Grand Navy | 6.00% | ~4,454 |
+| Seriously?! | 6.00% | ~4,454 |
 | For the Glory | 5.00% | ~3,711 |
 | Cold War | 4.00% | ~2,969 |
 | True Catholic | 4.00% | ~2,969 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,227 |
 | The Princess is in this Castle | 3.00% | ~2,227 |
 | Truly Divine Ruler | 3.00% | ~2,227 |
-| Agressive Expander | 2.00% | ~1,484 |
-| Blockader | 2.00% | ~1,484 |
-| Combined Arms | 2.00% | ~1,484 |
-| Double the Love | 2.00% | ~1,484 |
-| Gentle Persuasion | 2.00% | ~1,484 |
-| My armies are invincible! | 2.00% | ~1,484 |
-| Queen of Conquest | 2.00% | ~1,484 |
-| Royal Authority | 2.00% | ~1,484 |
-| Total Control | 2.00% | ~1,484 |
+| Agressive Expander | 2.00% | ~1,485 |
+| Blockader | 2.00% | ~1,485 |
+| Combined Arms | 2.00% | ~1,485 |
+| Double the Love | 2.00% | ~1,485 |
+| Gentle Persuasion | 2.00% | ~1,485 |
+| My armies are invincible! | 2.00% | ~1,485 |
+| Queen of Conquest | 2.00% | ~1,485 |
+| Royal Authority | 2.00% | ~1,485 |
+| Total Control | 2.00% | ~1,485 |
 | All That's Thine Shall Be Mine | 1.00% | ~742 |
 | Azur semé de lis or | 1.00% | ~742 |
 | Bright Spark | 1.00% | ~742 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,220 (Ranked 74)  
+Progressed: 74,227 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 73,383 | 0 |
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
-| 2023-07-26 | 74,220 | 0 |
+| 2023-07-26 | 74,227 | 0 |
 ## Awards
 Max (Educational): 5,583  (Ranked 61)  
 Sum: 46,018 (Ranked 26)  

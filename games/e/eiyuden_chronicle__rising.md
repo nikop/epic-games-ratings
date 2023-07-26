@@ -43,16 +43,16 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Scholar | 16.00% | ~109 |
 | No Treasure Left Behind | 13.00% | ~88 |
 | Sommelier | 12.00% | ~82 |
+| Champion of the Great Forest | 12.00% | ~82 |
 | One-Hundred Resident Record | 11.00% | ~75 |
 | A Local Hero | 11.00% | ~75 |
-| Champion of the Great Forest | 11.00% | ~75 |
 | Gourmand | 10.00% | ~68 |
 | Accessorizer | 10.00% | ~68 |
 | Champion of the Quarry | 10.00% | ~68 |
+| Champion of the Snowpeak | 10.00% | ~68 |
 | Champion of the Lava Ruins | 10.00% | ~68 |
 | No One Better | 9.00% | ~61 |
 | Full Force - CJ | 9.00% | ~61 |
-| Champion of the Snowpeak | 9.00% | ~61 |
 | Full Force - Garoo | 8.00% | ~54 |
 | Full Force - Isha | 8.00% | ~54 |
 | Rising Champion | 7.00% | ~48 |

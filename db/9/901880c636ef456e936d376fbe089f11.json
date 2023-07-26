@@ -464,9 +464,9 @@
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:05:38.9677212+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:06:55.2897897+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5780393+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:57:36.2558107+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:05:38.9677612+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:57:43.557885+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:06:55.3076352+00:00"
 }

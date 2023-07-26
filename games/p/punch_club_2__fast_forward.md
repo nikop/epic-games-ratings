@@ -17,27 +17,27 @@
 | Employee of the week | 76.00% | ~116 |
 | Your own amateur gym | 72.00% | ~110 |
 | Run K, run! | 71.00% | ~109 |
+| No bullying more | 67.00% | ~103 |
 | Hello, world! | 67.00% | ~103 |
-| No bullying more | 66.00% | ~101 |
 | Fighting is cool | 63.00% | ~96 |
 | Intriguing candies | 60.00% | ~92 |
 | Employee of the month | 60.00% | ~92 |
 | Pal of your father? | 58.00% | ~89 |
 | Spirit of the past | 56.00% | ~86 |
+| Little hacker | 53.00% | ~81 |
 | Workout professional | 52.00% | ~80 |
-| Little hacker | 52.00% | ~80 |
 | Law student | 52.00% | ~80 |
 | Your own way | 50.00% | ~76 |
+| Fight for life | 48.00% | ~73 |
 | Champion – starter pack | 48.00% | ~73 |
-| Fight for life | 47.00% | ~72 |
 | Employee of the year | 47.00% | ~72 |
+| Handyman | 46.00% | ~70 |
 | It's good to be alive | 46.00% | ~70 |
-| Own four walls | 45.00% | ~69 |
-| Handyman | 44.00% | ~67 |
+| Own four walls | 46.00% | ~70 |
 | Extreme neuropower! | 42.00% | ~64 |
 | Legal courier | 39.00% | ~60 |
 | Now you are worthy | 36.00% | ~55 |
-| Escaped from a big trouble | 32.00% | ~49 |
+| Escaped from a big trouble | 33.00% | ~50 |
 | No blades in the gym | 31.00% | ~47 |
 | Guiding on the right path | 31.00% | ~47 |
 | Mysterious voice | 30.00% | ~46 |
@@ -45,29 +45,29 @@
 | Fight is life | 28.00% | ~43 |
 | Champion – no way back | 27.00% | ~41 |
 | Deal with life | 25.00% | ~38 |
+| Poisoned fighter | 25.00% | ~38 |
 | Get out of my apartment! | 25.00% | ~38 |
 | Underground dwellers | 25.00% | ~38 |
 | Mom got better | 24.00% | ~37 |
 | GYM professional | 24.00% | ~37 |
-| Poisoned fighter | 24.00% | ~37 |
 | The die is cast | 24.00% | ~37 |
 | Seashell hunter | 24.00% | ~37 |
+| Anyone can resist | 23.00% | ~35 |
 | Gang wrangler | 22.00% | ~34 |
-| Anyone can resist | 22.00% | ~34 |
 | Problems of cyborgs | 21.00% | ~32 |
+| Trap disarmed | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
-| Trap disarmed | 19.00% | ~29 |
 | Undercover robot | 19.00% | ~29 |
 | Keep nature safe | 18.00% | ~28 |
+| Not little hacker | 18.00% | ~28 |
 | Absolute Champion! | 18.00% | ~28 |
 | Careerist | 18.00% | ~28 |
-| Not little hacker | 17.00% | ~26 |
+| Family comes first | 17.00% | ~26 |
 | Another world | 16.00% | ~24 |
 | The lonesome road | 16.00% | ~24 |
-| Family comes first | 16.00% | ~24 |
 | Key memories | 16.00% | ~24 |
+| Silver’s past | 16.00% | ~24 |
 | The heart of the Resistance | 16.00% | ~24 |
-| Silver’s past | 15.00% | ~23 |
 | Better cooking at home | 14.00% | ~21 |
 | The only right decision | 12.00% | ~18 |
 ## Popularity (Based on EOS Achievements)

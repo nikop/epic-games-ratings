@@ -10,8 +10,8 @@
 | Police officers ✔ | 28.00% | ~61 |
 | Mutation ✔ | 25.00% | ~54 |
 | Doberman ✔ | 14.00% | ~30 |
+| Weapon ✔ | 11.00% | ~24 |
 | Chess ✔ | 10.00% | ~22 |
-| Weapon ✔ | 10.00% | ~22 |
 | Master of Unlocking ✔ | 9.00% | ~20 |
 | Survival ✔ | 8.00% | ~17 |
 | Thirst ✔ | 7.00% | ~15 |

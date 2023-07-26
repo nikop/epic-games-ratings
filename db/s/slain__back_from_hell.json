@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31385,
+  "EOS_Progressed": 31389,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10643,6 +10643,11 @@
       "Time": "2023-07-26T07:04:23.5664198+00:00",
       "NumProgressed": 31385,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-26T08:05:12.2941429+00:00",
+      "NumProgressed": 31389,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10662,7 +10667,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10798,7 +10803,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -10885,7 +10890,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31385,
+      "Progressed": 31389,
       "Completed": 20
     }
   ],
@@ -10893,8 +10898,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:04:23.5664192+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:05:12.2941422+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.0234248+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:00:16.7852397+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:04:23.5664906+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:01:18.5291975+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:05:12.2942938+00:00"
 }

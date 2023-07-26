@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5240,10 +5240,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30729,
       "NumberOfAwardsMax": 5082
+    },
+    {
+      "Time": "2023-07-26T07:59:07.2902517+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30734,
+      "NumberOfAwardsMax": 5082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30729,
+  "NumberOfAwards": 30734,
   "NumberOfAwardsMax": 5082,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5251,7 +5257,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5018
+      "Count": 5023
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5290,9 +5296,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215598,
+  "EOS_Progressed": 215620,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 2320,
+  "EOS_NewPlayers": 2326,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15645,6 +15651,11 @@
       "Time": "2023-07-26T06:00:58.598816+00:00",
       "NumProgressed": 215598,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T08:02:01.3203235+00:00",
+      "NumProgressed": 215620,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -15760,7 +15771,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1056",
@@ -15960,7 +15971,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "objective_completed_1090",
@@ -16304,7 +16315,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1159",
@@ -16416,7 +16427,7 @@
       "Name": "Heatwave",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1179",
@@ -16440,7 +16451,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1184",
@@ -16742,9 +16753,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_completed_1351",
@@ -16846,9 +16857,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 862
     },
     {
       "ID": "objective_completed_165",
@@ -17350,9 +17361,9 @@
       "ID": "objective_completed_36",
       "SetID": "cc37lbc",
       "Name": "The Death Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_37",
@@ -18830,9 +18841,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 647
     },
     {
       "ID": "objective_completed_75",
@@ -19006,9 +19017,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_827",
@@ -19624,7 +19635,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1327",
@@ -19648,7 +19659,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_593",
@@ -19656,7 +19667,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_663",
@@ -19664,7 +19675,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_668",
@@ -19672,7 +19683,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1375",
@@ -19726,9 +19737,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 1091
     },
     {
       "ID": "objective_completed_1391",
@@ -19736,7 +19747,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "objective_completed_1392",
@@ -19751,21 +19762,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181872,
-      "Completed": 2989
+      "Progressed": 181894,
+      "Completed": 2991
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215598,
+      "Progressed": 215620,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-26T03:58:32.9376809+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:00:58.5988156+00:00",
+  "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:02:01.3203222+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:58:39.5076398+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:00:58.6020092+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:59:07.2902525+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:02:01.3269215+00:00"
 }

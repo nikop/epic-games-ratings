@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1351,9 +1351,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 188642,
+  "EOS_Progressed": 188648,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1886,
+  "EOS_NewPlayers": 1882,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11921,6 +11921,11 @@
       "Time": "2023-07-26T07:06:33.8477596+00:00",
       "NumProgressed": 188642,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-26T08:08:04.4579015+00:00",
+      "NumProgressed": 188648,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 44,
@@ -12028,7 +12033,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "IceIceYuki",
@@ -12188,7 +12193,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15091
+      "UsersEstimate": 15092
     },
     {
       "ID": "TheCave",
@@ -12196,7 +12201,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "TheEnd",
@@ -12283,15 +12288,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 188642,
+      "Progressed": 188648,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-26T02:59:28.5760933+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:06:33.847759+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:08:04.4579006+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.4942991+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:59:28.6682086+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:06:33.8478449+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:00:12.9673611+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:08:04.4580818+00:00"
 }

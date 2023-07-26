@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4309,
+  "EOS_Progressed": 4310,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6785,6 +6785,11 @@
       "Time": "2023-07-26T06:05:53.0746963+00:00",
       "NumProgressed": 4309,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T08:06:49.7149794+00:00",
+      "NumProgressed": 4310,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6844,7 +6849,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -6852,7 +6857,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -6868,7 +6873,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -6892,7 +6897,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7052,7 +7057,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7068,7 +7073,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7084,7 +7089,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -7092,7 +7097,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -7115,15 +7120,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4309,
+      "Progressed": 4310,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:05:34.5308588+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:06:49.7149788+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-26T07:00:29.4346622+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:05:34.530913+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:01:39.2240839+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:06:49.7150947+00:00"
 }

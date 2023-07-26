@@ -5,22 +5,22 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,030 |
-| Advancement | 73.00% | ~17,851 |
+| Stylish | 86.00% | ~21,031 |
+| Advancement | 73.00% | ~17,852 |
 | Meticulously Efficient | 64.00% | ~15,651 |
-| Discovery | 61.00% | ~14,917 |
-| Fully Upgraded | 54.00% | ~13,205 |
-| Swift Rift Removers | 54.00% | ~13,205 |
+| Discovery | 61.00% | ~14,918 |
+| Fully Upgraded | 54.00% | ~13,206 |
+| Swift Rift Removers | 54.00% | ~13,206 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,472 |
 | Cultured | 51.00% | ~12,472 |
 | Vaporous Expansion | 48.00% | ~11,738 |
 | Teamwork | 44.00% | ~10,760 |
-| There you are! | 43.00% | ~10,515 |
-| Clutch Capture | 41.00% | ~10,026 |
+| There you are! | 43.00% | ~10,516 |
+| Clutch Capture | 41.00% | ~10,027 |
 | Back Off | 35.00% | ~8,559 |
-| Daily Dose | 34.00% | ~8,314 |
-| Solo Capture | 32.00% | ~7,825 |
-| Welcome to the Crew | 32.00% | ~7,825 |
+| Daily Dose | 34.00% | ~8,315 |
+| Solo Capture | 32.00% | ~7,826 |
+| Welcome to the Crew | 32.00% | ~7,826 |
 | Ghostbuster In Training | 30.00% | ~7,336 |
 | Icing on the Cake | 30.00% | ~7,336 |
 | Side Hustle | 27.00% | ~6,603 |
@@ -32,8 +32,8 @@ Rating: 4.49 (Ranked 573)
 | Pesky Jerks | 25.00% | ~6,114 |
 | Animated | 24.00% | ~5,869 |
 | Skilled | 24.00% | ~5,869 |
-| Collector | 23.00% | ~5,624 |
-| Ectoplasmic Entity | 23.00% | ~5,624 |
+| Collector | 23.00% | ~5,625 |
+| Ectoplasmic Entity | 23.00% | ~5,625 |
 | Rift Destroyer | 19.00% | ~4,646 |
 | Terrifying | 18.00% | ~4,402 |
 | Tobin's Prodigy | 18.00% | ~4,402 |
@@ -41,9 +41,9 @@ Rating: 4.49 (Ranked 573)
 | Diabolical | 16.00% | ~3,913 |
 | Escape Artist | 16.00% | ~3,913 |
 | Seasoned | 16.00% | ~3,913 |
-| Whoopsie | 12.00% | ~2,934 |
-| Liability | 10.00% | ~2,445 |
-| Rivalry | 10.00% | ~2,445 |
+| Whoopsie | 12.00% | ~2,935 |
+| Liability | 10.00% | ~2,446 |
+| Rivalry | 10.00% | ~2,446 |
 | Fragile Panes | 9.00% | ~2,201 |
 | Surprise! | 9.00% | ~2,201 |
 | Rift Seeker | 7.00% | ~1,712 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~245 |
 | I don't need these | 0.90% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,454 (Ranked 100)  
+Progressed: 24,455 (Ranked 100)  
 Completed: 48 (0.20%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 48 (0.20%) (Ranked 169)
 | 2023-07-23 | 24,410 | 48 |
 | 2023-07-24 | 24,428 | 48 |
 | 2023-07-25 | 24,451 | 48 |
-| 2023-07-26 | 24,454 | 48 |
+| 2023-07-26 | 24,455 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,181 (Ranked 189)  

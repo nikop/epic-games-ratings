@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63376,
+  "EOS_Progressed": 63377,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -10603,6 +10603,11 @@
       "Time": "2023-07-26T07:02:08.9105961+00:00",
       "NumProgressed": 63376,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-07-26T08:02:22.3699671+00:00",
+      "NumProgressed": 63377,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 24,
@@ -10694,7 +10699,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33589
+      "UsersEstimate": 33590
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -10782,7 +10787,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     },
     {
       "ID": "WEIGHTLESS",
@@ -10798,14 +10803,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 63376,
+      "Progressed": 63377,
       "Completed": 324
     }
   ],
@@ -10813,8 +10818,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-26T07:02:08.9105954+00:00",
+  "LastChanged_Achievements": "2023-07-26T08:02:22.3699667+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:59:47.5959757+00:00",
-  "LastUpdate_Achievements": "2023-07-26T07:02:08.9106617+00:00"
+  "LastUpdate_Ratings": "2023-07-26T08:00:37.7638889+00:00",
+  "LastUpdate_Achievements": "2023-07-26T08:02:22.3700583+00:00"
 }

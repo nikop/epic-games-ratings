@@ -6,11 +6,11 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~26,158 |
+| It's a steal! | 38.00% | ~26,159 |
 | Final touch | 37.00% | ~25,470 |
 | Prop-M Rover | 33.00% | ~22,717 |
 | Changing the Planet | 29.00% | ~19,963 |
-| Sojourner | 27.00% | ~18,586 |
+| Sojourner | 27.00% | ~18,587 |
 | New Home | 24.00% | ~16,521 |
 | Beagle 2 | 24.00% | ~16,521 |
 | Winner Winner Terraformer | 23.00% | ~15,833 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Landlord | 11.00% | ~7,572 |
 | Spirit | 11.00% | ~7,572 |
 | Ultimate success | 10.00% | ~6,884 |
-| Variety Expert | 9.00% | ~6,195 |
+| Variety Expert | 9.00% | ~6,196 |
 | Frequent tester | 8.00% | ~5,507 |
 | Determined | 8.00% | ~5,507 |
 | Terraformer | 4.00% | ~2,754 |
 | Team Effort | 3.00% | ~2,065 |
 | Opportunity | 3.00% | ~2,065 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,838 (Ranked 76)  
+Progressed: 68,839 (Ranked 76)  
 Completed: 80 (0.12%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 80 (0.12%) (Ranked 184)
 | 2023-07-23 | 68,562 | 72 |
 | 2023-07-24 | 68,677 | 78 |
 | 2023-07-25 | 68,813 | 79 |
-| 2023-07-26 | 68,838 | 80 |
+| 2023-07-26 | 68,839 | 80 |
 ## Awards
 Max (Relaxing): 506  (Ranked 194)  
-Sum: 3,126 (Ranked 155)  
+Sum: 3,127 (Ranked 155)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -148,7 +148,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 443 |
 | This game has Amazing Storytelling | 356 |
 | This game has Obsessive Gameplay | 334 |
-| This game has a Competitive Community | 235 |
+| This game has a Competitive Community | 236 |
 | This game has Amazing Characters | 197 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -296,3 +296,4 @@ Diff (max vs sum): 39
 | 2023-07-20 | 4.54 | - | 506 | 3,123 |
 | 2023-07-21 | 4.54 | - | 506 | 3,124 |
 | 2023-07-24 | 4.54 | - | 506 | 3,126 |
+| 2023-07-26 | 4.54 | - | 506 | 3,127 |

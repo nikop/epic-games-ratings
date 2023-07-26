@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,017 |
-| Right Back At Ya | 39.00% | ~338,392 |
-| The Lovers | 34.00% | ~295,008 |
-| Stanislavski's Method | 28.00% | ~242,948 |
-| The Wheel of Fortune | 27.00% | ~234,271 |
-| The Hermit | 24.00% | ~208,241 |
-| True Soldier | 23.00% | ~199,565 |
-| Christmas Tree Attack | 22.00% | ~190,888 |
-| The High Priestess | 21.00% | ~182,211 |
-| Legend of The Afterlife | 21.00% | ~182,211 |
-| Life of the Road | 20.00% | ~173,534 |
-| Full Body Conversion | 18.00% | ~156,181 |
-| The World | 17.00% | ~147,504 |
+| The Fool | 68.00% | ~590,021 |
+| Right Back At Ya | 39.00% | ~338,394 |
+| The Lovers | 34.00% | ~295,011 |
+| Stanislavski's Method | 28.00% | ~242,950 |
+| The Wheel of Fortune | 27.00% | ~234,273 |
+| The Hermit | 24.00% | ~208,243 |
+| True Soldier | 23.00% | ~199,566 |
+| Christmas Tree Attack | 22.00% | ~190,889 |
+| The High Priestess | 21.00% | ~182,212 |
+| Legend of The Afterlife | 21.00% | ~182,212 |
+| Life of the Road | 20.00% | ~173,536 |
+| Full Body Conversion | 18.00% | ~156,182 |
+| The World | 17.00% | ~147,505 |
 | Bushido and Chill | 16.00% | ~138,828 |
-| Gun Fu | 15.00% | ~130,151 |
-| True Warrior | 15.00% | ~130,151 |
-| I Am The Law | 14.00% | ~121,474 |
-| Judy vs Night City | 14.00% | ~121,474 |
-| To Protect and Serve | 13.00% | ~112,797 |
-| Master Crafter | 13.00% | ~112,797 |
-| Two Heads, One Bullet | 11.00% | ~95,444 |
-| The Wandering Fool | 9.00% | ~78,090 |
-| The Quick and the Dead | 9.00% | ~78,090 |
+| Gun Fu | 15.00% | ~130,152 |
+| True Warrior | 15.00% | ~130,152 |
+| I Am The Law | 14.00% | ~121,475 |
+| Judy vs Night City | 14.00% | ~121,475 |
+| To Protect and Serve | 13.00% | ~112,798 |
+| Master Crafter | 13.00% | ~112,798 |
+| Two Heads, One Bullet | 11.00% | ~95,445 |
+| The Wandering Fool | 9.00% | ~78,091 |
+| The Quick and the Dead | 9.00% | ~78,091 |
 | Breathtaking | 8.00% | ~69,414 |
 | Ten out of Ten | 8.00% | ~69,414 |
 | The Star | 7.00% | ~60,737 |
-| To Bad Decisions! | 6.00% | ~52,060 |
-| The Sun | 6.00% | ~52,060 |
+| To Bad Decisions! | 6.00% | ~52,061 |
+| The Sun | 6.00% | ~52,061 |
 | Must Be Rats | 4.00% | ~34,707 |
 | Temperance | 4.00% | ~34,707 |
 | City Lights | 3.00% | ~26,030 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,030 |
 | V for Vendetta | 3.00% | ~26,030 |
 | It's Elementary | 3.00% | ~26,030 |
-| Autojock | 2.00% | ~17,353 |
-| Frequent Flyer | 2.00% | ~17,353 |
-| The Wasteland | 2.00% | ~17,353 |
-| Daemon In The Shell | 2.00% | ~17,353 |
-| The Devil | 2.00% | ~17,353 |
+| Autojock | 2.00% | ~17,354 |
+| Frequent Flyer | 2.00% | ~17,354 |
+| The Wasteland | 2.00% | ~17,354 |
+| Daemon In The Shell | 2.00% | ~17,354 |
+| The Devil | 2.00% | ~17,354 |
 | Gunslinger | 1.00% | ~8,677 |
 | Rough Landing | 0.50% | ~4,338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,672 (Ranked 14)  
+Progressed: 867,678 (Ranked 14)  
 Completed: 1,905 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,10 @@ Completed: 1,905 (0.22%) (Ranked 164)
 | 2023-07-23 | 867,304 | 1,896 |
 | 2023-07-24 | 867,476 | 1,903 |
 | 2023-07-25 | 867,630 | 1,905 |
-| 2023-07-26 | 867,672 | 1,905 |
+| 2023-07-26 | 867,678 | 1,905 |
 ## Awards
 Max (Character Customization): 74,118  (Ranked 9)  
-Sum: 194,869 (Ranked 13)  
+Sum: 194,883 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 8,434 |
 | This game is Relaxing | 8,387 |
 | This game has Quickly Understood Controls | 8,263 |
-| This game has Amazing Characters | 8,247 |
+| This game has Amazing Characters | 8,261 |
 | This game has a Creative Community | 5,418 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -357,4 +357,4 @@ Diff (max vs sum): -4
 | 2023-07-23 | 4.62 | - | 73,930 | 194,285 |
 | 2023-07-24 | 4.62 | - | 74,031 | 194,581 |
 | 2023-07-25 | 4.62 | - | 74,031 | 194,766 |
-| 2023-07-26 | 4.62 | - | 74,118 | 194,869 |
+| 2023-07-26 | 4.62 | - | 74,118 | 194,883 |
