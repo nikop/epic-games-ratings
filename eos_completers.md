@@ -6,12 +6,12 @@
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 23.26% |
-| 7 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 21.43% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
-| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
+| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.45% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.69% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
@@ -23,8 +23,8 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.85% |
-| 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.76% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
+| 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.72% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,8 +43,8 @@
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.71% |
-| 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.69% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
@@ -78,8 +78,8 @@
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
+| 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
-| 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.94% |
 | 83 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -194,11 +194,11 @@
 | 189 | [Supraland](games/s/supraland.md) | 0.10% |
 | 193 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 193 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 193 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 193 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 193 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 193 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 199 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 198 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 198 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 200 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 201 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
 | 201 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
