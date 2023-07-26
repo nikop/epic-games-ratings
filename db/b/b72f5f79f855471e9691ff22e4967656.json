@@ -350,9 +350,9 @@
       "ID": "killGoblinMage3",
       "SetID": "ci65fo0",
       "Name": "The Goblin\u0027s Enemy",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "killGoldSkeleton1",
@@ -662,9 +662,9 @@
       "ID": "questEnemyTask",
       "SetID": "ci65fo0",
       "Name": "On the enemy\u0027s side",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questGenerous",
@@ -835,8 +835,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:04:45.8516575+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:03:59.3683474+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:57:38.6642596+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:04:45.8517508+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:57:15.905029+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:03:59.3684441+00:00"
 }

@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6456,
+  "EOS_Progressed": 6457,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2023-07-26T16:06:12.4567703+00:00",
       "NumProgressed": 6456,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-26T17:05:01.5551654+00:00",
+      "NumProgressed": 6457,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3734,7 +3739,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3766,7 +3771,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3830,7 +3835,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -3966,7 +3971,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4046,7 +4051,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4062,7 +4067,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4077,7 +4082,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6456,
+      "Progressed": 6457,
       "Completed": 8
     }
   ],
@@ -4085,8 +4090,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:06:12.4567697+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:05:01.5551647+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:58:33.3438865+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:06:12.4568305+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:57:53.4587042+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:05:01.55523+00:00"
 }

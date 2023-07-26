@@ -6,8 +6,8 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Look Over There! | 0.70% | ~21 |
 | An Ill Omen | 0.70% | ~21 |
-| Look Over There! | 0.60% | ~18 |
 | Executioner | 0.60% | ~18 |
 | Watch Where You Step... | 0.60% | ~18 |
 | Not So Fast... | 0.50% | ~15 |

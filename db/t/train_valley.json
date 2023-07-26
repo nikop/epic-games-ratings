@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-07-26T13:10:43.5003286+00:00",
       "NumProgressed": 372,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T17:03:55.9975021+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -614,9 +619,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 175
     },
     {
       "ID": "06_living",
@@ -656,7 +661,7 @@
       "Name": "Japan",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "11_germany",
@@ -712,7 +717,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "18_foreman",
@@ -744,7 +749,7 @@
       "Name": "Missed it!",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "22_ouroboros",
@@ -758,9 +763,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 269
     },
     {
       "ID": "24_mega",
@@ -846,9 +851,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 145
     },
     {
       "ID": "35_achtung",
@@ -895,15 +900,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:04:41.3866084+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:03:55.9975015+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:58:40.1688231+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:04:41.3866452+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:57:58.8194125+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:03:55.9975353+00:00"
 }

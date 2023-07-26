@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 70.00% | ~127 |
-| Forced to Kill | 68.00% | ~123 |
-| A Night To Remember | 35.00% | ~63 |
+| Forced to Kill | 68.00% | ~124 |
+| A Night To Remember | 35.00% | ~64 |
 | Safe...For now? | 31.00% | ~56 |
-| Open Sesame | 27.00% | ~49 |
+| Open Sesame | 26.00% | ~47 |
 | What have I done!? | 16.00% | ~29 |
 | Them and Us | 15.00% | ~27 |
 | OUTRAGE | 15.00% | ~27 |
@@ -18,13 +18,13 @@
 | Lover of classics | 10.00% | ~18 |
 | Alone In The Dark | 10.00% | ~18 |
 | The Forgotten Tower | 10.00% | ~18 |
-| Rest In Peace | 8.00% | ~14 |
-| The Curse Is Real | 8.00% | ~14 |
-| Trapped | 8.00% | ~14 |
+| Rest In Peace | 8.00% | ~15 |
+| The Curse Is Real | 8.00% | ~15 |
+| Trapped | 8.00% | ~15 |
 | Modern Player | 7.00% | ~13 |
 | What A Mansion | 7.00% | ~13 |
-| Researcher | 6.00% | ~11 |
-| I Am The Gate Keeper! | 6.00% | ~11 |
+| Researcher | 5.00% | ~9 |
+| I Am The Gate Keeper! | 5.00% | ~9 |
 | The bus stop | 3.00% | ~5 |
 | This Mansion Is Clean | 3.00% | ~5 |
 | Armed To The Teeth | 2.00% | ~4 |
@@ -36,16 +36,16 @@
 | The 5th Element | 2.00% | ~4 |
 | Box Of Ploutus | 1.00% | ~2 |
 | Survival Hero | 1.00% | ~2 |
-| Before The Eclipse | 0.60% | ~1 |
-| Chosen One | 0.60% | ~1 |
-| Die Another Day | 0.60% | ~1 |
-| Dressed to Kill | 0.60% | ~1 |
-| Life Of The Thousand Gods | 0.60% | ~1 |
-| Nightmare Over | 0.60% | ~1 |
-| No Time To Relax | 0.60% | ~1 |
-| Survival Horror | 0.60% | ~1 |
+| Before The Eclipse | 0.50% | ~1 |
+| Chosen One | 0.50% | ~1 |
+| Die Another Day | 0.50% | ~1 |
+| Dressed to Kill | 0.50% | ~1 |
+| Life Of The Thousand Gods | 0.50% | ~1 |
+| Nightmare Over | 0.50% | ~1 |
+| No Time To Relax | 0.50% | ~1 |
+| Survival Horror | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 282)  
+Progressed: 182 (Ranked 282)  
 Completed: 1 (0.55%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.55%) (Ranked 126)
 | 2023-07-23 | 178 | 1 |
 | 2023-07-24 | 179 | 1 |
 | 2023-07-25 | 180 | 1 |
-| 2023-07-26 | 181 | 1 |
+| 2023-07-26 | 182 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

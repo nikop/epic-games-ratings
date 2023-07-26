@@ -6,75 +6,76 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~21,484 |
-| It wakes | 3.00% | ~21,484 |
-| Skillful | 3.00% | ~21,484 |
-| One More Step | 3.00% | ~21,484 |
-| The Grand Sacrifice | 2.00% | ~14,323 |
-| Agonizing Escape | 2.00% | ~14,323 |
-| Backdoor Escape | 2.00% | ~14,323 |
-| I've got your back | 2.00% | ~14,323 |
-| No one left behind | 2.00% | ~14,323 |
-| Medic | 2.00% | ~14,323 |
-| Handyman | 2.00% | ~14,323 |
-| Nerves of steel | 2.00% | ~14,323 |
-| Perfect Escape | 2.00% | ~14,323 |
-| Perfect Killing | 2.00% | ~14,323 |
-| Not half bad | 2.00% | ~14,323 |
-| Bloody Millionaire | 2.00% | ~14,323 |
-| Apt Survivor | 2.00% | ~14,323 |
-| Apt Killer | 2.00% | ~14,323 |
-| Risk it all | 2.00% | ~14,323 |
-| Survival Treasures | 2.00% | ~14,323 |
-| I | 2.00% | ~14,323 |
-| II | 2.00% | ~14,323 |
-| III | 2.00% | ~14,323 |
-| Engineer | 2.00% | ~14,323 |
-| Sorted | 2.00% | ~14,323 |
-| Happy Holidays | 2.00% | ~14,323 |
-| Complete the Evolution | 2.00% | ~14,323 |
-| Extraterrestrial | 2.00% | ~14,323 |
-| A bite for the Entity | 1.00% | ~7,161 |
-| Blood on your hands | 1.00% | ~7,161 |
-| Escape Artist | 1.00% | ~7,161 |
-| Made it out alive! | 1.00% | ~7,161 |
-| Gifts for the Fog | 1.00% | ~7,161 |
-| Vulture | 1.00% | ~7,161 |
-| III-50 | 1.00% | ~7,161 |
-| Shock Therapy | 1.00% | ~7,161 |
-| All Aboard | 1.00% | ~7,161 |
-| Leapfrog | 1.00% | ~7,161 |
-| Item of Obsession | 1.00% | ~7,161 |
-| House of Pain | 1.00% | ~7,161 |
-| Escaping the Nightmare | 1.00% | ~7,161 |
-| Holiday Get-Together | 1.00% | ~7,161 |
-| Near-Death Experience | 1.00% | ~7,161 |
-| Cherish your Life | 1.00% | ~7,161 |
-| Campbell's Chapel Legacy | 1.00% | ~7,161 |
-| Make Some Noise | 1.00% | ~7,161 |
-| Blood on your face | 0.90% | ~6,445 |
-| Cottage Owner | 0.90% | ~6,445 |
-| Serial Killer | 0.90% | ~6,445 |
-| Deep Cleansing | 0.80% | ~5,729 |
-| Game Over | 0.80% | ~5,729 |
-| Outrage | 0.80% | ~5,729 |
-| Jump Scares | 0.70% | ~5,013 |
-| Hemophobia | 0.70% | ~5,013 |
-| Texas BBQ | 0.70% | ~5,013 |
-| Party Crasher | 0.70% | ~5,013 |
-| Blood in your mouth | 0.50% | ~3,581 |
-| Whiffing to Success | 0.50% | ~3,581 |
+| Zealous | 3.00% | ~21,489 |
+| It wakes | 3.00% | ~21,489 |
+| Not half bad | 3.00% | ~21,489 |
+| Skillful | 3.00% | ~21,489 |
+| One More Step | 3.00% | ~21,489 |
+| The Grand Sacrifice | 2.00% | ~14,326 |
+| Agonizing Escape | 2.00% | ~14,326 |
+| Backdoor Escape | 2.00% | ~14,326 |
+| I've got your back | 2.00% | ~14,326 |
+| No one left behind | 2.00% | ~14,326 |
+| Medic | 2.00% | ~14,326 |
+| Handyman | 2.00% | ~14,326 |
+| Nerves of steel | 2.00% | ~14,326 |
+| Perfect Escape | 2.00% | ~14,326 |
+| Perfect Killing | 2.00% | ~14,326 |
+| Bloody Millionaire | 2.00% | ~14,326 |
+| Apt Survivor | 2.00% | ~14,326 |
+| Apt Killer | 2.00% | ~14,326 |
+| Risk it all | 2.00% | ~14,326 |
+| Survival Treasures | 2.00% | ~14,326 |
+| I | 2.00% | ~14,326 |
+| II | 2.00% | ~14,326 |
+| III | 2.00% | ~14,326 |
+| III-50 | 2.00% | ~14,326 |
+| Engineer | 2.00% | ~14,326 |
+| Sorted | 2.00% | ~14,326 |
+| Happy Holidays | 2.00% | ~14,326 |
+| Complete the Evolution | 2.00% | ~14,326 |
+| Extraterrestrial | 2.00% | ~14,326 |
+| A bite for the Entity | 1.00% | ~7,163 |
+| Blood on your hands | 1.00% | ~7,163 |
+| Escape Artist | 1.00% | ~7,163 |
+| Made it out alive! | 1.00% | ~7,163 |
+| Gifts for the Fog | 1.00% | ~7,163 |
+| Vulture | 1.00% | ~7,163 |
+| Shock Therapy | 1.00% | ~7,163 |
+| All Aboard | 1.00% | ~7,163 |
+| Leapfrog | 1.00% | ~7,163 |
+| Item of Obsession | 1.00% | ~7,163 |
+| House of Pain | 1.00% | ~7,163 |
+| Cottage Owner | 1.00% | ~7,163 |
+| Escaping the Nightmare | 1.00% | ~7,163 |
+| Holiday Get-Together | 1.00% | ~7,163 |
+| Near-Death Experience | 1.00% | ~7,163 |
+| Cherish your Life | 1.00% | ~7,163 |
+| Campbell's Chapel Legacy | 1.00% | ~7,163 |
+| Make Some Noise | 1.00% | ~7,163 |
+| Blood on your face | 0.90% | ~6,447 |
+| Serial Killer | 0.90% | ~6,447 |
+| Hemophobia | 0.80% | ~5,730 |
+| Deep Cleansing | 0.80% | ~5,730 |
+| Game Over | 0.80% | ~5,730 |
+| Outrage | 0.80% | ~5,730 |
+| Jump Scares | 0.70% | ~5,014 |
+| Texas BBQ | 0.70% | ~5,014 |
+| Party Crasher | 0.70% | ~5,014 |
+| Blood in your mouth | 0.50% | ~3,582 |
+| Whiffing to Success | 0.50% | ~3,582 |
 | A feast for the Entity | 0.40% | ~2,865 |
 | Mad House | 0.40% | ~2,865 |
 | Looter | 0.40% | ~2,865 |
-| In the void she walks | 0.30% | ~2,148 |
-| Milk 'n' Cookies | 0.30% | ~2,148 |
-| Even Punishment | 0.20% | ~1,432 |
-| Healthy Obsession | 0.20% | ~1,432 |
-| Resurgence | 0.20% | ~1,432 |
-| Preemptive Strike | 0.20% | ~1,432 |
-| Humanitarian | 0.20% | ~1,432 |
-| Slip Into the Stream | 0.20% | ~1,432 |
+| In the void she walks | 0.30% | ~2,149 |
+| Milk 'n' Cookies | 0.30% | ~2,149 |
+| Even Punishment | 0.20% | ~1,433 |
+| Healthy Obsession | 0.20% | ~1,433 |
+| Resurgence | 0.20% | ~1,433 |
+| Close Shave | 0.20% | ~1,433 |
+| Preemptive Strike | 0.20% | ~1,433 |
+| Humanitarian | 0.20% | ~1,433 |
+| Slip Into the Stream | 0.20% | ~1,433 |
 | Cripple them all | 0.10% | ~716 |
 | The Grind | 0.10% | ~716 |
 | The Key to Escape | 0.10% | ~716 |
@@ -177,7 +178,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Multi-tasker | 0.10% | ~716 |
 | Adept Trickster | 0.10% | ~716 |
 | Insult and Injury | 0.10% | ~716 |
-| Close Shave | 0.10% | ~716 |
 | Adept Yun-Jin | 0.10% | ~716 |
 | Biological Weaponry | 0.10% | ~716 |
 | Adept Nemesis | 0.10% | ~716 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.10% | ~716 |
 | Adept Cage | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,139 (Ranked 18)  
+Progressed: 716,305 (Ranked 18)  
 Completed: 43 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 43 (0.01%) (Ranked 230)
 | 2023-07-23 | 707,130 | 42 |
 | 2023-07-24 | 710,465 | 42 |
 | 2023-07-25 | 713,895 | 43 |
-| 2023-07-26 | 716,139 | 43 |
+| 2023-07-26 | 716,305 | 43 |
 ## Awards
 Max (Diverse Characters): 30,324  (Ranked 15)  
 Sum: 239,831 (Ranked 12)  

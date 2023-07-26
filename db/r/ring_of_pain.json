@@ -2551,9 +2551,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 233163,
+  "EOS_Progressed": 233164,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12271,6 +12271,11 @@
       "Time": "2023-07-26T16:05:28.2598065+00:00",
       "NumProgressed": 233163,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2023-07-26T17:04:29.9771401+00:00",
+      "NumProgressed": 233164,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 122,
@@ -12314,7 +12319,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 223836
+      "UsersEstimate": 223837
     },
     {
       "ID": "CURSE1HP",
@@ -12322,7 +12327,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93265
+      "UsersEstimate": 93266
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -12330,7 +12335,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60622
+      "UsersEstimate": 60623
     },
     {
       "ID": "DAILY7",
@@ -12362,7 +12367,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 123576
+      "UsersEstimate": 123577
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -12378,7 +12383,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97928
+      "UsersEstimate": 97929
     },
     {
       "ID": "DEPTH12HARD",
@@ -12402,7 +12407,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 170209
+      "UsersEstimate": 170210
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -12458,7 +12463,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130571
+      "UsersEstimate": 130572
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -12546,7 +12551,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79275
+      "UsersEstimate": 79276
     },
     {
       "ID": "FULLINVENTORY",
@@ -12682,7 +12687,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142229
+      "UsersEstimate": 142230
     },
     {
       "ID": "KILL1000",
@@ -12690,7 +12695,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60622
+      "UsersEstimate": 60623
     },
     {
       "ID": "KILL10000",
@@ -12714,7 +12719,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93265
+      "UsersEstimate": 93266
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -12754,7 +12759,7 @@
       "Name": "All Consuming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 41969
+      "UsersEstimate": 41970
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -12770,7 +12775,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 125908
+      "UsersEstimate": 125909
     },
     {
       "ID": "KILLNICEDOG",
@@ -12866,7 +12871,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130571
+      "UsersEstimate": 130572
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -12914,7 +12919,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 104923
+      "UsersEstimate": 104924
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -12930,7 +12935,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151556
+      "UsersEstimate": 151557
     },
     {
       "ID": "PETRIFY50",
@@ -12954,7 +12959,7 @@
       "Name": "Spreading Plague",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 34974
+      "UsersEstimate": 34975
     },
     {
       "ID": "POISON30TIMES",
@@ -13026,7 +13031,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207515
+      "UsersEstimate": 207516
     },
     {
       "ID": "SPECIALROOMS10",
@@ -13034,7 +13039,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 144561
+      "UsersEstimate": 144562
     },
     {
       "ID": "SPEEDRUN10",
@@ -13050,7 +13055,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 100260
+      "UsersEstimate": 100261
     },
     {
       "ID": "STEALTH100",
@@ -13066,7 +13071,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67617
+      "UsersEstimate": 67618
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -13098,7 +13103,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142229
+      "UsersEstimate": 142230
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -13257,7 +13262,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 233163,
+      "Progressed": 233164,
       "Completed": 254
     }
   ],
@@ -13265,8 +13270,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-26T09:59:31.9816263+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:05:28.2598053+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:04:29.9771394+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:28.9863415+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:01:04.3983423+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:05:28.2600666+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:59:37.1723737+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:04:29.9977588+00:00"
 }

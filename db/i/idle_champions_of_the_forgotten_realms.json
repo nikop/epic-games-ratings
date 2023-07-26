@@ -5246,11 +5246,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30734,
       "NumberOfAwardsMax": 5082
+    },
+    {
+      "Time": "2023-07-26T16:58:23.2669449+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30739,
+      "NumberOfAwardsMax": 5084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30734,
-  "NumberOfAwardsMax": 5082,
+  "NumberOfAwards": 30739,
+  "NumberOfAwardsMax": 5084,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5263,7 +5269,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5082
+      "Count": 5084
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5275,7 +5281,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4571
+      "Count": 4574
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5296,9 +5302,9 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215722,
+  "EOS_Progressed": 215735,
   "EOS_Completed": 2116,
-  "EOS_NewPlayers": 2311,
+  "EOS_NewPlayers": 2310,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15696,6 +15702,11 @@
       "Time": "2023-07-26T16:02:45.3352325+00:00",
       "NumProgressed": 215722,
       "NumCompleted": 2116
+    },
+    {
+      "Time": "2023-07-26T17:02:16.9849774+00:00",
+      "NumProgressed": 215735,
+      "NumCompleted": 2116
     }
   ],
   "TotalAchievements": 512,
@@ -15707,7 +15718,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "objective_completed_10",
@@ -16075,7 +16086,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "objective_completed_110",
@@ -16137,9 +16148,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_1111",
@@ -16267,7 +16278,7 @@
       "Name": "Supply Run",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "objective_completed_1142",
@@ -16465,9 +16476,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 910
     },
     {
       "ID": "objective_completed_1179",
@@ -19802,21 +19813,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181996,
+      "Progressed": 182009,
       "Completed": 2994
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215722,
+      "Progressed": 215735,
       "Completed": 2116
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:02:45.3352316+00:00",
+  "LastChanged": "2023-07-26T16:58:23.2669447+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:02:16.9849767+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:59:16.6639963+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:02:45.3385947+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:58:23.2669457+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:02:16.9880758+00:00"
 }

@@ -692,9 +692,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "BugHunter",
@@ -989,8 +989,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:03:02.2202538+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:02:21.396406+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:33.5392368+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:01:08.4121725+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:03:02.2202927+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:59:39.7442434+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:02:21.3964428+00:00"
 }

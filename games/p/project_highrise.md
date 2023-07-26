@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~155 |
+| In the Black | 59.00% | ~159 |
 | Starting Skyward | 51.00% | ~137 |
 | Grime is Not Good | 45.00% | ~121 |
 | Campaign Launch | 38.00% | ~102 |
-| Floor Galore | 37.00% | ~99 |
-| Dinner Dash | 37.00% | ~99 |
+| Dinner Dash | 38.00% | ~102 |
+| Floor Galore | 37.00% | ~100 |
 | Need a Consult | 35.00% | ~94 |
 | Upgrade Unlock | 34.00% | ~91 |
 | It's Technical | 34.00% | ~91 |
 | Delegate Maintenance | 32.00% | ~86 |
-| Proper Walls | 30.00% | ~80 |
+| Proper Walls | 30.00% | ~81 |
 | Destination Destiny | 28.00% | ~75 |
 | Happy Tenants | 26.00% | ~70 |
-| Your Prestige is Rising | 24.00% | ~64 |
-| Smooth Service | 24.00% | ~64 |
+| Smooth Service | 24.00% | ~65 |
+| Your Prestige is Rising | 23.00% | ~62 |
 | Potent Potables | 23.00% | ~62 |
 | Retail Revenue | 23.00% | ~62 |
 | Lux Living | 21.00% | ~56 |
@@ -40,13 +40,13 @@
 | Thrilled Tenants | 14.00% | ~38 |
 | Smooth Operator | 13.00% | ~35 |
 | Swimming in Surplus | 12.00% | ~32 |
-| 28 Days Later | 11.00% | ~29 |
+| 28 Days Later | 11.00% | ~30 |
 | Master of Puppets | 10.00% | ~27 |
 | Aestheticly Pleased | 9.00% | ~24 |
 | Refined Palates | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
-| First 100 Days | 8.00% | ~21 |
-| Plaza Plan | 8.00% | ~21 |
+| First 100 Days | 8.00% | ~22 |
+| Plaza Plan | 8.00% | ~22 |
 | Careful Constructor | 7.00% | ~19 |
 | Meet Me at HQ | 7.00% | ~19 |
 | Maximum Reuse | 7.00% | ~19 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 256)  
+Progressed: 269 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 250 | 0 |
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
-| 2023-07-26 | 268 | 0 |
+| 2023-07-26 | 269 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

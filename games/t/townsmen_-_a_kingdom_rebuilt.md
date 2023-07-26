@@ -92,11 +92,11 @@ Number of Ratings: 37  (23.09.2022)
 | Governor-elect | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
+| I've been everywhere X | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
 | It went unnoticed | 0.30% | ~13 |
 | Brew master | 0.30% | ~13 |
-| I've been everywhere X | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |

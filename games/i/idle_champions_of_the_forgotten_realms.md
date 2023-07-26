@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,314 |
-| Beast Intentions | 2.00% | ~4,314 |
+| A Brief Tour of the Realms | 2.00% | ~4,315 |
+| Beast Intentions | 2.00% | ~4,315 |
 | Maddening | 1.00% | ~2,157 |
 | The Silken Swamp | 1.00% | ~2,157 |
-| Supply Run | 0.90% | ~1,941 |
+| Supply Run | 0.90% | ~1,942 |
 | Rocky Reception | 0.90% | ~1,638 |
 | Rock and Roll | 0.80% | ~1,456 |
 | Vecna Lives! | 0.70% | ~1,274 |
@@ -20,16 +20,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Topolah's Tower | 0.60% | ~1,092 |
 | Pros and CONs | 0.50% | ~1,079 |
 | Wet Feet | 0.50% | ~1,079 |
+| Hatchlings Underfoot | 0.50% | ~1,079 |
 | Seeds of Destruction | 0.50% | ~910 |
 | Return to the Tomb | 0.50% | ~910 |
+| Heatwave | 0.50% | ~910 |
 | The Champion's Guide to Wildspace | 0.50% | ~910 |
 | The Witchlight Carnival | 0.40% | ~728 |
-| Hatchlings Underfoot | 0.40% | ~863 |
 | Don't Look Up! | 0.40% | ~863 |
 | Heavy Burden | 0.40% | ~863 |
 | The Evacuation of Waterdeep | 0.40% | ~728 |
 | Friends of the Forest | 0.40% | ~863 |
-| Heatwave | 0.40% | ~728 |
 | The Dread Domain of Tovag | 0.40% | ~728 |
 | Were-verpowered | 0.40% | ~863 |
 | A Persistent Buzzing | 0.40% | ~863 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,722 (Ranked 53)  
+Progressed: 215,735 (Ranked 53)  
 Completed: 2,116 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,17 +616,17 @@ Completed: 2,116 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,722 | 2,116 |
+| 2023-07-26 | 215,735 | 2,116 |
 ## Awards
-Max (Diverse Characters): 5,082  (Ranked 66)  
-Sum: 30,734 (Ranked 38)  
+Max (Diverse Characters): 5,084  (Ranked 66)  
+Sum: 30,739 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,082 |
+| This game has Diverse Characters | 5,084 |
 | This game is Great for Beginners | 5,023 |
 | This game has Quickly Understood Controls | 4,682 |
-| This game is Relaxing | 4,571 |
+| This game is Relaxing | 4,574 |
 | This game has Amazing Characters | 4,034 |
 | This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,318 |
@@ -814,4 +814,4 @@ Diff (max vs sum): 28
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
-| 2023-07-26 | 4.05 | - | 5,082 | 30,734 |
+| 2023-07-26 | 4.05 | - | 5,084 | 30,739 |

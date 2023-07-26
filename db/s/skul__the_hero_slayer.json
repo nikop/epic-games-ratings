@@ -902,9 +902,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8009,
+  "EOS_Progressed": 8010,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3807,6 +3807,11 @@
       "Time": "2023-07-26T16:06:04.7652033+00:00",
       "NumProgressed": 8009,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-26T17:04:55.8517567+00:00",
+      "NumProgressed": 8010,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3874,7 +3879,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -3882,7 +3887,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3898,7 +3903,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "HeroSlayer",
@@ -3978,7 +3983,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7448
+      "UsersEstimate": 7449
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3986,7 +3991,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3844
+      "UsersEstimate": 3845
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4009,15 +4014,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8009,
+      "Progressed": 8010,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:06:04.7652026+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:04:55.8517563+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:00:32.2110232+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:06:04.7652463+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:59:14.9013933+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:04:55.8517957+00:00"
 }

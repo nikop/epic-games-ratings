@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 23)
 | You got this, Peppermint? | 3.00% | ~108 |
 | Perfect Parry | 3.00% | ~108 |
 | Who put gears in there? | 3.00% | ~108 |
+| Alright, that felt AWESOME! | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
 | This will cost you big time | 2.00% | ~72 |
 | The Negotiator | 2.00% | ~72 |
@@ -29,7 +30,6 @@ Rating: 4.87 (Ranked 23)
 | Uh, they were broken when I got here | 2.00% | ~72 |
 | Kissing the sky! | 2.00% | ~72 |
 | I look cool. But I can look COOLER. | 2.00% | ~72 |
-| Alright, that felt AWESOME! | 2.00% | ~72 |
 | Does that say weakpoint? | 2.00% | ~72 |
 | Well that was a rush! | 1.00% | ~36 |
 | Beat-hit mania | 1.00% | ~36 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,586 (Ranked 145)  
+Progressed: 3,587 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-23 | 3,536 | 6 |
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
-| 2023-07-26 | 3,586 | 6 |
+| 2023-07-26 | 3,587 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

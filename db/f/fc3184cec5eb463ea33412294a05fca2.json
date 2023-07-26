@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.32,
+  "EOS_Completed_Percentage": 7.27,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -641,6 +641,11 @@
       "Time": "2023-07-26T13:12:02.5086426+00:00",
       "NumProgressed": 164,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-26T17:05:13.31464+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -652,7 +657,7 @@
       "Name": "Three is company",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -716,7 +721,7 @@
       "Name": "Family pond",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -724,7 +729,7 @@
       "Name": "Make a wish",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -732,7 +737,7 @@
       "Name": "Catch a flight",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -740,7 +745,7 @@
       "Name": "Way to the shore",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -748,7 +753,7 @@
       "Name": "Private pool",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -779,14 +784,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:06:29.0593152+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:05:13.3146393+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:57:36.3356691+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:06:29.0593333+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:57:14.7966778+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:05:13.3146582+00:00"
 }

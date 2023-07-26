@@ -1432,9 +1432,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_KINGSBET",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere X",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
@@ -1720,8 +1720,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:06:06.8542682+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:04:57.6255114+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-26T15:59:06.1647589+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:06:06.8544244+00:00"
+  "LastUpdate_Ratings": "2023-07-26T16:58:16.2788794+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:04:57.6256446+00:00"
 }

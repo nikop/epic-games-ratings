@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4318,
+  "EOS_Progressed": 4319,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6825,6 +6825,11 @@
       "Time": "2023-07-26T16:06:53.9702485+00:00",
       "NumProgressed": 4318,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-26T17:05:32.3169642+00:00",
+      "NumProgressed": 4319,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6852,7 +6857,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -6932,7 +6937,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6956,7 +6961,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6964,7 +6969,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -6996,7 +7001,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7020,7 +7025,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7116,7 +7121,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -7155,15 +7160,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4318,
+      "Progressed": 4319,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-26T16:06:53.9702478+00:00",
+  "LastChanged_Achievements": "2023-07-26T17:05:32.3169635+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:02:02.506574+00:00",
-  "LastUpdate_Achievements": "2023-07-26T16:06:53.9703297+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:00:15.7736312+00:00",
+  "LastUpdate_Achievements": "2023-07-26T17:05:32.3170435+00:00"
 }

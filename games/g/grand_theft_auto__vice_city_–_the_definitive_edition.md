@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,147 |
+| Legal Counsel | 45.00% | ~4,148 |
 | Greasy Palms | 41.00% | ~3,779 |
 | South American Connection | 25.00% | ~2,304 |
 | Life of the Party | 19.00% | ~1,751 |
-| Tommy Two-Wheels | 15.00% | ~1,382 |
+| Tommy Two-Wheels | 15.00% | ~1,383 |
 | Big Heat from Little Havana | 14.00% | ~1,290 |
 | Chauffeur | 14.00% | ~1,290 |
 | Salutations My Little Friend | 10.00% | ~922 |
-| Iron-y | 9.00% | ~829 |
-| Gun for Hire | 9.00% | ~829 |
+| Iron-y | 9.00% | ~830 |
+| Gun for Hire | 9.00% | ~830 |
 | Mischief Managed | 8.00% | ~737 |
 | Vice City Mogul | 7.00% | ~645 |
 | Catch Me if You Can | 6.00% | ~553 |
@@ -22,12 +22,12 @@ Rating: 4.55 (Ranked 481)
 | Not my First Time | 5.00% | ~461 |
 | Grand Theft Auto | 5.00% | ~461 |
 | Pie Guy | 4.00% | ~369 |
-| Point A to Point B | 3.00% | ~276 |
-| High Quality H2O | 3.00% | ~276 |
-| Bull in a China Shop | 3.00% | ~276 |
-| Somebody Call the Wambulance? | 3.00% | ~276 |
-| Just Like the Real Thing | 3.00% | ~276 |
-| Don't Need Roads | 3.00% | ~276 |
+| Point A to Point B | 3.00% | ~277 |
+| High Quality H2O | 3.00% | ~277 |
+| Bull in a China Shop | 3.00% | ~277 |
+| Somebody Call the Wambulance? | 3.00% | ~277 |
+| Just Like the Real Thing | 3.00% | ~277 |
+| Don't Need Roads | 3.00% | ~277 |
 | Running Rampant | 2.00% | ~184 |
 | One is Better Than Two | 2.00% | ~184 |
 | Take the Cannoli | 2.00% | ~184 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 481)
 | Done it All | 0.80% | ~74 |
 | Kingpin | 0.50% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,216 (Ranked 121)  
+Progressed: 9,217 (Ranked 121)  
 Completed: 43 (0.47%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 43 (0.47%) (Ranked 135)
 | 2023-07-23 | 9,127 | 43 |
 | 2023-07-24 | 9,161 | 43 |
 | 2023-07-25 | 9,194 | 43 |
-| 2023-07-26 | 9,216 | 43 |
+| 2023-07-26 | 9,217 | 43 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 384)  
 Sum: 63 (Ranked 442)  
