@@ -16,12 +16,12 @@
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.15% |
-| 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.11% |
+| 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [Remains](games/r/remains.md) | 10.87% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.54% |
@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.15% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.13% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -52,7 +52,7 @@
 | 50 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.75% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
-| 53 | [ZZT!](games/z/zzt!.md) | 3.58% |
+| 53 | [ZZT!](games/z/zzt!.md) | 3.57% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.47% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
@@ -104,7 +104,7 @@
 | 102 | [Trifox](games/t/trifox.md) | 1.11% |
 | 103 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.08% |
 | 104 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
-| 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
+| 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 107 | [Adios](games/a/adios.md) | 0.98% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
@@ -129,8 +129,8 @@
 | 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 127 | [Train Valley](games/t/train_valley.md) | 0.54% |
-| 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.53% |
 | 130 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.52% |
 | 132 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.51% |
 | 132 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 134 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
