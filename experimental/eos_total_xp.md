@@ -49,6 +49,7 @@
 | [Absolute Tactics](../games/a/absolute_tactics.md) | 21 | 1,000 |
 | [Access Denied Escape](../games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
+| [Ad Infinitum](../games/a/ad_infinitum.md) | 29 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |

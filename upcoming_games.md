@@ -45,7 +45,7 @@
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2023-09-12 | - |  | - | - |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
-| [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | - |  | - | - |
+| [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 0 | - | - |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | - |  | - | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | - |  | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
