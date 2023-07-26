@@ -42,8 +42,8 @@
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.79% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.76% |
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
@@ -69,7 +69,7 @@
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.65% |
 | 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -77,7 +77,7 @@
 | 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.41% |
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
-| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
+| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.11% |
 | 80 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
@@ -185,9 +185,9 @@
 | 182 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
 | 184 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 184 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 186 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
-| 186 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 186 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
+| 187 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
+| 187 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 189 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 189 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 189 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |

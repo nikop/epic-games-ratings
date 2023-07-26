@@ -24,7 +24,7 @@
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,786 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 488 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 275 | 239 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,413 | 123 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,414 | 123 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 708 | 162 |
 | 24 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 506 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,018 | 141 |
@@ -41,7 +41,7 @@
 | 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 0 | 506 |
 | 30 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 506 |
 | 41 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 143 | 295 |
-| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,715 | 42 |
+| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,721 | 42 |
 | 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,529 | 62 |
 | 41 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 371 | 219 |
 | 41 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 219 | 258 |
@@ -235,7 +235,7 @@
 | 214 | [Suzerain](games/s/suzerain.md) | 4.69 | 0 | 506 |
 | 214 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 506 |
 | 214 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 506 |
-| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 930 | 146 |
+| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 931 | 146 |
 | 214 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 506 |
 | 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 506 |
 | 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 804 | 152 |
@@ -271,7 +271,7 @@
 | 261 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 506 |
 | 261 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 506 |
 | 261 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 506 |
-| 261 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,025 | 92 |
+| 261 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,036 | 92 |
 | 261 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 96 | 337 |
 | 261 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 506 |
 | 275 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 75 | 364 |
@@ -557,7 +557,7 @@
 | 555 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 106 | 323 |
 | 555 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 214 | 263 |
 | 555 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 506 |
-| 555 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,908 | 13 |
+| 555 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,945 | 13 |
 | 555 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 115 | 318 |
 | 555 | [Horace](games/h/horace.md) | 4.50 | 0 | 506 |
 | 555 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 506 |
@@ -598,6 +598,7 @@
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,629 | 44 |
 | 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 506 |
 | 585 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 432 |
+| 599 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 506 |
 | 599 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,491 | 84 |
 | 599 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 506 |
 | 599 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 38 | 427 |
@@ -607,21 +608,20 @@
 | 599 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 332 |
 | 599 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 506 |
 | 599 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 506 |
-| 608 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 506 |
-| 608 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 506 |
-| 608 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 506 |
-| 608 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
-| 608 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,458 | 85 |
-| 608 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 506 |
-| 608 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 506 |
-| 608 | [Figment](games/f/figment.md) | 4.46 | 20 | 502 |
-| 608 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 323 |
-| 608 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 506 |
-| 608 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 506 |
-| 608 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 506 |
-| 608 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 506 |
-| 608 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 506 |
-| 608 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 285 | 236 |
+| 609 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 506 |
+| 609 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 506 |
+| 609 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 506 |
+| 609 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
+| 609 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,458 | 85 |
+| 609 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 506 |
+| 609 | [Figment](games/f/figment.md) | 4.46 | 20 | 502 |
+| 609 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 323 |
+| 609 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 506 |
+| 609 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 506 |
+| 609 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 506 |
+| 609 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 506 |
+| 609 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 506 |
+| 609 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 285 | 236 |
 | 623 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 448 |
 | 623 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 240 | 250 |
 | 623 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 322 |
@@ -824,13 +824,13 @@
 | 818 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 411 |
 | 818 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 506 |
 | 818 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.24 | 62 | 386 |
+| 818 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 506 |
 | 818 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 477 |
-| 826 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 506 |
-| 826 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 506 |
-| 826 | [Flatout](games/f/flatout.md) | 4.23 | 0 | 506 |
-| 826 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
-| 826 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 506 |
-| 826 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.23 | 0 | 506 |
+| 827 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 506 |
+| 827 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 506 |
+| 827 | [Flatout](games/f/flatout.md) | 4.23 | 0 | 506 |
+| 827 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
+| 827 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 506 |
 | 832 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
 | 832 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 506 |
 | 832 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 506 |
