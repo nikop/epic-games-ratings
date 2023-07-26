@@ -24,7 +24,7 @@
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.90% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.86% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.85% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -39,7 +39,7 @@
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.53% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
@@ -66,11 +66,11 @@
 | 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 65 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 66 | [Destiny 2](games/d/destiny_2.md) | 2.78% |
-| 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 67 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.71% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.65% |
-| 71 | [Lamentum](games/l/lamentum.md) | 2.63% |
+| 70 | [Lamentum](games/l/lamentum.md) | 2.63% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.63% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
@@ -125,7 +125,7 @@
 | 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 122 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 125 | [Them and Us](games/t/them_and_us.md) | 0.56% |
+| 126 | [Them and Us](games/t/them_and_us.md) | 0.55% |
 | 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 127 | [Train Valley](games/t/train_valley.md) | 0.54% |
