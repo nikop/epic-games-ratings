@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 461)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,220 |
-| Pay 'n' Spray | 50.00% | ~5,692 |
-| All Dressed Up for San Fierro | 25.00% | ~2,846 |
-| The American Dream | 18.00% | ~2,049 |
-| School's Out | 18.00% | ~2,049 |
-| Smooth Moves | 16.00% | ~1,821 |
-| Today Was a Good Day | 15.00% | ~1,707 |
+| Getting Started | 81.00% | ~9,223 |
+| Pay 'n' Spray | 50.00% | ~5,694 |
+| All Dressed Up for San Fierro | 25.00% | ~2,847 |
+| The American Dream | 18.00% | ~2,050 |
+| School's Out | 18.00% | ~2,050 |
+| Smooth Moves | 16.00% | ~1,822 |
+| Today Was a Good Day | 15.00% | ~1,708 |
 | What happens in Las Venturas... | 14.00% | ~1,594 |
-| Horror of the Santa Maria | 10.00% | ~1,138 |
-| Liberty City State of Mind | 9.00% | ~1,024 |
+| Horror of the Santa Maria | 10.00% | ~1,139 |
+| Liberty City State of Mind | 9.00% | ~1,025 |
 | Original Gangster | 8.00% | ~911 |
 | The End of the Line | 7.00% | ~797 |
 | With Extra Dip | 6.00% | ~683 |
 | Saviour | 6.00% | ~683 |
 | They Can’t Stop All of Us | 4.00% | ~455 |
 | Rescue a Kitten Too? | 4.00% | ~455 |
-| Bike or Biker | 3.00% | ~341 |
-| What are the Odds | 3.00% | ~341 |
+| Bike or Biker | 3.00% | ~342 |
+| What are the Odds | 3.00% | ~342 |
 | A Legitimate Business | 2.00% | ~228 |
 | I’ll Have Two Number 9s | 2.00% | ~228 |
 | Who Needs Directions? | 2.00% | ~228 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 461)
 | ...Here we go again | 0.40% | ~46 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,383 (Ranked 117)  
+Progressed: 11,387 (Ranked 117)  
 Completed: 31 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,11 +138,11 @@ Completed: 31 (0.27%) (Ranked 158)
 | 2023-07-23 | 11,268 | 31 |
 | 2023-07-24 | 11,308 | 31 |
 | 2023-07-25 | 11,348 | 31 |
-| 2023-07-26 | 11,383 | 31 |
+| 2023-07-26 | 11,387 | 31 |
 ## Awards
 Max (Great Boss Battles): 229  (Ranked 253)  
-Sum: 229 (Ranked 350)  
-Diff (max vs sum): -97  
+Sum: 229 (Ranked 351)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 229 |

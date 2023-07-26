@@ -6,34 +6,34 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,575 |
-| I read Shakespeare and stuff | 64.00% | ~29,504 |
-| Just a sprinkle | 63.00% | ~29,043 |
-| I'm stumped | 61.00% | ~28,121 |
-| Plant get enough | 60.00% | ~27,660 |
-| This is just my weekend vehicle | 58.00% | ~26,738 |
-| It's just the beginning | 58.00% | ~26,738 |
-| Hard work pays off | 53.00% | ~24,433 |
-| It's never too late to farm | 48.00% | ~22,128 |
-| All out of Land | 44.00% | ~20,284 |
-| Field Trip | 43.00% | ~19,823 |
-| I like to switch it up | 40.00% | ~18,440 |
-| Help me to help you | 38.00% | ~17,518 |
-| Ultimutt Pawesomeness | 28.00% | ~12,908 |
-| Van Gogh | 26.00% | ~11,986 |
-| You wood not believe it | 21.00% | ~9,681 |
-| Vehicle fleet | 21.00% | ~9,681 |
-| The plot thickens | 16.00% | ~7,376 |
-| Well-Oiled Machine | 16.00% | ~7,376 |
-| Long haul | 16.00% | ~7,376 |
-| Clucky Streak | 15.00% | ~6,915 |
-| Large-scale supplier | 15.00% | ~6,915 |
-| That's a wrap | 14.00% | ~6,454 |
-| Fix me up | 13.00% | ~5,993 |
-| Rock on | 12.00% | ~5,532 |
-| It's sow easy | 11.00% | ~5,071 |
-| Highly cultivated | 10.00% | ~4,610 |
-| Giddy-up! | 10.00% | ~4,610 |
+| Own use | 75.00% | ~34,580 |
+| I read Shakespeare and stuff | 64.00% | ~29,508 |
+| Just a sprinkle | 63.00% | ~29,047 |
+| I'm stumped | 61.00% | ~28,125 |
+| Plant get enough | 60.00% | ~27,664 |
+| This is just my weekend vehicle | 58.00% | ~26,741 |
+| It's just the beginning | 58.00% | ~26,741 |
+| Hard work pays off | 53.00% | ~24,436 |
+| It's never too late to farm | 48.00% | ~22,131 |
+| All out of Land | 44.00% | ~20,287 |
+| Field Trip | 43.00% | ~19,826 |
+| I like to switch it up | 40.00% | ~18,442 |
+| Help me to help you | 38.00% | ~17,520 |
+| Ultimutt Pawesomeness | 28.00% | ~12,910 |
+| Van Gogh | 26.00% | ~11,988 |
+| You wood not believe it | 21.00% | ~9,682 |
+| Vehicle fleet | 21.00% | ~9,682 |
+| The plot thickens | 16.00% | ~7,377 |
+| Well-Oiled Machine | 16.00% | ~7,377 |
+| Long haul | 16.00% | ~7,377 |
+| Clucky Streak | 15.00% | ~6,916 |
+| Large-scale supplier | 15.00% | ~6,916 |
+| That's a wrap | 14.00% | ~6,455 |
+| Fix me up | 13.00% | ~5,994 |
+| Rock on | 12.00% | ~5,533 |
+| It's sow easy | 11.00% | ~5,072 |
+| Highly cultivated | 10.00% | ~4,611 |
+| Giddy-up! | 10.00% | ~4,611 |
 | Cowherd | 7.00% | ~3,227 |
 | Fluffyness | 6.00% | ~2,766 |
 | Helper A does not stop … ever | 6.00% | ~2,766 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~184 |
 | Raisin the stakes | 0.30% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,100 (Ranked 89)  
+Progressed: 46,106 (Ranked 89)  
 Completed: 5 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 5 (0.01%) (Ranked 230)
 | 2023-07-23 | 45,971 | 5 |
 | 2023-07-24 | 46,023 | 5 |
 | 2023-07-25 | 46,074 | 5 |
-| 2023-07-26 | 46,100 | 5 |
+| 2023-07-26 | 46,106 | 5 |
 ## Awards
 Max (Great for Beginners): 4,593  (Ranked 71)  
-Sum: 38,422 (Ranked 31)  
+Sum: 38,432 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -158,11 +158,11 @@ Diff (max vs sum): 40
 | This game is Relaxing | 4,033 |
 | This game is Educational | 4,011 |
 | This game has Quickly Understood Controls | 3,959 |
-| This game has Diverse Characters | 3,876 |
+| This game has Diverse Characters | 3,879 |
 | This game is Extremely Fun | 3,841 |
 | This game is Highly Recommended | 3,838 |
 | This game has Amazing Storytelling | 3,734 |
-| This game has Amazing Characters | 3,346 |
+| This game has Amazing Characters | 3,353 |
 | This game has a Creative Community | 3,191 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -359,4 +359,4 @@ Diff (max vs sum): 40
 | 2023-07-23 | 4.69 | - | 4,575 | 38,337 |
 | 2023-07-24 | 4.69 | - | 4,583 | 38,370 |
 | 2023-07-25 | 4.69 | - | 4,593 | 38,407 |
-| 2023-07-26 | 4.69 | - | 4,593 | 38,422 |
+| 2023-07-26 | 4.69 | - | 4,593 | 38,432 |

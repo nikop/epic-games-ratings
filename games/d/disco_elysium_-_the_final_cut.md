@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,807 |
-| Biggest Communism Builder | 24.00% | ~29,834 |
-| The World's Most Laughable Centrist | 20.00% | ~24,862 |
+| Goodest Of The Good Cops | 28.00% | ~34,808 |
+| Biggest Communism Builder | 24.00% | ~29,835 |
+| The World's Most Laughable Centrist | 20.00% | ~24,863 |
 | Il Coppo Del'Arte! | 18.00% | ~22,376 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,890 |
-| Hyperstellar Law Official | 15.00% | ~18,646 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,403 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,160 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,160 |
+| Hyperstellar Law Official | 15.00% | ~18,647 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,404 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,161 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,161 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,674 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,188 |
 | Unbelievably Boring **** | 8.00% | ~9,945 |
 | Enemy Of The Physical Realm | 8.00% | ~9,945 |
 | Hardie's Heroes | 6.00% | ~7,459 |
-| The Lawbringer | 4.00% | ~4,972 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,972 |
+| The Lawbringer | 4.00% | ~4,973 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,973 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,729 |
 | Bother Kim After Hours | 3.00% | ~3,729 |
 | Baddest Of the Bad Cops | 2.00% | ~2,486 |
@@ -31,9 +31,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Massive Torque Dork | 1.00% | ~1,243 |
 | Avowed Inframaterialist | 1.00% | ~1,243 |
 | Real Musor | 0.90% | ~1,119 |
-| Baddest Brow in Town | 0.80% | ~994 |
-| Committee of la Responsabilité | 0.80% | ~994 |
-| Venture into the HARDCORE | 0.80% | ~994 |
+| Baddest Brow in Town | 0.80% | ~995 |
+| Committee of la Responsabilité | 0.80% | ~995 |
+| Venture into the HARDCORE | 0.80% | ~995 |
 | Networthy Individual | 0.70% | ~870 |
 | Leopard Mindset | 0.60% | ~746 |
 | Modus: Mullen | 0.30% | ~373 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,310 (Ranked 64)  
+Progressed: 124,313 (Ranked 64)  
 Completed: 27 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 27 (0.02%) (Ranked 222)
 | 2023-07-23 | 123,969 | 27 |
 | 2023-07-24 | 124,096 | 27 |
 | 2023-07-25 | 124,234 | 27 |
-| 2023-07-26 | 124,310 | 27 |
+| 2023-07-26 | 124,313 | 27 |
 ## Awards
 Max (Character Customization): 708  (Ranked 162)  
 Sum: 1,070 (Ranked 233)  

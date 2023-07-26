@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~131 |
 | Settler | 0.80% | ~105 |
 | Play a Single Player Game | 0.80% | ~105 |
+| Poetic Leader | 0.80% | ~105 |
 | Explorer | 0.70% | ~92 |
 | Friendly Family | 0.70% | ~92 |
-| Poetic Leader | 0.70% | ~92 |
 | Intrepid | 0.60% | ~79 |
 | Able | 0.50% | ~66 |
 | Architect | 0.50% | ~66 |
@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
 | Judaism | 0.40% | ~52 |
+| Carthaginian Paganism | 0.40% | ~52 |
 | Greek Paganism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
 | Trade Caravan | 0.40% | ~52 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
-| Carthaginian Paganism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
 | Roman Paganism | 0.30% | ~39 |
 | Zoroastrianism | 0.30% | ~39 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,103 (Ranked 115)  
+Progressed: 13,104 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,103 | 5 |
+| 2023-07-26 | 13,104 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -802,6 +802,11 @@
       "Time": "2023-07-25T17:09:36.5973223+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T18:07:10.5072241+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1027,9 +1032,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "FAITH_2",
@@ -1141,7 +1146,7 @@
       "Name": "I like parks",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1165,7 +1170,7 @@
       "Name": "The woodcutter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MILLS",
@@ -1245,7 +1250,7 @@
       "Name": "Small town",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "POPULATION_2",
@@ -1444,7 +1449,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
@@ -1452,8 +1457,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:06:31.0242073+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:07:10.5072236+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:59:04.6236411+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:06:31.0243192+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:59:45.0510211+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:07:10.5073321+00:00"
 }

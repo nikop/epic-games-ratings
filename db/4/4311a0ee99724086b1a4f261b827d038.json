@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -241,17 +241,17 @@
       "ID": "HW2_MISSION1_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Tanis Completed",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Angel Moon Completed",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:03:29.4993049+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:03:56.4243597+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:57:04.7426238+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:03:29.4993351+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:57:22.6363841+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:03:56.4243879+00:00"
 }

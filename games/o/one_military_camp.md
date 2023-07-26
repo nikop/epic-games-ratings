@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The 4 Pillars | 47.00% | ~40 |
-| First Step | 46.00% | ~39 |
+| First Step | 45.00% | ~39 |
 | Indebted | 9.00% | ~8 |
 | Capitalism | 7.00% | ~6 |
 | Desert Rat | 7.00% | ~6 |
 | Good payer | 5.00% | ~4 |
-| Health Care | 4.00% | ~3 |
-| Pathfinder | 4.00% | ~3 |
-| Great Producer | 4.00% | ~3 |
-| Green Energy | 4.00% | ~3 |
+| Health Care | 3.00% | ~3 |
+| Pathfinder | 3.00% | ~3 |
+| Great Producer | 3.00% | ~3 |
+| Green Energy | 3.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | There's something in those trees | 2.00% | ~2 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 322)  
+Progressed: 86 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,4 +60,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 67 | 0 |
 | 2023-07-24 | 76 | 0 |
 | 2023-07-25 | 82 | 0 |
-| 2023-07-26 | 85 | 0 |
+| 2023-07-26 | 86 | 0 |

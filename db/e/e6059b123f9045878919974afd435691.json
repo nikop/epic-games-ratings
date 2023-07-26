@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1291,6 +1291,11 @@
       "Time": "2023-07-26T04:05:26.3789629+00:00",
       "NumProgressed": 644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T18:05:41.3145195+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1302,7 +1307,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1310,7 +1315,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1374,7 +1379,7 @@
       "Name": "Capraphobia",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1580,9 +1585,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 297
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1590,7 +1595,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1660,9 +1665,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 142
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1829,14 +1834,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:05:12.71662+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:05:41.314519+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:57:13.0962199+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:05:12.716697+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:57:32.1231845+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:05:41.3146005+00:00"
 }

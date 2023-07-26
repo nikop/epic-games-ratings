@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4210,
+  "EOS_Progressed": 4211,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-07-26T07:05:00.2509325+00:00",
       "NumProgressed": 4210,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-26T18:05:26.0681205+00:00",
+      "NumProgressed": 4211,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -914,7 +919,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -938,7 +943,7 @@
       "Name": "Bread for the people I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -978,7 +983,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1242,7 +1247,7 @@
       "Name": "Full-time job II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -1400,9 +1405,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_GIRLSDESIRES",
       "SetID": "9eacipp",
       "Name": "Treat her well\u2026",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
@@ -1602,7 +1607,7 @@
       "Name": "A time consuming game II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -1634,7 +1639,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -1682,7 +1687,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -1713,15 +1718,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4210,
+      "Progressed": 4211,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:04:57.6255114+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:05:26.0681198+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:58:16.2788794+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:04:57.6256446+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:58:49.5976923+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:05:26.0682623+00:00"
 }

@@ -2794,9 +2794,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "Kills_Vakir",
@@ -2986,9 +2986,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -3120,8 +3120,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-26T05:59:20.6428845+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:03:57.2719998+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:04:24.8389036+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:58:56.5195097+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:03:57.2720834+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:59:34.8768809+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:04:24.8389886+00:00"
 }

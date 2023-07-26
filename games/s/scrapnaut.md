@@ -11,7 +11,7 @@ Number of Ratings: 38  (23.09.2022)
 | Mushroom Picker | 57.00% | ~180 |
 | Scrapper | 49.00% | ~155 |
 | Cook | 43.00% | ~136 |
-| Teleport | 42.00% | ~133 |
+| Teleport | 43.00% | ~136 |
 | Scrap Master | 40.00% | ~126 |
 | Smelter | 36.00% | ~114 |
 | Electro-Scrap Gatherer | 35.00% | ~111 |
@@ -24,7 +24,7 @@ Number of Ratings: 38  (23.09.2022)
 | Prepper | 25.00% | ~79 |
 | Robot Hunter | 23.00% | ~73 |
 | Advanced Survivalist | 20.00% | ~63 |
-| Master Of Technology | 18.00% | ~57 |
+| Master Of Technology | 19.00% | ~60 |
 | Treasure Hunter | 18.00% | ~57 |
 | Mythical Smelter | 13.00% | ~41 |
 | Blacksmith | 12.00% | ~38 |

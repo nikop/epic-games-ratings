@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7157,
+  "EOS_Progressed": 7158,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6153,6 +6153,11 @@
       "Time": "2023-07-26T17:05:00.1693342+00:00",
       "NumProgressed": 7157,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-26T18:05:28.4432689+00:00",
+      "NumProgressed": 7158,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6164,7 +6169,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "ACH02",
@@ -6284,7 +6289,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACH17",
@@ -6292,7 +6297,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH18",
@@ -6395,7 +6400,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7157,
+      "Progressed": 7158,
       "Completed": 41
     }
   ],
@@ -6403,8 +6408,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:05:00.1693336+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:05:28.4432682+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:58:09.6940149+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:05:00.1693921+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:58:41.8393561+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:05:28.4433311+00:00"
 }

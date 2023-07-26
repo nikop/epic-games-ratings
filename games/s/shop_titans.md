@@ -8,6 +8,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.20% | ~267 |
 | Basic in Bulk | 0.20% | ~267 |
+| Disintermediation | 0.20% | ~267 |
 | Tinkle of Coins | 0.20% | ~267 |
 | Capitalism Ho! | 0.20% | ~267 |
 | Titan's First Steps | 0.20% | ~267 |
@@ -42,7 +43,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.10% | ~133 |
 | Locally Sourced | 0.10% | ~133 |
 | Fillin' the Bin | 0.10% | ~133 |
-| Disintermediation | 0.10% | ~133 |
 | Flooding the Market | 0.10% | ~133 |
 | Flying off the Shelves | 0.10% | ~133 |
 | Industrial Evolution | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,282 (Ranked 61)  
+Progressed: 133,286 (Ranked 61)  
 Completed: 122 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 122 (0.09%) (Ranked 193)
 | 2023-07-23 | 133,125 | 122 |
 | 2023-07-24 | 133,181 | 122 |
 | 2023-07-25 | 133,231 | 122 |
-| 2023-07-26 | 133,282 | 122 |
+| 2023-07-26 | 133,286 | 122 |
 ## Awards
 Max (Great for Beginners): 4,671  (Ranked 70)  
 Sum: 26,982 (Ranked 46)  

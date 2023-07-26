@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 461,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 98,
@@ -610,9 +610,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 11383,
+  "EOS_Progressed": 11387,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7450,6 +7450,11 @@
       "Time": "2023-07-26T17:06:30.2970622+00:00",
       "NumProgressed": 11383,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-26T18:07:09.734434+00:00",
+      "NumProgressed": 11387,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7461,7 +7466,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9220
+      "UsersEstimate": 9223
     },
     {
       "ID": "ACH02",
@@ -7509,7 +7514,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "ACH08",
@@ -7517,7 +7522,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5694
     },
     {
       "ID": "ACH09",
@@ -7525,7 +7530,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH10",
@@ -7541,7 +7546,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH12",
@@ -7557,7 +7562,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "ACH14",
@@ -7565,7 +7570,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH15",
@@ -7581,7 +7586,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH17",
@@ -7637,7 +7642,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "ACH24",
@@ -7653,7 +7658,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH26",
@@ -7685,7 +7690,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "ACH30",
@@ -7740,7 +7745,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11383,
+      "Progressed": 11387,
       "Completed": 31
     }
   ],
@@ -7748,8 +7753,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-26T12:00:19.6576508+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:06:30.2970616+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:07:09.7344333+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-26T17:00:13.4845103+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:06:30.2971421+00:00"
+  "LastUpdate_Ratings": "2023-07-26T18:01:17.9277803+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:07:09.7345079+00:00"
 }

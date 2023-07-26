@@ -46,9 +46,9 @@
 | Refined Palates | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~22 |
+| Meet Me at HQ | 8.00% | ~22 |
 | Plaza Plan | 8.00% | ~22 |
 | Careful Constructor | 7.00% | ~19 |
-| Meet Me at HQ | 7.00% | ~19 |
 | Maximum Reuse | 7.00% | ~19 |
 | Revenue Royalty | 7.00% | ~19 |
 | Pipe Up | 7.00% | ~19 |

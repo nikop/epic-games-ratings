@@ -935,9 +935,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1119,9 +1119,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:02:14.7534871+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:03:09.8465974+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:58:41.9728018+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:02:14.7535673+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:59:17.8206043+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:03:09.8466315+00:00"
 }

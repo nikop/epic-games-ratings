@@ -4,10 +4,10 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -664,10 +664,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-07-26T17:59:53.25167+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 267,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -731,8 +737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-07-09T13:59:38.1172867+00:00",
+  "LastChanged": "2023-07-26T17:59:53.2516699+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.1589487+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:59:12.8690125+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:03:37.2188268+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:59:53.2516704+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:04:04.0686234+00:00"
 }

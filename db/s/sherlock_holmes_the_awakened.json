@@ -1957,9 +1957,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ03_3",
@@ -1973,9 +1973,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ03_5",
@@ -2005,9 +2005,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "MQ05_1",
@@ -2061,9 +2061,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ06_4",
@@ -2134,8 +2134,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:06:04.0480976+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:06:33.0078802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:57:38.8681237+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:06:04.0481281+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:58:03.1991007+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:06:33.007911+00:00"
 }

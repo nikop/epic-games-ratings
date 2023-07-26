@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,315 |
 | Beast Intentions | 2.00% | ~4,315 |
-| Maddening | 1.00% | ~2,157 |
-| The Silken Swamp | 1.00% | ~2,157 |
+| Maddening | 1.00% | ~2,158 |
+| The Silken Swamp | 1.00% | ~2,158 |
 | Supply Run | 0.90% | ~1,942 |
 | Rocky Reception | 0.90% | ~1,638 |
 | Rock and Roll | 0.80% | ~1,456 |
@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.40% | ~863 |
 | Beast Mode | 0.40% | ~863 |
 | Terror in the Dark | 0.40% | ~863 |
+| Low Initiative | 0.40% | ~863 |
 | A Mysterious Summons | 0.40% | ~863 |
 | Building Trust | 0.40% | ~863 |
 | Unearthed Evil | 0.40% | ~863 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.30% | ~647 |
 | No One Can Hear You Scream | 0.30% | ~546 |
 | Welcome to the Rock | 0.30% | ~546 |
-| Low Initiative | 0.30% | ~647 |
 | Street War | 0.30% | ~647 |
 | March of the Undead | 0.30% | ~647 |
 | Wisdom Check | 0.30% | ~647 |
@@ -69,13 +69,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~647 |
 | Underdeep Cartography | 0.30% | ~647 |
 | Friendly Imps | 0.30% | ~647 |
+| Pure Energy | 0.30% | ~647 |
 | Willing to Sacrifice | 0.30% | ~546 |
 | Devilishly Cold | 0.30% | ~546 |
 | Luigi After Hours | 0.30% | ~546 |
 | Electric Mayhem | 0.30% | ~546 |
 | 3,720 to 1 | 0.30% | ~546 |
 | Animated Giff | 0.30% | ~546 |
-| Starving in the Jungle | 0.20% | ~431 |
+| Starving in the Jungle | 0.20% | ~432 |
 | Cold as Ice | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
 | An Unexpected Geist | 0.20% | ~364 |
@@ -96,63 +97,62 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~364 |
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
-| The Lost Heir of Omu | 0.20% | ~431 |
-| Lobsterfolk Assault | 0.20% | ~431 |
-| The Forbidden City | 0.20% | ~431 |
-| Captured! | 0.20% | ~431 |
-| Home Field Advantage | 0.20% | ~431 |
-| Force Grey Unleashed | 0.20% | ~431 |
-| Vajra's Guards | 0.20% | ~431 |
-| Sleuth It Out | 0.20% | ~431 |
-| A Grand Puzzle | 0.20% | ~431 |
-| Azaka's Procession - Part 1 | 0.20% | ~431 |
-| Tomb of the Nine Gods | 0.20% | ~431 |
-| Azaka's Procession - Part 2 | 0.20% | ~431 |
-| The Hunt for Owl-y | 0.20% | ~431 |
-| Werewolves in the Mist | 0.20% | ~431 |
-| We're not in Faerûn Anymore | 0.20% | ~431 |
-| Chatty Nobles | 0.20% | ~431 |
-| Modron Assistance | 0.20% | ~431 |
-| Haaave You Met Asmodeus? | 0.20% | ~431 |
-| Domesticated Owlbears | 0.20% | ~431 |
-| The Immortal Warrior | 0.20% | ~431 |
-| The Wyrmheart Mine | 0.20% | ~431 |
-| Tower on the Lake | 0.20% | ~431 |
-| Trollskull Manor | 0.20% | ~431 |
-| Attack on the Manor | 0.20% | ~431 |
-| The Cursed Farmer | 0.20% | ~431 |
-| The Ring of Regeneration | 0.20% | ~431 |
-| The Crumbling Temple | 0.20% | ~431 |
-| The Death Curse | 0.20% | ~431 |
-| Seeking Allies | 0.20% | ~431 |
-| Are Ya Chicken? | 0.20% | ~431 |
-| Useless Allies | 0.20% | ~431 |
-| Premature Betrayal | 0.20% | ~431 |
-| Mad Cow Disease | 0.20% | ~431 |
-| Exploring Port Nyanzaru | 0.20% | ~431 |
-| A Tale of Two Cities | 0.20% | ~431 |
-| The Dead Three | 0.20% | ~431 |
-| Flying Monkey Skulls of Doom | 0.20% | ~431 |
-| The Darkness Runs Deeper | 0.20% | ~431 |
-| Difficult Terrain | 0.20% | ~431 |
-| Running of the Saurs | 0.20% | ~431 |
-| The Contagious Curse | 0.20% | ~431 |
-| Dinosaur Racing | 0.20% | ~431 |
+| The Lost Heir of Omu | 0.20% | ~432 |
+| Lobsterfolk Assault | 0.20% | ~432 |
+| The Forbidden City | 0.20% | ~432 |
+| Captured! | 0.20% | ~432 |
+| Home Field Advantage | 0.20% | ~432 |
+| Force Grey Unleashed | 0.20% | ~432 |
+| Vajra's Guards | 0.20% | ~432 |
+| Sleuth It Out | 0.20% | ~432 |
+| A Grand Puzzle | 0.20% | ~432 |
+| Azaka's Procession - Part 1 | 0.20% | ~432 |
+| Tomb of the Nine Gods | 0.20% | ~432 |
+| Azaka's Procession - Part 2 | 0.20% | ~432 |
+| The Hunt for Owl-y | 0.20% | ~432 |
+| Werewolves in the Mist | 0.20% | ~432 |
+| We're not in Faerûn Anymore | 0.20% | ~432 |
+| Chatty Nobles | 0.20% | ~432 |
+| Modron Assistance | 0.20% | ~432 |
+| Haaave You Met Asmodeus? | 0.20% | ~432 |
+| Domesticated Owlbears | 0.20% | ~432 |
+| The Immortal Warrior | 0.20% | ~432 |
+| The Wyrmheart Mine | 0.20% | ~432 |
+| Tower on the Lake | 0.20% | ~432 |
+| Trollskull Manor | 0.20% | ~432 |
+| Attack on the Manor | 0.20% | ~432 |
+| The Cursed Farmer | 0.20% | ~432 |
+| The Ring of Regeneration | 0.20% | ~432 |
+| The Crumbling Temple | 0.20% | ~432 |
+| The Death Curse | 0.20% | ~432 |
+| Seeking Allies | 0.20% | ~432 |
+| Are Ya Chicken? | 0.20% | ~432 |
+| Useless Allies | 0.20% | ~432 |
+| Premature Betrayal | 0.20% | ~432 |
+| Mad Cow Disease | 0.20% | ~432 |
+| Exploring Port Nyanzaru | 0.20% | ~432 |
+| A Tale of Two Cities | 0.20% | ~432 |
+| The Dead Three | 0.20% | ~432 |
+| Flying Monkey Skulls of Doom | 0.20% | ~432 |
+| The Darkness Runs Deeper | 0.20% | ~432 |
+| Difficult Terrain | 0.20% | ~432 |
+| Running of the Saurs | 0.20% | ~432 |
+| The Contagious Curse | 0.20% | ~432 |
+| Dinosaur Racing | 0.20% | ~432 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | The Everlasting Rime | 0.20% | ~364 |
-| Close Escort | 0.20% | ~431 |
-| Constant Banditry | 0.20% | ~431 |
-| The Long Haul | 0.20% | ~431 |
-| Lost in the Deep | 0.20% | ~431 |
-| Easily Distracted | 0.20% | ~431 |
-| Rude Welcome | 0.20% | ~431 |
-| Overdue Rendezvous | 0.20% | ~431 |
+| Close Escort | 0.20% | ~432 |
+| Constant Banditry | 0.20% | ~432 |
+| The Long Haul | 0.20% | ~432 |
+| Lost in the Deep | 0.20% | ~432 |
+| Easily Distracted | 0.20% | ~432 |
+| Rude Welcome | 0.20% | ~432 |
+| Overdue Rendezvous | 0.20% | ~432 |
 | Moose Tracks | 0.20% | ~364 |
-| Durable Deep | 0.20% | ~431 |
-| Expert Opinion | 0.20% | ~431 |
-| Pure Energy | 0.20% | ~431 |
-| The Templar's Camp | 0.20% | ~431 |
-| Rescue in the Jungle | 0.20% | ~431 |
+| Durable Deep | 0.20% | ~432 |
+| Expert Opinion | 0.20% | ~432 |
+| The Templar's Camp | 0.20% | ~432 |
+| Rescue in the Jungle | 0.20% | ~432 |
 | Tiny Treaty | 0.20% | ~364 |
 | All The World's A Stage | 0.20% | ~364 |
 | Keep Your Friends Close | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,735 (Ranked 53)  
+Progressed: 215,750 (Ranked 53)  
 Completed: 2,116 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,10 +616,10 @@ Completed: 2,116 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,735 | 2,116 |
+| 2023-07-26 | 215,750 | 2,116 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
-Sum: 30,739 (Ranked 38)  
+Sum: 30,742 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -629,7 +629,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,574 |
 | This game has Amazing Characters | 4,034 |
 | This game is Highly Recommended | 4,024 |
-| This game has Playful Visuals | 3,318 |
+| This game has Playful Visuals | 3,321 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -814,4 +814,4 @@ Diff (max vs sum): 28
 | 2023-07-23 | 4.06 | - | 5,059 | 30,661 |
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
-| 2023-07-26 | 4.05 | - | 5,084 | 30,739 |
+| 2023-07-26 | 4.05 | - | 5,084 | 30,742 |

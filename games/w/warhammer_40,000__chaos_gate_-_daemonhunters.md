@@ -12,11 +12,11 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 0.60% | ~18 |
 | Not So Fast... | 0.50% | ~15 |
 | Bloodless | 0.50% | ~15 |
+| Purging Spree | 0.30% | ~9 |
 | Surgical Excision | 0.20% | ~6 |
 | Hold Your Ground | 0.20% | ~6 |
 | Blood for the Blood God! | 0.20% | ~6 |
 | Friendly Fire | 0.20% | ~6 |
-| Purging Spree | 0.20% | ~6 |
 | A Foul Creche | 0.20% | ~6 |
 | Execution Force | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
@@ -36,6 +36,7 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
+| A Gift Spurned | 0.10% | ~3 |
 | Long Distance Call | 0.10% | ~3 |
 | Tactical Flexibility | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
@@ -69,7 +70,6 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Engine Kill | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
-| A Gift Spurned | 0.00% | ~0 |
 | Death Comes For All | 0.00% | ~0 |
 | True Mastery | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |

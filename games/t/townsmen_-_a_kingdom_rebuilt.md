@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.21 (Ranked 838)  
+Rating: 4.21 (Ranked 839)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,13 +19,13 @@ Number of Ratings: 37  (23.09.2022)
 | Time for some trade | 7.00% | ~295 |
 | Completionist I | 6.00% | ~253 |
 | Full-time job I | 6.00% | ~253 |
-| Not a small trader anymore | 5.00% | ~210 |
-| Bread for the people I | 5.00% | ~210 |
-| I like to build stuff... II | 5.00% | ~210 |
-| Full-time job II | 5.00% | ~210 |
-| A time consuming game II | 5.00% | ~210 |
-| Tools of the trade I | 5.00% | ~210 |
-| Knee deep in snow | 5.00% | ~210 |
+| Not a small trader anymore | 5.00% | ~211 |
+| Bread for the people I | 5.00% | ~211 |
+| I like to build stuff... II | 5.00% | ~211 |
+| Full-time job II | 5.00% | ~211 |
+| A time consuming game II | 5.00% | ~211 |
+| Tools of the trade I | 5.00% | ~211 |
+| Knee deep in snow | 5.00% | ~211 |
 | Bread for the people II | 4.00% | ~168 |
 | I like to build stuff... III | 4.00% | ~168 |
 | The King's new clothes I | 4.00% | ~168 |
@@ -66,10 +66,10 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist III | 1.00% | ~42 |
 | Only the sausage has two ends. | 1.00% | ~42 |
 | Reunification | 1.00% | ~42 |
-| Treat her well… | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
+| Treat her well… | 0.90% | ~38 |
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
 | Last man standing | 0.70% | ~29 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,210 (Ranked 144)  
+Progressed: 4,211 (Ranked 144)  
 Completed: 3 (0.07%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 3 (0.07%) (Ranked 200)
 | 2023-07-23 | 4,204 | 3 |
 | 2023-07-24 | 4,207 | 3 |
 | 2023-07-25 | 4,209 | 3 |
-| 2023-07-26 | 4,210 | 3 |
+| 2023-07-26 | 4,211 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

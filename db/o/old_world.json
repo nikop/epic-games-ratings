@@ -1563,7 +1563,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13103,
+  "EOS_Progressed": 13104,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -8558,6 +8558,11 @@
       "Time": "2023-07-26T15:05:30.2492353+00:00",
       "NumProgressed": 13103,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T18:06:00.1775101+00:00",
+      "NumProgressed": 13104,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10383,9 +10388,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -10903,9 +10908,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -10936,21 +10941,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13103,
+      "Progressed": 13104,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13103,
+      "Progressed": 13104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:05:31.0526358+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:06:00.1775095+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:58:13.0920662+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:05:31.0537953+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:58:44.6866037+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:06:00.1783938+00:00"
 }

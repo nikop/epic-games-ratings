@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -465,6 +465,11 @@
       "Time": "2023-07-25T21:05:31.6237587+00:00",
       "NumProgressed": 478,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T18:05:05.0050936+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -498,9 +503,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "Doors_Closing",
@@ -554,9 +559,9 @@
       "ID": "Headshot",
       "SetID": "ek310c",
       "Name": "U Mad Bro?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "Healthy_Child",
@@ -644,7 +649,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Old_Friend",
@@ -652,7 +657,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Paparazzi",
@@ -707,7 +712,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 5
     }
   ],
@@ -715,8 +720,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-26T17:04:36.7059217+00:00",
+  "LastChanged_Achievements": "2023-07-26T18:05:05.005093+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4895779+00:00",
-  "LastUpdate_Ratings": "2023-07-26T16:57:06.6567227+00:00",
-  "LastUpdate_Achievements": "2023-07-26T17:04:36.7059499+00:00"
+  "LastUpdate_Ratings": "2023-07-26T17:57:25.6275471+00:00",
+  "LastUpdate_Achievements": "2023-07-26T18:05:05.0051187+00:00"
 }
