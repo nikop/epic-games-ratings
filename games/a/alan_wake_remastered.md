@@ -8,17 +8,17 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 35.00% | ~20,595 |
 | Let There Be Light | 28.00% | ~16,476 |
-| Float Like a Butterfly | 27.00% | ~15,887 |
-| Nordic Walking | 22.00% | ~12,945 |
+| Float Like a Butterfly | 27.00% | ~15,888 |
+| Nordic Walking | 22.00% | ~12,946 |
 | Bright Falls' Finest | 21.00% | ~12,357 |
 | Under a Thin Layer of Skin | 19.00% | ~11,180 |
-| Park Ranger | 15.00% | ~8,826 |
-| Paging Mr. Wake | 15.00% | ~8,826 |
+| Park Ranger | 15.00% | ~8,827 |
+| Paging Mr. Wake | 15.00% | ~8,827 |
 | Back! Back, I Say! | 14.00% | ~8,238 |
 | Finders Keepers | 14.00% | ~8,238 |
-| Sound and Fury | 13.00% | ~7,649 |
-| Missed by a Mile | 13.00% | ~7,649 |
-| Damn Good Cup of Coffee | 13.00% | ~7,649 |
+| Sound and Fury | 13.00% | ~7,650 |
+| Missed by a Mile | 13.00% | ~7,650 |
+| Damn Good Cup of Coffee | 13.00% | ~7,650 |
 | Wheels Within Wheels | 12.00% | ~7,061 |
 | They're Heeeeeere! | 12.00% | ~7,061 |
 | The Six-Gun Scribe | 12.00% | ~7,061 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 9.00% | ~5,296 |
 | The Lady of the Light | 9.00% | ~5,296 |
 | Energized! | 9.00% | ~5,296 |
-| What Light Through Yonder Window | 8.00% | ~4,707 |
-| Right of Way | 8.00% | ~4,707 |
+| What Light Through Yonder Window | 8.00% | ~4,708 |
+| Right of Way | 8.00% | ~4,708 |
 | A Friend in Need | 8.00% | ~1,785 |
 | Tornado Wrangler | 7.00% | ~4,119 |
 | Departure | 6.00% | ~3,531 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,842 (Ranked 82)  
+Progressed: 58,844 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
-| 2023-07-26 | 58,842 | 58 |
+| 2023-07-26 | 58,844 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

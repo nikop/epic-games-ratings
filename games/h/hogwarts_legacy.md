@@ -7,22 +7,22 @@ Rating: 4.77 (Ranked 110)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,631 |
 | First Class Student | 11.00% | ~31,745 |
-| A Keen Sense of Spell | 10.00% | ~28,859 |
-| Troll with the Punches | 10.00% | ~28,859 |
-| Grappling with a Graphorn | 9.00% | ~25,973 |
-| The One Who Mastered Memories | 9.00% | ~25,973 |
-| The Hallowed Hero | 9.00% | ~25,973 |
-| The Defender of Dragons | 9.00% | ~25,973 |
-| Loom for Improvement | 9.00% | ~25,973 |
-| A Talent for Spending | 9.00% | ~25,973 |
-| Coasting Along | 9.00% | ~25,973 |
-| That's a Keeper | 9.00% | ~25,973 |
-| The Hero of Hogwarts | 8.00% | ~23,087 |
-| Challenge Accepted | 8.00% | ~23,087 |
-| Followed the Butterflies | 8.00% | ~23,087 |
-| A Sallow Grave | 7.00% | ~20,201 |
-| The Spell Master | 7.00% | ~20,201 |
-| Rising From the Ashes | 7.00% | ~20,201 |
+| A Keen Sense of Spell | 10.00% | ~28,860 |
+| Troll with the Punches | 10.00% | ~28,860 |
+| Grappling with a Graphorn | 9.00% | ~25,974 |
+| The One Who Mastered Memories | 9.00% | ~25,974 |
+| The Hallowed Hero | 9.00% | ~25,974 |
+| The Defender of Dragons | 9.00% | ~25,974 |
+| Loom for Improvement | 9.00% | ~25,974 |
+| A Talent for Spending | 9.00% | ~25,974 |
+| Coasting Along | 9.00% | ~25,974 |
+| That's a Keeper | 9.00% | ~25,974 |
+| The Hero of Hogwarts | 8.00% | ~23,088 |
+| Challenge Accepted | 8.00% | ~23,088 |
+| Followed the Butterflies | 8.00% | ~23,088 |
+| A Sallow Grave | 7.00% | ~20,202 |
+| The Spell Master | 7.00% | ~20,202 |
+| Rising From the Ashes | 7.00% | ~20,202 |
 | The Avenging Gazelle | 6.00% | ~17,316 |
 | Beast Friends | 6.00% | ~17,316 |
 | Flight the Good Flight | 6.00% | ~17,316 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.50% | ~1,443 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,592 (Ranked 42)  
+Progressed: 288,595 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-23 | 288,415 | 434 |
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
-| 2023-07-26 | 288,592 | 434 |
+| 2023-07-26 | 288,595 | 434 |
 ## Awards
 Max (Character Customization): 21,271  (Ranked 17)  
 Sum: 39,908 (Ranked 30)  

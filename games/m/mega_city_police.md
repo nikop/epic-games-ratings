@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 125.00% | ~5 |
+| Law and Order | 25.00% | ~1 |
 | Licence To Kill | 25.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
@@ -21,7 +22,6 @@
 | Flawless Victory | 0.00% | ~0 |
 | The Hunt | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
-| Law and Order | 0.00% | ~0 |
 | Hammer Time | 0.00% | ~0 |
 | Escape From M.C. | 0.00% | ~0 |
 | Restore Honor | 0.00% | ~0 |

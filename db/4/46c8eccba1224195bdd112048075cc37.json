@@ -548,9 +548,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SecondBoss",
@@ -572,9 +572,9 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:05:57.0817861+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:04:51.2359434+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:57:52.6001654+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:05:57.0818056+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:57:26.4629401+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:04:51.2359614+00:00"
 }

@@ -24,19 +24,19 @@
 | Employee of the month | 60.00% | ~92 |
 | Pal of your father? | 58.00% | ~89 |
 | Spirit of the past | 56.00% | ~86 |
+| Law student | 54.00% | ~83 |
+| Workout professional | 53.00% | ~81 |
 | Little hacker | 53.00% | ~81 |
-| Workout professional | 52.00% | ~80 |
-| Law student | 52.00% | ~80 |
-| Your own way | 50.00% | ~76 |
+| Your own way | 52.00% | ~80 |
 | Fight for life | 48.00% | ~73 |
 | Champion – starter pack | 48.00% | ~73 |
-| Employee of the year | 47.00% | ~72 |
+| Employee of the year | 48.00% | ~73 |
+| It's good to be alive | 47.00% | ~72 |
 | Handyman | 46.00% | ~70 |
-| It's good to be alive | 46.00% | ~70 |
 | Own four walls | 46.00% | ~70 |
 | Extreme neuropower! | 42.00% | ~64 |
 | Legal courier | 39.00% | ~60 |
-| Now you are worthy | 36.00% | ~55 |
+| Now you are worthy | 37.00% | ~57 |
 | Escaped from a big trouble | 33.00% | ~50 |
 | Guiding on the right path | 32.00% | ~49 |
 | No blades in the gym | 31.00% | ~47 |
@@ -44,17 +44,17 @@
 | Fight is life | 29.00% | ~44 |
 | Responsible approach | 29.00% | ~44 |
 | Champion – no way back | 27.00% | ~41 |
+| Underground dwellers | 26.00% | ~40 |
 | Deal with life | 25.00% | ~38 |
 | Poisoned fighter | 25.00% | ~38 |
 | Get out of my apartment! | 25.00% | ~38 |
-| Underground dwellers | 25.00% | ~38 |
+| Seashell hunter | 25.00% | ~38 |
 | Mom got better | 24.00% | ~37 |
 | GYM professional | 24.00% | ~37 |
 | The die is cast | 24.00% | ~37 |
-| Seashell hunter | 24.00% | ~37 |
 | Anyone can resist | 23.00% | ~35 |
 | Gang wrangler | 22.00% | ~34 |
-| Problems of cyborgs | 21.00% | ~32 |
+| Problems of cyborgs | 22.00% | ~34 |
 | Trap disarmed | 20.00% | ~31 |
 | The last bell ring | 20.00% | ~31 |
 | Undercover robot | 20.00% | ~31 |

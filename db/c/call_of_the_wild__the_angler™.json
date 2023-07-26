@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4752,
+  "EOS_Progressed": 4753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4887,6 +4887,11 @@
       "Time": "2023-07-26T02:09:01.3802332+00:00",
       "NumProgressed": 4752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-26T10:03:35.3714548+00:00",
+      "NumProgressed": 4753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4914,7 +4919,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5010,7 +5015,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -5177,13 +5182,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4752,
+      "Progressed": 4753,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4124,
+      "Progressed": 4125,
       "Completed": 112
     }
   ],
@@ -5191,8 +5196,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:04:23.6580289+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:03:35.371454+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-26T09:00:48.819885+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:04:23.6580952+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:59:47.0752046+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:03:35.3715074+00:00"
 }

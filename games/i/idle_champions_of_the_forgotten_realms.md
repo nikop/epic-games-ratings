@@ -17,12 +17,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.60% | ~1,091 |
 | Flight of the Kindori Pod | 0.60% | ~1,091 |
 | Topolah's Tower | 0.60% | ~1,091 |
+| Pros and CONs | 0.50% | ~1,078 |
 | Tall Tales | 0.50% | ~910 |
 | Wet Feet | 0.50% | ~1,078 |
 | Seeds of Destruction | 0.50% | ~910 |
 | Return to the Tomb | 0.50% | ~910 |
 | The Champion's Guide to Wildspace | 0.50% | ~910 |
-| Pros and CONs | 0.40% | ~863 |
 | The Witchlight Carnival | 0.40% | ~728 |
 | Hatchlings Underfoot | 0.40% | ~863 |
 | Don't Look Up! | 0.40% | ~863 |
@@ -119,6 +119,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~431 |
 | Exploring Port Nyanzaru | 0.20% | ~431 |
 | A Tale of Two Cities | 0.20% | ~431 |
+| The Dead Three | 0.20% | ~431 |
+| Flying Monkey Skulls of Doom | 0.20% | ~431 |
 | Running of the Saurs | 0.20% | ~431 |
 | The Contagious Curse | 0.20% | ~431 |
 | Dinosaur Racing | 0.20% | ~431 |
@@ -320,11 +322,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~216 |
 | A Tale of Two Champions | 0.10% | ~216 |
 | A Tale of Two Years | 0.10% | ~182 |
-| The Dead Three | 0.10% | ~216 |
 | Slow and Steady | 0.10% | ~216 |
 | A Hero's Entourage | 0.10% | ~216 |
 | Sneak Attack | 0.10% | ~182 |
-| Flying Monkey Skulls of Doom | 0.10% | ~216 |
 | Lair of the Xanathar | 0.10% | ~216 |
 | Dreams of Beholders | 0.10% | ~216 |
 | Feigned Weakness | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,629 (Ranked 53)  
+Progressed: 215,642 (Ranked 53)  
 Completed: 2,111 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 2,111 (0.98%) (Ranked 107)
 | 2023-07-23 | 214,993 | 2,060 |
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
-| 2023-07-26 | 215,629 | 2,111 |
+| 2023-07-26 | 215,642 | 2,111 |
 ## Awards
 Max (Diverse Characters): 5,082  (Ranked 66)  
 Sum: 30,734 (Ranked 38)  

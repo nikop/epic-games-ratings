@@ -1,7 +1,7 @@
 # Mutazione
 [Store](https://store.epicgames.com/en-US/p/mutazione)  
 [View Rawdata](../../db/m/mutazione.json)  
-Rating: 4.64 (Ranked 319)  
+Rating: 4.63 (Ranked 331)  
 Number of Ratings: 63  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -56,3 +56,4 @@ Number of Ratings: 63  (23.09.2022)
 | 2023-04-01 | 4.64 | - | 0 | 0 |
 | 2023-05-30 | 4.63 | - | 0 | 0 |
 | 2023-07-02 | 4.64 | - | 0 | 0 |
+| 2023-07-26 | 4.63 | - | 0 | 0 |

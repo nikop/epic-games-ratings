@@ -5296,7 +5296,7 @@
       "Count": 3318
     }
   ],
-  "EOS_Progressed": 215629,
+  "EOS_Progressed": 215642,
   "EOS_Completed": 2111,
   "EOS_NewPlayers": 2324,
   "EOS_NewCompleters": 53,
@@ -15661,6 +15661,11 @@
       "Time": "2023-07-26T09:01:41.536717+00:00",
       "NumProgressed": 215629,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-07-26T10:00:29.7851497+00:00",
+      "NumProgressed": 215642,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 512,
@@ -15686,9 +15691,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 1078
     },
     {
       "ID": "objective_completed_101",
@@ -17854,9 +17859,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_546",
@@ -17886,9 +17891,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_completed_550",
@@ -19767,21 +19772,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 181903,
+      "Progressed": 181916,
       "Completed": 2992
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215629,
+      "Progressed": 215642,
       "Completed": 2111
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T07:59:07.2902513+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:01:41.5367162+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:00:29.7851489+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:58:58.4926965+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:01:41.5399543+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:58:18.9807003+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:00:29.7877128+00:00"
 }

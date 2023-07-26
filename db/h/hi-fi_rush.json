@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3581,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4702,6 +4702,11 @@
       "Time": "2023-07-26T06:04:13.9987451+00:00",
       "NumProgressed": 3581,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-26T10:03:40.7677335+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5207,9 +5212,9 @@
       "ID": "Ach063",
       "SetID": "b7dbjo0",
       "Name": "Call me Turbo Chai",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach064",
@@ -5280,13 +5285,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2102,
+      "Progressed": 2103,
       "Completed": 1928
     }
   ],
@@ -5294,8 +5299,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:04:29.9276929+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:03:40.7677328+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:59:27.4969972+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:04:29.9278204+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:58:40.7568957+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:03:40.7678317+00:00"
 }

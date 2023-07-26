@@ -15,7 +15,7 @@ Number of Ratings: 98  (23.09.2022)
 | Agent 47 | 22.00% | ~259 |
 | Bomberman | 22.00% | ~259 |
 | You're Gonna Go Far, Kid | 21.00% | ~247 |
-| Death to the Oppressor! | 15.00% | ~176 |
+| Death to the Oppressor! | 15.00% | ~177 |
 | The Gang's All Here | 13.00% | ~153 |
 | Your Answer | 12.00% | ~141 |
 | One by One | 11.00% | ~129 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,176 (Ranked 183)  
-Completed: 1 (0.09%) (Ranked 193)  
+Progressed: 1,177 (Ranked 183)  
+Completed: 1 (0.08%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 1 (0.09%) (Ranked 193)
 | 2023-07-23 | 1,150 | 1 |
 | 2023-07-24 | 1,161 | 1 |
 | 2023-07-25 | 1,175 | 1 |
-| 2023-07-26 | 1,176 | 1 |
+| 2023-07-26 | 1,177 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

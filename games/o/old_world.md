@@ -163,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | I am the Archon Now | 0.10% | ~13 |
 | The Olive Wreath | 0.10% | ~13 |
 | Those Were Mine | 0.10% | ~13 |
+| If? Then! | 0.10% | ~13 |
 | What's 'hubris' in Greek? | 0.10% | ~13 |
 | Three's a Crowd | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
@@ -270,7 +271,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| If? Then! | 0.00% | ~0 |
 | Unfinished Business | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,096 (Ranked 115)  
+Progressed: 13,097 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-23 | 13,051 | 5 |
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
-| 2023-07-26 | 13,096 | 5 |
+| 2023-07-26 | 13,097 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 412,
-  "EOS_Completed": 76,
+  "EOS_Completed": 77,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.45,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 18.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1978,6 +1978,11 @@
       "Time": "2023-07-26T05:03:16.1990378+00:00",
       "NumProgressed": 412,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-07-26T10:03:16.9469808+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -2139,9 +2144,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "LEVEL_021",
@@ -2165,15 +2170,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 412,
-      "Completed": 76
+      "Completed": 77
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:04:01.0890915+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:03:16.9469802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-26T08:58:53.5504202+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:04:01.089126+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:58:15.1585251+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:03:16.9470087+00:00"
 }

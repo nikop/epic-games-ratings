@@ -733,9 +733,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 32695,
+  "EOS_Progressed": 32697,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11188,6 +11188,11 @@
       "Time": "2023-07-26T09:04:15.5936519+00:00",
       "NumProgressed": 32695,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T10:03:28.8714104+00:00",
+      "NumProgressed": 32697,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11327,7 +11332,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "playerFelipe",
@@ -11423,7 +11428,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "ultimate",
@@ -11463,7 +11468,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4904
+      "UsersEstimate": 4905
     },
     {
       "ID": "unlockpaz",
@@ -11510,15 +11515,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32695,
+      "Progressed": 32697,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-26T09:00:17.3064783+00:00",
-  "LastChanged_Achievements": "2023-07-26T09:04:15.5936511+00:00",
+  "LastChanged_Achievements": "2023-07-26T10:03:28.8714098+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-26T09:00:17.3064787+00:00",
-  "LastUpdate_Achievements": "2023-07-26T09:04:15.5937505+00:00"
+  "LastUpdate_Ratings": "2023-07-26T09:59:21.1864032+00:00",
+  "LastUpdate_Achievements": "2023-07-26T10:03:28.8714986+00:00"
 }

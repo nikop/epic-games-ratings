@@ -12,7 +12,7 @@ Rating: 4.10 (Ranked 890)
 | Fellowship Power | 41.00% | ~704 |
 | Guild Power | 25.00% | ~429 |
 | Prestigious x10 | 21.00% | ~360 |
-| The game is on | 19.00% | ~326 |
+| The game is on | 20.00% | ~343 |
 | Exotic Merchant | 18.00% | ~309 |
 | Dragon Clicker | 17.00% | ~292 |
 | Inspection | 16.00% | ~275 |

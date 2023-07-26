@@ -23,10 +23,10 @@
 | Retail Revenue | 22.00% | ~58 |
 | Lux Living | 21.00% | ~55 |
 | People Mover | 20.00% | ~53 |
+| Emporium Empire | 20.00% | ~53 |
 | Leveled Up Shops | 20.00% | ~53 |
 | Artfully Done | 19.00% | ~50 |
 | Don't Feel a Loan | 19.00% | ~50 |
-| Emporium Empire | 19.00% | ~50 |
 | We Don't Need No Education | 19.00% | ~50 |
 | Get Electrified | 19.00% | ~50 |
 | Rehab Expert | 18.00% | ~48 |
