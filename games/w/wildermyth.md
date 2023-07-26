@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 38.00% | ~508 |
-| Me and My Familiar | 35.00% | ~468 |
+| Me and My Familiar | 36.00% | ~482 |
 | This Too Shall Pass | 30.00% | ~401 |
 | Passing Shadow | 29.00% | ~388 |
 | Cutthroat Competitors | 29.00% | ~388 |
@@ -34,9 +34,9 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
-| Worldwalker | 4.00% | ~53 |
-| Grillmaster | 4.00% | ~53 |
-| No Time for Clawmonsters | 4.00% | ~53 |
+| Worldwalker | 4.00% | ~54 |
+| Grillmaster | 4.00% | ~54 |
+| No Time for Clawmonsters | 4.00% | ~54 |
 | We Emerge Changed | 3.00% | ~40 |
 | Storied Past | 3.00% | ~40 |
 | Bonebreakers | 3.00% | ~40 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,337 (Ranked 179)  
+Progressed: 1,338 (Ranked 179)  
 Completed: 5 (0.37%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 5 (0.37%) (Ranked 144)
 | 2023-07-23 | 1,330 | 5 |
 | 2023-07-24 | 1,333 | 5 |
 | 2023-07-25 | 1,335 | 5 |
-| 2023-07-26 | 1,337 | 5 |
+| 2023-07-26 | 1,338 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 463)  
 Sum: 28 (Ranked 475)  

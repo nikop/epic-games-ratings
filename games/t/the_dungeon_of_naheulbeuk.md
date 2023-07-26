@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~117,322 |
-| Where's that freaking Dwarf? | 47.00% | ~93,460 |
-| GG EZ | 28.00% | ~55,678 |
-| Speedrun | 26.00% | ~51,701 |
-| Déjà vu | 21.00% | ~41,759 |
-| Sock! SOCK! | 17.00% | ~33,805 |
-| DM intervention | 13.00% | ~25,851 |
-| Fireproof Wizardess | 9.00% | ~17,897 |
-| Livin' in a dwarven paradise | 7.00% | ~13,920 |
-| Way of the Wimp | 7.00% | ~13,920 |
-| A beer, two curses, three companions | 7.00% | ~13,920 |
+| Alt+F4 | 59.00% | ~117,331 |
+| Where's that freaking Dwarf? | 47.00% | ~93,467 |
+| GG EZ | 28.00% | ~55,682 |
+| Speedrun | 26.00% | ~51,705 |
+| Déjà vu | 21.00% | ~41,762 |
+| Sock! SOCK! | 17.00% | ~33,807 |
+| DM intervention | 13.00% | ~25,853 |
+| Fireproof Wizardess | 9.00% | ~17,898 |
+| Livin' in a dwarven paradise | 7.00% | ~13,921 |
+| Way of the Wimp | 7.00% | ~13,921 |
+| A beer, two curses, three companions | 7.00% | ~13,921 |
 | The plot thickens... At the tavern | 5.00% | ~9,943 |
-| The Woman in the High Castle | 4.00% | ~7,954 |
-| I am the night | 4.00% | ~7,954 |
-| Team Building Exercise | 4.00% | ~7,954 |
+| The Woman in the High Castle | 4.00% | ~7,955 |
+| I am the night | 4.00% | ~7,955 |
+| Team Building Exercise | 4.00% | ~7,955 |
 | Shiny and Crôm | 3.00% | ~5,966 |
 | The demons' feast | 3.00% | ~5,966 |
 | Res Judicata | 3.00% | ~5,966 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,851 (Ranked 55)  
+Progressed: 198,866 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 196,973 | 0 |
 | 2023-07-24 | 197,920 | 0 |
 | 2023-07-25 | 198,707 | 0 |
-| 2023-07-26 | 198,851 | 0 |
+| 2023-07-26 | 198,866 | 0 |
 ## Awards
 Max (Character Customization): 134  (Ranked 303)  
 Sum: 134 (Ranked 396)  

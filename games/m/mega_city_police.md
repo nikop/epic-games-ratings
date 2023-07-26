@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to Mega City | 167.00% | ~5 |
+| Licence To Kill | 33.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
 | Vintage Collector | 0.00% | ~0 |
-| Welcome to Mega City | 0.00% | ~0 |
 | Losing your Head | 0.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
@@ -29,4 +30,10 @@
 | Fashionista | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
-| Licence To Kill | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 3 (Ranked 444)  
+Completed: 0 (0.00%) (Ranked 242)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-07-26 | 3 | 0 |

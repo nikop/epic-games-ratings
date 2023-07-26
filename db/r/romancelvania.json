@@ -2,10 +2,10 @@
   "ID": "76578852dd8a4697a16752a11d93b86a",
   "Name": "Romancelvania",
   "ProductSlug": "romancelvania-47d94a",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T18:00:00+00:00",
     "PcReleaseDate": "2023-03-07T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.0189588+00:00",
   "LastChanged": "2023-03-31T05:57:42.0189589+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:23.2905469+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:58:34.4951088+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:04:12.7377711+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:58:22.5150925+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:03:51.0166958+00:00"
 }

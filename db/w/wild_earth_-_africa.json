@@ -2,10 +2,10 @@
   "ID": "2fa93b45e46e4f719e01d2beb349a786",
   "Name": "Wild Earth - Africa",
   "ProductSlug": "wild-earth-africa-8caf87",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-22T04:00:00+00:00",
     "PcReleaseDate": "2022-03-23T04:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:15.4376051+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:58:26.9493081+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:04:32.5372889+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:58:14.7977509+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:04:12.0079807+00:00"
 }

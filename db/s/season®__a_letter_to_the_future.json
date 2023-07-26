@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -1926,6 +1926,11 @@
       "Time": "2023-07-26T06:06:43.5735485+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-26T07:06:27.5580832+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 16,
@@ -1937,7 +1942,7 @@
       "Name": "Artist Assistant",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -1959,9 +1964,9 @@
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -1993,7 +1998,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2001,7 +2006,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2064,7 +2069,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 46
     }
   ],
@@ -2072,8 +2077,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:06:43.5735481+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:06:27.5580824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:14.7937201+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:59:12.2058158+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:06:43.5735734+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:59:01.315086+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:06:27.558103+00:00"
 }

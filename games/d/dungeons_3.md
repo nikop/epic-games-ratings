@@ -7,22 +7,22 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~17,578 |
-| The Evilest Evil | 58.00% | ~14,564 |
-| Twistram is devastated | 58.00% | ~14,564 |
+| The Evilest Evil | 58.00% | ~14,565 |
+| Twistram is devastated | 58.00% | ~14,565 |
 | The Gehenna Stones | 50.00% | ~12,556 |
-| No one has to die today! | 46.00% | ~11,551 |
+| No one has to die today! | 46.00% | ~11,552 |
 | Death and destruction! | 45.00% | ~11,300 |
 | The Swamplanders from the swamplands | 44.00% | ~11,049 |
 | The One-Huge-Army-Building Evil | 41.00% | ~10,296 |
 | Rusty Steel | 41.00% | ~10,296 |
-| The last burger | 38.00% | ~9,542 |
-| Braiiiiins! | 38.00% | ~9,542 |
+| The last burger | 38.00% | ~9,543 |
+| Braiiiiins! | 38.00% | ~9,543 |
 | Hands off the Dungeonheart! | 36.00% | ~9,040 |
 | A trip on sea, what fun it can be | 35.00% | ~8,789 |
 | Damned good | 33.00% | ~8,287 |
 | Factory farming | 32.00% | ~8,036 |
-| Stock Market Crash | 31.00% | ~7,784 |
-| Not-So-Overproud | 30.00% | ~7,533 |
+| Stock Market Crash | 31.00% | ~7,785 |
+| Not-So-Overproud | 30.00% | ~7,534 |
 | For a handfull of Catapults | 29.00% | ~7,282 |
 | Shadow hunter | 29.00% | ~7,282 |
 | Thirst quencher | 28.00% | ~7,031 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~6,027 |
 | Where there is Light, there is Shadow | 24.00% | ~6,027 |
 | At the foot of Mount Destiny | 23.00% | ~5,776 |
-| The Force disturbed | 22.00% | ~5,524 |
+| The Force disturbed | 22.00% | ~5,525 |
 | The Victorious Evil | 20.00% | ~5,022 |
 | We don’t have time! | 20.00% | ~5,022 |
 | Chorus of damnation | 19.00% | ~4,771 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~502 |
 | Sacrifices! | 2.00% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,111 (Ranked 99)  
+Progressed: 25,112 (Ranked 99)  
 Completed: 208 (0.83%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 208 (0.83%) (Ranked 112)
 | 2023-07-23 | 24,879 | 208 |
 | 2023-07-24 | 24,983 | 208 |
 | 2023-07-25 | 25,099 | 208 |
-| 2023-07-26 | 25,111 | 208 |
+| 2023-07-26 | 25,112 | 208 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,598 (Ranked 172)  

@@ -21,8 +21,8 @@ Number of Ratings: 332  (23.09.2022)
 | One With The Board | 6.00% | ~1,961 |
 | My Little Friend | 5.00% | ~1,634 |
 | Voyager | 5.00% | ~1,634 |
-| Sandboarder | 4.00% | ~1,307 |
-| Izel Has Arrived | 4.00% | ~1,307 |
+| Sandboarder | 4.00% | ~1,308 |
+| Izel Has Arrived | 4.00% | ~1,308 |
 | Junkie | 3.00% | ~981 |
 | Traveler | 3.00% | ~981 |
 | Journeyer | 3.00% | ~981 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~327 |
 | Vandal | 1.00% | ~327 |
 | Daredevil | 0.90% | ~294 |
-| Unlock Felipe | 0.80% | ~261 |
+| Unlock Felipe | 0.80% | ~262 |
 | Adventurer | 0.70% | ~229 |
 | Unlock Tupa | 0.40% | ~131 |
 | Master Of The Sands | 0.30% | ~98 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~33 |
 | Windswept | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,687 (Ranked 96)  
+Progressed: 32,689 (Ranked 96)  
 Completed: 5 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 5 (0.02%) (Ranked 222)
 | 2023-07-23 | 32,367 | 5 |
 | 2023-07-24 | 32,512 | 5 |
 | 2023-07-25 | 32,659 | 5 |
-| 2023-07-26 | 32,687 | 5 |
+| 2023-07-26 | 32,689 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 411)  
 Sum: 356 (Ranked 322)  

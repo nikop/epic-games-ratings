@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,591 |
-| Let There Be Light | 28.00% | ~16,473 |
+| Follow the Light | 35.00% | ~20,592 |
+| Let There Be Light | 28.00% | ~16,474 |
 | Float Like a Butterfly | 27.00% | ~15,885 |
 | Nordic Walking | 22.00% | ~12,943 |
 | Bright Falls' Finest | 21.00% | ~12,355 |
 | Under a Thin Layer of Skin | 19.00% | ~11,178 |
 | Park Ranger | 15.00% | ~8,825 |
 | Paging Mr. Wake | 15.00% | ~8,825 |
-| Back! Back, I Say! | 14.00% | ~8,236 |
-| Finders Keepers | 14.00% | ~8,236 |
+| Back! Back, I Say! | 14.00% | ~8,237 |
+| Finders Keepers | 14.00% | ~8,237 |
 | Sound and Fury | 13.00% | ~7,648 |
 | Missed by a Mile | 13.00% | ~7,648 |
 | Damn Good Cup of Coffee | 13.00% | ~7,648 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~89 |
 | Whirlwind | 0.40% | ~89 |
 | Creative Space | 0.40% | ~89 |
-| Alan, Wake Up | 0.30% | ~176 |
-| Meet the Deadline | 0.30% | ~176 |
-| Picking Up After Yourself | 0.30% | ~176 |
+| Alan, Wake Up | 0.30% | ~177 |
+| Meet the Deadline | 0.30% | ~177 |
+| Picking Up After Yourself | 0.30% | ~177 |
 | Tick Tock | 0.30% | ~67 |
 | Gunless Wonder | 0.20% | ~118 |
 | Every Nook and Cranny | 0.20% | ~118 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,832 (Ranked 82)  
+Progressed: 58,834 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-23 | 58,435 | 58 |
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
-| 2023-07-26 | 58,832 | 58 |
+| 2023-07-26 | 58,834 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

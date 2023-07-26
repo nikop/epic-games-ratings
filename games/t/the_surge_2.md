@@ -6,11 +6,11 @@ Rating: 4.25 (Ranked 810)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,514 |
-| Don't I Know You...? | 77.00% | ~1,457 |
+| Don't I Know You...? | 76.00% | ~1,439 |
 | Jailbreak | 65.00% | ~1,230 |
 | HEADSHOT! | 38.00% | ~719 |
 | Suited and Booted | 38.00% | ~719 |
-| Sleeping With The Fishes | 35.00% | ~662 |
+| Sleeping With The Fishes | 35.00% | ~663 |
 | Overheated | 30.00% | ~568 |
 | High Performance | 30.00% | ~568 |
 | Powered Up | 28.00% | ~530 |
@@ -18,11 +18,11 @@ Rating: 4.25 (Ranked 810)
 | Home Invasion | 23.00% | ~435 |
 | Luminary | 22.00% | ~416 |
 | It's a Trap | 22.00% | ~416 |
-| True Survivor | 21.00% | ~397 |
-| Offensive Defense | 20.00% | ~378 |
-| Shocking | 20.00% | ~378 |
-| Court Martial | 19.00% | ~359 |
-| Unforeseeable Consequences | 19.00% | ~359 |
+| True Survivor | 21.00% | ~398 |
+| Offensive Defense | 20.00% | ~379 |
+| Shocking | 20.00% | ~379 |
+| Court Martial | 19.00% | ~360 |
+| Unforeseeable Consequences | 19.00% | ~360 |
 | Dead Again | 18.00% | ~341 |
 | Clean Cut | 18.00% | ~341 |
 | Full Arsenal | 17.00% | ~322 |
@@ -41,7 +41,7 @@ Rating: 4.25 (Ranked 810)
 | A Little Banged Up | 8.00% | ~151 |
 | Denying Prophecy | 8.00% | ~151 |
 | Following In Their Footsteps | 8.00% | ~151 |
-| Reverse Engineering | 7.00% | ~132 |
+| Reverse Engineering | 7.00% | ~133 |
 | Remote Surgery | 6.00% | ~114 |
 | Turbo Booster | 6.00% | ~114 |
 | Juiced Up | 6.00% | ~114 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 810)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,892 (Ranked 166)  
+Progressed: 1,893 (Ranked 166)  
 Completed: 10 (0.53%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-23 | 1,873 | 10 |
 | 2023-07-24 | 1,882 | 10 |
 | 2023-07-25 | 1,891 | 10 |
-| 2023-07-26 | 1,892 | 10 |
+| 2023-07-26 | 1,893 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

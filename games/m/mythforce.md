@@ -6,14 +6,14 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 11.00% | ~33 |
-| First Strike | 10.00% | ~30 |
-| Flawless Victory | 10.00% | ~30 |
-| Hit 'Em Where It Hurts | 10.00% | ~30 |
-| That'll Leave a Mark | 10.00% | ~30 |
-| Perk Shard Punch Card | 9.00% | ~27 |
+| Faceroll the Bones | 10.00% | ~31 |
+| First Strike | 10.00% | ~31 |
+| That'll Leave a Mark | 10.00% | ~31 |
+| Flawless Victory | 9.00% | ~28 |
+| Hit 'Em Where It Hurts | 9.00% | ~28 |
 | Debuff Dogpile | 8.00% | ~24 |
 | Next Time on MythForce... | 8.00% | ~24 |
+| Perk Shard Punch Card | 8.00% | ~24 |
 | Spending Spree | 8.00% | ~24 |
 | Ten Steps from the Grave | 8.00% | ~24 |
 | Cold-Blooded Critters | 7.00% | ~21 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 250)  
+Progressed: 306 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 215 | 0 |
 | 2023-07-24 | 251 | 0 |
 | 2023-07-25 | 297 | 0 |
-| 2023-07-26 | 302 | 0 |
+| 2023-07-26 | 306 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 351)  

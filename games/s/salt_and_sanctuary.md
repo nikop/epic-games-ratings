@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,810 |
-| The Three | 64.00% | ~338,360 |
-| The Banquet | 40.00% | ~211,475 |
-| Devara's Light | 30.00% | ~158,606 |
+| Find Sanctuary | 83.00% | ~438,812 |
+| The Three | 64.00% | ~338,361 |
+| The Banquet | 40.00% | ~211,476 |
+| Devara's Light | 30.00% | ~158,607 |
 | The Iron Ones | 18.00% | ~95,164 |
 | The Village | 16.00% | ~84,590 |
 | The Forest | 14.00% | ~74,016 |
-| Branded | 13.00% | ~68,729 |
-| The Imposter | 13.00% | ~68,729 |
-| The Keep | 13.00% | ~68,729 |
+| Branded | 13.00% | ~68,730 |
+| The Imposter | 13.00% | ~68,730 |
+| The Keep | 13.00% | ~68,730 |
 | The Castle | 11.00% | ~58,156 |
 | The Dome | 9.00% | ~47,582 |
 | The Red Hall | 9.00% | ~47,582 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Alkymancery | 5.00% | ~26,434 |
 | The Lake | 5.00% | ~26,434 |
 | The Pitchwoods | 5.00% | ~26,434 |
-| Honed | 4.00% | ~21,147 |
-| The House of Splendor | 4.00% | ~21,147 |
-| The Crypt | 4.00% | ~21,147 |
-| The Palace | 4.00% | ~21,147 |
+| Honed | 4.00% | ~21,148 |
+| The House of Splendor | 4.00% | ~21,148 |
+| The Crypt | 4.00% | ~21,148 |
+| The Palace | 4.00% | ~21,148 |
 | Find Salvation | 3.00% | ~15,861 |
 | The Unspeakable Deep | 3.00% | ~15,861 |
 | Coastrock | 2.00% | ~10,574 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,574 |
 | Fading Fast | 1.00% | ~5,287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,687 (Ranked 28)  
+Progressed: 528,689 (Ranked 28)  
 Completed: 1,485 (0.28%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1,485 (0.28%) (Ranked 157)
 | 2023-07-23 | 528,488 | 1,484 |
 | 2023-07-24 | 528,589 | 1,484 |
 | 2023-07-25 | 528,668 | 1,485 |
-| 2023-07-26 | 528,687 | 1,485 |
+| 2023-07-26 | 528,689 | 1,485 |
 ## Awards
 Max (Challenging Combat): 275  (Ranked 239)  
 Sum: 1,919 (Ranked 200)  

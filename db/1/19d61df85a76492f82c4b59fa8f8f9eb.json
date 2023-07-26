@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.9,
+  "EOS_Completed_Percentage": 8.85,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -886,6 +886,11 @@
       "Time": "2023-07-25T23:05:59.9009222+00:00",
       "NumProgressed": 191,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-26T07:04:57.9034537+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -895,17 +900,17 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 175,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 165,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -913,15 +918,15 @@
       "Name": "Viola Organista",
       "Percentage": 41,
       "XP": 165,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -944,14 +949,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:05:17.6466664+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:04:57.9034531+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:57:49.2126185+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:05:17.6466817+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:57:33.8556772+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:04:57.9034669+00:00"
 }

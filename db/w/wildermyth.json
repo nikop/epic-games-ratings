@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1337,
+  "EOS_Progressed": 1338,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2023-07-26T03:05:09.7959419+00:00",
       "NumProgressed": 1337,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-26T07:05:11.1407112+00:00",
+      "NumProgressed": 1338,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1246,9 +1251,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1272,7 +1277,7 @@
       "Name": "Worldwalker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -1576,7 +1581,7 @@
       "Name": "Grillmaster",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -1672,22 +1677,22 @@
       "Name": "No Time for Clawmonsters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1337,
+      "Progressed": 1338,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:05:30.5724064+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:05:11.1407106+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:00:51.255136+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:05:30.5725941+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:00:42.3751925+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:05:11.1407563+00:00"
 }

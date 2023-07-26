@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "EVERYTHINGS_COMING_UP_GIGACHU",
       "SetID": "dhjj31a",
       "Name": "Everything\u0027s Coming Up Gigachu",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FRIENDZONED",
@@ -245,8 +245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:06:43.9301031+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:06:27.9356016+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:21.5171393+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:58:31.9784506+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:06:43.930116+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:58:19.9448476+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:06:27.9356127+00:00"
 }

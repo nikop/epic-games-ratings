@@ -2,10 +2,10 @@
   "ID": "9ace0bae889f45cc97fd30dac8e9321f",
   "Name": "The Ultimate Trivia Challenge",
   "ProductSlug": "the-ultimate-trivia-challenge-c9cd44",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-14T23:00:00+00:00",
     "PcReleaseDate": "2017-10-27T22:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-25T13:04:39.1914861+00:00",
   "LastChanged": "2023-04-25T13:04:39.1914862+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:22.4140506+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:59:20.1299149+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:05:11.7778453+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:59:08.976073+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:04:51.7658149+00:00"
 }

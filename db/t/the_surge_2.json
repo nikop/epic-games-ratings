@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1892,
+  "EOS_Progressed": 1893,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1808,6 +1808,11 @@
       "Time": "2023-07-26T04:03:08.1100223+00:00",
       "NumProgressed": 1892,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-26T07:03:15.550791+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1867,7 +1872,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHV_08",
@@ -1907,7 +1912,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHV_13",
@@ -1955,7 +1960,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHV_19",
@@ -1987,7 +1992,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHV_23",
@@ -2083,7 +2088,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHV_35",
@@ -2091,7 +2096,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHV_36",
@@ -2121,9 +2126,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1439
     },
     {
       "ID": "ACHV_40",
@@ -2179,7 +2184,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHV_47",
@@ -2274,7 +2279,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1892,
+      "Progressed": 1893,
       "Completed": 10
     }
   ],
@@ -2282,8 +2287,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:03:18.4829326+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:03:15.5507903+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:08.4541757+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:57:34.4358796+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:03:18.4830466+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:57:19.9240214+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:03:15.5508398+00:00"
 }

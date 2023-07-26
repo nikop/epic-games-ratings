@@ -2,10 +2,10 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-23T14:57:17.6757123+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:57:56.9425671+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:05:44.1105378+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:57:41.8807115+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:05:25.2109725+00:00"
 }

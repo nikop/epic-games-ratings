@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everything's Coming Up Gigachu | 88.00% | ~30 |
+| Everything's Coming Up Gigachu | 91.00% | ~31 |
 | Cyber Bully | 71.00% | ~24 |
 | Loving Commute | 62.00% | ~21 |
 | Love is in Bloom | 38.00% | ~13 |

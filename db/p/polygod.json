@@ -2,10 +2,10 @@
   "ID": "d02570f640194fd688d4b4aefc81ec64",
   "Name": "POLYGOD",
   "ProductSlug": "polygod-1dde08",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-01T11:00:00+00:00",
     "PcReleaseDate": "2023-07-01T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-03T15:00:25.7620106+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:17.2077451+00:00",
-  "LastUpdate_Ratings": "2023-07-26T06:00:43.7070452+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:03:17.2139729+00:00"
+  "LastUpdate_Ratings": "2023-07-26T07:00:34.3742543+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:03:14.2088689+00:00"
 }

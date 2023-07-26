@@ -6,36 +6,36 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,394 |
-| Photogenic | 88.00% | ~7,150 |
-| Surge Gauntlet Jockey | 85.00% | ~6,906 |
-| Plug It In | 84.00% | ~6,825 |
-| Adventure Time | 80.00% | ~6,500 |
-| Playing With Power | 78.00% | ~6,338 |
-| Coup d'Etat | 59.00% | ~4,794 |
-| You're Fired | 58.00% | ~4,712 |
-| Get Furious | 56.00% | ~4,550 |
-| Gunplay And Cosplay | 55.00% | ~4,469 |
-| Hacks In Stacks | 55.00% | ~4,469 |
-| Meching Enemies | 49.00% | ~3,981 |
-| Ticket Toddler | 44.00% | ~3,575 |
-| Booty Bashing | 41.00% | ~3,331 |
+| Let's Get This Party Started | 91.00% | ~7,396 |
+| Photogenic | 88.00% | ~7,152 |
+| Surge Gauntlet Jockey | 85.00% | ~6,908 |
+| Plug It In | 84.00% | ~6,827 |
+| Adventure Time | 80.00% | ~6,502 |
+| Playing With Power | 77.00% | ~6,258 |
+| Coup d'Etat | 59.00% | ~4,795 |
+| You're Fired | 58.00% | ~4,714 |
+| Get Furious | 56.00% | ~4,551 |
+| Gunplay And Cosplay | 55.00% | ~4,470 |
+| Hacks In Stacks | 55.00% | ~4,470 |
+| Meching Enemies | 49.00% | ~3,982 |
+| Ticket Toddler | 44.00% | ~3,576 |
+| Booty Bashing | 41.00% | ~3,332 |
 | Field Medic | 38.00% | ~3,088 |
-| Here Comes a New Challenger | 37.00% | ~3,006 |
-| Rapid Response | 33.00% | ~2,681 |
+| Here Comes a New Challenger | 37.00% | ~3,007 |
+| Rapid Response | 33.00% | ~2,682 |
 | Surge Ahead | 31.00% | ~2,519 |
 | The Full Monty | 31.00% | ~2,519 |
-| Guardian Angel | 29.00% | ~2,356 |
-| Poppin Noggins | 25.00% | ~2,031 |
-| Clips and Crits | 21.00% | ~1,706 |
-| Grey Goo | 18.00% | ~1,462 |
+| Guardian Angel | 29.00% | ~2,357 |
+| Poppin Noggins | 25.00% | ~2,032 |
+| Clips and Crits | 21.00% | ~1,707 |
+| Grey Goo | 18.00% | ~1,463 |
 | Boss of Bosses | 15.00% | ~1,219 |
 | The Final Blow | 14.00% | ~1,138 |
-| To Be Continued | 13.00% | ~1,056 |
+| To Be Continued | 13.00% | ~1,057 |
 | Light My Fire | 12.00% | ~975 |
 | Seasoned Adventurer | 12.00% | ~975 |
 | 1.21 Gigawatts | 11.00% | ~894 |
-| This Is My Boomstick! | 10.00% | ~812 |
+| This Is My Boomstick! | 10.00% | ~813 |
 | Get In The Ring! | 9.00% | ~731 |
 | Rescue Ranger | 7.00% | ~569 |
 | Ticket Titan | 7.00% | ~569 |
@@ -48,16 +48,16 @@ Number of Ratings: 801  (23.09.2022)
 | Event Horizon | 3.00% | ~244 |
 | Start Your Collection | 3.00% | ~244 |
 | Treasure Hunting | 3.00% | ~244 |
-| Nexuwizard | 2.00% | ~162 |
+| Nexuwizard | 2.00% | ~163 |
 | Everybody Freeze | 1.00% | ~81 |
 | Nature Is Lit | 0.90% | ~73 |
 | The Collector | 0.90% | ~73 |
 | I'm The Pluggernaut | 0.60% | ~49 |
 | Shield and Shred | 0.60% | ~49 |
-| Infinite Adventures! | 0.40% | ~32 |
+| Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,125 (Ranked 123)  
+Progressed: 8,127 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 8,029 | 0 |
 | 2023-07-24 | 8,065 | 0 |
 | 2023-07-25 | 8,121 | 0 |
-| 2023-07-26 | 8,125 | 0 |
+| 2023-07-26 | 8,127 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 383)  
 Sum: 454 (Ranked 303)  

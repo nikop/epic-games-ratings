@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5484,7 +5484,7 @@
       "Count": 565
     }
   ],
-  "EOS_Progressed": 288586,
+  "EOS_Progressed": 288588,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 4,
@@ -15869,6 +15869,11 @@
       "Time": "2023-07-26T06:04:53.672229+00:00",
       "NumProgressed": 288586,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-26T07:04:33.3295291+00:00",
+      "NumProgressed": 288588,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -15880,7 +15885,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34630
+      "UsersEstimate": 34631
     },
     {
       "ID": "PFA_10",
@@ -15968,7 +15973,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11543
+      "UsersEstimate": 11544
     },
     {
       "ID": "PFA_20",
@@ -16160,7 +16165,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11543
+      "UsersEstimate": 11544
     },
     {
       "ID": "PFA_42",
@@ -16208,7 +16213,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31744
+      "UsersEstimate": 31745
     },
     {
       "ID": "PFA_7",
@@ -16239,7 +16244,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288586,
+      "Progressed": 288588,
       "Completed": 434
     }
   ],
@@ -16247,8 +16252,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-26T04:57:40.2876485+00:00",
-  "LastChanged_Achievements": "2023-07-26T06:04:53.6722288+00:00",
+  "LastChanged_Achievements": "2023-07-26T07:04:33.3295284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:58:17.3787979+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:04:53.6723359+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:58:04.5683437+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:04:33.3296156+00:00"
 }

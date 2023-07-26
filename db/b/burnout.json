@@ -2,10 +2,10 @@
   "ID": "eaf6622e52a148bcbc8185051a338976",
   "Name": "BurnOut",
   "ProductSlug": "burnout-c041a6",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.6282067+00:00",
-  "LastUpdate_Ratings": "2023-07-26T05:58:10.4344205+00:00",
-  "LastUpdate_Achievements": "2023-07-26T06:04:48.379944+00:00"
+  "LastUpdate_Ratings": "2023-07-26T06:57:56.4975803+00:00",
+  "LastUpdate_Achievements": "2023-07-26T07:04:28.2346262+00:00"
 }
