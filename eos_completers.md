@@ -6,7 +6,7 @@
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 23.26% |
-| 7 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 23.08% |
+| 7 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 21.43% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -15,7 +15,7 @@
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.12% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.76% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.19% |
 | 19 | [Remains](games/r/remains.md) | 11.11% |
@@ -24,7 +24,7 @@
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.39% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.90% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.87% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.86% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,7 +43,7 @@
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.76% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.74% |
 | 45 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.50% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
@@ -91,7 +91,7 @@
 | 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.67% |
 | 90 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 91 | [Somerville](games/s/somerville.md) | 1.62% |
-| 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.55% |
+| 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.54% |
 | 93 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 94 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
 | 94 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
@@ -108,7 +108,7 @@
 | 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 107 | [Adios](games/a/adios.md) | 0.98% |
 | 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 107 | [Sable](games/s/sable.md) | 0.98% |
+| 109 | [Sable](games/s/sable.md) | 0.97% |
 | 110 | [Hades](games/h/hades.md) | 0.89% |
 | 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
