@@ -9,11 +9,11 @@
 | Book Worm | 79.00% | ~19 |
 | My lost nightingale | 79.00% | ~19 |
 | Ooh, it's shiny! | 79.00% | ~19 |
-| Back to the anvil | 71.00% | ~17 |
+| Back to the anvil | 75.00% | ~18 |
+| Roostwig has entered the building | 71.00% | ~17 |
 | Mystery solved | 67.00% | ~16 |
 | So soothing... | 67.00% | ~16 |
 | NOW GO AWAY! | 67.00% | ~16 |
-| Roostwig has entered the building | 67.00% | ~16 |
 | Honey, honey, honey… | 63.00% | ~15 |
 | Far away from home | 63.00% | ~15 |
 | Kekekeke... | 63.00% | ~15 |

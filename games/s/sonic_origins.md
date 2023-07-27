@@ -21,14 +21,14 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 62.00% | ~211 |
 | Boss Rush Attempt | 57.00% | ~194 |
 | Cleared Sonic the Hedgehog | 56.00% | ~191 |
-| Museum Time | 50.00% | ~170 |
+| Museum Time | 51.00% | ~174 |
 | Very First Mission Clear! | 50.00% | ~170 |
 | Super Sonic | 50.00% | ~170 |
 | Beware Stingers! | 49.00% | ~167 |
 | Shut Down Metal Sonic | 48.00% | ~164 |
 | Cleared Sonic CD | 46.00% | ~157 |
 | Cleared Sonic the Hedgehog 2 | 46.00% | ~157 |
-| Beware Moto Bugs! | 43.00% | ~147 |
+| Beware Moto Bugs! | 44.00% | ~150 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 43.00% | ~147 |
 | All Clear! | 35.00% | ~119 |
 | Lucky Hedgehog | 34.00% | ~116 |

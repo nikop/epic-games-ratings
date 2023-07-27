@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 91,
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39300,
+  "EOS_Progressed": 39302,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6128,6 +6128,11 @@
       "Time": "2023-07-27T19:04:23.0469938+00:00",
       "NumProgressed": 39300,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T20:05:06.7584412+00:00",
+      "NumProgressed": 39302,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6347,7 +6352,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "LOCATION_TEN",
@@ -6562,22 +6567,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39300,
+      "Progressed": 39302,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4137,
-      "Completed": 4137
+      "Progressed": 4139,
+      "Completed": 4139
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:04:23.0469931+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:05:06.7584405+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:59:17.9293322+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:04:23.0470728+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:59:52.5265188+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:05:06.7586078+00:00"
 }

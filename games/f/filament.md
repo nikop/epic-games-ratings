@@ -5,12 +5,12 @@ Rating: 4.32 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~185,640 |
-| Snooper. | 10.00% | ~19,749 |
-| You have to start somewhere, right? | 7.00% | ~13,824 |
-| So you're saying I don't touch these ones? | 6.00% | ~11,849 |
-| Corrupted. | 5.00% | ~9,874 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,874 |
+| Boarded! | 94.00% | ~185,647 |
+| Snooper. | 10.00% | ~19,750 |
+| You have to start somewhere, right? | 7.00% | ~13,825 |
+| So you're saying I don't touch these ones? | 6.00% | ~11,850 |
+| Corrupted. | 5.00% | ~9,875 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,875 |
 | Answers can be found amongst the stars | 3.00% | ~5,925 |
 | Bend to the will of the arrows. | 3.00% | ~5,925 |
 | You've been through a lot. | 2.00% | ~3,950 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 766)
 | Snooper + | 0.40% | ~790 |
 | Corrupted + | 0.30% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,489 (Ranked 56)  
+Progressed: 197,497 (Ranked 56)  
 Completed: 470 (0.24%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,14 +133,14 @@ Completed: 470 (0.24%) (Ranked 162)
 | 2023-07-24 | 197,243 | 469 |
 | 2023-07-25 | 197,328 | 469 |
 | 2023-07-26 | 197,404 | 469 |
-| 2023-07-27 | 197,489 | 470 |
+| 2023-07-27 | 197,497 | 470 |
 ## Awards
-Max (Challenging Puzzles): 558  (Ranked 185)  
-Sum: 672 (Ranked 275)  
-Diff (max vs sum): -90  
+Max (Challenging Puzzles): 559  (Ranked 184)  
+Sum: 673 (Ranked 275)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 558 |
+| This game features Challenging Puzzles | 559 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -174,3 +174,4 @@ Diff (max vs sum): -90
 | 2023-06-21 | 4.32 | 555 | 669 |
 | 2023-06-24 | 4.32 | 557 | 671 |
 | 2023-06-26 | 4.32 | 558 | 672 |
+| 2023-07-27 | 4.32 | 559 | 673 |

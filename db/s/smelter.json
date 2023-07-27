@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:03:25.238614+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:04:10.5960562+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:35.466025+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:59:45.4562364+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:03:25.2386558+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:00:22.9161711+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:04:10.5961261+00:00"
 }

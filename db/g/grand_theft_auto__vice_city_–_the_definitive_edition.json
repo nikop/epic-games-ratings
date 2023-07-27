@@ -544,9 +544,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9258,
+  "EOS_Progressed": 9259,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-07-27T19:04:14.8859188+00:00",
       "NumProgressed": 9258,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-27T20:04:57.5398847+00:00",
+      "NumProgressed": 9259,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7233,7 +7238,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH13",
@@ -7305,7 +7310,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "ACH22",
@@ -7321,7 +7326,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ACH24",
@@ -7361,7 +7366,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH29",
@@ -7416,7 +7421,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9258,
+      "Progressed": 9259,
       "Completed": 43
     }
   ],
@@ -7424,8 +7429,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-27T02:58:38.2115048+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:04:14.885918+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:04:57.5398838+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:58:58.7743473+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:04:14.8859874+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:59:31.5400484+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:04:57.5400045+00:00"
 }

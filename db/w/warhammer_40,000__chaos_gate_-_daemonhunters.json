@@ -630,9 +630,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3051,
+  "EOS_Progressed": 3053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2595,6 +2595,11 @@
       "Time": "2023-07-27T16:04:10.8751185+00:00",
       "NumProgressed": 3051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T20:04:44.8412538+00:00",
+      "NumProgressed": 3053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2772,17 +2777,17 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2796,9 +2801,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "Kills_Exterminator",
@@ -2836,9 +2841,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Vakir",
@@ -2852,9 +2857,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -3149,21 +3154,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3051,
+      "Progressed": 3053,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3051,
+      "Progressed": 3053,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-27T01:49:58.5099342+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:04:03.540877+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:04:44.841253+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:59:31.6911479+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:04:03.5409577+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:00:11.4093321+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:04:44.8414+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -198,7 +198,7 @@
   "Tags": [],
   "EOS_Progressed": 3055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3438,9 +3438,9 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3454,9 +3454,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3574,9 +3574,9 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3599,8 +3599,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-27T11:00:41.1759391+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:01:49.4209844+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:02:59.4921755+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:00:20.7005013+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:01:49.4210443+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:01:07.6396099+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:02:59.4922819+00:00"
 }

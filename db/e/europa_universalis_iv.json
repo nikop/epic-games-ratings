@@ -7480,10 +7480,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 46072,
       "NumberOfAwardsMax": 5587
+    },
+    {
+      "Time": "2023-07-27T19:58:22.7094539+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 46075,
+      "NumberOfAwardsMax": 5587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46072,
+  "NumberOfAwards": 46075,
   "NumberOfAwardsMax": 5587,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7539,7 +7545,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4723
+      "Count": 4726
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7554,9 +7560,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 74832,
+  "EOS_Progressed": 74846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2810,
+  "EOS_NewPlayers": 2804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18284,6 +18290,11 @@
       "Time": "2023-07-27T19:05:39.9300774+00:00",
       "NumProgressed": 74832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T20:06:36.631588+00:00",
+      "NumProgressed": 74846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -18319,7 +18330,7 @@
       "Name": "A Decent Reserve",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_a_heros_welcome",
@@ -18343,7 +18354,7 @@
       "Name": "A Pile of Gold",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_a_protected_market",
@@ -18735,7 +18746,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -18815,7 +18826,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "achievement_colonial_management",
@@ -18967,7 +18978,7 @@
       "Name": "Down Under",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -19295,7 +19306,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5987
+      "UsersEstimate": 5988
     },
     {
       "ID": "achievement_grand_coalition",
@@ -19311,7 +19322,7 @@
       "Name": "Grand Duchy",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_grand_navy",
@@ -19319,7 +19330,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -19487,7 +19498,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_italian_ambition",
@@ -19791,7 +19802,7 @@
       "Name": "Market Control",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_marshy_march",
@@ -19855,7 +19866,7 @@
       "Name": "Multiculturalism",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_my_armies_are_invincible",
@@ -19935,7 +19946,7 @@
       "Name": "No Pirates in my Caribbean",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_no_trail_of_tears",
@@ -19975,7 +19986,7 @@
       "Name": "Not so sad a state...",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_on_the_edge_of_madness",
@@ -20295,7 +20306,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -20575,7 +20586,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5987
+      "UsersEstimate": 5988
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -20615,7 +20626,7 @@
       "Name": "The Chrysanthemum Throne",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_the_coin_is_stronger_than_the_sword",
@@ -20815,7 +20826,7 @@
       "Name": "Three Trivial Tributary Tribes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_tiger_of_mysore",
@@ -20887,7 +20898,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -20911,7 +20922,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_turkish_delight",
@@ -20959,7 +20970,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -20967,7 +20978,7 @@
       "Name": "Vasa or Wettin?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_venetian_sea",
@@ -20991,7 +21002,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5987
+      "UsersEstimate": 5988
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -21103,7 +21114,7 @@
       "Name": "World Discoverer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_yarr_harr_a_pirates_life_for_me",
@@ -21126,21 +21137,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 74832,
+      "Progressed": 74846,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 74832,
+      "Progressed": 74846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-27T18:57:59.6899941+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:05:39.9300766+00:00",
+  "LastChanged": "2023-07-27T19:58:22.7094536+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:06:36.631587+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.0524617+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:57:59.6899948+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:05:39.931235+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:58:22.7094547+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:06:36.6328664+00:00"
 }

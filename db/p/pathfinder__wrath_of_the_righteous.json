@@ -3254,7 +3254,7 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10621,
+  "EOS_Progressed": 10623,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
@@ -9489,6 +9489,11 @@
       "Time": "2023-07-27T19:03:03.6581605+00:00",
       "NumProgressed": 10621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T20:03:45.0209548+00:00",
+      "NumProgressed": 10623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9500,7 +9505,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "02_BurningCity",
@@ -9516,7 +9521,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "04_FithCrusade",
@@ -9524,7 +9529,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -10427,21 +10432,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9403,
+      "Progressed": 9405,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10621,
+      "Progressed": 10623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-26T15:59:43.5553207+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:03:03.6581599+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:03:45.020954+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:59:13.4937769+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:03:03.658342+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:59:46.9160167+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:03:45.0212491+00:00"
 }

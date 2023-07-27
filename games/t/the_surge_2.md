@@ -6,26 +6,26 @@ Rating: 4.25 (Ranked 812)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,522 |
-| Don't I Know You...? | 76.00% | ~1,446 |
-| Jailbreak | 65.00% | ~1,236 |
+| Don't I Know You...? | 77.00% | ~1,465 |
+| Jailbreak | 65.00% | ~1,237 |
 | HEADSHOT! | 38.00% | ~723 |
 | Suited and Booted | 38.00% | ~723 |
 | Sleeping With The Fishes | 35.00% | ~666 |
 | Overheated | 30.00% | ~571 |
 | High Performance | 30.00% | ~571 |
 | Powered Up | 28.00% | ~533 |
-| Studied The Blade | 24.00% | ~456 |
-| Home Invasion | 23.00% | ~437 |
-| Luminary | 22.00% | ~418 |
-| It's a Trap | 22.00% | ~418 |
-| True Survivor | 21.00% | ~399 |
-| Offensive Defense | 20.00% | ~380 |
-| Shocking | 20.00% | ~380 |
-| Court Martial | 19.00% | ~361 |
-| Unforeseeable Consequences | 19.00% | ~361 |
-| Dead Again | 18.00% | ~342 |
-| Clean Cut | 18.00% | ~342 |
-| Full Arsenal | 17.00% | ~323 |
+| Studied The Blade | 24.00% | ~457 |
+| Home Invasion | 23.00% | ~438 |
+| Luminary | 22.00% | ~419 |
+| It's a Trap | 22.00% | ~419 |
+| True Survivor | 21.00% | ~400 |
+| Offensive Defense | 20.00% | ~381 |
+| Shocking | 20.00% | ~381 |
+| Court Martial | 19.00% | ~362 |
+| Unforeseeable Consequences | 19.00% | ~362 |
+| Dead Again | 18.00% | ~343 |
+| Clean Cut | 18.00% | ~343 |
+| Full Arsenal | 17.00% | ~324 |
 | Can't Trust Banks | 15.00% | ~285 |
 | Mommy Dearest | 13.00% | ~247 |
 | Bad Dog | 13.00% | ~247 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 812)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,902 (Ranked 167)  
+Progressed: 1,903 (Ranked 167)  
 Completed: 10 (0.53%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 10 (0.53%) (Ranked 128)
 | 2023-07-24 | 1,882 | 10 |
 | 2023-07-25 | 1,891 | 10 |
 | 2023-07-26 | 1,896 | 10 |
-| 2023-07-27 | 1,902 | 10 |
+| 2023-07-27 | 1,903 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

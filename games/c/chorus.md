@@ -10,7 +10,7 @@ Number of Ratings: 58  (23.09.2022)
 | Voices from the Past | 78.00% | ~842 |
 | Space Traveler | 78.00% | ~842 |
 | Demigod | 76.00% | ~821 |
-| The Great Destroyer | 74.00% | ~799 |
+| The Great Destroyer | 75.00% | ~810 |
 | Shields Down | 72.00% | ~778 |
 | Safe Home | 67.00% | ~724 |
 | Helping Hand | 66.00% | ~713 |
@@ -21,7 +21,7 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 53.00% | ~572 |
 | Huntress | 53.00% | ~572 |
 | Born to Drift | 51.00% | ~551 |
-| Relentless | 48.00% | ~518 |
+| Relentless | 49.00% | ~529 |
 | The Path Forward | 45.00% | ~486 |
 | Disruption | 44.00% | ~475 |
 | Phoenix | 43.00% | ~464 |

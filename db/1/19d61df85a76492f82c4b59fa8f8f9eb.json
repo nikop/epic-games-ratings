@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.37,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -931,6 +931,11 @@
       "Time": "2023-07-27T15:06:35.0642934+00:00",
       "NumProgressed": 203,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-27T20:06:02.8972224+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -940,9 +945,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -958,15 +963,15 @@
       "Name": "Viola Organista",
       "Percentage": 42,
       "XP": 165,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 165,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -989,14 +994,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:05:11.0268118+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:06:02.8972216+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:57:22.030425+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:05:11.026824+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:57:33.9071016+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:06:02.8972432+00:00"
 }

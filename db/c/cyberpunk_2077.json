@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9515,10 +9515,10 @@
       "Count": 5426
     }
   ],
-  "EOS_Progressed": 867909,
+  "EOS_Progressed": 867911,
   "EOS_Completed": 1909,
-  "EOS_NewPlayers": 1179,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1173,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -20200,6 +20200,11 @@
       "Time": "2023-07-27T19:03:44.7166057+00:00",
       "NumProgressed": 867909,
       "NumCompleted": 1909
+    },
+    {
+      "Time": "2023-07-27T20:04:33.4632773+00:00",
+      "NumProgressed": 867911,
+      "NumCompleted": 1909
     }
   ],
   "TotalAchievements": 44,
@@ -20227,7 +20232,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138865
+      "UsersEstimate": 138866
     },
     {
       "ID": "Cyberjunkie",
@@ -20283,7 +20288,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130186
+      "UsersEstimate": 130187
     },
     {
       "ID": "Gunslinger",
@@ -20307,7 +20312,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121507
+      "UsersEstimate": 121508
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -20427,7 +20432,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590178
+      "UsersEstimate": 590179
     },
     {
       "ID": "TheHermit",
@@ -20435,7 +20440,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208298
+      "UsersEstimate": 208299
     },
     {
       "ID": "TheHightPriestess",
@@ -20451,7 +20456,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295089
+      "UsersEstimate": 295090
     },
     {
       "ID": "TheStar",
@@ -20475,7 +20480,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234335
+      "UsersEstimate": 234336
     },
     {
       "ID": "TheWorld",
@@ -20507,7 +20512,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199619
+      "UsersEstimate": 199620
     },
     {
       "ID": "TrueWarrior",
@@ -20515,7 +20520,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130186
+      "UsersEstimate": 130187
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -20531,7 +20536,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121507
+      "UsersEstimate": 121508
     },
     {
       "ID": "VForVendetta",
@@ -20562,15 +20567,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 867909,
+      "Progressed": 867911,
       "Completed": 1909
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-27T13:58:54.8393928+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:03:44.7166051+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:04:33.4632767+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:31.2727335+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:58:34.1486111+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:03:44.7167026+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:59:02.0325919+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:04:33.4634922+00:00"
 }

@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 482)
 | Space Society | 13.00% | ~380 |
 | A Thousand Strong | 13.00% | ~380 |
 | Permanent Redesigns | 11.00% | ~322 |
-| Guy de Borderlands | 10.00% | ~292 |
-| Fully Recycled | 10.00% | ~292 |
-| Ain't Nobody Got Time for That | 10.00% | ~292 |
-| The Ship of Theseus | 10.00% | ~292 |
+| Guy de Borderlands | 10.00% | ~293 |
+| Fully Recycled | 10.00% | ~293 |
+| Ain't Nobody Got Time for That | 10.00% | ~293 |
+| The Ship of Theseus | 10.00% | ~293 |
 | Hope Seeker | 9.00% | ~263 |
 | A Hunk of Junk | 8.00% | ~234 |
 | Exceeding Capacity | 8.00% | ~234 |
@@ -36,14 +36,14 @@ Rating: 4.55 (Ranked 482)
 | Sustainable Energy | 3.00% | ~88 |
 | BRAWL! | 3.00% | ~88 |
 | What the Ruins Teach Us | 3.00% | ~88 |
-| Mutual Loyalty | 2.00% | ~58 |
-| In Dolos We Trust | 2.00% | ~58 |
-| Praise the Hull! | 2.00% | ~58 |
-| Space Greenhouse | 2.00% | ~58 |
-| Delivery! | 2.00% | ~58 |
-| Pedal to the Metal | 2.00% | ~58 |
-| Help of the Forgotten Member | 2.00% | ~58 |
-| Pulsar Disciple | 2.00% | ~58 |
+| Mutual Loyalty | 2.00% | ~59 |
+| In Dolos We Trust | 2.00% | ~59 |
+| Praise the Hull! | 2.00% | ~59 |
+| Space Greenhouse | 2.00% | ~59 |
+| Delivery! | 2.00% | ~59 |
+| Pedal to the Metal | 2.00% | ~59 |
+| Help of the Forgotten Member | 2.00% | ~59 |
+| Pulsar Disciple | 2.00% | ~59 |
 | Tiqqun Contender | 1.00% | ~29 |
 | Catastrophe Avoided | 1.00% | ~29 |
 | You Had One Job... | 1.00% | ~29 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,925 (Ranked 157)  
+Progressed: 2,926 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 2,907 | 0 |
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
-| 2023-07-27 | 2,925 | 0 |
+| 2023-07-27 | 2,926 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

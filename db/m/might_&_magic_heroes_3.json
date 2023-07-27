@@ -2,12 +2,12 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 83,
+  "Ranking_Rating": 90,
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 330,
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 165,
   "RatingHistory": [
     {
@@ -1085,10 +1085,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 326,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-07-27T19:59:09.1223104+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 326,
+  "NumberOfAwards": 327,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1108,7 +1114,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Relaxing",
@@ -1170,8 +1176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-07-27T17:58:34.416265+00:00",
+  "LastChanged": "2023-07-27T19:59:09.1223101+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.0434396+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:58:39.3669691+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:06:20.52419+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:59:09.1223109+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:07:13.685828+00:00"
 }

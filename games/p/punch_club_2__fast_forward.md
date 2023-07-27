@@ -12,7 +12,7 @@
 | First defeat | 79.00% | ~129 |
 | Old movies enjoyer | 79.00% | ~129 |
 | Fitness professional | 77.00% | ~126 |
-| Depressed visitor | 76.00% | ~124 |
+| Depressed visitor | 77.00% | ~126 |
 | Neurotrainer – power gainer! | 75.00% | ~122 |
 | Employee of the week | 75.00% | ~122 |
 | Your own amateur gym | 73.00% | ~119 |
@@ -39,25 +39,25 @@
 | Escaped from a big trouble | 40.00% | ~65 |
 | Now you are worthy | 39.00% | ~64 |
 | No blades in the gym | 37.00% | ~60 |
-| Guiding on the right path | 36.00% | ~59 |
+| Guiding on the right path | 37.00% | ~60 |
 | Mysterious voice | 34.00% | ~55 |
-| Fight is life | 32.00% | ~52 |
+| Fight is life | 33.00% | ~54 |
 | Responsible approach | 31.00% | ~51 |
 | Deal with life | 29.00% | ~47 |
 | Champion – no way back | 29.00% | ~47 |
 | Get out of my apartment! | 29.00% | ~47 |
 | Mom got better | 28.00% | ~46 |
+| GYM professional | 28.00% | ~46 |
 | Poisoned fighter | 28.00% | ~46 |
 | The die is cast | 28.00% | ~46 |
 | Underground dwellers | 28.00% | ~46 |
-| GYM professional | 26.00% | ~42 |
 | Seashell hunter | 26.00% | ~42 |
 | Gang wrangler | 25.00% | ~41 |
 | Anyone can resist | 25.00% | ~41 |
 | Problems of cyborgs | 24.00% | ~39 |
 | The last bell ring | 23.00% | ~37 |
+| Undercover robot | 23.00% | ~37 |
 | Trap disarmed | 22.00% | ~36 |
-| Undercover robot | 22.00% | ~36 |
 | Another world | 21.00% | ~34 |
 | The lonesome road | 21.00% | ~34 |
 | Keep nature safe | 21.00% | ~34 |
@@ -69,7 +69,7 @@
 | Family comes first | 20.00% | ~33 |
 | Silver’s past | 18.00% | ~29 |
 | Better cooking at home | 17.00% | ~28 |
-| The only right decision | 15.00% | ~24 |
+| The only right decision | 16.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 163 (Ranked 292)  
 Completed: 5 (3.07%) (Ranked 60)  

@@ -1396,9 +1396,9 @@
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
       "SetID": "7o8nc5m",
       "Name": "Beware Moto Bugs!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -1484,9 +1484,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -1652,8 +1652,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-07-27T19:02:11.1705987+00:00",
+  "LastChanged_Achievements": "2023-07-27T20:03:08.1162876+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.4163627+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:58:27.1917378+00:00",
-  "LastUpdate_Achievements": "2023-07-27T19:02:11.170636+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:58:52.9700382+00:00",
+  "LastUpdate_Achievements": "2023-07-27T20:03:08.1164035+00:00"
 }
