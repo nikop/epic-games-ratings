@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~159 |
+| In the Black | 59.00% | ~160 |
 | Starting Skyward | 51.00% | ~138 |
 | Grime is Not Good | 45.00% | ~122 |
-| Campaign Launch | 39.00% | ~105 |
+| Campaign Launch | 38.00% | ~103 |
 | Dinner Dash | 38.00% | ~103 |
 | Floor Galore | 37.00% | ~100 |
-| Need a Consult | 36.00% | ~97 |
+| Need a Consult | 35.00% | ~95 |
 | Upgrade Unlock | 34.00% | ~92 |
 | It's Technical | 34.00% | ~92 |
-| Delegate Maintenance | 32.00% | ~86 |
+| Delegate Maintenance | 32.00% | ~87 |
 | Proper Walls | 30.00% | ~81 |
-| Destination Destiny | 29.00% | ~78 |
+| Destination Destiny | 28.00% | ~76 |
 | Happy Tenants | 26.00% | ~70 |
 | Your Prestige is Rising | 24.00% | ~65 |
 | Potent Potables | 24.00% | ~65 |
@@ -28,26 +28,26 @@
 | Emporium Empire | 20.00% | ~54 |
 | Get Electrified | 20.00% | ~54 |
 | Artfully Done | 19.00% | ~51 |
-| Tasty Profits | 19.00% | ~51 |
 | We Don't Need No Education | 19.00% | ~51 |
 | Rehab Expert | 18.00% | ~49 |
+| Tasty Profits | 18.00% | ~49 |
 | Cashflow Chief | 17.00% | ~46 |
 | Under One Roof | 16.00% | ~43 |
 | Established Fame | 16.00% | ~43 |
-| Starred Dining | 15.00% | ~40 |
-| Terrifically Trashed | 15.00% | ~40 |
+| Starred Dining | 15.00% | ~41 |
+| Terrifically Trashed | 15.00% | ~41 |
 | Smooth Operator | 14.00% | ~38 |
 | Boutique Benefits | 14.00% | ~38 |
 | Thrilled Tenants | 14.00% | ~38 |
 | 28 Days Later | 11.00% | ~30 |
 | Swimming in Surplus | 11.00% | ~30 |
 | Master of Puppets | 10.00% | ~27 |
-| Aestheticly Pleased | 9.00% | ~24 |
-| Plaza Plan | 9.00% | ~24 |
 | Refined Palates | 9.00% | ~24 |
 | Phoning It In | 9.00% | ~24 |
 | First 100 Days | 8.00% | ~22 |
+| Aestheticly Pleased | 8.00% | ~22 |
 | Meet Me at HQ | 8.00% | ~22 |
+| Plaza Plan | 8.00% | ~22 |
 | Careful Constructor | 7.00% | ~19 |
 | Maximum Reuse | 7.00% | ~19 |
 | Revenue Royalty | 7.00% | ~19 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270 (Ranked 255)  
+Progressed: 271 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
 | 2023-07-26 | 270 | 0 |
+| 2023-07-27 | 271 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

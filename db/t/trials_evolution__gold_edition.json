@@ -2,7 +2,7 @@
   "ID": "a15e35cda898480d8fed214dc889f199",
   "Name": "Trials Evolution: Gold Edition",
   "ProductSlug": "trials-evolution",
-  "Ranking_Rating": 463,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 515,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN,KR"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 28,
   "RatingHistory": [
     {
@@ -133,6 +133,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-27T10:01:41.4693221+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -151,8 +157,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:52.9839346+00:00",
   "FirstSeenRating": "2022-08-16T12:02:15.8329553+00:00",
-  "LastChanged": "2023-06-17T03:59:45.1263854+00:00",
+  "LastChanged": "2023-07-27T10:01:41.4693218+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.5456029+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:00:18.1527897+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:03:46.6792616+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:01:41.4693225+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:04:26.0081453+00:00"
 }

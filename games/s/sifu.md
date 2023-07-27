@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,044 |
-| Project Arena | 4.00% | ~835 |
+| Project Arena | 4.00% | ~836 |
 | The Old Grandmaster | 2.00% | ~14,232 |
 | The Assault | 2.00% | ~14,232 |
 | The Hateful Pole Fighter | 2.00% | ~14,232 |
@@ -39,10 +39,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.70% | ~4,981 |
 | Deadly Venom | 0.70% | ~146 |
 | A Touch of Acumen | 0.70% | ~146 |
-| Iron Money | 0.60% | ~4,269 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,269 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,269 |
-| Sword Stained With Blood | 0.60% | ~4,269 |
+| Iron Money | 0.60% | ~4,270 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,270 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,270 |
+| Sword Stained With Blood | 0.60% | ~4,270 |
 | Prodigal Child | 0.50% | ~3,558 |
 | Martial Artist | 0.40% | ~2,846 |
 | Knowledge Greed | 0.40% | ~2,846 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,583 (Ranked 20)  
+Progressed: 711,587 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
 | 2023-07-26 | 711,558 | 12,833 |
-| 2023-07-27 | 711,583 | 12,833 |
+| 2023-07-27 | 711,587 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,307  (Ranked 53)  
 Sum: 10,819 (Ranked 79)  

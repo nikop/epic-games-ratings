@@ -822,7 +822,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6216,
+  "EOS_Progressed": 6217,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -4392,6 +4392,11 @@
       "Time": "2023-07-27T06:05:51.4955747+00:00",
       "NumProgressed": 6216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T10:07:48.8280364+00:00",
+      "NumProgressed": 6217,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4443,7 +4448,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "Control_All_Relics",
@@ -4459,7 +4464,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -4467,7 +4472,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4539,7 +4544,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4595,7 +4600,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Level_5_Ship",
@@ -4619,7 +4624,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Play_1000_Hours",
@@ -4723,7 +4728,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4731,7 +4736,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "War_With_5_Factions",
@@ -4899,7 +4904,7 @@
       "Name": "Fleet Victory",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Win_Conquest",
@@ -4978,15 +4983,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6216,
+      "Progressed": 6217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-26T11:57:53.7083727+00:00",
-  "LastChanged_Achievements": "2023-07-27T09:06:10.3326845+00:00",
+  "LastChanged_Achievements": "2023-07-27T10:07:48.8280359+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.2564155+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:57:57.2712663+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:06:10.332764+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:58:20.6959285+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:07:48.8281352+00:00"
 }

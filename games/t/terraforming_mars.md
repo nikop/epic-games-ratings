@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~26,212 |
-| Final touch | 37.00% | ~25,522 |
-| Prop-M Rover | 33.00% | ~22,763 |
-| Changing the Planet | 29.00% | ~20,004 |
-| Sojourner | 27.00% | ~18,624 |
-| New Home | 24.00% | ~16,555 |
-| Beagle 2 | 24.00% | ~16,555 |
-| Winner Winner Terraformer | 23.00% | ~15,865 |
+| It's a steal! | 38.00% | ~26,213 |
+| Final touch | 37.00% | ~25,523 |
+| Prop-M Rover | 33.00% | ~22,764 |
+| Changing the Planet | 29.00% | ~20,005 |
+| Sojourner | 27.00% | ~18,625 |
+| New Home | 24.00% | ~16,556 |
+| Beagle 2 | 24.00% | ~16,556 |
+| Winner Winner Terraformer | 23.00% | ~15,866 |
 | Project Manager | 20.00% | ~13,796 |
 | Curiosity | 20.00% | ~13,796 |
 | Collector | 20.00% | ~13,796 |
 | Master | 20.00% | ~13,796 |
-| No Longer Red | 19.00% | ~13,106 |
-| Self-sufficient | 19.00% | ~13,106 |
+| No Longer Red | 19.00% | ~13,107 |
+| Self-sufficient | 19.00% | ~13,107 |
 | Money money | 16.00% | ~11,037 |
 | Biggest Reward | 14.00% | ~9,657 |
-| Acquired knowledge | 13.00% | ~8,967 |
-| First Journey | 12.00% | ~8,277 |
-| Most Achievements | 12.00% | ~8,277 |
-| Hellenic Elysium | 12.00% | ~8,277 |
-| Grand champion | 12.00% | ~8,277 |
+| Acquired knowledge | 13.00% | ~8,968 |
+| First Journey | 12.00% | ~8,278 |
+| Most Achievements | 12.00% | ~8,278 |
+| Hellenic Elysium | 12.00% | ~8,278 |
+| Grand champion | 12.00% | ~8,278 |
 | Landlord | 11.00% | ~7,588 |
 | Spirit | 11.00% | ~7,588 |
 | Ultimate success | 10.00% | ~6,898 |
 | Variety Expert | 9.00% | ~6,208 |
-| Frequent tester | 8.00% | ~5,518 |
-| Determined | 8.00% | ~5,518 |
+| Frequent tester | 8.00% | ~5,519 |
+| Determined | 8.00% | ~5,519 |
 | Terraformer | 4.00% | ~2,759 |
 | Team Effort | 3.00% | ~2,069 |
 | Opportunity | 3.00% | ~2,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,979 (Ranked 76)  
+Progressed: 68,982 (Ranked 76)  
 Completed: 82 (0.12%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,15 +135,15 @@ Completed: 82 (0.12%) (Ranked 184)
 | 2023-07-24 | 68,677 | 78 |
 | 2023-07-25 | 68,813 | 79 |
 | 2023-07-26 | 68,943 | 81 |
-| 2023-07-27 | 68,979 | 82 |
+| 2023-07-27 | 68,982 | 82 |
 ## Awards
 Max (Relaxing): 506  (Ranked 194)  
-Sum: 3,129 (Ranked 155)  
+Sum: 3,130 (Ranked 155)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 506 |
-| This game is Highly Recommended | 490 |
+| This game is Highly Recommended | 491 |
 | This game has Quickly Understood Controls | 454 |
 | This game has Competitive Players | 446 |
 | This game is Extremely Fun | 444 |
@@ -298,4 +298,4 @@ Diff (max vs sum): 39
 | 2023-07-21 | 4.54 | - | 506 | 3,124 |
 | 2023-07-24 | 4.54 | - | 506 | 3,126 |
 | 2023-07-26 | 4.54 | - | 506 | 3,128 |
-| 2023-07-27 | 4.54 | - | 506 | 3,129 |
+| 2023-07-27 | 4.54 | - | 506 | 3,130 |

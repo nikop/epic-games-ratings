@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1350,6 +1350,11 @@
       "Time": "2023-07-26T19:02:39.3253889+00:00",
       "NumProgressed": 580,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T10:02:46.8488707+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1553,7 +1558,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TheGuardian",
@@ -1575,9 +1580,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 145
     },
     {
       "ID": "Toxic",
@@ -1616,7 +1621,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 581,
       "Completed": 1
     }
   ],
@@ -1624,8 +1629,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-27T09:01:00.4516089+00:00",
+  "LastChanged_Achievements": "2023-07-27T10:02:46.8488701+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:58:22.8557247+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:01:00.4516345+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:58:55.7152062+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:02:46.8489043+00:00"
 }

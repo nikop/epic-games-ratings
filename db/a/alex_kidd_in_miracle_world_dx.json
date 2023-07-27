@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -206,6 +206,11 @@
       "Time": "2023-07-26T18:07:06.5527397+00:00",
       "NumProgressed": 260,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T10:08:00.8595806+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -271,9 +276,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -289,7 +294,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -344,7 +349,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 4
     }
   ],
@@ -352,8 +357,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-27T09:06:19.4503112+00:00",
+  "LastChanged_Achievements": "2023-07-27T10:08:00.8595802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.4255335+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:58:33.9300222+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:06:19.4503229+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:59:11.1611618+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:08:00.859592+00:00"
 }

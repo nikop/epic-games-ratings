@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,318 |
-| Beast Intentions | 2.00% | ~4,318 |
+| A Brief Tour of the Realms | 2.00% | ~4,319 |
+| Beast Intentions | 2.00% | ~4,319 |
 | Maddening | 1.00% | ~2,159 |
 | The Silken Swamp | 1.00% | ~2,159 |
 | Supply Run | 1.00% | ~2,159 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.40% | ~864 |
 | Bazaar Companions | 0.40% | ~729 |
 | Bahamut's Army | 0.40% | ~729 |
+| Luigi After Hours | 0.40% | ~729 |
 | Krux's Speed Run | 0.40% | ~729 |
 | Animated Giff | 0.40% | ~729 |
 | Upholding the Law | 0.30% | ~648 |
@@ -68,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
 | Tower on the Lake | 0.30% | ~648 |
+| Seeking Allies | 0.30% | ~648 |
 | Exploring Port Nyanzaru | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
 | Escort to Waterdeep | 0.30% | ~648 |
@@ -79,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~648 |
 | Willing to Sacrifice | 0.30% | ~547 |
 | Devilishly Cold | 0.30% | ~547 |
-| Luigi After Hours | 0.30% | ~547 |
 | Electric Mayhem | 0.30% | ~547 |
 | 3,720 to 1 | 0.30% | ~547 |
 | Starving in the Jungle | 0.20% | ~432 |
@@ -135,7 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~432 |
 | The Crumbling Temple | 0.20% | ~432 |
 | The Death Curse | 0.20% | ~432 |
-| Seeking Allies | 0.20% | ~432 |
+| Treasure Hunters | 0.20% | ~432 |
 | Nimble Escape | 0.20% | ~432 |
 | Are Ya Chicken? | 0.20% | ~432 |
 | Useless Allies | 0.20% | ~432 |
@@ -276,7 +277,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~216 |
 | Our Time To Shine | 0.10% | ~216 |
 | Review by the Blackstaff | 0.10% | ~182 |
-| Treasure Hunters | 0.10% | ~216 |
 | The Guardian of Orolunga | 0.10% | ~216 |
 | Think Your Way Out Of It | 0.10% | ~216 |
 | Air's Getting Pretty Thin | 0.10% | ~216 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,918 (Ranked 53)  
-Completed: 2,126 (0.98%) (Ranked 107)  
+Progressed: 215,928 (Ranked 53)  
+Completed: 2,126 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,126 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,918 | 2,126 |
+| 2023-07-27 | 215,928 | 2,126 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

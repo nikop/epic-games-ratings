@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2721,6 +2721,11 @@
       "Time": "2023-07-27T06:04:29.2256482+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-27T10:05:58.3170467+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -2748,7 +2753,7 @@
       "Name": "Artist in the making",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_animals_completed",
@@ -2764,7 +2769,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ach_architecture_completed",
@@ -2828,7 +2833,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ach_magic_wand",
@@ -2859,14 +2864,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-27T09:04:52.3258139+00:00",
+  "LastChanged_Achievements": "2023-07-27T10:05:58.3170461+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.4941332+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:57:26.0268097+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:04:52.3258356+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:57:38.3232219+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:05:58.3170752+00:00"
 }

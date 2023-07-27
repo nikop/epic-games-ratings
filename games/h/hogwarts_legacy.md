@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,639 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,640 |
 | First Class Student | 11.00% | ~31,753 |
 | A Keen Sense of Spell | 10.00% | ~28,866 |
 | Troll with the Punches | 10.00% | ~28,866 |
-| Grappling with a Graphorn | 9.00% | ~25,979 |
-| The One Who Mastered Memories | 9.00% | ~25,979 |
-| The Hallowed Hero | 9.00% | ~25,979 |
-| The Defender of Dragons | 9.00% | ~25,979 |
-| Loom for Improvement | 9.00% | ~25,979 |
-| A Talent for Spending | 9.00% | ~25,979 |
-| Coasting Along | 9.00% | ~25,979 |
-| That's a Keeper | 9.00% | ~25,979 |
+| Grappling with a Graphorn | 9.00% | ~25,980 |
+| The One Who Mastered Memories | 9.00% | ~25,980 |
+| The Hallowed Hero | 9.00% | ~25,980 |
+| The Defender of Dragons | 9.00% | ~25,980 |
+| Loom for Improvement | 9.00% | ~25,980 |
+| A Talent for Spending | 9.00% | ~25,980 |
+| Coasting Along | 9.00% | ~25,980 |
+| That's a Keeper | 9.00% | ~25,980 |
 | The Hero of Hogwarts | 8.00% | ~23,093 |
 | Challenge Accepted | 8.00% | ~23,093 |
 | Followed the Butterflies | 8.00% | ~23,093 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,433 |
 | Third Time's a Charm | 5.00% | ~14,433 |
 | Raising Expectations | 5.00% | ~14,433 |
-| The Toast of the Town | 4.00% | ~11,546 |
-| The Ends Petrify the Means | 4.00% | ~11,546 |
+| The Toast of the Town | 4.00% | ~11,547 |
+| The Ends Petrify the Means | 4.00% | ~11,547 |
 | Going Through the Potions | 3.00% | ~8,660 |
 | Room with a View | 3.00% | ~8,660 |
 | The Intrepid Explorer | 3.00% | ~8,660 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,732 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,660 (Ranked 42)  
+Progressed: 288,663 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
-| 2023-07-27 | 288,660 | 434 |
+| 2023-07-27 | 288,663 | 434 |
 ## Awards
 Max (Character Customization): 21,300  (Ranked 17)  
-Sum: 39,968 (Ranked 30)  
+Sum: 39,970 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 899 |
 | This game has Amazing Storytelling | 899 |
 | This game has Amazing Characters | 876 |
-| This game is Highly Recommended | 851 |
+| This game is Highly Recommended | 853 |
 | This game has Quickly Understood Controls | 812 |
 | This game has Beautiful Visuals | 752 |
 | This game has a Creative Community | 566 |
@@ -296,4 +296,4 @@ Diff (max vs sum): -13
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
 | 2023-07-25 | 4.77 | 21,271 | 39,887 |
 | 2023-07-26 | 4.77 | 21,300 | 39,951 |
-| 2023-07-27 | 4.77 | 21,300 | 39,968 |
+| 2023-07-27 | 4.77 | 21,300 | 39,970 |

@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
+| Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~52 |
 | Glorious | 0.40% | ~52 |
 | Keystone | 0.40% | ~52 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.40% | ~52 |
 | Zoroastrianism | 0.40% | ~52 |
 | Naming Landmarks | 0.40% | ~52 |
-| Trade Caravan | 0.40% | ~52 |
 | Regicide | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |

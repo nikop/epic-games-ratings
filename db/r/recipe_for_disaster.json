@@ -2,7 +2,7 @@
   "ID": "615a4dc5c85c4c28a390dda4298acd80",
   "Name": "Recipe for Disaster",
   "ProductSlug": "recipe-for-disaster-83726f",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 828,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 515,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-02-11T02:06:38.672535+00:00",
@@ -259,6 +259,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-27T09:58:32.0246523+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -277,8 +283,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-15T21:31:09.5308139+00:00",
   "FirstSeenRating": "2023-02-11T02:06:38.6725347+00:00",
-  "LastChanged": "2023-07-07T08:58:06.584638+00:00",
+  "LastChanged": "2023-07-27T09:58:32.024652+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.153139+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:58:05.0508087+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:03:10.3655313+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:58:32.0246526+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:03:26.0305908+00:00"
 }

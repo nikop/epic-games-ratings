@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215918,
+  "EOS_Progressed": 215928,
   "EOS_Completed": 2126,
-  "EOS_NewPlayers": 2291,
+  "EOS_NewPlayers": 2292,
   "EOS_NewCompleters": 67,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15799,6 +15799,11 @@
       "Time": "2023-07-27T09:02:15.2268628+00:00",
       "NumProgressed": 215918,
       "NumCompleted": 2126
+    },
+    {
+      "Time": "2023-07-27T10:03:05.9789884+00:00",
+      "NumProgressed": 215928,
+      "NumCompleted": 2126
     }
   ],
   "TotalAchievements": 512,
@@ -15810,7 +15815,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "objective_completed_10",
@@ -16178,7 +16183,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "objective_completed_110",
@@ -17512,9 +17517,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_378",
@@ -17600,9 +17605,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_390",
@@ -19840,9 +19845,9 @@
       "ID": "objective_completed_1376",
       "SetID": "415jc5c",
       "Name": "Luigi After Hours",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1380",
@@ -19905,21 +19910,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182192,
-      "Completed": 3012
+      "Progressed": 182202,
+      "Completed": 3013
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215918,
+      "Progressed": 215928,
       "Completed": 2126
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T09:02:15.2268624+00:00",
+  "LastChanged_Achievements": "2023-07-27T10:03:05.9789875+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:58:34.3143919+00:00",
-  "LastUpdate_Achievements": "2023-07-27T09:02:15.2292119+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:59:11.7515618+00:00",
+  "LastUpdate_Achievements": "2023-07-27T10:03:05.981693+00:00"
 }
