@@ -1,22 +1,22 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.73 (Ranked 159)  
+Rating: 4.73 (Ranked 158)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~1,066 |
-| Lovebirds | 50.00% | ~675 |
+| Balding bloot! | 79.00% | ~1,067 |
+| Lovebirds | 50.00% | ~676 |
 | Life’s short, ride long | 45.00% | ~608 |
 | Hug therapy | 44.00% | ~594 |
 | Over my dead body | 41.00% | ~554 |
 | Shake the rust off their feet | 21.00% | ~284 |
 | My little pony | 20.00% | ~270 |
-| Strike! | 19.00% | ~256 |
-| A love supreme | 19.00% | ~256 |
+| Strike! | 19.00% | ~257 |
+| A love supreme | 19.00% | ~257 |
 | In my shoes | 17.00% | ~230 |
-| Like new! | 15.00% | ~202 |
+| Like new! | 15.00% | ~203 |
 | Head in the clouds | 14.00% | ~189 |
 | Don't look back | 13.00% | ~176 |
 | Heartstrings | 13.00% | ~176 |
@@ -32,12 +32,12 @@ Number of Ratings: 38  (23.09.2022)
 | Second thoughts | 4.00% | ~54 |
 | Mooning the moon | 4.00% | ~54 |
 | Strip-a-bobble | 4.00% | ~54 |
-| Pearls before Birble | 3.00% | ~40 |
-| Last minute | 3.00% | ~40 |
+| Pearls before Birble | 3.00% | ~41 |
+| Last minute | 3.00% | ~41 |
 | Thar she blows | 2.00% | ~27 |
 | À la carte | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350 (Ranked 178)  
+Progressed: 1,351 (Ranked 178)  
 Completed: 9 (0.67%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 9 (0.67%) (Ranked 117)
 | 2023-07-24 | 1,342 | 9 |
 | 2023-07-25 | 1,346 | 9 |
 | 2023-07-26 | 1,350 | 9 |
+| 2023-07-27 | 1,351 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

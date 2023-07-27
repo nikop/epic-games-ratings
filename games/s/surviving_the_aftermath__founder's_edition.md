@@ -6,27 +6,27 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,496 |
+| First Step | 71.00% | ~5,497 |
 | Leader | 60.00% | ~4,645 |
 | Explorer | 53.00% | ~4,103 |
-| Healer | 52.00% | ~4,025 |
+| Healer | 52.00% | ~4,026 |
 | Aspiring Inventor | 44.00% | ~3,406 |
 | Adventurer | 41.00% | ~3,174 |
 | Famous Healer | 38.00% | ~2,942 |
-| Local Leader | 35.00% | ~2,709 |
+| Local Leader | 35.00% | ~2,710 |
 | Famous Explorer | 34.00% | ~2,632 |
 | New Opportunities | 34.00% | ~2,632 |
 | Energized | 33.00% | ~2,555 |
 | The Long Haul | 33.00% | ~2,555 |
 | The Great Healer | 31.00% | ~2,400 |
 | Survivor | 31.00% | ~2,400 |
-| Cleaner | 28.00% | ~2,167 |
-| Catastrofan | 28.00% | ~2,167 |
+| Cleaner | 28.00% | ~2,168 |
+| Catastrofan | 28.00% | ~2,168 |
 | Legendary Explorer | 27.00% | ~2,090 |
 | Finders, Keepers | 26.00% | ~2,013 |
-| Top Notch | 25.00% | ~1,935 |
-| Ice Lakes | 23.00% | ~1,780 |
-| Mentor | 23.00% | ~1,780 |
+| Top Notch | 25.00% | ~1,936 |
+| Ice Lakes | 23.00% | ~1,781 |
+| Mentor | 23.00% | ~1,781 |
 | Great Leader | 22.00% | ~1,703 |
 | Real Survivor | 22.00% | ~1,703 |
 | Merchant | 21.00% | ~1,626 |
@@ -46,8 +46,8 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~619 |
 | New Eden | 7.00% | ~542 |
 | Tailored to fit | 7.00% | ~542 |
-| Really Friendly | 6.00% | ~464 |
-| Amped Up | 6.00% | ~464 |
+| Really Friendly | 6.00% | ~465 |
+| Amped Up | 6.00% | ~465 |
 | Look, no Hands! | 5.00% | ~387 |
 | Luxurious Living | 4.00% | ~310 |
 | Mogul | 3.00% | ~232 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,741 (Ranked 125)  
+Progressed: 7,742 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 7,673 | 0 |
 | 2023-07-25 | 7,711 | 0 |
 | 2023-07-26 | 7,737 | 0 |
-| 2023-07-27 | 7,741 | 0 |
+| 2023-07-27 | 7,742 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 681 (Ranked 273)  

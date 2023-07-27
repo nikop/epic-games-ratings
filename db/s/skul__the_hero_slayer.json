@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -902,9 +902,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8012,
+  "EOS_Progressed": 8013,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3822,6 +3822,11 @@
       "Time": "2023-07-27T04:05:47.7171302+00:00",
       "NumProgressed": 8012,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-27T08:06:04.2908509+00:00",
+      "NumProgressed": 8013,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3873,7 +3878,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "FakeGoddessGone",
@@ -3913,7 +3918,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "HeroSlayer",
@@ -3921,7 +3926,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "LeoniasFall",
@@ -3953,7 +3958,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "SavedElderEnt",
@@ -3993,7 +3998,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7451
+      "UsersEstimate": 7452
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4017,22 +4022,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8012,
+      "Progressed": 8013,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:04:41.6392229+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:06:04.2908504+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:59:18.3514524+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:04:41.6392589+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:00:34.9478326+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:06:04.2909216+00:00"
 }

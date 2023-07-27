@@ -2,13 +2,13 @@
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic: Chess Royale",
   "ProductSlug": "might-and-magic-chess-royale",
-  "Ranking_Rating": 556,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -944,6 +944,6 @@
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
   "LastChanged": "2023-07-26T15:00:03.8096985+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:40.5960421+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:59:51.3708193+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:03:38.3402423+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:01:22.6782664+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:04:36.0184463+00:00"
 }

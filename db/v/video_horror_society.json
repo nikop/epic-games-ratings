@@ -2,20 +2,20 @@
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "Video Horror Society",
   "ProductSlug": "vhs",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2099-07-18T17:00:00+00:00",
     "PcReleaseDate": "2099-07-18T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "NumberOfRatings": 559,
   "RatingHistory": [
     {
@@ -1040,6 +1040,12 @@
       "Rating": 4.27,
       "NumberOfAwards": 875,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-07-27T08:01:57.0889901+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 875,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
@@ -1137,8 +1143,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2023-06-24T04:00:06.7786033+00:00",
+  "LastChanged": "2023-07-27T08:01:57.0889899+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.2041338+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:00:20.6446258+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:02:21.099953+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:01:57.0889908+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:03:22.1316167+00:00"
 }

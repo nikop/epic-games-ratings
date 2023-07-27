@@ -16,17 +16,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.80% | ~1,457 |
 | Flight of the Kindori Pod | 0.70% | ~1,275 |
 | Tall Tales | 0.60% | ~1,093 |
+| Seeds of Destruction | 0.60% | ~1,093 |
 | Vecna Loots! | 0.60% | ~1,093 |
 | Topolah's Tower | 0.60% | ~1,093 |
 | Pros and CONs | 0.50% | ~1,080 |
 | Wet Feet | 0.50% | ~1,080 |
 | Hatchlings Underfoot | 0.50% | ~1,080 |
 | Don't Look Up! | 0.50% | ~1,080 |
-| Seeds of Destruction | 0.50% | ~911 |
 | Return to the Tomb | 0.50% | ~911 |
 | Heatwave | 0.50% | ~911 |
 | Unearthed Evil | 0.50% | ~1,080 |
 | The Champion's Guide to Wildspace | 0.50% | ~911 |
+| Not That Type of Helm! | 0.50% | ~911 |
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
 | The Witchlight Carnival | 0.40% | ~729 |
@@ -48,7 +49,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.40% | ~864 |
 | The Dinner Party | 0.40% | ~864 |
 | The Botched Kidnapping | 0.40% | ~864 |
-| Not That Type of Helm! | 0.40% | ~729 |
 | Bazaar Companions | 0.40% | ~729 |
 | Bahamut's Army | 0.40% | ~729 |
 | Krux's Speed Run | 0.40% | ~729 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends and Foes | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
 | An Unexpected Geist | 0.20% | ~364 |
+| The Spire of Iriolarthas | 0.20% | ~364 |
 | The Prince of a Thousand Enemies | 0.20% | ~364 |
 | Downfall | 0.20% | ~364 |
 | Slack-jawed Lorna | 0.20% | ~364 |
@@ -177,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Breathe the Marsh Gas | 0.10% | ~182 |
 | Don't Blast the Brigands | 0.10% | ~182 |
 | Don't Squeeze the Spiders | 0.10% | ~182 |
-| The Spire of Iriolarthas | 0.10% | ~182 |
 | Always Watching | 0.10% | ~182 |
 | The Fall of Ythryn | 0.10% | ~182 |
 | Icequake | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,901 (Ranked 53)  
-Completed: 2,126 (0.98%) (Ranked 108)  
+Progressed: 215,911 (Ranked 53)  
+Completed: 2,126 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,126 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,901 | 2,126 |
+| 2023-07-27 | 215,911 | 2,126 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

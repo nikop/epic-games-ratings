@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -643,9 +643,9 @@
       "ID": "questDefeatMainEnemy",
       "SetID": "ci65fo0",
       "Name": "The most important achievement",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questDefender",
@@ -739,9 +739,9 @@
       "ID": "questReturnSun",
       "SetID": "ci65fo0",
       "Name": "Let there be light!",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questRobHut",
@@ -787,9 +787,9 @@
       "ID": "questSavePrincessFinal",
       "SetID": "ci65fo0",
       "Name": "Great rescuer",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questSaveRoyalSmith",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:03:46.7898907+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:04:48.0360889+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:57:21.2378529+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:03:46.7899728+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:57:41.4171389+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:04:48.0361597+00:00"
 }

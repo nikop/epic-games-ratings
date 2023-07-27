@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3393,9 +3393,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3578,8 +3578,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-25T20:00:25.2549705+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:00:50.4381505+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:02:44.2764913+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:59:31.6466324+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:00:50.4382064+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:00:54.5569726+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:02:44.2766334+00:00"
 }

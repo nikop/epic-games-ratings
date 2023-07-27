@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 45.00% | ~40 |
+| The 4 Pillars | 46.00% | ~41 |
 | First Step | 44.00% | ~39 |
 | Indebted | 9.00% | ~8 |
 | Capitalism | 7.00% | ~6 |
@@ -17,26 +17,27 @@
 | Jantine: the Misfortunes of Evil | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | There's something in those trees | 2.00% | ~2 |
+| Desert Power | 2.00% | ~2 |
 | Property Bro | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
 | Food Tycoon | 2.00% | ~2 |
 | Medicine Tycoon | 2.00% | ~2 |
 | Ammo Tycoon | 2.00% | ~2 |
+| Supersoldier | 1.00% | ~1 |
 | Perfect Soldier | 1.00% | ~1 |
 | Outdoor Decorator | 1.00% | ~1 |
-| Desert Power | 1.00% | ~1 |
+| No News is Good News | 1.00% | ~1 |
+| Overpopulation | 1.00% | ~1 |
 | Fuel Tycoon | 1.00% | ~1 |
+| Winter Soldier | 1.00% | ~1 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
-| Supersoldier | 0.00% | ~0 |
 | Crisis Committee | 0.00% | ~0 |
 | Vive le Résistance | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
-| No News is Good News | 0.00% | ~0 |
 | Snowman | 0.00% | ~0 |
-| Overpopulation | 0.00% | ~0 |
 | Human Resources | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
-| Winter Soldier | 0.00% | ~0 |
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

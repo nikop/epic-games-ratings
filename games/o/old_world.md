@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.40% | ~52 |
 | Lighthouse | 0.40% | ~52 |
 | Pyramids | 0.40% | ~52 |
+| Learn to Play 1 | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
 | Carthaginian Paganism | 0.40% | ~52 |
 | Roman Paganism | 0.40% | ~52 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.30% | ~39 |
 | Musaeum | 0.30% | ~39 |
 | Necropolis | 0.30% | ~39 |
-| Learn to Play 1 | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
 | Babylonian Paganism | 0.30% | ~39 |
@@ -182,6 +182,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.10% | ~13 |
 | Philip's Golden Crown | 0.10% | ~13 |
 | Philip's Silver Crown | 0.10% | ~13 |
+| Queen of Politics | 0.10% | ~13 |
+| Queen of Intrigue | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
@@ -276,8 +278,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Queen of Politics | 0.00% | ~0 |
-| Queen of Intrigue | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |

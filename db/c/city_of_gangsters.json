@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -475,9 +475,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 332772,
+  "EOS_Progressed": 332775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1682,
+  "EOS_NewPlayers": 1677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11095,6 +11095,11 @@
       "Time": "2023-07-27T07:05:54.5965987+00:00",
       "NumProgressed": 332772,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T08:07:47.6120109+00:00",
+      "NumProgressed": 332775,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -11130,7 +11135,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ach005",
@@ -11202,7 +11207,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ach014",
@@ -11210,7 +11215,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46588
+      "UsersEstimate": 46589
     },
     {
       "ID": "ach015",
@@ -11234,7 +11239,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43260
+      "UsersEstimate": 43261
     },
     {
       "ID": "ach018",
@@ -11314,7 +11319,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 153075
+      "UsersEstimate": 153076
     },
     {
       "ID": "ach028",
@@ -11330,7 +11335,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33277
+      "UsersEstimate": 33278
     },
     {
       "ID": "ach030",
@@ -11338,7 +11343,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ach031",
@@ -11410,7 +11415,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33277
+      "UsersEstimate": 33278
     },
     {
       "ID": "ach040",
@@ -11458,7 +11463,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43260
+      "UsersEstimate": 43261
     },
     {
       "ID": "ach046",
@@ -11538,7 +11543,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ach056",
@@ -11570,7 +11575,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33277
+      "UsersEstimate": 33278
     },
     {
       "ID": "ach060",
@@ -11586,7 +11591,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ach062",
@@ -11618,7 +11623,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46588
+      "UsersEstimate": 46589
     },
     {
       "ID": "ach067",
@@ -11642,7 +11647,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46588
+      "UsersEstimate": 46589
     },
     {
       "ID": "ach070",
@@ -11745,7 +11750,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 332772,
+      "Progressed": 332775,
       "Completed": 5
     }
   ],
@@ -11753,8 +11758,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-23T20:58:17.9975628+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:05:54.5965983+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:07:47.6120101+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.9048687+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:58:12.1918228+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:05:54.59676+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:58:53.7449857+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:07:47.6121757+00:00"
 }

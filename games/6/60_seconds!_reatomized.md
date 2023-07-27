@@ -5,28 +5,28 @@ Rating: 4.65 (Ranked 300)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,453 |
-| I will survive! | 92.00% | ~4,405 |
-| All thumbs | 91.00% | ~4,357 |
-| Home, sweet home | 90.00% | ~4,309 |
-| Survivalist | 89.00% | ~4,261 |
-| One way ticket | 83.00% | ~3,974 |
+| Prepper | 93.00% | ~4,454 |
+| I will survive! | 92.00% | ~4,406 |
+| All thumbs | 91.00% | ~4,358 |
+| Home, sweet home | 90.00% | ~4,310 |
+| Survivalist | 89.00% | ~4,262 |
+| One way ticket | 83.00% | ~3,975 |
 | Last man standing | 78.00% | ~3,735 |
-| Family guy | 76.00% | ~3,639 |
-| Out of the Bag | 74.00% | ~3,543 |
-| The Dark Side | 68.00% | ~3,256 |
-| Duck and cover! | 64.00% | ~3,064 |
+| Family guy | 76.00% | ~3,640 |
+| Out of the Bag | 74.00% | ~3,544 |
+| The Dark Side | 68.00% | ~3,257 |
+| Duck and cover! | 64.00% | ~3,065 |
 | Souper! | 62.00% | ~2,969 |
-| Pacifist | 57.00% | ~2,729 |
-| 2-1-6 | 56.00% | ~2,681 |
+| Pacifist | 57.00% | ~2,730 |
+| 2-1-6 | 56.00% | ~2,682 |
 | A gift | 51.00% | ~2,442 |
-| Girl Power | 46.00% | ~2,202 |
+| Girl Power | 46.00% | ~2,203 |
 | What goes around... | 42.00% | ~2,011 |
 | Be Prepared | 36.00% | ~1,724 |
 | Unbreakable | 35.00% | ~1,676 |
 | This is the end | 33.00% | ~1,580 |
 | Atomic drill | 32.00% | ~1,532 |
-| Gotta get 'em all | 31.00% | ~1,484 |
+| Gotta get 'em all | 31.00% | ~1,485 |
 | Disco Roach | 27.00% | ~1,293 |
 | Dawkins Residence | 20.00% | ~958 |
 | Rescue time! | 17.00% | ~814 |
@@ -66,7 +66,7 @@ Rating: 4.65 (Ranked 300)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,788 (Ranked 139)  
+Progressed: 4,789 (Ranked 139)  
 Completed: 1 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.02%) (Ranked 222)
 | 2023-07-24 | 4,765 | 1 |
 | 2023-07-25 | 4,777 | 1 |
 | 2023-07-26 | 4,787 | 1 |
-| 2023-07-27 | 4,788 | 1 |
+| 2023-07-27 | 4,789 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

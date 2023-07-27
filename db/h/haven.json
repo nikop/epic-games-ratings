@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 159,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1293,6 +1293,11 @@
       "Time": "2023-07-26T20:06:47.4823241+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-27T08:08:12.5068476+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1304,7 +1309,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "10",
@@ -1320,7 +1325,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "12",
@@ -1368,7 +1373,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "18",
@@ -1376,7 +1381,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "19",
@@ -1424,7 +1429,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "24",
@@ -1456,7 +1461,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "3",
@@ -1536,22 +1541,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:06:12.8135148+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:08:12.5068469+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.0234782+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:59:35.7195936+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:06:12.8135465+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:01:00.4057787+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:08:12.5068847+00:00"
 }

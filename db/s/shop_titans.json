@@ -5290,9 +5290,9 @@
       "Count": 3713
     }
   ],
-  "EOS_Progressed": 133325,
+  "EOS_Progressed": 133331,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15195,6 +15195,11 @@
       "Time": "2023-07-27T07:03:07.3624271+00:00",
       "NumProgressed": 133325,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-27T08:03:43.6575595+00:00",
+      "NumProgressed": 133331,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -16020,9 +16025,9 @@
       "ID": "tutorial",
       "SetID": "anfd17p",
       "Name": "Titan\u0027s First Steps",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 400
     },
     {
       "ID": "twinenchant01",
@@ -16101,15 +16106,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133325,
+      "Progressed": 133331,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-27T04:59:06.1758697+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:03:07.3624266+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:03:43.6575588+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:58:44.4843539+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:03:07.3626418+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:59:43.8363204+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:03:43.657842+00:00"
 }

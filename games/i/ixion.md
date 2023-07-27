@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,921 (Ranked 156)  
+Progressed: 2,922 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 2,907 | 0 |
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
-| 2023-07-27 | 2,921 | 0 |
+| 2023-07-27 | 2,922 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

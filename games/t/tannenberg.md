@@ -6,50 +6,50 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~109,374 |
-| Comeback | 81.00% | ~99,543 |
-| Information is Key | 80.00% | ~98,314 |
-| Unlucky | 71.00% | ~87,253 |
-| Anarchist | 68.00% | ~83,567 |
-| Wallhack | 65.00% | ~79,880 |
-| Steady Supply | 60.00% | ~73,735 |
-| Lucky Shot | 53.00% | ~65,133 |
-| Forward Observer | 52.00% | ~63,904 |
-| Ring Ring! | 52.00% | ~63,904 |
-| Bossing Around | 45.00% | ~55,301 |
-| Frostbite | 45.00% | ~55,301 |
-| Night Owl | 44.00% | ~54,072 |
-| Strength in Numbers | 44.00% | ~54,072 |
-| Fog of War | 41.00% | ~50,386 |
-| Stronghold Denied | 39.00% | ~47,928 |
-| Anyone Else? | 38.00% | ~46,699 |
-| Rasputin | 38.00% | ~46,699 |
-| Hydra | 36.00% | ~44,241 |
-| This Belongs to Us Now | 36.00% | ~44,241 |
-| Stronghold | 35.00% | ~43,012 |
-| Leeroy | 33.00% | ~40,554 |
-| Lost Batallion | 33.00% | ~40,554 |
-| This is MY Machine Gun! | 31.00% | ~38,097 |
-| Together As One | 31.00% | ~38,097 |
-| Gavrilo Princip | 27.00% | ~33,181 |
-| Lead Harvest | 25.00% | ~30,723 |
-| Skynet Confirmed | 23.00% | ~28,265 |
-| Kesselschlacht | 22.00% | ~27,036 |
-| Democracy Works! | 20.00% | ~24,578 |
-| Switch, Please! | 19.00% | ~23,349 |
+| Immovable Object | 89.00% | ~109,378 |
+| Comeback | 81.00% | ~99,547 |
+| Information is Key | 80.00% | ~98,318 |
+| Unlucky | 71.00% | ~87,257 |
+| Anarchist | 68.00% | ~83,570 |
+| Wallhack | 65.00% | ~79,883 |
+| Steady Supply | 60.00% | ~73,738 |
+| Lucky Shot | 53.00% | ~65,135 |
+| Forward Observer | 52.00% | ~63,906 |
+| Ring Ring! | 52.00% | ~63,906 |
+| Bossing Around | 45.00% | ~55,304 |
+| Frostbite | 45.00% | ~55,304 |
+| Night Owl | 44.00% | ~54,075 |
+| Strength in Numbers | 44.00% | ~54,075 |
+| Fog of War | 41.00% | ~50,388 |
+| Stronghold Denied | 39.00% | ~47,930 |
+| Anyone Else? | 38.00% | ~46,701 |
+| Rasputin | 38.00% | ~46,701 |
+| Hydra | 36.00% | ~44,243 |
+| This Belongs to Us Now | 36.00% | ~44,243 |
+| Stronghold | 35.00% | ~43,014 |
+| Leeroy | 33.00% | ~40,556 |
+| Lost Batallion | 33.00% | ~40,556 |
+| This is MY Machine Gun! | 31.00% | ~38,098 |
+| Together As One | 31.00% | ~38,098 |
+| Gavrilo Princip | 27.00% | ~33,182 |
+| Lead Harvest | 25.00% | ~30,724 |
+| Skynet Confirmed | 23.00% | ~28,266 |
+| Kesselschlacht | 22.00% | ~27,037 |
+| Democracy Works! | 20.00% | ~24,579 |
+| Switch, Please! | 19.00% | ~23,350 |
 | I've Seen It All | 18.00% | ~22,121 |
 | Tourist | 18.00% | ~22,121 |
 | At Least This Way I Can Win... | 17.00% | ~20,892 |
 | Oops! | 17.00% | ~20,892 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~19,663 |
-| Butcher | 12.00% | ~14,747 |
-| Before the Leaves Fall | 10.00% | ~12,289 |
-| Close Call | 10.00% | ~12,289 |
-| Pinpoint | 10.00% | ~12,289 |
-| Tannenberg | 9.00% | ~11,060 |
-| For the Emperor | 8.00% | ~9,831 |
-| Hawk Eye | 8.00% | ~9,831 |
-| Hötzendorf | 7.00% | ~8,602 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~19,664 |
+| Butcher | 12.00% | ~14,748 |
+| Before the Leaves Fall | 10.00% | ~12,290 |
+| Close Call | 10.00% | ~12,290 |
+| Pinpoint | 10.00% | ~12,290 |
+| Tannenberg | 9.00% | ~11,061 |
+| For the Emperor | 8.00% | ~9,832 |
+| Hawk Eye | 8.00% | ~9,832 |
+| Hötzendorf | 7.00% | ~8,603 |
 | Equality For All | 6.00% | ~7,374 |
 | Crack Shot | 5.00% | ~6,145 |
 | From Russia with Love | 5.00% | ~6,145 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,106 |
 | Road to Berlin | 0.60% | ~737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,892 (Ranked 65)  
+Progressed: 122,897 (Ranked 65)  
 Completed: 28 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 28 (0.02%) (Ranked 222)
 | 2023-07-24 | 122,518 | 28 |
 | 2023-07-25 | 122,680 | 28 |
 | 2023-07-26 | 122,849 | 28 |
-| 2023-07-27 | 122,892 | 28 |
+| 2023-07-27 | 122,897 | 28 |
 ## Awards
 Max (Competitive Players): 328  (Ranked 226)  
 Sum: 2,867 (Ranked 167)  

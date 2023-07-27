@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 556)  
+Rating: 4.50 (Ranked 555)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,865 (Ranked 36)  
+Progressed: 463,868 (Ranked 36)  
 Completed: 16 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 16 (0.00%) (Ranked 242)
 | 2023-07-24 | 463,715 | 16 |
 | 2023-07-25 | 463,790 | 16 |
 | 2023-07-26 | 463,841 | 16 |
-| 2023-07-27 | 463,865 | 16 |
+| 2023-07-27 | 463,868 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 214 (Ranked 359)  

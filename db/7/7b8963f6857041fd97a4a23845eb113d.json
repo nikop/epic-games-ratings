@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "CH4_CLOAKROOM",
       "SetID": "6d348d1",
       "Name": "The Last Drawing",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CH4_ROOF",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:04:27.6269893+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:05:44.3228075+00:00",
   "LastUpdate_AppInfo": "2023-07-20T16:57:13.475894+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:57:20.9216755+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:04:27.6270024+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:57:41.0309314+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:05:44.3228211+00:00"
 }

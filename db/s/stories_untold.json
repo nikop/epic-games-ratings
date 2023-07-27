@@ -2,13 +2,13 @@
   "ID": "313f3719063340f886d90e70ae503cd4",
   "Name": "Stories Untold",
   "ProductSlug": "stories-untold",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2017-02-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 28,
   "RatingHistory": [
     {
@@ -180,6 +180,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-27T07:57:26.9141538+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -197,8 +203,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
-  "LastChanged": "2023-03-31T05:57:44.8898422+00:00",
+  "LastChanged": "2023-07-27T07:57:26.9141535+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4529031+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:57:10.8274157+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:02:21.5291718+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:57:26.9141541+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:03:22.8225645+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_prestige_2",
@@ -1114,17 +1114,17 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_retail_1",
@@ -1138,9 +1138,9 @@
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_retail_3",
@@ -1282,9 +1282,9 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -1299,8 +1299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-27T07:02:24.342466+00:00",
+  "LastChanged_Achievements": "2023-07-27T08:03:26.7570576+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:58:21.0332363+00:00",
-  "LastUpdate_Achievements": "2023-07-27T07:02:24.3425762+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:59:09.1509628+00:00",
+  "LastUpdate_Achievements": "2023-07-27T08:03:26.7571574+00:00"
 }
