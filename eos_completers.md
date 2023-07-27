@@ -21,7 +21,7 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [Remains](games/r/remains.md) | 10.87% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.29% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.88% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -39,8 +39,8 @@
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.95% |
-| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -57,9 +57,9 @@
 | 55 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.47% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.45% |
 | 57 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.18% |
-| 59 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
+| 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.16% |
 | 61 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
 | 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.94% |
@@ -74,7 +74,7 @@
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.44% |
-| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.40% |
+| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
