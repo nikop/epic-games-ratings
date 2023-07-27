@@ -326,6 +326,7 @@
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
 | [Nocturnal](../games/2/2755e0338895421ebeb217fe1f742e7b.md) | 11 | 1,000 |
 | [NOOB - The Factionless](../games/n/noob_-_the_factionless.md) | 73 | 1,000 |
+| [Nova Strike](../games/b/b1555bed500048b79f6fad321d5a7202.md) | 18 | 1,000 |
 | [Occupy Mars: The Game](../games/o/occupy_mars__the_game.md) | 48 | 1,000 |
 | [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
@@ -510,6 +511,7 @@
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
+| [Tour de France 2023](../games/c/c20377f30dfa44eb929b0081c1182381.md) | 43 | 1,000 |
 | [Tower Princess](../games/t/tower_princess.md) | 36 | 1,000 |
 | [Townsmen - A Kingdom Rebuilt](../games/t/townsmen_-_a_kingdom_rebuilt.md) | 101 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |

@@ -125,8 +125,8 @@
 | 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 122 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 126 | [Them and Us](games/t/them_and_us.md) | 0.55% |
-| 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 126 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 126 | [Them and Us](games/t/them_and_us.md) | 0.54% |
 | 128 | [Potion Permit](games/p/potion_permit.md) | 0.53% |
 | 128 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
 | 128 | [Train Valley](games/t/train_valley.md) | 0.53% |
@@ -490,6 +490,7 @@
 | 242 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
 | 242 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 0.00% |
 | 242 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
+| 242 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 0.00% |
 | 242 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
 | 242 | [Train Valley 2](games/t/train_valley_2.md) | 0.00% |
 | 242 | [Train World](games/t/train_world.md) | 0.00% |
@@ -512,4 +513,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,951 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,953 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

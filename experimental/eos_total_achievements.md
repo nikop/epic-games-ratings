@@ -172,6 +172,7 @@
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
+| [Tour de France 2023](../games/c/c20377f30dfa44eb929b0081c1182381.md) | 43 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
@@ -441,6 +442,7 @@
 | [Figment 2: Creed Valley](../games/f/figment_2__creed_valley.md) | 18 | 1,000 |
 | [FutureGrind](../games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 18 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
+| [Nova Strike](../games/b/b1555bed500048b79f6fad321d5a7202.md) | 18 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |

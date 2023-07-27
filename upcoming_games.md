@@ -11,6 +11,7 @@
 | [Hombre](games/1/12351c3d2ae8457684e4dbfb93c04a5c.md) | 2023-07-31 | - |  | - | - |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-07-31 | - |  | - | - |
 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2023-07-31 | - |  | - | - |
+| [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | 2023-08-02 | - |  | - | - |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-08-02 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 0 | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | - |
@@ -147,7 +148,6 @@
 | [Mars Tactics](games/m/mars_tactics.md) | 2023-12-31 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2023-12-31 | - |  | - | - |
-| [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | 2023-12-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-12-31 | - |  | - | - |
 | [Ova Magica](games/o/ova_magica.md) | 2023-12-31 | - |  | - | - |
 | [Parkour Legends](games/p/parkour_legends.md) | 2023-12-31 | - |  | - | - |
