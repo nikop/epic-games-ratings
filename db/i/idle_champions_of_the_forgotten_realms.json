@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5314,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215862,
-  "EOS_Completed": 2123,
-  "EOS_NewPlayers": 2305,
-  "EOS_NewCompleters": 64,
+  "EOS_Progressed": 215878,
+  "EOS_Completed": 2124,
+  "EOS_NewPlayers": 2310,
+  "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15769,6 +15769,11 @@
       "Time": "2023-07-27T03:03:06.5910921+00:00",
       "NumProgressed": 215862,
       "NumCompleted": 2123
+    },
+    {
+      "Time": "2023-07-27T04:03:24.3579882+00:00",
+      "NumProgressed": 215878,
+      "NumCompleted": 2124
     }
   ],
   "TotalAchievements": 512,
@@ -15780,7 +15785,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "objective_completed_10",
@@ -15914,9 +15919,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1061",
@@ -16148,7 +16153,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "objective_completed_110",
@@ -16252,7 +16257,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_1121",
@@ -16396,7 +16401,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_1152",
@@ -16500,7 +16505,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_1170",
@@ -16644,7 +16649,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_1203",
@@ -16756,7 +16761,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_130",
@@ -16884,7 +16889,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_149",
@@ -16900,7 +16905,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_150",
@@ -16964,7 +16969,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_164",
@@ -16972,7 +16977,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_165",
@@ -17004,7 +17009,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_17",
@@ -17012,7 +17017,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_170",
@@ -17108,7 +17113,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_20",
@@ -17116,7 +17121,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_208",
@@ -17124,7 +17129,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_209",
@@ -17196,7 +17201,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_231",
@@ -19875,21 +19880,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182136,
+      "Progressed": 182152,
       "Completed": 3009
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215862,
-      "Completed": 2123
+      "Progressed": 215878,
+      "Completed": 2124
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T03:03:06.5910915+00:00",
+  "LastChanged_Achievements": "2023-07-27T04:03:24.3579876+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:58:32.4723814+00:00",
-  "LastUpdate_Achievements": "2023-07-27T03:03:06.5943372+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:58:44.2572666+00:00",
+  "LastUpdate_Achievements": "2023-07-27T04:03:24.3603879+00:00"
 }

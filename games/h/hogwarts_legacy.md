@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 109)
 | A Talent for Spending | 9.00% | ~25,978 |
 | Coasting Along | 9.00% | ~25,978 |
 | That's a Keeper | 9.00% | ~25,978 |
-| The Hero of Hogwarts | 8.00% | ~23,091 |
-| Challenge Accepted | 8.00% | ~23,091 |
-| Followed the Butterflies | 8.00% | ~23,091 |
-| Rising From the Ashes | 8.00% | ~23,091 |
+| The Hero of Hogwarts | 8.00% | ~23,092 |
+| Challenge Accepted | 8.00% | ~23,092 |
+| Followed the Butterflies | 8.00% | ~23,092 |
+| Rising From the Ashes | 8.00% | ~23,092 |
 | A Sallow Grave | 7.00% | ~20,205 |
 | The Spell Master | 7.00% | ~20,205 |
 | The Avenging Gazelle | 6.00% | ~17,319 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 109)
 | Finishing Touches | 1.00% | ~2,886 |
 | A Forte for Achievement | 1.00% | ~2,886 |
 | Merlin's Beard! | 0.80% | ~2,309 |
-| Spilled Milk | 0.70% | ~2,020 |
+| Spilled Milk | 0.70% | ~2,021 |
 | The Nature of the Beast | 0.60% | ~1,732 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,642 (Ranked 42)  
+Progressed: 288,645 (Ranked 42)  
 Completed: 434 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 434 (0.15%) (Ranked 177)
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
-| 2023-07-27 | 288,642 | 434 |
+| 2023-07-27 | 288,645 | 434 |
 ## Awards
 Max (Character Customization): 21,300  (Ranked 17)  
-Sum: 39,951 (Ranked 30)  
+Sum: 39,954 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -165,7 +165,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 899 |
 | This game has Amazing Characters | 876 |
 | This game is Highly Recommended | 851 |
-| This game has Quickly Understood Controls | 809 |
+| This game has Quickly Understood Controls | 812 |
 | This game has Beautiful Visuals | 752 |
 | This game has a Creative Community | 566 |
 ## Ratings History
@@ -296,3 +296,4 @@ Diff (max vs sum): -13
 | 2023-07-24 | 4.77 | 21,242 | 39,818 |
 | 2023-07-25 | 4.77 | 21,271 | 39,887 |
 | 2023-07-26 | 4.77 | 21,300 | 39,951 |
+| 2023-07-27 | 4.77 | 21,300 | 39,954 |

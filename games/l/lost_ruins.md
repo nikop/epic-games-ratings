@@ -31,7 +31,7 @@
 | Arrive Home | 3.00% | ~12 |
 | Holy Knight | 3.00% | ~12 |
 | Hoarder | 3.00% | ~12 |
-| Marksman | 2.00% | ~8 |
+| Marksman | 3.00% | ~12 |
 | Meat Lover | 2.00% | ~8 |
 | Sling of David | 2.00% | ~8 |
 | Assassin | 1.00% | ~4 |

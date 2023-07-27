@@ -5370,9 +5370,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711566,
+  "EOS_Progressed": 711568,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14555,6 +14555,11 @@
       "Time": "2023-07-27T03:06:31.8409019+00:00",
       "NumProgressed": 711566,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-27T04:07:38.8031375+00:00",
+      "NumProgressed": 711568,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14772,9 +14777,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 14231
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14965,21 +14970,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20867,
+      "Progressed": 20869,
       "Completed": 10447
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711566,
+      "Progressed": 711568,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-26T19:00:27.0271539+00:00",
-  "LastChanged_Achievements": "2023-07-27T03:06:31.8409013+00:00",
+  "LastChanged_Achievements": "2023-07-27T04:07:38.8031368+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:59:19.0924939+00:00",
-  "LastUpdate_Achievements": "2023-07-27T03:06:31.8410405+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:59:43.5870096+00:00",
+  "LastUpdate_Achievements": "2023-07-27T04:07:38.803324+00:00"
 }

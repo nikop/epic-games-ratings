@@ -6,14 +6,14 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,617 |
-| Hey Good Hookin | 66.00% | ~3,141 |
+| Fish Just Got Reel | 76.00% | ~3,618 |
+| Hey Good Hookin | 66.00% | ~3,142 |
 | I'm on a Boat! | 57.00% | ~2,713 |
-| Can you smell what the Rod is Hooking | 51.00% | ~2,427 |
+| Can you smell what the Rod is Hooking | 51.00% | ~2,428 |
 | Scaling up | 50.00% | ~2,380 |
 | Ready to Rod and Roll | 42.00% | ~1,999 |
 | More Fish in the Sea | 42.00% | ~1,999 |
-| License to Gill | 33.00% | ~1,570 |
+| License to Gill | 33.00% | ~1,571 |
 | Fish Out of Water | 32.00% | ~1,523 |
 | Things that go Splash in the Night | 27.00% | ~1,285 |
 | Goldfish? | 27.00% | ~1,285 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,759 (Ranked 140)  
+Progressed: 4,760 (Ranked 140)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 4,738 | 0 |
 | 2023-07-25 | 4,749 | 0 |
 | 2023-07-26 | 4,758 | 0 |
-| 2023-07-27 | 4,759 | 0 |
+| 2023-07-27 | 4,760 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 448)  
 Sum: 158 (Ranked 387)  

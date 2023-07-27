@@ -10,21 +10,21 @@
 | First winning | 85.00% | ~134 |
 | Your first job | 85.00% | ~134 |
 | First defeat | 80.00% | ~126 |
-| Old movies enjoyer | 79.00% | ~125 |
-| Fitness professional | 77.00% | ~122 |
+| Old movies enjoyer | 80.00% | ~126 |
+| Fitness professional | 78.00% | ~123 |
 | Depressed visitor | 77.00% | ~122 |
-| Neurotrainer – power gainer! | 75.00% | ~118 |
-| Employee of the week | 75.00% | ~118 |
+| Neurotrainer – power gainer! | 76.00% | ~120 |
+| Employee of the week | 76.00% | ~120 |
 | Your own amateur gym | 73.00% | ~115 |
 | Run K, run! | 70.00% | ~111 |
 | No bullying more | 66.00% | ~104 |
 | Hello, world! | 66.00% | ~104 |
 | Fighting is cool | 65.00% | ~103 |
+| Pal of your father? | 61.00% | ~96 |
 | Employee of the month | 61.00% | ~96 |
-| Pal of your father? | 60.00% | ~95 |
+| Spirit of the past | 59.00% | ~93 |
 | Intriguing candies | 59.00% | ~93 |
-| Spirit of the past | 58.00% | ~92 |
-| Law student | 56.00% | ~88 |
+| Law student | 57.00% | ~90 |
 | Workout professional | 55.00% | ~87 |
 | Little hacker | 53.00% | ~84 |
 | Champion – starter pack | 53.00% | ~84 |
@@ -46,9 +46,9 @@
 | Champion – no way back | 28.00% | ~44 |
 | Get out of my apartment! | 28.00% | ~44 |
 | Underground dwellers | 27.00% | ~43 |
+| Deal with life | 26.00% | ~41 |
 | Seashell hunter | 26.00% | ~41 |
 | Mom got better | 25.00% | ~40 |
-| Deal with life | 25.00% | ~40 |
 | GYM professional | 25.00% | ~40 |
 | Poisoned fighter | 25.00% | ~40 |
 | The die is cast | 25.00% | ~40 |
@@ -57,15 +57,15 @@
 | Problems of cyborgs | 22.00% | ~35 |
 | Keep nature safe | 22.00% | ~35 |
 | Undercover robot | 22.00% | ~35 |
+| Another world | 21.00% | ~33 |
 | The lonesome road | 21.00% | ~33 |
 | Key memories | 21.00% | ~33 |
 | Not little hacker | 21.00% | ~33 |
+| The last bell ring | 21.00% | ~33 |
 | The heart of the Resistance | 21.00% | ~33 |
 | Trap disarmed | 20.00% | ~32 |
-| Another world | 20.00% | ~32 |
 | Family comes first | 20.00% | ~32 |
 | Absolute Champion! | 20.00% | ~32 |
-| The last bell ring | 20.00% | ~32 |
 | Careerist | 20.00% | ~32 |
 | Silver’s past | 18.00% | ~28 |
 | Better cooking at home | 17.00% | ~27 |

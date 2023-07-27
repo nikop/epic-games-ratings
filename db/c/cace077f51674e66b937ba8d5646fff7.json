@@ -2,7 +2,7 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 92,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -331,6 +331,11 @@
       "Time": "2023-07-22T21:06:26.9194154+00:00",
       "NumProgressed": 67,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T04:06:37.6699043+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -356,7 +361,7 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 40,
       "UsersEstimate": 45
     },
@@ -380,7 +385,7 @@
       "ID": "COMPLEX_MOVE",
       "SetID": "50pdlpn",
       "Name": "Complex Move",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 40,
       "UsersEstimate": 39
     },
@@ -388,7 +393,7 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 40,
       "UsersEstimate": 44
     },
@@ -396,7 +401,7 @@
       "ID": "ENEMY_0",
       "SetID": "50pdlpn",
       "Name": "Federic the Conscious Toy",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -404,7 +409,7 @@
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -452,7 +457,7 @@
       "ID": "ENEMY_15",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph, Ali Baba \u0026 Pillows",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -492,7 +497,7 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -580,7 +585,7 @@
       "ID": "ENEMY_3",
       "SetID": "50pdlpn",
       "Name": "Federic, Norman \u0026 Vanunu",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -604,7 +609,7 @@
       "ID": "ENEMY_4",
       "SetID": "50pdlpn",
       "Name": "Khalil the Grim Ant",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -612,7 +617,7 @@
       "ID": "ENEMY_5",
       "SetID": "50pdlpn",
       "Name": "Scorpon-pink.png the PNG File",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -620,7 +625,7 @@
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -628,7 +633,7 @@
       "ID": "ENEMY_7",
       "SetID": "50pdlpn",
       "Name": "Khalil, Scorpon-pink.png \u0026 Mr. Fyodorov",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -916,7 +921,7 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 40,
       "UsersEstimate": 59
     }
@@ -925,14 +930,14 @@
     {
       "ID": "50pdlpn",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-27T03:05:42.9682417+00:00",
+  "LastChanged_Achievements": "2023-07-27T04:06:37.6699038+00:00",
   "LastUpdate_AppInfo": "2023-07-24T14:56:53.659253+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:57:40.4627355+00:00",
-  "LastUpdate_Achievements": "2023-07-27T03:05:42.9683598+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:57:40.6532669+00:00",
+  "LastUpdate_Achievements": "2023-07-27T04:06:37.6699646+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,804 |
-| Man of politics | 35.00% | ~4,955 |
-| Friends of sorts | 34.00% | ~4,813 |
-| Yet another secret | 34.00% | ~4,813 |
+| Tattletale | 41.00% | ~5,805 |
+| Man of politics | 35.00% | ~4,956 |
+| Friends of sorts | 34.00% | ~4,814 |
+| Yet another secret | 34.00% | ~4,814 |
 | Let there be darkness | 33.00% | ~4,672 |
-| End of Book One | 30.00% | ~4,247 |
+| End of Book One | 30.00% | ~4,248 |
 | Wannabe knight | 24.00% | ~3,398 |
 | Garden of Eden | 24.00% | ~3,398 |
 | Full house | 24.00% | ~3,398 |
 | Help an old friend | 22.00% | ~3,115 |
-| Two of us | 20.00% | ~2,831 |
+| Two of us | 20.00% | ~2,832 |
 | Negotiation skills | 19.00% | ~2,690 |
-| Workers' union | 18.00% | ~2,548 |
-| End of Book Two | 18.00% | ~2,548 |
+| Workers' union | 18.00% | ~2,549 |
+| End of Book Two | 18.00% | ~2,549 |
 | Everything's in order | 17.00% | ~2,407 |
 | Jack was here! | 15.00% | ~2,124 |
 | Twist of Fate | 14.00% | ~1,982 |
 | Exterminator | 14.00% | ~1,982 |
-| Whodunnit | 13.00% | ~1,840 |
+| Whodunnit | 13.00% | ~1,841 |
 | Good midwife | 11.00% | ~1,557 |
 | Friar Tuck | 11.00% | ~1,557 |
 | First profit | 11.00% | ~1,557 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,274 |
 | A cry for help | 8.00% | ~1,133 |
 | Silentium est aureum | 7.00% | ~991 |
-| Rebel without a cause | 6.00% | ~849 |
+| Rebel without a cause | 6.00% | ~850 |
 | Staring contest champion | 5.00% | ~708 |
 | Lone wolf | 5.00% | ~708 |
 | Vox Populi | 5.00% | ~708 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~425 |
 | Boy of mystery | 2.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,157 (Ranked 113)  
+Progressed: 14,159 (Ranked 113)  
 Completed: 106 (0.75%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 106 (0.75%) (Ranked 115)
 | 2023-07-24 | 14,114 | 105 |
 | 2023-07-25 | 14,139 | 105 |
 | 2023-07-26 | 14,156 | 106 |
-| 2023-07-27 | 14,157 | 106 |
+| 2023-07-27 | 14,159 | 106 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 370)  

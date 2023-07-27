@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,317 |
-| Beast Intentions | 2.00% | ~4,317 |
+| A Brief Tour of the Realms | 2.00% | ~4,318 |
+| Beast Intentions | 2.00% | ~4,318 |
 | Maddening | 1.00% | ~2,159 |
 | The Silken Swamp | 1.00% | ~2,159 |
 | Supply Run | 0.90% | ~1,943 |
@@ -28,30 +28,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
 | The Witchlight Carnival | 0.40% | ~729 |
-| Don't Look Up! | 0.40% | ~863 |
-| Heavy Burden | 0.40% | ~863 |
+| Thieves of the Coven | 0.40% | ~729 |
+| Don't Look Up! | 0.40% | ~864 |
+| Heavy Burden | 0.40% | ~864 |
 | The Evacuation of Waterdeep | 0.40% | ~729 |
-| Friends of the Forest | 0.40% | ~863 |
+| Friends of the Forest | 0.40% | ~864 |
 | The Dread Domain of Tovag | 0.40% | ~729 |
-| Were-verpowered | 0.40% | ~863 |
-| A Persistent Buzzing | 0.40% | ~863 |
-| Beast Mode | 0.40% | ~863 |
-| Terror in the Dark | 0.40% | ~863 |
-| Low Initiative | 0.40% | ~863 |
-| A Mysterious Summons | 0.40% | ~863 |
-| Building Trust | 0.40% | ~863 |
-| March of the Undead | 0.40% | ~863 |
-| Unearthed Evil | 0.40% | ~863 |
-| No Time To Rest | 0.40% | ~863 |
-| The Mists of Ravenloft | 0.40% | ~863 |
-| The Dinner Party | 0.40% | ~863 |
+| Were-verpowered | 0.40% | ~864 |
+| A Persistent Buzzing | 0.40% | ~864 |
+| Beast Mode | 0.40% | ~864 |
+| Terror in the Dark | 0.40% | ~864 |
+| Low Initiative | 0.40% | ~864 |
+| A Mysterious Summons | 0.40% | ~864 |
+| Building Trust | 0.40% | ~864 |
+| March of the Undead | 0.40% | ~864 |
+| Unearthed Evil | 0.40% | ~864 |
+| No Time To Rest | 0.40% | ~864 |
+| The Mists of Ravenloft | 0.40% | ~864 |
+| The Dinner Party | 0.40% | ~864 |
 | Not That Type of Helm! | 0.40% | ~729 |
 | Bazaar Companions | 0.40% | ~729 |
 | Bahamut's Army | 0.40% | ~729 |
 | Krux's Speed Run | 0.40% | ~729 |
 | Animated Giff | 0.40% | ~729 |
 | Upholding the Law | 0.30% | ~648 |
-| Thieves of the Coven | 0.30% | ~546 |
 | Hither of the Feywild | 0.30% | ~546 |
 | Speeds of Destruction | 0.30% | ~546 |
 | Owlbear Necessities | 0.30% | ~546 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,862 (Ranked 53)  
-Completed: 2,123 (0.98%) (Ranked 107)  
+Progressed: 215,878 (Ranked 53)  
+Completed: 2,124 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,123 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,862 | 2,123 |
+| 2023-07-27 | 215,878 | 2,124 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

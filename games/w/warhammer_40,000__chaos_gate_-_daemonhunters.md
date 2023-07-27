@@ -16,11 +16,11 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 0.40% | ~12 |
 | Friendly Fire | 0.30% | ~9 |
 | A Foul Creche | 0.30% | ~9 |
+| Honoured Battle-Brother | 0.20% | ~6 |
 | Surgical Excision | 0.20% | ~6 |
 | Hold Your Ground | 0.20% | ~6 |
 | Execution Force | 0.20% | ~6 |
 | Patron of Deimos | 0.10% | ~3 |
-| Honoured Battle-Brother | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
 | Exterminator | 0.10% | ~3 |

@@ -18,7 +18,7 @@ Rating: 4.55 (Ranked 482)
 | Love is in the air | 43.00% | ~388 |
 | Fine, I'll do it myself | 41.00% | ~370 |
 | Moving up | 41.00% | ~370 |
-| No need to call anyone | 38.00% | ~343 |
+| No need to call anyone | 39.00% | ~352 |
 | Big fortune | 31.00% | ~280 |
 | Still more work ahead | 28.00% | ~253 |
 | Hotel sleuthing | 27.00% | ~244 |
