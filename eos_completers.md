@@ -30,15 +30,15 @@
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.23% |
-| 31 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 7.14% |
-| 32 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 33 | [Scorn](games/s/scorn.md) | 6.95% |
-| 34 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.77% |
+| 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
+| 32 | [Scorn](games/s/scorn.md) | 6.95% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.76% |
+| 34 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.67% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
+| 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.48% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.14% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.12% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -59,7 +59,7 @@
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.11% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.07% |
 | 61 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
 | 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.94% |
