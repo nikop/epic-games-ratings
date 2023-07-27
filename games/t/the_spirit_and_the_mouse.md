@@ -15,7 +15,7 @@
 | Energy Expert | 44.00% | ~33 |
 | The Old Man and the Café | 41.00% | ~31 |
 | South Town Energy | 33.00% | ~25 |
-| Photogenic | 31.00% | ~23 |
+| Photogenic | 32.00% | ~24 |
 | The Girl and the Homework | 29.00% | ~22 |
 | OK, I heard you!! | 28.00% | ~21 |
 | North Town Energy | 27.00% | ~20 |
@@ -26,22 +26,22 @@
 | South Square Lightbulbs | 19.00% | ~14 |
 | The Ghost and the Lamps | 16.00% | ~12 |
 | The Woman and the Pizzeria | 16.00% | ~12 |
+| West Residence Energy | 15.00% | ~11 |
 | The Painter and the Lights | 15.00% | ~11 |
 | West Residence Lightbulbs | 13.00% | ~10 |
-| West Residence Energy | 13.00% | ~10 |
+| Riddle Master | 13.00% | ~10 |
 | At your service | 12.00% | ~9 |
-| Riddle Master | 12.00% | ~9 |
 | East Street Lightbulbs | 11.00% | ~8 |
 | Out of service | 9.00% | ~7 |
 | Lightbulb Master | 8.00% | ~6 |
 | North Town Lightbulbs | 8.00% | ~6 |
-| Deep Lore | 7.00% | ~5 |
-| The Garland and the Lightbulbs | 7.00% | ~5 |
-| The Spirit and The Mouse | 5.00% | ~4 |
-| Fabulous! | 5.00% | ~4 |
-| Lightning fast | 5.00% | ~4 |
-| The GA-DX | 4.00% | ~3 |
-| The Woman and the Stars | 3.00% | ~2 |
+| Deep Lore | 8.00% | ~6 |
+| The Garland and the Lightbulbs | 8.00% | ~6 |
+| The Spirit and The Mouse | 7.00% | ~5 |
+| Fabulous! | 7.00% | ~5 |
+| Lightning fast | 7.00% | ~5 |
+| The GA-DX | 5.00% | ~4 |
+| The Woman and the Stars | 4.00% | ~3 |
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

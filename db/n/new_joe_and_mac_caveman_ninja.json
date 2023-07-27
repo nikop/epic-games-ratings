@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -268,6 +268,11 @@
       "Time": "2023-07-27T18:03:48.2536837+00:00",
       "NumProgressed": 200,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T23:03:32.1410145+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -279,7 +284,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "02",
@@ -293,17 +298,17 @@
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "05",
@@ -317,9 +322,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "07",
@@ -333,9 +338,9 @@
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "09",
@@ -357,9 +362,9 @@
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "12",
@@ -373,9 +378,9 @@
       "ID": "13",
       "SetID": "6glb5g1",
       "Name": "Passing the carcass.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "14",
@@ -389,16 +394,16 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 4
     }
   ],
@@ -406,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:05:47.8733903+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:03:32.1410141+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.9030226+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:00:15.3635871+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:05:47.8734054+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:58:17.1654004+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:03:32.1410276+00:00"
 }

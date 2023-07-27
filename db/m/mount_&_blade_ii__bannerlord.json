@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5961,9 +5961,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57124,
+  "EOS_Progressed": 57125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16221,6 +16221,11 @@
       "Time": "2023-07-27T22:05:02.1869308+00:00",
       "NumProgressed": 57124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T23:02:23.954156+00:00",
+      "NumProgressed": 57125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16240,7 +16245,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7997
+      "UsersEstimate": 7998
     },
     {
       "ID": "Bannerlord",
@@ -16248,7 +16253,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12567
+      "UsersEstimate": 12568
     },
     {
       "ID": "Best served cold",
@@ -16392,7 +16397,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12567
+      "UsersEstimate": 12568
     },
     {
       "ID": "I can do it",
@@ -16440,7 +16445,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3428
     },
     {
       "ID": "Lance-a-lot",
@@ -16456,7 +16461,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17708
+      "UsersEstimate": 17709
     },
     {
       "ID": "Lawbringer",
@@ -16472,7 +16477,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12567
+      "UsersEstimate": 12568
     },
     {
       "ID": "Long live the Empire",
@@ -16608,7 +16613,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12567
+      "UsersEstimate": 12568
     },
     {
       "ID": "Undercover",
@@ -16639,15 +16644,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57124,
+      "Progressed": 57125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-27T14:01:04.2072215+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:05:02.1869301+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:02:23.9541558+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:03:11.2680516+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:05:02.1870348+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:00:21.5415787+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:02:23.9542615+00:00"
 }

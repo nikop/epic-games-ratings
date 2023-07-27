@@ -7,18 +7,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~263 |
+| Play a Single Player Game | 1.00% | ~131 |
 | The Great Mage | 1.00% | ~131 |
+| Explorer | 0.90% | ~118 |
 | Settler | 0.90% | ~118 |
-| Play a Single Player Game | 0.90% | ~118 |
 | Poetic Leader | 0.90% | ~118 |
-| Explorer | 0.80% | ~105 |
 | Friendly Family | 0.80% | ~105 |
+| Able | 0.70% | ~92 |
 | Intrepid | 0.70% | ~92 |
-| Able | 0.60% | ~79 |
 | Architect | 0.60% | ~79 |
 | Good | 0.60% | ~79 |
 | Just | 0.60% | ~79 |
 | Mason | 0.60% | ~79 |
+| Noble | 0.60% | ~79 |
 | Pioneer | 0.60% | ~79 |
 | Strong | 0.60% | ~79 |
 | Hanging Gardens | 0.60% | ~79 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.50% | ~66 |
 | Glorious | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
-| Noble | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
 | Developing Cities | 0.40% | ~53 |
+| Strong Cities | 0.40% | ~53 |
 | Able Difficulty | 0.40% | ~53 |
 | Artisans | 0.40% | ~53 |
 | Great Ziggurat | 0.40% | ~53 |
@@ -55,8 +56,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.30% | ~39 |
 | Wise | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
-| Strong Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
+| Statesmen | 0.30% | ~39 |
 | Furious Family | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Colossus | 0.30% | ~39 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
-| Statesmen | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
 | Hittite Iron | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Turning Point | 0.10% | ~13 |
 | A Good Start | 0.10% | ~13 |
 | Like a Lion | 0.10% | ~13 |
+| Still Fighting | 0.10% | ~13 |
 | Tell the Spartans | 0.10% | ~13 |
 | Shape of Things to Come | 0.10% | ~13 |
 | I am the Archon Now | 0.10% | ~13 |
@@ -275,7 +276,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,127 (Ranked 116)  
+Progressed: 13,128 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,127 | 5 |
+| 2023-07-27 | 13,128 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

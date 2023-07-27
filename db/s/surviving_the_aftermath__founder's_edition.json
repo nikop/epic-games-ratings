@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1139,7 +1139,7 @@
   ],
   "EOS_Progressed": 7754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9194,9 +9194,9 @@
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2171
     },
     {
       "ID": "16",
@@ -9306,9 +9306,9 @@
       "ID": "28",
       "SetID": "8idi9ml",
       "Name": "Merchant",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1706
     },
     {
       "ID": "29",
@@ -9626,8 +9626,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-27T18:00:52.1397392+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:08:17.5950341+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:05:34.0643646+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:03:27.4268757+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:08:17.5951235+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:00:31.9817908+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:05:34.0644694+00:00"
 }

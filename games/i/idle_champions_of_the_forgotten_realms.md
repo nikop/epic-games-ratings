@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,484 |
+| A Brief Tour of the Realms | 3.00% | ~6,485 |
 | Beast Intentions | 2.00% | ~4,323 |
-| Maddening | 1.00% | ~2,161 |
-| The Silken Swamp | 1.00% | ~2,161 |
-| Supply Run | 1.00% | ~2,161 |
-| Rocky Reception | 0.90% | ~1,642 |
+| Maddening | 1.00% | ~2,162 |
+| The Silken Swamp | 1.00% | ~2,162 |
+| Supply Run | 1.00% | ~2,162 |
+| Rocky Reception | 1.00% | ~1,824 |
 | Rock and Roll | 0.90% | ~1,642 |
-| Vecna Lives! | 0.80% | ~1,459 |
+| Vecna Lives! | 0.80% | ~1,460 |
 | Flight of the Kindori Pod | 0.70% | ~1,277 |
 | Tall Tales | 0.60% | ~1,095 |
 | Wet Feet | 0.60% | ~1,297 |
@@ -28,19 +28,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.50% | ~1,081 |
 | Heatwave | 0.50% | ~912 |
 | The Dread Domain of Tovag | 0.50% | ~912 |
+| A Persistent Buzzing | 0.50% | ~1,081 |
 | Terror in the Dark | 0.50% | ~1,081 |
 | Building Trust | 0.50% | ~1,081 |
 | Unearthed Evil | 0.50% | ~1,081 |
 | Not That Type of Helm! | 0.50% | ~912 |
 | Calcryx Tricks | 0.50% | ~912 |
 | Goblin Halls: the Next Generation | 0.50% | ~912 |
+| Bahamut's Army | 0.50% | ~912 |
 | Krux's Speed Run | 0.50% | ~912 |
 | Thieves of the Coven | 0.40% | ~730 |
 | Heavy Burden | 0.40% | ~865 |
 | The Evacuation of Waterdeep | 0.40% | ~730 |
 | Friends of the Forest | 0.40% | ~865 |
 | Were-verpowered | 0.40% | ~865 |
-| A Persistent Buzzing | 0.40% | ~865 |
 | Beast Mode | 0.40% | ~865 |
 | Low Initiative | 0.40% | ~865 |
 | A Mysterious Summons | 0.40% | ~865 |
@@ -53,38 +54,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.40% | ~865 |
 | The Mad Wizard | 0.40% | ~865 |
 | Bazaar Companions | 0.40% | ~730 |
-| Bahamut's Army | 0.40% | ~730 |
 | Luigi After Hours | 0.40% | ~730 |
+| Electric Mayhem | 0.40% | ~730 |
 | Animated Giff | 0.40% | ~730 |
-| Upholding the Law | 0.30% | ~648 |
+| Upholding the Law | 0.30% | ~649 |
 | Hither of the Feywild | 0.30% | ~547 |
 | The Prince of a Thousand Enemies | 0.30% | ~547 |
 | Speeds of Destruction | 0.30% | ~547 |
 | Owlbear Necessities | 0.30% | ~547 |
-| On the Hunt | 0.30% | ~648 |
+| On the Hunt | 0.30% | ~649 |
 | Best Thay Ever | 0.30% | ~547 |
 | A Demi-god's Defender | 0.30% | ~547 |
-| Homecoming | 0.30% | ~648 |
-| The Lost Heir of Omu | 0.30% | ~648 |
+| Homecoming | 0.30% | ~649 |
+| The Lost Heir of Omu | 0.30% | ~649 |
 | No One Can Hear You Scream | 0.30% | ~547 |
 | Welcome to the Rock | 0.30% | ~547 |
-| The Forbidden City | 0.30% | ~648 |
-| Wisdom Check | 0.30% | ~648 |
-| Family Entanglements | 0.30% | ~648 |
-| Tower on the Lake | 0.30% | ~648 |
-| The Cursed Farmer | 0.30% | ~648 |
-| Seeking Allies | 0.30% | ~648 |
-| Exploring Port Nyanzaru | 0.30% | ~648 |
-| Running of the Saurs | 0.30% | ~648 |
-| Escort to Waterdeep | 0.30% | ~648 |
-| Waterdeep Detours | 0.30% | ~648 |
-| Underdeep Cartography | 0.30% | ~648 |
-| Friendly Imps | 0.30% | ~648 |
-| Overdue Rendezvous | 0.30% | ~648 |
-| Pure Energy | 0.30% | ~648 |
+| The Forbidden City | 0.30% | ~649 |
+| Wisdom Check | 0.30% | ~649 |
+| Family Entanglements | 0.30% | ~649 |
+| Tower on the Lake | 0.30% | ~649 |
+| The Cursed Farmer | 0.30% | ~649 |
+| Seeking Allies | 0.30% | ~649 |
+| Exploring Port Nyanzaru | 0.30% | ~649 |
+| Running of the Saurs | 0.30% | ~649 |
+| Escort to Waterdeep | 0.30% | ~649 |
+| Waterdeep Detours | 0.30% | ~649 |
+| Underdeep Cartography | 0.30% | ~649 |
+| Friendly Imps | 0.30% | ~649 |
+| Overdue Rendezvous | 0.30% | ~649 |
+| Pure Energy | 0.30% | ~649 |
 | Willing to Sacrifice | 0.30% | ~547 |
 | Devilishly Cold | 0.30% | ~547 |
-| Electric Mayhem | 0.30% | ~547 |
 | 3,720 to 1 | 0.30% | ~547 |
 | Starving in the Jungle | 0.20% | ~432 |
 | Cold as Ice | 0.20% | ~365 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,145 (Ranked 53)  
+Progressed: 216,169 (Ranked 53)  
 Completed: 2,129 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,129 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 216,145 | 2,129 |
+| 2023-07-27 | 216,169 | 2,129 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,753 (Ranked 38)  

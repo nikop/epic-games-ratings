@@ -34,8 +34,8 @@ Rating: 4.27 (Ranked 799)
 | TRAVELER | 1.00% | ~4 |
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 235)  
-Completed: 2 (0.54%) (Ranked 126)  
+Progressed: 371 (Ranked 236)  
+Completed: 2 (0.54%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

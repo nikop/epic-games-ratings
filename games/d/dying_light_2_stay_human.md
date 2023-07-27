@@ -6,28 +6,28 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,296 |
-| Into the Unknown | 10.00% | ~60,269 |
-| First Shot | 10.00% | ~60,269 |
-| Herzlich Wilkommen! | 9.00% | ~54,242 |
-| Good Night & Good Luck | 9.00% | ~54,242 |
-| Sancho Panza | 8.00% | ~48,215 |
-| Oh, So This Is How It Works! | 8.00% | ~48,215 |
-| Under Pressure | 7.00% | ~42,188 |
-| On the Trail of the Enemy | 7.00% | ~42,188 |
-| Flag Burning | 7.00% | ~42,188 |
-| Night Hunter | 7.00% | ~42,188 |
-| Light in the Darkness | 6.00% | ~36,161 |
-| Get Outta My House! | 6.00% | ~36,161 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,161 |
-| Being All Social | 6.00% | ~36,161 |
-| Debris and Ashes | 5.00% | ~30,135 |
-| We Will Be Heard! | 5.00% | ~30,135 |
-| Known Associate | 5.00% | ~30,135 |
-| Brush with Death | 5.00% | ~30,135 |
-| Tunnel Entrance | 5.00% | ~30,135 |
-| After the Fall | 5.00% | ~30,135 |
-| Can't Touch This! | 5.00% | ~30,135 |
+| You Never Forget Your First... | 11.00% | ~66,298 |
+| Into the Unknown | 10.00% | ~60,271 |
+| First Shot | 10.00% | ~60,271 |
+| Herzlich Wilkommen! | 9.00% | ~54,244 |
+| Good Night & Good Luck | 9.00% | ~54,244 |
+| Sancho Panza | 8.00% | ~48,217 |
+| Oh, So This Is How It Works! | 8.00% | ~48,217 |
+| Under Pressure | 7.00% | ~42,190 |
+| On the Trail of the Enemy | 7.00% | ~42,190 |
+| Flag Burning | 7.00% | ~42,190 |
+| Night Hunter | 7.00% | ~42,190 |
+| Light in the Darkness | 6.00% | ~36,163 |
+| Get Outta My House! | 6.00% | ~36,163 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,163 |
+| Being All Social | 6.00% | ~36,163 |
+| Debris and Ashes | 5.00% | ~30,136 |
+| We Will Be Heard! | 5.00% | ~30,136 |
+| Known Associate | 5.00% | ~30,136 |
+| Brush with Death | 5.00% | ~30,136 |
+| Tunnel Entrance | 5.00% | ~30,136 |
+| After the Fall | 5.00% | ~30,136 |
+| Can't Touch This! | 5.00% | ~30,136 |
 | Going Down | 4.00% | ~24,108 |
 | Family First | 4.00% | ~24,108 |
 | Your World, Your Rules | 4.00% | ~24,108 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~6,027 |
 | Fit as a Fiddle | 1.00% | ~6,027 |
 | Ironheart | 1.00% | ~6,027 |
-| Nemesis | 1.00% | ~2,481 |
-| Enter the Hall | 1.00% | ~2,481 |
+| Nemesis | 1.00% | ~2,482 |
+| Enter the Hall | 1.00% | ~2,482 |
 | Find Anything Interesting? | 0.90% | ~5,424 |
 | Boot Licker | 0.90% | ~5,424 |
 | Who Wants To Be a... | 0.90% | ~5,424 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~248 |
 | Connoisseur | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602,691 (Ranked 26)  
+Progressed: 602,712 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 60 (0.01%) (Ranked 230)
 | 2023-07-24 | 600,886 | 60 |
 | 2023-07-25 | 601,509 | 60 |
 | 2023-07-26 | 602,131 | 60 |
-| 2023-07-27 | 602,691 | 60 |
+| 2023-07-27 | 602,712 | 60 |
 ## Awards
 Max (Character Customization): 8,568  (Ranked 39)  
 Sum: 20,377 (Ranked 55)  

@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 144,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1666,10 +1666,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 9150,
       "NumberOfAwardsMax": 4838
+    },
+    {
+      "Time": "2023-07-27T23:00:59.2276322+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 9204,
+      "NumberOfAwardsMax": 4838
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9150,
+  "NumberOfAwards": 9204,
   "NumberOfAwardsMax": 4838,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1689,7 +1695,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 403
+      "Count": 423
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1701,7 +1707,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 474
+      "Count": 508
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1758,8 +1764,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-27T20:02:40.0467189+00:00",
+  "LastChanged": "2023-07-27T23:00:59.2276321+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.7517822+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:04:10.3613658+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:07:50.2114061+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:00:59.2276326+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:05:19.013538+00:00"
 }

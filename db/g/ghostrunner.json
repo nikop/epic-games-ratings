@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1020,9 +1020,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13625,
+  "EOS_Progressed": 13626,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11395,6 +11395,11 @@
       "Time": "2023-07-27T22:05:34.6582692+00:00",
       "NumProgressed": 13625,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-27T23:03:20.8238057+00:00",
+      "NumProgressed": 13626,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -11406,7 +11411,7 @@
       "Name": "A Grade",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AboutAdam",
@@ -11430,7 +11435,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "CantRunCantHide",
@@ -11470,7 +11475,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "GRProjectComplete",
@@ -11478,7 +11483,7 @@
       "Name": "GR Project Complete",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "HitMeIfYouCan",
@@ -11486,7 +11491,7 @@
       "Name": "Hit me if you can",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Homerunner",
@@ -11518,7 +11523,7 @@
       "Name": "Junkrunner",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "JustAMan",
@@ -11534,7 +11539,7 @@
       "Name": "Legacy Drivers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Longrunner",
@@ -11542,7 +11547,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10355
+      "UsersEstimate": 10356
     },
     {
       "ID": "MoreThanHuman",
@@ -11574,7 +11579,7 @@
       "Name": "One man\u0027s trash",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "OneOfThoseDays",
@@ -11590,7 +11595,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "Perfection",
@@ -11654,7 +11659,7 @@
       "Name": "Sticks And Stones",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "StrafingRun",
@@ -11710,7 +11715,7 @@
       "Name": "Up Close And Personal",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "UpgradesNotMandatory",
@@ -11718,7 +11723,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "Wallrunner",
@@ -11742,7 +11747,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "WhereHeStood",
@@ -11765,21 +11770,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 13625,
+      "Progressed": 13626,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 13625,
+      "Progressed": 13626,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-25T05:59:11.8576046+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:05:34.6582685+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:03:20.8238053+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.3951611+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:00:51.2452192+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:05:34.6583907+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:58:42.8850398+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:03:20.8239077+00:00"
 }

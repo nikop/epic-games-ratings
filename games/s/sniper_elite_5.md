@@ -6,6 +6,7 @@ Rating: 4.41 (Ranked 675)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 4.00% | ~134 |
+| Lord of War | 4.00% | ~134 |
 | It's Starting to Crack | 4.00% | ~134 |
 | Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
@@ -16,7 +17,6 @@ Rating: 4.41 (Ranked 675)
 | Meeting Resistance | 3.00% | ~101 |
 | Sharpshooter | 3.00% | ~101 |
 | Confirming Suspicions | 3.00% | ~101 |
-| Lord of War | 3.00% | ~101 |
 | Resourceful | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
 | The Kraken Wakes | 3.00% | ~101 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5296,10 +5296,10 @@
       "Count": 3713
     }
   ],
-  "EOS_Progressed": 133373,
+  "EOS_Progressed": 133376,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 448,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 450,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -15271,6 +15271,11 @@
       "Time": "2023-07-27T22:05:35.2675319+00:00",
       "NumProgressed": 133373,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-27T23:03:21.4226291+00:00",
+      "NumProgressed": 133376,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -15752,9 +15757,9 @@
       "ID": "gold01",
       "SetID": "anfd17p",
       "Name": "Tinkle of Coins",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 400
     },
     {
       "ID": "gold02",
@@ -16177,15 +16182,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133373,
+      "Progressed": 133376,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-27T17:59:08.4555221+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:05:35.2675314+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:03:21.4226287+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:01:24.2750837+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:05:35.2677457+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:59:05.129234+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:03:21.4228459+00:00"
 }

@@ -1,49 +1,49 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.97 (Ranked 925)  
+Rating: 3.98 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 77.00% | ~370,462 |
-| Health Junkie | 44.00% | ~211,693 |
-| You Complete Me | 41.00% | ~197,259 |
-| Guardian Angel | 38.00% | ~182,826 |
-| Devil Inside Me | 30.00% | ~144,336 |
-| Killing Spree | 21.00% | ~101,035 |
-| Fantastic Four | 21.00% | ~101,035 |
-| Marksman Novice | 19.00% | ~91,413 |
-| First Blood | 13.00% | ~62,546 |
-| Top 10 | 13.00% | ~62,546 |
-| Now You See Me, Now You Don't | 11.00% | ~52,923 |
-| Marksman Expert | 9.00% | ~43,301 |
-| CQB Novice | 8.00% | ~38,490 |
-| Collateral Damage | 7.00% | ~33,678 |
-| Airborne | 6.00% | ~28,867 |
-| Pacifist | 6.00% | ~28,867 |
-| Last Survivor | 4.00% | ~19,245 |
-| Marksman Master | 4.00% | ~19,245 |
-| Trigonometry Novice | 4.00% | ~19,245 |
-| First Come, First Served | 4.00% | ~19,245 |
-| Dynamic Duo | 4.00% | ~19,245 |
-| Winner Winner Chicken Dinner! | 2.00% | ~9,622 |
-| Okay, Now I'm Ready | 2.00% | ~9,622 |
-| Agent 48 | 2.00% | ~9,622 |
-| Don't Pan Me Bro! | 2.00% | ~9,622 |
-| Fast and Furious | 2.00% | ~9,622 |
-| CQB Expert | 2.00% | ~9,622 |
-| Fury Road | 1.00% | ~4,811 |
-| Ghost | 1.00% | ~4,811 |
-| Cruising with the Enemy | 1.00% | ~4,811 |
-| Nade King Novice | 0.80% | ~3,849 |
-| Master Assassin | 0.70% | ~3,368 |
-| CQB Master | 0.30% | ~1,443 |
-| The First Rule Is… | 0.20% | ~962 |
+| Blood on My Hands | 77.00% | ~370,581 |
+| Health Junkie | 44.00% | ~211,761 |
+| You Complete Me | 41.00% | ~197,322 |
+| Guardian Angel | 38.00% | ~182,884 |
+| Devil Inside Me | 30.00% | ~144,382 |
+| Killing Spree | 21.00% | ~101,068 |
+| Fantastic Four | 21.00% | ~101,068 |
+| Marksman Novice | 19.00% | ~91,442 |
+| First Blood | 13.00% | ~62,566 |
+| Top 10 | 13.00% | ~62,566 |
+| Now You See Me, Now You Don't | 11.00% | ~52,940 |
+| Marksman Expert | 9.00% | ~43,315 |
+| CQB Novice | 8.00% | ~38,502 |
+| Collateral Damage | 7.00% | ~33,689 |
+| Airborne | 6.00% | ~28,876 |
+| Pacifist | 6.00% | ~28,876 |
+| Last Survivor | 4.00% | ~19,251 |
+| Marksman Master | 4.00% | ~19,251 |
+| Trigonometry Novice | 4.00% | ~19,251 |
+| First Come, First Served | 4.00% | ~19,251 |
+| Dynamic Duo | 4.00% | ~19,251 |
+| Winner Winner Chicken Dinner! | 2.00% | ~9,625 |
+| Okay, Now I'm Ready | 2.00% | ~9,625 |
+| Agent 48 | 2.00% | ~9,625 |
+| Don't Pan Me Bro! | 2.00% | ~9,625 |
+| Fast and Furious | 2.00% | ~9,625 |
+| CQB Expert | 2.00% | ~9,625 |
+| Fury Road | 1.00% | ~4,813 |
+| Ghost | 1.00% | ~4,813 |
+| Cruising with the Enemy | 1.00% | ~4,813 |
+| Nade King Novice | 0.80% | ~3,850 |
+| Master Assassin | 0.70% | ~3,369 |
+| CQB Master | 0.30% | ~1,444 |
+| The First Rule Is… | 0.20% | ~963 |
 | Nade King Master | 0.10% | ~481 |
 | Nade King Expert | 0.10% | ~481 |
 | Shoot the Knee | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,120 (Ranked 34)  
+Progressed: 481,274 (Ranked 34)  
 Completed: 10 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,18 +141,18 @@ Completed: 10 (0.00%) (Ranked 242)
 | 2023-07-24 | 472,896 | 10 |
 | 2023-07-25 | 475,330 | 10 |
 | 2023-07-26 | 478,102 | 10 |
-| 2023-07-27 | 481,120 | 10 |
+| 2023-07-27 | 481,274 | 10 |
 ## Awards
 Max (Competitive Players): 2,867  (Ranked 94)  
-Sum: 9,273 (Ranked 85)  
+Sum: 9,295 (Ranked 85)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,867 |
-| This game has Challenging Combat | 2,488 |
+| This game has Challenging Combat | 2,501 |
 | This game has Quickly Understood Controls | 2,480 |
 | This game is Highly Recommended | 2,311 |
-| This game has a Competitive Community | 1,607 |
+| This game has a Competitive Community | 1,616 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -309,4 +309,4 @@ Diff (max vs sum): 9
 | 2023-07-24 | 3.97 | 2,842 | 9,164 |
 | 2023-07-25 | 3.97 | 2,849 | 9,195 |
 | 2023-07-26 | 3.97 | 2,867 | 9,256 |
-| 2023-07-27 | 3.98 | 2,867 | 9,273 |
+| 2023-07-27 | 3.98 | 2,867 | 9,295 |

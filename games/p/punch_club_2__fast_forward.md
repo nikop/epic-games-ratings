@@ -15,11 +15,11 @@
 | Fitness professional | 76.00% | ~125 |
 | Neurotrainer – power gainer! | 75.00% | ~124 |
 | Employee of the week | 75.00% | ~124 |
-| Your own amateur gym | 72.00% | ~119 |
+| Your own amateur gym | 73.00% | ~120 |
 | Run K, run! | 70.00% | ~115 |
+| Hello, world! | 66.00% | ~109 |
 | Fighting is cool | 65.00% | ~107 |
 | No bullying more | 65.00% | ~107 |
-| Hello, world! | 65.00% | ~107 |
 | Pal of your father? | 61.00% | ~101 |
 | Employee of the month | 61.00% | ~101 |
 | Spirit of the past | 59.00% | ~97 |
@@ -43,8 +43,8 @@
 | Mysterious voice | 34.00% | ~56 |
 | Fight is life | 32.00% | ~53 |
 | Responsible approach | 32.00% | ~53 |
+| Get out of my apartment! | 30.00% | ~50 |
 | Champion – no way back | 29.00% | ~48 |
-| Get out of my apartment! | 29.00% | ~48 |
 | Deal with life | 28.00% | ~46 |
 | Poisoned fighter | 28.00% | ~46 |
 | Underground dwellers | 28.00% | ~46 |

@@ -5,29 +5,29 @@ Rating: 4.40 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~726,662 |
-| The ABCs | 43.00% | ~637,683 |
-| Home Run | 41.00% | ~608,023 |
-| Keeps Coming Off | 41.00% | ~608,023 |
-| Guts | 20.00% | ~296,597 |
-| Meat Grinder | 19.00% | ~281,767 |
-| Burning Man | 16.00% | ~237,277 |
-| Lived to Tell the Tale | 12.00% | ~177,958 |
-| Highlander | 10.00% | ~148,298 |
-| Unstoppable | 10.00% | ~148,298 |
-| Just a Scratch | 9.00% | ~133,469 |
-| Tough Nut to Crack | 6.00% | ~88,979 |
-| Yoink | 6.00% | ~88,979 |
-| Long List of Names | 4.00% | ~59,319 |
-| Pyromaniac | 4.00% | ~59,319 |
-| The Queen of Weapons | 4.00% | ~59,319 |
-| This isn’t Sparta | 3.00% | ~44,490 |
-| Crybaby | 2.00% | ~29,660 |
-| Eagle Eye | 2.00% | ~29,660 |
-| I Know Kung Fu | 2.00% | ~29,660 |
-| Poacher | 2.00% | ~29,660 |
-| Put That Away | 2.00% | ~29,660 |
-| You’re Welcome | 2.00% | ~29,660 |
+| Justice from the Grave | 49.00% | ~726,686 |
+| The ABCs | 43.00% | ~637,704 |
+| Home Run | 41.00% | ~608,044 |
+| Keeps Coming Off | 41.00% | ~608,044 |
+| Guts | 20.00% | ~296,607 |
+| Meat Grinder | 19.00% | ~281,776 |
+| Burning Man | 16.00% | ~237,285 |
+| Lived to Tell the Tale | 12.00% | ~177,964 |
+| Highlander | 10.00% | ~148,303 |
+| Unstoppable | 10.00% | ~148,303 |
+| Just a Scratch | 9.00% | ~133,473 |
+| Tough Nut to Crack | 6.00% | ~88,982 |
+| Yoink | 6.00% | ~88,982 |
+| Long List of Names | 4.00% | ~59,321 |
+| Pyromaniac | 4.00% | ~59,321 |
+| The Queen of Weapons | 4.00% | ~59,321 |
+| This isn’t Sparta | 3.00% | ~44,491 |
+| Crybaby | 2.00% | ~29,661 |
+| Eagle Eye | 2.00% | ~29,661 |
+| I Know Kung Fu | 2.00% | ~29,661 |
+| Poacher | 2.00% | ~29,661 |
+| Put That Away | 2.00% | ~29,661 |
+| You’re Welcome | 2.00% | ~29,661 |
 | Chambermaid | 1.00% | ~14,830 |
 | Coming Through | 1.00% | ~14,830 |
 | Training Accident | 0.80% | ~11,864 |
@@ -44,7 +44,7 @@ Rating: 4.40 (Ranked 692)
 | That’s No Ordinary Cold | 0.10% | ~1,483 |
 | Stairway to Hell | 0.10% | ~1,483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,482,984 (Ranked 8)  
+Progressed: 1,483,033 (Ranked 8)  
 Completed: 47 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 47 (0.00%) (Ranked 242)
 | 2023-07-24 | 1,480,167 | 46 |
 | 2023-07-25 | 1,481,112 | 46 |
 | 2023-07-26 | 1,482,050 | 47 |
-| 2023-07-27 | 1,482,984 | 47 |
+| 2023-07-27 | 1,483,033 | 47 |
 ## Awards
 Max (Diverse Characters): 457  (Ranked 200)  
 Sum: 2,561 (Ranked 173)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -119,9 +119,9 @@
       "ID": "gadx",
       "SetID": "bbgli2k",
       "Name": "The GA-DX",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "grilledmouse",
@@ -239,25 +239,25 @@
       "ID": "neighenergy.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Energy",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "plush",
       "SetID": "bbgli2k",
       "Name": "Deep Lore",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "quest001",
       "SetID": "bbgli2k",
       "Name": "The Spirit and The Mouse",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "quest002",
@@ -311,33 +311,33 @@
       "ID": "quest008",
       "SetID": "bbgli2k",
       "Name": "The Woman and the Stars",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "quest099",
       "SetID": "bbgli2k",
       "Name": "The Garland and the Lightbulbs",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "riddles",
       "SetID": "bbgli2k",
       "Name": "Riddle Master",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "shop.golden",
       "SetID": "bbgli2k",
       "Name": "Fabulous!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "shop.maps",
@@ -351,9 +351,9 @@
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "shop.teleport",
@@ -383,9 +383,9 @@
       "ID": "wireboxes.all",
       "SetID": "bbgli2k",
       "Name": "Lightning fast",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-27T22:09:42.7387608+00:00",
+  "LastChanged_Achievements": "2023-07-27T23:06:38.502319+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3689264+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:59:28.5316714+00:00",
-  "LastUpdate_Achievements": "2023-07-27T22:09:42.7387921+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:57:43.1208253+00:00",
+  "LastUpdate_Achievements": "2023-07-27T23:06:38.5023518+00:00"
 }

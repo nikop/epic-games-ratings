@@ -41,11 +41,11 @@ Rating: 3.82 (Ranked 941)
 | Community Advisor | 2.00% | ~30 |
 | Rock Exterminator | 2.00% | ~30 |
 | Tree Exterminator | 2.00% | ~30 |
-| Moonbury Navigator | 0.90% | ~14 |
+| Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,501 (Ranked 175)  
-Completed: 8 (0.53%) (Ranked 128)  
+Completed: 9 (0.60%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 8 (0.53%) (Ranked 128)
 | 2023-07-24 | 1,489 | 8 |
 | 2023-07-25 | 1,493 | 8 |
 | 2023-07-26 | 1,495 | 8 |
-| 2023-07-27 | 1,501 | 8 |
+| 2023-07-27 | 1,501 | 9 |
 ## Awards
 Max (Character Customization): 68  (Ranked 377)  
 Sum: 68 (Ranked 435)  

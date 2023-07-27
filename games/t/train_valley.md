@@ -17,9 +17,9 @@ Number of Ratings: 28  (23.09.2022)
 | Just in time! | 32.00% | ~123 |
 | Europe | 30.00% | ~116 |
 | It's no coincidence. | 30.00% | ~116 |
+| Non Stop! | 26.00% | ~100 |
 | Philatelist | 25.00% | ~96 |
 | Let's roll! | 25.00% | ~96 |
-| Non Stop! | 25.00% | ~96 |
 | Madness! | 25.00% | ~96 |
 | Ouroboros | 23.00% | ~89 |
 | Foreman | 21.00% | ~81 |

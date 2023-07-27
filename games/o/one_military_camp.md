@@ -13,6 +13,7 @@
 | Pathfinder | 4.00% | ~4 |
 | Green Energy | 4.00% | ~4 |
 | Health Care | 3.00% | ~3 |
+| Medicine Tycoon | 3.00% | ~3 |
 | Great Producer | 3.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
@@ -22,7 +23,6 @@
 | Property Bro | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
 | Food Tycoon | 2.00% | ~2 |
-| Medicine Tycoon | 2.00% | ~2 |
 | Ammo Tycoon | 2.00% | ~2 |
 | Supersoldier | 1.00% | ~1 |
 | Perfect Soldier | 1.00% | ~1 |
