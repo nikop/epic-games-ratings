@@ -23,7 +23,7 @@
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.85% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.29% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -75,12 +75,12 @@
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.44% |
 | 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 76 | [FORECLOSED](games/f/foreclosed.md) | 2.35% |
+| 76 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
 | 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
-| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.00% |
+| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.99% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 83 | [Night Book](games/n/night_book.md) | 1.90% |
 | 84 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.89% |
@@ -96,7 +96,7 @@
 | 94 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
 | 94 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 96 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
-| 97 | [Five Dates](games/f/five_dates.md) | 1.43% |
+| 97 | [Five Dates](games/f/five_dates.md) | 1.42% |
 | 98 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 99 | [A Musical Story](games/a/a_musical_story.md) | 1.22% |
 | 100 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
@@ -121,14 +121,14 @@
 | 119 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
 | 120 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 121 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.61% |
-| 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
-| 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 122 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
-| 125 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 126 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 126 | [Them and Us](games/t/them_and_us.md) | 0.54% |
-| 128 | [Potion Permit](games/p/potion_permit.md) | 0.53% |
-| 128 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 122 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
+| 123 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
+| 123 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
+| 126 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 127 | [Them and Us](games/t/them_and_us.md) | 0.54% |
+| 129 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
 | 130 | [Train Valley](games/t/train_valley.md) | 0.52% |
 | 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
 | 131 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
