@@ -18,7 +18,7 @@
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 506 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,217 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 302 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,168 | 77 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,170 | 77 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 162,134 | 6 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,796 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 488 |
@@ -86,29 +86,29 @@
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 506 |
 | 83 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 47 | 405 |
 | 83 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,433 | 102 |
-| 83 | [Remnant 2](games/r/remnant_2.md) | 4.80 | 0 | 506 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 331 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 506 |
 | 83 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 506 |
 | 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 323 | 227 |
-| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,468 | 122 |
-| 92 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 427 | 203 |
-| 92 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
-| 92 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 506 |
-| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 741 | 159 |
-| 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,370 | 125 |
-| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,943 | 56 |
-| 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 382 | 214 |
-| 92 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
-| 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 506 |
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,468 | 122 |
+| 91 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 427 | 203 |
+| 91 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
+| 91 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 506 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 741 | 159 |
+| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,370 | 125 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,943 | 56 |
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 383 | 214 |
+| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
+| 91 | [Remnant 2](games/r/remnant_2.md) | 4.79 | 0 | 506 |
+| 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 506 |
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 506 |
 | 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,549 | 37 |
 | 102 | [Journey](games/j/journey.md) | 4.78 | 0 | 506 |
-| 102 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 737 | 161 |
+| 102 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 738 | 161 |
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,364 | 103 |
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 506 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,747 | 81 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,765 | 81 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,451 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,300 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 506 |
@@ -217,7 +217,7 @@
 | 214 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 506 |
 | 214 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 506 |
 | 214 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 472 |
-| 214 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,583 | 61 |
+| 214 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,587 | 61 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 386 | 213 |
 | 214 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.69 | 0 | 506 |
 | 214 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,604 | 71 |
@@ -270,7 +270,7 @@
 | 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 506 |
 | 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 506 |
 | 260 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 506 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,036 | 92 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,047 | 92 |
 | 260 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 96 | 338 |
 | 260 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 506 |
 | 274 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 75 | 365 |
@@ -558,7 +558,7 @@
 | 556 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 106 | 323 |
 | 556 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 214 | 263 |
 | 556 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 506 |
-| 556 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,945 | 13 |
+| 556 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,972 | 13 |
 | 556 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 115 | 318 |
 | 556 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.50 | 0 | 506 |
 | 556 | [Horace](games/h/horace.md) | 4.50 | 0 | 506 |
@@ -921,7 +921,7 @@
 | 918 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 0 | 506 |
 | 920 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 506 |
 | 921 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 218 |
-| 921 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,671 | 70 |
+| 921 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,672 | 70 |
 | 923 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 506 |
 | 923 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 506 |
 | 925 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 506 |
