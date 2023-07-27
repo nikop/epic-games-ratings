@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~262 |
 | The Great Mage | 1.00% | ~131 |
+| Play a Single Player Game | 0.90% | ~118 |
 | Settler | 0.80% | ~105 |
-| Play a Single Player Game | 0.80% | ~105 |
 | Poetic Leader | 0.80% | ~105 |
 | Explorer | 0.70% | ~92 |
 | Friendly Family | 0.70% | ~92 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.40% | ~52 |
 | Developing Cities | 0.40% | ~52 |
 | Great Ziggurat | 0.40% | ~52 |
+| Ishtar Gate | 0.40% | ~52 |
 | Lighthouse | 0.40% | ~52 |
 | Pyramids | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
@@ -51,10 +52,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
+| Just Difficulty | 0.30% | ~39 |
 | Artisans | 0.30% | ~39 |
 | Furious Family | 0.30% | ~39 |
+| Apadana | 0.30% | ~39 |
 | Colossus | 0.30% | ~39 |
-| Ishtar Gate | 0.30% | ~39 |
+| Mausoleum | 0.30% | ~39 |
 | Musaeum | 0.30% | ~39 |
 | Necropolis | 0.30% | ~39 |
 | Learn to Play 1 | 0.30% | ~39 |
@@ -72,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
-| Just Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
@@ -80,11 +82,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
-| Apadana | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
-| Mausoleum | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
+| Legalism | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Cimmerian Archer | 0.20% | ~26 |
@@ -222,7 +223,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
-| Legalism | 0.10% | ~13 |
 | Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,111 (Ranked 115)  
+Progressed: 13,113 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,111 | 5 |
+| 2023-07-27 | 13,113 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

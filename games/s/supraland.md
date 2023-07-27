@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~711,414 |
-| The Blues | 85.00% | ~610,810 |
-| Fast | 66.00% | ~474,276 |
-| Healthbar | 55.00% | ~395,230 |
-| Force Cube | 53.00% | ~380,858 |
-| Double Jump | 48.00% | ~344,928 |
-| Regeneration | 47.00% | ~337,742 |
-| Climb the hill | 42.00% | ~301,812 |
-| Triple Jump | 42.00% | ~301,812 |
-| Through the fire pipe | 38.00% | ~273,068 |
-| MacGuffin | 38.00% | ~273,068 |
-| Just once | 36.00% | ~258,696 |
-| Armor | 30.00% | ~215,580 |
-| True holy spirit | 27.00% | ~194,022 |
-| That's how electronics work obviously | 26.00% | ~186,836 |
+| Out of bed | 99.00% | ~711,416 |
+| The Blues | 85.00% | ~610,812 |
+| Fast | 66.00% | ~474,277 |
+| Healthbar | 55.00% | ~395,231 |
+| Force Cube | 53.00% | ~380,859 |
+| Double Jump | 48.00% | ~344,929 |
+| Regeneration | 47.00% | ~337,743 |
+| Climb the hill | 42.00% | ~301,813 |
+| Triple Jump | 42.00% | ~301,813 |
+| Through the fire pipe | 38.00% | ~273,069 |
+| MacGuffin | 38.00% | ~273,069 |
+| Just once | 36.00% | ~258,697 |
+| Armor | 30.00% | ~215,581 |
+| True holy spirit | 27.00% | ~194,023 |
+| That's how electronics work obviously | 26.00% | ~186,837 |
 | Force Cube Catapult | 25.00% | ~179,650 |
 | Holy Sword | 23.00% | ~165,278 |
 | Telefrag | 22.00% | ~158,092 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~719 |
 | DLC: Top of the world | 0.10% | ~719 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,600 (Ranked 17)  
+Progressed: 718,602 (Ranked 17)  
 Completed: 714 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 714 (0.10%) (Ranked 189)
 | 2023-07-24 | 718,282 | 714 |
 | 2023-07-25 | 718,426 | 714 |
 | 2023-07-26 | 718,586 | 714 |
-| 2023-07-27 | 718,600 | 714 |
+| 2023-07-27 | 718,602 | 714 |
 ## Awards
 Max (Challenging Puzzles): 7,652  (Ranked 43)  
 Sum: 9,969 (Ranked 81)  

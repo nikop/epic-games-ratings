@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2132,
+  "EOS_Progressed": 2133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4161,6 +4161,11 @@
       "Time": "2023-07-27T01:54:18.7673759+00:00",
       "NumProgressed": 2132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T03:03:57.6775239+00:00",
+      "NumProgressed": 2133,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4252,7 +4257,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "GLOVE_SLAP",
@@ -4276,7 +4281,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "GUARD_MAKER",
@@ -4347,14 +4352,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2132,
+      "Progressed": 2133,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:25:24.2196955+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:03:57.6775234+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.9403478+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:19:09.8759629+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:25:24.2197367+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:57:36.6087137+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:03:57.6775741+00:00"
 }

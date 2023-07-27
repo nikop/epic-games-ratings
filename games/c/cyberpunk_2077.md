@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,105 |
-| Right Back At Ya | 39.00% | ~338,442 |
-| The Lovers | 34.00% | ~295,052 |
-| Stanislavski's Method | 28.00% | ~242,984 |
-| The Wheel of Fortune | 27.00% | ~234,306 |
-| The Hermit | 24.00% | ~208,272 |
-| True Soldier | 23.00% | ~199,594 |
-| Christmas Tree Attack | 22.00% | ~190,916 |
-| The High Priestess | 21.00% | ~182,238 |
-| Legend of The Afterlife | 21.00% | ~182,238 |
-| Life of the Road | 20.00% | ~173,560 |
-| Full Body Conversion | 18.00% | ~156,204 |
-| The World | 18.00% | ~156,204 |
+| The Fool | 68.00% | ~590,106 |
+| Right Back At Ya | 39.00% | ~338,443 |
+| The Lovers | 34.00% | ~295,053 |
+| Stanislavski's Method | 28.00% | ~242,985 |
+| The Wheel of Fortune | 27.00% | ~234,307 |
+| The Hermit | 24.00% | ~208,273 |
+| True Soldier | 23.00% | ~199,595 |
+| Christmas Tree Attack | 22.00% | ~190,917 |
+| The High Priestess | 21.00% | ~182,239 |
+| Legend of The Afterlife | 21.00% | ~182,239 |
+| Life of the Road | 20.00% | ~173,561 |
+| Full Body Conversion | 18.00% | ~156,205 |
+| The World | 18.00% | ~156,205 |
 | Bushido and Chill | 16.00% | ~138,848 |
 | Gun Fu | 15.00% | ~130,170 |
 | True Warrior | 15.00% | ~130,170 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,678 |
 | Rough Landing | 0.50% | ~4,339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,801 (Ranked 14)  
+Progressed: 867,803 (Ranked 14)  
 Completed: 1,906 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 1,906 (0.22%) (Ranked 164)
 | 2023-07-24 | 867,476 | 1,903 |
 | 2023-07-25 | 867,630 | 1,905 |
 | 2023-07-26 | 867,794 | 1,906 |
-| 2023-07-27 | 867,801 | 1,906 |
+| 2023-07-27 | 867,803 | 1,906 |
 ## Awards
 Max (Character Customization): 74,191  (Ranked 9)  
-Sum: 195,097 (Ranked 13)  
+Sum: 195,105 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 8,398 |
 | This game has Quickly Understood Controls | 8,278 |
 | This game has Amazing Characters | 8,261 |
-| This game has a Creative Community | 5,418 |
+| This game has a Creative Community | 5,426 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -359,4 +359,4 @@ Diff (max vs sum): -4
 | 2023-07-24 | 4.62 | - | 74,031 | 194,581 |
 | 2023-07-25 | 4.62 | - | 74,031 | 194,766 |
 | 2023-07-26 | 4.62 | - | 74,118 | 194,993 |
-| 2023-07-27 | 4.62 | - | 74,191 | 195,097 |
+| 2023-07-27 | 4.62 | - | 74,191 | 195,105 |

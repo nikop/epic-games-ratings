@@ -1168,9 +1168,9 @@
       "ID": "coffee_100",
       "SetID": "56hff7o",
       "Name": "Brew Master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "coffee_50",
@@ -1208,9 +1208,9 @@
       "ID": "tea_100",
       "SetID": "56hff7o",
       "Name": "Tea Guru",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "tea_50",
@@ -1231,8 +1231,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:28:22.8916639+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:06:13.0258738+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:15.5830979+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:20:51.4157632+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:28:22.8916803+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:58:56.3015079+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:06:13.0258898+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~117,716 |
-| Where's that freaking Dwarf? | 47.00% | ~93,774 |
-| GG EZ | 28.00% | ~55,865 |
-| Speedrun | 26.00% | ~51,875 |
-| Déjà vu | 21.00% | ~41,899 |
-| Sock! SOCK! | 17.00% | ~33,918 |
-| DM intervention | 13.00% | ~25,937 |
+| Alt+F4 | 59.00% | ~117,720 |
+| Where's that freaking Dwarf? | 47.00% | ~93,777 |
+| GG EZ | 28.00% | ~55,867 |
+| Speedrun | 26.00% | ~51,877 |
+| Déjà vu | 21.00% | ~41,900 |
+| Sock! SOCK! | 17.00% | ~33,919 |
+| DM intervention | 13.00% | ~25,938 |
 | Fireproof Wizardess | 9.00% | ~17,957 |
-| Livin' in a dwarven paradise | 7.00% | ~13,966 |
-| Way of the Wimp | 7.00% | ~13,966 |
-| A beer, two curses, three companions | 7.00% | ~13,966 |
+| Livin' in a dwarven paradise | 7.00% | ~13,967 |
+| Way of the Wimp | 7.00% | ~13,967 |
+| A beer, two curses, three companions | 7.00% | ~13,967 |
 | The plot thickens... At the tavern | 5.00% | ~9,976 |
 | The Woman in the High Castle | 4.00% | ~7,981 |
 | I am the night | 4.00% | ~7,981 |
@@ -27,14 +27,14 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 3.00% | ~5,986 |
 | The Ranger of Chaos | 3.00% | ~5,986 |
 | Oh, when I'll be level 10... | 3.00% | ~5,986 |
-| The Great Library | 2.00% | ~3,990 |
-| Torture and Sensibility | 2.00% | ~3,990 |
-| Look but don't touch | 2.00% | ~3,990 |
-| The beards of change | 2.00% | ~3,990 |
-| Gargantua | 2.00% | ~3,990 |
-| In Navalu's footsteps | 2.00% | ~3,990 |
-| Thieves' Guild Accreditation | 2.00% | ~3,990 |
-| Material Girl | 2.00% | ~3,990 |
+| The Great Library | 2.00% | ~3,991 |
+| Torture and Sensibility | 2.00% | ~3,991 |
+| Look but don't touch | 2.00% | ~3,991 |
+| The beards of change | 2.00% | ~3,991 |
+| Gargantua | 2.00% | ~3,991 |
+| In Navalu's footsteps | 2.00% | ~3,991 |
+| Thieves' Guild Accreditation | 2.00% | ~3,991 |
+| Material Girl | 2.00% | ~3,991 |
 | Urik's Depths | 1.00% | ~1,995 |
 | The Statuette of Gladeulfeurah | 1.00% | ~1,995 |
 | A tale of adventurers not quite like the others... | 1.00% | ~1,995 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,519 (Ranked 55)  
+Progressed: 199,526 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 197,920 | 0 |
 | 2023-07-25 | 198,707 | 0 |
 | 2023-07-26 | 199,432 | 0 |
-| 2023-07-27 | 199,519 | 0 |
+| 2023-07-27 | 199,526 | 0 |
 ## Awards
 Max (Character Customization): 139  (Ranked 298)  
 Sum: 139 (Ranked 393)  

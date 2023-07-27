@@ -1634,9 +1634,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 52879,
+  "EOS_Progressed": 52881,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12049,6 +12049,11 @@
       "Time": "2023-07-27T02:26:18.6880898+00:00",
       "NumProgressed": 52879,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T03:04:42.4028114+00:00",
+      "NumProgressed": 52881,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -12060,7 +12065,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 29083
+      "UsersEstimate": 29085
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -12316,7 +12321,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16921
+      "UsersEstimate": 16922
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -12348,7 +12353,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 33314
+      "UsersEstimate": 33315
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -12356,7 +12361,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -12428,7 +12433,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 40717
+      "UsersEstimate": 40718
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -12476,7 +12481,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -12524,22 +12529,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19565
+      "UsersEstimate": 19566
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 52879,
+      "Progressed": 52881,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-23T13:58:40.9089265+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:26:18.6880894+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:04:42.4028105+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.429657+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:20:40.3779314+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:26:18.6882094+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:58:49.9973643+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:04:42.4030173+00:00"
 }

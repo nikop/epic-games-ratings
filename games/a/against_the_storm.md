@@ -19,28 +19,28 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~481 |
 | A Real Challenge | 3.00% | ~481 |
 | Trade Baron | 3.00% | ~481 |
-| Serving Ale | 2.00% | ~320 |
-| Refinery | 2.00% | ~320 |
-| Against All Odds | 2.00% | ~320 |
-| Ruined Armory | 2.00% | ~320 |
-| Bandit Camp | 2.00% | ~320 |
-| Barren Lands | 2.00% | ~320 |
-| Sparkdew Crystals | 2.00% | ~320 |
-| Dangerous Lands | 2.00% | ~320 |
-| Forbidden Lands | 2.00% | ~320 |
-| Haunted Forest | 2.00% | ~320 |
-| Levitating Monument | 2.00% | ~320 |
-| Flooded Mines | 2.00% | ~320 |
-| Monastery of the Holy Flame | 2.00% | ~320 |
-| Royal Outpost | 2.00% | ~320 |
-| Statue of the Forefathers | 2.00% | ~320 |
-| Forsaken Gods Temple | 2.00% | ~320 |
-| Corrosive Torrent | 2.00% | ~320 |
-| Watchtower | 2.00% | ~320 |
-| Cursed Lands | 2.00% | ~320 |
-| Like a Machine | 2.00% | ~320 |
-| Defying the Crown | 2.00% | ~320 |
-| Into the Forest | 2.00% | ~320 |
+| Serving Ale | 2.00% | ~321 |
+| Refinery | 2.00% | ~321 |
+| Against All Odds | 2.00% | ~321 |
+| Ruined Armory | 2.00% | ~321 |
+| Bandit Camp | 2.00% | ~321 |
+| Barren Lands | 2.00% | ~321 |
+| Sparkdew Crystals | 2.00% | ~321 |
+| Dangerous Lands | 2.00% | ~321 |
+| Forbidden Lands | 2.00% | ~321 |
+| Haunted Forest | 2.00% | ~321 |
+| Levitating Monument | 2.00% | ~321 |
+| Flooded Mines | 2.00% | ~321 |
+| Monastery of the Holy Flame | 2.00% | ~321 |
+| Royal Outpost | 2.00% | ~321 |
+| Statue of the Forefathers | 2.00% | ~321 |
+| Forsaken Gods Temple | 2.00% | ~321 |
+| Corrosive Torrent | 2.00% | ~321 |
+| Watchtower | 2.00% | ~321 |
+| Cursed Lands | 2.00% | ~321 |
+| Like a Machine | 2.00% | ~321 |
+| Defying the Crown | 2.00% | ~321 |
+| Into the Forest | 2.00% | ~321 |
 | Fishmen Ritual Site | 1.00% | ~160 |
 | Efficient Explorer | 0.90% | ~144 |
 | Prestigious Expedition | 0.80% | ~128 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,024 (Ranked 109)  
+Progressed: 16,026 (Ranked 109)  
 Completed: 40 (0.25%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 40 (0.25%) (Ranked 160)
 | 2023-07-24 | 15,996 | 40 |
 | 2023-07-25 | 16,012 | 40 |
 | 2023-07-26 | 16,023 | 40 |
-| 2023-07-27 | 16,024 | 40 |
+| 2023-07-27 | 16,026 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,081 (Ranked 158)  

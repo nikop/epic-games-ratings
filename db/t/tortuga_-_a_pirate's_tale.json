@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15958,
+  "EOS_Progressed": 15959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3385,6 +3385,11 @@
       "Time": "2023-07-27T00:04:33.1732323+00:00",
       "NumProgressed": 15958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T03:04:37.7726502+00:00",
+      "NumProgressed": 15959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3396,7 +3401,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15160
+      "UsersEstimate": 15161
     },
     {
       "ID": "ACH001",
@@ -3404,7 +3409,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ACH0010",
@@ -3428,7 +3433,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7500
+      "UsersEstimate": 7501
     },
     {
       "ID": "ACH0013",
@@ -3540,7 +3545,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ACH003",
@@ -3556,7 +3561,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14043
+      "UsersEstimate": 14044
     },
     {
       "ID": "ACH005",
@@ -3603,7 +3608,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15958,
+      "Progressed": 15959,
       "Completed": 0
     }
   ],
@@ -3611,8 +3616,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-07-15T00:01:25.4338441+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:26:13.1645704+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:04:37.7726495+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.9125867+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:22:46.719861+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:26:13.1646077+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:00:27.4955427+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:04:37.7727141+00:00"
 }

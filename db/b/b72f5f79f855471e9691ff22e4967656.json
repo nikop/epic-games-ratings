@@ -387,9 +387,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "killGrave10",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:25:39.2464409+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:04:10.1914674+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:18:48.6125535+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:25:39.246513+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:57:20.6981144+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:04:10.1915624+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1851,9 +1851,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43144,
+  "EOS_Progressed": 43145,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5396,6 +5396,11 @@
       "Time": "2023-07-26T20:04:37.121764+00:00",
       "NumProgressed": 43144,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-27T03:04:26.8851312+00:00",
+      "NumProgressed": 43145,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5447,7 +5452,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -5463,7 +5468,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12081
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -5511,7 +5516,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16826
+      "UsersEstimate": 16827
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -5599,7 +5604,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26749
+      "UsersEstimate": 26750
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5623,7 +5628,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18983
+      "UsersEstimate": 18984
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -5695,7 +5700,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15963
+      "UsersEstimate": 15964
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -5703,7 +5708,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18120
+      "UsersEstimate": 18121
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -5735,7 +5740,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29769
+      "UsersEstimate": 29770
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5751,7 +5756,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12943
+      "UsersEstimate": 12944
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -5759,7 +5764,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19846
+      "UsersEstimate": 19847
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -5767,7 +5772,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24592
+      "UsersEstimate": 24593
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -5799,7 +5804,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18983
+      "UsersEstimate": 18984
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -5807,7 +5812,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28475
+      "UsersEstimate": 28476
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5823,7 +5828,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -5934,15 +5939,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43144,
+      "Progressed": 43145,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-25T19:00:26.4040267+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:25:59.2287897+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:04:26.8851304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.6064619+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:22:26.2959597+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:25:59.2288746+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:00:11.3762099+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:04:26.8852805+00:00"
 }

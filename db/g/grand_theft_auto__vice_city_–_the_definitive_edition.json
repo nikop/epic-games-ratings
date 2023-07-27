@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 121,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -524,6 +524,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 63,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-07-27T02:58:38.2115051+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
@@ -538,9 +544,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9235,
+  "EOS_Progressed": 9236,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7068,6 +7074,11 @@
       "Time": "2023-07-27T01:54:47.897783+00:00",
       "NumProgressed": 9235,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-27T03:04:18.0023308+00:00",
+      "NumProgressed": 9236,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7151,7 +7162,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH11",
@@ -7183,7 +7194,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "ACH15",
@@ -7350,16 +7361,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9235,
+      "Progressed": 9236,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-07-25T03:03:00.1337429+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:25:48.9062894+00:00",
+  "LastChanged": "2023-07-27T02:58:38.2115048+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:04:18.00233+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:20:27.2630659+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:25:48.9063569+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:58:38.2115056+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:04:18.0024456+00:00"
 }

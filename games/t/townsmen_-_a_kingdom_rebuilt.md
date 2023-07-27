@@ -6,9 +6,9 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 11.00% | ~463 |
-| A new beginning | 11.00% | ~463 |
-| Tax-man I | 10.00% | ~421 |
+| Eureka! | 11.00% | ~464 |
+| Tax-man I | 11.00% | ~464 |
+| A new beginning | 11.00% | ~464 |
 | Friends from the past | 9.00% | ~379 |
 | I like to build stuff... I | 8.00% | ~337 |
 | Builder I | 7.00% | ~295 |
@@ -26,13 +26,13 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 5.00% | ~211 |
 | Tools of the trade I | 5.00% | ~211 |
 | Knee deep in snow | 5.00% | ~211 |
-| Bread for the people II | 4.00% | ~168 |
-| I like to build stuff... III | 4.00% | ~168 |
-| The King's new clothes I | 4.00% | ~168 |
-| Builder II | 4.00% | ~168 |
-| An honorable Governor II | 4.00% | ~168 |
-| Tax-man III | 4.00% | ~168 |
-| Conflicting parties | 4.00% | ~168 |
+| Bread for the people II | 4.00% | ~169 |
+| I like to build stuff... III | 4.00% | ~169 |
+| The King's new clothes I | 4.00% | ~169 |
+| Builder II | 4.00% | ~169 |
+| An honorable Governor II | 4.00% | ~169 |
+| Tax-man III | 4.00% | ~169 |
+| Conflicting parties | 4.00% | ~169 |
 | Another one bites the dust | 3.00% | ~126 |
 | I like to build stuff... IV | 3.00% | ~126 |
 | Experienced decorator | 3.00% | ~126 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,212 (Ranked 144)  
+Progressed: 4,214 (Ranked 144)  
 Completed: 3 (0.07%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 3 (0.07%) (Ranked 200)
 | 2023-07-24 | 4,207 | 3 |
 | 2023-07-25 | 4,209 | 3 |
 | 2023-07-26 | 4,211 | 3 |
-| 2023-07-27 | 4,212 | 3 |
+| 2023-07-27 | 4,214 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

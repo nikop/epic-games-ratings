@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.86,
+  "EOS_Completed_Percentage": 4.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1747,6 +1747,11 @@
       "Time": "2023-07-26T23:03:24.5787378+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-27T03:03:21.7169994+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1766,7 +1771,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1845,15 +1850,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-27T02:24:18.6164021+00:00",
+  "LastChanged_Achievements": "2023-07-27T03:03:21.7169987+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-27T02:22:39.5904634+00:00",
-  "LastUpdate_Achievements": "2023-07-27T02:24:18.6164219+00:00"
+  "LastUpdate_Ratings": "2023-07-27T03:00:21.8943743+00:00",
+  "LastUpdate_Achievements": "2023-07-27T03:03:21.7170175+00:00"
 }

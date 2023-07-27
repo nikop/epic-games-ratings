@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 74.00% | ~171 |
-| Aspairagus | 56.00% | ~101 |
-| First Blood | 55.00% | ~127 |
-| Triple Kill | 55.00% | ~127 |
+| Seeds of War | 75.00% | ~174 |
+| Aspairagus | 56.00% | ~102 |
+| First Blood | 55.00% | ~128 |
+| Triple Kill | 55.00% | ~128 |
 | Survivor | 54.00% | ~98 |
 | No Asperascope | 50.00% | ~116 |
-| Cornivore | 49.00% | ~113 |
-| I Believe I Can Fly | 46.00% | ~106 |
+| Cornivore | 49.00% | ~114 |
+| I Believe I Can Fly | 47.00% | ~109 |
 | Early Survivor | 42.00% | ~76 |
-| No Diggity | 40.00% | ~72 |
-| Amateur Survivor | 30.00% | ~54 |
+| No Diggity | 40.00% | ~73 |
+| Amateur Survivor | 30.00% | ~55 |
 | 10K | 28.00% | ~65 |
 | Bouncemato | 28.00% | ~51 |
 | 15K | 26.00% | ~60 |
-| Grave Digger | 23.00% | ~42 |
 | Drinking Problem | 22.00% | ~51 |
 | Quick-Draw Pod | 22.00% | ~40 |
 | Professional Survivor | 22.00% | ~40 |
+| Grave Digger | 22.00% | ~40 |
 | Pork Chop Express | 16.00% | ~37 |
 | Skin Of Your Teeth | 14.00% | ~32 |
 | Eggtraordinary | 13.00% | ~30 |
@@ -32,10 +32,10 @@
 | Summers Here | 11.00% | ~20 |
 | Fresh Pancake | 10.00% | ~23 |
 | Quit Horsin' Around | 10.00% | ~23 |
-| Perfect | 10.00% | ~18 |
+| Perfect | 9.00% | ~16 |
 | Expert Survivor | 9.00% | ~16 |
-| Bring Home The Bacon | 8.00% | ~18 |
-| Quadsparagus | 8.00% | ~14 |
+| Bring Home The Bacon | 8.00% | ~19 |
+| Quadsparagus | 8.00% | ~15 |
 | Pyromaniac | 6.00% | ~11 |
 | Chick Magnet | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 264)  
+Progressed: 232 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 229 | 0 |
 | 2023-07-25 | 230 | 0 |
 | 2023-07-26 | 231 | 0 |
+| 2023-07-27 | 232 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
