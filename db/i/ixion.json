@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -4261,9 +4261,9 @@
       "ID": "ACH_BASE_51",
       "SetID": "92iocjf",
       "Name": "Convenient Transport",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_BASE_52",
@@ -4404,8 +4404,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:05:53.1353379+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:05:22.7047334+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-27T16:59:32.6860021+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:05:53.1354015+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:59:12.06636+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:05:22.7047966+00:00"
 }

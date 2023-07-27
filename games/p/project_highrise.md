@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~161 |
-| Starting Skyward | 51.00% | ~139 |
+| In the Black | 58.00% | ~159 |
+| Starting Skyward | 51.00% | ~140 |
 | Grime is Not Good | 45.00% | ~123 |
 | Campaign Launch | 38.00% | ~104 |
 | Floor Galore | 37.00% | ~101 |
@@ -13,17 +13,17 @@
 | Need a Consult | 35.00% | ~96 |
 | Upgrade Unlock | 34.00% | ~93 |
 | It's Technical | 34.00% | ~93 |
-| Delegate Maintenance | 33.00% | ~90 |
+| Delegate Maintenance | 32.00% | ~88 |
 | Proper Walls | 30.00% | ~82 |
-| Destination Destiny | 29.00% | ~79 |
+| Destination Destiny | 28.00% | ~77 |
 | Happy Tenants | 26.00% | ~71 |
 | Potent Potables | 24.00% | ~66 |
 | Smooth Service | 24.00% | ~66 |
 | Your Prestige is Rising | 23.00% | ~63 |
 | Retail Revenue | 23.00% | ~63 |
-| Lux Living | 21.00% | ~57 |
-| People Mover | 21.00% | ~57 |
-| Leveled Up Shops | 21.00% | ~57 |
+| Lux Living | 21.00% | ~58 |
+| People Mover | 21.00% | ~58 |
+| Leveled Up Shops | 21.00% | ~58 |
 | Don't Feel a Loan | 20.00% | ~55 |
 | Get Electrified | 20.00% | ~55 |
 | Artfully Done | 19.00% | ~52 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 256)  
+Progressed: 274 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 252 | 0 |
 | 2023-07-25 | 262 | 0 |
 | 2023-07-26 | 270 | 0 |
-| 2023-07-27 | 273 | 0 |
+| 2023-07-27 | 274 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

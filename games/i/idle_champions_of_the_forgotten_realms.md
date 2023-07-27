@@ -1,16 +1,16 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 906)  
+Rating: 4.05 (Ranked 907)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,481 |
+| A Brief Tour of the Realms | 3.00% | ~6,482 |
 | Beast Intentions | 2.00% | ~4,321 |
-| Maddening | 1.00% | ~2,160 |
-| The Silken Swamp | 1.00% | ~2,160 |
-| Supply Run | 1.00% | ~2,160 |
+| Maddening | 1.00% | ~2,161 |
+| The Silken Swamp | 1.00% | ~2,161 |
+| Supply Run | 1.00% | ~2,161 |
 | Rocky Reception | 0.90% | ~1,641 |
 | Vecna Lives! | 0.80% | ~1,459 |
 | Rock and Roll | 0.80% | ~1,459 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.50% | ~1,080 |
 | Heatwave | 0.50% | ~912 |
 | Terror in the Dark | 0.50% | ~1,080 |
+| Building Trust | 0.50% | ~1,080 |
 | Unearthed Evil | 0.50% | ~1,080 |
 | The Champion's Guide to Wildspace | 0.50% | ~912 |
 | Not That Type of Helm! | 0.50% | ~912 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~864 |
 | A Mysterious Summons | 0.40% | ~864 |
 | Street War | 0.40% | ~864 |
-| Building Trust | 0.40% | ~864 |
 | March of the Undead | 0.40% | ~864 |
 | No Time To Rest | 0.40% | ~864 |
 | The Mists of Ravenloft | 0.40% | ~864 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,042 (Ranked 53)  
+Progressed: 216,062 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,17 +617,17 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 216,042 | 2,127 |
+| 2023-07-27 | 216,062 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
-Sum: 30,745 (Ranked 38)  
+Sum: 30,749 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,084 |
 | This game is Great for Beginners | 5,023 |
 | This game has Quickly Understood Controls | 4,685 |
-| This game is Relaxing | 4,574 |
+| This game is Relaxing | 4,578 |
 | This game has Amazing Characters | 4,034 |
 | This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,321 |
@@ -816,3 +816,4 @@ Diff (max vs sum): 28
 | 2023-07-24 | 4.06 | - | 5,064 | 30,675 |
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
+| 2023-07-27 | 4.05 | - | 5,084 | 30,749 |

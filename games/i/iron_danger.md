@@ -15,8 +15,8 @@
 | Keyu Exterminator | 6.00% | ~14 |
 | Tastes Like Chicken | 6.00% | ~14 |
 | Fourth Shard | 6.00% | ~14 |
+| Fifth Shard | 6.00% | ~14 |
 | Big Fish | 5.00% | ~12 |
-| Fifth Shard | 5.00% | ~12 |
 | Green Thumb | 4.00% | ~9 |
 | Mushroom Forager | 3.00% | ~7 |
 | Good Stew | 3.00% | ~7 |

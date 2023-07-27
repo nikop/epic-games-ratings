@@ -13,18 +13,19 @@
 | Apprentice | 22.00% | ~7 |
 | Freezing Cold | 13.00% | ~4 |
 | The Power of the Mountains | 13.00% | ~4 |
+| Searing Heat | 9.00% | ~3 |
 | Through Dangers Untold | 9.00% | ~3 |
+| Nothing but the Truth | 9.00% | ~3 |
 | The Golden Flash | 9.00% | ~3 |
 | Changing the World | 9.00% | ~3 |
 | Bringing guns to a sword fight | 6.00% | ~2 |
-| Searing Heat | 6.00% | ~2 |
 | Locked and Loaded | 6.00% | ~2 |
-| Nothing but the Truth | 6.00% | ~2 |
 | Mirror, Mirror on the Wall | 3.00% | ~1 |
 | Sponsor | 3.00% | ~1 |
 | Defeat Ingla | 3.00% | ~1 |
 | Defeat Tezuth | 3.00% | ~1 |
 | Defeat Uskol | 3.00% | ~1 |
+| Forest Expert | 3.00% | ~1 |
 | Finally! | 3.00% | ~1 |
 | The End | 3.00% | ~1 |
 | But what of the Acreans? | 3.00% | ~1 |
@@ -34,7 +35,6 @@
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |
-| Forest Expert | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |

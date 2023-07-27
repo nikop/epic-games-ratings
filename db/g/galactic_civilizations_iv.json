@@ -5,10 +5,10 @@
   "Ranking_Rating": 859,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 277,
-  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -822,9 +822,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6220,
+  "EOS_Progressed": 6221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4412,6 +4412,11 @@
       "Time": "2023-07-27T17:07:34.2338357+00:00",
       "NumProgressed": 6220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T18:07:05.2756972+00:00",
+      "NumProgressed": 6221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4455,7 +4460,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4503,7 +4508,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "First_Major_Ally",
@@ -4527,7 +4532,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "First_Race_Met",
@@ -4743,7 +4748,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4911,7 +4916,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4998,15 +5003,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6220,
+      "Progressed": 6221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-26T11:57:53.7083727+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:07:34.2338353+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:07:05.2756969+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.2564155+00:00",
-  "LastUpdate_Ratings": "2023-07-27T16:58:14.0372886+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:07:34.2339108+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:58:01.747179+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:07:05.2757759+00:00"
 }

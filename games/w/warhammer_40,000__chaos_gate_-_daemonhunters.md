@@ -14,9 +14,9 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 0.70% | ~21 |
 | Blood for the Blood God! | 0.50% | ~15 |
 | Purging Spree | 0.50% | ~15 |
+| A Foul Creche | 0.40% | ~12 |
 | Surgical Excision | 0.30% | ~9 |
 | Friendly Fire | 0.30% | ~9 |
-| A Foul Creche | 0.30% | ~9 |
 | Honoured Battle-Brother | 0.20% | ~6 |
 | Hold Your Ground | 0.20% | ~6 |
 | Execution Force | 0.20% | ~6 |

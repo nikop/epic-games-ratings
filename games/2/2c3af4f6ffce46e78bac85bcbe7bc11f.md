@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 26.00% | ~5 |
-| Something foundational... | 26.00% | ~5 |
-| Something to make you dream... | 26.00% | ~5 |
-| Something monumental... | 26.00% | ~5 |
-| Something to long for... | 26.00% | ~5 |
+| Something ever-changing... | 32.00% | ~6 |
+| Something foundational... | 32.00% | ~6 |
+| Something to make you dream... | 32.00% | ~6 |
+| Something monumental... | 32.00% | ~6 |
+| Something to long for... | 32.00% | ~6 |
 | Something firmly rooted... | 26.00% | ~5 |
 | Something free... | 21.00% | ~4 |
 | Something gentle... | 21.00% | ~4 |

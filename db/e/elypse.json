@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -508,9 +508,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -659,8 +659,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:04:40.2602581+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:04:23.5286827+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.2495239+00:00",
-  "LastUpdate_Ratings": "2023-07-27T16:58:56.7057094+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:04:40.2602798+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:58:42.738836+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:04:23.5287044+00:00"
 }

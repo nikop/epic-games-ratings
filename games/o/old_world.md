@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 2.00% | ~262 |
+| The Clergy | 2.00% | ~263 |
 | The Great Mage | 1.00% | ~131 |
 | Settler | 0.90% | ~118 |
 | Play a Single Player Game | 0.90% | ~118 |
@@ -15,39 +15,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.80% | ~105 |
 | Intrepid | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
+| Architect | 0.60% | ~79 |
 | Good | 0.60% | ~79 |
 | Just | 0.60% | ~79 |
 | Mason | 0.60% | ~79 |
-| Architect | 0.50% | ~66 |
+| Strong | 0.60% | ~79 |
+| Oracle | 0.60% | ~79 |
 | Enlightened | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
 | Pioneer | 0.50% | ~66 |
-| Strong | 0.50% | ~66 |
 | Hanging Gardens | 0.50% | ~66 |
-| Oracle | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
-| Ambitious | 0.40% | ~52 |
-| Glorious | 0.40% | ~52 |
-| Keystone | 0.40% | ~52 |
-| Magnificent | 0.40% | ~52 |
-| Warrior | 0.40% | ~52 |
-| Developing Cities | 0.40% | ~52 |
-| Able Difficulty | 0.40% | ~52 |
-| Artisans | 0.40% | ~52 |
-| Great Ziggurat | 0.40% | ~52 |
-| Ishtar Gate | 0.40% | ~52 |
-| Lighthouse | 0.40% | ~52 |
-| Pyramids | 0.40% | ~52 |
-| Learn to Play 1 | 0.40% | ~52 |
-| Christianity | 0.40% | ~52 |
-| Babylonian Paganism | 0.40% | ~52 |
-| Carthaginian Paganism | 0.40% | ~52 |
-| Roman Paganism | 0.40% | ~52 |
-| Zoroastrianism | 0.40% | ~52 |
+| Ambitious | 0.40% | ~53 |
+| Glorious | 0.40% | ~53 |
+| Keystone | 0.40% | ~53 |
+| Magnificent | 0.40% | ~53 |
+| Warrior | 0.40% | ~53 |
+| Developing Cities | 0.40% | ~53 |
+| Able Difficulty | 0.40% | ~53 |
+| Artisans | 0.40% | ~53 |
+| Great Ziggurat | 0.40% | ~53 |
+| Ishtar Gate | 0.40% | ~53 |
+| Lighthouse | 0.40% | ~53 |
+| Pyramids | 0.40% | ~53 |
+| Learn to Play 1 | 0.40% | ~53 |
+| Christianity | 0.40% | ~53 |
+| Babylonian Paganism | 0.40% | ~53 |
+| Carthaginian Paganism | 0.40% | ~53 |
+| Roman Paganism | 0.40% | ~53 |
+| Zoroastrianism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
 | Mythology | 0.30% | ~39 |
+| Points Victory | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
 | Drillmaster | 0.20% | ~26 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Double Victory | 0.20% | ~26 |
-| Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
 | Centenarian | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,125 (Ranked 115)  
+Progressed: 13,126 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,125 | 5 |
+| 2023-07-27 | 13,126 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

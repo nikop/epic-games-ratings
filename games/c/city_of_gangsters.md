@@ -5,49 +5,49 @@ Rating: 4.26 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,124 |
-| Copacetic Coordination | 16.00% | ~53,261 |
-| Fronting the Money | 14.00% | ~46,603 |
-| The Dawn of Automation | 14.00% | ~46,603 |
-| Extraordinary Logistics | 14.00% | ~46,603 |
-| Dirty Money | 13.00% | ~43,274 |
-| Family First | 13.00% | ~43,274 |
-| Cleaning House | 12.00% | ~39,945 |
-| Room in the Back | 12.00% | ~39,945 |
-| Booze Baron | 11.00% | ~36,617 |
-| Beating the Heat | 10.00% | ~33,288 |
-| Friends on the Force | 10.00% | ~33,288 |
-| Neighborhood Watch | 10.00% | ~33,288 |
-| Core Corps | 8.00% | ~26,630 |
-| Sizeable Stash | 8.00% | ~26,630 |
+| Corner Clout | 46.00% | ~153,130 |
+| Copacetic Coordination | 16.00% | ~53,263 |
+| Fronting the Money | 14.00% | ~46,605 |
+| The Dawn of Automation | 14.00% | ~46,605 |
+| Extraordinary Logistics | 14.00% | ~46,605 |
+| Dirty Money | 13.00% | ~43,276 |
+| Family First | 13.00% | ~43,276 |
+| Cleaning House | 12.00% | ~39,947 |
+| Room in the Back | 12.00% | ~39,947 |
+| Booze Baron | 11.00% | ~36,618 |
+| Beating the Heat | 10.00% | ~33,289 |
+| Friends on the Force | 10.00% | ~33,289 |
+| Neighborhood Watch | 10.00% | ~33,289 |
+| Core Corps | 8.00% | ~26,631 |
+| Sizeable Stash | 8.00% | ~26,631 |
 | Street Fighter | 7.00% | ~23,302 |
 | Friendly Gestures | 7.00% | ~23,302 |
 | People Person | 7.00% | ~23,302 |
-| Liquor Lord | 6.00% | ~19,973 |
-| Safety in Numbers | 6.00% | ~19,973 |
-| Show ‘em the Sugar | 6.00% | ~19,973 |
-| Killing Them Softly | 6.00% | ~19,973 |
-| Street Knowledge | 5.00% | ~16,644 |
-| Oh Captain | 5.00% | ~16,644 |
-| Branching Out | 5.00% | ~16,644 |
-| Improvement Missions | 5.00% | ~16,644 |
-| Opportunity Knocked | 5.00% | ~16,644 |
-| City of Big Shoulders | 5.00% | ~16,644 |
-| Moving Experiences | 5.00% | ~16,644 |
-| Mission Mastery | 5.00% | ~16,644 |
-| Wise Head | 5.00% | ~16,644 |
-| Considerable Clams | 4.00% | ~13,315 |
-| Gin Joint | 4.00% | ~13,315 |
-| An Affront to the Enemy | 4.00% | ~13,315 |
-| Friends from Back Home | 4.00% | ~13,315 |
-| Half Century Mark | 4.00% | ~13,315 |
-| Corner Opportunities | 3.00% | ~9,986 |
-| 2122 North Clark Street | 3.00% | ~9,986 |
-| Copious Cabbage | 3.00% | ~9,986 |
-| Sockdolager | 3.00% | ~9,986 |
-| Still Stalwart | 3.00% | ~9,986 |
-| Bees Knees Bootlegger | 3.00% | ~9,986 |
-| Tighten the Screws | 3.00% | ~9,986 |
+| Liquor Lord | 6.00% | ~19,974 |
+| Safety in Numbers | 6.00% | ~19,974 |
+| Show ‘em the Sugar | 6.00% | ~19,974 |
+| Killing Them Softly | 6.00% | ~19,974 |
+| Street Knowledge | 5.00% | ~16,645 |
+| Oh Captain | 5.00% | ~16,645 |
+| Branching Out | 5.00% | ~16,645 |
+| Improvement Missions | 5.00% | ~16,645 |
+| Opportunity Knocked | 5.00% | ~16,645 |
+| City of Big Shoulders | 5.00% | ~16,645 |
+| Moving Experiences | 5.00% | ~16,645 |
+| Mission Mastery | 5.00% | ~16,645 |
+| Wise Head | 5.00% | ~16,645 |
+| Considerable Clams | 4.00% | ~13,316 |
+| Gin Joint | 4.00% | ~13,316 |
+| An Affront to the Enemy | 4.00% | ~13,316 |
+| Friends from Back Home | 4.00% | ~13,316 |
+| Half Century Mark | 4.00% | ~13,316 |
+| Corner Opportunities | 3.00% | ~9,987 |
+| 2122 North Clark Street | 3.00% | ~9,987 |
+| Copious Cabbage | 3.00% | ~9,987 |
+| Sockdolager | 3.00% | ~9,987 |
+| Still Stalwart | 3.00% | ~9,987 |
+| Bees Knees Bootlegger | 3.00% | ~9,987 |
+| Tighten the Screws | 3.00% | ~9,987 |
 | One of Us | 2.00% | ~6,658 |
 | Baker’s Dozen | 2.00% | ~6,658 |
 | Dropping the Dime | 2.00% | ~6,658 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 807)
 | High Pillow | 0.10% | ~333 |
 | Station Master | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,879 (Ranked 41)  
+Progressed: 332,892 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 5 (0.00%) (Ranked 242)
 | 2023-07-24 | 332,274 | 5 |
 | 2023-07-25 | 332,508 | 5 |
 | 2023-07-26 | 332,718 | 5 |
-| 2023-07-27 | 332,879 | 5 |
+| 2023-07-27 | 332,892 | 5 |
 ## Awards
 Max (Relaxing): 27  (Ranked 466)  
 Sum: 122 (Ranked 402)  

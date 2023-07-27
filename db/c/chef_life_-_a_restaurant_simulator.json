@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -2119,6 +2119,11 @@
       "Time": "2023-07-27T17:03:13.5571418+00:00",
       "NumProgressed": 501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T18:03:20.9450513+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2330,7 +2335,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "RecipeDifferent30",
@@ -2386,7 +2391,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TrattoriaSet",
@@ -2449,7 +2454,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 0
     }
   ],
@@ -2457,8 +2462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:03:13.5571413+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:03:20.945051+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-27T16:59:24.9248866+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:03:13.5571749+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:59:08.4767246+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:03:20.9450845+00:00"
 }

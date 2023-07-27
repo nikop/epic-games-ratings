@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,020 |
 | Surprise | 93.00% | ~2,020 |
 | Force Beam | 92.00% | ~1,998 |
-| Magnet | 90.00% | ~1,955 |
+| Magnet | 91.00% | ~1,977 |
 | Industrial Area | 89.00% | ~1,933 |
 | Magnet Repel | 88.00% | ~1,911 |
 | Boomeraxe | 87.00% | ~1,890 |

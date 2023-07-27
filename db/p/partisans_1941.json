@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1190,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1780,6 +1780,11 @@
       "Time": "2023-07-27T16:03:48.220718+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T18:03:51.6625603+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1893,9 +1898,9 @@
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 95
+      "UsersEstimate": 107
     },
     {
       "ID": "Grenadier",
@@ -1903,7 +1908,7 @@
       "Name": "Grenadier",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Hard_Serpent",
@@ -1951,7 +1956,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Kultprosvet",
@@ -2030,15 +2035,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1190,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:03:50.8295042+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:03:51.66256+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:00:26.4291838+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:03:50.8295283+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:59:58.0096151+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:03:51.6625845+00:00"
 }

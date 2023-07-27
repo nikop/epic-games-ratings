@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "ACH_SHARD_5",
       "SetID": "ao59f0i",
       "Name": "Fifth Shard",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_TROLL",
@@ -598,8 +598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:04:34.783909+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:04:19.0127384+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.6759163+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:01:34.5954937+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:04:34.7839237+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:00:57.2097971+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:04:19.0127542+00:00"
 }

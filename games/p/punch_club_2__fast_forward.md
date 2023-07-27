@@ -23,11 +23,11 @@
 | Pal of your father? | 62.00% | ~100 |
 | Employee of the month | 62.00% | ~100 |
 | Spirit of the past | 60.00% | ~97 |
-| Law student | 58.00% | ~93 |
+| Law student | 59.00% | ~95 |
 | Intriguing candies | 58.00% | ~93 |
 | Workout professional | 57.00% | ~92 |
 | Little hacker | 55.00% | ~89 |
-| Champion – starter pack | 53.00% | ~85 |
+| Champion – starter pack | 54.00% | ~87 |
 | It's good to be alive | 53.00% | ~85 |
 | Your own way | 53.00% | ~85 |
 | Employee of the year | 53.00% | ~85 |
@@ -36,35 +36,35 @@
 | Own four walls | 51.00% | ~82 |
 | Extreme neuropower! | 48.00% | ~77 |
 | Legal courier | 44.00% | ~71 |
+| Escaped from a big trouble | 41.00% | ~66 |
 | Now you are worthy | 40.00% | ~64 |
-| Escaped from a big trouble | 40.00% | ~64 |
 | No blades in the gym | 37.00% | ~60 |
-| Guiding on the right path | 35.00% | ~56 |
+| Guiding on the right path | 36.00% | ~58 |
 | Mysterious voice | 34.00% | ~55 |
 | Fight is life | 32.00% | ~52 |
 | Responsible approach | 32.00% | ~52 |
 | Champion – no way back | 30.00% | ~48 |
+| Deal with life | 29.00% | ~47 |
 | Get out of my apartment! | 29.00% | ~47 |
-| Deal with life | 28.00% | ~45 |
+| Underground dwellers | 29.00% | ~47 |
 | Poisoned fighter | 28.00% | ~45 |
 | Mom got better | 27.00% | ~43 |
+| GYM professional | 27.00% | ~43 |
 | The die is cast | 27.00% | ~43 |
-| Underground dwellers | 27.00% | ~43 |
 | Seashell hunter | 27.00% | ~43 |
-| GYM professional | 26.00% | ~42 |
 | Gang wrangler | 25.00% | ~40 |
 | Anyone can resist | 25.00% | ~40 |
 | Problems of cyborgs | 24.00% | ~39 |
 | Trap disarmed | 22.00% | ~35 |
 | Keep nature safe | 22.00% | ~35 |
 | The last bell ring | 22.00% | ~35 |
+| Careerist | 22.00% | ~35 |
 | Undercover robot | 22.00% | ~35 |
 | Another world | 21.00% | ~34 |
 | The lonesome road | 21.00% | ~34 |
 | Key memories | 21.00% | ~34 |
 | Not little hacker | 21.00% | ~34 |
 | Absolute Champion! | 21.00% | ~34 |
-| Careerist | 21.00% | ~34 |
 | The heart of the Resistance | 21.00% | ~34 |
 | Family comes first | 20.00% | ~32 |
 | Silver’s past | 18.00% | ~29 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -644,9 +644,9 @@
       "ID": "secret5",
       "SetID": "39f6ck8",
       "Name": "Hawkman",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "secret50",
@@ -725,8 +725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:03:17.0129077+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:03:24.0128945+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.8489819+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:01:26.8901661+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:03:17.0129476+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:00:52.0719645+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:03:24.0129347+00:00"
 }

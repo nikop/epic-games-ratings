@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5264,10 +5264,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30745,
       "NumberOfAwardsMax": 5084
+    },
+    {
+      "Time": "2023-07-27T17:58:46.1552634+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30749,
+      "NumberOfAwardsMax": 5084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30745,
+  "NumberOfAwards": 30749,
   "NumberOfAwardsMax": 5084,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5293,7 +5299,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4574
+      "Count": 4578
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5314,9 +5320,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 216042,
+  "EOS_Progressed": 216062,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2298,
+  "EOS_NewPlayers": 2304,
   "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15839,6 +15845,11 @@
       "Time": "2023-07-27T17:03:07.7798178+00:00",
       "NumProgressed": 216042,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T18:03:16.631062+00:00",
+      "NumProgressed": 216062,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15850,7 +15861,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6481
+      "UsersEstimate": 6482
     },
     {
       "ID": "objective_completed_10",
@@ -15858,7 +15869,7 @@
       "Name": "Maddening",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "objective_completed_100",
@@ -16154,7 +16165,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "objective_completed_1090",
@@ -16410,7 +16421,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "objective_completed_1142",
@@ -17072,9 +17083,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 1080
     },
     {
       "ID": "objective_completed_17",
@@ -19945,21 +19956,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182316,
-      "Completed": 3017
+      "Progressed": 182336,
+      "Completed": 3018
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216042,
+      "Progressed": 216062,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T17:03:07.7798174+00:00",
+  "LastChanged": "2023-07-27T17:58:46.1552632+00:00",
+  "LastChanged_Achievements": "2023-07-27T18:03:16.6310616+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T16:59:01.2249227+00:00",
-  "LastUpdate_Achievements": "2023-07-27T17:03:07.7822841+00:00"
+  "LastUpdate_Ratings": "2023-07-27T17:58:46.1552638+00:00",
+  "LastUpdate_Achievements": "2023-07-27T18:03:16.6334261+00:00"
 }

@@ -12,8 +12,8 @@ Number of Ratings: 54  (23.09.2022)
 | One shot, one kill | 29.00% | ~309 |
 | Traveler | 26.00% | ~277 |
 | Head Burst | 20.00% | ~213 |
+| Grave Robber | 19.00% | ~203 |
 | Explorer | 18.00% | ~192 |
-| Grave Robber | 18.00% | ~192 |
 | Paranoia | 16.00% | ~171 |
 | Double agent | 15.00% | ~160 |
 | Kraina Grzybow | 10.00% | ~107 |
