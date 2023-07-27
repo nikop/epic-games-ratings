@@ -392,7 +392,6 @@
 | [GALAHAD 3093](games/g/galahad_3093.md) | 2099-01-02 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2099-01-02 | - |  | - | - |
 | [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2099-01-02 | - |  | - | - |
-| [Prince of Persia: The Sands of Time Remake](games/p/prince_of_persia__the_sands_of_time_remake.md) | 2099-01-02 | - |  | - | - |
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | 2099-01-02 | - |  | - | - |
 | [REPLACED](games/r/replaced.md) | 2099-01-02 | - |  | - | - |
 | [Rollers of The Realm: Reunion](games/r/rollers_of_the_realm__reunion.md) | 2099-01-02 | - |  | - | - |
