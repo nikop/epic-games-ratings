@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Overpowered | 82.00% | ~115 |
 | Side Job | 78.00% | ~109 |
-| Bloodlust | 55.00% | ~77 |
+| Bloodlust | 56.00% | ~78 |
 | Gettin' It Done | 54.00% | ~76 |
 | Feast | 43.00% | ~60 |
 | Attuned | 36.00% | ~50 |

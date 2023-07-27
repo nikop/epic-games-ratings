@@ -1,15 +1,15 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,789 |
-| A thief's beginning | 9.00% | ~17,009 |
-| Thorough | 9.00% | ~17,009 |
-| Tanuki Time | 8.00% | ~15,119 |
+| Genin | 11.00% | ~20,791 |
+| A thief's beginning | 9.00% | ~17,010 |
+| Thorough | 9.00% | ~17,010 |
+| Tanuki Time | 8.00% | ~15,120 |
 | Disguised | 7.00% | ~13,230 |
 | Jonin | 7.00% | ~13,230 |
 | Rescue Takuma | 7.00% | ~13,230 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~189 |
 | Release the Kraken | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,993 (Ranked 59)  
+Progressed: 189,005 (Ranked 59)  
 Completed: 62 (0.03%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 62 (0.03%) (Ranked 216)
 | 2023-07-24 | 188,326 | 62 |
 | 2023-07-25 | 188,589 | 62 |
 | 2023-07-26 | 188,823 | 62 |
-| 2023-07-27 | 188,993 | 62 |
+| 2023-07-27 | 189,005 | 62 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,712 (Ranked 133)  

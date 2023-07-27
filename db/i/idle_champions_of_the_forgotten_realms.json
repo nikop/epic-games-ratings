@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 216015,
+  "EOS_Progressed": 216042,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2285,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15834,6 +15834,11 @@
       "Time": "2023-07-27T16:03:13.7841293+00:00",
       "NumProgressed": 216015,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T17:03:07.7798178+00:00",
+      "NumProgressed": 216042,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15845,7 +15850,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6480
+      "UsersEstimate": 6481
     },
     {
       "ID": "objective_completed_10",
@@ -15949,7 +15954,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_1056",
@@ -16083,9 +16088,9 @@
       "ID": "objective_completed_1080",
       "SetID": "415jc5c",
       "Name": "The Prince of a Thousand Enemies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1081",
@@ -16213,7 +16218,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "objective_completed_110",
@@ -16435,9 +16440,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1148",
@@ -16525,7 +16530,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "objective_completed_1164",
@@ -16579,9 +16584,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1174",
@@ -16605,7 +16610,7 @@
       "Name": "Heatwave",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_1179",
@@ -19805,7 +19810,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_1220",
@@ -19813,7 +19818,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_1327",
@@ -19837,7 +19842,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_593",
@@ -19845,7 +19850,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_663",
@@ -19885,7 +19890,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "objective_completed_1381",
@@ -19940,21 +19945,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182289,
+      "Progressed": 182316,
       "Completed": 3017
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216015,
+      "Progressed": 216042,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T16:03:13.7841288+00:00",
+  "LastChanged_Achievements": "2023-07-27T17:03:07.7798174+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:58:52.676372+00:00",
-  "LastUpdate_Achievements": "2023-07-27T16:03:13.7868411+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:59:01.2249227+00:00",
+  "LastUpdate_Achievements": "2023-07-27T17:03:07.7822841+00:00"
 }

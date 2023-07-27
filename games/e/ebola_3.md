@@ -22,10 +22,10 @@
 | City ✔ | 6.00% | ~13 |
 | Food ✔ | 6.00% | ~13 |
 | Hospital ✔ | 6.00% | ~13 |
+| Fraternal help ✔ | 6.00% | ~13 |
 | Brain ✔ | 5.00% | ~11 |
 | Eva ✔ | 5.00% | ~11 |
 | Mutant fight ✔ | 5.00% | ~11 |
-| Fraternal help ✔ | 5.00% | ~11 |
 | King of survival ✔ | 5.00% | ~11 |
 | All secrets revealed ✔ | 5.00% | ~11 |
 | Boss 1 ✔ | 4.00% | ~9 |

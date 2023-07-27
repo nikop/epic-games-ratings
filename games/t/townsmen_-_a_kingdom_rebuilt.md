@@ -72,10 +72,10 @@ Number of Ratings: 37  (23.09.2022)
 | Treat her well… | 0.90% | ~38 |
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
-| Last man standing | 0.70% | ~29 |
-| Ten-Hut! | 0.70% | ~29 |
-| I've been everywhere VI | 0.70% | ~29 |
-| The wood shortage | 0.70% | ~29 |
+| Last man standing | 0.70% | ~30 |
+| Ten-Hut! | 0.70% | ~30 |
+| I've been everywhere VI | 0.70% | ~30 |
+| The wood shortage | 0.70% | ~30 |
 | Builder V | 0.60% | ~25 |
 | Buried | 0.60% | ~25 |
 | Craftsmen challenge | 0.60% | ~25 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,214 (Ranked 144)  
+Progressed: 4,215 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 3 (0.07%) (Ranked 200)
 | 2023-07-24 | 4,207 | 3 |
 | 2023-07-25 | 4,209 | 3 |
 | 2023-07-26 | 4,211 | 3 |
-| 2023-07-27 | 4,214 | 3 |
+| 2023-07-27 | 4,215 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

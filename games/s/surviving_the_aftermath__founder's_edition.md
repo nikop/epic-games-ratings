@@ -6,67 +6,67 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,501 |
-| Leader | 61.00% | ~4,726 |
-| Explorer | 53.00% | ~4,106 |
-| Healer | 52.00% | ~4,029 |
-| Aspiring Inventor | 44.00% | ~3,409 |
-| Adventurer | 41.00% | ~3,177 |
-| Famous Healer | 38.00% | ~2,944 |
+| First Step | 71.00% | ~5,502 |
+| Leader | 61.00% | ~4,728 |
+| Explorer | 53.00% | ~4,108 |
+| Healer | 52.00% | ~4,030 |
+| Aspiring Inventor | 44.00% | ~3,410 |
+| Adventurer | 41.00% | ~3,178 |
+| Famous Healer | 38.00% | ~2,945 |
 | Local Leader | 35.00% | ~2,712 |
-| Famous Explorer | 34.00% | ~2,634 |
-| New Opportunities | 34.00% | ~2,634 |
-| Energized | 33.00% | ~2,557 |
-| The Long Haul | 33.00% | ~2,557 |
+| Famous Explorer | 34.00% | ~2,635 |
+| New Opportunities | 34.00% | ~2,635 |
+| Energized | 33.00% | ~2,558 |
+| The Long Haul | 33.00% | ~2,558 |
 | The Great Healer | 31.00% | ~2,402 |
 | Survivor | 31.00% | ~2,402 |
-| Cleaner | 28.00% | ~2,169 |
-| Catastrofan | 28.00% | ~2,169 |
+| Cleaner | 28.00% | ~2,170 |
+| Catastrofan | 28.00% | ~2,170 |
 | Legendary Explorer | 27.00% | ~2,092 |
-| Finders, Keepers | 26.00% | ~2,014 |
-| Top Notch | 25.00% | ~1,937 |
+| Finders, Keepers | 26.00% | ~2,015 |
+| Top Notch | 25.00% | ~1,938 |
 | Ice Lakes | 23.00% | ~1,782 |
 | Mentor | 23.00% | ~1,782 |
 | Great Leader | 22.00% | ~1,705 |
 | Real Survivor | 22.00% | ~1,705 |
-| Merchant | 21.00% | ~1,627 |
-| Rocket Surgeon | 20.00% | ~1,550 |
+| Merchant | 21.00% | ~1,628 |
 | War Never Changes | 19.00% | ~1,472 |
-| Big Game Hunter | 17.00% | ~1,317 |
-| Spreading Influence | 17.00% | ~1,317 |
+| Rocket Surgeon | 19.00% | ~1,472 |
+| Big Game Hunter | 17.00% | ~1,318 |
+| Spreading Influence | 17.00% | ~1,318 |
 | Friendly | 16.00% | ~1,240 |
 | Around the World | 16.00% | ~1,240 |
 | Bookworm | 15.00% | ~1,162 |
 | Famous Adventurer | 14.00% | ~1,085 |
-| Prepared for Anything | 13.00% | ~1,007 |
-| Big Catastrofan | 13.00% | ~1,007 |
+| Prepared for Anything | 13.00% | ~1,008 |
+| Big Catastrofan | 13.00% | ~1,008 |
 | It's a Finnish Thing | 10.00% | ~775 |
-| Sky Burial | 9.00% | ~697 |
+| Sky Burial | 9.00% | ~698 |
 | Trader | 8.00% | ~620 |
 | Bread and Circuses | 8.00% | ~620 |
 | New Eden | 7.00% | ~542 |
 | Tailored to fit | 7.00% | ~542 |
 | Really Friendly | 6.00% | ~465 |
 | Amped Up | 6.00% | ~465 |
-| Look, no Hands! | 5.00% | ~387 |
+| Look, no Hands! | 5.00% | ~388 |
 | Luxurious Living | 4.00% | ~310 |
 | Mogul | 3.00% | ~232 |
 | Ranch Hand | 3.00% | ~232 |
 | Diplomat | 2.00% | ~155 |
 | Doomsday is canceled | 2.00% | ~155 |
 | Biggest Catastrofan | 2.00% | ~155 |
-| The Friendliest | 1.00% | ~77 |
-| Legendary Adventurer | 1.00% | ~77 |
-| A Closer Look | 1.00% | ~77 |
-| True Survivor | 1.00% | ~77 |
+| The Friendliest | 1.00% | ~78 |
+| Legendary Adventurer | 1.00% | ~78 |
+| A Closer Look | 1.00% | ~78 |
+| True Survivor | 1.00% | ~78 |
 | Slimy yet Satisfying | 0.90% | ~70 |
 | Feng Shui | 0.90% | ~70 |
 | Finnished | 0.30% | ~23 |
-| Fun and Games | 0.20% | ~15 |
-| Choo-choo! | 0.20% | ~15 |
+| Fun and Games | 0.20% | ~16 |
+| Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,748 (Ranked 125)  
+Progressed: 7,750 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 7,673 | 0 |
 | 2023-07-25 | 7,711 | 0 |
 | 2023-07-26 | 7,737 | 0 |
-| 2023-07-27 | 7,748 | 0 |
+| 2023-07-27 | 7,750 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 681 (Ranked 273)  

@@ -6,20 +6,20 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,554 |
-| Tutti Eroi! | 54.00% | ~3,489 |
+| Peak Performance | 55.00% | ~3,555 |
+| Tutti Eroi! | 54.00% | ~3,490 |
 | You Shall Not Pass | 53.00% | ~3,425 |
-| Avanti Savoia! | 47.00% | ~3,037 |
+| Avanti Savoia! | 47.00% | ~3,038 |
 | Mamma Mia! | 37.00% | ~2,391 |
-| Conrad von Hotzensocks | 36.00% | ~2,326 |
-| Gabriele D'Annunzio | 33.00% | ~2,132 |
+| Conrad von Hotzensocks | 36.00% | ~2,327 |
+| Gabriele D'Annunzio | 33.00% | ~2,133 |
 | Silver Lining | 30.00% | ~1,939 |
 | Aurelio Baruzzi | 23.00% | ~1,486 |
 | Veni Vidi Vici | 22.00% | ~1,422 |
 | Decimation | 21.00% | ~1,357 |
 | Donatello | 21.00% | ~1,357 |
-| Insubordination | 20.00% | ~1,292 |
-| The Italian Job | 20.00% | ~1,292 |
+| Insubordination | 20.00% | ~1,293 |
+| The Italian Job | 20.00% | ~1,293 |
 | The Lion of the Isonzo | 18.00% | ~1,163 |
 | Ragazzi del '99 | 17.00% | ~1,099 |
 | Dirty Dozen | 14.00% | ~905 |
@@ -27,8 +27,8 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 14.00% | ~905 |
 | Uomo Universale | 14.00% | ~905 |
 | Shaken, Not Stirred | 13.00% | ~840 |
-| Die Bosniaken Kommen! | 12.00% | ~775 |
-| Machiavelli | 12.00% | ~775 |
+| Die Bosniaken Kommen! | 12.00% | ~776 |
+| Machiavelli | 12.00% | ~776 |
 | Dante's Inferno | 11.00% | ~711 |
 | The Devil's Paintbrush | 11.00% | ~711 |
 | I Have the High Ground | 10.00% | ~646 |
@@ -39,7 +39,7 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 6.00% | ~388 |
 | The Enlightment | 6.00% | ~388 |
 | Generalissimo | 5.00% | ~323 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~258 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~259 |
 | Ponte of No Return | 3.00% | ~194 |
 | Seeing Red | 3.00% | ~194 |
 | Soča Drag | 3.00% | ~194 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,462 (Ranked 132)  
+Progressed: 6,463 (Ranked 132)  
 Completed: 8 (0.12%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 8 (0.12%) (Ranked 184)
 | 2023-07-24 | 6,439 | 8 |
 | 2023-07-25 | 6,452 | 8 |
 | 2023-07-26 | 6,459 | 8 |
-| 2023-07-27 | 6,462 | 8 |
+| 2023-07-27 | 6,463 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 347)  

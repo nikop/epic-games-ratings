@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,730 |
-| That's a Grand Army | 8.00% | ~5,982 |
-| That is mine! | 8.00% | ~5,982 |
-| Victorious! | 8.00% | ~5,982 |
-| Brothers in Arms | 6.00% | ~4,486 |
-| That's a Grand Navy | 6.00% | ~4,486 |
-| Seriously?! | 6.00% | ~4,486 |
-| For the Glory | 5.00% | ~3,739 |
-| Cold War | 4.00% | ~2,991 |
-| True Catholic | 4.00% | ~2,991 |
-| Defender of the Faith | 3.00% | ~2,243 |
-| It's all about luck | 3.00% | ~2,243 |
-| It's all about the money | 3.00% | ~2,243 |
-| Respected | 3.00% | ~2,243 |
-| The Princess is in this Castle | 3.00% | ~2,243 |
-| Truly Divine Ruler | 3.00% | ~2,243 |
+| Until death do us apart | 9.00% | ~6,732 |
+| That's a Grand Army | 8.00% | ~5,984 |
+| That is mine! | 8.00% | ~5,984 |
+| Victorious! | 8.00% | ~5,984 |
+| Brothers in Arms | 6.00% | ~4,488 |
+| That's a Grand Navy | 6.00% | ~4,488 |
+| Seriously?! | 6.00% | ~4,488 |
+| For the Glory | 5.00% | ~3,740 |
+| Cold War | 4.00% | ~2,992 |
+| True Catholic | 4.00% | ~2,992 |
+| Defender of the Faith | 3.00% | ~2,244 |
+| It's all about luck | 3.00% | ~2,244 |
+| It's all about the money | 3.00% | ~2,244 |
+| Respected | 3.00% | ~2,244 |
+| The Princess is in this Castle | 3.00% | ~2,244 |
+| Truly Divine Ruler | 3.00% | ~2,244 |
 | Agressive Expander | 2.00% | ~1,496 |
 | Blockader | 2.00% | ~1,496 |
 | Combined Arms | 2.00% | ~1,496 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~673 |
 | Trustworthy | 0.90% | ~673 |
 | Down Under | 0.80% | ~598 |
-| Electable! | 0.70% | ~523 |
-| Populists in Government | 0.70% | ~523 |
+| Electable! | 0.70% | ~524 |
+| Populists in Government | 0.70% | ~524 |
 | All belongs to Mother Russia | 0.60% | ~449 |
 | At every continent | 0.60% | ~449 |
 | One Family to Rule them All | 0.60% | ~449 |
@@ -74,6 +74,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Wonderful | 0.40% | ~299 |
 | A Decent Reserve | 0.30% | ~224 |
 | A Pile of Gold | 0.30% | ~224 |
+| A Fine Goosestep | 0.30% | ~224 |
 | Grand Duchy | 0.30% | ~224 |
 | Multiculturalism | 0.30% | ~224 |
 | No Pirates in my Caribbean | 0.30% | ~224 |
@@ -88,7 +89,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basileus | 0.20% | ~150 |
 | Center of Attention | 0.20% | ~150 |
 | Fine Financials | 0.20% | ~150 |
-| A Fine Goosestep | 0.20% | ~150 |
 | Full House | 0.20% | ~150 |
 | Imperio español | 0.20% | ~150 |
 | Industrial Powerhouse | 0.20% | ~150 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,775 (Ranked 74)  
+Progressed: 74,796 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,10 +459,10 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
-| 2023-07-27 | 74,775 | 0 |
+| 2023-07-27 | 74,796 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
-Sum: 46,055 (Ranked 26)  
+Sum: 46,059 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -472,7 +472,7 @@ Diff (max vs sum): 35
 | This game is Extremely Fun | 5,295 |
 | This game has Diverse Characters | 5,259 |
 | This game is Relaxing | 5,168 |
-| This game has Competitive Players | 5,018 |
+| This game has Competitive Players | 5,022 |
 | This game has Amazing Storytelling | 4,723 |
 | This game has Amazing Characters | 4,365 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -670,4 +670,4 @@ Diff (max vs sum): 35
 | 2023-07-24 | 4.69 | - | 5,579 | 45,978 |
 | 2023-07-25 | 4.69 | - | 5,583 | 46,013 |
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
-| 2023-07-27 | 4.69 | - | 5,587 | 46,055 |
+| 2023-07-27 | 4.69 | - | 5,587 | 46,059 |

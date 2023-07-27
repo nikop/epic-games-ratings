@@ -6,32 +6,32 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,480 |
-| Beast Intentions | 2.00% | ~4,320 |
+| A Brief Tour of the Realms | 3.00% | ~6,481 |
+| Beast Intentions | 2.00% | ~4,321 |
 | Maddening | 1.00% | ~2,160 |
 | The Silken Swamp | 1.00% | ~2,160 |
 | Supply Run | 1.00% | ~2,160 |
 | Rocky Reception | 0.90% | ~1,641 |
-| Vecna Lives! | 0.80% | ~1,458 |
-| Rock and Roll | 0.80% | ~1,458 |
+| Vecna Lives! | 0.80% | ~1,459 |
+| Rock and Roll | 0.80% | ~1,459 |
 | Flight of the Kindori Pod | 0.70% | ~1,276 |
 | Tall Tales | 0.60% | ~1,094 |
 | Wet Feet | 0.60% | ~1,296 |
 | Seeds of Destruction | 0.60% | ~1,094 |
 | Vecna Loots! | 0.60% | ~1,094 |
+| Return to the Tomb | 0.60% | ~1,094 |
 | Topolah's Tower | 0.60% | ~1,094 |
 | Pros and CONs | 0.50% | ~1,080 |
-| The Witchlight Carnival | 0.50% | ~911 |
+| The Witchlight Carnival | 0.50% | ~912 |
 | Hatchlings Underfoot | 0.50% | ~1,080 |
 | Don't Look Up! | 0.50% | ~1,080 |
-| Return to the Tomb | 0.50% | ~911 |
-| Heatwave | 0.50% | ~911 |
+| Heatwave | 0.50% | ~912 |
 | Terror in the Dark | 0.50% | ~1,080 |
 | Unearthed Evil | 0.50% | ~1,080 |
-| The Champion's Guide to Wildspace | 0.50% | ~911 |
-| Not That Type of Helm! | 0.50% | ~911 |
-| Calcryx Tricks | 0.50% | ~911 |
-| Goblin Halls: the Next Generation | 0.50% | ~911 |
+| The Champion's Guide to Wildspace | 0.50% | ~912 |
+| Not That Type of Helm! | 0.50% | ~912 |
+| Calcryx Tricks | 0.50% | ~912 |
+| Goblin Halls: the Next Generation | 0.50% | ~912 |
 | Thieves of the Coven | 0.40% | ~729 |
 | Heavy Burden | 0.40% | ~864 |
 | The Evacuation of Waterdeep | 0.40% | ~729 |
@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.40% | ~729 |
 | Upholding the Law | 0.30% | ~648 |
 | Hither of the Feywild | 0.30% | ~547 |
+| The Prince of a Thousand Enemies | 0.30% | ~547 |
 | Speeds of Destruction | 0.30% | ~547 |
 | Owlbear Necessities | 0.30% | ~547 |
 | On the Hunt | 0.30% | ~648 |
@@ -91,13 +92,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Unexpected Geist | 0.20% | ~365 |
 | A Monarch Among Us | 0.20% | ~365 |
 | The Spire of Iriolarthas | 0.20% | ~365 |
-| The Prince of a Thousand Enemies | 0.20% | ~365 |
 | Downfall | 0.20% | ~365 |
 | Slack-jawed Lorna | 0.20% | ~365 |
 | The Fairy Rings of Thither | 0.20% | ~365 |
 | Will of the Feywild | 0.20% | ~365 |
 | The Roots of Loomlurch | 0.20% | ~365 |
 | Best Laid Plans | 0.20% | ~365 |
+| The Howling Peaks of Yon | 0.20% | ~365 |
 | Flapjacks and Waffles | 0.20% | ~365 |
 | Overwhelmed with Knowledge | 0.20% | ~365 |
 | Well Equipped | 0.20% | ~365 |
@@ -217,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.10% | ~182 |
 | Pincushion Party | 0.10% | ~182 |
 | G. O. A. T. | 0.10% | ~182 |
-| The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,015 (Ranked 53)  
+Progressed: 216,042 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 216,015 | 2,127 |
+| 2023-07-27 | 216,042 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

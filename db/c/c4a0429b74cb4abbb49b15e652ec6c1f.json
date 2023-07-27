@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -466,6 +466,11 @@
       "Time": "2023-07-27T14:05:29.9171275+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T17:05:16.689164+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -478,7 +483,7 @@
       "Name": "Best pianist in the metaverse",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "bitcoin_collector",
@@ -494,7 +499,7 @@
       "Name": "Construct your world",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "goblin_slayed",
@@ -526,7 +531,7 @@
       "Name": "Moon Conquerer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "pianist",
@@ -590,7 +595,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "treant_destroyer",
@@ -629,14 +634,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-27T16:04:49.0936126+00:00",
+  "LastChanged_Achievements": "2023-07-27T17:05:16.6891636+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.8148136+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:57:26.792103+00:00",
-  "LastUpdate_Achievements": "2023-07-27T16:04:49.0936318+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:57:19.1061093+00:00",
+  "LastUpdate_Achievements": "2023-07-27T17:05:16.6891768+00:00"
 }

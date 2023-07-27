@@ -9,6 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 0.30% | ~400 |
 | Basic in Bulk | 0.30% | ~400 |
 | Titan's First Steps | 0.30% | ~400 |
+| Some Assembly Required | 0.20% | ~267 |
 | Disintermediation | 0.20% | ~267 |
 | Another Satisfied Customer | 0.20% | ~267 |
 | It's Free Real Estate | 0.20% | ~267 |
@@ -28,7 +29,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 0.10% | ~133 |
 | Tax not Included | 0.10% | ~133 |
 | The King's Caprice | 0.10% | ~133 |
-| Some Assembly Required | 0.10% | ~133 |
 | Research & Development | 0.10% | ~133 |
 | Thirst for Knowledge | 0.10% | ~133 |
 | Vanity, Verily | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,356 (Ranked 61)  
+Progressed: 133,359 (Ranked 61)  
 Completed: 123 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 123 (0.09%) (Ranked 193)
 | 2023-07-24 | 133,181 | 122 |
 | 2023-07-25 | 133,231 | 122 |
 | 2023-07-26 | 133,301 | 123 |
-| 2023-07-27 | 133,356 | 123 |
+| 2023-07-27 | 133,359 | 123 |
 ## Awards
 Max (Great for Beginners): 4,672  (Ranked 70)  
 Sum: 26,988 (Ranked 46)  

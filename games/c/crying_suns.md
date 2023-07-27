@@ -22,6 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter II: Fallible Flesh | 0.20% | ~928 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~928 |
 | Tetsuo | 0.20% | ~928 |
+| General Vivar | 0.20% | ~928 |
 | Pope Zenon | 0.20% | ~928 |
 | Back to Ganyma | 0.20% | ~928 |
 | Soldiers of Fortune | 0.20% | ~16 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Meet your maker | 0.10% | ~464 |
 | Admiral Okonkwo | 0.10% | ~464 |
 | The Survivalists | 0.10% | ~464 |
-| General Vivar | 0.10% | ~464 |
 | Mercy | 0.10% | ~464 |
 | The Impersonator | 0.10% | ~464 |
 | The Kid | 0.10% | ~464 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,889 (Ranked 36)  
+Progressed: 463,893 (Ranked 36)  
 Completed: 16 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 16 (0.00%) (Ranked 242)
 | 2023-07-24 | 463,715 | 16 |
 | 2023-07-25 | 463,790 | 16 |
 | 2023-07-26 | 463,841 | 16 |
-| 2023-07-27 | 463,889 | 16 |
+| 2023-07-27 | 463,893 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 214 (Ranked 359)  

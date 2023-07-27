@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7187,
+  "EOS_Progressed": 7189,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6243,6 +6243,11 @@
       "Time": "2023-07-27T16:05:24.2086202+00:00",
       "NumProgressed": 7187,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-27T17:05:47.945915+00:00",
+      "NumProgressed": 7189,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6254,7 +6259,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5967
     },
     {
       "ID": "ACH02",
@@ -6278,7 +6283,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ACH05",
@@ -6326,7 +6331,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ACH11",
@@ -6366,7 +6371,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH16",
@@ -6382,7 +6387,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH18",
@@ -6438,7 +6443,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH25",
@@ -6470,7 +6475,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH29",
@@ -6485,7 +6490,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7187,
+      "Progressed": 7189,
       "Completed": 41
     }
   ],
@@ -6493,8 +6498,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-27T16:05:24.2086194+00:00",
+  "LastChanged_Achievements": "2023-07-27T17:05:47.9459145+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:58:36.962042+00:00",
-  "LastUpdate_Achievements": "2023-07-27T16:05:24.2086797+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:58:42.2046769+00:00",
+  "LastUpdate_Achievements": "2023-07-27T17:05:47.9459561+00:00"
 }

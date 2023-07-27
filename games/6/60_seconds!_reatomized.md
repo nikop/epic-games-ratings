@@ -43,9 +43,9 @@ Rating: 4.65 (Ranked 300)
 | Yes Man | 6.00% | ~287 |
 | Take that, Brundlefly! | 5.00% | ~240 |
 | Lumbersexual | 5.00% | ~240 |
+| Danger zone | 4.00% | ~192 |
 | Feline Domination | 4.00% | ~192 |
 | Rogue One | 4.00% | ~192 |
-| Danger zone | 3.00% | ~144 |
 | Soup Can into Space | 3.00% | ~144 |
 | Friend in need | 3.00% | ~144 |
 | Enola Gay | 2.00% | ~96 |
@@ -66,7 +66,7 @@ Rating: 4.65 (Ranked 300)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,791 (Ranked 139)  
+Progressed: 4,791 (Ranked 140)  
 Completed: 1 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |

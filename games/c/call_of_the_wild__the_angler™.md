@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,761 (Ranked 140)  
+Progressed: 4,761 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

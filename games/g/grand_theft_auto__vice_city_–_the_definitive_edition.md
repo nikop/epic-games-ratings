@@ -12,8 +12,8 @@ Rating: 4.56 (Ranked 464)
 | Tommy Two-Wheels | 15.00% | ~1,388 |
 | Big Heat from Little Havana | 14.00% | ~1,295 |
 | Chauffeur | 14.00% | ~1,295 |
-| Salutations My Little Friend | 10.00% | ~925 |
-| Iron-y | 9.00% | ~833 |
+| Salutations My Little Friend | 11.00% | ~1,018 |
+| Iron-y | 10.00% | ~925 |
 | Gun for Hire | 9.00% | ~833 |
 | Mischief Managed | 8.00% | ~740 |
 | Vice City Mogul | 7.00% | ~648 |

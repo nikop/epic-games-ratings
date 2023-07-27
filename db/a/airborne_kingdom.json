@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6895,
+  "EOS_Progressed": 6896,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3063,6 +3063,11 @@
       "Time": "2023-07-27T16:03:24.3211023+00:00",
       "NumProgressed": 6895,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-27T17:03:19.9635698+00:00",
+      "NumProgressed": 6896,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3106,7 +3111,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3226,7 +3231,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3242,7 +3247,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -3266,7 +3271,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -3289,15 +3294,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6895,
+      "Progressed": 6896,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-27T16:03:24.3211018+00:00",
+  "LastChanged_Achievements": "2023-07-27T17:03:19.9635694+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:58:05.5347745+00:00",
-  "LastUpdate_Achievements": "2023-07-27T16:03:24.3211432+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:58:11.5711756+00:00",
+  "LastUpdate_Achievements": "2023-07-27T17:03:19.963597+00:00"
 }

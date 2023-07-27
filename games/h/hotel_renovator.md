@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 482)
 | Memento | 62.00% | ~562 |
 | Let there be light | 59.00% | ~535 |
 | I think you dropped this | 54.00% | ~489 |
-| Soulmate? | 52.00% | ~471 |
+| Soulmate? | 53.00% | ~480 |
 | Excellent service | 48.00% | ~435 |
 | Roll with it | 45.00% | ~408 |
 | Humble beginnings | 43.00% | ~390 |
@@ -27,7 +27,7 @@ Rating: 4.55 (Ranked 482)
 | Nearly there | 24.00% | ~217 |
 | Broken heart | 22.00% | ~199 |
 | Island boy | 20.00% | ~181 |
-| You're a star | 18.00% | ~163 |
+| You're a star | 19.00% | ~172 |
 | Unstoppable | 17.00% | ~154 |
 | Reunited | 17.00% | ~154 |
 | King of hospitality | 11.00% | ~100 |

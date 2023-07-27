@@ -1161,9 +1161,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1329,9 +1329,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1370,8 +1370,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-27T16:05:07.0603632+00:00",
+  "LastChanged_Achievements": "2023-07-27T17:05:26.1692456+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:57:52.4503626+00:00",
-  "LastUpdate_Achievements": "2023-07-27T16:05:07.0603902+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:57:50.4397943+00:00",
+  "LastUpdate_Achievements": "2023-07-27T17:05:26.1692654+00:00"
 }

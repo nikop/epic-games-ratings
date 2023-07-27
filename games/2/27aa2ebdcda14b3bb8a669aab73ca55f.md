@@ -3,12 +3,12 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.29 (Ranked 783)  
 ## Awards
-Max (Character Customization): 102  (Ranked 329)  
-Sum: 102 (Ranked 411)  
-Diff (max vs sum): -82  
+Max (Character Customization): 147  (Ranked 295)  
+Sum: 147 (Ranked 391)  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 102 |
+| This game has Inclusive Character Customization | 147 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,4 +18,4 @@ Diff (max vs sum): -82
 | 2023-07-24 | 4.29 | 42 | 42 |
 | 2023-07-25 | 4.25 | 62 | 62 |
 | 2023-07-26 | 4.28 | 102 | 102 |
-| 2023-07-27 | 4.29 | 102 | 102 |
+| 2023-07-27 | 4.29 | 147 | 147 |

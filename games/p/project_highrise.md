@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~158 |
+| In the Black | 59.00% | ~161 |
 | Starting Skyward | 51.00% | ~139 |
 | Grime is Not Good | 45.00% | ~123 |
 | Campaign Launch | 38.00% | ~104 |
@@ -13,9 +13,9 @@
 | Need a Consult | 35.00% | ~96 |
 | Upgrade Unlock | 34.00% | ~93 |
 | It's Technical | 34.00% | ~93 |
-| Delegate Maintenance | 32.00% | ~87 |
+| Delegate Maintenance | 33.00% | ~90 |
 | Proper Walls | 30.00% | ~82 |
-| Destination Destiny | 28.00% | ~76 |
+| Destination Destiny | 29.00% | ~79 |
 | Happy Tenants | 26.00% | ~71 |
 | Potent Potables | 24.00% | ~66 |
 | Smooth Service | 24.00% | ~66 |
