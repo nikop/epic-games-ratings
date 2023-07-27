@@ -17,7 +17,7 @@
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.04% |
 | 19 | [Remains](games/r/remains.md) | 10.87% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
@@ -29,7 +29,7 @@
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
-| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.23% |
+| 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.95% |
 | 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.76% |
@@ -59,11 +59,11 @@
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.07% |
-| 61 | [The Complex](games/t/the_complex.md) | 3.05% |
+| 60 | [The Complex](games/t/the_complex.md) | 3.05% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
-| 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.94% |
-| 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 63 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
 | 65 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 66 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 67 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
@@ -83,11 +83,11 @@
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.00% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 83 | [Night Book](games/n/night_book.md) | 1.90% |
-| 83 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.90% |
+| 84 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.89% |
 | 85 | [Frogun](games/f/frogun.md) | 1.87% |
 | 86 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 87 | [Sifu](games/s/sifu.md) | 1.80% |
-| 88 | [Iron Danger](games/i/iron_danger.md) | 1.70% |
+| 88 | [Iron Danger](games/i/iron_danger.md) | 1.69% |
 | 89 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
 | 90 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 91 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -107,8 +107,8 @@
 | 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 107 | [Adios](games/a/adios.md) | 0.99% |
-| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 108 | [Sable](games/s/sable.md) | 0.98% |
+| 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 109 | [Sable](games/s/sable.md) | 0.98% |
 | 110 | [Hades](games/h/hades.md) | 0.89% |
 | 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -457,6 +457,7 @@
 | 242 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 242 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.00% |
 | 242 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
+| 242 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.00% |
 | 242 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 0.00% |
 | 242 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 0.00% |
 | 242 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
