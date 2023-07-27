@@ -10,10 +10,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~4,318 |
 | Maddening | 1.00% | ~2,159 |
 | The Silken Swamp | 1.00% | ~2,159 |
-| Supply Run | 0.90% | ~1,943 |
+| Supply Run | 1.00% | ~2,159 |
 | Rocky Reception | 0.90% | ~1,640 |
-| Vecna Lives! | 0.80% | ~1,457 |
-| Rock and Roll | 0.80% | ~1,457 |
+| Vecna Lives! | 0.80% | ~1,458 |
+| Rock and Roll | 0.80% | ~1,458 |
 | Flight of the Kindori Pod | 0.70% | ~1,275 |
 | Tall Tales | 0.60% | ~1,093 |
 | Seeds of Destruction | 0.60% | ~1,093 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,911 (Ranked 53)  
+Progressed: 215,918 (Ranked 53)  
 Completed: 2,126 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,126 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,911 | 2,126 |
+| 2023-07-27 | 215,918 | 2,126 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

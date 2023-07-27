@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58966,
+  "EOS_Progressed": 58970,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1397,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9212,6 +9212,11 @@
       "Time": "2023-07-27T08:04:46.7784491+00:00",
       "NumProgressed": 58966,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-27T09:03:55.2404454+00:00",
+      "NumProgressed": 58970,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9223,7 +9228,7 @@
       "Name": "Follow the Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20638
+      "UsersEstimate": 20640
     },
     {
       "ID": "02",
@@ -9239,7 +9244,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12383
+      "UsersEstimate": 12384
     },
     {
       "ID": "04",
@@ -9263,7 +9268,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "07",
@@ -9271,7 +9276,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "08",
@@ -9279,7 +9284,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "09",
@@ -9311,7 +9316,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "13",
@@ -9415,7 +9420,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "26",
@@ -9431,7 +9436,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "28",
@@ -9439,7 +9444,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "29",
@@ -9463,7 +9468,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "32",
@@ -9471,7 +9476,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15921
+      "UsersEstimate": 15922
     },
     {
       "ID": "33",
@@ -9495,7 +9500,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17100
+      "UsersEstimate": 17101
     },
     {
       "ID": "36",
@@ -9535,7 +9540,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "41",
@@ -9543,7 +9548,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "42",
@@ -9559,7 +9564,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "44",
@@ -9758,21 +9763,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58966,
+      "Progressed": 58970,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22434,
+      "Progressed": 22438,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:04:46.7784487+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:03:55.2404451+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:58:44.4595706+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:46.7785572+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:58:08.1391936+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:55.2405408+00:00"
 }

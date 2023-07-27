@@ -2,10 +2,10 @@
   "ID": "61bcb76fe8b34bc58ce839c8bbb69c46",
   "Name": "Dawn Apart",
   "ProductSlug": "dawn-apart-db81bd",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T02:57:23.1611984+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:58:39.2986271+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:27.1949886+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:58:04.2720143+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:40.8616297+00:00"
 }

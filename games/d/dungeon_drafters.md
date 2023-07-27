@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 35.00% | ~23 |
-| Might be useful… | 35.00% | ~23 |
-| Friend! | 30.00% | ~20 |
+| Treasure Hunting | 36.00% | ~24 |
+| Might be useful… | 36.00% | ~24 |
+| Friend! | 32.00% | ~21 |
 | Uncut Gem | 29.00% | ~19 |
 | Shine! | 27.00% | ~18 |
 | Setting Off | 26.00% | ~17 |

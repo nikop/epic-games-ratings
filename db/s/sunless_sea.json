@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -679,9 +679,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34290,
+  "EOS_Progressed": 34291,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10489,6 +10489,11 @@
       "Time": "2023-07-27T07:03:20.3855625+00:00",
       "NumProgressed": 34290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T09:03:29.7955776+00:00",
+      "NumProgressed": 34291,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -10620,7 +10625,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12344
+      "UsersEstimate": 12345
     },
     {
       "ID": "ach_die10",
@@ -10828,7 +10833,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "ach_stranger",
@@ -10931,15 +10936,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34290,
+      "Progressed": 34291,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-22T09:01:18.3447402+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:04:11.7047579+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:03:29.7955771+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:40.7310625+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:01:21.9271471+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:11.7048604+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:00:03.8752403+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:29.795686+00:00"
 }

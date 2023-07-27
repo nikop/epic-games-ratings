@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | Grenadier | 34.00% | ~403 |
 | War Never Changes | 34.00% | ~403 |
 | Heroes Never Die | 31.00% | ~368 |
-| Mosquito bite | 29.00% | ~344 |
+| Mosquito bite | 30.00% | ~356 |
 | Spice It Up | 26.00% | ~308 |
 | Agent 47 | 22.00% | ~261 |
 | Bomberman | 22.00% | ~261 |

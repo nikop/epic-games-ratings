@@ -31,9 +31,9 @@
 | Tasty Profits | 19.00% | ~51 |
 | We Don't Need No Education | 19.00% | ~51 |
 | Rehab Expert | 18.00% | ~49 |
+| Cashflow Chief | 17.00% | ~46 |
 | Under One Roof | 16.00% | ~43 |
 | Established Fame | 16.00% | ~43 |
-| Cashflow Chief | 16.00% | ~43 |
 | Starred Dining | 15.00% | ~40 |
 | Terrifically Trashed | 15.00% | ~40 |
 | Smooth Operator | 14.00% | ~38 |

@@ -4,11 +4,11 @@
   "ProductSlug": "darkest-dungeon",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 89,
-  "Ranking_PopularitySum": 89,
-  "Ranking_EOS_Progress": 514,
+  "Ranking_PopularitySum": 90,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
     "PcReleaseDate": "2016-01-19T16:00:00+00:00",
@@ -4272,10 +4272,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8956,
       "NumberOfAwardsMax": 3286
+    },
+    {
+      "Time": "2023-07-27T09:00:10.8423635+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8957,
+      "NumberOfAwardsMax": 3286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8956,
+  "NumberOfAwards": 8957,
   "NumberOfAwardsMax": 3286,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4319,7 +4325,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 652
+      "Count": 653
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4357,8 +4363,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2023-07-27T01:51:25.0172555+00:00",
+  "LastChanged": "2023-07-27T09:00:10.8423634+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:48.5760062+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:01:32.0874221+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:02:35.643202+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:00:10.842364+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:00:55.3068544+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1217,9 +1217,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124367,
+  "EOS_Progressed": 124369,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10672,6 +10672,11 @@
       "Time": "2023-07-27T07:00:50.6339559+00:00",
       "NumProgressed": 124367,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-27T09:01:01.8349496+00:00",
+      "NumProgressed": 124369,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10731,7 +10736,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9949
+      "UsersEstimate": 9950
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -10739,7 +10744,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29848
+      "UsersEstimate": 29849
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -10747,7 +10752,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9949
+      "UsersEstimate": 9950
     },
     {
       "ID": "ACH_COP_DORK",
@@ -10795,7 +10800,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24873
+      "UsersEstimate": 24874
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -10827,7 +10832,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13680
+      "UsersEstimate": 13681
     },
     {
       "ID": "ACH_CUNO",
@@ -10899,7 +10904,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17411
+      "UsersEstimate": 17412
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -11002,15 +11007,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124367,
+      "Progressed": 124369,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-25T14:59:59.2191049+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:02:44.5806598+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:01:01.8349493+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:00:41.6616262+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:02:44.580751+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:59:34.5291446+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:01:01.8350199+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5050,
+  "EOS_Progressed": 5051,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -5475,6 +5475,11 @@
       "Time": "2023-07-26T21:04:33.9903116+00:00",
       "NumProgressed": 5050,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T09:04:07.6420858+00:00",
+      "NumProgressed": 5051,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5614,7 +5619,7 @@
       "Name": "Secret Technique",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "25",
@@ -5766,7 +5771,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "42",
@@ -5798,7 +5803,7 @@
       "Name": "Grexolis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "6",
@@ -5806,7 +5811,7 @@
       "Name": "One for All, All for One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "7",
@@ -5846,7 +5851,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "47",
@@ -5885,13 +5890,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5050,
+      "Progressed": 5051,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5050,
+      "Progressed": 5051,
       "Completed": 5
     }
   ],
@@ -5899,8 +5904,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:05:04.4963323+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:04:07.6420852+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.5965715+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:00:59.7691676+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:05:04.4964156+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:59:47.2204149+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:04:07.6421476+00:00"
 }

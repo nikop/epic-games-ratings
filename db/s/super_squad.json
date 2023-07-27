@@ -2,10 +2,10 @@
   "ID": "7ac3374a63524c509541e762348a4fb8",
   "Name": "Super Squad",
   "ProductSlug": "super-squad",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-25T14:00:00+00:00",
     "PcReleaseDate": "2021-06-25T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.4379561+00:00",
   "LastChanged": "2023-03-31T05:57:51.4379562+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.3061475+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:01:17.364853+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:13.1922792+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:59:59.7228904+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:30.8753721+00:00"
 }

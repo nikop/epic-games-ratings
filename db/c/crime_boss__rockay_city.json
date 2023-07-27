@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2712,7 +2712,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 70199,
+  "EOS_Progressed": 70200,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 0,
@@ -12942,6 +12942,11 @@
       "Time": "2023-07-27T08:06:19.7467598+00:00",
       "NumProgressed": 70199,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-27T09:05:01.8172564+00:00",
+      "NumProgressed": 70200,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -13097,7 +13102,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 45629
+      "UsersEstimate": 45630
     },
     {
       "ID": "ACH_0210",
@@ -13105,7 +13110,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51947
+      "UsersEstimate": 51948
     },
     {
       "ID": "ACH_0211",
@@ -13248,7 +13253,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 70199,
+      "Progressed": 70200,
       "Completed": 36
     }
   ],
@@ -13256,8 +13261,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-26T14:01:00.2870432+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:06:19.7467593+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:05:01.817256+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.2423638+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:01:42.2645863+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:06:19.7468604+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:00:18.1610423+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:05:01.8173287+00:00"
 }

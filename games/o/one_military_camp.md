@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 46.00% | ~41 |
-| First Step | 44.00% | ~39 |
+| The 4 Pillars | 45.00% | ~41 |
+| First Step | 44.00% | ~40 |
 | Indebted | 9.00% | ~8 |
 | Capitalism | 7.00% | ~6 |
 | Desert Rat | 7.00% | ~6 |
 | Good payer | 4.00% | ~4 |
+| Green Energy | 4.00% | ~4 |
 | Health Care | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Great Producer | 3.00% | ~3 |
-| Green Energy | 3.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | There's something in those trees | 2.00% | ~2 |
@@ -26,6 +26,7 @@
 | Supersoldier | 1.00% | ~1 |
 | Perfect Soldier | 1.00% | ~1 |
 | Outdoor Decorator | 1.00% | ~1 |
+| Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Overpopulation | 1.00% | ~1 |
 | Fuel Tycoon | 1.00% | ~1 |
@@ -35,7 +36,6 @@
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Crisis Committee | 0.00% | ~0 |
-| Vive le Résistance | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | Snowman | 0.00% | ~0 |
 | Human Resources | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 320)  
+Progressed: 91 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 76 | 0 |
 | 2023-07-25 | 82 | 0 |
 | 2023-07-26 | 86 | 0 |
-| 2023-07-27 | 89 | 0 |
+| 2023-07-27 | 91 | 0 |

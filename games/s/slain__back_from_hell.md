@@ -18,24 +18,24 @@ Rating: 4.28 (Ranked 791)
 | Sure Footed As A Goat | 0.80% | ~252 |
 | Backdoor Man | 0.80% | ~252 |
 | Schadenfreude | 0.80% | ~252 |
-| Red In Tooth And Claw | 0.70% | ~220 |
-| Death Becomes Her | 0.70% | ~220 |
-| The Sky Is Falling | 0.70% | ~220 |
-| Hail the Great Horned Metal God! | 0.70% | ~220 |
-| That'll Come In Handy... | 0.70% | ~220 |
+| Red In Tooth And Claw | 0.70% | ~221 |
+| Death Becomes Her | 0.70% | ~221 |
+| The Sky Is Falling | 0.70% | ~221 |
+| Hail the Great Horned Metal God! | 0.70% | ~221 |
+| That'll Come In Handy... | 0.70% | ~221 |
 | Start As You Mean To Go On | 0.60% | ~189 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~157 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~158 |
 | Four Legged Friend | 0.40% | ~126 |
 | Ice To See You | 0.40% | ~126 |
 | Smack My Imp Up | 0.40% | ~126 |
-| Vroll With It | 0.30% | ~94 |
-| Swift of Foot, Keen of Blade | 0.30% | ~94 |
+| Vroll With It | 0.30% | ~95 |
+| Swift of Foot, Keen of Blade | 0.30% | ~95 |
 | Flame Retardant | 0.20% | ~63 |
-| Too Metal For Magic | 0.10% | ~31 |
-| Heart Of Steel | 0.10% | ~31 |
-| Death or Glory | 0.10% | ~31 |
+| Too Metal For Magic | 0.10% | ~32 |
+| Heart Of Steel | 0.10% | ~32 |
+| Death or Glory | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,499 (Ranked 97)  
+Progressed: 31,501 (Ranked 97)  
 Completed: 20 (0.06%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 20 (0.06%) (Ranked 201)
 | 2023-07-24 | 31,253 | 20 |
 | 2023-07-25 | 31,356 | 20 |
 | 2023-07-26 | 31,463 | 20 |
-| 2023-07-27 | 31,499 | 20 |
+| 2023-07-27 | 31,501 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 308)  
 Sum: 125 (Ranked 399)  

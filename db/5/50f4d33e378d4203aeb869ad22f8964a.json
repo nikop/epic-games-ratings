@@ -2,10 +2,10 @@
   "ID": "50f4d33e378d4203aeb869ad22f8964a",
   "Name": "Commander Keen Dreams Definitive Edition",
   "ProductSlug": "commander-keen-dreams-definitive-edition-2beb3a",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T05:00:00+00:00",
     "PcReleaseDate": "2023-06-09T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-25T17:57:08.9775935+00:00",
   "LastUpdate_AppInfo": "2023-07-25T03:57:19.709826+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:57:48.2015176+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:06:18.0647379+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:57:26.9886385+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:05:00.6283144+00:00"
 }

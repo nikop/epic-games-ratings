@@ -16,19 +16,19 @@
 | Somewhere to belong... | 22.00% | ~4 |
 | Something natural... | 22.00% | ~4 |
 | Something reflective... | 22.00% | ~4 |
-| Something free... (fragile) | 11.00% | ~2 |
+| Something free... (fragile) | 17.00% | ~3 |
+| Something ever-changing... (fragile) | 17.00% | ~3 |
+| Something fully in bloom... (fragile) | 17.00% | ~3 |
+| Something foundational... (fragile) | 17.00% | ~3 |
+| Something to make you dream... (fragile) | 17.00% | ~3 |
+| Something monumental... (fragile) | 17.00% | ~3 |
+| Something to long for... (fragile) | 17.00% | ~3 |
+| Something firmly rooted... (fragile) | 17.00% | ~3 |
 | Something more... | 11.00% | ~2 |
 | Something more... (fragile) | 11.00% | ~2 |
 | Something gentle... (fragile) | 11.00% | ~2 |
-| Something ever-changing... (fragile) | 11.00% | ~2 |
-| Something fully in bloom... (fragile) | 11.00% | ~2 |
 | Something fragile... | 11.00% | ~2 |
-| Something foundational... (fragile) | 11.00% | ~2 |
 | Somewhere to belong... (fragile) | 11.00% | ~2 |
-| Something to make you dream... (fragile) | 11.00% | ~2 |
-| Something monumental... (fragile) | 11.00% | ~2 |
-| Something to long for... (fragile) | 11.00% | ~2 |
-| Something firmly rooted... (fragile) | 11.00% | ~2 |
 | Something reflective... (fragile) | 11.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 390)  

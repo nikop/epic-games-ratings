@@ -2722,9 +2722,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 718628,
+  "EOS_Progressed": 718629,
   "EOS_Completed": 714,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13282,6 +13282,11 @@
       "Time": "2023-07-27T08:07:11.9918678+00:00",
       "NumProgressed": 718628,
       "NumCompleted": 714
+    },
+    {
+      "Time": "2023-07-27T09:05:38.5763197+00:00",
+      "NumProgressed": 718629,
+      "NumCompleted": 714
     }
   ],
   "TotalAchievements": 98,
@@ -13325,7 +13330,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 215588
+      "UsersEstimate": 215589
     },
     {
       "ID": "BallShooter",
@@ -13509,7 +13514,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 344941
+      "UsersEstimate": 344942
     },
     {
       "ID": "FireFlies",
@@ -13653,7 +13658,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 395245
+      "UsersEstimate": 395246
     },
     {
       "ID": "Healthregen",
@@ -13661,7 +13666,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 337755
+      "UsersEstimate": 337756
     },
     {
       "ID": "HelpedAStar",
@@ -13685,7 +13690,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 165284
+      "UsersEstimate": 165285
     },
     {
       "ID": "Horticultural",
@@ -13805,7 +13810,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 711442
+      "UsersEstimate": 711443
     },
     {
       "ID": "PanicLights",
@@ -13877,7 +13882,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 186843
+      "UsersEstimate": 186844
     },
     {
       "ID": "RedstonePickaxe",
@@ -13925,7 +13930,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 474294
+      "UsersEstimate": 474295
     },
     {
       "ID": "Strong",
@@ -13965,7 +13970,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 610834
+      "UsersEstimate": 610835
     },
     {
       "ID": "ThroughPipe",
@@ -14076,15 +14081,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 718628,
+      "Progressed": 718629,
       "Completed": 714
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-07-26T02:03:48.2713004+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:07:11.9918673+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:05:38.5763193+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.3326835+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:59:21.336082+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:07:11.9920878+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:58:34.467533+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:05:38.5764686+00:00"
 }

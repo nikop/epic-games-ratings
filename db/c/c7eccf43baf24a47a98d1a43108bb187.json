@@ -2,10 +2,10 @@
   "ID": "c7eccf43baf24a47a98d1a43108bb187",
   "Name": "Presences: Dark Awakening",
   "ProductSlug": "presences-dark-awakening-b1c9eb",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-07T17:00:00+00:00",
     "PcReleaseDate": "2023-07-07T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:08.2332144+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:58:07.9984664+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:19.123373+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:57:41.6508736+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:35.1501981+00:00"
 }

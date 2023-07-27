@@ -12,15 +12,15 @@
 | Hit That Ball | 39.00% | ~129 |
 | Air Slash | 38.00% | ~126 |
 | Eat That Apple | 29.00% | ~96 |
-| Tornado Chaser | 16.00% | ~53 |
+| Tornado Chaser | 17.00% | ~56 |
 | Bomberman | 11.00% | ~36 |
 | Bubble Party | 9.00% | ~30 |
 | The Colossus | 9.00% | ~30 |
 | Floor is Lava | 7.00% | ~23 |
 | Pim Pam Pum | 7.00% | ~23 |
 | Black Belt | 5.00% | ~17 |
+| Dash Crash - Hero Edition | 5.00% | ~17 |
 | Ambush | 5.00% | ~17 |
-| Dash Crash - Hero Edition | 4.00% | ~13 |
 | Quite The Hero | 3.00% | ~10 |
 | Path of the Hero | 2.00% | ~7 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |

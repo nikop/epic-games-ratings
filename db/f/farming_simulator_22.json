@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7179,9 +7179,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46129,
+  "EOS_Progressed": 46130,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15724,6 +15724,11 @@
       "Time": "2023-07-27T08:04:56.0224339+00:00",
       "NumProgressed": 46129,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T09:04:01.8060773+00:00",
+      "NumProgressed": 46130,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -15735,7 +15740,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "BreedCows",
@@ -15871,7 +15876,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27677
+      "UsersEstimate": 27678
     },
     {
       "ID": "Harvested",
@@ -15879,7 +15884,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "HarvestedFirst",
@@ -15887,7 +15892,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34597
+      "UsersEstimate": 34598
     },
     {
       "ID": "HorseJumps",
@@ -15943,7 +15948,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24448
+      "UsersEstimate": 24449
     },
     {
       "ID": "NumBeehives",
@@ -16023,7 +16028,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29061
+      "UsersEstimate": 29062
     },
     {
       "ID": "Stones",
@@ -16031,7 +16036,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "TractorDriving",
@@ -16039,7 +16044,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19835
+      "UsersEstimate": 19836
     },
     {
       "ID": "TruckDriving",
@@ -16078,15 +16083,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46129,
+      "Progressed": 46130,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-26T21:00:12.6507268+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:04:56.0224335+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:04:01.8060769+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.331029+00:00",
-  "LastUpdate_Ratings": "2023-07-27T08:01:18.8914353+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:56.0225039+00:00"
+  "LastUpdate_Ratings": "2023-07-27T09:00:00.8152188+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:04:01.8061481+00:00"
 }

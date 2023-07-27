@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215911,
+  "EOS_Progressed": 215918,
   "EOS_Completed": 2126,
-  "EOS_NewPlayers": 2294,
+  "EOS_NewPlayers": 2291,
   "EOS_NewCompleters": 67,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15794,6 +15794,11 @@
       "Time": "2023-07-27T08:03:12.4367627+00:00",
       "NumProgressed": 215911,
       "NumCompleted": 2126
+    },
+    {
+      "Time": "2023-07-27T09:02:15.2268628+00:00",
+      "NumProgressed": 215918,
+      "NumCompleted": 2126
     }
   ],
   "TotalAchievements": 512,
@@ -16363,9 +16368,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 2159
     },
     {
       "ID": "objective_completed_1142",
@@ -16485,7 +16490,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "objective_completed_1164",
@@ -19845,7 +19850,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "objective_completed_1381",
@@ -19900,21 +19905,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182185,
+      "Progressed": 182192,
       "Completed": 3012
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215911,
+      "Progressed": 215918,
       "Completed": 2126
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:03:12.4367622+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:02:15.2268624+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:59:21.0026236+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:03:12.4399911+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:58:34.3143919+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:02:15.2292119+00:00"
 }

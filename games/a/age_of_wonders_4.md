@@ -5,8 +5,8 @@ Rating: 4.63 (Ranked 330)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 5.00% | ~252 |
-| Tipping the Scales | 5.00% | ~252 |
+| Secret Technique | 5.00% | ~253 |
+| Tipping the Scales | 5.00% | ~253 |
 | Realm Estate | 4.00% | ~202 |
 | A Wonderful Discovery | 4.00% | ~202 |
 | Walls Cannot Stop Us | 4.00% | ~202 |
@@ -41,9 +41,9 @@ Rating: 4.63 (Ranked 330)
 | Crimson Caldera | 2.00% | ~101 |
 | The Eternal Court | 2.00% | ~101 |
 | Duality | 2.00% | ~101 |
-| Jack of All Tomes | 1.00% | ~50 |
-| Grexolis | 1.00% | ~50 |
-| One for All, All for One | 1.00% | ~50 |
+| Jack of All Tomes | 1.00% | ~51 |
+| Grexolis | 1.00% | ~51 |
+| One for All, All for One | 1.00% | ~51 |
 | Pruning for Progress | 0.90% | ~45 |
 | I've Got Everything I Need Right Here | 0.80% | ~40 |
 | Manufactured War | 0.70% | ~35 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 330)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,050 (Ranked 137)  
+Progressed: 5,051 (Ranked 137)  
 Completed: 5 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 5 (0.10%) (Ranked 189)
 | 2023-07-24 | 5,041 | 5 |
 | 2023-07-25 | 5,045 | 5 |
 | 2023-07-26 | 5,050 | 5 |
+| 2023-07-27 | 5,051 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

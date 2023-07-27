@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -1025,9 +1025,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1072,8 +1072,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-27T08:04:13.4602776+00:00",
+  "LastChanged_Achievements": "2023-07-27T09:03:31.0841397+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:46.6194248+00:00",
-  "LastUpdate_Ratings": "2023-07-27T07:59:21.9134107+00:00",
-  "LastUpdate_Achievements": "2023-07-27T08:04:13.4603237+00:00"
+  "LastUpdate_Ratings": "2023-07-27T08:58:34.851072+00:00",
+  "LastUpdate_Achievements": "2023-07-27T09:03:31.0841657+00:00"
 }
