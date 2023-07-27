@@ -45,7 +45,7 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 45 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.47% |
+| 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.46% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
@@ -59,7 +59,7 @@
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.14% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
 | 61 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
 | 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.94% |
@@ -82,8 +82,8 @@
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.01% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
-| 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.92% |
-| 84 | [Night Book](games/n/night_book.md) | 1.91% |
+| 83 | [Night Book](games/n/night_book.md) | 1.91% |
+| 84 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.90% |
 | 85 | [Frogun](games/f/frogun.md) | 1.87% |
 | 86 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 87 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -107,8 +107,8 @@
 | 105 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 106 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 107 | [Adios](games/a/adios.md) | 0.99% |
-| 108 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 108 | [Sable](games/s/sable.md) | 0.98% |
+| 107 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 109 | [Sable](games/s/sable.md) | 0.98% |
 | 110 | [Hades](games/h/hades.md) | 0.89% |
 | 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |

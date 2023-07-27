@@ -4,14 +4,14 @@
 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 2023-07-27 | 18 (1,000 XP) | 0 | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2023-07-27 | 43 (1,000 XP) | 1 | - | - |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 30 (1,000 XP) | 2 | - | 0 |
-| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 54,133 | 4.81 | 0 |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 54,551 | 4.81 | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
-| [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 159 | - | 0 |
+| [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 160 | - | 0 |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 8 | - | - |
 | [Elemental War 2](games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 2023-07-20 | 42 (1,000 XP) | 6 | - | - |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2023-07-20 | 41 (1,000 XP) | 13 | - | 0 |
-| [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | 44 (1,000 XP) | 91 | - | 0 |
+| [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | 44 (1,000 XP) | 92 | - | 0 |
 | [Train World](games/t/train_world.md) | 2023-07-19 | 50 (1,000 XP) | 1 | - | 0 |
 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 8 | - | 0 |
 | [Insomnis](games/i/insomnis.md) | 2023-07-17 | 27 (1,000 XP) | 1 | - | - |
@@ -32,7 +32,7 @@
 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2023-06-30 | 30 (1,000 XP) | 11 | - | 0 |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | 55 (1,000 XP) | 35 | - | 0 |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,735 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,736 | - | 0 |
 | [HORSE CLUB Adventures](games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 2023-06-28 | 27 (1,000 XP) | 12 | - | 0 |
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | 73 (1,000 XP) | 1 | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | 35 (1,000 XP) | 2 | - | - |

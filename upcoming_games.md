@@ -330,7 +330,7 @@
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
-| [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 2099-01-01 | - |  | - | - |
+| [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 2099-01-01 | 41 (1,000 XP) | 0 | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2099-01-01 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2099-01-01 | - |  | - | - |

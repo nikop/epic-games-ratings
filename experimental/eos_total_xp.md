@@ -424,6 +424,7 @@
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [Skeletal Avengers](../games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 21 | 1,000 |
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
+| [Skye Tales](../games/0/06c6603778ed47859ce523af7e0b566b.md) | 41 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
