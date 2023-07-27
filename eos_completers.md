@@ -50,7 +50,7 @@
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.84% |
-| 51 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
+| 51 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 53 | [ZZT!](games/z/zzt!.md) | 3.57% |
 | 54 | [Doodle God](games/d/doodle_god.md) | 3.49% |
@@ -80,7 +80,7 @@
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
 | 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
-| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
+| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.01% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 82 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.92% |
 | 84 | [Night Book](games/n/night_book.md) | 1.91% |
@@ -113,9 +113,9 @@
 | 111 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 112 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 113 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
-| 114 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 115 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 115 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 114 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
+| 114 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 114 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 117 | [Haven](games/h/haven.md) | 0.67% |
 | 118 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 119 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.65% |
