@@ -26,7 +26,7 @@ Rating: 4.49 (Ranked 573)
 | Going once, going twice, sold | 34.00% | ~574 |
 | Bull and bear | 33.00% | ~557 |
 | Stoker | 32.00% | ~540 |
-| Full Steam ahead | 31.00% | ~524 |
+| Full Steam ahead | 32.00% | ~540 |
 | Financial Shark | 30.00% | ~507 |
 | Socializer | 29.00% | ~490 |
 | All mine | 28.00% | ~473 |
@@ -56,12 +56,12 @@ Rating: 4.49 (Ranked 573)
 | Let off some steam | 4.00% | ~68 |
 | Engineer | 3.00% | ~51 |
 | Accurate | 2.00% | ~34 |
+| European Union | 0.60% | ~10 |
 | Together we stand | 0.60% | ~10 |
-| European Union | 0.50% | ~8 |
 | United States | 0.50% | ~8 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,689 (Ranked 172)  
+Progressed: 1,689 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

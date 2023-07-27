@@ -38,7 +38,7 @@ Number of Ratings: 209  (23.09.2022)
 | Guard Distracted | 80.00% | ~1,738 |
 | Translocator | 80.00% | ~1,738 |
 | Inner Peace | 77.00% | ~1,672 |
-| Diamond Pickaxe | 76.00% | ~1,651 |
+| Diamond Pickaxe | 77.00% | ~1,672 |
 | Killed them all | 76.00% | ~1,651 |
 | Trickle Down Economy | 76.00% | ~1,651 |
 | Win | 75.00% | ~1,629 |
@@ -60,7 +60,7 @@ Number of Ratings: 209  (23.09.2022)
 | Too hot | 19.00% | ~413 |
 | All the chests | 13.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,172 (Ranked 163)  
+Progressed: 2,172 (Ranked 164)  
 Completed: 259 (11.92%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |

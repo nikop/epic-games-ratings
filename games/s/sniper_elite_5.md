@@ -35,9 +35,9 @@ Rating: 4.41 (Ranked 675)
 | Enemy at the Gates | 1.00% | ~34 |
 | Fields of Glory | 1.00% | ~34 |
 | Just a Flesh Wound | 1.00% | ~34 |
+| The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Die Nussknacker Sweet! | 1.00% | ~34 |
-| The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.90% | ~30 |
 | Road Rage | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |

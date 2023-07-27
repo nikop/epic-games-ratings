@@ -23,11 +23,11 @@ Number of Ratings: 58  (23.09.2022)
 | Born to Drift | 51.00% | ~550 |
 | Relentless | 48.00% | ~518 |
 | The Path Forward | 45.00% | ~486 |
-| Disruption | 43.00% | ~464 |
+| Disruption | 44.00% | ~475 |
 | Phoenix | 43.00% | ~464 |
 | Cult Slayer | 41.00% | ~442 |
 | Origin | 40.00% | ~432 |
-| It Was An Accident | 39.00% | ~421 |
+| It Was An Accident | 40.00% | ~432 |
 | Set in Motion | 38.00% | ~410 |
 | In the Eye of the Storm | 37.00% | ~399 |
 | The Crimson Void | 34.00% | ~367 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 9.00% | ~97 |
 | At Least You Tried | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079 (Ranked 189)  
+Progressed: 1,079 (Ranked 190)  
 Completed: 13 (1.20%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |

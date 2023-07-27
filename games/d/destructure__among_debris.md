@@ -12,7 +12,7 @@
 | Master Destructor | 11.00% | ~17 |
 | Avaricerite | 9.00% | ~14 |
 | Ball Galore | 9.00% | ~14 |
-| Easy Victory | 7.00% | ~11 |
+| Easy Victory | 8.00% | ~12 |
 | Ball Collector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
 | Nomad | 5.00% | ~8 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 293)  
+Progressed: 151 (Ranked 294)  
 Completed: 1 (0.66%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |

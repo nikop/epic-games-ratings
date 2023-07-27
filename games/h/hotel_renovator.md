@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 482)
 | Let there be light | 59.00% | ~535 |
 | I think you dropped this | 54.00% | ~489 |
 | Soulmate? | 52.00% | ~471 |
-| Excellent service | 47.00% | ~426 |
+| Excellent service | 48.00% | ~435 |
 | Roll with it | 45.00% | ~408 |
 | Humble beginnings | 43.00% | ~390 |
 | Love is in the air | 43.00% | ~390 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 482)
 | King of hospitality | 11.00% | ~100 |
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 906 (Ranked 195)  
+Progressed: 906 (Ranked 196)  
 Completed: 15 (1.66%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

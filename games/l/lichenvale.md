@@ -16,7 +16,7 @@
 | Memorizer | 0.00% | ~0 |
 | Remembrance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 445)  
+Progressed: 3 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

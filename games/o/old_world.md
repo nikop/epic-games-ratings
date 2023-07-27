@@ -16,10 +16,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
 | Good | 0.60% | ~79 |
+| Just | 0.60% | ~79 |
 | Mason | 0.60% | ~79 |
 | Architect | 0.50% | ~66 |
 | Enlightened | 0.50% | ~66 |
-| Just | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
 | Pioneer | 0.50% | ~66 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,123 (Ranked 115)  
+Progressed: 13,124 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,123 | 5 |
+| 2023-07-27 | 13,124 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

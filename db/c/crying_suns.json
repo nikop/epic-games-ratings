@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463883,
+  "EOS_Progressed": 463889,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10627,6 +10627,11 @@
       "Time": "2023-07-27T15:05:03.5479178+00:00",
       "NumProgressed": 463883,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-27T16:04:00.2031516+00:00",
+      "NumProgressed": 463889,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10724,9 +10729,9 @@
       "ID": "achievement_story_event_bowie_ended",
       "SetID": "8cokdon",
       "Name": "The Shutdown",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3711
     },
     {
       "ID": "achievement_story_landa",
@@ -11269,21 +11274,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7817,
-      "Completed": 2353
+      "Progressed": 7823,
+      "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463883,
+      "Progressed": 463889,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:05:03.5479171+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:04:00.2031512+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:01:10.4732602+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:05:03.5481+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:00:12.4874976+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:04:00.2033181+00:00"
 }

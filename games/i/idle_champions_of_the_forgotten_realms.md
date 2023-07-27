@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,320 |
+| A Brief Tour of the Realms | 3.00% | ~6,480 |
 | Beast Intentions | 2.00% | ~4,320 |
 | Maddening | 1.00% | ~2,160 |
 | The Silken Swamp | 1.00% | ~2,160 |
 | Supply Run | 1.00% | ~2,160 |
-| Rocky Reception | 0.90% | ~1,640 |
+| Rocky Reception | 0.90% | ~1,641 |
 | Vecna Lives! | 0.80% | ~1,458 |
 | Rock and Roll | 0.80% | ~1,458 |
 | Flight of the Kindori Pod | 0.70% | ~1,276 |
 | Tall Tales | 0.60% | ~1,094 |
+| Wet Feet | 0.60% | ~1,296 |
 | Seeds of Destruction | 0.60% | ~1,094 |
 | Vecna Loots! | 0.60% | ~1,094 |
 | Topolah's Tower | 0.60% | ~1,094 |
 | Pros and CONs | 0.50% | ~1,080 |
 | The Witchlight Carnival | 0.50% | ~911 |
-| Wet Feet | 0.50% | ~1,080 |
 | Hatchlings Underfoot | 0.50% | ~1,080 |
 | Don't Look Up! | 0.50% | ~1,080 |
 | Return to the Tomb | 0.50% | ~911 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,994 (Ranked 53)  
+Progressed: 216,015 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,994 | 2,127 |
+| 2023-07-27 | 216,015 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

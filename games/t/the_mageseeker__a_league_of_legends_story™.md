@@ -5,15 +5,15 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,366 |
-| No more cages! | 92.00% | ~2,268 |
+| For Demacia | 96.00% | ~2,367 |
+| No more cages! | 92.00% | ~2,269 |
 | Everfrost | 78.00% | ~1,923 |
-| Pentakill | 77.00% | ~1,898 |
-| Dark Forest | 77.00% | ~1,898 |
-| The use of petricite | 74.00% | ~1,824 |
+| Pentakill | 77.00% | ~1,899 |
+| Dark Forest | 77.00% | ~1,899 |
+| The use of petricite | 74.00% | ~1,825 |
 | You can pet the dog | 61.00% | ~1,504 |
-| Big Helmet Bro | 36.00% | ~887 |
-| Clarion Cove | 36.00% | ~887 |
+| Big Helmet Bro | 36.00% | ~888 |
+| Clarion Cove | 36.00% | ~888 |
 | Past trauma | 35.00% | ~863 |
 | Thornbarrow | 35.00% | ~863 |
 | Elemental master | 34.00% | ~838 |
@@ -26,16 +26,16 @@ Rating: 4.81 (Ranked 77)
 | Whispers in the Woods I | 27.00% | ~666 |
 | I chose my shackles | 24.00% | ~592 |
 | Ancient power | 24.00% | ~592 |
-| Sacred Woods | 22.00% | ~542 |
-| Capelworth | 22.00% | ~542 |
+| Sacred Woods | 22.00% | ~543 |
+| Capelworth | 22.00% | ~543 |
 | Little light | 21.00% | ~518 |
 | Iffighain Headquarters | 21.00% | ~518 |
 | Full equipped | 21.00% | ~518 |
 | Glyndemere | 20.00% | ~493 |
 | Whispers in the Woods II | 17.00% | ~419 |
 | Quickmoore Headquarters | 17.00% | ~419 |
-| No more holding back | 16.00% | ~394 |
-| Terbisia | 16.00% | ~394 |
+| No more holding back | 16.00% | ~395 |
+| Terbisia | 16.00% | ~395 |
 | Whispers in the Woods III | 15.00% | ~370 |
 | Friendly fire | 15.00% | ~370 |
 | True power | 15.00% | ~370 |
@@ -49,8 +49,8 @@ Rating: 4.81 (Ranked 77)
 | The end of the experiments | 11.00% | ~271 |
 | The Great City of Demacia | 11.00% | ~271 |
 | Call it 'redistribution of magic | 11.00% | ~271 |
-| Truth is a dark mirror | 10.00% | ~246 |
-| Back to sleep, then... | 10.00% | ~246 |
+| Truth is a dark mirror | 10.00% | ~247 |
+| Back to sleep, then... | 10.00% | ~247 |
 | Do you trust me? | 9.00% | ~222 |
 | Chains master | 9.00% | ~222 |
 | The great mage rebellion starts now | 9.00% | ~222 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 77)
 | Silverwing nest | 2.00% | ~49 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,465 (Ranked 159)  
+Progressed: 2,466 (Ranked 160)  
 Completed: 5 (0.20%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 5 (0.20%) (Ranked 169)
 | 2023-07-24 | 2,463 | 5 |
 | 2023-07-25 | 2,464 | 5 |
 | 2023-07-26 | 2,465 | 5 |
+| 2023-07-27 | 2,466 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,534 |
-| Self-Improvement | 72.00% | ~1,255 |
-| Perky | 65.00% | ~1,133 |
+| Unforgiven | 88.00% | ~1,535 |
+| Self-Improvement | 72.00% | ~1,256 |
+| Perky | 65.00% | ~1,134 |
 | Let’s Ride | 60.00% | ~1,046 |
 | Welcome to the Weird West | 57.00% | ~994 |
-| Dead or Alive | 56.00% | ~976 |
-| Full House | 36.00% | ~627 |
-| Off the Trail | 34.00% | ~593 |
-| Justice Served | 29.00% | ~505 |
+| Dead or Alive | 56.00% | ~977 |
+| Full House | 36.00% | ~628 |
+| Off the Trail | 33.00% | ~576 |
+| Justice Served | 29.00% | ~506 |
 | Chain Reaction | 27.00% | ~471 |
 | Scholar | 25.00% | ~436 |
 | Through Their Eyes | 25.00% | ~436 |
-| Dishonored | 24.00% | ~418 |
-| Rain of Death | 24.00% | ~418 |
+| Dishonored | 24.00% | ~419 |
+| Rain of Death | 24.00% | ~419 |
 | The Great Escape | 23.00% | ~401 |
 | That’s All, Folks | 18.00% | ~314 |
 | Fallen Star | 16.00% | ~279 |
@@ -37,9 +37,9 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~174 |
 | Loyalty to the Pack | 9.00% | ~157 |
 | Mystery Machine | 9.00% | ~157 |
-| Gold Digger | 8.00% | ~139 |
-| Eternity Can Wait | 8.00% | ~139 |
-| Knuckle Sandwich | 8.00% | ~139 |
+| Gold Digger | 8.00% | ~140 |
+| Eternity Can Wait | 8.00% | ~140 |
+| Knuckle Sandwich | 8.00% | ~140 |
 | Do Not Pass Go… | 7.00% | ~122 |
 | Getting the Gang Back Together | 7.00% | ~122 |
 | Monster Hunter | 7.00% | ~122 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,743 (Ranked 168)  
+Progressed: 1,744 (Ranked 169)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-24 | 1,731 | 3 |
 | 2023-07-25 | 1,738 | 3 |
 | 2023-07-26 | 1,740 | 3 |
-| 2023-07-27 | 1,743 | 3 |
+| 2023-07-27 | 1,744 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 479)  
 Sum: 24 (Ranked 483)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 611,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 449,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1843,6 +1843,11 @@
       "Time": "2023-07-26T21:04:00.648431+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T16:03:51.2562297+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1908,9 +1913,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1045
     },
     {
       "ID": "EXPERT_1",
@@ -1940,9 +1945,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 192
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1974,7 +1979,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2006,7 +2011,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2030,7 +2035,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2118,7 +2123,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WANDERER_1",
@@ -2126,7 +2131,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "WISHMASTER_1",
@@ -2141,15 +2146,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1066,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:04:51.0678172+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:03:51.2562294+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:02:30.2428726+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:04:51.0678595+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:01:11.3735753+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:03:51.2562653+00:00"
 }

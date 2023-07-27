@@ -30,7 +30,7 @@
 | Golem Chaser | 14.00% | ~111 |
 | Check Your Pulse | 14.00% | ~111 |
 | Right On Time | 13.00% | ~103 |
-| Street Style | 13.00% | ~103 |
+| Street Style | 12.00% | ~95 |
 | Whiz Kid | 11.00% | ~87 |
 | Chaincrawler Explorer | 10.00% | ~79 |
 | Good Neighbor | 10.00% | ~79 |
@@ -40,9 +40,9 @@
 | Sump Explorer | 8.00% | ~63 |
 | Syron for Hope | 8.00% | ~63 |
 | Ask Questions Later | 8.00% | ~63 |
-| Cultivair Explorer | 7.00% | ~55 |
-| Entresol Explorer | 7.00% | ~55 |
-| Factorywood Explorer | 7.00% | ~55 |
+| Cultivair Explorer | 7.00% | ~56 |
+| Entresol Explorer | 7.00% | ~56 |
+| Factorywood Explorer | 7.00% | ~56 |
 | Corin Goes Home | 6.00% | ~48 |
 | Sartorialist | 6.00% | ~48 |
 | Golem Hunter | 5.00% | ~40 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792 (Ranked 199)  
-Completed: 4 (0.51%) (Ranked 132)  
+Progressed: 793 (Ranked 200)  
+Completed: 4 (0.50%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,4 +122,4 @@ Completed: 4 (0.51%) (Ranked 132)
 | 2023-07-24 | 786 | 4 |
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
-| 2023-07-27 | 792 | 4 |
+| 2023-07-27 | 793 | 4 |

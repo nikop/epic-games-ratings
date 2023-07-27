@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,650 |
-| Let There Be Light | 29.00% | ~17,110 |
-| Float Like a Butterfly | 27.00% | ~15,930 |
-| Nordic Walking | 22.00% | ~12,980 |
-| Bright Falls' Finest | 21.00% | ~12,390 |
-| Under a Thin Layer of Skin | 19.00% | ~11,210 |
+| Follow the Light | 35.00% | ~20,651 |
+| Let There Be Light | 29.00% | ~17,111 |
+| Float Like a Butterfly | 27.00% | ~15,931 |
+| Nordic Walking | 22.00% | ~12,981 |
+| Bright Falls' Finest | 21.00% | ~12,391 |
+| Under a Thin Layer of Skin | 19.00% | ~11,211 |
 | Paging Mr. Wake | 16.00% | ~9,440 |
 | Park Ranger | 15.00% | ~8,850 |
 | Finders Keepers | 15.00% | ~8,850 |
 | Back! Back, I Say! | 14.00% | ~8,260 |
+| They're Heeeeeere! | 13.00% | ~7,670 |
 | Sound and Fury | 13.00% | ~7,670 |
 | Missed by a Mile | 13.00% | ~7,670 |
 | Damn Good Cup of Coffee | 13.00% | ~7,670 |
 | Wheels Within Wheels | 12.00% | ~7,080 |
-| They're Heeeeeere! | 12.00% | ~7,080 |
 | The Six-Gun Scribe | 12.00% | ~7,080 |
 | Heavy Metal | 11.00% | ~6,490 |
 | Iron Horse | 11.00% | ~6,490 |
@@ -41,7 +41,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,348 |
 | Drink 'Em Both Up | 5.00% | ~2,950 |
 | Hardboiled Writer | 5.00% | ~2,950 |
-| Ding! | 5.00% | ~1,123 |
+| Ding! | 5.00% | ~1,124 |
 | Boob Tube | 4.00% | ~2,360 |
 | Children of the Elder God | 4.00% | ~2,360 |
 | If It Flies, It Burns | 4.00% | ~2,360 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,001 (Ranked 82)  
+Progressed: 59,003 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
 | 2023-07-26 | 58,927 | 58 |
-| 2023-07-27 | 59,001 | 58 |
+| 2023-07-27 | 59,003 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5290,9 +5290,9 @@
       "Count": 3713
     }
   ],
-  "EOS_Progressed": 133353,
+  "EOS_Progressed": 133356,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15235,6 +15235,11 @@
       "Time": "2023-07-27T15:04:26.0510273+00:00",
       "NumProgressed": 133353,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-27T16:03:34.1105807+00:00",
+      "NumProgressed": 133356,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -15476,9 +15481,9 @@
       "ID": "commonres01",
       "SetID": "anfd17p",
       "Name": "Basic in Bulk",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 400
     },
     {
       "ID": "commonres02",
@@ -15596,9 +15601,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 267
     },
     {
       "ID": "energy02",
@@ -16141,15 +16146,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133353,
+      "Progressed": 133356,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-27T04:59:06.1758697+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:04:26.0510266+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:03:34.1105796+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:59:50.7354255+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:04:26.0512772+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:59:11.0332483+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:03:34.1108055+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,545 |
-| Finding Your Footing | 26.00% | ~8,545 |
-| Nomad | 18.00% | ~5,916 |
-| Picking Up Speed | 16.00% | ~5,258 |
-| Welcome Maya | 15.00% | ~4,930 |
-| Sightseer | 11.00% | ~3,615 |
-| Scout | 10.00% | ~3,286 |
+| Rookie | 26.00% | ~8,546 |
+| Finding Your Footing | 26.00% | ~8,546 |
+| Nomad | 18.00% | ~5,917 |
+| Picking Up Speed | 16.00% | ~5,259 |
+| Welcome Maya | 15.00% | ~4,931 |
+| Sightseer | 11.00% | ~3,616 |
+| Scout | 10.00% | ~3,287 |
 | Amateur | 9.00% | ~2,958 |
-| Enter Paz | 8.00% | ~2,629 |
-| Wanderer | 8.00% | ~2,629 |
+| Enter Paz | 8.00% | ~2,630 |
+| Wanderer | 8.00% | ~2,630 |
 | Unlock Maya | 7.00% | ~2,301 |
 | Aviator | 6.00% | ~1,972 |
 | One With The Board | 6.00% | ~1,972 |
-| My Little Friend | 5.00% | ~1,643 |
-| Voyager | 5.00% | ~1,643 |
+| My Little Friend | 5.00% | ~1,644 |
+| Voyager | 5.00% | ~1,644 |
 | Sandboarder | 4.00% | ~1,315 |
 | Izel Has Arrived | 4.00% | ~1,315 |
 | Junkie | 3.00% | ~986 |
 | Traveler | 3.00% | ~986 |
 | Journeyer | 3.00% | ~986 |
 | Unlock Paz | 3.00% | ~986 |
-| Explorer | 2.00% | ~657 |
 | Pro | 2.00% | ~657 |
 | Unlock Izel | 2.00% | ~657 |
 | Human Flight | 2.00% | ~657 |
 | Here Comes Felipe | 2.00% | ~657 |
+| Explorer | 1.00% | ~329 |
 | Hoist the Mainsail | 1.00% | ~329 |
 | Introducing Sumara | 1.00% | ~329 |
 | Vandal | 1.00% | ~329 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~33 |
 | Windswept | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,865 (Ranked 96)  
+Progressed: 32,871 (Ranked 96)  
 Completed: 5 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,15 +144,15 @@ Completed: 5 (0.02%) (Ranked 222)
 | 2023-07-24 | 32,512 | 5 |
 | 2023-07-25 | 32,659 | 5 |
 | 2023-07-26 | 32,779 | 5 |
-| 2023-07-27 | 32,865 | 5 |
+| 2023-07-27 | 32,871 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 411)  
-Sum: 357 (Ranked 322)  
+Sum: 358 (Ranked 322)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 45 |
-| This game is Great for Beginners | 43 |
+| This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Beautiful Visuals | 38 |
 | This game has Quickly Understood Controls | 38 |
@@ -261,3 +261,4 @@ Diff (max vs sum): 89
 | 2023-07-22 | 4.70 | - | 45 | 355 |
 | 2023-07-23 | 4.70 | - | 45 | 356 |
 | 2023-07-26 | 4.70 | - | 45 | 357 |
+| 2023-07-27 | 4.70 | - | 45 | 358 |

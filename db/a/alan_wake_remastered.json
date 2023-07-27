@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59001,
+  "EOS_Progressed": 59003,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1427,
+  "EOS_NewPlayers": 1428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9247,6 +9247,11 @@
       "Time": "2023-07-27T15:05:19.5229161+00:00",
       "NumProgressed": 59001,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-27T16:04:12.4471813+00:00",
+      "NumProgressed": 59003,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9258,7 +9263,7 @@
       "Name": "Follow the Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20650
+      "UsersEstimate": 20651
     },
     {
       "ID": "02",
@@ -9266,7 +9271,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 12980
+      "UsersEstimate": 12981
     },
     {
       "ID": "03",
@@ -9274,7 +9279,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12390
+      "UsersEstimate": 12391
     },
     {
       "ID": "04",
@@ -9290,7 +9295,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "06",
@@ -9416,9 +9421,9 @@
       "ID": "21",
       "SetID": "212770e",
       "Name": "They\u0027re Heeeeeere!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7080
+      "UsersEstimate": 7670
     },
     {
       "ID": "22",
@@ -9506,7 +9511,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "33",
@@ -9530,7 +9535,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17110
+      "UsersEstimate": 17111
     },
     {
       "ID": "36",
@@ -9722,7 +9727,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "60",
@@ -9793,21 +9798,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59001,
+      "Progressed": 59003,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22469,
+      "Progressed": 22471,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:05:19.5229155+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:04:12.447181+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:58:40.6124854+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:05:19.5230583+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:58:21.3533104+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:04:12.4473205+00:00"
 }

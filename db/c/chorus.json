@@ -5,10 +5,10 @@
   "Ranking_Rating": 624,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 189,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1697,9 +1697,9 @@
       "ID": "MissionTemple",
       "SetID": "a6c395p",
       "Name": "Disruption",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 475
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1761,9 +1761,9 @@
       "ID": "RiteOfTheStorm",
       "SetID": "a6c395p",
       "Name": "It Was An Accident",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 432
     },
     {
       "ID": "UseRepairDrones",
@@ -1801,8 +1801,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:05:44.378617+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:04:30.5467784+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-27T15:02:25.0506472+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:05:44.3786596+00:00"
+  "LastUpdate_Ratings": "2023-07-27T16:01:06.5975994+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:04:30.5468233+00:00"
 }

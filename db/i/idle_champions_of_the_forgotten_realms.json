@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215994,
+  "EOS_Progressed": 216015,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2286,
+  "EOS_NewPlayers": 2285,
   "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15829,6 +15829,11 @@
       "Time": "2023-07-27T15:03:58.3978107+00:00",
       "NumProgressed": 215994,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T16:03:13.7841293+00:00",
+      "NumProgressed": 216015,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15838,9 +15843,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4320
+      "UsersEstimate": 6480
     },
     {
       "ID": "objective_completed_10",
@@ -16214,9 +16219,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1296
     },
     {
       "ID": "objective_completed_1100",
@@ -19864,7 +19869,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "objective_completed_1376",
@@ -19935,21 +19940,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182268,
+      "Progressed": 182289,
       "Completed": 3017
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215994,
+      "Progressed": 216015,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T15:03:58.3978102+00:00",
+  "LastChanged_Achievements": "2023-07-27T16:03:13.7841288+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:59:25.2204927+00:00",
-  "LastUpdate_Achievements": "2023-07-27T15:03:58.4009274+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:58:52.676372+00:00",
+  "LastUpdate_Achievements": "2023-07-27T16:03:13.7868411+00:00"
 }

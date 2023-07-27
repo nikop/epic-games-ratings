@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~311 |
+| I can do a thing or two | 60.00% | ~307 |
 | Buckle up | 59.00% | ~301 |
 | Quick charge | 59.00% | ~301 |
-| Hands up! | 52.00% | ~265 |
-| Now you know | 52.00% | ~265 |
-| Short circuit | 52.00% | ~265 |
-| Curious | 41.00% | ~209 |
-| Everybody lies | 35.00% | ~178 |
-| Trick or Treat? | 23.00% | ~117 |
-| There is another way | 23.00% | ~117 |
+| Hands up! | 52.00% | ~266 |
+| Now you know | 52.00% | ~266 |
+| Short circuit | 52.00% | ~266 |
+| Curious | 41.00% | ~210 |
+| Everybody lies | 35.00% | ~179 |
+| Trick or Treat? | 23.00% | ~118 |
+| There is another way | 23.00% | ~118 |
 | Sysadmin | 21.00% | ~107 |
+| Annoying | 20.00% | ~102 |
 | Every little helps | 20.00% | ~102 |
+| Hacker | 20.00% | ~102 |
 | The Walking Robot Among Us | 20.00% | ~102 |
-| Annoying | 19.00% | ~97 |
-| Hacker | 19.00% | ~97 |
 | He is just a child | 19.00% | ~97 |
 | Uncertain | 18.00% | ~92 |
 | Concrete painting | 17.00% | ~87 |
@@ -27,8 +27,8 @@
 | Hipster | 16.00% | ~82 |
 | Not what it seems | 16.00% | ~82 |
 | Please oh pleeease! | 16.00% | ~82 |
-| Found it! | 15.00% | ~76 |
-| That's much better! | 15.00% | ~76 |
+| Found it! | 15.00% | ~77 |
+| That's much better! | 15.00% | ~77 |
 | Not as clumsy or random | 13.00% | ~66 |
 | Blade Runner | 10.00% | ~51 |
 | Perfect hearing | 9.00% | ~46 |
@@ -37,7 +37,7 @@
 | Lucky dog | 4.00% | ~20 |
 | Silent | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 216)  
+Progressed: 511 (Ranked 217)  
 Completed: 15 (2.94%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 15 (2.94%) (Ranked 62)
 | 2023-07-23 | 506 | 15 |
 | 2023-07-24 | 508 | 15 |
 | 2023-07-26 | 510 | 15 |
+| 2023-07-27 | 511 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

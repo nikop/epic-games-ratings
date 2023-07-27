@@ -6,11 +6,11 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,353 |
+| Venture Outward | 75.00% | ~2,354 |
 | Ready for Winter | 64.00% | ~2,008 |
 | Ready for Summer | 51.00% | ~1,600 |
 | Cordon Bleu | 43.00% | ~1,349 |
-| Tapped! | 36.00% | ~1,129 |
+| Tapped! | 36.00% | ~1,130 |
 | Eureka | 32.00% | ~1,004 |
 | Scourge Slayer | 25.00% | ~784 |
 | Science, Troglodyte! | 23.00% | ~722 |
@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 16.00% | ~502 |
 | Apex Predator | 16.00% | ~502 |
 | The Power of Family | 16.00% | ~502 |
-| Strange amalgams | 12.00% | ~376 |
-| The Power of Faith | 12.00% | ~376 |
+| Strange amalgams | 12.00% | ~377 |
+| The Power of Faith | 12.00% | ~377 |
 | The Power of Freedom | 9.00% | ~282 |
 | Ace Detective | 8.00% | ~251 |
 | Gift from the Ancestors | 8.00% | ~251 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 7.00% | ~220 |
 | Hold my Mead and Watch This | 6.00% | ~188 |
 | Blood and justice | 5.00% | ~157 |
-| Ancestor's Pride | 4.00% | ~125 |
-| For All Aurai | 4.00% | ~125 |
-| Memory of a legend | 4.00% | ~125 |
+| Ancestor's Pride | 4.00% | ~126 |
+| For All Aurai | 4.00% | ~126 |
+| Memory of a legend | 4.00% | ~126 |
 | Light of Levant | 3.00% | ~94 |
 | This was a mistake... | 3.00% | ~94 |
 | Crowd Pleaser. | 2.00% | ~63 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,137 (Ranked 150)  
+Progressed: 3,138 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 3 (0.10%) (Ranked 189)
 | 2023-07-24 | 3,108 | 3 |
 | 2023-07-25 | 3,119 | 3 |
 | 2023-07-26 | 3,125 | 3 |
-| 2023-07-27 | 3,137 | 3 |
+| 2023-07-27 | 3,138 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 350)  

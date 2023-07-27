@@ -8,7 +8,7 @@
 | A thing of beauty | 73.00% | ~8 |
 | Escape the Maze | 45.00% | ~5 |
 | Brace the cold | 45.00% | ~5 |
-| A Long Walk | 27.00% | ~3 |
+| A Long Walk | 36.00% | ~4 |
 | A Dangerous Road | 9.00% | ~1 |
 | Scorched Ruins | 9.00% | ~1 |
 | City of Illusion | 9.00% | ~1 |

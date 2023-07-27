@@ -23,10 +23,10 @@
 | Total Eclipse | 9.00% | ~8 |
 | Your Training Is Complete | 6.00% | ~6 |
 | Red in Tooth and Claw | 5.00% | ~5 |
+| Vivid Dreams | 2.00% | ~2 |
 | Broken Reflection | 2.00% | ~2 |
-| Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 313)  
+Progressed: 93 (Ranked 315)  
 Completed: 1 (1.08%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
