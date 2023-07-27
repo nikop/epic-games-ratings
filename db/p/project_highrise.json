@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -597,6 +597,11 @@
       "Time": "2023-07-27T18:03:24.093431+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T19:03:03.0099156+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -640,7 +645,7 @@
       "Name": "Floor Galore",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_area_1",
@@ -672,7 +677,7 @@
       "Name": "Curated Class",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_art_outside",
@@ -750,9 +755,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_consultants_a",
@@ -774,9 +779,9 @@
       "ID": "ach_consultants_c",
       "SetID": "b8gh1fi",
       "Name": "Smooth Operator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_contracts_1",
@@ -792,7 +797,7 @@
       "Name": "Loft Life",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_contracts_3",
@@ -800,7 +805,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_contracts_4",
@@ -848,7 +853,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_ep1_event_1",
@@ -872,7 +877,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -944,7 +949,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_grime_1",
@@ -960,15 +965,15 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_loan",
@@ -1006,9 +1011,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_office_2",
@@ -1040,7 +1045,7 @@
       "Name": "Master of Puppets",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_prestige_1",
@@ -1072,7 +1077,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_profit_1",
@@ -1120,7 +1125,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_restaurants_3",
@@ -1128,7 +1133,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_restaurants_4",
@@ -1176,7 +1181,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_revs_1",
@@ -1200,7 +1205,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_scenarios_1",
@@ -1294,9 +1299,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_visitors_1",
@@ -1311,7 +1316,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -1319,8 +1324,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:03:24.0934307+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:03:03.0099149+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:34.1898548+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:03:24.0935193+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:58:38.956511+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:03:03.0100228+00:00"
 }

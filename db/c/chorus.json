@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1622,9 +1622,9 @@
       "ID": "MissionHeartOfTheFaceless",
       "SetID": "a6c395p",
       "Name": "Disciple",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 324
     },
     {
       "ID": "MissionHelios",
@@ -1806,8 +1806,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:34.0835726+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:04:24.5163537+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:00:59.1858225+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:34.0836064+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:01:09.0304658+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:04:24.5163954+00:00"
 }

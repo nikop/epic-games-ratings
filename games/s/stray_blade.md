@@ -13,12 +13,12 @@
 | Apprentice | 22.00% | ~7 |
 | Freezing Cold | 13.00% | ~4 |
 | The Power of the Mountains | 13.00% | ~4 |
+| Bringing guns to a sword fight | 9.00% | ~3 |
 | Searing Heat | 9.00% | ~3 |
 | Through Dangers Untold | 9.00% | ~3 |
 | Nothing but the Truth | 9.00% | ~3 |
 | The Golden Flash | 9.00% | ~3 |
 | Changing the World | 9.00% | ~3 |
-| Bringing guns to a sword fight | 6.00% | ~2 |
 | Locked and Loaded | 6.00% | ~2 |
 | Mirror, Mirror on the Wall | 3.00% | ~1 |
 | Sponsor | 3.00% | ~1 |

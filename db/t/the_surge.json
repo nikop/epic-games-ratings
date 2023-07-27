@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4528,
+  "EOS_Progressed": 4529,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1848,6 +1848,11 @@
       "Time": "2023-07-27T16:03:11.6699893+00:00",
       "NumProgressed": 4528,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-27T19:02:33.0131767+00:00",
+      "NumProgressed": 4529,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1859,7 +1864,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1907,7 +1912,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1915,7 +1920,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1931,7 +1936,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2073,9 +2078,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3442
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2107,7 +2112,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2123,7 +2128,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2131,7 +2136,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2139,7 +2144,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -2394,15 +2399,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4528,
+      "Progressed": 4529,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:03:13.7427503+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:02:33.0131761+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.5392783+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:39.6658806+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:03:13.7428128+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:58:44.43401+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:02:33.0132643+00:00"
 }

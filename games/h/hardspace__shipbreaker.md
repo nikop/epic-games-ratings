@@ -6,27 +6,27 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~622 |
-| It’s Heating up! | 69.00% | ~580 |
-| Let’s patch things up | 66.00% | ~555 |
+| Breathe In… Breathe Out… | 74.00% | ~623 |
+| It’s Heating up! | 69.00% | ~581 |
+| Let’s patch things up | 66.00% | ~556 |
 | I can fix it! | 63.00% | ~530 |
 | Post No Bills | 55.00% | ~463 |
-| Truly Shocking! | 49.00% | ~412 |
-| Critical Thinker | 35.00% | ~294 |
+| Truly Shocking! | 49.00% | ~413 |
+| Critical Thinker | 35.00% | ~295 |
 | Always Finding Your Mark | 29.00% | ~244 |
 | The Weight of the World | 29.00% | ~244 |
-| Act I Complete | 28.00% | ~235 |
+| Act I Complete | 28.00% | ~236 |
 | A drop in the Ocean | 27.00% | ~227 |
 | No Niños | 27.00% | ~227 |
-| I ain’t afraid of no Ghost | 23.00% | ~193 |
+| I ain’t afraid of no Ghost | 23.00% | ~194 |
 | Act II Complete | 20.00% | ~168 |
 | A successful procedure! | 19.00% | ~160 |
-| Bing Bang BOOM | 18.00% | ~151 |
+| Bing Bang BOOM | 18.00% | ~152 |
 | Breaking the Ice | 17.00% | ~143 |
 | Solidarity Forever | 12.00% | ~101 |
 | A Tucked Tale | 10.00% | ~84 |
 | The best thing money can buy | 9.00% | ~76 |
-| Act III Complete | 6.00% | ~50 |
+| Act III Complete | 6.00% | ~51 |
 | Fire and Brimstone | 5.00% | ~42 |
 | See you Space Cowboy | 5.00% | ~42 |
 | Ghost in the Ship | 2.00% | ~17 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 841 (Ranked 198)  
+Progressed: 842 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 834 | 0 |
 | 2023-07-25 | 835 | 0 |
 | 2023-07-26 | 839 | 0 |
-| 2023-07-27 | 841 | 0 |
+| 2023-07-27 | 842 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3433,9 +3433,9 @@
       "ID": "STB_MISSION7_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Central Headquarters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 370
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3586,8 +3586,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:02:09.4072556+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:02:03.9594579+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.6045912+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:10.1723617+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:02:09.4073099+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:58:11.2453608+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:02:03.9595294+00:00"
 }

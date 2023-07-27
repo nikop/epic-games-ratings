@@ -53,6 +53,7 @@ Rating: 4.87 (Ranked 24)
 | Easy Listening | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
+| And the crowd goes wild! | 0.10% | ~4 |
 | Problem solved... wait, what? | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -73,7 +74,6 @@ Rating: 4.87 (Ranked 24)
 | It was all for this | 0.10% | ~2 |
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
-| And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463897,
+  "EOS_Progressed": 463903,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10642,6 +10642,11 @@
       "Time": "2023-07-27T18:04:03.8030525+00:00",
       "NumProgressed": 463897,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-27T19:03:42.9692666+00:00",
+      "NumProgressed": 463903,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10837,7 +10842,7 @@
       "Name": "Second Coming",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -11077,7 +11082,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -11109,7 +11114,7 @@
       "Name": "Careful planning",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "achievement_win_run_hard",
@@ -11284,21 +11289,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7831,
+      "Progressed": 7837,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463897,
+      "Progressed": 463903,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:03.8030521+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:03:42.969266+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:00:04.1175136+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:03.8031662+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:00:17.6610234+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:03:42.9694094+00:00"
 }

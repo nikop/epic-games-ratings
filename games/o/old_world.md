@@ -20,18 +20,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.60% | ~79 |
 | Mason | 0.60% | ~79 |
 | Strong | 0.60% | ~79 |
+| Hanging Gardens | 0.60% | ~79 |
 | Oracle | 0.60% | ~79 |
 | Enlightened | 0.50% | ~66 |
+| Glorious | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
 | Pioneer | 0.50% | ~66 |
-| Hanging Gardens | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
-| Glorious | 0.40% | ~53 |
 | Keystone | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
@@ -54,6 +54,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
 | Wise | 0.30% | ~39 |
+| Legendary Cities | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
 | Furious Family | 0.30% | ~39 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
-| Legendary Cities | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
+| Hittite Iron | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
@@ -108,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Double Victory | 0.20% | ~26 |
+| Win a Single Player Game | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
 | Centenarian | 0.10% | ~13 |
@@ -189,7 +191,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
-| Hittite Iron | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
@@ -248,7 +249,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a MP Teams Game | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
-| Win a Single Player Game | 0.10% | ~13 |
 | Deposed Tribe | 0.10% | ~13 |
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,126 (Ranked 115)  
+Progressed: 13,127 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,126 | 5 |
+| 2023-07-27 | 13,127 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

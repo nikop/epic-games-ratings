@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1694,
+  "EOS_Progressed": 1695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2023-07-27T18:04:01.6457868+00:00",
       "NumProgressed": 1694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T19:03:40.5458132+00:00",
+      "NumProgressed": 1695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3814,7 +3819,7 @@
       "Name": "A new Hope",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "A06",
@@ -3926,7 +3931,7 @@
       "Name": "Tycoon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "A20",
@@ -3942,7 +3947,7 @@
       "Name": "Country Life",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "A22",
@@ -3950,7 +3955,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "A23",
@@ -3998,7 +4003,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "A29",
@@ -4014,7 +4019,7 @@
       "Name": "All mine",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "A31",
@@ -4046,7 +4051,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "A35",
@@ -4070,7 +4075,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "A38",
@@ -4094,7 +4099,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "A41",
@@ -4118,7 +4123,7 @@
       "Name": "Mole",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "A44",
@@ -4142,7 +4147,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "A47",
@@ -4150,7 +4155,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "A48",
@@ -4190,7 +4195,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "A53",
@@ -4213,7 +4218,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1694,
+      "Progressed": 1695,
       "Completed": 0
     }
   ],
@@ -4221,8 +4226,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:01.6457865+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:03:40.5458125+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:44.2239399+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:01.6458397+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:58:51.7411014+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:03:40.5458814+00:00"
 }

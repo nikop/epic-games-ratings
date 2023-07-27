@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,744 (Ranked 169)  
+Progressed: 1,744 (Ranked 170)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |

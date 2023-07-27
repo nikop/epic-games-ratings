@@ -5320,9 +5320,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 216062,
+  "EOS_Progressed": 216084,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2304,
+  "EOS_NewPlayers": 2299,
   "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15850,6 +15850,11 @@
       "Time": "2023-07-27T18:03:16.631062+00:00",
       "NumProgressed": 216062,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T19:02:36.0253809+00:00",
+      "NumProgressed": 216084,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15861,7 +15866,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "objective_completed_10",
@@ -16075,9 +16080,9 @@
       "ID": "objective_completed_1075",
       "SetID": "415jc5c",
       "Name": "The Fall of Ythryn",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1076",
@@ -16229,7 +16234,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "objective_completed_110",
@@ -16237,7 +16242,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "objective_completed_1100",
@@ -17899,9 +17904,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_424",
@@ -19819,9 +19824,9 @@
       "ID": "objective_completed_1215",
       "SetID": "415jc5c",
       "Name": "The Champion\u0027s Guide to Wildspace",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1220",
@@ -19917,7 +19922,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_1386",
@@ -19956,21 +19961,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182336,
+      "Progressed": 182358,
       "Completed": 3018
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216062,
+      "Progressed": 216084,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-27T17:58:46.1552632+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:03:16.6310616+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:02:36.0253799+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:46.1552638+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:03:16.6334261+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:58:53.0665145+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:02:36.027991+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Jill of the Jungle: The Complete Trilogy",
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 98,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.77,
+  "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -4594,6 +4594,11 @@
       "Time": "2023-07-27T15:05:27.1061639+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-07-27T19:04:11.1778587+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 5,
@@ -4605,7 +4610,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "2",
@@ -4644,7 +4649,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 98
     }
   ],
@@ -4652,8 +4657,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:21.0855781+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:04:11.1778577+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:04.0645974+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:57:46.095151+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:21.0856072+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:57:45.1900486+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:04:11.1778917+00:00"
 }

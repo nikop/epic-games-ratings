@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2569,9 +2569,9 @@
       "Count": 731
     }
   ],
-  "EOS_Progressed": 233228,
+  "EOS_Progressed": 233229,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12414,6 +12414,11 @@
       "Time": "2023-07-27T18:04:48.4762391+00:00",
       "NumProgressed": 233228,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2023-07-27T19:04:39.2511182+00:00",
+      "NumProgressed": 233229,
+      "NumCompleted": 255
     }
   ],
   "TotalAchievements": 122,
@@ -12441,7 +12446,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 95623
+      "UsersEstimate": 95624
     },
     {
       "ID": "BOSSPIT",
@@ -12457,7 +12462,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 223899
+      "UsersEstimate": 223900
     },
     {
       "ID": "CURSE1HP",
@@ -12465,7 +12470,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93291
+      "UsersEstimate": 93292
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -12473,7 +12478,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60639
+      "UsersEstimate": 60640
     },
     {
       "ID": "DAILY7",
@@ -12513,7 +12518,7 @@
       "Name": "Max Damage!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37316
+      "UsersEstimate": 37317
     },
     {
       "ID": "DEPTH12",
@@ -12545,7 +12550,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 170256
+      "UsersEstimate": 170257
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -12609,7 +12614,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 135272
+      "UsersEstimate": 135273
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -12617,7 +12622,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76965
+      "UsersEstimate": 76966
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -12825,7 +12830,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142269
+      "UsersEstimate": 142270
     },
     {
       "ID": "KILL1000",
@@ -12833,7 +12838,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60639
+      "UsersEstimate": 60640
     },
     {
       "ID": "KILL10000",
@@ -12857,7 +12862,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93291
+      "UsersEstimate": 93292
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -12913,7 +12918,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 125943
+      "UsersEstimate": 125944
     },
     {
       "ID": "KILLNICEDOG",
@@ -12937,7 +12942,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44313
+      "UsersEstimate": 44314
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -13073,7 +13078,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151598
+      "UsersEstimate": 151599
     },
     {
       "ID": "PETRIFY50",
@@ -13089,7 +13094,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37316
+      "UsersEstimate": 37317
     },
     {
       "ID": "POISON300",
@@ -13105,7 +13110,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76965
+      "UsersEstimate": 76966
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -13169,7 +13174,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207573
+      "UsersEstimate": 207574
     },
     {
       "ID": "SPECIALROOMS10",
@@ -13177,7 +13182,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 144601
+      "UsersEstimate": 144602
     },
     {
       "ID": "SPEEDRUN10",
@@ -13241,7 +13246,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142269
+      "UsersEstimate": 142270
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -13400,7 +13405,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 233228,
+      "Progressed": 233229,
       "Completed": 255
     }
   ],
@@ -13408,8 +13413,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-27T17:00:57.7585469+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:48.4762388+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:04:39.2511176+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:28.9863415+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:00:18.9207878+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:48.4764407+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:00:32.6319765+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:04:39.2513565+00:00"
 }

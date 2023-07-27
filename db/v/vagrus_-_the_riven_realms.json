@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -393,6 +393,11 @@
       "Time": "2023-07-27T18:04:33.4815547+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T19:04:23.9966697+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -548,7 +553,7 @@
       "Name": "Tactician",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -954,7 +959,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -1018,9 +1023,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1060,7 +1065,7 @@
       "Name": "Taskmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1082,9 +1087,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1195,7 +1200,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
@@ -1203,8 +1208,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:04:33.4815543+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:04:23.9966689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:24.2862582+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:59:24.5154321+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:04:33.4816532+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:59:31.3775341+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:04:23.9967999+00:00"
 }

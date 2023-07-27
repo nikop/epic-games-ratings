@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,642 |
-| First Class Student | 11.00% | ~31,755 |
-| A Keen Sense of Spell | 10.00% | ~28,868 |
-| Troll with the Punches | 10.00% | ~28,868 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,643 |
+| First Class Student | 11.00% | ~31,756 |
+| A Keen Sense of Spell | 10.00% | ~28,869 |
+| Troll with the Punches | 10.00% | ~28,869 |
 | Grappling with a Graphorn | 9.00% | ~25,982 |
 | The One Who Mastered Memories | 9.00% | ~25,982 |
 | The Hallowed Hero | 9.00% | ~25,982 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,434 |
 | Third Time's a Charm | 5.00% | ~14,434 |
 | Raising Expectations | 5.00% | ~14,434 |
-| The Toast of the Town | 4.00% | ~11,547 |
-| The Ends Petrify the Means | 4.00% | ~11,547 |
+| The Toast of the Town | 4.00% | ~11,548 |
+| The Ends Petrify the Means | 4.00% | ~11,548 |
 | Going Through the Potions | 3.00% | ~8,661 |
 | Room with a View | 3.00% | ~8,661 |
 | The Intrepid Explorer | 3.00% | ~8,661 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,887 |
 | Finishing Touches | 1.00% | ~2,887 |
 | A Forte for Achievement | 1.00% | ~2,887 |
-| Merlin's Beard! | 0.80% | ~2,309 |
+| Merlin's Beard! | 0.80% | ~2,310 |
 | Spilled Milk | 0.70% | ~2,021 |
 | The Nature of the Beast | 0.60% | ~1,732 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,684 (Ranked 42)  
+Progressed: 288,690 (Ranked 42)  
 Completed: 435 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 435 (0.15%) (Ranked 177)
 | 2023-07-24 | 288,488 | 434 |
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
-| 2023-07-27 | 288,684 | 435 |
+| 2023-07-27 | 288,690 | 435 |
 ## Awards
 Max (Character Customization): 21,330  (Ranked 17)  
 Sum: 40,002 (Ranked 30)  

@@ -2348,9 +2348,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1118
     },
     {
       "ID": "Kill25Mozi",
@@ -2435,8 +2435,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:03:19.4354144+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:02:38.3050833+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-27T17:58:58.4806475+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:03:19.435442+00:00"
+  "LastUpdate_Ratings": "2023-07-27T18:59:03.6804218+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:02:38.3051163+00:00"
 }

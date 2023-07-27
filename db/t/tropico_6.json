@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4341,
+  "EOS_Progressed": 4342,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6900,6 +6900,11 @@
       "Time": "2023-07-27T18:05:50.3519775+00:00",
       "NumProgressed": 4341,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-27T19:05:51.5024222+00:00",
+      "NumProgressed": 4342,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6975,7 +6980,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -6999,7 +7004,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -7007,7 +7012,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7063,7 +7068,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -7167,7 +7172,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7183,7 +7188,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7230,15 +7235,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4341,
+      "Progressed": 4342,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-27T18:05:50.3519772+00:00",
+  "LastChanged_Achievements": "2023-07-27T19:05:51.5024217+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-27T18:01:14.7693746+00:00",
-  "LastUpdate_Achievements": "2023-07-27T18:05:50.3520284+00:00"
+  "LastUpdate_Ratings": "2023-07-27T19:01:23.3282797+00:00",
+  "LastUpdate_Achievements": "2023-07-27T19:05:51.5024869+00:00"
 }
