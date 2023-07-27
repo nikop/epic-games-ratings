@@ -109,7 +109,7 @@
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 506 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,765 | 81 |
-| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,451 | 51 |
+| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,461 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,300 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 506 |
 | 109 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 506 |
@@ -209,7 +209,7 @@
 | 197 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 45 | 411 |
 | 197 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 506 |
 | 197 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 279 |
-| 197 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,434 | 73 |
+| 197 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,439 | 73 |
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,718 | 116 |
 | 197 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 506 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 506 |
@@ -251,7 +251,7 @@
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 203,423 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 506 |
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 183 |
+| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 183 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 678 | 166 |
 | 240 | [Overcooked](games/o/overcooked.md) | 4.68 | 115 | 318 |
 | 240 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 50 | 398 |
@@ -376,7 +376,7 @@
 | 366 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 228 |
 | 366 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 41,732 | 12 |
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 429 |
-| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,152 | 136 |
+| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,153 | 136 |
 | 366 | [MudRunner](games/m/mudrunner.md) | 4.61 | 248 | 246 |
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 506 |
 | 366 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,534 | 98 |

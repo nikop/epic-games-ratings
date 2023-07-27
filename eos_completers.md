@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.98% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.95% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
