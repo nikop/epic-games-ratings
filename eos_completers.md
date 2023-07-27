@@ -23,9 +23,9 @@
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.87% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.86% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.42% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.37% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
@@ -38,11 +38,11 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
-| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
-| 41 | [JARS](games/j/jars.md) | 4.84% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.72% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.16% |
+| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
+| 42 | [JARS](games/j/jars.md) | 4.84% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.79% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 45 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.46% |
@@ -58,7 +58,7 @@
 | 56 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 58 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 58 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
 | 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.11% |
 | 61 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
@@ -135,7 +135,7 @@
 | 132 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 134 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 135 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 135 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
+| 136 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 137 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 137 | [Tchia](games/t/tchia.md) | 0.44% |
 | 137 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
