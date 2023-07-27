@@ -209,6 +209,7 @@
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Hush Hush](../games/5/56faf2396f304e6886e66c492ee22a0e.md) | 39 | 1,000 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
+| [STAR WARS Jedi: Fallen Order Standard Edition](../games/s/star_wars_jedi__fallen_order_standard_edition.md) | 39 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [The Alto Collection](../games/t/the_alto_collection.md) | 39 | 1,000 |
 | [Train Valley](../games/t/train_valley.md) | 39 | 1,000 |
