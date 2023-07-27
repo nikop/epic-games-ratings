@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1744,
+  "EOS_Progressed": 1745,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1550,6 +1550,11 @@
       "Time": "2023-07-27T16:04:51.3000292+00:00",
       "NumProgressed": 1744,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T22:07:14.8086155+00:00",
+      "NumProgressed": 1745,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1713,7 +1718,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1809,7 +1814,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1937,7 +1942,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1945,7 +1950,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1984,15 +1989,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1744,
+      "Progressed": 1745,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:06:20.2144285+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:07:14.8086149+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:00:13.4714574+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:06:20.2144837+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:01:26.0821446+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:07:14.8086892+00:00"
 }

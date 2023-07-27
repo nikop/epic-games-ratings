@@ -2,9 +2,9 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_EOS_Progress": 108,
+  "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewPlayers": 11,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16482,
+  "EOS_Progressed": 19429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16462,
+  "EOS_NewPlayers": 19409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2023-07-27T21:04:50.5585327+00:00",
       "NumProgressed": 16482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T22:05:45.6571424+00:00",
+      "NumProgressed": 19429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -120,7 +125,7 @@
       "Name": "The Karos Graveyard Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION14_COMPLETE",
@@ -128,7 +133,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -136,7 +141,7 @@
       "Name": "Chapel Perilous Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION16_COMPLETE",
@@ -152,15 +157,15 @@
       "Name": "Kharak System Completed",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2914
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Outskirts of Kharak System Completed",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 971
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -168,7 +173,7 @@
       "Name": "Return to Kharak",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 194
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -176,7 +181,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 78
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -184,7 +189,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -192,7 +197,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -200,7 +205,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -208,7 +213,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -216,7 +221,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -232,7 +237,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -280,15 +285,15 @@
       "Name": "Tanis Completed",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1554
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Angel Moon Completed",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 583
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -296,7 +301,7 @@
       "Name": "Sarum Completed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -304,7 +309,7 @@
       "Name": "Gehenna Outskirts Completed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW2_MISSION5_COMPLETE",
@@ -312,7 +317,7 @@
       "Name": "Gehenna Completed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW2_MISSION6_COMPLETE",
@@ -320,7 +325,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -352,7 +357,7 @@
       "Name": "Graduated Command School",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3461
+      "UsersEstimate": 4080
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -367,14 +372,14 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 16482,
+      "Progressed": 19429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:04:50.5585323+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:05:45.6571417+00:00",
   "LastUpdate_AppInfo": "2023-07-27T16:56:52.9546669+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:57:26.7810055+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:04:50.5585524+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:58:49.0192397+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:05:45.6571685+00:00"
 }

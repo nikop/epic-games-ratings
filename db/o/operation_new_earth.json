@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2251,6 +2251,11 @@
       "Time": "2023-07-27T18:05:45.5098482+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T22:08:21.9596069+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2324,9 +2329,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2340,9 +2345,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_headquarters_15",
@@ -2390,15 +2395,15 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2430,7 +2435,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -2518,7 +2523,7 @@
       "Name": "Defenses Online",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2565,14 +2570,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:07:23.7637954+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:08:21.9596062+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:03:12.9291648+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:07:23.763829+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:04:09.5503507+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:08:21.9596487+00:00"
 }

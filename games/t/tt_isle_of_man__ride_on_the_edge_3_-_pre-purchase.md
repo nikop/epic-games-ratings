@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 94.00% | ~100 |
+| You're Going Down! | 95.00% | ~101 |
 | To Each Their Own | 49.00% | ~52 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~24 |
 | Onwards and Upwards | 21.00% | ~22 |

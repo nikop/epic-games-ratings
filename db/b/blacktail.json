@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -1355,6 +1355,11 @@
       "Time": "2023-07-27T10:02:46.8488707+00:00",
       "NumProgressed": 581,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T22:04:45.3867254+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1478,7 +1483,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LiarLiar",
@@ -1582,7 +1587,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Toxic",
@@ -1621,7 +1626,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 1
     }
   ],
@@ -1629,8 +1634,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:03:55.2778543+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:04:45.3867245+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:59:28.1633264+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:03:55.2778796+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:00:35.9027345+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:04:45.3867553+00:00"
 }

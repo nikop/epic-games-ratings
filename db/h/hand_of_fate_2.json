@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,7 +862,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659895,
+  "EOS_Progressed": 659898,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 1,
@@ -10092,6 +10092,11 @@
       "Time": "2023-07-27T21:04:21.3087407+00:00",
       "NumProgressed": 659895,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-27T22:05:19.1334737+00:00",
+      "NumProgressed": 659898,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10103,7 +10108,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475124
+      "UsersEstimate": 475127
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10111,7 +10116,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382739
+      "UsersEstimate": 382741
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10119,7 +10124,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151776
+      "UsersEstimate": 151777
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -10239,7 +10244,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151776
+      "UsersEstimate": 151777
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -10247,7 +10252,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92385
+      "UsersEstimate": 92386
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -10255,7 +10260,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112182
+      "UsersEstimate": 112183
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10343,7 +10348,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79187
+      "UsersEstimate": 79188
     },
     {
       "ID": "Achievement_32_Karma",
@@ -10486,15 +10491,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659895,
+      "Progressed": 659898,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:04:21.3087402+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:05:19.133473+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:58:58.4103965+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:04:21.308812+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:00:12.6401099+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:05:19.1335585+00:00"
 }

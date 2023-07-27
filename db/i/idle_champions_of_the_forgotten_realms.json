@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5326,11 +5326,11 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216123,
+  "EOS_Progressed": 216145,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 2300,
+  "EOS_NewPlayers": 2302,
   "EOS_NewCompleters": 70,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -15871,6 +15871,11 @@
       "Time": "2023-07-27T21:04:14.9951927+00:00",
       "NumProgressed": 216123,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-07-27T22:05:14.0781378+00:00",
+      "NumProgressed": 216145,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 512,
@@ -15954,7 +15959,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1051",
@@ -16250,7 +16255,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "objective_completed_110",
@@ -16498,7 +16503,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_1152",
@@ -16506,7 +16511,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1153",
@@ -16586,7 +16591,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1169",
@@ -16602,7 +16607,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_1170",
@@ -16618,15 +16623,15 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1174",
       "SetID": "415jc5c",
       "Name": "Arcane Efforts",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1175",
@@ -16746,7 +16751,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_1203",
@@ -16858,7 +16863,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_130",
@@ -16986,15 +16991,15 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_15",
@@ -17066,7 +17071,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_164",
@@ -17074,7 +17079,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_165",
@@ -17082,7 +17087,7 @@
       "Name": "Street War",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_166",
@@ -17114,7 +17119,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_170",
@@ -17218,7 +17223,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_208",
@@ -17226,7 +17231,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_209",
@@ -17240,9 +17245,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_210",
@@ -17298,7 +17303,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_231",
@@ -17330,7 +17335,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_236",
@@ -18104,9 +18109,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_551",
@@ -19024,9 +19029,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 865
     },
     {
       "ID": "objective_completed_70",
@@ -19842,7 +19847,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1220",
@@ -19954,7 +19959,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_1391",
@@ -19977,21 +19982,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182397,
-      "Completed": 3018
+      "Progressed": 182419,
+      "Completed": 3019
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216123,
+      "Progressed": 216145,
       "Completed": 2129
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-27T19:59:22.6947105+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:04:14.9951922+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:05:14.0781372+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:59:47.1213176+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:04:14.9975839+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:00:56.5395162+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:05:14.081151+00:00"
 }

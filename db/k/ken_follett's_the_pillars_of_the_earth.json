@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14178,
+  "EOS_Progressed": 14180,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6944,6 +6944,11 @@
       "Time": "2023-07-27T21:03:55.1930768+00:00",
       "NumProgressed": 14178,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-27T22:04:45.3498536+00:00",
+      "NumProgressed": 14180,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7019,7 +7024,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "tpote_achievement_18",
@@ -7033,9 +7038,9 @@
       "ID": "tpote_achievement_19",
       "SetID": "3jcf6c3",
       "Name": "Negotiation skills",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2552
     },
     {
       "ID": "tpote_achievement_2",
@@ -7059,7 +7064,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4253
+      "UsersEstimate": 4254
     },
     {
       "ID": "tpote_achievement_22",
@@ -7219,7 +7224,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "tpote_achievement_40",
@@ -7259,7 +7264,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "tpote_achievement_8",
@@ -7267,7 +7272,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "tpote_achievement_9",
@@ -7275,22 +7280,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4962
+      "UsersEstimate": 4963
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14178,
+      "Progressed": 14180,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:03:55.1930763+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:04:45.3498527+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:02:30.2825472+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:03:55.1931313+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:03:30.3845747+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:04:45.3499186+00:00"
 }

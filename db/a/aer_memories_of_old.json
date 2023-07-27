@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16363,
+  "EOS_Progressed": 16364,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10719,6 +10719,11 @@
       "Time": "2023-07-27T21:05:51.588682+00:00",
       "NumProgressed": 16363,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-07-27T22:06:39.9926708+00:00",
+      "NumProgressed": 16364,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 20,
@@ -10794,7 +10799,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "FOUND_ERIN",
@@ -10850,7 +10855,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10889,15 +10894,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16363,
+      "Progressed": 16364,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:05:51.5886816+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:06:39.9926703+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:02:43.0024648+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:05:51.5887411+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:03:39.7142771+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:06:39.9927509+00:00"
 }

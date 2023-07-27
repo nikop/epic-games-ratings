@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2928,
+  "EOS_Progressed": 2929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3939,6 +3939,11 @@
       "Time": "2023-07-27T21:06:54.939181+00:00",
       "NumProgressed": 2928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T22:07:45.9228639+00:00",
+      "NumProgressed": 2929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3950,7 +3955,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_BASE_10",
@@ -4014,7 +4019,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_BASE_19",
@@ -4038,7 +4043,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_BASE_22",
@@ -4070,7 +4075,7 @@
       "Name": "Remember the Dead",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_BASE_26",
@@ -4405,13 +4410,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1110,
+      "Progressed": 1111,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2928,
+      "Progressed": 2929,
       "Completed": 0
     }
   ],
@@ -4419,8 +4424,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:06:54.9391805+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:07:45.9228631+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:00:17.2096705+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:06:54.9392415+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:01:30.831443+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:07:45.9229463+00:00"
 }

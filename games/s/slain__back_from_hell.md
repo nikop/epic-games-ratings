@@ -5,14 +5,14 @@ Rating: 4.28 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,315 |
-| A Good Day To Die | 15.00% | ~4,736 |
-| Right Back Atcha | 6.00% | ~1,894 |
+| Man 'O War | 20.00% | ~6,317 |
+| A Good Day To Die | 15.00% | ~4,738 |
+| Right Back Atcha | 6.00% | ~1,895 |
 | Killed by Death | 5.00% | ~1,579 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,579 |
 | Kill 'Em All | 4.00% | ~1,263 |
-| Down Boy! | 2.00% | ~631 |
-| A Snowball's Chance in Hell | 2.00% | ~631 |
+| Down Boy! | 2.00% | ~632 |
+| A Snowball's Chance in Hell | 2.00% | ~632 |
 | Enjoy The Silence | 1.00% | ~316 |
 | Thorn in My Herbicide | 0.80% | ~253 |
 | Sure Footed As A Goat | 0.80% | ~253 |
@@ -23,7 +23,7 @@ Rating: 4.28 (Ranked 791)
 | The Sky Is Falling | 0.70% | ~221 |
 | Hail the Great Horned Metal God! | 0.70% | ~221 |
 | That'll Come In Handy... | 0.70% | ~221 |
-| Start As You Mean To Go On | 0.60% | ~189 |
+| Start As You Mean To Go On | 0.60% | ~190 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~158 |
 | Four Legged Friend | 0.40% | ~126 |
 | Ice To See You | 0.40% | ~126 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 791)
 | Heart Of Steel | 0.10% | ~32 |
 | Death or Glory | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,573 (Ranked 97)  
+Progressed: 31,585 (Ranked 97)  
 Completed: 20 (0.06%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 20 (0.06%) (Ranked 201)
 | 2023-07-24 | 31,253 | 20 |
 | 2023-07-25 | 31,356 | 20 |
 | 2023-07-26 | 31,463 | 20 |
-| 2023-07-27 | 31,573 | 20 |
+| 2023-07-27 | 31,585 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 309)  
 Sum: 125 (Ranked 400)  

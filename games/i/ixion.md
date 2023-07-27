@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 23.00% | ~673 |
+| Wakey Wakey | 23.00% | ~674 |
 | Sputnik 2049 | 20.00% | ~586 |
-| Without Breaking Some Eggs... | 19.00% | ~556 |
-| Infinite Growth... | 19.00% | ~556 |
+| Without Breaking Some Eggs... | 19.00% | ~557 |
+| Infinite Growth... | 19.00% | ~557 |
 | Ready for a New World | 14.00% | ~410 |
 | Space Society | 13.00% | ~381 |
 | A Thousand Strong | 13.00% | ~381 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 482)
 | Scientifically Accurate | 1.00% | ~29 |
 | Better Him Than Me | 0.90% | ~26 |
 | Gregor Spinoza | 0.90% | ~26 |
-| Remember the Dead | 0.70% | ~20 |
+| Remember the Dead | 0.70% | ~21 |
 | Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,928 (Ranked 157)  
+Progressed: 2,929 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 2,907 | 0 |
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
-| 2023-07-27 | 2,928 | 0 |
+| 2023-07-27 | 2,929 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

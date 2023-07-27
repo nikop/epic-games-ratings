@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,484 |
-| Beast Intentions | 2.00% | ~4,322 |
+| Beast Intentions | 2.00% | ~4,323 |
 | Maddening | 1.00% | ~2,161 |
 | The Silken Swamp | 1.00% | ~2,161 |
 | Supply Run | 1.00% | ~2,161 |
@@ -15,13 +15,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.90% | ~1,642 |
 | Vecna Lives! | 0.80% | ~1,459 |
 | Flight of the Kindori Pod | 0.70% | ~1,277 |
-| Tall Tales | 0.60% | ~1,094 |
+| Tall Tales | 0.60% | ~1,095 |
 | Wet Feet | 0.60% | ~1,297 |
-| Seeds of Destruction | 0.60% | ~1,094 |
-| Vecna Loots! | 0.60% | ~1,094 |
-| Return to the Tomb | 0.60% | ~1,094 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,094 |
-| Topolah's Tower | 0.60% | ~1,094 |
+| Seeds of Destruction | 0.60% | ~1,095 |
+| Vecna Loots! | 0.60% | ~1,095 |
+| Return to the Tomb | 0.60% | ~1,095 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,095 |
+| Topolah's Tower | 0.60% | ~1,095 |
 | Pros and CONs | 0.50% | ~1,081 |
 | The Witchlight Carnival | 0.50% | ~912 |
 | Hatchlings Underfoot | 0.50% | ~1,081 |
@@ -36,20 +36,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.50% | ~912 |
 | Krux's Speed Run | 0.50% | ~912 |
 | Thieves of the Coven | 0.40% | ~730 |
-| Heavy Burden | 0.40% | ~864 |
+| Heavy Burden | 0.40% | ~865 |
 | The Evacuation of Waterdeep | 0.40% | ~730 |
-| Friends of the Forest | 0.40% | ~864 |
-| Were-verpowered | 0.40% | ~864 |
-| A Persistent Buzzing | 0.40% | ~864 |
-| Beast Mode | 0.40% | ~864 |
-| Low Initiative | 0.40% | ~864 |
-| A Mysterious Summons | 0.40% | ~864 |
-| Street War | 0.40% | ~864 |
-| March of the Undead | 0.40% | ~864 |
-| No Time To Rest | 0.40% | ~864 |
-| The Mists of Ravenloft | 0.40% | ~864 |
-| The Dinner Party | 0.40% | ~864 |
-| The Botched Kidnapping | 0.40% | ~864 |
+| Friends of the Forest | 0.40% | ~865 |
+| Were-verpowered | 0.40% | ~865 |
+| A Persistent Buzzing | 0.40% | ~865 |
+| Beast Mode | 0.40% | ~865 |
+| Low Initiative | 0.40% | ~865 |
+| A Mysterious Summons | 0.40% | ~865 |
+| Street War | 0.40% | ~865 |
+| March of the Undead | 0.40% | ~865 |
+| No Time To Rest | 0.40% | ~865 |
+| The Mists of Ravenloft | 0.40% | ~865 |
+| Invisible Shadows | 0.40% | ~865 |
+| The Dinner Party | 0.40% | ~865 |
+| The Botched Kidnapping | 0.40% | ~865 |
+| The Mad Wizard | 0.40% | ~865 |
 | Bazaar Companions | 0.40% | ~730 |
 | Bahamut's Army | 0.40% | ~730 |
 | Luigi After Hours | 0.40% | ~730 |
@@ -66,8 +68,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.30% | ~648 |
 | No One Can Hear You Scream | 0.30% | ~547 |
 | Welcome to the Rock | 0.30% | ~547 |
+| The Forbidden City | 0.30% | ~648 |
 | Wisdom Check | 0.30% | ~648 |
-| Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
 | Tower on the Lake | 0.30% | ~648 |
 | The Cursed Farmer | 0.30% | ~648 |
@@ -75,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
 | Escort to Waterdeep | 0.30% | ~648 |
-| The Mad Wizard | 0.30% | ~648 |
 | Waterdeep Detours | 0.30% | ~648 |
 | Underdeep Cartography | 0.30% | ~648 |
 | Friendly Imps | 0.30% | ~648 |
@@ -104,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.20% | ~365 |
 | Well Equipped | 0.20% | ~365 |
 | More Than Well Equipped | 0.20% | ~365 |
+| Arcane Efforts | 0.20% | ~365 |
 | Keep Your Distance | 0.20% | ~365 |
 | To Avernus in a Handbasket | 0.20% | ~365 |
 | The Castle of a Thousand Vecnas | 0.20% | ~365 |
@@ -113,7 +115,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~365 |
 | Xanathaaaaaaar! | 0.20% | ~365 |
 | Lobsterfolk Assault | 0.20% | ~432 |
-| The Forbidden City | 0.20% | ~432 |
 | Periodic Petrification | 0.20% | ~432 |
 | Captured! | 0.20% | ~432 |
 | Home Field Advantage | 0.20% | ~432 |
@@ -152,6 +153,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~432 |
 | The Dead Three | 0.20% | ~432 |
 | Flying Monkey Skulls of Doom | 0.20% | ~432 |
+| Lair of the Xanathar | 0.20% | ~432 |
 | The Darkness Runs Deeper | 0.20% | ~432 |
 | Difficult Terrain | 0.20% | ~432 |
 | The Contagious Curse | 0.20% | ~432 |
@@ -222,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
-| Arcane Efforts | 0.10% | ~182 |
 | Hands Off! | 0.10% | ~182 |
 | Weak Doesn't Mean Feeble | 0.10% | ~182 |
 | Frail Doesn't Mean Broken | 0.10% | ~182 |
@@ -332,7 +333,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~216 |
 | A Hero's Entourage | 0.10% | ~216 |
 | Sneak Attack | 0.10% | ~182 |
-| Lair of the Xanathar | 0.10% | ~216 |
 | Dreams of Beholders | 0.10% | ~216 |
 | Feigned Weakness | 0.10% | ~216 |
 | DPS in the Deeps | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,123 (Ranked 53)  
-Completed: 2,129 (0.99%) (Ranked 107)  
+Progressed: 216,145 (Ranked 53)  
+Completed: 2,129 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,129 (0.99%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 216,123 | 2,129 |
+| 2023-07-27 | 216,145 | 2,129 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,753 (Ranked 38)  

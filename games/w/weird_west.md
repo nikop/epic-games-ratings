@@ -6,11 +6,11 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,535 |
+| Unforgiven | 88.00% | ~1,536 |
 | Self-Improvement | 72.00% | ~1,256 |
-| Perky | 66.00% | ~1,151 |
-| Let’s Ride | 60.00% | ~1,046 |
-| Welcome to the Weird West | 57.00% | ~994 |
+| Perky | 66.00% | ~1,152 |
+| Let’s Ride | 60.00% | ~1,047 |
+| Welcome to the Weird West | 57.00% | ~995 |
 | Dead or Alive | 56.00% | ~977 |
 | Full House | 36.00% | ~628 |
 | Off the Trail | 34.00% | ~593 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,744 (Ranked 170)  
+Progressed: 1,745 (Ranked 170)  
 Completed: 3 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 3 (0.17%) (Ranked 172)
 | 2023-07-24 | 1,731 | 3 |
 | 2023-07-25 | 1,738 | 3 |
 | 2023-07-26 | 1,740 | 3 |
-| 2023-07-27 | 1,744 | 3 |
+| 2023-07-27 | 1,745 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 479)  
 Sum: 24 (Ranked 483)  

@@ -8,18 +8,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,046 |
 | Project Arena | 4.00% | ~837 |
-| The Old Grandmaster | 2.00% | ~14,232 |
-| The Assault | 2.00% | ~14,232 |
-| The Hateful Pole Fighter | 2.00% | ~14,232 |
-| A Lady's Blood in the Snow | 2.00% | ~14,232 |
-| Life is your teacher | 2.00% | ~14,232 |
-| State of constant learning | 2.00% | ~14,232 |
-| Qi Gong: Breath | 2.00% | ~14,232 |
-| Qi Gong: Essence | 2.00% | ~14,232 |
-| Lightning Hands | 2.00% | ~14,232 |
-| Path of the Prospect | 2.00% | ~14,232 |
-| Rumble in the Hangar | 2.00% | ~14,232 |
-| Bloody Sport | 2.00% | ~418 |
+| The Old Grandmaster | 2.00% | ~14,233 |
+| The Assault | 2.00% | ~14,233 |
+| The Hateful Pole Fighter | 2.00% | ~14,233 |
+| A Lady's Blood in the Snow | 2.00% | ~14,233 |
+| Life is your teacher | 2.00% | ~14,233 |
+| State of constant learning | 2.00% | ~14,233 |
+| Qi Gong: Breath | 2.00% | ~14,233 |
+| Qi Gong: Essence | 2.00% | ~14,233 |
+| Lightning Hands | 2.00% | ~14,233 |
+| Path of the Prospect | 2.00% | ~14,233 |
+| Rumble in the Hangar | 2.00% | ~14,233 |
+| Bloody Sport | 2.00% | ~419 |
 | Lady Wing Chun | 1.00% | ~7,116 |
 | Furious Fists | 1.00% | ~7,116 |
 | Scareless | 1.00% | ~7,116 |
@@ -37,15 +37,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~4,981 |
 | Source of Flying Daggers | 0.70% | ~4,981 |
 | Detective Story | 0.70% | ~4,981 |
-| Deadly Venom | 0.70% | ~146 |
-| A Touch of Acumen | 0.70% | ~146 |
+| Deadly Venom | 0.70% | ~147 |
+| A Touch of Acumen | 0.70% | ~147 |
 | Iron Money | 0.60% | ~4,270 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,270 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,270 |
 | Sword Stained With Blood | 0.60% | ~4,270 |
 | Prodigal Child | 0.50% | ~3,558 |
-| Martial Artist | 0.40% | ~2,846 |
-| Knowledge Greed | 0.40% | ~2,846 |
+| Martial Artist | 0.40% | ~2,847 |
+| Knowledge Greed | 0.40% | ~2,847 |
 | Martial Hub | 0.40% | ~84 |
 | Secure, Protect, Leave | 0.40% | ~84 |
 | Drunken Fighter | 0.30% | ~2,135 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,624 (Ranked 20)  
+Progressed: 711,628 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
 | 2023-07-26 | 711,558 | 12,833 |
-| 2023-07-27 | 711,624 | 12,833 |
+| 2023-07-27 | 711,628 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,312  (Ranked 53)  
 Sum: 10,830 (Ranked 79)  

@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -408,9 +408,9 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "SchoolRuler",
@@ -432,25 +432,25 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "Trumpet",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:04:05.7467883+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:05:04.6639956+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1524132+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:02:45.3666384+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:04:05.7468049+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:03:41.6074721+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:05:04.664018+00:00"
 }

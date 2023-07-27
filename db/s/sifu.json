@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5400,9 +5400,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711624,
+  "EOS_Progressed": 711628,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14670,6 +14670,11 @@
       "Time": "2023-07-27T21:09:15.6085805+00:00",
       "NumProgressed": 711624,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-27T22:09:43.2744032+00:00",
+      "NumProgressed": 711628,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14681,7 +14686,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "02_Vengeance_H1",
@@ -14689,7 +14694,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "03_Vengeance_H2",
@@ -14697,7 +14702,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "04_Vengeance_H3",
@@ -14705,7 +14710,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "05_Vengeance_H4",
@@ -14809,7 +14814,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "18_Detective_H4",
@@ -14817,7 +14822,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "19_Detective_H5",
@@ -14857,7 +14862,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -14865,7 +14870,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "25_ShrineMind",
@@ -14881,7 +14886,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "27_ShrineBody",
@@ -14889,7 +14894,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14945,7 +14950,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "35_WideStrike",
@@ -14961,7 +14966,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14969,7 +14974,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14232
+      "UsersEstimate": 14233
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -15033,7 +15038,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -15049,7 +15054,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -15073,28 +15078,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20925,
+      "Progressed": 20929,
       "Completed": 10448
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711624,
+      "Progressed": 711628,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-27T21:01:05.604728+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:09:15.6085801+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:09:43.2744025+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:01:05.6047287+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:09:15.6086714+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:02:09.8630089+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:09:43.2745947+00:00"
 }

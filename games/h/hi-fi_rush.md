@@ -14,7 +14,6 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 3.00% | ~108 |
 | You got this, Peppermint? | 3.00% | ~108 |
 | Perfect Parry | 3.00% | ~108 |
-| Kissing the sky! | 3.00% | ~108 |
 | Alright, that felt AWESOME! | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~64 |
 | This will cost you big time | 2.00% | ~72 |
@@ -29,6 +28,7 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 2.00% | ~72 |
 | Perfecter Parry-er! | 2.00% | ~72 |
 | Uh, they were broken when I got here | 2.00% | ~72 |
+| Kissing the sky! | 2.00% | ~72 |
 | I look cool. But I can look COOLER. | 2.00% | ~72 |
 | Does that say weakpoint? | 2.00% | ~72 |
 | Well that was a rush! | 1.00% | ~36 |
@@ -36,10 +36,10 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 1.00% | ~36 |
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.80% | ~29 |
-| Wanna hear my playlist? | 0.80% | ~29 |
-| Call me Turbo Chai | 0.80% | ~17 |
+| Wanna hear my playlist? | 0.70% | ~25 |
 | I told you I'd be fine, Peppermint! | 0.70% | ~25 |
 | Check out my moves! | 0.70% | ~25 |
+| Call me Turbo Chai | 0.70% | ~15 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
@@ -47,10 +47,10 @@ Rating: 4.87 (Ranked 24)
 | I hit things with a guitar really well. | 0.40% | ~14 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
-| I'm not done with you yet | 0.30% | ~11 |
 | First we parry, then we counter | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | Easy Listening | 0.20% | ~7 |
+| I'm not done with you yet | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | And the crowd goes wild! | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600 (Ranked 146)  
+Progressed: 3,601 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
 | 2023-07-26 | 3,589 | 6 |
-| 2023-07-27 | 3,600 | 6 |
+| 2023-07-27 | 3,601 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

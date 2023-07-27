@@ -2,7 +2,7 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 249,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 20,
   "RatingHistory": [
     {
@@ -47,6 +47,12 @@
     {
       "Time": "2023-06-15T11:00:18.1212209+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-27T21:58:49.8030168+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -717,9 +723,9 @@
   "FirstSeen": "2022-07-22T20:24:56.4682953+00:00",
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
-  "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:06:29.6147524+00:00",
+  "LastChanged": "2023-07-27T21:58:49.8030167+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:07:23.1941182+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:06.2898993+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:57:28.8416948+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:06:29.6147948+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:58:49.8030176+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:07:23.1941722+00:00"
 }

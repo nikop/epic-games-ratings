@@ -358,7 +358,7 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -1853,6 +1853,11 @@
       "Time": "2023-07-27T19:03:33.5679099+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T22:05:55.5931174+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1920,7 +1925,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "EXPERT_1",
@@ -2048,7 +2053,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -2112,7 +2117,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TRAVELER_1",
@@ -2151,15 +2156,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-27T21:05:01.6666206+00:00",
+  "LastChanged_Achievements": "2023-07-27T22:05:55.5931166+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1469746+00:00",
-  "LastUpdate_Ratings": "2023-07-27T21:02:45.7931152+00:00",
-  "LastUpdate_Achievements": "2023-07-27T21:05:01.6666496+00:00"
+  "LastUpdate_Ratings": "2023-07-27T22:03:42.0146814+00:00",
+  "LastUpdate_Achievements": "2023-07-27T22:05:55.5931494+00:00"
 }
