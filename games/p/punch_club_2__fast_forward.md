@@ -35,26 +35,26 @@
 | Fight for life | 51.00% | ~82 |
 | Own four walls | 50.00% | ~80 |
 | Extreme neuropower! | 48.00% | ~77 |
-| Legal courier | 43.00% | ~69 |
+| Legal courier | 44.00% | ~71 |
 | Escaped from a big trouble | 40.00% | ~64 |
-| Now you are worthy | 38.00% | ~61 |
-| No blades in the gym | 35.00% | ~56 |
+| Now you are worthy | 39.00% | ~63 |
+| No blades in the gym | 36.00% | ~58 |
 | Guiding on the right path | 35.00% | ~56 |
-| Mysterious voice | 32.00% | ~52 |
-| Fight is life | 31.00% | ~50 |
+| Mysterious voice | 34.00% | ~55 |
+| Fight is life | 32.00% | ~52 |
+| Responsible approach | 32.00% | ~52 |
 | Champion – no way back | 30.00% | ~48 |
-| Responsible approach | 30.00% | ~48 |
 | Get out of my apartment! | 29.00% | ~47 |
+| Mom got better | 27.00% | ~43 |
 | Deal with life | 27.00% | ~43 |
 | Poisoned fighter | 27.00% | ~43 |
+| The die is cast | 27.00% | ~43 |
 | Underground dwellers | 27.00% | ~43 |
 | Seashell hunter | 27.00% | ~43 |
-| Mom got better | 26.00% | ~42 |
-| The die is cast | 26.00% | ~42 |
 | Gang wrangler | 25.00% | ~40 |
 | GYM professional | 25.00% | ~40 |
 | Anyone can resist | 25.00% | ~40 |
-| Problems of cyborgs | 23.00% | ~37 |
+| Problems of cyborgs | 24.00% | ~39 |
 | Keep nature safe | 22.00% | ~35 |
 | Trap disarmed | 21.00% | ~34 |
 | Another world | 21.00% | ~34 |

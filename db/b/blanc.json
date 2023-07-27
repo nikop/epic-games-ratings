@@ -2156,9 +2156,9 @@
       "ID": "STARTING_DUO",
       "SetID": "1a29mp6",
       "Name": "Starting as a duo",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 355
+      "UsersEstimate": 379
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2205,8 +2205,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:02:18.4662468+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:03:30.5935455+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:00:28.7797469+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:02:18.4665339+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:01:05.7778548+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:03:30.5936009+00:00"
 }

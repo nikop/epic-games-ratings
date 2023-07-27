@@ -30,8 +30,8 @@
 | Kind Adventurer | 33.00% | ~24 |
 | Master Artificer | 33.00% | ~24 |
 | Mermaid Killer | 31.00% | ~22 |
-| Cave Master | 26.00% | ~19 |
-| Face Slapper | 26.00% | ~19 |
+| Cave Master | 28.00% | ~20 |
+| Face Slapper | 28.00% | ~20 |
 | Master Cook | 22.00% | ~16 |
 | Berserker Slayer | 15.00% | ~11 |
 | Warden Slayer | 15.00% | ~11 |

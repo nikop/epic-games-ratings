@@ -15,12 +15,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.80% | ~105 |
 | Intrepid | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
+| Good | 0.60% | ~79 |
+| Mason | 0.60% | ~79 |
 | Architect | 0.50% | ~66 |
 | Enlightened | 0.50% | ~66 |
-| Good | 0.50% | ~66 |
 | Just | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
-| Mason | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
 | Pioneer | 0.50% | ~66 |
 | Strong | 0.50% | ~66 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
+| Victorious | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
-| Victorious | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,122 (Ranked 115)  
+Progressed: 13,123 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,11 +401,11 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,122 | 5 |
+| 2023-07-27 | 13,123 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
-Sum: 1,784 (Ranked 205)  
-Diff (max vs sum): 55  
+Sum: 1,784 (Ranked 206)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

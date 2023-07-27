@@ -52,9 +52,9 @@
       "ID": "destroy_battle_cruiser",
       "SetID": "94981fl",
       "Name": "battle cruiser",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "destroy_cruiser",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:03:19.5942513+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:04:19.2293046+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.0557191+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:57:15.9902952+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:03:19.5942759+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:57:09.7704722+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:04:19.2293278+00:00"
 }

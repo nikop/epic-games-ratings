@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1055,6 +1055,11 @@
       "Time": "2023-07-27T14:07:40.8333877+00:00",
       "NumProgressed": 484,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T15:08:48.2822852+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1088,9 +1093,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 296
     },
     {
       "ID": "Chapter10",
@@ -1114,7 +1119,7 @@
       "Name": "The Breeder",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Chapter4",
@@ -1353,14 +1358,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:07:40.833387+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:08:48.2822847+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:24.5159044+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:58:48.262937+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:07:40.8334303+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:58:53.1709938+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:08:48.2823222+00:00"
 }

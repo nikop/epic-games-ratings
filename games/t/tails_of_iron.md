@@ -31,7 +31,7 @@ Rating: 4.52 (Ranked 519)
 | Complete Ranger Faction | 21.00% | ~379 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~361 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~343 |
-| Complete Arena Faction | 15.00% | ~270 |
+| Complete Arena Faction | 16.00% | ~288 |
 | Complete Redgi's Armory | 8.00% | ~144 |
 | King of Kings | 7.00% | ~126 |
 | A new Warchief rises | 0.80% | ~14 |

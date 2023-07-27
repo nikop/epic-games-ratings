@@ -475,9 +475,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "killZombie50",
@@ -563,9 +563,9 @@
       "ID": "questAntiquities",
       "SetID": "ci65fo0",
       "Name": "Antiquities expert",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "questBadNews",
@@ -659,9 +659,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "questEnemyTask",
@@ -755,17 +755,17 @@
       "ID": "questSWAntidot",
       "SetID": "2fb6h6c",
       "Name": "Conquerer of Animalizing",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "questSWComplete",
       "SetID": "2fb6h6c",
       "Name": "Renowned ufologist",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questSWVillage",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:04:31.8562778+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:05:20.6349207+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:57:38.2499013+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:04:31.8563549+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:57:31.8903072+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:05:20.6350036+00:00"
 }

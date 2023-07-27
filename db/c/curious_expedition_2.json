@@ -317,9 +317,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -333,9 +333,9 @@
       "ID": "ach-campaign-finish-hard",
       "SetID": "17ih7ma",
       "Name": "Lunatic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:05:40.4583723+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:06:23.3442733+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:06.2898993+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:57:22.1135237+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:05:40.4584303+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:57:15.6541881+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:06:23.3443304+00:00"
 }

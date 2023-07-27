@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215974,
+  "EOS_Progressed": 215994,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2285,
+  "EOS_NewPlayers": 2286,
   "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15824,6 +15824,11 @@
       "Time": "2023-07-27T14:02:41.6419751+00:00",
       "NumProgressed": 215974,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T15:03:58.3978107+00:00",
+      "NumProgressed": 215994,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15835,7 +15840,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "objective_completed_10",
@@ -15875,7 +15880,7 @@
       "Name": "Cold as Ice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1041",
@@ -15891,7 +15896,7 @@
       "Name": "Friends and Foes",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1046",
@@ -15907,7 +15912,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1051",
@@ -15915,7 +15920,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1052",
@@ -15923,7 +15928,7 @@
       "Name": "An Unexpected Geist",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1053",
@@ -15947,7 +15952,7 @@
       "Name": "A Monarch Among Us",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1057",
@@ -16035,7 +16040,7 @@
       "Name": "The Spire of Iriolarthas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1071",
@@ -16075,7 +16080,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1081",
@@ -16107,7 +16112,7 @@
       "Name": "Downfall",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1086",
@@ -16147,7 +16152,7 @@
       "Name": "Slack-jawed Lorna",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1091",
@@ -16179,7 +16184,7 @@
       "Name": "The Fairy Rings of Thither",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1096",
@@ -16203,7 +16208,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "objective_completed_110",
@@ -16347,7 +16352,7 @@
       "Name": "Will of the Feywild",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1133",
@@ -16371,7 +16376,7 @@
       "Name": "The Roots of Loomlurch",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1138",
@@ -16403,7 +16408,7 @@
       "Name": "Best Laid Plans",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1143",
@@ -16459,7 +16464,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1153",
@@ -16491,7 +16496,7 @@
       "Name": "Flapjacks and Waffles",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_116",
@@ -16523,7 +16528,7 @@
       "Name": "Overwhelmed with Knowledge",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1165",
@@ -16539,7 +16544,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1169",
@@ -16547,7 +16552,7 @@
       "Name": "Well Equipped",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_117",
@@ -16563,7 +16568,7 @@
       "Name": "More Than Well Equipped",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1173",
@@ -16587,7 +16592,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1178",
@@ -16603,7 +16608,7 @@
       "Name": "To Avernus in a Handbasket",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1180",
@@ -16643,7 +16648,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1189",
@@ -16667,7 +16672,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1194",
@@ -16683,7 +16688,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1199",
@@ -16707,7 +16712,7 @@
       "Name": "Checkmate",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1204",
@@ -16739,7 +16744,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1214",
@@ -16755,7 +16760,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1219",
@@ -17091,7 +17096,7 @@
       "Name": "The Newcomers of Notoriety",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_179",
@@ -17273,9 +17278,9 @@
       "ID": "objective_completed_233",
       "SetID": "415jc5c",
       "Name": "Thine Bounty is Mine!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_235",
@@ -17505,9 +17510,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_34",
@@ -18915,7 +18920,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_691",
@@ -18947,7 +18952,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_696",
@@ -19067,7 +19072,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_803",
@@ -19811,7 +19816,7 @@
       "Name": "Tiny Treaty",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_1332",
@@ -19819,7 +19824,7 @@
       "Name": "All The World\u0027s A Stage",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_568",
@@ -19907,7 +19912,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1391",
@@ -19930,21 +19935,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182248,
-      "Completed": 3015
+      "Progressed": 182268,
+      "Completed": 3017
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215974,
+      "Progressed": 215994,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:02:41.6419745+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:03:58.3978102+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:59:09.9754233+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:02:41.6455349+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:59:25.2204927+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:03:58.4009274+00:00"
 }

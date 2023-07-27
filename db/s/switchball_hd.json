@@ -521,9 +521,9 @@
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -553,9 +553,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -584,8 +584,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:05:41.9887329+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:06:25.0013691+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.9420415+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:58:14.5843185+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:05:41.9887472+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:58:14.7678983+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:06:25.0013831+00:00"
 }

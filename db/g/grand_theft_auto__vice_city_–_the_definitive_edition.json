@@ -6,7 +6,7 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -544,11 +544,11 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9245,
+  "EOS_Progressed": 9248,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -7114,6 +7114,11 @@
       "Time": "2023-07-27T13:11:10.8744075+00:00",
       "NumProgressed": 9245,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-27T15:05:31.8369332+00:00",
+      "NumProgressed": 9248,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7203,9 +7208,9 @@
       "ID": "ACH11",
       "SetID": "9llo822",
       "Name": "Salutations My Little Friend",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 1017
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH12",
@@ -7229,7 +7234,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3792
     },
     {
       "ID": "ACH15",
@@ -7285,7 +7290,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4162
     },
     {
       "ID": "ACH22",
@@ -7301,7 +7306,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH24",
@@ -7309,7 +7314,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH25",
@@ -7317,7 +7322,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH26",
@@ -7396,7 +7401,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9245,
+      "Progressed": 9248,
       "Completed": 43
     }
   ],
@@ -7404,8 +7409,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-27T02:58:38.2115048+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:04:41.5356328+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:05:31.8369328+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:59:18.1406736+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:04:41.5357142+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:59:32.6809738+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:05:31.8370138+00:00"
 }

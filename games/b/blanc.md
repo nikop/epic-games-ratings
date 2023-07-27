@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unexpected encounter | 18.00% | ~426 |
-| Starting as a duo | 15.00% | ~355 |
+| Starting as a duo | 16.00% | ~379 |
 | Stronger together | 13.00% | ~308 |
 | Helping the little ones | 11.00% | ~260 |
 | A big leap for wolfkind | 10.00% | ~237 |

@@ -511,9 +511,9 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "adriana_sick",
@@ -527,9 +527,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "all_promotion_4",
@@ -543,9 +543,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "all_promotion_6",
@@ -607,9 +607,9 @@
       "ID": "courier_win",
       "SetID": "69co12a",
       "Name": "Legal courier",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "fight_defeat_1",
@@ -647,9 +647,9 @@
       "ID": "fight_win_50",
       "SetID": "69co12a",
       "Name": "Fight is life",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "first_job",
@@ -831,9 +831,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "nero_basic",
@@ -887,9 +887,9 @@
       "ID": "police_promotion_1",
       "SetID": "69co12a",
       "Name": "No blades in the gym",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "police_promotion_2",
@@ -911,9 +911,9 @@
       "ID": "prof_promotion_1",
       "SetID": "69co12a",
       "Name": "The die is cast",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "prof_promotion_2",
@@ -991,9 +991,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "undercover_robot",
@@ -1046,8 +1046,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:06:30.0866966+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:07:22.1736284+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.2619183+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:58:23.7326445+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:06:30.0867715+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:58:24.6552774+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:07:22.1736989+00:00"
 }

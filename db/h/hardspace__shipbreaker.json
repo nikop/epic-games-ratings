@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-07-27T13:12:02.3621383+00:00",
       "NumProgressed": 840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T15:06:24.2977385+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1542,7 +1547,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1550,7 +1555,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1566,7 +1571,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1605,7 +1610,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 0
     }
   ],
@@ -1613,8 +1618,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:05:41.3848013+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:06:24.2977378+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.8249257+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:58:25.1567793+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:05:41.3848301+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:58:26.3879854+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:06:24.2977682+00:00"
 }

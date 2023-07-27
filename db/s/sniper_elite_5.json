@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -428,9 +428,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3357,
+  "EOS_Progressed": 3358,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2023-07-27T10:04:57.2183541+00:00",
       "NumProgressed": 3357,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-27T15:05:38.5415704+00:00",
+      "NumProgressed": 3358,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5476,9 +5481,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -5734,7 +5739,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -5981,13 +5986,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3308,
+      "Progressed": 3309,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3357,
+      "Progressed": 3358,
       "Completed": 9
     }
   ],
@@ -5995,8 +6000,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:04:46.9514419+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:05:38.5415698+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:57:26.6296112+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:04:46.9515471+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:57:18.3395894+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:05:38.5417309+00:00"
 }

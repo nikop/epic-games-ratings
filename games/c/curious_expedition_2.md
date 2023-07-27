@@ -35,9 +35,9 @@ Number of Ratings: 20  (23.09.2022)
 | The Director is Dead | 14.00% | ~45 |
 | Adventurer | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
+| And Here Is Your Statue | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
-| And Here Is Your Statue | 12.00% | ~38 |
 | Very Classy | 12.00% | ~38 |
 | Under the Table | 11.00% | ~35 |
 | It's Complicated | 10.00% | ~32 |
@@ -56,11 +56,11 @@ Number of Ratings: 20  (23.09.2022)
 | X Marks the Spot | 4.00% | ~13 |
 | The Round Table | 4.00% | ~13 |
 | Frugal | 4.00% | ~13 |
+| Lunatic | 3.00% | ~10 |
 | A Perfect Map | 3.00% | ~10 |
 | Risk/Reward | 3.00% | ~10 |
 | Look Ma, No Equipment! | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
-| Lunatic | 2.00% | ~6 |
 | Everything is FINE... | 0.90% | ~3 |
 | Abominable Hunger | 0.60% | ~2 |
 | Pacifism Ain't Easy | 0.60% | ~2 |

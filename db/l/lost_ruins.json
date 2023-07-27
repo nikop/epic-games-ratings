@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -651,6 +651,11 @@
       "Time": "2023-07-26T14:02:19.7235562+00:00",
       "NumProgressed": 410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T15:03:51.8727184+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -694,7 +699,7 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "BugHunter",
@@ -702,7 +707,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Cryomancer",
@@ -780,9 +785,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 156
     },
     {
       "ID": "Librarian",
@@ -790,7 +795,7 @@
       "Name": "Librarian",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Lumberjack",
@@ -854,7 +859,7 @@
       "Name": "Pyromancer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Reincarnation",
@@ -934,7 +939,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TrapMaster",
@@ -981,7 +986,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 0
     }
   ],
@@ -989,8 +994,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:02:35.7474114+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:03:51.8727178+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:33.5392368+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:00:51.7759526+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:02:35.7474555+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:01:39.7248223+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:03:51.8727541+00:00"
 }

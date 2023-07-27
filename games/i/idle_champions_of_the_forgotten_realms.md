@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,319 |
-| Beast Intentions | 2.00% | ~4,319 |
+| A Brief Tour of the Realms | 2.00% | ~4,320 |
+| Beast Intentions | 2.00% | ~4,320 |
 | Maddening | 1.00% | ~2,160 |
 | The Silken Swamp | 1.00% | ~2,160 |
 | Supply Run | 1.00% | ~2,160 |
@@ -15,10 +15,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.80% | ~1,458 |
 | Rock and Roll | 0.80% | ~1,458 |
 | Flight of the Kindori Pod | 0.70% | ~1,276 |
-| Tall Tales | 0.60% | ~1,093 |
-| Seeds of Destruction | 0.60% | ~1,093 |
-| Vecna Loots! | 0.60% | ~1,093 |
-| Topolah's Tower | 0.60% | ~1,093 |
+| Tall Tales | 0.60% | ~1,094 |
+| Seeds of Destruction | 0.60% | ~1,094 |
+| Vecna Loots! | 0.60% | ~1,094 |
+| Topolah's Tower | 0.60% | ~1,094 |
 | Pros and CONs | 0.50% | ~1,080 |
 | The Witchlight Carnival | 0.50% | ~911 |
 | Wet Feet | 0.50% | ~1,080 |
@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
 | Tower on the Lake | 0.30% | ~648 |
+| The Cursed Farmer | 0.30% | ~648 |
 | Seeking Allies | 0.30% | ~648 |
 | Exploring Port Nyanzaru | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
@@ -84,31 +85,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.30% | ~547 |
 | 3,720 to 1 | 0.30% | ~547 |
 | Starving in the Jungle | 0.20% | ~432 |
-| Cold as Ice | 0.20% | ~364 |
-| Friends and Foes | 0.20% | ~364 |
-| Nightmare Rats! | 0.20% | ~364 |
-| An Unexpected Geist | 0.20% | ~364 |
-| A Monarch Among Us | 0.20% | ~364 |
-| The Spire of Iriolarthas | 0.20% | ~364 |
-| The Prince of a Thousand Enemies | 0.20% | ~364 |
-| Downfall | 0.20% | ~364 |
-| Slack-jawed Lorna | 0.20% | ~364 |
-| The Fairy Rings of Thither | 0.20% | ~364 |
-| Will of the Feywild | 0.20% | ~364 |
-| The Roots of Loomlurch | 0.20% | ~364 |
-| Best Laid Plans | 0.20% | ~364 |
-| Flapjacks and Waffles | 0.20% | ~364 |
-| Overwhelmed with Knowledge | 0.20% | ~364 |
-| Well Equipped | 0.20% | ~364 |
-| More Than Well Equipped | 0.20% | ~364 |
-| Keep Your Distance | 0.20% | ~364 |
-| To Avernus in a Handbasket | 0.20% | ~364 |
-| The Castle of a Thousand Vecnas | 0.20% | ~364 |
-| The Sanctum of the Sword | 0.20% | ~364 |
-| Get Back In The Castle | 0.20% | ~364 |
-| Checkmate | 0.20% | ~364 |
-| Who Lurks Below? | 0.20% | ~364 |
-| Xanathaaaaaaar! | 0.20% | ~364 |
+| Cold as Ice | 0.20% | ~365 |
+| Friends and Foes | 0.20% | ~365 |
+| Nightmare Rats! | 0.20% | ~365 |
+| An Unexpected Geist | 0.20% | ~365 |
+| A Monarch Among Us | 0.20% | ~365 |
+| The Spire of Iriolarthas | 0.20% | ~365 |
+| The Prince of a Thousand Enemies | 0.20% | ~365 |
+| Downfall | 0.20% | ~365 |
+| Slack-jawed Lorna | 0.20% | ~365 |
+| The Fairy Rings of Thither | 0.20% | ~365 |
+| Will of the Feywild | 0.20% | ~365 |
+| The Roots of Loomlurch | 0.20% | ~365 |
+| Best Laid Plans | 0.20% | ~365 |
+| Flapjacks and Waffles | 0.20% | ~365 |
+| Overwhelmed with Knowledge | 0.20% | ~365 |
+| Well Equipped | 0.20% | ~365 |
+| More Than Well Equipped | 0.20% | ~365 |
+| Keep Your Distance | 0.20% | ~365 |
+| To Avernus in a Handbasket | 0.20% | ~365 |
+| The Castle of a Thousand Vecnas | 0.20% | ~365 |
+| The Sanctum of the Sword | 0.20% | ~365 |
+| Get Back In The Castle | 0.20% | ~365 |
+| Checkmate | 0.20% | ~365 |
+| Who Lurks Below? | 0.20% | ~365 |
+| Xanathaaaaaaar! | 0.20% | ~365 |
 | Lobsterfolk Assault | 0.20% | ~432 |
 | The Forbidden City | 0.20% | ~432 |
 | Periodic Petrification | 0.20% | ~432 |
@@ -117,7 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.20% | ~432 |
 | Vajra's Guards | 0.20% | ~432 |
 | Sleuth It Out | 0.20% | ~432 |
-| The Newcomers of Notoriety | 0.20% | ~364 |
+| The Newcomers of Notoriety | 0.20% | ~365 |
 | A Grand Puzzle | 0.20% | ~432 |
 | Azaka's Procession - Part 1 | 0.20% | ~432 |
 | Tomb of the Nine Gods | 0.20% | ~432 |
@@ -127,13 +128,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.20% | ~432 |
 | Chatty Nobles | 0.20% | ~432 |
 | Modron Assistance | 0.20% | ~432 |
+| Thine Bounty is Mine! | 0.20% | ~365 |
 | Haaave You Met Asmodeus? | 0.20% | ~432 |
 | Domesticated Owlbears | 0.20% | ~432 |
 | The Immortal Warrior | 0.20% | ~432 |
 | The Wyrmheart Mine | 0.20% | ~432 |
 | Trollskull Manor | 0.20% | ~432 |
 | Attack on the Manor | 0.20% | ~432 |
-| The Cursed Farmer | 0.20% | ~432 |
 | The Ring of Regeneration | 0.20% | ~432 |
 | The Crumbling Temple | 0.20% | ~432 |
 | The Death Curse | 0.20% | ~432 |
@@ -155,21 +156,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~432 |
 | Resolve Amongst Chaos | 0.20% | ~432 |
 | Market Fluctuations | 0.20% | ~432 |
-| The Giant's Bane Tavern | 0.20% | ~364 |
-| The Everlasting Rime | 0.20% | ~364 |
+| The Giant's Bane Tavern | 0.20% | ~365 |
+| The Everlasting Rime | 0.20% | ~365 |
 | Close Escort | 0.20% | ~432 |
 | Constant Banditry | 0.20% | ~432 |
 | The Long Haul | 0.20% | ~432 |
 | Lost in the Deep | 0.20% | ~432 |
 | Easily Distracted | 0.20% | ~432 |
 | Rude Welcome | 0.20% | ~432 |
-| Moose Tracks | 0.20% | ~364 |
+| Moose Tracks | 0.20% | ~365 |
 | Durable Deep | 0.20% | ~432 |
 | Expert Opinion | 0.20% | ~432 |
 | The Templar's Camp | 0.20% | ~432 |
 | Rescue in the Jungle | 0.20% | ~432 |
-| Tiny Treaty | 0.20% | ~364 |
-| All The World's A Stage | 0.20% | ~364 |
+| Tiny Treaty | 0.20% | ~365 |
+| All The World's A Stage | 0.20% | ~365 |
 | Keep Your Friends Close | 0.10% | ~182 |
 | And Your Enemies Closer | 0.10% | ~182 |
 | Back to Nature | 0.10% | ~182 |
@@ -258,7 +259,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~216 |
 | Poor Fortune | 0.10% | ~216 |
 | Relentless Misfortune | 0.10% | ~216 |
-| Thine Bounty is Mine! | 0.10% | ~182 |
 | This Quest Stinks! | 0.10% | ~182 |
 | Hold for the Red Wizards | 0.10% | ~216 |
 | Form Ranks | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,974 (Ranked 53)  
+Progressed: 215,994 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,974 | 2,127 |
+| 2023-07-27 | 215,994 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

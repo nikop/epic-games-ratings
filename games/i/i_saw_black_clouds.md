@@ -10,13 +10,13 @@
 | Nonconsensual | 31.00% | ~88 |
 | Realist | 27.00% | ~77 |
 | Escape | 19.00% | ~54 |
-| Wrong | 17.00% | ~48 |
-| Jack | 14.00% | ~40 |
-| Tough | 11.00% | ~31 |
+| Wrong | 18.00% | ~51 |
+| Jack | 15.00% | ~43 |
+| Tough | 12.00% | ~34 |
 | Clear | 4.00% | ~11 |
+| Unfinished | 3.00% | ~9 |
 | Denial | 2.00% | ~6 |
 | Help | 2.00% | ~6 |
-| Unfinished | 2.00% | ~6 |
 | All endings | 1.00% | ~3 |
 | Interpret | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

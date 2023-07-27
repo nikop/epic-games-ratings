@@ -2,7 +2,7 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 516,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-04-26T04:02:27.1386207+00:00",
@@ -1642,6 +1642,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 8980,
       "NumberOfAwardsMax": 4704
+    },
+    {
+      "Time": "2023-07-27T15:03:02.687214+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 8980,
+      "NumberOfAwardsMax": 4704
     }
   ],
   "ReviewsDisabled": false,
@@ -1734,8 +1740,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-27T13:08:35.3789776+00:00",
+  "LastChanged": "2023-07-27T15:03:02.6872139+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:21.7517822+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:01:56.7306498+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:06:07.7644529+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:03:02.6872145+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:06:55.4965729+00:00"
 }

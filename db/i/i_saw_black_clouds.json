@@ -341,9 +341,9 @@
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "nonconsensual",
@@ -373,25 +373,25 @@
       "ID": "tough",
       "SetID": "8b5dfcp",
       "Name": "Tough",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "unfinished",
       "SetID": "8b5dfcp",
       "Name": "Unfinished",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "wrong",
       "SetID": "8b5dfcp",
       "Name": "Wrong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
@@ -406,8 +406,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-07-27T14:07:38.2597964+00:00",
+  "LastChanged_Achievements": "2023-07-27T15:08:45.3446046+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.0388865+00:00",
-  "LastUpdate_Ratings": "2023-07-27T14:01:13.9153437+00:00",
-  "LastUpdate_Achievements": "2023-07-27T14:07:38.2598102+00:00"
+  "LastUpdate_Ratings": "2023-07-27T15:02:08.1844708+00:00",
+  "LastUpdate_Achievements": "2023-07-27T15:08:45.3446216+00:00"
 }
