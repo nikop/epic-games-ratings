@@ -959,9 +959,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -990,8 +990,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:05:45.5060841+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:05:16.8329876+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:57:18.1173116+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:05:45.5060936+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:57:21.6136293+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:05:16.8330051+00:00"
 }

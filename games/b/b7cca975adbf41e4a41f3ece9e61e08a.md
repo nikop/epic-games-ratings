@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 0.00% | ~0 |
+| Last Night...Did We... | 100.00% | ~1 |
 | I Challenge You To Save More Money! | 0.00% | ~0 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |

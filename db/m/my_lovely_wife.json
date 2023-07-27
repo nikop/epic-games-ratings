@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACH_UNLOCK_SUCC_ENDING_1",
       "SetID": "ajki3eh",
       "Name": "Ever After",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -581,9 +581,9 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
       "SetID": "ajki3eh",
       "Name": "The Admirer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -605,8 +605,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:05:39.7883179+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:05:11.1792413+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:47.1456254+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:46.0505392+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:05:39.7883376+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:46.3203459+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:05:11.179269+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58957,
+  "EOS_Progressed": 58959,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9192,6 +9192,11 @@
       "Time": "2023-07-27T04:04:40.3474377+00:00",
       "NumProgressed": 58957,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-27T05:04:13.2530057+00:00",
+      "NumProgressed": 58959,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9203,7 +9208,7 @@
       "Name": "Follow the Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20635
+      "UsersEstimate": 20636
     },
     {
       "ID": "02",
@@ -9331,7 +9336,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "18",
@@ -9427,7 +9432,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7664
+      "UsersEstimate": 7665
     },
     {
       "ID": "30",
@@ -9451,7 +9456,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15918
+      "UsersEstimate": 15919
     },
     {
       "ID": "33",
@@ -9459,7 +9464,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7664
+      "UsersEstimate": 7665
     },
     {
       "ID": "34",
@@ -9475,7 +9480,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16508
+      "UsersEstimate": 16509
     },
     {
       "ID": "36",
@@ -9563,7 +9568,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7664
+      "UsersEstimate": 7665
     },
     {
       "ID": "47",
@@ -9699,7 +9704,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "64",
@@ -9738,21 +9743,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58957,
+      "Progressed": 58959,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22425,
+      "Progressed": 22427,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:04:40.3474373+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:04:13.2530049+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:12.7560701+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:04:40.3475274+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:14.1948966+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:04:13.2532266+00:00"
 }

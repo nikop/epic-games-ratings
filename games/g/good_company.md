@@ -1,13 +1,13 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 642)  
+Rating: 4.44 (Ranked 643)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,595 |
-| Returning Home: Quick Learner | 26.00% | ~1,349 |
+| Level: Returning Home | 50.00% | ~2,596 |
+| Returning Home: Quick Learner | 26.00% | ~1,350 |
 | Level: Charlie's Circuits | 22.00% | ~1,142 |
 | Level: Rising Markets | 9.00% | ~467 |
 | Peddler | 8.00% | ~415 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,190 (Ranked 135)  
+Progressed: 5,191 (Ranked 135)  
 Completed: 1 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 1 (0.02%) (Ranked 222)
 | 2023-07-24 | 5,177 | 1 |
 | 2023-07-25 | 5,182 | 1 |
 | 2023-07-26 | 5,190 | 1 |
+| 2023-07-27 | 5,191 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

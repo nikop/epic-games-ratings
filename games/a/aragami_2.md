@@ -6,32 +6,32 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~36,125 |
-| First Steps | 80.00% | ~31,075 |
-| Control the Shadows | 67.00% | ~26,025 |
-| Tools of the Trade | 63.00% | ~24,472 |
-| Apprentice | 60.00% | ~23,306 |
-| Secret Seeker | 57.00% | ~22,141 |
-| Forge of Assassins | 55.00% | ~21,364 |
-| Revenant | 52.00% | ~20,199 |
-| I don’t Care! | 45.00% | ~17,480 |
-| Bird of Prey | 37.00% | ~14,372 |
-| Engraved with Power | 32.00% | ~12,430 |
-| Lady | 31.00% | ~12,042 |
-| Fashionable Assassin | 27.00% | ~10,488 |
-| Apex Predator | 24.00% | ~9,323 |
-| Soul Reaver | 22.00% | ~8,546 |
-| Embers | 21.00% | ~8,157 |
-| Wall Lizard | 20.00% | ~7,769 |
-| Clinging to Life | 18.00% | ~6,992 |
-| Burning | 17.00% | ~6,603 |
-| Look Behind You | 16.00% | ~6,215 |
-| Sleeping on the Job | 16.00% | ~6,215 |
-| Family | 14.00% | ~5,438 |
-| War Engines | 14.00% | ~5,438 |
-| Signature Move | 14.00% | ~5,438 |
+| Awakening | 93.00% | ~36,130 |
+| First Steps | 80.00% | ~31,079 |
+| Control the Shadows | 67.00% | ~26,029 |
+| Tools of the Trade | 63.00% | ~24,475 |
+| Apprentice | 60.00% | ~23,309 |
+| Secret Seeker | 57.00% | ~22,144 |
+| Forge of Assassins | 55.00% | ~21,367 |
+| Revenant | 52.00% | ~20,201 |
+| I don’t Care! | 45.00% | ~17,482 |
+| Bird of Prey | 37.00% | ~14,374 |
+| Engraved with Power | 32.00% | ~12,432 |
+| Lady | 31.00% | ~12,043 |
+| Fashionable Assassin | 27.00% | ~10,489 |
+| Apex Predator | 24.00% | ~9,324 |
+| Soul Reaver | 22.00% | ~8,547 |
+| Embers | 21.00% | ~8,158 |
+| Wall Lizard | 20.00% | ~7,770 |
+| Clinging to Life | 18.00% | ~6,993 |
+| Burning | 17.00% | ~6,604 |
+| Look Behind You | 16.00% | ~6,216 |
+| Sleeping on the Job | 16.00% | ~6,216 |
+| Family | 14.00% | ~5,439 |
+| War Engines | 14.00% | ~5,439 |
+| Signature Move | 14.00% | ~5,439 |
 | Ruse | 11.00% | ~4,273 |
-| Master Ninja | 10.00% | ~3,884 |
+| Master Ninja | 10.00% | ~3,885 |
 | Hatching | 9.00% | ~3,496 |
 | Bonds | 9.00% | ~3,496 |
 | Get Over Here | 9.00% | ~3,496 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~388 |
 | Anger Management | 1.00% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,844 (Ranked 92)  
+Progressed: 38,849 (Ranked 92)  
 Completed: 194 (0.50%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 194 (0.50%) (Ranked 134)
 | 2023-07-24 | 38,544 | 194 |
 | 2023-07-25 | 38,690 | 194 |
 | 2023-07-26 | 38,808 | 194 |
-| 2023-07-27 | 38,844 | 194 |
+| 2023-07-27 | 38,849 | 194 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

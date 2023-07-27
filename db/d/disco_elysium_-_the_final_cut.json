@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1217,9 +1217,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124359,
+  "EOS_Progressed": 124360,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10657,6 +10657,11 @@
       "Time": "2023-07-27T04:03:07.5290256+00:00",
       "NumProgressed": 124359,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-27T05:01:29.9610692+00:00",
+      "NumProgressed": 124360,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10772,7 +10777,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19897
+      "UsersEstimate": 19898
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -10812,7 +10817,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13679
+      "UsersEstimate": 13680
     },
     {
       "ID": "ACH_CUNO",
@@ -10987,15 +10992,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124359,
+      "Progressed": 124360,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-25T14:59:59.2191049+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:03:07.5290252+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:01:29.9610684+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:59:54.882954+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:03:07.5290969+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:59:51.8746146+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:01:29.9611859+00:00"
 }

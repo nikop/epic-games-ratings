@@ -25,7 +25,7 @@ Number of Ratings: 58  (23.09.2022)
 | The Path Forward | 45.00% | ~485 |
 | Disruption | 44.00% | ~474 |
 | Phoenix | 43.00% | ~463 |
-| Cult Slayer | 40.00% | ~431 |
+| Cult Slayer | 41.00% | ~442 |
 | Origin | 40.00% | ~431 |
 | It Was An Accident | 40.00% | ~431 |
 | Set in Motion | 38.00% | ~409 |

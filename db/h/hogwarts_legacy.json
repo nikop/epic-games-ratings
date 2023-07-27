@@ -5532,9 +5532,9 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288645,
+  "EOS_Progressed": 288648,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16017,6 +16017,11 @@
       "Time": "2023-07-27T04:05:21.8405002+00:00",
       "NumProgressed": 288645,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-07-27T05:04:53.8609133+00:00",
+      "NumProgressed": 288648,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 45,
@@ -16028,7 +16033,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34637
+      "UsersEstimate": 34638
     },
     {
       "ID": "PFA_10",
@@ -16148,7 +16153,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28864
+      "UsersEstimate": 28865
     },
     {
       "ID": "PFA_24",
@@ -16364,7 +16369,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28864
+      "UsersEstimate": 28865
     },
     {
       "ID": "PFA_8",
@@ -16387,7 +16392,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288645,
+      "Progressed": 288648,
       "Completed": 434
     }
   ],
@@ -16395,8 +16400,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-27T03:57:55.749146+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:05:21.8404997+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:04:53.8609127+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:57:55.7491466+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:05:21.8405773+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:57:57.3528069+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:04:53.8610333+00:00"
 }

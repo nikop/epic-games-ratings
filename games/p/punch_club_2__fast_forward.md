@@ -7,8 +7,8 @@
 | Such a strange dream… | 90.00% | ~142 |
 | Your first fight | 88.00% | ~139 |
 | Good Person Chip | 87.00% | ~137 |
-| First winning | 85.00% | ~134 |
-| Your first job | 85.00% | ~134 |
+| First winning | 86.00% | ~136 |
+| Your first job | 86.00% | ~136 |
 | First defeat | 80.00% | ~126 |
 | Old movies enjoyer | 80.00% | ~126 |
 | Fitness professional | 78.00% | ~123 |
@@ -16,28 +16,28 @@
 | Neurotrainer – power gainer! | 76.00% | ~120 |
 | Employee of the week | 76.00% | ~120 |
 | Your own amateur gym | 73.00% | ~115 |
-| Run K, run! | 70.00% | ~111 |
-| No bullying more | 66.00% | ~104 |
-| Hello, world! | 66.00% | ~104 |
-| Fighting is cool | 65.00% | ~103 |
+| Run K, run! | 72.00% | ~114 |
+| No bullying more | 67.00% | ~106 |
+| Hello, world! | 67.00% | ~106 |
+| Fighting is cool | 66.00% | ~104 |
 | Pal of your father? | 61.00% | ~96 |
 | Employee of the month | 61.00% | ~96 |
 | Spirit of the past | 59.00% | ~93 |
 | Intriguing candies | 59.00% | ~93 |
-| Law student | 57.00% | ~90 |
-| Workout professional | 55.00% | ~87 |
-| Little hacker | 53.00% | ~84 |
+| Law student | 58.00% | ~92 |
+| Workout professional | 56.00% | ~88 |
+| Little hacker | 54.00% | ~85 |
 | Champion – starter pack | 53.00% | ~84 |
 | Your own way | 53.00% | ~84 |
+| Handyman | 51.00% | ~81 |
+| It's good to be alive | 51.00% | ~81 |
 | Own four walls | 51.00% | ~81 |
 | Employee of the year | 51.00% | ~81 |
 | Fight for life | 50.00% | ~79 |
-| Handyman | 49.00% | ~77 |
-| It's good to be alive | 49.00% | ~77 |
 | Extreme neuropower! | 46.00% | ~73 |
 | Legal courier | 43.00% | ~68 |
-| Now you are worthy | 37.00% | ~58 |
-| Escaped from a big trouble | 37.00% | ~58 |
+| Now you are worthy | 38.00% | ~60 |
+| Escaped from a big trouble | 38.00% | ~60 |
 | No blades in the gym | 34.00% | ~54 |
 | Guiding on the right path | 34.00% | ~54 |
 | Mysterious voice | 32.00% | ~51 |
@@ -46,14 +46,14 @@
 | Champion – no way back | 28.00% | ~44 |
 | Get out of my apartment! | 28.00% | ~44 |
 | Underground dwellers | 27.00% | ~43 |
+| Seashell hunter | 27.00% | ~43 |
 | Deal with life | 26.00% | ~41 |
-| Seashell hunter | 26.00% | ~41 |
 | Mom got better | 25.00% | ~40 |
 | GYM professional | 25.00% | ~40 |
 | Poisoned fighter | 25.00% | ~40 |
 | The die is cast | 25.00% | ~40 |
+| Anyone can resist | 24.00% | ~38 |
 | Gang wrangler | 23.00% | ~36 |
-| Anyone can resist | 23.00% | ~36 |
 | Problems of cyborgs | 22.00% | ~35 |
 | Keep nature safe | 22.00% | ~35 |
 | Undercover robot | 22.00% | ~35 |

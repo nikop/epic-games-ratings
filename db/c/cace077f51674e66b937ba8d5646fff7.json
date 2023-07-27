@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -401,17 +401,17 @@
       "ID": "ENEMY_0",
       "SetID": "50pdlpn",
       "Name": "Federic the Conscious Toy",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ENEMY_10",
@@ -921,9 +921,9 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
@@ -936,8 +936,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:06:37.6699038+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:06:08.2935803+00:00",
   "LastUpdate_AppInfo": "2023-07-24T14:56:53.659253+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:57:40.6532669+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:06:37.6699646+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:57:42.8352038+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:06:08.2936641+00:00"
 }

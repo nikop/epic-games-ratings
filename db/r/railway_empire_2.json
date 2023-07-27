@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1687,
+  "EOS_Progressed": 1688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3743,6 +3743,11 @@
       "Time": "2023-07-27T04:04:24.695217+00:00",
       "NumProgressed": 1687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T05:03:57.380049+00:00",
+      "NumProgressed": 1688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3770,7 +3775,7 @@
       "Name": "Trailblazer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "A03",
@@ -3786,7 +3791,7 @@
       "Name": "Go West",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "A05",
@@ -3890,7 +3895,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "A18",
@@ -3914,7 +3919,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "A21",
@@ -3970,7 +3975,7 @@
       "Name": "Let off some steam",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "A28",
@@ -3978,7 +3983,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "A29",
@@ -3994,7 +3999,7 @@
       "Name": "All mine",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "A31",
@@ -4042,7 +4047,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "A37",
@@ -4050,7 +4055,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "A38",
@@ -4058,7 +4063,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "A39",
@@ -4066,7 +4071,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "A40",
@@ -4098,7 +4103,7 @@
       "Name": "Mole",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "A44",
@@ -4106,7 +4111,7 @@
       "Name": "Breaking Ground",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "A45",
@@ -4122,7 +4127,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "A47",
@@ -4170,7 +4175,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "A53",
@@ -4193,7 +4198,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1687,
+      "Progressed": 1688,
       "Completed": 0
     }
   ],
@@ -4201,8 +4206,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:04:24.6952166+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:03:57.3800485+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.9038155+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:43.1747462+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:04:24.6952729+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:43.7857074+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:03:57.3801288+00:00"
 }

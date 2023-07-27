@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 135,
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5190,
+  "EOS_Progressed": 5191,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -2505,6 +2505,11 @@
       "Time": "2023-07-26T16:05:59.4763988+00:00",
       "NumProgressed": 5190,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T05:05:15.2474176+00:00",
+      "NumProgressed": 5191,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2628,7 +2633,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2668,7 +2673,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ach_campaign_special10",
@@ -3123,15 +3128,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5190,
+      "Progressed": 5191,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:05:43.8835606+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:05:15.2474167+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:39.5603926+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:59:42.1361825+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:05:43.88364+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:59:39.8200077+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:05:15.2475915+00:00"
 }

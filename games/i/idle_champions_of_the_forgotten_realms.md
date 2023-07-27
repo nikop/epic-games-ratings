@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 1.00% | ~2,159 |
 | Supply Run | 0.90% | ~1,943 |
 | Rocky Reception | 0.90% | ~1,639 |
+| Vecna Lives! | 0.80% | ~1,457 |
 | Rock and Roll | 0.80% | ~1,457 |
-| Vecna Lives! | 0.70% | ~1,275 |
 | Flight of the Kindori Pod | 0.70% | ~1,275 |
 | Tall Tales | 0.60% | ~1,093 |
 | Vecna Loots! | 0.60% | ~1,093 |
@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~864 |
 | The Mists of Ravenloft | 0.40% | ~864 |
 | The Dinner Party | 0.40% | ~864 |
+| The Botched Kidnapping | 0.40% | ~864 |
 | Not That Type of Helm! | 0.40% | ~729 |
 | Bazaar Companions | 0.40% | ~729 |
 | Bahamut's Army | 0.40% | ~729 |
@@ -66,7 +67,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.30% | ~648 |
 | Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
-| The Botched Kidnapping | 0.30% | ~648 |
 | Tower on the Lake | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
 | Escort to Waterdeep | 0.30% | ~648 |
@@ -105,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~364 |
 | Lobsterfolk Assault | 0.20% | ~432 |
 | The Forbidden City | 0.20% | ~432 |
+| Periodic Petrification | 0.20% | ~432 |
 | Captured! | 0.20% | ~432 |
 | Home Field Advantage | 0.20% | ~432 |
 | Force Grey Unleashed | 0.20% | ~432 |
@@ -145,6 +146,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~432 |
 | The Contagious Curse | 0.20% | ~432 |
 | Dinosaur Racing | 0.20% | ~432 |
+| Elturel Has Fallen | 0.20% | ~432 |
 | Market Fluctuations | 0.20% | ~432 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | The Everlasting Rime | 0.20% | ~364 |
@@ -242,7 +244,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~182 |
 | Anchors Aweigh | 0.10% | ~182 |
 | Welcome to the Band | 0.10% | ~182 |
-| Periodic Petrification | 0.10% | ~216 |
 | No Good at All | 0.10% | ~216 |
 | Fall From Grace | 0.10% | ~216 |
 | Double Vision | 0.10% | ~216 |
@@ -366,7 +367,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~216 |
 | The Nimble Grove | 0.10% | ~216 |
 | The Misty Grove | 0.10% | ~182 |
-| Elturel Has Fallen | 0.10% | ~216 |
 | Everything is Awful | 0.10% | ~216 |
 | Earthquake! | 0.10% | ~182 |
 | Hailstorm! | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,878 (Ranked 53)  
+Progressed: 215,888 (Ranked 53)  
 Completed: 2,124 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,124 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,878 | 2,124 |
+| 2023-07-27 | 215,888 | 2,124 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

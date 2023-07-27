@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Alone with Them | 70.00% | ~128 |
 | Forced to Kill | 68.00% | ~124 |
-| A Night To Remember | 35.00% | ~64 |
+| A Night To Remember | 36.00% | ~66 |
 | Safe...For now? | 31.00% | ~57 |
 | Open Sesame | 26.00% | ~48 |
 | What have I done!? | 16.00% | ~29 |

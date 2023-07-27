@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 35.00% | ~20,635 |
-| Let There Be Light | 28.00% | ~16,508 |
-| Float Like a Butterfly | 27.00% | ~15,918 |
+| Follow the Light | 35.00% | ~20,636 |
+| Let There Be Light | 28.00% | ~16,509 |
+| Float Like a Butterfly | 27.00% | ~15,919 |
 | Nordic Walking | 22.00% | ~12,971 |
 | Bright Falls' Finest | 21.00% | ~12,381 |
 | Under a Thin Layer of Skin | 19.00% | ~11,202 |
@@ -16,9 +16,9 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 15.00% | ~8,844 |
 | Back! Back, I Say! | 14.00% | ~8,254 |
 | Finders Keepers | 14.00% | ~8,254 |
-| Sound and Fury | 13.00% | ~7,664 |
-| Missed by a Mile | 13.00% | ~7,664 |
-| Damn Good Cup of Coffee | 13.00% | ~7,664 |
+| Sound and Fury | 13.00% | ~7,665 |
+| Missed by a Mile | 13.00% | ~7,665 |
+| Damn Good Cup of Coffee | 13.00% | ~7,665 |
 | Wheels Within Wheels | 12.00% | ~7,075 |
 | They're Heeeeeere! | 12.00% | ~7,075 |
 | The Six-Gun Scribe | 12.00% | ~7,075 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 8.00% | ~4,717 |
 | A Friend in Need | 8.00% | ~1,794 |
 | Tornado Wrangler | 7.00% | ~4,127 |
-| Departure | 6.00% | ~3,537 |
+| Departure | 6.00% | ~3,538 |
 | A Friend Indeed | 6.00% | ~1,346 |
 | Drink 'Em Both Up | 5.00% | ~2,948 |
 | Hardboiled Writer | 5.00% | ~2,948 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,179 |
 | Carny | 2.00% | ~1,179 |
 | An Idyllic Small Town | 2.00% | ~1,179 |
-| Iron Will | 2.00% | ~448 |
+| Iron Will | 2.00% | ~449 |
 | Couch Potato | 1.00% | ~590 |
 | Go Gentle Into That Good Light | 1.00% | ~224 |
 | Words Will Never Harm You | 0.70% | ~157 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,957 (Ranked 82)  
+Progressed: 58,959 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
 | 2023-07-26 | 58,927 | 58 |
-| 2023-07-27 | 58,957 | 58 |
+| 2023-07-27 | 58,959 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

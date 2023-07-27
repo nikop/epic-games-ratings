@@ -731,9 +731,9 @@
       "ID": "questRedsBoss",
       "SetID": "ci65fo0",
       "Name": "The conqueror of the Reds",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "questReturnSun",
@@ -795,9 +795,9 @@
       "ID": "questSaveRoyalSmith",
       "SetID": "ci65fo0",
       "Name": "A new friend",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "questTheft",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:04:41.5069622+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:04:14.2862469+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:57:17.8019524+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:04:41.5070237+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:57:21.3091749+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:04:14.2863317+00:00"
 }

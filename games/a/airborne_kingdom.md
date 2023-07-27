@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,857 |
-| A Grove Replanted | 53.00% | ~3,650 |
+| A Small Community | 56.00% | ~3,858 |
+| A Grove Replanted | 53.00% | ~3,651 |
 | Fields Watered | 41.00% | ~2,824 |
 | Settling the Skies | 41.00% | ~2,824 |
-| Seekers Found | 40.00% | ~2,755 |
-| Wind Powered | 40.00% | ~2,755 |
+| Seekers Found | 40.00% | ~2,756 |
+| Wind Powered | 40.00% | ~2,756 |
 | It Takes a Village | 34.00% | ~2,342 |
-| On the Town | 28.00% | ~1,928 |
+| On the Town | 28.00% | ~1,929 |
 | Daylight Found | 26.00% | ~1,791 |
 | Irons Scorched | 25.00% | ~1,722 |
 | Islands Connected | 25.00% | ~1,722 |
 | Harp Tuned | 23.00% | ~1,584 |
 | Pyre Ignited | 23.00% | ~1,584 |
 | Travelers Returned | 23.00% | ~1,584 |
-| Hopes Hoisted | 22.00% | ~1,515 |
-| Knowledge Shared | 20.00% | ~1,377 |
-| Relic Finder | 20.00% | ~1,377 |
+| Hopes Hoisted | 22.00% | ~1,516 |
+| Knowledge Shared | 20.00% | ~1,378 |
+| Relic Finder | 20.00% | ~1,378 |
 | Worthy of the Title | 19.00% | ~1,309 |
 | A Peaceful Respite | 14.00% | ~964 |
-| A Learned Scholar | 13.00% | ~895 |
-| Prophecy Fulfilled | 13.00% | ~895 |
+| A Learned Scholar | 13.00% | ~896 |
+| Prophecy Fulfilled | 13.00% | ~896 |
 | A Wanderer’s Guide | 11.00% | ~758 |
 | Knowledge Seeker | 7.00% | ~482 |
 | The Cycle Continues | 3.00% | ~207 |
@@ -34,8 +34,8 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~138 |
 | A True Challenge | 2.00% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,887 (Ranked 130)  
-Completed: 52 (0.76%) (Ranked 114)  
+Progressed: 6,889 (Ranked 130)  
+Completed: 52 (0.75%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 52 (0.76%) (Ranked 114)
 | 2023-07-24 | 6,863 | 52 |
 | 2023-07-25 | 6,872 | 52 |
 | 2023-07-26 | 6,884 | 52 |
-| 2023-07-27 | 6,887 | 52 |
+| 2023-07-27 | 6,889 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

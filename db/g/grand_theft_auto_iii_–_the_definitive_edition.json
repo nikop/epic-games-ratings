@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7170,
+  "EOS_Progressed": 7172,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6198,6 +6198,11 @@
       "Time": "2023-07-27T04:05:53.4351252+00:00",
       "NumProgressed": 7170,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-27T05:05:24.5529301+00:00",
+      "NumProgressed": 7172,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6209,7 +6214,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5951
+      "UsersEstimate": 5953
     },
     {
       "ID": "ACH02",
@@ -6217,7 +6222,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "ACH03",
@@ -6233,7 +6238,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "ACH05",
@@ -6313,7 +6318,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH15",
@@ -6329,7 +6334,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH17",
@@ -6393,7 +6398,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACH25",
@@ -6440,7 +6445,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7170,
+      "Progressed": 7172,
       "Completed": 41
     }
   ],
@@ -6448,8 +6453,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:05:53.4351247+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:05:24.5529297+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:24.7993984+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:05:53.4351698+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:26.2069438+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:05:24.5529947+00:00"
 }

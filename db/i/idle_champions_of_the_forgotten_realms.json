@@ -5314,7 +5314,7 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215878,
+  "EOS_Progressed": 215888,
   "EOS_Completed": 2124,
   "EOS_NewPlayers": 2310,
   "EOS_NewCompleters": 65,
@@ -15774,6 +15774,11 @@
       "Time": "2023-07-27T04:03:24.3579882+00:00",
       "NumProgressed": 215878,
       "NumCompleted": 2124
+    },
+    {
+      "Time": "2023-07-27T05:02:16.9740686+00:00",
+      "NumProgressed": 215888,
+      "NumCompleted": 2124
     }
   ],
   "TotalAchievements": 512,
@@ -16463,9 +16468,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1457
     },
     {
       "ID": "objective_completed_1164",
@@ -16911,9 +16916,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_151",
@@ -17231,9 +17236,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_236",
@@ -18343,9 +18348,9 @@
       "ID": "objective_completed_600",
       "SetID": "cc37lbc",
       "Name": "Elturel Has Fallen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 432
     },
     {
       "ID": "objective_completed_601",
@@ -19880,21 +19885,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182152,
-      "Completed": 3009
+      "Progressed": 182162,
+      "Completed": 3011
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215878,
+      "Progressed": 215888,
       "Completed": 2124
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:03:24.3579876+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:02:16.9740679+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:44.2572666+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:03:24.3603879+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:44.3876458+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:02:16.9780171+00:00"
 }

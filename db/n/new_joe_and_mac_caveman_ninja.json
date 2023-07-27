@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.02,
+  "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -258,6 +258,11 @@
       "Time": "2023-07-23T11:03:10.8822012+00:00",
       "NumProgressed": 198,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T05:03:41.2208769+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -277,15 +282,15 @@
       "Name": "Crazy Jungle.",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "04",
@@ -307,9 +312,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "07",
@@ -323,9 +328,9 @@
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "09",
@@ -347,9 +352,9 @@
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "12",
@@ -363,9 +368,9 @@
       "ID": "13",
       "SetID": "6glb5g1",
       "Name": "Passing the carcass.",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "14",
@@ -379,16 +384,16 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 4
     }
   ],
@@ -396,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-27T04:04:08.753749+00:00",
+  "LastChanged_Achievements": "2023-07-27T05:03:41.2208764+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.9030226+00:00",
-  "LastUpdate_Ratings": "2023-07-27T03:58:13.5514094+00:00",
-  "LastUpdate_Achievements": "2023-07-27T04:04:08.7537606+00:00"
+  "LastUpdate_Ratings": "2023-07-27T04:58:14.9642644+00:00",
+  "LastUpdate_Achievements": "2023-07-27T05:03:41.2208906+00:00"
 }
