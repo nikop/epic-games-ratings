@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -984,17 +984,17 @@
       "ID": "DESIERTO3_1",
       "SetID": "44dlcg0",
       "Name": "Full desert",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DESIERTO_2",
@@ -1457,8 +1457,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:08:24.7488319+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:09:15.8943577+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.8068125+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:00:19.7243621+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:08:24.749+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:00:53.95166+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:09:15.8944272+00:00"
 }

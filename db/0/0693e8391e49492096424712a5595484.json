@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 217,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.07,
   "EosHistory": [
@@ -812,9 +812,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "BearPoppiesBroth",
@@ -932,9 +932,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "HastrmanAcorn",
@@ -1116,9 +1116,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "SwordMoneyBag",
@@ -1147,8 +1147,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:07:00.5402794+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:07:40.6507236+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:57:28.7877811+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:07:00.5403532+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:57:41.5250327+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:07:40.650759+00:00"
 }

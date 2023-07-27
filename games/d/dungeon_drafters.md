@@ -6,27 +6,27 @@
 | ---- | ---------- | ----- |
 | Treasure Hunting | 36.00% | ~24 |
 | Might be useful… | 36.00% | ~24 |
-| Friend! | 32.00% | ~21 |
+| Friend! | 31.00% | ~21 |
 | Uncut Gem | 30.00% | ~20 |
 | Setting Off | 27.00% | ~18 |
 | Shine! | 27.00% | ~18 |
 | Clear as Water | 24.00% | ~16 |
 | Riddlesolver | 21.00% | ~14 |
-| Card Collector | 20.00% | ~13 |
+| Card Collector | 19.00% | ~13 |
 | Dungeon Mastery | 18.00% | ~12 |
-| The Steed | 11.00% | ~7 |
-| A Strange Proposition | 11.00% | ~7 |
-| The Bodyguard | 8.00% | ~5 |
-| The Apprentice | 8.00% | ~5 |
-| The Familiar | 8.00% | ~5 |
+| The Steed | 10.00% | ~7 |
+| A Strange Proposition | 10.00% | ~7 |
+| The Bodyguard | 7.00% | ~5 |
+| The Apprentice | 7.00% | ~5 |
+| The Familiar | 7.00% | ~5 |
 | Braving Miasma | 6.00% | ~4 |
 | Ancient Nemesis | 6.00% | ~4 |
 | No Stone Unturned | 6.00% | ~4 |
-| Raider Mastery | 5.00% | ~3 |
-| Traveler Mastery | 5.00% | ~3 |
-| The Plot Thickens | 5.00% | ~3 |
-| The False Prophet | 5.00% | ~3 |
-| Sealed Once Again | 5.00% | ~3 |
+| Raider Mastery | 4.00% | ~3 |
+| Traveler Mastery | 4.00% | ~3 |
+| The Plot Thickens | 4.00% | ~3 |
+| The False Prophet | 4.00% | ~3 |
+| Sealed Once Again | 4.00% | ~3 |
 | Best Pupil | 3.00% | ~2 |
 | Oracle Mastery | 3.00% | ~2 |
 | FOR JUSTICE! | 3.00% | ~2 |
@@ -41,11 +41,11 @@
 | Harmony | 3.00% | ~2 |
 | A New Tomorrow | 3.00% | ~2 |
 | ACHOO! | 3.00% | ~2 |
-| The New Demon Lord | 2.00% | ~1 |
-| Gladiator | 2.00% | ~1 |
+| The New Demon Lord | 1.00% | ~1 |
+| Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 338)  
+Progressed: 67 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-22 | 61 | 0 |
 | 2023-07-23 | 64 | 0 |
 | 2023-07-24 | 65 | 0 |
-| 2023-07-27 | 66 | 0 |
+| 2023-07-27 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "a3df291e5482464898a00f1ed892605f",
   "Name": "Dirty Wars: September 11",
   "ProductSlug": "dirty-wars-september-11-a54042",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-11T00:00:00+00:00",
     "PcReleaseDate": "2023-09-11T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.8620895+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:57:45.1000331+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:06:50.9939484+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:58:01.5832891+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:07:30.4637247+00:00"
 }

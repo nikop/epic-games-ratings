@@ -2,10 +2,10 @@
   "ID": "e0ea77c3dc3243d99ade4c499fa66076",
   "Name": "Cramped Room of Death",
   "ProductSlug": "cramped-room-of-death-b0e3c3",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-19T18:00:00+00:00",
     "PcReleaseDate": "2023-07-19T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T04:57:07.4200924+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:57:10.3371947+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:03:42.2388615+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:57:22.9679116+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:04:20.5951209+00:00"
 }

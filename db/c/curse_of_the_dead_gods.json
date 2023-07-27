@@ -2,13 +2,13 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 318,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-02-23T17:00:00+00:00",
     "PcReleaseDate": "2021-02-23T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 140,
   "RatingHistory": [
     {
@@ -402,6 +402,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-07-27T21:01:38.1652595+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
@@ -427,8 +433,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2023-06-23T13:16:20.9868334+00:00",
+  "LastChanged": "2023-07-27T21:01:38.1652593+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:21.8987838+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:01:08.8697054+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:07:29.7577182+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:01:38.1652598+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:08:21.3296729+00:00"
 }

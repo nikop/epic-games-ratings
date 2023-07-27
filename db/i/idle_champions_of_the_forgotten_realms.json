@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5326,11 +5326,11 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216097,
-  "EOS_Completed": 2127,
-  "EOS_NewPlayers": 2294,
-  "EOS_NewCompleters": 68,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 216123,
+  "EOS_Completed": 2129,
+  "EOS_NewPlayers": 2300,
+  "EOS_NewCompleters": 70,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -15866,6 +15866,11 @@
       "Time": "2023-07-27T20:03:36.5344008+00:00",
       "NumProgressed": 216097,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T21:04:14.9951927+00:00",
+      "NumProgressed": 216123,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 512,
@@ -15877,7 +15882,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "objective_completed_10",
@@ -15893,7 +15898,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_101",
@@ -16013,7 +16018,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "objective_completed_1061",
@@ -16309,7 +16314,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_1111",
@@ -16349,7 +16354,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_1121",
@@ -16525,7 +16530,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "objective_completed_1159",
@@ -16997,7 +17002,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_150",
@@ -17101,7 +17106,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_17",
@@ -17205,7 +17210,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_20",
@@ -19885,7 +19890,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "objective_completed_668",
@@ -19893,7 +19898,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "objective_completed_1375",
@@ -19901,7 +19906,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "objective_completed_1376",
@@ -19909,7 +19914,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "objective_completed_1380",
@@ -19917,7 +19922,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "objective_completed_1381",
@@ -19955,9 +19960,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 912
     },
     {
       "ID": "objective_completed_1392",
@@ -19965,28 +19970,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182371,
+      "Progressed": 182397,
       "Completed": 3018
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216097,
-      "Completed": 2127
+      "Progressed": 216123,
+      "Completed": 2129
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-27T19:59:22.6947105+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:03:36.5344+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:04:14.9951922+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:59:22.6947115+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:03:36.538828+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:59:47.1213176+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:04:14.9975839+00:00"
 }

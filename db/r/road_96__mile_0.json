@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "scoreminrankrp1",
@@ -1177,8 +1177,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:04:19.5884743+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:05:00.2151331+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.0367431+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:00:12.8706269+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:04:19.5884967+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:00:41.6883408+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:05:00.2151474+00:00"
 }

@@ -40,6 +40,7 @@
 | Temperate urban planner | 1.00% | ~3 |
 | Archipelago urban planner | 0.70% | ~2 |
 | I can't see the sky | 0.70% | ~2 |
+| Desert builder | 0.70% | ~2 |
 | Perfect city | 0.70% | ~2 |
 | Farming Frenzy | 0.70% | ~2 |
 | Metropolurbek Plus | 0.70% | ~2 |
@@ -48,7 +49,7 @@
 | Anarchist paradise | 0.30% | ~1 |
 | I can't breathe | 0.30% | ~1 |
 | Urban style | 0.30% | ~1 |
-| Desert builder | 0.30% | ~1 |
+| Full desert | 0.30% | ~1 |
 | Desert urban planner | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.30% | ~1 |
@@ -63,7 +64,6 @@
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
-| Full desert | 0.00% | ~0 |
 | Desert master | 0.00% | ~0 |
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |

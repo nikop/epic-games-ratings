@@ -5,6 +5,8 @@ Rating: 4.69 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sabersmith | 100.00% | ~1 |
+| The Mantis | 100.00% | ~1 |
 | Kicking Back | 0.00% | ~0 |
 | Everything is Connected | 0.00% | ~0 |
 | The Holocron Awaits | 0.00% | ~0 |
@@ -33,7 +35,6 @@ Rating: 4.69 (Ranked 214)
 | Green Thumb | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Data Disk | 0.00% | ~0 |
-| Sabersmith | 0.00% | ~0 |
 | The Full Glow-Up | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Scum and Villainy | 0.00% | ~0 |
@@ -41,9 +42,15 @@ Rating: 4.69 (Ranked 214)
 | Feel the Force | 0.00% | ~0 |
 | A Galaxy Far, Far Away | 0.00% | ~0 |
 | Trust Only In The Force | 0.00% | ~0 |
-| The Mantis | 0.00% | ~0 |
 | A Long Time Ago | 0.00% | ~0 |
 | The Obstacle is the Way | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 473)  
+Completed: 0 (0.00%) (Ranked 242)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-07-27 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

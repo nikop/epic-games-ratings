@@ -1357,9 +1357,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 189042,
+  "EOS_Progressed": 189048,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1916,
+  "EOS_NewPlayers": 1907,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12112,6 +12112,11 @@
       "Time": "2023-07-27T20:08:24.6877875+00:00",
       "NumProgressed": 189042,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-27T21:09:15.8275241+00:00",
+      "NumProgressed": 189048,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 44,
@@ -12379,7 +12384,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "TheCave",
@@ -12474,15 +12479,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 189042,
+      "Progressed": 189048,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-26T11:59:19.884643+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:08:24.6877868+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:09:15.8275236+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.4942991+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:00:37.3767605+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:08:24.6879394+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:01:13.2485838+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:09:15.8276022+00:00"
 }

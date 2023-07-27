@@ -2,10 +2,10 @@
   "ID": "ebf7b58e33e14f88b9bd08db56f508da",
   "Name": "Zorans: Resistance (Early Access)",
   "ProductSlug": "zorans-resistance-2bc134",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-14T22:00:00+00:00",
     "PcReleaseDate": "2023-06-14T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-24T00:02:31.4568444+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:50.4454238+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:59:29.6208021+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:07:01.9704267+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:59:52.9411663+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:07:42.194126+00:00"
 }

@@ -7,12 +7,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 21.00% | ~2,231 |
-| A Spark | 15.00% | ~1,593 |
-| Burning City | 14.00% | ~1,487 |
+| A Spark | 15.00% | ~1,594 |
+| Burning City | 14.00% | ~1,488 |
 | Mythic Choices | 12.00% | ~1,275 |
 | Defender's Heart | 12.00% | ~1,275 |
 | Banner over the Citadel | 11.00% | ~1,169 |
-| Queen's Gratitude | 10.00% | ~1,062 |
+| Queen's Gratitude | 10.00% | ~1,063 |
 | Fifth Crusade | 7.00% | ~744 |
 | Embrace of the Abyss | 5.00% | ~531 |
 | Path of the Angel | 5.00% | ~531 |
@@ -32,14 +32,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~319 |
 | The Lady of the Forest | 3.00% | ~282 |
 | Beware Still Water | 3.00% | ~282 |
-| Path of the Aeon | 2.00% | ~212 |
-| Path of the Trickster | 2.00% | ~212 |
-| Path of the Lich | 2.00% | ~212 |
-| Heroic Victory | 2.00% | ~212 |
-| Capitulation Is Now Moot | 2.00% | ~212 |
-| Core of the Riddle | 2.00% | ~212 |
-| Your First Big Enemy | 2.00% | ~212 |
-| Truly Important Deed | 2.00% | ~212 |
+| Path of the Aeon | 2.00% | ~213 |
+| Path of the Trickster | 2.00% | ~213 |
+| Path of the Lich | 2.00% | ~213 |
+| Heroic Victory | 2.00% | ~213 |
+| Capitulation Is Now Moot | 2.00% | ~213 |
+| Core of the Riddle | 2.00% | ~213 |
+| Your First Big Enemy | 2.00% | ~213 |
+| Truly Important Deed | 2.00% | ~213 |
 | Stay Underground | 2.00% | ~188 |
 | Hanged Man's Notes | 2.00% | ~188 |
 | Sarkoris Will Be Green | 2.00% | ~188 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.70% | ~74 |
 | Dreadful Dragon | 0.60% | ~64 |
 | Masterful Charge | 0.50% | ~53 |
-| Prelate's Nemesis | 0.40% | ~42 |
+| Prelate's Nemesis | 0.40% | ~43 |
 | Just Pathetic | 0.30% | ~32 |
 | Ashes to Ashes | 0.30% | ~32 |
 | Masterful Dispel | 0.20% | ~21 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,623 (Ranked 119)  
+Progressed: 10,626 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 10,551 | 0 |
 | 2023-07-25 | 10,575 | 0 |
 | 2023-07-26 | 10,595 | 0 |
-| 2023-07-27 | 10,623 | 0 |
+| 2023-07-27 | 10,626 | 0 |
 ## Awards
 Max (Character Customization): 1,690  (Ranked 117)  
 Sum: 6,844 (Ranked 115)  

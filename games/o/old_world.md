@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.60% | ~79 |
 | Just | 0.60% | ~79 |
 | Mason | 0.60% | ~79 |
+| Pioneer | 0.60% | ~79 |
 | Strong | 0.60% | ~79 |
 | Hanging Gardens | 0.60% | ~79 |
 | Oracle | 0.60% | ~79 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
-| Pioneer | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |

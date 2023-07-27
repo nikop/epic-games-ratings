@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement11",
@@ -404,8 +404,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:05:21.0077613+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:06:05.7022463+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:11.4625039+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:02:26.4751786+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:05:21.0077767+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:02:58.6698924+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:06:05.7022587+00:00"
 }

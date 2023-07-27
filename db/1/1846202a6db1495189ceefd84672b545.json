@@ -4,8 +4,8 @@
   "ProductSlug": "the-future-project-f19b52",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-27T09:00:00+00:00",
     "PcReleaseDate": "2023-07-27T09:00:00+00:00",
@@ -301,8 +301,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T14:01:46.6937732+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:04:39.0477705+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:05:20.6866064+00:00",
   "LastUpdate_AppInfo": "2023-07-26T21:57:06.8181124+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:57:51.1373373+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:04:39.0478094+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:58:09.6768881+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:05:20.686625+00:00"
 }

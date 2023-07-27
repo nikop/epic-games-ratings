@@ -2,10 +2,10 @@
   "ID": "80bb6e7ef6b94fe79b56f5254746f824",
   "Name": "While We Wait Here",
   "ProductSlug": "while-we-wait-here-94fa5d",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.6302415+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:01:56.2397867+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:07:03.649458+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:02:29.8562201+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:07:43.8568032+00:00"
 }

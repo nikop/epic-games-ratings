@@ -23,6 +23,7 @@ Rating: 4.41 (Ranked 675)
 | Change the Channel | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
+| Just a Flesh Wound | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
 | Skirmisher | 2.00% | ~67 |
 | Set Europe Ablaze | 2.00% | ~67 |
@@ -34,7 +35,6 @@ Rating: 4.41 (Ranked 675)
 | Snake in the Grass | 2.00% | ~67 |
 | Enemy at the Gates | 1.00% | ~34 |
 | Fields of Glory | 1.00% | ~34 |
-| Just a Flesh Wound | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Die Nussknacker Sweet! | 1.00% | ~34 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 675)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,359 (Ranked 149)  
+Progressed: 3,360 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 9 (0.27%) (Ranked 158)
 | 2023-07-24 | 3,338 | 9 |
 | 2023-07-25 | 3,348 | 9 |
 | 2023-07-26 | 3,353 | 9 |
-| 2023-07-27 | 3,359 | 9 |
+| 2023-07-27 | 3,360 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "d8433b600df2400a82afa964a3135ebe",
   "Name": "Space Empires V",
   "ProductSlug": "space-empires-v-0319fd",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-13T04:00:00+00:00",
     "PcReleaseDate": "2006-10-16T03:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:55.8416393+00:00",
   "LastChanged": "2023-03-31T05:56:55.8416394+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:36.2271518+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:01:26.2214795+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:07:34.4420152+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:02:00.2065765+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:08:26.3285246+00:00"
 }

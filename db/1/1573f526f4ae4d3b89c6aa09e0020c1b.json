@@ -2,10 +2,10 @@
   "ID": "1573f526f4ae4d3b89c6aa09e0020c1b",
   "Name": "Sleengster",
   "ProductSlug": "sleengster-92cdf8",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-30T14:00:00+00:00",
     "PcReleaseDate": "2023-06-30T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-21T15:57:14.9925119+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:57:33.2405657+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:04:04.561092+00:00"
+  "LastUpdate_Ratings": "2023-07-27T20:57:46.3278221+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:04:44.5069437+00:00"
 }

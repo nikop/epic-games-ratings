@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3254,9 +3254,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10623,
+  "EOS_Progressed": 10626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9494,6 +9494,11 @@
       "Time": "2023-07-27T20:03:45.0209548+00:00",
       "NumProgressed": 10623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T21:04:23.8098813+00:00",
+      "NumProgressed": 10626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9513,7 +9518,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9585,7 +9590,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "12_PathOfTrickster",
@@ -9593,7 +9598,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "13_PathOfLich",
@@ -9601,7 +9606,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "14_PathOfSwarm",
@@ -9705,7 +9710,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "28_GreatUpstart",
@@ -9729,7 +9734,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "31_DivideAndRule",
@@ -9761,7 +9766,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -9777,7 +9782,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -9785,7 +9790,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -9793,7 +9798,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "39_Blight of Drezen",
@@ -9873,7 +9878,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "49_Flame",
@@ -9905,7 +9910,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -10432,21 +10437,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9405,
+      "Progressed": 9408,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10623,
+      "Progressed": 10626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-26T15:59:43.5553207+00:00",
-  "LastChanged_Achievements": "2023-07-27T20:03:45.020954+00:00",
+  "LastChanged_Achievements": "2023-07-27T21:04:23.8098809+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-27T19:59:46.9160167+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:03:45.0212491+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:00:10.1321804+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:04:23.8100445+00:00"
 }

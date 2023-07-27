@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,736 |
+| Until death do us apart | 9.00% | ~6,737 |
 | That's a Grand Army | 8.00% | ~5,988 |
 | That is mine! | 8.00% | ~5,988 |
 | Victorious! | 8.00% | ~5,988 |
 | Brothers in Arms | 6.00% | ~4,491 |
 | That's a Grand Navy | 6.00% | ~4,491 |
 | Seriously?! | 6.00% | ~4,491 |
-| For the Glory | 5.00% | ~3,742 |
+| For the Glory | 5.00% | ~3,743 |
 | Cold War | 4.00% | ~2,994 |
 | True Catholic | 4.00% | ~2,994 |
-| Defender of the Faith | 3.00% | ~2,245 |
-| It's all about luck | 3.00% | ~2,245 |
-| It's all about the money | 3.00% | ~2,245 |
-| Respected | 3.00% | ~2,245 |
-| The Princess is in this Castle | 3.00% | ~2,245 |
-| Truly Divine Ruler | 3.00% | ~2,245 |
+| Defender of the Faith | 3.00% | ~2,246 |
+| It's all about luck | 3.00% | ~2,246 |
+| It's all about the money | 3.00% | ~2,246 |
+| Respected | 3.00% | ~2,246 |
+| The Princess is in this Castle | 3.00% | ~2,246 |
+| Truly Divine Ruler | 3.00% | ~2,246 |
 | Agressive Expander | 2.00% | ~1,497 |
 | Blockader | 2.00% | ~1,497 |
 | Combined Arms | 2.00% | ~1,497 |
@@ -31,15 +31,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 2.00% | ~1,497 |
 | Royal Authority | 2.00% | ~1,497 |
 | Total Control | 2.00% | ~1,497 |
-| All That's Thine Shall Be Mine | 1.00% | ~748 |
-| Azur semé de lis or | 1.00% | ~748 |
-| Bright Spark | 1.00% | ~748 |
-| City of Cities | 1.00% | ~748 |
-| The Emperors new clothes | 1.00% | ~748 |
-| Factionalism | 1.00% | ~748 |
-| A Golden Empire | 1.00% | ~748 |
-| The Five Colonies | 1.00% | ~748 |
-| This navy can take it all | 1.00% | ~748 |
+| All That's Thine Shall Be Mine | 1.00% | ~749 |
+| Azur semé de lis or | 1.00% | ~749 |
+| Bright Spark | 1.00% | ~749 |
+| City of Cities | 1.00% | ~749 |
+| The Emperors new clothes | 1.00% | ~749 |
+| Factionalism | 1.00% | ~749 |
+| A Golden Empire | 1.00% | ~749 |
+| The Five Colonies | 1.00% | ~749 |
+| This navy can take it all | 1.00% | ~749 |
 | Down Under | 0.90% | ~674 |
 | Isn't this the way to India? | 0.90% | ~674 |
 | Market Control | 0.90% | ~674 |
@@ -49,6 +49,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.60% | ~449 |
 | At every continent | 0.60% | ~449 |
 | One Family to Rule them All | 0.60% | ~449 |
+| Ruina Imperii | 0.60% | ~449 |
 | The pen is mightier than the sword | 0.60% | ~449 |
 | This is My Faith | 0.60% | ~449 |
 | Time Bandit | 0.60% | ~449 |
@@ -57,7 +58,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.50% | ~374 |
 | In the Name of the Father | 0.50% | ~374 |
 | Live Long and Prosper | 0.50% | ~374 |
-| Ruina Imperii | 0.50% | ~374 |
 | Trophy Hunter | 0.50% | ~374 |
 | Voting Streak | 0.50% | ~374 |
 | All Your Trade Are Belong to Us | 0.40% | ~299 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,846 (Ranked 74)  
+Progressed: 74,854 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
-| 2023-07-27 | 74,846 | 0 |
+| 2023-07-27 | 74,854 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
 Sum: 46,075 (Ranked 26)  

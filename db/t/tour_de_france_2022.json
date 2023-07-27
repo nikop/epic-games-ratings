@@ -2,10 +2,10 @@
   "ID": "c813a73d011348de81f8873305ad1a24",
   "Name": "Tour de France 2022",
   "ProductSlug": "tour-de-france-2022-8bb5fb",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-15T06:00:00+00:00",
     "PcReleaseDate": "2022-06-09T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.3516751+00:00",
-  "LastUpdate_Ratings": "2023-07-27T20:00:06.8674776+00:00",
-  "LastUpdate_Achievements": "2023-07-27T20:03:06.234243+00:00"
+  "LastUpdate_Ratings": "2023-07-27T21:00:36.4148521+00:00",
+  "LastUpdate_Achievements": "2023-07-27T21:03:41.7589697+00:00"
 }
