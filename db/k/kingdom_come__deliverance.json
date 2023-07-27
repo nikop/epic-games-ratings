@@ -6198,9 +6198,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794328,
+  "EOS_Progressed": 794329,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1063,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16728,6 +16728,11 @@
       "Time": "2023-07-27T01:54:20.4144938+00:00",
       "NumProgressed": 794328,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-27T02:25:25.6553868+00:00",
+      "NumProgressed": 794329,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -16763,7 +16768,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127092
+      "UsersEstimate": 127093
     },
     {
       "ID": "Awakening",
@@ -16939,7 +16944,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182695
+      "UsersEstimate": 182696
     },
     {
       "ID": "Fighter",
@@ -17394,15 +17399,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794328,
+      "Progressed": 794329,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-27T01:49:31.2005759+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:54:20.414493+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:25:25.6553864+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.4287749+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:49:31.2005766+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:54:20.4146643+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:20:36.2770207+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:25:25.6555483+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 58948,
+  "EOS_Progressed": 58949,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1386,
+  "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9177,6 +9177,11 @@
       "Time": "2023-07-27T01:54:35.0629042+00:00",
       "NumProgressed": 58948,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-27T02:25:38.1262665+00:00",
+      "NumProgressed": 58949,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9460,7 +9465,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "36",
@@ -9644,7 +9649,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "59",
@@ -9660,7 +9665,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "61",
@@ -9716,28 +9721,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 58948,
+      "Progressed": 58949,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22416,
+      "Progressed": 22417,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:54:35.0629033+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:25:38.1262659+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:48:32.4688305+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:54:35.0630339+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:19:45.8656041+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:25:38.1263893+00:00"
 }

@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
+| Hagia Sophia | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Mausoleum | 0.20% | ~26 |
@@ -181,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Tyresome Siege | 0.10% | ~13 |
 | Hittite Iron | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
-| Hagia Sophia | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Via Recta Souk | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,110 (Ranked 115)  
+Progressed: 13,111 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,110 | 5 |
+| 2023-07-27 | 13,111 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

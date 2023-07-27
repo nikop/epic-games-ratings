@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13110,
+  "EOS_Progressed": 13111,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8583,6 +8583,11 @@
       "Time": "2023-07-27T01:56:44.4677129+00:00",
       "NumProgressed": 13110,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T02:27:27.6160334+00:00",
+      "NumProgressed": 13111,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9952,9 +9957,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -10961,21 +10966,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13110,
+      "Progressed": 13111,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13110,
+      "Progressed": 13111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:56:44.4677122+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:27:27.6160328+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:48:52.7692441+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:56:44.4688817+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:20:03.1175995+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:27:27.6169834+00:00"
 }

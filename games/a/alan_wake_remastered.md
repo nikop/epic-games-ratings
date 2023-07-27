@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 35.00% | ~20,632 |
-| Let There Be Light | 28.00% | ~16,505 |
+| Let There Be Light | 28.00% | ~16,506 |
 | Float Like a Butterfly | 27.00% | ~15,916 |
 | Nordic Walking | 22.00% | ~12,969 |
 | Bright Falls' Finest | 21.00% | ~12,379 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,358 |
 | If It Flies, It Burns | 4.00% | ~2,358 |
 | KBF-FM | 4.00% | ~2,358 |
-| Kill Your Darlings | 3.00% | ~672 |
-| Heartbreaker | 3.00% | ~672 |
+| Kill Your Darlings | 3.00% | ~673 |
+| Heartbreaker | 3.00% | ~673 |
 | Medical Opinions | 2.00% | ~1,179 |
 | Taken Season | 2.00% | ~1,179 |
 | Carny | 2.00% | ~1,179 |
@@ -56,7 +56,7 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~589 |
 | Go Gentle Into That Good Light | 1.00% | ~224 |
 | Words Will Never Harm You | 0.70% | ~157 |
-| Cardboard Companions | 0.60% | ~134 |
+| Cardboard Companions | 0.60% | ~135 |
 | Fast and Furious | 0.50% | ~112 |
 | Run-On Sentence | 0.40% | ~90 |
 | License Revoked | 0.40% | ~90 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,948 (Ranked 82)  
+Progressed: 58,949 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 58 (0.10%) (Ranked 189)
 | 2023-07-24 | 58,629 | 58 |
 | 2023-07-25 | 58,790 | 58 |
 | 2023-07-26 | 58,927 | 58 |
-| 2023-07-27 | 58,948 | 58 |
+| 2023-07-27 | 58,949 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 38.00% | ~26,203 |
-| Final touch | 37.00% | ~25,513 |
+| Final touch | 37.00% | ~25,514 |
 | Prop-M Rover | 33.00% | ~22,755 |
 | Changing the Planet | 29.00% | ~19,997 |
 | Sojourner | 27.00% | ~18,618 |
@@ -18,8 +18,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Curiosity | 20.00% | ~13,791 |
 | Collector | 20.00% | ~13,791 |
 | Master | 20.00% | ~13,791 |
-| No Longer Red | 19.00% | ~13,101 |
-| Self-sufficient | 19.00% | ~13,101 |
+| No Longer Red | 19.00% | ~13,102 |
+| Self-sufficient | 19.00% | ~13,102 |
 | Money money | 16.00% | ~11,033 |
 | Biggest Reward | 14.00% | ~9,654 |
 | Acquired knowledge | 13.00% | ~8,964 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,069 |
 | Opportunity | 3.00% | ~2,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,955 (Ranked 76)  
+Progressed: 68,956 (Ranked 76)  
 Completed: 81 (0.12%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,10 +135,10 @@ Completed: 81 (0.12%) (Ranked 184)
 | 2023-07-24 | 68,677 | 78 |
 | 2023-07-25 | 68,813 | 79 |
 | 2023-07-26 | 68,943 | 81 |
-| 2023-07-27 | 68,955 | 81 |
+| 2023-07-27 | 68,956 | 81 |
 ## Awards
 Max (Relaxing): 506  (Ranked 194)  
-Sum: 3,128 (Ranked 155)  
+Sum: 3,129 (Ranked 155)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 490 |
 | This game has Quickly Understood Controls | 454 |
 | This game has Competitive Players | 446 |
-| This game is Extremely Fun | 443 |
+| This game is Extremely Fun | 444 |
 | This game has Amazing Storytelling | 356 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 236 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 39
 | 2023-07-21 | 4.54 | - | 506 | 3,124 |
 | 2023-07-24 | 4.54 | - | 506 | 3,126 |
 | 2023-07-26 | 4.54 | - | 506 | 3,128 |
+| 2023-07-27 | 4.54 | - | 506 | 3,129 |

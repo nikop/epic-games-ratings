@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,317 |
 | Beast Intentions | 2.00% | ~4,317 |
-| Maddening | 1.00% | ~2,158 |
-| The Silken Swamp | 1.00% | ~2,158 |
+| Maddening | 1.00% | ~2,159 |
+| The Silken Swamp | 1.00% | ~2,159 |
 | Supply Run | 0.90% | ~1,943 |
 | Rocky Reception | 0.90% | ~1,639 |
 | Rock and Roll | 0.80% | ~1,457 |
@@ -27,12 +27,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Champion's Guide to Wildspace | 0.50% | ~911 |
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
-| The Witchlight Carnival | 0.40% | ~728 |
+| The Witchlight Carnival | 0.40% | ~729 |
 | Don't Look Up! | 0.40% | ~863 |
 | Heavy Burden | 0.40% | ~863 |
-| The Evacuation of Waterdeep | 0.40% | ~728 |
+| The Evacuation of Waterdeep | 0.40% | ~729 |
 | Friends of the Forest | 0.40% | ~863 |
-| The Dread Domain of Tovag | 0.40% | ~728 |
+| The Dread Domain of Tovag | 0.40% | ~729 |
 | Were-verpowered | 0.40% | ~863 |
 | A Persistent Buzzing | 0.40% | ~863 |
 | Beast Mode | 0.40% | ~863 |
@@ -45,11 +45,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~863 |
 | The Mists of Ravenloft | 0.40% | ~863 |
 | The Dinner Party | 0.40% | ~863 |
-| Not That Type of Helm! | 0.40% | ~728 |
-| Bazaar Companions | 0.40% | ~728 |
-| Bahamut's Army | 0.40% | ~728 |
-| Krux's Speed Run | 0.40% | ~728 |
-| Animated Giff | 0.40% | ~728 |
+| Not That Type of Helm! | 0.40% | ~729 |
+| Bazaar Companions | 0.40% | ~729 |
+| Bahamut's Army | 0.40% | ~729 |
+| Krux's Speed Run | 0.40% | ~729 |
+| Animated Giff | 0.40% | ~729 |
 | Upholding the Law | 0.30% | ~648 |
 | Thieves of the Coven | 0.30% | ~546 |
 | Hither of the Feywild | 0.30% | ~546 |
@@ -67,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
 | The Botched Kidnapping | 0.30% | ~648 |
+| Tower on the Lake | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
 | Escort to Waterdeep | 0.30% | ~648 |
 | The Mad Wizard | 0.30% | ~648 |
@@ -123,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.20% | ~432 |
 | The Immortal Warrior | 0.20% | ~432 |
 | The Wyrmheart Mine | 0.20% | ~432 |
-| Tower on the Lake | 0.20% | ~432 |
 | Trollskull Manor | 0.20% | ~432 |
 | Attack on the Manor | 0.20% | ~432 |
 | The Cursed Farmer | 0.20% | ~432 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,847 (Ranked 53)  
-Completed: 2,121 (0.98%) (Ranked 107)  
+Progressed: 215,856 (Ranked 53)  
+Completed: 2,122 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,121 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,847 | 2,121 |
+| 2023-07-27 | 215,856 | 2,122 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

@@ -5314,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215847,
-  "EOS_Completed": 2121,
-  "EOS_NewPlayers": 2297,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 215856,
+  "EOS_Completed": 2122,
+  "EOS_NewPlayers": 2306,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15759,6 +15759,11 @@
       "Time": "2023-07-27T01:52:51.5848258+00:00",
       "NumProgressed": 215847,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-07-27T02:23:39.565209+00:00",
+      "NumProgressed": 215856,
+      "NumCompleted": 2122
     }
   ],
   "TotalAchievements": 512,
@@ -15778,7 +15783,7 @@
       "Name": "Maddening",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "objective_completed_100",
@@ -15874,7 +15879,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1056",
@@ -16074,7 +16079,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "objective_completed_1090",
@@ -16418,7 +16423,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1159",
@@ -16554,7 +16559,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1184",
@@ -17312,9 +17317,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_263",
@@ -19738,7 +19743,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1327",
@@ -19778,7 +19783,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_668",
@@ -19786,7 +19791,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1375",
@@ -19850,7 +19855,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_1392",
@@ -19858,28 +19863,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182121,
-      "Completed": 3007
+      "Progressed": 182130,
+      "Completed": 3008
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215847,
-      "Completed": 2121
+      "Progressed": 215856,
+      "Completed": 2122
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:52:51.5848252+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:23:39.5652084+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:49:10.5188906+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:52:51.5879678+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:20:17.4512049+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:23:39.5682775+00:00"
 }

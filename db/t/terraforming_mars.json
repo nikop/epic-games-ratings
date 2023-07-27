@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2474,10 +2474,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 3128,
       "NumberOfAwardsMax": 506
+    },
+    {
+      "Time": "2023-07-27T02:20:28.4790606+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3129,
+      "NumberOfAwardsMax": 506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3128,
+  "NumberOfAwards": 3129,
   "NumberOfAwardsMax": 506,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2491,7 +2497,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 443
+      "Count": 444
     },
     {
       "Text": "This game is Relaxing",
@@ -2536,9 +2542,9 @@
       "Count": 236
     }
   ],
-  "EOS_Progressed": 68955,
+  "EOS_Progressed": 68956,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 1039,
+  "EOS_NewPlayers": 1040,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13001,6 +13007,11 @@
       "Time": "2023-07-27T01:55:50.1520476+00:00",
       "NumProgressed": 68955,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-07-27T02:26:41.4041744+00:00",
+      "NumProgressed": 68956,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 30,
@@ -13044,7 +13055,7 @@
       "Name": "No Longer Red",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 13101
+      "UsersEstimate": 13102
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -13188,7 +13199,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25513
+      "UsersEstimate": 25514
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -13196,7 +13207,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13101
+      "UsersEstimate": 13102
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -13251,15 +13262,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 68955,
+      "Progressed": 68956,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2023-07-26T18:59:24.6738208+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:55:50.1520467+00:00",
+  "LastChanged": "2023-07-27T02:20:28.4790604+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:26:41.4041739+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:54.6981952+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:49:21.1232574+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:55:50.1521568+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:20:28.479061+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:26:41.4042649+00:00"
 }

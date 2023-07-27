@@ -47,9 +47,9 @@
       "ID": "BULLET_DANCING",
       "SetID": "71i70nl",
       "Name": "Bullet Dancing",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EARTHBENDING",
@@ -183,9 +183,9 @@
       "ID": "NEED_WEAPON",
       "SetID": "71i70nl",
       "Name": "I Need a Weapon",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NO_SIGNS_LIFE",
@@ -301,8 +301,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T14:01:46.6937732+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:54:28.3620949+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:25:32.3039211+00:00",
   "LastUpdate_AppInfo": "2023-07-26T21:57:06.8181124+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:47:46.0023474+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:54:28.362125+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:19:04.5592474+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:25:32.303945+00:00"
 }

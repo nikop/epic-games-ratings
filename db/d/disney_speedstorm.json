@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3019,
+  "EOS_Progressed": 3020,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -3820,6 +3820,11 @@
       "Time": "2023-07-27T01:57:09.6439574+00:00",
       "NumProgressed": 3019,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-07-27T02:27:49.2913353+00:00",
+      "NumProgressed": 3020,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 24,
@@ -3887,7 +3892,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "17",
@@ -3911,7 +3916,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "2",
@@ -3967,7 +3972,7 @@
       "Name": "FRIENDLY",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "4",
@@ -3983,7 +3988,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "6",
@@ -3991,7 +3996,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "7",
@@ -4015,20 +4020,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3019,
+      "Progressed": 3020,
       "Completed": 116
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:57:09.6439564+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:27:49.2913345+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:50:18.675372+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:57:09.6440112+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:21:20.2804996+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:27:49.2913794+00:00"
 }

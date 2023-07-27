@@ -6,62 +6,62 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~28,719 |
-| Skillful | 4.00% | ~28,719 |
-| Handyman | 3.00% | ~21,540 |
-| Nerves of steel | 3.00% | ~21,540 |
-| Zealous | 3.00% | ~21,540 |
-| Not half bad | 3.00% | ~21,540 |
-| Bloody Millionaire | 3.00% | ~21,540 |
-| Apt Survivor | 3.00% | ~21,540 |
-| Survival Treasures | 3.00% | ~21,540 |
-| I | 3.00% | ~21,540 |
-| Sorted | 3.00% | ~21,540 |
-| Extraterrestrial | 3.00% | ~21,540 |
-| One More Step | 3.00% | ~21,540 |
-| The Grand Sacrifice | 2.00% | ~14,360 |
-| Agonizing Escape | 2.00% | ~14,360 |
-| Backdoor Escape | 2.00% | ~14,360 |
-| I've got your back | 2.00% | ~14,360 |
-| No one left behind | 2.00% | ~14,360 |
-| Medic | 2.00% | ~14,360 |
-| Perfect Escape | 2.00% | ~14,360 |
-| Perfect Killing | 2.00% | ~14,360 |
-| Apt Killer | 2.00% | ~14,360 |
-| Risk it all | 2.00% | ~14,360 |
-| Vulture | 2.00% | ~14,360 |
-| II | 2.00% | ~14,360 |
-| III | 2.00% | ~14,360 |
-| III-50 | 2.00% | ~14,360 |
-| Engineer | 2.00% | ~14,360 |
-| Happy Holidays | 2.00% | ~14,360 |
-| Complete the Evolution | 2.00% | ~14,360 |
-| Make Some Noise | 2.00% | ~14,360 |
-| A bite for the Entity | 1.00% | ~7,180 |
-| Blood on your hands | 1.00% | ~7,180 |
-| Blood on your face | 1.00% | ~7,180 |
-| Escape Artist | 1.00% | ~7,180 |
-| Made it out alive! | 1.00% | ~7,180 |
-| Gifts for the Fog | 1.00% | ~7,180 |
-| Shock Therapy | 1.00% | ~7,180 |
-| All Aboard | 1.00% | ~7,180 |
-| Leapfrog | 1.00% | ~7,180 |
-| Item of Obsession | 1.00% | ~7,180 |
-| House of Pain | 1.00% | ~7,180 |
-| Cottage Owner | 1.00% | ~7,180 |
-| Serial Killer | 1.00% | ~7,180 |
-| Escaping the Nightmare | 1.00% | ~7,180 |
-| Holiday Get-Together | 1.00% | ~7,180 |
-| Game Over | 1.00% | ~7,180 |
-| Near-Death Experience | 1.00% | ~7,180 |
-| Cherish your Life | 1.00% | ~7,180 |
-| Campbell's Chapel Legacy | 1.00% | ~7,180 |
-| Hemophobia | 0.90% | ~6,462 |
-| Deep Cleansing | 0.90% | ~6,462 |
-| Outrage | 0.90% | ~6,462 |
-| Jump Scares | 0.80% | ~5,744 |
-| Texas BBQ | 0.80% | ~5,744 |
-| Party Crasher | 0.80% | ~5,744 |
+| It wakes | 4.00% | ~28,723 |
+| Skillful | 4.00% | ~28,723 |
+| Handyman | 3.00% | ~21,542 |
+| Nerves of steel | 3.00% | ~21,542 |
+| Zealous | 3.00% | ~21,542 |
+| Not half bad | 3.00% | ~21,542 |
+| Bloody Millionaire | 3.00% | ~21,542 |
+| Apt Survivor | 3.00% | ~21,542 |
+| Survival Treasures | 3.00% | ~21,542 |
+| I | 3.00% | ~21,542 |
+| Sorted | 3.00% | ~21,542 |
+| Extraterrestrial | 3.00% | ~21,542 |
+| One More Step | 3.00% | ~21,542 |
+| The Grand Sacrifice | 2.00% | ~14,361 |
+| Agonizing Escape | 2.00% | ~14,361 |
+| Backdoor Escape | 2.00% | ~14,361 |
+| I've got your back | 2.00% | ~14,361 |
+| No one left behind | 2.00% | ~14,361 |
+| Medic | 2.00% | ~14,361 |
+| Perfect Escape | 2.00% | ~14,361 |
+| Perfect Killing | 2.00% | ~14,361 |
+| Apt Killer | 2.00% | ~14,361 |
+| Risk it all | 2.00% | ~14,361 |
+| Vulture | 2.00% | ~14,361 |
+| II | 2.00% | ~14,361 |
+| III | 2.00% | ~14,361 |
+| III-50 | 2.00% | ~14,361 |
+| Engineer | 2.00% | ~14,361 |
+| Happy Holidays | 2.00% | ~14,361 |
+| Complete the Evolution | 2.00% | ~14,361 |
+| Make Some Noise | 2.00% | ~14,361 |
+| A bite for the Entity | 1.00% | ~7,181 |
+| Blood on your hands | 1.00% | ~7,181 |
+| Blood on your face | 1.00% | ~7,181 |
+| Escape Artist | 1.00% | ~7,181 |
+| Made it out alive! | 1.00% | ~7,181 |
+| Gifts for the Fog | 1.00% | ~7,181 |
+| Shock Therapy | 1.00% | ~7,181 |
+| All Aboard | 1.00% | ~7,181 |
+| Leapfrog | 1.00% | ~7,181 |
+| Item of Obsession | 1.00% | ~7,181 |
+| House of Pain | 1.00% | ~7,181 |
+| Cottage Owner | 1.00% | ~7,181 |
+| Serial Killer | 1.00% | ~7,181 |
+| Escaping the Nightmare | 1.00% | ~7,181 |
+| Holiday Get-Together | 1.00% | ~7,181 |
+| Game Over | 1.00% | ~7,181 |
+| Near-Death Experience | 1.00% | ~7,181 |
+| Cherish your Life | 1.00% | ~7,181 |
+| Campbell's Chapel Legacy | 1.00% | ~7,181 |
+| Hemophobia | 0.90% | ~6,463 |
+| Deep Cleansing | 0.90% | ~6,463 |
+| Outrage | 0.90% | ~6,463 |
+| Jump Scares | 0.80% | ~5,745 |
+| Texas BBQ | 0.80% | ~5,745 |
+| Party Crasher | 0.80% | ~5,745 |
 | Blood in your mouth | 0.60% | ~4,308 |
 | Whiffing to Success | 0.60% | ~4,308 |
 | Mad House | 0.50% | ~3,590 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Gabriel | 0.10% | ~718 |
 | Adept Cage | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,987 (Ranked 18)  
+Progressed: 718,070 (Ranked 18)  
 Completed: 43 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 43 (0.01%) (Ranked 230)
 | 2023-07-24 | 710,465 | 42 |
 | 2023-07-25 | 713,895 | 43 |
 | 2023-07-26 | 717,600 | 43 |
-| 2023-07-27 | 717,987 | 43 |
+| 2023-07-27 | 718,070 | 43 |
 ## Awards
 Max (Diverse Characters): 30,324  (Ranked 15)  
 Sum: 239,985 (Ranked 12)  

@@ -7,9 +7,9 @@ Rating: 4.52 (Ranked 519)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 80.00% | ~1,440 |
 | Become King | 72.00% | ~1,296 |
+| Defeat 25 Frogs | 62.00% | ~1,116 |
 | Ranged Weapon | 61.00% | ~1,098 |
-| Defeat 25 Frogs | 61.00% | ~1,098 |
-| Collect Monster Parts | 57.00% | ~1,026 |
+| Collect Monster Parts | 58.00% | ~1,044 |
 | Two Handed Weapon | 56.00% | ~1,008 |
 | Defeat 25 Grubs | 52.00% | ~936 |
 | Rescue Redgi's Brothers | 51.00% | ~918 |

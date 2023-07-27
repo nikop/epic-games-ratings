@@ -475,9 +475,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 332735,
+  "EOS_Progressed": 332736,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1674,
+  "EOS_NewPlayers": 1675,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11065,6 +11065,11 @@
       "Time": "2023-07-27T01:57:37.4857288+00:00",
       "NumProgressed": 332735,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T02:28:22.9583034+00:00",
+      "NumProgressed": 332736,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -11284,7 +11289,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 153058
+      "UsersEstimate": 153059
     },
     {
       "ID": "ach028",
@@ -11412,7 +11417,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "ach044",
@@ -11436,7 +11441,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "ach047",
@@ -11684,7 +11689,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "ach079",
@@ -11715,7 +11720,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 332735,
+      "Progressed": 332736,
       "Completed": 5
     }
   ],
@@ -11723,8 +11728,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-23T20:58:17.9975628+00:00",
-  "LastChanged_Achievements": "2023-07-27T01:57:37.4857279+00:00",
+  "LastChanged_Achievements": "2023-07-27T02:28:22.9583029+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.9048687+00:00",
-  "LastUpdate_Ratings": "2023-07-27T01:48:41.8790046+00:00",
-  "LastUpdate_Achievements": "2023-07-27T01:57:37.485939+00:00"
+  "LastUpdate_Ratings": "2023-07-27T02:19:53.4556868+00:00",
+  "LastUpdate_Achievements": "2023-07-27T02:28:22.958465+00:00"
 }

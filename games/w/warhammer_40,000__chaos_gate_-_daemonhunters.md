@@ -32,6 +32,7 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Efficient Killer | 0.10% | ~3 |
+| Exercise in Restraint | 0.10% | ~3 |
 | Just a Scratch | 0.10% | ~3 |
 | Only in Death | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
@@ -65,7 +66,6 @@ Number of Ratings: 371  (23.09.2022)
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
-| Exercise in Restraint | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Engine Kill | 0.00% | ~0 |
