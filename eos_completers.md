@@ -11,7 +11,7 @@
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 11 | [Island Cities](games/i/island_cities.md) | 18.69% |
-| 12 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
+| 12 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.79% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
@@ -49,7 +49,7 @@
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.84% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.87% |
 | 51 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.57% |
@@ -148,12 +148,12 @@
 | 146 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 147 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 147 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 149 | [Scrapnaut](games/s/scrapnaut.md) | 0.32% |
 | 149 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 151 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 151 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 151 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 151 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 150 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
+| 150 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 150 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 150 | [Scrapnaut](games/s/scrapnaut.md) | 0.31% |
 | 155 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 156 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.28% |
 | 156 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |

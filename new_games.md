@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 2 | - | - |
+| [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 3 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 32 (1,000 XP) | 1 | - | - |
 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 2023-07-27 | 18 (1,000 XP) | 1 | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2023-07-27 | 43 (1,000 XP) | 1 | - | - |
@@ -15,7 +15,7 @@
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-07-25 | - |  | - | 0 |
-| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 55,692 | 4.81 | 0 |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 56,216 | 4.79 | 0 |
 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 2023-07-25 | - |  | - | 0 |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | 0 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | - |  | - | - |
@@ -66,7 +66,7 @@
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-07-13 | 40 (1,000 XP) | 0 | - | 0 |
 | [The Zombie Smasher](games/d/dd115523a4e24061be581586b20645ef.md) | 2023-07-13 | - |  | - | 0 |
 | [A Second Before The War](games/5/52fb1bcf3a604f3b9d2a2a2adea86d82.md) | 2023-07-12 | - |  | - | - |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 124 | - | 0 |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 125 | - | 0 |
 | [mummification](games/m/mummification.md) | 2023-07-11 | - |  | - | - |
 | [Need for Spirit Drink and Drive Simulator](games/9/93f9285e690e40d58ca6021df41ae11b.md) | 2023-07-09 | - |  | - | 0 |
 | [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-07-07 | - |  | - | - |
