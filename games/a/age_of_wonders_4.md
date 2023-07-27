@@ -7,6 +7,7 @@ Rating: 4.63 (Ranked 330)
 | ---- | ---------- | ----- |
 | Secret Technique | 5.00% | ~253 |
 | Tipping the Scales | 5.00% | ~253 |
+| Full Ascension | 4.00% | ~202 |
 | Realm Estate | 4.00% | ~202 |
 | A Wonderful Discovery | 4.00% | ~202 |
 | Walls Cannot Stop Us | 4.00% | ~202 |
@@ -22,7 +23,6 @@ Rating: 4.63 (Ranked 330)
 | Mighty Hoard | 4.00% | ~202 |
 | Valley of Wonders | 3.00% | ~152 |
 | There Can Only Be One! | 3.00% | ~152 |
-| Full Ascension | 3.00% | ~152 |
 | Digging for Treasure | 3.00% | ~152 |
 | Preparation Is Everything | 3.00% | ~152 |
 | In a Liege of Your Own | 3.00% | ~152 |

@@ -8,9 +8,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~262 |
 | The Great Mage | 1.00% | ~131 |
+| Settler | 0.90% | ~118 |
 | Play a Single Player Game | 0.90% | ~118 |
 | Explorer | 0.80% | ~105 |
-| Settler | 0.80% | ~105 |
 | Poetic Leader | 0.80% | ~105 |
 | Friendly Family | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.50% | ~66 |
 | Good | 0.50% | ~66 |
 | Just | 0.50% | ~66 |
+| Learned | 0.50% | ~66 |
 | Mason | 0.50% | ~66 |
 | Noble | 0.50% | ~66 |
 | Pioneer | 0.50% | ~66 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.40% | ~52 |
 | Glorious | 0.40% | ~52 |
 | Keystone | 0.40% | ~52 |
-| Learned | 0.40% | ~52 |
 | Magnificent | 0.40% | ~52 |
 | Warrior | 0.40% | ~52 |
 | Developing Cities | 0.40% | ~52 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.40% | ~52 |
 | Learn to Play 1 | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
+| Babylonian Paganism | 0.40% | ~52 |
 | Carthaginian Paganism | 0.40% | ~52 |
 | Roman Paganism | 0.40% | ~52 |
 | Zoroastrianism | 0.40% | ~52 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
-| Babylonian Paganism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
 | Mythology | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
@@ -214,6 +214,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
+| Play a Hotseat Game | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
 | Play a Play-By-Cloud Game | 0.10% | ~13 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,114 (Ranked 115)  
+Progressed: 13,116 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,114 | 5 |
+| 2023-07-27 | 13,116 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

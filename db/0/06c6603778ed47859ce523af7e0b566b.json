@@ -4,8 +4,8 @@
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -25,9 +25,339 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-27T11:02:13.0772521+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "All Aboard!",
+      "SetID": "dene75h",
+      "Name": "All Aboard!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All Stuck Down",
+      "SetID": "dene75h",
+      "Name": "All Stuck Down",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Allergies?",
+      "SetID": "dene75h",
+      "Name": "Allergies?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Backup Band",
+      "SetID": "dene75h",
+      "Name": "Backup Band",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beach Day",
+      "SetID": "dene75h",
+      "Name": "Beach Day",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beat our QA",
+      "SetID": "dene75h",
+      "Name": "Beat our QA",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beat our QA again",
+      "SetID": "dene75h",
+      "Name": "Beat our QA again",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Buckets and Bouquets",
+      "SetID": "dene75h",
+      "Name": "Buckets and Bouquets",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Concerted Effort",
+      "SetID": "dene75h",
+      "Name": "Concerted Effort",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Counting Stars",
+      "SetID": "dene75h",
+      "Name": "Counting Stars",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOOT!",
+      "SetID": "dene75h",
+      "Name": "DOOT!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dancing in the Desert",
+      "SetID": "dene75h",
+      "Name": "Dancing in the Desert",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Drag Queen",
+      "SetID": "dene75h",
+      "Name": "Drag Queen",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dragon Fashionista",
+      "SetID": "dene75h",
+      "Name": "Dragon Fashionista",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Finest Silks",
+      "SetID": "dene75h",
+      "Name": "Finest Silks",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fruit Salad",
+      "SetID": "dene75h",
+      "Name": "Fruit Salad",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Grand Circus",
+      "SetID": "dene75h",
+      "Name": "Grand Circus",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gummed Up",
+      "SetID": "dene75h",
+      "Name": "Gummed Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gumshoe",
+      "SetID": "dene75h",
+      "Name": "Gumshoe",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hold Your Breath",
+      "SetID": "dene75h",
+      "Name": "Hold Your Breath",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hoppy Lil\u0027 Guys",
+      "SetID": "dene75h",
+      "Name": "Hoppy Lil\u0027 Guys",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Light It Up!",
+      "SetID": "dene75h",
+      "Name": "Light It Up!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Light Work",
+      "SetID": "dene75h",
+      "Name": "Light Work",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Locksmith",
+      "SetID": "dene75h",
+      "Name": "Locksmith",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Lost Sailors",
+      "SetID": "dene75h",
+      "Name": "Lost Sailors",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Music Maestro",
+      "SetID": "dene75h",
+      "Name": "Music Maestro",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "One Dragon Band",
+      "SetID": "dene75h",
+      "Name": "One Dragon Band",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Perfect Recall",
+      "SetID": "dene75h",
+      "Name": "Perfect Recall",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pine time!",
+      "SetID": "dene75h",
+      "Name": "Pine time!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Prickly Little Friends",
+      "SetID": "dene75h",
+      "Name": "Prickly Little Friends",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Reef Rescue",
+      "SetID": "dene75h",
+      "Name": "Reef Rescue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rockstar",
+      "SetID": "dene75h",
+      "Name": "Rockstar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sail Away",
+      "SetID": "dene75h",
+      "Name": "Sail Away",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sh, Sh, Shake It!",
+      "SetID": "dene75h",
+      "Name": "Sh, Sh, Shake It!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sharp Dressed Dragon",
+      "SetID": "dene75h",
+      "Name": "Sharp Dressed Dragon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "She Shells Sea Sells",
+      "SetID": "dene75h",
+      "Name": "She Shells Sea Sells",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Speed Is Key!",
+      "SetID": "dene75h",
+      "Name": "Speed Is Key!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Squirrelly",
+      "SetID": "dene75h",
+      "Name": "Squirrelly",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sweeter Shooter",
+      "SetID": "dene75h",
+      "Name": "Sweeter Shooter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Travel in Style",
+      "SetID": "dene75h",
+      "Name": "Travel in Style",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WHY?",
+      "SetID": "dene75h",
+      "Name": "WHY?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "dene75h",
@@ -37,8 +367,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:02:28.7021564+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:02:13.0772457+00:00",
   "LastUpdate_AppInfo": "2023-07-21T09:57:01.6597763+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:57:10.3522199+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:02:28.7021651+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:57:11.379845+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:02:13.1162108+00:00"
 }

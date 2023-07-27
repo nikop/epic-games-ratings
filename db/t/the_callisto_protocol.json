@@ -5,9 +5,9 @@
   "Ranking_Rating": 843,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 314,
-  "Ranking_EOS_Progress": 111,
+  "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6327,9 +6327,9 @@
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -6438,8 +6438,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-24T23:59:36.4552357+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:02:50.1010076+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:03:12.7725918+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.4220886+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:59:02.3560106+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:02:50.1010801+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:59:03.4932063+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:03:12.7726473+00:00"
 }

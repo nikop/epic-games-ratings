@@ -2,20 +2,20 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 92,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -1394,10 +1394,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1794,
       "NumberOfAwardsMax": 1370
+    },
+    {
+      "Time": "2023-07-27T11:00:22.0460751+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1795,
+      "NumberOfAwardsMax": 1370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1794,
+  "NumberOfAwards": 1795,
   "NumberOfAwardsMax": 1370,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1429,7 +1435,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1492,8 +1498,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-07-26T13:06:10.4265722+00:00",
+  "LastChanged": "2023-07-27T11:00:22.046075+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:45.6134623+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:00:29.7609017+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:03:22.5572334+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:00:22.0460756+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:03:43.7360116+00:00"
 }

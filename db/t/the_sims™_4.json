@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -4616,10 +4616,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3663,
       "NumberOfAwardsMax": 597
+    },
+    {
+      "Time": "2023-07-27T10:58:28.5495884+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3669,
+      "NumberOfAwardsMax": 597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3663,
+  "NumberOfAwards": 3669,
   "NumberOfAwardsMax": 597,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4627,7 +4633,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 254
+      "Count": 256
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4651,7 +4657,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4687,7 +4693,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 241
+      "Count": 244
     }
   ],
   "EOS_Progressed": 0,
@@ -4702,8 +4708,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-27T07:58:38.2186082+00:00",
+  "LastChanged": "2023-07-27T10:58:28.5495882+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.4775185+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:58:29.3917058+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:02:42.2963408+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:58:28.5495889+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:03:05.4739356+00:00"
 }

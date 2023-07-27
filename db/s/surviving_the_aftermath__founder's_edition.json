@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1131,9 +1131,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7743,
+  "EOS_Progressed": 7744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9096,6 +9096,11 @@
       "Time": "2023-07-27T09:05:17.624315+00:00",
       "NumProgressed": 7743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T11:06:41.1809963+00:00",
+      "NumProgressed": 7744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9105,9 +9110,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4646
     },
     {
       "ID": "10",
@@ -9187,7 +9192,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "2",
@@ -9203,7 +9208,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "21",
@@ -9211,7 +9216,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "22",
@@ -9259,7 +9264,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "28",
@@ -9275,7 +9280,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "3",
@@ -9283,7 +9288,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "30",
@@ -9379,7 +9384,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "41",
@@ -9435,7 +9440,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "48",
@@ -9467,7 +9472,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "51",
@@ -9555,7 +9560,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "8",
@@ -9563,7 +9568,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "9",
@@ -9578,15 +9583,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7743,
+      "Progressed": 7744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-21T17:01:17.0065734+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:06:33.8381852+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:06:41.1809959+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:01:36.5383345+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:06:33.8382912+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:01:22.5920272+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:06:41.1810772+00:00"
 }

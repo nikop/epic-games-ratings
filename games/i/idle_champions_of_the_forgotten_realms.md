@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,928 (Ranked 53)  
-Completed: 2,126 (0.98%) (Ranked 108)  
+Progressed: 215,937 (Ranked 53)  
+Completed: 2,127 (0.99%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,126 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,928 | 2,126 |
+| 2023-07-27 | 215,937 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

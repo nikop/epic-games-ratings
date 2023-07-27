@@ -790,9 +790,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "BearRum",
@@ -846,17 +846,17 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "DevilRope",
@@ -902,9 +902,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "HastrmanAcorn",
@@ -950,17 +950,17 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "PriestBroom",
@@ -1006,9 +1006,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "PrincessThrone",
@@ -1070,9 +1070,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -1094,9 +1094,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "WormGrilled",
@@ -1117,8 +1117,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:06:57.4651954+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:07:02.7193185+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:57:27.1608137+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:06:57.4652385+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:57:28.8044532+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:07:02.7193513+00:00"
 }

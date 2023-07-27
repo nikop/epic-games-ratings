@@ -3,9 +3,9 @@
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.92,
+  "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -517,6 +517,11 @@
       "Time": "2023-07-26T22:04:29.2630766+00:00",
       "NumProgressed": 104,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-27T11:05:13.8194833+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -662,9 +667,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "gagif7",
       "Name": "Highly Qualified",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -766,9 +771,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -782,7 +787,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -790,7 +795,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
       "UsersEstimate": 99
     },
@@ -822,7 +827,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "gagif7",
       "Name": "Lone Wolf",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -839,14 +844,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:05:00.1236297+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:05:13.8194828+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.3686626+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:58:33.6630927+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:05:00.1236679+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:58:34.2565663+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:05:13.819507+00:00"
 }

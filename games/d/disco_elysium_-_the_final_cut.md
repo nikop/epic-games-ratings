@@ -6,28 +6,28 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,824 |
-| Biggest Communism Builder | 24.00% | ~29,849 |
-| The World's Most Laughable Centrist | 20.00% | ~24,874 |
-| Il Coppo Del'Arte! | 18.00% | ~22,387 |
+| Goodest Of The Good Cops | 28.00% | ~34,826 |
+| Biggest Communism Builder | 24.00% | ~29,850 |
+| The World's Most Laughable Centrist | 20.00% | ~24,875 |
+| Il Coppo Del'Arte! | 18.00% | ~22,388 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,900 |
-| Hyperstellar Law Official | 15.00% | ~18,656 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,412 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,168 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,168 |
+| Hyperstellar Law Official | 15.00% | ~18,657 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,413 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,169 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,169 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,681 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,193 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,194 |
 | Unbelievably Boring **** | 8.00% | ~9,950 |
 | Enemy Of The Physical Realm | 8.00% | ~9,950 |
-| Hardie's Heroes | 6.00% | ~7,462 |
+| Hardie's Heroes | 6.00% | ~7,463 |
 | The Lawbringer | 4.00% | ~4,975 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,975 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,731 |
 | Bother Kim After Hours | 3.00% | ~3,731 |
-| Baddest Of the Bad Cops | 2.00% | ~2,487 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,487 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,487 |
-| Wheel of Pleasure and Light | 2.00% | ~2,487 |
+| Baddest Of the Bad Cops | 2.00% | ~2,488 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,488 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,488 |
+| Wheel of Pleasure and Light | 2.00% | ~2,488 |
 | Massive Torque Dork | 1.00% | ~1,244 |
 | Avowed Inframaterialist | 1.00% | ~1,244 |
 | Real Musor | 0.90% | ~1,119 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~124 |
 | What body? | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,372 (Ranked 64)  
+Progressed: 124,377 (Ranked 64)  
 Completed: 27 (0.02%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 27 (0.02%) (Ranked 222)
 | 2023-07-24 | 124,096 | 27 |
 | 2023-07-25 | 124,234 | 27 |
 | 2023-07-26 | 124,348 | 27 |
-| 2023-07-27 | 124,372 | 27 |
+| 2023-07-27 | 124,377 | 27 |
 ## Awards
 Max (Character Customization): 708  (Ranked 162)  
 Sum: 1,070 (Ranked 233)  

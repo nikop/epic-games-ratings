@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4630,
+  "EOS_Progressed": 4632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7066,6 +7066,11 @@
       "Time": "2023-07-27T10:08:00.8549472+00:00",
       "NumProgressed": 4630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T11:08:01.0660062+00:00",
+      "NumProgressed": 4632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7141,7 +7146,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "4",
@@ -7165,7 +7170,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "7",
@@ -7196,7 +7201,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4630,
+      "Progressed": 4632,
       "Completed": 0
     }
   ],
@@ -7204,8 +7209,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:08:00.854946+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:08:01.0660057+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:59:02.7350038+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:08:00.8550004+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:59:03.7916523+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:08:01.0660471+00:00"
 }

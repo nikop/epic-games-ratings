@@ -4,8 +4,8 @@
   "ProductSlug": "starvaders-f96a21",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:44.511268+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:59:11.9323019+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:06:28.9111493+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:59:11.1475174+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:06:36.0206506+00:00"
 }

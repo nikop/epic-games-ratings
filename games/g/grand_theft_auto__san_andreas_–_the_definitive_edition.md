@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 464)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,247 |
-| Pay 'n' Spray | 50.00% | ~5,708 |
+| Getting Started | 81.00% | ~9,249 |
+| Pay 'n' Spray | 50.00% | ~5,709 |
 | All Dressed Up for San Fierro | 25.00% | ~2,854 |
 | The American Dream | 18.00% | ~2,055 |
 | School's Out | 18.00% | ~2,055 |
 | Smooth Moves | 16.00% | ~1,827 |
-| Today Was a Good Day | 15.00% | ~1,712 |
-| What happens in Las Venturas... | 14.00% | ~1,598 |
+| Today Was a Good Day | 15.00% | ~1,713 |
+| What happens in Las Venturas... | 14.00% | ~1,599 |
 | Horror of the Santa Maria | 10.00% | ~1,142 |
-| Liberty City State of Mind | 9.00% | ~1,027 |
+| Liberty City State of Mind | 9.00% | ~1,028 |
 | The End of the Line | 7.00% | ~799 |
 | Original Gangster | 7.00% | ~799 |
 | With Extra Dip | 6.00% | ~685 |
 | Saviour | 6.00% | ~685 |
 | They Can’t Stop All of Us | 4.00% | ~457 |
 | Rescue a Kitten Too? | 4.00% | ~457 |
-| Bike or Biker | 3.00% | ~342 |
-| What are the Odds | 3.00% | ~342 |
+| Bike or Biker | 3.00% | ~343 |
+| What are the Odds | 3.00% | ~343 |
 | A Legitimate Business | 2.00% | ~228 |
 | I’ll Have Two Number 9s | 2.00% | ~228 |
 | Who Needs Directions? | 2.00% | ~228 |
@@ -37,11 +37,11 @@ Rating: 4.56 (Ranked 464)
 | Assassin | 1.00% | ~114 |
 | Chick Magnet | 1.00% | ~114 |
 | Not a Player | 0.80% | ~91 |
-| Remastered | 0.60% | ~68 |
+| Remastered | 0.60% | ~69 |
 | ...Here we go again | 0.40% | ~46 |
 | I Ain't No Buster | 0.30% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,416 (Ranked 117)  
+Progressed: 11,418 (Ranked 117)  
 Completed: 31 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 31 (0.27%) (Ranked 158)
 | 2023-07-24 | 11,308 | 31 |
 | 2023-07-25 | 11,348 | 31 |
 | 2023-07-26 | 11,400 | 31 |
-| 2023-07-27 | 11,416 | 31 |
+| 2023-07-27 | 11,418 | 31 |
 ## Awards
 Max (Great Boss Battles): 229  (Ranked 253)  
 Sum: 229 (Ranked 351)  

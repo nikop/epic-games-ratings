@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -282,7 +282,7 @@
   "Tags": [],
   "EOS_Progressed": 5051,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5529,9 +5529,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 202
     },
     {
       "ID": "15",
@@ -5904,8 +5904,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:04:55.6771403+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:05:09.8546517+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:26.5965715+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:00:58.2372087+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:04:55.6772167+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:00:46.7313056+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:05:09.8547092+00:00"
 }

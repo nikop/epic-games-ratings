@@ -4,8 +4,8 @@
   "ProductSlug": "bunnerly-5d2ec1",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-21T13:04:18.2883911+00:00",
-  "LastUpdate_Ratings": "2023-07-27T09:57:11.3050874+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:03:48.7332381+00:00"
+  "LastUpdate_Ratings": "2023-07-27T10:57:12.534876+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:04:17.7159572+00:00"
 }

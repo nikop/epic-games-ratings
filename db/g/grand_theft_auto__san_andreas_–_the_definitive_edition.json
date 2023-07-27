@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -610,9 +610,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 11416,
+  "EOS_Progressed": 11418,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7510,6 +7510,11 @@
       "Time": "2023-07-27T10:08:05.3285543+00:00",
       "NumProgressed": 11416,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-27T11:08:05.2774413+00:00",
+      "NumProgressed": 11418,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7521,7 +7526,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9247
+      "UsersEstimate": 9249
     },
     {
       "ID": "ACH02",
@@ -7577,7 +7582,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ACH09",
@@ -7585,7 +7590,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH10",
@@ -7601,7 +7606,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH12",
@@ -7689,7 +7694,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ACH23",
@@ -7713,7 +7718,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH26",
@@ -7745,7 +7750,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH30",
@@ -7777,7 +7782,7 @@
       "Name": "Remastered",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH34",
@@ -7800,7 +7805,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11416,
+      "Progressed": 11418,
       "Completed": 31
     }
   ],
@@ -7808,8 +7813,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-26T12:00:19.6576508+00:00",
-  "LastChanged_Achievements": "2023-07-27T10:08:05.3285528+00:00",
+  "LastChanged_Achievements": "2023-07-27T11:08:05.277441+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:01:58.9332619+00:00",
-  "LastUpdate_Achievements": "2023-07-27T10:08:05.3286228+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:01:45.539856+00:00",
+  "LastUpdate_Achievements": "2023-07-27T11:08:05.277492+00:00"
 }

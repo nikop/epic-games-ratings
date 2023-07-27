@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,184 |
-| Exploitative | 4.00% | ~16,947 |
-| Point Shooting | 4.00% | ~16,947 |
-| Wet Feet | 4.00% | ~16,947 |
-| High Speed Low Drag | 3.00% | ~12,710 |
-| Lucky | 3.00% | ~12,710 |
-| Stylin' | 3.00% | ~12,710 |
-| Turf War | 3.00% | ~12,710 |
+| Wallbanger | 5.00% | ~21,185 |
+| Exploitative | 4.00% | ~16,948 |
+| Point Shooting | 4.00% | ~16,948 |
+| Wet Feet | 4.00% | ~16,948 |
+| High Speed Low Drag | 3.00% | ~12,711 |
+| Lucky | 3.00% | ~12,711 |
+| Stylin' | 3.00% | ~12,711 |
+| Turf War | 3.00% | ~12,711 |
 | Banged | 2.00% | ~8,474 |
 | Checkpoint Victory | 2.00% | ~8,474 |
 | First Blood | 2.00% | ~8,474 |
@@ -26,13 +26,13 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,813 |
 | Efficient | 0.90% | ~3,813 |
 | Mount & Gun | 0.90% | ~3,813 |
-| Grounded | 0.80% | ~3,389 |
-| Personal | 0.80% | ~3,389 |
-| Play to Win | 0.80% | ~3,389 |
+| Grounded | 0.80% | ~3,390 |
+| Personal | 0.80% | ~3,390 |
+| Play to Win | 0.80% | ~3,390 |
 | #1 | 0.70% | ~2,966 |
 | Special Delivery | 0.70% | ~2,966 |
 | Firefight Victory | 0.60% | ~2,542 |
-| Cinematic | 0.50% | ~2,118 |
+| Cinematic | 0.50% | ~2,119 |
 | Thanks Station! | 0.40% | ~1,695 |
 | Knock Knock | 0.30% | ~1,271 |
 | There For You | 0.30% | ~1,271 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~424 |
 | Road Hazard | 0.10% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,683 (Ranked 39)  
+Progressed: 423,704 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.00%) (Ranked 242)
 | 2023-07-24 | 421,928 | 2 |
 | 2023-07-25 | 422,684 | 2 |
 | 2023-07-26 | 423,382 | 2 |
-| 2023-07-27 | 423,683 | 2 |
+| 2023-07-27 | 423,704 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 365  (Ranked 220)  
 Sum: 2,836 (Ranked 169)  
