@@ -10,8 +10,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~131 |
 | Settler | 0.90% | ~118 |
 | Play a Single Player Game | 0.90% | ~118 |
+| Poetic Leader | 0.90% | ~118 |
 | Explorer | 0.80% | ~105 |
-| Poetic Leader | 0.80% | ~105 |
 | Friendly Family | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
 | Intrepid | 0.60% | ~79 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
+| Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~52 |
 | Glorious | 0.40% | ~52 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.40% | ~52 |
 | Roman Paganism | 0.40% | ~52 |
 | Zoroastrianism | 0.40% | ~52 |
-| Naming Landmarks | 0.40% | ~52 |
 | Regicide | 0.30% | ~39 |
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
+| Assyrian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
@@ -219,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~13 |
 | Play a Play-By-Cloud Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
-| Assyrian Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,116 (Ranked 115)  
+Progressed: 13,117 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,116 | 5 |
+| 2023-07-27 | 13,117 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -1,7 +1,7 @@
 # Observer: System Redux
 [Store](https://store.epicgames.com/en-US/p/observer-system-redux)  
 [View Rawdata](../../db/o/observer__system_redux.json)  
-Rating: 4.50 (Ranked 555)  
+Rating: 4.48 (Ranked 587)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.50 (Ranked 555)
 | 2023-03-05 | 4.48 | - | - |
 | 2023-03-31 | 4.48 | 0 | 0 |
 | 2023-06-25 | 4.50 | 0 | 0 |
+| 2023-07-27 | 4.48 | 0 | 0 |

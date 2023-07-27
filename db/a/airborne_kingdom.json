@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6891,
+  "EOS_Progressed": 6893,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3048,6 +3048,11 @@
       "Time": "2023-07-27T11:03:43.3063214+00:00",
       "NumProgressed": 6891,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-27T12:03:26.6706797+00:00",
+      "NumProgressed": 6893,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3075,7 +3080,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3091,7 +3096,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3131,7 +3136,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -3139,7 +3144,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3155,7 +3160,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3187,7 +3192,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -3195,7 +3200,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3203,7 +3208,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3211,7 +3216,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3227,7 +3232,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -3259,7 +3264,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3267,22 +3272,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6891,
+      "Progressed": 6893,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-27T11:03:43.306321+00:00",
+  "LastChanged_Achievements": "2023-07-27T12:03:26.6706793+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:58:16.1333176+00:00",
-  "LastUpdate_Achievements": "2023-07-27T11:03:43.3063479+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:57:57.9928961+00:00",
+  "LastUpdate_Achievements": "2023-07-27T12:03:26.6707135+00:00"
 }

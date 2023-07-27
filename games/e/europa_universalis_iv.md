@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,719 |
-| That's a Grand Army | 8.00% | ~5,972 |
-| That is mine! | 8.00% | ~5,972 |
-| Victorious! | 8.00% | ~5,972 |
-| Brothers in Arms | 6.00% | ~4,479 |
-| That's a Grand Navy | 6.00% | ~4,479 |
-| Seriously?! | 6.00% | ~4,479 |
-| For the Glory | 5.00% | ~3,733 |
-| Cold War | 4.00% | ~2,986 |
-| True Catholic | 4.00% | ~2,986 |
+| Until death do us apart | 9.00% | ~6,721 |
+| That's a Grand Army | 8.00% | ~5,974 |
+| That is mine! | 8.00% | ~5,974 |
+| Victorious! | 8.00% | ~5,974 |
+| Brothers in Arms | 6.00% | ~4,480 |
+| That's a Grand Navy | 6.00% | ~4,480 |
+| Seriously?! | 6.00% | ~4,480 |
+| For the Glory | 5.00% | ~3,734 |
+| Cold War | 4.00% | ~2,987 |
+| True Catholic | 4.00% | ~2,987 |
 | Defender of the Faith | 3.00% | ~2,240 |
 | It's all about luck | 3.00% | ~2,240 |
 | It's all about the money | 3.00% | ~2,240 |
 | Respected | 3.00% | ~2,240 |
 | The Princess is in this Castle | 3.00% | ~2,240 |
 | Truly Divine Ruler | 3.00% | ~2,240 |
-| Agressive Expander | 2.00% | ~1,493 |
-| Blockader | 2.00% | ~1,493 |
-| Combined Arms | 2.00% | ~1,493 |
-| Double the Love | 2.00% | ~1,493 |
-| Gentle Persuasion | 2.00% | ~1,493 |
-| My armies are invincible! | 2.00% | ~1,493 |
-| Queen of Conquest | 2.00% | ~1,493 |
-| Royal Authority | 2.00% | ~1,493 |
-| Total Control | 2.00% | ~1,493 |
+| Agressive Expander | 2.00% | ~1,494 |
+| Blockader | 2.00% | ~1,494 |
+| Combined Arms | 2.00% | ~1,494 |
+| Double the Love | 2.00% | ~1,494 |
+| Gentle Persuasion | 2.00% | ~1,494 |
+| My armies are invincible! | 2.00% | ~1,494 |
+| Queen of Conquest | 2.00% | ~1,494 |
+| Royal Authority | 2.00% | ~1,494 |
+| Total Control | 2.00% | ~1,494 |
 | All That's Thine Shall Be Mine | 1.00% | ~747 |
 | Azur semé de lis or | 1.00% | ~747 |
 | Bright Spark | 1.00% | ~747 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~299 |
 | Tear Down This Wall | 0.40% | ~299 |
 | The Continuation of Diplomacy | 0.40% | ~299 |
+| Traditional Player | 0.40% | ~299 |
 | Wonderful | 0.40% | ~299 |
 | A Decent Reserve | 0.30% | ~224 |
 | A Pile of Gold | 0.30% | ~224 |
@@ -79,7 +80,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~224 |
 | The Chrysanthemum Throne | 0.30% | ~224 |
 | Three Trivial Tributary Tribes | 0.30% | ~224 |
-| Traditional Player | 0.30% | ~224 |
 | Vasa or Wettin? | 0.30% | ~224 |
 | World Discoverer | 0.30% | ~224 |
 | A Protected Market | 0.20% | ~149 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,655 (Ranked 74)  
+Progressed: 74,675 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,10 +459,10 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
-| 2023-07-27 | 74,655 | 0 |
+| 2023-07-27 | 74,675 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
-Sum: 46,053 (Ranked 26)  
+Sum: 46,055 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -474,7 +474,7 @@ Diff (max vs sum): 35
 | This game is Relaxing | 5,168 |
 | This game has Competitive Players | 5,018 |
 | This game has Amazing Storytelling | 4,723 |
-| This game has Amazing Characters | 4,363 |
+| This game has Amazing Characters | 4,365 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -670,4 +670,4 @@ Diff (max vs sum): 35
 | 2023-07-24 | 4.69 | - | 5,579 | 45,978 |
 | 2023-07-25 | 4.69 | - | 5,583 | 46,013 |
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
-| 2023-07-27 | 4.69 | - | 5,587 | 46,053 |
+| 2023-07-27 | 4.69 | - | 5,587 | 46,055 |

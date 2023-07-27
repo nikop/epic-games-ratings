@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.90% | ~1,640 |
 | Vecna Lives! | 0.80% | ~1,458 |
 | Rock and Roll | 0.80% | ~1,458 |
-| Flight of the Kindori Pod | 0.70% | ~1,275 |
+| Flight of the Kindori Pod | 0.70% | ~1,276 |
 | Tall Tales | 0.60% | ~1,093 |
 | Seeds of Destruction | 0.60% | ~1,093 |
 | Vecna Loots! | 0.60% | ~1,093 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.50% | ~1,080 |
 | Return to the Tomb | 0.50% | ~911 |
 | Heatwave | 0.50% | ~911 |
+| Terror in the Dark | 0.50% | ~1,080 |
 | Unearthed Evil | 0.50% | ~1,080 |
 | The Champion's Guide to Wildspace | 0.50% | ~911 |
 | Not That Type of Helm! | 0.50% | ~911 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.40% | ~864 |
 | A Persistent Buzzing | 0.40% | ~864 |
 | Beast Mode | 0.40% | ~864 |
-| Terror in the Dark | 0.40% | ~864 |
 | Low Initiative | 0.40% | ~864 |
 | A Mysterious Summons | 0.40% | ~864 |
 | Street War | 0.40% | ~864 |
@@ -88,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends and Foes | 0.20% | ~364 |
 | Nightmare Rats! | 0.20% | ~364 |
 | An Unexpected Geist | 0.20% | ~364 |
+| A Monarch Among Us | 0.20% | ~364 |
 | The Spire of Iriolarthas | 0.20% | ~364 |
 | The Prince of a Thousand Enemies | 0.20% | ~364 |
 | Downfall | 0.20% | ~364 |
@@ -170,7 +171,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~182 |
 | And Your Enemies Closer | 0.10% | ~182 |
 | Back to Nature | 0.10% | ~182 |
-| A Monarch Among Us | 0.10% | ~182 |
 | A Dragon Against Us | 0.10% | ~182 |
 | A Familiar Behind Us | 0.10% | ~182 |
 | Sticky Fingers | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,937 (Ranked 53)  
-Completed: 2,127 (0.99%) (Ranked 107)  
+Progressed: 215,943 (Ranked 53)  
+Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.99%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,937 | 2,127 |
+| 2023-07-27 | 215,943 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

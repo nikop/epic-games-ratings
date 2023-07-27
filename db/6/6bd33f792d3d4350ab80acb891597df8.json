@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-27T11:06:09.0522153+00:00",
+  "LastChanged_Achievements": "2023-07-27T12:05:16.3517413+00:00",
   "LastUpdate_AppInfo": "2023-07-25T11:57:10.4401913+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:57:38.1699469+00:00",
-  "LastUpdate_Achievements": "2023-07-27T11:06:09.052234+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:57:28.9115736+00:00",
+  "LastUpdate_Achievements": "2023-07-27T12:05:16.3517649+00:00"
 }

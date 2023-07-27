@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14162,
+  "EOS_Progressed": 14163,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6899,6 +6899,11 @@
       "Time": "2023-07-27T08:02:41.3344678+00:00",
       "NumProgressed": 14162,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-27T12:01:09.7276901+00:00",
+      "NumProgressed": 14163,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7022,7 +7027,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "tpote_achievement_23",
@@ -7046,7 +7051,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "tpote_achievement_26",
@@ -7086,7 +7091,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "tpote_achievement_30",
@@ -7134,7 +7139,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "tpote_achievement_36",
@@ -7158,7 +7163,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "tpote_achievement_39",
@@ -7174,7 +7179,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "tpote_achievement_40",
@@ -7237,15 +7242,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14162,
+      "Progressed": 14163,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-27T11:03:08.4942841+00:00",
+  "LastChanged_Achievements": "2023-07-27T12:01:09.7276895+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:01:25.7367474+00:00",
-  "LastUpdate_Achievements": "2023-07-27T11:03:08.4943399+00:00"
+  "LastUpdate_Ratings": "2023-07-27T12:00:22.3747041+00:00",
+  "LastUpdate_Achievements": "2023-07-27T12:01:09.7277689+00:00"
 }

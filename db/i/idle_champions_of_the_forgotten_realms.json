@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5314,11 +5314,11 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215937,
+  "EOS_Progressed": 215943,
   "EOS_Completed": 2127,
   "EOS_NewPlayers": 2293,
   "EOS_NewCompleters": 68,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -15809,6 +15809,11 @@
       "Time": "2023-07-27T11:03:28.5170004+00:00",
       "NumProgressed": 215937,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-07-27T12:03:15.319683+00:00",
+      "NumProgressed": 215943,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 512,
@@ -15930,9 +15935,9 @@
       "ID": "objective_completed_1056",
       "SetID": "415jc5c",
       "Name": "A Monarch Among Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1057",
@@ -16938,9 +16943,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 1080
     },
     {
       "ID": "objective_completed_150",
@@ -19876,7 +19881,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_1386",
@@ -19915,21 +19920,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182211,
+      "Progressed": 182217,
       "Completed": 3013
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215937,
+      "Progressed": 215943,
       "Completed": 2127
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T11:03:28.5169999+00:00",
+  "LastChanged_Achievements": "2023-07-27T12:03:15.3196826+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:59:11.1127157+00:00",
-  "LastUpdate_Achievements": "2023-07-27T11:03:28.5193206+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:58:38.599163+00:00",
+  "LastUpdate_Achievements": "2023-07-27T12:03:15.3223373+00:00"
 }

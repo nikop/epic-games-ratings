@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -470,6 +470,11 @@
       "Time": "2023-07-26T18:05:05.0050936+00:00",
       "NumProgressed": 479,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T12:04:50.3064216+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -489,7 +494,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Butterfly",
@@ -569,7 +574,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Hitman",
@@ -585,7 +590,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Investigative",
@@ -601,7 +606,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Leisurely_Strol",
@@ -609,7 +614,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MISSING_DATA",
@@ -712,7 +717,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 5
     }
   ],
@@ -720,8 +725,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-27T11:05:41.124047+00:00",
+  "LastChanged_Achievements": "2023-07-27T12:04:50.3064211+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4895779+00:00",
-  "LastUpdate_Ratings": "2023-07-27T10:57:18.1090869+00:00",
-  "LastUpdate_Achievements": "2023-07-27T11:05:41.1240667+00:00"
+  "LastUpdate_Ratings": "2023-07-27T11:57:16.7480847+00:00",
+  "LastUpdate_Achievements": "2023-07-27T12:04:50.3064442+00:00"
 }

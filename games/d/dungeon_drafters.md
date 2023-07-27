@@ -10,10 +10,10 @@
 | Uncut Gem | 29.00% | ~19 |
 | Shine! | 27.00% | ~18 |
 | Setting Off | 26.00% | ~17 |
-| Clear as Water | 23.00% | ~15 |
+| Clear as Water | 24.00% | ~16 |
 | Riddlesolver | 20.00% | ~13 |
 | Card Collector | 20.00% | ~13 |
-| Dungeon Mastery | 17.00% | ~11 |
+| Dungeon Mastery | 18.00% | ~12 |
 | The Steed | 11.00% | ~7 |
 | A Strange Proposition | 11.00% | ~7 |
 | The Bodyguard | 8.00% | ~5 |
