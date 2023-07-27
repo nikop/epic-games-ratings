@@ -6,17 +6,17 @@ Rating: 4.66 (Ranked 274)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,415 |
-| Mods Please Ban | 77.00% | ~18,011 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,777 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,075 |
+| Mods Please Ban | 77.00% | ~18,012 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,778 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,076 |
 | First Bounty Down | 59.00% | ~13,801 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,333 |
-| Luglox Genocide | 43.00% | ~10,058 |
+| Luglox Genocide | 43.00% | ~10,059 |
 | Playing Card To Get | 33.00% | ~7,719 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,719 |
-| Creature Feature | 29.00% | ~6,783 |
-| Satisfied Gus-tomer | 28.00% | ~6,549 |
-| Cold-Blooded Driller | 28.00% | ~6,549 |
+| Creature Feature | 29.00% | ~6,784 |
+| Satisfied Gus-tomer | 28.00% | ~6,550 |
+| Cold-Blooded Driller | 28.00% | ~6,550 |
 | Are You Packin'? | 25.00% | ~5,848 |
 | G3 Graduation | 25.00% | ~5,848 |
 | RIP Davey Glutes | 24.00% | ~5,614 |
@@ -27,18 +27,18 @@ Rating: 4.66 (Ranked 274)
 | Who's The Boss? | 20.00% | ~4,678 |
 | Self-Actualization | 19.00% | ~4,444 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,444 |
-| Legendary Bounty Hunter | 18.00% | ~4,210 |
+| Legendary Bounty Hunter | 18.00% | ~4,211 |
 | Seeing All The Sights | 16.00% | ~3,743 |
 | Carried Stan's Load To Completion | 13.00% | ~3,041 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,807 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,105 |
 | Sequel-Bait | 8.00% | ~1,871 |
 | Gunning For Your Job | 7.00% | ~1,637 |
-| Playing Favorites | 6.00% | ~1,403 |
+| Playing Favorites | 6.00% | ~1,404 |
 | Epic Legendary Prize | 1.00% | ~234 |
 | A Starfish Is Born | 1.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,391 (Ranked 101)  
+Progressed: 23,392 (Ranked 101)  
 Completed: 9 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 9 (0.04%) (Ranked 212)
 | 2023-07-24 | 23,296 | 9 |
 | 2023-07-25 | 23,339 | 9 |
 | 2023-07-26 | 23,381 | 9 |
-| 2023-07-27 | 23,391 | 9 |
+| 2023-07-27 | 23,392 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

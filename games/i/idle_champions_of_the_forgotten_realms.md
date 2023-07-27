@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 1.00% | ~2,159 |
 | The Silken Swamp | 1.00% | ~2,159 |
 | Supply Run | 0.90% | ~1,943 |
-| Rocky Reception | 0.90% | ~1,639 |
+| Rocky Reception | 0.90% | ~1,640 |
 | Vecna Lives! | 0.80% | ~1,457 |
 | Rock and Roll | 0.80% | ~1,457 |
 | Flight of the Kindori Pod | 0.70% | ~1,275 |
@@ -21,15 +21,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.50% | ~1,079 |
 | Wet Feet | 0.50% | ~1,079 |
 | Hatchlings Underfoot | 0.50% | ~1,079 |
+| Don't Look Up! | 0.50% | ~1,079 |
 | Seeds of Destruction | 0.50% | ~911 |
 | Return to the Tomb | 0.50% | ~911 |
 | Heatwave | 0.50% | ~911 |
+| Unearthed Evil | 0.50% | ~1,079 |
 | The Champion's Guide to Wildspace | 0.50% | ~911 |
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
 | The Witchlight Carnival | 0.40% | ~729 |
 | Thieves of the Coven | 0.40% | ~729 |
-| Don't Look Up! | 0.40% | ~864 |
 | Heavy Burden | 0.40% | ~864 |
 | The Evacuation of Waterdeep | 0.40% | ~729 |
 | Friends of the Forest | 0.40% | ~864 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~864 |
 | Building Trust | 0.40% | ~864 |
 | March of the Undead | 0.40% | ~864 |
-| Unearthed Evil | 0.40% | ~864 |
 | No Time To Rest | 0.40% | ~864 |
 | The Mists of Ravenloft | 0.40% | ~864 |
 | The Dinner Party | 0.40% | ~864 |
@@ -53,16 +53,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.40% | ~729 |
 | Animated Giff | 0.40% | ~729 |
 | Upholding the Law | 0.30% | ~648 |
-| Hither of the Feywild | 0.30% | ~546 |
-| Speeds of Destruction | 0.30% | ~546 |
-| Owlbear Necessities | 0.30% | ~546 |
+| Hither of the Feywild | 0.30% | ~547 |
+| Speeds of Destruction | 0.30% | ~547 |
+| Owlbear Necessities | 0.30% | ~547 |
 | On the Hunt | 0.30% | ~648 |
-| Best Thay Ever | 0.30% | ~546 |
-| A Demi-god's Defender | 0.30% | ~546 |
+| Best Thay Ever | 0.30% | ~547 |
+| A Demi-god's Defender | 0.30% | ~547 |
 | Homecoming | 0.30% | ~648 |
 | The Lost Heir of Omu | 0.30% | ~648 |
-| No One Can Hear You Scream | 0.30% | ~546 |
-| Welcome to the Rock | 0.30% | ~546 |
+| No One Can Hear You Scream | 0.30% | ~547 |
+| Welcome to the Rock | 0.30% | ~547 |
 | Street War | 0.30% | ~648 |
 | Wisdom Check | 0.30% | ~648 |
 | Invisible Shadows | 0.30% | ~648 |
@@ -76,11 +76,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~648 |
 | Overdue Rendezvous | 0.30% | ~648 |
 | Pure Energy | 0.30% | ~648 |
-| Willing to Sacrifice | 0.30% | ~546 |
-| Devilishly Cold | 0.30% | ~546 |
-| Luigi After Hours | 0.30% | ~546 |
-| Electric Mayhem | 0.30% | ~546 |
-| 3,720 to 1 | 0.30% | ~546 |
+| Willing to Sacrifice | 0.30% | ~547 |
+| Devilishly Cold | 0.30% | ~547 |
+| Luigi After Hours | 0.30% | ~547 |
+| Electric Mayhem | 0.30% | ~547 |
+| 3,720 to 1 | 0.30% | ~547 |
 | Starving in the Jungle | 0.20% | ~432 |
 | Cold as Ice | 0.20% | ~364 |
 | Friends and Foes | 0.20% | ~364 |
@@ -92,11 +92,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~364 |
 | Will of the Feywild | 0.20% | ~364 |
 | The Roots of Loomlurch | 0.20% | ~364 |
+| Best Laid Plans | 0.20% | ~364 |
 | Flapjacks and Waffles | 0.20% | ~364 |
 | Overwhelmed with Knowledge | 0.20% | ~364 |
 | Well Equipped | 0.20% | ~364 |
 | More Than Well Equipped | 0.20% | ~364 |
 | Keep Your Distance | 0.20% | ~364 |
+| To Avernus in a Handbasket | 0.20% | ~364 |
 | The Castle of a Thousand Vecnas | 0.20% | ~364 |
 | The Sanctum of the Sword | 0.20% | ~364 |
 | Get Back In The Castle | 0.20% | ~364 |
@@ -209,14 +211,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.10% | ~182 |
 | The Loots of Loomlurch | 0.10% | ~182 |
 | The Lutes of Loomlurch | 0.10% | ~182 |
-| Best Laid Plans | 0.10% | ~182 |
 | Pincushion Party | 0.10% | ~182 |
 | G. O. A. T. | 0.10% | ~182 |
 | The Howling Peaks of Yon | 0.10% | ~182 |
 | Strength of Character | 0.10% | ~182 |
 | The Invisible Wizards of Thay | 0.10% | ~182 |
 | Arcane Efforts | 0.10% | ~182 |
-| To Avernus in a Handbasket | 0.10% | ~182 |
 | Hands Off! | 0.10% | ~182 |
 | Weak Doesn't Mean Feeble | 0.10% | ~182 |
 | Frail Doesn't Mean Broken | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,888 (Ranked 53)  
-Completed: 2,124 (0.98%) (Ranked 108)  
+Progressed: 215,897 (Ranked 53)  
+Completed: 2,125 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,124 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,888 | 2,124 |
+| 2023-07-27 | 215,897 | 2,125 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

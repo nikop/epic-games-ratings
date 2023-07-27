@@ -5290,10 +5290,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10818,
       "NumberOfAwardsMax": 6307
+    },
+    {
+      "Time": "2023-07-27T05:59:02.8183447+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10819,
+      "NumberOfAwardsMax": 6307
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10818,
+  "NumberOfAwards": 10819,
   "NumberOfAwardsMax": 6307,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5313,7 +5319,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 527
+      "Count": 528
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5370,9 +5376,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711571,
+  "EOS_Progressed": 711574,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14565,6 +14571,11 @@
       "Time": "2023-07-27T05:07:09.4304028+00:00",
       "NumProgressed": 711571,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-27T06:06:04.461175+00:00",
+      "NumProgressed": 711574,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14734,9 +14745,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6404
+      "UsersEstimate": 7116
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -14928,7 +14939,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -14936,7 +14947,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -14952,7 +14963,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -14975,21 +14986,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20872,
+      "Progressed": 20875,
       "Completed": 10447
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711571,
+      "Progressed": 711574,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-26T19:00:27.0271539+00:00",
-  "LastChanged_Achievements": "2023-07-27T05:07:09.4304019+00:00",
+  "LastChanged": "2023-07-27T05:59:02.8183444+00:00",
+  "LastChanged_Achievements": "2023-07-27T06:06:04.4611744+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-27T04:59:41.2323821+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:07:09.4305167+00:00"
+  "LastUpdate_Ratings": "2023-07-27T05:59:02.8183453+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:06:04.4613238+00:00"
 }

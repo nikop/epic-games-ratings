@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,113 |
-| Right Back At Ya | 39.00% | ~338,447 |
-| The Lovers | 34.00% | ~295,056 |
+| The Fool | 68.00% | ~590,114 |
+| Right Back At Ya | 39.00% | ~338,448 |
+| The Lovers | 34.00% | ~295,057 |
 | Stanislavski's Method | 28.00% | ~242,988 |
 | The Wheel of Fortune | 27.00% | ~234,310 |
-| The Hermit | 24.00% | ~208,275 |
+| The Hermit | 24.00% | ~208,276 |
 | True Soldier | 23.00% | ~199,597 |
 | Christmas Tree Attack | 22.00% | ~190,919 |
 | The High Priestess | 21.00% | ~182,241 |
 | Legend of The Afterlife | 21.00% | ~182,241 |
 | Life of the Road | 20.00% | ~173,563 |
-| Full Body Conversion | 18.00% | ~156,206 |
-| The World | 18.00% | ~156,206 |
+| Full Body Conversion | 18.00% | ~156,207 |
+| The World | 18.00% | ~156,207 |
 | Bushido and Chill | 16.00% | ~138,850 |
 | Gun Fu | 15.00% | ~130,172 |
 | True Warrior | 15.00% | ~130,172 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 14.00% | ~121,494 |
 | To Protect and Serve | 13.00% | ~112,816 |
 | Master Crafter | 13.00% | ~112,816 |
-| Two Heads, One Bullet | 11.00% | ~95,459 |
+| Two Heads, One Bullet | 11.00% | ~95,460 |
 | The Wandering Fool | 9.00% | ~78,103 |
 | The Quick and the Dead | 9.00% | ~78,103 |
 | Breathtaking | 8.00% | ~69,425 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,678 |
 | Rough Landing | 0.50% | ~4,339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,813 (Ranked 14)  
+Progressed: 867,815 (Ranked 14)  
 Completed: 1,906 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1,906 (0.22%) (Ranked 164)
 | 2023-07-24 | 867,476 | 1,903 |
 | 2023-07-25 | 867,630 | 1,905 |
 | 2023-07-26 | 867,794 | 1,906 |
-| 2023-07-27 | 867,813 | 1,906 |
+| 2023-07-27 | 867,815 | 1,906 |
 ## Awards
 Max (Character Customization): 74,191  (Ranked 9)  
 Sum: 195,105 (Ranked 13)  

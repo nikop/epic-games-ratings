@@ -1020,9 +1020,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13539,
+  "EOS_Progressed": 13544,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11310,6 +11310,11 @@
       "Time": "2023-07-27T05:03:26.9146383+00:00",
       "NumProgressed": 13539,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-27T06:02:32.9168655+00:00",
+      "NumProgressed": 13544,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -11337,7 +11342,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "BackToHell",
@@ -11345,7 +11350,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5011
     },
     {
       "ID": "CantRunCantHide",
@@ -11361,7 +11366,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -11385,7 +11390,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "GRProjectComplete",
@@ -11409,7 +11414,7 @@
       "Name": "Homerunner",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6230
     },
     {
       "ID": "ICallItLuck",
@@ -11417,7 +11422,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 5957
+      "UsersEstimate": 5959
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -11425,7 +11430,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "Junkrunner",
@@ -11457,7 +11462,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10290
+      "UsersEstimate": 10293
     },
     {
       "ID": "MoreThanHuman",
@@ -11473,7 +11478,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "ObedientMachine",
@@ -11505,7 +11510,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6095
     },
     {
       "ID": "Perfection",
@@ -11513,7 +11518,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4334
     },
     {
       "ID": "PreempativeStrike",
@@ -11521,7 +11526,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "PushItToTheLimit",
@@ -11545,7 +11550,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 7311
+      "UsersEstimate": 7314
     },
     {
       "ID": "RunningWild",
@@ -11553,7 +11558,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "Scrapped",
@@ -11585,7 +11590,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "SwordRunner",
@@ -11593,7 +11598,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8397
     },
     {
       "ID": "SwordToAGunfight",
@@ -11601,7 +11606,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "TripleA",
@@ -11617,7 +11622,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -11633,7 +11638,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3928
     },
     {
       "ID": "Wallrunner",
@@ -11641,7 +11646,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7449
     },
     {
       "ID": "WaveOfMutilation",
@@ -11649,7 +11654,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "WhereAreMyKeys",
@@ -11657,7 +11662,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5553
     },
     {
       "ID": "WhereHeStood",
@@ -11673,28 +11678,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 13539,
+      "Progressed": 13544,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 13539,
+      "Progressed": 13544,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-25T05:59:11.8576046+00:00",
-  "LastChanged_Achievements": "2023-07-27T05:03:26.9146376+00:00",
+  "LastChanged_Achievements": "2023-07-27T06:02:32.916865+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:42.3951611+00:00",
-  "LastUpdate_Ratings": "2023-07-27T04:58:41.3062745+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:03:26.9147546+00:00"
+  "LastUpdate_Ratings": "2023-07-27T05:58:16.0027842+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:02:32.9169743+00:00"
 }

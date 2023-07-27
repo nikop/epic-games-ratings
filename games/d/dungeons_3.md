@@ -6,19 +6,19 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~17,633 |
-| The Evilest Evil | 58.00% | ~14,610 |
-| Twistram is devastated | 58.00% | ~14,610 |
-| The Gehenna Stones | 50.00% | ~12,595 |
-| No one has to die today! | 46.00% | ~11,587 |
+| The Shadow strikes | 70.00% | ~17,634 |
+| The Evilest Evil | 58.00% | ~14,611 |
+| Twistram is devastated | 58.00% | ~14,611 |
+| The Gehenna Stones | 50.00% | ~12,596 |
+| No one has to die today! | 46.00% | ~11,588 |
 | Death and destruction! | 45.00% | ~11,336 |
 | The Swamplanders from the swamplands | 44.00% | ~11,084 |
 | The One-Huge-Army-Building Evil | 41.00% | ~10,328 |
 | Rusty Steel | 41.00% | ~10,328 |
-| The last burger | 38.00% | ~9,572 |
-| Braiiiiins! | 38.00% | ~9,572 |
-| Hands off the Dungeonheart! | 36.00% | ~9,068 |
-| A trip on sea, what fun it can be | 35.00% | ~8,816 |
+| The last burger | 38.00% | ~9,573 |
+| Braiiiiins! | 38.00% | ~9,573 |
+| Hands off the Dungeonheart! | 36.00% | ~9,069 |
+| A trip on sea, what fun it can be | 35.00% | ~8,817 |
 | Damned good | 33.00% | ~8,313 |
 | Factory farming | 32.00% | ~8,061 |
 | Stock Market Crash | 31.00% | ~7,809 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Shadow hunter | 29.00% | ~7,305 |
 | Thirst quencher | 28.00% | ~7,053 |
 | Ogre Solo! | 28.00% | ~7,053 |
-| Tide Master | 27.00% | ~6,801 |
-| Destroy the thing | 26.00% | ~6,549 |
+| Tide Master | 27.00% | ~6,802 |
+| Destroy the thing | 26.00% | ~6,550 |
 | Difficult family relationships | 25.00% | ~6,298 |
 | MASS-O-BOT | 25.00% | ~6,298 |
 | Angel of Fire | 25.00% | ~6,298 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~4,534 |
 | Lifeguard | 18.00% | ~4,534 |
 | Flat as a pancake | 17.00% | ~4,282 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~4,030 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~4,031 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,023 |
 | Then let them eat cake! | 12.00% | ~3,023 |
 | The White Knight | 10.00% | ~2,519 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~504 |
 | Sacrifices! | 2.00% | ~504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,190 (Ranked 99)  
+Progressed: 25,191 (Ranked 99)  
 Completed: 208 (0.83%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 208 (0.83%) (Ranked 112)
 | 2023-07-24 | 24,983 | 208 |
 | 2023-07-25 | 25,099 | 208 |
 | 2023-07-26 | 25,174 | 208 |
-| 2023-07-27 | 25,190 | 208 |
+| 2023-07-27 | 25,191 | 208 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,598 (Ranked 172)  

@@ -19,12 +19,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 2.00% | ~14,231 |
 | Path of the Prospect | 2.00% | ~14,231 |
 | Rumble in the Hangar | 2.00% | ~14,231 |
-| Bloody Sport | 2.00% | ~417 |
+| Bloody Sport | 2.00% | ~418 |
 | Lady Wing Chun | 1.00% | ~7,116 |
 | Furious Fists | 1.00% | ~7,116 |
 | Scareless | 1.00% | ~7,116 |
 | Kill Nil | 1.00% | ~7,116 |
 | Stuntmaster | 1.00% | ~7,116 |
+| Dance of the Praying Mantis | 1.00% | ~7,116 |
 | Street Fighting | 1.00% | ~7,116 |
 | Qi Gong: Mind | 1.00% | ~7,116 |
 | I know Kung-Fu | 1.00% | ~7,116 |
@@ -32,7 +33,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,116 |
 | Take damage to save time | 1.00% | ~7,116 |
 | The best strikes are the ones we avoid | 1.00% | ~209 |
-| Dance of the Praying Mantis | 0.90% | ~6,404 |
 | Muk Yan Master | 0.70% | ~4,981 |
 | Tiger on Fire | 0.70% | ~4,981 |
 | Source of Flying Daggers | 0.70% | ~4,981 |
@@ -46,8 +46,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.50% | ~3,558 |
 | Martial Artist | 0.40% | ~2,846 |
 | Knowledge Greed | 0.40% | ~2,846 |
-| Martial Hub | 0.40% | ~83 |
-| Secure, Protect, Leave | 0.40% | ~83 |
+| Martial Hub | 0.40% | ~84 |
+| Secure, Protect, Leave | 0.40% | ~84 |
 | Drunken Fighter | 0.30% | ~2,135 |
 | Healing Memory | 0.30% | ~2,135 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,135 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,571 (Ranked 20)  
+Progressed: 711,574 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,17 +155,17 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
 | 2023-07-26 | 711,558 | 12,833 |
-| 2023-07-27 | 711,571 | 12,833 |
+| 2023-07-27 | 711,574 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,307  (Ranked 53)  
-Sum: 10,818 (Ranked 79)  
+Sum: 10,819 (Ranked 79)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,307 |
 | This game has Diverse Characters | 555 |
 | This game has Challenging Combat | 535 |
-| This game has Quickly Understood Controls | 527 |
+| This game has Quickly Understood Controls | 528 |
 | This game is Extremely Fun | 520 |
 | This game has Amazing Storytelling | 514 |
 | This game is Highly Recommended | 509 |
@@ -368,3 +368,4 @@ Diff (max vs sum): -26
 | 2023-07-24 | 4.82 | - | 6,299 | 10,805 |
 | 2023-07-25 | 4.82 | - | 6,303 | 10,809 |
 | 2023-07-26 | 4.82 | - | 6,307 | 10,818 |
+| 2023-07-27 | 4.82 | - | 6,307 | 10,819 |

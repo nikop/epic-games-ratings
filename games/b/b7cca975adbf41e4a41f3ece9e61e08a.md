@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 100.00% | ~1 |
+| Last Night...Did We... | 50.00% | ~1 |
 | I Challenge You To Save More Money! | 0.00% | ~0 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
@@ -47,9 +47,9 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 471)  
+Progressed: 2 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-27 | 1 | 0 |
+| 2023-07-27 | 2 | 0 |

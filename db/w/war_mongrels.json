@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1168,6 +1168,11 @@
       "Time": "2023-07-26T13:11:50.4256156+00:00",
       "NumProgressed": 428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T06:04:34.0404756+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1283,7 +1288,7 @@
       "Name": "Explorer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_COLL_20",
@@ -1307,7 +1312,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1377,9 +1382,9 @@
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -1419,15 +1424,15 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1443,7 +1448,7 @@
       "Name": "Opportunities",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1467,7 +1472,7 @@
       "Name": "Vengeance",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1481,9 +1486,9 @@
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -1491,7 +1496,7 @@
       "Name": "Atonement",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_HARD_1",
@@ -1593,9 +1598,9 @@
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -1650,15 +1655,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-27T05:05:26.5884258+00:00",
+  "LastChanged_Achievements": "2023-07-27T06:04:34.0404749+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.8323679+00:00",
-  "LastUpdate_Ratings": "2023-07-27T04:58:00.223838+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:05:26.5884956+00:00"
+  "LastUpdate_Ratings": "2023-07-27T05:57:45.4703794+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:04:34.0405335+00:00"
 }

@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
+| Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
 | Greece | 0.20% | ~26 |
@@ -177,6 +178,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | If? Then! | 0.10% | ~13 |
 | What's 'hubris' in Greek? | 0.10% | ~13 |
 | Three's a Crowd | 0.10% | ~13 |
+| Unfinished Business | 0.10% | ~13 |
+| Philip's Bronze Crown | 0.10% | ~13 |
+| Philip's Golden Crown | 0.10% | ~13 |
+| Philip's Silver Crown | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
@@ -185,7 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.10% | ~13 |
 | Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
-| Via Recta Souk | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 3 - Good | 0.10% | ~13 |
@@ -272,10 +276,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Unfinished Business | 0.00% | ~0 |
-| Philip's Bronze Crown | 0.00% | ~0 |
-| Philip's Golden Crown | 0.00% | ~0 |
-| Philip's Silver Crown | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
 | Queen of Intrigue | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |

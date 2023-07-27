@@ -20,9 +20,9 @@
 | No bullying more | 67.00% | ~106 |
 | Hello, world! | 67.00% | ~106 |
 | Fighting is cool | 66.00% | ~104 |
-| Pal of your father? | 61.00% | ~96 |
+| Pal of your father? | 62.00% | ~98 |
 | Employee of the month | 61.00% | ~96 |
-| Spirit of the past | 59.00% | ~93 |
+| Spirit of the past | 60.00% | ~95 |
 | Intriguing candies | 59.00% | ~93 |
 | Law student | 58.00% | ~92 |
 | Workout professional | 56.00% | ~88 |
@@ -38,8 +38,8 @@
 | Legal courier | 43.00% | ~68 |
 | Now you are worthy | 38.00% | ~60 |
 | Escaped from a big trouble | 38.00% | ~60 |
+| Guiding on the right path | 35.00% | ~55 |
 | No blades in the gym | 34.00% | ~54 |
-| Guiding on the right path | 34.00% | ~54 |
 | Mysterious voice | 32.00% | ~51 |
 | Fight is life | 30.00% | ~47 |
 | Responsible approach | 30.00% | ~47 |

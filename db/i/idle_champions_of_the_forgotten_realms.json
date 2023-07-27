@@ -5314,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215888,
-  "EOS_Completed": 2124,
-  "EOS_NewPlayers": 2310,
-  "EOS_NewCompleters": 65,
+  "EOS_Progressed": 215897,
+  "EOS_Completed": 2125,
+  "EOS_NewPlayers": 2299,
+  "EOS_NewCompleters": 66,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15779,6 +15779,11 @@
       "Time": "2023-07-27T05:02:16.9740686+00:00",
       "NumProgressed": 215888,
       "NumCompleted": 2124
+    },
+    {
+      "Time": "2023-07-27T06:02:08.8382889+00:00",
+      "NumProgressed": 215897,
+      "NumCompleted": 2125
     }
   ],
   "TotalAchievements": 512,
@@ -15958,7 +15963,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1066",
@@ -16260,9 +16265,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_1121",
@@ -16356,9 +16361,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1143",
@@ -16422,7 +16427,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1154",
@@ -16430,7 +16435,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1158",
@@ -16462,7 +16467,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1163",
@@ -16486,7 +16491,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1168",
@@ -16556,9 +16561,9 @@
       "ID": "objective_completed_1179",
       "SetID": "415jc5c",
       "Name": "To Avernus in a Handbasket",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1180",
@@ -16862,7 +16867,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1346",
@@ -16878,7 +16883,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1351",
@@ -17116,9 +17121,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_20",
@@ -19734,7 +19739,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1047",
@@ -19742,7 +19747,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1215",
@@ -19814,7 +19819,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "objective_completed_1376",
@@ -19822,7 +19827,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1380",
@@ -19838,7 +19843,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1385",
@@ -19854,7 +19859,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1390",
@@ -19885,21 +19890,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182162,
-      "Completed": 3011
+      "Progressed": 182171,
+      "Completed": 3012
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215888,
-      "Completed": 2124
+      "Progressed": 215897,
+      "Completed": 2125
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T05:02:16.9740679+00:00",
+  "LastChanged_Achievements": "2023-07-27T06:02:08.8382882+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T04:58:44.3876458+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:02:16.9780171+00:00"
+  "LastUpdate_Ratings": "2023-07-27T05:58:18.9633705+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:02:08.8409132+00:00"
 }

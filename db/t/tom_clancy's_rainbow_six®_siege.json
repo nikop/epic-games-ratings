@@ -2,13 +2,13 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4917,6 +4917,6 @@
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
   "LastChanged": "2023-07-26T11:57:11.4922848+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.9193556+00:00",
-  "LastUpdate_Ratings": "2023-07-27T04:57:09.1133581+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:02:05.16168+00:00"
+  "LastUpdate_Ratings": "2023-07-27T05:57:02.8950338+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:00:38.9735716+00:00"
 }

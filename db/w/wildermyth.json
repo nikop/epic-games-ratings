@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-07-27T00:05:11.0103016+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T06:04:39.8753738+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1314,7 +1319,7 @@
       "Name": "Passing Shadow",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1330,7 +1335,7 @@
       "Name": "Completing the Look",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1434,7 +1439,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1482,7 +1487,7 @@
       "Name": "War Endured",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "completedStory_legacy",
@@ -1689,15 +1694,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-27T05:05:33.6238953+00:00",
+  "LastChanged_Achievements": "2023-07-27T06:04:39.8753729+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:24.6940717+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:01:17.0411844+00:00",
-  "LastUpdate_Achievements": "2023-07-27T05:05:33.6239955+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:00:23.5214156+00:00",
+  "LastUpdate_Achievements": "2023-07-27T06:04:39.8754304+00:00"
 }
