@@ -10,41 +10,41 @@
 | Your first job | 86.00% | ~138 |
 | Good Person Chip | 86.00% | ~138 |
 | First defeat | 80.00% | ~129 |
-| Old movies enjoyer | 79.00% | ~127 |
+| Old movies enjoyer | 80.00% | ~129 |
 | Fitness professional | 78.00% | ~126 |
 | Depressed visitor | 77.00% | ~124 |
 | Employee of the week | 76.00% | ~122 |
 | Neurotrainer – power gainer! | 75.00% | ~121 |
 | Your own amateur gym | 74.00% | ~119 |
 | Run K, run! | 71.00% | ~114 |
+| No bullying more | 67.00% | ~108 |
 | Hello, world! | 67.00% | ~108 |
-| No bullying more | 66.00% | ~106 |
-| Fighting is cool | 65.00% | ~105 |
+| Fighting is cool | 66.00% | ~106 |
 | Pal of your father? | 61.00% | ~98 |
 | Employee of the month | 61.00% | ~98 |
-| Spirit of the past | 59.00% | ~95 |
+| Spirit of the past | 60.00% | ~97 |
 | Law student | 58.00% | ~93 |
 | Intriguing candies | 58.00% | ~93 |
 | Workout professional | 56.00% | ~90 |
-| Little hacker | 54.00% | ~87 |
+| Little hacker | 55.00% | ~89 |
+| Champion – starter pack | 53.00% | ~85 |
 | Your own way | 53.00% | ~85 |
-| Champion – starter pack | 52.00% | ~84 |
+| Handyman | 52.00% | ~84 |
 | Employee of the year | 52.00% | ~84 |
-| Handyman | 51.00% | ~82 |
+| Fight for life | 51.00% | ~82 |
 | It's good to be alive | 51.00% | ~82 |
-| Fight for life | 50.00% | ~80 |
 | Own four walls | 50.00% | ~80 |
-| Extreme neuropower! | 47.00% | ~76 |
+| Extreme neuropower! | 48.00% | ~77 |
 | Legal courier | 43.00% | ~69 |
+| Escaped from a big trouble | 39.00% | ~63 |
 | Now you are worthy | 38.00% | ~61 |
-| Escaped from a big trouble | 37.00% | ~60 |
-| No blades in the gym | 34.00% | ~55 |
+| No blades in the gym | 35.00% | ~56 |
 | Guiding on the right path | 34.00% | ~55 |
 | Mysterious voice | 32.00% | ~52 |
-| Fight is life | 30.00% | ~48 |
+| Fight is life | 31.00% | ~50 |
 | Responsible approach | 30.00% | ~48 |
 | Champion – no way back | 29.00% | ~47 |
-| Get out of my apartment! | 28.00% | ~45 |
+| Get out of my apartment! | 29.00% | ~47 |
 | Deal with life | 27.00% | ~43 |
 | Poisoned fighter | 27.00% | ~43 |
 | Underground dwellers | 27.00% | ~43 |
@@ -54,8 +54,9 @@
 | Gang wrangler | 25.00% | ~40 |
 | GYM professional | 25.00% | ~40 |
 | Anyone can resist | 25.00% | ~40 |
-| Problems of cyborgs | 22.00% | ~35 |
+| Problems of cyborgs | 23.00% | ~37 |
 | Keep nature safe | 22.00% | ~35 |
+| Trap disarmed | 21.00% | ~34 |
 | Another world | 21.00% | ~34 |
 | The lonesome road | 21.00% | ~34 |
 | Key memories | 21.00% | ~34 |
@@ -63,7 +64,6 @@
 | The last bell ring | 21.00% | ~34 |
 | The heart of the Resistance | 21.00% | ~34 |
 | Undercover robot | 21.00% | ~34 |
-| Trap disarmed | 20.00% | ~32 |
 | Family comes first | 20.00% | ~32 |
 | Absolute Champion! | 20.00% | ~32 |
 | Careerist | 20.00% | ~32 |

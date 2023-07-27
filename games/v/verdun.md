@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~40,738 |
-| Worth it | 63.00% | ~33,331 |
-| Eagle Eye | 55.00% | ~29,098 |
-| Corpseman I | 40.00% | ~21,162 |
-| Blast fishing | 37.00% | ~19,575 |
-| Not alone | 32.00% | ~16,930 |
-| Headhunter I | 26.00% | ~13,756 |
-| Manual Labour I | 25.00% | ~13,226 |
-| Developers, Developers, Developers | 24.00% | ~12,697 |
-| Basic Training | 24.00% | ~12,697 |
-| Furchtlos und Treu | 13.00% | ~6,878 |
+| Setting an example | 77.00% | ~40,742 |
+| Worth it | 63.00% | ~33,335 |
+| Eagle Eye | 55.00% | ~29,102 |
+| Corpseman I | 40.00% | ~21,165 |
+| Blast fishing | 37.00% | ~19,577 |
+| Not alone | 32.00% | ~16,932 |
+| Headhunter I | 26.00% | ~13,757 |
+| Manual Labour I | 25.00% | ~13,228 |
+| Developers, Developers, Developers | 24.00% | ~12,699 |
+| Basic Training | 24.00% | ~12,699 |
+| Furchtlos und Treu | 13.00% | ~6,879 |
 | Gott Mit Uns | 12.00% | ~6,349 |
 | This We'll Defend! | 9.00% | ~4,762 |
 | Anker wirf! | 9.00% | ~4,762 |
 | Providentiea Memor | 9.00% | ~4,762 |
 | For King and Country | 9.00% | ~4,762 |
-| Battle hardened | 8.00% | ~4,232 |
-| Semper Fidelis! | 7.00% | ~3,703 |
-| Honneur et Patrie | 7.00% | ~3,703 |
-| In Treue Fest | 5.00% | ~2,645 |
-| Voor De Koning | 5.00% | ~2,645 |
-| Extreme Headhunter | 5.00% | ~2,645 |
+| Battle hardened | 8.00% | ~4,233 |
+| Semper Fidelis! | 7.00% | ~3,704 |
+| Honneur et Patrie | 7.00% | ~3,704 |
+| In Treue Fest | 5.00% | ~2,646 |
+| Voor De Koning | 5.00% | ~2,646 |
+| Extreme Headhunter | 5.00% | ~2,646 |
 | Advance Australia | 4.00% | ~2,116 |
 | We Stand on Guard | 4.00% | ~2,116 |
 | Sidi Brahim | 4.00% | ~2,116 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~53 |
 | Blood Brother | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,906 (Ranked 87)  
+Progressed: 52,912 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 4 (0.01%) (Ranked 230)
 | 2023-07-24 | 52,599 | 4 |
 | 2023-07-25 | 52,734 | 4 |
 | 2023-07-26 | 52,871 | 4 |
-| 2023-07-27 | 52,906 | 4 |
+| 2023-07-27 | 52,912 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 340)  
 Sum: 758 (Ranked 262)  

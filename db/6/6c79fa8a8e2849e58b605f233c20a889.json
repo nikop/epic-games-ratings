@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2135,
+  "EOS_Progressed": 2136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4176,6 +4176,11 @@
       "Time": "2023-07-27T11:04:38.8706649+00:00",
       "NumProgressed": 2135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T13:10:41.3983416+00:00",
+      "NumProgressed": 2136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4187,7 +4192,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AI_DRAW",
@@ -4219,7 +4224,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -4283,7 +4288,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "GRASSHOPPER",
@@ -4291,7 +4296,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "GUARD_MAKER",
@@ -4362,14 +4367,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2135,
+      "Progressed": 2136,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:04:01.5263119+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:10:41.3983406+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.9403478+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:57:44.437295+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:04:01.5263513+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:04:11.0993285+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:10:41.3983992+00:00"
 }

@@ -639,17 +639,17 @@
       "ID": "ach_17",
       "SetID": "392n4e7",
       "Name": "Lieutenant Colonel Baran",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_18",
       "SetID": "392n4e7",
       "Name": "Colonel Baran",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_19",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:06:42.3752192+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:14:29.1073646+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.9358721+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:58:35.0982802+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:06:42.3752385+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:05:23.3265765+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:14:29.107385+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14163,
+  "EOS_Progressed": 14165,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6904,6 +6904,11 @@
       "Time": "2023-07-27T12:01:09.7276901+00:00",
       "NumProgressed": 14163,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-27T13:09:07.4665963+00:00",
+      "NumProgressed": 14165,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -6931,7 +6936,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "tpote_achievement_12",
@@ -6955,7 +6960,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4815
+      "UsersEstimate": 4816
     },
     {
       "ID": "tpote_achievement_15",
@@ -7003,7 +7008,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4815
+      "UsersEstimate": 4816
     },
     {
       "ID": "tpote_achievement_20",
@@ -7019,7 +7024,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "tpote_achievement_22",
@@ -7067,7 +7072,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "tpote_achievement_28",
@@ -7107,7 +7112,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "tpote_achievement_32",
@@ -7115,7 +7120,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "tpote_achievement_33",
@@ -7179,7 +7184,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "tpote_achievement_40",
@@ -7203,7 +7208,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "tpote_achievement_6",
@@ -7211,7 +7216,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "tpote_achievement_7",
@@ -7219,7 +7224,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "tpote_achievement_8",
@@ -7235,22 +7240,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14163,
+      "Progressed": 14165,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:01:09.7276895+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:09:07.4665959+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-27T12:00:22.3747041+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:01:09.7277689+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:07:56.3299829+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:09:07.466681+00:00"
 }

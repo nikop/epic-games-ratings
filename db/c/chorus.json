@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,11 +280,11 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -1435,6 +1435,11 @@
       "Time": "2023-07-27T06:03:49.8438896+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-27T13:11:23.1651191+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1446,7 +1451,7 @@
       "Name": "Demigod",
       "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "DieInPermadeath",
@@ -1462,7 +1467,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Finish5SideMissions",
@@ -1470,7 +1475,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1478,7 +1483,7 @@
       "Name": "Paragon",
       "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "GatlingVsArmor",
@@ -1508,9 +1513,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 809
     },
     {
       "ID": "MasteryOfCombat",
@@ -1518,7 +1523,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "MasteryOfRites",
@@ -1550,7 +1555,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "MissionAncientRitual",
@@ -1574,7 +1579,7 @@
       "Name": "Payback",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -1582,7 +1587,7 @@
       "Name": "Time to Spear",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -1590,7 +1595,7 @@
       "Name": "Full Arsenal",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "MissionEosReturn",
@@ -1630,7 +1635,7 @@
       "Name": "Safe Home",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1644,9 +1649,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 658
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1662,7 +1667,7 @@
       "Name": "Shields Down",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "MissionScavengingJob",
@@ -1670,7 +1675,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "MissionShipyard",
@@ -1686,15 +1691,15 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "MissionTemple",
       "SetID": "a6c395p",
       "Name": "Disruption",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 464
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1710,7 +1715,7 @@
       "Name": "Origin",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Overcharge",
@@ -1742,23 +1747,23 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "RiteOfTheStar",
       "SetID": "a6c395p",
       "Name": "Two Birds",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 270
     },
     {
       "ID": "RiteOfTheStorm",
       "SetID": "a6c395p",
       "Name": "It Was An Accident",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 421
     },
     {
       "ID": "UseRepairDrones",
@@ -1774,30 +1779,30 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "WinARace",
       "SetID": "a6c395p",
       "Name": "Relentless",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1079,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:04:31.4830595+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:11:23.1651186+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-27T12:00:26.9337779+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:04:31.483103+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:08:03.2549779+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:11:23.1651872+00:00"
 }

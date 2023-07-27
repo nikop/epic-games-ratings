@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Will This Help? | 72.00% | ~151 |
 | No One Is Safe | 65.00% | ~136 |
-| Career Woman | 63.00% | ~132 |
+| Career Woman | 64.00% | ~134 |
 | He's Off His Meds | 57.00% | ~120 |
 | Deal Or No Deal | 49.00% | ~103 |
 | Personal Life | 49.00% | ~103 |
@@ -22,7 +22,7 @@
 | Hopeful | 6.00% | ~13 |
 | Shady Truth | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 271)  
+Progressed: 210 (Ranked 272)  
 Completed: 4 (1.90%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |

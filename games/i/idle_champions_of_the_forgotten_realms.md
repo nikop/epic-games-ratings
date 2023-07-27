@@ -8,9 +8,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,319 |
 | Beast Intentions | 2.00% | ~4,319 |
-| Maddening | 1.00% | ~2,159 |
-| The Silken Swamp | 1.00% | ~2,159 |
-| Supply Run | 1.00% | ~2,159 |
+| Maddening | 1.00% | ~2,160 |
+| The Silken Swamp | 1.00% | ~2,160 |
+| Supply Run | 1.00% | ~2,160 |
 | Rocky Reception | 0.90% | ~1,640 |
 | Vecna Lives! | 0.80% | ~1,458 |
 | Rock and Roll | 0.80% | ~1,458 |
@@ -152,6 +152,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~432 |
 | Dinosaur Racing | 0.20% | ~432 |
 | Elturel Has Fallen | 0.20% | ~432 |
+| Resolve Amongst Chaos | 0.20% | ~432 |
 | Market Fluctuations | 0.20% | ~432 |
 | The Giant's Bane Tavern | 0.20% | ~364 |
 | The Everlasting Rime | 0.20% | ~364 |
@@ -370,7 +371,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~216 |
 | Earthquake! | 0.10% | ~182 |
 | Hailstorm! | 0.10% | ~182 |
-| Resolve Amongst Chaos | 0.10% | ~216 |
 | All You Know Is Wrong | 0.10% | ~216 |
 | Shadow Stalkers | 0.10% | ~182 |
 | Avernus Frozen Over | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,943 (Ranked 53)  
+Progressed: 215,955 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,943 | 2,127 |
+| 2023-07-27 | 215,955 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

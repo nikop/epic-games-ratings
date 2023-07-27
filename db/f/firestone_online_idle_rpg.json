@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4520,6 +4520,11 @@
       "Time": "2023-07-27T12:03:52.3084307+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T13:10:28.1645038+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4667,7 +4672,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "enchantingskillx5",
@@ -4803,7 +4808,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "jewelenchanting",
@@ -4867,7 +4872,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "missionsdedication",
@@ -4923,7 +4928,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "prestigiousx10",
@@ -5003,7 +5008,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "thefatherofdragons",
@@ -5051,7 +5056,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5130,7 +5135,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 1
     }
   ],
@@ -5138,8 +5143,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:03:52.3084301+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:10:28.1645027+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:58:34.1079377+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:03:52.3085448+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:05:21.5269976+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:10:28.1646105+00:00"
 }

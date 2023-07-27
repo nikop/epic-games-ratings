@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463873,
+  "EOS_Progressed": 463879,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10612,6 +10612,11 @@
       "Time": "2023-07-27T12:04:02.3461711+00:00",
       "NumProgressed": 463873,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-27T13:10:42.4645528+00:00",
+      "NumProgressed": 463879,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10639,7 +10644,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -10813,9 +10818,9 @@
       "ID": "achievement_story_see_ganyma",
       "SetID": "8cokdon",
       "Name": "Back to Ganyma",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -11055,7 +11060,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -11254,21 +11259,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7807,
+      "Progressed": 7813,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463873,
+      "Progressed": 463879,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:04:02.3461706+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:10:42.4645523+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:59:41.5647177+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:04:02.3463187+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:07:01.4885049+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:10:42.4647508+00:00"
 }

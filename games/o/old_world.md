@@ -12,7 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.90% | ~118 |
 | Poetic Leader | 0.90% | ~118 |
 | Explorer | 0.80% | ~105 |
-| Friendly Family | 0.70% | ~92 |
+| Friendly Family | 0.80% | ~105 |
 | Able | 0.60% | ~79 |
 | Intrepid | 0.60% | ~79 |
 | Architect | 0.50% | ~66 |
@@ -63,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.30% | ~39 |
 | Necropolis | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
+| Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
 | Egyptian Paganism | 0.30% | ~39 |
 | Mythology | 0.30% | ~39 |
@@ -72,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
+| Ready | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
@@ -89,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
-| Greece | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Assyrian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
@@ -147,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
-| Ready | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,117 (Ranked 115)  
+Progressed: 13,120 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,117 | 5 |
+| 2023-07-27 | 13,120 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

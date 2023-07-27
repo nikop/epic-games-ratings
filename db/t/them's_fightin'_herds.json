@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226926,
+  "EOS_Progressed": 226929,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10388,6 +10388,11 @@
       "Time": "2023-07-27T12:05:02.1802256+00:00",
       "NumProgressed": 226926,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T13:12:06.2570354+00:00",
+      "NumProgressed": 226929,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10463,7 +10468,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81693
+      "UsersEstimate": 81694
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -10543,7 +10548,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77155
+      "UsersEstimate": 77156
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10607,7 +10612,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38577
+      "UsersEstimate": 38578
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -10622,7 +10627,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226926,
+      "Progressed": 226929,
       "Completed": 3
     }
   ],
@@ -10630,8 +10635,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:05:02.1802252+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:12:06.2570348+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-27T12:00:11.2635841+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:05:02.1803047+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:07:43.8196928+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:12:06.2571397+00:00"
 }

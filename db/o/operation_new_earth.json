@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2231,6 +2231,11 @@
       "Time": "2023-07-27T12:05:45.8197523+00:00",
       "NumProgressed": 648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T13:12:59.0404527+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2250,7 +2255,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_defeat_players_10",
@@ -2274,7 +2279,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -2386,7 +2391,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -2434,7 +2439,7 @@
       "Name": "Getting Deployment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2482,7 +2487,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2498,7 +2503,7 @@
       "Name": "Defenses Online",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2545,14 +2550,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:05:45.8197518+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:12:59.0404521+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-27T12:00:50.0511038+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:05:45.8197959+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:08:34.5634339+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:12:59.0405004+00:00"
 }

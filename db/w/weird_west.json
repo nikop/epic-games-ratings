@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1742,
+  "EOS_Progressed": 1743,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-07-27T10:05:31.6356695+00:00",
       "NumProgressed": 1742,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T13:11:51.4494994+00:00",
+      "NumProgressed": 1743,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1551,7 +1556,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1583,7 +1588,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1703,7 +1708,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1783,7 +1788,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1799,7 +1804,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1821,9 +1826,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_REVENANT",
@@ -1847,7 +1852,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1927,7 +1932,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1935,7 +1940,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1967,22 +1972,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1742,
+      "Progressed": 1743,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:04:51.7663643+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:11:51.4494988+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:58:55.7463267+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:04:51.7664219+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:05:55.8841978+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:11:51.4495628+00:00"
 }

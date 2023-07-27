@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1298,
+  "EOS_Progressed": 1299,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.85,
   "EosHistory": [
@@ -1752,6 +1752,11 @@
       "Time": "2023-07-27T03:03:21.7169994+00:00",
       "NumProgressed": 1298,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-27T13:09:40.848128+00:00",
+      "NumProgressed": 1299,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 11,
@@ -1763,7 +1768,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1779,7 +1784,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1795,15 +1800,15 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_FineGioco",
@@ -1811,7 +1816,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1819,7 +1824,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1827,7 +1832,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1835,7 +1840,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1843,22 +1848,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1298,
+      "Progressed": 1299,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:03:25.5973033+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:09:40.8481272+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-27T12:00:27.8092638+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:03:25.5973221+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:08:04.6421822+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:09:40.8481511+00:00"
 }

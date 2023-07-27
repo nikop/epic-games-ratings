@@ -7,8 +7,8 @@ Rating: 4.09 (Ranked 895)
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 49.00% | ~1,717 |
 | Totally Intentional | 44.00% | ~1,542 |
-| Each Sold Separately | 37.00% | ~1,296 |
-| We're In | 32.00% | ~1,121 |
+| Each Sold Separately | 37.00% | ~1,297 |
+| We're In | 32.00% | ~1,122 |
 | You're Not Naked | 29.00% | ~1,016 |
 | Tale in the Toilet | 29.00% | ~1,016 |
 | From Zeroes... | 28.00% | ~981 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 895)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,504 (Ranked 147)  
+Progressed: 3,505 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 3,499 | 0 |
 | 2023-07-25 | 3,501 | 0 |
 | 2023-07-26 | 3,504 | 0 |
+| 2023-07-27 | 3,505 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "3b1560e84e434a3aa699bc67f3f3cb91",
   "Name": "Game Dev Masters",
   "ProductSlug": "game-dev-masters-f5d8f9",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-03T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:58:35.9275479+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:59:20.8307641+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:04:28.506056+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:06:32.9118725+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:11:19.2761283+00:00"
 }

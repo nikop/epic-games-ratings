@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 239157,
+  "EOS_Progressed": 239164,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10993,6 +10993,11 @@
       "Time": "2023-07-27T12:03:05.4467515+00:00",
       "NumProgressed": 239157,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-27T13:09:14.0833057+00:00",
+      "NumProgressed": 239164,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11004,7 +11009,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64572
+      "UsersEstimate": 64574
     },
     {
       "ID": "ACH_AON",
@@ -11028,7 +11033,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -11044,7 +11049,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26307
+      "UsersEstimate": 26308
     },
     {
       "ID": "ACH_ENJOY",
@@ -11068,7 +11073,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28699
+      "UsersEstimate": 28700
     },
     {
       "ID": "ACH_HATTRICK",
@@ -11084,7 +11089,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -11148,7 +11153,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66964
+      "UsersEstimate": 66966
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -11172,7 +11177,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -11220,7 +11225,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57398
+      "UsersEstimate": 57399
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -11284,7 +11289,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "ACH_MEMORY5",
@@ -11324,7 +11329,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59789
+      "UsersEstimate": 59791
     },
     {
       "ID": "ACH_SOREAD",
@@ -11332,7 +11337,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -11372,7 +11377,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "ACH_TROLLKING",
@@ -11419,7 +11424,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 239157,
+      "Progressed": 239164,
       "Completed": 7
     }
   ],
@@ -11427,8 +11432,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:03:05.4467507+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:09:14.0833048+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.2010165+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:58:29.8648958+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:03:05.44687+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:05:15.2194574+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:09:14.0834303+00:00"
 }

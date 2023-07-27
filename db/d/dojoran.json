@@ -2,9 +2,9 @@
   "ID": "fc70a43a8dec4293ab9243e2d9fb6a41",
   "Name": "Dojoran",
   "ProductSlug": "dojoran-1e6fb7",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.514776+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:58:31.4804381+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:01:02.6812849+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:05:17.6803549+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:08:57.7118101+00:00"
 }

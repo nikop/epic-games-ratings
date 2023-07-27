@@ -15,6 +15,7 @@
 | Pathfinder | 3.00% | ~3 |
 | Great Producer | 3.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 2.00% | ~2 |
+| Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | There's something in those trees | 2.00% | ~2 |
 | Desert Power | 2.00% | ~2 |
@@ -25,7 +26,6 @@
 | Ammo Tycoon | 2.00% | ~2 |
 | Supersoldier | 1.00% | ~1 |
 | Perfect Soldier | 1.00% | ~1 |
-| Outdoor Decorator | 1.00% | ~1 |
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Overpopulation | 1.00% | ~1 |

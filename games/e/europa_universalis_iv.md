@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,721 |
-| That's a Grand Army | 8.00% | ~5,974 |
-| That is mine! | 8.00% | ~5,974 |
-| Victorious! | 8.00% | ~5,974 |
-| Brothers in Arms | 6.00% | ~4,480 |
-| That's a Grand Navy | 6.00% | ~4,480 |
-| Seriously?! | 6.00% | ~4,480 |
-| For the Glory | 5.00% | ~3,734 |
-| Cold War | 4.00% | ~2,987 |
-| True Catholic | 4.00% | ~2,987 |
-| Defender of the Faith | 3.00% | ~2,240 |
-| It's all about luck | 3.00% | ~2,240 |
-| It's all about the money | 3.00% | ~2,240 |
-| Respected | 3.00% | ~2,240 |
-| The Princess is in this Castle | 3.00% | ~2,240 |
-| Truly Divine Ruler | 3.00% | ~2,240 |
+| Until death do us apart | 9.00% | ~6,723 |
+| That's a Grand Army | 8.00% | ~5,976 |
+| That is mine! | 8.00% | ~5,976 |
+| Victorious! | 8.00% | ~5,976 |
+| Brothers in Arms | 6.00% | ~4,482 |
+| That's a Grand Navy | 6.00% | ~4,482 |
+| Seriously?! | 6.00% | ~4,482 |
+| For the Glory | 5.00% | ~3,735 |
+| Cold War | 4.00% | ~2,988 |
+| True Catholic | 4.00% | ~2,988 |
+| Defender of the Faith | 3.00% | ~2,241 |
+| It's all about luck | 3.00% | ~2,241 |
+| It's all about the money | 3.00% | ~2,241 |
+| Respected | 3.00% | ~2,241 |
+| The Princess is in this Castle | 3.00% | ~2,241 |
+| Truly Divine Ruler | 3.00% | ~2,241 |
 | Agressive Expander | 2.00% | ~1,494 |
 | Blockader | 2.00% | ~1,494 |
 | Combined Arms | 2.00% | ~1,494 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~672 |
 | Market Control | 0.90% | ~672 |
 | Trustworthy | 0.90% | ~672 |
-| Down Under | 0.80% | ~597 |
+| Down Under | 0.80% | ~598 |
 | Electable! | 0.70% | ~523 |
 | Populists in Government | 0.70% | ~523 |
 | All belongs to Mother Russia | 0.60% | ~448 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~448 |
 | This is My Faith | 0.60% | ~448 |
 | Time Bandit | 0.60% | ~448 |
-| Absolutely | 0.50% | ~373 |
-| Grand Coalition | 0.50% | ~373 |
-| In the Name of the Father | 0.50% | ~373 |
-| Live Long and Prosper | 0.50% | ~373 |
-| Ruina Imperii | 0.50% | ~373 |
-| Trophy Hunter | 0.50% | ~373 |
-| Voting Streak | 0.50% | ~373 |
+| Absolutely | 0.50% | ~374 |
+| Grand Coalition | 0.50% | ~374 |
+| In the Name of the Father | 0.50% | ~374 |
+| Live Long and Prosper | 0.50% | ~374 |
+| Ruina Imperii | 0.50% | ~374 |
+| Trophy Hunter | 0.50% | ~374 |
+| Voting Streak | 0.50% | ~374 |
 | All Your Trade Are Belong to Us | 0.40% | ~299 |
 | Bleed Them Dry | 0.40% | ~299 |
 | Dude, Where's my Boat? | 0.40% | ~299 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,675 (Ranked 74)  
+Progressed: 74,703 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -459,7 +459,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 73,777 | 0 |
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
-| 2023-07-27 | 74,675 | 0 |
+| 2023-07-27 | 74,703 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
 Sum: 46,055 (Ranked 26)  

@@ -7,23 +7,23 @@
 | Time Heals All Wounds | 22.00% | ~174 |
 | The Mysterious Stranger | 18.00% | ~142 |
 | Rail Rat | 18.00% | ~142 |
-| The Steel Shadow | 16.00% | ~126 |
-| Make Up For Lost Time | 16.00% | ~126 |
-| Time Flies | 16.00% | ~126 |
-| No, Thanks! | 16.00% | ~126 |
-| Breaking Down Barriers | 16.00% | ~126 |
-| The Wicked Twins | 16.00% | ~126 |
-| The Prince in Heels | 16.00% | ~126 |
-| Immaculate Aim | 16.00% | ~126 |
-| Immaculate Aim | 16.00% | ~126 |
-| The Brass Boss | 16.00% | ~126 |
-| The Betrayer | 15.00% | ~118 |
-| The Man Who Shattered Time | 15.00% | ~118 |
-| The Loose Cannon | 15.00% | ~118 |
-| The Harder They Fall | 15.00% | ~118 |
-| Honest Mistake | 15.00% | ~118 |
-| Fast Learner | 15.00% | ~118 |
-| The Family Fortune | 15.00% | ~118 |
+| The Steel Shadow | 16.00% | ~127 |
+| Make Up For Lost Time | 16.00% | ~127 |
+| Time Flies | 16.00% | ~127 |
+| No, Thanks! | 16.00% | ~127 |
+| Breaking Down Barriers | 16.00% | ~127 |
+| The Wicked Twins | 16.00% | ~127 |
+| The Prince in Heels | 16.00% | ~127 |
+| Immaculate Aim | 16.00% | ~127 |
+| Immaculate Aim | 16.00% | ~127 |
+| The Brass Boss | 16.00% | ~127 |
+| The Betrayer | 15.00% | ~119 |
+| The Man Who Shattered Time | 15.00% | ~119 |
+| The Loose Cannon | 15.00% | ~119 |
+| The Harder They Fall | 15.00% | ~119 |
+| Honest Mistake | 15.00% | ~119 |
+| Fast Learner | 15.00% | ~119 |
+| The Family Fortune | 15.00% | ~119 |
 | Treasure Trove | 14.00% | ~111 |
 | Like Clockwork | 14.00% | ~111 |
 | Cartographer | 14.00% | ~111 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790 (Ranked 199)  
+Progressed: 791 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,4 +122,4 @@ Completed: 4 (0.51%) (Ranked 132)
 | 2023-07-24 | 786 | 4 |
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
-| 2023-07-27 | 790 | 4 |
+| 2023-07-27 | 791 | 4 |

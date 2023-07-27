@@ -5,9 +5,9 @@
   "Ranking_Rating": 508,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
@@ -7056,18 +7056,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 52437,
       "NumberOfAwardsMax": 20961
+    },
+    {
+      "Time": "2023-07-27T13:06:49.156508+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 52462,
+      "NumberOfAwardsMax": 20979
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52437,
-  "NumberOfAwardsMax": 20961,
+  "NumberOfAwards": 52462,
+  "NumberOfAwardsMax": 20979,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20961
+      "Count": 20979
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7109,13 +7115,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3296
+      "Count": 3298
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2737
+      "Count": 2742
     },
     {
       "Text": "This game is Relaxing",
@@ -7141,8 +7147,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-07-27T11:00:26.4755784+00:00",
+  "LastChanged": "2023-07-27T13:06:49.1565077+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.8088866+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:59:33.6378311+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:05:35.8572488+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:06:49.1565085+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:12:44.6494966+00:00"
 }

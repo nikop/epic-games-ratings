@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 301)  
+Progressed: 123 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-23 | 120 | 0 |
 | 2023-07-24 | 121 | 0 |
 | 2023-07-26 | 122 | 0 |
+| 2023-07-27 | 123 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

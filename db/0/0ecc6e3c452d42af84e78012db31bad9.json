@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1736,
+  "EOS_Progressed": 1737,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2731,6 +2731,11 @@
       "Time": "2023-07-27T11:06:07.7634077+00:00",
       "NumProgressed": 1736,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-27T13:12:17.6742567+00:00",
+      "NumProgressed": 1737,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -2774,7 +2779,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ach_architecture_completed",
@@ -2814,7 +2819,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ach_food_completed",
@@ -2830,7 +2835,7 @@
       "Name": "Food - unlocked",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ach_game_opened",
@@ -2846,15 +2851,15 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ach_no_boosters",
       "SetID": "3h4khpo",
       "Name": "Master",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 660
+      "UsersEstimate": 677
     },
     {
       "ID": "ach_tornado",
@@ -2869,14 +2874,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1736,
+      "Progressed": 1737,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-27T12:05:14.452318+00:00",
+  "LastChanged_Achievements": "2023-07-27T13:12:17.6742561+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.4941332+00:00",
-  "LastUpdate_Ratings": "2023-07-27T11:57:29.441669+00:00",
-  "LastUpdate_Achievements": "2023-07-27T12:05:14.4523499+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:03:51.2492544+00:00",
+  "LastUpdate_Achievements": "2023-07-27T13:12:17.6742976+00:00"
 }
