@@ -16,9 +16,9 @@ Rating: 4.77 (Ranked 109)
 | Historian | 6.00% | ~410 |
 | Iconoclast | 6.00% | ~410 |
 | Soul-Canon | 6.00% | ~410 |
-| Happy Camper | 5.00% | ~341 |
-| Liberator | 5.00% | ~341 |
-| Shredder | 5.00% | ~341 |
+| Happy Camper | 5.00% | ~342 |
+| Liberator | 5.00% | ~342 |
+| Shredder | 5.00% | ~342 |
 | Live Wire | 4.00% | ~273 |
 | Fashion Faux-Pas | 3.00% | ~205 |
 | Fashion Victim | 3.00% | ~205 |
@@ -27,7 +27,7 @@ Rating: 4.77 (Ranked 109)
 | Ça de Wizz! | 1.00% | ~68 |
 | Thing | 1.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,828 (Ranked 131)  
+Progressed: 6,830 (Ranked 131)  
 Completed: 30 (0.44%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 30 (0.44%) (Ranked 137)
 | 2023-07-24 | 6,796 | 29 |
 | 2023-07-25 | 6,803 | 29 |
 | 2023-07-26 | 6,822 | 30 |
-| 2023-07-27 | 6,828 | 30 |
+| 2023-07-27 | 6,830 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

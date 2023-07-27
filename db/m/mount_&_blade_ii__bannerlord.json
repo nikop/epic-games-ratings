@@ -5875,18 +5875,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13881,
       "NumberOfAwardsMax": 6852
+    },
+    {
+      "Time": "2023-07-27T14:01:04.2072217+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13889,
+      "NumberOfAwardsMax": 6860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13881,
-  "NumberOfAwardsMax": 6852,
+  "NumberOfAwards": 13889,
+  "NumberOfAwardsMax": 6860,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6852
+      "Count": 6860
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5955,9 +5961,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57075,
+  "EOS_Progressed": 57081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16170,6 +16176,11 @@
       "Time": "2023-07-27T13:09:18.0181018+00:00",
       "NumProgressed": 57075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T14:02:33.37048+00:00",
+      "NumProgressed": 57081,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16181,7 +16192,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "Apple of my eye",
@@ -16197,7 +16208,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12556
+      "UsersEstimate": 12558
     },
     {
       "ID": "Best served cold",
@@ -16309,7 +16320,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "Great Granny",
@@ -16341,7 +16352,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12556
+      "UsersEstimate": 12558
     },
     {
       "ID": "I can do it",
@@ -16349,7 +16360,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8561
+      "UsersEstimate": 8562
     },
     {
       "ID": "I spit on your grave",
@@ -16373,7 +16384,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9132
+      "UsersEstimate": 9133
     },
     {
       "ID": "Kingslayer",
@@ -16389,7 +16400,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "Lance-a-lot",
@@ -16405,7 +16416,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17695
     },
     {
       "ID": "Lawbringer",
@@ -16413,7 +16424,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21118
+      "UsersEstimate": 21120
     },
     {
       "ID": "Lawmaker",
@@ -16421,7 +16432,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12556
+      "UsersEstimate": 12558
     },
     {
       "ID": "Long live the Empire",
@@ -16437,7 +16448,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "Minor Clan",
@@ -16533,7 +16544,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9703
+      "UsersEstimate": 9704
     },
     {
       "ID": "This Is Our Land",
@@ -16557,7 +16568,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12556
+      "UsersEstimate": 12558
     },
     {
       "ID": "Undercover",
@@ -16588,15 +16599,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57075,
+      "Progressed": 57081,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-26T15:00:06.3086185+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:09:18.018101+00:00",
+  "LastChanged": "2023-07-27T14:01:04.2072215+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:02:33.3704796+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:07:39.8970751+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:09:18.0182384+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:01:04.2072225+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:02:33.370604+00:00"
 }

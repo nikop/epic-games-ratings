@@ -3254,9 +3254,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10607,
+  "EOS_Progressed": 10610,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9459,6 +9459,11 @@
       "Time": "2023-07-27T13:09:39.4105939+00:00",
       "NumProgressed": 10607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T14:03:11.9693621+00:00",
+      "NumProgressed": 10610,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9470,7 +9475,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "02_BurningCity",
@@ -9494,7 +9499,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9838,7 +9843,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "49_Flame",
@@ -10397,21 +10402,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9389,
+      "Progressed": 9392,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10607,
+      "Progressed": 10610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-26T15:59:43.5553207+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:09:39.4105844+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:03:11.9693615+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:05:53.8560044+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:09:39.4107931+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:59:33.4280941+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:03:11.9696021+00:00"
 }

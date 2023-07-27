@@ -4,7 +4,7 @@
   "ProductSlug": "the-bookwalker-cd43ce",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-22T16:00:00+00:00",
@@ -343,8 +343,8 @@
   ],
   "FirstSeen": "2023-06-24T19:57:11.4257975+00:00",
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:12:38.1720074+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:06:12.0600229+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:01.0371971+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:03:58.0692879+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:12:38.1720393+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:57:50.1637124+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:06:12.0600698+00:00"
 }

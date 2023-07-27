@@ -832,9 +832,9 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "BeggarWomanHut",
@@ -848,9 +848,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "BroomPistol",
@@ -912,9 +912,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "HastrmanAcorn",
@@ -1032,9 +1032,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "RogueEat",
@@ -1088,9 +1088,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "SwordDiamond",
@@ -1127,8 +1127,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:13:16.989378+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:06:44.6895479+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:03:41.5658374+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:13:16.9894385+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:57:35.1841568+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:06:44.6895914+00:00"
 }

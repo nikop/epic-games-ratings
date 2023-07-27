@@ -4,7 +4,7 @@
   "ProductSlug": "f1-22",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-24T20:09:32.332907+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:14:22.7127789+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:07:31.636208+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:17.5263657+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:08:30.6417688+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:14:22.7127833+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:01:50.8550924+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:07:31.6362275+00:00"
 }

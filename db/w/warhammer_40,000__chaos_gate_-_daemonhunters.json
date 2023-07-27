@@ -630,9 +630,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3048,
+  "EOS_Progressed": 3049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2585,6 +2585,11 @@
       "Time": "2023-07-27T00:04:02.6468982+00:00",
       "NumProgressed": 3048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T14:04:29.0541292+00:00",
+      "NumProgressed": 3049,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2690,9 +2695,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2818,9 +2823,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Kills_Streak",
@@ -3139,21 +3144,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3048,
+      "Progressed": 3049,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3048,
+      "Progressed": 3049,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-27T01:49:58.5099342+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:10:56.242237+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:04:29.0541286+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:06:18.1281055+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:10:56.2423323+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:59:55.3099227+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:04:29.0542329+00:00"
 }

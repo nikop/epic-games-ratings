@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -1779,6 +1779,11 @@
       "Time": "2023-07-27T13:10:48.0523062+00:00",
       "NumProgressed": 791,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T14:04:22.2530797+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1830,7 +1835,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ClockworkProgress1",
@@ -1854,7 +1859,7 @@
       "Name": "Sartorialist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CosmeticProgress1",
@@ -1910,7 +1915,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1950,7 +1955,7 @@
       "Name": "Rail Rat",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "HexlockGift",
@@ -2213,14 +2218,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:10:48.0523056+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:04:22.2530792+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:07:06.7481531+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:10:48.0523993+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:00:34.5661085+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:04:22.2531844+00:00"
 }

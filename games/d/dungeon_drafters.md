@@ -7,11 +7,11 @@
 | Treasure Hunting | 36.00% | ~24 |
 | Might be useful… | 36.00% | ~24 |
 | Friend! | 32.00% | ~21 |
-| Uncut Gem | 29.00% | ~19 |
+| Uncut Gem | 30.00% | ~20 |
+| Setting Off | 27.00% | ~18 |
 | Shine! | 27.00% | ~18 |
-| Setting Off | 26.00% | ~17 |
 | Clear as Water | 24.00% | ~16 |
-| Riddlesolver | 20.00% | ~13 |
+| Riddlesolver | 21.00% | ~14 |
 | Card Collector | 20.00% | ~13 |
 | Dungeon Mastery | 18.00% | ~12 |
 | The Steed | 11.00% | ~7 |
@@ -22,6 +22,7 @@
 | Braving Miasma | 6.00% | ~4 |
 | Ancient Nemesis | 6.00% | ~4 |
 | No Stone Unturned | 6.00% | ~4 |
+| Raider Mastery | 5.00% | ~3 |
 | Traveler Mastery | 5.00% | ~3 |
 | The Plot Thickens | 5.00% | ~3 |
 | The False Prophet | 5.00% | ~3 |
@@ -29,7 +30,6 @@
 | Best Pupil | 3.00% | ~2 |
 | Oracle Mastery | 3.00% | ~2 |
 | FOR JUSTICE! | 3.00% | ~2 |
-| Raider Mastery | 3.00% | ~2 |
 | Journey’s End | 3.00% | ~2 |
 | Masterpiece | 3.00% | ~2 |
 | Warden Mastery | 3.00% | ~2 |

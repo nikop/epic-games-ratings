@@ -29,6 +29,7 @@
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Overpopulation | 1.00% | ~1 |
+| Human Resources | 1.00% | ~1 |
 | Fuel Tycoon | 1.00% | ~1 |
 | Winter Soldier | 1.00% | ~1 |
 | Tear Down the Wall! | 0.00% | ~0 |
@@ -38,7 +39,6 @@
 | Crisis Committee | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | Snowman | 0.00% | ~0 |
-| Human Resources | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |

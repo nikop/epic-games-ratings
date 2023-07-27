@@ -7,13 +7,13 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 4.00% | ~144 |
 | Feeling the beat! | 4.00% | ~144 |
+| Who put gears in there? | 4.00% | ~144 |
 | You can pet the cat! | 4.00% | ~144 |
 | Cream of the Crop | 3.00% | ~108 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~108 |
 | I play my own way! | 3.00% | ~108 |
 | You got this, Peppermint? | 3.00% | ~108 |
 | Perfect Parry | 3.00% | ~108 |
-| Who put gears in there? | 3.00% | ~108 |
 | Alright, that felt AWESOME! | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~63 |
 | This will cost you big time | 2.00% | ~72 |
@@ -43,7 +43,7 @@ Rating: 4.87 (Ranked 24)
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | I think I deserve some praise, here! | 0.40% | ~14 |
-| This is a breeze! | 0.30% | ~11 |
+| This is a breeze! | 0.40% | ~14 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
 | I'm not done with you yet | 0.30% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,594 (Ranked 145)  
+Progressed: 3,595 (Ranked 145)  
 Completed: 6 (0.17%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 6 (0.17%) (Ranked 172)
 | 2023-07-24 | 3,552 | 6 |
 | 2023-07-25 | 3,574 | 6 |
 | 2023-07-26 | 3,589 | 6 |
-| 2023-07-27 | 3,594 | 6 |
+| 2023-07-27 | 3,595 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16327,
+  "EOS_Progressed": 16328,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10679,6 +10679,11 @@
       "Time": "2023-07-27T13:11:22.7061567+00:00",
       "NumProgressed": 16327,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-07-27T14:04:51.7649846+00:00",
+      "NumProgressed": 16328,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 20,
@@ -10714,7 +10719,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -10849,15 +10854,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16327,
+      "Progressed": 16328,
       "Completed": 339
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:11:22.7061561+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:04:51.764984+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:08:05.5752902+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:11:22.7062739+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:01:30.95339+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:04:51.7651006+00:00"
 }

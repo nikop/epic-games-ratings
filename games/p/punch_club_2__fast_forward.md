@@ -13,15 +13,15 @@
 | Old movies enjoyer | 80.00% | ~129 |
 | Fitness professional | 78.00% | ~126 |
 | Depressed visitor | 77.00% | ~124 |
+| Neurotrainer – power gainer! | 76.00% | ~122 |
 | Employee of the week | 76.00% | ~122 |
-| Neurotrainer – power gainer! | 75.00% | ~121 |
 | Your own amateur gym | 74.00% | ~119 |
 | Run K, run! | 71.00% | ~114 |
 | No bullying more | 67.00% | ~108 |
 | Hello, world! | 67.00% | ~108 |
 | Fighting is cool | 66.00% | ~106 |
-| Pal of your father? | 61.00% | ~98 |
-| Employee of the month | 61.00% | ~98 |
+| Pal of your father? | 62.00% | ~100 |
+| Employee of the month | 62.00% | ~100 |
 | Spirit of the past | 60.00% | ~97 |
 | Law student | 58.00% | ~93 |
 | Intriguing candies | 58.00% | ~93 |
@@ -30,20 +30,20 @@
 | Champion – starter pack | 53.00% | ~85 |
 | Your own way | 53.00% | ~85 |
 | Handyman | 52.00% | ~84 |
+| It's good to be alive | 52.00% | ~84 |
 | Employee of the year | 52.00% | ~84 |
 | Fight for life | 51.00% | ~82 |
-| It's good to be alive | 51.00% | ~82 |
 | Own four walls | 50.00% | ~80 |
 | Extreme neuropower! | 48.00% | ~77 |
 | Legal courier | 43.00% | ~69 |
-| Escaped from a big trouble | 39.00% | ~63 |
+| Escaped from a big trouble | 40.00% | ~64 |
 | Now you are worthy | 38.00% | ~61 |
 | No blades in the gym | 35.00% | ~56 |
-| Guiding on the right path | 34.00% | ~55 |
+| Guiding on the right path | 35.00% | ~56 |
 | Mysterious voice | 32.00% | ~52 |
 | Fight is life | 31.00% | ~50 |
+| Champion – no way back | 30.00% | ~48 |
 | Responsible approach | 30.00% | ~48 |
-| Champion – no way back | 29.00% | ~47 |
 | Get out of my apartment! | 29.00% | ~47 |
 | Deal with life | 27.00% | ~43 |
 | Poisoned fighter | 27.00% | ~43 |

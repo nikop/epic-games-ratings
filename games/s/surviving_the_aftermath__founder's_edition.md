@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,499 |
-| Leader | 60.00% | ~4,647 |
+| Leader | 61.00% | ~4,724 |
 | Explorer | 53.00% | ~4,105 |
 | Healer | 52.00% | ~4,027 |
 | Aspiring Inventor | 44.00% | ~3,408 |
@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,556 |
 | The Great Healer | 31.00% | ~2,401 |
 | Survivor | 31.00% | ~2,401 |
+| Legendary Explorer | 28.00% | ~2,169 |
 | Cleaner | 28.00% | ~2,169 |
 | Catastrofan | 28.00% | ~2,169 |
-| Legendary Explorer | 27.00% | ~2,091 |
 | Finders, Keepers | 26.00% | ~2,014 |
 | Top Notch | 25.00% | ~1,936 |
 | Ice Lakes | 23.00% | ~1,781 |

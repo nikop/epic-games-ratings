@@ -4,7 +4,7 @@
   "ProductSlug": "nova-strike",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -67,9 +67,9 @@
       "ID": "12",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Not that one ! \u00BB",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -147,9 +147,9 @@
       "ID": "6",
       "SetID": "5lmgb5n",
       "Name": "I\u0027ll be back",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "7",
@@ -185,8 +185,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:08:51.781374+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:02:10.8787078+00:00",
   "LastUpdate_AppInfo": "2023-07-27T08:57:03.5115055+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:03:19.2949812+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:08:51.7813942+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:57:12.0481367+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:02:10.8787276+00:00"
 }

@@ -2412,9 +2412,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 470
     },
     {
       "ID": "FIRST_100K",
@@ -2493,8 +2493,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:14:27.6838358+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:07:35.7977263+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.586733+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:07:07.7606163+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:14:27.6838671+00:00"
+  "LastUpdate_Ratings": "2023-07-27T14:00:35.3563462+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:07:35.7977601+00:00"
 }

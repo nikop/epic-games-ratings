@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.60% | ~1,093 |
 | Topolah's Tower | 0.60% | ~1,093 |
 | Pros and CONs | 0.50% | ~1,080 |
+| The Witchlight Carnival | 0.50% | ~911 |
 | Wet Feet | 0.50% | ~1,080 |
 | Hatchlings Underfoot | 0.50% | ~1,080 |
 | Don't Look Up! | 0.50% | ~1,080 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.50% | ~911 |
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
-| The Witchlight Carnival | 0.40% | ~729 |
 | Thieves of the Coven | 0.40% | ~729 |
 | Heavy Burden | 0.40% | ~864 |
 | The Evacuation of Waterdeep | 0.40% | ~729 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~432 |
 | Fugitives | 0.20% | ~432 |
 | Premature Betrayal | 0.20% | ~432 |
+| Hopelessly Lost | 0.20% | ~432 |
 | Mad Cow Disease | 0.20% | ~432 |
 | A Tale of Two Cities | 0.20% | ~432 |
 | The Dead Three | 0.20% | ~432 |
@@ -308,7 +309,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~216 |
 | Careful Consideration | 0.10% | ~216 |
 | Tanking Expectations | 0.10% | ~182 |
-| Hopelessly Lost | 0.10% | ~216 |
 | Bazaar Exploits | 0.10% | ~216 |
 | Cramped Quarters | 0.10% | ~216 |
 | Flame(skull) War | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,955 (Ranked 53)  
+Progressed: 215,974 (Ranked 53)  
 Completed: 2,127 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 2,127 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,955 | 2,127 |
+| 2023-07-27 | 215,974 | 2,127 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

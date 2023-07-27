@@ -13,8 +13,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.90% | ~118 |
 | Explorer | 0.80% | ~105 |
 | Friendly Family | 0.80% | ~105 |
+| Intrepid | 0.70% | ~92 |
 | Able | 0.60% | ~79 |
-| Intrepid | 0.60% | ~79 |
 | Architect | 0.50% | ~66 |
 | Enlightened | 0.50% | ~66 |
 | Good | 0.50% | ~66 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,120 (Ranked 115)  
+Progressed: 13,122 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
-| 2023-07-27 | 13,120 | 5 |
+| 2023-07-27 | 13,122 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

@@ -6,20 +6,20 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~36,147 |
-| First Steps | 80.00% | ~31,094 |
+| Awakening | 93.00% | ~36,148 |
+| First Steps | 80.00% | ~31,095 |
 | Control the Shadows | 67.00% | ~26,042 |
 | Tools of the Trade | 63.00% | ~24,487 |
 | Apprentice | 60.00% | ~23,321 |
 | Secret Seeker | 57.00% | ~22,155 |
-| Forge of Assassins | 55.00% | ~21,377 |
-| Revenant | 52.00% | ~20,211 |
+| Forge of Assassins | 55.00% | ~21,378 |
+| Revenant | 52.00% | ~20,212 |
 | I don’t Care! | 45.00% | ~17,491 |
-| Bird of Prey | 37.00% | ~14,381 |
+| Bird of Prey | 37.00% | ~14,382 |
 | Engraved with Power | 32.00% | ~12,438 |
 | Lady | 31.00% | ~12,049 |
-| Fashionable Assassin | 27.00% | ~10,494 |
-| Apex Predator | 24.00% | ~9,328 |
+| Fashionable Assassin | 27.00% | ~10,495 |
+| Apex Predator | 24.00% | ~9,329 |
 | Soul Reaver | 22.00% | ~8,551 |
 | Embers | 21.00% | ~8,162 |
 | Wall Lizard | 20.00% | ~7,774 |
@@ -30,14 +30,14 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~5,442 |
 | War Engines | 14.00% | ~5,442 |
 | Signature Move | 14.00% | ~5,442 |
-| Ruse | 11.00% | ~4,275 |
+| Ruse | 11.00% | ~4,276 |
 | Master Ninja | 10.00% | ~3,887 |
 | Hatching | 9.00% | ~3,498 |
 | Bonds | 9.00% | ~3,498 |
 | Get Over Here | 9.00% | ~3,498 |
 | The Hidden Village | 9.00% | ~3,498 |
-| Denouement | 8.00% | ~3,109 |
-| A Pleasant Stay | 8.00% | ~3,109 |
+| Denouement | 8.00% | ~3,110 |
+| A Pleasant Stay | 8.00% | ~3,110 |
 | Pilgrimage | 7.00% | ~2,721 |
 | The Lookout | 5.00% | ~1,943 |
 | Left Behind | 4.00% | ~1,555 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~389 |
 | Anger Management | 1.00% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,868 (Ranked 92)  
+Progressed: 38,869 (Ranked 92)  
 Completed: 194 (0.50%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 194 (0.50%) (Ranked 134)
 | 2023-07-24 | 38,544 | 194 |
 | 2023-07-25 | 38,690 | 194 |
 | 2023-07-26 | 38,808 | 194 |
-| 2023-07-27 | 38,868 | 194 |
+| 2023-07-27 | 38,869 | 194 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

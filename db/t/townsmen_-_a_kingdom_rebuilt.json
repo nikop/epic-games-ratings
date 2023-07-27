@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -951,9 +951,9 @@
       "ID": "ACHIEVEMENT_BREAD1",
       "SetID": "9eacipp",
       "Name": "Bread for the people I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -1735,8 +1735,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-27T13:12:20.7453473+00:00",
+  "LastChanged_Achievements": "2023-07-27T14:05:57.3293813+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.1357756+00:00",
-  "LastUpdate_Ratings": "2023-07-27T13:05:19.3771552+00:00",
-  "LastUpdate_Achievements": "2023-07-27T13:12:20.7454894+00:00"
+  "LastUpdate_Ratings": "2023-07-27T13:59:01.9547892+00:00",
+  "LastUpdate_Achievements": "2023-07-27T14:05:57.3295112+00:00"
 }
