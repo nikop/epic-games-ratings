@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 0,
@@ -120,49 +122,49 @@
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -181,9 +183,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:05:23.3494283+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:04:51.1633316+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.7516191+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:57:25.0639264+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:05:23.349437+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:21.2236236+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:04:51.1633425+00:00"
 }

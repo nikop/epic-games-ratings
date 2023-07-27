@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
     {
       "Time": "2023-07-25T21:03:46.298999+00:00",
       "NumProgressed": 24,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T00:03:26.1806911+00:00",
+      "NumProgressed": 25,
       "NumCompleted": 0
     }
   ],
@@ -241,7 +246,7 @@
       "ID": "HW2_MISSION1_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Tanis Completed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -330,13 +335,13 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:03:50.1998473+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:03:26.1806906+00:00",
   "LastUpdate_AppInfo": "2023-07-20T15:57:07.1450323+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:57:09.8138404+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:03:50.1998708+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:09.243508+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:03:26.180717+00:00"
 }

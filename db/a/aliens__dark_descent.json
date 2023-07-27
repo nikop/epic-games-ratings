@@ -3447,9 +3447,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_MISSION_09",
@@ -3568,8 +3568,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-25T20:00:25.2549705+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:02:03.9023948+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:00:43.9565904+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:00:16.4937799+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:02:03.9024649+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:59:35.4184672+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:00:43.9566504+00:00"
 }

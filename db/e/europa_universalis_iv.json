@@ -7444,11 +7444,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 46038,
       "NumberOfAwardsMax": 5583
+    },
+    {
+      "Time": "2023-07-26T23:57:49.8344905+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 46042,
+      "NumberOfAwardsMax": 5587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46038,
-  "NumberOfAwardsMax": 5583,
+  "NumberOfAwards": 46042,
+  "NumberOfAwardsMax": 5587,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -7479,7 +7485,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5583
+      "Count": 5587
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7518,9 +7524,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 74531,
+  "EOS_Progressed": 74538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2801,
+  "EOS_NewPlayers": 2802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18148,6 +18154,11 @@
       "Time": "2023-07-26T23:05:57.9510334+00:00",
       "NumProgressed": 74531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T00:05:18.5090803+00:00",
+      "NumProgressed": 74538,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -18679,7 +18690,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "achievement_colonial_management",
@@ -19159,7 +19170,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "achievement_grand_coalition",
@@ -20439,7 +20450,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -20751,7 +20762,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -20855,7 +20866,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -20990,21 +21001,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 74531,
+      "Progressed": 74538,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 74531,
+      "Progressed": 74538,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-26T18:58:15.7706884+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:05:57.9510328+00:00",
+  "LastChanged": "2023-07-26T23:57:49.8344904+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:05:18.5090799+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.0524617+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:58:03.4674885+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:05:57.9521739+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:49.834491+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:05:18.5102603+00:00"
 }

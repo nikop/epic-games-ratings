@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~863 |
 | A Mysterious Summons | 0.40% | ~863 |
 | Building Trust | 0.40% | ~863 |
+| March of the Undead | 0.40% | ~863 |
 | Unearthed Evil | 0.40% | ~863 |
 | No Time To Rest | 0.40% | ~863 |
 | The Mists of Ravenloft | 0.40% | ~863 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~546 |
 | Welcome to the Rock | 0.30% | ~546 |
 | Street War | 0.30% | ~647 |
-| March of the Undead | 0.30% | ~647 |
 | Wisdom Check | 0.30% | ~647 |
 | Invisible Shadows | 0.30% | ~647 |
 | Family Entanglements | 0.30% | ~647 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.20% | ~432 |
 | Vajra's Guards | 0.20% | ~432 |
 | Sleuth It Out | 0.20% | ~432 |
+| The Newcomers of Notoriety | 0.20% | ~364 |
 | A Grand Puzzle | 0.20% | ~432 |
 | Azaka's Procession - Part 1 | 0.20% | ~432 |
 | Tomb of the Nine Gods | 0.20% | ~432 |
@@ -246,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~216 |
 | Double Vision | 0.10% | ~216 |
 | Underground Railroad | 0.10% | ~216 |
-| The Newcomers of Notoriety | 0.10% | ~182 |
 | Never Split the Party | 0.10% | ~216 |
 | Snakes on our Plane | 0.10% | ~182 |
 | The Soulmonger Calls | 0.10% | ~216 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,817 (Ranked 53)  
-Completed: 2,119 (0.98%) (Ranked 107)  
+Progressed: 215,825 (Ranked 53)  
+Completed: 2,120 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,6 +617,7 @@ Completed: 2,119 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
+| 2023-07-27 | 215,825 | 2,120 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

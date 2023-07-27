@@ -287,9 +287,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -352,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:07:24.4926255+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:06:25.3518159+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.4255335+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:58:54.1028281+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:07:24.4926371+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:58:26.2053653+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:06:25.35183+00:00"
 }

@@ -6,6 +6,7 @@ Rating: 4.41 (Ranked 674)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 4.00% | ~134 |
+| It's Starting to Crack | 4.00% | ~134 |
 | Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
 | The Kraken Sleeps | 4.00% | ~134 |
@@ -18,7 +19,6 @@ Rating: 4.41 (Ranked 674)
 | Resourceful | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
 | The Kraken Wakes | 3.00% | ~101 |
-| It's Starting to Crack | 3.00% | ~101 |
 | Change the Channel | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 674)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,353 (Ranked 148)  
+Progressed: 3,355 (Ranked 148)  
 Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 9 (0.27%) (Ranked 158)
 | 2023-07-24 | 3,338 | 9 |
 | 2023-07-25 | 3,348 | 9 |
 | 2023-07-26 | 3,353 | 9 |
+| 2023-07-27 | 3,355 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

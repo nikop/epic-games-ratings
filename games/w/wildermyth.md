@@ -6,22 +6,22 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 38.00% | ~508 |
-| Me and My Familiar | 36.00% | ~482 |
-| This Too Shall Pass | 30.00% | ~401 |
+| The Cost of Heroism | 38.00% | ~509 |
+| Me and My Familiar | 35.00% | ~469 |
+| This Too Shall Pass | 30.00% | ~402 |
 | Passing Shadow | 29.00% | ~388 |
 | Cutthroat Competitors | 29.00% | ~388 |
-| How Romantic! | 27.00% | ~361 |
-| Daybreak | 27.00% | ~361 |
-| Gotta Ca... Must Collect All of Them | 25.00% | ~334 |
+| How Romantic! | 27.00% | ~362 |
+| Daybreak | 27.00% | ~362 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~335 |
 | Completing the Look | 14.00% | ~187 |
 | War Endured | 14.00% | ~187 |
 | A Mythic Menagerie | 13.00% | ~174 |
 | Who's Counting? | 13.00% | ~174 |
 | Core Failure | 13.00% | ~174 |
 | Pyrrhic Victory | 10.00% | ~134 |
-| Thematic Divergence | 9.00% | ~120 |
-| Echoes Die | 9.00% | ~120 |
+| Thematic Divergence | 9.00% | ~121 |
+| Echoes Die | 9.00% | ~121 |
 | Chain Reaction | 8.00% | ~107 |
 | Everfading | 8.00% | ~107 |
 | Let Me Get My Chisel | 7.00% | ~94 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,338 (Ranked 179)  
+Progressed: 1,339 (Ranked 179)  
 Completed: 5 (0.37%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 5 (0.37%) (Ranked 144)
 | 2023-07-24 | 1,333 | 5 |
 | 2023-07-25 | 1,335 | 5 |
 | 2023-07-26 | 1,338 | 5 |
+| 2023-07-27 | 1,339 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 463)  
 Sum: 28 (Ranked 475)  

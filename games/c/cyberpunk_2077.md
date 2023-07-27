@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,100 |
+| The Fool | 68.00% | ~590,101 |
 | Right Back At Ya | 39.00% | ~338,440 |
-| The Lovers | 34.00% | ~295,050 |
-| Stanislavski's Method | 28.00% | ~242,982 |
-| The Wheel of Fortune | 27.00% | ~234,304 |
+| The Lovers | 34.00% | ~295,051 |
+| Stanislavski's Method | 28.00% | ~242,983 |
+| The Wheel of Fortune | 27.00% | ~234,305 |
 | The Hermit | 24.00% | ~208,271 |
 | True Soldier | 23.00% | ~199,593 |
 | Christmas Tree Attack | 22.00% | ~190,915 |
@@ -26,9 +26,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 14.00% | ~121,491 |
 | To Protect and Serve | 13.00% | ~112,813 |
 | Master Crafter | 13.00% | ~112,813 |
-| Two Heads, One Bullet | 11.00% | ~95,457 |
-| The Wandering Fool | 9.00% | ~78,101 |
-| The Quick and the Dead | 9.00% | ~78,101 |
+| Two Heads, One Bullet | 11.00% | ~95,458 |
+| The Wandering Fool | 9.00% | ~78,102 |
+| The Quick and the Dead | 9.00% | ~78,102 |
 | Breathtaking | 8.00% | ~69,424 |
 | Ten out of Ten | 8.00% | ~69,424 |
 | The Star | 7.00% | ~60,746 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,678 |
 | Rough Landing | 0.50% | ~4,339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867,794 (Ranked 14)  
+Progressed: 867,796 (Ranked 14)  
 Completed: 1,906 (0.22%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,9 +149,10 @@ Completed: 1,906 (0.22%) (Ranked 164)
 | 2023-07-24 | 867,476 | 1,903 |
 | 2023-07-25 | 867,630 | 1,905 |
 | 2023-07-26 | 867,794 | 1,906 |
+| 2023-07-27 | 867,796 | 1,906 |
 ## Awards
 Max (Character Customization): 74,118  (Ranked 9)  
-Sum: 194,978 (Ranked 13)  
+Sum: 194,993 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -163,7 +164,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,481 |
 | This game is Highly Recommended | 8,434 |
 | This game is Relaxing | 8,398 |
-| This game has Quickly Understood Controls | 8,263 |
+| This game has Quickly Understood Controls | 8,278 |
 | This game has Amazing Characters | 8,261 |
 | This game has a Creative Community | 5,418 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -357,4 +358,4 @@ Diff (max vs sum): -4
 | 2023-07-23 | 4.62 | - | 73,930 | 194,285 |
 | 2023-07-24 | 4.62 | - | 74,031 | 194,581 |
 | 2023-07-25 | 4.62 | - | 74,031 | 194,766 |
-| 2023-07-26 | 4.62 | - | 74,118 | 194,978 |
+| 2023-07-26 | 4.62 | - | 74,118 | 194,993 |

@@ -9393,10 +9393,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 194978,
       "NumberOfAwardsMax": 74118
+    },
+    {
+      "Time": "2023-07-26T23:58:14.4180732+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 194993,
+      "NumberOfAwardsMax": 74118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 194978,
+  "NumberOfAwards": 194993,
   "NumberOfAwardsMax": 74118,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9452,7 +9458,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8263
+      "Count": 8278
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9473,9 +9479,9 @@
       "Count": 5418
     }
   ],
-  "EOS_Progressed": 867794,
+  "EOS_Progressed": 867796,
   "EOS_Completed": 1906,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20063,6 +20069,11 @@
       "Time": "2023-07-26T23:04:13.5198214+00:00",
       "NumProgressed": 867794,
       "NumCompleted": 1906
+    },
+    {
+      "Time": "2023-07-27T00:03:44.6847534+00:00",
+      "NumProgressed": 867796,
+      "NumCompleted": 1906
     }
   ],
   "TotalAchievements": 44,
@@ -20122,7 +20133,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78101
+      "UsersEstimate": 78102
     },
     {
       "ID": "Gearhead",
@@ -20202,7 +20213,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78101
+      "UsersEstimate": 78102
     },
     {
       "ID": "MustBeTheRats",
@@ -20250,7 +20261,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 242982
+      "UsersEstimate": 242983
     },
     {
       "ID": "Specialist",
@@ -20290,7 +20301,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590100
+      "UsersEstimate": 590101
     },
     {
       "ID": "TheHermit",
@@ -20314,7 +20325,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295050
+      "UsersEstimate": 295051
     },
     {
       "ID": "TheStar",
@@ -20338,7 +20349,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234304
+      "UsersEstimate": 234305
     },
     {
       "ID": "TheWorld",
@@ -20386,7 +20397,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95457
+      "UsersEstimate": 95458
     },
     {
       "ID": "UnderPressure",
@@ -20425,15 +20436,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 867794,
+      "Progressed": 867796,
       "Completed": 1906
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-26T20:58:27.9290766+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:04:13.5198208+00:00",
+  "LastChanged": "2023-07-26T23:58:14.4180731+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:03:44.6847528+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:31.2727335+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:58:37.6928362+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:04:13.5199429+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:58:14.4180737+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:03:44.6848534+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_Completed": 18,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 11.09,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1836,6 +1836,11 @@
       "Time": "2023-07-26T18:06:24.9091456+00:00",
       "NumProgressed": 585,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-27T00:05:56.231267+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 30,
@@ -1847,7 +1852,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_002",
@@ -1855,7 +1860,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "LEVEL_003",
@@ -1871,7 +1876,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "LEVEL_005",
@@ -1895,7 +1900,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_008",
@@ -1975,23 +1980,23 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_020",
@@ -2015,7 +2020,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_023",
@@ -2023,7 +2028,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_024",
@@ -2086,14 +2091,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 65
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:06:45.8173538+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:05:56.2312666+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:57:40.6413367+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:06:45.817388+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:31.7831382+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:05:56.2313073+00:00"
 }

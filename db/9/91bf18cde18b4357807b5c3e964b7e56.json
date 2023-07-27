@@ -27,9 +27,267 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-27T00:00:47.0867081+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BAGSTOPSHERE",
+      "SetID": "5k6clh9",
+      "Name": "Bag Stops Here",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BAGSTYLE",
+      "SetID": "5k6clh9",
+      "Name": "Bag Style",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CENTURYMARK",
+      "SetID": "5k6clh9",
+      "Name": "Century Mark",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHAMPIONDNA",
+      "SetID": "5k6clh9",
+      "Name": "Champion DNA",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COLORSOFTHERAINBOW",
+      "SetID": "5k6clh9",
+      "Name": "Colors of the Rainbow",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMEONIN",
+      "SetID": "5k6clh9",
+      "Name": "Come on in",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMINGINFORTHELANDING",
+      "SetID": "5k6clh9",
+      "Name": "Coming in for the Landing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DOUBLEDIGITS",
+      "SetID": "5k6clh9",
+      "Name": "Double Digits",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXPERIENCEDWINNER",
+      "SetID": "5k6clh9",
+      "Name": "Experienced Winner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTTIMEFOREVERYTHING",
+      "SetID": "5k6clh9",
+      "Name": "First Time for Everything",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTWIN",
+      "SetID": "5k6clh9",
+      "Name": "First Win",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GETTINGBETTER",
+      "SetID": "5k6clh9",
+      "Name": "Getting Better",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GETTINGSTREAKY",
+      "SetID": "5k6clh9",
+      "Name": "Getting Streaky",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOOSEEGG",
+      "SetID": "5k6clh9",
+      "Name": "Goose Egg",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HIGHFIVE",
+      "SetID": "5k6clh9",
+      "Name": "High Five",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ICEINYOURVEINS",
+      "SetID": "5k6clh9",
+      "Name": "Ice in Your Veins",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVELUP",
+      "SetID": "5k6clh9",
+      "Name": "Level Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASTEROFONE",
+      "SetID": "5k6clh9",
+      "Name": "Master of One",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASTEROFTHEGAME",
+      "SetID": "5k6clh9",
+      "Name": "Master of the Game",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NOTHINGBUT4BAGGERS",
+      "SetID": "5k6clh9",
+      "Name": "Nothing But 4 Baggers",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ONAROLL",
+      "SetID": "5k6clh9",
+      "Name": "On a Roll",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PACKAGEDELIVERED",
+      "SetID": "5k6clh9",
+      "Name": "Package Delivered",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLAYTOGETHER",
+      "SetID": "5k6clh9",
+      "Name": "Play Together",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PUSHINGFORVICTORY",
+      "SetID": "5k6clh9",
+      "Name": "Pushing for Victory",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ROLLOVER",
+      "SetID": "5k6clh9",
+      "Name": "Roll Over",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SHOWTIME",
+      "SetID": "5k6clh9",
+      "Name": "Showtime",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STARTINGTOFEELIT",
+      "SetID": "5k6clh9",
+      "Name": "Starting to Feel It",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STOPBEINGADRAG",
+      "SetID": "5k6clh9",
+      "Name": "Stop Being a Drag",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TAKEITOFFTHEBOARD",
+      "SetID": "5k6clh9",
+      "Name": "Take It Off the Board",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THREEPEAT",
+      "SetID": "5k6clh9",
+      "Name": "Three Peat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNSTOPPABLE",
+      "SetID": "5k6clh9",
+      "Name": "Unstoppable",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_YOURECOMINGWITHME",
+      "SetID": "5k6clh9",
+      "Name": "You\u0027re Coming with Me",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5k6clh9",
@@ -40,8 +298,8 @@
   ],
   "FirstSeen": "2023-07-25T03:00:31.7189155+00:00",
   "FirstSeenAchievements": "2023-07-17T16:01:13.9190066+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:02:08.1322534+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:00:47.0867022+00:00",
   "LastUpdate_AppInfo": "2023-07-24T16:57:20.2297613+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:57:12.1621825+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:02:08.1322599+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:10.8602491+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:00:47.1266344+00:00"
 }

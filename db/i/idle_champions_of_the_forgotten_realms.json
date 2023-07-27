@@ -5314,10 +5314,10 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215817,
-  "EOS_Completed": 2119,
-  "EOS_NewPlayers": 2294,
-  "EOS_NewCompleters": 61,
+  "EOS_Progressed": 215825,
+  "EOS_Completed": 2120,
+  "EOS_NewPlayers": 2296,
+  "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15749,6 +15749,11 @@
       "Time": "2023-07-26T23:02:22.8627278+00:00",
       "NumProgressed": 215817,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-07-27T00:02:08.3145448+00:00",
+      "NumProgressed": 215825,
+      "NumCompleted": 2120
     }
   ],
   "TotalAchievements": 512,
@@ -16990,9 +16995,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_170",
@@ -17014,9 +17019,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_179",
@@ -19855,21 +19860,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182091,
+      "Progressed": 182099,
       "Completed": 3006
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215817,
-      "Completed": 2119
+      "Progressed": 215825,
+      "Completed": 2120
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:02:22.862727+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:02:08.3145444+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:58:55.1318256+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:02:22.865041+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:58:27.2904503+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:02:08.3172251+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6884,
+  "EOS_Progressed": 6885,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3018,6 +3018,11 @@
       "Time": "2023-07-26T23:03:25.3424098+00:00",
       "NumProgressed": 6884,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-27T00:03:05.810588+00:00",
+      "NumProgressed": 6885,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3045,7 +3050,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3069,7 +3074,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3077,7 +3082,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3149,7 +3154,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3173,7 +3178,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3181,7 +3186,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3205,7 +3210,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3244,15 +3249,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6884,
+      "Progressed": 6885,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:03:25.3424092+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:03:05.8105875+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:58:04.2724252+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:03:25.3424476+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:57:50.5666549+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:03:05.8106288+00:00"
 }

@@ -624,9 +624,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3047,
+  "EOS_Progressed": 3048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2023-07-26T22:04:12.7903667+00:00",
       "NumProgressed": 3047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T00:04:02.6468982+00:00",
+      "NumProgressed": 3048,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2599,9 +2604,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "BloodAndIron",
@@ -2751,9 +2756,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Bleed",
@@ -2807,9 +2812,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Kills_Streak",
@@ -3128,21 +3133,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3047,
+      "Progressed": 3048,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3047,
+      "Progressed": 3048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-26T19:59:11.3005543+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:04:23.4035166+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:04:02.6468977+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:59:35.6610044+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:04:23.4036625+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:58:59.9594359+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:04:02.6469801+00:00"
 }

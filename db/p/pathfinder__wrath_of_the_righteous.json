@@ -3254,7 +3254,7 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10595,
+  "EOS_Progressed": 10596,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -9414,6 +9414,11 @@
       "Time": "2023-07-26T23:03:22.0749859+00:00",
       "NumProgressed": 10595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T00:03:02.9798194+00:00",
+      "NumProgressed": 10596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9441,7 +9446,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "04_FithCrusade",
@@ -9561,7 +9566,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "19_EqualToAroden",
@@ -9673,7 +9678,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10352,21 +10357,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9377,
+      "Progressed": 9378,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10595,
+      "Progressed": 10596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-26T15:59:43.5553207+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:03:22.0749854+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:03:02.9798189+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-26T22:59:17.4201105+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:03:22.0751655+00:00"
+  "LastUpdate_Ratings": "2023-07-26T23:58:44.9202098+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:03:02.9800565+00:00"
 }

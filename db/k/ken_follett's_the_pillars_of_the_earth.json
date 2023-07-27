@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14156,
+  "EOS_Progressed": 14157,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6884,6 +6884,11 @@
       "Time": "2023-07-26T21:03:06.6840266+00:00",
       "NumProgressed": 14156,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-27T00:00:42.0716467+00:00",
+      "NumProgressed": 14157,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -6911,7 +6916,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "tpote_achievement_12",
@@ -6973,9 +6978,9 @@
       "ID": "tpote_achievement_19",
       "SetID": "3jcf6c3",
       "Name": "Negotiation skills",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2548
     },
     {
       "ID": "tpote_achievement_2",
@@ -7071,7 +7076,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "tpote_achievement_30",
@@ -7095,7 +7100,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "tpote_achievement_33",
@@ -7111,7 +7116,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "tpote_achievement_35",
@@ -7183,7 +7188,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "tpote_achievement_6",
@@ -7191,7 +7196,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "tpote_achievement_7",
@@ -7207,7 +7212,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "tpote_achievement_9",
@@ -7222,15 +7227,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14156,
+      "Progressed": 14157,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-26T23:01:41.3511488+00:00",
+  "LastChanged_Achievements": "2023-07-27T00:00:42.0716462+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:01:01.8699137+00:00",
-  "LastUpdate_Achievements": "2023-07-26T23:01:41.3513023+00:00"
+  "LastUpdate_Ratings": "2023-07-27T00:00:09.8188138+00:00",
+  "LastUpdate_Achievements": "2023-07-27T00:00:42.0717263+00:00"
 }
