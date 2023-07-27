@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,043 |
-| Project Arena | 4.00% | ~834 |
+| Project Arena | 4.00% | ~835 |
 | The Old Grandmaster | 2.00% | ~14,231 |
 | The Assault | 2.00% | ~14,231 |
 | The Hateful Pole Fighter | 2.00% | ~14,231 |
@@ -16,6 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 2.00% | ~14,231 |
 | Qi Gong: Breath | 2.00% | ~14,231 |
 | Lightning Hands | 2.00% | ~14,231 |
+| Path of the Prospect | 2.00% | ~14,231 |
 | Rumble in the Hangar | 2.00% | ~14,231 |
 | Bloody Sport | 2.00% | ~417 |
 | Lady Wing Chun | 1.00% | ~7,116 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 1.00% | ~7,116 |
 | Old Child | 1.00% | ~7,116 |
 | Kung-Fu Tussle | 1.00% | ~7,116 |
-| Path of the Prospect | 1.00% | ~7,116 |
 | Take damage to save time | 1.00% | ~7,116 |
 | The best strikes are the ones we avoid | 1.00% | ~209 |
 | Dance of the Praying Mantis | 0.90% | ~6,404 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,560 (Ranked 20)  
+Progressed: 711,563 (Ranked 20)  
 Completed: 12,833 (1.80%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-24 | 711,418 | 12,831 |
 | 2023-07-25 | 711,485 | 12,833 |
 | 2023-07-26 | 711,558 | 12,833 |
-| 2023-07-27 | 711,560 | 12,833 |
+| 2023-07-27 | 711,563 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,307  (Ranked 53)  
 Sum: 10,818 (Ranked 79)  

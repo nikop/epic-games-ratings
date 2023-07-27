@@ -5370,7 +5370,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711560,
+  "EOS_Progressed": 711563,
   "EOS_Completed": 12833,
   "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 8,
@@ -14540,6 +14540,11 @@
       "Time": "2023-07-27T00:06:28.9062108+00:00",
       "NumProgressed": 711560,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-27T01:58:04.9002382+00:00",
+      "NumProgressed": 711563,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14829,9 +14834,9 @@
       "ID": "36_Calbot_Trophy",
       "SetID": "adcm20g",
       "Name": "Path of the Prospect",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 14231
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14887,7 +14892,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -14950,21 +14955,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20861,
-      "Completed": 10446
+      "Progressed": 20864,
+      "Completed": 10447
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711560,
+      "Progressed": 711563,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-26T19:00:27.0271539+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:06:28.9062104+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:58:04.9002376+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:59:15.8792347+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:06:28.9063103+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:50:20.3132692+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:58:04.9003655+00:00"
 }

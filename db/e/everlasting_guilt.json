@@ -2,10 +2,10 @@
   "ID": "81f52f8f7a3e4599bd6b3792f10627cb",
   "Name": "Everlasting Guilt",
   "ProductSlug": "everlasting-guilt-213534",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-01T10:00:00+00:00",
     "PcReleaseDate": "2021-07-11T23:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:53.81887+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:03:37.8278256+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:54:12.2350546+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:20.2093873+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:59.2019995+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:37.8278286+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:49:56.6492003+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:54:12.2350596+00:00"
 }

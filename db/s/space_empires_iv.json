@@ -2,10 +2,10 @@
   "ID": "33a00ee2da7f478bb9ab9ece8041b4a4",
   "Name": "Space Empires IV",
   "ProductSlug": "space-empires-iv-74dacf",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
     "PcReleaseDate": "2006-02-07T03:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.4655669+00:00",
-  "LastUpdate_Ratings": "2023-07-27T00:00:12.669428+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:05.6399455+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:51:39.7574952+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:53:16.4950364+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3894,6 +3894,11 @@
       "Time": "2023-07-26T22:05:16.9995793+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T01:56:06.1181636+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3905,7 +3910,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_BASE_10",
@@ -3969,7 +3974,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_BASE_19",
@@ -4041,7 +4046,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_BASE_28",
@@ -4073,7 +4078,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_BASE_31",
@@ -4103,9 +4108,9 @@
       "ID": "ACH_BASE_34",
       "SetID": "92iocjf",
       "Name": "Ready for a New World",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_BASE_35",
@@ -4113,7 +4118,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_BASE_36",
@@ -4183,9 +4188,9 @@
       "ID": "ACH_BASE_46",
       "SetID": "92iocjf",
       "Name": "A Junker\u0027s Dream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_47",
@@ -4360,13 +4365,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1100,
+      "Progressed": 1101,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2919,
       "Completed": 0
     }
   ],
@@ -4374,8 +4379,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:07.1085581+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:56:06.1181623+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:50.7682501+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:07.1086384+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:49:41.3410612+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:06.1183846+00:00"
 }

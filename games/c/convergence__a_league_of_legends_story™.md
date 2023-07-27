@@ -24,11 +24,11 @@
 | Honest Mistake | 15.00% | ~118 |
 | Fast Learner | 15.00% | ~118 |
 | The Family Fortune | 15.00% | ~118 |
-| Treasure Trove | 14.00% | ~110 |
-| Like Clockwork | 14.00% | ~110 |
-| Cartographer | 14.00% | ~110 |
-| Golem Chaser | 14.00% | ~110 |
-| Check Your Pulse | 14.00% | ~110 |
+| Treasure Trove | 14.00% | ~111 |
+| Like Clockwork | 14.00% | ~111 |
+| Cartographer | 14.00% | ~111 |
+| Golem Chaser | 14.00% | ~111 |
+| Check Your Pulse | 14.00% | ~111 |
 | Right On Time | 13.00% | ~103 |
 | Street Style | 13.00% | ~103 |
 | Whiz Kid | 11.00% | ~87 |
@@ -45,8 +45,8 @@
 | Factorywood Explorer | 7.00% | ~55 |
 | Corin Goes Home | 6.00% | ~47 |
 | Sartorialist | 6.00% | ~47 |
-| Golem Hunter | 5.00% | ~39 |
-| Rungs Was Right | 5.00% | ~39 |
+| Golem Hunter | 5.00% | ~40 |
+| Rungs Was Right | 5.00% | ~40 |
 | Clovemary for Remembering | 4.00% | ~32 |
 | Hexlock for Protection | 4.00% | ~32 |
 | Wunderkind | 2.00% | ~16 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 199)  
+Progressed: 790 (Ranked 199)  
 Completed: 4 (0.51%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,3 +122,4 @@ Completed: 4 (0.51%) (Ranked 132)
 | 2023-07-24 | 786 | 4 |
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
+| 2023-07-27 | 790 | 4 |

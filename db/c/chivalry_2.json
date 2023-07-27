@@ -2,20 +2,20 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "ProductSlug": "chivalry-2",
-  "Ranking_Rating": 392,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
     "PcReleaseDate": "2021-06-08T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 18078,
   "RatingHistory": [
     {
@@ -6507,10 +6507,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 28242,
       "NumberOfAwardsMax": 4412
+    },
+    {
+      "Time": "2023-07-27T01:48:46.3538052+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 28246,
+      "NumberOfAwardsMax": 4412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28242,
+  "NumberOfAwards": 28246,
   "NumberOfAwardsMax": 4412,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6530,7 +6536,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4317
+      "Count": 4321
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6580,8 +6586,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-07-26T22:58:34.0363655+00:00",
+  "LastChanged": "2023-07-27T01:48:46.353805+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:28.3352828+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:11.7591666+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:41.4552619+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:46.3538059+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:55.0929212+00:00"
 }

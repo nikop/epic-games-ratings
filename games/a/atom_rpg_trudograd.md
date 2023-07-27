@@ -22,8 +22,8 @@ Rating: 4.52 (Ranked 519)
 | Death of the Author | 1.00% | ~12 |
 | Memoirs of a Nibbler | 1.00% | ~12 |
 | KGB Bunker | 0.80% | ~9 |
+| Rising Star | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
-| Rising Star | 0.70% | ~8 |
 | Baby Eater | 0.60% | ~7 |
 | Admiral | 0.30% | ~3 |
 | Bronzovka | 0.30% | ~3 |

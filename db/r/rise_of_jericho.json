@@ -2,10 +2,10 @@
   "ID": "05257e63ac474814a1282b6e364a4b19",
   "Name": "Rise of Jericho",
   "ProductSlug": "rise-of-jericho-cb083c",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-23T04:00:00+00:00",
     "PcReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T04:57:48.0955137+00:00",
-  "LastUpdate_Ratings": "2023-07-27T00:00:04.7982802+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:39.3943529+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:51:26.1102332+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:54:14.489737+00:00"
 }

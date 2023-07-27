@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3018,
+  "EOS_Progressed": 3019,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -3815,6 +3815,11 @@
       "Time": "2023-07-27T00:05:51.0724851+00:00",
       "NumProgressed": 3018,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-07-27T01:57:09.6439574+00:00",
+      "NumProgressed": 3019,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 24,
@@ -3834,7 +3839,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "11",
@@ -4017,13 +4022,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3018,
+      "Progressed": 3019,
       "Completed": 116
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:51.0724842+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:57:09.6439564+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:59:14.6591039+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:51.0725271+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:50:18.675372+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:57:09.6440112+00:00"
 }

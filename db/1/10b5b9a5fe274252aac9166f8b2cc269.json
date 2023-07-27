@@ -2,10 +2,10 @@
   "ID": "10b5b9a5fe274252aac9166f8b2cc269",
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-28T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -199,8 +199,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:03:16.3180438+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:53:31.0301003+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.3829622+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:57:10.3726201+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:16.3180591+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:47:09.0759377+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:53:31.0301154+00:00"
 }

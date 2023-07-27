@@ -1,44 +1,44 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 260)  
+Rating: 4.66 (Ranked 274)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,408 |
-| Mods Please Ban | 77.00% | ~18,005 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,771 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,070 |
-| First Bounty Down | 59.00% | ~13,796 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,328 |
-| Luglox Genocide | 43.00% | ~10,055 |
-| Playing Card To Get | 33.00% | ~7,716 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,716 |
-| Creature Feature | 29.00% | ~6,781 |
-| Satisfied Gus-tomer | 28.00% | ~6,547 |
-| Cold-Blooded Driller | 28.00% | ~6,547 |
+| Eye Scream, You Scream | 83.00% | ~19,410 |
+| Mods Please Ban | 77.00% | ~18,007 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,773 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,072 |
+| First Bounty Down | 59.00% | ~13,798 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,330 |
+| Luglox Genocide | 43.00% | ~10,056 |
+| Playing Card To Get | 33.00% | ~7,717 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,717 |
+| Creature Feature | 29.00% | ~6,782 |
+| Satisfied Gus-tomer | 28.00% | ~6,548 |
+| Cold-Blooded Driller | 28.00% | ~6,548 |
 | Are You Packin'? | 25.00% | ~5,846 |
 | G3 Graduation | 25.00% | ~5,846 |
-| RIP Davey Glutes | 24.00% | ~5,612 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,612 |
-| Hardest Battle In The Game | 22.00% | ~5,144 |
-| Series Wrap on Suit-O | 22.00% | ~5,144 |
+| RIP Davey Glutes | 24.00% | ~5,613 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,613 |
+| Hardest Battle In The Game | 22.00% | ~5,145 |
+| Series Wrap on Suit-O | 22.00% | ~5,145 |
 | Lezduit! | 20.00% | ~4,677 |
 | Who's The Boss? | 20.00% | ~4,677 |
 | Self-Actualization | 19.00% | ~4,443 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,443 |
 | Legendary Bounty Hunter | 18.00% | ~4,209 |
-| Seeing All The Sights | 16.00% | ~3,741 |
+| Seeing All The Sights | 16.00% | ~3,742 |
 | Carried Stan's Load To Completion | 13.00% | ~3,040 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,806 |
-| Eatin' Good in the Neighborhood | 9.00% | ~2,104 |
+| Eatin' Good in the Neighborhood | 9.00% | ~2,105 |
 | Sequel-Bait | 8.00% | ~1,871 |
 | Gunning For Your Job | 7.00% | ~1,637 |
 | Playing Favorites | 6.00% | ~1,403 |
 | Epic Legendary Prize | 1.00% | ~234 |
 | A Starfish Is Born | 1.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,383 (Ranked 101)  
+Progressed: 23,386 (Ranked 101)  
 Completed: 9 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 9 (0.04%) (Ranked 212)
 | 2023-07-24 | 23,296 | 9 |
 | 2023-07-25 | 23,339 | 9 |
 | 2023-07-26 | 23,381 | 9 |
-| 2023-07-27 | 23,383 | 9 |
+| 2023-07-27 | 23,386 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -182,3 +182,4 @@ Completed: 9 (0.04%) (Ranked 212)
 | 2023-05-18 | 4.67 | 0 | 0 |
 | 2023-06-17 | 4.66 | 0 | 0 |
 | 2023-07-12 | 4.67 | 0 | 0 |
+| 2023-07-27 | 4.66 | 0 | 0 |

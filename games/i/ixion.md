@@ -7,20 +7,20 @@ Rating: 4.55 (Ranked 481)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 23.00% | ~671 |
 | Sputnik 2049 | 20.00% | ~584 |
-| Without Breaking Some Eggs... | 19.00% | ~554 |
-| Infinite Growth... | 19.00% | ~554 |
-| Ready for a New World | 14.00% | ~409 |
+| Without Breaking Some Eggs... | 19.00% | ~555 |
+| Infinite Growth... | 19.00% | ~555 |
 | Space Society | 13.00% | ~379 |
 | A Thousand Strong | 13.00% | ~379 |
+| Ready for a New World | 13.00% | ~379 |
 | Permanent Redesigns | 11.00% | ~321 |
 | Guy de Borderlands | 10.00% | ~292 |
 | Fully Recycled | 10.00% | ~292 |
 | Ain't Nobody Got Time for That | 10.00% | ~292 |
 | The Ship of Theseus | 10.00% | ~292 |
 | Hope Seeker | 9.00% | ~263 |
-| A Hunk of Junk | 8.00% | ~233 |
-| Exceeding Capacity | 8.00% | ~233 |
-| Breaking Protocol | 8.00% | ~233 |
+| A Hunk of Junk | 8.00% | ~234 |
+| Exceeding Capacity | 8.00% | ~234 |
+| Breaking Protocol | 8.00% | ~234 |
 | Man's Best Friend | 6.00% | ~175 |
 | Power Outage | 6.00% | ~175 |
 | Please Make it Stop! | 6.00% | ~175 |
@@ -54,16 +54,16 @@ Rating: 4.55 (Ranked 481)
 | Remember the Dead | 0.70% | ~20 |
 | Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |
+| A Junker's Dream | 0.20% | ~6 |
 | Crunch Culture | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
-| A Junker's Dream | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,918 (Ranked 156)  
+Progressed: 2,919 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 2,907 | 0 |
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
+| 2023-07-27 | 2,919 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

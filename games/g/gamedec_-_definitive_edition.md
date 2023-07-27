@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,947 |
-| Powergamer | 27.00% | ~64,556 |
-| Barely scratched the surface | 25.00% | ~59,774 |
-| Write that down | 24.00% | ~57,383 |
-| Guns, lots of guns | 12.00% | ~28,692 |
-| Collector | 11.00% | ~26,301 |
-| Elementary! | 9.00% | ~21,519 |
-| Pumpkin Jack | 8.00% | ~19,128 |
-| Wake up! | 8.00% | ~19,128 |
-| It's honest work | 7.00% | ~16,737 |
-| Griever | 7.00% | ~16,737 |
-| Me smart | 6.00% | ~14,346 |
-| Trash compactor | 6.00% | ~14,346 |
-| Good listener | 5.00% | ~11,955 |
-| Valedictorian | 5.00% | ~11,955 |
+| I will finish what you started | 28.00% | ~66,951 |
+| Powergamer | 27.00% | ~64,560 |
+| Barely scratched the surface | 25.00% | ~59,778 |
+| Write that down | 24.00% | ~57,387 |
+| Guns, lots of guns | 12.00% | ~28,693 |
+| Collector | 11.00% | ~26,302 |
+| Elementary! | 9.00% | ~21,520 |
+| Pumpkin Jack | 8.00% | ~19,129 |
+| Wake up! | 8.00% | ~19,129 |
+| It's honest work | 7.00% | ~16,738 |
+| Griever | 7.00% | ~16,738 |
+| Me smart | 6.00% | ~14,347 |
+| Trash compactor | 6.00% | ~14,347 |
+| Good listener | 5.00% | ~11,956 |
+| Valedictorian | 5.00% | ~11,956 |
 | BOY! | 4.00% | ~9,564 |
 | Ka-ching! | 4.00% | ~9,564 |
 | So you like to read? | 4.00% | ~9,564 |
@@ -47,7 +47,7 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,913 |
 | I have the high ground | 0.70% | ~1,674 |
 | It's blue, always blue | 0.70% | ~1,674 |
-| Who wouldn't love a troll? | 0.50% | ~1,195 |
+| Who wouldn't love a troll? | 0.50% | ~1,196 |
 | Enjoy these little moments | 0.40% | ~956 |
 | Irondec | 0.40% | ~956 |
 | Un-bear-able | 0.40% | ~956 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~478 |
 | Memory 5 | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,096 (Ranked 46)  
+Progressed: 239,111 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 7 (0.00%) (Ranked 242)
 | 2023-07-24 | 238,813 | 7 |
 | 2023-07-25 | 238,966 | 7 |
 | 2023-07-26 | 239,092 | 7 |
-| 2023-07-27 | 239,096 | 7 |
+| 2023-07-27 | 239,111 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 363)  
 Sum: 76 (Ranked 426)  

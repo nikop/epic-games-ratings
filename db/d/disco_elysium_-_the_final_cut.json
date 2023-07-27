@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1217,9 +1217,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124353,
+  "EOS_Progressed": 124356,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10642,6 +10642,11 @@
       "Time": "2023-07-27T00:00:44.3807835+00:00",
       "NumProgressed": 124353,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-27T01:52:31.5799114+00:00",
+      "NumProgressed": 124356,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10733,7 +10738,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34819
+      "UsersEstimate": 34820
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -10757,7 +10762,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19896
+      "UsersEstimate": 19897
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -10869,7 +10874,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17409
+      "UsersEstimate": 17410
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -10972,15 +10977,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124353,
+      "Progressed": 124356,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-25T14:59:59.2191049+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:00:44.3807831+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:52:31.5799104+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:59:26.6492941+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:00:44.3808669+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:50:33.4337519+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:52:31.5800251+00:00"
 }

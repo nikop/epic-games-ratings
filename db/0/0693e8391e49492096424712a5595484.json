@@ -2,7 +2,7 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 23,
@@ -901,9 +901,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "HastrmanRum",
@@ -1092,8 +1092,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:41.9414234+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:56:56.0130226+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:57:17.3791593+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:41.9414645+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:47:22.5067798+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:56.013072+00:00"
 }

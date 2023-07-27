@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,316 |
-| Beast Intentions | 2.00% | ~4,316 |
+| A Brief Tour of the Realms | 2.00% | ~4,317 |
+| Beast Intentions | 2.00% | ~4,317 |
 | Maddening | 1.00% | ~2,158 |
 | The Silken Swamp | 1.00% | ~2,158 |
-| Supply Run | 0.90% | ~1,942 |
+| Supply Run | 0.90% | ~1,943 |
 | Rocky Reception | 0.90% | ~1,639 |
 | Rock and Roll | 0.80% | ~1,457 |
 | Vecna Lives! | 0.70% | ~1,275 |
@@ -21,12 +21,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.50% | ~1,079 |
 | Wet Feet | 0.50% | ~1,079 |
 | Hatchlings Underfoot | 0.50% | ~1,079 |
-| Seeds of Destruction | 0.50% | ~910 |
-| Return to the Tomb | 0.50% | ~910 |
-| Heatwave | 0.50% | ~910 |
-| The Champion's Guide to Wildspace | 0.50% | ~910 |
-| Calcryx Tricks | 0.50% | ~910 |
-| Goblin Halls: the Next Generation | 0.50% | ~910 |
+| Seeds of Destruction | 0.50% | ~911 |
+| Return to the Tomb | 0.50% | ~911 |
+| Heatwave | 0.50% | ~911 |
+| The Champion's Guide to Wildspace | 0.50% | ~911 |
+| Calcryx Tricks | 0.50% | ~911 |
+| Goblin Halls: the Next Generation | 0.50% | ~911 |
 | The Witchlight Carnival | 0.40% | ~728 |
 | Don't Look Up! | 0.40% | ~863 |
 | Heavy Burden | 0.40% | ~863 |
@@ -50,31 +50,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.40% | ~728 |
 | Krux's Speed Run | 0.40% | ~728 |
 | Animated Giff | 0.40% | ~728 |
-| Upholding the Law | 0.30% | ~647 |
+| Upholding the Law | 0.30% | ~648 |
 | Thieves of the Coven | 0.30% | ~546 |
 | Hither of the Feywild | 0.30% | ~546 |
 | Speeds of Destruction | 0.30% | ~546 |
 | Owlbear Necessities | 0.30% | ~546 |
-| On the Hunt | 0.30% | ~647 |
+| On the Hunt | 0.30% | ~648 |
 | Best Thay Ever | 0.30% | ~546 |
 | A Demi-god's Defender | 0.30% | ~546 |
-| Homecoming | 0.30% | ~647 |
-| The Lost Heir of Omu | 0.30% | ~647 |
+| Homecoming | 0.30% | ~648 |
+| The Lost Heir of Omu | 0.30% | ~648 |
 | No One Can Hear You Scream | 0.30% | ~546 |
 | Welcome to the Rock | 0.30% | ~546 |
-| Street War | 0.30% | ~647 |
-| Wisdom Check | 0.30% | ~647 |
-| Invisible Shadows | 0.30% | ~647 |
-| Family Entanglements | 0.30% | ~647 |
-| The Botched Kidnapping | 0.30% | ~647 |
-| Running of the Saurs | 0.30% | ~647 |
-| Escort to Waterdeep | 0.30% | ~647 |
-| The Mad Wizard | 0.30% | ~647 |
-| Waterdeep Detours | 0.30% | ~647 |
-| Underdeep Cartography | 0.30% | ~647 |
-| Friendly Imps | 0.30% | ~647 |
-| Overdue Rendezvous | 0.30% | ~647 |
-| Pure Energy | 0.30% | ~647 |
+| Street War | 0.30% | ~648 |
+| Wisdom Check | 0.30% | ~648 |
+| Invisible Shadows | 0.30% | ~648 |
+| Family Entanglements | 0.30% | ~648 |
+| The Botched Kidnapping | 0.30% | ~648 |
+| Running of the Saurs | 0.30% | ~648 |
+| Escort to Waterdeep | 0.30% | ~648 |
+| The Mad Wizard | 0.30% | ~648 |
+| Waterdeep Detours | 0.30% | ~648 |
+| Underdeep Cartography | 0.30% | ~648 |
+| Friendly Imps | 0.30% | ~648 |
+| Overdue Rendezvous | 0.30% | ~648 |
+| Pure Energy | 0.30% | ~648 |
 | Willing to Sacrifice | 0.30% | ~546 |
 | Devilishly Cold | 0.30% | ~546 |
 | Luigi After Hours | 0.30% | ~546 |
@@ -99,6 +99,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~364 |
 | The Sanctum of the Sword | 0.20% | ~364 |
 | Get Back In The Castle | 0.20% | ~364 |
+| Checkmate | 0.20% | ~364 |
 | Who Lurks Below? | 0.20% | ~364 |
 | Xanathaaaaaaar! | 0.20% | ~364 |
 | Lobsterfolk Assault | 0.20% | ~432 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~182 |
 | Kas the Bloody Handed | 0.10% | ~182 |
 | Kas the Destroyer | 0.10% | ~182 |
-| Checkmate | 0.10% | ~182 |
 | Pin and Skewer | 0.10% | ~182 |
 | Vecna Out! | 0.10% | ~182 |
 | Bully for Vecna | 0.10% | ~182 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,825 (Ranked 53)  
-Completed: 2,120 (0.98%) (Ranked 107)  
+Progressed: 215,847 (Ranked 53)  
+Completed: 2,121 (0.98%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,120 (0.98%) (Ranked 107)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,825 | 2,120 |
+| 2023-07-27 | 215,847 | 2,121 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

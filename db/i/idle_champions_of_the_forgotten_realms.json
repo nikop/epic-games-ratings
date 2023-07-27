@@ -5314,9 +5314,9 @@
       "Count": 3321
     }
   ],
-  "EOS_Progressed": 215825,
-  "EOS_Completed": 2120,
-  "EOS_NewPlayers": 2296,
+  "EOS_Progressed": 215847,
+  "EOS_Completed": 2121,
+  "EOS_NewPlayers": 2297,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15754,6 +15754,11 @@
       "Time": "2023-07-27T00:02:08.3145448+00:00",
       "NumProgressed": 215825,
       "NumCompleted": 2120
+    },
+    {
+      "Time": "2023-07-27T01:52:51.5848258+00:00",
+      "NumProgressed": 215847,
+      "NumCompleted": 2121
     }
   ],
   "TotalAchievements": 512,
@@ -15765,7 +15770,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "objective_completed_10",
@@ -15789,7 +15794,7 @@
       "Name": "Upholding the Law",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_102",
@@ -16133,7 +16138,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "objective_completed_110",
@@ -16325,7 +16330,7 @@
       "Name": "Supply Run",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "objective_completed_1142",
@@ -16389,7 +16394,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_1153",
@@ -16429,7 +16434,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_1160",
@@ -16501,7 +16506,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_1174",
@@ -16525,7 +16530,7 @@
       "Name": "Heatwave",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_1179",
@@ -16635,9 +16640,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_completed_1204",
@@ -16701,7 +16706,7 @@
       "Name": "Homecoming",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_125",
@@ -16733,7 +16738,7 @@
       "Name": "The Lost Heir of Omu",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_13",
@@ -16965,7 +16970,7 @@
       "Name": "Street War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_166",
@@ -17005,7 +17010,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_171",
@@ -17125,7 +17130,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_210",
@@ -17149,7 +17154,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_214",
@@ -17213,7 +17218,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_236",
@@ -18253,7 +18258,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_590",
@@ -18837,7 +18842,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_690",
@@ -18909,7 +18914,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_70",
@@ -18941,7 +18946,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_75",
@@ -18973,7 +18978,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_8",
@@ -18981,7 +18986,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_80",
@@ -18989,7 +18994,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_802",
@@ -19509,7 +19514,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_902",
@@ -19725,7 +19730,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_1220",
@@ -19757,7 +19762,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_593",
@@ -19765,7 +19770,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "objective_completed_663",
@@ -19860,21 +19865,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182099,
-      "Completed": 3006
+      "Progressed": 182121,
+      "Completed": 3007
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 215825,
-      "Completed": 2120
+      "Progressed": 215847,
+      "Completed": 2121
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-26T19:58:40.1607666+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:02:08.3145444+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:52:51.5848252+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:27.2904503+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:02:08.3172251+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:49:10.5188906+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:52:51.5879678+00:00"
 }

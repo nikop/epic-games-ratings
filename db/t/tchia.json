@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6824,
+  "EOS_Progressed": 6827,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4969,6 +4969,11 @@
       "Time": "2023-07-27T00:04:11.3950609+00:00",
       "NumProgressed": 6824,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-27T01:54:45.2665647+00:00",
+      "NumProgressed": 6827,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -4980,7 +4985,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ARRR",
@@ -4988,7 +4993,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AUDIOPHILE",
@@ -5020,7 +5025,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ENERGY_SAVER",
@@ -5028,7 +5033,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5068,7 +5073,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ICONOCLAST",
@@ -5076,7 +5081,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "IN_A_PINCH",
@@ -5116,7 +5121,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SOUL_CANON",
@@ -5124,7 +5129,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -5132,7 +5137,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "THING",
@@ -5147,7 +5152,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6824,
+      "Progressed": 6827,
       "Completed": 30
     }
   ],
@@ -5155,8 +5160,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:04:11.3950603+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:54:45.2665638+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:16.1836601+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:04:11.3951107+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:52.1557835+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:54:45.2666272+00:00"
 }

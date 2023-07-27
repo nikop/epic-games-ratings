@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "ach_consultants_c",
       "SetID": "b8gh1fi",
       "Name": "Smooth Operator",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_contracts_1",
@@ -1299,8 +1299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:03:02.5441057+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:53:11.9376688+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:18.9242256+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:02.5442426+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:58.8495298+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:53:11.937804+00:00"
 }

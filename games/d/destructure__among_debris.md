@@ -20,9 +20,9 @@
 | You Are Actually Supposed To Use Those | 5.00% | ~8 |
 | Back From The Dead | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
+| Medium Rare | 4.00% | ~6 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |
-| Medium Rare | 3.00% | ~5 |
 | Scrap Collector | 3.00% | ~5 |
 | Ice Breaker | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |

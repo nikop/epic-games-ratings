@@ -7,16 +7,16 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,344 |
-| Ready for Winter | 64.00% | ~2,000 |
+| Ready for Winter | 64.00% | ~2,001 |
 | Ready for Summer | 51.00% | ~1,594 |
 | Cordon Bleu | 44.00% | ~1,375 |
-| Tapped! | 36.00% | ~1,125 |
+| Tapped! | 37.00% | ~1,157 |
 | Eureka | 32.00% | ~1,000 |
-| Scourge Slayer | 25.00% | ~781 |
+| Scourge Slayer | 25.00% | ~782 |
 | Science, Troglodyte! | 23.00% | ~719 |
 | Exceptional Skill | 22.00% | ~688 |
 | Home Sweet Home | 22.00% | ~688 |
-| Encyclopedic! | 19.00% | ~594 |
+| Encyclopedic! | 20.00% | ~625 |
 | A Fortress Toppled! | 16.00% | ~500 |
 | Apex Predator | 16.00% | ~500 |
 | The Power of Family | 16.00% | ~500 |
@@ -37,19 +37,19 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~125 |
 | Light of Levant | 3.00% | ~94 |
 | This was a mistake... | 3.00% | ~94 |
-| Crowd Pleaser. | 2.00% | ~62 |
-| Perfect Defense | 2.00% | ~62 |
-| Power! To! The People! | 2.00% | ~62 |
-| Your actions define you | 2.00% | ~62 |
+| Crowd Pleaser. | 2.00% | ~63 |
+| Perfect Defense | 2.00% | ~63 |
+| Power! To! The People! | 2.00% | ~63 |
+| Your actions define you | 2.00% | ~63 |
 | The blood is life | 1.00% | ~31 |
 | They'll Tell Stories About This | 1.00% | ~31 |
 | Vanquisher of nightmares | 1.00% | ~31 |
 | Through fire and flame. | 0.80% | ~25 |
-| Legacy of a master hunter | 0.40% | ~12 |
+| Legacy of a master hunter | 0.40% | ~13 |
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,125 (Ranked 150)  
+Progressed: 3,126 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 3 (0.10%) (Ranked 189)
 | 2023-07-24 | 3,108 | 3 |
 | 2023-07-25 | 3,119 | 3 |
 | 2023-07-26 | 3,125 | 3 |
+| 2023-07-27 | 3,126 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 349)  

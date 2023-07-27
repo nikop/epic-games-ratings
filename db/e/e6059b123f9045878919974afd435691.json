@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-07-26T18:05:41.3145195+00:00",
       "NumProgressed": 645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T01:56:18.0027419+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1331,7 +1336,7 @@
       "Name": "Out Of Stock",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -1683,7 +1688,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1747,7 +1752,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1834,14 +1839,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:15.2425744+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:56:18.0027409+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:57:16.514762+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:15.2426403+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:47:21.3697926+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:18.0028204+00:00"
 }

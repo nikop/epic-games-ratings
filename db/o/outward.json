@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3125,
+  "EOS_Progressed": 3126,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3456,6 +3456,11 @@
       "Time": "2023-07-26T18:03:09.2211329+00:00",
       "NumProgressed": 3125,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-27T01:52:43.8119773+00:00",
+      "NumProgressed": 3126,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3515,15 +3520,15 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 625
     },
     {
       "ID": "Eureka_23",
@@ -3587,7 +3592,7 @@
       "Name": "Legacy of a master hunter",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LetEmEatMagma",
@@ -3635,7 +3640,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PowerToThePeople",
@@ -3643,7 +3648,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ReadyforSummer_41",
@@ -3659,7 +3664,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3675,7 +3680,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3689,9 +3694,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1157
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3795,22 +3800,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:02:03.238433+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:52:43.8119765+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:14.5428786+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:02:03.238486+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:49.5816098+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:52:43.8120422+00:00"
 }

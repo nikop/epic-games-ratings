@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.80% | ~105 |
 | Explorer | 0.70% | ~92 |
 | Friendly Family | 0.70% | ~92 |
+| Able | 0.60% | ~79 |
 | Intrepid | 0.60% | ~79 |
-| Able | 0.50% | ~66 |
 | Architect | 0.50% | ~66 |
 | Good | 0.50% | ~66 |
 | Just | 0.50% | ~66 |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.50% | ~66 |
 | Hanging Gardens | 0.50% | ~66 |
 | Oracle | 0.50% | ~66 |
+| Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Ambitious | 0.40% | ~52 |
 | Enlightened | 0.40% | ~52 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.40% | ~52 |
 | Pyramids | 0.40% | ~52 |
 | Christianity | 0.40% | ~52 |
-| Judaism | 0.40% | ~52 |
 | Carthaginian Paganism | 0.40% | ~52 |
 | Roman Paganism | 0.40% | ~52 |
 | Zoroastrianism | 0.40% | ~52 |
@@ -46,11 +46,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
 | Great | 0.30% | ~39 |
+| Intercessor | 0.30% | ~39 |
 | Magnificent | 0.30% | ~39 |
 | Wise | 0.30% | ~39 |
 | Strong Cities | 0.30% | ~39 |
 | Able Difficulty | 0.30% | ~39 |
 | Artisans | 0.30% | ~39 |
+| Furious Family | 0.30% | ~39 |
 | Colossus | 0.30% | ~39 |
 | Ishtar Gate | 0.30% | ~39 |
 | Musaeum | 0.30% | ~39 |
@@ -66,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
-| Intercessor | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
 | Legendary Cities | 0.20% | ~26 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.20% | ~26 |
 | Statesmen | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
-| Furious Family | 0.20% | ~26 |
 | Acropolis | 0.20% | ~26 |
 | Apadana | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~26 |
 | Points Victory | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
+| Patriarch St Paul | 0.20% | ~26 |
 | Centenarian | 0.10% | ~13 |
 | Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |
@@ -245,7 +246,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
 | The Mythical Beast | 0.10% | ~13 |
-| Patriarch St Paul | 0.10% | ~13 |
 | Hypatia the Teacher | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |
 | Alexander the Great | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,109 (Ranked 115)  
+Progressed: 13,110 (Ranked 115)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,6 +401,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-24 | 13,074 | 5 |
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
+| 2023-07-27 | 13,110 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 205)  

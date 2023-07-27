@@ -35,10 +35,10 @@
 | Established Fame | 16.00% | ~43 |
 | Cashflow Chief | 16.00% | ~43 |
 | Terrifically Trashed | 15.00% | ~40 |
+| Smooth Operator | 14.00% | ~38 |
 | Starred Dining | 14.00% | ~38 |
 | Boutique Benefits | 14.00% | ~38 |
 | Thrilled Tenants | 14.00% | ~38 |
-| Smooth Operator | 13.00% | ~35 |
 | 28 Days Later | 11.00% | ~30 |
 | Swimming in Surplus | 11.00% | ~30 |
 | Master of Puppets | 10.00% | ~27 |

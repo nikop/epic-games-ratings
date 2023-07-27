@@ -17,7 +17,7 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,398 |
 | Help an old friend | 22.00% | ~3,115 |
 | Two of us | 20.00% | ~2,831 |
-| Negotiation skills | 18.00% | ~2,548 |
+| Negotiation skills | 19.00% | ~2,690 |
 | Workers' union | 18.00% | ~2,548 |
 | End of Book Two | 18.00% | ~2,548 |
 | Everything's in order | 17.00% | ~2,407 |

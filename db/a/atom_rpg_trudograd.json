@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -1165,9 +1165,9 @@
       "ID": "RISING_STAR",
       "SetID": "62d2oh4",
       "Name": "Rising Star",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -1246,8 +1246,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:03:40.9725996+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:54:16.8030145+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.1070752+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:57:43.6259671+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:03:40.972629+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:05.4624798+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:54:16.8030452+00:00"
 }

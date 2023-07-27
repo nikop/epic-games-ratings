@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.27,
+  "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -646,6 +646,11 @@
       "Time": "2023-07-26T17:05:13.31464+00:00",
       "NumProgressed": 165,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-27T01:56:18.401363+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -657,7 +662,7 @@
       "Name": "Three is company",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -673,7 +678,7 @@
       "Name": "Cruise ship",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -689,7 +694,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 16,
       "XP": 160,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -711,9 +716,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -729,7 +734,7 @@
       "Name": "Make a wish",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -761,7 +766,7 @@
       "Name": "Abducktion",
       "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -777,21 +782,21 @@
       "Name": "Watery help",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:15.6008287+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:56:18.4013622+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:00:09.53157+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:57:18.3415789+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:15.6008441+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:47:25.5502737+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:18.4013826+00:00"
 }

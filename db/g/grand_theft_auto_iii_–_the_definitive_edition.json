@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -388,7 +388,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7166,
+  "EOS_Progressed": 7167,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -6183,6 +6183,11 @@
       "Time": "2023-07-27T00:05:03.5851468+00:00",
       "NumProgressed": 7166,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-27T01:56:00.9984736+00:00",
+      "NumProgressed": 7167,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6194,7 +6199,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "ACH02",
@@ -6218,7 +6223,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "ACH05",
@@ -6266,7 +6271,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH11",
@@ -6394,7 +6399,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH27",
@@ -6425,7 +6430,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7166,
+      "Progressed": 7167,
       "Completed": 41
     }
   ],
@@ -6433,8 +6438,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-25T20:59:02.1956561+00:00",
-  "LastChanged_Achievements": "2023-07-27T00:05:03.5851463+00:00",
+  "LastChanged_Achievements": "2023-07-27T01:56:00.9984727+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-26T23:58:13.6599511+00:00",
-  "LastUpdate_Achievements": "2023-07-27T00:05:03.5851965+00:00"
+  "LastUpdate_Ratings": "2023-07-27T01:48:48.4006723+00:00",
+  "LastUpdate_Achievements": "2023-07-27T01:56:00.9985472+00:00"
 }
