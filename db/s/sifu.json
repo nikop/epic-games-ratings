@@ -5376,9 +5376,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711574,
+  "EOS_Progressed": 711579,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14576,6 +14576,11 @@
       "Time": "2023-07-27T06:06:04.461175+00:00",
       "NumProgressed": 711574,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-27T07:06:13.8408125+00:00",
+      "NumProgressed": 711579,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14587,7 +14592,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "02_Vengeance_H1",
@@ -14595,7 +14600,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "03_Vengeance_H2",
@@ -14603,7 +14608,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "04_Vengeance_H3",
@@ -14611,7 +14616,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "05_Vengeance_H4",
@@ -14745,9 +14750,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 6404
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -14763,7 +14768,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -14771,7 +14776,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "25_ShrineMind",
@@ -14787,7 +14792,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "27_ShrineBody",
@@ -14795,7 +14800,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -14851,7 +14856,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "35_WideStrike",
@@ -14867,7 +14872,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -14875,7 +14880,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -14986,21 +14991,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20875,
+      "Progressed": 20880,
       "Completed": 10447
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711574,
+      "Progressed": 711579,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-27T05:59:02.8183444+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:06:04.4611744+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:06:13.8408121+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:59:02.8183453+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:06:04.4613238+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:59:14.458504+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:06:13.8409115+00:00"
 }

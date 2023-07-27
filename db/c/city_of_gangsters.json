@@ -475,7 +475,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 332766,
+  "EOS_Progressed": 332772,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1682,
   "EOS_NewCompleters": 0,
@@ -11090,6 +11090,11 @@
       "Time": "2023-07-27T06:05:44.951027+00:00",
       "NumProgressed": 332766,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T07:05:54.5965987+00:00",
+      "NumProgressed": 332772,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -11117,7 +11122,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39932
+      "UsersEstimate": 39933
     },
     {
       "ID": "ach004",
@@ -11141,7 +11146,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach007",
@@ -11157,7 +11162,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39932
+      "UsersEstimate": 39933
     },
     {
       "ID": "ach009",
@@ -11181,7 +11186,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach012",
@@ -11189,7 +11194,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "ach013",
@@ -11205,7 +11210,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46587
+      "UsersEstimate": 46588
     },
     {
       "ID": "ach015",
@@ -11213,7 +11218,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach016",
@@ -11237,7 +11242,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "ach019",
@@ -11309,7 +11314,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 153072
+      "UsersEstimate": 153075
     },
     {
       "ID": "ach028",
@@ -11413,7 +11418,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach041",
@@ -11429,7 +11434,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach043",
@@ -11493,7 +11498,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach051",
@@ -11501,7 +11506,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36604
+      "UsersEstimate": 36605
     },
     {
       "ID": "ach052",
@@ -11597,7 +11602,7 @@
       "Name": "Moving Experiences",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach065",
@@ -11613,7 +11618,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46587
+      "UsersEstimate": 46588
     },
     {
       "ID": "ach067",
@@ -11629,7 +11634,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 53243
+      "UsersEstimate": 53244
     },
     {
       "ID": "ach069",
@@ -11637,7 +11642,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46587
+      "UsersEstimate": 46588
     },
     {
       "ID": "ach070",
@@ -11653,7 +11658,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach072",
@@ -11661,7 +11666,7 @@
       "Name": "Wise Head",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ach073",
@@ -11740,7 +11745,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 332766,
+      "Progressed": 332772,
       "Completed": 5
     }
   ],
@@ -11748,8 +11753,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-23T20:58:17.9975628+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:05:44.9510264+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:05:54.5965983+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.9048687+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:01.9711121+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:05:44.9511874+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:12.1918228+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:05:54.59676+00:00"
 }

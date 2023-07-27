@@ -1311,9 +1311,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22687,
+  "EOS_Progressed": 22688,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6041,6 +6041,11 @@
       "Time": "2023-07-27T01:54:03.1729699+00:00",
       "NumProgressed": 22687,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-27T07:03:23.1062435+00:00",
+      "NumProgressed": 22688,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6164,7 +6169,7 @@
       "Name": "King and Kin",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -6308,7 +6313,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "RogueMode",
@@ -6363,21 +6368,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22687,
+      "Progressed": 22688,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1617,
+      "Progressed": 1618,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-26T08:00:18.8066009+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:03:08.5864989+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:03:23.106243+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:12.3827705+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:59:12.6319271+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:03:08.5865616+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:59:23.2034834+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:03:23.1063014+00:00"
 }

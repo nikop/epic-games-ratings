@@ -17,9 +17,9 @@ Number of Ratings: 125  (23.09.2022)
 | Justice Served | 29.00% | ~505 |
 | Chain Reaction | 27.00% | ~470 |
 | Through Their Eyes | 26.00% | ~452 |
+| Rain of Death | 25.00% | ~435 |
 | Scholar | 25.00% | ~435 |
 | Dishonored | 24.00% | ~418 |
-| Rain of Death | 24.00% | ~418 |
 | The Great Escape | 23.00% | ~400 |
 | That’s All, Folks | 18.00% | ~313 |
 | Fallen Star | 16.00% | ~278 |
@@ -50,8 +50,8 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~52 |
 | Moondrunk | 3.00% | ~52 |
 | Lord Inut Sends His Regards | 2.00% | ~35 |
+| 'Ma Barker | 2.00% | ~35 |
 | Hog Wild | 1.00% | ~17 |
-| 'Ma Barker | 1.00% | ~17 |
 | I Kicked a Bird and I Liked it | 0.90% | ~16 |
 | End the world | 0.60% | ~10 |
 | Explorer | 0.50% | ~9 |

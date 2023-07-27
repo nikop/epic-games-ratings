@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1736,9 +1736,9 @@
       "ID": "ACH_MA_BARKER",
       "SetID": "8j30i9k",
       "Name": "\u0027Ma Barker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_MONSTER_HUNTER",
@@ -1816,9 +1816,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_REVENANT",
@@ -1976,8 +1976,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:04:10.0490132+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:04:24.3563129+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.7719214+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:36.272336+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:04:10.0490687+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:45.8856353+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:04:24.3563652+00:00"
 }

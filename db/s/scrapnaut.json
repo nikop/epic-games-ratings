@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1055,9 +1055,9 @@
       "ID": "ACH_MAKE_FUEL",
       "SetID": "7c4cldc",
       "Name": "Fuel",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:02:03.3636039+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:02:07.7853614+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:36.6418584+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:02:03.3636309+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:46.2618025+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:02:07.7853888+00:00"
 }

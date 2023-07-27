@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4624,
+  "EOS_Progressed": 4626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7051,6 +7051,11 @@
       "Time": "2023-07-27T06:06:00.5932961+00:00",
       "NumProgressed": 4624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T07:06:10.0852661+00:00",
+      "NumProgressed": 4626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7062,7 +7067,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "10",
@@ -7124,9 +7129,9 @@
       "ID": "3",
       "SetID": "1dkhij4",
       "Name": "Cactus Vally",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1064
     },
     {
       "ID": "4",
@@ -7158,7 +7163,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "8",
@@ -7181,7 +7186,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4624,
+      "Progressed": 4626,
       "Completed": 0
     }
   ],
@@ -7189,8 +7194,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:06:00.5932955+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:06:10.0852656+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:13.047269+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:06:00.5933537+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:22.8658602+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:06:10.0853202+00:00"
 }

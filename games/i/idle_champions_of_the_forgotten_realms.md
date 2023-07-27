@@ -18,14 +18,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.60% | ~1,093 |
 | Vecna Loots! | 0.60% | ~1,093 |
 | Topolah's Tower | 0.60% | ~1,093 |
-| Pros and CONs | 0.50% | ~1,079 |
-| Wet Feet | 0.50% | ~1,079 |
-| Hatchlings Underfoot | 0.50% | ~1,079 |
-| Don't Look Up! | 0.50% | ~1,079 |
+| Pros and CONs | 0.50% | ~1,080 |
+| Wet Feet | 0.50% | ~1,080 |
+| Hatchlings Underfoot | 0.50% | ~1,080 |
+| Don't Look Up! | 0.50% | ~1,080 |
 | Seeds of Destruction | 0.50% | ~911 |
 | Return to the Tomb | 0.50% | ~911 |
 | Heatwave | 0.50% | ~911 |
-| Unearthed Evil | 0.50% | ~1,079 |
+| Unearthed Evil | 0.50% | ~1,080 |
 | The Champion's Guide to Wildspace | 0.50% | ~911 |
 | Calcryx Tricks | 0.50% | ~911 |
 | Goblin Halls: the Next Generation | 0.50% | ~911 |
@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~864 |
 | Low Initiative | 0.40% | ~864 |
 | A Mysterious Summons | 0.40% | ~864 |
+| Street War | 0.40% | ~864 |
 | Building Trust | 0.40% | ~864 |
 | March of the Undead | 0.40% | ~864 |
 | No Time To Rest | 0.40% | ~864 |
@@ -63,11 +64,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.30% | ~648 |
 | No One Can Hear You Scream | 0.30% | ~547 |
 | Welcome to the Rock | 0.30% | ~547 |
-| Street War | 0.30% | ~648 |
 | Wisdom Check | 0.30% | ~648 |
 | Invisible Shadows | 0.30% | ~648 |
 | Family Entanglements | 0.30% | ~648 |
 | Tower on the Lake | 0.30% | ~648 |
+| Exploring Port Nyanzaru | 0.30% | ~648 |
 | Running of the Saurs | 0.30% | ~648 |
 | Escort to Waterdeep | 0.30% | ~648 |
 | The Mad Wizard | 0.30% | ~648 |
@@ -140,7 +141,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~432 |
 | Premature Betrayal | 0.20% | ~432 |
 | Mad Cow Disease | 0.20% | ~432 |
-| Exploring Port Nyanzaru | 0.20% | ~432 |
 | A Tale of Two Cities | 0.20% | ~432 |
 | The Dead Three | 0.20% | ~432 |
 | Flying Monkey Skulls of Doom | 0.20% | ~432 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,897 (Ranked 53)  
-Completed: 2,125 (0.98%) (Ranked 108)  
+Progressed: 215,901 (Ranked 53)  
+Completed: 2,126 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -617,7 +617,7 @@ Completed: 2,125 (0.98%) (Ranked 108)
 | 2023-07-24 | 215,218 | 2,071 |
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
-| 2023-07-27 | 215,897 | 2,125 |
+| 2023-07-27 | 215,901 | 2,126 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,745 (Ranked 38)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2622,
+  "EOS_Progressed": 2623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3524,6 +3524,11 @@
       "Time": "2023-07-27T04:01:27.753837+00:00",
       "NumProgressed": 2622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-27T07:00:44.1790855+00:00",
+      "NumProgressed": 2623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3693,9 +3698,9 @@
       "ID": "ACH_LAID-BACK",
       "SetID": "72olkc5",
       "Name": "Laid back",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -3903,7 +3908,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3918,15 +3923,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2622,
+      "Progressed": 2623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-27T04:59:49.8050175+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:00:28.4970582+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:00:44.179085+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.8180289+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:59:10.8435876+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:00:28.4971207+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:59:21.4522018+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:00:44.1791467+00:00"
 }

@@ -610,9 +610,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 11411,
+  "EOS_Progressed": 11414,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7500,6 +7500,11 @@
       "Time": "2023-07-27T06:06:03.969091+00:00",
       "NumProgressed": 11411,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-27T07:06:13.4557214+00:00",
+      "NumProgressed": 11414,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7511,7 +7516,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9243
+      "UsersEstimate": 9245
     },
     {
       "ID": "ACH02",
@@ -7559,7 +7564,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH08",
@@ -7567,7 +7572,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5706
+      "UsersEstimate": 5707
     },
     {
       "ID": "ACH09",
@@ -7607,7 +7612,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH14",
@@ -7623,7 +7628,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH16",
@@ -7655,7 +7660,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH20",
@@ -7687,7 +7692,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "ACH24",
@@ -7725,9 +7730,9 @@
       "ID": "ACH28",
       "SetID": "4ck5mbe",
       "Name": "Original Gangster",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 913
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH29",
@@ -7790,7 +7795,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11411,
+      "Progressed": 11414,
       "Completed": 31
     }
   ],
@@ -7798,8 +7803,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-26T12:00:19.6576508+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:06:03.9690904+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:06:13.4557209+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:00:08.2411163+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:06:03.9691624+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:00:22.7507859+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:06:13.4557917+00:00"
 }

@@ -14,8 +14,8 @@
 | Stocking Up | 13.00% | ~84 |
 | Getting Deployment | 12.00% | ~77 |
 | On Target | 12.00% | ~77 |
+| Keeping Busy | 11.00% | ~71 |
 | Infantry Reporting | 11.00% | ~71 |
-| Keeping Busy | 10.00% | ~64 |
 | Fighting for Survival | 9.00% | ~58 |
 | Silver Competitor | 9.00% | ~58 |
 | Captain | 9.00% | ~58 |

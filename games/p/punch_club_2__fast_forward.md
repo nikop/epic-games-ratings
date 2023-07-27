@@ -21,7 +21,7 @@
 | Hello, world! | 67.00% | ~106 |
 | Fighting is cool | 66.00% | ~104 |
 | Pal of your father? | 62.00% | ~98 |
-| Employee of the month | 61.00% | ~96 |
+| Employee of the month | 62.00% | ~98 |
 | Spirit of the past | 60.00% | ~95 |
 | Intriguing candies | 59.00% | ~93 |
 | Law student | 58.00% | ~92 |
@@ -35,7 +35,7 @@
 | Employee of the year | 51.00% | ~81 |
 | Fight for life | 50.00% | ~79 |
 | Extreme neuropower! | 46.00% | ~73 |
-| Legal courier | 43.00% | ~68 |
+| Legal courier | 44.00% | ~70 |
 | Now you are worthy | 38.00% | ~60 |
 | Escaped from a big trouble | 38.00% | ~60 |
 | Guiding on the right path | 35.00% | ~55 |
@@ -48,9 +48,9 @@
 | Underground dwellers | 27.00% | ~43 |
 | Seashell hunter | 27.00% | ~43 |
 | Deal with life | 26.00% | ~41 |
+| Poisoned fighter | 26.00% | ~41 |
 | Mom got better | 25.00% | ~40 |
 | GYM professional | 25.00% | ~40 |
-| Poisoned fighter | 25.00% | ~40 |
 | The die is cast | 25.00% | ~40 |
 | Anyone can resist | 24.00% | ~38 |
 | Gang wrangler | 23.00% | ~36 |

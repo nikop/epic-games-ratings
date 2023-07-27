@@ -6,21 +6,21 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~620 |
-| My little farm | 65.00% | ~498 |
-| Every beginning is difficult | 62.00% | ~475 |
-| 3, 2, 1, mine | 56.00% | ~429 |
-| Gofer | 56.00% | ~429 |
+| Cabin boy | 81.00% | ~621 |
+| My little farm | 65.00% | ~499 |
+| Every beginning is difficult | 62.00% | ~476 |
+| 3, 2, 1, mine | 56.00% | ~430 |
+| Gofer | 56.00% | ~430 |
 | Seafarer | 54.00% | ~414 |
-| O Captain! My Captain! | 53.00% | ~406 |
-| Greed for gold | 43.00% | ~329 |
+| O Captain! My Captain! | 53.00% | ~407 |
+| Greed for gold | 43.00% | ~330 |
 | Intangible | 41.00% | ~314 |
 | I'm out of here for a while | 41.00% | ~314 |
-| In a mint condition | 37.00% | ~283 |
-| Licence to Kill | 36.00% | ~276 |
-| Pirates! | 34.00% | ~260 |
-| Collectionitis | 28.00% | ~214 |
-| Megalomania | 28.00% | ~214 |
+| In a mint condition | 37.00% | ~284 |
+| Licence to Kill | 35.00% | ~268 |
+| Pirates! | 34.00% | ~261 |
+| Collectionitis | 28.00% | ~215 |
+| Megalomania | 28.00% | ~215 |
 | Christening | 26.00% | ~199 |
 | Groundskeeper | 25.00% | ~192 |
 | Wholesale | 22.00% | ~169 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 766 (Ranked 201)  
+Progressed: 767 (Ranked 201)  
 Completed: 1 (0.13%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.13%) (Ranked 182)
 | 2023-07-24 | 759 | 1 |
 | 2023-07-25 | 761 | 1 |
 | 2023-07-26 | 765 | 1 |
-| 2023-07-27 | 766 | 1 |
+| 2023-07-27 | 767 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

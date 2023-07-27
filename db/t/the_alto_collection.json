@@ -733,9 +733,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 32822,
+  "EOS_Progressed": 32824,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11293,6 +11293,11 @@
       "Time": "2023-07-27T06:03:08.9446454+00:00",
       "NumProgressed": 32822,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-27T07:03:23.3507821+00:00",
+      "NumProgressed": 32824,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11528,7 +11533,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ultimate",
@@ -11568,7 +11573,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4924
     },
     {
       "ID": "unlockpaz",
@@ -11615,15 +11620,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 32822,
+      "Progressed": 32824,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-26T09:00:17.3064783+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:03:08.9446447+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:03:23.3507815+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:59:19.05747+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:03:08.9447457+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:59:29.5951593+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:03:23.3508735+00:00"
 }

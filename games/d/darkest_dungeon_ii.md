@@ -6,41 +6,41 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~104,339 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~78,534 |
-| A Clear Conscience | 69.00% | ~77,412 |
-| Unleash Hell | 68.00% | ~76,291 |
-| Unfulfilled Desires | 68.00% | ~76,291 |
-| Funny Guy | 67.00% | ~75,169 |
-| Unshackled | 67.00% | ~75,169 |
-| Long Live the King | 66.00% | ~74,047 |
-| Resurrection | 62.00% | ~69,559 |
-| Wyrdly Reconstructed | 62.00% | ~69,559 |
-| Boxcar Kid | 60.00% | ~67,315 |
-| Rush Hour | 60.00% | ~67,315 |
-| To Grandmother's House | 60.00% | ~67,315 |
-| Serenity Now! | 52.00% | ~58,340 |
-| Hope Rekindled | 50.00% | ~56,096 |
-| Ramble On | 48.00% | ~53,852 |
-| Nope | 47.00% | ~52,730 |
-| This Looks Familiar | 38.00% | ~42,633 |
-| Now Stay Dead | 36.00% | ~40,389 |
-| Harvest Festival | 36.00% | ~40,389 |
-| Hot Air | 36.00% | ~40,389 |
-| Merry Time | 35.00% | ~39,267 |
-| Creep and Sleep | 32.00% | ~35,901 |
+| A Place to Lay Your Head | 93.00% | ~104,341 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~78,536 |
+| A Clear Conscience | 69.00% | ~77,415 |
+| Unleash Hell | 68.00% | ~76,293 |
+| Unfulfilled Desires | 68.00% | ~76,293 |
+| Funny Guy | 67.00% | ~75,171 |
+| Unshackled | 67.00% | ~75,171 |
+| Long Live the King | 66.00% | ~74,049 |
+| Resurrection | 62.00% | ~69,561 |
+| Wyrdly Reconstructed | 62.00% | ~69,561 |
+| Boxcar Kid | 60.00% | ~67,317 |
+| Rush Hour | 60.00% | ~67,317 |
+| To Grandmother's House | 60.00% | ~67,317 |
+| Serenity Now! | 52.00% | ~58,341 |
+| Hope Rekindled | 50.00% | ~56,098 |
+| Ramble On | 48.00% | ~53,854 |
+| Nope | 47.00% | ~52,732 |
+| This Looks Familiar | 38.00% | ~42,634 |
+| Now Stay Dead | 36.00% | ~40,390 |
+| Harvest Festival | 36.00% | ~40,390 |
+| Hot Air | 36.00% | ~40,390 |
+| Merry Time | 35.00% | ~39,268 |
+| Creep and Sleep | 32.00% | ~35,902 |
 | Overdue Notice | 31.00% | ~34,780 |
 | Whale | 31.00% | ~34,780 |
 | Banishment | 30.00% | ~33,658 |
-| FNG | 28.00% | ~31,414 |
-| Reverse Banditry | 24.00% | ~26,926 |
-| Autodidact | 24.00% | ~26,926 |
-| Predator | 23.00% | ~25,804 |
-| Meat and Greet | 22.00% | ~24,682 |
-| Spelunker | 21.00% | ~23,560 |
-| Road Trip | 21.00% | ~23,560 |
-| Eyes Up | 20.00% | ~22,438 |
-| It Rings a Bell | 19.00% | ~21,316 |
+| FNG | 28.00% | ~31,415 |
+| Reverse Banditry | 24.00% | ~26,927 |
+| Autodidact | 24.00% | ~26,927 |
+| Predator | 23.00% | ~25,805 |
+| Meat and Greet | 22.00% | ~24,683 |
+| Spelunker | 21.00% | ~23,561 |
+| Road Trip | 21.00% | ~23,561 |
+| Eyes Up | 20.00% | ~22,439 |
+| It Rings a Bell | 19.00% | ~21,317 |
 | Escape from the Black Hole | 17.00% | ~19,073 |
 | It Happens | 17.00% | ~19,073 |
 | This Belongs in a Museum | 15.00% | ~16,829 |
@@ -50,9 +50,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Not Today! | 12.00% | ~13,463 |
 | Deprogramming | 12.00% | ~13,463 |
 | Shrine of Reflection | 11.00% | ~12,341 |
-| When You Want Something Done Right | 10.00% | ~11,219 |
-| Body of Work | 9.00% | ~10,097 |
-| Utopia | 8.00% | ~8,975 |
+| When You Want Something Done Right | 10.00% | ~11,220 |
+| Body of Work | 9.00% | ~10,098 |
+| Utopia | 8.00% | ~8,976 |
 | Hat Trick | 6.00% | ~6,732 |
 | Ichthyophobic | 5.00% | ~5,610 |
 | No More Mouths to Feed | 5.00% | ~5,610 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~112 |
 | 20,000 Leagues Above the Sea | 0.10% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,192 (Ranked 66)  
+Progressed: 112,195 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,22 +160,22 @@ Completed: 1 (0.00%) (Ranked 242)
 | 2023-07-24 | 111,913 | 1 |
 | 2023-07-25 | 112,028 | 1 |
 | 2023-07-26 | 112,163 | 1 |
-| 2023-07-27 | 112,192 | 1 |
+| 2023-07-27 | 112,195 | 1 |
 ## Awards
 Max (Character Customization): 7,303  (Ranked 47)  
-Sum: 18,898 (Ranked 56)  
+Sum: 18,901 (Ranked 56)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,303 |
-| This game has Diverse Characters | 1,488 |
+| This game has Diverse Characters | 1,490 |
 | This game has Challenging Combat | 1,427 |
 | This game is Highly Recommended | 1,391 |
 | This game has Amazing Characters | 1,339 |
 | This game is Extremely Fun | 1,338 |
 | This game has Quickly Understood Controls | 1,251 |
 | This game has Amazing Storytelling | 1,251 |
-| This game has Unique Visuals | 1,207 |
+| This game has Unique Visuals | 1,208 |
 | This game has a Creative Community | 903 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -364,4 +364,4 @@ Diff (max vs sum): -9
 | 2023-07-24 | 4.68 | - | 7,298 | 18,889 |
 | 2023-07-25 | 4.68 | - | 7,299 | 18,892 |
 | 2023-07-26 | 4.68 | - | 7,299 | 18,894 |
-| 2023-07-27 | 4.68 | - | 7,303 | 18,898 |
+| 2023-07-27 | 4.68 | - | 7,303 | 18,901 |

@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 242)  
+Progressed: 343 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,7 +42,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 251 | 0 |
 | 2023-07-25 | 297 | 0 |
 | 2023-07-26 | 333 | 0 |
-| 2023-07-27 | 340 | 0 |
+| 2023-07-27 | 343 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 226 (Ranked 352)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16310,
+  "EOS_Progressed": 16312,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10644,6 +10644,11 @@
       "Time": "2023-07-27T06:03:49.8159721+00:00",
       "NumProgressed": 16310,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-07-27T07:04:03.7247981+00:00",
+      "NumProgressed": 16312,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 20,
@@ -10671,7 +10676,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -10719,7 +10724,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "FOUND_ERIN",
@@ -10751,7 +10756,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -10767,7 +10772,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "INTRO_FINISHED",
@@ -10775,7 +10780,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12396
+      "UsersEstimate": 12397
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10791,7 +10796,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -10814,15 +10819,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16310,
+      "Progressed": 16312,
       "Completed": 339
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:03:49.8159711+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:04:03.7247977+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-27T06:00:00.907942+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:03:49.816055+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:00:15.904155+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:04:03.7248784+00:00"
 }

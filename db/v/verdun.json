@@ -5,9 +5,9 @@
   "Ranking_Rating": 519,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 262,
-  "Ranking_EOS_Progress": 86,
+  "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1634,9 +1634,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 52886,
+  "EOS_Progressed": 52887,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12069,6 +12069,11 @@
       "Time": "2023-07-27T06:04:05.8322958+00:00",
       "NumProgressed": 52886,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-27T07:04:19.5560691+00:00",
+      "NumProgressed": 52887,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -12080,7 +12085,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 29087
+      "UsersEstimate": 29088
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -12312,7 +12317,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13751
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -12344,7 +12349,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 21154
+      "UsersEstimate": 21155
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -12368,7 +12373,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 33318
+      "UsersEstimate": 33319
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -12448,7 +12453,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 40722
+      "UsersEstimate": 40723
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -12551,15 +12556,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 52886,
+      "Progressed": 52887,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-23T13:58:40.9089265+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:04:05.8322951+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:04:19.5560686+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.429657+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:35.7330249+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:04:05.8324218+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:45.4028695+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:04:19.5561897+00:00"
 }

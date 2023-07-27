@@ -1851,9 +1851,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43145,
+  "EOS_Progressed": 43146,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5401,6 +5401,11 @@
       "Time": "2023-07-27T03:04:26.8851312+00:00",
       "NumProgressed": 43145,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-27T07:04:03.4134025+00:00",
+      "NumProgressed": 43146,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5412,7 +5417,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26318
+      "UsersEstimate": 26319
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5484,7 +5489,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5532,7 +5537,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -5580,7 +5585,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -5604,7 +5609,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26750
+      "UsersEstimate": 26751
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5620,7 +5625,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14669
+      "UsersEstimate": 14670
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -5660,7 +5665,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21141
+      "UsersEstimate": 21142
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -5668,7 +5673,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -5716,7 +5721,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21572
+      "UsersEstimate": 21573
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -5732,7 +5737,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -5740,7 +5745,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29770
+      "UsersEstimate": 29771
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5780,7 +5785,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20278
+      "UsersEstimate": 20279
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -5788,7 +5793,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -5852,7 +5857,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14669
+      "UsersEstimate": 14670
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -5868,7 +5873,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28044
+      "UsersEstimate": 28045
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5932,22 +5937,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43145,
+      "Progressed": 43146,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-25T19:00:26.4040267+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:03:49.472936+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:04:03.4134021+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.6064619+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:59:51.7905757+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:03:49.4730242+00:00"
+  "LastUpdate_Ratings": "2023-07-27T07:00:01.5481139+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:04:03.4134857+00:00"
 }

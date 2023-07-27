@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 482,
+  "EOS_Progressed": 483,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1045,6 +1045,11 @@
       "Time": "2023-07-27T04:07:37.9444694+00:00",
       "NumProgressed": 482,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-27T07:06:13.2269239+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1128,7 +1133,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Chapter7",
@@ -1160,7 +1165,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Collectibles2",
@@ -1224,7 +1229,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Memories",
@@ -1238,9 +1243,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "NoDamage",
@@ -1343,14 +1348,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 482,
+      "Progressed": 483,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:06:03.7584212+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:06:13.2269234+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:24.5159044+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:01.7213011+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:06:03.7584555+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:11.9133891+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:06:13.2269568+00:00"
 }

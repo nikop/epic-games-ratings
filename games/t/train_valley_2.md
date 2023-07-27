@@ -6,49 +6,49 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 71.00% | ~242,089 |
-| Full garage | 58.00% | ~197,763 |
-| To the eyeballs! | 49.00% | ~167,075 |
-| Individual delivery | 44.00% | ~150,027 |
-| Non-Stop | 43.00% | ~146,617 |
-| Juggler | 34.00% | ~115,930 |
-| Forgot something | 33.00% | ~112,520 |
-| Close call! | 28.00% | ~95,472 |
-| Get out my way | 26.00% | ~88,652 |
-| Common cause | 24.00% | ~81,833 |
-| Critical care | 24.00% | ~81,833 |
-| Mega-railroad | 21.00% | ~71,604 |
-| Upgrade complete | 21.00% | ~71,604 |
-| Just in time! | 16.00% | ~54,555 |
-| Builder | 15.00% | ~51,146 |
-| Steam Age | 14.00% | ~47,736 |
-| Long Haul | 14.00% | ~47,644 |
-| Bridgemania | 12.00% | ~40,916 |
-| Multilevel road | 12.00% | ~40,916 |
-| Need to think | 12.00% | ~40,916 |
-| The Tortoise | 11.00% | ~37,507 |
-| Without a lunch break | 9.00% | ~30,687 |
-| Beginner | 8.00% | ~27,278 |
-| Relocation | 8.00% | ~27,278 |
-| One way | 7.00% | ~23,868 |
-| Industrial Age | 6.00% | ~20,458 |
-| Prick of conscience | 6.00% | ~20,458 |
-| Just One More Valley | 6.00% | ~20,419 |
-| At the last moment! | 5.00% | ~17,048 |
-| Missed it! | 5.00% | ~17,048 |
-| Highlander | 4.00% | ~13,639 |
-| Overseer | 4.00% | ~13,639 |
-| Jewelry accuracy | 3.00% | ~10,229 |
-| Bridge builder | 2.00% | ~6,819 |
-| Electrical Age | 2.00% | ~6,819 |
-| Large construction | 2.00% | ~6,819 |
-| Squander | 2.00% | ~6,819 |
-| Stargazer | 2.00% | ~6,819 |
-| The Hare | 2.00% | ~6,819 |
+| Dealmaker | 71.00% | ~242,142 |
+| Full garage | 58.00% | ~197,806 |
+| To the eyeballs! | 49.00% | ~167,112 |
+| Individual delivery | 44.00% | ~150,060 |
+| Non-Stop | 43.00% | ~146,649 |
+| Juggler | 34.00% | ~115,955 |
+| Forgot something | 33.00% | ~112,545 |
+| Close call! | 28.00% | ~95,493 |
+| Get out my way | 26.00% | ~88,672 |
+| Common cause | 24.00% | ~81,851 |
+| Critical care | 24.00% | ~81,851 |
+| Mega-railroad | 21.00% | ~71,619 |
+| Upgrade complete | 21.00% | ~71,619 |
+| Just in time! | 16.00% | ~54,567 |
+| Builder | 15.00% | ~51,157 |
+| Steam Age | 14.00% | ~47,746 |
+| Long Haul | 14.00% | ~47,654 |
+| Bridgemania | 12.00% | ~40,925 |
+| Multilevel road | 12.00% | ~40,925 |
+| Need to think | 12.00% | ~40,925 |
+| The Tortoise | 11.00% | ~37,515 |
+| Without a lunch break | 9.00% | ~30,694 |
+| Beginner | 8.00% | ~27,284 |
+| Relocation | 8.00% | ~27,284 |
+| One way | 7.00% | ~23,873 |
+| Industrial Age | 6.00% | ~20,463 |
+| Prick of conscience | 6.00% | ~20,463 |
+| Just One More Valley | 6.00% | ~20,423 |
+| At the last moment! | 5.00% | ~17,052 |
+| Missed it! | 5.00% | ~17,052 |
+| Highlander | 4.00% | ~13,642 |
+| Overseer | 4.00% | ~13,642 |
+| Jewelry accuracy | 3.00% | ~10,231 |
+| Bridge builder | 2.00% | ~6,821 |
+| Electrical Age | 2.00% | ~6,821 |
+| Large construction | 2.00% | ~6,821 |
+| Squander | 2.00% | ~6,821 |
+| Stargazer | 2.00% | ~6,821 |
+| The Hare | 2.00% | ~6,821 |
 | Engineer | 1.00% | ~3,410 |
 | Living it large | 1.00% | ~3,410 |
 | Sabotage | 1.00% | ~3,410 |
-| Test Batch | 1.00% | ~3,403 |
+| Test Batch | 1.00% | ~3,404 |
 | Woodcutter | 0.90% | ~3,069 |
 | Will work | 0.70% | ~2,387 |
 | Astronomer | 0.60% | ~2,046 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~340 |
 | World Zapper | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340,970 (Ranked 40)  
+Progressed: 341,045 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 4 (0.00%) (Ranked 242)
 | 2023-07-24 | 334,441 | 4 |
 | 2023-07-25 | 337,597 | 4 |
 | 2023-07-26 | 340,424 | 4 |
-| 2023-07-27 | 340,970 | 4 |
+| 2023-07-27 | 341,045 | 4 |
 ## Awards
 Max (Challenging Puzzles): 154  (Ranked 291)  
 Sum: 238 (Ranked 350)  

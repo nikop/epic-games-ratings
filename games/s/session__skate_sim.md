@@ -8,7 +8,7 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 57.00% | ~1,495 |
 | Keeping it classy | 26.00% | ~682 |
-| Welcome to the family | 20.00% | ~524 |
+| Welcome to the family | 20.00% | ~525 |
 | The finer things in life | 17.00% | ~446 |
 | Backpacker | 13.00% | ~341 |
 | Go with the Flow | 12.00% | ~315 |
@@ -27,7 +27,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~131 |
 | G'Day Mate! | 5.00% | ~131 |
 | Globetrotter | 5.00% | ~131 |
-| Laid back | 5.00% | ~131 |
 | NAHELL! | 5.00% | ~131 |
 | Purple passion | 5.00% | ~131 |
 | Squad goals | 5.00% | ~131 |
@@ -35,6 +34,7 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 4.00% | ~105 |
 | DIY Boss | 4.00% | ~105 |
 | G.O.A.T. status | 4.00% | ~105 |
+| Laid back | 4.00% | ~105 |
 | Lines for days | 4.00% | ~105 |
 | Manny Destroys All | 4.00% | ~105 |
 | Prince of Philly | 4.00% | ~105 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,622 (Ranked 158)  
+Progressed: 2,623 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 2,602 | 0 |
 | 2023-07-25 | 2,612 | 0 |
 | 2023-07-26 | 2,620 | 0 |
-| 2023-07-27 | 2,622 | 0 |
+| 2023-07-27 | 2,623 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
 Sum: 440 (Ranked 305)  

@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3592,
+  "EOS_Progressed": 3593,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4747,6 +4747,11 @@
       "Time": "2023-07-27T05:04:01.9453613+00:00",
       "NumProgressed": 3592,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-27T07:03:36.8046666+00:00",
+      "NumProgressed": 3593,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4972,9 +4977,9 @@
       "ID": "Ach028",
       "SetID": "12n4k20",
       "Name": "I think I found your calling, Macaron",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach029",
@@ -5325,13 +5330,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3592,
+      "Progressed": 3593,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 1928
     }
   ],
@@ -5339,8 +5344,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-27T06:03:22.1957281+00:00",
+  "LastChanged_Achievements": "2023-07-27T07:03:36.804666+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-27T05:58:39.9121199+00:00",
-  "LastUpdate_Achievements": "2023-07-27T06:03:22.1958341+00:00"
+  "LastUpdate_Ratings": "2023-07-27T06:58:49.8968475+00:00",
+  "LastUpdate_Achievements": "2023-07-27T07:03:36.804773+00:00"
 }
