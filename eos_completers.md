@@ -21,7 +21,7 @@
 | 19 | [Remains](games/r/remains.md) | 10.87% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -61,10 +61,10 @@
 | 59 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
 | 60 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
-| 62 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.94% |
-| 63 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 63 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
-| 65 | [HordeCore](games/h/hordecore.md) | 2.91% |
+| 62 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 62 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
+| 64 | [HordeCore](games/h/hordecore.md) | 2.91% |
+| 65 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 66 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 67 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -74,7 +74,7 @@
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.44% |
-| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
