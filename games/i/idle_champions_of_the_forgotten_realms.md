@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,488 |
-| Beast Intentions | 2.00% | ~4,325 |
+| Beast Intentions | 2.00% | ~4,326 |
 | Maddening | 1.00% | ~2,163 |
 | The Silken Swamp | 1.00% | ~2,163 |
 | Supply Run | 1.00% | ~2,163 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~1,081 |
 | A Persistent Buzzing | 0.50% | ~1,081 |
 | Terror in the Dark | 0.50% | ~1,081 |
+| A Mysterious Summons | 0.50% | ~1,081 |
 | Building Trust | 0.50% | ~1,081 |
 | Unearthed Evil | 0.50% | ~1,081 |
 | Not That Type of Helm! | 0.50% | ~913 |
@@ -44,7 +45,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.40% | ~865 |
 | Beast Mode | 0.40% | ~865 |
 | Low Initiative | 0.40% | ~865 |
-| A Mysterious Summons | 0.40% | ~865 |
 | Street War | 0.40% | ~865 |
 | March of the Undead | 0.40% | ~865 |
 | No Time To Rest | 0.40% | ~865 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,264 (Ranked 53)  
+Progressed: 216,275 (Ranked 53)  
 Completed: 2,130 (0.98%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,130 (0.98%) (Ranked 110)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,264 | 2,130 |
+| 2023-07-28 | 216,275 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,768 (Ranked 38)  

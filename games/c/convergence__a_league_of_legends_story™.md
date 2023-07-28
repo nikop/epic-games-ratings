@@ -32,10 +32,10 @@
 | Right On Time | 13.00% | ~103 |
 | Street Style | 12.00% | ~95 |
 | Whiz Kid | 11.00% | ~87 |
-| Chaincrawler Explorer | 10.00% | ~79 |
-| Good Neighbor | 10.00% | ~79 |
-| Family Memories | 9.00% | ~71 |
-| Theater Explorer | 9.00% | ~71 |
+| Chaincrawler Explorer | 10.00% | ~80 |
+| Good Neighbor | 10.00% | ~80 |
+| Family Memories | 9.00% | ~72 |
+| Theater Explorer | 9.00% | ~72 |
 | Fairgrounds Explorer | 8.00% | ~64 |
 | Sump Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794 (Ranked 200)  
+Progressed: 795 (Ranked 200)  
 Completed: 4 (0.50%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,4 +123,4 @@ Completed: 4 (0.50%) (Ranked 135)
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
-| 2023-07-28 | 794 | 4 |
+| 2023-07-28 | 795 | 4 |

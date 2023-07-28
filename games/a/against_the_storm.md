@@ -15,16 +15,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 4.00% | ~642 |
 | No Deaths | 4.00% | ~642 |
 | Homesick | 3.00% | ~481 |
-| Bandit Camp | 3.00% | ~481 |
 | Ancient Battleground | 3.00% | ~481 |
 | Lost Colonies | 3.00% | ~481 |
-| Watchtower | 3.00% | ~481 |
 | A Real Challenge | 3.00% | ~481 |
 | Trade Baron | 3.00% | ~481 |
 | Serving Ale | 2.00% | ~321 |
 | Refinery | 2.00% | ~321 |
 | Against All Odds | 2.00% | ~321 |
 | Ruined Armory | 2.00% | ~321 |
+| Bandit Camp | 2.00% | ~321 |
 | Barren Lands | 2.00% | ~321 |
 | Sparkdew Crystals | 2.00% | ~321 |
 | Dangerous Lands | 2.00% | ~321 |
@@ -37,6 +36,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 2.00% | ~321 |
 | Forsaken Gods Temple | 2.00% | ~321 |
 | Corrosive Torrent | 2.00% | ~321 |
+| Watchtower | 2.00% | ~321 |
 | Cursed Lands | 2.00% | ~321 |
 | Like a Machine | 2.00% | ~321 |
 | Defying the Crown | 2.00% | ~321 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,040 (Ranked 110)  
+Progressed: 16,041 (Ranked 110)  
 Completed: 40 (0.25%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 40 (0.25%) (Ranked 162)
 | 2023-07-25 | 16,012 | 40 |
 | 2023-07-26 | 16,023 | 40 |
 | 2023-07-27 | 16,037 | 40 |
-| 2023-07-28 | 16,040 | 40 |
+| 2023-07-28 | 16,041 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,081 (Ranked 158)  

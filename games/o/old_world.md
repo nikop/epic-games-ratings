@@ -191,6 +191,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Silver Crown | 0.10% | ~13 |
 | Queen of Politics | 0.10% | ~13 |
 | Queen of Intrigue | 0.10% | ~13 |
+| Queen of Opportunity | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
@@ -280,7 +281,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
-| Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |

@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~118,229 |
-| Where's that freaking Dwarf? | 47.00% | ~94,182 |
-| GG EZ | 28.00% | ~56,109 |
-| Speedrun | 26.00% | ~52,101 |
-| Déjà vu | 21.00% | ~42,081 |
-| Sock! SOCK! | 17.00% | ~34,066 |
-| DM intervention | 13.00% | ~26,050 |
-| Fireproof Wizardess | 9.00% | ~18,035 |
-| Livin' in a dwarven paradise | 7.00% | ~14,027 |
-| Way of the Wimp | 7.00% | ~14,027 |
-| A beer, two curses, three companions | 7.00% | ~14,027 |
-| The plot thickens... At the tavern | 5.00% | ~10,019 |
+| Alt+F4 | 59.00% | ~118,243 |
+| Where's that freaking Dwarf? | 47.00% | ~94,194 |
+| GG EZ | 28.00% | ~56,115 |
+| Speedrun | 26.00% | ~52,107 |
+| Déjà vu | 21.00% | ~42,087 |
+| Sock! SOCK! | 17.00% | ~34,070 |
+| DM intervention | 13.00% | ~26,054 |
+| Fireproof Wizardess | 9.00% | ~18,037 |
+| Livin' in a dwarven paradise | 7.00% | ~14,029 |
+| Way of the Wimp | 7.00% | ~14,029 |
+| A beer, two curses, three companions | 7.00% | ~14,029 |
+| The plot thickens... At the tavern | 5.00% | ~10,021 |
 | The Woman in the High Castle | 4.00% | ~8,016 |
 | I am the night | 4.00% | ~8,016 |
 | Team Building Exercise | 4.00% | ~8,016 |
@@ -40,11 +40,11 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 1.00% | ~2,004 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,004 |
 | Lust and Debauchery | 1.00% | ~2,004 |
-| The Dungeon Master | 0.90% | ~1,803 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~1,803 |
-| Dead for good | 0.90% | ~1,803 |
-| Law and Order | 0.90% | ~1,803 |
-| It's been a hard day's night | 0.90% | ~1,803 |
+| The Dungeon Master | 0.90% | ~1,804 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~1,804 |
+| Dead for good | 0.90% | ~1,804 |
+| Law and Order | 0.90% | ~1,804 |
+| It's been a hard day's night | 0.90% | ~1,804 |
 | Lëgal Legend | 0.80% | ~1,603 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,403 |
 | I'd rather... Just... Sing! | 0.50% | ~1,002 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,388 (Ranked 55)  
+Progressed: 200,412 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 198,707 | 0 |
 | 2023-07-26 | 199,432 | 0 |
 | 2023-07-27 | 200,189 | 0 |
-| 2023-07-28 | 200,388 | 0 |
+| 2023-07-28 | 200,412 | 0 |
 ## Awards
 Max (Character Customization): 139  (Ranked 301)  
 Sum: 139 (Ranked 394)  

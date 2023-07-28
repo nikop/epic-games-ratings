@@ -637,9 +637,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_apartments_2",
@@ -773,9 +773,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_consultants_b",
@@ -789,9 +789,9 @@
       "ID": "ach_consultants_c",
       "SetID": "b8gh1fi",
       "Name": "Smooth Operator",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_contracts_1",
@@ -981,9 +981,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_loan",
@@ -1061,9 +1061,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_prestige_2",
@@ -1245,9 +1245,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_trash_1",
@@ -1334,8 +1334,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:04:05.8667617+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:03:46.4795782+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:37.7419126+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:59:13.4307622+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:04:05.8668969+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:59:04.6523503+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:03:46.4797149+00:00"
 }

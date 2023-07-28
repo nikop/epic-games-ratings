@@ -5332,9 +5332,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216264,
+  "EOS_Progressed": 216275,
   "EOS_Completed": 2130,
-  "EOS_NewPlayers": 2297,
+  "EOS_NewPlayers": 2292,
   "EOS_NewCompleters": 71,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15922,6 +15922,11 @@
       "Time": "2023-07-28T07:03:42.5296543+00:00",
       "NumProgressed": 216264,
       "NumCompleted": 2130
+    },
+    {
+      "Time": "2023-07-28T08:03:43.1961392+00:00",
+      "NumProgressed": 216275,
+      "NumCompleted": 2130
     }
   ],
   "TotalAchievements": 512,
@@ -16301,7 +16306,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "objective_completed_110",
@@ -17123,9 +17128,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_165",
@@ -20028,21 +20033,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182538,
+      "Progressed": 182549,
       "Completed": 3022
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216264,
+      "Progressed": 216275,
       "Completed": 2130
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T01:52:57.2061694+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:03:42.5296536+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:03:43.1961385+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:59:25.626842+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:03:42.5327981+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:59:19.6171192+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:03:43.1995065+00:00"
 }

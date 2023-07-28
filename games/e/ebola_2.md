@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 61.00% | ~145 |
+| Statue ✔ | 62.00% | ~148 |
 | Recluse ✔ | 32.00% | ~76 |
 | Witch ✔ | 19.00% | ~45 |
 | Scent of Meat ✔ | 18.00% | ~43 |

@@ -516,9 +516,9 @@
       "ID": "secret35",
       "SetID": "39f6ck8",
       "Name": "Boss Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "secret36",
@@ -596,9 +596,9 @@
       "ID": "secret44",
       "SetID": "39f6ck8",
       "Name": "Lunch Before The Lunch",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "secret45",
@@ -725,8 +725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:04:05.1791056+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:03:45.7987885+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.8489819+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:01:38.5226706+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:04:05.1791705+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:01:53.2428145+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:03:45.7988542+00:00"
 }

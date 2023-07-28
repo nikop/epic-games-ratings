@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2129,6 +2129,11 @@
       "Time": "2023-07-28T01:57:31.8764927+00:00",
       "NumProgressed": 503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T08:02:43.6997042+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2188,7 +2193,7 @@
       "Name": "French Flair",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2316,7 +2321,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Packing20",
@@ -2364,7 +2369,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ServiceMaxClient",
@@ -2459,7 +2464,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 0
     }
   ],
@@ -2467,8 +2472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:03:28.1746348+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:02:43.6997033+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.4049565+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:59:47.9284483+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:28.1746886+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:59:47.6861613+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:02:43.6998454+00:00"
 }

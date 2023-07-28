@@ -1025,9 +1025,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "achVirus",
@@ -1056,8 +1056,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:07:38.3187145+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:07:43.9789288+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:01.9318208+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:58:10.7745918+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:07:38.3187394+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:57:58.2559695+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:07:43.9789503+00:00"
 }

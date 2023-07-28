@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1360,6 +1360,11 @@
       "Time": "2023-07-27T22:04:45.3867254+00:00",
       "NumProgressed": 582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T08:03:23.8635649+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1395,7 +1400,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DevilDetail",
@@ -1403,7 +1408,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Devoted",
@@ -1626,7 +1631,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 1
     }
   ],
@@ -1634,8 +1639,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:03:25.0039292+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:03:23.8635641+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:59:07.1889646+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:03:25.003963+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:59:00.8295432+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:03:23.8636031+00:00"
 }

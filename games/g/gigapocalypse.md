@@ -38,11 +38,11 @@
 | Loyal Companion | 24.00% | ~39 |
 | Back To The Future | 23.00% | ~38 |
 | Fire Beacon | 23.00% | ~38 |
-| Lunch Before The Lunch | 20.00% | ~33 |
+| Lunch Before The Lunch | 21.00% | ~34 |
 | From Here To Eternity | 18.00% | ~30 |
 | Building Blocks | 18.00% | ~30 |
 | Octopostructure | 16.00% | ~26 |
-| Boss Hunter | 15.00% | ~25 |
+| Boss Hunter | 16.00% | ~26 |
 | Hawkman | 9.00% | ~15 |
 | Fashion Victim | 7.00% | ~11 |
 | Annihilate | 7.00% | ~11 |

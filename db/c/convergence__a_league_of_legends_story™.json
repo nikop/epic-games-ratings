@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -1794,6 +1794,11 @@
       "Time": "2023-07-28T00:04:28.5752208+00:00",
       "NumProgressed": 794,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T08:04:41.9452417+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1821,7 +1826,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ChestCompletion1",
@@ -1901,7 +1906,7 @@
       "Name": "Family Memories",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FactorywoodChests1",
@@ -2173,7 +2178,7 @@
       "Name": "Theater Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2205,7 +2210,7 @@
       "Name": "Good Neighbor",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2228,14 +2233,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-28T07:04:55.3091862+00:00",
+  "LastChanged_Achievements": "2023-07-28T08:04:41.945241+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:00:57.4412732+00:00",
-  "LastUpdate_Achievements": "2023-07-28T07:04:55.3092568+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:01:02.5159502+00:00",
+  "LastUpdate_Achievements": "2023-07-28T08:04:41.9453153+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 4.00% | ~144 |
 | You can pet the cat! | 4.00% | ~144 |
 | Cream of the Crop | 3.00% | ~108 |
+| This will cost you big time | 3.00% | ~108 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~108 |
 | I play my own way! | 3.00% | ~108 |
 | You got this, Peppermint? | 3.00% | ~108 |
@@ -17,7 +18,6 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 3.00% | ~108 |
 | Alright, that felt AWESOME! | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~64 |
-| This will cost you big time | 2.00% | ~72 |
 | The Negotiator | 2.00% | ~72 |
 | Headliner | 2.00% | ~72 |
 | Time to pay up! | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,601 (Ranked 146)  
+Progressed: 3,602 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 6 (0.17%) (Ranked 174)
 | 2023-07-25 | 3,574 | 6 |
 | 2023-07-26 | 3,589 | 6 |
 | 2023-07-27 | 3,601 | 6 |
+| 2023-07-28 | 3,602 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

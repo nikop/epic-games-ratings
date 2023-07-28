@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 47.00% | ~48 |
-| First Step | 47.00% | ~48 |
+| The 4 Pillars | 46.00% | ~48 |
+| First Step | 46.00% | ~48 |
 | Indebted | 9.00% | ~9 |
 | Capitalism | 7.00% | ~7 |
 | Desert Rat | 6.00% | ~6 |
-| Good payer | 4.00% | ~4 |
+| Good payer | 5.00% | ~5 |
 | Pathfinder | 4.00% | ~4 |
 | Green Energy | 4.00% | ~4 |
 | Jantine: the Misfortunes of Evil | 3.00% | ~3 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 310)  
+Progressed: 104 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 82 | 0 |
 | 2023-07-26 | 86 | 0 |
 | 2023-07-27 | 98 | 0 |
-| 2023-07-28 | 103 | 0 |
+| 2023-07-28 | 104 | 0 |

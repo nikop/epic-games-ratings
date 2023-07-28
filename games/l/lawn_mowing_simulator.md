@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~524,434 |
-| Every story has a beginning | 36.00% | ~233,082 |
-| The first of many | 32.00% | ~207,184 |
-| Positive word of mouth | 18.00% | ~116,541 |
-| Lawn in the U.S.A. | 15.00% | ~97,118 |
-| Blade Runner | 9.00% | ~58,270 |
+| The dream begins | 81.00% | ~524,443 |
+| Every story has a beginning | 36.00% | ~233,086 |
+| The first of many | 32.00% | ~207,188 |
+| Positive word of mouth | 18.00% | ~116,543 |
+| Lawn in the U.S.A. | 15.00% | ~97,119 |
+| Blade Runner | 9.00% | ~58,271 |
 | Credible | 7.00% | ~45,322 |
-| Teamwork makes the dream work | 6.00% | ~38,847 |
+| Teamwork makes the dream work | 6.00% | ~38,848 |
 | Where there's muck there's brass | 4.00% | ~25,898 |
 | Bigger and better | 4.00% | ~25,898 |
 | Aggressive expansion | 4.00% | ~25,898 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Leaner and meaner | 2.00% | ~12,949 |
 | First step on the ladder | 2.00% | ~12,949 |
 | Trusted | 2.00% | ~12,949 |
-| The top of the mountain | 1.00% | ~6,474 |
+| The top of the mountain | 1.00% | ~6,475 |
 | Earn your stripes | 0.90% | ~5,827 |
 | Lawn & Order | 0.90% | ~5,827 |
 | Jack of all trades | 0.90% | ~5,827 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~647 |
 | Mo mowers, mo problems | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 647,450 (Ranked 23)  
+Progressed: 647,461 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 15 (0.00%) (Ranked 244)
 | 2023-07-25 | 646,533 | 15 |
 | 2023-07-26 | 646,920 | 15 |
 | 2023-07-27 | 647,321 | 15 |
-| 2023-07-28 | 647,450 | 15 |
+| 2023-07-28 | 647,461 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 278)  
 Sum: 969 (Ranked 237)  
