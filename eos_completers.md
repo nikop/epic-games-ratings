@@ -14,8 +14,8 @@
 | 12 | [Island Cities](games/i/island_cities.md) | 18.55% |
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.00% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
-| 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 14.29% |
-| 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
+| 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.17% |
@@ -25,13 +25,13 @@
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.50% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
+| 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.83% |
 | 27 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.13% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
-| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
+| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 33 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 34 | [Scorn](games/s/scorn.md) | 6.94% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
@@ -40,7 +40,7 @@
 | 38 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 39 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.48% |
 | 40 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.89% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.87% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 44 | [JARS](games/j/jars.md) | 4.84% |
@@ -71,7 +71,7 @@
 | 69 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 70 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 71 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 72 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.68% |
+| 72 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
 | 73 | [Lamentum](games/l/lamentum.md) | 2.62% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 75 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -82,7 +82,7 @@
 | 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
 | 81 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 82 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
-| 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.99% |
+| 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.98% |
 | 84 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 85 | [Night Book](games/n/night_book.md) | 1.90% |
 | 86 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.89% |
@@ -97,7 +97,7 @@
 | 95 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 96 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
 | 96 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
-| 98 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
+| 98 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 99 | [Five Dates](games/f/five_dates.md) | 1.42% |
 | 100 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 101 | [A Musical Story](games/a/a_musical_story.md) | 1.20% |
@@ -114,7 +114,7 @@
 | 112 | [Hades](games/h/hades.md) | 0.89% |
 | 113 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 114 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 115 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
+| 115 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 116 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 116 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 116 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
@@ -141,8 +141,8 @@
 | 139 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 139 | [Tchia](games/t/tchia.md) | 0.44% |
 | 139 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
-| 142 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.43% |
 | 142 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
+| 143 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.42% |
 | 144 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 145 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 146 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -156,7 +156,7 @@
 | 152 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 152 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 152 | [Scrapnaut](games/s/scrapnaut.md) | 0.31% |
-| 152 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 157 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 158 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 159 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
 | 159 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
