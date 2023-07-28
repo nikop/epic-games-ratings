@@ -18,8 +18,8 @@
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.17% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Remains](games/r/remains.md) | 10.87% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
@@ -27,8 +27,8 @@
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 27 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.17% |
-| 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
+| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.13% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
@@ -100,8 +100,8 @@
 | 98 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 99 | [Five Dates](games/f/five_dates.md) | 1.42% |
 | 100 | [Late Shift](games/l/late_shift.md) | 1.32% |
-| 101 | [A Musical Story](games/a/a_musical_story.md) | 1.22% |
-| 102 | [Chorus](games/c/chorus.md) | 1.20% |
+| 101 | [A Musical Story](games/a/a_musical_story.md) | 1.20% |
+| 101 | [Chorus](games/c/chorus.md) | 1.20% |
 | 103 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.19% |
 | 104 | [Trifox](games/t/trifox.md) | 1.11% |
 | 105 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.06% |
@@ -109,8 +109,8 @@
 | 107 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
 | 108 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 109 | [Adios](games/a/adios.md) | 0.99% |
-| 110 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 110 | [Sable](games/s/sable.md) | 0.98% |
+| 109 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 111 | [Sable](games/s/sable.md) | 0.98% |
 | 112 | [Hades](games/h/hades.md) | 0.89% |
 | 113 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 114 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -144,7 +144,7 @@
 | 142 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.43% |
 | 142 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
 | 144 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 145 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
+| 145 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 146 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 146 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 148 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
@@ -192,13 +192,13 @@
 | 189 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 191 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 191 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 191 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 191 | [Supraland](games/s/supraland.md) | 0.10% |
-| 195 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 195 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 195 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 195 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 195 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 194 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 194 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 194 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 194 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 194 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
+| 194 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 200 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 200 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 202 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
