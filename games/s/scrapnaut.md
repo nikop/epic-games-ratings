@@ -7,7 +7,7 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 61.00% | ~196 |
-| Scrap Gatherer | 58.00% | ~187 |
+| Scrap Gatherer | 59.00% | ~190 |
 | Mushroom Picker | 57.00% | ~184 |
 | Scrapper | 49.00% | ~158 |
 | Cook | 43.00% | ~138 |

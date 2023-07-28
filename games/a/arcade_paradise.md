@@ -5,9 +5,9 @@ Rating: 4.58 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~642 |
-| Fetch Quest Complete | 91.00% | ~602 |
-| I can't wait! | 83.00% | ~549 |
+| Pushing a pull door | 97.00% | ~643 |
+| Fetch Quest Complete | 91.00% | ~603 |
+| I can't wait! | 83.00% | ~550 |
 | Swish | 56.00% | ~371 |
 | Clean up on Aisle 9 | 40.00% | ~265 |
 | Machine Maxed | 30.00% | ~199 |
@@ -26,8 +26,8 @@ Rating: 4.58 (Ranked 425)
 | You Spin Me Round | 6.00% | ~40 |
 | Bombscare | 5.00% | ~33 |
 | Your Bloody Valentine | 5.00% | ~33 |
-| GoldGuy Jr | 4.00% | ~26 |
-| Nose to the Grindstone | 4.00% | ~26 |
+| GoldGuy Jr | 4.00% | ~27 |
+| Nose to the Grindstone | 4.00% | ~27 |
 | We come in peace | 3.00% | ~20 |
 | Crowning achievement | 3.00% | ~20 |
 | Hammer time | 3.00% | ~20 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 425)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662 (Ranked 208)  
+Progressed: 663 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-24 | 657 | 0 |
 | 2023-07-25 | 660 | 0 |
 | 2023-07-27 | 662 | 0 |
+| 2023-07-28 | 663 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

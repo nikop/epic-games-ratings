@@ -14,7 +14,7 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 0.70% | ~21 |
 | Blood for the Blood God! | 0.60% | ~18 |
 | Purging Spree | 0.60% | ~18 |
-| A Foul Creche | 0.40% | ~12 |
+| A Foul Creche | 0.50% | ~15 |
 | Surgical Excision | 0.30% | ~9 |
 | Friendly Fire | 0.30% | ~9 |
 | Execution Force | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,054 (Ranked 154)  
+Progressed: 3,055 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 3,031 | 0 |
 | 2023-07-26 | 3,047 | 0 |
 | 2023-07-27 | 3,054 | 0 |
+| 2023-07-28 | 3,055 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 456 (Ranked 303)  

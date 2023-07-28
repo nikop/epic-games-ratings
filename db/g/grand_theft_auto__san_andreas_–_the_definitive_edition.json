@@ -6,8 +6,8 @@
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -616,9 +616,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 11448,
+  "EOS_Progressed": 11452,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7576,6 +7576,11 @@
       "Time": "2023-07-28T00:07:29.7292087+00:00",
       "NumProgressed": 11448,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-28T02:01:42.6062719+00:00",
+      "NumProgressed": 11452,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7587,7 +7592,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9273
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH02",
@@ -7603,7 +7608,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH04",
@@ -7611,7 +7616,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH05",
@@ -7643,7 +7648,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5724
+      "UsersEstimate": 5726
     },
     {
       "ID": "ACH09",
@@ -7651,7 +7656,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH10",
@@ -7667,7 +7672,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH12",
@@ -7675,7 +7680,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH13",
@@ -7747,7 +7752,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH22",
@@ -7763,7 +7768,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "ACH24",
@@ -7779,7 +7784,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH26",
@@ -7795,7 +7800,7 @@
       "Name": "Assassin",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH28",
@@ -7803,7 +7808,7 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH29",
@@ -7811,7 +7816,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACH30",
@@ -7827,7 +7832,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH32",
@@ -7866,7 +7871,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11448,
+      "Progressed": 11452,
       "Completed": 31
     }
   ],
@@ -7874,8 +7879,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-27T21:02:56.7077237+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:07:29.7292083+00:00",
+  "LastChanged_Achievements": "2023-07-28T02:01:42.6062711+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:01:26.5555036+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:07:29.72926+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:55:41.2312012+00:00",
+  "LastUpdate_Achievements": "2023-07-28T02:01:42.6063247+00:00"
 }

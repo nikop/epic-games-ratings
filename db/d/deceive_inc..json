@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8753,
+  "EOS_Progressed": 9142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6368,6 +6368,11 @@
       "Time": "2023-07-28T00:03:29.0783457+00:00",
       "NumProgressed": 8753,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T01:57:45.7744802+00:00",
+      "NumProgressed": 9142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6377,25 +6382,25 @@
       "ID": "0001",
       "SetID": "2n2feee",
       "Name": "On Deceive Inc.\u0027s Secret Service",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4845
     },
     {
       "ID": "0002",
       "SetID": "2n2feee",
       "Name": "License to Thrill",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 700
+      "UsersEstimate": 640
     },
     {
       "ID": "0003",
       "SetID": "2n2feee",
       "Name": "Assistant Accountant",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1828
     },
     {
       "ID": "0004",
@@ -6403,15 +6408,15 @@
       "Name": "Security Supervisor",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 731
     },
     {
       "ID": "0005",
       "SetID": "2n2feee",
       "Name": "Branch Manager",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 183
     },
     {
       "ID": "0006",
@@ -6419,7 +6424,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "0007",
@@ -6427,23 +6432,23 @@
       "Name": "Masteries Are Forever",
       "Percentage": 0.6,
       "XP": 115,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "0008",
       "SetID": "2n2feee",
       "Name": "From the Vault with Love",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2834
     },
     {
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3565
     },
     {
       "ID": "0010",
@@ -6451,7 +6456,7 @@
       "Name": "Social of Solace",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 613
+      "UsersEstimate": 640
     },
     {
       "ID": "0011",
@@ -6459,31 +6464,31 @@
       "Name": "Extraction Confusion",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "0012",
       "SetID": "2n2feee",
       "Name": "You Only Live Twice",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2468
     },
     {
       "ID": "0013",
       "SetID": "2n2feee",
       "Name": "Keycards Royale",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1646
     },
     {
       "ID": "0014",
       "SetID": "2n2feee",
       "Name": "Fully Decked Out",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2560
     },
     {
       "ID": "0015",
@@ -6491,7 +6496,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "0016",
@@ -6499,23 +6504,23 @@
       "Name": "Live and let lie",
       "Percentage": 4,
       "XP": 115,
-      "UsersEstimate": 350
+      "UsersEstimate": 366
     },
     {
       "ID": "0017",
       "SetID": "2n2feee",
       "Name": "Never Say Loser Again",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2976
+      "UsersEstimate": 3017
     },
     {
       "ID": "0018",
       "SetID": "2n2feee",
       "Name": "In It to Win It",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1554
     },
     {
       "ID": "0019",
@@ -6523,15 +6528,15 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "0020",
       "SetID": "2n2feee",
       "Name": "Dr. No Kill",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 115,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1737
     },
     {
       "ID": "0021",
@@ -6539,7 +6544,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 366
     },
     {
       "ID": "0022",
@@ -6547,7 +6552,7 @@
       "Name": "PHD in VIP",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 274
     },
     {
       "ID": "0023",
@@ -6555,23 +6560,23 @@
       "Name": "Safe Withdrawal",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 457
     },
     {
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3383
     },
     {
       "ID": "0025",
       "SetID": "2n2feee",
       "Name": "Tailor-Made",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2743
     },
     {
       "ID": "0026",
@@ -6579,47 +6584,47 @@
       "Name": "The Living Portrait",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1828
     },
     {
       "ID": "0027",
       "SetID": "2n2feee",
       "Name": "My Motto, My Creed",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1737
     },
     {
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3565
     },
     {
       "ID": "0029",
       "SetID": "2n2feee",
       "Name": "A view to Win",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2011
     },
     {
       "ID": "0030",
       "SetID": "2n2feee",
       "Name": "For your Eyes only",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2925
     },
     {
       "ID": "0031",
       "SetID": "2n2feee",
       "Name": "Private Collection",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1828
     },
     {
       "ID": "0032",
@@ -6627,31 +6632,31 @@
       "Name": "Killer Looks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1828
     },
     {
       "ID": "0033",
       "SetID": "2n2feee",
       "Name": "Hostile Takeover",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1828
     },
     {
       "ID": "0034",
       "SetID": "2n2feee",
       "Name": "Smells Like Trouble",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1828
     },
     {
       "ID": "0035",
       "SetID": "2n2feee",
       "Name": "Chairman of Deceive Inc.",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 91
     },
     {
       "ID": "0036",
@@ -6666,7 +6671,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 8753,
+      "Progressed": 9142,
       "Completed": 1
     }
   ],
@@ -6674,8 +6679,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:03:29.078345+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:45.7744796+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:00:47.4948884+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:03:29.0783943+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:55:03.1157661+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:45.7745322+00:00"
 }

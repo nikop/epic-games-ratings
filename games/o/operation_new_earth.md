@@ -15,8 +15,8 @@
 | On Target | 12.00% | ~79 |
 | Getting Deployment | 11.00% | ~73 |
 | Infantry Reporting | 11.00% | ~73 |
+| Fighting for Survival | 10.00% | ~66 |
 | Keeping Busy | 10.00% | ~66 |
-| Fighting for Survival | 9.00% | ~59 |
 | Silver Competitor | 8.00% | ~53 |
 | Captain | 8.00% | ~53 |
 | Factory Expansion | 8.00% | ~53 |

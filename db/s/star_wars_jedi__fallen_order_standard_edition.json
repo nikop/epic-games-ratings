@@ -5,9 +5,9 @@
   "Ranking_Rating": 214,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -186,6 +186,11 @@
     {
       "Time": "2023-07-28T00:01:49.1809629+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T01:56:03.863682+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -421,7 +426,7 @@
       "ID": "achievement_35",
       "SetID": "nk00bp",
       "Name": "Sabersmith",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -485,7 +490,7 @@
       "ID": "achievement_7",
       "SetID": "nk00bp",
       "Name": "The Mantis",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -510,7 +515,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:01:49.1809626+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:56:03.8636813+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.0996383+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:58:13.1532003+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:01:49.1810068+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:52:07.2842922+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:56:03.863712+00:00"
 }

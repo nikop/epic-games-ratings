@@ -5,8 +5,8 @@ Rating: 4.69 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sabersmith | 100.00% | ~2 |
-| The Mantis | 100.00% | ~2 |
+| Sabersmith | 67.00% | ~2 |
+| The Mantis | 67.00% | ~2 |
 | Kicking Back | 0.00% | ~0 |
 | Everything is Connected | 0.00% | ~0 |
 | The Holocron Awaits | 0.00% | ~0 |
@@ -45,13 +45,13 @@ Rating: 4.69 (Ranked 214)
 | A Long Time Ago | 0.00% | ~0 |
 | The Obstacle is the Way | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 453)  
+Progressed: 3 (Ranked 448)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-27 | 1 | 0 |
-| 2023-07-28 | 2 | 0 |
+| 2023-07-28 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

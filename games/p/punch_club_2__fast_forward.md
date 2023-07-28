@@ -33,16 +33,16 @@
 | Your own way | 52.00% | ~86 |
 | Employee of the year | 52.00% | ~86 |
 | Fight for life | 51.00% | ~84 |
-| Own four walls | 50.00% | ~82 |
+| Own four walls | 51.00% | ~84 |
 | Extreme neuropower! | 47.00% | ~78 |
 | Legal courier | 43.00% | ~71 |
 | Escaped from a big trouble | 40.00% | ~66 |
 | Now you are worthy | 39.00% | ~64 |
 | No blades in the gym | 38.00% | ~63 |
 | Guiding on the right path | 37.00% | ~61 |
-| Mysterious voice | 34.00% | ~56 |
-| Fight is life | 32.00% | ~53 |
-| Responsible approach | 32.00% | ~53 |
+| Mysterious voice | 35.00% | ~58 |
+| Fight is life | 33.00% | ~54 |
+| Responsible approach | 33.00% | ~54 |
 | Get out of my apartment! | 30.00% | ~50 |
 | Champion – no way back | 29.00% | ~48 |
 | Deal with life | 28.00% | ~46 |

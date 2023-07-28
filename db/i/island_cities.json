@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 18.64,
+  "EOS_Completed_Percentage": 18.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1988,6 +1988,11 @@
       "Time": "2023-07-27T18:03:41.9560972+00:00",
       "NumProgressed": 413,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-07-28T01:57:55.6160782+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -1999,7 +2004,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "LEVEL_002",
@@ -2007,7 +2012,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "LEVEL_003",
@@ -2023,7 +2028,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_005",
@@ -2031,7 +2036,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "LEVEL_006",
@@ -2047,7 +2052,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_008",
@@ -2055,15 +2060,15 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_010",
@@ -2087,31 +2092,31 @@
       "Name": "Calm neighborhood",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_016",
@@ -2151,7 +2156,7 @@
       "Name": "City of dreams",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_021",
@@ -2159,7 +2164,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_022",
@@ -2167,14 +2172,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 77
     }
   ],
@@ -2182,8 +2187,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:03:38.9334749+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:55.6160771+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:58:56.0310156+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:03:38.9335007+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:52:51.7501118+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:55.616101+00:00"
 }

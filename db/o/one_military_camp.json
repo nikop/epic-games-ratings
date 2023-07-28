@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -386,6 +386,11 @@
       "Time": "2023-07-28T00:04:31.4582643+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T01:58:28.6337267+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -444,9 +449,9 @@
       "ID": "ACHIEVEMENT_ID_14",
       "SetID": "c504de6",
       "Name": "Perfect Soldier",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -588,9 +593,9 @@
       "ID": "ACHIEVEMENT_ID_30",
       "SetID": "c504de6",
       "Name": "Indebted",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -668,9 +673,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -749,14 +754,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:04:31.4582639+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:58:28.6337261+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:59:45.6209384+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:04:31.4582952+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:53:47.7585668+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:58:28.633759+00:00"
 }

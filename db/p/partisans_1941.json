@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1790,6 +1790,11 @@
       "Time": "2023-07-27T19:03:30.4208329+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T01:58:06.3186505+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1833,7 +1838,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Commandos",
@@ -1881,7 +1886,7 @@
       "Name": "E1M1",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "Everyone_is_here",
@@ -1913,7 +1918,7 @@
       "Name": "Grenadier",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Hard_Serpent",
@@ -2017,7 +2022,7 @@
       "Name": "War Never Changes",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "We_were_not_here",
@@ -2040,15 +2045,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:04:09.7072668+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:58:06.3186498+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:00:13.614452+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:04:09.7072903+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:54:16.0961247+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:58:06.3186734+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32,6 +32,11 @@
       "Time": "2023-07-26T20:05:23.3784835+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T01:59:49.5096935+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -42,7 +47,7 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -283,14 +288,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:05:50.5048885+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:59:49.5096929+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.4640063+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:00:12.4229498+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:05:50.5049052+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:54:14.8743518+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:59:49.509712+00:00"
 }

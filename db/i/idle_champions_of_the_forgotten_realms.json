@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5276,24 +5276,30 @@
       "Rating": 4.05,
       "NumberOfAwards": 30753,
       "NumberOfAwardsMax": 5084
+    },
+    {
+      "Time": "2023-07-28T01:52:57.2061695+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30768,
+      "NumberOfAwardsMax": 5093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30753,
-  "NumberOfAwardsMax": 5084,
+  "NumberOfAwards": 30768,
+  "NumberOfAwardsMax": 5093,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5023
+      "Count": 5029
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5084
+      "Count": 5093
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5326,9 +5332,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216184,
+  "EOS_Progressed": 216208,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2293,
   "EOS_NewCompleters": 70,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15886,6 +15892,11 @@
       "Time": "2023-07-28T00:03:13.0507455+00:00",
       "NumProgressed": 216184,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-07-28T01:57:29.6540846+00:00",
+      "NumProgressed": 216208,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 512,
@@ -16599,9 +16610,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_1169",
@@ -17575,9 +17586,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 649
     },
     {
       "ID": "objective_completed_35",
@@ -19159,9 +19170,9 @@
       "ID": "objective_completed_807",
       "SetID": "415jc5c",
       "Name": "Civilization",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_808",
@@ -19992,21 +20003,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182458,
-      "Completed": 3020
+      "Progressed": 182482,
+      "Completed": 3021
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216184,
+      "Progressed": 216208,
       "Completed": 2129
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-27T19:59:22.6947105+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:03:13.050745+00:00",
+  "LastChanged": "2023-07-28T01:52:57.2061694+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:29.6540839+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:59:02.9080814+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:03:13.0530196+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:52:57.20617+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:29.6565477+00:00"
 }

@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
+| Brilliant | 0.40% | ~53 |
 | Keystone | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.40% | ~53 |
 | Zoroastrianism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
-| Brilliant | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
 | Great | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |

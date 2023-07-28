@@ -25,12 +25,12 @@
 | Crazy SOB, You Did It | 0.90% | ~1 |
 | Bee Squat | 0.90% | ~2 |
 | The Germophobes | 0.90% | ~2 |
-| Do-you-think-he-saurus | 0.50% | ~0 |
-| Cha Cha Real Smooth | 0.50% | ~0 |
-| That’s One Big Pile | 0.50% | ~0 |
+| Do-you-think-he-saurus | 0.40% | ~0 |
+| Cha Cha Real Smooth | 0.40% | ~0 |
+| That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 268)  
-Completed: 6 (2.70%) (Ranked 69)  
+Progressed: 223 (Ranked 268)  
+Completed: 6 (2.69%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 6 (2.70%) (Ranked 69)
 | 2023-07-23 | 215 | 6 |
 | 2023-07-24 | 220 | 6 |
 | 2023-07-26 | 222 | 6 |
+| 2023-07-28 | 223 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

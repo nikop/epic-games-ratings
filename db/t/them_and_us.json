@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -783,6 +783,11 @@
       "Time": "2023-07-28T00:02:21.8497699+00:00",
       "NumProgressed": 187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T01:57:06.5242241+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -810,7 +815,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -888,9 +893,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1082,7 +1087,7 @@
       "Name": "A Night To Remember",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ETUA_Trapped",
@@ -1104,16 +1109,16 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 1
     }
   ],
@@ -1121,8 +1126,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:02:21.8497696+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:06.5242234+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:57:49.045184+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:02:21.8497986+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:51:41.4201098+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:06.5242516+00:00"
 }

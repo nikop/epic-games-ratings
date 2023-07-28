@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226949,
+  "EOS_Progressed": 226955,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10443,6 +10443,11 @@
       "Time": "2023-07-28T00:05:34.8076672+00:00",
       "NumProgressed": 226949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T01:59:33.7661488+00:00",
+      "NumProgressed": 226955,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10518,7 +10523,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81702
+      "UsersEstimate": 81704
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -10590,7 +10595,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -10598,7 +10603,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77163
+      "UsersEstimate": 77165
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10614,7 +10619,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49929
+      "UsersEstimate": 49930
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -10622,7 +10627,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6808
+      "UsersEstimate": 6809
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -10662,7 +10667,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38581
+      "UsersEstimate": 38582
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -10670,14 +10675,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226949,
+      "Progressed": 226955,
       "Completed": 3
     }
   ],
@@ -10685,8 +10690,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:05:34.8076669+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:59:33.7661481+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:00:56.4614414+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:05:34.8077289+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:55:09.4730856+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:59:33.7662108+00:00"
 }

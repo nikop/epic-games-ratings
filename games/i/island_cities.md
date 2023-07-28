@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~405 |
-| A tiny town | 86.00% | ~355 |
+| Welcome! | 98.00% | ~406 |
+| A tiny town | 86.00% | ~356 |
 | Buildings, roads, cars, ...and people | 67.00% | ~277 |
-| Great view from the beach and from the hill | 57.00% | ~235 |
-| Bridges to come and go | 50.00% | ~206 |
+| Great view from the beach and from the hill | 57.00% | ~236 |
+| Bridges to come and go | 50.00% | ~207 |
 | Found an oasis | 44.00% | ~182 |
-| Burger or pizza? | 40.00% | ~165 |
-| Passion for sports | 34.00% | ~140 |
-| Who loves trains? | 31.00% | ~128 |
+| Burger or pizza? | 40.00% | ~166 |
+| Passion for sports | 34.00% | ~141 |
+| Who loves trains? | 30.00% | ~124 |
 | Easy and steady climb | 29.00% | ~120 |
 | At the heart of the city | 27.00% | ~112 |
-| Calm neighborhood | 26.00% | ~107 |
-| Elevated ring | 24.00% | ~99 |
-| Not lonely anymore | 23.00% | ~95 |
-| Monumental tribute | 23.00% | ~95 |
+| Calm neighborhood | 26.00% | ~108 |
+| Elevated ring | 25.00% | ~104 |
+| Not lonely anymore | 24.00% | ~99 |
+| Monumental tribute | 22.00% | ~91 |
 | The beach is right there | 21.00% | ~87 |
 | Commuting | 21.00% | ~87 |
 | Le jardin magnifique | 21.00% | ~87 |
 | Aiming for a living and human city | 20.00% | ~83 |
-| City of dreams | 19.00% | ~78 |
-| Happy Christmas night! | 18.00% | ~74 |
-| Night walk along the beach | 18.00% | ~74 |
+| City of dreams | 19.00% | ~79 |
+| Happy Christmas night! | 18.00% | ~75 |
+| Night walk along the beach | 18.00% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413 (Ranked 227)  
-Completed: 77 (18.64%) (Ranked 11)  
+Progressed: 414 (Ranked 227)  
+Completed: 77 (18.60%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 77 (18.64%) (Ranked 11)
 | 2023-07-25 | 411 | 76 |
 | 2023-07-26 | 412 | 77 |
 | 2023-07-27 | 413 | 77 |
+| 2023-07-28 | 414 | 77 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

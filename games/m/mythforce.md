@@ -6,18 +6,18 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Debuff Dogpile | 2.00% | ~7 |
-| Faceroll the Bones | 2.00% | ~7 |
-| First Strike | 2.00% | ~7 |
-| Flawless Victory | 2.00% | ~7 |
-| Hit 'Em Where It Hurts | 2.00% | ~7 |
-| Mushroom Madness! | 2.00% | ~7 |
-| Next Time on MythForce... | 2.00% | ~7 |
-| On this Episode! | 2.00% | ~7 |
-| Perk Shard Punch Card | 2.00% | ~7 |
-| Season Finale | 2.00% | ~7 |
-| Ten Steps from the Grave | 2.00% | ~7 |
-| That'll Leave a Mark | 2.00% | ~7 |
+| Debuff Dogpile | 2.00% | ~8 |
+| Faceroll the Bones | 2.00% | ~8 |
+| First Strike | 2.00% | ~8 |
+| Flawless Victory | 2.00% | ~8 |
+| Hit 'Em Where It Hurts | 2.00% | ~8 |
+| Mushroom Madness! | 2.00% | ~8 |
+| Next Time on MythForce... | 2.00% | ~8 |
+| On this Episode! | 2.00% | ~8 |
+| Perk Shard Punch Card | 2.00% | ~8 |
+| Season Finale | 2.00% | ~8 |
+| Ten Steps from the Grave | 2.00% | ~8 |
+| That'll Leave a Mark | 2.00% | ~8 |
 | Cold-Blooded Critters | 1.00% | ~4 |
 | Deadication | 1.00% | ~4 |
 | The Harder They Fall | 1.00% | ~4 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 235)  
+Progressed: 375 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,7 +43,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 297 | 0 |
 | 2023-07-26 | 333 | 0 |
 | 2023-07-27 | 372 | 0 |
-| 2023-07-28 | 373 | 0 |
+| 2023-07-28 | 375 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 449)  
 Sum: 226 (Ranked 352)  

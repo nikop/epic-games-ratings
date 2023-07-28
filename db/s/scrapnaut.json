@@ -137,7 +137,7 @@
   "Tags": [],
   "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -982,9 +982,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COOK",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:02:30.0571309+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:15.236157+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:59:26.0404361+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:02:30.0571529+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:53:25.1081807+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:15.2361785+00:00"
 }

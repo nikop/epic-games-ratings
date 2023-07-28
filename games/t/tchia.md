@@ -12,10 +12,10 @@ Rating: 4.77 (Ranked 109)
 | Globe Trotter | 11.00% | ~753 |
 | Ahem Ahem | 10.00% | ~684 |
 | Audiophile | 7.00% | ~479 |
-| Clay Pigeon | 6.00% | ~410 |
-| Historian | 6.00% | ~410 |
-| Iconoclast | 6.00% | ~410 |
-| Soul-Canon | 6.00% | ~410 |
+| Clay Pigeon | 6.00% | ~411 |
+| Historian | 6.00% | ~411 |
+| Iconoclast | 6.00% | ~411 |
+| Soul-Canon | 6.00% | ~411 |
 | Happy Camper | 5.00% | ~342 |
 | Liberator | 5.00% | ~342 |
 | Shredder | 5.00% | ~342 |
@@ -27,7 +27,7 @@ Rating: 4.77 (Ranked 109)
 | Ça de Wizz! | 1.00% | ~68 |
 | Thing | 1.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,841 (Ranked 132)  
+Progressed: 6,842 (Ranked 132)  
 Completed: 30 (0.44%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 30 (0.44%) (Ranked 137)
 | 2023-07-25 | 6,803 | 29 |
 | 2023-07-26 | 6,822 | 30 |
 | 2023-07-27 | 6,840 | 30 |
-| 2023-07-28 | 6,841 | 30 |
+| 2023-07-28 | 6,842 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

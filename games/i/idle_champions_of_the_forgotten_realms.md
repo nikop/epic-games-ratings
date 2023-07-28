@@ -14,11 +14,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,825 |
 | Rock and Roll | 0.90% | ~1,642 |
 | Vecna Lives! | 0.80% | ~1,460 |
+| Vecna Loots! | 0.70% | ~1,277 |
 | Flight of the Kindori Pod | 0.70% | ~1,277 |
 | Tall Tales | 0.60% | ~1,095 |
 | Wet Feet | 0.60% | ~1,297 |
 | Seeds of Destruction | 0.60% | ~1,095 |
-| Vecna Loots! | 0.60% | ~1,095 |
 | Return to the Tomb | 0.60% | ~1,095 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,095 |
 | Topolah's Tower | 0.60% | ~1,095 |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.30% | ~649 |
 | Tower on the Lake | 0.30% | ~649 |
 | The Cursed Farmer | 0.30% | ~649 |
+| The Ring of Regeneration | 0.30% | ~649 |
 | Seeking Allies | 0.30% | ~649 |
 | Exploring Port Nyanzaru | 0.30% | ~649 |
 | Running of the Saurs | 0.30% | ~649 |
@@ -139,7 +140,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~432 |
 | Trollskull Manor | 0.20% | ~432 |
 | Attack on the Manor | 0.20% | ~432 |
-| The Ring of Regeneration | 0.20% | ~432 |
 | The Crumbling Temple | 0.20% | ~432 |
 | The Death Curse | 0.20% | ~432 |
 | Treasure Hunters | 0.20% | ~432 |
@@ -171,6 +171,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~432 |
 | Rude Welcome | 0.20% | ~432 |
 | Moose Tracks | 0.20% | ~365 |
+| Civilization | 0.20% | ~365 |
 | Durable Deep | 0.20% | ~432 |
 | Expert Opinion | 0.20% | ~432 |
 | The Templar's Camp | 0.20% | ~432 |
@@ -439,7 +440,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.10% | ~182 |
 | CONtagious Cold | 0.10% | ~182 |
 | Ten in Ten-Towns | 0.10% | ~182 |
-| Civilization | 0.10% | ~182 |
 | Trench Coat Run | 0.10% | ~182 |
 | The Taunting Lord | 0.10% | ~182 |
 | Lone Wolf Party | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,184 (Ranked 53)  
+Progressed: 216,208 (Ranked 53)  
 Completed: 2,129 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,15 +618,15 @@ Completed: 2,129 (0.98%) (Ranked 108)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,184 | 2,129 |
+| 2023-07-28 | 216,208 | 2,129 |
 ## Awards
-Max (Diverse Characters): 5,084  (Ranked 66)  
-Sum: 30,753 (Ranked 38)  
+Max (Diverse Characters): 5,093  (Ranked 66)  
+Sum: 30,768 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,084 |
-| This game is Great for Beginners | 5,023 |
+| This game has Diverse Characters | 5,093 |
+| This game is Great for Beginners | 5,029 |
 | This game has Quickly Understood Controls | 4,685 |
 | This game is Relaxing | 4,578 |
 | This game has Amazing Characters | 4,036 |
@@ -818,3 +818,4 @@ Diff (max vs sum): 28
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
+| 2023-07-28 | 4.05 | - | 5,093 | 30,768 |

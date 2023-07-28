@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14184,
+  "EOS_Progressed": 14185,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
@@ -6959,6 +6959,11 @@
       "Time": "2023-07-28T00:02:25.1177491+00:00",
       "NumProgressed": 14184,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-28T01:57:09.5299828+00:00",
+      "NumProgressed": 14185,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7074,7 +7079,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "tpote_achievement_22",
@@ -7234,7 +7239,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "tpote_achievement_40",
@@ -7282,7 +7287,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "tpote_achievement_9",
@@ -7290,22 +7295,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4964
+      "UsersEstimate": 4965
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14184,
+      "Progressed": 14185,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-28T00:02:25.1177487+00:00",
+  "LastChanged_Achievements": "2023-07-28T01:57:09.5299824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-28T00:01:07.5398445+00:00",
-  "LastUpdate_Achievements": "2023-07-28T00:02:25.1178045+00:00"
+  "LastUpdate_Ratings": "2023-07-28T01:55:20.9498411+00:00",
+  "LastUpdate_Achievements": "2023-07-28T01:57:09.5300416+00:00"
 }
