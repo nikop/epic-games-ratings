@@ -2,9 +2,9 @@
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.5327185+00:00",
@@ -201,6 +201,11 @@
       "Time": "2023-07-28T12:07:04.254584+00:00",
       "NumProgressed": 83,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T16:08:00.321636+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 54,
@@ -220,7 +225,7 @@
       "Name": "ECG",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "L0_PERFECT",
@@ -234,7 +239,7 @@
       "ID": "L10_5_FINISH",
       "SetID": "6finf64",
       "Name": "Fuel",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -428,13 +433,13 @@
       "Name": "Daily Life",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -444,13 +449,13 @@
       "Name": "Rehearsal",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "L1_PERFECT",
       "SetID": "6finf64",
       "Name": "Symbiosis",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 27
     },
@@ -492,7 +497,7 @@
       "Name": "Assembly Line Work",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "L2_PERFECT",
@@ -508,7 +513,7 @@
       "Name": "Solitude",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "L3_PERFECT",
@@ -522,9 +527,9 @@
       "ID": "L4_FINISH",
       "SetID": "6finf64",
       "Name": "Pinewood, Here we come!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "L4_PERFECT",
@@ -538,15 +543,15 @@
       "ID": "L5_FINISH",
       "SetID": "6finf64",
       "Name": "The Van",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -586,7 +591,7 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -602,7 +607,7 @@
       "ID": "L8_FINISH",
       "SetID": "6finf64",
       "Name": "Love at First Sight",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -643,7 +648,7 @@
     {
       "ID": "6finf64",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 1
     }
   ],
@@ -651,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:06:19.5140519+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:08:00.3216355+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:50.2705081+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:58:38.6100638+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:06:19.514105+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:59:27.3158689+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:08:00.3216928+00:00"
 }

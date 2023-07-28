@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,491 |
+| A Brief Tour of the Realms | 3.00% | ~6,492 |
 | Beast Intentions | 2.00% | ~4,328 |
 | Maddening | 1.00% | ~2,164 |
 | The Silken Swamp | 1.00% | ~2,164 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.50% | ~913 |
 | Hatchlings Underfoot | 0.50% | ~1,082 |
 | Don't Look Up! | 0.50% | ~1,082 |
+| The Evacuation of Waterdeep | 0.50% | ~913 |
 | Heatwave | 0.50% | ~913 |
 | The Dread Domain of Tovag | 0.50% | ~913 |
 | Were-verpowered | 0.50% | ~1,082 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~913 |
 | Thieves of the Coven | 0.40% | ~731 |
 | Heavy Burden | 0.40% | ~866 |
-| The Evacuation of Waterdeep | 0.40% | ~731 |
 | Friends of the Forest | 0.40% | ~866 |
 | Beast Mode | 0.40% | ~866 |
 | Low Initiative | 0.40% | ~866 |
@@ -166,6 +166,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~433 |
 | Resolve Amongst Chaos | 0.20% | ~433 |
 | Market Fluctuations | 0.20% | ~433 |
+| Into The Fire | 0.20% | ~365 |
 | The Giant's Bane Tavern | 0.20% | ~365 |
 | The Everlasting Rime | 0.20% | ~365 |
 | Close Escort | 0.20% | ~433 |
@@ -393,7 +394,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~183 |
 | Ireena von Zarovich | 0.10% | ~183 |
 | Déjà Vu All Over Again | 0.10% | ~183 |
-| Into The Fire | 0.10% | ~183 |
 | A Difficult Descent | 0.10% | ~183 |
 | The Devil Arrives | 0.10% | ~183 |
 | Hearts Aflame | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,378 (Ranked 53)  
+Progressed: 216,393 (Ranked 53)  
 Completed: 2,132 (0.99%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,132 (0.99%) (Ranked 110)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,378 | 2,132 |
+| 2023-07-28 | 216,393 | 2,132 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  

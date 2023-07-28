@@ -7,21 +7,21 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~625 |
-| My little farm | 65.00% | ~501 |
-| Every beginning is difficult | 62.00% | ~478 |
+| My little farm | 65.00% | ~502 |
+| Every beginning is difficult | 62.00% | ~479 |
 | Gofer | 56.00% | ~432 |
-| 3, 2, 1, mine | 55.00% | ~424 |
-| Seafarer | 54.00% | ~416 |
+| 3, 2, 1, mine | 55.00% | ~425 |
+| Seafarer | 54.00% | ~417 |
 | O Captain! My Captain! | 53.00% | ~409 |
 | Greed for gold | 43.00% | ~332 |
-| Intangible | 41.00% | ~316 |
-| I'm out of here for a while | 41.00% | ~316 |
-| In a mint condition | 37.00% | ~285 |
+| Intangible | 41.00% | ~317 |
+| I'm out of here for a while | 41.00% | ~317 |
+| In a mint condition | 37.00% | ~286 |
 | Licence to Kill | 35.00% | ~270 |
 | Pirates! | 34.00% | ~262 |
 | Collectionitis | 28.00% | ~216 |
 | Megalomania | 28.00% | ~216 |
-| Christening | 26.00% | ~200 |
+| Christening | 26.00% | ~201 |
 | Groundskeeper | 25.00% | ~193 |
 | Wholesale | 22.00% | ~170 |
 | Walk the plank | 20.00% | ~154 |
@@ -39,10 +39,10 @@ Number of Ratings: 53  (23.09.2022)
 | Buccaneer | 5.00% | ~39 |
 | Flying Dutchman | 5.00% | ~39 |
 | The Grande Bouffe | 5.00% | ~39 |
-| Overpopulation | 4.00% | ~31 |
 | Premier Maître | 3.00% | ~23 |
 | Supreme conqueror | 3.00% | ~23 |
 | A true pirate! | 3.00% | ~23 |
+| Overpopulation | 3.00% | ~23 |
 | Strategist | 2.00% | ~15 |
 | The customer is always right | 2.00% | ~15 |
 | Master & Commander | 2.00% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 771 (Ranked 202)  
+Progressed: 772 (Ranked 202)  
 Completed: 1 (0.13%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.13%) (Ranked 185)
 | 2023-07-25 | 761 | 1 |
 | 2023-07-26 | 765 | 1 |
 | 2023-07-27 | 769 | 1 |
-| 2023-07-28 | 771 | 1 |
+| 2023-07-28 | 772 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

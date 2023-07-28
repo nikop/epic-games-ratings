@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,6 +488,11 @@
       "Time": "2023-07-28T05:03:45.7342893+00:00",
       "NumProgressed": 756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T16:04:35.506033+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -499,7 +504,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "11",
@@ -531,7 +536,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "15",
@@ -595,7 +600,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "22",
@@ -603,7 +608,7 @@
       "Name": "Getting the job done",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "23",
@@ -739,7 +744,7 @@
       "Name": "Cash Rules Everything Around Me",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "8",
@@ -762,7 +767,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 0
     }
   ],
@@ -770,8 +775,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:03:48.4749611+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:04:35.5060323+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:00.6913323+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:58:47.3893401+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:03:48.4749844+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:59:40.3807616+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:04:35.5060614+00:00"
 }

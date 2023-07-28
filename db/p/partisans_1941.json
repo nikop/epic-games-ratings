@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 184,
@@ -1861,9 +1861,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 264
     },
     {
       "ID": "Commandos",
@@ -2077,8 +2077,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:03:46.0771099+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:04:31.8439969+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:32.2092625+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:03:46.0771385+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:00:45.0941979+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:04:31.844032+00:00"
 }

@@ -19,6 +19,7 @@ Rating: 4.18 (Ranked 860)
 | Snow Problem | 3.00% | ~2,023 |
 | Get ReQ'd | 3.00% | ~2,023 |
 | Working Hard or Harley Working? | 3.00% | ~2,023 |
+| Universal Health Scare | 3.00% | ~2,023 |
 | Unstoppable Force | 3.00% | ~2,023 |
 | Lock and Key | 3.00% | ~2,023 |
 | Bad Apples in Every Orchard | 3.00% | ~2,023 |
@@ -31,7 +32,6 @@ Rating: 4.18 (Ranked 860)
 | Shock Til They Drop | 2.00% | ~1,349 |
 | Drone You Out | 2.00% | ~1,349 |
 | Cooldown | 2.00% | ~1,349 |
-| Universal Health Scare | 2.00% | ~1,349 |
 | Voiceless | 2.00% | ~1,349 |
 | Seeking Asylum | 2.00% | ~1,349 |
 | Gotham Knight | 2.00% | ~1,349 |

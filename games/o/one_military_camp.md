@@ -9,9 +9,9 @@
 | Indebted | 9.00% | ~9 |
 | Capitalism | 9.00% | ~9 |
 | Desert Rat | 6.00% | ~6 |
+| Green Energy | 6.00% | ~6 |
 | Health Care | 5.00% | ~5 |
 | Good payer | 5.00% | ~5 |
-| Green Energy | 5.00% | ~5 |
 | Jantine: the Misfortunes of Evil | 4.00% | ~4 |
 | There's something in those trees | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |

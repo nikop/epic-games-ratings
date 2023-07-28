@@ -32,13 +32,13 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 4.00% | ~169 |
 | An honorable Governor II | 4.00% | ~169 |
 | Tax-man III | 4.00% | ~169 |
+| Tax-man IV | 4.00% | ~169 |
 | Conflicting parties | 4.00% | ~169 |
 | Another one bites the dust | 3.00% | ~126 |
 | I like to build stuff... IV | 3.00% | ~126 |
 | Experienced decorator | 3.00% | ~126 |
 | My precious... I | 3.00% | ~126 |
 | Full-time job III | 3.00% | ~126 |
-| Tax-man IV | 3.00% | ~126 |
 | A time consuming game III | 3.00% | ~126 |
 | Tools of the trade II | 3.00% | ~126 |
 | The Art of War | 2.00% | ~84 |

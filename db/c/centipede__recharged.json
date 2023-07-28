@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15810,
+  "EOS_Progressed": 15811,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7912,6 +7912,11 @@
       "Time": "2023-07-28T15:04:44.3627252+00:00",
       "NumProgressed": 15810,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-28T16:05:41.0063322+00:00",
+      "NumProgressed": 15811,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -7971,7 +7976,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5218
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -7995,7 +8000,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6640
+      "UsersEstimate": 6641
     },
     {
       "ID": "Mirrors",
@@ -8019,7 +8024,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8063
+      "UsersEstimate": 8064
     },
     {
       "ID": "Sole_Survivor",
@@ -8050,15 +8055,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15810,
+      "Progressed": 15811,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:04:44.3627247+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:05:41.0063316+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:41.8297422+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:21.9541019+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:04:44.3627849+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:00:31.8548876+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:05:41.0063874+00:00"
 }

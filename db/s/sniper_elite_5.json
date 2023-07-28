@@ -5901,9 +5901,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -6020,8 +6020,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:04:33.1212965+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:05:24.5254084+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:57:15.7383388+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:04:33.1213983+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:57:32.6813638+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:05:24.5255142+00:00"
 }

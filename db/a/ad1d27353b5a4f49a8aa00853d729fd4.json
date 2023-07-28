@@ -258,9 +258,9 @@
       "ID": "super_gun",
       "SetID": "94981fl",
       "Name": "super gun",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "super_killing_machine",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:03:27.8439974+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:04:04.5730245+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.6177192+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:57:07.840235+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:03:27.844017+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:57:22.8452772+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:04:04.573046+00:00"
 }

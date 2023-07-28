@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4701,
+  "EOS_Progressed": 4702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7191,6 +7191,11 @@
       "Time": "2023-07-28T15:06:39.4498257+00:00",
       "NumProgressed": 4701,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T16:08:29.4629246+00:00",
+      "NumProgressed": 4702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7202,7 +7207,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "10",
@@ -7258,7 +7263,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "3",
@@ -7321,7 +7326,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4701,
+      "Progressed": 4702,
       "Completed": 0
     }
   ],
@@ -7329,8 +7334,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:06:39.4498251+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:08:29.462924+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:58:29.4671064+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:06:39.4498815+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:59:15.6668109+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:08:29.462982+00:00"
 }

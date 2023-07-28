@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 11.17,
+  "EOS_Completed_Percentage": 11.15,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1866,6 +1866,11 @@
       "Time": "2023-07-28T12:06:55.2473376+00:00",
       "NumProgressed": 591,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-28T16:07:48.733657+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 30,
@@ -1877,7 +1882,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "LEVEL_002",
@@ -1885,7 +1890,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "LEVEL_003",
@@ -1917,7 +1922,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_007",
@@ -1941,7 +1946,7 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_010",
@@ -1955,9 +1960,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 142
     },
     {
       "ID": "LEVEL_012",
@@ -1997,7 +2002,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_017",
@@ -2005,7 +2010,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_018",
@@ -2116,14 +2121,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:06:11.8700272+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:07:48.7336561+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:57:39.8663992+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:06:11.8700636+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:58:03.0754648+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:07:48.733693+00:00"
 }

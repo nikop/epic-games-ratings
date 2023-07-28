@@ -1572,9 +1572,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24507,
+  "EOS_Progressed": 24508,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8812,6 +8812,11 @@
       "Time": "2023-07-28T15:04:23.0695195+00:00",
       "NumProgressed": 24507,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-28T16:05:09.6221626+00:00",
+      "NumProgressed": 24508,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8823,7 +8828,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17890
+      "UsersEstimate": 17891
     },
     {
       "ID": "Animated",
@@ -8839,7 +8844,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8577
+      "UsersEstimate": 8578
     },
     {
       "ID": "Best_Insurance",
@@ -8895,7 +8900,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8332
+      "UsersEstimate": 8333
     },
     {
       "ID": "Diabolical",
@@ -8911,7 +8916,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14949
+      "UsersEstimate": 14950
     },
     {
       "ID": "Dont_Need_These",
@@ -8935,7 +8940,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "Escape_Artist",
@@ -9021,9 +9026,9 @@
       "ID": "Master_Collector",
       "SetID": "819popo",
       "Name": "Master Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1470
     },
     {
       "ID": "Mycophile",
@@ -9055,7 +9060,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4656
+      "UsersEstimate": 4657
     },
     {
       "ID": "Rift_Seeker",
@@ -9063,7 +9068,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "Right_Back",
@@ -9111,7 +9116,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "Stunner",
@@ -9127,7 +9132,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "Summoner",
@@ -9159,7 +9164,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10783
+      "UsersEstimate": 10784
     },
     {
       "ID": "Terrifying",
@@ -9175,7 +9180,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "There_You_Are",
@@ -9207,7 +9212,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11764
     },
     {
       "ID": "Welcome_Crew",
@@ -9215,7 +9220,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "Whoopsie",
@@ -9230,7 +9235,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24507,
+      "Progressed": 24508,
       "Completed": 48
     }
   ],
@@ -9238,8 +9243,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-27T21:01:11.6133835+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:04:23.0695186+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:05:09.6221619+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:27.2045026+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:04:23.0695965+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:00:37.086576+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:05:09.622255+00:00"
 }

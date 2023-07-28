@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 7,
   "EOS_Completed": 0,
@@ -309,9 +311,9 @@
       "ID": "ACHIEVEMENT_Prodamon_victory",
       "SetID": "70j9o42",
       "Name": "Gotta Capture All Of \u0027Em",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Qpernikiss_Ending",
@@ -386,9 +388,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:04:02.179196+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:04:40.6645302+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:57:28.6795383+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:04:02.1792271+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:57:49.6060073+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:04:40.6645612+00:00"
 }

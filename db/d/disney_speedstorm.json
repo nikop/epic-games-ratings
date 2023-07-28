@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3027,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
@@ -3860,6 +3860,11 @@
       "Time": "2023-07-28T13:12:16.427543+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-07-28T16:07:41.0932114+00:00",
+      "NumProgressed": 3027,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 24,
@@ -3877,9 +3882,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1241
     },
     {
       "ID": "11",
@@ -3927,7 +3932,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "17",
@@ -3951,7 +3956,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "2",
@@ -4007,7 +4012,7 @@
       "Name": "FRIENDLY",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "4",
@@ -4055,20 +4060,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 119
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:06:06.8113309+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:07:41.0932108+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:38.1859363+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:20.3262298+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:06:06.8113723+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:00:29.1943349+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:07:41.0932544+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 1504,
+  "EOS_Progressed": 1505,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1656,6 +1656,11 @@
       "Time": "2023-07-28T13:09:29.8523066+00:00",
       "NumProgressed": 1504,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-28T16:03:34.700574+00:00",
+      "NumProgressed": 1505,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1667,7 +1672,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1675,7 +1680,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1731,7 +1736,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1763,7 +1768,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1787,7 +1792,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1817,9 +1822,9 @@
       "ID": "ACHIEVEMENTS_20",
       "SetID": "d4o538a",
       "Name": "Decorative Mind",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 481
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -1843,7 +1848,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -1939,7 +1944,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -1970,7 +1975,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1504,
+      "Progressed": 1505,
       "Completed": 9
     }
   ],
@@ -1978,8 +1983,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:03:13.7118381+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:03:34.7005733+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:19.1306918+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:00:40.5281298+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:03:13.7118779+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:02:29.1083839+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:03:34.7006138+00:00"
 }

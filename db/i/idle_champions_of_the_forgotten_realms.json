@@ -5338,9 +5338,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216378,
+  "EOS_Progressed": 216393,
   "EOS_Completed": 2132,
-  "EOS_NewPlayers": 2270,
+  "EOS_NewPlayers": 2269,
   "EOS_NewCompleters": 73,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -15968,6 +15968,11 @@
       "Time": "2023-07-28T15:03:22.785084+00:00",
       "NumProgressed": 216378,
       "NumCompleted": 2132
+    },
+    {
+      "Time": "2023-07-28T16:03:47.8070532+00:00",
+      "NumProgressed": 216393,
+      "NumCompleted": 2132
     }
   ],
   "TotalAchievements": 512,
@@ -15979,7 +15984,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "objective_completed_10",
@@ -16625,9 +16630,9 @@
       "ID": "objective_completed_1158",
       "SetID": "415jc5c",
       "Name": "The Evacuation of Waterdeep",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 913
     },
     {
       "ID": "objective_completed_1159",
@@ -18745,9 +18750,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_completed_631",
@@ -20074,21 +20079,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182652,
+      "Progressed": 182667,
       "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216378,
+      "Progressed": 216393,
       "Completed": 2132
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:03:22.7850832+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:03:47.8070526+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:58:36.2903237+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:03:22.7877955+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:59:24.7951627+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:03:47.8098298+00:00"
 }

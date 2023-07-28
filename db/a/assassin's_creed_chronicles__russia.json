@@ -2,7 +2,7 @@
   "ID": "3422379633b9432c892e10c11ff9f25d",
   "Name": "Assassin\u0027s Creed Chronicles: Russia",
   "ProductSlug": "assassins-creed-chronicles-russia",
-  "Ranking_Rating": 392,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 519,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.1126444+00:00",
@@ -28,6 +28,12 @@
     {
       "Time": "2023-07-04T20:00:23.9401202+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-28T16:01:05.9261748+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -48,8 +54,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-29T19:02:15.4544963+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.1126442+00:00",
-  "LastChanged": "2023-07-04T20:00:23.94012+00:00",
+  "LastChanged": "2023-07-28T16:01:05.9261746+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:24.789667+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:44.9626252+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:06:20.189205+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:01:05.9261751+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:08:01.0165585+00:00"
 }

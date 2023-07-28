@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 133.00% | ~8 |
 | Law and Order | 67.00% | ~4 |
+| Hammer Time | 50.00% | ~3 |
 | Licence To Kill | 50.00% | ~3 |
-| Hammer Time | 33.00% | ~2 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |

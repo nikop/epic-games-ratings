@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3060,
+  "EOS_Progressed": 3061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2636,6 +2636,11 @@
       "Time": "2023-07-28T11:04:55.9574938+00:00",
       "NumProgressed": 3060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T16:05:03.3235516+00:00",
+      "NumProgressed": 3061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2733,9 +2738,9 @@
       "ID": "ExperiencedKnight",
       "SetID": "3jha1np",
       "Name": "Honoured Battle-Brother",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2853,9 +2858,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "Kills_Interactable",
@@ -2909,9 +2914,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3085,9 +3090,9 @@
       "ID": "SacristaCompleted",
       "SetID": "3jha1np",
       "Name": "Long Distance Call",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "SkilledKnight",
@@ -3190,21 +3195,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3060,
+      "Progressed": 3061,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3060,
+      "Progressed": 3061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-28T15:04:18.3357075+00:00",
+  "LastChanged_Achievements": "2023-07-28T16:05:03.323551+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:59:07.9961897+00:00",
-  "LastUpdate_Achievements": "2023-07-28T15:04:18.3358064+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:00:11.7991982+00:00",
+  "LastUpdate_Achievements": "2023-07-28T16:05:03.3236393+00:00"
 }
