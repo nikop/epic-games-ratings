@@ -18,13 +18,13 @@ Rating: 4.65 (Ranked 301)
 | Lock, Stock, And Barrel | 47.00% | ~265 |
 | Sticky Fingers | 47.00% | ~265 |
 | Knives Out | 47.00% | ~265 |
+| Land, Ho! | 47.00% | ~265 |
 | Back In The Saddle | 46.00% | ~259 |
-| Land, Ho! | 46.00% | ~259 |
 | No Man Is An Island | 45.00% | ~254 |
 | At Wits' End | 45.00% | ~254 |
 | Fhtagn! | 43.00% | ~243 |
+| Bookworm | 42.00% | ~237 |
 | Up In Flames | 42.00% | ~237 |
-| Bookworm | 41.00% | ~231 |
 | Going Once... | 39.00% | ~220 |
 | Let Me Be Frank | 38.00% | ~214 |
 | Brain Food | 36.00% | ~203 |

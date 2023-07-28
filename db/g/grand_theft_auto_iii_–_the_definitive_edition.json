@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7230,
+  "EOS_Progressed": 7231,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6354,6 +6354,11 @@
       "Time": "2023-07-28T22:05:55.3395932+00:00",
       "NumProgressed": 7230,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-28T23:05:10.9102411+00:00",
+      "NumProgressed": 7231,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6365,7 +6370,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6001
+      "UsersEstimate": 6002
     },
     {
       "ID": "ACH02",
@@ -6405,7 +6410,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACH07",
@@ -6437,7 +6442,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH11",
@@ -6596,7 +6601,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7230,
+      "Progressed": 7231,
       "Completed": 41
     }
   ],
@@ -6604,8 +6609,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:05:55.3395924+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:05:10.9102406+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-28T21:58:48.7059419+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:05:55.3396347+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:58:20.3418592+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:05:10.9103026+00:00"
 }

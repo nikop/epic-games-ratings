@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "success_bash",
@@ -603,8 +603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:03:21.4632992+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:02:21.3120012+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:14.9243148+00:00",
-  "LastUpdate_Ratings": "2023-07-28T21:58:12.7199383+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:03:21.4633112+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:57:52.9445422+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:02:21.3120179+00:00"
 }

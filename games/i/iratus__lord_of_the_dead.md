@@ -6,18 +6,18 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~30,604 |
+| Improvement | 85.00% | ~30,605 |
 | Blood Moon | 73.00% | ~26,284 |
-| Path of the Necromancer | 66.00% | ~23,763 |
-| Chainbreaker - I | 60.00% | ~21,603 |
+| Path of the Necromancer | 66.00% | ~23,764 |
+| Chainbreaker - I | 60.00% | ~21,604 |
 | Cursed Creature | 57.00% | ~20,523 |
 | Extraction | 57.00% | ~20,523 |
 | Chainbreaker - II | 55.00% | ~19,803 |
 | Necromancer's Apprentice | 51.00% | ~18,363 |
-| Keeper of Keys | 47.00% | ~16,922 |
-| Distillation | 43.00% | ~15,482 |
-| Mountain King - I | 42.00% | ~15,122 |
-| Transmutation | 42.00% | ~15,122 |
+| Keeper of Keys | 47.00% | ~16,923 |
+| Distillation | 43.00% | ~15,483 |
+| Mountain King - I | 42.00% | ~15,123 |
+| Transmutation | 42.00% | ~15,123 |
 | Prepared Necromancer | 41.00% | ~14,762 |
 | Mountain King - II | 39.00% | ~14,042 |
 | Blind Rage | 38.00% | ~13,682 |
@@ -27,11 +27,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | Bane of Mercenaries - I | 33.00% | ~11,882 |
 | Bane of Mercenaries - II | 31.00% | ~11,162 |
 | Shadow Between Worlds | 30.00% | ~10,802 |
-| Cannon Fodder - II | 29.00% | ~10,441 |
-| Bane of Monsters | 28.00% | ~10,081 |
-| Chainbreaker - III | 28.00% | ~10,081 |
-| Revealed Secrets - I | 27.00% | ~9,721 |
-| Revealed Secrets - II | 26.00% | ~9,361 |
+| Cannon Fodder - II | 29.00% | ~10,442 |
+| Bane of Monsters | 28.00% | ~10,082 |
+| Chainbreaker - III | 28.00% | ~10,082 |
+| Revealed Secrets - I | 27.00% | ~9,722 |
+| Revealed Secrets - II | 26.00% | ~9,362 |
 | Unholy Bones | 24.00% | ~8,641 |
 | Blood Elemental | 24.00% | ~8,641 |
 | Lord of Fire | 23.00% | ~8,281 |
@@ -54,12 +54,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | First Sacrifice | 13.00% | ~4,681 |
 | Master of Alchemy | 13.00% | ~4,681 |
 | Legendary Warrior | 12.00% | ~4,321 |
-| Bane of Mercenaries - III | 10.00% | ~3,600 |
-| Monument to Greatness | 10.00% | ~3,600 |
-| Ancient Burial | 10.00% | ~3,600 |
-| More Mortal Suffering! | 9.00% | ~3,240 |
-| Forbidden Knowledge | 9.00% | ~3,240 |
-| Live Operation | 9.00% | ~3,240 |
+| Bane of Mercenaries - III | 10.00% | ~3,601 |
+| Monument to Greatness | 10.00% | ~3,601 |
+| Ancient Burial | 10.00% | ~3,601 |
+| More Mortal Suffering! | 9.00% | ~3,241 |
+| Forbidden Knowledge | 9.00% | ~3,241 |
+| Live Operation | 9.00% | ~3,241 |
 | Master of Rage | 8.00% | ~2,880 |
 | Icy Incursion | 8.00% | ~2,880 |
 | Arachnophobia | 8.00% | ~2,880 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~216 |
 | Renowned Researcher | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,005 (Ranked 94)  
+Progressed: 36,006 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 23 (0.06%) (Ranked 205)
 | 2023-07-25 | 35,752 | 23 |
 | 2023-07-26 | 35,831 | 23 |
 | 2023-07-27 | 35,909 | 23 |
-| 2023-07-28 | 36,005 | 23 |
+| 2023-07-28 | 36,006 | 23 |
 ## Awards
 Max (Character Customization): 2,146  (Ranked 108)  
 Sum: 4,159 (Ranked 137)  

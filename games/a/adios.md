@@ -1,23 +1,23 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.43 (Ranked 957)  
+Rating: 3.48 (Ranked 957)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,942 |
-| Hard Worker | 20.00% | ~13,584 |
-| Master, Commander | 20.00% | ~13,584 |
-| Mechanic | 19.00% | ~12,904 |
-| Adios, Friendo | 18.00% | ~12,225 |
-| Bottom's Up | 18.00% | ~12,225 |
-| Nice Try | 16.00% | ~10,867 |
-| Right On Target | 13.00% | ~8,829 |
+| Be Seeing You | 22.00% | ~14,943 |
+| Hard Worker | 20.00% | ~13,585 |
+| Master, Commander | 20.00% | ~13,585 |
+| Mechanic | 19.00% | ~12,906 |
+| Adios, Friendo | 18.00% | ~12,226 |
+| Bottom's Up | 18.00% | ~12,226 |
+| Nice Try | 16.00% | ~10,868 |
+| Right On Target | 13.00% | ~8,830 |
 | Piano Man | 10.00% | ~6,792 |
 | Lazy Bones | 9.00% | ~6,113 |
-| Vinyl Vibes | 8.00% | ~5,433 |
-| Nothing Left to Say | 7.00% | ~4,754 |
-| Sniper | 7.00% | ~4,754 |
+| Vinyl Vibes | 8.00% | ~5,434 |
+| Nothing Left to Say | 7.00% | ~4,755 |
+| Sniper | 7.00% | ~4,755 |
 | Cut Call | 5.00% | ~3,396 |
 | Butcher | 4.00% | ~2,717 |
 | Magnetic Miracles | 4.00% | ~2,717 |
@@ -31,7 +31,7 @@ Rating: 3.43 (Ranked 957)
 | Audiophile | 2.00% | ~1,358 |
 | Tape Head | 2.00% | ~1,358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,918 (Ranked 78)  
+Progressed: 67,924 (Ranked 78)  
 Completed: 672 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 672 (0.99%) (Ranked 111)
 | 2023-07-25 | 67,548 | 660 |
 | 2023-07-26 | 67,674 | 666 |
 | 2023-07-27 | 67,799 | 671 |
-| 2023-07-28 | 67,918 | 672 |
+| 2023-07-28 | 67,924 | 672 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -144,3 +144,4 @@ Completed: 672 (0.99%) (Ranked 111)
 | 2023-06-28 | 3.42 | 0 | 0 |
 | 2023-07-12 | 3.41 | 0 | 0 |
 | 2023-07-20 | 3.43 | 0 | 0 |
+| 2023-07-28 | 3.48 | 0 | 0 |

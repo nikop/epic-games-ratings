@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463989,
+  "EOS_Progressed": 463997,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10777,6 +10777,11 @@
       "Time": "2023-07-28T22:04:22.4098462+00:00",
       "NumProgressed": 463989,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-28T23:03:46.489999+00:00",
+      "NumProgressed": 463997,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10794,9 +10799,9 @@
       "ID": "achievement_expedition_overcome_sandworm",
       "SetID": "8cokdon",
       "Name": "May His passing cleanse the world",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_first_death",
@@ -11419,21 +11424,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7923,
+      "Progressed": 7931,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463989,
+      "Progressed": 463997,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:04:22.4098458+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:03:46.4899987+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:17.1083675+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:00:38.8002465+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:04:22.4099607+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:59:41.4309692+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:03:46.4901336+00:00"
 }

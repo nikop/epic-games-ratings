@@ -6,44 +6,44 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~21,181 |
-| Landlord | 31.00% | ~17,746 |
-| Bannerlord | 22.00% | ~12,594 |
-| Horde breaker | 22.00% | ~12,594 |
-| Lawmaker | 22.00% | ~12,594 |
-| Trained | 22.00% | ~12,594 |
-| The king is pleased | 17.00% | ~9,732 |
-| King Solomon | 16.00% | ~9,159 |
-| I can do it | 15.00% | ~8,587 |
-| Apple of my eye | 14.00% | ~8,014 |
-| God of the Arena | 12.00% | ~6,869 |
-| Against all odds | 11.00% | ~6,297 |
-| Swordbearer | 10.00% | ~5,724 |
-| Duelist | 9.00% | ~5,152 |
-| Dynasty | 9.00% | ~5,152 |
-| I spit on your grave | 9.00% | ~5,152 |
-| This Is Our Land | 9.00% | ~5,152 |
-| What have the Romans ever done for us? | 9.00% | ~5,152 |
+| Lawbringer | 37.00% | ~21,183 |
+| Landlord | 31.00% | ~17,748 |
+| Bannerlord | 22.00% | ~12,595 |
+| Horde breaker | 22.00% | ~12,595 |
+| Lawmaker | 22.00% | ~12,595 |
+| Trained | 22.00% | ~12,595 |
+| The king is pleased | 17.00% | ~9,733 |
+| King Solomon | 16.00% | ~9,160 |
+| I can do it | 15.00% | ~8,588 |
+| Apple of my eye | 14.00% | ~8,015 |
+| God of the Arena | 12.00% | ~6,870 |
+| Against all odds | 11.00% | ~6,298 |
+| Swordbearer | 10.00% | ~5,725 |
+| Duelist | 9.00% | ~5,153 |
+| Dynasty | 9.00% | ~5,153 |
+| I spit on your grave | 9.00% | ~5,153 |
+| This Is Our Land | 9.00% | ~5,153 |
+| What have the Romans ever done for us? | 9.00% | ~5,153 |
 | Butterlord | 8.00% | ~4,580 |
-| Mastery | 7.00% | ~4,007 |
+| Mastery | 7.00% | ~4,008 |
 | Know your enemy | 6.00% | ~3,435 |
-| My way | 5.00% | ~2,862 |
+| My way | 5.00% | ~2,863 |
 | Crowdfunded | 4.00% | ~2,290 |
 | Crush your enemies | 4.00% | ~2,290 |
 | Veni vidi vici | 4.00% | ~2,290 |
-| Freedom! | 3.00% | ~1,717 |
-| Real Estate | 3.00% | ~1,717 |
+| Freedom! | 3.00% | ~1,718 |
+| Real Estate | 3.00% | ~1,718 |
 | Long live the Empire! | 2.00% | ~1,145 |
-| Entrepreneur | 1.00% | ~572 |
-| Supreme Emperor | 1.00% | ~572 |
+| Entrepreneur | 1.00% | ~573 |
+| Supreme Emperor | 1.00% | ~573 |
 | Crackshot | 0.80% | ~458 |
 | Undercover | 0.80% | ~458 |
 | Fat Cat | 0.70% | ~401 |
-| Catch | 0.60% | ~343 |
+| Catch | 0.60% | ~344 |
 | Slice 'n dice | 0.40% | ~229 |
 | Mounted Archery | 0.30% | ~172 |
 | Ride it like you stole it | 0.30% | ~172 |
-| Strike! | 0.20% | ~114 |
+| Strike! | 0.20% | ~115 |
 | Best served cold | 0.10% | ~57 |
 | Butcher of Calradia | 0.10% | ~57 |
 | Explorer | 0.10% | ~57 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,245 (Ranked 86)  
+Progressed: 57,251 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 56,901 | 0 |
 | 2023-07-26 | 57,020 | 0 |
 | 2023-07-27 | 57,125 | 0 |
-| 2023-07-28 | 57,245 | 0 |
+| 2023-07-28 | 57,251 | 0 |
 ## Awards
 Max (Character Customization): 6,864  (Ranked 48)  
 Sum: 13,906 (Ranked 67)  

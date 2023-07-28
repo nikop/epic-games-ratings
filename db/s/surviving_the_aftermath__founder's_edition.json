@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1149,7 +1149,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7787,
+  "EOS_Progressed": 7788,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -9219,6 +9219,11 @@
       "Time": "2023-07-28T22:06:24.2543194+00:00",
       "NumProgressed": 7787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T23:05:33.6944268+00:00",
+      "NumProgressed": 7788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9230,7 +9235,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4673
     },
     {
       "ID": "10",
@@ -9262,7 +9267,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "14",
@@ -9278,7 +9283,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "16",
@@ -9310,7 +9315,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "2",
@@ -9318,7 +9323,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "20",
@@ -9366,7 +9371,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "26",
@@ -9462,7 +9467,7 @@
       "Name": "Luxurious Living",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "37",
@@ -9478,7 +9483,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "39",
@@ -9494,7 +9499,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "40",
@@ -9701,15 +9706,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7787,
+      "Progressed": 7788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-28T17:01:39.5992751+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:06:24.254319+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:05:33.6944262+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.9986171+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:01:26.1590129+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:06:24.2544004+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:00:15.279856+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:05:33.6945359+00:00"
 }

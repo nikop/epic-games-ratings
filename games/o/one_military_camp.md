@@ -16,16 +16,17 @@
 | Ammo Tycoon | 5.00% | ~5 |
 | Great Producer | 5.00% | ~5 |
 | Jantine: the Misfortunes of Evil | 4.00% | ~4 |
+| Desert Power | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |
 | Medicine Tycoon | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
-| Desert Power | 3.00% | ~3 |
 | Property Bro | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
+| Tear Down the Wall! | 1.00% | ~1 |
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Overpopulation | 1.00% | ~1 |
@@ -33,7 +34,6 @@
 | Fuel Tycoon | 1.00% | ~1 |
 | Winter Soldier | 1.00% | ~1 |
 | Researcher | 1.00% | ~1 |
-| Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |

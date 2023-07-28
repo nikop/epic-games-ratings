@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1223,7 +1223,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124548,
+  "EOS_Progressed": 124552,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 0,
@@ -10858,6 +10858,11 @@
       "Time": "2023-07-28T22:02:43.1610303+00:00",
       "NumProgressed": 124548,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-28T23:02:04.1614298+00:00",
+      "NumProgressed": 124552,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10893,7 +10898,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "ACH_COP_ART",
@@ -10941,7 +10946,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -10949,7 +10954,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34873
+      "UsersEstimate": 34875
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -10997,7 +11002,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16191
+      "UsersEstimate": 16192
     },
     {
       "ID": "ACH_COP_STAR",
@@ -11005,7 +11010,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18682
+      "UsersEstimate": 18683
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -11013,7 +11018,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13700
+      "UsersEstimate": 13701
     },
     {
       "ID": "ACH_CUNO",
@@ -11029,7 +11034,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11209
+      "UsersEstimate": 11210
     },
     {
       "ID": "ACH_GLUTEN",
@@ -11077,7 +11082,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH_KIM",
@@ -11093,7 +11098,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -11149,7 +11154,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16191
+      "UsersEstimate": 16192
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -11188,15 +11193,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124548,
+      "Progressed": 124552,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-27T11:59:35.583484+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:02:43.16103+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:02:04.1614291+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:00:30.7818252+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:02:43.1610964+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:59:34.380999+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:02:04.1615236+00:00"
 }

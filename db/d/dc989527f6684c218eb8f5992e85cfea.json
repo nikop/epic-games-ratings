@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8370,
+  "EOS_Progressed": 8371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4616,6 +4616,11 @@
       "Time": "2023-07-28T22:03:40.0021518+00:00",
       "NumProgressed": 8370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T23:03:15.3918026+00:00",
+      "NumProgressed": 8371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4627,7 +4632,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -4651,7 +4656,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -4699,7 +4704,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -4826,14 +4831,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 8370,
+      "Progressed": 8371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-28T22:03:40.002151+00:00",
+  "LastChanged_Achievements": "2023-07-28T23:03:15.3918022+00:00",
   "LastUpdate_AppInfo": "2023-07-28T18:57:21.3840967+00:00",
-  "LastUpdate_Ratings": "2023-07-28T21:57:20.7097976+00:00",
-  "LastUpdate_Achievements": "2023-07-28T22:03:40.0021872+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:57:14.4211577+00:00",
+  "LastUpdate_Achievements": "2023-07-28T23:03:15.3918498+00:00"
 }

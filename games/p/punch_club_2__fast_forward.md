@@ -15,8 +15,8 @@
 | Depressed visitor | 76.00% | ~129 |
 | Neurotrainer – power gainer! | 76.00% | ~129 |
 | Employee of the week | 76.00% | ~129 |
-| Your own amateur gym | 74.00% | ~126 |
-| Run K, run! | 70.00% | ~119 |
+| Your own amateur gym | 75.00% | ~128 |
+| Run K, run! | 71.00% | ~121 |
 | Hello, world! | 67.00% | ~114 |
 | Fighting is cool | 66.00% | ~112 |
 | No bullying more | 66.00% | ~112 |
@@ -29,23 +29,23 @@
 | Little hacker | 54.00% | ~92 |
 | Champion – starter pack | 54.00% | ~92 |
 | Employee of the year | 54.00% | ~92 |
+| It's good to be alive | 53.00% | ~90 |
 | Handyman | 52.00% | ~88 |
-| It's good to be alive | 52.00% | ~88 |
 | Own four walls | 52.00% | ~88 |
 | Fight for life | 51.00% | ~87 |
 | Your own way | 51.00% | ~87 |
+| Legal courier | 48.00% | ~82 |
 | Extreme neuropower! | 48.00% | ~82 |
-| Legal courier | 47.00% | ~80 |
 | Escaped from a big trouble | 42.00% | ~71 |
+| Now you are worthy | 41.00% | ~70 |
 | No blades in the gym | 41.00% | ~70 |
-| Now you are worthy | 40.00% | ~68 |
 | Guiding on the right path | 39.00% | ~66 |
-| Mysterious voice | 37.00% | ~63 |
+| Mysterious voice | 38.00% | ~65 |
 | Fight is life | 36.00% | ~61 |
 | Responsible approach | 34.00% | ~58 |
 | Get out of my apartment! | 32.00% | ~54 |
+| Deal with life | 30.00% | ~51 |
 | Champion – no way back | 30.00% | ~51 |
-| Deal with life | 29.00% | ~49 |
 | GYM professional | 29.00% | ~49 |
 | Underground dwellers | 29.00% | ~49 |
 | Mom got better | 28.00% | ~48 |

@@ -7,22 +7,22 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,529 |
-| Leader | 60.00% | ~4,672 |
-| Explorer | 53.00% | ~4,127 |
-| Healer | 52.00% | ~4,049 |
-| Aspiring Inventor | 44.00% | ~3,426 |
+| Leader | 60.00% | ~4,673 |
+| Explorer | 53.00% | ~4,128 |
+| Healer | 52.00% | ~4,050 |
+| Aspiring Inventor | 44.00% | ~3,427 |
 | Adventurer | 41.00% | ~3,193 |
 | Famous Healer | 38.00% | ~2,959 |
-| Local Leader | 35.00% | ~2,725 |
+| Local Leader | 35.00% | ~2,726 |
 | Famous Explorer | 34.00% | ~2,648 |
 | New Opportunities | 34.00% | ~2,648 |
 | Energized | 33.00% | ~2,570 |
 | The Long Haul | 33.00% | ~2,570 |
 | The Great Healer | 31.00% | ~2,414 |
 | Survivor | 31.00% | ~2,414 |
-| Cleaner | 28.00% | ~2,180 |
-| Catastrofan | 28.00% | ~2,180 |
-| Legendary Explorer | 27.00% | ~2,102 |
+| Cleaner | 28.00% | ~2,181 |
+| Catastrofan | 28.00% | ~2,181 |
+| Legendary Explorer | 27.00% | ~2,103 |
 | Finders, Keepers | 26.00% | ~2,025 |
 | Top Notch | 25.00% | ~1,947 |
 | Ice Lakes | 23.00% | ~1,791 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~467 |
 | Amped Up | 6.00% | ~467 |
 | Look, no Hands! | 5.00% | ~389 |
-| Luxurious Living | 4.00% | ~311 |
+| Luxurious Living | 4.00% | ~312 |
 | Mogul | 3.00% | ~234 |
 | Ranch Hand | 3.00% | ~234 |
 | Diplomat | 2.00% | ~156 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,787 (Ranked 127)  
+Progressed: 7,788 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 7,711 | 0 |
 | 2023-07-26 | 7,737 | 0 |
 | 2023-07-27 | 7,754 | 0 |
-| 2023-07-28 | 7,787 | 0 |
+| 2023-07-28 | 7,788 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 683 (Ranked 273)  
