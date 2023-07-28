@@ -1637,9 +1637,9 @@
       "ID": "MissionHeartOfTheFaceless",
       "SetID": "a6c395p",
       "Name": "Disciple",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 325
     },
     {
       "ID": "MissionHelios",
@@ -1821,8 +1821,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:05:05.9396687+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:10:44.2956609+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-28T12:01:10.7206238+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:05:05.9397107+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:06:44.3486149+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:10:44.295694+00:00"
 }

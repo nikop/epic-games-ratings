@@ -5338,9 +5338,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216319,
+  "EOS_Progressed": 216338,
   "EOS_Completed": 2131,
-  "EOS_NewPlayers": 2270,
+  "EOS_NewPlayers": 2264,
   "EOS_NewCompleters": 72,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -15953,6 +15953,11 @@
       "Time": "2023-07-28T12:03:48.4198786+00:00",
       "NumProgressed": 216319,
       "NumCompleted": 2131
+    },
+    {
+      "Time": "2023-07-28T13:09:37.9837898+00:00",
+      "NumProgressed": 216338,
+      "NumCompleted": 2131
     }
   ],
   "TotalAchievements": 512,
@@ -16034,9 +16039,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1278
     },
     {
       "ID": "objective_completed_1051",
@@ -16332,7 +16337,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "objective_completed_110",
@@ -19834,9 +19839,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 649
     },
     {
       "ID": "objective_completed_95",
@@ -20004,7 +20009,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "objective_completed_1381",
@@ -20059,21 +20064,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182593,
-      "Completed": 3022
+      "Progressed": 182612,
+      "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216319,
+      "Progressed": 216338,
       "Completed": 2131
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:03:48.419878+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:09:37.9837893+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:59:06.2489658+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:03:48.4230318+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:04:53.9896813+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:09:37.9861007+00:00"
 }

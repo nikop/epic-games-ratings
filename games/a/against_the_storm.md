@@ -17,6 +17,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 3.00% | ~481 |
 | Ancient Battleground | 3.00% | ~481 |
 | Lost Colonies | 3.00% | ~481 |
+| Watchtower | 3.00% | ~481 |
 | A Real Challenge | 3.00% | ~481 |
 | Trade Baron | 3.00% | ~481 |
 | Serving Ale | 2.00% | ~321 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 2.00% | ~321 |
 | Forsaken Gods Temple | 2.00% | ~321 |
 | Corrosive Torrent | 2.00% | ~321 |
-| Watchtower | 2.00% | ~321 |
 | Cursed Lands | 2.00% | ~321 |
 | Like a Machine | 2.00% | ~321 |
 | Defying the Crown | 2.00% | ~321 |

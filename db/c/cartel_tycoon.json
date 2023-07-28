@@ -6,9 +6,9 @@
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,11 +280,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -1220,6 +1220,11 @@
       "Time": "2023-07-28T04:07:21.5016003+00:00",
       "NumProgressed": 470,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-28T13:13:02.1692147+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1255,7 +1260,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "female-conqueror",
@@ -1271,15 +1276,15 @@
       "Name": "That was base",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 400
     },
     {
       "ID": "kill-lieutenants",
@@ -1295,7 +1300,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "play-at-night",
@@ -1367,13 +1372,13 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "use-submarine",
       "SetID": "bed33dd",
       "Name": "Operation Odessa",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 4
     }
@@ -1382,15 +1387,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:07:30.0047827+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:13:02.1692145+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-28T12:01:17.9708955+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:07:30.0048033+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:06:49.5223193+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:13:02.1692272+00:00"
 }

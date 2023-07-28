@@ -22,7 +22,7 @@
 | Professional Survivor | 22.00% | ~40 |
 | Grave Digger | 22.00% | ~40 |
 | Drinking Problem | 21.00% | ~49 |
-| Pork Chop Express | 16.00% | ~37 |
+| Pork Chop Express | 17.00% | ~40 |
 | Skin Of Your Teeth | 14.00% | ~33 |
 | Eggtraordinary | 13.00% | ~30 |
 | Carrocketeer | 13.00% | ~30 |

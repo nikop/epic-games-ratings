@@ -30,8 +30,8 @@
 | Golem Chaser | 14.00% | ~111 |
 | Check Your Pulse | 14.00% | ~111 |
 | Right On Time | 13.00% | ~103 |
-| Street Style | 12.00% | ~95 |
-| Whiz Kid | 11.00% | ~87 |
+| Street Style | 12.00% | ~96 |
+| Whiz Kid | 11.00% | ~88 |
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
 | Family Memories | 9.00% | ~72 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795 (Ranked 200)  
+Progressed: 796 (Ranked 200)  
 Completed: 4 (0.50%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,4 +123,4 @@ Completed: 4 (0.50%) (Ranked 135)
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
-| 2023-07-28 | 795 | 4 |
+| 2023-07-28 | 796 | 4 |

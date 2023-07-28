@@ -13,11 +13,11 @@
 | The Van | 66.00% | ~55 |
 | Road-Trip | 60.00% | ~50 |
 | A Musical Pause | 59.00% | ~49 |
+| Briget's | 49.00% | ~41 |
 | Sound of Noise | 48.00% | ~40 |
-| Briget's | 48.00% | ~40 |
 | Big City Music | 45.00% | ~37 |
-| Love at First Sight | 40.00% | ~33 |
-| First Kiss | 34.00% | ~28 |
+| Love at First Sight | 41.00% | ~34 |
+| First Kiss | 35.00% | ~29 |
 | Symbiosis | 33.00% | ~27 |
 | A Bigger Band | 31.00% | ~26 |
 | Fuel | 27.00% | ~22 |

@@ -11,12 +11,12 @@ Number of Ratings: 98  (23.09.2022)
 | Grenadier | 34.00% | ~407 |
 | Heroes Never Die | 31.00% | ~371 |
 | Mosquito bite | 30.00% | ~359 |
-| Spice It Up | 27.00% | ~323 |
-| Agent 47 | 22.00% | ~263 |
-| Bomberman | 22.00% | ~263 |
-| You're Gonna Go Far, Kid | 21.00% | ~251 |
-| Death to the Oppressor! | 15.00% | ~179 |
-| The Gang's All Here | 13.00% | ~155 |
+| Spice It Up | 26.00% | ~311 |
+| Agent 47 | 22.00% | ~264 |
+| Bomberman | 22.00% | ~264 |
+| You're Gonna Go Far, Kid | 21.00% | ~252 |
+| Death to the Oppressor! | 15.00% | ~180 |
+| The Gang's All Here | 13.00% | ~156 |
 | Your Answer | 12.00% | ~144 |
 | One by One | 11.00% | ~132 |
 | The Big Bertha | 10.00% | ~120 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,196 (Ranked 184)  
+Progressed: 1,198 (Ranked 184)  
 Completed: 1 (0.08%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 200)
 | 2023-07-25 | 1,175 | 1 |
 | 2023-07-26 | 1,185 | 1 |
 | 2023-07-27 | 1,192 | 1 |
-| 2023-07-28 | 1,196 | 1 |
+| 2023-07-28 | 1,198 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

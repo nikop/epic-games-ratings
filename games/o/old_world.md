@@ -12,7 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~131 |
 | Poetic Leader | 1.00% | ~131 |
 | Explorer | 0.90% | ~118 |
-| Friendly Family | 0.80% | ~105 |
+| Friendly Family | 0.90% | ~118 |
 | Able | 0.70% | ~92 |
 | Intrepid | 0.70% | ~92 |
 | Architect | 0.60% | ~79 |
@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
+| Great | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
 | Wise | 0.40% | ~53 |
@@ -46,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.40% | ~53 |
 | Ishtar Gate | 0.40% | ~53 |
 | Lighthouse | 0.40% | ~53 |
+| Necropolis | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
 | Christianity | 0.40% | ~53 |
 | Babylonian Paganism | 0.40% | ~53 |
@@ -54,10 +56,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
-| Great | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
+| Sages | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
 | Furious Family | 0.30% | ~39 |
 | Acropolis | 0.30% | ~39 |
@@ -65,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
 | Musaeum | 0.30% | ~39 |
-| Necropolis | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
@@ -86,11 +87,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
-| Sages | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
 | Hittite Iron | 0.20% | ~26 |
 | Circus Maximus | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |
+| Church of the Holy Sepulchre | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
 | Adur Burzen-Mihr | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
@@ -196,7 +197,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
-| Church of the Holy Sepulchre | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -249,9 +249,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.10% | ~13 |
 | Time Victory | 0.10% | ~13 |
 | Necropolis in Waset | 0.10% | ~13 |
+| Win a 1-v-1 Game | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a MP Teams Game | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
+| Win a Play-By-Cloud Game | 0.10% | ~13 |
 | Deposed Tribe | 0.10% | ~13 |
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
@@ -298,12 +300,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
-| Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
-| Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,132 (Ranked 116)  
+Progressed: 13,133 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 214)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,132 | 5 |
+| 2023-07-28 | 13,133 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

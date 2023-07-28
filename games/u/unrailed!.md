@@ -6,60 +6,60 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~100,080 |
-| Incurious | 15.00% | ~93,825 |
-| Stroller | 14.00% | ~87,570 |
-| Climate Change | 14.00% | ~87,570 |
-| Toy Train | 12.00% | ~75,060 |
-| Advanced Hiker | 11.00% | ~68,805 |
-| Hiker | 10.00% | ~62,550 |
-| Mojave Courier | 5.00% | ~31,275 |
-| Saved by Nausicaä | 4.00% | ~25,020 |
-| Voyager | 3.00% | ~18,765 |
-| Advanced Voyager | 3.00% | ~18,765 |
-| Expert Stroller | 3.00% | ~18,765 |
-| Orient Express | 3.00% | ~18,765 |
-| Expert Hiker | 2.00% | ~12,510 |
-| Marathon | 2.00% | ~12,510 |
-| Destructionist | 2.00% | ~12,510 |
+| Advanced Stroller | 16.00% | ~100,084 |
+| Incurious | 15.00% | ~93,829 |
+| Stroller | 14.00% | ~87,574 |
+| Climate Change | 14.00% | ~87,574 |
+| Toy Train | 12.00% | ~75,063 |
+| Advanced Hiker | 11.00% | ~68,808 |
+| Hiker | 10.00% | ~62,553 |
+| Mojave Courier | 5.00% | ~31,276 |
+| Saved by Nausicaä | 4.00% | ~25,021 |
+| Voyager | 3.00% | ~18,766 |
+| Advanced Voyager | 3.00% | ~18,766 |
+| Expert Stroller | 3.00% | ~18,766 |
+| Orient Express | 3.00% | ~18,766 |
+| Expert Hiker | 2.00% | ~12,511 |
+| Marathon | 2.00% | ~12,511 |
+| Destructionist | 2.00% | ~12,511 |
 | Lost | 1.00% | ~6,255 |
-| Rocketman | 0.70% | ~4,378 |
+| Rocketman | 0.70% | ~4,379 |
 | Expert Voyager | 0.60% | ~3,753 |
 | Shopaholic | 0.60% | ~3,753 |
-| Nanuk | 0.50% | ~3,127 |
-| Terminal Station | 0.50% | ~3,127 |
-| Dynamite Fishing | 0.50% | ~3,127 |
+| Nanuk | 0.50% | ~3,128 |
+| Terminal Station | 0.50% | ~3,128 |
+| Dynamite Fishing | 0.50% | ~3,128 |
 | Scrooge | 0.40% | ~2,502 |
-| Wayfarer | 0.30% | ~1,876 |
-| Advanced Wayfarer | 0.30% | ~1,876 |
-| Trans-Siberian Railway | 0.30% | ~1,876 |
-| Satan's Minion | 0.30% | ~1,876 |
-| Snowman's Land | 0.30% | ~1,876 |
-| Tough Nut! | 0.30% | ~1,876 |
+| Wayfarer | 0.30% | ~1,877 |
+| Advanced Wayfarer | 0.30% | ~1,877 |
+| Trans-Siberian Railway | 0.30% | ~1,877 |
+| Satan's Minion | 0.30% | ~1,877 |
+| Snowman's Land | 0.30% | ~1,877 |
+| Tough Nut! | 0.30% | ~1,877 |
 | Engineer | 0.20% | ~1,251 |
-| Explorer | 0.10% | ~625 |
-| Advanced Explorer | 0.10% | ~625 |
-| Expert Wayfarer | 0.10% | ~625 |
-| Expert Explorer | 0.10% | ~625 |
-| Deep Space Transit | 0.10% | ~625 |
-| Leet | 0.10% | ~625 |
-| Wrong way! | 0.10% | ~625 |
-| Ducky Danger | 0.10% | ~625 |
-| Shepherd | 0.10% | ~625 |
-| Industrialist | 0.10% | ~625 |
-| Missed Opportunities | 0.10% | ~625 |
-| Cowter Space | 0.10% | ~625 |
-| Apollo 13 | 0.10% | ~625 |
-| Collector | 0.10% | ~625 |
-| Achievement Master | 0.10% | ~625 |
-| Fire Fighter | 0.10% | ~625 |
-| Megalomaniac | 0.10% | ~625 |
-| No Space for Improvement | 0.10% | ~625 |
-| Where They Belong | 0.10% | ~625 |
-| Fireworks! | 0.10% | ~625 |
-| 20 Miles under the Sea | 0.10% | ~625 |
+| Explorer | 0.10% | ~626 |
+| Advanced Explorer | 0.10% | ~626 |
+| Expert Wayfarer | 0.10% | ~626 |
+| Expert Explorer | 0.10% | ~626 |
+| Deep Space Transit | 0.10% | ~626 |
+| Leet | 0.10% | ~626 |
+| Wrong way! | 0.10% | ~626 |
+| Ducky Danger | 0.10% | ~626 |
+| Shepherd | 0.10% | ~626 |
+| Industrialist | 0.10% | ~626 |
+| Missed Opportunities | 0.10% | ~626 |
+| Cowter Space | 0.10% | ~626 |
+| Apollo 13 | 0.10% | ~626 |
+| Collector | 0.10% | ~626 |
+| Achievement Master | 0.10% | ~626 |
+| Fire Fighter | 0.10% | ~626 |
+| Megalomaniac | 0.10% | ~626 |
+| No Space for Improvement | 0.10% | ~626 |
+| Where They Belong | 0.10% | ~626 |
+| Fireworks! | 0.10% | ~626 |
+| 20 Miles under the Sea | 0.10% | ~626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625,497 (Ranked 25)  
+Progressed: 625,526 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 7 (0.00%) (Ranked 244)
 | 2023-07-25 | 624,420 | 7 |
 | 2023-07-26 | 624,866 | 7 |
 | 2023-07-27 | 625,289 | 7 |
-| 2023-07-28 | 625,497 | 7 |
+| 2023-07-28 | 625,526 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,540 (Ranked 215)  

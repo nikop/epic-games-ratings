@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2142,6 +2142,11 @@
       "Time": "2023-07-24T13:15:14.5428034+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T13:10:13.0702712+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2167,9 +2172,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_004",
@@ -2177,7 +2182,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "Achievement_006",
@@ -2209,7 +2214,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "Achievement_010",
@@ -2289,7 +2294,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "Achievement_020",
@@ -2401,7 +2406,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_034",
@@ -2409,7 +2414,7 @@
       "Name": "Catch and Release",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "Achievement_035",
@@ -2473,7 +2478,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Achievement_044",
@@ -2489,7 +2494,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Achievement_046",
@@ -2680,7 +2685,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 0
     }
   ],
@@ -2688,8 +2693,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-23T15:58:25.0076082+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:04:29.9966825+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:10:13.0702708+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:27.3204066+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:58:45.9918711+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:04:29.9967605+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:04:35.1470303+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:10:13.0703322+00:00"
 }

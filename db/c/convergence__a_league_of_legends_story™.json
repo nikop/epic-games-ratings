@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -1799,6 +1799,11 @@
       "Time": "2023-07-28T08:04:41.9452417+00:00",
       "NumProgressed": 795,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T13:10:18.9831474+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1882,7 +1887,7 @@
       "Name": "Street Style",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CultivairChests1",
@@ -1962,7 +1967,7 @@
       "Name": "Whiz Kid",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GrindingTime1",
@@ -2233,14 +2238,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:04:36.4680174+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:10:18.9831469+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-28T12:00:23.2036613+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:04:36.4680911+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:06:04.8939276+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:10:18.9831934+00:00"
 }

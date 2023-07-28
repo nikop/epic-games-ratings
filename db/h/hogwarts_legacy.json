@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5574,9 +5574,9 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288734,
+  "EOS_Progressed": 288737,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16209,6 +16209,11 @@
       "Time": "2023-07-28T12:05:25.4372074+00:00",
       "NumProgressed": 288734,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-28T13:11:01.5544632+00:00",
+      "NumProgressed": 288737,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 45,
@@ -16292,7 +16297,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "PFA_19",
@@ -16340,7 +16345,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28873
+      "UsersEstimate": 28874
     },
     {
       "ID": "PFA_24",
@@ -16524,7 +16529,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "PFA_45",
@@ -16556,7 +16561,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28873
+      "UsersEstimate": 28874
     },
     {
       "ID": "PFA_8",
@@ -16579,7 +16584,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288734,
+      "Progressed": 288737,
       "Completed": 435
     }
   ],
@@ -16587,8 +16592,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-28T07:58:19.311003+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:05:25.4372065+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:11:01.5544625+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:58:20.8674553+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:05:25.4373119+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:04:14.1387313+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:11:01.5545439+00:00"
 }

@@ -7,17 +7,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,490 |
-| Beast Intentions | 2.00% | ~4,326 |
+| Beast Intentions | 2.00% | ~4,327 |
 | Maddening | 1.00% | ~2,163 |
 | The Silken Swamp | 1.00% | ~2,163 |
 | Supply Run | 1.00% | ~2,163 |
 | Rocky Reception | 1.00% | ~1,826 |
-| Rock and Roll | 0.90% | ~1,643 |
+| Rock and Roll | 0.90% | ~1,644 |
 | Vecna Lives! | 0.80% | ~1,461 |
+| Tall Tales | 0.70% | ~1,278 |
 | Vecna Loots! | 0.70% | ~1,278 |
 | Flight of the Kindori Pod | 0.70% | ~1,278 |
 | Topolah's Tower | 0.70% | ~1,278 |
-| Tall Tales | 0.60% | ~1,096 |
 | Wet Feet | 0.60% | ~1,298 |
 | Seeds of Destruction | 0.60% | ~1,096 |
 | Return to the Tomb | 0.60% | ~1,096 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~649 |
 | Overdue Rendezvous | 0.30% | ~649 |
 | Pure Energy | 0.30% | ~649 |
+| The Templar's Camp | 0.30% | ~649 |
 | Willing to Sacrifice | 0.30% | ~548 |
 | Devilishly Cold | 0.30% | ~548 |
 | 3,720 to 1 | 0.30% | ~548 |
@@ -176,7 +177,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~365 |
 | Durable Deep | 0.20% | ~433 |
 | Expert Opinion | 0.20% | ~433 |
-| The Templar's Camp | 0.20% | ~433 |
 | The Haunted Jungle | 0.20% | ~433 |
 | Rescue in the Jungle | 0.20% | ~433 |
 | Tiny Treaty | 0.20% | ~365 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,319 (Ranked 53)  
+Progressed: 216,338 (Ranked 53)  
 Completed: 2,131 (0.99%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,131 (0.99%) (Ranked 109)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,319 | 2,131 |
+| 2023-07-28 | 216,338 | 2,131 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  

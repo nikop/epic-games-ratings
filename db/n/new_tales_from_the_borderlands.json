@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3511,
+  "EOS_Progressed": 3512,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -903,6 +903,11 @@
       "Time": "2023-07-28T09:04:15.0375509+00:00",
       "NumProgressed": 3511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T13:09:57.1349389+00:00",
+      "NumProgressed": 3512,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1018,7 +1023,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1034,7 +1039,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1121,7 +1126,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3511,
+      "Progressed": 3512,
       "Completed": 0
     }
   ],
@@ -1129,8 +1134,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:04:11.5388448+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:09:57.1349385+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:23.6569602+00:00",
-  "LastUpdate_Ratings": "2023-07-28T12:00:29.2603571+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:04:11.5388679+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:06:09.5656032+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:09:57.1349555+00:00"
 }

@@ -33,7 +33,7 @@
 | Solo Sea Glyph | 0.00% | ~0 |
 | Silent City: Reprise Glyph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778 (Ranked 201)  
+Progressed: 779 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-23 | 772 | 0 |
 | 2023-07-24 | 776 | 0 |
 | 2023-07-26 | 777 | 0 |
-| 2023-07-28 | 778 | 0 |
+| 2023-07-28 | 779 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

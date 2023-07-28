@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 767)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~185,695 |
+| Boarded! | 94.00% | ~185,699 |
 | Snooper. | 10.00% | ~19,755 |
-| You have to start somewhere, right? | 7.00% | ~13,828 |
+| You have to start somewhere, right? | 7.00% | ~13,829 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,853 |
-| Corrupted. | 5.00% | ~9,877 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,877 |
-| Answers can be found amongst the stars | 3.00% | ~5,926 |
-| Bend to the will of the arrows. | 3.00% | ~5,926 |
+| Corrupted. | 5.00% | ~9,878 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,878 |
+| Answers can be found amongst the stars | 3.00% | ~5,927 |
+| Bend to the will of the arrows. | 3.00% | ~5,927 |
 | You've been through a lot. | 2.00% | ~3,951 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,951 |
 | I hope your remember your colour theory. | 2.00% | ~3,951 |
@@ -24,7 +24,7 @@ Rating: 4.32 (Ranked 767)
 | They're like really flat pillars. | 2.00% | ~3,951 |
 | That's a wrap. | 2.00% | ~3,951 |
 | In balance. | 2.00% | ~3,951 |
-| I hope you're ready. | 1.00% | ~1,975 |
+| I hope you're ready. | 1.00% | ~1,976 |
 | Bridge crossed. | 0.70% | ~1,383 |
 | Cockpit | 0.70% | ~1,383 |
 | Names to faces. | 0.70% | ~1,383 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 767)
 | Snooper + | 0.40% | ~790 |
 | Corrupted + | 0.30% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,548 (Ranked 56)  
+Progressed: 197,552 (Ranked 56)  
 Completed: 470 (0.24%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 470 (0.24%) (Ranked 164)
 | 2023-07-25 | 197,328 | 469 |
 | 2023-07-26 | 197,404 | 469 |
 | 2023-07-27 | 197,514 | 470 |
-| 2023-07-28 | 197,548 | 470 |
+| 2023-07-28 | 197,552 | 470 |
 ## Awards
 Max (Challenging Puzzles): 559  (Ranked 184)  
 Sum: 673 (Ranked 275)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 70,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GameComplete",
@@ -182,9 +182,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SecretRoom",
@@ -212,8 +212,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-28T12:04:48.5484756+00:00",
+  "LastChanged_Achievements": "2023-07-28T13:10:29.3405773+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:57:30.4967144+00:00",
-  "LastUpdate_Achievements": "2023-07-28T12:04:48.5484877+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:03:32.1650652+00:00",
+  "LastUpdate_Achievements": "2023-07-28T13:10:29.3405875+00:00"
 }

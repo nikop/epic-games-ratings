@@ -10,14 +10,14 @@
 | Who's A Good Boy | 70.00% | ~115 |
 | Power Up | 70.00% | ~115 |
 | Thick Skin | 68.00% | ~112 |
-| Math Wizard | 65.00% | ~107 |
+| Math Wizard | 66.00% | ~108 |
 | Destroy Erase Improve | 65.00% | ~107 |
 | Power Overload | 63.00% | ~103 |
 | Quite A Snack | 59.00% | ~97 |
-| Overwhelming Power | 56.00% | ~92 |
+| Overwhelming Power | 57.00% | ~93 |
 | Impenetrable Skin | 55.00% | ~90 |
-| Chomp Chomp! | 45.00% | ~74 |
-| Supreme Power | 44.00% | ~72 |
+| Chomp Chomp! | 46.00% | ~75 |
+| Supreme Power | 45.00% | ~74 |
 | The Duelist | 41.00% | ~67 |
 | Glorious Battle | 41.00% | ~67 |
 | Diaper Time! | 41.00% | ~67 |
@@ -51,9 +51,9 @@
 | Unlucky Luke | 5.00% | ~8 |
 | Feast Time | 5.00% | ~8 |
 | Cheesy Chess | 4.00% | ~7 |
+| Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
 | A Phony Clown | 3.00% | ~5 |
-| Octopy Mayhem | 3.00% | ~5 |
 | Duck Knight | 2.00% | ~3 |
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |

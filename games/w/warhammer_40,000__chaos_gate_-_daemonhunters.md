@@ -11,10 +11,10 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
 | Not So Fast... | 0.90% | ~28 |
+| Blood for the Blood God! | 0.80% | ~24 |
 | Bloodless | 0.80% | ~24 |
-| Blood for the Blood God! | 0.70% | ~21 |
 | Purging Spree | 0.70% | ~21 |
-| A Foul Creche | 0.50% | ~15 |
+| A Foul Creche | 0.60% | ~18 |
 | Friendly Fire | 0.40% | ~12 |
 | Surgical Excision | 0.30% | ~9 |
 | Hold Your Ground | 0.30% | ~9 |
@@ -39,6 +39,7 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 0.10% | ~3 |
 | Only in Death | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
+| Engine Kill | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
 | A Gift Spurned | 0.10% | ~3 |
 | Long Distance Call | 0.10% | ~3 |
@@ -69,7 +70,6 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
-| Engine Kill | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
 | Death Comes For All | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
@@ -171,12 +171,12 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-27 | 3,054 | 0 |
 | 2023-07-28 | 3,060 | 0 |
 ## Awards
-Max (Character Customization): 214  (Ranked 263)  
-Sum: 456 (Ranked 303)  
+Max (Character Customization): 216  (Ranked 263)  
+Sum: 458 (Ranked 303)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 214 |
+| This game has Inclusive Character Customization | 216 |
 | This game is Extremely Fun | 32 |
 | This game has Amazing Storytelling | 30 |
 | This game has Amazing Characters | 30 |
@@ -279,3 +279,4 @@ Diff (max vs sum): -40
 | 2023-07-24 | 4.59 | - | 214 | 452 |
 | 2023-07-26 | 4.59 | - | 214 | 455 |
 | 2023-07-27 | 4.59 | - | 214 | 456 |
+| 2023-07-28 | 4.59 | - | 216 | 458 |
