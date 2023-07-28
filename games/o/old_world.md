@@ -15,50 +15,48 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.90% | ~118 |
 | Intrepid | 0.80% | ~105 |
 | Able | 0.70% | ~92 |
-| Architect | 0.60% | ~79 |
+| Architect | 0.70% | ~92 |
+| Mason | 0.70% | ~92 |
+| Hanging Gardens | 0.70% | ~92 |
 | Enlightened | 0.60% | ~79 |
 | Good | 0.60% | ~79 |
 | Just | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
-| Mason | 0.60% | ~79 |
 | Noble | 0.60% | ~79 |
 | Pioneer | 0.60% | ~79 |
 | Strong | 0.60% | ~79 |
-| Hanging Gardens | 0.60% | ~79 |
 | Oracle | 0.60% | ~79 |
 | Judaism | 0.60% | ~79 |
+| Greek Paganism | 0.60% | ~79 |
 | Naming Landmarks | 0.60% | ~79 |
 | Trade Caravan | 0.60% | ~79 |
 | Glorious | 0.50% | ~66 |
 | Keystone | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
+| Warrior | 0.50% | ~66 |
 | Developing Cities | 0.50% | ~66 |
+| Able Difficulty | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
 | Christianity | 0.50% | ~66 |
 | Babylonian Paganism | 0.50% | ~66 |
-| Greek Paganism | 0.50% | ~66 |
+| Carthaginian Paganism | 0.50% | ~66 |
 | Roman Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
-| Warrior | 0.40% | ~53 |
 | Wise | 0.40% | ~53 |
 | Strong Cities | 0.40% | ~53 |
-| Able Difficulty | 0.40% | ~53 |
 | Artisans | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
 | Great Ziggurat | 0.40% | ~53 |
 | Lighthouse | 0.40% | ~53 |
-| Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
-| Carthaginian Paganism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
-| Mythology | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
@@ -72,8 +70,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
+| Musaeum | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
+| Mythology | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,141 (Ranked 116)  
+Progressed: 13,143 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,141 | 5 |
+| 2023-07-28 | 13,143 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

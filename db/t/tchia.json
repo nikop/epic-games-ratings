@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6850,
+  "EOS_Progressed": 6852,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5049,6 +5049,11 @@
       "Time": "2023-07-28T20:04:35.442942+00:00",
       "NumProgressed": 6850,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-28T22:04:44.0533423+00:00",
+      "NumProgressed": 6852,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5092,7 +5097,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CLAY_PIGEON",
@@ -5108,7 +5113,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5140,7 +5145,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "HISTORIAN",
@@ -5162,9 +5167,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1439
     },
     {
       "ID": "LIBERATOR",
@@ -5172,7 +5177,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "LIVE_WIRE",
@@ -5188,7 +5193,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "SNIP_SNIP",
@@ -5212,7 +5217,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "THING",
@@ -5220,14 +5225,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6850,
+      "Progressed": 6852,
       "Completed": 30
     }
   ],
@@ -5235,8 +5240,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:04:57.8959268+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:04:44.0533417+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:58:45.3964673+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:04:57.8959708+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:52.3194965+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:04:44.0533752+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 481)
 | Ready for a New World | 14.00% | ~411 |
 | Space Society | 13.00% | ~382 |
 | A Thousand Strong | 13.00% | ~382 |
-| Permanent Redesigns | 11.00% | ~323 |
+| Permanent Redesigns | 12.00% | ~352 |
 | Guy de Borderlands | 10.00% | ~294 |
 | Fully Recycled | 10.00% | ~294 |
 | Ain't Nobody Got Time for That | 10.00% | ~294 |
@@ -31,11 +31,11 @@ Rating: 4.55 (Ranked 481)
 | Oats | 4.00% | ~117 |
 | Access Granted | 4.00% | ~117 |
 | All in Good Health | 4.00% | ~117 |
+| What the Ruins Teach Us | 4.00% | ~117 |
 | What They Hide From Us | 3.00% | ~88 |
 | ...  in a finite world | 3.00% | ~88 |
 | Sustainable Energy | 3.00% | ~88 |
 | BRAWL! | 3.00% | ~88 |
-| What the Ruins Teach Us | 3.00% | ~88 |
 | In Dolos We Trust | 2.00% | ~59 |
 | Praise the Hull! | 2.00% | ~59 |
 | Space Greenhouse | 2.00% | ~59 |

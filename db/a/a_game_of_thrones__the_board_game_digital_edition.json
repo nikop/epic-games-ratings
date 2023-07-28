@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 105,
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19807,
+  "EOS_Progressed": 19815,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -11743,6 +11743,11 @@
       "Time": "2023-07-28T21:04:11.4309022+00:00",
       "NumProgressed": 19807,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-28T22:03:59.0145693+00:00",
+      "NumProgressed": 19815,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11762,7 +11767,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "1017",
@@ -11770,7 +11775,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "1018",
@@ -11778,7 +11783,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "1019",
@@ -11786,7 +11791,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "1020",
@@ -11794,7 +11799,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "1021",
@@ -11802,7 +11807,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "1022",
@@ -11810,7 +11815,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "1023",
@@ -11858,7 +11863,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3567
     },
     {
       "ID": "1029",
@@ -11874,7 +11879,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3963
     },
     {
       "ID": "1031",
@@ -11882,7 +11887,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "1032",
@@ -11890,7 +11895,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7926
     },
     {
       "ID": "1033",
@@ -11906,7 +11911,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "1035",
@@ -11914,7 +11919,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "1036",
@@ -11929,15 +11934,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19807,
+      "Progressed": 19815,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:04:11.4309015+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:03:59.0145689+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-28T21:01:52.2044503+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:04:11.4309834+00:00"
+  "LastUpdate_Ratings": "2023-07-28T22:01:49.9323086+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:03:59.0146285+00:00"
 }

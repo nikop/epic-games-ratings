@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -1370,6 +1370,11 @@
       "Time": "2023-07-28T21:03:23.4325788+00:00",
       "NumProgressed": 584,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T22:03:13.5375291+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1403,9 +1408,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "DevilDetail",
@@ -1619,9 +1624,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "YagaProfessional",
@@ -1636,7 +1641,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 1
     }
   ],
@@ -1644,8 +1649,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:03:23.4325783+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:03:13.5375286+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:32.5139377+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:58:44.8510147+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:03:23.4326084+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:51.9298649+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:03:13.5375532+00:00"
 }

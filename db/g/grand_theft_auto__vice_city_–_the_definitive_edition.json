@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -550,9 +550,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9299,
+  "EOS_Progressed": 9301,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7235,6 +7235,11 @@
       "Time": "2023-07-28T21:05:03.2199381+00:00",
       "NumProgressed": 9299,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-28T22:04:49.0283611+00:00",
+      "NumProgressed": 9301,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7324,9 +7329,9 @@
       "ID": "ACH11",
       "SetID": "9llo822",
       "Name": "Salutations My Little Friend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 930
+      "UsersEstimate": 1023
     },
     {
       "ID": "ACH12",
@@ -7510,14 +7515,14 @@
       "Name": "Kingpin",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9299,
+      "Progressed": 9301,
       "Completed": 43
     }
   ],
@@ -7525,8 +7530,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-28T02:59:02.4815641+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:05:03.2199377+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:04:49.0283606+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:59:11.3453218+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:05:03.2200014+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:59:16.5609958+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:04:49.0284094+00:00"
 }

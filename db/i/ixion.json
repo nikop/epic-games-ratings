@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -256,7 +256,7 @@
   "Tags": [],
   "EOS_Progressed": 2937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4269,9 +4269,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_BASE_49",
@@ -4413,9 +4413,9 @@
       "ID": "ACH_BASE_8",
       "SetID": "92iocjf",
       "Name": "What the Ruins Teach Us",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_BASE_9",
@@ -4444,8 +4444,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:06:18.3061072+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:06:00.2991271+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:59:35.6992411+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:06:18.306188+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:59:38.8279327+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:06:00.2991922+00:00"
 }

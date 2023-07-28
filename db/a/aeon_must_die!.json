@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 2959,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3537,
+  "EOS_Progressed": 3538,
   "EOS_Completed": -28,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -426,6 +426,11 @@
       "Time": "2023-07-28T12:07:31.8364082+00:00",
       "NumProgressed": 3537,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-07-28T22:07:46.4061086+00:00",
+      "NumProgressed": 3538,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -437,7 +442,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "10",
@@ -517,7 +522,7 @@
       "Name": "Emperor\u0027s Hubris",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "2",
@@ -565,7 +570,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "25",
@@ -716,7 +721,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3537,
+      "Progressed": 3538,
       "Completed": -28
     }
   ],
@@ -724,8 +729,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:08:09.6994335+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:07:46.406108+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:11.5959813+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:57:58.1003318+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:08:09.699462+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:07.417227+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:07:46.406131+00:00"
 }

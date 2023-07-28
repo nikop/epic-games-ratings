@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -644,10 +644,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-07-28T21:58:22.3331531+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 259,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -697,7 +703,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Competitive Players",
@@ -712,9 +718,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6481,
+  "EOS_Progressed": 6482,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3802,6 +3808,11 @@
       "Time": "2023-07-28T19:06:47.6036395+00:00",
       "NumProgressed": 6481,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-28T22:05:56.9852012+00:00",
+      "NumProgressed": 6482,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3829,7 +3840,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3861,7 +3872,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4061,7 +4072,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4172,16 +4183,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6481,
+      "Progressed": 6482,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:06:15.1176706+00:00",
+  "LastChanged": "2023-07-28T21:58:22.3331529+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:05:56.9852008+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:58:15.2075529+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:06:15.1177249+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:22.3331534+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:05:56.9852427+00:00"
 }

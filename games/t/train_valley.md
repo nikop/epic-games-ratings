@@ -21,7 +21,7 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 26.00% | ~102 |
 | Philatelist | 25.00% | ~98 |
 | Let's roll! | 25.00% | ~98 |
-| Ouroboros | 23.00% | ~90 |
+| Ouroboros | 24.00% | ~94 |
 | Foreman | 21.00% | ~82 |
 | Missed it! | 20.00% | ~78 |
 | Russia | 17.00% | ~66 |

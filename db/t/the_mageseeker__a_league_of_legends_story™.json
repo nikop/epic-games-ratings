@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2472,
+  "EOS_Progressed": 2473,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3174,6 +3174,11 @@
       "Time": "2023-07-28T21:02:52.2535537+00:00",
       "NumProgressed": 2472,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T22:02:47.9836189+00:00",
+      "NumProgressed": 2473,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3193,7 +3198,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3233,7 +3238,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3249,7 +3254,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3265,7 +3270,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3297,7 +3302,7 @@
       "Name": "I chose my shackles",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3305,7 +3310,7 @@
       "Name": "Past trauma",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3337,7 +3342,7 @@
       "Name": "Do you trust me?",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -3353,7 +3358,7 @@
       "Name": "Chains master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3361,7 +3366,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3369,7 +3374,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3393,7 +3398,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -3401,7 +3406,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3409,7 +3414,7 @@
       "Name": "Thornbarrow",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3441,7 +3446,7 @@
       "Name": "Glyndemere",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3489,7 +3494,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3497,7 +3502,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "STB_PLATINUM",
@@ -3521,7 +3526,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3561,7 +3566,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3569,7 +3574,7 @@
       "Name": "Spellcrafting",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -3577,7 +3582,7 @@
       "Name": "Full equipped",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3593,7 +3598,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3608,7 +3613,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2472,
+      "Progressed": 2473,
       "Completed": 5
     }
   ],
@@ -3616,8 +3621,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:02:52.2535531+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:02:47.9836185+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.6045912+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:58:19.2732782+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:02:52.2536128+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:26.9724158+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:02:47.9836676+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23475,
+  "EOS_Progressed": 23477,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3167,6 +3167,11 @@
       "Time": "2023-07-28T21:07:51.0067881+00:00",
       "NumProgressed": 23475,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-28T22:07:28.4484546+00:00",
+      "NumProgressed": 23477,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -3194,7 +3199,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18076
+      "UsersEstimate": 18077
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3202,7 +3207,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3226,7 +3231,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -3242,7 +3247,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17841
+      "UsersEstimate": 17843
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3282,7 +3287,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19484
+      "UsersEstimate": 19486
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -3298,7 +3303,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13381
+      "UsersEstimate": 13382
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -3306,7 +3311,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13850
+      "UsersEstimate": 13851
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3330,7 +3335,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -3338,7 +3343,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -3346,7 +3351,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -3362,7 +3367,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17137
+      "UsersEstimate": 17138
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -3402,7 +3407,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -3410,7 +3415,7 @@
       "Name": "Playing Favorites",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -3426,29 +3431,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23475,
+      "Progressed": 23477,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 768,
-      "Completed": 768
+      "Progressed": 770,
+      "Completed": 770
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-27T22:00:39.9866271+00:00",
-  "LastChanged_Achievements": "2023-07-28T21:07:51.0067872+00:00",
+  "LastChanged_Achievements": "2023-07-28T22:07:28.4484539+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.72934+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:58:47.4742848+00:00",
-  "LastUpdate_Achievements": "2023-07-28T21:07:51.0068318+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:58:54.182986+00:00",
+  "LastUpdate_Achievements": "2023-07-28T22:07:28.4484882+00:00"
 }

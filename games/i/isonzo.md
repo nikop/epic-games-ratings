@@ -9,11 +9,11 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,565 |
 | Tutti Eroi! | 54.00% | ~3,500 |
 | You Shall Not Pass | 53.00% | ~3,435 |
-| Avanti Savoia! | 47.00% | ~3,046 |
+| Avanti Savoia! | 47.00% | ~3,047 |
 | Mamma Mia! | 37.00% | ~2,398 |
-| Conrad von Hotzensocks | 36.00% | ~2,333 |
+| Conrad von Hotzensocks | 36.00% | ~2,334 |
 | Gabriele D'Annunzio | 33.00% | ~2,139 |
-| Silver Lining | 29.00% | ~1,879 |
+| Silver Lining | 29.00% | ~1,880 |
 | Aurelio Baruzzi | 23.00% | ~1,491 |
 | Veni Vidi Vici | 22.00% | ~1,426 |
 | Decimation | 21.00% | ~1,361 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,481 (Ranked 133)  
+Progressed: 6,482 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,10 +146,10 @@ Completed: 8 (0.12%) (Ranked 188)
 | 2023-07-25 | 6,452 | 8 |
 | 2023-07-26 | 6,459 | 8 |
 | 2023-07-27 | 6,470 | 8 |
-| 2023-07-28 | 6,481 | 8 |
+| 2023-07-28 | 6,482 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
-Sum: 258 (Ranked 348)  
+Sum: 259 (Ranked 348)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -159,8 +159,8 @@ Diff (max vs sum): 87
 | This game has Quickly Understood Controls | 28 |
 | This game has Challenging Combat | 28 |
 | This game has Diverse Characters | 28 |
+| This game has Realistic Visuals | 28 |
 | This game is Educational | 27 |
-| This game has Realistic Visuals | 27 |
 | This game has Competitive Players | 24 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -258,3 +258,4 @@ Diff (max vs sum): 87
 | 2023-07-04 | 4.56 | - | 35 | 256 |
 | 2023-07-16 | 4.56 | - | 35 | 257 |
 | 2023-07-22 | 4.56 | - | 35 | 258 |
+| 2023-07-28 | 4.56 | - | 35 | 259 |

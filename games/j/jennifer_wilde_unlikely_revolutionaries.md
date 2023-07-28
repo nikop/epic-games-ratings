@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| I See Dead People | 27.00% | ~12 |
 | Clothes Hunter | 24.00% | ~11 |
 | Con Artist | 24.00% | ~11 |
-| I See Dead People | 24.00% | ~11 |
 | Bedtime Storyteller | 22.00% | ~10 |
 | Exorcist | 18.00% | ~8 |
 | Electrician | 18.00% | ~8 |

@@ -17,10 +17,10 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 0.60% | ~18 |
 | Friendly Fire | 0.50% | ~15 |
 | Surgical Excision | 0.40% | ~12 |
+| Execution Force | 0.40% | ~12 |
 | Honoured Battle-Brother | 0.30% | ~9 |
 | Hold Your Ground | 0.30% | ~9 |
 | Nemesis Master | 0.30% | ~9 |
-| Execution Force | 0.30% | ~9 |
 | The Emperor Protects | 0.20% | ~6 |
 | Gunmaster | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |

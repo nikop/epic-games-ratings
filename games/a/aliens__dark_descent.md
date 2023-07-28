@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 655)
 | The Passenger | 24.00% | ~735 |
 | Come on, You Wanna Live Forever? | 23.00% | ~704 |
 | Stuff Of Nightmares | 21.00% | ~643 |
-| El Riesgo Siempre Vive | 20.00% | ~612 |
-| The Spire | 20.00% | ~612 |
+| El Riesgo Siempre Vive | 21.00% | ~643 |
+| The Spire | 21.00% | ~643 |
 | Excavating The Truth | 18.00% | ~551 |
 | One For Every Occasion | 17.00% | ~521 |
 | Frontliner | 17.00% | ~521 |
@@ -39,8 +39,8 @@ Rating: 4.43 (Ranked 655)
 | Abysmal Horrors | 17.00% | ~521 |
 | Bandage Lover | 16.00% | ~490 |
 | Regicide | 13.00% | ~398 |
+| Flawless Victory | 11.00% | ~337 |
 | Heavy Steps | 11.00% | ~337 |
-| Flawless Victory | 10.00% | ~306 |
 | This Went Smoothly | 10.00% | ~306 |
 | Perfect Enhancements | 8.00% | ~245 |
 | Hardened In The Heat Of Battle | 6.00% | ~184 |
