@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.48% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.95% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -69,7 +69,7 @@
 | 67 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 68 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 70 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.69% |
+| 70 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.68% |
 | 71 | [Lamentum](games/l/lamentum.md) | 2.62% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 73 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -77,8 +77,8 @@
 | 75 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 76 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
-| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
-| 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
+| 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 80 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.99% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
