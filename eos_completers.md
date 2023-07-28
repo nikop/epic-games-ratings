@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 71.43% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.15% |
+| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 75.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.44% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -15,17 +15,17 @@
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 17.39% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.50% |
-| 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 12.50% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
-| 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.15% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 22 | [Remains](games/r/remains.md) | 10.87% |
-| 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.47% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
+| 17 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.15% |
+| 19 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.11% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 21 | [Remains](games/r/remains.md) | 10.87% |
+| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
+| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.47% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.00% |
+| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.81% |
 | 28 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -41,7 +41,7 @@
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.19% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.13% |
 | 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
@@ -53,11 +53,11 @@
 | 51 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 52 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
-| 54 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.85% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
+| 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
+| 55 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.70% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 57 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.55% |
+| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.53% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.41% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -73,12 +73,12 @@
 | 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.65% |
+| 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.64% |
 | 75 | [Lamentum](games/l/lamentum.md) | 2.62% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.43% |
-| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
+| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 80 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
