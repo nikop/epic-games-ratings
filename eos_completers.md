@@ -51,7 +51,7 @@
 | 48 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.44% |
 | 50 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 51 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.94% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
 | 53 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 54 | [ZZT!](games/z/zzt!.md) | 3.57% |
@@ -62,7 +62,7 @@
 | 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 61 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
 | 62 | [The Complex](games/t/the_complex.md) | 3.05% |
-| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
+| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.01% |
 | 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
 | 66 | [HordeCore](games/h/hordecore.md) | 2.91% |
@@ -80,7 +80,7 @@
 | 78 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 79 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
-| 81 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 81 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 82 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
 | 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.99% |
 | 84 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -517,4 +517,4 @@
 | 244 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 244 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 244 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,958 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,959 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -40,7 +40,7 @@
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 507 |
 | 39 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.85 | 21 | 495 |
 | 39 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 144 | 297 |
-| 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,725 | 42 |
+| 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,727 | 42 |
 | 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,532 | 63 |
 | 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 372 | 218 |
 | 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 219 | 258 |
@@ -302,7 +302,7 @@
 | 300 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.65 | 0 | 507 |
 | 300 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 507 |
 | 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 507 |
-| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,016 | 67 |
+| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,022 | 67 |
 | 300 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 507 |
 | 300 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 507 |
 | 300 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 507 |
@@ -428,7 +428,7 @@
 | 425 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,434 | 11 |
 | 425 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 288 |
 | 425 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 507 |
-| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,568 | 39 |
+| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,579 | 39 |
 | 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 253 | 245 |
 | 425 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 507 |
 | 425 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 25 | 476 |

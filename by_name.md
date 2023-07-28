@@ -444,7 +444,7 @@
 | [Chronos Affinity](games/c/chronos_affinity.md) | - | - | - | - |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 876 | 0 | 507 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 869 | 0 | 507 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 300 | 5,016 | 67 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 300 | 5,022 | 67 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 58 | 0 | 507 |
 | [City Car Parking Simulator](games/8/81965a5531ee48309b6da807d7fed155.md) | - | - | - | - |
 | [City of Beats](games/c/city_of_beats.md) | - | - | 0 | - |
@@ -721,7 +721,7 @@
 | [Dust and Neon](games/d/dust_and_neon.md) | - | - | 0 | - |
 | [Dust Fleet](games/d/dust_fleet.md) | - | - | - | - |
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | - | - | - | - |
-| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 425 | 8,568 | 39 |
+| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 425 | 8,579 | 39 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 367 | 41,802 | 12 |
 | [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | - | - | 0 | - |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | - | - | - | - |
@@ -766,7 +766,7 @@
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | - | - | - | - |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | - | - | - | - |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | - | - | 0 | - |
-| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 39 | 7,725 | 42 |
+| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 39 | 7,727 | 42 |
 | [Epic Games store](games/e/epic_games_store.md) | - | - | - | - |
 | [Epic Wallet](games/e/epic_wallet.md) | - | - | - | - |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 573 | 0 | 507 |
@@ -1718,6 +1718,7 @@
 | [Parkitect](games/p/parkitect.md) | 4.34 | 750 | 0 | 507 |
 | [Parkour Legends](games/p/parkour_legends.md) | - | - | - | - |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 367 | 0 | 507 |
+| [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | - | - | - | - |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 758 | 0 | 507 |
 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 367 | 2,536 | 98 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 442 | 3,184 | 91 |
@@ -2057,8 +2058,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 184 | 0 | 507 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 662 | 268 | 243 |

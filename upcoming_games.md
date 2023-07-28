@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 1 | - | - |
 | [Mega City Police](games/m/mega_city_police.md) | 2023-07-28 | 26 (1,000 XP) | 5 | - | - |
 | [Secret Agent 001](games/3/3376364c2a914c1fbde839f5cf8824f6.md) | 2023-07-29 | - |  | - | - |
 | [Hombre](games/1/12351c3d2ae8457684e4dbfb93c04a5c.md) | 2023-07-31 | - |  | - | - |
@@ -306,6 +305,7 @@
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [PACK MY STUFF](games/d/d71669b3eabc4ca3869613ccaf16bdd8.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
+| [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2099-01-01 | - |  | - | - |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2099-01-01 | - |  | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | - |  | - | - |
 | [Pillazon - MMO Drug Lord Tycoon](games/e/e3ea6ce18c3143ec8b4dbd15bb16a73c.md) | 2099-01-01 | - |  | - | - |
@@ -405,7 +405,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,024 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,025 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |

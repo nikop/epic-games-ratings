@@ -38,10 +38,10 @@
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,568 | 4.61 | 367 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,557 | 4.78 | 101 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,542 | 4.76 | 120 |
-| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,568 | 4.58 | 425 |
+| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,579 | 4.58 | 425 |
 | 40 | [Control](games/c/control.md) | 8,418 | 4.60 | 392 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,815 | 4.89 | 12 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,725 | 4.85 | 39 |
+| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,727 | 4.85 | 39 |
 | 43 | [Supraland](games/s/supraland.md) | 7,654 | 4.61 | 367 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,644 | 4.48 | 587 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,617 | 4.57 | 442 |
@@ -66,7 +66,7 @@
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,404 | 4.54 | 496 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,196 | 4.33 | 758 |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,093 | 4.05 | 907 |
-| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,016 | 4.65 | 300 |
+| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,022 | 4.65 | 300 |
 | 68 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4,838 | 4.74 | 144 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 463 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,672 | 3.99 | 921 |
