@@ -15,7 +15,7 @@ Rating: 4.49 (Ranked 573)
 | Cultured | 51.00% | ~12,502 |
 | Vaporous Expansion | 48.00% | ~11,767 |
 | Teamwork | 44.00% | ~10,786 |
-| There you are! | 42.00% | ~10,296 |
+| There you are! | 43.00% | ~10,541 |
 | Clutch Capture | 41.00% | ~10,051 |
 | Back Off | 35.00% | ~8,580 |
 | Daily Dose | 34.00% | ~8,335 |
@@ -159,13 +159,13 @@ Completed: 48 (0.20%) (Ranked 172)
 | 2023-07-28 | 24,514 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 244  (Ranked 249)  
-Sum: 2,188 (Ranked 190)  
+Sum: 2,189 (Ranked 190)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 244 |
 | This game is Great for Beginners | 234 |
-| This game has Competitive Players | 224 |
+| This game has Competitive Players | 225 |
 | This game has Diverse Characters | 219 |
 | This game has Amazing Storytelling | 219 |
 | This game is Highly Recommended | 214 |
@@ -299,3 +299,4 @@ Diff (max vs sum): 59
 | 2023-07-25 | 4.49 | 243 | 2,179 |
 | 2023-07-26 | 4.49 | 244 | 2,187 |
 | 2023-07-27 | 4.49 | 244 | 2,188 |
+| 2023-07-28 | 4.49 | 244 | 2,189 |

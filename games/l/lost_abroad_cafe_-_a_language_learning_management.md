@@ -8,7 +8,7 @@
 | Barista | 47.00% | ~121 |
 | Tea-ser | 38.00% | ~98 |
 | Coffee Connoisseur | 19.00% | ~49 |
-| Tea Master | 10.00% | ~26 |
+| Tea Master | 11.00% | ~28 |
 | Brew Master | 6.00% | ~15 |
 | Tea Guru | 4.00% | ~10 |
 | Countertop Champion | 0.00% | ~0 |

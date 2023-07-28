@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:05:13.3349341+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:21.0053602+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:00:19.9095334+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:05:13.3349803+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:00:07.7929651+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:21.005401+00:00"
 }

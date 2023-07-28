@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6848,
+  "EOS_Progressed": 6850,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5044,6 +5044,11 @@
       "Time": "2023-07-28T19:05:28.3113148+00:00",
       "NumProgressed": 6848,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-28T20:04:35.442942+00:00",
+      "NumProgressed": 6850,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5071,7 +5076,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -5079,7 +5084,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5111,7 +5116,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "FASHION_VICTIM",
@@ -5119,7 +5124,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -5127,7 +5132,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5157,9 +5162,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1370
     },
     {
       "ID": "LIBERATOR",
@@ -5222,7 +5227,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6848,
+      "Progressed": 6850,
       "Completed": 30
     }
   ],
@@ -5230,8 +5235,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:05:28.3113139+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:35.4429416+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.8074747+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:59:13.5590861+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:05:28.3113612+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:59:00.6433242+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:35.4429905+00:00"
 }

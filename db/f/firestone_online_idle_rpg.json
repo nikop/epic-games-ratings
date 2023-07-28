@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4560,6 +4560,11 @@
       "Time": "2023-07-28T18:04:03.7257708+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T20:04:01.3147611+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4579,7 +4584,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "angelpower",
@@ -4747,7 +4752,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "fellowshippower",
@@ -4755,7 +4760,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "fourleafclover",
@@ -4803,7 +4808,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "herewegoagain",
@@ -4969,9 +4974,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 364
     },
     {
       "ID": "relicofthepast",
@@ -5131,7 +5136,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "warmachinesarmy",
@@ -5170,7 +5175,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 1
     }
   ],
@@ -5178,8 +5183,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:04:51.8282602+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:01.3147605+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:39.3052506+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:59:23.2792558+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:04:51.8283802+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:59:10.6259724+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:01.3148703+00:00"
 }

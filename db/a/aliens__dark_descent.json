@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -204,7 +204,7 @@
   "Tags": [],
   "EOS_Progressed": 3061,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3405,9 +3405,9 @@
       "ID": "ACH_MAX_ALL_CLASSES",
       "SetID": "816efe",
       "Name": "Hardened In The Heat Of Battle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -3630,8 +3630,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-28T19:01:02.8957088+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:03:25.5897047+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:02:50.4453983+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:01:02.8957098+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:03:25.5897606+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:00:52.5735897+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:02:50.4454613+00:00"
 }

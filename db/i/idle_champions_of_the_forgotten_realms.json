@@ -5338,9 +5338,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216445,
+  "EOS_Progressed": 216457,
   "EOS_Completed": 2133,
-  "EOS_NewPlayers": 2249,
+  "EOS_NewPlayers": 2241,
   "EOS_NewCompleters": 73,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -15988,6 +15988,11 @@
       "Time": "2023-07-28T19:04:17.3093254+00:00",
       "NumProgressed": 216445,
       "NumCompleted": 2133
+    },
+    {
+      "Time": "2023-07-28T20:03:29.788168+00:00",
+      "NumProgressed": 216457,
+      "NumCompleted": 2133
     }
   ],
   "TotalAchievements": 512,
@@ -15999,7 +16004,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6493
+      "UsersEstimate": 6494
     },
     {
       "ID": "objective_completed_10",
@@ -16007,7 +16012,7 @@
       "Name": "Maddening",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "objective_completed_100",
@@ -16303,7 +16308,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "objective_completed_1090",
@@ -16559,7 +16564,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "objective_completed_1142",
@@ -20039,7 +20044,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "objective_completed_1381",
@@ -20094,21 +20099,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182719,
+      "Progressed": 182731,
       "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216445,
+      "Progressed": 216457,
       "Completed": 2133
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:04:17.3093245+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:03:29.7881675+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:59:30.5271657+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:04:17.3121551+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:59:18.3099576+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:03:29.7912174+00:00"
 }

@@ -1563,7 +1563,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13138,
+  "EOS_Progressed": 13141,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -8698,6 +8698,11 @@
       "Time": "2023-07-28T19:07:36.6841272+00:00",
       "NumProgressed": 13138,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T20:06:35.5545746+00:00",
+      "NumProgressed": 13141,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9139,9 +9144,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -11076,21 +11081,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13138,
+      "Progressed": 13141,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13138,
+      "Progressed": 13141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:07:36.6841263+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:06:35.5545741+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:59:14.8833948+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:07:36.6852068+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:59:01.8871049+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:06:35.5555454+00:00"
 }

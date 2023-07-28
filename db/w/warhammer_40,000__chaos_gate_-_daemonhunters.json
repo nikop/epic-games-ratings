@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2023-07-28T18:04:27.5324806+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T20:04:26.985833+00:00",
+      "NumProgressed": 3064,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2833,7 +2838,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2887,9 +2892,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "Kills_Vakir",
@@ -2927,9 +2932,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2993,7 +2998,7 @@
       "Name": "Bloodless",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3200,21 +3205,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3062,
+      "Progressed": 3064,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:05:19.6365114+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:26.9858319+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:00:17.5940935+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:05:19.6366025+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:00:04.9572119+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:26.985914+00:00"
 }

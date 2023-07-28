@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1492,10 +1492,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2188,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2023-07-28T20:00:30.7022681+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2189,
+      "NumberOfAwardsMax": 244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2188,
+  "NumberOfAwards": 2189,
   "NumberOfAwardsMax": 244,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1563,7 +1569,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1575,7 +1581,7 @@
   "EOS_Progressed": 24514,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 156,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -9201,9 +9207,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10296
+      "UsersEstimate": 10541
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9257,9 +9263,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-07-27T21:01:11.6133835+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:05:25.729673+00:00",
+  "LastChanged": "2023-07-28T20:00:30.7022679+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:32.8215312+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:00:42.343697+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:05:25.7297708+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:00:30.7022685+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:32.8216121+00:00"
 }

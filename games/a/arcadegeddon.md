@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,469 |
-| Photogenic | 88.00% | ~7,223 |
-| Surge Gauntlet Jockey | 85.00% | ~6,977 |
-| Plug It In | 84.00% | ~6,895 |
-| Adventure Time | 80.00% | ~6,566 |
-| Playing With Power | 77.00% | ~6,320 |
-| Coup d'Etat | 59.00% | ~4,843 |
-| You're Fired | 58.00% | ~4,761 |
-| Get Furious | 56.00% | ~4,596 |
-| Gunplay And Cosplay | 55.00% | ~4,514 |
-| Hacks In Stacks | 55.00% | ~4,514 |
-| Meching Enemies | 49.00% | ~4,022 |
-| Ticket Toddler | 44.00% | ~3,612 |
-| Booty Bashing | 41.00% | ~3,365 |
-| Field Medic | 38.00% | ~3,119 |
-| Here Comes a New Challenger | 38.00% | ~3,119 |
-| Rapid Response | 33.00% | ~2,709 |
-| Surge Ahead | 31.00% | ~2,544 |
-| The Full Monty | 31.00% | ~2,544 |
-| Guardian Angel | 29.00% | ~2,380 |
-| Poppin Noggins | 25.00% | ~2,052 |
+| Let's Get This Party Started | 91.00% | ~7,472 |
+| Photogenic | 88.00% | ~7,226 |
+| Surge Gauntlet Jockey | 85.00% | ~6,979 |
+| Plug It In | 84.00% | ~6,897 |
+| Adventure Time | 80.00% | ~6,569 |
+| Playing With Power | 77.00% | ~6,322 |
+| Coup d'Etat | 59.00% | ~4,844 |
+| You're Fired | 58.00% | ~4,762 |
+| Get Furious | 56.00% | ~4,598 |
+| Gunplay And Cosplay | 55.00% | ~4,516 |
+| Hacks In Stacks | 55.00% | ~4,516 |
+| Meching Enemies | 49.00% | ~4,023 |
+| Ticket Toddler | 44.00% | ~3,613 |
+| Booty Bashing | 41.00% | ~3,367 |
+| Field Medic | 38.00% | ~3,120 |
+| Here Comes a New Challenger | 38.00% | ~3,120 |
+| Rapid Response | 33.00% | ~2,710 |
+| Surge Ahead | 31.00% | ~2,545 |
+| The Full Monty | 31.00% | ~2,545 |
+| Guardian Angel | 29.00% | ~2,381 |
+| Poppin Noggins | 25.00% | ~2,053 |
 | Clips and Crits | 20.00% | ~1,642 |
-| Grey Goo | 18.00% | ~1,477 |
-| Boss of Bosses | 15.00% | ~1,231 |
-| The Final Blow | 14.00% | ~1,149 |
+| Grey Goo | 18.00% | ~1,478 |
+| Boss of Bosses | 15.00% | ~1,232 |
+| The Final Blow | 14.00% | ~1,150 |
 | To Be Continued | 13.00% | ~1,067 |
 | Light My Fire | 12.00% | ~985 |
 | Seasoned Adventurer | 12.00% | ~985 |
@@ -39,9 +39,9 @@ Number of Ratings: 801  (23.09.2022)
 | Get In The Ring! | 9.00% | ~739 |
 | Rescue Ranger | 7.00% | ~575 |
 | Ticket Titan | 7.00% | ~575 |
-| Surge Gauntlet Scholar | 6.00% | ~492 |
-| Master of Arms | 5.00% | ~410 |
-| Stop Hitting Yourself | 5.00% | ~410 |
+| Surge Gauntlet Scholar | 6.00% | ~493 |
+| Master of Arms | 5.00% | ~411 |
+| Stop Hitting Yourself | 5.00% | ~411 |
 | Ground Control | 4.00% | ~328 |
 | No Chill | 4.00% | ~328 |
 | Team Player | 4.00% | ~328 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,208 (Ranked 125)  
+Progressed: 8,211 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 8,121 | 0 |
 | 2023-07-26 | 8,149 | 0 |
 | 2023-07-27 | 8,183 | 0 |
-| 2023-07-28 | 8,208 | 0 |
+| 2023-07-28 | 8,211 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 384)  
 Sum: 454 (Ranked 304)  

@@ -11,11 +11,11 @@ Rating: 4.32 (Ranked 768)
 | Flying Present Catcher | 5.00% | ~2,804 |
 | HFZ Goober | 5.00% | ~2,804 |
 | Sunflower Master | 4.00% | ~2,243 |
-| Backer Visitor | 2.00% | ~1,121 |
-| Hi Fiver | 2.00% | ~1,121 |
-| Hate That Randomizer | 2.00% | ~1,121 |
-| Feet on Funkotron | 2.00% | ~1,121 |
-| A Timely Splash | 2.00% | ~1,121 |
+| Backer Visitor | 2.00% | ~1,122 |
+| Hi Fiver | 2.00% | ~1,122 |
+| Hate That Randomizer | 2.00% | ~1,122 |
+| Feet on Funkotron | 2.00% | ~1,122 |
+| A Timely Splash | 2.00% | ~1,122 |
 | Elf Chaser | 1.00% | ~561 |
 | Fool Me Twice | 1.00% | ~561 |
 | Old School Jammin' | 1.00% | ~561 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 768)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,074 (Ranked 87)  
+Progressed: 56,075 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-25 | 56,017 | 4 |
 | 2023-07-26 | 56,031 | 4 |
 | 2023-07-27 | 56,055 | 4 |
-| 2023-07-28 | 56,074 | 4 |
+| 2023-07-28 | 56,075 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

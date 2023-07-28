@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "Doll",
@@ -494,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:03:47.9286405+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:03:11.8054764+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:04.1524132+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:02:04.1060914+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:03:47.9286852+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:01:51.1626681+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:03:11.8054982+00:00"
 }

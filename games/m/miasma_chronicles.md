@@ -12,7 +12,7 @@ Rating: 4.40 (Ranked 693)
 | I am the law! | 63.00% | ~821 |
 | Lumberjack | 52.00% | ~678 |
 | Croaked | 48.00% | ~625 |
-| Limp Richard | 47.00% | ~612 |
+| Limp Richard | 48.00% | ~625 |
 | Exorcist | 47.00% | ~612 |
 | From Darkness to Light | 47.00% | ~612 |
 | Editor Adept | 46.00% | ~599 |
@@ -23,8 +23,8 @@ Rating: 4.40 (Ranked 693)
 | Technophobe | 38.00% | ~495 |
 | Recycler | 37.00% | ~482 |
 | Are you not entertained? | 33.00% | ~430 |
+| Jarhead | 33.00% | ~430 |
 | Ganglord | 32.00% | ~417 |
-| Jarhead | 32.00% | ~417 |
 | Infiltrator | 32.00% | ~417 |
 | Pushing Daisy | 30.00% | ~391 |
 | Experienced | 29.00% | ~378 |

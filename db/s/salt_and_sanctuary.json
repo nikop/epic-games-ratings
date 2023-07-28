@@ -2433,9 +2433,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 528915,
+  "EOS_Progressed": 528916,
   "EOS_Completed": 1486,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -12998,6 +12998,11 @@
       "Time": "2023-07-28T19:03:46.3921443+00:00",
       "NumProgressed": 528915,
       "NumCompleted": 1486
+    },
+    {
+      "Time": "2023-07-28T20:03:10.2769068+00:00",
+      "NumProgressed": 528916,
+      "NumCompleted": 1486
     }
   ],
   "TotalAchievements": 37,
@@ -13025,7 +13030,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 158674
+      "UsersEstimate": 158675
     },
     {
       "ID": "DEVOTED",
@@ -13065,7 +13070,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 438999
+      "UsersEstimate": 439000
     },
     {
       "ID": "HONED",
@@ -13281,7 +13286,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84626
+      "UsersEstimate": 84627
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -13304,15 +13309,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 528915,
+      "Progressed": 528916,
       "Completed": 1486
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-27T15:01:19.9796888+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:03:46.3921436+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:03:10.2769064+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:24.6520946+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:01:07.3585859+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:03:46.3922496+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:00:56.848896+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:03:10.2770013+00:00"
 }

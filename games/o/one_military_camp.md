@@ -8,10 +8,10 @@
 | First Step | 48.00% | ~50 |
 | Indebted | 10.00% | ~10 |
 | Capitalism | 10.00% | ~10 |
+| Health Care | 6.00% | ~6 |
 | Good payer | 6.00% | ~6 |
 | Desert Rat | 6.00% | ~6 |
 | Green Energy | 6.00% | ~6 |
-| Health Care | 5.00% | ~5 |
 | There's something in those trees | 5.00% | ~5 |
 | Ammo Tycoon | 5.00% | ~5 |
 | Great Producer | 5.00% | ~5 |

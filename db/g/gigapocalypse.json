@@ -604,9 +604,9 @@
       "ID": "secret45",
       "SetID": "39f6ck8",
       "Name": "Feast Time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "secret46",
@@ -652,9 +652,9 @@
       "ID": "secret50",
       "SetID": "39f6ck8",
       "Name": "Cheesy Chess",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "secret51",
@@ -725,8 +725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:04:13.3678857+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:03:25.5384341+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:51.8489819+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:01:48.7076165+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:04:13.3679374+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:01:35.5298324+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:03:25.5384859+00:00"
 }

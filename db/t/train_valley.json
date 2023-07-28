@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-07-28T10:05:25.2817462+00:00",
       "NumProgressed": 389,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-28T20:04:24.5525571+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -663,7 +668,7 @@
       "Name": "Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "03_philatelist",
@@ -671,7 +676,7 @@
       "Name": "Philatelist",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "04_tycoon",
@@ -695,7 +700,7 @@
       "Name": "Living it large!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "07_europe",
@@ -743,15 +748,15 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "14_woodcutter",
@@ -783,7 +788,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "18_foreman",
@@ -799,7 +804,7 @@
       "Name": "Just in time!",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "20_sabotage",
@@ -823,7 +828,7 @@
       "Name": "Ouroboros",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "23_closecall",
@@ -831,7 +836,7 @@
       "Name": "Close call!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "24_mega",
@@ -885,9 +890,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "31_chancellor",
@@ -951,7 +956,7 @@
       "Name": "Chuck Norris",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "39_salesman",
@@ -966,15 +971,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-28T19:05:17.1960977+00:00",
+  "LastChanged_Achievements": "2023-07-28T20:04:24.5525564+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:58:51.7507371+00:00",
-  "LastUpdate_Achievements": "2023-07-28T19:05:17.1961326+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:58:38.1267528+00:00",
+  "LastUpdate_Achievements": "2023-07-28T20:04:24.5525926+00:00"
 }
