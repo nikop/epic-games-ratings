@@ -213,7 +213,7 @@
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,724 | 116 |
 | 197 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 507 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 507 |
-| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,612 | 8 |
+| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,670 | 8 |
 | 214 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 507 |
 | 214 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 507 |
 | 214 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 472 |
@@ -246,8 +246,8 @@
 | 240 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 507 |
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,304 | 47 |
 | 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,889 | 80 |
-| 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,927 | 93 |
-| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,873 | 3 |
+| 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,963 | 93 |
+| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,944 | 3 |
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 204,306 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 507 |
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
@@ -781,15 +781,15 @@
 | 778 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 507 |
 | 778 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 507 |
 | 778 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 507 |
-| 782 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 507 |
-| 782 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 507 |
-| 782 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 507 |
-| 782 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 507 |
-| 782 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,532,708 | 1 |
-| 782 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 702 | 164 |
-| 782 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 416 |
-| 782 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 147 | 295 |
-| 782 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 507 |
+| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.30 | 147 | 295 |
+| 783 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 507 |
+| 783 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 507 |
+| 783 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 507 |
+| 783 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 507 |
+| 783 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,532,708 | 1 |
+| 783 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 702 | 164 |
+| 783 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 416 |
+| 783 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 507 |
 | 791 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 507 |
 | 791 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,688 | 82 |
 | 791 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 507 |
@@ -862,7 +862,7 @@
 | 860 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 507 |
 | 860 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 347 |
 | 860 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 507 |
-| 860 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,464 | 101 |
+| 860 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,466 | 101 |
 | 860 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 338 |
 | 860 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 507 |
 | 860 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 507 |

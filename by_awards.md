@@ -1,13 +1,13 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,532,708 | 4.29 | 782 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,532,708 | 4.29 | 783 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 484,867 | 4.50 | 555 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,873 | 4.68 | 240 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,944 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 204,306 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 189,319 | 4.19 | 854 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 162,392 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,013 | 4.52 | 519 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,612 | 4.69 | 214 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,670 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,253 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 62,427 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,434 | 4.58 | 425 |
@@ -92,7 +92,7 @@
 | 90 | [Hades](games/h/hades.md) | 3,194 | 4.92 | 4 |
 | 91 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,184 | 4.57 | 442 |
 | 92 | [Trackmania](games/t/trackmania.md) | 3,047 | 4.67 | 260 |
-| 93 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,927 | 4.68 | 240 |
+| 93 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,963 | 4.68 | 240 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,882 | 3.98 | 923 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,590 | 4.51 | 538 |
 | 96 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,579 | 4.82 | 65 |
@@ -100,7 +100,7 @@
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,536 | 4.61 | 367 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,505 | 4.27 | 799 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,475 | 4.10 | 891 |
-| 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,464 | 4.18 | 860 |
+| 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,466 | 4.18 | 860 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,434 | 4.80 | 83 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,365 | 4.78 | 101 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,240 | 4.67 | 260 |
@@ -163,7 +163,7 @@
 | 161 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 738 | 4.78 | 101 |
 | 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 709 | 4.87 | 24 |
 | 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 705 | 4.59 | 411 |
-| 164 | [Neverwinter](games/n/neverwinter.md) | 702 | 4.29 | 782 |
+| 164 | [Neverwinter](games/n/neverwinter.md) | 702 | 4.29 | 783 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 682 | 4.60 | 392 |
 | 166 | [Neon Abyss](games/n/neon_abyss.md) | 678 | 4.68 | 240 |
 | 166 | [Subnautica](games/s/subnautica.md) | 678 | 4.85 | 39 |
@@ -294,7 +294,7 @@
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 151 | 4.55 | 481 |
 | 293 | [Star Stable Online](games/s/star_stable_online.md) | 149 | 4.42 | 662 |
 | 294 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.52 | 519 |
-| 295 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 147 | 4.29 | 782 |
+| 295 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 147 | 4.30 | 778 |
 | 296 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 146 | 4.77 | 109 |
 | 297 | [Blasphemous](games/b/blasphemous.md) | 144 | 4.85 | 39 |
 | 298 | [Night in the Woods](games/n/night_in_the_woods.md) | 142 | 4.72 | 169 |
@@ -415,7 +415,7 @@
 | 412 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 929 |
 | 412 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 820 |
 | 412 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 120 |
-| 416 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 44 | 4.29 | 782 |
+| 416 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 44 | 4.29 | 783 |
 | 417 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 42 | 4.76 | 120 |
 | 417 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 42 | 4.86 | 28 |
 | 419 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 274 |
