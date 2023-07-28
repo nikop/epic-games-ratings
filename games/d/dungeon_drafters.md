@@ -12,7 +12,7 @@
 | Setting Off | 27.00% | ~18 |
 | Clear as Water | 24.00% | ~16 |
 | Riddlesolver | 21.00% | ~14 |
-| Card Collector | 19.00% | ~13 |
+| Card Collector | 21.00% | ~14 |
 | Dungeon Mastery | 18.00% | ~12 |
 | A Strange Proposition | 12.00% | ~8 |
 | The Steed | 10.00% | ~7 |
@@ -25,6 +25,7 @@
 | Raider Mastery | 4.00% | ~3 |
 | Traveler Mastery | 4.00% | ~3 |
 | The Plot Thickens | 4.00% | ~3 |
+| Card Completionist | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
 | Best Pupil | 3.00% | ~2 |
@@ -35,7 +36,6 @@
 | Warden Mastery | 3.00% | ~2 |
 | Towards the Future | 3.00% | ~2 |
 | Trinket Enthusiast | 3.00% | ~2 |
-| Card Completionist | 3.00% | ~2 |
 | The Usurper | 3.00% | ~2 |
 | First time? | 3.00% | ~2 |
 | Harmony | 3.00% | ~2 |

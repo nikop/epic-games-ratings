@@ -7,10 +7,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~263 |
+| Settler | 1.00% | ~131 |
 | Play a Single Player Game | 1.00% | ~131 |
 | The Great Mage | 1.00% | ~131 |
 | Explorer | 0.90% | ~118 |
-| Settler | 0.90% | ~118 |
 | Poetic Leader | 0.90% | ~118 |
 | Friendly Family | 0.80% | ~105 |
 | Able | 0.70% | ~92 |
@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
+| Wise | 0.40% | ~53 |
 | Developing Cities | 0.40% | ~53 |
 | Strong Cities | 0.40% | ~53 |
 | Able Difficulty | 0.40% | ~53 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.30% | ~39 |
 | Great | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
-| Wise | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,128 (Ranked 116)  
+Progressed: 13,129 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,6 +402,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
+| 2023-07-28 | 13,129 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

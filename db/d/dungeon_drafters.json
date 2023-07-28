@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -553,17 +553,17 @@
       "ID": "cards_discovered_complete",
       "SetID": "3b8n56h",
       "Name": "Card Completionist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "demiurge_defeated",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:03:22.4336995+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:03:33.8601214+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:09.4299221+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:58:05.2243297+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:03:22.4337588+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:57:51.6528373+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:03:33.8601562+00:00"
 }

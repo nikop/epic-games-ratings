@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14185,
+  "EOS_Progressed": 14187,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6964,6 +6964,11 @@
       "Time": "2023-07-28T01:57:09.5299828+00:00",
       "NumProgressed": 14185,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-28T05:01:20.9868975+00:00",
+      "NumProgressed": 14187,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -6975,7 +6980,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "tpote_achievement_10",
@@ -6991,7 +6996,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "tpote_achievement_12",
@@ -7015,7 +7020,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "tpote_achievement_15",
@@ -7039,7 +7044,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "tpote_achievement_18",
@@ -7047,7 +7052,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "tpote_achievement_19",
@@ -7055,7 +7060,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "tpote_achievement_2",
@@ -7063,7 +7068,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "tpote_achievement_20",
@@ -7103,7 +7108,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "tpote_achievement_25",
@@ -7127,7 +7132,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "tpote_achievement_28",
@@ -7151,7 +7156,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "tpote_achievement_30",
@@ -7159,7 +7164,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "tpote_achievement_31",
@@ -7167,7 +7172,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "tpote_achievement_32",
@@ -7239,7 +7244,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "tpote_achievement_40",
@@ -7263,7 +7268,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "tpote_achievement_6",
@@ -7271,7 +7276,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "tpote_achievement_7",
@@ -7302,15 +7307,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14185,
+      "Progressed": 14187,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:02:08.2735204+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:01:20.9868969+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:00:59.7855027+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:02:08.2736019+00:00"
+  "LastUpdate_Ratings": "2023-07-28T05:00:24.1094792+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:01:20.9869756+00:00"
 }

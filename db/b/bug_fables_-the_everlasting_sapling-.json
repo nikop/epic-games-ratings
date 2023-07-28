@@ -147,17 +147,17 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BFT_CH3",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:03:30.0685092+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:03:41.1880366+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:54.4977531+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:01:01.5679747+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:03:30.0685306+00:00"
+  "LastUpdate_Ratings": "2023-07-28T05:00:25.2474293+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:03:41.1880655+00:00"
 }

@@ -5332,10 +5332,10 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216228,
-  "EOS_Completed": 2129,
-  "EOS_NewPlayers": 2289,
-  "EOS_NewCompleters": 70,
+  "EOS_Progressed": 216247,
+  "EOS_Completed": 2130,
+  "EOS_NewPlayers": 2296,
+  "EOS_NewCompleters": 71,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -15907,6 +15907,11 @@
       "Time": "2023-07-28T04:03:04.010367+00:00",
       "NumProgressed": 216228,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-07-28T05:03:15.6738955+00:00",
+      "NumProgressed": 216247,
+      "NumCompleted": 2130
     }
   ],
   "TotalAchievements": 512,
@@ -17604,9 +17609,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 649
     },
     {
       "ID": "objective_completed_36",
@@ -19988,9 +19993,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1278
     },
     {
       "ID": "objective_completed_1391",
@@ -20013,21 +20018,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182502,
-      "Completed": 3021
+      "Progressed": 182521,
+      "Completed": 3022
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216228,
-      "Completed": 2129
+      "Progressed": 216247,
+      "Completed": 2130
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T01:52:57.2061694+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:03:04.0103665+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:03:15.673895+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:59:01.6821096+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:03:04.013754+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:58:43.31463+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:03:15.6765897+00:00"
 }

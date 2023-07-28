@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -88,7 +88,7 @@
   "Tags": [],
   "EOS_Progressed": 908,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
@@ -1195,9 +1195,9 @@
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1380,8 +1380,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:05:23.3474428+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:04:48.7688301+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:57:58.8231141+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:05:23.3474706+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:57:46.643556+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:04:48.7688568+00:00"
 }

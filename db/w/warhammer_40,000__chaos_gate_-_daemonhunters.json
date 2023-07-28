@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -630,9 +630,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3057,
+  "EOS_Progressed": 3058,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2615,6 +2615,11 @@
       "Time": "2023-07-28T03:04:35.1122473+00:00",
       "NumProgressed": 3057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T05:04:04.5364829+00:00",
+      "NumProgressed": 3058,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2624,9 +2629,9 @@
       "ID": "ArsenalOfDestruction",
       "SetID": "2im8phi",
       "Name": "Arsenal of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "AugmeticKnight",
@@ -2800,9 +2805,9 @@
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2856,9 +2861,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Kills_Vakir",
@@ -2960,9 +2965,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3169,21 +3174,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3057,
+      "Progressed": 3058,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3057,
+      "Progressed": 3058,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-27T01:49:58.5099342+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:04:23.7859191+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:04:04.5364824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:59:37.760581+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:04:23.7860021+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:59:14.39254+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:04:04.5365874+00:00"
 }

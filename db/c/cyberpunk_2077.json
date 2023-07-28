@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9447,10 +9447,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 195338,
       "NumberOfAwardsMax": 74253
+    },
+    {
+      "Time": "2023-07-28T04:58:28.5669649+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 195351,
+      "NumberOfAwardsMax": 74253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195338,
+  "NumberOfAwards": 195351,
   "NumberOfAwardsMax": 74253,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9500,7 +9506,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8623
+      "Count": 8636
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9527,10 +9533,10 @@
       "Count": 5432
     }
   ],
-  "EOS_Progressed": 867955,
+  "EOS_Progressed": 867957,
   "EOS_Completed": 1910,
-  "EOS_NewPlayers": 1176,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1173,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -20252,6 +20258,11 @@
       "Time": "2023-07-28T04:04:15.4260594+00:00",
       "NumProgressed": 867955,
       "NumCompleted": 1910
+    },
+    {
+      "Time": "2023-07-28T05:03:56.1085038+00:00",
+      "NumProgressed": 867957,
+      "NumCompleted": 1910
     }
   ],
   "TotalAchievements": 44,
@@ -20295,7 +20306,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338502
+      "UsersEstimate": 338503
     },
     {
       "ID": "FollowingTheRiver",
@@ -20335,7 +20346,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130193
+      "UsersEstimate": 130194
     },
     {
       "ID": "Gunslinger",
@@ -20383,7 +20394,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 190950
+      "UsersEstimate": 190951
     },
     {
       "ID": "MaxPain",
@@ -20407,7 +20418,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69436
+      "UsersEstimate": 69437
     },
     {
       "ID": "NoMansLand",
@@ -20439,7 +20450,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243027
+      "UsersEstimate": 243028
     },
     {
       "ID": "Specialist",
@@ -20447,7 +20458,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69436
+      "UsersEstimate": 69437
     },
     {
       "ID": "Temperance",
@@ -20479,7 +20490,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590209
+      "UsersEstimate": 590211
     },
     {
       "ID": "TheHermit",
@@ -20487,7 +20498,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208309
+      "UsersEstimate": 208310
     },
     {
       "ID": "TheHightPriestess",
@@ -20567,7 +20578,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130193
+      "UsersEstimate": 130194
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -20614,15 +20625,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 867955,
+      "Progressed": 867957,
       "Completed": 1910
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-28T02:58:37.8500739+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:04:15.4260585+00:00",
+  "LastChanged": "2023-07-28T04:58:28.5669647+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:03:56.1085034+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:31.2727335+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:58:48.0609021+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:04:15.4261518+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:58:28.5669654+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:03:56.1086524+00:00"
 }

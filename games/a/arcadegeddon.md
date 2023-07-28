@@ -6,34 +6,34 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,450 |
+| Let's Get This Party Started | 91.00% | ~7,451 |
 | Photogenic | 88.00% | ~7,205 |
-| Surge Gauntlet Jockey | 85.00% | ~6,959 |
-| Plug It In | 84.00% | ~6,877 |
+| Surge Gauntlet Jockey | 85.00% | ~6,960 |
+| Plug It In | 84.00% | ~6,878 |
 | Adventure Time | 80.00% | ~6,550 |
-| Playing With Power | 77.00% | ~6,304 |
-| Coup d'Etat | 59.00% | ~4,830 |
-| You're Fired | 58.00% | ~4,748 |
+| Playing With Power | 77.00% | ~6,305 |
+| Coup d'Etat | 59.00% | ~4,831 |
+| You're Fired | 58.00% | ~4,749 |
 | Get Furious | 56.00% | ~4,585 |
 | Gunplay And Cosplay | 55.00% | ~4,503 |
 | Hacks In Stacks | 55.00% | ~4,503 |
 | Meching Enemies | 49.00% | ~4,012 |
-| Ticket Toddler | 44.00% | ~3,602 |
+| Ticket Toddler | 44.00% | ~3,603 |
 | Booty Bashing | 41.00% | ~3,357 |
 | Field Medic | 38.00% | ~3,111 |
 | Here Comes a New Challenger | 38.00% | ~3,111 |
 | Rapid Response | 33.00% | ~2,702 |
 | Surge Ahead | 31.00% | ~2,538 |
 | The Full Monty | 31.00% | ~2,538 |
-| Guardian Angel | 29.00% | ~2,374 |
+| Guardian Angel | 29.00% | ~2,375 |
 | Poppin Noggins | 25.00% | ~2,047 |
-| Clips and Crits | 20.00% | ~1,637 |
+| Clips and Crits | 20.00% | ~1,638 |
 | Grey Goo | 18.00% | ~1,474 |
 | Boss of Bosses | 15.00% | ~1,228 |
 | The Final Blow | 14.00% | ~1,146 |
 | To Be Continued | 13.00% | ~1,064 |
-| Light My Fire | 12.00% | ~982 |
-| Seasoned Adventurer | 12.00% | ~982 |
+| Light My Fire | 12.00% | ~983 |
+| Seasoned Adventurer | 12.00% | ~983 |
 | 1.21 Gigawatts | 11.00% | ~901 |
 | This Is My Boomstick! | 10.00% | ~819 |
 | Get In The Ring! | 9.00% | ~737 |
@@ -42,9 +42,9 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Gauntlet Scholar | 6.00% | ~491 |
 | Master of Arms | 5.00% | ~409 |
 | Stop Hitting Yourself | 5.00% | ~409 |
-| Ground Control | 4.00% | ~327 |
-| No Chill | 4.00% | ~327 |
-| Team Player | 4.00% | ~327 |
+| Ground Control | 4.00% | ~328 |
+| No Chill | 4.00% | ~328 |
+| Team Player | 4.00% | ~328 |
 | Event Horizon | 3.00% | ~246 |
 | Start Your Collection | 3.00% | ~246 |
 | Treasure Hunting | 3.00% | ~246 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,187 (Ranked 125)  
+Progressed: 8,188 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 8,121 | 0 |
 | 2023-07-26 | 8,149 | 0 |
 | 2023-07-27 | 8,183 | 0 |
-| 2023-07-28 | 8,187 | 0 |
+| 2023-07-28 | 8,188 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 384)  
 Sum: 454 (Ranked 304)  

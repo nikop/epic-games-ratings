@@ -29,8 +29,8 @@ Number of Ratings: 25  (23.09.2022)
 | The Collector | 24.00% | ~143 |
 | All Doors Open | 20.00% | ~119 |
 | Faithful | 11.00% | ~66 |
+| Asmodeus | 9.00% | ~54 |
 | A Close | 9.00% | ~54 |
-| Asmodeus | 8.00% | ~48 |
 | Luna | 8.00% | ~48 |
 | Lover | 1.00% | ~6 |
 | The Harvester | 1.00% | ~6 |

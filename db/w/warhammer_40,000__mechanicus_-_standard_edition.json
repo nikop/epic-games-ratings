@@ -543,7 +543,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 218493,
+  "EOS_Progressed": 218497,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 0,
@@ -11083,6 +11083,11 @@
       "Time": "2023-07-28T04:06:28.7909829+00:00",
       "NumProgressed": 218493,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T05:05:43.8103787+00:00",
+      "NumProgressed": 218497,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -11102,7 +11107,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54623
+      "UsersEstimate": 54624
     },
     {
       "ID": "ACH_BASE_11",
@@ -11134,7 +11139,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "ACH_BASE_16",
@@ -11142,7 +11147,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "ACH_BASE_17",
@@ -11150,7 +11155,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "ACH_BASE_18",
@@ -11158,7 +11163,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "ACH_BASE_19",
@@ -11342,7 +11347,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26219
+      "UsersEstimate": 26220
     },
     {
       "ID": "ACH_BASE_8",
@@ -11358,14 +11363,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 218493,
+      "Progressed": 218497,
       "Completed": 4
     }
   ],
@@ -11373,8 +11378,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-21T21:59:39.6376149+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:06:28.7909821+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:05:43.8103782+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2623372+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:59:22.0066968+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:06:28.7910721+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:59:01.388774+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:05:43.8104816+00:00"
 }

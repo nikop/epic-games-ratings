@@ -3186,18 +3186,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6845,
       "NumberOfAwardsMax": 1690
+    },
+    {
+      "Time": "2023-07-28T04:58:57.8018184+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6848,
+      "NumberOfAwardsMax": 1693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6845,
-  "NumberOfAwardsMax": 1690,
+  "NumberOfAwards": 6848,
+  "NumberOfAwardsMax": 1693,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1690
+      "Count": 1693
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3260,9 +3266,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10628,
+  "EOS_Progressed": 10630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9515,6 +9521,11 @@
       "Time": "2023-07-28T01:57:35.9049501+00:00",
       "NumProgressed": 10628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T05:03:19.5527567+00:00",
+      "NumProgressed": 10630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9558,7 +9569,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -9582,7 +9593,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "09_PathOfDemon",
@@ -9662,7 +9673,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "19_EqualToAroden",
@@ -9774,7 +9785,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9918,7 +9929,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -10453,21 +10464,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9410,
+      "Progressed": 9412,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10628,
+      "Progressed": 10630,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-27T23:59:23.9182705+00:00",
-  "LastChanged_Achievements": "2023-07-28T04:03:08.2515844+00:00",
+  "LastChanged": "2023-07-28T04:58:57.8018182+00:00",
+  "LastChanged_Achievements": "2023-07-28T05:03:19.5527563+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:59:17.9133275+00:00",
-  "LastUpdate_Achievements": "2023-07-28T04:03:08.2517964+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:58:57.8018189+00:00",
+  "LastUpdate_Achievements": "2023-07-28T05:03:19.552976+00:00"
 }

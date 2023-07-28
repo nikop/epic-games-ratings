@@ -11,9 +11,9 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
 | Not So Fast... | 0.90% | ~28 |
-| Bloodless | 0.70% | ~21 |
-| Blood for the Blood God! | 0.60% | ~18 |
-| Purging Spree | 0.60% | ~18 |
+| Bloodless | 0.80% | ~24 |
+| Blood for the Blood God! | 0.70% | ~21 |
+| Purging Spree | 0.70% | ~21 |
 | A Foul Creche | 0.50% | ~15 |
 | Surgical Excision | 0.30% | ~9 |
 | Hold Your Ground | 0.30% | ~9 |
@@ -21,6 +21,7 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.30% | ~9 |
 | Honoured Battle-Brother | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
+| Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
@@ -49,7 +50,6 @@ Number of Ratings: 371  (23.09.2022)
 | Terminal Meltdown | 0.10% | ~3 |
 | Tactical Sabotage | 0.10% | ~3 |
 | Hive Exterminator | 0.10% | ~3 |
-| Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,057 (Ranked 153)  
+Progressed: 3,058 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 3,031 | 0 |
 | 2023-07-26 | 3,047 | 0 |
 | 2023-07-27 | 3,054 | 0 |
-| 2023-07-28 | 3,057 | 0 |
+| 2023-07-28 | 3,058 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 456 (Ranked 303)  
