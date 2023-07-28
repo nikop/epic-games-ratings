@@ -17,29 +17,29 @@
 | Employee of the week | 75.00% | ~124 |
 | Your own amateur gym | 73.00% | ~120 |
 | Run K, run! | 70.00% | ~115 |
+| No bullying more | 66.00% | ~109 |
 | Hello, world! | 66.00% | ~109 |
 | Fighting is cool | 65.00% | ~107 |
-| No bullying more | 65.00% | ~107 |
 | Pal of your father? | 61.00% | ~101 |
 | Employee of the month | 61.00% | ~101 |
 | Spirit of the past | 59.00% | ~97 |
 | Law student | 58.00% | ~96 |
 | Intriguing candies | 58.00% | ~96 |
-| Workout professional | 55.00% | ~91 |
+| Workout professional | 56.00% | ~92 |
 | Little hacker | 53.00% | ~87 |
 | Champion – starter pack | 53.00% | ~87 |
+| Handyman | 52.00% | ~86 |
 | It's good to be alive | 52.00% | ~86 |
 | Your own way | 52.00% | ~86 |
 | Employee of the year | 52.00% | ~86 |
-| Handyman | 51.00% | ~84 |
-| Fight for life | 50.00% | ~82 |
+| Fight for life | 51.00% | ~84 |
 | Own four walls | 50.00% | ~82 |
 | Extreme neuropower! | 47.00% | ~78 |
 | Legal courier | 43.00% | ~71 |
 | Escaped from a big trouble | 40.00% | ~66 |
 | Now you are worthy | 39.00% | ~64 |
 | No blades in the gym | 38.00% | ~63 |
-| Guiding on the right path | 36.00% | ~59 |
+| Guiding on the right path | 37.00% | ~61 |
 | Mysterious voice | 34.00% | ~56 |
 | Fight is life | 32.00% | ~53 |
 | Responsible approach | 32.00% | ~53 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 26.00% | ~43 |
 | Gang wrangler | 25.00% | ~41 |
 | Problems of cyborgs | 24.00% | ~40 |
+| The last bell ring | 24.00% | ~40 |
 | Anyone can resist | 24.00% | ~40 |
-| The last bell ring | 23.00% | ~38 |
 | Trap disarmed | 22.00% | ~36 |
 | Undercover robot | 22.00% | ~36 |
 | Another world | 21.00% | ~35 |

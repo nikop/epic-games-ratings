@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -778,6 +778,11 @@
       "Time": "2023-07-27T22:04:41.9403548+00:00",
       "NumProgressed": 186,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T00:02:21.8497699+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -805,7 +810,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -883,17 +888,17 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 125
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -941,15 +946,15 @@
       "Name": "Open Sesame",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_PTD",
@@ -965,7 +970,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_Researcher",
@@ -979,9 +984,9 @@
       "ID": "ETUA_RestInPeace",
       "SetID": "65jc0ap",
       "Name": "Rest In Peace",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ETUA_SUPER",
@@ -995,9 +1000,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "ETUA_StayDead",
@@ -1037,15 +1042,15 @@
       "Name": "The Cultists",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_TheCurseIsReal",
       "SetID": "65jc0ap",
       "Name": "The Curse Is Real",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1061,7 +1066,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1108,7 +1113,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 1
     }
   ],
@@ -1116,8 +1121,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:02:15.30359+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:02:21.8497696+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:57:41.4820139+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:02:15.3036271+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:57:49.045184+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:02:21.8497986+00:00"
 }

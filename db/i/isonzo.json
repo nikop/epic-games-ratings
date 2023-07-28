@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6470,
+  "EOS_Progressed": 6471,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3757,6 +3757,11 @@
       "Time": "2023-07-27T23:05:12.3180515+00:00",
       "NumProgressed": 6470,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-28T00:05:50.3274545+00:00",
+      "NumProgressed": 6471,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3816,7 +3821,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3840,7 +3845,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -3920,7 +3925,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -4112,7 +4117,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4120,14 +4125,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6470,
+      "Progressed": 6471,
       "Completed": 8
     }
   ],
@@ -4135,8 +4140,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:05:12.318051+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:05:50.3274542+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:58:08.0732513+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:05:12.3181058+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:58:17.1233768+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:05:50.327495+00:00"
 }

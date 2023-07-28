@@ -2,12 +2,12 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "ProductSlug": "dishonored-2",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
@@ -966,6 +966,6 @@
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
   "LastChanged": "2023-07-27T08:59:55.2770504+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:32.8521973+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:00:10.1270659+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:05:24.672539+00:00"
+  "LastUpdate_Ratings": "2023-07-28T00:00:38.6393008+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:06:04.7627277+00:00"
 }

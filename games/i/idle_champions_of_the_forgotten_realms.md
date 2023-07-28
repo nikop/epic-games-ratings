@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,485 |
-| Beast Intentions | 2.00% | ~4,323 |
+| A Brief Tour of the Realms | 3.00% | ~6,486 |
+| Beast Intentions | 2.00% | ~4,324 |
 | Maddening | 1.00% | ~2,162 |
 | The Silken Swamp | 1.00% | ~2,162 |
 | Supply Run | 1.00% | ~2,162 |
-| Rocky Reception | 1.00% | ~1,824 |
+| Rocky Reception | 1.00% | ~1,825 |
 | Rock and Roll | 0.90% | ~1,642 |
 | Vecna Lives! | 0.80% | ~1,460 |
 | Flight of the Kindori Pod | 0.70% | ~1,277 |
@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.30% | ~649 |
 | Best Thay Ever | 0.30% | ~547 |
 | A Demi-god's Defender | 0.30% | ~547 |
+| Xanathaaaaaaar! | 0.30% | ~547 |
 | Homecoming | 0.30% | ~649 |
 | The Lost Heir of Omu | 0.30% | ~649 |
 | No One Can Hear You Scream | 0.30% | ~547 |
@@ -112,8 +113,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.20% | ~365 |
 | Get Back In The Castle | 0.20% | ~365 |
 | Checkmate | 0.20% | ~365 |
+| Vecna Out! | 0.20% | ~365 |
 | Who Lurks Below? | 0.20% | ~365 |
-| Xanathaaaaaaar! | 0.20% | ~365 |
 | Lobsterfolk Assault | 0.20% | ~432 |
 | Periodic Petrification | 0.20% | ~432 |
 | Captured! | 0.20% | ~432 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~182 |
 | Kas the Destroyer | 0.10% | ~182 |
 | Pin and Skewer | 0.10% | ~182 |
-| Vecna Out! | 0.10% | ~182 |
 | Bully for Vecna | 0.10% | ~182 |
 | Clowning Around | 0.10% | ~182 |
 | A Whale of a Time | 0.10% | ~182 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,169 (Ranked 53)  
+Progressed: 216,184 (Ranked 53)  
 Completed: 2,129 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,6 +618,7 @@ Completed: 2,129 (0.98%) (Ranked 108)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
+| 2023-07-28 | 216,184 | 2,129 |
 ## Awards
 Max (Diverse Characters): 5,084  (Ranked 66)  
 Sum: 30,753 (Ranked 38)  

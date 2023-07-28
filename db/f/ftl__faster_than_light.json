@@ -2,12 +2,12 @@
   "ID": "f7dc1618d0bd4810a61f50d44333900e",
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-12-26T16:00:00+00:00",
@@ -1558,6 +1558,6 @@
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
   "LastChanged": "2023-07-22T07:59:50.5720995+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.6803022+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:59:19.5188865+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:05:09.4200987+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:59:37.9939298+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:05:46.8401791+00:00"
 }

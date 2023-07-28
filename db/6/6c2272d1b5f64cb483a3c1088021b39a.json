@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2701,9 +2701,9 @@
       "ID": "conqueror_3",
       "SetID": "53c1p3k",
       "Name": "Conqueror 3",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "diehard_1",
@@ -3100,8 +3100,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:52.8352751+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:05:26.9387373+00:00",
   "LastUpdate_AppInfo": "2023-07-25T03:57:19.8892517+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:57:30.8412641+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:52.8353516+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:57:36.7012924+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:05:26.9387975+00:00"
 }

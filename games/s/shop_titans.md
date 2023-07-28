@@ -10,6 +10,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 0.30% | ~400 |
 | Tinkle of Coins | 0.30% | ~400 |
 | Titan's First Steps | 0.30% | ~400 |
+| One Easy Payment | 0.20% | ~267 |
 | Some Assembly Required | 0.20% | ~267 |
 | Disintermediation | 0.20% | ~267 |
 | Another Satisfied Customer | 0.20% | ~267 |
@@ -26,7 +27,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.10% | ~133 |
 | Constellated | 0.10% | ~133 |
 | A Ronin Reborn | 0.10% | ~133 |
-| One Easy Payment | 0.10% | ~133 |
 | Tax not Included | 0.10% | ~133 |
 | The King's Caprice | 0.10% | ~133 |
 | Research & Development | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,376 (Ranked 61)  
+Progressed: 133,379 (Ranked 61)  
 Completed: 123 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 123 (0.09%) (Ranked 193)
 | 2023-07-25 | 133,231 | 122 |
 | 2023-07-26 | 133,301 | 123 |
 | 2023-07-27 | 133,376 | 123 |
+| 2023-07-28 | 133,379 | 123 |
 ## Awards
 Max (Great for Beginners): 4,672  (Ranked 70)  
 Sum: 26,989 (Ranked 46)  

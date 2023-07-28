@@ -4,12 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 22.00% | ~174 |
+| Time Heals All Wounds | 22.00% | ~175 |
 | Rail Rat | 19.00% | ~151 |
 | The Mysterious Stranger | 18.00% | ~143 |
 | The Steel Shadow | 16.00% | ~127 |
 | Make Up For Lost Time | 16.00% | ~127 |
-| Time Flies | 16.00% | ~127 |
 | No, Thanks! | 16.00% | ~127 |
 | Breaking Down Barriers | 16.00% | ~127 |
 | The Wicked Twins | 16.00% | ~127 |
@@ -20,6 +19,7 @@
 | The Betrayer | 15.00% | ~119 |
 | The Man Who Shattered Time | 15.00% | ~119 |
 | The Loose Cannon | 15.00% | ~119 |
+| Time Flies | 15.00% | ~119 |
 | The Harder They Fall | 15.00% | ~119 |
 | Honest Mistake | 15.00% | ~119 |
 | Fast Learner | 15.00% | ~119 |
@@ -36,10 +36,10 @@
 | Good Neighbor | 10.00% | ~79 |
 | Family Memories | 9.00% | ~71 |
 | Theater Explorer | 9.00% | ~71 |
-| Fairgrounds Explorer | 8.00% | ~63 |
-| Sump Explorer | 8.00% | ~63 |
-| Syron for Hope | 8.00% | ~63 |
-| Ask Questions Later | 8.00% | ~63 |
+| Fairgrounds Explorer | 8.00% | ~64 |
+| Sump Explorer | 8.00% | ~64 |
+| Syron for Hope | 8.00% | ~64 |
+| Ask Questions Later | 8.00% | ~64 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
 | Factorywood Explorer | 7.00% | ~56 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 793 (Ranked 200)  
+Progressed: 794 (Ranked 200)  
 Completed: 4 (0.50%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,3 +123,4 @@ Completed: 4 (0.50%) (Ranked 133)
 | 2023-07-25 | 788 | 4 |
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
+| 2023-07-28 | 794 | 4 |

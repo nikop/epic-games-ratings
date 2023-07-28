@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3055,
+  "EOS_Progressed": 3056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-07-27T18:02:05.7255758+00:00",
       "NumProgressed": 3055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T00:02:06.8858124+00:00",
+      "NumProgressed": 3056,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3248,7 +3253,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -3328,7 +3333,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3352,7 +3357,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3400,7 +3405,7 @@
       "Name": "Frontliner",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3416,7 +3421,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3424,7 +3429,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3432,7 +3437,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3456,7 +3461,7 @@
       "Name": "Where It All Begun",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3504,7 +3509,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_MISSION_12",
@@ -3512,7 +3517,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -3576,7 +3581,7 @@
       "Name": "The More The Merrier",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3584,14 +3589,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3055,
+      "Progressed": 3056,
       "Completed": 1
     }
   ],
@@ -3599,8 +3604,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-27T11:00:41.1759391+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:02:02.6923202+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:02:06.8858121+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:59:57.7966136+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:02:02.6923791+00:00"
+  "LastUpdate_Ratings": "2023-07-28T00:00:24.53658+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:02:06.8858638+00:00"
 }

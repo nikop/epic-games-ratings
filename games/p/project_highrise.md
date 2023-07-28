@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~160 |
+| In the Black | 58.00% | ~161 |
 | Starting Skyward | 51.00% | ~141 |
-| Grime is Not Good | 45.00% | ~124 |
+| Grime is Not Good | 44.00% | ~122 |
 | Campaign Launch | 38.00% | ~105 |
+| Dinner Dash | 38.00% | ~105 |
 | Floor Galore | 37.00% | ~102 |
-| Dinner Dash | 37.00% | ~102 |
 | Need a Consult | 35.00% | ~97 |
-| It's Technical | 34.00% | ~94 |
+| It's Technical | 35.00% | ~97 |
 | Upgrade Unlock | 33.00% | ~91 |
-| Delegate Maintenance | 32.00% | ~88 |
+| Delegate Maintenance | 32.00% | ~89 |
 | Proper Walls | 30.00% | ~83 |
-| Destination Destiny | 28.00% | ~77 |
+| Destination Destiny | 29.00% | ~80 |
 | Happy Tenants | 25.00% | ~69 |
 | Potent Potables | 24.00% | ~66 |
 | Smooth Service | 24.00% | ~66 |
-| Your Prestige is Rising | 23.00% | ~63 |
-| Retail Revenue | 23.00% | ~63 |
+| Your Prestige is Rising | 23.00% | ~64 |
+| Retail Revenue | 23.00% | ~64 |
 | Lux Living | 21.00% | ~58 |
 | People Mover | 21.00% | ~58 |
 | Leveled Up Shops | 21.00% | ~58 |
 | Don't Feel a Loan | 20.00% | ~55 |
 | Get Electrified | 20.00% | ~55 |
-| Artfully Done | 19.00% | ~52 |
-| Emporium Empire | 19.00% | ~52 |
+| Artfully Done | 19.00% | ~53 |
+| Emporium Empire | 19.00% | ~53 |
 | Rehab Expert | 18.00% | ~50 |
 | Tasty Profits | 18.00% | ~50 |
 | We Don't Need No Education | 18.00% | ~50 |
 | Under One Roof | 16.00% | ~44 |
 | Established Fame | 16.00% | ~44 |
 | Cashflow Chief | 16.00% | ~44 |
-| Starred Dining | 15.00% | ~41 |
+| Starred Dining | 15.00% | ~42 |
 | Boutique Benefits | 14.00% | ~39 |
 | Terrifically Trashed | 14.00% | ~39 |
 | Smooth Operator | 13.00% | ~36 |
@@ -48,12 +48,12 @@
 | Aestheticly Pleased | 8.00% | ~22 |
 | Meet Me at HQ | 8.00% | ~22 |
 | Plaza Plan | 8.00% | ~22 |
-| Careful Constructor | 7.00% | ~19 |
-| Water Features | 7.00% | ~19 |
 | Maximum Reuse | 7.00% | ~19 |
 | Revenue Royalty | 7.00% | ~19 |
 | Pipe Up | 7.00% | ~19 |
 | I'm Busy Ruling | 6.00% | ~17 |
+| Careful Constructor | 6.00% | ~17 |
+| Water Features | 6.00% | ~17 |
 | Sky High Stature | 6.00% | ~17 |
 | Profound Proceeds | 6.00% | ~17 |
 | It's a Gas | 6.00% | ~17 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276 (Ranked 256)  
+Progressed: 277 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 262 | 0 |
 | 2023-07-26 | 270 | 0 |
 | 2023-07-27 | 276 | 0 |
+| 2023-07-28 | 277 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

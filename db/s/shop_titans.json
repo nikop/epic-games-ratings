@@ -5296,7 +5296,7 @@
       "Count": 3713
     }
   ],
-  "EOS_Progressed": 133376,
+  "EOS_Progressed": 133379,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
@@ -15276,6 +15276,11 @@
       "Time": "2023-07-27T23:03:21.4226291+00:00",
       "NumProgressed": 133376,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-28T00:03:33.1500624+00:00",
+      "NumProgressed": 133379,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -15365,9 +15370,9 @@
       "ID": "bigsale01",
       "SetID": "anfd17p",
       "Name": "One Easy Payment",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 267
     },
     {
       "ID": "bigsale02",
@@ -16182,15 +16187,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133376,
+      "Progressed": 133379,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-27T17:59:08.4555221+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:03:21.4226287+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:03:33.1500621+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.3524969+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:59:05.129234+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:03:21.4228459+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:59:25.557624+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:03:33.1502498+00:00"
 }

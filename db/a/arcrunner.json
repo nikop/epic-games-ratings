@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1563,6 +1563,11 @@
       "Time": "2023-07-26T00:04:50.1842555+00:00",
       "NumProgressed": 723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T00:04:41.365242+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1572,9 +1577,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1596,9 +1601,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHV_CITY",
@@ -1742,7 +1747,7 @@
       "Name": "Terminated I",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1774,7 +1779,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1805,13 +1810,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 3
     }
   ],
@@ -1819,8 +1824,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:13.6849588+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:04:41.3652416+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.2112087+00:00",
-  "LastUpdate_Ratings": "2023-07-27T23:00:16.9607559+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:13.6849972+00:00"
+  "LastUpdate_Ratings": "2023-07-28T00:00:44.4679461+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:04:41.3652675+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:08.1119488+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:04:35.1312238+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.7750967+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:58:38.8081934+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:08.1119666+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:58:52.9894818+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:04:35.1312367+00:00"
 }

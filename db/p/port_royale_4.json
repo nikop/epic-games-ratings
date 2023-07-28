@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-07-27T20:05:45.6126532+00:00",
       "NumProgressed": 769,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T00:05:33.5658272+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1501,7 +1506,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH001",
@@ -1509,7 +1514,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH002",
@@ -1589,15 +1594,15 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH012",
       "SetID": "69nfp41",
       "Name": "3, 2, 1, mine",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH013",
@@ -1669,7 +1674,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH022",
@@ -1717,7 +1722,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH028",
@@ -1731,9 +1736,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH030",
@@ -1757,7 +1762,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH033",
@@ -1885,7 +1890,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH049",
@@ -1900,15 +1905,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:58.0988441+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:05:33.5658269+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:07.3549085+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:59:04.8044251+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:58.0988946+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:59:25.2395154+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:05:33.5658651+00:00"
 }

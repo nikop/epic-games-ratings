@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523386,
+  "EOS_Progressed": 523387,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10720,6 +10720,11 @@
       "Time": "2023-07-27T23:04:04.3833012+00:00",
       "NumProgressed": 523386,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-07-28T00:04:30.6863066+00:00",
+      "NumProgressed": 523387,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 57,
@@ -10747,7 +10752,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366370
+      "UsersEstimate": 366371
     },
     {
       "ID": "12",
@@ -10771,7 +10776,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57572
+      "UsersEstimate": 57573
     },
     {
       "ID": "15",
@@ -10811,7 +10816,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 324499
+      "UsersEstimate": 324500
     },
     {
       "ID": "2",
@@ -10835,7 +10840,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57572
+      "UsersEstimate": 57573
     },
     {
       "ID": "22",
@@ -10955,7 +10960,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261693
+      "UsersEstimate": 261694
     },
     {
       "ID": "36",
@@ -10987,7 +10992,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177951
+      "UsersEstimate": 177952
     },
     {
       "ID": "4",
@@ -11059,7 +11064,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 324499
+      "UsersEstimate": 324500
     },
     {
       "ID": "48",
@@ -11075,7 +11080,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177951
+      "UsersEstimate": 177952
     },
     {
       "ID": "5",
@@ -11186,15 +11191,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 523386,
+      "Progressed": 523387,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:04.3833009+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:04:30.6863062+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:16.3854375+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:57:59.8857164+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:04.3833946+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:58:08.291994+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:04:30.6863944+00:00"
 }

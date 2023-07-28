@@ -2,9 +2,9 @@
   "ID": "23499f64e5304139b514c3e674c5c0d6",
   "Name": "Model Builder",
   "ProductSlug": "model-builder-f9b456",
-  "Ranking_EOS_Progress": 473,
+  "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-16T17:00:00+00:00",
@@ -616,8 +616,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
   "LastChanged": "2023-03-31T05:58:36.1160751+00:00",
-  "LastChanged_Achievements": "2023-07-27T23:04:54.9372835+00:00",
+  "LastChanged_Achievements": "2023-07-28T00:05:29.9312124+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:55.2249833+00:00",
-  "LastUpdate_Ratings": "2023-07-27T22:58:54.7779373+00:00",
-  "LastUpdate_Achievements": "2023-07-27T23:04:54.9373462+00:00"
+  "LastUpdate_Ratings": "2023-07-27T23:59:13.8733105+00:00",
+  "LastUpdate_Achievements": "2023-07-28T00:05:29.9312658+00:00"
 }

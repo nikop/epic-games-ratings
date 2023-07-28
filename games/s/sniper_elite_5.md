@@ -13,7 +13,6 @@ Rating: 4.41 (Ranked 675)
 | The Kraken Sleeps | 4.00% | ~134 |
 | Climbing the Ladder | 3.00% | ~101 |
 | No Stone Unturned | 3.00% | ~101 |
-| Organ Grinder | 3.00% | ~101 |
 | Meeting Resistance | 3.00% | ~101 |
 | Sharpshooter | 3.00% | ~101 |
 | Confirming Suspicions | 3.00% | ~101 |
@@ -24,6 +23,7 @@ Rating: 4.41 (Ranked 675)
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
 | Just a Flesh Wound | 2.00% | ~67 |
+| Organ Grinder | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
 | Skirmisher | 2.00% | ~67 |
 | Set Europe Ablaze | 2.00% | ~67 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 675)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,360 (Ranked 149)  
+Progressed: 3,361 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 9 (0.27%) (Ranked 158)
 | 2023-07-25 | 3,348 | 9 |
 | 2023-07-26 | 3,353 | 9 |
 | 2023-07-27 | 3,360 | 9 |
+| 2023-07-28 | 3,361 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
