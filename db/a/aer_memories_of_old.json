@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 109,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16421,
+  "EOS_Progressed": 16426,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10804,6 +10804,11 @@
       "Time": "2023-07-28T17:05:23.4707444+00:00",
       "NumProgressed": 16421,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2023-07-28T18:04:48.4931723+00:00",
+      "NumProgressed": 16426,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 20,
@@ -10823,7 +10828,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "EAST_FINISHED",
@@ -10831,7 +10836,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -10855,7 +10860,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -10879,7 +10884,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "FOUND_ERIN",
@@ -10895,7 +10900,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "FOUND_MAMBA",
@@ -10903,7 +10908,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -10919,7 +10924,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "GAME_FINISHED",
@@ -10935,7 +10940,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12480
+      "UsersEstimate": 12484
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10943,7 +10948,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "NORTH_FINISHED",
@@ -10951,7 +10956,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -10959,7 +10964,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "WEST_FINISHED",
@@ -10967,22 +10972,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16421,
+      "Progressed": 16426,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:23.4707438+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:04:48.4931718+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:01:52.6246565+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:23.4708786+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:01:06.3923555+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:04:48.4932501+00:00"
 }

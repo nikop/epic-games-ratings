@@ -284,9 +284,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:44.4417643+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:05:05.935278+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:21.1565467+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:00:53.5653156+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:44.4418321+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:00:19.9300685+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:05:05.9353161+00:00"
 }

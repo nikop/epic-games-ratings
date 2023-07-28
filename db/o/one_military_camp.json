@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,9 +674,9 @@
       "ID": "ACHIEVEMENT_ID_37",
       "SetID": "c504de6",
       "Name": "Medicine Tycoon",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -706,9 +706,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:04:53.0688337+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:04:22.3095451+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:00:10.4879012+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:04:53.0689043+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:59:40.3145713+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:04:22.3095853+00:00"
 }

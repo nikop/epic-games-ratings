@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -197,6 +197,11 @@
       "Time": "2023-07-27T15:08:42.7902631+00:00",
       "NumProgressed": 253,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-28T18:07:16.4003602+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 10,
@@ -280,14 +285,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 8
     }
   ],
@@ -295,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:08:16.4158225+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:07:16.4003596+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.4800455+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:59:31.0775706+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:08:16.4158397+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:59:07.5566376+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:07:16.4003721+00:00"
 }

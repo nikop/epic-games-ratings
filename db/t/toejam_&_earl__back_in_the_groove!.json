@@ -5,9 +5,9 @@
   "Ranking_Rating": 768,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
-  "Ranking_EOS_Progress": 86,
+  "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56070,
+  "EOS_Progressed": 56073,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6477,6 +6477,11 @@
       "Time": "2023-07-28T17:06:35.9774011+00:00",
       "NumProgressed": 56070,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T18:05:50.1109282+00:00",
+      "NumProgressed": 56073,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6576,7 +6581,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "FoolMeTwice",
@@ -6624,7 +6629,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "HFZGoober",
@@ -6776,7 +6781,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "SecretLevel",
@@ -6808,7 +6813,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -6879,7 +6884,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56070,
+      "Progressed": 56073,
       "Completed": 4
     }
   ],
@@ -6887,8 +6892,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:06:35.9774004+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:05:50.1109274+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:23.1111168+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:57:13.7307119+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:06:35.9775309+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:10.0010915+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:05:50.1110078+00:00"
 }

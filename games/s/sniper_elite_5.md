@@ -9,6 +9,7 @@ Rating: 4.41 (Ranked 674)
 | Lord of War | 4.00% | ~135 |
 | The Kraken Wakes | 4.00% | ~135 |
 | It's Starting to Crack | 4.00% | ~135 |
+| Change the Channel | 4.00% | ~135 |
 | Taking it back | 4.00% | ~135 |
 | Target America | 4.00% | ~135 |
 | The Kraken Sleeps | 4.00% | ~135 |
@@ -19,7 +20,6 @@ Rating: 4.41 (Ranked 674)
 | Confirming Suspicions | 3.00% | ~101 |
 | Resourceful | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
-| Change the Channel | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
 | Just a Flesh Wound | 2.00% | ~67 |
@@ -54,11 +54,11 @@ Rating: 4.41 (Ranked 674)
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |
 | Eagle Eyed | 0.40% | ~13 |
+| Up close and personal | 0.40% | ~13 |
 | Shoot for the Moon | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
-| Up close and personal | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
 | Can't Outrun A Bullet | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |

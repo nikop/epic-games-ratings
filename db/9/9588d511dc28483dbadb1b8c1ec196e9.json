@@ -122,9 +122,9 @@
       "ID": "14",
       "SetID": "72mf9o7",
       "Name": "Destructor",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "15",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-02T08:01:17.6787047+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:43.0757006+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:05:04.4542729+00:00",
   "LastUpdate_AppInfo": "2023-07-23T09:57:01.3490664+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:57:34.1671498+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:43.0757202+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:25.5006013+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:05:04.4542904+00:00"
 }

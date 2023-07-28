@@ -2,9 +2,9 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Police",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-07-28T15:05:30.7242113+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T18:05:54.2367337+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -94,9 +99,9 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 133,
+      "Percentage": 129,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_DECAPITATE_50",
@@ -182,7 +187,7 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -190,7 +195,7 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -206,7 +211,7 @@
       "ID": "ACH_LEVEL_04",
       "SetID": "a2aifpa",
       "Name": "Restore Honor",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -254,22 +259,22 @@
       "ID": "ACH_TUTORIAL",
       "SetID": "a2aifpa",
       "Name": "Licence To Kill",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2aifpa",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:06:41.2185871+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:05:54.2367331+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.5663951+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:00:13.8849775+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:06:41.2186144+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:59:42.8670765+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:05:54.2367515+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1579,9 +1579,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1667,8 +1667,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:03:12.0919817+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:03:04.459634+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.4163627+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:58:51.2616228+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:03:12.0920372+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:58:33.1835254+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:03:04.4596675+00:00"
 }

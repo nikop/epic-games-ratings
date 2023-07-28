@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 39.00% | ~22,361 |
-| To The Nines | 35.00% | ~20,068 |
-| Optimized | 31.00% | ~17,774 |
-| Performance Review | 30.00% | ~17,201 |
-| Making a Name | 29.00% | ~16,628 |
-| Tune Up | 28.00% | ~16,054 |
-| Wet Work | 27.00% | ~15,481 |
-| Landlord | 27.00% | ~15,481 |
-| The Side Job | 26.00% | ~14,908 |
-| Wrecking Ball | 23.00% | ~13,188 |
-| Food for Thought | 23.00% | ~13,188 |
-| Finders Keepers | 21.00% | ~12,041 |
-| A Young Empire | 21.00% | ~12,041 |
-| Work Ethic | 19.00% | ~10,894 |
-| Picking Fights | 16.00% | ~9,174 |
-| Quality Time | 15.00% | ~8,601 |
-| Power Players | 15.00% | ~8,601 |
-| Showdown | 13.00% | ~7,454 |
-| Et tu? | 13.00% | ~7,454 |
-| Took It to The Limit | 13.00% | ~7,454 |
-| Kitted Out | 11.00% | ~6,307 |
-| Masters of Santo Ileso | 10.00% | ~5,734 |
-| Hijacked | 9.00% | ~5,160 |
-| The Spins | 8.00% | ~4,587 |
-| The Mechanic | 8.00% | ~4,587 |
-| Closet Space | 6.00% | ~3,440 |
-| Producer Credit | 6.00% | ~1,738 |
-| We could go home, or… | 5.00% | ~2,867 |
-| Challenge Accepted | 5.00% | ~2,867 |
-| A Golden Age | 5.00% | ~2,867 |
-| Face Off | 5.00% | ~1,449 |
-| The Professional | 4.00% | ~2,293 |
-| Chaos Tamer | 4.00% | ~2,293 |
-| Untouchable | 4.00% | ~2,293 |
-| Free Refills | 4.00% | ~2,293 |
-| Neighborly | 4.00% | ~2,293 |
-| Prankster | 4.00% | ~2,293 |
-| Smooth Moves | 4.00% | ~2,293 |
-| Hazardous Heist | 4.00% | ~1,159 |
-| Tourist | 3.00% | ~1,720 |
+| First F#@!ing Day | 39.00% | ~22,368 |
+| To The Nines | 35.00% | ~20,074 |
+| Optimized | 31.00% | ~17,780 |
+| Performance Review | 30.00% | ~17,206 |
+| Making a Name | 29.00% | ~16,633 |
+| Tune Up | 28.00% | ~16,059 |
+| Wet Work | 27.00% | ~15,486 |
+| Landlord | 27.00% | ~15,486 |
+| The Side Job | 26.00% | ~14,912 |
+| Wrecking Ball | 23.00% | ~13,191 |
+| Food for Thought | 23.00% | ~13,191 |
+| Finders Keepers | 21.00% | ~12,044 |
+| A Young Empire | 21.00% | ~12,044 |
+| Work Ethic | 19.00% | ~10,897 |
+| Picking Fights | 16.00% | ~9,177 |
+| Quality Time | 15.00% | ~8,603 |
+| Power Players | 15.00% | ~8,603 |
+| Showdown | 13.00% | ~7,456 |
+| Et tu? | 13.00% | ~7,456 |
+| Took It to The Limit | 13.00% | ~7,456 |
+| Kitted Out | 11.00% | ~6,309 |
+| Masters of Santo Ileso | 10.00% | ~5,735 |
+| Hijacked | 9.00% | ~5,162 |
+| The Spins | 8.00% | ~4,588 |
+| The Mechanic | 8.00% | ~4,588 |
+| Closet Space | 6.00% | ~3,441 |
+| Producer Credit | 6.00% | ~1,739 |
+| We could go home, or… | 5.00% | ~2,868 |
+| Challenge Accepted | 5.00% | ~2,868 |
+| A Golden Age | 5.00% | ~2,868 |
+| Face Off | 5.00% | ~1,450 |
+| The Professional | 4.00% | ~2,294 |
+| Chaos Tamer | 4.00% | ~2,294 |
+| Untouchable | 4.00% | ~2,294 |
+| Free Refills | 4.00% | ~2,294 |
+| Neighborly | 4.00% | ~2,294 |
+| Prankster | 4.00% | ~2,294 |
+| Smooth Moves | 4.00% | ~2,294 |
+| Hazardous Heist | 4.00% | ~1,160 |
+| Tourist | 3.00% | ~1,721 |
 | Shopping Spree | 2.00% | ~1,147 |
 | Always Be Hustling | 2.00% | ~1,147 |
 | Bonus Round | 2.00% | ~1,147 |
 | Community Outreach | 2.00% | ~1,147 |
-| It's a Bird! | 1.00% | ~573 |
-| The Collector | 1.00% | ~573 |
-| All Mine | 1.00% | ~573 |
+| It's a Bird! | 1.00% | ~574 |
+| The Collector | 1.00% | ~574 |
+| All Mine | 1.00% | ~574 |
 | Armor Piercing | 0.70% | ~401 |
 | Heard You Like Wheels | 0.60% | ~344 |
 | Jack of All Trades | 0.40% | ~229 |
 | Statement Pieces | 0.40% | ~229 |
 | A Car Named Simone | 0.20% | ~115 |
-| Fiesta Time | 0.10% | ~57 |
+| Fiesta Time | 0.20% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,337 (Ranked 84)  
+Progressed: 57,354 (Ranked 84)  
 Completed: 30 (0.05%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 30 (0.05%) (Ranked 210)
 | 2023-07-25 | 56,510 | 30 |
 | 2023-07-26 | 56,793 | 30 |
 | 2023-07-27 | 57,112 | 30 |
-| 2023-07-28 | 57,337 | 30 |
+| 2023-07-28 | 57,354 | 30 |
 ## Awards
 Max (Extremely Fun): 1,051  (Ranked 139)  
 Sum: 8,536 (Ranked 94)  

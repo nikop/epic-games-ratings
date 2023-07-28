@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1302,
+  "EOS_Progressed": 1303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2542,6 +2542,11 @@
       "Time": "2023-07-28T15:04:24.13339+00:00",
       "NumProgressed": 1302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T18:04:33.935854+00:00",
+      "NumProgressed": 1303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2569,7 +2574,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2601,7 +2606,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2737,7 +2742,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2785,7 +2790,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2799,9 +2804,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 821
     },
     {
       "ID": "INFILTRATOR",
@@ -2817,7 +2822,7 @@
       "Name": "Lumberjack",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2927,9 +2932,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 313
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2945,7 +2950,7 @@
       "Name": "The Watchers",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "WIPE_OUT",
@@ -2960,7 +2965,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1302,
+      "Progressed": 1303,
       "Completed": 0
     }
   ],
@@ -2968,8 +2973,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:06.9079865+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:04:33.9358528+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:53.1474955+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:59:26.0647855+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:06.9080854+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:59:03.9742539+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:04:33.9359139+00:00"
 }

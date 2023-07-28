@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4365,
+  "EOS_Progressed": 4367,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6975,6 +6975,11 @@
       "Time": "2023-07-28T17:07:07.7590744+00:00",
       "NumProgressed": 4365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-28T18:06:17.6095665+00:00",
+      "NumProgressed": 4367,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7010,7 +7015,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -7042,7 +7047,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -7058,7 +7063,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7066,7 +7071,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -7082,7 +7087,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7098,7 +7103,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7146,7 +7151,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7170,7 +7175,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7240,9 +7245,9 @@
       "ID": "ACH_THOUSANDPOPULATION",
       "SetID": "1p8ab95",
       "Name": "Un-Lonely Island",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7258,7 +7263,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7305,15 +7310,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4365,
+      "Progressed": 4367,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:07:07.7590735+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:06:17.609566+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:02:09.8710653+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:07:07.7591953+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:01:21.2420144+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:06:17.6096362+00:00"
 }

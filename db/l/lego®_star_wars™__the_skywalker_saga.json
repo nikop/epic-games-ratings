@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2816,9 +2816,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49977,
+  "EOS_Progressed": 49978,
   "EOS_Completed": 216,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9481,6 +9481,11 @@
       "Time": "2023-07-28T13:07:12.7635235+00:00",
       "NumProgressed": 49977,
       "NumCompleted": 216
+    },
+    {
+      "Time": "2023-07-28T18:01:43.2976748+00:00",
+      "NumProgressed": 49978,
+      "NumCompleted": 216
     }
   ],
   "TotalAchievements": 45,
@@ -9516,7 +9521,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39482
+      "UsersEstimate": 39483
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9604,7 +9609,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29486
+      "UsersEstimate": 29487
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9612,7 +9617,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23489
+      "UsersEstimate": 23490
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -9636,7 +9641,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18491
+      "UsersEstimate": 18492
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -9668,7 +9673,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9995
+      "UsersEstimate": 9996
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -9756,7 +9761,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9812,7 +9817,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18491
+      "UsersEstimate": 18492
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -9844,22 +9849,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35983
+      "UsersEstimate": 35984
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49977,
+      "Progressed": 49978,
       "Completed": 216
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-28T11:57:15.9170617+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:02:36.696675+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:01:43.2976745+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:25.7152364+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:57:09.742864+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:02:36.6968139+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:06.7084964+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:01:43.2977492+00:00"
 }

@@ -11,7 +11,7 @@
 | Keep away from children | 36.00% | ~34 |
 | Artistic fool | 35.00% | ~33 |
 | Demolition expert | 35.00% | ~33 |
-| Wooooooow! | 34.00% | ~32 |
+| Wooooooow! | 35.00% | ~33 |
 | Chapter II | 31.00% | ~29 |
 | Open up wide | 29.00% | ~28 |
 | Achoo!! | 29.00% | ~28 |

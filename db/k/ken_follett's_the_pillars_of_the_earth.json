@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14200,
+  "EOS_Progressed": 14201,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 1,
@@ -7014,6 +7014,11 @@
       "Time": "2023-07-28T17:03:20.6768962+00:00",
       "NumProgressed": 14200,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-28T18:03:12.2272673+00:00",
+      "NumProgressed": 14201,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7167,9 +7172,9 @@
       "ID": "tpote_achievement_26",
       "SetID": "3jcf6c3",
       "Name": "Exterminator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1846
     },
     {
       "ID": "tpote_achievement_27",
@@ -7352,15 +7357,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14200,
+      "Progressed": 14201,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:03:20.6768953+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:03:12.2272668+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.1447035+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:01:42.2979029+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:03:20.6770227+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:00:58.1946412+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:03:12.2273421+00:00"
 }

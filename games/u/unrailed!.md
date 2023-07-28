@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~100,103 |
-| Incurious | 15.00% | ~93,846 |
-| Stroller | 14.00% | ~87,590 |
-| Climate Change | 14.00% | ~87,590 |
-| Toy Train | 12.00% | ~75,077 |
-| Advanced Hiker | 11.00% | ~68,821 |
-| Hiker | 10.00% | ~62,564 |
-| Mojave Courier | 5.00% | ~31,282 |
+| Advanced Stroller | 16.00% | ~100,106 |
+| Incurious | 15.00% | ~93,849 |
+| Stroller | 14.00% | ~87,592 |
+| Climate Change | 14.00% | ~87,592 |
+| Toy Train | 12.00% | ~75,079 |
+| Advanced Hiker | 11.00% | ~68,823 |
+| Hiker | 10.00% | ~62,566 |
+| Mojave Courier | 5.00% | ~31,283 |
 | Saved by Nausicaä | 4.00% | ~25,026 |
-| Voyager | 3.00% | ~18,769 |
-| Advanced Voyager | 3.00% | ~18,769 |
-| Expert Stroller | 3.00% | ~18,769 |
-| Orient Express | 3.00% | ~18,769 |
+| Voyager | 3.00% | ~18,770 |
+| Advanced Voyager | 3.00% | ~18,770 |
+| Expert Stroller | 3.00% | ~18,770 |
+| Orient Express | 3.00% | ~18,770 |
 | Expert Hiker | 2.00% | ~12,513 |
 | Marathon | 2.00% | ~12,513 |
 | Destructionist | 2.00% | ~12,513 |
-| Lost | 1.00% | ~6,256 |
-| Rocketman | 0.70% | ~4,379 |
+| Lost | 1.00% | ~6,257 |
+| Rocketman | 0.70% | ~4,380 |
 | Expert Voyager | 0.60% | ~3,754 |
 | Shopaholic | 0.60% | ~3,754 |
 | Nanuk | 0.50% | ~3,128 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~626 |
 | 20 Miles under the Sea | 0.10% | ~626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625,642 (Ranked 25)  
+Progressed: 625,660 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,17 +158,17 @@ Completed: 7 (0.00%) (Ranked 246)
 | 2023-07-25 | 624,420 | 7 |
 | 2023-07-26 | 624,866 | 7 |
 | 2023-07-27 | 625,289 | 7 |
-| 2023-07-28 | 625,642 | 7 |
+| 2023-07-28 | 625,660 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 274)  
-Sum: 1,540 (Ranked 215)  
+Sum: 1,541 (Ranked 215)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 190 |
 | This game is Great for Beginners | 189 |
 | This game has Quickly Understood Controls | 187 |
-| This game is Extremely Fun | 180 |
+| This game is Extremely Fun | 181 |
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 164 |
 | This game is Highly Recommended | 155 |
@@ -277,3 +277,4 @@ Diff (max vs sum): 59
 | 2023-07-17 | 4.64 | - | 190 | 1,538 |
 | 2023-07-18 | 4.64 | - | 190 | 1,539 |
 | 2023-07-26 | 4.64 | - | 190 | 1,540 |
+| 2023-07-28 | 4.64 | - | 190 | 1,541 |

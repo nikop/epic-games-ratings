@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 241)
 | Entangled | 2.00% | ~12 |
 | Loremaster | 1.00% | ~6 |
 | Mushrooming enthusiast | 0.30% | ~2 |
-| Apex predator | 0.20% | ~1 |
+| Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 583 (Ranked 214)  
 Completed: 1 (0.17%) (Ranked 176)  

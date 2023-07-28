@@ -27,8 +27,8 @@
 | Eggtraordinary | 13.00% | ~30 |
 | Carrocketeer | 13.00% | ~30 |
 | Oh My Gourd | 13.00% | ~24 |
+| This Is My Boomstick | 13.00% | ~24 |
 | Getting Started | 12.00% | ~28 |
-| This Is My Boomstick | 12.00% | ~22 |
 | Summers Here | 11.00% | ~20 |
 | Fresh Pancake | 10.00% | ~23 |
 | Quit Horsin' Around | 10.00% | ~23 |

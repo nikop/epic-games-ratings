@@ -5,12 +5,12 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,198 |
+| First Blood | 92.00% | ~1,199 |
 | Ranidaphobia | 77.00% | ~1,003 |
-| Aspiring Editor | 75.00% | ~976 |
-| Gun for Hire | 70.00% | ~911 |
-| I am the law! | 64.00% | ~833 |
-| Lumberjack | 52.00% | ~677 |
+| Aspiring Editor | 75.00% | ~977 |
+| Gun for Hire | 70.00% | ~912 |
+| I am the law! | 63.00% | ~821 |
+| Lumberjack | 52.00% | ~678 |
 | Croaked | 48.00% | ~625 |
 | Limp Richard | 47.00% | ~612 |
 | Exorcist | 47.00% | ~612 |
@@ -31,9 +31,9 @@ Rating: 4.40 (Ranked 693)
 | Hold The Line | 28.00% | ~365 |
 | Endgame | 25.00% | ~326 |
 | Savior | 25.00% | ~326 |
-| There Can Be Only One! | 25.00% | ~326 |
-| Chain Killer | 22.00% | ~286 |
-| The Watchers | 21.00% | ~273 |
+| There Can Be Only One! | 24.00% | ~313 |
+| Chain Killer | 22.00% | ~287 |
+| The Watchers | 21.00% | ~274 |
 | Commando | 16.00% | ~208 |
 | Newtonian Knockout | 16.00% | ~208 |
 | Silent but Violent | 16.00% | ~208 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 693)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,302 (Ranked 182)  
+Progressed: 1,303 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 1,291 | 0 |
 | 2023-07-26 | 1,296 | 0 |
 | 2023-07-27 | 1,299 | 0 |
-| 2023-07-28 | 1,302 | 0 |
+| 2023-07-28 | 1,303 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

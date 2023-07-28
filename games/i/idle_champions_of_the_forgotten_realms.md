@@ -6,40 +6,40 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,492 |
-| Beast Intentions | 2.00% | ~4,328 |
+| A Brief Tour of the Realms | 3.00% | ~6,493 |
+| Beast Intentions | 2.00% | ~4,329 |
 | Maddening | 1.00% | ~2,164 |
 | The Silken Swamp | 1.00% | ~2,164 |
 | Supply Run | 1.00% | ~2,164 |
 | Rocky Reception | 1.00% | ~1,827 |
 | Rock and Roll | 0.90% | ~1,644 |
-| Vecna Lives! | 0.80% | ~1,461 |
+| Vecna Lives! | 0.80% | ~1,462 |
 | Tall Tales | 0.70% | ~1,279 |
 | Vecna Loots! | 0.70% | ~1,279 |
 | Flight of the Kindori Pod | 0.70% | ~1,279 |
 | Topolah's Tower | 0.70% | ~1,279 |
-| Wet Feet | 0.60% | ~1,298 |
+| Wet Feet | 0.60% | ~1,299 |
 | Seeds of Destruction | 0.60% | ~1,096 |
 | Return to the Tomb | 0.60% | ~1,096 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,096 |
 | Pros and CONs | 0.50% | ~1,082 |
-| The Witchlight Carnival | 0.50% | ~913 |
+| The Witchlight Carnival | 0.50% | ~914 |
 | Hatchlings Underfoot | 0.50% | ~1,082 |
 | Don't Look Up! | 0.50% | ~1,082 |
-| The Evacuation of Waterdeep | 0.50% | ~913 |
-| Heatwave | 0.50% | ~913 |
-| The Dread Domain of Tovag | 0.50% | ~913 |
+| The Evacuation of Waterdeep | 0.50% | ~914 |
+| Heatwave | 0.50% | ~914 |
+| The Dread Domain of Tovag | 0.50% | ~914 |
 | Were-verpowered | 0.50% | ~1,082 |
 | A Persistent Buzzing | 0.50% | ~1,082 |
 | Terror in the Dark | 0.50% | ~1,082 |
 | A Mysterious Summons | 0.50% | ~1,082 |
 | Building Trust | 0.50% | ~1,082 |
 | Unearthed Evil | 0.50% | ~1,082 |
-| Not That Type of Helm! | 0.50% | ~913 |
-| Calcryx Tricks | 0.50% | ~913 |
-| Goblin Halls: the Next Generation | 0.50% | ~913 |
-| Bahamut's Army | 0.50% | ~913 |
-| Krux's Speed Run | 0.50% | ~913 |
+| Not That Type of Helm! | 0.50% | ~914 |
+| Calcryx Tricks | 0.50% | ~914 |
+| Goblin Halls: the Next Generation | 0.50% | ~914 |
+| Bahamut's Army | 0.50% | ~914 |
+| Krux's Speed Run | 0.50% | ~914 |
 | Thieves of the Coven | 0.40% | ~731 |
 | Heavy Burden | 0.40% | ~866 |
 | Friends of the Forest | 0.40% | ~866 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,411 (Ranked 53)  
+Progressed: 216,429 (Ranked 53)  
 Completed: 2,133 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,133 (0.99%) (Ranked 111)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,411 | 2,133 |
+| 2023-07-28 | 216,429 | 2,133 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 213,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.06,
+  "EOS_Completed_Percentage": 7.98,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -971,6 +971,11 @@
       "Time": "2023-07-28T17:06:13.6223499+00:00",
       "NumProgressed": 211,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-28T18:05:30.5387643+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -982,7 +987,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -990,15 +995,15 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 165,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1006,7 +1011,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1029,14 +1034,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 213,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:06:13.6223488+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:05:30.5387638+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:57:36.5247243+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:06:13.6223637+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:27.6026883+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:05:30.5387778+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,005 |
+| Fresh Prince of Trudograd | 88.00% | ~1,016 |
 | Household | 7.00% | ~81 |
 | An Old Friend | 6.00% | ~69 |
 | Lot 49 | 5.00% | ~58 |

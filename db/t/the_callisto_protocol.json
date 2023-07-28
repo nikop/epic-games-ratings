@@ -6190,9 +6190,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 473
     },
     {
       "ID": "KILL_ROBOT",
@@ -6453,8 +6453,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-24T23:59:36.4552357+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:03:05.6233598+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:02:09.1708624+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.4220886+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:59:09.656013+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:03:05.6234879+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:58:48.8085321+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:02:09.1709355+00:00"
 }

@@ -24,8 +24,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "2cpn27e",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:06:19.914435+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:10.1292508+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:58:32.1362898+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:07:10.4440045+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:58:17.0085657+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:06:19.9144392+00:00"
 }

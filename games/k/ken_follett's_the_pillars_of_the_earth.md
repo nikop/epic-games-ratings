@@ -23,7 +23,7 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 17.00% | ~2,414 |
 | Jack was here! | 15.00% | ~2,130 |
 | Twist of Fate | 14.00% | ~1,988 |
-| Exterminator | 14.00% | ~1,988 |
+| Exterminator | 13.00% | ~1,846 |
 | Whodunnit | 13.00% | ~1,846 |
 | Good midwife | 11.00% | ~1,562 |
 | Friar Tuck | 11.00% | ~1,562 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~426 |
 | Boy of mystery | 2.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,200 (Ranked 114)  
+Progressed: 14,201 (Ranked 114)  
 Completed: 106 (0.75%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 106 (0.75%) (Ranked 118)
 | 2023-07-25 | 14,139 | 105 |
 | 2023-07-26 | 14,156 | 106 |
 | 2023-07-27 | 14,182 | 106 |
-| 2023-07-28 | 14,200 | 106 |
+| 2023-07-28 | 14,201 | 106 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 295)  
 Sum: 188 (Ranked 371)  

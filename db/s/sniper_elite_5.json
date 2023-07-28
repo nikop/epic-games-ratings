@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -430,7 +430,7 @@
   "Tags": [],
   "EOS_Progressed": 3363,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5778,17 +5778,17 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 135
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -6025,8 +6025,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:19.8826329+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:04:45.0179597+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:57:24.4798903+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:19.8828035+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:18.6455149+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:04:45.0180606+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1807,9 +1807,9 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 846
+      "UsersEstimate": 857
     },
     {
       "ID": "WinARace",
@@ -1831,8 +1831,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:05:25.0081926+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:04:49.7827944+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:01:49.3480475+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:05:25.0082623+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:01:04.0212437+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:04:49.7828355+00:00"
 }

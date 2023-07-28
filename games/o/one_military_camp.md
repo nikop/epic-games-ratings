@@ -15,11 +15,11 @@
 | There's something in those trees | 5.00% | ~5 |
 | Jantine: the Misfortunes of Evil | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |
+| Medicine Tycoon | 4.00% | ~4 |
 | Ammo Tycoon | 4.00% | ~4 |
+| Great Producer | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
-| Medicine Tycoon | 3.00% | ~3 |
-| Great Producer | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |

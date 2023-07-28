@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19783,
+  "EOS_Progressed": 19792,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -11723,6 +11723,11 @@
       "Time": "2023-07-28T17:04:20.2225261+00:00",
       "NumProgressed": 19783,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-28T18:03:54.1760605+00:00",
+      "NumProgressed": 19792,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -11750,7 +11755,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "1018",
@@ -11758,7 +11763,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "1019",
@@ -11774,7 +11779,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "1021",
@@ -11782,7 +11787,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "1022",
@@ -11790,7 +11795,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "1023",
@@ -11798,7 +11803,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "1024",
@@ -11830,7 +11835,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "1028",
@@ -11838,7 +11843,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3563
     },
     {
       "ID": "1029",
@@ -11854,7 +11859,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "1031",
@@ -11862,7 +11867,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "1032",
@@ -11870,7 +11875,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7917
     },
     {
       "ID": "1033",
@@ -11878,7 +11883,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "1034",
@@ -11894,7 +11899,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "1036",
@@ -11909,15 +11914,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19783,
+      "Progressed": 19792,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:04:20.2225256+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:03:54.1760598+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:07.9360293+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:02:01.1505105+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:04:20.2226066+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:01:14.2122786+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:03:54.1761379+00:00"
 }

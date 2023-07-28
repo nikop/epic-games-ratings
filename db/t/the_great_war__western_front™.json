@@ -2,9 +2,9 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1519,6 +1519,11 @@
       "Time": "2023-07-28T17:02:37.1427091+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T18:01:43.6645112+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1554,7 +1559,7 @@
       "Name": "From the Pages of History",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -1600,9 +1605,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1625,7 +1630,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
@@ -1633,8 +1638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-28T17:02:37.1427083+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:01:43.6645107+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.6267757+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:59:48.6447622+00:00",
-  "LastUpdate_Achievements": "2023-07-28T17:02:37.1427446+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:59:23.3072081+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:01:43.6645357+00:00"
 }

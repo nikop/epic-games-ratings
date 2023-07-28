@@ -11,8 +11,8 @@
 | At the top of the mountain. | 18.00% | ~37 |
 | Aggressive rocks. | 18.00% | ~37 |
 | Dino Ride. | 15.00% | ~30 |
+| Rocky fall. | 12.00% | ~24 |
 | In the heart of the volcano. | 11.00% | ~22 |
-| Rocky fall. | 11.00% | ~22 |
 | Dinosaur graveyard. | 10.00% | ~20 |
 | Swimming on a dino's back. | 9.00% | ~18 |
 | The mountain of peril. | 7.00% | ~14 |

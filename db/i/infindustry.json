@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -351,6 +351,11 @@
       "Time": "2023-07-25T11:03:12.4447803+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T18:01:35.2495504+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -376,7 +381,7 @@
       "ID": "Crafter",
       "SetID": "82ojhod",
       "Name": "Crafter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -416,7 +421,7 @@
       "ID": "Rep1",
       "SetID": "82ojhod",
       "Name": "Rep1",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -440,7 +445,7 @@
       "ID": "Researcher",
       "SetID": "82ojhod",
       "Name": "Researcher",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 120,
       "UsersEstimate": 1
     },
@@ -457,14 +462,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:04:04.0999081+00:00",
+  "LastChanged_Achievements": "2023-07-28T18:01:35.2495487+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:06.4386724+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:58:05.0673416+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:04.0999168+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:57:51.6071982+00:00",
+  "LastUpdate_Achievements": "2023-07-28T18:01:35.2515423+00:00"
 }
