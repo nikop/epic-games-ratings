@@ -127,8 +127,8 @@
 | 123 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 126 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 127 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 127 | [Them and Us](games/t/them_and_us.md) | 0.54% |
-| 129 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 128 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 128 | [Them and Us](games/t/them_and_us.md) | 0.53% |
 | 130 | [Train Valley](games/t/train_valley.md) | 0.52% |
 | 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
 | 131 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
