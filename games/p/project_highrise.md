@@ -12,7 +12,7 @@
 | Dinner Dash | 38.00% | ~106 |
 | It's Technical | 36.00% | ~100 |
 | Need a Consult | 35.00% | ~97 |
-| Upgrade Unlock | 33.00% | ~92 |
+| Upgrade Unlock | 34.00% | ~95 |
 | Delegate Maintenance | 32.00% | ~89 |
 | Proper Walls | 31.00% | ~86 |
 | Destination Destiny | 29.00% | ~81 |

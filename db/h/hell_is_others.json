@@ -748,7 +748,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253786,
+  "EOS_Progressed": 253788,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
@@ -10803,6 +10803,11 @@
       "Time": "2023-07-28T13:12:12.4606505+00:00",
       "NumProgressed": 253786,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T14:06:37.486674+00:00",
+      "NumProgressed": 253788,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10822,7 +10827,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "Act3",
@@ -10878,7 +10883,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "BreakNWindows",
@@ -10886,7 +10891,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -11182,7 +11187,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "Patrimony2",
@@ -11261,7 +11266,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253786,
+      "Progressed": 253788,
       "Completed": 3
     }
   ],
@@ -11269,8 +11274,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-27T15:02:46.056551+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:12:12.4606498+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:06:37.486673+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:06:56.3885669+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:12:12.4607339+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:01:23.1563622+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:06:37.48687+00:00"
 }

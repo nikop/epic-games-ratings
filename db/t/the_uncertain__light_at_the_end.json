@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-07-27T12:04:50.3064216+00:00",
       "NumProgressed": 480,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T14:05:11.8128785+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -518,7 +523,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Echoes",
@@ -622,7 +627,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Misanthrope",
@@ -717,7 +722,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 5
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:11:02.5667861+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:05:11.8128776+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:09.4895779+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:03:31.4856723+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:11:02.5668089+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:57:12.3683754+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:05:11.8129172+00:00"
 }

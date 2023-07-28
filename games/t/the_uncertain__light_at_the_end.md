@@ -11,8 +11,8 @@ Rating: 3.82 (Ranked 941)
 | Beat the Heat | 24.00% | ~115 |
 | A Familiar Face | 16.00% | ~77 |
 | Unexpected Consequences | 14.00% | ~67 |
-| Mind the Gap | 13.00% | ~62 |
-| Does Not Compute | 13.00% | ~62 |
+| Mind the Gap | 13.00% | ~63 |
+| Does Not Compute | 13.00% | ~63 |
 | Identity Theft | 12.00% | ~58 |
 | F is for Feline | 12.00% | ~58 |
 | A Trip to Remember | 12.00% | ~58 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 941)
 | Marvellous Toys | 2.00% | ~10 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 221)  
+Progressed: 481 (Ranked 221)  
 Completed: 5 (1.04%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 5 (1.04%) (Ranked 107)
 | 2023-07-25 | 478 | 5 |
 | 2023-07-26 | 479 | 5 |
 | 2023-07-27 | 480 | 5 |
+| 2023-07-28 | 481 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

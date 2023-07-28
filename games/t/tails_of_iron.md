@@ -5,38 +5,38 @@ Rating: 4.52 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,446 |
-| Become King | 72.00% | ~1,301 |
-| Defeat 25 Frogs | 62.00% | ~1,120 |
-| Ranged Weapon | 61.00% | ~1,102 |
-| Collect Monster Parts | 58.00% | ~1,048 |
-| Two Handed Weapon | 56.00% | ~1,012 |
-| Defeat 25 Grubs | 52.00% | ~940 |
-| Rescue Redgi's Brothers | 51.00% | ~922 |
-| Collect Iron Ore | 47.00% | ~849 |
-| Defeat 25 Mozis | 46.00% | ~831 |
-| Kitchen Ready To Cook | 46.00% | ~831 |
-| Collect Gold | 45.00% | ~813 |
-| Smithy Ready to Craft | 45.00% | ~813 |
-| Fix the Travellers Wagon | 43.00% | ~777 |
-| Complete Elder Faction | 40.00% | ~723 |
+| Complete Guard Faction | 80.00% | ~1,447 |
+| Become King | 72.00% | ~1,302 |
+| Ranged Weapon | 61.00% | ~1,103 |
+| Defeat 25 Frogs | 61.00% | ~1,103 |
+| Collect Monster Parts | 57.00% | ~1,031 |
+| Two Handed Weapon | 56.00% | ~1,013 |
+| Defeat 25 Grubs | 52.00% | ~941 |
+| Rescue Redgi's Brothers | 51.00% | ~923 |
+| Collect Iron Ore | 47.00% | ~850 |
+| Defeat 25 Mozis | 46.00% | ~832 |
+| Kitchen Ready To Cook | 46.00% | ~832 |
+| Collect Gold | 45.00% | ~814 |
+| Smithy Ready to Craft | 45.00% | ~814 |
+| Fix the Travellers Wagon | 43.00% | ~778 |
+| Complete Elder Faction | 40.00% | ~724 |
 | End of the Mozis | 37.00% | ~669 |
 | Throne Room Fit For A King | 37.00% | ~669 |
-| Meet the Creatures from the Deep | 35.00% | ~632 |
-| Return Power To The Depths | 35.00% | ~632 |
-| Defeat Ratnor Rodentson | 29.00% | ~524 |
+| Meet the Creatures from the Deep | 35.00% | ~633 |
+| Return Power To The Depths | 35.00% | ~633 |
+| Defeat Ratnor Rodentson | 29.00% | ~525 |
 | Return the Statues | 26.00% | ~470 |
 | Defeat Rattus Augustail | 26.00% | ~470 |
 | Complete the Chefs Book | 24.00% | ~434 |
-| Complete Ranger Faction | 21.00% | ~379 |
-| Defeat Avor Warden of the Northern Wastes | 20.00% | ~361 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~343 |
+| Complete Ranger Faction | 21.00% | ~380 |
+| Defeat Avor Warden of the Northern Wastes | 20.00% | ~362 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~344 |
 | Complete Arena Faction | 16.00% | ~289 |
 | Complete Redgi's Armory | 8.00% | ~145 |
-| King of Kings | 7.00% | ~126 |
+| King of Kings | 7.00% | ~127 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,807 (Ranked 168)  
+Progressed: 1,809 (Ranked 168)  
 Completed: 8 (0.44%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 8 (0.44%) (Ranked 139)
 | 2023-07-25 | 1,795 | 8 |
 | 2023-07-26 | 1,800 | 8 |
 | 2023-07-27 | 1,804 | 8 |
-| 2023-07-28 | 1,807 | 8 |
+| 2023-07-28 | 1,809 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

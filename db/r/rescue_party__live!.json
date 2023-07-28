@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 205,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.45,
+  "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -241,6 +241,11 @@
       "Time": "2023-07-28T11:05:23.863667+00:00",
       "NumProgressed": 203,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-28T14:05:00.2184027+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -260,7 +265,7 @@
       "Name": "Dawn of Victory",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -276,7 +281,7 @@
       "Name": "Medal of honor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -300,7 +305,7 @@
       "Name": "Life matters",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_LIGHT",
@@ -356,7 +361,7 @@
       "Name": "Team assemble",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -372,7 +377,7 @@
       "Name": "Resource manager",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SAFETY_FIRST",
@@ -380,13 +385,13 @@
       "Name": "Safety first",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_SPEEDY",
       "SetID": "1p69hf1",
       "Name": "ASAP",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 50,
       "UsersEstimate": 197
     }
@@ -395,7 +400,7 @@
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 205,
       "Completed": 7
     }
   ],
@@ -403,8 +408,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:10:53.0837458+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:05:00.2184019+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:08.0192504+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:03:35.5145202+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:10:53.0837574+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:57:17.0429516+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:05:00.2184257+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,859 |
-| Biggest Communism Builder | 24.00% | ~29,879 |
-| The World's Most Laughable Centrist | 20.00% | ~24,899 |
-| Il Coppo Del'Arte! | 18.00% | ~22,409 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,919 |
-| Hyperstellar Law Official | 15.00% | ~18,674 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,429 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,184 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,184 |
+| Goodest Of The Good Cops | 28.00% | ~34,860 |
+| Biggest Communism Builder | 24.00% | ~29,880 |
+| The World's Most Laughable Centrist | 20.00% | ~24,900 |
+| Il Coppo Del'Arte! | 18.00% | ~22,410 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,920 |
+| Hyperstellar Law Official | 15.00% | ~18,675 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,430 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,185 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,185 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,695 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,205 |
 | Unbelievably Boring **** | 8.00% | ~9,960 |
@@ -30,24 +30,24 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,490 |
 | Massive Torque Dork | 1.00% | ~1,245 |
 | Avowed Inframaterialist | 1.00% | ~1,245 |
-| Real Musor | 0.90% | ~1,120 |
+| Real Musor | 0.90% | ~1,121 |
 | Baddest Brow in Town | 0.80% | ~996 |
 | Committee of la Responsabilité | 0.80% | ~996 |
 | Venture into the HARDCORE | 0.80% | ~996 |
-| Networthy Individual | 0.70% | ~871 |
+| Networthy Individual | 0.70% | ~872 |
 | Leopard Mindset | 0.60% | ~747 |
-| Modus: Mullen | 0.30% | ~373 |
-| Palerunner | 0.30% | ~373 |
+| Modus: Mullen | 0.30% | ~374 |
+| Palerunner | 0.30% | ~374 |
 | Cause a ****storm | 0.20% | ~249 |
 | True Detective | 0.20% | ~249 |
 | The Icebreaker | 0.20% | ~249 |
-| The Most Honourable Cop in The Land | 0.10% | ~124 |
-| Gluten-Free Topping Pie | 0.10% | ~124 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~124 |
-| Medal dispenser | 0.10% | ~124 |
-| What body? | 0.10% | ~124 |
+| The Most Honourable Cop in The Land | 0.10% | ~125 |
+| Gluten-Free Topping Pie | 0.10% | ~125 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~125 |
+| Medal dispenser | 0.10% | ~125 |
+| What body? | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,496 (Ranked 64)  
+Progressed: 124,501 (Ranked 64)  
 Completed: 27 (0.02%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 27 (0.02%) (Ranked 224)
 | 2023-07-25 | 124,234 | 27 |
 | 2023-07-26 | 124,348 | 27 |
 | 2023-07-27 | 124,446 | 27 |
-| 2023-07-28 | 124,496 | 27 |
+| 2023-07-28 | 124,501 | 27 |
 ## Awards
 Max (Character Customization): 709  (Ranked 162)  
 Sum: 1,071 (Ranked 233)  

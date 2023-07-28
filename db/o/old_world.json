@@ -10458,9 +10458,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -11064,8 +11064,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:12:03.6925082+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:06:26.8030422+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:04:42.4208103+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:12:03.6932356+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:58:40.7925666+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:06:26.8048068+00:00"
 }

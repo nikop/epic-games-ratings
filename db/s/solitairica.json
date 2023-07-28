@@ -850,10 +850,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 619,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-07-28T14:00:28.4235357+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 620,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 619,
+  "NumberOfAwards": 620,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -897,7 +903,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Challenging Combat",
@@ -935,8 +941,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2023-07-15T05:00:06.186557+00:00",
+  "LastChanged": "2023-07-28T14:00:28.4235354+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:30.045924+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:06:13.8167921+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:12:26.1785143+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:00:28.4235364+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:06:53.436095+00:00"
 }

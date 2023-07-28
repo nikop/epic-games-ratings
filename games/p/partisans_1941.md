@@ -30,8 +30,8 @@ Number of Ratings: 98  (23.09.2022)
 | Do a Barrel Roll! | 0.90% | ~11 |
 | How?! | 0.80% | ~10 |
 | Tough as Nails | 0.30% | ~4 |
+| Commandos | 0.20% | ~2 |
 | We Weren't There | 0.20% | ~2 |
-| Commandos | 0.10% | ~1 |
 | A Little Culture | 0.10% | ~1 |
 | Inspector General | 0.00% | ~0 |
 | Defense of Steel | 0.00% | ~0 |

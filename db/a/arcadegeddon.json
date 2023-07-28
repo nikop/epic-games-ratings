@@ -765,7 +765,7 @@
   ],
   "EOS_Progressed": 8199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6732,9 +6732,9 @@
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
       "SetID": "97mcd7i",
       "Name": "Here Comes a New Challenger",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3116
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -7020,8 +7020,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:12:26.296241+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:06:53.6078572+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.1787346+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:05:08.3407121+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:12:26.2963023+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:59:12.6273138+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:06:53.607993+00:00"
 }

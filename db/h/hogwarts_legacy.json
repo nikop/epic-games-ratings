@@ -5494,18 +5494,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 40023,
       "NumberOfAwardsMax": 21330
+    },
+    {
+      "Time": "2023-07-28T13:58:02.9654109+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40055,
+      "NumberOfAwardsMax": 21360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40023,
-  "NumberOfAwardsMax": 21330,
+  "NumberOfAwards": 40055,
+  "NumberOfAwardsMax": 21360,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21330
+      "Count": 21360
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5529,7 +5535,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 939
+      "Count": 941
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5574,7 +5580,7 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288737,
+  "EOS_Progressed": 288742,
   "EOS_Completed": 435,
   "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 3,
@@ -16214,6 +16220,11 @@
       "Time": "2023-07-28T13:11:01.5544632+00:00",
       "NumProgressed": 288737,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-28T14:05:10.5703489+00:00",
+      "NumProgressed": 288742,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 45,
@@ -16225,7 +16236,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34648
+      "UsersEstimate": 34649
     },
     {
       "ID": "PFA_10",
@@ -16233,7 +16244,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_11",
@@ -16241,7 +16252,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_12",
@@ -16249,7 +16260,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_13",
@@ -16273,7 +16284,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17324
+      "UsersEstimate": 17325
     },
     {
       "ID": "PFA_16",
@@ -16281,7 +16292,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_17",
@@ -16289,7 +16300,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17324
+      "UsersEstimate": 17325
     },
     {
       "ID": "PFA_18",
@@ -16305,7 +16316,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17324
+      "UsersEstimate": 17325
     },
     {
       "ID": "PFA_2",
@@ -16313,7 +16324,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11549
+      "UsersEstimate": 11550
     },
     {
       "ID": "PFA_20",
@@ -16353,7 +16364,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_25",
@@ -16409,7 +16420,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_31",
@@ -16481,7 +16492,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_4",
@@ -16505,7 +16516,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11549
+      "UsersEstimate": 11550
     },
     {
       "ID": "PFA_42",
@@ -16553,7 +16564,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31761
+      "UsersEstimate": 31762
     },
     {
       "ID": "PFA_7",
@@ -16569,7 +16580,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "PFA_9",
@@ -16584,16 +16595,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288737,
+      "Progressed": 288742,
       "Completed": 435
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-28T07:58:19.311003+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:11:01.5544625+00:00",
+  "LastChanged": "2023-07-28T13:58:02.9654107+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:05:10.5703482+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:04:14.1387313+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:11:01.5545439+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:58:02.9654115+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:05:10.5705286+00:00"
 }

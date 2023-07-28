@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6902,
+  "EOS_Progressed": 6903,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3093,6 +3093,11 @@
       "Time": "2023-07-28T10:04:26.1942984+00:00",
       "NumProgressed": 6902,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-28T14:03:30.5078322+00:00",
+      "NumProgressed": 6903,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3136,7 +3141,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3144,7 +3149,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3152,7 +3157,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3184,7 +3189,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3224,7 +3229,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3232,7 +3237,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -3256,7 +3261,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3280,7 +3285,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3312,22 +3317,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6902,
+      "Progressed": 6903,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:09:39.8008167+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:03:30.5078313+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:04:14.6711101+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:09:39.8008454+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:58:04.413497+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:03:30.5078961+00:00"
 }

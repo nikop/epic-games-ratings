@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1226,6 +1226,11 @@
       "Time": "2023-07-28T10:03:29.7280606+00:00",
       "NumProgressed": 366,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T14:01:45.6718623+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1259,9 +1264,9 @@
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "BudgetFlight",
@@ -1435,9 +1440,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "NoTimeForModernization",
@@ -1453,7 +1458,7 @@
       "Name": "No Way Back",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "NotPlanned",
@@ -1565,21 +1570,21 @@
       "Name": "Transport Hub",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:07:13.2695339+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:01:45.6718616+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:03:43.7736994+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:07:13.2695696+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:57:26.031807+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:01:45.6719334+00:00"
 }

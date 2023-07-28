@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 813)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,523 |
-| Don't I Know You...? | 77.00% | ~1,466 |
+| Rigged And Ready | 80.00% | ~1,524 |
+| Don't I Know You...? | 76.00% | ~1,448 |
 | Jailbreak | 65.00% | ~1,238 |
 | HEADSHOT! | 38.00% | ~724 |
 | Suited and Booted | 38.00% | ~724 |
-| Sleeping With The Fishes | 35.00% | ~666 |
-| Overheated | 30.00% | ~571 |
-| High Performance | 30.00% | ~571 |
+| Sleeping With The Fishes | 35.00% | ~667 |
+| Overheated | 30.00% | ~572 |
+| High Performance | 30.00% | ~572 |
 | Powered Up | 28.00% | ~533 |
 | Studied The Blade | 24.00% | ~457 |
 | Home Invasion | 23.00% | ~438 |
@@ -32,9 +32,9 @@ Rating: 4.25 (Ranked 813)
 | Where It All Began | 13.00% | ~248 |
 | Risk Tolerant | 13.00% | ~248 |
 | What A Catchy Song | 13.00% | ~248 |
-| Marked For Success | 12.00% | ~228 |
-| Sorry, Didn't See You There | 12.00% | ~228 |
-| Corrupted Beauty | 11.00% | ~209 |
+| Marked For Success | 12.00% | ~229 |
+| Sorry, Didn't See You There | 12.00% | ~229 |
+| Corrupted Beauty | 11.00% | ~210 |
 | Stimulating The Local Economy | 10.00% | ~190 |
 | Triplets | 10.00% | ~190 |
 | Defense in Depth | 9.00% | ~171 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 813)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,904 (Ranked 167)  
-Completed: 10 (0.53%) (Ranked 131)  
+Progressed: 1,905 (Ranked 167)  
+Completed: 10 (0.52%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 10 (0.53%) (Ranked 131)
 | 2023-07-25 | 1,891 | 10 |
 | 2023-07-26 | 1,896 | 10 |
 | 2023-07-27 | 1,903 | 10 |
-| 2023-07-28 | 1,904 | 10 |
+| 2023-07-28 | 1,905 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

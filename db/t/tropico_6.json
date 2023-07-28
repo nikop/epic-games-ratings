@@ -1020,9 +1020,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4359,
+  "EOS_Progressed": 4360,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6955,6 +6955,11 @@
       "Time": "2023-07-28T12:06:29.2584132+00:00",
       "NumProgressed": 4359,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-28T14:06:20.5684561+00:00",
+      "NumProgressed": 4360,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -6990,7 +6995,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -7006,7 +7011,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -7022,7 +7027,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -7038,7 +7043,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7110,7 +7115,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -7126,7 +7131,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7285,15 +7290,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4359,
+      "Progressed": 4360,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:11:58.6398579+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:06:20.5684554+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.5355483+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:06:57.5842709+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:11:58.6399102+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:01:24.6884522+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:06:20.5685733+00:00"
 }

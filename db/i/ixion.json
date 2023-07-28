@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2929,
+  "EOS_Progressed": 2931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3944,6 +3944,11 @@
       "Time": "2023-07-27T22:07:45.9228639+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T14:05:46.9859313+00:00",
+      "NumProgressed": 2931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4083,7 +4088,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_27",
@@ -4179,7 +4184,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_38",
@@ -4387,7 +4392,7 @@
       "Name": "From the Past",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_8",
@@ -4410,13 +4415,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1111,
+      "Progressed": 1113,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2929,
+      "Progressed": 2931,
       "Completed": 0
     }
   ],
@@ -4424,8 +4429,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:11:30.2052774+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:05:46.9859302+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:10.4864453+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:05:14.9263584+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:11:30.2053399+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:59:21.8180964+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:05:46.9860741+00:00"
 }

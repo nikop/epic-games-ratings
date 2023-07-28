@@ -394,7 +394,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7211,
+  "EOS_Progressed": 7212,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -6309,6 +6309,11 @@
       "Time": "2023-07-28T13:11:26.3768259+00:00",
       "NumProgressed": 7211,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-28T14:05:42.6212426+00:00",
+      "NumProgressed": 7212,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6320,7 +6325,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5986
     },
     {
       "ID": "ACH02",
@@ -6448,7 +6453,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH18",
@@ -6551,7 +6556,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7211,
+      "Progressed": 7212,
       "Completed": 41
     }
   ],
@@ -6559,8 +6564,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-28T13:11:26.3768255+00:00",
+  "LastChanged_Achievements": "2023-07-28T14:05:42.6212418+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:04:38.3865236+00:00",
-  "LastUpdate_Achievements": "2023-07-28T13:11:26.3768689+00:00"
+  "LastUpdate_Ratings": "2023-07-28T13:58:36.1225441+00:00",
+  "LastUpdate_Achievements": "2023-07-28T14:05:42.6213417+00:00"
 }

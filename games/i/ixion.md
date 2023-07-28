@@ -25,9 +25,9 @@ Rating: 4.55 (Ranked 481)
 | Power Outage | 6.00% | ~176 |
 | Convenient Transport | 6.00% | ~176 |
 | Please Make it Stop! | 6.00% | ~176 |
-| Sightseeing | 5.00% | ~146 |
-| Necessary Enhancement | 5.00% | ~146 |
-| From the Past | 5.00% | ~146 |
+| Sightseeing | 5.00% | ~147 |
+| Necessary Enhancement | 5.00% | ~147 |
+| From the Past | 5.00% | ~147 |
 | Oats | 4.00% | ~117 |
 | Access Granted | 4.00% | ~117 |
 | All in Good Health | 4.00% | ~117 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,929 (Ranked 157)  
+Progressed: 2,931 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
 | 2023-07-27 | 2,929 | 0 |
+| 2023-07-28 | 2,931 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

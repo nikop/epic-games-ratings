@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.50% | ~66 |
 | Developing Cities | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
+| Christianity | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
-| Christianity | 0.40% | ~53 |
 | Babylonian Paganism | 0.40% | ~53 |
 | Carthaginian Paganism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |

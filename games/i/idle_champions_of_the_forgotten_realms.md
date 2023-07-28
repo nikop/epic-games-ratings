@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,490 |
+| A Brief Tour of the Realms | 3.00% | ~6,491 |
 | Beast Intentions | 2.00% | ~4,327 |
-| Maddening | 1.00% | ~2,163 |
-| The Silken Swamp | 1.00% | ~2,163 |
-| Supply Run | 1.00% | ~2,163 |
+| Maddening | 1.00% | ~2,164 |
+| The Silken Swamp | 1.00% | ~2,164 |
+| Supply Run | 1.00% | ~2,164 |
 | Rocky Reception | 1.00% | ~1,826 |
 | Rock and Roll | 0.90% | ~1,644 |
 | Vecna Lives! | 0.80% | ~1,461 |
@@ -39,9 +39,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.50% | ~913 |
 | Bahamut's Army | 0.50% | ~913 |
 | Krux's Speed Run | 0.50% | ~913 |
-| Thieves of the Coven | 0.40% | ~730 |
+| Thieves of the Coven | 0.40% | ~731 |
 | Heavy Burden | 0.40% | ~865 |
-| The Evacuation of Waterdeep | 0.40% | ~730 |
+| The Evacuation of Waterdeep | 0.40% | ~731 |
 | Friends of the Forest | 0.40% | ~865 |
 | Beast Mode | 0.40% | ~865 |
 | Low Initiative | 0.40% | ~865 |
@@ -53,10 +53,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.40% | ~865 |
 | The Botched Kidnapping | 0.40% | ~865 |
 | The Mad Wizard | 0.40% | ~865 |
-| Bazaar Companions | 0.40% | ~730 |
-| Luigi After Hours | 0.40% | ~730 |
-| Electric Mayhem | 0.40% | ~730 |
-| Animated Giff | 0.40% | ~730 |
+| Bazaar Companions | 0.40% | ~731 |
+| Luigi After Hours | 0.40% | ~731 |
+| Electric Mayhem | 0.40% | ~731 |
+| Animated Giff | 0.40% | ~731 |
 | Upholding the Law | 0.30% | ~649 |
 | Hither of the Feywild | 0.30% | ~548 |
 | The Prince of a Thousand Enemies | 0.30% | ~548 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.30% | ~649 |
 | Exploring Port Nyanzaru | 0.30% | ~649 |
 | Running of the Saurs | 0.30% | ~649 |
+| The Contagious Curse | 0.30% | ~649 |
 | Escort to Waterdeep | 0.30% | ~649 |
 | Waterdeep Detours | 0.30% | ~649 |
 | Underdeep Cartography | 0.30% | ~649 |
@@ -160,7 +161,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~433 |
 | The Darkness Runs Deeper | 0.20% | ~433 |
 | Difficult Terrain | 0.20% | ~433 |
-| The Contagious Curse | 0.20% | ~433 |
 | Dinosaur Racing | 0.20% | ~433 |
 | Elturel Has Fallen | 0.20% | ~433 |
 | Resolve Amongst Chaos | 0.20% | ~433 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,338 (Ranked 53)  
-Completed: 2,131 (0.99%) (Ranked 109)  
+Progressed: 216,361 (Ranked 53)  
+Completed: 2,132 (0.99%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -618,7 +618,7 @@ Completed: 2,131 (0.99%) (Ranked 109)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,338 | 2,131 |
+| 2023-07-28 | 216,361 | 2,132 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  
