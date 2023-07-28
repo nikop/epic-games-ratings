@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 4.00% | ~144 |
+| Start with a bang! | 5.00% | ~180 |
 | Feeling the beat! | 4.00% | ~144 |
 | Who put gears in there? | 4.00% | ~144 |
 | You can pet the cat! | 4.00% | ~144 |

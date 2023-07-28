@@ -1,15 +1,15 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 812)  
+Rating: 4.25 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,522 |
-| Don't I Know You...? | 77.00% | ~1,465 |
-| Jailbreak | 65.00% | ~1,237 |
-| HEADSHOT! | 38.00% | ~723 |
-| Suited and Booted | 38.00% | ~723 |
+| Rigged And Ready | 80.00% | ~1,523 |
+| Don't I Know You...? | 77.00% | ~1,466 |
+| Jailbreak | 65.00% | ~1,238 |
+| HEADSHOT! | 38.00% | ~724 |
+| Suited and Booted | 38.00% | ~724 |
 | Sleeping With The Fishes | 35.00% | ~666 |
 | Overheated | 30.00% | ~571 |
 | High Performance | 30.00% | ~571 |
@@ -26,12 +26,12 @@ Rating: 4.25 (Ranked 812)
 | Dead Again | 18.00% | ~343 |
 | Clean Cut | 18.00% | ~343 |
 | Full Arsenal | 17.00% | ~324 |
-| Can't Trust Banks | 15.00% | ~285 |
-| Mommy Dearest | 13.00% | ~247 |
-| Bad Dog | 13.00% | ~247 |
-| Where It All Began | 13.00% | ~247 |
-| Risk Tolerant | 13.00% | ~247 |
-| What A Catchy Song | 13.00% | ~247 |
+| Can't Trust Banks | 15.00% | ~286 |
+| Mommy Dearest | 13.00% | ~248 |
+| Bad Dog | 13.00% | ~248 |
+| Where It All Began | 13.00% | ~248 |
+| Risk Tolerant | 13.00% | ~248 |
+| What A Catchy Song | 13.00% | ~248 |
 | Marked For Success | 12.00% | ~228 |
 | Sorry, Didn't See You There | 12.00% | ~228 |
 | Corrupted Beauty | 11.00% | ~209 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 812)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,903 (Ranked 167)  
-Completed: 10 (0.53%) (Ranked 130)  
+Progressed: 1,904 (Ranked 167)  
+Completed: 10 (0.53%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,6 +143,7 @@ Completed: 10 (0.53%) (Ranked 130)
 | 2023-07-25 | 1,891 | 10 |
 | 2023-07-26 | 1,896 | 10 |
 | 2023-07-27 | 1,903 | 10 |
+| 2023-07-28 | 1,904 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

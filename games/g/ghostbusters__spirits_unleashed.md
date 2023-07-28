@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,073 |
-| Advancement | 73.00% | ~17,888 |
+| Stylish | 86.00% | ~21,074 |
+| Advancement | 73.00% | ~17,889 |
 | Meticulously Efficient | 64.00% | ~15,683 |
-| Discovery | 61.00% | ~14,947 |
-| Fully Upgraded | 54.00% | ~13,232 |
-| Swift Rift Removers | 54.00% | ~13,232 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,497 |
-| Cultured | 51.00% | ~12,497 |
+| Discovery | 61.00% | ~14,948 |
+| Fully Upgraded | 54.00% | ~13,233 |
+| Swift Rift Removers | 54.00% | ~13,233 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,498 |
+| Cultured | 51.00% | ~12,498 |
 | Vaporous Expansion | 48.00% | ~11,762 |
 | Teamwork | 44.00% | ~10,782 |
 | There you are! | 43.00% | ~10,537 |
 | Clutch Capture | 41.00% | ~10,047 |
-| Back Off | 35.00% | ~8,576 |
-| Daily Dose | 34.00% | ~8,331 |
-| Solo Capture | 32.00% | ~7,841 |
-| Welcome to the Crew | 32.00% | ~7,841 |
-| Ghostbuster In Training | 30.00% | ~7,351 |
-| Icing on the Cake | 30.00% | ~7,351 |
+| Back Off | 35.00% | ~8,577 |
+| Daily Dose | 34.00% | ~8,332 |
+| Solo Capture | 32.00% | ~7,842 |
+| Welcome to the Crew | 32.00% | ~7,842 |
+| Ghostbuster In Training | 30.00% | ~7,352 |
+| Icing on the Cake | 30.00% | ~7,352 |
 | Side Hustle | 27.00% | ~6,616 |
 | We have the best insurance | 26.00% | ~6,371 |
 | Legions | 26.00% | ~6,371 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 573)
 | Diabolical | 16.00% | ~3,921 |
 | Escape Artist | 16.00% | ~3,921 |
 | Seasoned | 16.00% | ~3,921 |
-| Whoopsie | 12.00% | ~2,940 |
+| Whoopsie | 12.00% | ~2,941 |
 | Liability | 10.00% | ~2,450 |
 | Rivalry | 10.00% | ~2,450 |
 | Fragile Panes | 9.00% | ~2,205 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~245 |
 | I don't need these | 0.90% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,504 (Ranked 101)  
+Progressed: 24,505 (Ranked 101)  
 Completed: 48 (0.20%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 48 (0.20%) (Ranked 170)
 | 2023-07-25 | 24,451 | 48 |
 | 2023-07-26 | 24,472 | 48 |
 | 2023-07-27 | 24,498 | 48 |
-| 2023-07-28 | 24,504 | 48 |
+| 2023-07-28 | 24,505 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 244  (Ranked 249)  
 Sum: 2,188 (Ranked 190)  

@@ -41,7 +41,7 @@ Rating: 4.41 (Ranked 675)
 | Tinkerer | 0.90% | ~30 |
 | Road Rage | 0.90% | ~30 |
 | Don't hold your breath | 0.80% | ~27 |
-| Herr Today, Gone Tomorrow | 0.80% | ~26 |
+| Herr Today, Gone Tomorrow | 0.80% | ~27 |
 | It'll Buff Right Out | 0.70% | ~24 |
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 675)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,361 (Ranked 149)  
+Progressed: 3,362 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 9 (0.27%) (Ranked 159)
 | 2023-07-25 | 3,348 | 9 |
 | 2023-07-26 | 3,353 | 9 |
 | 2023-07-27 | 3,360 | 9 |
-| 2023-07-28 | 3,361 | 9 |
+| 2023-07-28 | 3,362 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

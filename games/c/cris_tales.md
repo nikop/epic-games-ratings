@@ -1,7 +1,7 @@
 # Cris Tales
 [Store](https://store.epicgames.com/en-US/p/cris-tales)  
 [View Rawdata](../../db/c/cris_tales.json)  
-Rating: 4.36 (Ranked 732)  
+Rating: 4.36 (Ranked 731)  
 Number of Ratings: 758  (23.09.2022)  
 ## Awards
 Max (Character Customization): 172  (Ranked 284)  

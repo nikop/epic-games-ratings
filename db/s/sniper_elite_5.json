@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -428,9 +428,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3361,
+  "EOS_Progressed": 3362,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5423,6 +5423,11 @@
       "Time": "2023-07-28T00:04:53.4652104+00:00",
       "NumProgressed": 3361,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-28T11:05:10.7405436+00:00",
+      "NumProgressed": 3362,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5898,7 +5903,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -6001,13 +6006,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3312,
+      "Progressed": 3313,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3361,
+      "Progressed": 3362,
       "Completed": 9
     }
   ],
@@ -6015,8 +6020,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:05:47.4736781+00:00",
+  "LastChanged_Achievements": "2023-07-28T11:05:10.740543+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:57:19.9229129+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:05:47.4737847+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:57:39.7806979+00:00",
+  "LastUpdate_Achievements": "2023-07-28T11:05:10.7406246+00:00"
 }

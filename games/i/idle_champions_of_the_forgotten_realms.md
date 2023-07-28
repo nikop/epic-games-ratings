@@ -22,18 +22,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.60% | ~1,095 |
 | Return to the Tomb | 0.60% | ~1,095 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,095 |
-| Pros and CONs | 0.50% | ~1,081 |
+| Pros and CONs | 0.50% | ~1,082 |
 | The Witchlight Carnival | 0.50% | ~913 |
-| Hatchlings Underfoot | 0.50% | ~1,081 |
-| Don't Look Up! | 0.50% | ~1,081 |
+| Hatchlings Underfoot | 0.50% | ~1,082 |
+| Don't Look Up! | 0.50% | ~1,082 |
 | Heatwave | 0.50% | ~913 |
 | The Dread Domain of Tovag | 0.50% | ~913 |
-| Were-verpowered | 0.50% | ~1,081 |
-| A Persistent Buzzing | 0.50% | ~1,081 |
-| Terror in the Dark | 0.50% | ~1,081 |
-| A Mysterious Summons | 0.50% | ~1,081 |
-| Building Trust | 0.50% | ~1,081 |
-| Unearthed Evil | 0.50% | ~1,081 |
+| Were-verpowered | 0.50% | ~1,082 |
+| A Persistent Buzzing | 0.50% | ~1,082 |
+| Terror in the Dark | 0.50% | ~1,082 |
+| A Mysterious Summons | 0.50% | ~1,082 |
+| Building Trust | 0.50% | ~1,082 |
+| Unearthed Evil | 0.50% | ~1,082 |
 | Not That Type of Helm! | 0.50% | ~913 |
 | Calcryx Tricks | 0.50% | ~913 |
 | Goblin Halls: the Next Generation | 0.50% | ~913 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,290 (Ranked 53)  
+Progressed: 216,303 (Ranked 53)  
 Completed: 2,130 (0.98%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,130 (0.98%) (Ranked 110)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,290 | 2,130 |
+| 2023-07-28 | 216,303 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  

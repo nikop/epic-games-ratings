@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~192 |
+| First Shard | 81.00% | ~193 |
 | Found the Healer | 35.00% | ~83 |
 | Second Shard | 10.00% | ~24 |
 | Champion of Kalevala | 8.00% | ~19 |
@@ -17,7 +17,7 @@
 | Big Fish | 5.00% | ~12 |
 | Tastes Like Chicken | 5.00% | ~12 |
 | Fifth Shard | 5.00% | ~12 |
-| Green Thumb | 4.00% | ~9 |
+| Green Thumb | 4.00% | ~10 |
 | Mushroom Forager | 3.00% | ~7 |
 | Good Stew | 3.00% | ~7 |
 | Avian Veterinarian | 3.00% | ~7 |
@@ -28,8 +28,8 @@
 | Trolled | 2.00% | ~5 |
 | Troll Hunter | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 263)  
-Completed: 4 (1.69%) (Ranked 90)  
+Progressed: 238 (Ranked 262)  
+Completed: 4 (1.68%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 4 (1.69%) (Ranked 90)
 | 2023-07-24 | 233 | 4 |
 | 2023-07-25 | 235 | 4 |
 | 2023-07-27 | 236 | 4 |
-| 2023-07-28 | 237 | 4 |
+| 2023-07-28 | 238 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@ Number of Ratings: 28  (23.09.2022)
 | Living it large! | 43.00% | ~167 |
 | Collector | 41.00% | ~159 |
 | Need to think | 39.00% | ~152 |
-| Completely nuts! | 37.00% | ~144 |
+| Completely nuts! | 38.00% | ~148 |
 | Just in time! | 32.00% | ~124 |
 | Europe | 30.00% | ~117 |
 | It's no coincidence. | 30.00% | ~117 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 389 (Ranked 233)  
-Completed: 2 (0.51%) (Ranked 132)  
+Completed: 2 (0.51%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

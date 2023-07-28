@@ -11,7 +11,7 @@ Number of Ratings: 98  (23.09.2022)
 | Grenadier | 34.00% | ~407 |
 | Heroes Never Die | 31.00% | ~371 |
 | Mosquito bite | 30.00% | ~359 |
-| Spice It Up | 26.00% | ~311 |
+| Spice It Up | 27.00% | ~323 |
 | Agent 47 | 22.00% | ~263 |
 | Bomberman | 22.00% | ~263 |
 | You're Gonna Go Far, Kid | 21.00% | ~251 |

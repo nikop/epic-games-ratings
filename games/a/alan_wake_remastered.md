@@ -6,49 +6,49 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 36.00% | ~21,281 |
-| Let There Be Light | 29.00% | ~17,143 |
-| Float Like a Butterfly | 27.00% | ~15,961 |
-| Nordic Walking | 22.00% | ~13,005 |
-| Bright Falls' Finest | 21.00% | ~12,414 |
-| Under a Thin Layer of Skin | 19.00% | ~11,232 |
-| Paging Mr. Wake | 16.00% | ~9,458 |
-| Park Ranger | 15.00% | ~8,867 |
-| Back! Back, I Say! | 15.00% | ~8,867 |
-| Finders Keepers | 15.00% | ~8,867 |
-| They're Heeeeeere! | 13.00% | ~7,685 |
-| Sound and Fury | 13.00% | ~7,685 |
-| Missed by a Mile | 13.00% | ~7,685 |
-| Damn Good Cup of Coffee | 13.00% | ~7,685 |
-| Wheels Within Wheels | 12.00% | ~7,094 |
-| The Six-Gun Scribe | 12.00% | ~7,094 |
+| Follow the Light | 36.00% | ~21,284 |
+| Let There Be Light | 29.00% | ~17,145 |
+| Float Like a Butterfly | 27.00% | ~15,963 |
+| Nordic Walking | 22.00% | ~13,007 |
+| Bright Falls' Finest | 21.00% | ~12,416 |
+| Under a Thin Layer of Skin | 19.00% | ~11,233 |
+| Paging Mr. Wake | 16.00% | ~9,460 |
+| Park Ranger | 15.00% | ~8,868 |
+| Back! Back, I Say! | 15.00% | ~8,868 |
+| Finders Keepers | 15.00% | ~8,868 |
+| They're Heeeeeere! | 13.00% | ~7,686 |
+| Sound and Fury | 13.00% | ~7,686 |
+| Missed by a Mile | 13.00% | ~7,686 |
+| Damn Good Cup of Coffee | 13.00% | ~7,686 |
+| Wheels Within Wheels | 12.00% | ~7,095 |
+| The Six-Gun Scribe | 12.00% | ~7,095 |
 | Heavy Metal | 11.00% | ~6,503 |
 | Iron Horse | 11.00% | ~6,503 |
 | Perchance to Dream | 11.00% | ~6,503 |
 | Collateral Carnage | 11.00% | ~6,503 |
 | Come One, Come All | 11.00% | ~6,503 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,911 |
-| Thunder and Lightning | 10.00% | ~5,911 |
-| Two For the Price of One | 10.00% | ~5,911 |
-| Gatekeeper | 9.00% | ~5,320 |
-| The Lady of the Light | 9.00% | ~5,320 |
-| Energized! | 9.00% | ~5,320 |
-| What Light Through Yonder Window | 8.00% | ~4,729 |
-| Right of Way | 8.00% | ~4,729 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,912 |
+| Thunder and Lightning | 10.00% | ~5,912 |
+| Two For the Price of One | 10.00% | ~5,912 |
+| Gatekeeper | 9.00% | ~5,321 |
+| The Lady of the Light | 9.00% | ~5,321 |
+| Energized! | 9.00% | ~5,321 |
+| What Light Through Yonder Window | 8.00% | ~4,730 |
+| Right of Way | 8.00% | ~4,730 |
 | A Friend in Need | 8.00% | ~1,807 |
-| Tornado Wrangler | 7.00% | ~4,138 |
+| Tornado Wrangler | 7.00% | ~4,139 |
 | Departure | 6.00% | ~3,547 |
 | A Friend Indeed | 6.00% | ~1,355 |
 | Drink 'Em Both Up | 5.00% | ~2,956 |
 | Hardboiled Writer | 5.00% | ~2,956 |
-| Ding! | 5.00% | ~1,129 |
+| Ding! | 5.00% | ~1,130 |
 | Boob Tube | 4.00% | ~2,365 |
 | Children of the Elder God | 4.00% | ~2,365 |
 | If It Flies, It Burns | 4.00% | ~2,365 |
 | KBF-FM | 4.00% | ~2,365 |
-| Carny | 3.00% | ~1,773 |
-| Kill Your Darlings | 3.00% | ~677 |
-| Heartbreaker | 3.00% | ~677 |
+| Carny | 3.00% | ~1,774 |
+| Kill Your Darlings | 3.00% | ~678 |
+| Heartbreaker | 3.00% | ~678 |
 | Medical Opinions | 2.00% | ~1,182 |
 | Taken Season | 2.00% | ~1,182 |
 | An Idyllic Small Town | 2.00% | ~1,182 |
@@ -56,7 +56,7 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~591 |
 | Go Gentle Into That Good Light | 1.00% | ~226 |
 | Words Will Never Harm You | 0.70% | ~158 |
-| Cardboard Companions | 0.60% | ~135 |
+| Cardboard Companions | 0.60% | ~136 |
 | Fast and Furious | 0.50% | ~113 |
 | Run-On Sentence | 0.40% | ~90 |
 | License Revoked | 0.40% | ~90 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~59 |
 | No Punctuation | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,114 (Ranked 83)  
+Progressed: 59,122 (Ranked 83)  
 Completed: 58 (0.10%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 58 (0.10%) (Ranked 191)
 | 2023-07-25 | 58,790 | 58 |
 | 2023-07-26 | 58,927 | 58 |
 | 2023-07-27 | 59,045 | 58 |
-| 2023-07-28 | 59,114 | 58 |
+| 2023-07-28 | 59,122 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

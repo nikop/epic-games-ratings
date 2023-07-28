@@ -16,10 +16,10 @@ Number of Ratings: 125  (23.09.2022)
 | Off the Trail | 34.00% | ~593 |
 | Justice Served | 29.00% | ~506 |
 | Chain Reaction | 27.00% | ~471 |
+| Dishonored | 25.00% | ~436 |
 | Rain of Death | 25.00% | ~436 |
 | Scholar | 25.00% | ~436 |
 | Through Their Eyes | 25.00% | ~436 |
-| Dishonored | 24.00% | ~419 |
 | The Great Escape | 23.00% | ~401 |
 | That’s All, Folks | 18.00% | ~314 |
 | Fallen Star | 16.00% | ~279 |
@@ -37,10 +37,10 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~174 |
 | Loyalty to the Pack | 9.00% | ~157 |
 | Mystery Machine | 9.00% | ~157 |
+| Do Not Pass Go… | 8.00% | ~140 |
 | Gold Digger | 8.00% | ~140 |
 | Eternity Can Wait | 8.00% | ~140 |
 | Knuckle Sandwich | 8.00% | ~140 |
-| Do Not Pass Go… | 7.00% | ~122 |
 | Getting the Gang Back Together | 7.00% | ~122 |
 | Monster Hunter | 7.00% | ~122 |
 | Healing Old Wounds | 6.00% | ~105 |
@@ -51,8 +51,8 @@ Number of Ratings: 125  (23.09.2022)
 | Moondrunk | 3.00% | ~52 |
 | Lord Inut Sends His Regards | 2.00% | ~35 |
 | 'Ma Barker | 2.00% | ~35 |
+| I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
-| I Kicked a Bird and I Liked it | 0.90% | ~16 |
 | End the world | 0.60% | ~10 |
 | Explorer | 0.50% | ~9 |
 | Moon Hunter | 0.50% | ~9 |

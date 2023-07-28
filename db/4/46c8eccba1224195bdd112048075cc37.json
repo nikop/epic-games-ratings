@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-07-28T01:59:45.5858104+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T11:05:55.3045983+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -456,7 +461,7 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
       "UsersEstimate": 51
     },
@@ -496,7 +501,7 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 86
     },
@@ -512,7 +517,7 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
       "UsersEstimate": 70
     },
@@ -528,7 +533,7 @@
       "ID": "KingBeatleHunter",
       "SetID": "7g1kpc8",
       "Name": "Royal Beetle",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -560,7 +565,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -592,7 +597,7 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
       "UsersEstimate": 10
     }
@@ -601,14 +606,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:06:47.6902136+00:00",
+  "LastChanged_Achievements": "2023-07-28T11:05:55.3045978+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:57:53.9803078+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:06:47.6902308+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:58:10.1758567+00:00",
+  "LastUpdate_Achievements": "2023-07-28T11:05:55.3046118+00:00"
 }

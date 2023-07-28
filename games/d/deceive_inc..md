@@ -5,44 +5,44 @@ Rating: 4.65 (Ranked 300)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 48.00% | ~4,877 |
-| Mainframe Hacker | 35.00% | ~3,556 |
-| The Spy who eliminated me | 35.00% | ~3,556 |
-| Tomorrow Never Dyes | 34.00% | ~3,455 |
-| Never Say Loser Again | 29.00% | ~2,947 |
-| From the Vault with Love | 28.00% | ~2,845 |
-| For your Eyes only | 28.00% | ~2,845 |
-| Tailor-Made | 27.00% | ~2,743 |
-| You Only Live Twice | 25.00% | ~2,540 |
-| Fully Decked Out | 25.00% | ~2,540 |
-| A view to Win | 20.00% | ~2,032 |
-| Assistant Accountant | 18.00% | ~1,829 |
-| The Living Portrait | 18.00% | ~1,829 |
-| Private Collection | 18.00% | ~1,829 |
-| Killer Looks | 18.00% | ~1,829 |
-| Hostile Takeover | 18.00% | ~1,829 |
-| Smells Like Trouble | 18.00% | ~1,829 |
-| Keycards Royale | 17.00% | ~1,727 |
-| Dr. No Kill | 17.00% | ~1,727 |
-| My Motto, My Creed | 17.00% | ~1,727 |
-| In It to Win It | 15.00% | ~1,524 |
-| Security Supervisor | 7.00% | ~711 |
-| License to Thrill | 6.00% | ~610 |
-| Social of Solace | 6.00% | ~610 |
-| Safe Withdrawal | 5.00% | ~508 |
-| Live and let lie | 4.00% | ~406 |
-| Call Me Maybe | 3.00% | ~305 |
-| PHD in VIP | 3.00% | ~305 |
-| Branch Manager | 2.00% | ~203 |
-| The terminals are not enough | 2.00% | ~203 |
-| Lose Another Day | 2.00% | ~203 |
-| Chief Information Officer | 1.00% | ~102 |
-| Chairman of Deceive Inc. | 1.00% | ~102 |
-| Masteries Are Forever | 0.60% | ~61 |
-| Extraction Confusion | 0.20% | ~20 |
+| On Deceive Inc.'s Secret Service | 47.00% | ~4,835 |
+| Mainframe Hacker | 35.00% | ~3,600 |
+| The Spy who eliminated me | 35.00% | ~3,600 |
+| Tomorrow Never Dyes | 33.00% | ~3,395 |
+| Never Say Loser Again | 29.00% | ~2,983 |
+| For your Eyes only | 28.00% | ~2,880 |
+| From the Vault with Love | 27.00% | ~2,777 |
+| Tailor-Made | 27.00% | ~2,777 |
+| Fully Decked Out | 25.00% | ~2,572 |
+| You Only Live Twice | 24.00% | ~2,469 |
+| A view to Win | 20.00% | ~2,057 |
+| Assistant Accountant | 18.00% | ~1,852 |
+| Private Collection | 18.00% | ~1,852 |
+| Hostile Takeover | 18.00% | ~1,852 |
+| Smells Like Trouble | 18.00% | ~1,852 |
+| Dr. No Kill | 17.00% | ~1,749 |
+| The Living Portrait | 17.00% | ~1,749 |
+| My Motto, My Creed | 17.00% | ~1,749 |
+| Killer Looks | 17.00% | ~1,749 |
+| Keycards Royale | 16.00% | ~1,646 |
+| In It to Win It | 15.00% | ~1,543 |
+| Security Supervisor | 7.00% | ~720 |
+| License to Thrill | 6.00% | ~617 |
+| Social of Solace | 6.00% | ~617 |
+| Safe Withdrawal | 5.00% | ~514 |
+| Live and let lie | 4.00% | ~411 |
+| Call Me Maybe | 3.00% | ~309 |
+| PHD in VIP | 3.00% | ~309 |
+| Branch Manager | 2.00% | ~206 |
+| The terminals are not enough | 2.00% | ~206 |
+| Lose Another Day | 2.00% | ~206 |
+| Chairman of Deceive Inc. | 1.00% | ~103 |
+| Chief Information Officer | 0.90% | ~93 |
+| Masteries Are Forever | 0.50% | ~51 |
+| Extraction Confusion | 0.20% | ~21 |
 | Spyfall | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,161 (Ranked 121)  
+Progressed: 10,287 (Ranked 120)  
 Completed: 1 (0.01%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1 (0.01%) (Ranked 232)
 | 2023-07-25 | 7,488 | 1 |
 | 2023-07-26 | 7,499 | 1 |
 | 2023-07-27 | 8,494 | 1 |
-| 2023-07-28 | 10,161 | 1 |
+| 2023-07-28 | 10,287 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -879,9 +879,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "31_chancellor",
@@ -967,8 +967,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:05:25.2817455+00:00",
+  "LastChanged_Achievements": "2023-07-28T11:04:54.6018893+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:58:43.2362445+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:05:25.2818031+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:58:38.2266278+00:00",
+  "LastUpdate_Achievements": "2023-07-28T11:04:54.6019134+00:00"
 }

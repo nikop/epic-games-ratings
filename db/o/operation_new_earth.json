@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 663,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -2271,6 +2271,11 @@
       "Time": "2023-07-28T10:07:26.6723568+00:00",
       "NumProgressed": 662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T11:06:23.3635906+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2282,7 +2287,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2306,7 +2311,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2344,9 +2349,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2354,7 +2359,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_headquarters_10",
@@ -2370,7 +2375,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_headquarters_20",
@@ -2458,7 +2463,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2474,7 +2479,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2490,7 +2495,7 @@
       "Name": "Stocking Up",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2506,7 +2511,7 @@
       "Name": "On Target",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2585,14 +2590,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:07:26.672356+00:00",
+  "LastChanged_Achievements": "2023-07-28T11:06:23.36359+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:03:07.6234338+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:07:26.6724253+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:01:28.8954346+00:00",
+  "LastUpdate_Achievements": "2023-07-28T11:06:23.3636242+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 275,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1357,9 +1357,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 189193,
+  "EOS_Progressed": 189207,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1924,
+  "EOS_NewPlayers": 1925,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12177,6 +12177,11 @@
       "Time": "2023-07-28T10:08:48.2503486+00:00",
       "NumProgressed": 189193,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-28T11:07:20.9524471+00:00",
+      "NumProgressed": 189207,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 44,
@@ -12188,7 +12193,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17027
+      "UsersEstimate": 17029
     },
     {
       "ID": "AtheistOx",
@@ -12260,7 +12265,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20811
+      "UsersEstimate": 20813
     },
     {
       "ID": "HappyLittleAccidents",
@@ -12444,7 +12449,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15135
+      "UsersEstimate": 15137
     },
     {
       "ID": "TheCave",
@@ -12476,7 +12481,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17027
+      "UsersEstimate": 17029
     },
     {
       "ID": "TimeParadox",
@@ -12539,15 +12544,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 189193,
+      "Progressed": 189207,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-26T11:59:19.884643+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:08:48.2503477+00:00",
+  "LastChanged_Achievements": "2023-07-28T11:07:20.9524465+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:46.4942991+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:01:05.9037572+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:08:48.2505259+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:00:08.4284579+00:00",
+  "LastUpdate_Achievements": "2023-07-28T11:07:20.9525221+00:00"
 }

@@ -10,8 +10,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 1.00% | ~131 |
 | Play a Single Player Game | 1.00% | ~131 |
 | The Great Mage | 1.00% | ~131 |
+| Poetic Leader | 1.00% | ~131 |
 | Explorer | 0.90% | ~118 |
-| Poetic Leader | 0.90% | ~118 |
 | Friendly Family | 0.80% | ~105 |
 | Able | 0.70% | ~92 |
 | Intrepid | 0.70% | ~92 |

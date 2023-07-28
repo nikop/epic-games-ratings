@@ -7,22 +7,22 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,773 |
-| Say goodbye, creep! | 66.00% | ~28,478 |
-| Blood splattered | 65.00% | ~28,047 |
-| Choo choo! | 62.00% | ~26,752 |
-| Groovy | 61.00% | ~26,321 |
+| Say goodbye, creep! | 66.00% | ~28,479 |
+| Blood splattered | 65.00% | ~28,048 |
+| Choo choo! | 62.00% | ~26,753 |
+| Groovy | 61.00% | ~26,322 |
 | Cleanup on aisle 4! | 57.00% | ~24,595 |
-| Gold | 50.00% | ~21,574 |
-| The boat can leave now...tell the crew | 49.00% | ~21,143 |
+| Gold | 50.00% | ~21,575 |
+| The boat can leave now...tell the crew | 49.00% | ~21,144 |
 | Stand back boy! | 47.00% | ~20,280 |
 | Give me something to shoot! | 46.00% | ~19,849 |
 | Weird science | 44.00% | ~18,986 |
 | Chain reaction | 44.00% | ~18,986 |
 | What did you say, Blain? | 42.00% | ~18,123 |
-| Look mummy! A shark! | 41.00% | ~17,691 |
+| Look mummy! A shark! | 41.00% | ~17,692 |
 | In the dark dark woods... | 39.00% | ~16,828 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,397 |
-| Double tap | 37.00% | ~15,965 |
+| Double tap | 37.00% | ~15,966 |
 | All of this has happened before… | 36.00% | ~15,534 |
 | Cranial blowout! | 36.00% | ~15,534 |
 | Zombie killin' machine | 36.00% | ~15,534 |
@@ -40,29 +40,29 @@ Number of Ratings: 743  (23.09.2022)
 | Leave the limbs you've lost | 22.00% | ~9,493 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,767 |
 | Take them down screaming | 18.00% | ~7,767 |
-| Bad Blood | 17.00% | ~7,335 |
-| Weapons expert | 17.00% | ~7,335 |
+| Bad Blood | 17.00% | ~7,336 |
+| Weapons expert | 17.00% | ~7,336 |
 | The bigger they are... | 15.00% | ~6,472 |
 | I'm going deeper underground | 14.00% | ~6,041 |
-| Well equipped | 13.00% | ~5,609 |
+| Well equipped | 13.00% | ~5,610 |
 | Into the deep | 12.00% | ~5,178 |
-| Damnedbusters | 9.00% | ~3,883 |
+| Damnedbusters | 9.00% | ~3,884 |
 | I can do anything I want. I got guns | 8.00% | ~3,452 |
 | Send me an angel | 8.00% | ~3,452 |
-| Plane sailing | 7.00% | ~3,020 |
-| This is no Sunday School picnic! | 7.00% | ~3,020 |
-| I never redoubted you! | 7.00% | ~3,020 |
-| Gotcha, didn't I? | 7.00% | ~3,020 |
-| A gross gross | 7.00% | ~3,020 |
-| Hail to the king, baby! | 7.00% | ~3,020 |
+| Plane sailing | 7.00% | ~3,021 |
+| This is no Sunday School picnic! | 7.00% | ~3,021 |
+| I never redoubted you! | 7.00% | ~3,021 |
+| Gotcha, didn't I? | 7.00% | ~3,021 |
+| A gross gross | 7.00% | ~3,021 |
+| Hail to the king, baby! | 7.00% | ~3,021 |
 | Something wicked this way comes | 6.00% | ~2,589 |
 | Not today you won't | 6.00% | ~2,589 |
 | Take a little bit of Italy with you | 6.00% | ~2,589 |
 | Staring at Shadows | 6.00% | ~2,589 |
 | I told you we should have gone to the beach | 6.00% | ~2,589 |
 | Hoarder | 6.00% | ~2,589 |
-| Kali Ma | 5.00% | ~2,157 |
-| Have you tried turning it off and on again? | 5.00% | ~2,157 |
+| Kali Ma | 5.00% | ~2,158 |
+| Have you tried turning it off and on again? | 5.00% | ~2,158 |
 | They're coming to get you Barbara | 4.00% | ~1,726 |
 | Total protonic reversal | 4.00% | ~1,726 |
 | A friend in need | 4.00% | ~1,726 |
@@ -70,10 +70,10 @@ Number of Ratings: 743  (23.09.2022)
 | The blighters got through a second time. | 3.00% | ~1,294 |
 | I'm a survivor! | 3.00% | ~1,294 |
 | That's a lot of them, and only 4 of us | 2.00% | ~863 |
-| Just me and my trusty sidearm | 1.00% | ~431 |
+| Just me and my trusty sidearm | 1.00% | ~432 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,149 (Ranked 90)  
+Progressed: 43,150 (Ranked 90)  
 Completed: 25 (0.06%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 25 (0.06%) (Ranked 203)
 | 2023-07-25 | 43,139 | 25 |
 | 2023-07-26 | 43,144 | 25 |
 | 2023-07-27 | 43,148 | 25 |
-| 2023-07-28 | 43,149 | 25 |
+| 2023-07-28 | 43,150 | 25 |
 ## Awards
 Max (Great Boss Battles): 804  (Ranked 152)  
 Sum: 2,452 (Ranked 174)  

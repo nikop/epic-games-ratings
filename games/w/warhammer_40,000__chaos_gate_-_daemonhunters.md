@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,059 (Ranked 153)  
+Progressed: 3,060 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 3,031 | 0 |
 | 2023-07-26 | 3,047 | 0 |
 | 2023-07-27 | 3,054 | 0 |
-| 2023-07-28 | 3,059 | 0 |
+| 2023-07-28 | 3,060 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 456 (Ranked 303)  
