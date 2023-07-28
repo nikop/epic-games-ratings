@@ -46,9 +46,9 @@
 | Hawkman | 9.00% | ~15 |
 | Annihilate | 8.00% | ~13 |
 | Fashion Victim | 7.00% | ~11 |
+| Godlike Skin | 6.00% | ~10 |
 | Feast Time | 6.00% | ~10 |
 | See You Later | 5.00% | ~8 |
-| Godlike Skin | 5.00% | ~8 |
 | Unlucky Luke | 5.00% | ~8 |
 | Cheesy Chess | 5.00% | ~8 |
 | Octopy Mayhem | 4.00% | ~7 |

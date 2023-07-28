@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Urshanabi Hoarder | 100.00% | ~3 |
-| Captain Drummer | 33.00% | ~1 |
+| Captain Drummer | 50.00% | ~4 |
+| Urshanabi Hoarder | 38.00% | ~3 |
+| Doctor Approved | 38.00% | ~3 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
 | Oyedang, Kopengs | 0.00% | ~0 |
-| Doctor Approved | 0.00% | ~0 |
 | Stogie for Fogey | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 | Spore Taste | 0.00% | ~0 |
@@ -35,10 +35,10 @@
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 450)  
+Progressed: 8 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-26 | 2 | 0 |
-| 2023-07-28 | 3 | 0 |
+| 2023-07-28 | 8 | 0 |

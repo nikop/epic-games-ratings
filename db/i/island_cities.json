@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 18.55,
+  "EOS_Completed_Percentage": 18.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1998,6 +1998,11 @@
       "Time": "2023-07-28T11:04:18.1216232+00:00",
       "NumProgressed": 415,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-07-28T21:04:07.3680577+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -2009,7 +2014,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "LEVEL_002",
@@ -2017,7 +2022,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "LEVEL_003",
@@ -2025,7 +2030,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "LEVEL_004",
@@ -2073,7 +2078,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_010",
@@ -2081,23 +2086,23 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_013",
@@ -2121,7 +2126,7 @@
       "Name": "Monumental tribute",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LEVEL_016",
@@ -2184,7 +2189,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 77
     }
   ],
@@ -2192,8 +2197,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:03:46.829088+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:04:07.3680571+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:59:12.005549+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:03:46.8291161+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:58:57.1882066+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:04:07.3680847+00:00"
 }

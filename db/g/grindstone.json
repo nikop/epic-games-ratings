@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5139,
+  "EOS_Progressed": 5140,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-07-26T05:04:52.2207031+00:00",
       "NumProgressed": 5139,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-28T21:06:17.4713228+00:00",
+      "NumProgressed": 5140,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -701,7 +706,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -717,7 +722,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -789,7 +794,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -797,7 +802,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -805,7 +810,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -829,7 +834,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -837,7 +842,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -845,7 +850,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -877,7 +882,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -909,7 +914,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -925,7 +930,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -941,7 +946,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -949,7 +954,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -973,7 +978,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -989,15 +994,15 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Humerus Achievement",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1077,7 +1082,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1092,15 +1097,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5139,
+      "Progressed": 5140,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:05:51.5177545+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:06:17.4713225+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:58.625096+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:01:45.5886286+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:05:51.5178021+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:01:39.267945+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:06:17.4713602+00:00"
 }

@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3061,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3252,6 +3252,11 @@
       "Time": "2023-07-28T18:02:07.4600977+00:00",
       "NumProgressed": 3061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T21:02:47.2932461+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3279,7 +3284,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -3375,7 +3380,7 @@
       "Name": "Call Me Snake",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3383,7 +3388,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3431,7 +3436,7 @@
       "Name": "Frontliner",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3447,7 +3452,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3463,7 +3468,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3471,7 +3476,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3533,9 +3538,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_MISSION_12",
@@ -3543,7 +3548,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -3559,7 +3564,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3567,7 +3572,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3575,7 +3580,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3597,9 +3602,9 @@
       "ID": "ACH_SENTRY_KILLS",
       "SetID": "816efe",
       "Name": "Recouped Investment",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -3607,7 +3612,7 @@
       "Name": "The More The Merrier",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3622,7 +3627,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 1
     }
   ],
@@ -3630,8 +3635,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-28T19:01:02.8957088+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:02:50.4453983+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:02:47.2932457+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:00:52.5735897+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:02:50.4454613+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:00:42.1176791+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:02:47.2933025+00:00"
 }

@@ -1,16 +1,16 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 482)  
+Rating: 4.55 (Ranked 481)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,376 |
+| Venture Outward | 75.00% | ~2,377 |
 | Ready for Winter | 64.00% | ~2,028 |
 | Ready for Summer | 51.00% | ~1,616 |
-| Cordon Bleu | 43.00% | ~1,362 |
-| Tapped! | 36.00% | ~1,140 |
+| Cordon Bleu | 43.00% | ~1,363 |
+| Tapped! | 36.00% | ~1,141 |
 | Eureka | 32.00% | ~1,014 |
 | Scourge Slayer | 25.00% | ~792 |
 | Science, Troglodyte! | 23.00% | ~729 |
@@ -23,9 +23,9 @@ Number of Ratings: 266  (23.09.2022)
 | Strange amalgams | 12.00% | ~380 |
 | The Power of Faith | 12.00% | ~380 |
 | The Power of Freedom | 9.00% | ~285 |
-| Ace Detective | 8.00% | ~253 |
-| Gift from the Ancestors | 8.00% | ~253 |
-| Magic is a science | 8.00% | ~253 |
+| Ace Detective | 8.00% | ~254 |
+| Gift from the Ancestors | 8.00% | ~254 |
+| Magic is a science | 8.00% | ~254 |
 | House of Cards | 7.00% | ~222 |
 | Let ‘em eat magma! | 7.00% | ~222 |
 | The power of ambition | 7.00% | ~222 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,168 (Ranked 151)  
+Progressed: 3,169 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 3 (0.09%) (Ranked 196)
 | 2023-07-25 | 3,119 | 3 |
 | 2023-07-26 | 3,125 | 3 |
 | 2023-07-27 | 3,148 | 3 |
-| 2023-07-28 | 3,168 | 3 |
+| 2023-07-28 | 3,169 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 350)  

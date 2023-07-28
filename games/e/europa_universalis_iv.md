@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,771 |
-| That's a Grand Army | 8.00% | ~6,019 |
-| That is mine! | 8.00% | ~6,019 |
-| Victorious! | 8.00% | ~6,019 |
-| Brothers in Arms | 6.00% | ~4,514 |
-| That's a Grand Navy | 6.00% | ~4,514 |
-| Seriously?! | 6.00% | ~4,514 |
+| Until death do us apart | 9.00% | ~6,772 |
+| That's a Grand Army | 8.00% | ~6,020 |
+| That is mine! | 8.00% | ~6,020 |
+| Victorious! | 8.00% | ~6,020 |
+| Brothers in Arms | 6.00% | ~4,515 |
+| That's a Grand Navy | 6.00% | ~4,515 |
+| Seriously?! | 6.00% | ~4,515 |
 | For the Glory | 5.00% | ~3,762 |
-| Cold War | 4.00% | ~3,009 |
-| True Catholic | 4.00% | ~3,009 |
+| Cold War | 4.00% | ~3,010 |
+| True Catholic | 4.00% | ~3,010 |
 | Defender of the Faith | 3.00% | ~2,257 |
 | It's all about luck | 3.00% | ~2,257 |
 | It's all about the money | 3.00% | ~2,257 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,235 (Ranked 74)  
+Progressed: 75,249 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,10 +460,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
-| 2023-07-28 | 75,235 | 0 |
+| 2023-07-28 | 75,249 | 0 |
 ## Awards
 Max (Educational): 5,593  (Ranked 61)  
-Sum: 46,107 (Ranked 26)  
+Sum: 46,113 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -474,7 +474,7 @@ Diff (max vs sum): 35
 | This game has Diverse Characters | 5,263 |
 | This game is Relaxing | 5,173 |
 | This game has Competitive Players | 5,028 |
-| This game has Amazing Storytelling | 4,726 |
+| This game has Amazing Storytelling | 4,732 |
 | This game has Amazing Characters | 4,372 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -672,4 +672,4 @@ Diff (max vs sum): 35
 | 2023-07-25 | 4.69 | - | 5,583 | 46,013 |
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
 | 2023-07-27 | 4.69 | - | 5,587 | 46,075 |
-| 2023-07-28 | 4.69 | - | 5,593 | 46,107 |
+| 2023-07-28 | 4.69 | - | 5,593 | 46,113 |

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -788,6 +788,11 @@
       "Time": "2023-07-28T01:57:06.5242241+00:00",
       "NumProgressed": 188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T21:03:19.7394609+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -895,7 +900,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -949,9 +954,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_OutRage",
@@ -1007,7 +1012,7 @@
       "Name": "Safe...For now?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ETUA_StayDead",
@@ -1085,9 +1090,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "ETUA_Trapped",
@@ -1118,7 +1123,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 1
     }
   ],
@@ -1126,8 +1131,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:03:02.3598164+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:03:19.7394605+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:02.3209778+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:57:59.5197085+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:03:02.3598531+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:57:43.2667794+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:03:19.7394957+00:00"
 }

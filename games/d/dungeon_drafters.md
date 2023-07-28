@@ -22,6 +22,7 @@
 | Braving Miasma | 6.00% | ~4 |
 | Ancient Nemesis | 6.00% | ~4 |
 | No Stone Unturned | 6.00% | ~4 |
+| Oracle Mastery | 4.00% | ~3 |
 | Raider Mastery | 4.00% | ~3 |
 | Traveler Mastery | 4.00% | ~3 |
 | The Plot Thickens | 4.00% | ~3 |
@@ -29,7 +30,6 @@
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
 | Best Pupil | 3.00% | ~2 |
-| Oracle Mastery | 3.00% | ~2 |
 | FOR JUSTICE! | 3.00% | ~2 |
 | Journey’s End | 3.00% | ~2 |
 | Masterpiece | 3.00% | ~2 |

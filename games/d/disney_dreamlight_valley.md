@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.75 (Ranked 135)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 73.00% | ~5,578 |
-| Photographer | 70.00% | ~5,349 |
-| Valley's Helper | 65.00% | ~4,967 |
-| Constructor | 54.00% | ~4,126 |
-| Renovator | 53.00% | ~4,050 |
-| Bestest Friend | 50.00% | ~3,820 |
-| Banker | 41.00% | ~3,133 |
-| Gardener | 33.00% | ~2,522 |
-| Generous | 24.00% | ~1,834 |
-| Chef Cook | 18.00% | ~1,375 |
+| Goofy's Investor | 73.00% | ~5,580 |
+| Photographer | 70.00% | ~5,351 |
+| Valley's Helper | 65.00% | ~4,969 |
+| Constructor | 54.00% | ~4,128 |
+| Renovator | 53.00% | ~4,051 |
+| Bestest Friend | 50.00% | ~3,822 |
+| Banker | 41.00% | ~3,134 |
+| Gardener | 33.00% | ~2,523 |
+| Generous | 24.00% | ~1,835 |
+| Chef Cook | 18.00% | ~1,376 |
 | Miner | 9.00% | ~688 |
-| Duty Bound | 6.00% | ~458 |
+| Duty Bound | 6.00% | ~459 |
 | Angler | 5.00% | ~382 |
 | Thorn Cleaner | 4.00% | ~306 |
 | Chit Chatter | 3.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,641 (Ranked 128)  
+Progressed: 7,644 (Ranked 128)  
 Completed: 183 (2.39%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,10 +72,10 @@ Completed: 183 (2.39%) (Ranked 79)
 | 2023-07-25 | 7,426 | 179 |
 | 2023-07-26 | 7,505 | 179 |
 | 2023-07-27 | 7,567 | 180 |
-| 2023-07-28 | 7,641 | 183 |
+| 2023-07-28 | 7,644 | 183 |
 ## Awards
 Max (Great for Beginners): 910  (Ranked 148)  
-Sum: 7,341 (Ranked 105)  
+Sum: 7,342 (Ranked 105)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): 43
 | This game has Quickly Understood Controls | 731 |
 | This game is Extremely Fun | 727 |
 | This game has a Creative Community | 611 |
-| This game has Easy Combat | 487 |
+| This game has Easy Combat | 488 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -233,4 +233,4 @@ Diff (max vs sum): 43
 | 2023-07-25 | 4.75 | - | 908 | 7,328 |
 | 2023-07-26 | 4.75 | - | 908 | 7,333 |
 | 2023-07-27 | 4.75 | - | 910 | 7,338 |
-| 2023-07-28 | 4.75 | - | 910 | 7,341 |
+| 2023-07-28 | 4.76 | - | 910 | 7,342 |

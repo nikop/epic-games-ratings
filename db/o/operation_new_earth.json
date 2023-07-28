@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -2311,6 +2311,11 @@
       "Time": "2023-07-28T19:07:21.0714118+00:00",
       "NumProgressed": 672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T21:06:48.6071377+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2338,7 +2343,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2576,9 +2581,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2625,14 +2630,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:06:21.3642797+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:06:48.6071371+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:02:16.1233469+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:06:21.3643243+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:02:10.9300135+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:06:48.6071801+00:00"
 }

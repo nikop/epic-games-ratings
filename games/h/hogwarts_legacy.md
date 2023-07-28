@@ -5,31 +5,31 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,652 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,653 |
 | First Class Student | 11.00% | ~31,765 |
-| A Keen Sense of Spell | 10.00% | ~28,877 |
-| Troll with the Punches | 10.00% | ~28,877 |
-| Grappling with a Graphorn | 9.00% | ~25,989 |
-| The One Who Mastered Memories | 9.00% | ~25,989 |
-| The Hallowed Hero | 9.00% | ~25,989 |
-| The Defender of Dragons | 9.00% | ~25,989 |
-| Loom for Improvement | 9.00% | ~25,989 |
-| A Talent for Spending | 9.00% | ~25,989 |
-| Coasting Along | 9.00% | ~25,989 |
-| That's a Keeper | 9.00% | ~25,989 |
+| A Keen Sense of Spell | 10.00% | ~28,878 |
+| Troll with the Punches | 10.00% | ~28,878 |
+| That's a Keeper | 10.00% | ~28,878 |
+| Grappling with a Graphorn | 9.00% | ~25,990 |
+| The One Who Mastered Memories | 9.00% | ~25,990 |
+| The Hallowed Hero | 9.00% | ~25,990 |
+| The Defender of Dragons | 9.00% | ~25,990 |
+| Loom for Improvement | 9.00% | ~25,990 |
+| A Talent for Spending | 9.00% | ~25,990 |
+| Coasting Along | 9.00% | ~25,990 |
 | The Hero of Hogwarts | 8.00% | ~23,102 |
 | Challenge Accepted | 8.00% | ~23,102 |
 | Followed the Butterflies | 8.00% | ~23,102 |
 | Rising From the Ashes | 8.00% | ~23,102 |
 | A Sallow Grave | 7.00% | ~20,214 |
 | The Spell Master | 7.00% | ~20,214 |
-| The Avenging Gazelle | 6.00% | ~17,326 |
-| Beast Friends | 6.00% | ~17,326 |
-| Flight the Good Flight | 6.00% | ~17,326 |
-| The Seeker of Knowledge | 5.00% | ~14,438 |
-| The Root of the Problem | 5.00% | ~14,438 |
-| Third Time's a Charm | 5.00% | ~14,438 |
-| Raising Expectations | 5.00% | ~14,438 |
+| The Avenging Gazelle | 6.00% | ~17,327 |
+| Beast Friends | 6.00% | ~17,327 |
+| Flight the Good Flight | 6.00% | ~17,327 |
+| The Seeker of Knowledge | 5.00% | ~14,439 |
+| The Root of the Problem | 5.00% | ~14,439 |
+| Third Time's a Charm | 5.00% | ~14,439 |
+| Raising Expectations | 5.00% | ~14,439 |
 | The Toast of the Town | 4.00% | ~11,551 |
 | The Ends Petrify the Means | 4.00% | ~11,551 |
 | Going Through the Potions | 3.00% | ~8,663 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 3.00% | ~8,663 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,663 |
 | The Wise Owl | 3.00% | ~8,663 |
-| The Good Samaritan | 2.00% | ~5,775 |
-| Put Down Roots | 2.00% | ~5,775 |
-| The Auror's Apprentice | 2.00% | ~5,775 |
-| Rise to the Challenges | 2.00% | ~5,775 |
+| The Good Samaritan | 2.00% | ~5,776 |
+| Put Down Roots | 2.00% | ~5,776 |
+| The Auror's Apprentice | 2.00% | ~5,776 |
+| Rise to the Challenges | 2.00% | ~5,776 |
 | Savvy Spender | 1.00% | ~2,888 |
 | Demiguise Dread | 1.00% | ~2,888 |
 | Finishing Touches | 1.00% | ~2,888 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,770 (Ranked 42)  
+Progressed: 288,776 (Ranked 42)  
 Completed: 435 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 435 (0.15%) (Ranked 181)
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
-| 2023-07-28 | 288,770 | 435 |
+| 2023-07-28 | 288,776 | 435 |
 ## Awards
 Max (Character Customization): 21,360  (Ranked 17)  
 Sum: 40,067 (Ranked 30)  

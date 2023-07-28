@@ -30,6 +30,7 @@ Rating: 4.41 (Ranked 674)
 | Precision Is Key | 2.00% | ~67 |
 | My Little Friend | 2.00% | ~67 |
 | Explosive Efficiency | 2.00% | ~67 |
+| Die Nussknacker Sweet! | 2.00% | ~67 |
 | Der Geist | 2.00% | ~67 |
 | Close Quarters | 2.00% | ~67 |
 | Snake in the Grass | 2.00% | ~67 |
@@ -37,7 +38,6 @@ Rating: 4.41 (Ranked 674)
 | Fields of Glory | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
-| Die Nussknacker Sweet! | 1.00% | ~34 |
 | Tinkerer | 0.90% | ~30 |
 | Road Rage | 0.90% | ~30 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |

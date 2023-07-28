@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34124,
+  "EOS_Progressed": 34126,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9279,6 +9279,11 @@
       "Time": "2023-07-28T20:05:20.1267107+00:00",
       "NumProgressed": 34124,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-28T21:05:43.6442421+00:00",
+      "NumProgressed": 34126,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 14,
@@ -9298,7 +9303,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "50stars",
@@ -9306,7 +9311,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8872
+      "UsersEstimate": 8873
     },
     {
       "ID": "allItems",
@@ -9314,7 +9319,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "allSecrets",
@@ -9322,7 +9327,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "bigBunny",
@@ -9346,7 +9351,7 @@
       "Name": "Completionist",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "dejaVu",
@@ -9354,7 +9359,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ending",
@@ -9370,7 +9375,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8532
     },
     {
       "ID": "firstItem",
@@ -9378,7 +9383,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26275
+      "UsersEstimate": 26277
     },
     {
       "ID": "roots",
@@ -9401,15 +9406,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34124,
+      "Progressed": 34126,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:05:20.1267089+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:05:43.6442415+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:08.1635586+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:01:56.9345397+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:05:20.1267775+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:01:52.7801967+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:05:43.6443044+00:00"
 }

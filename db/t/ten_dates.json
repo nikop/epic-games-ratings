@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -428,6 +428,11 @@
       "Time": "2023-07-18T20:02:20.7733507+00:00",
       "NumProgressed": 268,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T21:03:32.0344571+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -477,9 +482,9 @@
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 231
     },
     {
       "ID": "ryan_date2_all",
@@ -527,7 +532,7 @@
       "Name": "The debonair",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "success_hazel",
@@ -559,7 +564,7 @@
       "Name": "The techie",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "success_toni",
@@ -590,7 +595,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 4
     }
   ],
@@ -598,8 +603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:03:13.8049834+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:03:32.0344565+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:14.9243148+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:58:20.8662319+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:03:13.8049989+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:58:04.1557116+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:03:32.0344736+00:00"
 }

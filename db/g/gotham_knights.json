@@ -11546,9 +11546,9 @@
       "ID": "TIME_TRIALS_1",
       "SetID": "4eo5ebm",
       "Name": "Bat Out of Hell",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 405
     }
   ],
   "AchievementSets": [
@@ -11569,8 +11569,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-28T18:00:49.5235885+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:05:21.4164135+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:05:45.0020435+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.6510385+00:00",
-  "LastUpdate_Ratings": "2023-07-28T20:01:28.0340988+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:05:21.4165282+00:00"
+  "LastUpdate_Ratings": "2023-07-28T21:01:21.8668883+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:05:45.00214+00:00"
 }

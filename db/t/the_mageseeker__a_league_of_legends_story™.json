@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2471,
+  "EOS_Progressed": 2472,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -3169,6 +3169,11 @@
       "Time": "2023-07-28T16:03:09.4767239+00:00",
       "NumProgressed": 2471,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T21:02:52.2535537+00:00",
+      "NumProgressed": 2472,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3236,7 +3241,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3244,7 +3249,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3260,7 +3265,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3364,7 +3369,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3452,7 +3457,7 @@
       "Name": "Terbisia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -3484,7 +3489,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3596,14 +3601,14 @@
       "Name": "Petricite Burst",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2471,
+      "Progressed": 2472,
       "Completed": 5
     }
   ],
@@ -3611,8 +3616,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-28T20:02:54.9298341+00:00",
+  "LastChanged_Achievements": "2023-07-28T21:02:52.2535531+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:12.6045912+00:00",
-  "LastUpdate_Ratings": "2023-07-28T19:58:35.7640536+00:00",
-  "LastUpdate_Achievements": "2023-07-28T20:02:54.9298989+00:00"
+  "LastUpdate_Ratings": "2023-07-28T20:58:19.2732782+00:00",
+  "LastUpdate_Achievements": "2023-07-28T21:02:52.2536128+00:00"
 }

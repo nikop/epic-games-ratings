@@ -6,7 +6,7 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start with a bang! | 5.00% | ~180 |
-| Feeling the beat! | 4.00% | ~144 |
+| Feeling the beat! | 5.00% | ~180 |
 | Who put gears in there? | 4.00% | ~144 |
 | You can pet the cat! | 4.00% | ~144 |
 | Cream of the Crop | 3.00% | ~108 |

@@ -20,11 +20,11 @@
 | Medicine Tycoon | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
 | Desert Power | 3.00% | ~3 |
+| Property Bro | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
-| Property Bro | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |

@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
+| Learn to Play 2 | 0.40% | ~53 |
 | Carthaginian Paganism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
 | Mythology | 0.40% | ~53 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
-| Learn to Play 2 | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |

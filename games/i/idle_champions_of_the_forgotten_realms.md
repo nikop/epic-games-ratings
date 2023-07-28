@@ -7,21 +7,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,494 |
-| Beast Intentions | 2.00% | ~4,329 |
+| Beast Intentions | 2.00% | ~4,330 |
 | Maddening | 1.00% | ~2,165 |
 | The Silken Swamp | 1.00% | ~2,165 |
 | Supply Run | 1.00% | ~2,165 |
-| Rocky Reception | 1.00% | ~1,827 |
+| Rocky Reception | 1.00% | ~1,828 |
 | Rock and Roll | 0.90% | ~1,645 |
 | Vecna Lives! | 0.80% | ~1,462 |
+| Flight of the Kindori Pod | 0.80% | ~1,462 |
 | Tall Tales | 0.70% | ~1,279 |
 | Vecna Loots! | 0.70% | ~1,279 |
-| Flight of the Kindori Pod | 0.70% | ~1,279 |
 | Topolah's Tower | 0.70% | ~1,279 |
 | Wet Feet | 0.60% | ~1,299 |
-| Seeds of Destruction | 0.60% | ~1,096 |
-| Return to the Tomb | 0.60% | ~1,096 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,096 |
+| Seeds of Destruction | 0.60% | ~1,097 |
+| Return to the Tomb | 0.60% | ~1,097 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,097 |
 | Pros and CONs | 0.50% | ~1,082 |
 | The Witchlight Carnival | 0.50% | ~914 |
 | Hatchlings Underfoot | 0.50% | ~1,082 |
@@ -84,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~649 |
 | Escort to Waterdeep | 0.30% | ~649 |
 | Waterdeep Detours | 0.30% | ~649 |
+| Lost in the Deep | 0.30% | ~649 |
 | Underdeep Cartography | 0.30% | ~649 |
 | Friendly Imps | 0.30% | ~649 |
 | Overdue Rendezvous | 0.30% | ~649 |
@@ -93,32 +94,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.30% | ~548 |
 | 3,720 to 1 | 0.30% | ~548 |
 | Starving in the Jungle | 0.20% | ~433 |
-| Cold as Ice | 0.20% | ~365 |
-| Friends and Foes | 0.20% | ~365 |
-| Nightmare Rats! | 0.20% | ~365 |
-| An Unexpected Geist | 0.20% | ~365 |
-| A Monarch Among Us | 0.20% | ~365 |
-| The Spire of Iriolarthas | 0.20% | ~365 |
-| The Fall of Ythryn | 0.20% | ~365 |
-| Downfall | 0.20% | ~365 |
-| Slack-jawed Lorna | 0.20% | ~365 |
-| The Fairy Rings of Thither | 0.20% | ~365 |
-| Will of the Feywild | 0.20% | ~365 |
-| The Roots of Loomlurch | 0.20% | ~365 |
-| Best Laid Plans | 0.20% | ~365 |
-| The Howling Peaks of Yon | 0.20% | ~365 |
-| Flapjacks and Waffles | 0.20% | ~365 |
-| Overwhelmed with Knowledge | 0.20% | ~365 |
-| Well Equipped | 0.20% | ~365 |
-| More Than Well Equipped | 0.20% | ~365 |
-| Arcane Efforts | 0.20% | ~365 |
-| Keep Your Distance | 0.20% | ~365 |
-| To Avernus in a Handbasket | 0.20% | ~365 |
-| The Castle of a Thousand Vecnas | 0.20% | ~365 |
-| The Sanctum of the Sword | 0.20% | ~365 |
-| Get Back In The Castle | 0.20% | ~365 |
-| Checkmate | 0.20% | ~365 |
-| Vecna Out! | 0.20% | ~365 |
+| Cold as Ice | 0.20% | ~366 |
+| Friends and Foes | 0.20% | ~366 |
+| Nightmare Rats! | 0.20% | ~366 |
+| An Unexpected Geist | 0.20% | ~366 |
+| A Monarch Among Us | 0.20% | ~366 |
+| The Spire of Iriolarthas | 0.20% | ~366 |
+| The Fall of Ythryn | 0.20% | ~366 |
+| Downfall | 0.20% | ~366 |
+| Slack-jawed Lorna | 0.20% | ~366 |
+| The Fairy Rings of Thither | 0.20% | ~366 |
+| Will of the Feywild | 0.20% | ~366 |
+| The Roots of Loomlurch | 0.20% | ~366 |
+| Best Laid Plans | 0.20% | ~366 |
+| The Howling Peaks of Yon | 0.20% | ~366 |
+| Flapjacks and Waffles | 0.20% | ~366 |
+| Overwhelmed with Knowledge | 0.20% | ~366 |
+| Well Equipped | 0.20% | ~366 |
+| More Than Well Equipped | 0.20% | ~366 |
+| Arcane Efforts | 0.20% | ~366 |
+| Keep Your Distance | 0.20% | ~366 |
+| To Avernus in a Handbasket | 0.20% | ~366 |
+| The Castle of a Thousand Vecnas | 0.20% | ~366 |
+| The Sanctum of the Sword | 0.20% | ~366 |
+| Get Back In The Castle | 0.20% | ~366 |
+| Checkmate | 0.20% | ~366 |
+| Vecna Out! | 0.20% | ~366 |
 | Anti-Dexterous Explorers | 0.20% | ~433 |
 | Lobsterfolk Assault | 0.20% | ~433 |
 | Periodic Petrification | 0.20% | ~433 |
@@ -127,7 +128,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.20% | ~433 |
 | Vajra's Guards | 0.20% | ~433 |
 | Sleuth It Out | 0.20% | ~433 |
-| The Newcomers of Notoriety | 0.20% | ~365 |
+| The Newcomers of Notoriety | 0.20% | ~366 |
 | A Grand Puzzle | 0.20% | ~433 |
 | Azaka's Procession - Part 1 | 0.20% | ~433 |
 | Tomb of the Nine Gods | 0.20% | ~433 |
@@ -137,7 +138,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.20% | ~433 |
 | Chatty Nobles | 0.20% | ~433 |
 | Modron Assistance | 0.20% | ~433 |
-| Thine Bounty is Mine! | 0.20% | ~365 |
+| Thine Bounty is Mine! | 0.20% | ~366 |
 | Haaave You Met Asmodeus? | 0.20% | ~433 |
 | Domesticated Owlbears | 0.20% | ~433 |
 | The Immortal Warrior | 0.20% | ~433 |
@@ -166,23 +167,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~433 |
 | Resolve Amongst Chaos | 0.20% | ~433 |
 | Market Fluctuations | 0.20% | ~433 |
-| Into The Fire | 0.20% | ~365 |
-| The Giant's Bane Tavern | 0.20% | ~365 |
-| The Everlasting Rime | 0.20% | ~365 |
+| Into The Fire | 0.20% | ~366 |
+| The Giant's Bane Tavern | 0.20% | ~366 |
+| The Everlasting Rime | 0.20% | ~366 |
 | Close Escort | 0.20% | ~433 |
 | Constant Banditry | 0.20% | ~433 |
 | The Long Haul | 0.20% | ~433 |
-| Lost in the Deep | 0.20% | ~433 |
 | Easily Distracted | 0.20% | ~433 |
 | Rude Welcome | 0.20% | ~433 |
-| Moose Tracks | 0.20% | ~365 |
-| Civilization | 0.20% | ~365 |
+| Moose Tracks | 0.20% | ~366 |
+| Civilization | 0.20% | ~366 |
 | Durable Deep | 0.20% | ~433 |
 | Expert Opinion | 0.20% | ~433 |
 | The Haunted Jungle | 0.20% | ~433 |
 | Rescue in the Jungle | 0.20% | ~433 |
-| Tiny Treaty | 0.20% | ~365 |
-| All The World's A Stage | 0.20% | ~365 |
+| Tiny Treaty | 0.20% | ~366 |
+| All The World's A Stage | 0.20% | ~366 |
 | Keep Your Friends Close | 0.10% | ~183 |
 | And Your Enemies Closer | 0.10% | ~183 |
 | Back to Nature | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,457 (Ranked 53)  
+Progressed: 216,477 (Ranked 53)  
 Completed: 2,133 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,10 +618,10 @@ Completed: 2,133 (0.99%) (Ranked 111)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,457 | 2,133 |
+| 2023-07-28 | 216,477 | 2,133 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
-Sum: 30,770 (Ranked 38)  
+Sum: 30,775 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -629,7 +629,7 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 5,029 |
 | This game has Quickly Understood Controls | 4,687 |
 | This game is Relaxing | 4,578 |
-| This game has Amazing Characters | 4,036 |
+| This game has Amazing Characters | 4,041 |
 | This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,323 |
 ## Ratings History
@@ -818,4 +818,4 @@ Diff (max vs sum): 28
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
-| 2023-07-28 | 4.05 | - | 5,093 | 30,770 |
+| 2023-07-28 | 4.05 | - | 5,093 | 30,775 |

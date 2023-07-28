@@ -10,8 +10,8 @@ Rating: 4.68 (Ranked 241)
 | Devil's in the details | 14.00% | ~82 |
 | Uprooting | 13.00% | ~76 |
 | Forbidden techniques | 13.00% | ~76 |
-| Devoted | 9.00% | ~52 |
-| Slavic squatter | 9.00% | ~52 |
+| Devoted | 9.00% | ~53 |
+| Slavic squatter | 9.00% | ~53 |
 | Spirit animal | 8.00% | ~47 |
 | Gold rush | 7.00% | ~41 |
 | A friend in need... | 6.00% | ~35 |
@@ -24,11 +24,11 @@ Rating: 4.68 (Ranked 241)
 | Extensive retelling | 4.00% | ~23 |
 | Favorite | 4.00% | ~23 |
 | Queen | 4.00% | ~23 |
-| Goal! | 3.00% | ~17 |
-| Both sides | 3.00% | ~17 |
-| Specialist | 3.00% | ~17 |
-| Toxic | 3.00% | ~17 |
-| Witch's cookbook | 3.00% | ~17 |
+| Goal! | 3.00% | ~18 |
+| Both sides | 3.00% | ~18 |
+| Specialist | 3.00% | ~18 |
+| Toxic | 3.00% | ~18 |
+| Witch's cookbook | 3.00% | ~18 |
 | Bad apple | 2.00% | ~12 |
 | Gnowlledgeable | 2.00% | ~12 |
 | Awards unwarded | 2.00% | ~12 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 241)
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 214)  
+Progressed: 584 (Ranked 214)  
 Completed: 1 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.17%) (Ranked 176)
 | 2023-07-25 | 577 | 1 |
 | 2023-07-26 | 580 | 1 |
 | 2023-07-27 | 582 | 1 |
-| 2023-07-28 | 583 | 1 |
+| 2023-07-28 | 584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

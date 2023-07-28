@@ -44,7 +44,7 @@ Rating: 4.18 (Ranked 861)
 | Solid Alibi | 1.00% | ~674 |
 | Dressed to Impress | 0.80% | ~540 |
 | A Momentum Occasion | 0.60% | ~405 |
-| Bat Out of Hell | 0.50% | ~337 |
+| Bat Out of Hell | 0.60% | ~405 |
 | He'd Be So Proud of You | 0.40% | ~270 |
 | Hammer and Icicle | 0.30% | ~113 |
 | Renewable Enemy Source | 0.30% | ~113 |
