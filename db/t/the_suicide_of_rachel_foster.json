@@ -5,10 +5,10 @@
   "Ranking_Rating": 860,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -243,10 +243,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1301,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.84,
+  "EOS_Completed": 64,
+  "EOS_NewPlayers": 50,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1767,6 +1767,11 @@
       "Time": "2023-07-28T14:03:29.0157891+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-28T15:03:21.9594247+00:00",
+      "NumProgressed": 1301,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 11,
@@ -1848,9 +1853,9 @@
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 533
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1866,14 +1871,14 @@
       "ID": "7a9m7mj",
       "IsBase": true,
       "Progressed": 1301,
-      "Completed": 63
+      "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:03:29.0157883+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:03:21.9594241+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:00.4354109+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:01:06.6370491+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:03:29.0158182+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:00:19.207143+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:03:21.9594436+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,649 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,650 |
 | First Class Student | 11.00% | ~31,762 |
-| A Keen Sense of Spell | 10.00% | ~28,874 |
-| Troll with the Punches | 10.00% | ~28,874 |
+| A Keen Sense of Spell | 10.00% | ~28,875 |
+| Troll with the Punches | 10.00% | ~28,875 |
 | Grappling with a Graphorn | 9.00% | ~25,987 |
 | The One Who Mastered Memories | 9.00% | ~25,987 |
 | The Hallowed Hero | 9.00% | ~25,987 |
@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 109)
 | A Talent for Spending | 9.00% | ~25,987 |
 | Coasting Along | 9.00% | ~25,987 |
 | That's a Keeper | 9.00% | ~25,987 |
-| The Hero of Hogwarts | 8.00% | ~23,099 |
-| Challenge Accepted | 8.00% | ~23,099 |
-| Followed the Butterflies | 8.00% | ~23,099 |
-| Rising From the Ashes | 8.00% | ~23,099 |
+| The Hero of Hogwarts | 8.00% | ~23,100 |
+| Challenge Accepted | 8.00% | ~23,100 |
+| Followed the Butterflies | 8.00% | ~23,100 |
+| Rising From the Ashes | 8.00% | ~23,100 |
 | A Sallow Grave | 7.00% | ~20,212 |
 | The Spell Master | 7.00% | ~20,212 |
 | The Avenging Gazelle | 6.00% | ~17,325 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,732 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,742 (Ranked 42)  
-Completed: 435 (0.15%) (Ranked 179)  
+Progressed: 288,747 (Ranked 42)  
+Completed: 435 (0.15%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,7 +150,7 @@ Completed: 435 (0.15%) (Ranked 179)
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
-| 2023-07-28 | 288,742 | 435 |
+| 2023-07-28 | 288,747 | 435 |
 ## Awards
 Max (Character Customization): 21,360  (Ranked 17)  
 Sum: 40,055 (Ranked 30)  

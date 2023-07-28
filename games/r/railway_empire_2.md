@@ -28,9 +28,9 @@ Rating: 4.49 (Ranked 572)
 | Stoker | 32.00% | ~543 |
 | Full Steam ahead | 31.00% | ~526 |
 | Financial Shark | 30.00% | ~509 |
+| Mole | 29.00% | ~492 |
 | Socializer | 29.00% | ~492 |
 | All mine | 28.00% | ~475 |
-| Mole | 28.00% | ~475 |
 | Country Life | 26.00% | ~441 |
 | General Manager | 25.00% | ~424 |
 | Hostile Takeover | 24.00% | ~407 |
@@ -62,7 +62,7 @@ Rating: 4.49 (Ranked 572)
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,696 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 244)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
@@ -1232,9 +1232,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427045,
+  "EOS_Progressed": 427046,
   "EOS_Completed": 522,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8252,6 +8252,11 @@
       "Time": "2023-07-28T13:09:29.1581831+00:00",
       "NumProgressed": 427045,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2023-07-28T15:03:13.1582344+00:00",
+      "NumProgressed": 427046,
+      "NumCompleted": 522
     }
   ],
   "TotalAchievements": 41,
@@ -8279,7 +8284,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256227
+      "UsersEstimate": 256228
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -8295,7 +8300,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106761
+      "UsersEstimate": 106762
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -8343,7 +8348,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256227
+      "UsersEstimate": 256228
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -8431,7 +8436,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405693
+      "UsersEstimate": 405694
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -8447,7 +8452,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307472
+      "UsersEstimate": 307473
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -8463,7 +8468,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294661
+      "UsersEstimate": 294662
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -8479,7 +8484,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341636
+      "UsersEstimate": 341637
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -8511,7 +8516,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192170
+      "UsersEstimate": 192171
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -8519,7 +8524,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136654
+      "UsersEstimate": 136655
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -8543,7 +8548,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239145
+      "UsersEstimate": 239146
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -8551,7 +8556,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183629
+      "UsersEstimate": 183630
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -8559,7 +8564,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145195
+      "UsersEstimate": 145196
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -8590,15 +8595,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427045,
+      "Progressed": 427046,
       "Completed": 522
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-25T13:12:21.0355605+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:03:17.6881496+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:03:13.158234+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.8486153+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:59:04.2697327+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:03:17.6882815+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:58:44.6056104+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:03:13.1583025+00:00"
 }

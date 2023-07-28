@@ -6,55 +6,55 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,844 |
-| Hey! That's mine! | 78.00% | ~376,368 |
-| Happy Returns | 77.00% | ~371,543 |
-| Field Promotion | 74.00% | ~357,067 |
-| Leadhead | 71.00% | ~342,591 |
-| Eradicator | 67.00% | ~323,290 |
-| Surplus | 65.00% | ~313,640 |
-| I Spy | 64.00% | ~308,815 |
-| Burn Baby Burn | 59.00% | ~284,689 |
-| Yellow Beats Green | 55.00% | ~265,388 |
-| Salvage Rights | 53.00% | ~255,737 |
-| Close Call | 50.00% | ~241,262 |
-| Pew Pew | 50.00% | ~241,262 |
-| What IS that? | 50.00% | ~241,262 |
-| Penny Pincher | 49.00% | ~236,436 |
-| Arsenal | 46.00% | ~221,961 |
-| Boot Camp | 45.00% | ~217,135 |
-| Flawless Victory | 42.00% | ~202,660 |
-| Confident | 40.00% | ~193,009 |
-| Exterminator | 36.00% | ~173,708 |
-| Sharpshooter | 33.00% | ~159,233 |
-| Great Ball of Fire | 32.00% | ~154,407 |
-| Not So Fast | 32.00% | ~154,407 |
-| No Sale | 30.00% | ~144,757 |
-| Kaboom! | 29.00% | ~139,932 |
-| Liquidator | 29.00% | ~139,932 |
+| First Blood | 81.00% | ~390,847 |
+| Hey! That's mine! | 78.00% | ~376,371 |
+| Happy Returns | 77.00% | ~371,546 |
+| Field Promotion | 74.00% | ~357,070 |
+| Leadhead | 71.00% | ~342,594 |
+| Eradicator | 67.00% | ~323,293 |
+| Surplus | 65.00% | ~313,643 |
+| I Spy | 64.00% | ~308,817 |
+| Burn Baby Burn | 59.00% | ~284,691 |
+| Yellow Beats Green | 55.00% | ~265,390 |
+| Salvage Rights | 53.00% | ~255,739 |
+| Close Call | 50.00% | ~241,264 |
+| Pew Pew | 50.00% | ~241,264 |
+| What IS that? | 50.00% | ~241,264 |
+| Penny Pincher | 49.00% | ~236,438 |
+| Arsenal | 46.00% | ~221,962 |
+| Boot Camp | 45.00% | ~217,137 |
+| Flawless Victory | 42.00% | ~202,661 |
+| Confident | 40.00% | ~193,011 |
+| Exterminator | 36.00% | ~173,710 |
+| Sharpshooter | 33.00% | ~159,234 |
+| Great Ball of Fire | 32.00% | ~154,409 |
+| Not So Fast | 32.00% | ~154,409 |
+| No Sale | 30.00% | ~144,758 |
+| Kaboom! | 29.00% | ~139,933 |
+| Liquidator | 29.00% | ~139,933 |
 | High Voltage | 24.00% | ~115,806 |
-| Filthy Rich | 19.00% | ~91,679 |
-| The Not-So-Friendly Skies | 18.00% | ~86,854 |
-| Power Builder | 17.00% | ~82,029 |
-| Pyrrhic Victory | 17.00% | ~82,029 |
+| Filthy Rich | 19.00% | ~91,680 |
+| The Not-So-Friendly Skies | 18.00% | ~86,855 |
+| Power Builder | 17.00% | ~82,030 |
+| Pyrrhic Victory | 17.00% | ~82,030 |
 | Death From Above | 16.00% | ~77,204 |
 | Retry | 16.00% | ~77,204 |
 | Head Trauma | 12.00% | ~57,903 |
-| Full Defense | 10.00% | ~48,252 |
+| Full Defense | 10.00% | ~48,253 |
 | Overseer | 9.00% | ~43,427 |
 | Annihilator | 8.00% | ~38,602 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,602 |
-| Indecisive | 6.00% | ~28,951 |
+| Indecisive | 6.00% | ~28,952 |
 | Base Defender | 5.00% | ~24,126 |
 | Relay Race | 5.00% | ~24,126 |
 | Diversity | 3.00% | ~14,476 |
 | Full Potential | 3.00% | ~14,476 |
 | Tower Expert | 3.00% | ~14,476 |
-| Minimalist | 2.00% | ~9,650 |
-| Nail Biter | 2.00% | ~9,650 |
-| Siege Breaker | 2.00% | ~9,650 |
-| The Long Road | 2.00% | ~9,650 |
-| Untouchable | 2.00% | ~9,650 |
+| Minimalist | 2.00% | ~9,651 |
+| Nail Biter | 2.00% | ~9,651 |
+| Siege Breaker | 2.00% | ~9,651 |
+| The Long Road | 2.00% | ~9,651 |
+| Untouchable | 2.00% | ~9,651 |
 | Flurry | 1.00% | ~4,825 |
 | Gun Crazy | 1.00% | ~4,825 |
 | Well Invested | 1.00% | ~4,825 |
@@ -94,8 +94,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,523 (Ranked 34)  
-Completed: 4 (0.00%) (Ranked 244)  
+Progressed: 482,527 (Ranked 34)  
+Completed: 4 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 4 (0.00%) (Ranked 244)
 | 2023-07-25 | 482,349 | 4 |
 | 2023-07-26 | 482,414 | 4 |
 | 2023-07-27 | 482,485 | 4 |
-| 2023-07-28 | 482,523 | 4 |
+| 2023-07-28 | 482,527 | 4 |
 ## Awards
 Max (Great for Beginners): 240  (Ranked 250)  
 Sum: 1,670 (Ranked 209)  

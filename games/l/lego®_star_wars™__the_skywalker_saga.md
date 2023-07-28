@@ -52,8 +52,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,977 (Ranked 88)  
-Completed: 216 (0.43%) (Ranked 142)  
+Progressed: 49,977 (Ranked 89)  
+Completed: 216 (0.43%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

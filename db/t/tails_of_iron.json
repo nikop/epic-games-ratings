@@ -6,9 +6,9 @@
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -223,7 +223,7 @@
   "Tags": [],
   "EOS_Progressed": 1809,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2219,9 +2219,9 @@
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1049
     },
     {
       "ID": "CollectAllStatues",
@@ -2363,9 +2363,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1122
     },
     {
       "ID": "Kill25Mozi",
@@ -2450,8 +2450,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:03:22.7557928+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:03:17.2102679+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:59.3848922+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:59:06.9982085+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:03:22.7558593+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:58:47.1278064+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:03:17.2103002+00:00"
 }

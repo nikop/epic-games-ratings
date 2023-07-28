@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.60% | ~79 |
 | Oracle | 0.60% | ~79 |
 | Judaism | 0.60% | ~79 |
+| Trade Caravan | 0.60% | ~79 |
 | Enlightened | 0.50% | ~66 |
 | Glorious | 0.50% | ~66 |
 | Keystone | 0.50% | ~66 |
@@ -35,9 +36,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
-| Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
+| Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.40% | ~53 |
 | Roman Paganism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
-| Fountainhead | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,133 (Ranked 116)  
-Completed: 5 (0.04%) (Ranked 214)  
+Progressed: 13,134 (Ranked 116)  
+Completed: 5 (0.04%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 214)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,133 | 5 |
+| 2023-07-28 | 13,134 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

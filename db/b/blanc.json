@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "ID": "STARTING_DUO",
       "SetID": "1a29mp6",
       "Name": "Starting as a duo",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 381
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2250,8 +2250,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:02:21.385767+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:02:20.6188735+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:00:13.7440947+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:02:21.3858048+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:59:37.3022055+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:02:20.6188982+00:00"
 }

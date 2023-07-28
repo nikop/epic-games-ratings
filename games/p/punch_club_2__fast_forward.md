@@ -11,18 +11,18 @@
 | Your first job | 84.00% | ~141 |
 | First defeat | 79.00% | ~133 |
 | Old movies enjoyer | 79.00% | ~133 |
-| Fitness professional | 76.00% | ~128 |
+| Fitness professional | 77.00% | ~129 |
 | Depressed visitor | 76.00% | ~128 |
 | Employee of the week | 75.00% | ~126 |
+| Your own amateur gym | 74.00% | ~124 |
 | Neurotrainer – power gainer! | 74.00% | ~124 |
-| Your own amateur gym | 73.00% | ~123 |
 | Run K, run! | 70.00% | ~118 |
 | No bullying more | 67.00% | ~113 |
 | Hello, world! | 67.00% | ~113 |
-| Fighting is cool | 65.00% | ~109 |
-| Pal of your father? | 61.00% | ~102 |
+| Fighting is cool | 66.00% | ~111 |
+| Pal of your father? | 62.00% | ~104 |
 | Employee of the month | 61.00% | ~102 |
-| Spirit of the past | 59.00% | ~99 |
+| Spirit of the past | 60.00% | ~101 |
 | Law student | 58.00% | ~97 |
 | Intriguing candies | 57.00% | ~96 |
 | Workout professional | 55.00% | ~92 |
@@ -36,11 +36,11 @@
 | Fight for life | 50.00% | ~84 |
 | Extreme neuropower! | 47.00% | ~79 |
 | Legal courier | 44.00% | ~74 |
-| Escaped from a big trouble | 40.00% | ~67 |
+| Escaped from a big trouble | 41.00% | ~69 |
 | Now you are worthy | 39.00% | ~66 |
 | No blades in the gym | 39.00% | ~66 |
 | Guiding on the right path | 38.00% | ~64 |
-| Mysterious voice | 35.00% | ~59 |
+| Mysterious voice | 36.00% | ~60 |
 | Fight is life | 34.00% | ~57 |
 | Responsible approach | 33.00% | ~55 |
 | Get out of my apartment! | 31.00% | ~52 |
@@ -56,9 +56,9 @@
 | Anyone can resist | 25.00% | ~42 |
 | Problems of cyborgs | 24.00% | ~40 |
 | The last bell ring | 24.00% | ~40 |
+| Trap disarmed | 23.00% | ~39 |
 | Careerist | 23.00% | ~39 |
 | Undercover robot | 23.00% | ~39 |
-| Trap disarmed | 22.00% | ~37 |
 | Another world | 21.00% | ~35 |
 | The lonesome road | 21.00% | ~35 |
 | Keep nature safe | 21.00% | ~35 |
@@ -72,7 +72,7 @@
 | The only right decision | 15.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 168 (Ranked 288)  
-Completed: 5 (2.98%) (Ranked 63)  
+Completed: 5 (2.98%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

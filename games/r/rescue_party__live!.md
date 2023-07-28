@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ASAP | 96.00% | ~197 |
-| Medal of honor | 37.00% | ~76 |
-| Life matters | 37.00% | ~76 |
+| ASAP | 97.00% | ~199 |
+| Medal of honor | 38.00% | ~78 |
+| Life matters | 38.00% | ~78 |
 | Safety first | 33.00% | ~68 |
 | Professional team! | 25.00% | ~51 |
 | Dawn of Victory | 14.00% | ~29 |
@@ -24,7 +24,7 @@
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 205 (Ranked 277)  
-Completed: 7 (3.41%) (Ranked 57)  
+Completed: 7 (3.41%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

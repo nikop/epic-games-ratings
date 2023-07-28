@@ -6,9 +6,9 @@
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1572,7 +1572,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24506,
+  "EOS_Progressed": 24507,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 2,
@@ -8807,6 +8807,11 @@
       "Time": "2023-07-28T12:04:48.821782+00:00",
       "NumProgressed": 24506,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-28T15:04:23.0695195+00:00",
+      "NumProgressed": 24507,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8818,7 +8823,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17889
+      "UsersEstimate": 17890
     },
     {
       "ID": "Animated",
@@ -8826,7 +8831,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "Back_Off",
@@ -8858,7 +8863,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10047
+      "UsersEstimate": 10048
     },
     {
       "ID": "Collect_Spores",
@@ -8866,7 +8871,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12498
+      "UsersEstimate": 12499
     },
     {
       "ID": "Collector",
@@ -8874,7 +8879,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "Cultured",
@@ -8882,7 +8887,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12498
+      "UsersEstimate": 12499
     },
     {
       "ID": "Daily_Dose",
@@ -8922,7 +8927,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "Efficient",
@@ -8954,7 +8959,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13233
+      "UsersEstimate": 13234
     },
     {
       "ID": "GB_In_Training",
@@ -9034,7 +9039,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "Reckless",
@@ -9098,7 +9103,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "Solo_Capture",
@@ -9122,7 +9127,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "Summoner",
@@ -9146,7 +9151,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13233
+      "UsersEstimate": 13234
     },
     {
       "ID": "Teamwork",
@@ -9225,7 +9230,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24506,
+      "Progressed": 24507,
       "Completed": 48
     }
   ],
@@ -9233,8 +9238,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-27T21:01:11.6133835+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:04:32.4640233+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:04:23.0695186+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:44.4694283+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:59:58.9667472+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:04:32.4641458+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:59:27.2045026+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:04:23.0695965+00:00"
 }

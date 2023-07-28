@@ -18,20 +18,20 @@
 | Impenetrable Skin | 55.00% | ~90 |
 | Chomp Chomp! | 46.00% | ~75 |
 | Supreme Power | 45.00% | ~74 |
-| The Duelist | 41.00% | ~67 |
-| Glorious Battle | 41.00% | ~67 |
-| Diaper Time! | 41.00% | ~67 |
-| Target Practice | 41.00% | ~67 |
-| Meat Larder | 39.00% | ~64 |
+| The Duelist | 42.00% | ~69 |
+| Glorious Battle | 42.00% | ~69 |
+| Diaper Time! | 42.00% | ~69 |
+| Target Practice | 42.00% | ~69 |
+| Meat Larder | 40.00% | ~66 |
 | Mutant And Proud | 38.00% | ~62 |
 | The Emperor's New Clothes | 33.00% | ~54 |
+| Final Evolution | 31.00% | ~51 |
+| You Shall Not Pass | 30.00% | ~49 |
 | Godlike Power | 30.00% | ~49 |
 | Undying Skin | 30.00% | ~49 |
-| Final Evolution | 30.00% | ~49 |
-| You Shall Not Pass | 29.00% | ~48 |
+| Animal Lover | 29.00% | ~48 |
 | Fight Me! | 29.00% | ~48 |
 | Happy Little Home | 29.00% | ~48 |
-| Animal Lover | 28.00% | ~46 |
 | Supremacy | 28.00% | ~46 |
 | Mommy's Very Angry | 27.00% | ~44 |
 | Immortal Skin | 24.00% | ~39 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 292)  
-Completed: 1 (0.61%) (Ranked 123)  
+Completed: 1 (0.61%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,10 +7,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 21.00% | ~2,234 |
-| A Spark | 15.00% | ~1,595 |
-| Burning City | 14.00% | ~1,489 |
-| Mythic Choices | 12.00% | ~1,276 |
-| Defender's Heart | 12.00% | ~1,276 |
+| Burning City | 15.00% | ~1,596 |
+| A Spark | 15.00% | ~1,596 |
+| Mythic Choices | 12.00% | ~1,277 |
+| Defender's Heart | 12.00% | ~1,277 |
 | Banner over the Citadel | 11.00% | ~1,170 |
 | Queen's Gratitude | 10.00% | ~1,064 |
 | Fifth Crusade | 7.00% | ~745 |
@@ -18,13 +18,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Angel | 5.00% | ~532 |
 | Great Upstart | 5.00% | ~532 |
 | Demonic and Divine | 5.00% | ~532 |
-| Path of the Azata | 4.00% | ~425 |
-| Transformation | 4.00% | ~425 |
-| The Legacy | 4.00% | ~425 |
-| Voice from Your Dreams | 4.00% | ~425 |
-| All Paths Open | 4.00% | ~425 |
-| Next-Door Play | 4.00% | ~425 |
-| Get the Toad | 4.00% | ~425 |
+| Path of the Azata | 4.00% | ~426 |
+| Transformation | 4.00% | ~426 |
+| The Legacy | 4.00% | ~426 |
+| Voice from Your Dreams | 4.00% | ~426 |
+| All Paths Open | 4.00% | ~426 |
+| Next-Door Play | 4.00% | ~426 |
+| Get the Toad | 4.00% | ~426 |
 | Heart of the Fallen Land | 3.00% | ~319 |
 | Divide and Rule | 3.00% | ~319 |
 | Mythic Reinforcements | 3.00% | ~319 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,636 (Ranked 120)  
-Completed: 0 (0.00%) (Ranked 244)  
+Progressed: 10,639 (Ranked 120)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 10,575 | 0 |
 | 2023-07-26 | 10,595 | 0 |
 | 2023-07-27 | 10,626 | 0 |
-| 2023-07-28 | 10,636 | 0 |
+| 2023-07-28 | 10,639 | 0 |
 ## Awards
 Max (Character Customization): 1,693  (Ranked 117)  
 Sum: 6,852 (Ranked 113)  

@@ -16,7 +16,7 @@ Rating: 4.55 (Ranked 481)
 | Roll with it | 45.00% | ~410 |
 | Humble beginnings | 43.00% | ~391 |
 | Love is in the air | 43.00% | ~391 |
-| Fine, I'll do it myself | 41.00% | ~373 |
+| Fine, I'll do it myself | 42.00% | ~382 |
 | Moving up | 41.00% | ~373 |
 | No need to call anyone | 39.00% | ~355 |
 | Big fortune | 31.00% | ~282 |
@@ -34,7 +34,7 @@ Rating: 4.55 (Ranked 481)
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 910 (Ranked 196)  
-Completed: 15 (1.65%) (Ranked 91)  
+Completed: 15 (1.65%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

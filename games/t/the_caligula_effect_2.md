@@ -57,7 +57,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Caligula Effect 2 | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 233 (Ranked 265)  
-Completed: 2 (0.86%) (Ranked 113)  
+Completed: 2 (0.86%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

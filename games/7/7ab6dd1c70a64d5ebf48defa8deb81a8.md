@@ -41,7 +41,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 383)  
-Completed: 1 (4.55%) (Ranked 47)  
+Completed: 1 (4.55%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

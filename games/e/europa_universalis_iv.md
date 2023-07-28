@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,758 |
-| That's a Grand Army | 8.00% | ~6,007 |
-| That is mine! | 8.00% | ~6,007 |
-| Victorious! | 8.00% | ~6,007 |
-| Brothers in Arms | 6.00% | ~4,505 |
-| That's a Grand Navy | 6.00% | ~4,505 |
-| Seriously?! | 6.00% | ~4,505 |
-| For the Glory | 5.00% | ~3,754 |
+| Until death do us apart | 9.00% | ~6,760 |
+| That's a Grand Army | 8.00% | ~6,009 |
+| That is mine! | 8.00% | ~6,009 |
+| Victorious! | 8.00% | ~6,009 |
+| Brothers in Arms | 6.00% | ~4,507 |
+| That's a Grand Navy | 6.00% | ~4,507 |
+| Seriously?! | 6.00% | ~4,507 |
+| For the Glory | 5.00% | ~3,756 |
 | Cold War | 4.00% | ~3,004 |
 | True Catholic | 4.00% | ~3,004 |
 | Defender of the Faith | 3.00% | ~2,253 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~451 |
 | This is My Faith | 0.60% | ~451 |
 | Time Bandit | 0.60% | ~451 |
-| Absolutely | 0.50% | ~375 |
-| Early-Modern Warfare | 0.50% | ~375 |
-| Grand Coalition | 0.50% | ~375 |
-| In the Name of the Father | 0.50% | ~375 |
-| Live Long and Prosper | 0.50% | ~375 |
-| Trophy Hunter | 0.50% | ~375 |
-| Voting Streak | 0.50% | ~375 |
+| Absolutely | 0.50% | ~376 |
+| Early-Modern Warfare | 0.50% | ~376 |
+| Grand Coalition | 0.50% | ~376 |
+| In the Name of the Father | 0.50% | ~376 |
+| Live Long and Prosper | 0.50% | ~376 |
+| Trophy Hunter | 0.50% | ~376 |
+| Voting Streak | 0.50% | ~376 |
 | All Your Trade Are Belong to Us | 0.40% | ~300 |
 | Bleed Them Dry | 0.40% | ~300 |
 | Dude, Where's my Boat? | 0.40% | ~300 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,090 (Ranked 74)  
-Completed: 0 (0.00%) (Ranked 244)  
+Progressed: 75,112 (Ranked 74)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -460,14 +460,14 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
-| 2023-07-28 | 75,090 | 0 |
+| 2023-07-28 | 75,112 | 0 |
 ## Awards
-Max (Educational): 5,587  (Ranked 61)  
-Sum: 46,095 (Ranked 26)  
+Max (Educational): 5,593  (Ranked 61)  
+Sum: 46,101 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,587 |
+| This game is Educational | 5,593 |
 | This game is Highly Recommended | 5,351 |
 | This game has Challenging Combat | 5,302 |
 | This game is Extremely Fun | 5,299 |
@@ -672,4 +672,4 @@ Diff (max vs sum): 35
 | 2023-07-25 | 4.69 | - | 5,583 | 46,013 |
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
 | 2023-07-27 | 4.69 | - | 5,587 | 46,075 |
-| 2023-07-28 | 4.69 | - | 5,587 | 46,095 |
+| 2023-07-28 | 4.69 | - | 5,593 | 46,101 |

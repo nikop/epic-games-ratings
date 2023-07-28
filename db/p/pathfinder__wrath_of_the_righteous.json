@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3278,9 +3278,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10636,
+  "EOS_Progressed": 10639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9558,6 +9558,11 @@
       "Time": "2023-07-28T12:01:47.5121385+00:00",
       "NumProgressed": 10636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T15:00:51.7673829+00:00",
+      "NumProgressed": 10639,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9575,9 +9580,9 @@
       "ID": "02_BurningCity",
       "SetID": "989of5o",
       "Name": "Burning City",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1596
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9641,7 +9646,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "11_PathOfAeon",
@@ -9697,7 +9702,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "18_MythicChoices",
@@ -9705,7 +9710,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "19_EqualToAroden",
@@ -9753,7 +9758,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "25_MasterfulDispell",
@@ -9817,7 +9822,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9913,7 +9918,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "46_AllPathsOpen",
@@ -9921,7 +9926,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -9937,7 +9942,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "49_Flame",
@@ -9993,7 +9998,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "56_GetToad",
@@ -10001,7 +10006,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "57_PathOfDevil",
@@ -10496,21 +10501,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9418,
+      "Progressed": 9421,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10636,
+      "Progressed": 10639,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-28T11:59:25.7986987+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:01:46.632504+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:00:51.7673824+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T13:59:14.5814636+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:01:46.6328796+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:58:51.8652801+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:00:51.7675748+00:00"
 }

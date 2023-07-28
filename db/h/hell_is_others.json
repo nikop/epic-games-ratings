@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 661,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -692,6 +692,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-07-28T15:00:33.860411+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 205,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -748,7 +754,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253788,
+  "EOS_Progressed": 253793,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
@@ -10808,6 +10814,11 @@
       "Time": "2023-07-28T14:06:37.486674+00:00",
       "NumProgressed": 253788,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T15:06:03.2045729+00:00",
+      "NumProgressed": 253793,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10819,7 +10830,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17765
+      "UsersEstimate": 17766
     },
     {
       "ID": "Act2",
@@ -10867,7 +10878,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78674
+      "UsersEstimate": 78676
     },
     {
       "ID": "BackHomeNTimes",
@@ -10875,7 +10886,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -10947,7 +10958,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "CreedsInBank2",
@@ -11019,7 +11030,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15227
+      "UsersEstimate": 15228
     },
     {
       "ID": "GrowPlants2",
@@ -11075,7 +11086,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15227
+      "UsersEstimate": 15228
     },
     {
       "ID": "KillOtherWithKatana",
@@ -11107,7 +11118,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55833
+      "UsersEstimate": 55834
     },
     {
       "ID": "KillOthers2",
@@ -11266,16 +11277,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253788,
+      "Progressed": 253793,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-27T15:02:46.056551+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:06:37.486673+00:00",
+  "LastChanged": "2023-07-28T15:00:33.8604109+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:06:03.2045724+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:01:23.1563622+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:06:37.48687+00:00"
+  "LastUpdate_Ratings": "2023-07-28T15:00:33.8604115+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:06:03.2046837+00:00"
 }

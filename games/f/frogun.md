@@ -15,7 +15,7 @@
 | Prickly situation handler | 34.00% | ~73 |
 | Hat lover | 33.00% | ~71 |
 | Perfectionist | 31.00% | ~66 |
-| Protected | 29.00% | ~62 |
+| Protected | 30.00% | ~64 |
 | Pragmatic | 22.00% | ~47 |
 | Calory burner | 17.00% | ~36 |
 | Pacifist | 15.00% | ~32 |
@@ -37,7 +37,7 @@
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 214 (Ranked 272)  
-Completed: 4 (1.87%) (Ranked 87)  
+Completed: 4 (1.87%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

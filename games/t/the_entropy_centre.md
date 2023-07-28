@@ -14,7 +14,7 @@
 | Chain Reaction | 37.00% | ~85 |
 | 48 Attempts | 36.00% | ~83 |
 | Handyman | 24.00% | ~55 |
-| No Time To Relax | 20.00% | ~46 |
+| No Time To Relax | 21.00% | ~49 |
 | Bad Robots | 18.00% | ~42 |
 | Archivist | 17.00% | ~39 |
 | Fashionista | 17.00% | ~39 |
@@ -33,7 +33,7 @@
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 231 (Ranked 266)  
-Completed: 0 (0.00%) (Ranked 244)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

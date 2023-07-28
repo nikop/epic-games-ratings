@@ -7,17 +7,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,491 |
-| Beast Intentions | 2.00% | ~4,327 |
+| Beast Intentions | 2.00% | ~4,328 |
 | Maddening | 1.00% | ~2,164 |
 | The Silken Swamp | 1.00% | ~2,164 |
 | Supply Run | 1.00% | ~2,164 |
-| Rocky Reception | 1.00% | ~1,826 |
+| Rocky Reception | 1.00% | ~1,827 |
 | Rock and Roll | 0.90% | ~1,644 |
 | Vecna Lives! | 0.80% | ~1,461 |
-| Tall Tales | 0.70% | ~1,278 |
-| Vecna Loots! | 0.70% | ~1,278 |
-| Flight of the Kindori Pod | 0.70% | ~1,278 |
-| Topolah's Tower | 0.70% | ~1,278 |
+| Tall Tales | 0.70% | ~1,279 |
+| Vecna Loots! | 0.70% | ~1,279 |
+| Flight of the Kindori Pod | 0.70% | ~1,279 |
+| Topolah's Tower | 0.70% | ~1,279 |
 | Wet Feet | 0.60% | ~1,298 |
 | Seeds of Destruction | 0.60% | ~1,096 |
 | Return to the Tomb | 0.60% | ~1,096 |
@@ -40,19 +40,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~913 |
 | Krux's Speed Run | 0.50% | ~913 |
 | Thieves of the Coven | 0.40% | ~731 |
-| Heavy Burden | 0.40% | ~865 |
+| Heavy Burden | 0.40% | ~866 |
 | The Evacuation of Waterdeep | 0.40% | ~731 |
-| Friends of the Forest | 0.40% | ~865 |
-| Beast Mode | 0.40% | ~865 |
-| Low Initiative | 0.40% | ~865 |
-| Street War | 0.40% | ~865 |
-| March of the Undead | 0.40% | ~865 |
-| No Time To Rest | 0.40% | ~865 |
-| The Mists of Ravenloft | 0.40% | ~865 |
-| Invisible Shadows | 0.40% | ~865 |
-| The Dinner Party | 0.40% | ~865 |
-| The Botched Kidnapping | 0.40% | ~865 |
-| The Mad Wizard | 0.40% | ~865 |
+| Friends of the Forest | 0.40% | ~866 |
+| Beast Mode | 0.40% | ~866 |
+| Low Initiative | 0.40% | ~866 |
+| Street War | 0.40% | ~866 |
+| March of the Undead | 0.40% | ~866 |
+| No Time To Rest | 0.40% | ~866 |
+| The Mists of Ravenloft | 0.40% | ~866 |
+| Invisible Shadows | 0.40% | ~866 |
+| The Dinner Party | 0.40% | ~866 |
+| The Botched Kidnapping | 0.40% | ~866 |
+| The Mad Wizard | 0.40% | ~866 |
 | Bazaar Companions | 0.40% | ~731 |
 | Luigi After Hours | 0.40% | ~731 |
 | Electric Mayhem | 0.40% | ~731 |
@@ -142,6 +142,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.20% | ~433 |
 | The Immortal Warrior | 0.20% | ~433 |
 | The Wyrmheart Mine | 0.20% | ~433 |
+| Seeds of Deceit | 0.20% | ~433 |
 | Trollskull Manor | 0.20% | ~433 |
 | Attack on the Manor | 0.20% | ~433 |
 | The Death Curse | 0.20% | ~433 |
@@ -274,7 +275,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~216 |
 | Shorty's Day Off | 0.10% | ~216 |
 | Intelligence Hunt | 0.10% | ~216 |
-| Seeds of Deceit | 0.10% | ~216 |
 | Visions of Strahd | 0.10% | ~216 |
 | Seeds of Corruption | 0.10% | ~216 |
 | The Strahd Squad | 0.10% | ~183 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,361 (Ranked 53)  
-Completed: 2,132 (0.99%) (Ranked 109)  
+Progressed: 216,378 (Ranked 53)  
+Completed: 2,132 (0.99%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -618,7 +618,7 @@ Completed: 2,132 (0.99%) (Ranked 109)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,361 | 2,132 |
+| 2023-07-28 | 216,378 | 2,132 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,770 (Ranked 38)  

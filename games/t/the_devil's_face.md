@@ -20,7 +20,7 @@
 | Flagellation | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 180 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 244)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

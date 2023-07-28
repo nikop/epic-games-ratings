@@ -8,8 +8,8 @@
 | Mjam-Mjam | 98.00% | ~216 |
 | Onk Boga I | 96.00% | ~211 |
 | Sniarb! | 92.00% | ~202 |
-| Blunga 5 | 67.00% | ~147 |
-| Onk Boga II | 64.00% | ~141 |
+| Blunga 5 | 68.00% | ~150 |
+| Onk Boga II | 65.00% | ~143 |
 | Bzzzzzz | 58.00% | ~128 |
 | Onk Boga III | 50.00% | ~110 |
 | Danka, Lagga, Wonwon | 43.00% | ~95 |
@@ -33,7 +33,7 @@
 | Blunga 30 | 6.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220 (Ranked 270)  
-Completed: 12 (5.45%) (Ranked 39)  
+Completed: 12 (5.45%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

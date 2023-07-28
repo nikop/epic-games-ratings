@@ -22,7 +22,7 @@
 | Stingy | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 262 (Ranked 259)  
-Completed: 4 (1.53%) (Ranked 94)  
+Completed: 4 (1.53%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

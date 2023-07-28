@@ -68,7 +68,7 @@ Rating: 4.18 (Ranked 860)
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67,444 (Ranked 78)  
-Completed: 104 (0.15%) (Ranked 179)  
+Completed: 104 (0.15%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

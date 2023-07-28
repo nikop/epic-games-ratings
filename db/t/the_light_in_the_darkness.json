@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2039,
+  "EOS_Progressed": 2040,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 8.83,
+  "EOS_Completed_Percentage": 8.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4358,6 +4358,11 @@
       "Time": "2023-07-28T13:10:16.464047+00:00",
       "NumProgressed": 2039,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-07-28T15:04:09.5633085+00:00",
+      "NumProgressed": 2040,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 12,
@@ -4369,7 +4374,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Bernard",
@@ -4393,7 +4398,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Jacques a Dit",
@@ -4401,7 +4406,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Jakob",
@@ -4409,7 +4414,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Jude",
@@ -4464,7 +4469,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2039,
+      "Progressed": 2040,
       "Completed": 180
     }
   ],
@@ -4472,8 +4477,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-28T14:04:14.9079494+00:00",
+  "LastChanged_Achievements": "2023-07-28T15:04:09.563308+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.5602679+00:00",
-  "LastUpdate_Ratings": "2023-07-28T14:00:28.4519106+00:00",
-  "LastUpdate_Achievements": "2023-07-28T14:04:14.9080147+00:00"
+  "LastUpdate_Ratings": "2023-07-28T14:59:48.9597194+00:00",
+  "LastUpdate_Achievements": "2023-07-28T15:04:09.5633445+00:00"
 }

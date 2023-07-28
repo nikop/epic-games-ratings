@@ -6,8 +6,8 @@ Rating: 3.53 (Ranked 954)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 77.00% | ~1,331 |
+| Home Is Where the Heart Is | 61.00% | ~1,054 |
 | Ne Plus Ultra | 61.00% | ~1,054 |
-| Home Is Where the Heart Is | 60.00% | ~1,037 |
 | Wounded Whispers | 60.00% | ~1,037 |
 | Blood Will Have Blood | 51.00% | ~881 |
 | ICU | 47.00% | ~812 |
@@ -73,7 +73,7 @@ Rating: 3.53 (Ranked 954)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,728 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 244)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

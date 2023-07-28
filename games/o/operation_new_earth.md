@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 36.00% | ~239 |
-| Defenses Online | 34.00% | ~226 |
-| Facility Online | 29.00% | ~193 |
+| It's Good to have Allies | 36.00% | ~240 |
+| Defenses Online | 34.00% | ~227 |
+| Facility Online | 29.00% | ~194 |
 | Corporal | 21.00% | ~140 |
-| Covert Operative | 17.00% | ~113 |
-| Sergeant | 16.00% | ~106 |
-| Lieutenant | 13.00% | ~86 |
+| Covert Operative | 17.00% | ~114 |
+| Sergeant | 16.00% | ~107 |
+| Lieutenant | 13.00% | ~87 |
 | Getting Deployment | 12.00% | ~80 |
 | Stocking Up | 12.00% | ~80 |
 | On Target | 12.00% | ~80 |
 | Infantry Reporting | 11.00% | ~73 |
-| Keeping Busy | 10.00% | ~66 |
+| Keeping Busy | 10.00% | ~67 |
 | Fighting for Survival | 9.00% | ~60 |
 | Silver Competitor | 9.00% | ~60 |
 | Captain | 8.00% | ~53 |
@@ -37,14 +37,14 @@
 | Seek & Destroy | 1.00% | ~7 |
 | Titan Tanks | 1.00% | ~7 |
 | Shock Troops | 1.00% | ~7 |
-| Jet Troops | 0.80% | ~5 |
+| Jet Troops | 0.70% | ~5 |
 | Advanced Interceptors | 0.60% | ~4 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 244)  
+Progressed: 668 (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 624 | 0 |
 | 2023-07-26 | 641 | 0 |
 | 2023-07-27 | 659 | 0 |
-| 2023-07-28 | 665 | 0 |
+| 2023-07-28 | 668 | 0 |
