@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 100.00% |
+| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 80.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.15% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -19,7 +19,7 @@
 | 17 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.76% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.17% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.15% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 22 | [Remains](games/r/remains.md) | 10.87% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -39,9 +39,9 @@
 | 37 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.67% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
+| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.24% |
 | 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
@@ -56,14 +56,14 @@
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 57 | [Doodle God](games/d/doodle_god.md) | 3.49% |
-| 58 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.41% |
-| 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 60 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
-| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 62 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
-| 63 | [The Complex](games/t/the_complex.md) | 3.05% |
-| 64 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.98% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.55% |
+| 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 59 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.41% |
+| 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
+| 62 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
+| 63 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
+| 64 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 65 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 65 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
 | 67 | [HordeCore](games/h/hordecore.md) | 2.91% |
@@ -101,9 +101,9 @@
 | 99 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 100 | [Five Dates](games/f/five_dates.md) | 1.42% |
 | 101 | [Late Shift](games/l/late_shift.md) | 1.32% |
-| 102 | [A Musical Story](games/a/a_musical_story.md) | 1.20% |
 | 102 | [Chorus](games/c/chorus.md) | 1.20% |
-| 104 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.19% |
+| 103 | [A Musical Story](games/a/a_musical_story.md) | 1.19% |
+| 103 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.19% |
 | 105 | [Trifox](games/t/trifox.md) | 1.11% |
 | 106 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.06% |
 | 106 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
