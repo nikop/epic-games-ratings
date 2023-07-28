@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.60% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.55% |
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.00% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 14.29% |
@@ -33,7 +33,7 @@
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
 | 33 | [Time Loader](games/t/time_loader.md) | 7.02% |
-| 34 | [Scorn](games/s/scorn.md) | 6.95% |
+| 34 | [Scorn](games/s/scorn.md) | 6.94% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
 | 36 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.67% |
 | 37 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
@@ -56,13 +56,13 @@
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 54 | [ZZT!](games/z/zzt!.md) | 3.57% |
 | 56 | [Doodle God](games/d/doodle_god.md) | 3.49% |
-| 57 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.47% |
+| 57 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.45% |
 | 58 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 59 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 61 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
 | 62 | [The Complex](games/t/the_complex.md) | 3.05% |
-| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.01% |
+| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.99% |
 | 64 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 64 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
 | 66 | [HordeCore](games/h/hordecore.md) | 2.91% |
@@ -89,7 +89,7 @@
 | 87 | [Frogun](games/f/frogun.md) | 1.87% |
 | 88 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 89 | [Sifu](games/s/sifu.md) | 1.80% |
-| 90 | [Iron Danger](games/i/iron_danger.md) | 1.69% |
+| 90 | [Iron Danger](games/i/iron_danger.md) | 1.68% |
 | 91 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
 | 92 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 93 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -128,12 +128,12 @@
 | 125 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 125 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 128 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 129 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 130 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
-| 130 | [Them and Us](games/t/them_and_us.md) | 0.53% |
-| 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
-| 132 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 132 | [Train Valley](games/t/train_valley.md) | 0.51% |
+| 128 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.56% |
+| 130 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 131 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 131 | [Them and Us](games/t/them_and_us.md) | 0.53% |
+| 133 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 133 | [Train Valley](games/t/train_valley.md) | 0.51% |
 | 135 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 135 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.50% |
 | 137 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
