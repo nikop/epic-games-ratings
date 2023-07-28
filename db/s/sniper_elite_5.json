@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5738,9 +5738,9 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -5930,9 +5930,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6025,8 +6025,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:04:45.0179597+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:05:40.0228046+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:05.9368513+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:57:18.6455149+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:04:45.0180606+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:57:37.5439702+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:05:40.0229184+00:00"
 }

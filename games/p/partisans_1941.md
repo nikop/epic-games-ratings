@@ -13,14 +13,14 @@ Number of Ratings: 98  (23.09.2022)
 | Mosquito bite | 30.00% | ~360 |
 | Spice It Up | 26.00% | ~312 |
 | Agent 47 | 22.00% | ~264 |
-| You're Gonna Go Far, Kid | 22.00% | ~264 |
 | Bomberman | 22.00% | ~264 |
+| You're Gonna Go Far, Kid | 21.00% | ~252 |
 | Death to the Oppressor! | 15.00% | ~180 |
 | The Gang's All Here | 13.00% | ~156 |
 | Your Answer | 12.00% | ~144 |
 | One by One | 11.00% | ~132 |
-| The Big Bertha | 10.00% | ~120 |
-| Game Over | 9.00% | ~108 |
+| The Big Bertha | 9.00% | ~108 |
+| Game Over | 8.00% | ~96 |
 | Lock, Stock | 6.00% | ~72 |
 | Payback Time | 6.00% | ~72 |
 | No Witness | 5.00% | ~60 |
@@ -28,7 +28,7 @@ Number of Ratings: 98  (23.09.2022)
 | Unbreakable Wall | 2.00% | ~24 |
 | Experienced Strategist | 1.00% | ~12 |
 | Do a Barrel Roll! | 0.90% | ~11 |
-| How?! | 0.80% | ~10 |
+| How?! | 0.70% | ~8 |
 | Tough as Nails | 0.30% | ~4 |
 | Commandos | 0.20% | ~2 |
 | We Weren't There | 0.20% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 184)  
+Progressed: 1,201 (Ranked 184)  
 Completed: 1 (0.08%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 202)
 | 2023-07-25 | 1,175 | 1 |
 | 2023-07-26 | 1,185 | 1 |
 | 2023-07-27 | 1,192 | 1 |
-| 2023-07-28 | 1,200 | 1 |
+| 2023-07-28 | 1,201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

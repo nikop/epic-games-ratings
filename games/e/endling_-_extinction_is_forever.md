@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~442 |
-| A Friend in Need | 60.00% | ~279 |
+| Home Sweet Home | 95.00% | ~443 |
+| A Friend in Need | 60.00% | ~280 |
 | Surviving | 43.00% | ~200 |
 | Never Give Up | 40.00% | ~186 |
 | Detox diet | 40.00% | ~186 |
@@ -17,7 +17,7 @@
 | A Barking Fox Doesn't Bite | 21.00% | ~98 |
 | Chicken Dinner | 21.00% | ~98 |
 | Peaceful Instinct | 18.00% | ~84 |
-| Maternity | 16.00% | ~74 |
+| Maternity | 16.00% | ~75 |
 | Family Reunion | 15.00% | ~70 |
 | Beyond Words | 15.00% | ~70 |
 | Barking in The Rain | 15.00% | ~70 |
@@ -33,8 +33,8 @@
 | Easter Egg | 2.00% | ~9 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 223)  
-Completed: 3 (0.65%) (Ranked 123)  
+Progressed: 466 (Ranked 223)  
+Completed: 3 (0.64%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,6 +93,7 @@ Completed: 3 (0.65%) (Ranked 123)
 | 2023-07-24 | 463 | 3 |
 | 2023-07-25 | 464 | 3 |
 | 2023-07-27 | 465 | 3 |
+| 2023-07-28 | 466 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

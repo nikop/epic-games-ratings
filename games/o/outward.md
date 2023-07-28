@@ -10,9 +10,9 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Winter | 64.00% | ~2,024 |
 | Ready for Summer | 51.00% | ~1,613 |
 | Cordon Bleu | 43.00% | ~1,360 |
-| Tapped! | 36.00% | ~1,138 |
+| Tapped! | 36.00% | ~1,139 |
 | Eureka | 32.00% | ~1,012 |
-| Scourge Slayer | 25.00% | ~790 |
+| Scourge Slayer | 25.00% | ~791 |
 | Science, Troglodyte! | 23.00% | ~727 |
 | Exceptional Skill | 22.00% | ~696 |
 | Home Sweet Home | 22.00% | ~696 |
@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 16.00% | ~506 |
 | Apex Predator | 16.00% | ~506 |
 | The Power of Family | 16.00% | ~506 |
-| Strange amalgams | 12.00% | ~379 |
-| The Power of Faith | 12.00% | ~379 |
+| Strange amalgams | 12.00% | ~380 |
+| The Power of Faith | 12.00% | ~380 |
 | The Power of Freedom | 9.00% | ~285 |
 | Ace Detective | 8.00% | ~253 |
 | Gift from the Ancestors | 8.00% | ~253 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Hold my Mead and Watch This | 6.00% | ~190 |
 | The stuff of legends. | 6.00% | ~190 |
 | Blood and justice | 5.00% | ~158 |
-| Ancestor's Pride | 4.00% | ~126 |
-| For All Aurai | 4.00% | ~126 |
-| Memory of a legend | 4.00% | ~126 |
+| Ancestor's Pride | 4.00% | ~127 |
+| For All Aurai | 4.00% | ~127 |
+| Memory of a legend | 4.00% | ~127 |
 | Light of Levant | 3.00% | ~95 |
 | This was a mistake... | 3.00% | ~95 |
 | Crowd Pleaser. | 2.00% | ~63 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,162 (Ranked 151)  
+Progressed: 3,163 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 3 (0.09%) (Ranked 196)
 | 2023-07-25 | 3,119 | 3 |
 | 2023-07-26 | 3,125 | 3 |
 | 2023-07-27 | 3,148 | 3 |
-| 2023-07-28 | 3,162 | 3 |
+| 2023-07-28 | 3,163 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 350)  

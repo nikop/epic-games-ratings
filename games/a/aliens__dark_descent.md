@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.42 (Ranked 662)  
+Rating: 4.43 (Ranked 655)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.42 (Ranked 662)
 | Excavating The Truth | 17.00% | ~520 |
 | Abysmal Horrors | 17.00% | ~520 |
 | Bandage Lover | 16.00% | ~490 |
-| Regicide | 12.00% | ~367 |
+| Regicide | 13.00% | ~398 |
 | Heavy Steps | 11.00% | ~337 |
 | Flawless Victory | 10.00% | ~306 |
 | This Went Smoothly | 10.00% | ~306 |
@@ -124,3 +124,4 @@ Completed: 1 (0.03%) (Ranked 220)
 | 2023-07-24 | 4.40 | 0 | 0 |
 | 2023-07-25 | 4.41 | 0 | 0 |
 | 2023-07-27 | 4.42 | 0 | 0 |
+| 2023-07-28 | 4.43 | 0 | 0 |

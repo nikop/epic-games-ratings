@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -531,6 +531,11 @@
       "Time": "2023-07-27T03:03:34.8428257+00:00",
       "NumProgressed": 465,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T19:04:34.2950311+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -582,7 +587,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "TROP006",
@@ -590,7 +595,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "TROP007",
@@ -606,7 +611,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "TROP009",
@@ -765,7 +770,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 3
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:03:48.7499636+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:04:34.2950304+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:31.7590321+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:59:47.7109662+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:03:48.7499887+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:00:28.196639+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:04:34.2950544+00:00"
 }

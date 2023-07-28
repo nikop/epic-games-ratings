@@ -66,6 +66,7 @@ Rating: 4.87 (Ranked 24)
 | Have we met before? | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
 | I am a good person who likes to help | 0.10% | ~4 |
+| I'm trying to FOCUS HERE! | 0.10% | ~4 |
 | With our powers combined…and to the rhythm… | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
@@ -75,9 +76,8 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
-| I'm trying to FOCUS HERE! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,607 (Ranked 146)  
+Progressed: 3,609 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 6 (0.17%) (Ranked 176)
 | 2023-07-25 | 3,574 | 6 |
 | 2023-07-26 | 3,589 | 6 |
 | 2023-07-27 | 3,601 | 6 |
-| 2023-07-28 | 3,607 | 6 |
+| 2023-07-28 | 3,609 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

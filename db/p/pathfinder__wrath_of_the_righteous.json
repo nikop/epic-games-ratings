@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 121,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3278,9 +3278,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10642,
+  "EOS_Progressed": 10643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9568,6 +9568,11 @@
       "Time": "2023-07-28T17:02:38.5721744+00:00",
       "NumProgressed": 10642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T19:03:10.6448868+00:00",
+      "NumProgressed": 10643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9585,9 +9590,9 @@
       "ID": "02_BurningCity",
       "SetID": "989of5o",
       "Name": "Burning City",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1596
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9691,7 +9696,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "16_PathOfLegend",
@@ -9891,7 +9896,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "42_JustPathetic",
@@ -9987,7 +9992,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "54_DeathByColumn",
@@ -10506,21 +10511,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9424,
+      "Progressed": 9425,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10642,
+      "Progressed": 10643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-28T11:59:25.7986987+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:01:44.9314628+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:03:10.6448855+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:59:16.4926124+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:01:44.9319071+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:59:54.0397297+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:03:10.6451422+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -190,6 +190,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-28T19:01:02.8957092+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -198,7 +204,7 @@
   "Tags": [],
   "EOS_Progressed": 3061,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3359,9 +3365,9 @@
       "ID": "ACH_KILL_QUEENS",
       "SetID": "816efe",
       "Name": "Regicide",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 367
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -3623,9 +3629,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-07-27T11:00:41.1759391+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:02:07.4600972+00:00",
+  "LastChanged": "2023-07-28T19:01:02.8957088+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:03:25.5897047+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:00:20.7298719+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:02:07.4601468+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:01:02.8957098+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:03:25.5897606+00:00"
 }

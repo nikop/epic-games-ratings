@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,590 |
-| Finding Your Footing | 26.00% | ~8,590 |
-| Nomad | 18.00% | ~5,947 |
-| Picking Up Speed | 16.00% | ~5,286 |
-| Welcome Maya | 15.00% | ~4,956 |
-| Sightseer | 11.00% | ~3,634 |
-| Scout | 10.00% | ~3,304 |
-| Amateur | 9.00% | ~2,973 |
-| Enter Paz | 8.00% | ~2,643 |
-| Wanderer | 8.00% | ~2,643 |
-| Unlock Maya | 7.00% | ~2,313 |
-| Aviator | 6.00% | ~1,982 |
-| One With The Board | 6.00% | ~1,982 |
+| Rookie | 26.00% | ~8,593 |
+| Finding Your Footing | 26.00% | ~8,593 |
+| Nomad | 18.00% | ~5,949 |
+| Picking Up Speed | 16.00% | ~5,288 |
+| Welcome Maya | 15.00% | ~4,958 |
+| Sightseer | 11.00% | ~3,636 |
+| Scout | 10.00% | ~3,305 |
+| Amateur | 9.00% | ~2,974 |
+| Enter Paz | 8.00% | ~2,644 |
+| Wanderer | 8.00% | ~2,644 |
+| Unlock Maya | 7.00% | ~2,314 |
+| Aviator | 6.00% | ~1,983 |
+| One With The Board | 6.00% | ~1,983 |
 | My Little Friend | 5.00% | ~1,652 |
 | Voyager | 5.00% | ~1,652 |
 | Sandboarder | 4.00% | ~1,322 |
 | Izel Has Arrived | 4.00% | ~1,322 |
-| Junkie | 3.00% | ~991 |
-| Traveler | 3.00% | ~991 |
-| Journeyer | 3.00% | ~991 |
-| Unlock Paz | 3.00% | ~991 |
+| Junkie | 3.00% | ~992 |
+| Traveler | 3.00% | ~992 |
+| Journeyer | 3.00% | ~992 |
+| Unlock Paz | 3.00% | ~992 |
 | Pro | 2.00% | ~661 |
 | Unlock Izel | 2.00% | ~661 |
 | Human Flight | 2.00% | ~661 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~33 |
 | Windswept | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,038 (Ranked 97)  
+Progressed: 33,050 (Ranked 97)  
 Completed: 5 (0.02%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 5 (0.02%) (Ranked 226)
 | 2023-07-25 | 32,659 | 5 |
 | 2023-07-26 | 32,779 | 5 |
 | 2023-07-27 | 32,926 | 5 |
-| 2023-07-28 | 33,038 | 5 |
+| 2023-07-28 | 33,050 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 409)  
 Sum: 359 (Ranked 322)  

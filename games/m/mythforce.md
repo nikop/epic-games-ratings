@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | Spending Spree | 1.00% | ~4 |
 | Everything Must Go! | 0.80% | ~3 |
 | The Fourth Gate | 0.80% | ~3 |
+| Death Becomes You | 0.30% | ~1 |
 | We've Got a Kaiju on the Field | 0.30% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
-| Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 233)  
+Progressed: 399 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,7 +43,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 297 | 0 |
 | 2023-07-26 | 333 | 0 |
 | 2023-07-27 | 372 | 0 |
-| 2023-07-28 | 395 | 0 |
+| 2023-07-28 | 399 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 450)  
 Sum: 226 (Ranked 352)  

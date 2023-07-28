@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.49 (Ranked 573)  
+Rating: 4.45 (Ranked 624)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,20 +19,20 @@ Rating: 4.49 (Ranked 573)
 | Right through the middle | 57.00% | ~968 |
 | Facility Manager | 53.00% | ~900 |
 | Poor Devil | 53.00% | ~900 |
-| Producer | 50.00% | ~849 |
-| Apprentice | 41.00% | ~696 |
-| Bridge Builder | 41.00% | ~696 |
-| Access granted | 34.00% | ~577 |
-| Going once, going twice, sold | 34.00% | ~577 |
-| Bull and bear | 33.00% | ~560 |
-| Stoker | 32.00% | ~543 |
-| Full Steam ahead | 31.00% | ~526 |
-| Financial Shark | 30.00% | ~509 |
-| Mole | 29.00% | ~492 |
-| Socializer | 29.00% | ~492 |
-| All mine | 28.00% | ~475 |
-| Country Life | 26.00% | ~441 |
-| General Manager | 25.00% | ~424 |
+| Producer | 50.00% | ~850 |
+| Apprentice | 42.00% | ~714 |
+| Bridge Builder | 41.00% | ~697 |
+| Access granted | 34.00% | ~578 |
+| Going once, going twice, sold | 34.00% | ~578 |
+| Bull and bear | 33.00% | ~561 |
+| Stoker | 32.00% | ~544 |
+| Full Steam ahead | 31.00% | ~527 |
+| Financial Shark | 30.00% | ~510 |
+| Mole | 29.00% | ~493 |
+| Socializer | 29.00% | ~493 |
+| All mine | 28.00% | ~476 |
+| Country Life | 26.00% | ~442 |
+| General Manager | 25.00% | ~425 |
 | Hostile Takeover | 24.00% | ~408 |
 | Seven at one stroke | 23.00% | ~391 |
 | Trailblazer | 20.00% | ~340 |
@@ -40,8 +40,8 @@ Rating: 4.49 (Ranked 573)
 | Traffic Junction | 19.00% | ~323 |
 | Traffic Jam | 18.00% | ~306 |
 | Networker | 17.00% | ~289 |
+| Resistance is futile | 16.00% | ~272 |
 | Assimilated | 16.00% | ~272 |
-| Resistance is futile | 15.00% | ~255 |
 | Locusts | 15.00% | ~255 |
 | Settler | 14.00% | ~238 |
 | Max Power | 13.00% | ~221 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 573)
 | United States | 0.50% | ~8 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,698 (Ranked 173)  
+Progressed: 1,699 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 1,677 | 0 |
 | 2023-07-26 | 1,684 | 0 |
 | 2023-07-27 | 1,696 | 0 |
-| 2023-07-28 | 1,698 | 0 |
+| 2023-07-28 | 1,699 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -153,3 +153,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-07 | 4.46 | 0 | 0 |
 | 2023-07-12 | 4.47 | 0 | 0 |
 | 2023-07-15 | 4.49 | 0 | 0 |
+| 2023-07-28 | 4.45 | 0 | 0 |

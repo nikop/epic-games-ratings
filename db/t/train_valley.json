@@ -2,7 +2,7 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 234,
@@ -829,9 +829,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 284
     },
     {
       "ID": "24_mega",
@@ -973,8 +973,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:04:25.5374294+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:05:17.1960977+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.729205+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:58:21.0499915+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:04:25.5374637+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:51.7507371+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:05:17.1961326+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -1161,6 +1161,11 @@
       "Time": "2023-07-28T18:05:19.7701553+00:00",
       "NumProgressed": 911,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-28T19:06:21.2280256+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1228,7 +1233,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1236,7 +1241,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1276,7 +1281,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1292,7 +1297,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1308,7 +1313,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1324,7 +1329,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_STAR_2",
@@ -1372,7 +1377,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1387,7 +1392,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 15
     }
   ],
@@ -1395,8 +1400,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:05:19.7701548+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:06:21.2280246+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:03.054901+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:57:50.2261684+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:05:19.7701811+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:15.2352637+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:06:21.2280583+00:00"
 }

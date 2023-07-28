@@ -21,7 +21,7 @@
 | Hello, world! | 67.00% | ~113 |
 | Fighting is cool | 66.00% | ~112 |
 | Pal of your father? | 62.00% | ~105 |
-| Employee of the month | 61.00% | ~103 |
+| Employee of the month | 62.00% | ~105 |
 | Spirit of the past | 60.00% | ~101 |
 | Law student | 59.00% | ~100 |
 | Workout professional | 56.00% | ~95 |
@@ -29,17 +29,17 @@
 | Little hacker | 54.00% | ~91 |
 | Employee of the year | 54.00% | ~91 |
 | Champion – starter pack | 53.00% | ~90 |
-| Handyman | 51.00% | ~86 |
+| Handyman | 52.00% | ~88 |
+| Fight for life | 51.00% | ~86 |
 | It's good to be alive | 51.00% | ~86 |
 | Own four walls | 51.00% | ~86 |
 | Your own way | 51.00% | ~86 |
-| Fight for life | 50.00% | ~84 |
 | Extreme neuropower! | 47.00% | ~79 |
 | Legal courier | 46.00% | ~78 |
 | Escaped from a big trouble | 41.00% | ~69 |
 | No blades in the gym | 40.00% | ~68 |
+| Guiding on the right path | 39.00% | ~66 |
 | Now you are worthy | 38.00% | ~64 |
-| Guiding on the right path | 38.00% | ~64 |
 | Mysterious voice | 36.00% | ~61 |
 | Fight is life | 35.00% | ~59 |
 | Responsible approach | 34.00% | ~57 |

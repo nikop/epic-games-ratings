@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59171,
+  "EOS_Progressed": 59176,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1356,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9377,6 +9377,11 @@
       "Time": "2023-07-28T18:04:28.587805+00:00",
       "NumProgressed": 59171,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-28T19:05:20.8328912+00:00",
+      "NumProgressed": 59176,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -9388,7 +9393,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21302
+      "UsersEstimate": 21303
     },
     {
       "ID": "02",
@@ -9396,7 +9401,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "03",
@@ -9404,7 +9409,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12426
+      "UsersEstimate": 12427
     },
     {
       "ID": "04",
@@ -9420,7 +9425,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11242
+      "UsersEstimate": 11243
     },
     {
       "ID": "06",
@@ -9460,7 +9465,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "11",
@@ -9492,7 +9497,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "15",
@@ -9500,7 +9505,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "16",
@@ -9516,7 +9521,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "18",
@@ -9548,7 +9553,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "22",
@@ -9564,7 +9569,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "24",
@@ -9572,7 +9577,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "25",
@@ -9588,7 +9593,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "27",
@@ -9612,7 +9617,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "30",
@@ -9620,7 +9625,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "31",
@@ -9636,7 +9641,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15976
+      "UsersEstimate": 15978
     },
     {
       "ID": "33",
@@ -9644,7 +9649,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "34",
@@ -9652,7 +9657,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "35",
@@ -9660,7 +9665,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17160
+      "UsersEstimate": 17161
     },
     {
       "ID": "36",
@@ -9684,7 +9689,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "39",
@@ -9724,7 +9729,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9468
     },
     {
       "ID": "44",
@@ -9748,7 +9753,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "47",
@@ -9788,7 +9793,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "52",
@@ -9796,7 +9801,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "53",
@@ -9812,7 +9817,7 @@
       "Name": "Words Will Never Harm You",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "55",
@@ -9923,21 +9928,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59171,
+      "Progressed": 59176,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22639,
+      "Progressed": 22644,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:04:28.5878043+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:05:20.83289+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:19.0439916+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:58:23.9932816+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:04:28.587913+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:54.525232+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:05:20.8330565+00:00"
 }

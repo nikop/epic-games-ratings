@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.68,
+  "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -411,6 +411,11 @@
       "Time": "2023-07-28T11:05:00.5304983+00:00",
       "NumProgressed": 238,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T19:05:25.178696+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -486,7 +491,7 @@
       "Name": "Found the Healer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -542,7 +547,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_SHARD_2",
@@ -605,7 +610,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 4
     }
   ],
@@ -613,8 +618,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:04:32.2404029+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:05:25.1786952+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.6759163+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:01:01.8105874+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:04:32.2404207+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:01:56.097986+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:05:25.1787193+00:00"
 }

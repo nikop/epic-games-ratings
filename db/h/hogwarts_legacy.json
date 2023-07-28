@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5512,10 +5512,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40062,
       "NumberOfAwardsMax": 21360
+    },
+    {
+      "Time": "2023-07-28T18:58:34.8388497+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40066,
+      "NumberOfAwardsMax": 21360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40062,
+  "NumberOfAwards": 40066,
   "NumberOfAwardsMax": 21360,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5577,7 +5583,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 899
+      "Count": 903
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5592,7 +5598,7 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288762,
+  "EOS_Progressed": 288766,
   "EOS_Completed": 435,
   "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 2,
@@ -16257,6 +16263,11 @@
       "Time": "2023-07-28T18:05:10.1289578+00:00",
       "NumProgressed": 288762,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-28T19:06:09.7665068+00:00",
+      "NumProgressed": 288766,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 45,
@@ -16268,7 +16279,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34651
+      "UsersEstimate": 34652
     },
     {
       "ID": "PFA_10",
@@ -16340,7 +16351,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20213
+      "UsersEstimate": 20214
     },
     {
       "ID": "PFA_19",
@@ -16356,7 +16367,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11550
+      "UsersEstimate": 11551
     },
     {
       "ID": "PFA_20",
@@ -16388,7 +16399,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28876
+      "UsersEstimate": 28877
     },
     {
       "ID": "PFA_24",
@@ -16548,7 +16559,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11550
+      "UsersEstimate": 11551
     },
     {
       "ID": "PFA_42",
@@ -16572,7 +16583,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20213
+      "UsersEstimate": 20214
     },
     {
       "ID": "PFA_45",
@@ -16604,7 +16615,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28876
+      "UsersEstimate": 28877
     },
     {
       "ID": "PFA_8",
@@ -16627,16 +16638,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288762,
+      "Progressed": 288766,
       "Completed": 435
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-28T16:58:21.8514494+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:05:10.1289566+00:00",
+  "LastChanged": "2023-07-28T18:58:34.8388495+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:06:09.766506+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:58:06.3753699+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:05:10.129059+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:34.8388505+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:06:09.7666361+00:00"
 }

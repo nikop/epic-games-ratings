@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6905,
+  "EOS_Progressed": 6906,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3108,6 +3108,11 @@
       "Time": "2023-07-28T17:03:46.3953644+00:00",
       "NumProgressed": 6905,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-28T19:04:16.0265012+00:00",
+      "NumProgressed": 6906,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3127,7 +3132,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3215,7 +3220,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3334,15 +3339,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6905,
+      "Progressed": 6906,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:03:33.7990797+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:04:16.0265003+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:18.7329647+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:58:07.3494545+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:03:33.7991186+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:36.1462041+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:04:16.0265454+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a44efc703f1845c685975b5f0c251dba",
   "Name": "REZ PLZ",
   "ProductSlug": "rez-plz-324485",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 92,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.8010329+00:00",
   "LastChanged": "2023-03-31T05:57:49.801033+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:43.8609985+00:00",
-  "LastUpdate_Ratings": "2023-07-28T18:00:46.045283+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:06:23.9528098+00:00"
+  "LastUpdate_Ratings": "2023-07-28T19:01:36.01946+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:07:35.9931294+00:00"
 }

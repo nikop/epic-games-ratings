@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 564,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
@@ -2029,9 +2029,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 220
     },
     {
       "ID": "MQ04_2",
@@ -2174,8 +2174,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:06:54.3705251+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:08:12.0246813+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:57:56.1181215+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:06:54.3705625+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:58:22.1501937+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:08:12.0247123+00:00"
 }

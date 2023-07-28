@@ -49,14 +49,14 @@ Rating: 4.41 (Ranked 674)
 | Burn after reading | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Souvenir hunter | 0.50% | ~17 |
+| Eagle Eyed | 0.50% | ~17 |
 | Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~17 |
+| Last Resort | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |
-| Eagle Eyed | 0.40% | ~13 |
 | Up close and personal | 0.40% | ~13 |
 | Shoot for the Moon | 0.40% | ~13 |
-| Last Resort | 0.40% | ~13 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |

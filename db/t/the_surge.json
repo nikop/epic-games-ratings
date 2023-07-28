@@ -2,12 +2,12 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4534,
+  "EOS_Progressed": 4535,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1868,6 +1868,11 @@
       "Time": "2023-07-28T17:03:32.7397256+00:00",
       "NumProgressed": 4534,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-28T19:04:03.6436686+00:00",
+      "NumProgressed": 4535,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1927,7 +1932,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1935,7 +1940,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1943,7 +1948,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2047,7 +2052,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -2063,7 +2068,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -2093,9 +2098,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3447
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2159,7 +2164,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -2223,7 +2228,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2414,15 +2419,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4534,
+      "Progressed": 4535,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-28T18:03:22.8701991+00:00",
+  "LastChanged_Achievements": "2023-07-28T19:04:03.6436673+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.5392783+00:00",
-  "LastUpdate_Ratings": "2023-07-28T17:58:49.2012966+00:00",
-  "LastUpdate_Achievements": "2023-07-28T18:03:22.8702894+00:00"
+  "LastUpdate_Ratings": "2023-07-28T18:59:21.4895368+00:00",
+  "LastUpdate_Achievements": "2023-07-28T19:04:03.6437594+00:00"
 }

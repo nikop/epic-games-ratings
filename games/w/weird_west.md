@@ -1,26 +1,26 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 625)  
+Rating: 4.45 (Ranked 624)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,536 |
-| Self-Improvement | 72.00% | ~1,256 |
-| Perky | 66.00% | ~1,152 |
-| Let’s Ride | 60.00% | ~1,047 |
+| Self-Improvement | 72.00% | ~1,257 |
+| Perky | 65.00% | ~1,135 |
+| Let’s Ride | 60.00% | ~1,048 |
 | Welcome to the Weird West | 57.00% | ~995 |
-| Dead or Alive | 56.00% | ~977 |
-| Full House | 36.00% | ~628 |
-| Off the Trail | 34.00% | ~593 |
+| Dead or Alive | 56.00% | ~978 |
+| Full House | 36.00% | ~629 |
+| Off the Trail | 34.00% | ~594 |
 | Justice Served | 29.00% | ~506 |
 | Chain Reaction | 27.00% | ~471 |
-| Through Their Eyes | 26.00% | ~454 |
 | Dishonored | 25.00% | ~436 |
 | Rain of Death | 25.00% | ~436 |
 | Scholar | 25.00% | ~436 |
-| The Great Escape | 23.00% | ~401 |
+| Through Their Eyes | 25.00% | ~436 |
+| The Great Escape | 23.00% | ~402 |
 | That’s All, Folks | 18.00% | ~314 |
 | Fallen Star | 16.00% | ~279 |
 | For Balance | 16.00% | ~279 |
@@ -28,13 +28,13 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~279 |
 | Dog Days | 13.00% | ~227 |
 | Workers' Rights | 13.00% | ~227 |
-| Elusive Prey | 12.00% | ~209 |
-| Out on the Ebb Tide | 12.00% | ~209 |
-| Power Behind the Pulpit | 12.00% | ~209 |
-| Turning the Tables | 12.00% | ~209 |
+| Elusive Prey | 12.00% | ~210 |
+| Out on the Ebb Tide | 12.00% | ~210 |
+| Power Behind the Pulpit | 12.00% | ~210 |
+| Turning the Tables | 12.00% | ~210 |
 | Something Wicked This Way Comes… | 11.00% | ~192 |
 | There is Hope | 11.00% | ~192 |
-| The Philosopher’s Stone | 10.00% | ~174 |
+| The Philosopher’s Stone | 10.00% | ~175 |
 | Loyalty to the Pack | 9.00% | ~157 |
 | Mystery Machine | 9.00% | ~157 |
 | Do Not Pass Go… | 8.00% | ~140 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.30% | ~5 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,745 (Ranked 170)  
+Progressed: 1,746 (Ranked 170)  
 Completed: 3 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 3 (0.17%) (Ranked 176)
 | 2023-07-25 | 1,738 | 3 |
 | 2023-07-26 | 1,740 | 3 |
 | 2023-07-27 | 1,745 | 3 |
+| 2023-07-28 | 1,746 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 480)  
 Sum: 24 (Ranked 484)  

@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 62.00% | ~167 |
-| Gorilla warfare | 58.00% | ~156 |
-| Isenburg's fall | 48.00% | ~129 |
-| Pieces of eight! | 41.00% | ~110 |
-| Aboard the Sea Bird | 31.00% | ~83 |
+| Gorilla warfare | 58.00% | ~157 |
+| Isenburg's fall | 48.00% | ~130 |
+| Pieces of eight! | 41.00% | ~111 |
+| Aboard the Sea Bird | 31.00% | ~84 |
 | Elephant in the room | 30.00% | ~81 |
 | Dark and stinky | 29.00% | ~78 |
 | Sneak in, sneak out | 26.00% | ~70 |
-| Is this the end? | 25.00% | ~67 |
+| Is this the end? | 24.00% | ~65 |
 | A gift horse | 24.00% | ~65 |
 | You sssaved me | 24.00% | ~65 |
-| Say hello to my little friends | 21.00% | ~56 |
+| Say hello to my little friends | 21.00% | ~57 |
 | Gotcha | 19.00% | ~51 |
 | Heal thyself | 19.00% | ~51 |
 | It's not cheating | 17.00% | ~46 |
@@ -31,7 +31,7 @@
 | Peaceful protest | 7.00% | ~19 |
 | The Good Place | 7.00% | ~19 |
 | Trial by combat | 7.00% | ~19 |
-| Money talks | 5.00% | ~13 |
+| Money talks | 5.00% | ~14 |
 | Squid Game | 4.00% | ~11 |
 | A bard day's night | 4.00% | ~11 |
 | Lyre lyre pants on fyre | 4.00% | ~11 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 257)  
+Progressed: 270 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-23 | 267 | 0 |
 | 2023-07-25 | 268 | 0 |
 | 2023-07-26 | 269 | 0 |
+| 2023-07-28 | 270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
