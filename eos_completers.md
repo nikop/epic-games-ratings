@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.55% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.51% |
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 17.39% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
@@ -24,16 +24,16 @@
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.47% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.00% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.81% |
+| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 9.09% |
+| 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.80% |
 | 28 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
-| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.98% |
+| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.94% |
 | 32 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 34 | [Scorn](games/s/scorn.md) | 6.99% |
+| 34 | [Scorn](games/s/scorn.md) | 6.98% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
 | 37 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.67% |
@@ -41,7 +41,7 @@
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.13% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.06% |
 | 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
@@ -81,8 +81,8 @@
 | 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 80 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
-| 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |
-| 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.11% |
+| 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.97% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -201,8 +201,8 @@
 | 196 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 196 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 196 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 202 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 202 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 196 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 203 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 204 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 205 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
 | 205 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
