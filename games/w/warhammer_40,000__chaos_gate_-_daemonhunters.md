@@ -16,11 +16,12 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 0.60% | ~18 |
 | A Foul Creche | 0.50% | ~15 |
 | Surgical Excision | 0.30% | ~9 |
+| Hold Your Ground | 0.30% | ~9 |
 | Friendly Fire | 0.30% | ~9 |
 | Execution Force | 0.30% | ~9 |
 | Honoured Battle-Brother | 0.20% | ~6 |
-| Hold Your Ground | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
+| Blood and Iron | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
 | Daemonkeeper | 0.10% | ~3 |
@@ -50,7 +51,6 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 0.10% | ~3 |
 | Arsenal of Destruction | 0.00% | ~0 |
 | The Flesh is Weak | 0.00% | ~0 |
-| Blood and Iron | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |

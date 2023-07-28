@@ -7,10 +7,10 @@ Rating: 4.18 (Ranked 860)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,046 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,372 |
-| To the Victor Go the Spoils | 4.00% | ~2,697 |
-| Knighthood | 4.00% | ~2,697 |
-| Loose Ends | 4.00% | ~2,697 |
-| Whispered Words | 4.00% | ~2,697 |
+| To the Victor Go the Spoils | 4.00% | ~2,698 |
+| Knighthood | 4.00% | ~2,698 |
+| Loose Ends | 4.00% | ~2,698 |
+| Whispered Words | 4.00% | ~2,698 |
 | The Batman Family | 3.00% | ~2,023 |
 | Protector of Gotham | 3.00% | ~2,023 |
 | Something in the Clay | 3.00% | ~2,023 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 860)
 | Family Meeting | 1.00% | ~674 |
 | A Worthy Successor | 1.00% | ~674 |
 | Solid Alibi | 1.00% | ~674 |
-| Dressed to Impress | 0.80% | ~539 |
+| Dressed to Impress | 0.80% | ~540 |
 | A Momentum Occasion | 0.60% | ~405 |
 | Bat Out of Hell | 0.50% | ~337 |
 | He'd Be So Proud of You | 0.40% | ~270 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 860)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,437 (Ranked 78)  
+Progressed: 67,439 (Ranked 78)  
 Completed: 104 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 104 (0.15%) (Ranked 177)
 | 2023-07-25 | 67,384 | 104 |
 | 2023-07-26 | 67,408 | 104 |
 | 2023-07-27 | 67,436 | 104 |
-| 2023-07-28 | 67,437 | 104 |
+| 2023-07-28 | 67,439 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,464  (Ranked 101)  
 Sum: 4,094 (Ranked 139)  

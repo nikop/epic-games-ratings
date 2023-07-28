@@ -6,9 +6,9 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~289 |
+| Getting started | 76.00% | ~293 |
 | Close call! | 72.00% | ~277 |
-| Builder | 52.00% | ~200 |
+| Builder | 53.00% | ~204 |
 | Pangs of conscience | 47.00% | ~181 |
 | Living it large! | 43.00% | ~166 |
 | Collector | 41.00% | ~158 |
@@ -18,9 +18,9 @@ Number of Ratings: 28  (23.09.2022)
 | Europe | 30.00% | ~116 |
 | It's no coincidence. | 30.00% | ~116 |
 | Non Stop! | 26.00% | ~100 |
+| Madness! | 26.00% | ~100 |
 | Philatelist | 25.00% | ~96 |
 | Let's roll! | 25.00% | ~96 |
-| Madness! | 25.00% | ~96 |
 | Ouroboros | 23.00% | ~89 |
 | Foreman | 21.00% | ~81 |
 | Missed it! | 20.00% | ~77 |

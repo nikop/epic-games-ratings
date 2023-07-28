@@ -7,6 +7,7 @@ Rating: 4.41 (Ranked 675)
 | ---- | ---------- | ----- |
 | Liberté | 4.00% | ~134 |
 | Lord of War | 4.00% | ~134 |
+| The Kraken Wakes | 4.00% | ~134 |
 | It's Starting to Crack | 4.00% | ~134 |
 | Taking it back | 4.00% | ~134 |
 | Target America | 4.00% | ~134 |
@@ -18,7 +19,6 @@ Rating: 4.41 (Ranked 675)
 | Confirming Suspicions | 3.00% | ~101 |
 | Resourceful | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
-| The Kraken Wakes | 3.00% | ~101 |
 | Change the Channel | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |

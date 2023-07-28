@@ -5,26 +5,26 @@ Rating: 4.40 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~84,743 |
-| 74 miles East of Otaheité | 55.00% | ~58,999 |
-| Interesting... | 41.00% | ~43,981 |
-| The Everhart Expedition | 39.00% | ~41,835 |
-| Seaside Serenade | 30.00% | ~32,181 |
-| Halfway there | 29.00% | ~31,108 |
-| The Vanishing of the Lady Shannon | 29.00% | ~31,108 |
+| A Family Heirloom | 79.00% | ~84,745 |
+| 74 miles East of Otaheité | 55.00% | ~59,000 |
+| Interesting... | 41.00% | ~43,982 |
+| The Everhart Expedition | 39.00% | ~41,836 |
+| Seaside Serenade | 30.00% | ~32,182 |
+| Halfway there | 29.00% | ~31,109 |
+| The Vanishing of the Lady Shannon | 29.00% | ~31,109 |
 | A brigantine, a brig and a barque | 28.00% | ~30,036 |
 | Weekend at Walakea's | 27.00% | ~28,963 |
 | 506 East Hampden Avenue | 27.00% | ~28,963 |
-| Quite a Show | 26.00% | ~27,890 |
+| Quite a Show | 26.00% | ~27,891 |
 | Dark Water Ride | 24.00% | ~25,745 |
 | Sunken | 24.00% | ~25,745 |
-| Deep Cut | 23.00% | ~24,672 |
-| FHALGOF'N' | 22.00% | ~23,599 |
+| Deep Cut | 23.00% | ~24,673 |
+| FHALGOF'N' | 22.00% | ~23,600 |
 | Marsh Cannery | 20.00% | ~21,454 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~18,236 |
-| The only thing I have now | 16.00% | ~17,163 |
-| Not Another Boring Slideshow! | 15.00% | ~16,090 |
-| Naacalvision | 15.00% | ~16,090 |
+| The only thing I have now | 16.00% | ~17,164 |
+| Not Another Boring Slideshow! | 15.00% | ~16,091 |
+| Naacalvision | 15.00% | ~16,091 |
 | I'll make a note of that... | 9.00% | ~9,654 |
 | The Norahnomicon | 9.00% | ~9,654 |
 | Written in Stone | 6.00% | ~6,436 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 692)
 | Gently down the stream... | 1.00% | ~1,073 |
 | Meta-reference | 1.00% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,270 (Ranked 68)  
-Completed: 841 (0.78%) (Ranked 113)  
+Progressed: 107,272 (Ranked 68)  
+Completed: 842 (0.78%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 841 (0.78%) (Ranked 113)
 | 2023-07-25 | 106,730 | 837 |
 | 2023-07-26 | 106,989 | 838 |
 | 2023-07-27 | 107,237 | 840 |
-| 2023-07-28 | 107,270 | 841 |
+| 2023-07-28 | 107,272 | 842 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

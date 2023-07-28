@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 35.00% | ~418 |
+| E1M1 | 36.00% | ~430 |
 | War Never Changes | 35.00% | ~418 |
 | Grenadier | 34.00% | ~406 |
 | Heroes Never Die | 31.00% | ~370 |
 | Mosquito bite | 30.00% | ~358 |
 | Spice It Up | 26.00% | ~310 |
-| Agent 47 | 22.00% | ~262 |
-| Bomberman | 22.00% | ~262 |
+| Agent 47 | 22.00% | ~263 |
+| Bomberman | 22.00% | ~263 |
 | You're Gonna Go Far, Kid | 21.00% | ~251 |
 | Death to the Oppressor! | 15.00% | ~179 |
 | The Gang's All Here | 13.00% | ~155 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,193 (Ranked 184)  
+Progressed: 1,194 (Ranked 184)  
 Completed: 1 (0.08%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 198)
 | 2023-07-25 | 1,175 | 1 |
 | 2023-07-26 | 1,185 | 1 |
 | 2023-07-27 | 1,192 | 1 |
-| 2023-07-28 | 1,193 | 1 |
+| 2023-07-28 | 1,194 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

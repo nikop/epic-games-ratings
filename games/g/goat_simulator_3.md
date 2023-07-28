@@ -5,23 +5,23 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~213,233 |
-| Private Club | 74.00% | ~173,398 |
-| Rogue Guild | 65.00% | ~152,309 |
+| Forgotten Sorority | 91.00% | ~213,234 |
+| Private Club | 74.00% | ~173,399 |
+| Rogue Guild | 65.00% | ~152,310 |
 | I Watched the Intro | 57.00% | ~133,564 |
-| Covert Consortium | 55.00% | ~128,877 |
+| Covert Consortium | 55.00% | ~128,878 |
 | Goat Queen | 53.00% | ~124,191 |
-| Reach the Stratosphere | 50.00% | ~117,161 |
-| Synchronization Complete | 47.00% | ~110,131 |
+| Reach the Stratosphere | 50.00% | ~117,162 |
+| Synchronization Complete | 47.00% | ~110,132 |
 | Secret Society | 45.00% | ~105,445 |
-| Shadow Syndicate | 38.00% | ~89,042 |
-| What a Waste of Money | 33.00% | ~77,326 |
+| Shadow Syndicate | 38.00% | ~89,043 |
+| What a Waste of Money | 33.00% | ~77,327 |
 | New Goat Order | 30.00% | ~70,297 |
 | Don't touch the servers | 28.00% | ~65,610 |
 | San Angora: Become Human | 26.00% | ~60,924 |
 | Raider of the Lost Parking Garage | 26.00% | ~60,924 |
 | Real Buoy | 26.00% | ~60,924 |
-| Welcome to Earth | 25.00% | ~58,580 |
+| Welcome to Earth | 25.00% | ~58,581 |
 | Into the Matrix | 19.00% | ~44,521 |
 | Where is It? | 17.00% | ~39,835 |
 | Egg Simulator | 17.00% | ~39,835 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 39)
 | Move! That! Bus! | 0.60% | ~1,406 |
 | G.O.A.T | 0.30% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,322 (Ranked 47)  
+Progressed: 234,323 (Ranked 47)  
 Completed: 781 (0.33%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 781 (0.33%) (Ranked 147)
 | 2023-07-25 | 234,047 | 780 |
 | 2023-07-26 | 234,167 | 780 |
 | 2023-07-27 | 234,309 | 781 |
-| 2023-07-28 | 234,322 | 781 |
+| 2023-07-28 | 234,323 | 781 |
 ## Awards
 Max (Great for Beginners): 372  (Ranked 218)  
 Sum: 3,100 (Ranked 157)  

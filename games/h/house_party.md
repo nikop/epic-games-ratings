@@ -22,11 +22,11 @@ Number of Ratings: 177  (23.09.2022)
 | Amy | 0.60% | ~35 |
 | Inspector | 0.60% | ~35 |
 | The Muse: Madison | 0.60% | ~35 |
+| Amy: Scavenger Hunt | 0.50% | ~29 |
 | It Smells Like Roses | 0.50% | ~15 |
 | Smooth Operator: Ashley | 0.50% | ~29 |
 | The Magic Number | 0.50% | ~29 |
 | Vickie | 0.50% | ~29 |
-| Amy: Scavenger Hunt | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Casanova | 0.40% | ~24 |
 | Now It's a Party! | 0.40% | ~24 |

@@ -14,8 +14,8 @@
 | Riddlesolver | 21.00% | ~14 |
 | Card Collector | 19.00% | ~13 |
 | Dungeon Mastery | 18.00% | ~12 |
+| A Strange Proposition | 12.00% | ~8 |
 | The Steed | 10.00% | ~7 |
-| A Strange Proposition | 10.00% | ~7 |
 | The Bodyguard | 7.00% | ~5 |
 | The Apprentice | 7.00% | ~5 |
 | The Familiar | 7.00% | ~5 |

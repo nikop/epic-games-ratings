@@ -1223,9 +1223,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124464,
+  "EOS_Progressed": 124466,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10763,6 +10763,11 @@
       "Time": "2023-07-28T03:02:08.1519638+00:00",
       "NumProgressed": 124464,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-28T04:01:53.9251037+00:00",
+      "NumProgressed": 124466,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10830,7 +10835,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29871
+      "UsersEstimate": 29872
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -10878,7 +10883,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19914
+      "UsersEstimate": 19915
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -10902,7 +10907,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16180
+      "UsersEstimate": 16181
     },
     {
       "ID": "ACH_COP_STAR",
@@ -11054,7 +11059,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16180
+      "UsersEstimate": 16181
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -11093,15 +11098,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124464,
+      "Progressed": 124466,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-27T11:59:35.583484+00:00",
-  "LastChanged_Achievements": "2023-07-28T03:02:08.151963+00:00",
+  "LastChanged_Achievements": "2023-07-28T04:01:53.925102+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-28T03:00:11.2369792+00:00",
-  "LastUpdate_Achievements": "2023-07-28T03:02:08.1523728+00:00"
+  "LastUpdate_Ratings": "2023-07-28T04:00:11.2908994+00:00",
+  "LastUpdate_Achievements": "2023-07-28T04:01:53.9252104+00:00"
 }

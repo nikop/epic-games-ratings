@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -396,6 +396,11 @@
       "Time": "2023-07-28T03:04:30.8872672+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T04:04:20.2772129+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -568,7 +573,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -678,7 +683,7 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 47
     },
@@ -759,14 +764,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-28T03:04:30.8872664+00:00",
+  "LastChanged_Achievements": "2023-07-28T04:04:20.2772123+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.9032242+00:00",
-  "LastUpdate_Ratings": "2023-07-28T02:59:43.9543712+00:00",
-  "LastUpdate_Achievements": "2023-07-28T03:04:30.8873349+00:00"
+  "LastUpdate_Ratings": "2023-07-28T03:59:40.6795313+00:00",
+  "LastUpdate_Achievements": "2023-07-28T04:04:20.2772564+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~118,169 |
-| Where's that freaking Dwarf? | 47.00% | ~94,134 |
-| GG EZ | 28.00% | ~56,080 |
-| Speedrun | 26.00% | ~52,074 |
-| Déjà vu | 21.00% | ~42,060 |
-| Sock! SOCK! | 17.00% | ~34,049 |
-| DM intervention | 13.00% | ~26,037 |
-| Fireproof Wizardess | 9.00% | ~18,026 |
-| Livin' in a dwarven paradise | 7.00% | ~14,020 |
-| Way of the Wimp | 7.00% | ~14,020 |
-| A beer, two curses, three companions | 7.00% | ~14,020 |
-| The plot thickens... At the tavern | 5.00% | ~10,014 |
-| The Woman in the High Castle | 4.00% | ~8,011 |
-| I am the night | 4.00% | ~8,011 |
-| Team Building Exercise | 4.00% | ~8,011 |
+| Alt+F4 | 59.00% | ~118,185 |
+| Where's that freaking Dwarf? | 47.00% | ~94,148 |
+| GG EZ | 28.00% | ~56,088 |
+| Speedrun | 26.00% | ~52,082 |
+| Déjà vu | 21.00% | ~42,066 |
+| Sock! SOCK! | 17.00% | ~34,053 |
+| DM intervention | 13.00% | ~26,041 |
+| Fireproof Wizardess | 9.00% | ~18,028 |
+| Livin' in a dwarven paradise | 7.00% | ~14,022 |
+| Way of the Wimp | 7.00% | ~14,022 |
+| A beer, two curses, three companions | 7.00% | ~14,022 |
+| The plot thickens... At the tavern | 5.00% | ~10,016 |
+| The Woman in the High Castle | 4.00% | ~8,013 |
+| I am the night | 4.00% | ~8,013 |
+| Team Building Exercise | 4.00% | ~8,013 |
 | Shiny and Crôm | 3.00% | ~6,009 |
 | The demons' feast | 3.00% | ~6,009 |
 | Res Judicata | 3.00% | ~6,009 |
@@ -45,10 +45,10 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.90% | ~1,803 |
 | Law and Order | 0.90% | ~1,803 |
 | It's been a hard day's night | 0.90% | ~1,803 |
-| Lëgal Legend | 0.80% | ~1,602 |
+| Lëgal Legend | 0.80% | ~1,603 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,402 |
-| I'd rather... Just... Sing! | 0.50% | ~1,001 |
-| The number of the counting shalt be 7 | 0.50% | ~1,001 |
+| I'd rather... Just... Sing! | 0.50% | ~1,002 |
+| The number of the counting shalt be 7 | 0.50% | ~1,002 |
 | Holistic Adventuring Party | 0.40% | ~801 |
 | Scholar of the Lands of Fangh | 0.40% | ~801 |
 | Friendly fire | 0.40% | ~801 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,286 (Ranked 55)  
+Progressed: 200,314 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 198,707 | 0 |
 | 2023-07-26 | 199,432 | 0 |
 | 2023-07-27 | 200,189 | 0 |
-| 2023-07-28 | 200,286 | 0 |
+| 2023-07-28 | 200,314 | 0 |
 ## Awards
 Max (Character Customization): 139  (Ranked 301)  
 Sum: 139 (Ranked 394)  
