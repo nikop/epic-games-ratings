@@ -2,13 +2,13 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1785,10 +1785,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 911,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-07-28T17:00:41.4923673+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 912,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 911,
+  "NumberOfAwards": 912,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1832,7 +1838,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game is Relaxing",
@@ -1870,8 +1876,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-07-21T23:59:14.755514+00:00",
+  "LastChanged": "2023-07-28T17:00:41.4923668+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:11.3818973+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:00:45.2959659+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:15.4075782+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:00:41.4923677+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:10.9445591+00:00"
 }

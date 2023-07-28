@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4533,
+  "EOS_Progressed": 4534,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1863,6 +1863,11 @@
       "Time": "2023-07-28T15:03:13.8825459+00:00",
       "NumProgressed": 4533,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-28T17:03:32.7397256+00:00",
+      "NumProgressed": 4534,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1874,7 +1879,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1922,7 +1927,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1930,7 +1935,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1938,7 +1943,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1946,7 +1951,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2088,9 +2093,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3446
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2122,7 +2127,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2232,9 +2237,9 @@
       "ID": "ID_ACHIEV_47",
       "SetID": "98bke8c",
       "Name": "Sniffing Around",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -2352,9 +2357,9 @@
       "ID": "ID_ACHIEV_62",
       "SetID": "98bke8c",
       "Name": "Suited and Booted",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -2409,15 +2414,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4533,
+      "Progressed": 4534,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:03:34.9655626+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:03:32.7397249+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:40.5392783+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:16.2668267+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:03:34.9656482+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:10.0412609+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:03:32.7398801+00:00"
 }

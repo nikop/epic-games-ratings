@@ -2,11 +2,11 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -754,7 +754,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253796,
+  "EOS_Progressed": 253799,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
@@ -10824,6 +10824,11 @@
       "Time": "2023-07-28T16:07:35.913566+00:00",
       "NumProgressed": 253796,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T17:07:26.7992233+00:00",
+      "NumProgressed": 253799,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10883,7 +10888,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78677
+      "UsersEstimate": 78678
     },
     {
       "ID": "BackHomeNTimes",
@@ -11123,7 +11128,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55835
+      "UsersEstimate": 55836
     },
     {
       "ID": "KillOthers2",
@@ -11282,7 +11287,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253796,
+      "Progressed": 253799,
       "Completed": 3
     }
   ],
@@ -11290,8 +11295,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-28T15:00:33.8604109+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:07:35.9135653+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:07:26.7992228+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:17.435761+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:35.9136799+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:02:08.1192338+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:26.7993552+00:00"
 }

@@ -8,6 +8,7 @@
 | Law and Order | 67.00% | ~4 |
 | Hammer Time | 50.00% | ~3 |
 | Licence To Kill | 50.00% | ~3 |
+| Restore Honor | 17.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | The Hunt | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Escape From M.C. | 0.00% | ~0 |
-| Restore Honor | 0.00% | ~0 |
 | Bring Down the Corp | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

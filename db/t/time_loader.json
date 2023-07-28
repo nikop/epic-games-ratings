@@ -3,9 +3,9 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.02,
+  "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -136,6 +136,11 @@
       "Time": "2023-07-22T13:03:50.0759631+00:00",
       "NumProgressed": 114,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-28T17:04:15.2355552+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -147,7 +152,7 @@
       "Name": "Wrench",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "02_Soap",
@@ -203,7 +208,7 @@
       "Name": "Baseball",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "09_Ticket",
@@ -219,7 +224,7 @@
       "Name": "Flyer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "11_Itsinthevault",
@@ -235,7 +240,7 @@
       "Name": "Purr-fect",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "13_DrAntivirus",
@@ -259,15 +264,15 @@
       "Name": "Screwdriver",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "17_Capacitors",
@@ -275,7 +280,7 @@
       "Name": "Capacitors",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "18_SolderingIron",
@@ -305,7 +310,7 @@
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -361,9 +366,9 @@
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "29_Act3",
@@ -378,7 +383,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 8
     }
   ],
@@ -386,8 +391,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:04:17.3573848+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:04:15.2355547+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:28.5089787+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:02.0437749+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:17.3574076+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:56.5946651+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:15.2355864+00:00"
 }

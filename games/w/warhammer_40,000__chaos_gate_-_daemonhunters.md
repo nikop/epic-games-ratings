@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 411)  
+Rating: 4.59 (Ranked 412)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 0.20% | ~6 |
 | Gunmaster | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
+| Just a Scratch | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
@@ -37,7 +38,6 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
-| Just a Scratch | 0.10% | ~3 |
 | Only in Death | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Engine Kill | 0.10% | ~3 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,061 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

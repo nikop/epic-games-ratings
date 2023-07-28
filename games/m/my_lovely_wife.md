@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 731)  
+Rating: 4.36 (Ranked 732)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 25  (23.09.2022)
 | Asmodeus | 9.00% | ~54 |
 | A Close | 9.00% | ~54 |
 | Luna | 8.00% | ~48 |
-| Lover | 1.00% | ~6 |
+| Lover | 2.00% | ~12 |
 | The Harvester | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
 | Playboy | 0.30% | ~2 |
@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 596 (Ranked 212)  
-Completed: 0 (0.00%) (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

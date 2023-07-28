@@ -3,9 +3,9 @@
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-31T15:00:00+00:00",
     "PcReleaseDate": "2023-07-31T15:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:07:11.5430887+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:07:03.3222456+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.5958873+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:57:59.6839091+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:11.5430924+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:57:51.8480358+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:03.3222498+00:00"
 }

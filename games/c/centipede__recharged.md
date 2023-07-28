@@ -1,7 +1,7 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 773)  
+Rating: 4.31 (Ranked 774)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,7 +24,7 @@ Number of Ratings: 76  (23.09.2022)
 | Mirrors | 1.00% | ~158 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,811 (Ranked 112)  
-Completed: 99 (0.63%) (Ranked 123)  
+Completed: 99 (0.63%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

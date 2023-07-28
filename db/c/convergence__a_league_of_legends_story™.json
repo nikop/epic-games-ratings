@@ -2,10 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
+  "Ranking_Rating": 393,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -14,14 +17,22 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.6,
+  "RatingHistory": [
+    {
+      "Time": "2023-07-28T17:00:54.1232384+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 796,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1885,9 +1896,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "CultivairChests1",
@@ -2243,9 +2254,11 @@
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
+  "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:04:54.6864307+00:00",
+  "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:04:50.7238409+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.1744666+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:00:59.5707108+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:54.6864912+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:00:54.1232399+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:50.7239146+00:00"
 }

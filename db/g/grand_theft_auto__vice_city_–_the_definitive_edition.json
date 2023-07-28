@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -552,7 +552,7 @@
   ],
   "EOS_Progressed": 9293,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7515,8 +7515,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-28T02:59:02.4815641+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:05:17.6230546+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:05:13.1424837+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:33.0704674+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:17.6231227+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:27.0716207+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:13.1425514+00:00"
 }

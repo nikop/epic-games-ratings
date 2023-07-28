@@ -3,9 +3,9 @@
   "Name": "Eldest Souls",
   "ProductSlug": "eldest-souls-83e12a",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-17T16:00:00+00:00",
     "PcReleaseDate": "2021-07-28T23:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-02T16:58:35.9851971+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.964633+00:00",
   "LastChanged": "2023-04-02T16:58:35.9851971+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:02:38.1033354+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:02:28.3408126+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:25.2191372+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:58:58.2643222+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:02:38.1033428+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:52.2570673+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:02:28.3408213+00:00"
 }

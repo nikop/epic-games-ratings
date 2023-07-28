@@ -4,20 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 46.00% | ~48 |
-| First Step | 46.00% | ~48 |
-| Indebted | 9.00% | ~9 |
+| The 4 Pillars | 48.00% | ~50 |
+| First Step | 48.00% | ~50 |
+| Indebted | 10.00% | ~10 |
 | Capitalism | 9.00% | ~9 |
+| Good payer | 6.00% | ~6 |
 | Desert Rat | 6.00% | ~6 |
 | Green Energy | 6.00% | ~6 |
 | Health Care | 5.00% | ~5 |
-| Good payer | 5.00% | ~5 |
+| There's something in those trees | 5.00% | ~5 |
 | Jantine: the Misfortunes of Evil | 4.00% | ~4 |
-| There's something in those trees | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |
+| Ammo Tycoon | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
+| Food Tycoon | 3.00% | ~3 |
 | Medicine Tycoon | 3.00% | ~3 |
-| Ammo Tycoon | 3.00% | ~3 |
 | Great Producer | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
@@ -25,7 +26,6 @@
 | Desert Power | 2.00% | ~2 |
 | Property Bro | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
-| Food Tycoon | 2.00% | ~2 |
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Overpopulation | 1.00% | ~1 |
@@ -49,8 +49,8 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 310)  
-Completed: 0 (0.00%) (Ranked 245)  
+Progressed: 105 (Ranked 310)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 245)
 | 2023-07-25 | 82 | 0 |
 | 2023-07-26 | 86 | 0 |
 | 2023-07-27 | 98 | 0 |
-| 2023-07-28 | 104 | 0 |
+| 2023-07-28 | 105 | 0 |

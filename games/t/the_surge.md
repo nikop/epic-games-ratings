@@ -1,18 +1,18 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 624)  
+Rating: 4.45 (Ranked 625)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,261 |
-| I'll Be Back | 85.00% | ~3,853 |
-| Sorry, I Dropped This | 77.00% | ~3,490 |
-| First Day on the Job | 77.00% | ~3,490 |
-| Butcher's Bill | 55.00% | ~2,493 |
-| P.A.X | 37.00% | ~1,677 |
-| Hey Listen | 37.00% | ~1,677 |
+| On My Own Two Feet | 94.00% | ~4,262 |
+| I'll Be Back | 85.00% | ~3,854 |
+| Sorry, I Dropped This | 77.00% | ~3,491 |
+| First Day on the Job | 76.00% | ~3,446 |
+| Butcher's Bill | 55.00% | ~2,494 |
+| P.A.X | 37.00% | ~1,678 |
+| Hey Listen | 37.00% | ~1,678 |
 | OPERATOR | 36.00% | ~1,632 |
 | It's Blue Light | 33.00% | ~1,496 |
 | Most Wanted | 26.00% | ~1,179 |
@@ -67,15 +67,15 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~91 |
 | Gramophone Enthusiast | 2.00% | ~91 |
 | Bling-Bling | 1.00% | ~45 |
-| Sniffing Around | 0.80% | ~36 |
-| Suited and Booted | 0.80% | ~36 |
+| Sniffing Around | 0.70% | ~32 |
 | Modus Operandi | 0.70% | ~32 |
+| Suited and Booted | 0.70% | ~32 |
 | Tools of War | 0.70% | ~32 |
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,533 (Ranked 143)  
-Completed: 15 (0.33%) (Ranked 150)  
+Progressed: 4,534 (Ranked 143)  
+Completed: 15 (0.33%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,7 +159,7 @@ Completed: 15 (0.33%) (Ranked 150)
 | 2023-07-25 | 4,523 | 15 |
 | 2023-07-26 | 4,526 | 15 |
 | 2023-07-27 | 4,529 | 15 |
-| 2023-07-28 | 4,533 | 15 |
+| 2023-07-28 | 4,534 | 15 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 467)  
 Sum: 27 (Ranked 478)  

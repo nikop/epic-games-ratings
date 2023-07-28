@@ -2,13 +2,13 @@
   "ID": "304724b675974566b1d7e23af80a1f52",
   "Name": "BioShock 2 Remastered",
   "ProductSlug": "bioshock-2-remastered",
-  "Ranking_Rating": 539,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-06-02T15:00:00+00:00",
     "PcReleaseDate": "2016-09-15T15:00:00+00:00",
@@ -2251,6 +2251,6 @@
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
   "LastChanged": "2023-07-27T11:59:35.0579611+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:11.5655781+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:00:42.6483237+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:19.5638735+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:00:39.7124408+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:11.1837904+00:00"
 }

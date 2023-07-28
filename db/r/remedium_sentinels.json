@@ -3,9 +3,9 @@
   "Name": "REMEDIUM Sentinels",
   "ProductSlug": "remedium-sentinels-b5debd",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-02-28T15:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.6034199+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:42.2026782+00:00",
   "LastChanged": "2023-03-31T05:57:29.60342+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:06:22.8882149+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:06:15.8653546+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:19.5244409+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:29.6832181+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:06:22.8882236+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:02:18.3407174+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:06:15.8653588+00:00"
 }

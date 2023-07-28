@@ -2,13 +2,13 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109515,
+  "EOS_Progressed": 109516,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-07-28T12:07:29.4709914+00:00",
       "NumProgressed": 109515,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T17:02:33.7178121+00:00",
+      "NumProgressed": 109516,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1972,7 +1977,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25188
+      "UsersEstimate": 25189
     },
     {
       "ID": "34",
@@ -2051,15 +2056,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109515,
+      "Progressed": 109516,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:02:44.2796739+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:02:33.7178116+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:54.3149176+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:35.8466046+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:02:44.2797216+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:31.0547043+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:02:33.7178667+00:00"
 }

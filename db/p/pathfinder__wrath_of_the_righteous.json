@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3278,9 +3278,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10639,
+  "EOS_Progressed": 10642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9563,6 +9563,11 @@
       "Time": "2023-07-28T15:00:51.7673829+00:00",
       "NumProgressed": 10639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T17:02:38.5721744+00:00",
+      "NumProgressed": 10642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9574,15 +9579,15 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "02_BurningCity",
       "SetID": "989of5o",
       "Name": "Burning City",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1490
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9590,7 +9595,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "04_FithCrusade",
@@ -10501,21 +10506,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9421,
+      "Progressed": 9424,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10639,
+      "Progressed": 10642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-28T11:59:25.7986987+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:02:48.9672635+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:02:38.5721734+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:47.0685678+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:02:48.9675196+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:41.8784787+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:02:38.5724994+00:00"
 }

@@ -10,7 +10,7 @@
 | Helping the little ones | 11.00% | ~262 |
 | A big leap for wolfkind | 10.00% | ~238 |
 | Transmission | 9.00% | ~214 |
-| The will to move on | 7.00% | ~167 |
+| The will to move on | 8.00% | ~190 |
 | Reunion | 7.00% | ~167 |
 | The end | 6.00% | ~143 |
 | Sliders | 3.00% | ~71 |
@@ -19,7 +19,7 @@
 | Another ride! | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,379 (Ranked 161)  
-Completed: 5 (0.21%) (Ranked 169)  
+Completed: 5 (0.21%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

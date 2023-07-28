@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 4.00% | ~642 |
 | No Deaths | 4.00% | ~642 |
 | Homesick | 3.00% | ~481 |
+| Bandit Camp | 3.00% | ~481 |
 | Ancient Battleground | 3.00% | ~481 |
 | Lost Colonies | 3.00% | ~481 |
 | Watchtower | 3.00% | ~481 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~321 |
 | Against All Odds | 2.00% | ~321 |
 | Ruined Armory | 2.00% | ~321 |
-| Bandit Camp | 2.00% | ~321 |
 | Barren Lands | 2.00% | ~321 |
 | Sparkdew Crystals | 2.00% | ~321 |
 | Dangerous Lands | 2.00% | ~321 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,048 (Ranked 110)  
-Completed: 40 (0.25%) (Ranked 163)  
+Completed: 40 (0.25%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39327,
+  "EOS_Progressed": 39328,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6203,6 +6203,11 @@
       "Time": "2023-07-28T16:05:28.9614096+00:00",
       "NumProgressed": 39327,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T17:05:23.7388918+00:00",
+      "NumProgressed": 39328,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6550,7 +6555,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "SPRING_ALL",
@@ -6637,22 +6642,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39327,
+      "Progressed": 39328,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4164,
-      "Completed": 4164
+      "Progressed": 4165,
+      "Completed": 4165
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:05:28.9614089+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:05:23.7388911+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:09.2837772+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:52.2315892+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:28.9615065+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:47.1724081+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:23.7389904+00:00"
 }

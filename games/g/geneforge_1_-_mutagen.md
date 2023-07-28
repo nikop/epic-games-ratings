@@ -1,12 +1,12 @@
 # Geneforge 1 - Mutagen
 [Store](https://store.epicgames.com/en-US/p/geneforge-1-mutagen)  
 [View Rawdata](../../db/g/geneforge_1_-_mutagen.json)  
-Rating: 4.19 (Ranked 854)  
+Rating: 4.19 (Ranked 855)  
 Number of Ratings: 1,102  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 33  (Ranked 443)  
-Sum: 166 (Ranked 383)  
-Diff (max vs sum): 60  
+Sum: 166 (Ranked 384)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 33 |

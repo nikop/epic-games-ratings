@@ -9,9 +9,9 @@
 | Good Person Chip | 85.00% | ~144 |
 | First winning | 84.00% | ~142 |
 | Your first job | 84.00% | ~142 |
+| First defeat | 79.00% | ~134 |
 | Old movies enjoyer | 79.00% | ~134 |
-| First defeat | 78.00% | ~132 |
-| Fitness professional | 76.00% | ~128 |
+| Fitness professional | 77.00% | ~130 |
 | Depressed visitor | 75.00% | ~127 |
 | Neurotrainer – power gainer! | 75.00% | ~127 |
 | Employee of the week | 75.00% | ~127 |
@@ -35,18 +35,18 @@
 | Fight for life | 50.00% | ~84 |
 | Own four walls | 50.00% | ~84 |
 | Extreme neuropower! | 47.00% | ~79 |
-| Legal courier | 44.00% | ~74 |
+| Legal courier | 45.00% | ~76 |
 | Escaped from a big trouble | 41.00% | ~69 |
-| No blades in the gym | 39.00% | ~66 |
+| No blades in the gym | 40.00% | ~68 |
 | Now you are worthy | 38.00% | ~64 |
 | Guiding on the right path | 38.00% | ~64 |
 | Mysterious voice | 36.00% | ~61 |
-| Fight is life | 34.00% | ~57 |
+| Fight is life | 35.00% | ~59 |
 | Responsible approach | 33.00% | ~56 |
 | Get out of my apartment! | 31.00% | ~52 |
 | GYM professional | 30.00% | ~51 |
+| Champion – no way back | 30.00% | ~51 |
 | Deal with life | 29.00% | ~49 |
-| Champion – no way back | 29.00% | ~49 |
 | Mom got better | 28.00% | ~47 |
 | Poisoned fighter | 28.00% | ~47 |
 | The die is cast | 28.00% | ~47 |
@@ -55,10 +55,10 @@
 | Gang wrangler | 26.00% | ~44 |
 | Problems of cyborgs | 25.00% | ~42 |
 | Anyone can resist | 25.00% | ~42 |
+| Undercover robot | 25.00% | ~42 |
 | The last bell ring | 24.00% | ~41 |
-| Undercover robot | 24.00% | ~41 |
-| Trap disarmed | 22.00% | ~37 |
-| Careerist | 22.00% | ~37 |
+| Trap disarmed | 23.00% | ~39 |
+| Careerist | 23.00% | ~39 |
 | Another world | 21.00% | ~35 |
 | The lonesome road | 21.00% | ~35 |
 | Keep nature safe | 21.00% | ~35 |
@@ -72,7 +72,7 @@
 | The only right decision | 17.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 169 (Ranked 287)  
-Completed: 6 (3.55%) (Ranked 57)  
+Completed: 6 (3.55%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "05",
@@ -348,9 +348,9 @@
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "09",
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:04:27.3634551+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:04:23.8805074+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:16.9030226+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:58:47.79321+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:27.363467+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:41.8568448+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:23.8805217+00:00"
 }

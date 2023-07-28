@@ -2,10 +2,10 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
     "PcReleaseDate": "2020-06-19T16:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -91,6 +91,11 @@
       "Time": "2023-07-27T13:13:39.8154357+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T17:07:41.2089929+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -116,7 +121,7 @@
       "ID": "11",
       "SetID": "4fgie3j",
       "Name": "Assassination",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -124,7 +129,7 @@
       "ID": "12",
       "SetID": "4fgie3j",
       "Name": "2nd AI War",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -156,7 +161,7 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -364,7 +369,7 @@
       "ID": "4",
       "SetID": "4fgie3j",
       "Name": "Investment",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -444,7 +449,7 @@
       "ID": "5",
       "SetID": "4fgie3j",
       "Name": "Tech Breakthrough",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -452,7 +457,7 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -485,14 +490,14 @@
     {
       "ID": "4fgie3j",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:07:51.4400017+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:07:41.2089922+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:34.2150233+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:01:22.6330818+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:51.440044+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:01:17.1096738+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:41.209063+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 14.29,
+  "EOS_Progressed": 22,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 10,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 18.18,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -142,6 +142,11 @@
       "Time": "2023-07-28T14:05:04.9329229+00:00",
       "NumProgressed": 21,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T17:05:43.2757091+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -151,214 +156,214 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 21,
-      "Completed": 3
+      "Progressed": 22,
+      "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:05:48.385305+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:05:43.2757086+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.9530055+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:00:35.7467151+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:48.3853246+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:00:32.4881777+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:43.2757301+00:00"
 }

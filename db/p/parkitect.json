@@ -2,13 +2,13 @@
   "ID": "7d0c3bf3b31e4ff5b27eab81fb255ca0",
   "Name": "Parkitect",
   "ProductSlug": "parkitect",
-  "Ranking_Rating": 750,
+  "Ranking_Rating": 751,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-12-06T09:00:00+00:00",
     "PcReleaseDate": "2018-11-29T12:00:00+00:00",
@@ -87,6 +87,6 @@
   "FirstSeenRating": "2022-09-10T02:30:45.9660634+00:00",
   "LastChanged": "2023-03-31T05:57:21.1183995+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:18.6109551+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:58:47.5655096+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:34.1557349+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:41.6787529+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:25.2105783+00:00"
 }

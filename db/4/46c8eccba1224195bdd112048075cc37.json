@@ -3,9 +3,9 @@
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "CollectCurses",
@@ -511,9 +511,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FirstBoss",
@@ -622,8 +622,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:06:27.8597596+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:06:20.8403556+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:58:03.877309+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:06:27.859777+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:57:56.0436933+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:06:20.8403832+00:00"
 }

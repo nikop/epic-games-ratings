@@ -1,7 +1,7 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.37 (Ranked 723)  
+Rating: 4.37 (Ranked 724)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.37 (Ranked 723)
 | Lamentum | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 305 (Ranked 251)  
-Completed: 8 (2.62%) (Ranked 74)  
+Completed: 8 (2.62%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

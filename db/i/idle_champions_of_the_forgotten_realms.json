@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5338,10 +5338,10 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216393,
-  "EOS_Completed": 2132,
-  "EOS_NewPlayers": 2269,
-  "EOS_NewCompleters": 73,
+  "EOS_Progressed": 216411,
+  "EOS_Completed": 2133,
+  "EOS_NewPlayers": 2260,
+  "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -15973,6 +15973,11 @@
       "Time": "2023-07-28T16:03:47.8070532+00:00",
       "NumProgressed": 216393,
       "NumCompleted": 2132
+    },
+    {
+      "Time": "2023-07-28T17:03:46.2377285+00:00",
+      "NumProgressed": 216411,
+      "NumCompleted": 2133
     }
   ],
   "TotalAchievements": 512,
@@ -20079,21 +20084,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182667,
+      "Progressed": 182685,
       "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216393,
-      "Completed": 2132
+      "Progressed": 216411,
+      "Completed": 2133
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:03:47.8070526+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:03:46.237728+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:24.7951627+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:03:47.8098298+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:59:18.6108914+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:03:46.2409364+00:00"
 }

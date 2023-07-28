@@ -1,24 +1,24 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 611)  
+Rating: 4.46 (Ranked 612)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,060 |
-| One HIT wonder | 35.00% | ~375 |
-| Wanderer | 35.00% | ~375 |
+| Atom Agent | 99.00% | ~1,062 |
+| One HIT wonder | 35.00% | ~376 |
+| Wanderer | 35.00% | ~376 |
 | One shot, one kill | 29.00% | ~311 |
 | Traveler | 25.00% | ~268 |
-| Head Burst | 20.00% | ~214 |
+| Head Burst | 20.00% | ~215 |
 | Explorer | 18.00% | ~193 |
 | Grave Robber | 18.00% | ~193 |
-| Paranoia | 16.00% | ~171 |
+| Paranoia | 16.00% | ~172 |
 | Double agent | 15.00% | ~161 |
 | Kraina Grzybow | 10.00% | ~107 |
-| Love Guru | 9.00% | ~96 |
-| Savant | 9.00% | ~96 |
+| Love Guru | 9.00% | ~97 |
+| Savant | 9.00% | ~97 |
 | Not-so-private Eye | 8.00% | ~86 |
 | Superhuman | 8.00% | ~86 |
 | Bustin' nuts | 7.00% | ~75 |
@@ -32,7 +32,7 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~11 |
 | It was worth a shot | 1.00% | ~11 |
 | Cosmic Horror | 1.00% | ~11 |
-| Ghostbuster | 0.70% | ~7 |
+| Ghostbuster | 0.70% | ~8 |
 | Cheeki Breeki | 0.50% | ~5 |
 | Comrade Yogi | 0.50% | ~5 |
 | Expert | 0.50% | ~5 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071 (Ranked 191)  
-Completed: 0 (0.00%) (Ranked 245)  
+Progressed: 1,073 (Ranked 191)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 245)
 | 2023-07-25 | 1,057 | 0 |
 | 2023-07-26 | 1,064 | 0 |
 | 2023-07-27 | 1,069 | 0 |
-| 2023-07-28 | 1,071 | 0 |
+| 2023-07-28 | 1,073 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 403)  
 Sum: 49 (Ranked 449)  

@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1779,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2023-07-28T16:06:26.3013607+00:00",
       "NumProgressed": 1779,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-28T17:06:19.4230253+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -2847,7 +2852,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -2855,7 +2860,7 @@
       "Name": "Artist",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_10_medium_pictures",
@@ -2879,7 +2884,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1356
     },
     {
       "ID": "ach_architecture_completed",
@@ -2895,7 +2900,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 571
     },
     {
       "ID": "ach_bomb",
@@ -2903,7 +2908,7 @@
       "Name": "Cannoneer",
       "Percentage": 28,
       "XP": 65,
-      "UsersEstimate": 498
+      "UsersEstimate": 500
     },
     {
       "ID": "ach_color_splash",
@@ -2911,7 +2916,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 569
+      "UsersEstimate": 571
     },
     {
       "ID": "ach_first_picture",
@@ -2919,7 +2924,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1445
     },
     {
       "ID": "ach_food_completed",
@@ -2927,7 +2932,7 @@
       "Name": "Food - completed",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_food_unlocked",
@@ -2935,7 +2940,7 @@
       "Name": "Food - unlocked",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 605
+      "UsersEstimate": 607
     },
     {
       "ID": "ach_game_opened",
@@ -2943,7 +2948,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1320
     },
     {
       "ID": "ach_magic_wand",
@@ -2951,7 +2956,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ach_no_boosters",
@@ -2959,7 +2964,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 694
+      "UsersEstimate": 696
     },
     {
       "ID": "ach_tornado",
@@ -2967,21 +2972,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 498
+      "UsersEstimate": 500
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1779,
+      "Progressed": 1784,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:06:26.30136+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:06:19.4230246+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:57:50.7450573+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:06:26.3013904+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:57:42.8497715+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:06:19.4230635+00:00"
 }

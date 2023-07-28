@@ -2,13 +2,13 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -987,6 +987,11 @@
       "Time": "2023-07-28T14:04:09.2494622+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T17:04:40.8720653+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1244,16 +1249,16 @@
       "ID": "WELCOME_TO_TRUDOGRAD",
       "SetID": "62d2oh4",
       "Name": "Fresh Prince of Trudograd",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1005
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 0
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:04:44.4647546+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:04:40.8720647+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:10.1070752+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:58:21.0238525+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:44.4647858+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:14.5312274+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:40.8720941+00:00"
 }

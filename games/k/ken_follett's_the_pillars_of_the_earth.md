@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 519)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,821 |
-| Man of politics | 35.00% | ~4,969 |
-| Friends of sorts | 34.00% | ~4,827 |
-| Yet another secret | 34.00% | ~4,827 |
-| Let there be darkness | 33.00% | ~4,685 |
-| End of Book One | 30.00% | ~4,259 |
+| Tattletale | 41.00% | ~5,822 |
+| Man of politics | 35.00% | ~4,970 |
+| Friends of sorts | 34.00% | ~4,828 |
+| Yet another secret | 34.00% | ~4,828 |
+| Let there be darkness | 33.00% | ~4,686 |
+| End of Book One | 30.00% | ~4,260 |
 | Wannabe knight | 24.00% | ~3,408 |
 | Garden of Eden | 24.00% | ~3,408 |
 | Full house | 24.00% | ~3,408 |
@@ -23,7 +23,7 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 17.00% | ~2,414 |
 | Jack was here! | 15.00% | ~2,130 |
 | Twist of Fate | 14.00% | ~1,988 |
-| Exterminator | 13.00% | ~1,846 |
+| Exterminator | 14.00% | ~1,988 |
 | Whodunnit | 13.00% | ~1,846 |
 | Good midwife | 11.00% | ~1,562 |
 | Friar Tuck | 11.00% | ~1,562 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~426 |
 | Boy of mystery | 2.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,198 (Ranked 114)  
-Completed: 106 (0.75%) (Ranked 117)  
+Progressed: 14,200 (Ranked 114)  
+Completed: 106 (0.75%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,10 +147,10 @@ Completed: 106 (0.75%) (Ranked 117)
 | 2023-07-25 | 14,139 | 105 |
 | 2023-07-26 | 14,156 | 106 |
 | 2023-07-27 | 14,182 | 106 |
-| 2023-07-28 | 14,198 | 106 |
+| 2023-07-28 | 14,200 | 106 |
 ## Awards
-Max (Easy Puzzles): 148  (Ranked 294)  
-Sum: 188 (Ranked 370)  
+Max (Easy Puzzles): 148  (Ranked 295)  
+Sum: 188 (Ranked 371)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |

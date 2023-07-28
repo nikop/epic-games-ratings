@@ -1,12 +1,12 @@
 # BIOMUTANT
 [Store](https://store.epicgames.com/en-US/p/biomutant)  
 [View Rawdata](../../db/b/biomutant.json)  
-Rating: 4.33 (Ranked 758)  
+Rating: 4.33 (Ranked 759)  
 Number of Ratings: 198  (23.09.2022)  
 ## Awards
 Max (Character Customization): 117  (Ranked 316)  
-Sum: 161 (Ranked 386)  
-Diff (max vs sum): -70  
+Sum: 161 (Ranked 387)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 117 |

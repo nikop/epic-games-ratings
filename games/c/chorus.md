@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 624)  
+Rating: 4.45 (Ranked 625)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 58  (23.09.2022)
 | Safe Home | 67.00% | ~727 |
 | Helping Hand | 66.00% | ~716 |
 | Paragon | 63.00% | ~684 |
-| Old Days Born Anew | 61.00% | ~662 |
-| Full Arsenal | 56.00% | ~608 |
+| Old Days Born Anew | 62.00% | ~673 |
+| Full Arsenal | 57.00% | ~618 |
 | Controlled Demolition | 55.00% | ~597 |
 | Payback | 53.00% | ~575 |
 | Huntress | 53.00% | ~575 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,085 (Ranked 190)  
-Completed: 13 (1.20%) (Ranked 102)  
+Completed: 13 (1.20%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

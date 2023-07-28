@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.1,
+  "EOS_Completed_Percentage": 8.06,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -966,6 +966,11 @@
       "Time": "2023-07-28T14:05:32.5114606+00:00",
       "NumProgressed": 210,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-28T17:06:13.6223499+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 6,
@@ -977,7 +982,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -985,7 +990,7 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -993,7 +998,7 @@
       "Name": "Viola Organista",
       "Percentage": 45,
       "XP": 165,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1024,14 +1029,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:06:20.6411708+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:06:13.6223488+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:57:43.6927839+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:06:20.6411847+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:57:36.5247243+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:06:13.6223637+00:00"
 }

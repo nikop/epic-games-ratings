@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
 | Developing Cities | 0.50% | ~66 |
+| Ishtar Gate | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
 | Christianity | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
@@ -48,14 +49,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
 | Great Ziggurat | 0.40% | ~53 |
-| Ishtar Gate | 0.40% | ~53 |
 | Lighthouse | 0.40% | ~53 |
+| Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
 | Babylonian Paganism | 0.40% | ~53 |
 | Carthaginian Paganism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
 | Roman Paganism | 0.40% | ~53 |
+| Mythology | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
@@ -69,15 +71,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
-| Musaeum | 0.30% | ~39 |
 | Learn to Play 2 | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
-| Mythology | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
+| Carthage - Ox Hide | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
+| Invincible | 0.20% | ~26 |
+| Lion | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
@@ -85,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
 | Strong Difficulty | 0.20% | ~26 |
+| Clerics | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
@@ -103,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.20% | ~26 |
 | Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
+| Industrial Progress | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
 | Legalism | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
@@ -127,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
-| Carthage - Ox Hide | 0.10% | ~13 |
 | Bronze Victory (Carthage 1) | 0.10% | ~13 |
 | Epic Victory (Carthage 1) | 0.10% | ~13 |
 | Gold Victory (Carthage 1) | 0.10% | ~13 |
@@ -152,8 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
-| Invincible | 0.10% | ~13 |
-| Lion | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
@@ -163,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
-| Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
@@ -231,7 +232,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
-| Industrial Progress | 0.10% | ~13 |
 | Military Prestige | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,135 (Ranked 116)  
-Completed: 5 (0.04%) (Ranked 215)  
+Progressed: 13,136 (Ranked 116)  
+Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 215)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,135 | 5 |
+| 2023-07-28 | 13,136 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

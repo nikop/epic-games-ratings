@@ -1,34 +1,34 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 462)  
+Rating: 4.56 (Ranked 463)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,563 |
+| Peak Performance | 55.00% | ~3,564 |
 | Tutti Eroi! | 54.00% | ~3,499 |
 | You Shall Not Pass | 53.00% | ~3,434 |
-| Avanti Savoia! | 47.00% | ~3,045 |
-| Mamma Mia! | 37.00% | ~2,397 |
-| Conrad von Hotzensocks | 36.00% | ~2,332 |
+| Avanti Savoia! | 47.00% | ~3,046 |
+| Mamma Mia! | 37.00% | ~2,398 |
+| Conrad von Hotzensocks | 36.00% | ~2,333 |
 | Gabriele D'Annunzio | 33.00% | ~2,138 |
 | Silver Lining | 29.00% | ~1,879 |
 | Aurelio Baruzzi | 23.00% | ~1,490 |
-| Veni Vidi Vici | 22.00% | ~1,425 |
+| Veni Vidi Vici | 22.00% | ~1,426 |
 | Decimation | 21.00% | ~1,361 |
 | Donatello | 21.00% | ~1,361 |
 | Insubordination | 20.00% | ~1,296 |
 | The Italian Job | 20.00% | ~1,296 |
 | The Lion of the Isonzo | 18.00% | ~1,166 |
-| Ragazzi del '99 | 17.00% | ~1,101 |
+| Ragazzi del '99 | 17.00% | ~1,102 |
 | Dirty Dozen | 14.00% | ~907 |
 | Luigi Cadorna | 14.00% | ~907 |
 | Thus With A Kiss | 14.00% | ~907 |
 | Uomo Universale | 14.00% | ~907 |
 | Shaken, Not Stirred | 13.00% | ~842 |
-| Die Bosniaken Kommen! | 12.00% | ~777 |
-| Machiavelli | 12.00% | ~777 |
+| Die Bosniaken Kommen! | 12.00% | ~778 |
+| Machiavelli | 12.00% | ~778 |
 | Dante's Inferno | 11.00% | ~713 |
 | The Devil's Paintbrush | 11.00% | ~713 |
 | I Have the High Ground | 10.00% | ~648 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,479 (Ranked 133)  
-Completed: 8 (0.12%) (Ranked 187)  
+Progressed: 6,480 (Ranked 133)  
+Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 8 (0.12%) (Ranked 187)
 | 2023-07-25 | 6,452 | 8 |
 | 2023-07-26 | 6,459 | 8 |
 | 2023-07-27 | 6,470 | 8 |
-| 2023-07-28 | 6,479 | 8 |
+| 2023-07-28 | 6,480 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 258 (Ranked 348)  

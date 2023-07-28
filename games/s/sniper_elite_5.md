@@ -5,13 +5,13 @@ Rating: 4.41 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Liberté | 4.00% | ~134 |
-| Lord of War | 4.00% | ~134 |
-| The Kraken Wakes | 4.00% | ~134 |
-| It's Starting to Crack | 4.00% | ~134 |
-| Taking it back | 4.00% | ~134 |
-| Target America | 4.00% | ~134 |
-| The Kraken Sleeps | 4.00% | ~134 |
+| Liberté | 4.00% | ~135 |
+| Lord of War | 4.00% | ~135 |
+| The Kraken Wakes | 4.00% | ~135 |
+| It's Starting to Crack | 4.00% | ~135 |
+| Taking it back | 4.00% | ~135 |
+| Target America | 4.00% | ~135 |
+| The Kraken Sleeps | 4.00% | ~135 |
 | Climbing the Ladder | 3.00% | ~101 |
 | No Stone Unturned | 3.00% | ~101 |
 | Meeting Resistance | 3.00% | ~101 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 674)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,362 (Ranked 149)  
-Completed: 9 (0.27%) (Ranked 160)  
+Progressed: 3,363 (Ranked 149)  
+Completed: 9 (0.27%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,7 +175,7 @@ Completed: 9 (0.27%) (Ranked 160)
 | 2023-07-25 | 3,348 | 9 |
 | 2023-07-26 | 3,353 | 9 |
 | 2023-07-27 | 3,360 | 9 |
-| 2023-07-28 | 3,362 | 9 |
+| 2023-07-28 | 3,363 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

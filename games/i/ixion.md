@@ -1,26 +1,26 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 23.00% | ~674 |
-| Infinite Growth... | 20.00% | ~586 |
-| Sputnik 2049 | 20.00% | ~586 |
+| Wakey Wakey | 23.00% | ~675 |
+| Infinite Growth... | 20.00% | ~587 |
+| Sputnik 2049 | 20.00% | ~587 |
 | Without Breaking Some Eggs... | 19.00% | ~557 |
-| Ready for a New World | 14.00% | ~410 |
+| Ready for a New World | 14.00% | ~411 |
 | Space Society | 13.00% | ~381 |
 | A Thousand Strong | 13.00% | ~381 |
-| Permanent Redesigns | 11.00% | ~322 |
+| Permanent Redesigns | 11.00% | ~323 |
 | Guy de Borderlands | 10.00% | ~293 |
 | Fully Recycled | 10.00% | ~293 |
 | Ain't Nobody Got Time for That | 10.00% | ~293 |
 | The Ship of Theseus | 10.00% | ~293 |
 | Hope Seeker | 9.00% | ~264 |
-| A Hunk of Junk | 8.00% | ~234 |
-| Exceeding Capacity | 8.00% | ~234 |
-| Breaking Protocol | 8.00% | ~234 |
+| A Hunk of Junk | 8.00% | ~235 |
+| Exceeding Capacity | 8.00% | ~235 |
+| Breaking Protocol | 8.00% | ~235 |
 | Man's Best Friend | 6.00% | ~176 |
 | Power Outage | 6.00% | ~176 |
 | Convenient Transport | 6.00% | ~176 |
@@ -63,8 +63,8 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,931 (Ranked 157)  
-Completed: 0 (0.00%) (Ranked 245)  
+Progressed: 2,933 (Ranked 157)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 245)
 | 2023-07-25 | 2,913 | 0 |
 | 2023-07-26 | 2,918 | 0 |
 | 2023-07-27 | 2,929 | 0 |
-| 2023-07-28 | 2,931 | 0 |
+| 2023-07-28 | 2,933 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,36 +1,36 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 915)  
+Rating: 4.03 (Ranked 916)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~625 |
-| My little farm | 65.00% | ~502 |
-| Every beginning is difficult | 62.00% | ~479 |
-| Gofer | 56.00% | ~432 |
-| 3, 2, 1, mine | 55.00% | ~425 |
-| Seafarer | 54.00% | ~417 |
-| O Captain! My Captain! | 53.00% | ~409 |
-| Greed for gold | 43.00% | ~332 |
+| Cabin boy | 81.00% | ~627 |
+| My little farm | 65.00% | ~503 |
+| Every beginning is difficult | 62.00% | ~480 |
+| Gofer | 56.00% | ~433 |
+| 3, 2, 1, mine | 55.00% | ~426 |
+| Seafarer | 54.00% | ~418 |
+| O Captain! My Captain! | 53.00% | ~410 |
+| Greed for gold | 43.00% | ~333 |
 | Intangible | 41.00% | ~317 |
 | I'm out of here for a while | 41.00% | ~317 |
 | In a mint condition | 37.00% | ~286 |
-| Licence to Kill | 35.00% | ~270 |
-| Pirates! | 34.00% | ~262 |
-| Collectionitis | 28.00% | ~216 |
-| Megalomania | 28.00% | ~216 |
+| Licence to Kill | 35.00% | ~271 |
+| Pirates! | 34.00% | ~263 |
+| Collectionitis | 28.00% | ~217 |
+| Megalomania | 28.00% | ~217 |
 | Christening | 26.00% | ~201 |
-| Groundskeeper | 25.00% | ~193 |
+| Groundskeeper | 25.00% | ~194 |
 | Wholesale | 22.00% | ~170 |
-| Walk the plank | 20.00% | ~154 |
-| Pearly gates | 17.00% | ~131 |
-| My precious! | 17.00% | ~131 |
-| Conquistador | 13.00% | ~100 |
+| Walk the plank | 20.00% | ~155 |
+| Pearly gates | 17.00% | ~132 |
+| My precious! | 17.00% | ~132 |
+| Conquistador | 13.00% | ~101 |
 | Panic buying | 11.00% | ~85 |
-| Just a scratch | 9.00% | ~69 |
-| Your vessel, my vessel | 9.00% | ~69 |
+| Just a scratch | 9.00% | ~70 |
+| Your vessel, my vessel | 9.00% | ~70 |
 | All mine! | 8.00% | ~62 |
 | Paths of Glory | 8.00% | ~62 |
 | Panel of experts | 8.00% | ~62 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 772 (Ranked 202)  
-Completed: 1 (0.13%) (Ranked 185)  
+Progressed: 774 (Ranked 202)  
+Completed: 1 (0.13%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 1 (0.13%) (Ranked 185)
 | 2023-07-25 | 761 | 1 |
 | 2023-07-26 | 765 | 1 |
 | 2023-07-27 | 769 | 1 |
-| 2023-07-28 | 772 | 1 |
+| 2023-07-28 | 774 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

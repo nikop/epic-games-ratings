@@ -1,7 +1,7 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.82 (Ranked 941)  
+Rating: 3.82 (Ranked 942)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 3.82 (Ranked 941)
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 481 (Ranked 221)  
-Completed: 5 (1.04%) (Ranked 108)  
+Completed: 5 (1.04%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

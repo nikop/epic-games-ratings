@@ -2,12 +2,12 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1623,9 +1623,9 @@
       "ID": "MissionEnclaveWarPreparation",
       "SetID": "a6c395p",
       "Name": "Full Arsenal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 618
     },
     {
       "ID": "MissionEosReturn",
@@ -1679,9 +1679,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 673
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1831,8 +1831,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:05:30.413333+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:05:25.0081926+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:59.3234898+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:01:57.2432603+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:30.4133819+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:01:49.3480475+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:25.0082623+00:00"
 }

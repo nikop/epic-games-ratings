@@ -2,13 +2,13 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -282,7 +282,7 @@
   "Tags": [],
   "EOS_Progressed": 472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1279,9 +1279,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "hire-lieutenant",
@@ -1399,8 +1399,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:08:31.3160508+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:08:19.9781868+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:05.6290983+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:06.444862+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:08:31.3160724+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:01:57.9146332+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:08:19.9782204+00:00"
 }

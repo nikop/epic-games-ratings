@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7218,
+  "EOS_Progressed": 7220,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6324,6 +6324,11 @@
       "Time": "2023-07-28T16:06:31.2378032+00:00",
       "NumProgressed": 7218,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-28T17:06:24.2891701+00:00",
+      "NumProgressed": 7220,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6335,7 +6340,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5993
     },
     {
       "ID": "ACH02",
@@ -6343,7 +6348,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "ACH03",
@@ -6375,7 +6380,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ACH07",
@@ -6407,7 +6412,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ACH11",
@@ -6455,7 +6460,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH17",
@@ -6463,7 +6468,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH18",
@@ -6566,7 +6571,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7218,
+      "Progressed": 7220,
       "Completed": 41
     }
   ],
@@ -6574,8 +6579,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:06:31.2378027+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:06:24.2891694+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-28T15:59:03.4512887+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:06:31.2378646+00:00"
+  "LastUpdate_Ratings": "2023-07-28T16:58:57.9321386+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:06:24.2892663+00:00"
 }

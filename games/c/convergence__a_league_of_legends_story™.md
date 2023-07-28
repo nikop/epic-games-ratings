@@ -1,6 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
+Rating: 4.60 (Ranked 393)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,7 +31,7 @@
 | Golem Chaser | 14.00% | ~111 |
 | Check Your Pulse | 14.00% | ~111 |
 | Right On Time | 13.00% | ~103 |
-| Street Style | 12.00% | ~96 |
+| Street Style | 13.00% | ~103 |
 | Whiz Kid | 11.00% | ~88 |
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
@@ -59,7 +60,7 @@
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 796 (Ranked 200)  
-Completed: 4 (0.50%) (Ranked 136)  
+Completed: 4 (0.50%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,3 +125,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 796 | 4 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-07-28 | 4.60 | 0 | 0 |

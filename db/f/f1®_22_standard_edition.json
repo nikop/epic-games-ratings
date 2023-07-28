@@ -3,9 +3,9 @@
   "Name": "F1\u00AE 22 Standard Edition",
   "ProductSlug": "f1-22",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-24T20:09:32.332907+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:08:22.5190253+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:08:11.4227312+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:17.5263657+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:24.4332563+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:08:22.5190293+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:02:13.5307512+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:08:11.4227352+00:00"
 }

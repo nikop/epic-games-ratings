@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 572)  
+Rating: 4.49 (Ranked 573)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 392 (Ranked 233)  
-Completed: 0 (0.00%) (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

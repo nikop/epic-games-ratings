@@ -2,13 +2,13 @@
   "ID": "a15e35cda898480d8fed214dc889f199",
   "Name": "Trials Evolution: Gold Edition",
   "ProductSlug": "trials-evolution",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-02-11T16:00:00+00:00",
     "PcReleaseDate": "2013-03-21T16:00:00+00:00",
@@ -159,6 +159,6 @@
   "FirstSeenRating": "2022-08-16T12:02:15.8329553+00:00",
   "LastChanged": "2023-07-27T10:01:41.4693218+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:56.5456029+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:01:53.0460075+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:04:50.2332073+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:01:44.9706788+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:46.2214818+00:00"
 }

@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 758)  
+Rating: 4.33 (Ranked 759)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,11 +22,11 @@ Number of Ratings: 177  (23.09.2022)
 | Amy | 0.60% | ~35 |
 | Inspector | 0.60% | ~35 |
 | The Muse: Madison | 0.60% | ~35 |
-| Amy: Scavenger Hunt | 0.50% | ~29 |
+| Amy: Scavenger Hunt | 0.50% | ~30 |
 | It Smells Like Roses | 0.50% | ~15 |
-| Smooth Operator: Ashley | 0.50% | ~29 |
-| The Magic Number | 0.50% | ~29 |
-| Vickie | 0.50% | ~29 |
+| Smooth Operator: Ashley | 0.50% | ~30 |
+| The Magic Number | 0.50% | ~30 |
+| Vickie | 0.50% | ~30 |
 | I'll Be Back | 0.40% | ~24 |
 | Casanova | 0.40% | ~24 |
 | Now It's a Party! | 0.40% | ~24 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,898 (Ranked 135)  
-Completed: 3 (0.05%) (Ranked 209)  
+Progressed: 5,900 (Ranked 135)  
+Completed: 3 (0.05%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,7 +174,7 @@ Completed: 3 (0.05%) (Ranked 209)
 | 2023-07-25 | 5,869 | 3 |
 | 2023-07-26 | 5,878 | 3 |
 | 2023-07-27 | 5,888 | 3 |
-| 2023-07-28 | 5,898 | 3 |
+| 2023-07-28 | 5,900 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -2296,6 +2296,11 @@
       "Time": "2023-07-28T16:07:08.3196225+00:00",
       "NumProgressed": 669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T17:07:00.0847479+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2419,7 +2424,7 @@
       "Name": "Corporal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2497,9 +2502,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2610,14 +2615,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:07:08.3196219+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:07:00.0847472+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:29.4877539+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:07:08.3196662+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:02:18.1350182+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:07:00.0848054+00:00"
 }

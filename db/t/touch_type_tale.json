@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3084,
+  "EOS_Progressed": 3085,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2579,6 +2579,11 @@
       "Time": "2023-07-28T12:04:43.9028007+00:00",
       "NumProgressed": 3084,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-28T17:04:59.5675755+00:00",
+      "NumProgressed": 3085,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2638,7 +2643,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "campaign10",
@@ -2726,7 +2731,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "campaign20",
@@ -2750,7 +2755,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "campaign5",
@@ -2774,7 +2779,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "campaign8",
@@ -2798,7 +2803,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "scenario2",
@@ -2853,7 +2858,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3084,
+      "Progressed": 3085,
       "Completed": 10
     }
   ],
@@ -2861,8 +2866,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-28T16:05:03.6151889+00:00",
+  "LastChanged_Achievements": "2023-07-28T17:04:59.5675748+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.9778965+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:08.5787324+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:03.6152325+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:01:59.8217638+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:04:59.5676408+00:00"
 }

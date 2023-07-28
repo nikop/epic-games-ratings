@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 860)  
+Rating: 4.18 (Ranked 861)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,226 (Ranked 134)  
-Completed: 0 (0.00%) (Ranked 245)  
+Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

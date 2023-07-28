@@ -1,29 +1,29 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 773)  
+Rating: 4.31 (Ranked 774)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,018 |
-| Powergamer | 27.00% | ~64,625 |
-| Barely scratched the surface | 25.00% | ~59,838 |
-| Write that down | 24.00% | ~57,444 |
-| Guns, lots of guns | 12.00% | ~28,722 |
-| Collector | 11.00% | ~26,329 |
-| Elementary! | 9.00% | ~21,542 |
-| Pumpkin Jack | 8.00% | ~19,148 |
-| Wake up! | 8.00% | ~19,148 |
+| I will finish what you started | 28.00% | ~67,022 |
+| Powergamer | 27.00% | ~64,628 |
+| Barely scratched the surface | 25.00% | ~59,841 |
+| Write that down | 24.00% | ~57,447 |
+| Guns, lots of guns | 12.00% | ~28,724 |
+| Collector | 11.00% | ~26,330 |
+| Elementary! | 9.00% | ~21,543 |
+| Pumpkin Jack | 8.00% | ~19,149 |
+| Wake up! | 8.00% | ~19,149 |
 | It's honest work | 7.00% | ~16,755 |
 | Griever | 7.00% | ~16,755 |
-| Me smart | 6.00% | ~14,361 |
-| Trash compactor | 6.00% | ~14,361 |
+| Me smart | 6.00% | ~14,362 |
+| Trash compactor | 6.00% | ~14,362 |
 | Good listener | 5.00% | ~11,968 |
 | Valedictorian | 5.00% | ~11,968 |
-| BOY! | 4.00% | ~9,574 |
-| Ka-ching! | 4.00% | ~9,574 |
-| So you like to read? | 4.00% | ~9,574 |
+| BOY! | 4.00% | ~9,575 |
+| Ka-ching! | 4.00% | ~9,575 |
+| So you like to read? | 4.00% | ~9,575 |
 | I like to sniff around | 3.00% | ~7,181 |
 | Mind reader | 3.00% | ~7,181 |
 | Gentleman's classic | 2.00% | ~4,787 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | A true blacksmith | 0.90% | ~2,154 |
 | Let's try another | 0.80% | ~1,915 |
 | Home run | 0.80% | ~1,915 |
-| I have the high ground | 0.70% | ~1,675 |
-| It's blue, always blue | 0.70% | ~1,675 |
+| I have the high ground | 0.70% | ~1,676 |
+| It's blue, always blue | 0.70% | ~1,676 |
 | Who wouldn't love a troll? | 0.50% | ~1,197 |
 | Enjoy these little moments | 0.40% | ~957 |
 | Irondec | 0.40% | ~957 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~479 |
 | Memory 5 | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,351 (Ranked 46)  
-Completed: 7 (0.00%) (Ranked 245)  
+Progressed: 239,364 (Ranked 46)  
+Completed: 7 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 7 (0.00%) (Ranked 245)
 | 2023-07-25 | 238,966 | 7 |
 | 2023-07-26 | 239,092 | 7 |
 | 2023-07-27 | 239,245 | 7 |
-| 2023-07-28 | 239,351 | 7 |
+| 2023-07-28 | 239,364 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 363)  
 Sum: 76 (Ranked 426)  

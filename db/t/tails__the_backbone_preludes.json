@@ -3,9 +3,9 @@
   "Name": "Tails: The Backbone Preludes",
   "ProductSlug": "tails-noir-4240c4",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-02T17:00:00+00:00",
     "PcReleaseDate": "2023-02-02T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.5318242+00:00",
   "LastChanged": "2023-03-31T05:58:01.5318244+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.4163998+00:00",
-  "LastUpdate_Ratings": "2023-07-28T16:02:26.5758981+00:00",
-  "LastUpdate_Achievements": "2023-07-28T16:05:21.3251295+00:00"
+  "LastUpdate_Ratings": "2023-07-28T17:02:15.3315754+00:00",
+  "LastUpdate_Achievements": "2023-07-28T17:05:16.6392904+00:00"
 }

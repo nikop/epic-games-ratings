@@ -8,8 +8,8 @@
 | Crazy Jungle. | 35.00% | ~71 |
 | In the treetops. | 21.00% | ~43 |
 | A turbulent river. | 21.00% | ~43 |
-| At the top of the mountain. | 17.00% | ~35 |
-| Aggressive rocks. | 17.00% | ~35 |
+| At the top of the mountain. | 18.00% | ~37 |
+| Aggressive rocks. | 18.00% | ~37 |
 | Dino Ride. | 15.00% | ~30 |
 | In the heart of the volcano. | 11.00% | ~22 |
 | Rocky fall. | 11.00% | ~22 |
@@ -21,7 +21,7 @@
 | Lightning swamp. | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 278)  
-Completed: 4 (1.97%) (Ranked 84)  
+Completed: 4 (1.97%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
