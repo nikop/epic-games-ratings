@@ -75,7 +75,7 @@
 | The Model Builder | 0.00% | ~0 |
 | Powerup! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 476)  
+Progressed: 1 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |

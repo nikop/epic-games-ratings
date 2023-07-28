@@ -862,7 +862,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659918,
+  "EOS_Progressed": 659919,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
@@ -10142,6 +10142,11 @@
       "Time": "2023-07-28T11:03:40.6300444+00:00",
       "NumProgressed": 659918,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-28T12:03:47.7840339+00:00",
+      "NumProgressed": 659919,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10153,7 +10158,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475141
+      "UsersEstimate": 475142
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10161,7 +10166,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382752
+      "UsersEstimate": 382753
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10193,7 +10198,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52793
+      "UsersEstimate": 52794
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -10321,7 +10326,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52793
+      "UsersEstimate": 52794
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -10377,7 +10382,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52793
+      "UsersEstimate": 52794
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -10449,7 +10454,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52793
+      "UsersEstimate": 52794
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -10536,15 +10541,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659918,
+      "Progressed": 659919,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:03:40.630044+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:03:47.7840329+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:58:39.2862223+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:03:40.6301224+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:58:35.31958+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:47.784132+00:00"
 }

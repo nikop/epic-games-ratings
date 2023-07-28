@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 133,409 (Ranked 61)  
-Completed: 123 (0.09%) (Ranked 195)  
+Completed: 123 (0.09%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,14 +221,14 @@ Completed: 123 (0.09%) (Ranked 195)
 | 2023-07-28 | 133,409 | 123 |
 ## Awards
 Max (Great for Beginners): 4,672  (Ranked 70)  
-Sum: 26,993 (Ranked 46)  
+Sum: 26,996 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,672 |
 | This game is Relaxing | 3,989 |
 | This game has Quickly Understood Controls | 3,977 |
-| This game has Diverse Characters | 3,837 |
+| This game has Diverse Characters | 3,840 |
 | This game is Highly Recommended | 3,717 |
 | This game has Easy Combat | 3,659 |
 | This game has Playful Visuals | 3,142 |
@@ -421,4 +421,4 @@ Diff (max vs sum): 24
 | 2023-07-25 | 3.99 | - | 4,671 | 26,976 |
 | 2023-07-26 | 3.99 | - | 4,672 | 26,984 |
 | 2023-07-27 | 3.99 | - | 4,672 | 26,989 |
-| 2023-07-28 | 3.99 | - | 4,672 | 26,993 |
+| 2023-07-28 | 3.99 | - | 4,672 | 26,996 |

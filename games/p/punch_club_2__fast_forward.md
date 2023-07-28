@@ -26,7 +26,7 @@
 | Law student | 58.00% | ~97 |
 | Intriguing candies | 57.00% | ~95 |
 | Workout professional | 56.00% | ~94 |
-| Little hacker | 53.00% | ~89 |
+| Little hacker | 54.00% | ~90 |
 | Employee of the year | 53.00% | ~89 |
 | Champion – starter pack | 52.00% | ~87 |
 | Handyman | 51.00% | ~85 |
@@ -42,20 +42,20 @@
 | Guiding on the right path | 38.00% | ~63 |
 | Mysterious voice | 35.00% | ~58 |
 | Fight is life | 34.00% | ~57 |
-| Responsible approach | 32.00% | ~53 |
+| Responsible approach | 33.00% | ~55 |
+| Get out of my apartment! | 30.00% | ~50 |
 | Deal with life | 29.00% | ~48 |
 | Champion – no way back | 29.00% | ~48 |
-| Get out of my apartment! | 29.00% | ~48 |
 | Mom got better | 28.00% | ~47 |
 | GYM professional | 28.00% | ~47 |
 | Poisoned fighter | 28.00% | ~47 |
 | The die is cast | 28.00% | ~47 |
 | Underground dwellers | 28.00% | ~47 |
-| Seashell hunter | 26.00% | ~43 |
-| Gang wrangler | 25.00% | ~42 |
+| Seashell hunter | 27.00% | ~45 |
+| Gang wrangler | 26.00% | ~43 |
+| Anyone can resist | 25.00% | ~42 |
 | Problems of cyborgs | 24.00% | ~40 |
-| Anyone can resist | 24.00% | ~40 |
-| The last bell ring | 23.00% | ~38 |
+| The last bell ring | 24.00% | ~40 |
 | Undercover robot | 23.00% | ~38 |
 | Trap disarmed | 22.00% | ~37 |
 | Careerist | 22.00% | ~37 |

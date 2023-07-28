@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2023-07-28T11:06:23.3635906+00:00",
       "NumProgressed": 663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T12:06:23.3334038+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2301,9 +2306,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2391,7 +2396,7 @@
       "Name": "Facility Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2543,7 +2548,7 @@
       "Name": "Defenses Online",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2590,14 +2595,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:06:23.36359+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:06:23.3334031+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:01:28.8954346+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:06:23.3636242+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:01:38.1395967+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:06:23.3334488+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "15_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 15",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "20_Coins",
@@ -474,9 +474,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -490,9 +490,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -570,17 +570,17 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -627,8 +627,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:03:21.2012545+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:03:25.9925446+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:48.3810061+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:00:51.0570584+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:03:21.2012712+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:00:56.0545881+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:25.9925668+00:00"
 }

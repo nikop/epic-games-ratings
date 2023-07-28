@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -199,17 +199,17 @@
       "ID": "ACH_14_HORSECLUB",
       "SetID": "9dl0ei6",
       "Name": "I\u0027m part of the action!",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_15_CLUBHOUSE",
       "SetID": "9dl0ei6",
       "Name": "Clubhouse",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16_APPLES",
@@ -255,9 +255,9 @@
       "ID": "ACH_21_EXPLORER",
       "SetID": "9dl0ei6",
       "Name": "Explorer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_22_QUARRY",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:06:04.3265807+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:06:01.4390494+00:00",
   "LastUpdate_AppInfo": "2023-07-23T14:57:17.5342394+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:57:51.0625157+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:06:04.3265967+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:57:42.6145569+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:06:01.4390706+00:00"
 }

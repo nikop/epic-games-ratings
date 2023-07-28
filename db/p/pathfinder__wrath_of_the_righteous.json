@@ -4,11 +4,11 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 121,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3198,10 +3198,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6849,
       "NumberOfAwardsMax": 1693
+    },
+    {
+      "Time": "2023-07-28T11:59:25.7986988+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6852,
+      "NumberOfAwardsMax": 1693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6849,
+  "NumberOfAwards": 6852,
   "NumberOfAwardsMax": 1693,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3215,7 +3221,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 602
+      "Count": 604
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3227,7 +3233,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 623
+      "Count": 624
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3272,9 +3278,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10634,
+  "EOS_Progressed": 10636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9547,6 +9553,11 @@
       "Time": "2023-07-28T09:03:31.5900659+00:00",
       "NumProgressed": 10634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T12:01:47.5121385+00:00",
+      "NumProgressed": 10636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9558,7 +9569,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "02_BurningCity",
@@ -9582,7 +9593,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9758,7 +9769,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "28_GreatUpstart",
@@ -10470,7 +10481,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -10478,28 +10489,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9416,
+      "Progressed": 9418,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10634,
+      "Progressed": 10636,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-28T08:59:35.0518686+00:00",
-  "LastChanged_Achievements": "2023-07-28T10:04:24.2114245+00:00",
+  "LastChanged": "2023-07-28T11:59:25.7986987+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:01:47.5121379+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:59:27.2368265+00:00",
-  "LastUpdate_Achievements": "2023-07-28T10:04:24.2116347+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:59:25.7986992+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:01:47.5123554+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,918 |
+| Colonize a Planet | 79.00% | ~4,919 |
 | Worker Specialization | 78.00% | ~4,856 |
-| First Contact | 73.00% | ~4,544 |
+| First Contact | 73.00% | ~4,545 |
 | Win a Battle | 67.00% | ~4,171 |
 | Anomaly Researcher | 63.00% | ~3,922 |
 | Unleash My Power | 62.00% | ~3,860 |
-| Own 30 Planets | 34.00% | ~2,116 |
-| Xenocide | 33.00% | ~2,054 |
-| Design a Civilization | 32.00% | ~1,992 |
+| Own 30 Planets | 34.00% | ~2,117 |
+| Xenocide | 33.00% | ~2,055 |
 | Commodity Trader | 31.00% | ~1,930 |
-| Design a Ship | 29.00% | ~1,805 |
+| Design a Civilization | 31.00% | ~1,930 |
+| Design a Ship | 29.00% | ~1,806 |
 | Commodity Seller | 25.00% | ~1,556 |
 | Prestige Victory! | 14.00% | ~872 |
 | Galactic War | 11.00% | ~685 |
@@ -31,10 +31,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win Quickly | 4.00% | ~249 |
 | Pirate Cleansing | 3.00% | ~187 |
 | Artifact Mastery | 3.00% | ~187 |
-| Win as Altarians | 2.00% | ~124 |
-| Win as the Mimot | 2.00% | ~124 |
-| Win as the Yor | 2.00% | ~124 |
-| Influence Victory! | 2.00% | ~124 |
+| Win as Altarians | 2.00% | ~125 |
+| Win as the Mimot | 2.00% | ~125 |
+| Win as the Yor | 2.00% | ~125 |
+| Influence Victory! | 2.00% | ~125 |
 | Win as Arceans | 1.00% | ~62 |
 | Win as the Baratak | 1.00% | ~62 |
 | Win as Festron | 1.00% | ~62 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,225 (Ranked 134)  
+Progressed: 6,226 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 6,204 | 0 |
 | 2023-07-26 | 6,215 | 0 |
 | 2023-07-27 | 6,221 | 0 |
-| 2023-07-28 | 6,225 | 0 |
+| 2023-07-28 | 6,226 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 347)  
 Sum: 668 (Ranked 277)  

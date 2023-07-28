@@ -31,7 +31,7 @@ Rating: 4.40 (Ranked 692)
 | Hold The Line | 27.00% | ~351 |
 | Endgame | 25.00% | ~325 |
 | Savior | 25.00% | ~325 |
-| There Can Be Only One! | 24.00% | ~312 |
+| There Can Be Only One! | 25.00% | ~325 |
 | Chain Killer | 22.00% | ~286 |
 | The Watchers | 21.00% | ~273 |
 | Commando | 16.00% | ~208 |

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1061,9 +1061,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "completeact3",
@@ -1117,9 +1117,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "scoreminrankrh1",
@@ -1182,8 +1182,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:01:41.6334868+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:03:04.2092586+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:26.0367431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:59:46.5375808+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:01:41.6335062+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:59:47.6443521+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:04.2092824+00:00"
 }

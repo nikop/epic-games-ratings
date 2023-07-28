@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2036,
+  "EOS_Progressed": 2037,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 8.84,
   "EosHistory": [
@@ -4348,6 +4348,11 @@
       "Time": "2023-07-27T23:03:50.3078557+00:00",
       "NumProgressed": 2036,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-07-28T12:04:33.8044804+00:00",
+      "NumProgressed": 2037,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 12,
@@ -4391,7 +4396,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Jakob",
@@ -4439,7 +4444,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Nuremberg Laws",
@@ -4454,7 +4459,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2036,
+      "Progressed": 2037,
       "Completed": 180
     }
   ],
@@ -4462,8 +4467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:04:46.2391379+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:04:33.8044798+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.5602679+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:00:32.674536+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:04:46.2391669+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:00:35.1758527+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:04:33.804514+00:00"
 }

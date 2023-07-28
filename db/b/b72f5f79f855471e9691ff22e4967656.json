@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questBuilder",
@@ -738,9 +738,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questRedsBoss",
@@ -810,9 +810,9 @@
       "ID": "questSaveRoyalSmith",
       "SetID": "ci65fo0",
       "Name": "A new friend",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questTheft",
@@ -855,8 +855,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:04:57.8162159+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:04:45.3942326+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:57:51.3396187+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:04:57.8162898+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:57:42.9545961+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:04:45.3943356+00:00"
 }

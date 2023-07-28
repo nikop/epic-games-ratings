@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5338,11 +5338,11 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216303,
-  "EOS_Completed": 2130,
-  "EOS_NewPlayers": 2274,
-  "EOS_NewCompleters": 71,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 216319,
+  "EOS_Completed": 2131,
+  "EOS_NewPlayers": 2270,
+  "EOS_NewCompleters": 72,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -15948,6 +15948,11 @@
       "Time": "2023-07-28T11:03:40.4556412+00:00",
       "NumProgressed": 216303,
       "NumCompleted": 2130
+    },
+    {
+      "Time": "2023-07-28T12:03:48.4198786+00:00",
+      "NumProgressed": 216319,
+      "NumCompleted": 2131
     }
   ],
   "TotalAchievements": 512,
@@ -15959,7 +15964,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6489
+      "UsersEstimate": 6490
     },
     {
       "ID": "objective_completed_10",
@@ -16031,7 +16036,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_1051",
@@ -16583,7 +16588,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_1153",
@@ -16695,7 +16700,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_1174",
@@ -19919,7 +19924,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_1220",
@@ -20054,21 +20059,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182577,
+      "Progressed": 182593,
       "Completed": 3022
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216303,
-      "Completed": 2130
+      "Progressed": 216319,
+      "Completed": 2131
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:03:40.4556407+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:03:48.419878+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:59:11.1551985+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:03:40.4580232+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:59:06.2489658+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:48.4230318+00:00"
 }

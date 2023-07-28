@@ -10,8 +10,8 @@
 | Campaign Launch | 39.00% | ~108 |
 | Floor Galore | 38.00% | ~105 |
 | Dinner Dash | 38.00% | ~105 |
+| It's Technical | 36.00% | ~100 |
 | Need a Consult | 35.00% | ~97 |
-| It's Technical | 35.00% | ~97 |
 | Upgrade Unlock | 34.00% | ~94 |
 | Delegate Maintenance | 32.00% | ~89 |
 | Proper Walls | 31.00% | ~86 |
@@ -20,21 +20,21 @@
 | Smooth Service | 25.00% | ~69 |
 | Your Prestige is Rising | 24.00% | ~66 |
 | Potent Potables | 24.00% | ~66 |
-| Retail Revenue | 23.00% | ~64 |
+| Retail Revenue | 24.00% | ~66 |
 | Lux Living | 22.00% | ~61 |
+| Don't Feel a Loan | 21.00% | ~58 |
 | People Mover | 21.00% | ~58 |
+| Emporium Empire | 21.00% | ~58 |
 | Leveled Up Shops | 21.00% | ~58 |
-| Don't Feel a Loan | 20.00% | ~55 |
-| Get Electrified | 20.00% | ~55 |
+| Get Electrified | 21.00% | ~58 |
 | Artfully Done | 19.00% | ~53 |
-| Emporium Empire | 19.00% | ~53 |
 | Rehab Expert | 18.00% | ~50 |
 | Tasty Profits | 18.00% | ~50 |
 | We Don't Need No Education | 18.00% | ~50 |
+| Established Fame | 17.00% | ~47 |
 | Under One Roof | 16.00% | ~44 |
-| Established Fame | 16.00% | ~44 |
+| Starred Dining | 16.00% | ~44 |
 | Cashflow Chief | 16.00% | ~44 |
-| Starred Dining | 15.00% | ~42 |
 | Smooth Operator | 14.00% | ~39 |
 | Boutique Benefits | 14.00% | ~39 |
 | Terrifically Trashed | 14.00% | ~39 |
@@ -43,11 +43,11 @@
 | Swimming in Surplus | 11.00% | ~30 |
 | Master of Puppets | 10.00% | ~28 |
 | Aestheticly Pleased | 9.00% | ~25 |
+| Plaza Plan | 9.00% | ~25 |
 | Refined Palates | 9.00% | ~25 |
 | Phoning It In | 9.00% | ~25 |
 | First 100 Days | 8.00% | ~22 |
 | Meet Me at HQ | 8.00% | ~22 |
-| Plaza Plan | 8.00% | ~22 |
 | Water Features | 7.00% | ~19 |
 | Maximum Reuse | 7.00% | ~19 |
 | Revenue Royalty | 7.00% | ~19 |

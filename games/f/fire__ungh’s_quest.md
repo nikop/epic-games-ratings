@@ -23,11 +23,11 @@
 | Onk Boga VII | 34.00% | ~74 |
 | Onk Boga VIII | 33.00% | ~72 |
 | Blubb | 33.00% | ~72 |
-| ParaPara! | 31.00% | ~68 |
-| Onk Boga IX | 31.00% | ~68 |
-| AKRE! | 31.00% | ~68 |
-| Kokakoka | 30.00% | ~66 |
-| Blunga 15 | 29.00% | ~64 |
+| ParaPara! | 32.00% | ~70 |
+| Onk Boga IX | 32.00% | ~70 |
+| AKRE! | 32.00% | ~70 |
+| Kokakoka | 31.00% | ~68 |
+| Blunga 15 | 30.00% | ~66 |
 | Blunga 20 | 11.00% | ~24 |
 | Blunga 25 | 6.00% | ~13 |
 | Blunga 30 | 6.00% | ~13 |

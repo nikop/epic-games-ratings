@@ -4,8 +4,8 @@
   "ProductSlug": "magic-legends",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:20.8807641+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:58:46.0809366+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:06:36.0674267+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:58:40.5541289+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:06:38.8309473+00:00"
 }

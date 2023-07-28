@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -2397,9 +2397,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 346
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -2518,8 +2518,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:07:15.960553+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:07:26.4433869+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.586733+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:00:24.9062802+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:07:15.9605719+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:00:24.5954835+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:07:26.4434116+00:00"
 }

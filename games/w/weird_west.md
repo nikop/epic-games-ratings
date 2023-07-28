@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~87 |
 | What’s in the Box? | 5.00% | ~87 |
 | Ghost Town | 3.00% | ~52 |
+| Lord Inut Sends His Regards | 3.00% | ~52 |
 | Moondrunk | 3.00% | ~52 |
-| Lord Inut Sends His Regards | 2.00% | ~35 |
 | 'Ma Barker | 2.00% | ~35 |
 | I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |

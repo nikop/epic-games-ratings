@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -394,7 +394,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7205,
+  "EOS_Progressed": 7207,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -6299,6 +6299,11 @@
       "Time": "2023-07-28T11:05:57.6348325+00:00",
       "NumProgressed": 7205,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-28T12:05:54.0000751+00:00",
+      "NumProgressed": 7207,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6310,7 +6315,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5980
+      "UsersEstimate": 5982
     },
     {
       "ID": "ACH02",
@@ -6334,7 +6339,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "ACH05",
@@ -6374,7 +6379,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH10",
@@ -6382,7 +6387,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACH11",
@@ -6430,7 +6435,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ACH17",
@@ -6446,7 +6451,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH19",
@@ -6502,7 +6507,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH26",
@@ -6541,7 +6546,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7205,
+      "Progressed": 7207,
       "Completed": 41
     }
   ],
@@ -6549,8 +6554,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:05:57.6348321+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:05:54.0000744+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:58:55.848139+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:05:57.6348745+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:58:49.7415254+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:05:54.0001334+00:00"
 }

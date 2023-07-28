@@ -2,13 +2,13 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8194,
+  "EOS_Progressed": 8195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6593,6 +6593,11 @@
       "Time": "2023-07-28T10:08:10.3698303+00:00",
       "NumProgressed": 8194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T12:07:00.311679+00:00",
+      "NumProgressed": 8195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -6604,7 +6609,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6555
+      "UsersEstimate": 6556
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -6636,7 +6641,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -6676,7 +6681,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -6700,7 +6705,7 @@
       "Name": "Guardian Angel",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -6772,7 +6777,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -6804,7 +6809,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7211
+      "UsersEstimate": 7212
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -6812,7 +6817,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -6820,7 +6825,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -6828,7 +6833,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -6908,7 +6913,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -6956,7 +6961,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -6972,7 +6977,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -7003,15 +7008,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8194,
+      "Progressed": 8195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:06:54.2585555+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:07:00.3116784+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:02.1787346+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:59:26.2075198+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:06:54.2586201+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:59:24.518369+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:07:00.3117582+00:00"
 }

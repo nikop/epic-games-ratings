@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
@@ -555,9 +555,9 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "all_promotion_5",
@@ -747,9 +747,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "handyman",
@@ -915,17 +915,17 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "police_promotion_3",
       "SetID": "69co12a",
       "Name": "The last bell ring",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "prof_promotion_1",
@@ -955,9 +955,9 @@
       "ID": "resistance_slime",
       "SetID": "69co12a",
       "Name": "Anyone can resist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "resistance_true",
@@ -971,9 +971,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "sleep_candy",
@@ -1011,9 +1011,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "undercover_robot",
@@ -1066,8 +1066,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:06:24.7000388+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:06:25.0378459+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.2619183+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:58:29.7316248+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:06:24.7000921+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:58:23.5588898+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:06:25.0379174+00:00"
 }

@@ -48,9 +48,9 @@ Rating: 4.87 (Ranked 24)
 | I hit things with a guitar really well. | 0.40% | ~14 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
+| I'm not done with you yet | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | Easy Listening | 0.20% | ~7 |
-| I'm not done with you yet | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | And the crowd goes wild! | 0.10% | ~4 |

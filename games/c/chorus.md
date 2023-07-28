@@ -16,10 +16,10 @@ Number of Ratings: 58  (23.09.2022)
 | Helping Hand | 66.00% | ~715 |
 | Paragon | 63.00% | ~682 |
 | Old Days Born Anew | 61.00% | ~661 |
-| Full Arsenal | 56.00% | ~606 |
+| Full Arsenal | 57.00% | ~617 |
 | Controlled Demolition | 55.00% | ~596 |
 | Payback | 53.00% | ~574 |
-| Huntress | 52.00% | ~563 |
+| Huntress | 53.00% | ~574 |
 | Born to Drift | 51.00% | ~552 |
 | Relentless | 48.00% | ~520 |
 | The Path Forward | 45.00% | ~487 |
@@ -31,7 +31,7 @@ Number of Ratings: 58  (23.09.2022)
 | Set in Motion | 38.00% | ~412 |
 | In the Eye of the Storm | 37.00% | ~401 |
 | The Crimson Void | 34.00% | ~368 |
-| The Nameless Dread | 33.00% | ~357 |
+| The Nameless Dread | 34.00% | ~368 |
 | Time to Spear | 30.00% | ~325 |
 | Mastery of Weapons | 29.00% | ~314 |
 | Disciple | 29.00% | ~314 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,083 (Ranked 190)  
-Completed: 13 (1.20%) (Ranked 102)  
+Completed: 13 (1.20%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

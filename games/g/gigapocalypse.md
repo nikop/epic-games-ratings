@@ -44,16 +44,16 @@
 | Octopostructure | 16.00% | ~26 |
 | Boss Hunter | 16.00% | ~26 |
 | Hawkman | 9.00% | ~15 |
+| Annihilate | 8.00% | ~13 |
 | Fashion Victim | 7.00% | ~11 |
-| Annihilate | 7.00% | ~11 |
 | See You Later | 5.00% | ~8 |
 | Godlike Skin | 5.00% | ~8 |
 | Unlucky Luke | 5.00% | ~8 |
 | Feast Time | 5.00% | ~8 |
 | Cheesy Chess | 4.00% | ~7 |
+| Got'em Totem | 4.00% | ~7 |
 | A Phony Clown | 3.00% | ~5 |
 | Octopy Mayhem | 3.00% | ~5 |
-| Got'em Totem | 3.00% | ~5 |
 | Duck Knight | 2.00% | ~3 |
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |

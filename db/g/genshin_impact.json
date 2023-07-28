@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -8670,10 +8670,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1361918,
       "NumberOfAwardsMax": 300944
+    },
+    {
+      "Time": "2023-07-28T11:59:56.0071309+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1361934,
+      "NumberOfAwardsMax": 300944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1361918,
+  "NumberOfAwards": 1361934,
   "NumberOfAwardsMax": 300944,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8729,7 +8735,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 109820
+      "Count": 109836
     },
     {
       "Text": "This game is Relaxing",
@@ -8755,8 +8761,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-07-28T07:00:20.298837+00:00",
+  "LastChanged": "2023-07-28T11:59:56.0071308+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:33.0911648+00:00",
-  "LastUpdate_Ratings": "2023-07-28T10:59:55.0848043+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:03:11.9420143+00:00"
+  "LastUpdate_Ratings": "2023-07-28T11:59:56.0071315+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:15.2009146+00:00"
 }

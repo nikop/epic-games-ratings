@@ -198,7 +198,7 @@
   "Tags": [],
   "EOS_Progressed": 3057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3480,9 +3480,9 @@
       "ID": "ACH_MISSION_07",
       "SetID": "816efe",
       "Name": "The Darwin Era Was Here",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 795
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3609,8 +3609,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-27T11:00:41.1759391+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:03:11.5147025+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:03:14.7107795+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:20.5699738+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:00:24.1157893+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:03:11.5147473+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:00:23.459155+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:03:14.7108364+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3083,
+  "EOS_Progressed": 3084,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2023-07-28T07:05:03.477195+00:00",
       "NumProgressed": 3083,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-28T12:04:43.9028007+00:00",
+      "NumProgressed": 3084,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2633,7 +2638,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "campaign10",
@@ -2681,7 +2686,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "campaign16",
@@ -2697,7 +2702,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "campaign18",
@@ -2737,7 +2742,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "campaign4",
@@ -2761,7 +2766,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "campaign7",
@@ -2848,7 +2853,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3083,
+      "Progressed": 3084,
       "Completed": 10
     }
   ],
@@ -2856,8 +2861,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-28T11:04:56.4807496+00:00",
+  "LastChanged_Achievements": "2023-07-28T12:04:43.9027998+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.9778965+00:00",
-  "LastUpdate_Ratings": "2023-07-28T11:01:13.5647159+00:00",
-  "LastUpdate_Achievements": "2023-07-28T11:04:56.4807807+00:00"
+  "LastUpdate_Ratings": "2023-07-28T12:01:19.628909+00:00",
+  "LastUpdate_Achievements": "2023-07-28T12:04:43.9028422+00:00"
 }
