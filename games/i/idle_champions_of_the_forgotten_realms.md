@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,486 |
+| A Brief Tour of the Realms | 3.00% | ~6,487 |
 | Beast Intentions | 2.00% | ~4,324 |
 | Maddening | 1.00% | ~2,162 |
 | The Silken Swamp | 1.00% | ~2,162 |
@@ -116,6 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~365 |
 | Vecna Out! | 0.20% | ~365 |
 | Who Lurks Below? | 0.20% | ~365 |
+| Anti-Dexterous Explorers | 0.20% | ~432 |
 | Lobsterfolk Assault | 0.20% | ~432 |
 | Periodic Petrification | 0.20% | ~432 |
 | Captured! | 0.20% | ~432 |
@@ -237,7 +238,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.10% | ~182 |
 | Clowning Around | 0.10% | ~182 |
 | A Whale of a Time | 0.10% | ~182 |
-| Anti-Dexterous Explorers | 0.10% | ~216 |
 | Struggling Toward Omu | 0.10% | ~216 |
 | Wagon Train | 0.10% | ~216 |
 | Not Very Charming | 0.10% | ~216 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~182 |
 | Quick or Quack | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,208 (Ranked 53)  
+Progressed: 216,221 (Ranked 53)  
 Completed: 2,129 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,129 (0.98%) (Ranked 108)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,208 | 2,129 |
+| 2023-07-28 | 216,221 | 2,129 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,768 (Ranked 38)  

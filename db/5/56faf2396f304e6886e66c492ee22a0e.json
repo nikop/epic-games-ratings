@@ -2,10 +2,10 @@
   "ID": "56faf2396f304e6886e66c492ee22a0e",
   "Name": "Hush Hush",
   "ProductSlug": "hush-hush-5c1fa0",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-07-28T00:04:17.7837238+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T03:04:17.2244517+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-12T19:00:59.231295+00:00",
@@ -67,7 +72,7 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -83,7 +88,7 @@
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
       "SetID": "70j9o42",
       "Name": "Not My Potatoes!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -91,15 +96,15 @@
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
       "SetID": "70j9o42",
       "Name": "Speed Run!",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "When The Moon Hits Your Eye",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
       "SetID": "70j9o42",
       "Name": "Impressive",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "ACHIEVEMENT_Dorian_Spare_You",
       "SetID": "70j9o42",
       "Name": "Chill Villain",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "ACHIEVEMENT_EasyMode",
       "SetID": "70j9o42",
       "Name": "Easy Peezy Lemon Squeezy",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "ID": "ACHIEVEMENT_Elle_StandUp",
       "SetID": "70j9o42",
       "Name": "Admirab-Elle",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "ACHIEVEMENT_Iro_BestEnding",
       "SetID": "70j9o42",
       "Name": "Pain Killer",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "ACHIEVEMENT_Iro_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "Slippery When Wet",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -219,7 +224,7 @@
       "ID": "ACHIEVEMENT_Lilianna_Respect",
       "SetID": "70j9o42",
       "Name": "Find Out What It Means To Me",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -235,7 +240,7 @@
       "ID": "ACHIEVEMENT_Lucky",
       "SetID": "70j9o42",
       "Name": "Fortunate Soul",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "A Winner Is You",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -267,7 +272,7 @@
       "ID": "ACHIEVEMENT_Motivation",
       "SetID": "70j9o42",
       "Name": "Motivational Peaker",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -299,7 +304,7 @@
       "ID": "ACHIEVEMENT_Prodamon_victory",
       "SetID": "70j9o42",
       "Name": "Gotta Capture All Of \u0027Em",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -307,7 +312,7 @@
       "ID": "ACHIEVEMENT_Qpernikiss_Ending",
       "SetID": "70j9o42",
       "Name": "Wreathed In Light",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -331,7 +336,7 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -339,7 +344,7 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -347,7 +352,7 @@
       "ID": "ACHIEVEMENT_TechSavvy",
       "SetID": "70j9o42",
       "Name": "Brainiac",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -372,13 +377,13 @@
     {
       "ID": "70j9o42",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:58:14.7573004+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:04:17.2244509+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:51:24.0172984+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:58:14.757324+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:57:24.8370144+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:04:17.2244892+00:00"
 }

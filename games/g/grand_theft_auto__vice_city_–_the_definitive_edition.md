@@ -1,26 +1,26 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 464)  
+Rating: 4.55 (Ranked 481)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,170 |
-| Greasy Palms | 41.00% | ~3,799 |
-| South American Connection | 25.00% | ~2,317 |
+| Legal Counsel | 45.00% | ~4,172 |
+| Greasy Palms | 41.00% | ~3,801 |
+| South American Connection | 25.00% | ~2,318 |
 | Life of the Party | 19.00% | ~1,761 |
-| Tommy Two-Wheels | 15.00% | ~1,390 |
-| Big Heat from Little Havana | 14.00% | ~1,297 |
-| Chauffeur | 14.00% | ~1,297 |
+| Tommy Two-Wheels | 15.00% | ~1,391 |
+| Big Heat from Little Havana | 14.00% | ~1,298 |
+| Chauffeur | 14.00% | ~1,298 |
 | Iron-y | 10.00% | ~927 |
 | Salutations My Little Friend | 10.00% | ~927 |
 | Gun for Hire | 9.00% | ~834 |
-| Mischief Managed | 8.00% | ~741 |
+| Mischief Managed | 8.00% | ~742 |
 | Vice City Mogul | 7.00% | ~649 |
 | Catch Me if You Can | 6.00% | ~556 |
 | Bloodstained Hands | 6.00% | ~556 |
-| Not my First Time | 5.00% | ~463 |
-| Grand Theft Auto | 5.00% | ~463 |
+| Not my First Time | 5.00% | ~464 |
+| Grand Theft Auto | 5.00% | ~464 |
 | Pie Guy | 4.00% | ~371 |
 | Running Rampant | 3.00% | ~278 |
 | Point A to Point B | 3.00% | ~278 |
@@ -40,7 +40,7 @@ Rating: 4.56 (Ranked 464)
 | Done it All | 0.80% | ~74 |
 | Kingpin | 0.50% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,267 (Ranked 122)  
+Progressed: 9,271 (Ranked 123)  
 Completed: 43 (0.46%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 43 (0.46%) (Ranked 136)
 | 2023-07-25 | 9,194 | 43 |
 | 2023-07-26 | 9,229 | 43 |
 | 2023-07-27 | 9,264 | 43 |
-| 2023-07-28 | 9,267 | 43 |
+| 2023-07-28 | 9,271 | 43 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 384)  
 Sum: 63 (Ranked 442)  
@@ -237,3 +237,4 @@ Diff (max vs sum): -58
 | 2023-07-20 | 4.55 | 61 | 61 |
 | 2023-07-25 | 4.55 | 63 | 63 |
 | 2023-07-27 | 4.56 | 63 | 63 |
+| 2023-07-28 | 4.55 | 63 | 63 |

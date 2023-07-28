@@ -3,12 +3,12 @@
   "Name": "Alba - A Wildlife Adventure",
   "ProductSlug": "alba-a-wildlife-adventure-93736a",
   "Ranking_Rating": 332,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-11-10T16:00:00+00:00",
     "PcReleaseDate": "2021-12-11T11:00:00+00:00",
@@ -144,8 +144,8 @@
   "FirstSeenRating": "2022-11-11T04:24:09.6035921+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.9538339+00:00",
   "LastChanged": "2023-06-29T09:58:16.4496854+00:00",
-  "LastChanged_Achievements": "2023-07-28T02:01:33.3724384+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:07:19.5365266+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:48.2011747+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:53:00.3035499+00:00",
-  "LastUpdate_Achievements": "2023-07-28T02:01:33.3724413+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:58:57.9349994+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:07:19.5365309+00:00"
 }

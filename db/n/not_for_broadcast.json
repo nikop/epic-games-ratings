@@ -3,12 +3,12 @@
   "Name": "Not For Broadcast",
   "ProductSlug": "not-for-broadcast-7e523f",
   "Ranking_Rating": 144,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-25T18:00:00+00:00",
     "PcReleaseDate": "2020-01-30T00:00:00+00:00",
@@ -88,6 +88,6 @@
   "FirstSeenRating": "2022-11-01T16:31:24.7823618+00:00",
   "LastChanged": "2023-06-27T08:58:23.4215688+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:46.7864592+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:52:57.4788424+00:00",
-  "LastUpdate_Achievements": "2023-07-28T02:00:18.9960381+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:58:55.3841121+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:06:07.8381134+00:00"
 }

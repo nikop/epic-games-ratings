@@ -1,13 +1,13 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.55 (Ranked 482)  
+Rating: 4.55 (Ranked 481)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~690 |
 | And so it begins | 72.00% | ~654 |
-| No pressure | 69.00% | ~627 |
+| No pressure | 70.00% | ~636 |
 | Memento | 62.00% | ~563 |
 | Let there be light | 59.00% | ~536 |
 | I think you dropped this | 54.00% | ~490 |

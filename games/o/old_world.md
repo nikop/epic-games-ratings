@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.20% | ~26 |
 | Legionary | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
+| Turreted Elephant | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Double Victory | 0.20% | ~26 |
 | Win a Single Player Game | 0.20% | ~26 |
@@ -159,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
+| Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
@@ -237,7 +239,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
-| Turreted Elephant | 0.10% | ~13 |
 | All Nations | 0.10% | ~13 |
 | Conquest Victory | 0.10% | ~13 |
 | No Undo | 0.10% | ~13 |
@@ -273,7 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
-| Et tu Brutus? | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |

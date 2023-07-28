@@ -32,6 +32,7 @@
 | Human Resources | 1.00% | ~1 |
 | Fuel Tycoon | 1.00% | ~1 |
 | Winter Soldier | 1.00% | ~1 |
+| Researcher | 1.00% | ~1 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -46,10 +47,9 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
-| Researcher | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 310)  
+Progressed: 101 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 82 | 0 |
 | 2023-07-26 | 86 | 0 |
 | 2023-07-27 | 98 | 0 |
-| 2023-07-28 | 100 | 0 |
+| 2023-07-28 | 101 | 0 |

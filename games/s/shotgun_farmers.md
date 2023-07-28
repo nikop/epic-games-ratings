@@ -12,12 +12,12 @@
 | No Asperascope | 50.00% | ~117 |
 | Cornivore | 50.00% | ~117 |
 | I Believe I Can Fly | 46.00% | ~108 |
-| Early Survivor | 41.00% | ~75 |
+| Early Survivor | 42.00% | ~77 |
 | No Diggity | 40.00% | ~74 |
 | Amateur Survivor | 30.00% | ~55 |
-| 10K | 28.00% | ~66 |
+| 10K | 29.00% | ~68 |
 | Bouncemato | 28.00% | ~52 |
-| 15K | 26.00% | ~61 |
+| 15K | 27.00% | ~63 |
 | Quick-Draw Pod | 22.00% | ~40 |
 | Professional Survivor | 22.00% | ~40 |
 | Grave Digger | 22.00% | ~40 |

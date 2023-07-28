@@ -5,12 +5,12 @@ Rating: 4.40 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,208 |
-| Ranidaphobia | 77.00% | ~1,000 |
-| Aspiring Editor | 75.00% | ~974 |
-| Gun for Hire | 70.00% | ~909 |
-| I am the law! | 64.00% | ~831 |
-| Lumberjack | 52.00% | ~675 |
+| First Blood | 93.00% | ~1,209 |
+| Ranidaphobia | 77.00% | ~1,001 |
+| Aspiring Editor | 75.00% | ~975 |
+| Gun for Hire | 70.00% | ~910 |
+| I am the law! | 64.00% | ~832 |
+| Lumberjack | 52.00% | ~676 |
 | Croaked | 48.00% | ~624 |
 | Limp Richard | 47.00% | ~611 |
 | Exorcist | 47.00% | ~611 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 692)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299 (Ranked 182)  
+Progressed: 1,300 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 1,291 | 0 |
 | 2023-07-26 | 1,296 | 0 |
 | 2023-07-27 | 1,299 | 0 |
+| 2023-07-28 | 1,300 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

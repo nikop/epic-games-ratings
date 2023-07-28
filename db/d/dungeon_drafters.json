@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "git_gud?",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:57:53.8769461+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:03:37.1803788+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:09.4299221+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:51:53.1011208+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:57:53.8769721+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:57:49.4828265+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:03:37.1804359+00:00"
 }

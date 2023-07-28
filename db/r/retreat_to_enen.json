@@ -3,12 +3,12 @@
   "Name": "Retreat To Enen",
   "ProductSlug": "retreat-to-enen-60ef78",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-01T15:00:00+00:00",
     "PcReleaseDate": "2022-08-01T15:00:00+00:00",
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2022-11-08T22:57:32.4322225+00:00",
   "LastChanged": "2023-03-31T05:57:45.364254+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.108789+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:52:43.5338563+00:00",
-  "LastUpdate_Achievements": "2023-07-28T02:00:28.0523478+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:58:39.6923718+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:06:16.6432621+00:00"
 }

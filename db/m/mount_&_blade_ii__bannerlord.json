@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5961,9 +5961,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57135,
+  "EOS_Progressed": 57138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16231,6 +16231,11 @@
       "Time": "2023-07-28T01:56:00.3419333+00:00",
       "NumProgressed": 57135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T03:01:57.8444017+00:00",
+      "NumProgressed": 57138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16298,7 +16303,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "Crackshot",
@@ -16314,7 +16319,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "Duelist",
@@ -16370,7 +16375,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "Great Granny",
@@ -16410,7 +16415,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "I spit on your grave",
@@ -16466,7 +16471,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17712
+      "UsersEstimate": 17713
     },
     {
       "ID": "Lawbringer",
@@ -16474,7 +16479,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21140
+      "UsersEstimate": 21141
     },
     {
       "ID": "Lawmaker",
@@ -16498,7 +16503,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4000
     },
     {
       "ID": "Minor Clan",
@@ -16634,7 +16639,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -16649,15 +16654,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57135,
+      "Progressed": 57138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-27T14:01:04.2072215+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:56:00.3419327+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:01:57.8444008+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:44.2716564+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:55:06.810519+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:56:00.3420322+00:00"
+  "LastUpdate_Ratings": "2023-07-28T03:00:57.5184009+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:01:57.8445285+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Men of War Assault Squad",
   "ProductSlug": "men-of-war-assault-squad-1294b4",
   "Ranking_Rating": 184,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2011-02-25T18:00:00+00:00",
@@ -76,6 +76,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0535981+00:00",
   "LastChanged": "2023-06-27T20:00:33.8988333+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.6060115+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:55:37.0356647+00:00",
-  "LastUpdate_Achievements": "2023-07-28T02:01:30.0022168+00:00"
+  "LastUpdate_Ratings": "2023-07-28T03:01:30.4248661+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:07:16.4040094+00:00"
 }

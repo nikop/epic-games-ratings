@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3601,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5379,8 +5379,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:58:24.3560559+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:04:26.8245127+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:12.2726815+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:53:30.8247922+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:58:24.3561345+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:59:26.6837836+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:04:26.8246649+00:00"
 }

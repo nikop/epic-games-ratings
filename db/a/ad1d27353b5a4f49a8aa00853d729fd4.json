@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -128,33 +128,33 @@
       "ID": "double_orbs",
       "SetID": "94981fl",
       "Name": "double orbs",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "double_score",
       "SetID": "94981fl",
       "Name": "double score",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "invincible",
       "SetID": "94981fl",
       "Name": "the invincible",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "killing_machine",
       "SetID": "94981fl",
       "Name": "killing machine",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "laserbot",
@@ -192,9 +192,9 @@
       "ID": "no_scratches",
       "SetID": "94981fl",
       "Name": "no scratches!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "plasmagun",
@@ -240,9 +240,9 @@
       "ID": "super_combo_10x",
       "SetID": "94981fl",
       "Name": "super combo",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "super_gun",
@@ -256,9 +256,9 @@
       "ID": "super_killing_machine",
       "SetID": "94981fl",
       "Name": "super killing machine",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "super_shield",
@@ -272,9 +272,9 @@
       "ID": "the_magneto",
       "SetID": "94981fl",
       "Name": "the magneto",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "the_number_one",
@@ -296,9 +296,9 @@
       "ID": "ultra_killing_machine",
       "SetID": "94981fl",
       "Name": "ultra killing machine",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -310,8 +310,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:57:42.9348638+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:03:26.1580164+00:00",
   "LastUpdate_AppInfo": "2023-07-21T10:56:52.0557191+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:51:01.9878672+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:57:42.9348864+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:57:01.9745762+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:03:26.1580642+00:00"
 }

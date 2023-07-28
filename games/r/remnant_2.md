@@ -5,48 +5,48 @@ Rating: 4.80 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~6,190 |
-| The Killing Jar | 7.00% | ~4,333 |
-| Not Your Average Trait | 7.00% | ~4,333 |
-| Expanding Horizons | 6.00% | ~3,714 |
-| Quest for Survival | 5.00% | ~3,095 |
-| Boss'n Up | 4.00% | ~2,476 |
-| Trait Chaser | 4.00% | ~2,476 |
-| Gleaming the Cube | 3.00% | ~1,857 |
-| Familiar Face | 3.00% | ~1,857 |
-| Duality | 3.00% | ~1,857 |
-| Make Some Room | 3.00% | ~1,857 |
-| Not So Special Now | 2.00% | ~1,238 |
-| Not a Janitor | 2.00% | ~1,238 |
-| Equal Measures | 2.00% | ~1,238 |
-| Blue Goddess | 2.00% | ~1,238 |
-| Top Performer | 2.00% | ~1,238 |
-| Almost There | 2.00% | ~1,238 |
-| Good, But Could Be Better! | 2.00% | ~1,238 |
-| Chaos | 1.00% | ~619 |
-| Traitor | 1.00% | ~619 |
-| Power Surge | 1.00% | ~619 |
-| The God Gambit | 1.00% | ~619 |
-| Dark Designs | 1.00% | ~619 |
-| Madman's Paradise | 1.00% | ~619 |
-| The Agenda | 1.00% | ~619 |
-| Shhh...It's a Secret | 1.00% | ~619 |
-| Was This Supposed To Happen? | 1.00% | ~619 |
-| The Web | 1.00% | ~619 |
-| Bad Moon Rising | 0.70% | ~433 |
-| Am I Seeing This? | 0.60% | ~371 |
-| Only Human | 0.60% | ~371 |
-| Scrap Collector | 0.60% | ~371 |
-| All These Traits� | 0.60% | ~371 |
-| Red Room | 0.50% | ~309 |
-| Strapped | 0.50% | ~309 |
-| No One Should Have All That Power | 0.50% | ~309 |
-| Forever is a Long Time Coming | 0.40% | ~248 |
-| Tall Tales | 0.40% | ~248 |
-| Edgelord | 0.40% | ~248 |
-| The Ultimate Weapon | 0.40% | ~248 |
-| Transmutate | 0.40% | ~248 |
-| Maxed Out! | 0.30% | ~186 |
+| First of Many | 10.00% | ~6,224 |
+| The Killing Jar | 7.00% | ~4,357 |
+| Not Your Average Trait | 7.00% | ~4,357 |
+| Expanding Horizons | 6.00% | ~3,734 |
+| Quest for Survival | 5.00% | ~3,112 |
+| Boss'n Up | 4.00% | ~2,489 |
+| Trait Chaser | 4.00% | ~2,489 |
+| Gleaming the Cube | 3.00% | ~1,867 |
+| Familiar Face | 3.00% | ~1,867 |
+| Duality | 3.00% | ~1,867 |
+| Make Some Room | 3.00% | ~1,867 |
+| Not So Special Now | 2.00% | ~1,245 |
+| Not a Janitor | 2.00% | ~1,245 |
+| Equal Measures | 2.00% | ~1,245 |
+| Blue Goddess | 2.00% | ~1,245 |
+| Top Performer | 2.00% | ~1,245 |
+| Almost There | 2.00% | ~1,245 |
+| Good, But Could Be Better! | 2.00% | ~1,245 |
+| Chaos | 1.00% | ~622 |
+| Traitor | 1.00% | ~622 |
+| Power Surge | 1.00% | ~622 |
+| The God Gambit | 1.00% | ~622 |
+| Dark Designs | 1.00% | ~622 |
+| Madman's Paradise | 1.00% | ~622 |
+| The Agenda | 1.00% | ~622 |
+| Shhh...It's a Secret | 1.00% | ~622 |
+| Was This Supposed To Happen? | 1.00% | ~622 |
+| The Web | 1.00% | ~622 |
+| Bad Moon Rising | 0.70% | ~436 |
+| Am I Seeing This? | 0.60% | ~373 |
+| Only Human | 0.60% | ~373 |
+| Scrap Collector | 0.60% | ~373 |
+| All These Traits� | 0.60% | ~373 |
+| Red Room | 0.50% | ~311 |
+| Strapped | 0.50% | ~311 |
+| No One Should Have All That Power | 0.50% | ~311 |
+| Forever is a Long Time Coming | 0.40% | ~249 |
+| Tall Tales | 0.40% | ~249 |
+| Edgelord | 0.40% | ~249 |
+| The Ultimate Weapon | 0.40% | ~249 |
+| Transmutate | 0.40% | ~249 |
+| Maxed Out! | 0.30% | ~187 |
 | Ghost in the Machine | 0.20% | ~124 |
 | Scrap Hoarder | 0.20% | ~124 |
 | Carnage in C-Minor | 0.20% | ~124 |
@@ -56,7 +56,7 @@ Rating: 4.80 (Ranked 83)
 | The Collector | 0.10% | ~62 |
 | Proving Grounds | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,899 (Ranked 82)  
+Progressed: 62,237 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,17 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 36,632 | 0 |
 | 2023-07-26 | 50,265 | 0 |
 | 2023-07-27 | 60,936 | 0 |
-| 2023-07-28 | 61,899 | 0 |
+| 2023-07-28 | 62,237 | 0 |
+## Awards
+Max (Great Boss Battles): 24  (Ranked 479)  
+Sum: 24 (Ranked 483)  
+Diff (max vs sum): -4  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-07-26 | 4.80 | 0 | 0 |
 | 2023-07-27 | 4.81 | 0 | 0 |
-| 2023-07-28 | 4.80 | 0 | 0 |
+| 2023-07-28 | 4.80 | 24 | 24 |

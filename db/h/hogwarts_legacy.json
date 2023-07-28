@@ -5562,9 +5562,9 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288707,
+  "EOS_Progressed": 288712,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16147,6 +16147,11 @@
       "Time": "2023-07-28T01:59:17.2982208+00:00",
       "NumProgressed": 288707,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-28T03:05:17.8081614+00:00",
+      "NumProgressed": 288712,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 45,
@@ -16198,7 +16203,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14435
+      "UsersEstimate": 14436
     },
     {
       "ID": "PFA_15",
@@ -16206,7 +16211,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17322
+      "UsersEstimate": 17323
     },
     {
       "ID": "PFA_16",
@@ -16222,7 +16227,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17322
+      "UsersEstimate": 17323
     },
     {
       "ID": "PFA_18",
@@ -16230,7 +16235,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20209
+      "UsersEstimate": 20210
     },
     {
       "ID": "PFA_19",
@@ -16238,7 +16243,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17322
+      "UsersEstimate": 17323
     },
     {
       "ID": "PFA_2",
@@ -16294,7 +16299,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14435
+      "UsersEstimate": 14436
     },
     {
       "ID": "PFA_26",
@@ -16326,7 +16331,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14435
+      "UsersEstimate": 14436
     },
     {
       "ID": "PFA_3",
@@ -16446,7 +16451,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14435
+      "UsersEstimate": 14436
     },
     {
       "ID": "PFA_43",
@@ -16462,7 +16467,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20209
+      "UsersEstimate": 20210
     },
     {
       "ID": "PFA_45",
@@ -16517,7 +16522,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288707,
+      "Progressed": 288712,
       "Completed": 435
     }
   ],
@@ -16525,8 +16530,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-27T19:58:23.7947103+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:59:17.2982202+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:05:17.8081609+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:52:03.5684655+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:59:17.2983021+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:58:00.5357735+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:05:17.8083049+00:00"
 }

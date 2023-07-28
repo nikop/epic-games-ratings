@@ -3,12 +3,12 @@
   "Name": "Suzerain",
   "ProductSlug": "suzerain",
   "Ranking_Rating": 214,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-05-20T14:00:00+00:00",
     "PcReleaseDate": "2020-12-04T15:00:00+00:00",
@@ -76,6 +76,6 @@
   "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
   "LastChanged": "2023-06-19T06:59:54.4759041+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.9463982+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:54:17.5244444+00:00",
-  "LastUpdate_Achievements": "2023-07-28T02:01:11.9489367+00:00"
+  "LastUpdate_Ratings": "2023-07-28T03:00:13.7082704+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:06:59.3581374+00:00"
 }

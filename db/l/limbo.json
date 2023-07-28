@@ -3,12 +3,12 @@
   "Name": "Limbo",
   "ProductSlug": "limbo",
   "Ranking_Rating": 349,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2010-07-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -418,6 +418,6 @@
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
   "LastChanged": "2023-06-13T02:08:41.1758773+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:49.9457126+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:53:00.7185594+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:59:17.7397957+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:58:58.8919866+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:05:18.1678676+00:00"
 }

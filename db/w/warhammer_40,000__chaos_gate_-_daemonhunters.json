@@ -5,10 +5,10 @@
   "Ranking_Rating": 411,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 303,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -630,9 +630,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3055,
+  "EOS_Progressed": 3057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2610,6 +2610,11 @@
       "Time": "2023-07-28T01:58:32.8597502+00:00",
       "NumProgressed": 3055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T03:04:35.1122473+00:00",
+      "NumProgressed": 3057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2635,9 +2640,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "BloodAndIron",
@@ -2787,9 +2792,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "Kills_Bleed",
@@ -2947,9 +2952,9 @@
       "ID": "MissionVictory_NoAmmo",
       "SetID": "3jha1np",
       "Name": "Efficient Killer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -3164,21 +3169,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3055,
+      "Progressed": 3057,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3055,
+      "Progressed": 3057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-27T01:49:58.5099342+00:00",
-  "LastChanged_Achievements": "2023-07-28T01:58:32.8597494+00:00",
+  "LastChanged_Achievements": "2023-07-28T03:04:35.1122468+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-28T01:53:45.2893897+00:00",
-  "LastUpdate_Achievements": "2023-07-28T01:58:32.8598174+00:00"
+  "LastUpdate_Ratings": "2023-07-28T02:59:40.5891153+00:00",
+  "LastUpdate_Achievements": "2023-07-28T03:04:35.1123339+00:00"
 }

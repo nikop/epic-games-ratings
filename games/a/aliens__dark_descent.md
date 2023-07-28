@@ -39,9 +39,9 @@ Rating: 4.42 (Ranked 662)
 | Abysmal Horrors | 17.00% | ~520 |
 | Bandage Lover | 16.00% | ~489 |
 | Regicide | 12.00% | ~367 |
+| Heavy Steps | 11.00% | ~336 |
 | Flawless Victory | 10.00% | ~306 |
 | This Went Smoothly | 10.00% | ~306 |
-| Heavy Steps | 10.00% | ~306 |
 | Perfect Enhancements | 8.00% | ~244 |
 | The True Experience | 6.00% | ~183 |
 | Hardened In The Heat Of Battle | 5.00% | ~153 |
@@ -51,7 +51,7 @@ Rating: 4.42 (Ranked 662)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,056 (Ranked 153)  
+Progressed: 3,056 (Ranked 154)  
 Completed: 1 (0.03%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

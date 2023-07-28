@@ -21,15 +21,15 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 8.00% | ~23,097 |
 | Followed the Butterflies | 8.00% | ~23,097 |
 | Rising From the Ashes | 8.00% | ~23,097 |
-| A Sallow Grave | 7.00% | ~20,209 |
-| The Spell Master | 7.00% | ~20,209 |
-| The Avenging Gazelle | 6.00% | ~17,322 |
-| Beast Friends | 6.00% | ~17,322 |
-| Flight the Good Flight | 6.00% | ~17,322 |
-| The Seeker of Knowledge | 5.00% | ~14,435 |
-| The Root of the Problem | 5.00% | ~14,435 |
-| Third Time's a Charm | 5.00% | ~14,435 |
-| Raising Expectations | 5.00% | ~14,435 |
+| A Sallow Grave | 7.00% | ~20,210 |
+| The Spell Master | 7.00% | ~20,210 |
+| The Avenging Gazelle | 6.00% | ~17,323 |
+| Beast Friends | 6.00% | ~17,323 |
+| Flight the Good Flight | 6.00% | ~17,323 |
+| The Seeker of Knowledge | 5.00% | ~14,436 |
+| The Root of the Problem | 5.00% | ~14,436 |
+| Third Time's a Charm | 5.00% | ~14,436 |
+| Raising Expectations | 5.00% | ~14,436 |
 | The Toast of the Town | 4.00% | ~11,548 |
 | The Ends Petrify the Means | 4.00% | ~11,548 |
 | Going Through the Potions | 3.00% | ~8,661 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,732 |
 | Collector's Edition | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,707 (Ranked 42)  
+Progressed: 288,712 (Ranked 42)  
 Completed: 435 (0.15%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 435 (0.15%) (Ranked 177)
 | 2023-07-25 | 288,561 | 434 |
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
-| 2023-07-28 | 288,707 | 435 |
+| 2023-07-28 | 288,712 | 435 |
 ## Awards
 Max (Character Customization): 21,330  (Ranked 17)  
 Sum: 40,004 (Ranked 30)  
