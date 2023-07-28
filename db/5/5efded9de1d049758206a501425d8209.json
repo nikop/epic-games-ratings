@@ -2,10 +2,10 @@
   "ID": "5efded9de1d049758206a501425d8209",
   "Name": "Raini: The Lords of Light",
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-24T02:00:00+00:00",
     "PcReleaseDate": "2023-07-24T02:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:00.7436667+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:57:17.1557358+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:35.2408367+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:57:38.732461+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:04:09.0335046+00:00"
 }

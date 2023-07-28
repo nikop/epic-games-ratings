@@ -3,9 +3,9 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.69,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2023-07-27T21:05:33.3081143+00:00",
       "NumProgressed": 236,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-28T07:05:08.1310257+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -474,9 +479,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -522,9 +527,9 @@
       "ID": "ACH_ROOSTEREAT",
       "SetID": "ao59f0i",
       "Name": "Tastes Like Chicken",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SHARD_1",
@@ -532,7 +537,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_SHARD_2",
@@ -562,9 +567,9 @@
       "ID": "ACH_SHARD_5",
       "SetID": "ao59f0i",
       "Name": "Fifth Shard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TROLL",
@@ -595,7 +600,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 4
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:04:44.8879163+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:08.1310247+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:57.6759163+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:01:17.0759181+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:04:44.8879406+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:44.9047386+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:08.1310517+00:00"
 }

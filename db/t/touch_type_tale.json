@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3082,
+  "EOS_Progressed": 3083,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2023-07-27T22:06:18.8942412+00:00",
       "NumProgressed": 3082,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-28T07:05:03.477195+00:00",
+      "NumProgressed": 3083,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2580,7 +2585,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "bonus2",
@@ -2628,7 +2633,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "campaign10",
@@ -2716,7 +2721,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "campaign20",
@@ -2732,7 +2737,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "campaign4",
@@ -2740,7 +2745,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "campaign5",
@@ -2780,7 +2785,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "scenario1",
@@ -2796,7 +2801,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "scenario3",
@@ -2843,7 +2848,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3082,
+      "Progressed": 3083,
       "Completed": 10
     }
   ],
@@ -2851,8 +2856,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:04:40.0552993+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:03.4771943+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:06.9778965+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:01:29.6759206+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:04:40.0553468+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:59.7714537+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:03.4772459+00:00"
 }

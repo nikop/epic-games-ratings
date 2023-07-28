@@ -6,9 +6,9 @@
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 51,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226962,
+  "EOS_Progressed": 226965,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10468,6 +10468,11 @@
       "Time": "2023-07-28T06:05:39.5739994+00:00",
       "NumProgressed": 226962,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-28T07:06:03.0547042+00:00",
+      "NumProgressed": 226965,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10543,7 +10548,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81706
+      "UsersEstimate": 81707
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -10623,7 +10628,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77167
+      "UsersEstimate": 77168
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -10679,7 +10684,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9078
+      "UsersEstimate": 9079
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -10702,7 +10707,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226962,
+      "Progressed": 226965,
       "Completed": 3
     }
   ],
@@ -10710,8 +10715,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:05:39.5739987+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:06:03.0547034+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:46.0439189+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:01:01.3468181+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:05:39.5741127+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:29.7993713+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:06:03.0548501+00:00"
 }

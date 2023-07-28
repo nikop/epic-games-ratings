@@ -17,8 +17,8 @@ Rating: 4.55 (Ranked 481)
 | Gun for Hire | 9.00% | ~835 |
 | Mischief Managed | 8.00% | ~742 |
 | Vice City Mogul | 7.00% | ~649 |
-| Catch Me if You Can | 6.00% | ~556 |
-| Bloodstained Hands | 6.00% | ~556 |
+| Catch Me if You Can | 6.00% | ~557 |
+| Bloodstained Hands | 6.00% | ~557 |
 | Not my First Time | 5.00% | ~464 |
 | Grand Theft Auto | 5.00% | ~464 |
 | Pie Guy | 4.00% | ~371 |
@@ -31,17 +31,17 @@ Rating: 4.55 (Ranked 481)
 | Don't Need Roads | 3.00% | ~278 |
 | One is Better Than Two | 2.00% | ~186 |
 | Take the Cannoli | 2.00% | ~186 |
+| Chopper’d Up | 2.00% | ~186 |
 | City Sleuth | 2.00% | ~186 |
 | Daredevil | 1.00% | ~93 |
-| Chopper’d Up | 1.00% | ~93 |
 | Born in the 80’s | 0.90% | ~83 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~83 |
 | I'm Famous! | 0.90% | ~83 |
 | Done it All | 0.80% | ~74 |
 | Kingpin | 0.50% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,275 (Ranked 123)  
-Completed: 43 (0.46%) (Ranked 136)  
+Progressed: 9,276 (Ranked 123)  
+Completed: 43 (0.46%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 43 (0.46%) (Ranked 136)
 | 2023-07-25 | 9,194 | 43 |
 | 2023-07-26 | 9,229 | 43 |
 | 2023-07-27 | 9,264 | 43 |
-| 2023-07-28 | 9,275 | 43 |
+| 2023-07-28 | 9,276 | 43 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 384)  
 Sum: 63 (Ranked 442)  

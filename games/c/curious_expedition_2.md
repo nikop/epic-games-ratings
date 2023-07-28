@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 320 (Ranked 249)  
-Completed: 1 (0.31%) (Ranked 150)  
+Completed: 1 (0.31%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

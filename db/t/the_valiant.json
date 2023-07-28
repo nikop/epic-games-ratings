@@ -2,10 +2,10 @@
   "ID": "239ed3368b8c4218bac2e15dccb3f0e6",
   "Name": "The Valiant",
   "ProductSlug": "the-valiant",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-19T17:00:00+00:00",
     "PcReleaseDate": "2022-10-19T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.0340673+00:00",
   "LastChanged": "2023-03-31T05:57:24.0340674+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:07.495152+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:57:14.3077729+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:09.8271789+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:57:36.7475117+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:03:24.4487096+00:00"
 }

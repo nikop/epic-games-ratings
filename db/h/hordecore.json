@@ -3,9 +3,9 @@
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -373,8 +373,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:04:38.2530242+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:01.668925+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:50.0014252+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:01:06.7558075+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:04:38.2530608+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:35.4570988+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:01.6689482+00:00"
 }

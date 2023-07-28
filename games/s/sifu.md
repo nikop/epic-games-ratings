@@ -20,18 +20,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,233 |
 | Rumble in the Hangar | 2.00% | ~14,233 |
 | Bloody Sport | 2.00% | ~419 |
-| Lady Wing Chun | 1.00% | ~7,116 |
-| Furious Fists | 1.00% | ~7,116 |
-| Scareless | 1.00% | ~7,116 |
-| Kill Nil | 1.00% | ~7,116 |
-| Stuntmaster | 1.00% | ~7,116 |
-| Dance of the Praying Mantis | 1.00% | ~7,116 |
-| Street Fighting | 1.00% | ~7,116 |
-| Qi Gong: Mind | 1.00% | ~7,116 |
-| I know Kung-Fu | 1.00% | ~7,116 |
-| Old Child | 1.00% | ~7,116 |
-| Kung-Fu Tussle | 1.00% | ~7,116 |
-| Take damage to save time | 1.00% | ~7,116 |
+| Lady Wing Chun | 1.00% | ~7,117 |
+| Furious Fists | 1.00% | ~7,117 |
+| Scareless | 1.00% | ~7,117 |
+| Kill Nil | 1.00% | ~7,117 |
+| Stuntmaster | 1.00% | ~7,117 |
+| Dance of the Praying Mantis | 1.00% | ~7,117 |
+| Street Fighting | 1.00% | ~7,117 |
+| Qi Gong: Mind | 1.00% | ~7,117 |
+| I know Kung-Fu | 1.00% | ~7,117 |
+| Old Child | 1.00% | ~7,117 |
+| Kung-Fu Tussle | 1.00% | ~7,117 |
+| Take damage to save time | 1.00% | ~7,117 |
 | The best strikes are the ones we avoid | 1.00% | ~210 |
 | Muk Yan Master | 0.70% | ~4,982 |
 | Tiger on Fire | 0.70% | ~4,982 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,649 (Ranked 20)  
-Completed: 12,833 (1.80%) (Ranked 87)  
+Progressed: 711,654 (Ranked 20)  
+Completed: 12,833 (1.80%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,7 +156,7 @@ Completed: 12,833 (1.80%) (Ranked 87)
 | 2023-07-25 | 711,485 | 12,833 |
 | 2023-07-26 | 711,558 | 12,833 |
 | 2023-07-27 | 711,630 | 12,833 |
-| 2023-07-28 | 711,649 | 12,833 |
+| 2023-07-28 | 711,654 | 12,833 |
 ## Awards
 Max (Great Boss Battles): 6,312  (Ranked 53)  
 Sum: 10,830 (Ranked 79)  

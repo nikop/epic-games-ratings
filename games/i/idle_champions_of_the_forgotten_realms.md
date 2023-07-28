@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.30% | ~649 |
 | Best Thay Ever | 0.30% | ~548 |
 | A Demi-god's Defender | 0.30% | ~548 |
+| Who Lurks Below? | 0.30% | ~548 |
 | Xanathaaaaaaar! | 0.30% | ~548 |
 | Homecoming | 0.30% | ~649 |
 | The Lost Heir of Omu | 0.30% | ~649 |
@@ -116,7 +117,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~365 |
 | Checkmate | 0.20% | ~365 |
 | Vecna Out! | 0.20% | ~365 |
-| Who Lurks Below? | 0.20% | ~365 |
 | Anti-Dexterous Explorers | 0.20% | ~433 |
 | Lobsterfolk Assault | 0.20% | ~433 |
 | Periodic Petrification | 0.20% | ~433 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,255 (Ranked 53)  
-Completed: 2,130 (0.98%) (Ranked 108)  
+Progressed: 216,264 (Ranked 53)  
+Completed: 2,130 (0.98%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -618,7 +618,7 @@ Completed: 2,130 (0.98%) (Ranked 108)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,255 | 2,130 |
+| 2023-07-28 | 216,264 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,768 (Ranked 38)  

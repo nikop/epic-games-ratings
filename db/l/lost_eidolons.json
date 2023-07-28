@@ -6,9 +6,9 @@
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1195,9 +1195,9 @@
       "ID": "03",
       "SetID": "73ikgfc",
       "Name": "Life or Death",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "04",
@@ -1372,8 +1372,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:02:20.6406961+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:03:15.5419243+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.8588633+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:00:53.1996475+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:02:20.6407508+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:20.2295034+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:03:15.5419527+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -5400,7 +5400,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711649,
+  "EOS_Progressed": 711654,
   "EOS_Completed": 12833,
   "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 6,
@@ -14710,6 +14710,11 @@
       "Time": "2023-07-28T06:07:38.8526099+00:00",
       "NumProgressed": 711649,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-28T07:08:02.1164025+00:00",
+      "NumProgressed": 711654,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -14753,7 +14758,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "06_Vengeance_H5",
@@ -14761,7 +14766,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "07_Wude_H1",
@@ -14809,7 +14814,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "13_LowAge",
@@ -14825,7 +14830,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "15_Detective_H1",
@@ -14873,7 +14878,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -14881,7 +14886,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -14889,7 +14894,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -14913,7 +14918,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "26_ShrineSpirit",
@@ -14953,7 +14958,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "31_ComboHigh",
@@ -14969,7 +14974,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "33_BladeOneShot",
@@ -14993,7 +14998,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -15033,7 +15038,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -15120,21 +15125,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20950,
+      "Progressed": 20955,
       "Completed": 10448
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711649,
+      "Progressed": 711654,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-27T21:01:05.604728+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:07:38.8526092+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:08:02.116402+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:00:05.3992748+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:07:38.8527517+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:00:28.8494672+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:08:02.116508+00:00"
 }

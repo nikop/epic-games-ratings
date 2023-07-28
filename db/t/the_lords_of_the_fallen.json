@@ -2,10 +2,10 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen-2-46fdd6",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-13T20:00:00+00:00",
     "PcReleaseDate": "2023-10-13T20:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:50.8318339+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:09.090366+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:02:04.2354721+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:30.979327+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:02:39.3748994+00:00"
 }

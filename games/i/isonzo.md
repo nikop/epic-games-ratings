@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,473 (Ranked 133)  
-Completed: 8 (0.12%) (Ranked 184)  
+Completed: 8 (0.12%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

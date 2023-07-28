@@ -6,9 +6,9 @@
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -630,7 +630,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3058,
+  "EOS_Progressed": 3059,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -2620,6 +2620,11 @@
       "Time": "2023-07-28T05:04:04.5364829+00:00",
       "NumProgressed": 3058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T07:05:02.6839298+00:00",
+      "NumProgressed": 3059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2901,17 +2906,17 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterOfTheForge",
@@ -3077,9 +3082,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "StrategicCommand",
@@ -3174,21 +3179,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3058,
+      "Progressed": 3059,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3058,
+      "Progressed": 3059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-27T01:49:58.5099342+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:04:39.2112839+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:02.6839289+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:21.6715274+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:46.7681037+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:04:39.2113777+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:00:10.1520649+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:02.684027+00:00"
 }

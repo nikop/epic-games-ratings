@@ -6,42 +6,42 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~17,710 |
-| The Evilest Evil | 58.00% | ~14,674 |
-| Twistram is devastated | 58.00% | ~14,674 |
-| The Gehenna Stones | 50.00% | ~12,650 |
-| No one has to die today! | 46.00% | ~11,638 |
-| Death and destruction! | 45.00% | ~11,385 |
-| The Swamplanders from the swamplands | 44.00% | ~11,132 |
-| The One-Huge-Army-Building Evil | 41.00% | ~10,373 |
-| Rusty Steel | 41.00% | ~10,373 |
-| The last burger | 38.00% | ~9,614 |
-| Braiiiiins! | 38.00% | ~9,614 |
-| Hands off the Dungeonheart! | 36.00% | ~9,108 |
-| A trip on sea, what fun it can be | 35.00% | ~8,855 |
-| Damned good | 33.00% | ~8,349 |
-| Factory farming | 32.00% | ~8,096 |
-| Stock Market Crash | 31.00% | ~7,843 |
-| Not-So-Overproud | 30.00% | ~7,590 |
-| For a handfull of Catapults | 29.00% | ~7,337 |
-| Shadow hunter | 29.00% | ~7,337 |
-| Thirst quencher | 28.00% | ~7,084 |
-| Ogre Solo! | 28.00% | ~7,084 |
-| Tide Master | 27.00% | ~6,831 |
-| Destroy the thing | 26.00% | ~6,578 |
-| Difficult family relationships | 25.00% | ~6,325 |
-| MASS-O-BOT | 25.00% | ~6,325 |
-| Prepare the grave | 25.00% | ~6,325 |
-| Angel of Fire | 25.00% | ~6,325 |
-| Where there is Light, there is Shadow | 24.00% | ~6,072 |
-| At the foot of Mount Destiny | 23.00% | ~5,819 |
-| The Force disturbed | 22.00% | ~5,566 |
-| The Victorious Evil | 20.00% | ~5,060 |
-| We don’t have time! | 20.00% | ~5,060 |
-| Chorus of damnation | 19.00% | ~4,807 |
-| The Stones’ Power | 18.00% | ~4,554 |
-| Lifeguard | 18.00% | ~4,554 |
-| Flat as a pancake | 17.00% | ~4,301 |
+| The Shadow strikes | 70.00% | ~17,712 |
+| The Evilest Evil | 58.00% | ~14,676 |
+| Twistram is devastated | 58.00% | ~14,676 |
+| The Gehenna Stones | 50.00% | ~12,652 |
+| No one has to die today! | 46.00% | ~11,639 |
+| Death and destruction! | 45.00% | ~11,386 |
+| The Swamplanders from the swamplands | 44.00% | ~11,133 |
+| The One-Huge-Army-Building Evil | 41.00% | ~10,374 |
+| Rusty Steel | 41.00% | ~10,374 |
+| The last burger | 38.00% | ~9,615 |
+| Braiiiiins! | 38.00% | ~9,615 |
+| Hands off the Dungeonheart! | 36.00% | ~9,109 |
+| A trip on sea, what fun it can be | 35.00% | ~8,856 |
+| Damned good | 33.00% | ~8,350 |
+| Factory farming | 32.00% | ~8,097 |
+| Stock Market Crash | 31.00% | ~7,844 |
+| Not-So-Overproud | 30.00% | ~7,591 |
+| For a handfull of Catapults | 29.00% | ~7,338 |
+| Shadow hunter | 29.00% | ~7,338 |
+| Thirst quencher | 28.00% | ~7,085 |
+| Ogre Solo! | 28.00% | ~7,085 |
+| Tide Master | 27.00% | ~6,832 |
+| Destroy the thing | 26.00% | ~6,579 |
+| Difficult family relationships | 25.00% | ~6,326 |
+| MASS-O-BOT | 25.00% | ~6,326 |
+| Prepare the grave | 25.00% | ~6,326 |
+| Angel of Fire | 25.00% | ~6,326 |
+| Where there is Light, there is Shadow | 24.00% | ~6,073 |
+| At the foot of Mount Destiny | 23.00% | ~5,820 |
+| The Force disturbed | 22.00% | ~5,567 |
+| The Victorious Evil | 20.00% | ~5,061 |
+| We don’t have time! | 20.00% | ~5,061 |
+| Chorus of damnation | 19.00% | ~4,808 |
+| The Stones’ Power | 18.00% | ~4,555 |
+| Lifeguard | 18.00% | ~4,555 |
+| Flat as a pancake | 17.00% | ~4,302 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~4,048 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,036 |
 | Then let them eat cake! | 12.00% | ~3,036 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~506 |
 | Sacrifices! | 2.00% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,300 (Ranked 100)  
-Completed: 208 (0.82%) (Ranked 112)  
+Progressed: 25,303 (Ranked 100)  
+Completed: 208 (0.82%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 208 (0.82%) (Ranked 112)
 | 2023-07-25 | 25,099 | 208 |
 | 2023-07-26 | 25,174 | 208 |
 | 2023-07-27 | 25,275 | 208 |
-| 2023-07-28 | 25,300 | 208 |
+| 2023-07-28 | 25,303 | 208 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,599 (Ranked 172)  

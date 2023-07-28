@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 698 (Ranked 205)  
-Completed: 1 (0.14%) (Ranked 181)  
+Completed: 1 (0.14%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

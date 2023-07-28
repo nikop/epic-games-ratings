@@ -62,7 +62,7 @@ Rating: 4.49 (Ranked 573)
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,696 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

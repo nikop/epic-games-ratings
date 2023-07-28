@@ -2,10 +2,10 @@
   "ID": "9df0882d086e4c6c97d720c796675ab3",
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.1076803+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:58:43.3007475+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:06:56.0278616+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:03.7464897+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:07:19.2761904+00:00"
 }

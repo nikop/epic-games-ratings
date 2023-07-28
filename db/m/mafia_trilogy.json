@@ -1,10 +1,10 @@
 {
   "ID": "fb06f4b5bc25417cbe7c6217cf069649",
   "Name": "Mafia Trilogy",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:54.9870544+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:41.6257605+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:30.1856074+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:00:03.969662+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:04:04.5506453+00:00"
 }

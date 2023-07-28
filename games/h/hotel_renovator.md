@@ -5,36 +5,36 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~690 |
+| Good start | 76.00% | ~691 |
 | And so it begins | 72.00% | ~654 |
 | No pressure | 70.00% | ~636 |
-| Memento | 62.00% | ~563 |
+| Memento | 62.00% | ~564 |
 | Let there be light | 59.00% | ~536 |
-| I think you dropped this | 54.00% | ~490 |
-| Soulmate? | 53.00% | ~481 |
+| I think you dropped this | 54.00% | ~491 |
+| Soulmate? | 53.00% | ~482 |
 | Excellent service | 48.00% | ~436 |
 | Roll with it | 45.00% | ~409 |
-| Humble beginnings | 43.00% | ~390 |
-| Love is in the air | 43.00% | ~390 |
-| Fine, I'll do it myself | 42.00% | ~381 |
-| Moving up | 41.00% | ~372 |
-| No need to call anyone | 39.00% | ~354 |
-| Big fortune | 31.00% | ~281 |
-| Still more work ahead | 28.00% | ~254 |
+| Humble beginnings | 43.00% | ~391 |
+| Love is in the air | 43.00% | ~391 |
+| Fine, I'll do it myself | 41.00% | ~373 |
+| Moving up | 40.00% | ~364 |
+| No need to call anyone | 39.00% | ~355 |
+| Big fortune | 31.00% | ~282 |
+| Still more work ahead | 28.00% | ~255 |
 | Hotel sleuthing | 27.00% | ~245 |
 | Aesop's fable | 26.00% | ~236 |
 | Kaboom | 25.00% | ~227 |
 | Nearly there | 24.00% | ~218 |
 | Broken heart | 22.00% | ~200 |
 | Island boy | 20.00% | ~182 |
-| You're a star | 19.00% | ~173 |
-| Unstoppable | 17.00% | ~154 |
-| Reunited | 17.00% | ~154 |
+| You're a star | 18.00% | ~164 |
+| Unstoppable | 17.00% | ~155 |
+| Reunited | 17.00% | ~155 |
 | King of hospitality | 11.00% | ~100 |
 | Top spot in town | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 908 (Ranked 196)  
-Completed: 15 (1.65%) (Ranked 89)  
+Progressed: 909 (Ranked 196)  
+Completed: 15 (1.65%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 15 (1.65%) (Ranked 89)
 | 2023-07-25 | 899 | 15 |
 | 2023-07-26 | 902 | 15 |
 | 2023-07-27 | 907 | 15 |
-| 2023-07-28 | 908 | 15 |
+| 2023-07-28 | 909 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

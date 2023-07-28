@@ -6,9 +6,9 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -550,7 +550,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9275,
+  "EOS_Progressed": 9276,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
@@ -7180,6 +7180,11 @@
       "Time": "2023-07-28T06:04:51.8980388+00:00",
       "NumProgressed": 9275,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-28T07:05:15.2580846+00:00",
+      "NumProgressed": 9276,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7279,7 +7284,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH13",
@@ -7407,7 +7412,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH29",
@@ -7429,9 +7434,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 93
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH32",
@@ -7462,7 +7467,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9275,
+      "Progressed": 9276,
       "Completed": 43
     }
   ],
@@ -7470,8 +7475,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-28T02:59:02.4815641+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:04:51.8980383+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:15.2580837+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:52.3903688+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:10.4505857+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:04:51.8981282+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:32.3808619+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:15.2581687+00:00"
 }

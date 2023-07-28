@@ -6,9 +6,9 @@
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1770,9 +1770,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 20266,
+  "EOS_Progressed": 20267,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6680,6 +6680,11 @@
       "Time": "2023-07-28T06:07:34.6566872+00:00",
       "NumProgressed": 20266,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-28T07:07:57.577027+00:00",
+      "NumProgressed": 20267,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6697,9 +6702,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 142
     },
     {
       "ID": "ChangChoi",
@@ -6739,7 +6744,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19050
+      "UsersEstimate": 19051
     },
     {
       "ID": "GameOver",
@@ -6851,7 +6856,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "VeronicaLiptson",
@@ -6874,15 +6879,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20266,
+      "Progressed": 20267,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-25T20:00:38.5336394+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:07:34.6566863+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:07:57.5770264+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:00:42.4769736+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:07:34.6567386+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:01:09.9466546+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:07:57.5770953+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~293 |
-| Close call! | 72.00% | ~277 |
+| Close call! | 73.00% | ~281 |
 | Builder | 53.00% | ~204 |
 | Pangs of conscience | 47.00% | ~181 |
 | Living it large! | 43.00% | ~166 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 385 (Ranked 233)  
-Completed: 2 (0.52%) (Ranked 130)  
+Completed: 2 (0.52%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

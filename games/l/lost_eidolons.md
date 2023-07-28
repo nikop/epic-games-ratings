@@ -24,13 +24,13 @@ Rating: 4.33 (Ranked 758)
 | The Unvanquished | 2.00% | ~21 |
 | Let Us Cling Together | 2.00% | ~21 |
 | A Promised Voyage | 2.00% | ~21 |
+| Life or Death | 1.00% | ~11 |
 | First Bloom | 1.00% | ~11 |
-| Life or Death | 0.90% | ~10 |
 | Someone to Protect | 0.80% | ~8 |
 | Lean on Me | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,060 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

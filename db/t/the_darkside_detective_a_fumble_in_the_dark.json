@@ -2,10 +2,10 @@
   "ID": "87375f89fc4c4c7a8c681cf21febee06",
   "Name": "The Darkside Detective A Fumble in the Dark",
   "ProductSlug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-01T07:00:00+00:00",
     "PcReleaseDate": "2021-11-01T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.1206213+00:00",
   "LastChanged": "2023-03-31T05:58:21.1206214+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:21.6974804+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:58:32.2892731+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:06:29.9090963+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:58:55.3360599+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:06:52.9153438+00:00"
 }

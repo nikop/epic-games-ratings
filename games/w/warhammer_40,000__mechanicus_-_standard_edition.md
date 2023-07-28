@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 654)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,625 |
+| No aid from the Omnissiah | 25.00% | ~54,626 |
 | This is only the beginning | 19.00% | ~41,515 |
 | Knowledge is power | 12.00% | ~26,220 |
 | Power Ranger | 9.00% | ~19,665 |
@@ -26,22 +26,22 @@ Rating: 4.43 (Ranked 654)
 | Architect Abortion | 2.00% | ~4,370 |
 | Cohortus Maximus | 0.80% | ~1,748 |
 | Mother of Xenarites | 0.40% | ~874 |
-| False God | 0.30% | ~655 |
+| False God | 0.30% | ~656 |
 | Hard | 0.20% | ~437 |
 | Sensory overload | 0.20% | ~437 |
 | Transonic Blur | 0.20% | ~437 |
-| Sterile Perfection | 0.10% | ~218 |
-| Impossible | 0.10% | ~218 |
-| Melee Machine | 0.10% | ~218 |
-| AoE-phobia | 0.10% | ~218 |
-| Zero to Hero | 0.10% | ~218 |
-| No Omnissian Guidance | 0.10% | ~218 |
-| Not the Men-of-Iron | 0.10% | ~218 |
-| Perma-live | 0.10% | ~218 |
-| Purge the Heretek | 0.10% | ~218 |
+| Sterile Perfection | 0.10% | ~219 |
+| Impossible | 0.10% | ~219 |
+| Melee Machine | 0.10% | ~219 |
+| AoE-phobia | 0.10% | ~219 |
+| Zero to Hero | 0.10% | ~219 |
+| No Omnissian Guidance | 0.10% | ~219 |
+| Not the Men-of-Iron | 0.10% | ~219 |
+| Perma-live | 0.10% | ~219 |
+| Purge the Heretek | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,499 (Ranked 52)  
-Completed: 4 (0.00%) (Ranked 242)  
+Progressed: 218,502 (Ranked 52)  
+Completed: 4 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 4 (0.00%) (Ranked 242)
 | 2023-07-25 | 218,279 | 4 |
 | 2023-07-26 | 218,379 | 4 |
 | 2023-07-27 | 218,469 | 4 |
-| 2023-07-28 | 218,499 | 4 |
+| 2023-07-28 | 218,502 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
 Sum: 2,122 (Ranked 192)  

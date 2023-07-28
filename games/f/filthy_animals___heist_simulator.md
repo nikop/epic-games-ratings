@@ -34,7 +34,7 @@
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,513 (Ranked 129)  
-Completed: 0 (0.00%) (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

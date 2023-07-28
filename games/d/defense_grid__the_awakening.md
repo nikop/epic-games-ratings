@@ -6,17 +6,17 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,824 |
-| Hey! That's mine! | 78.00% | ~376,349 |
-| Happy Returns | 77.00% | ~371,524 |
-| Field Promotion | 74.00% | ~357,049 |
-| Leadhead | 71.00% | ~342,574 |
-| Eradicator | 67.00% | ~323,274 |
-| Surplus | 65.00% | ~313,624 |
-| I Spy | 64.00% | ~308,799 |
-| Burn Baby Burn | 59.00% | ~284,674 |
-| Yellow Beats Green | 55.00% | ~265,374 |
-| Salvage Rights | 53.00% | ~255,724 |
+| First Blood | 81.00% | ~390,825 |
+| Hey! That's mine! | 78.00% | ~376,350 |
+| Happy Returns | 77.00% | ~371,525 |
+| Field Promotion | 74.00% | ~357,050 |
+| Leadhead | 71.00% | ~342,575 |
+| Eradicator | 67.00% | ~323,275 |
+| Surplus | 65.00% | ~313,625 |
+| I Spy | 64.00% | ~308,800 |
+| Burn Baby Burn | 59.00% | ~284,675 |
+| Yellow Beats Green | 55.00% | ~265,375 |
+| Salvage Rights | 53.00% | ~255,725 |
 | Close Call | 50.00% | ~241,250 |
 | Pew Pew | 50.00% | ~241,250 |
 | What IS that? | 50.00% | ~241,250 |
@@ -59,14 +59,14 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 1.00% | ~4,825 |
 | Well Invested | 1.00% | ~4,825 |
 | Xenocide | 1.00% | ~4,825 |
-| Planet Defender | 0.90% | ~4,342 |
+| Planet Defender | 0.90% | ~4,343 |
 | Master Siege Breaker | 0.80% | ~3,860 |
 | Few and Proud | 0.80% | ~3,860 |
 | Shell-shocked | 0.70% | ~3,377 |
 | Alien Tears | 0.50% | ~2,412 |
 | Full House | 0.40% | ~1,930 |
-| Kickstarter | 0.30% | ~1,447 |
-| The Container | 0.30% | ~1,447 |
+| Kickstarter | 0.30% | ~1,448 |
+| The Container | 0.30% | ~1,448 |
 | Foresight is 20/20 | 0.20% | ~965 |
 | Majestic Pony | 0.20% | ~965 |
 | Out of Bullets | 0.20% | ~965 |
@@ -94,8 +94,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~482 |
 | You Monster | 0.10% | ~482 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,499 (Ranked 33)  
-Completed: 4 (0.00%) (Ranked 242)  
+Progressed: 482,500 (Ranked 33)  
+Completed: 4 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 4 (0.00%) (Ranked 242)
 | 2023-07-25 | 482,349 | 4 |
 | 2023-07-26 | 482,414 | 4 |
 | 2023-07-27 | 482,485 | 4 |
-| 2023-07-28 | 482,499 | 4 |
+| 2023-07-28 | 482,500 | 4 |
 ## Awards
 Max (Great for Beginners): 240  (Ranked 250)  
 Sum: 1,670 (Ranked 209)  

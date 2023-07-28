@@ -2,10 +2,10 @@
   "ID": "42982e62eeea429582692a822624acd9",
   "Name": "Caverns of Mars Recharged",
   "ProductSlug": "caverns-of-mars-recharged-6686f6",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-09T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T08:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.5050348+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.5048999+00:00",
   "LastChanged": "2023-03-31T05:58:27.5050349+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:06:08.2786773+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:06:31.7690352+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:58.0687415+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:17.6289823+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:06:08.2786814+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:37.7912896+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:06:31.7690444+00:00"
 }

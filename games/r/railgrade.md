@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 481)
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,339 (Ranked 107)  
-Completed: 33 (0.17%) (Ranked 172)  
+Completed: 33 (0.17%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

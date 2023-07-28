@@ -21,13 +21,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 0.20% | ~928 |
 | Chapter II: Fallible Flesh | 0.20% | ~928 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~928 |
+| Chapter IV: Through the Looking Glass | 0.20% | ~928 |
 | Tetsuo | 0.20% | ~928 |
 | General Vivar | 0.20% | ~928 |
 | Pope Zenon | 0.20% | ~928 |
 | Back to Ganyma | 0.20% | ~928 |
 | Soldiers of Fortune | 0.20% | ~16 |
 | Hand of the Emperor | 0.20% | ~16 |
-| Chapter IV: Through the Looking Glass | 0.10% | ~464 |
 | Chapter V: Memories of None | 0.10% | ~464 |
 | A Rock in the Dark | 0.10% | ~464 |
 | Emperor of Misery | 0.10% | ~464 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,936 (Ranked 37)  
-Completed: 16 (0.00%) (Ranked 242)  
+Progressed: 463,937 (Ranked 37)  
+Completed: 16 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 16 (0.00%) (Ranked 242)
 | 2023-07-25 | 463,790 | 16 |
 | 2023-07-26 | 463,841 | 16 |
 | 2023-07-27 | 463,919 | 16 |
-| 2023-07-28 | 463,936 | 16 |
+| 2023-07-28 | 463,937 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 214 (Ranked 359)  

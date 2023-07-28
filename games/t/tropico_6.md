@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,262 |
-| Un-Lonely Island | 47.00% | ~2,044 |
+| Just One...More...Term... | 75.00% | ~3,264 |
+| Un-Lonely Island | 47.00% | ~2,045 |
 | The Beginning of a Servantship | 45.00% | ~1,958 |
 | Trade Is My Trait | 37.00% | ~1,610 |
 | Number 18 | 24.00% | ~1,044 |
-| We Don't Have Time For That | 19.00% | ~826 |
+| We Don't Have Time For That | 19.00% | ~827 |
 | The Governator | 18.00% | ~783 |
 | The Legend of Langostino | 17.00% | ~740 |
 | Caribbean Comrade | 16.00% | ~696 |
 | The Dreamer of Dreams | 16.00% | ~696 |
-| Happy Ending? | 11.00% | ~478 |
-| Go Sovereigns! | 11.00% | ~478 |
-| For Science! | 11.00% | ~478 |
+| Happy Ending? | 11.00% | ~479 |
+| Go Sovereigns! | 11.00% | ~479 |
+| For Science! | 11.00% | ~479 |
 | Of Seals And Men | 10.00% | ~435 |
 | Shackadelic | 10.00% | ~435 |
 | Double Trouble | 8.00% | ~348 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 5.00% | ~218 |
 | Fairy Tale Come True | 5.00% | ~218 |
 | Apocalypso | 4.00% | ~174 |
-| Been there, Done That | 3.00% | ~130 |
-| Narcissist | 3.00% | ~130 |
-| Promising Endeavors | 3.00% | ~130 |
-| The Time For Wonders | 3.00% | ~130 |
+| Been there, Done That | 3.00% | ~131 |
+| Narcissist | 3.00% | ~131 |
+| Promising Endeavors | 3.00% | ~131 |
+| The Time For Wonders | 3.00% | ~131 |
 | Chain Gang | 2.00% | ~87 |
 | One Does Not Simply Stage A Coup | 2.00% | ~87 |
 | Sublime Subliminal Supreme | 2.00% | ~87 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~39 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,350 (Ranked 144)  
-Completed: 2 (0.05%) (Ranked 206)  
+Progressed: 4,352 (Ranked 144)  
+Completed: 2 (0.05%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 2 (0.05%) (Ranked 206)
 | 2023-07-25 | 4,303 | 2 |
 | 2023-07-26 | 4,326 | 2 |
 | 2023-07-27 | 4,347 | 2 |
-| 2023-07-28 | 4,350 | 2 |
+| 2023-07-28 | 4,352 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 338)  
 Sum: 669 (Ranked 276)  

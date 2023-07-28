@@ -6,9 +6,9 @@
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1223,9 +1223,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 124472,
+  "EOS_Progressed": 124473,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10778,6 +10778,11 @@
       "Time": "2023-07-28T06:02:12.1735378+00:00",
       "NumProgressed": 124472,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-28T07:03:06.7571464+00:00",
+      "NumProgressed": 124473,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -10845,7 +10850,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29873
+      "UsersEstimate": 29874
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -10901,7 +10906,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24894
+      "UsersEstimate": 24895
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -10949,7 +10954,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "ACH_GLUTEN",
@@ -11108,15 +11113,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 124472,
+      "Progressed": 124473,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-27T11:59:35.583484+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:02:12.1735372+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:03:06.7571457+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:10.9564378+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:00:16.9804981+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:02:12.1736899+00:00"
+  "LastUpdate_Ratings": "2023-07-28T07:00:44.3055561+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:03:06.7572564+00:00"
 }

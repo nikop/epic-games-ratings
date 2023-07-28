@@ -6,8 +6,8 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5332,9 +5332,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216255,
+  "EOS_Progressed": 216264,
   "EOS_Completed": 2130,
-  "EOS_NewPlayers": 2298,
+  "EOS_NewPlayers": 2297,
   "EOS_NewCompleters": 71,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15917,6 +15917,11 @@
       "Time": "2023-07-28T06:03:27.8960195+00:00",
       "NumProgressed": 216255,
       "NumCompleted": 2130
+    },
+    {
+      "Time": "2023-07-28T07:03:42.5296543+00:00",
+      "NumProgressed": 216264,
+      "NumCompleted": 2130
     }
   ],
   "TotalAchievements": 512,
@@ -16830,9 +16835,9 @@
       "ID": "objective_completed_1213",
       "SetID": "415jc5c",
       "Name": "Who Lurks Below?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 548
     },
     {
       "ID": "objective_completed_1214",
@@ -20023,21 +20028,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182529,
+      "Progressed": 182538,
       "Completed": 3022
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216255,
+      "Progressed": 216264,
       "Completed": 2130
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T01:52:57.2061694+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:03:27.8960189+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:03:42.5296536+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:03.9133531+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:27.8993687+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:25.626842+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:03:42.5327981+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "709faa9ea4674456b63e06e56b4c96b9",
   "Name": "Empire of the Ants",
   "ProductSlug": "empire-of-the-ants-ffcba5",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T04:57:21.3044229+00:00",
-  "LastUpdate_Ratings": "2023-07-28T06:00:30.4884755+00:00",
+  "LastUpdate_Ratings": "2023-07-28T07:00:59.0960569+00:00",
   "LastUpdate_Achievements": "2023-07-28T06:03:28.0796766+00:00"
 }

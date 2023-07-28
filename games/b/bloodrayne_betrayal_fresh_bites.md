@@ -7,7 +7,7 @@
 | Finish Him | 92.00% | ~48 |
 | Just a Taste | 81.00% | ~42 |
 | Strange Skulls | 62.00% | ~32 |
-| Treasure Hunter | 56.00% | ~29 |
+| Treasure Hunter | 58.00% | ~30 |
 | Crab Cakes | 48.00% | ~25 |
 | Personally Punched | 27.00% | ~14 |
 | Flight of the Raven | 25.00% | ~13 |
@@ -30,7 +30,7 @@
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 346)  
-Completed: 0 (0.00%) (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

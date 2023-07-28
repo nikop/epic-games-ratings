@@ -1,10 +1,10 @@
 {
   "ID": "42ec8b08da634e5eb72459a8ec7d973b",
   "Name": "SQ-BRIDGE",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -32,8 +32,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:34.0404254+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:03:35.610895+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:04:09.4161324+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:53.2608469+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:59:34.074245+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:03:35.6108992+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:54.0506687+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:04:09.4161366+00:00"
 }

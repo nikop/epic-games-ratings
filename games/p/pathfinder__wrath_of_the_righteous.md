@@ -16,11 +16,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Fifth Crusade | 7.00% | ~744 |
 | Embrace of the Abyss | 5.00% | ~532 |
 | Path of the Angel | 5.00% | ~532 |
+| Great Upstart | 5.00% | ~532 |
 | Demonic and Divine | 5.00% | ~532 |
 | Path of the Azata | 4.00% | ~425 |
 | Transformation | 4.00% | ~425 |
 | The Legacy | 4.00% | ~425 |
-| Great Upstart | 4.00% | ~425 |
 | Voice from Your Dreams | 4.00% | ~425 |
 | All Paths Open | 4.00% | ~425 |
 | Next-Door Play | 4.00% | ~425 |
@@ -124,7 +124,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,632 (Ranked 119)  
-Completed: 0 (0.00%) (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

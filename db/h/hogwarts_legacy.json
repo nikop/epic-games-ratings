@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
@@ -5568,9 +5568,9 @@
       "Count": 566
     }
   ],
-  "EOS_Progressed": 288721,
+  "EOS_Progressed": 288722,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16173,6 +16173,11 @@
       "Time": "2023-07-28T06:05:23.5971583+00:00",
       "NumProgressed": 288721,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-28T07:05:46.8661672+00:00",
+      "NumProgressed": 288722,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 45,
@@ -16256,7 +16261,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20210
+      "UsersEstimate": 20211
     },
     {
       "ID": "PFA_19",
@@ -16488,7 +16493,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20210
+      "UsersEstimate": 20211
     },
     {
       "ID": "PFA_45",
@@ -16543,7 +16548,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288721,
+      "Progressed": 288722,
       "Completed": 435
     }
   ],
@@ -16551,8 +16556,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-28T03:58:13.3842875+00:00",
-  "LastChanged_Achievements": "2023-07-28T06:05:23.5971577+00:00",
+  "LastChanged_Achievements": "2023-07-28T07:05:46.8661663+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:58:07.550402+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:05:23.5972672+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:58:32.8538478+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:05:46.8662793+00:00"
 }

@@ -39,17 +39,17 @@
 | Escaped from a big trouble | 41.00% | ~68 |
 | Now you are worthy | 39.00% | ~64 |
 | No blades in the gym | 39.00% | ~64 |
-| Guiding on the right path | 37.00% | ~61 |
+| Guiding on the right path | 38.00% | ~63 |
 | Mysterious voice | 35.00% | ~58 |
 | Fight is life | 33.00% | ~54 |
 | Responsible approach | 33.00% | ~54 |
+| Champion – no way back | 30.00% | ~50 |
 | Get out of my apartment! | 30.00% | ~50 |
-| Champion – no way back | 29.00% | ~48 |
-| Deal with life | 28.00% | ~46 |
+| Deal with life | 29.00% | ~48 |
+| GYM professional | 28.00% | ~46 |
 | Poisoned fighter | 28.00% | ~46 |
 | Underground dwellers | 28.00% | ~46 |
 | Mom got better | 27.00% | ~45 |
-| GYM professional | 27.00% | ~45 |
 | The die is cast | 27.00% | ~45 |
 | Seashell hunter | 27.00% | ~45 |
 | Gang wrangler | 25.00% | ~41 |
@@ -72,7 +72,7 @@
 | The only right decision | 16.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 165 (Ranked 290)  
-Completed: 5 (3.03%) (Ranked 61)  
+Completed: 5 (3.03%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

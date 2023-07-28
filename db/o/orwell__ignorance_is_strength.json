@@ -2,10 +2,10 @@
   "ID": "bf93c3451ebd472b8015d20057fc2116",
   "Name": "Orwell: Ignorance is Strength",
   "ProductSlug": "orwell-ignorance-is-strength-486264",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-18T15:00:00+00:00",
     "PcReleaseDate": "2022-03-18T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.0312294+00:00",
   "LastChanged": "2023-03-31T05:56:58.0312295+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:21.3428465+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:58:31.5565941+00:00",
-  "LastUpdate_Achievements": "2023-07-28T06:02:18.0890789+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:58:54.5391231+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:03:12.8616057+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ffcc06053f384abe88984f5273c2c75d",
   "Name": "Terrordrome - Reign of the Legends",
   "ProductSlug": "terrordrome-reign-of-terror-a75c3a",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2020-07-24T02:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.9803834+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:58:46.7841193+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:01:14.6705514+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:59:06.9578988+00:00",
+  "LastUpdate_Achievements": "2023-07-28T07:02:29.209246+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~624 |
-| My little farm | 65.00% | ~500 |
-| Every beginning is difficult | 62.00% | ~477 |
-| Gofer | 56.00% | ~431 |
+| Cabin boy | 81.00% | ~625 |
+| My little farm | 65.00% | ~501 |
+| Every beginning is difficult | 62.00% | ~478 |
+| Gofer | 56.00% | ~432 |
 | 3, 2, 1, mine | 55.00% | ~424 |
 | Seafarer | 54.00% | ~416 |
-| O Captain! My Captain! | 53.00% | ~408 |
-| Greed for gold | 43.00% | ~331 |
+| O Captain! My Captain! | 53.00% | ~409 |
+| Greed for gold | 43.00% | ~332 |
 | Intangible | 41.00% | ~316 |
 | I'm out of here for a while | 41.00% | ~316 |
 | In a mint condition | 37.00% | ~285 |
@@ -22,8 +22,8 @@ Number of Ratings: 53  (23.09.2022)
 | Collectionitis | 28.00% | ~216 |
 | Megalomania | 28.00% | ~216 |
 | Christening | 26.00% | ~200 |
-| Groundskeeper | 25.00% | ~192 |
-| Wholesale | 22.00% | ~169 |
+| Groundskeeper | 25.00% | ~193 |
+| Wholesale | 22.00% | ~170 |
 | Walk the plank | 20.00% | ~154 |
 | Pearly gates | 17.00% | ~131 |
 | My precious! | 17.00% | ~131 |
@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~62 |
 | Maker | 7.00% | ~54 |
 | Conglomerate | 6.00% | ~46 |
-| Buccaneer | 5.00% | ~38 |
-| Flying Dutchman | 5.00% | ~38 |
-| The Grande Bouffe | 5.00% | ~38 |
+| Buccaneer | 5.00% | ~39 |
+| Flying Dutchman | 5.00% | ~39 |
+| The Grande Bouffe | 5.00% | ~39 |
 | Overpopulation | 4.00% | ~31 |
 | Premier Maître | 3.00% | ~23 |
 | Supreme conqueror | 3.00% | ~23 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 202)  
-Completed: 1 (0.13%) (Ranked 182)  
+Progressed: 771 (Ranked 202)  
+Completed: 1 (0.13%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 1 (0.13%) (Ranked 182)
 | 2023-07-25 | 761 | 1 |
 | 2023-07-26 | 765 | 1 |
 | 2023-07-27 | 769 | 1 |
-| 2023-07-28 | 770 | 1 |
+| 2023-07-28 | 771 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
