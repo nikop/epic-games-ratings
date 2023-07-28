@@ -25,14 +25,14 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.29% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.25% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 28 | [Smelter](games/s/smelter.md) | 8.11% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 30 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.19% |
 | 31 | [Time Loader](games/t/time_loader.md) | 7.02% |
 | 32 | [Scorn](games/s/scorn.md) | 6.95% |
-| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.75% |
+| 33 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
 | 34 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.67% |
 | 35 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -49,7 +49,7 @@
 | 46 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.44% |
 | 48 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 49 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.90% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.94% |
 | 51 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
 | 52 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.57% |
@@ -79,7 +79,7 @@
 | 77 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.15% |
 | 79 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 79 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
+| 80 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.99% |
 | 82 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 83 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -99,8 +99,8 @@
 | 97 | [Five Dates](games/f/five_dates.md) | 1.42% |
 | 98 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 99 | [A Musical Story](games/a/a_musical_story.md) | 1.22% |
-| 100 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.20% |
 | 100 | [Chorus](games/c/chorus.md) | 1.20% |
+| 101 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.19% |
 | 102 | [Trifox](games/t/trifox.md) | 1.11% |
 | 103 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.06% |
 | 103 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
