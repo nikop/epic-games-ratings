@@ -27,7 +27,7 @@
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 27 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.25% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.21% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
@@ -40,7 +40,7 @@
 | 38 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 39 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.48% |
 | 40 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.93% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.91% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 42 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 44 | [JARS](games/j/jars.md) | 4.84% |
