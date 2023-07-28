@@ -25,9 +25,9 @@
 | Spirit of the past | 59.00% | ~98 |
 | Law student | 58.00% | ~96 |
 | Intriguing candies | 57.00% | ~95 |
-| Workout professional | 55.00% | ~91 |
+| Workout professional | 56.00% | ~93 |
 | Little hacker | 54.00% | ~90 |
-| Employee of the year | 53.00% | ~88 |
+| Employee of the year | 54.00% | ~90 |
 | Champion – starter pack | 52.00% | ~86 |
 | It's good to be alive | 52.00% | ~86 |
 | Your own way | 52.00% | ~86 |
@@ -39,9 +39,9 @@
 | Escaped from a big trouble | 41.00% | ~68 |
 | Now you are worthy | 39.00% | ~65 |
 | No blades in the gym | 39.00% | ~65 |
-| Guiding on the right path | 37.00% | ~61 |
+| Guiding on the right path | 38.00% | ~63 |
 | Mysterious voice | 35.00% | ~58 |
-| Fight is life | 33.00% | ~55 |
+| Fight is life | 34.00% | ~56 |
 | Responsible approach | 33.00% | ~55 |
 | Champion – no way back | 30.00% | ~50 |
 | Get out of my apartment! | 30.00% | ~50 |
@@ -57,9 +57,9 @@
 | Problems of cyborgs | 23.00% | ~38 |
 | The last bell ring | 23.00% | ~38 |
 | Trap disarmed | 22.00% | ~37 |
+| Careerist | 22.00% | ~37 |
 | Undercover robot | 22.00% | ~37 |
 | Keep nature safe | 21.00% | ~35 |
-| Careerist | 21.00% | ~35 |
 | Another world | 20.00% | ~33 |
 | The lonesome road | 20.00% | ~33 |
 | Family comes first | 20.00% | ~33 |

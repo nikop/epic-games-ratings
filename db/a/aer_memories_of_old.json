@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16390,
+  "EOS_Progressed": 16393,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10764,6 +10764,11 @@
       "Time": "2023-07-28T08:05:15.2596181+00:00",
       "NumProgressed": 16390,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2023-07-28T10:05:52.0101105+00:00",
+      "NumProgressed": 16393,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 20,
@@ -10775,7 +10780,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -10783,7 +10788,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "EAST_FINISHED",
@@ -10839,7 +10844,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "FOUND_ERIN",
@@ -10855,7 +10860,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "FOUND_MAMBA",
@@ -10863,7 +10868,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -10879,7 +10884,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "GAME_FINISHED",
@@ -10895,7 +10900,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12456
+      "UsersEstimate": 12459
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -10903,7 +10908,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4589
+      "UsersEstimate": 4590
     },
     {
       "ID": "NORTH_FINISHED",
@@ -10919,7 +10924,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "WEST_FINISHED",
@@ -10927,22 +10932,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16390,
+      "Progressed": 16393,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:05:12.4062135+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:05:52.0101095+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:02.1020296+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:01:41.7727855+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:05:12.4062893+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:02:35.8069344+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:05:52.0102461+00:00"
 }

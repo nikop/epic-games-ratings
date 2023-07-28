@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,488 |
+| A Brief Tour of the Realms | 3.00% | ~6,489 |
 | Beast Intentions | 2.00% | ~4,326 |
 | Maddening | 1.00% | ~2,163 |
 | The Silken Swamp | 1.00% | ~2,163 |
 | Supply Run | 1.00% | ~2,163 |
 | Rocky Reception | 1.00% | ~1,826 |
 | Rock and Roll | 0.90% | ~1,643 |
-| Vecna Lives! | 0.80% | ~1,460 |
+| Vecna Lives! | 0.80% | ~1,461 |
 | Vecna Loots! | 0.70% | ~1,278 |
 | Flight of the Kindori Pod | 0.70% | ~1,278 |
 | Topolah's Tower | 0.70% | ~1,278 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,281 (Ranked 53)  
+Progressed: 216,290 (Ranked 53)  
 Completed: 2,130 (0.98%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,16 +618,16 @@ Completed: 2,130 (0.98%) (Ranked 110)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,281 | 2,130 |
+| 2023-07-28 | 216,290 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
-Sum: 30,768 (Ranked 38)  
+Sum: 30,770 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,093 |
 | This game is Great for Beginners | 5,029 |
-| This game has Quickly Understood Controls | 4,685 |
+| This game has Quickly Understood Controls | 4,687 |
 | This game is Relaxing | 4,578 |
 | This game has Amazing Characters | 4,036 |
 | This game is Highly Recommended | 4,024 |
@@ -818,4 +818,4 @@ Diff (max vs sum): 28
 | 2023-07-25 | 4.05 | - | 5,082 | 30,728 |
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
-| 2023-07-28 | 4.05 | - | 5,093 | 30,768 |
+| 2023-07-28 | 4.05 | - | 5,093 | 30,770 |

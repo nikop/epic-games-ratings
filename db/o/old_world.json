@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13131,
+  "EOS_Progressed": 13132,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8663,6 +8663,11 @@
       "Time": "2023-07-28T09:06:50.8690121+00:00",
       "NumProgressed": 13131,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-28T10:07:39.2397776+00:00",
+      "NumProgressed": 13132,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9184,9 +9189,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -9368,9 +9373,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -9464,9 +9469,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -9992,9 +9997,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -10456,9 +10461,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -10496,9 +10501,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -11041,21 +11046,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13131,
+      "Progressed": 13132,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13131,
+      "Progressed": 13132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-26T02:03:38.0781962+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:06:50.8690116+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:07:39.239777+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:34.1588301+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:59:00.159976+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:06:50.869924+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:59:09.8930133+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:07:39.2407373+00:00"
 }

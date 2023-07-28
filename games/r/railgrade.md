@@ -24,9 +24,9 @@ Rating: 4.55 (Ranked 481)
 | Indecisive | 29.00% | ~5,608 |
 | The scenic route | 27.00% | ~5,222 |
 | Industrialist | 25.00% | ~4,835 |
+| 8K is Enough for Everyone | 23.00% | ~4,448 |
 | Perfectionist | 23.00% | ~4,448 |
 | Trains over Pipes | 23.00% | ~4,448 |
-| 8K is Enough for Everyone | 22.00% | ~4,255 |
 | Man of Steel | 17.00% | ~3,288 |
 | Room Full of Trains | 12.00% | ~2,321 |
 | Investor | 10.00% | ~1,934 |

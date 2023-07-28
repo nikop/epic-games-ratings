@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,749 |
-| That's a Grand Army | 8.00% | ~5,999 |
-| That is mine! | 8.00% | ~5,999 |
-| Victorious! | 8.00% | ~5,999 |
+| Until death do us apart | 9.00% | ~6,750 |
+| That's a Grand Army | 8.00% | ~6,000 |
+| That is mine! | 8.00% | ~6,000 |
+| Victorious! | 8.00% | ~6,000 |
 | Brothers in Arms | 6.00% | ~4,500 |
 | That's a Grand Navy | 6.00% | ~4,500 |
 | Seriously?! | 6.00% | ~4,500 |
@@ -74,6 +74,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Wonderful | 0.40% | ~300 |
 | A Decent Reserve | 0.30% | ~225 |
 | A Pile of Gold | 0.30% | ~225 |
+| A Fine Goosestep | 0.30% | ~225 |
 | Grand Duchy | 0.30% | ~225 |
 | Multiculturalism | 0.30% | ~225 |
 | No Pirates in my Caribbean | 0.30% | ~225 |
@@ -88,7 +89,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basileus | 0.20% | ~150 |
 | Center of Attention | 0.20% | ~150 |
 | Fine Financials | 0.20% | ~150 |
-| A Fine Goosestep | 0.20% | ~150 |
 | Full House | 0.20% | ~150 |
 | Imperio español | 0.20% | ~150 |
 | Industrial Powerhouse | 0.20% | ~150 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,992 (Ranked 74)  
+Progressed: 75,000 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
-| 2023-07-28 | 74,992 | 0 |
+| 2023-07-28 | 75,000 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
 Sum: 46,083 (Ranked 26)  

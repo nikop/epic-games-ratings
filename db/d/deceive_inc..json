@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10051,
+  "EOS_Progressed": 10161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2625,
+  "EOS_NewPlayers": 2735,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6408,6 +6408,11 @@
       "Time": "2023-07-28T09:03:41.391902+00:00",
       "NumProgressed": 10051,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T10:04:35.2102799+00:00",
+      "NumProgressed": 10161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6419,15 +6424,15 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4877
     },
     {
       "ID": "0002",
       "SetID": "2n2feee",
       "Name": "License to Thrill",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 610
     },
     {
       "ID": "0003",
@@ -6435,7 +6440,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1829
     },
     {
       "ID": "0004",
@@ -6443,7 +6448,7 @@
       "Name": "Security Supervisor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 711
     },
     {
       "ID": "0005",
@@ -6451,7 +6456,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 203
     },
     {
       "ID": "0006",
@@ -6459,7 +6464,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "0007",
@@ -6467,7 +6472,7 @@
       "Name": "Masteries Are Forever",
       "Percentage": 0.6,
       "XP": 115,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "0008",
@@ -6475,7 +6480,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2845
     },
     {
       "ID": "0009",
@@ -6483,7 +6488,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3556
     },
     {
       "ID": "0010",
@@ -6491,7 +6496,7 @@
       "Name": "Social of Solace",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 610
     },
     {
       "ID": "0011",
@@ -6507,7 +6512,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2540
     },
     {
       "ID": "0013",
@@ -6515,15 +6520,15 @@
       "Name": "Keycards Royale",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1727
     },
     {
       "ID": "0014",
       "SetID": "2n2feee",
       "Name": "Fully Decked Out",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2540
     },
     {
       "ID": "0015",
@@ -6531,7 +6536,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 201
+      "UsersEstimate": 203
     },
     {
       "ID": "0016",
@@ -6539,23 +6544,23 @@
       "Name": "Live and let lie",
       "Percentage": 4,
       "XP": 115,
-      "UsersEstimate": 402
+      "UsersEstimate": 406
     },
     {
       "ID": "0017",
       "SetID": "2n2feee",
       "Name": "Never Say Loser Again",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3015
+      "UsersEstimate": 2947
     },
     {
       "ID": "0018",
       "SetID": "2n2feee",
       "Name": "In It to Win It",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1524
     },
     {
       "ID": "0019",
@@ -6563,7 +6568,7 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 203
     },
     {
       "ID": "0020",
@@ -6571,7 +6576,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 17,
       "XP": 115,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1727
     },
     {
       "ID": "0021",
@@ -6579,7 +6584,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 305
     },
     {
       "ID": "0022",
@@ -6587,7 +6592,7 @@
       "Name": "PHD in VIP",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 305
     },
     {
       "ID": "0023",
@@ -6595,7 +6600,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 508
     },
     {
       "ID": "0024",
@@ -6603,7 +6608,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3455
     },
     {
       "ID": "0025",
@@ -6611,7 +6616,7 @@
       "Name": "Tailor-Made",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2743
     },
     {
       "ID": "0026",
@@ -6619,7 +6624,7 @@
       "Name": "The Living Portrait",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1829
     },
     {
       "ID": "0027",
@@ -6627,15 +6632,15 @@
       "Name": "My Motto, My Creed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1727
     },
     {
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3556
     },
     {
       "ID": "0029",
@@ -6643,15 +6648,15 @@
       "Name": "A view to Win",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2032
     },
     {
       "ID": "0030",
       "SetID": "2n2feee",
       "Name": "For your Eyes only",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2845
     },
     {
       "ID": "0031",
@@ -6659,7 +6664,7 @@
       "Name": "Private Collection",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1829
     },
     {
       "ID": "0032",
@@ -6667,7 +6672,7 @@
       "Name": "Killer Looks",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1829
     },
     {
       "ID": "0033",
@@ -6675,15 +6680,15 @@
       "Name": "Hostile Takeover",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1829
     },
     {
       "ID": "0034",
       "SetID": "2n2feee",
       "Name": "Smells Like Trouble",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1829
     },
     {
       "ID": "0035",
@@ -6691,7 +6696,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "0036",
@@ -6706,7 +6711,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 10051,
+      "Progressed": 10161,
       "Completed": 1
     }
   ],
@@ -6714,8 +6719,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:03:41.3919015+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:04:35.2102792+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:38.5886236+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:01:11.3153059+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:03:41.3920131+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:01:59.5858631+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:04:35.2103949+00:00"
 }

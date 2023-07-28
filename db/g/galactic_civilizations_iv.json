@@ -822,9 +822,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6224,
+  "EOS_Progressed": 6225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4432,6 +4432,11 @@
       "Time": "2023-07-28T05:06:17.8976784+00:00",
       "NumProgressed": 6224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T10:08:33.660929+00:00",
+      "NumProgressed": 6225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4475,7 +4480,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4483,7 +4488,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "Control_All_Relics",
@@ -4531,7 +4536,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -4547,7 +4552,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "First_Race_Met",
@@ -4579,7 +4584,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4763,7 +4768,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4931,7 +4936,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4955,7 +4960,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Win_Diplomacy",
@@ -4995,7 +5000,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "Win_Quickly",
@@ -5018,15 +5023,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6224,
+      "Progressed": 6225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-26T11:57:53.7083727+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:07:38.3460665+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:08:33.6609283+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:19.2564155+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:58:20.7777776+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:07:38.3461782+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:58:30.2274292+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:08:33.6610629+00:00"
 }

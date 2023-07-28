@@ -24,22 +24,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.60% | ~79 |
 | Hanging Gardens | 0.60% | ~79 |
 | Oracle | 0.60% | ~79 |
+| Judaism | 0.60% | ~79 |
 | Enlightened | 0.50% | ~66 |
 | Glorious | 0.50% | ~66 |
+| Keystone | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
+| Developing Cities | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
-| Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
-| Keystone | 0.40% | ~53 |
 | Magnificent | 0.40% | ~53 |
 | Warrior | 0.40% | ~53 |
 | Wise | 0.40% | ~53 |
-| Developing Cities | 0.40% | ~53 |
 | Strong Cities | 0.40% | ~53 |
 | Able Difficulty | 0.40% | ~53 |
 | Artisans | 0.40% | ~53 |
@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.40% | ~53 |
 | Babylonian Paganism | 0.40% | ~53 |
 | Carthaginian Paganism | 0.40% | ~53 |
+| Egyptian Paganism | 0.40% | ~53 |
 | Roman Paganism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
@@ -59,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
 | Furious Family | 0.30% | ~39 |
+| Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Colossus | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
@@ -67,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
 | Manichaeism | 0.30% | ~39 |
-| Egyptian Paganism | 0.30% | ~39 |
 | Mythology | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.20% | ~26 |
@@ -81,13 +82,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
+| Strong Difficulty | 0.20% | ~26 |
 | Champions | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
 | Sages | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
 | Hittite Iron | 0.20% | ~26 |
-| Acropolis | 0.20% | ~26 |
 | Circus Maximus | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |
 | Temple of Solomon | 0.20% | ~26 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
-| Strong Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,131 (Ranked 116)  
+Progressed: 13,132 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 214)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,131 | 5 |
+| 2023-07-28 | 13,132 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

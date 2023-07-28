@@ -4551,9 +4551,9 @@
       "ID": "ach.070.8kenough",
       "SetID": "384aaja",
       "Name": "8K is Enough for Everyone",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4448
     },
     {
       "ID": "ach.080.eraser",
@@ -4808,8 +4808,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-28T06:00:31.3207811+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:07:49.257018+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:08:46.1407219+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.9244463+00:00",
-  "LastUpdate_Ratings": "2023-07-28T09:00:50.1922161+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:07:49.2571373+00:00"
+  "LastUpdate_Ratings": "2023-07-28T10:01:32.0458767+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:08:46.1408148+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2023-07-28T09:02:23.4062999+00:00",
       "NumProgressed": 365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T10:03:29.7280606+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1248,7 +1253,7 @@
       "Name": "Basic Controls",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "BigPlane",
@@ -1256,7 +1261,7 @@
       "Name": "Expensive Plane",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "BudgetFlight",
@@ -1296,7 +1301,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1368,7 +1373,7 @@
       "Name": "Large Airport",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LargeTerritories",
@@ -1384,7 +1389,7 @@
       "Name": "Legendary transporter",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "LinearNetwork",
@@ -1392,7 +1397,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LongDistance",
@@ -1414,9 +1419,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "Millionaire",
@@ -1430,9 +1435,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "NoTimeForModernization",
@@ -1456,7 +1461,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Ownway",
@@ -1480,7 +1485,7 @@
       "Name": "Race Against Time",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Reaction",
@@ -1512,7 +1517,7 @@
       "Name": "Restructuring",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Reviewer",
@@ -1558,23 +1563,23 @@
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:02:23.4062993+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:03:29.72806+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:57:37.446426+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:02:23.4063448+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:57:33.3981549+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:03:29.7281348+00:00"
 }

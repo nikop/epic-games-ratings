@@ -5282,10 +5282,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30768,
       "NumberOfAwardsMax": 5093
+    },
+    {
+      "Time": "2023-07-28T09:59:33.5105871+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30770,
+      "NumberOfAwardsMax": 5093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30768,
+  "NumberOfAwards": 30770,
   "NumberOfAwardsMax": 5093,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5305,7 +5311,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4685
+      "Count": 4687
     },
     {
       "Text": "This game is Relaxing",
@@ -5332,9 +5338,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216281,
+  "EOS_Progressed": 216290,
   "EOS_Completed": 2130,
-  "EOS_NewPlayers": 2283,
+  "EOS_NewPlayers": 2274,
   "EOS_NewCompleters": 71,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -15932,6 +15938,11 @@
       "Time": "2023-07-28T09:03:28.6224974+00:00",
       "NumProgressed": 216281,
       "NumCompleted": 2130
+    },
+    {
+      "Time": "2023-07-28T10:04:21.0799909+00:00",
+      "NumProgressed": 216290,
+      "NumCompleted": 2130
     }
   ],
   "TotalAchievements": 512,
@@ -15943,7 +15954,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6488
+      "UsersEstimate": 6489
     },
     {
       "ID": "objective_completed_10",
@@ -16623,7 +16634,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "objective_completed_1164",
@@ -20038,21 +20049,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182555,
+      "Progressed": 182564,
       "Completed": 3022
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216281,
+      "Progressed": 216290,
       "Completed": 2130
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-28T01:52:57.2061694+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:03:28.6224969+00:00",
+  "LastChanged": "2023-07-28T09:59:33.5105869+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:04:21.07999+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:59:13.1732343+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:03:28.6255516+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:59:33.5105877+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:04:21.0832218+00:00"
 }

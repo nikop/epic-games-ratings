@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7202,
+  "EOS_Progressed": 7204,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6289,6 +6289,11 @@
       "Time": "2023-07-28T04:05:39.8153321+00:00",
       "NumProgressed": 7202,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-28T10:06:50.8375937+00:00",
+      "NumProgressed": 7204,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6300,7 +6305,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5978
+      "UsersEstimate": 5979
     },
     {
       "ID": "ACH02",
@@ -6340,7 +6345,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACH07",
@@ -6404,7 +6409,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH15",
@@ -6420,7 +6425,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "ACH17",
@@ -6428,7 +6433,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH18",
@@ -6531,7 +6536,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7202,
+      "Progressed": 7204,
       "Completed": 41
     }
   ],
@@ -6539,8 +6544,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-28T09:06:07.7606236+00:00",
+  "LastChanged_Achievements": "2023-07-28T10:06:50.837593+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:29.5368174+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:58:55.464687+00:00",
-  "LastUpdate_Achievements": "2023-07-28T09:06:07.7606895+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:59:03.9083663+00:00",
+  "LastUpdate_Achievements": "2023-07-28T10:06:50.8376925+00:00"
 }
