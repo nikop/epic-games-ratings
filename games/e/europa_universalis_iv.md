@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,745 |
+| Until death do us apart | 9.00% | ~6,746 |
 | That's a Grand Army | 8.00% | ~5,996 |
 | That is mine! | 8.00% | ~5,996 |
 | Victorious! | 8.00% | ~5,996 |
 | Brothers in Arms | 6.00% | ~4,497 |
 | That's a Grand Navy | 6.00% | ~4,497 |
 | Seriously?! | 6.00% | ~4,497 |
-| For the Glory | 5.00% | ~3,747 |
+| For the Glory | 5.00% | ~3,748 |
 | Cold War | 4.00% | ~2,998 |
 | True Catholic | 4.00% | ~2,998 |
-| Defender of the Faith | 3.00% | ~2,248 |
-| It's all about luck | 3.00% | ~2,248 |
-| It's all about the money | 3.00% | ~2,248 |
-| Respected | 3.00% | ~2,248 |
-| The Princess is in this Castle | 3.00% | ~2,248 |
-| Truly Divine Ruler | 3.00% | ~2,248 |
+| Defender of the Faith | 3.00% | ~2,249 |
+| It's all about luck | 3.00% | ~2,249 |
+| It's all about the money | 3.00% | ~2,249 |
+| Respected | 3.00% | ~2,249 |
+| The Princess is in this Castle | 3.00% | ~2,249 |
+| Truly Divine Ruler | 3.00% | ~2,249 |
 | Agressive Expander | 2.00% | ~1,499 |
 | Blockader | 2.00% | ~1,499 |
 | Combined Arms | 2.00% | ~1,499 |
@@ -31,15 +31,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 2.00% | ~1,499 |
 | Royal Authority | 2.00% | ~1,499 |
 | Total Control | 2.00% | ~1,499 |
-| All That's Thine Shall Be Mine | 1.00% | ~749 |
-| Azur semé de lis or | 1.00% | ~749 |
-| Bright Spark | 1.00% | ~749 |
-| City of Cities | 1.00% | ~749 |
-| The Emperors new clothes | 1.00% | ~749 |
-| Factionalism | 1.00% | ~749 |
-| A Golden Empire | 1.00% | ~749 |
-| The Five Colonies | 1.00% | ~749 |
-| This navy can take it all | 1.00% | ~749 |
+| All That's Thine Shall Be Mine | 1.00% | ~750 |
+| Azur semé de lis or | 1.00% | ~750 |
+| Bright Spark | 1.00% | ~750 |
+| City of Cities | 1.00% | ~750 |
+| The Emperors new clothes | 1.00% | ~750 |
+| Factionalism | 1.00% | ~750 |
+| A Golden Empire | 1.00% | ~750 |
+| The Five Colonies | 1.00% | ~750 |
+| This navy can take it all | 1.00% | ~750 |
 | Down Under | 0.90% | ~675 |
 | Isn't this the way to India? | 0.90% | ~675 |
 | Market Control | 0.90% | ~675 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,946 (Ranked 74)  
+Progressed: 74,954 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 0 (0.00%) (Ranked 242)
 | 2023-07-25 | 74,153 | 0 |
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
-| 2023-07-28 | 74,946 | 0 |
+| 2023-07-28 | 74,954 | 0 |
 ## Awards
 Max (Educational): 5,587  (Ranked 61)  
 Sum: 46,079 (Ranked 26)  

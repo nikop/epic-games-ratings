@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 46.00% | ~47 |
-| First Step | 46.00% | ~47 |
+| The 4 Pillars | 47.00% | ~48 |
+| First Step | 47.00% | ~48 |
 | Indebted | 9.00% | ~9 |
 | Capitalism | 7.00% | ~7 |
 | Desert Rat | 6.00% | ~6 |
@@ -14,12 +14,12 @@
 | Green Energy | 4.00% | ~4 |
 | Jantine: the Misfortunes of Evil | 3.00% | ~3 |
 | Health Care | 3.00% | ~3 |
+| There's something in those trees | 3.00% | ~3 |
 | Medicine Tycoon | 3.00% | ~3 |
 | Great Producer | 3.00% | ~3 |
 | Perfect Soldier | 2.00% | ~2 |
 | Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
-| There's something in those trees | 2.00% | ~2 |
 | Desert Power | 2.00% | ~2 |
 | Property Bro | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |

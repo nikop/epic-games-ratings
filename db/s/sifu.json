@@ -5400,9 +5400,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711646,
+  "EOS_Progressed": 711649,
   "EOS_Completed": 12833,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14705,6 +14705,11 @@
       "Time": "2023-07-28T05:06:28.403986+00:00",
       "NumProgressed": 711646,
       "NumCompleted": 12833
+    },
+    {
+      "Time": "2023-07-28T06:07:38.8526099+00:00",
+      "NumProgressed": 711649,
+      "NumCompleted": 12833
     }
   ],
   "TotalAchievements": 50,
@@ -15060,7 +15065,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -15100,7 +15105,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -15115,21 +15120,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20947,
+      "Progressed": 20950,
       "Completed": 10448
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711646,
+      "Progressed": 711649,
       "Completed": 12833
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-27T21:01:05.604728+00:00",
-  "LastChanged_Achievements": "2023-07-28T05:06:28.4039855+00:00",
+  "LastChanged_Achievements": "2023-07-28T06:07:38.8526092+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:40.9544812+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:59:29.1743725+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:06:28.4040819+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:00:05.3992748+00:00",
+  "LastUpdate_Achievements": "2023-07-28T06:07:38.8527517+00:00"
 }

@@ -18,6 +18,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 0.20% | ~267 |
 | Budding Merchant | 0.20% | ~267 |
 | Capitalism Ho! | 0.20% | ~267 |
+| Own the Means of Production | 0.20% | ~267 |
 | The Daily Grind | 0.10% | ~133 |
 | On the Path to Greatness | 0.10% | ~133 |
 | A Notch Above the Rest | 0.10% | ~133 |
@@ -114,12 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.10% | ~133 |
 | Exotic Commodities | 0.10% | ~133 |
 | Economy of Scarce | 0.10% | ~133 |
-| Own the Means of Production | 0.10% | ~133 |
 | Arcane Industries | 0.10% | ~133 |
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,394 (Ranked 61)  
+Progressed: 133,396 (Ranked 61)  
 Completed: 123 (0.09%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 123 (0.09%) (Ranked 193)
 | 2023-07-25 | 133,231 | 122 |
 | 2023-07-26 | 133,301 | 123 |
 | 2023-07-27 | 133,376 | 123 |
-| 2023-07-28 | 133,394 | 123 |
+| 2023-07-28 | 133,396 | 123 |
 ## Awards
 Max (Great for Beginners): 4,672  (Ranked 70)  
 Sum: 26,989 (Ranked 46)  

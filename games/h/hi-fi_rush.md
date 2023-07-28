@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 3.00% | ~108 |
 | You got this, Peppermint? | 3.00% | ~108 |
 | Perfect Parry | 3.00% | ~108 |
+| Kissing the sky! | 3.00% | ~108 |
 | Alright, that felt AWESOME! | 3.00% | ~108 |
 | NOW we got a kickass hideout! | 3.00% | ~64 |
 | This will cost you big time | 2.00% | ~72 |
@@ -28,7 +29,6 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 2.00% | ~72 |
 | Perfecter Parry-er! | 2.00% | ~72 |
 | Uh, they were broken when I got here | 2.00% | ~72 |
-| Kissing the sky! | 2.00% | ~72 |
 | I look cool. But I can look COOLER. | 2.00% | ~72 |
 | Does that say weakpoint? | 2.00% | ~72 |
 | Well that was a rush! | 1.00% | ~36 |
@@ -36,7 +36,7 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 1.00% | ~36 |
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.80% | ~29 |
-| Wanna hear my playlist? | 0.70% | ~25 |
+| Wanna hear my playlist? | 0.80% | ~29 |
 | I told you I'd be fine, Peppermint! | 0.70% | ~25 |
 | Check out my moves! | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~15 |

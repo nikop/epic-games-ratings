@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,487 |
+| A Brief Tour of the Realms | 3.00% | ~6,488 |
 | Beast Intentions | 2.00% | ~4,325 |
-| Maddening | 1.00% | ~2,162 |
-| The Silken Swamp | 1.00% | ~2,162 |
-| Supply Run | 1.00% | ~2,162 |
+| Maddening | 1.00% | ~2,163 |
+| The Silken Swamp | 1.00% | ~2,163 |
+| Supply Run | 1.00% | ~2,163 |
 | Rocky Reception | 1.00% | ~1,825 |
 | Rock and Roll | 0.90% | ~1,643 |
 | Vecna Lives! | 0.80% | ~1,460 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.70% | ~1,278 |
 | Topolah's Tower | 0.70% | ~1,278 |
 | Tall Tales | 0.60% | ~1,095 |
-| Wet Feet | 0.60% | ~1,297 |
+| Wet Feet | 0.60% | ~1,298 |
 | Seeds of Destruction | 0.60% | ~1,095 |
 | Return to the Tomb | 0.60% | ~1,095 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,095 |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.50% | ~1,081 |
 | Heatwave | 0.50% | ~913 |
 | The Dread Domain of Tovag | 0.50% | ~913 |
+| Were-verpowered | 0.50% | ~1,081 |
 | A Persistent Buzzing | 0.50% | ~1,081 |
 | Terror in the Dark | 0.50% | ~1,081 |
 | Building Trust | 0.50% | ~1,081 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.40% | ~865 |
 | The Evacuation of Waterdeep | 0.40% | ~730 |
 | Friends of the Forest | 0.40% | ~865 |
-| Were-verpowered | 0.40% | ~865 |
 | Beast Mode | 0.40% | ~865 |
 | Low Initiative | 0.40% | ~865 |
 | A Mysterious Summons | 0.40% | ~865 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.30% | ~548 |
 | Devilishly Cold | 0.30% | ~548 |
 | 3,720 to 1 | 0.30% | ~548 |
-| Starving in the Jungle | 0.20% | ~432 |
+| Starving in the Jungle | 0.20% | ~433 |
 | Cold as Ice | 0.20% | ~365 |
 | Friends and Foes | 0.20% | ~365 |
 | Nightmare Rats! | 0.20% | ~365 |
@@ -117,67 +117,67 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~365 |
 | Vecna Out! | 0.20% | ~365 |
 | Who Lurks Below? | 0.20% | ~365 |
-| Anti-Dexterous Explorers | 0.20% | ~432 |
-| Lobsterfolk Assault | 0.20% | ~432 |
-| Periodic Petrification | 0.20% | ~432 |
-| Captured! | 0.20% | ~432 |
-| Home Field Advantage | 0.20% | ~432 |
-| Force Grey Unleashed | 0.20% | ~432 |
-| Vajra's Guards | 0.20% | ~432 |
-| Sleuth It Out | 0.20% | ~432 |
+| Anti-Dexterous Explorers | 0.20% | ~433 |
+| Lobsterfolk Assault | 0.20% | ~433 |
+| Periodic Petrification | 0.20% | ~433 |
+| Captured! | 0.20% | ~433 |
+| Home Field Advantage | 0.20% | ~433 |
+| Force Grey Unleashed | 0.20% | ~433 |
+| Vajra's Guards | 0.20% | ~433 |
+| Sleuth It Out | 0.20% | ~433 |
 | The Newcomers of Notoriety | 0.20% | ~365 |
-| A Grand Puzzle | 0.20% | ~432 |
-| Azaka's Procession - Part 1 | 0.20% | ~432 |
-| Tomb of the Nine Gods | 0.20% | ~432 |
-| Azaka's Procession - Part 2 | 0.20% | ~432 |
-| The Hunt for Owl-y | 0.20% | ~432 |
-| Werewolves in the Mist | 0.20% | ~432 |
-| We're not in Faerûn Anymore | 0.20% | ~432 |
-| Chatty Nobles | 0.20% | ~432 |
-| Modron Assistance | 0.20% | ~432 |
+| A Grand Puzzle | 0.20% | ~433 |
+| Azaka's Procession - Part 1 | 0.20% | ~433 |
+| Tomb of the Nine Gods | 0.20% | ~433 |
+| Azaka's Procession - Part 2 | 0.20% | ~433 |
+| The Hunt for Owl-y | 0.20% | ~433 |
+| Werewolves in the Mist | 0.20% | ~433 |
+| We're not in Faerûn Anymore | 0.20% | ~433 |
+| Chatty Nobles | 0.20% | ~433 |
+| Modron Assistance | 0.20% | ~433 |
 | Thine Bounty is Mine! | 0.20% | ~365 |
-| Haaave You Met Asmodeus? | 0.20% | ~432 |
-| Domesticated Owlbears | 0.20% | ~432 |
-| The Immortal Warrior | 0.20% | ~432 |
-| The Wyrmheart Mine | 0.20% | ~432 |
-| Trollskull Manor | 0.20% | ~432 |
-| Attack on the Manor | 0.20% | ~432 |
-| The Death Curse | 0.20% | ~432 |
-| Treasure Hunters | 0.20% | ~432 |
-| Nimble Escape | 0.20% | ~432 |
-| Are Ya Chicken? | 0.20% | ~432 |
-| Useless Allies | 0.20% | ~432 |
-| Fugitives | 0.20% | ~432 |
-| Premature Betrayal | 0.20% | ~432 |
-| Hopelessly Lost | 0.20% | ~432 |
-| Enter the Sargauth | 0.20% | ~432 |
-| Mad Cow Disease | 0.20% | ~432 |
-| A Tale of Two Cities | 0.20% | ~432 |
-| The Dead Three | 0.20% | ~432 |
-| Flying Monkey Skulls of Doom | 0.20% | ~432 |
-| Lair of the Xanathar | 0.20% | ~432 |
-| The Darkness Runs Deeper | 0.20% | ~432 |
-| Difficult Terrain | 0.20% | ~432 |
-| The Contagious Curse | 0.20% | ~432 |
-| Dinosaur Racing | 0.20% | ~432 |
-| Elturel Has Fallen | 0.20% | ~432 |
-| Resolve Amongst Chaos | 0.20% | ~432 |
-| Market Fluctuations | 0.20% | ~432 |
+| Haaave You Met Asmodeus? | 0.20% | ~433 |
+| Domesticated Owlbears | 0.20% | ~433 |
+| The Immortal Warrior | 0.20% | ~433 |
+| The Wyrmheart Mine | 0.20% | ~433 |
+| Trollskull Manor | 0.20% | ~433 |
+| Attack on the Manor | 0.20% | ~433 |
+| The Death Curse | 0.20% | ~433 |
+| Treasure Hunters | 0.20% | ~433 |
+| Nimble Escape | 0.20% | ~433 |
+| Are Ya Chicken? | 0.20% | ~433 |
+| Useless Allies | 0.20% | ~433 |
+| Fugitives | 0.20% | ~433 |
+| Premature Betrayal | 0.20% | ~433 |
+| Hopelessly Lost | 0.20% | ~433 |
+| Enter the Sargauth | 0.20% | ~433 |
+| Mad Cow Disease | 0.20% | ~433 |
+| A Tale of Two Cities | 0.20% | ~433 |
+| The Dead Three | 0.20% | ~433 |
+| Flying Monkey Skulls of Doom | 0.20% | ~433 |
+| Lair of the Xanathar | 0.20% | ~433 |
+| The Darkness Runs Deeper | 0.20% | ~433 |
+| Difficult Terrain | 0.20% | ~433 |
+| The Contagious Curse | 0.20% | ~433 |
+| Dinosaur Racing | 0.20% | ~433 |
+| Elturel Has Fallen | 0.20% | ~433 |
+| Resolve Amongst Chaos | 0.20% | ~433 |
+| Market Fluctuations | 0.20% | ~433 |
 | The Giant's Bane Tavern | 0.20% | ~365 |
 | The Everlasting Rime | 0.20% | ~365 |
-| Close Escort | 0.20% | ~432 |
-| Constant Banditry | 0.20% | ~432 |
-| The Long Haul | 0.20% | ~432 |
-| Lost in the Deep | 0.20% | ~432 |
-| Easily Distracted | 0.20% | ~432 |
-| Rude Welcome | 0.20% | ~432 |
+| Close Escort | 0.20% | ~433 |
+| Constant Banditry | 0.20% | ~433 |
+| The Long Haul | 0.20% | ~433 |
+| Lost in the Deep | 0.20% | ~433 |
+| Easily Distracted | 0.20% | ~433 |
+| Rude Welcome | 0.20% | ~433 |
 | Moose Tracks | 0.20% | ~365 |
 | Civilization | 0.20% | ~365 |
-| Durable Deep | 0.20% | ~432 |
-| Expert Opinion | 0.20% | ~432 |
-| The Templar's Camp | 0.20% | ~432 |
-| The Haunted Jungle | 0.20% | ~432 |
-| Rescue in the Jungle | 0.20% | ~432 |
+| Durable Deep | 0.20% | ~433 |
+| Expert Opinion | 0.20% | ~433 |
+| The Templar's Camp | 0.20% | ~433 |
+| The Haunted Jungle | 0.20% | ~433 |
+| Rescue in the Jungle | 0.20% | ~433 |
 | Tiny Treaty | 0.20% | ~365 |
 | All The World's A Stage | 0.20% | ~365 |
 | Keep Your Friends Close | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,247 (Ranked 53)  
+Progressed: 216,255 (Ranked 53)  
 Completed: 2,130 (0.98%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,130 (0.98%) (Ranked 108)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,247 | 2,130 |
+| 2023-07-28 | 216,255 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,768 (Ranked 38)  

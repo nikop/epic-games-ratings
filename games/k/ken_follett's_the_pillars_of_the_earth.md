@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,817 |
-| Man of politics | 35.00% | ~4,965 |
+| Man of politics | 35.00% | ~4,966 |
 | Friends of sorts | 34.00% | ~4,824 |
 | Yet another secret | 34.00% | ~4,824 |
 | Let there be darkness | 33.00% | ~4,682 |
@@ -16,7 +16,7 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~3,405 |
 | Full house | 24.00% | ~3,405 |
 | Help an old friend | 22.00% | ~3,121 |
-| Two of us | 20.00% | ~2,837 |
+| Two of us | 20.00% | ~2,838 |
 | Negotiation skills | 18.00% | ~2,554 |
 | Workers' union | 18.00% | ~2,554 |
 | End of Book Two | 18.00% | ~2,554 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~709 |
 | Lone wolf | 5.00% | ~709 |
 | Vox Populi | 5.00% | ~709 |
-| Revenge | 4.00% | ~567 |
-| Self-defense | 4.00% | ~567 |
-| Countess Aliena | 4.00% | ~567 |
+| Revenge | 4.00% | ~568 |
+| Self-defense | 4.00% | ~568 |
+| Countess Aliena | 4.00% | ~568 |
 | Care, like a brother cares | 3.00% | ~426 |
 | A brush with death | 3.00% | ~426 |
 | Boy of mystery | 2.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,187 (Ranked 114)  
+Progressed: 14,188 (Ranked 114)  
 Completed: 106 (0.75%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 106 (0.75%) (Ranked 114)
 | 2023-07-25 | 14,139 | 105 |
 | 2023-07-26 | 14,156 | 106 |
 | 2023-07-27 | 14,182 | 106 |
-| 2023-07-28 | 14,187 | 106 |
+| 2023-07-28 | 14,188 | 106 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 294)  
 Sum: 188 (Ranked 370)  

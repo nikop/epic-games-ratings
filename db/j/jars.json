@@ -263,9 +263,9 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-07-28T05:04:03.8515901+00:00",
+  "LastChanged_Achievements": "2023-07-28T06:04:38.2314038+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:38.7750967+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:58:37.3094406+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:04:03.8516064+00:00"
+  "LastUpdate_Ratings": "2023-07-28T05:58:54.3368827+00:00",
+  "LastUpdate_Achievements": "2023-07-28T06:04:38.23142+00:00"
 }

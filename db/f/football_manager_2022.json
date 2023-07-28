@@ -6161,7 +6161,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468321,
+  "EOS_Progressed": 468322,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 0,
@@ -16406,6 +16406,11 @@
       "Time": "2023-07-28T05:04:38.6411459+00:00",
       "NumProgressed": 468321,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-28T06:05:22.0514495+00:00",
+      "NumProgressed": 468322,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -16433,7 +16438,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 121763
+      "UsersEstimate": 121764
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -16473,7 +16478,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 121763
+      "UsersEstimate": 121764
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -16505,7 +16510,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 121763
+      "UsersEstimate": 121764
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -16529,7 +16534,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 140496
+      "UsersEstimate": 140497
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -16577,7 +16582,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98347
+      "UsersEstimate": 98348
     },
     {
       "ID": "achievement_childhood_dream",
@@ -16593,7 +16598,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98347
+      "UsersEstimate": 98348
     },
     {
       "ID": "achievement_clean_sheet",
@@ -16601,7 +16606,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229477
+      "UsersEstimate": 229478
     },
     {
       "ID": "achievement_club_world_cup",
@@ -16761,7 +16766,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140496
+      "UsersEstimate": 140497
     },
     {
       "ID": "achievement_impervious",
@@ -16841,7 +16846,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 163912
+      "UsersEstimate": 163913
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -16913,7 +16918,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 121763
+      "UsersEstimate": 121764
     },
     {
       "ID": "achievement_record_signing",
@@ -16969,7 +16974,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234160
+      "UsersEstimate": 234161
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -17049,7 +17054,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234160
+      "UsersEstimate": 234161
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -17200,15 +17205,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468321,
+      "Progressed": 468322,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-28T03:01:40.5992325+00:00",
-  "LastChanged_Achievements": "2023-07-28T05:04:38.6411454+00:00",
+  "LastChanged_Achievements": "2023-07-28T06:05:22.0514488+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0444975+00:00",
-  "LastUpdate_Ratings": "2023-07-28T05:00:43.4492947+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:04:38.6413171+00:00"
+  "LastUpdate_Ratings": "2023-07-28T06:01:41.0454344+00:00",
+  "LastUpdate_Achievements": "2023-07-28T06:05:22.051815+00:00"
 }

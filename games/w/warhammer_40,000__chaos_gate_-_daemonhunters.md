@@ -15,9 +15,9 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 0.70% | ~21 |
 | Purging Spree | 0.70% | ~21 |
 | A Foul Creche | 0.50% | ~15 |
+| Friendly Fire | 0.40% | ~12 |
 | Surgical Excision | 0.30% | ~9 |
 | Hold Your Ground | 0.30% | ~9 |
-| Friendly Fire | 0.30% | ~9 |
 | Execution Force | 0.30% | ~9 |
 | Honoured Battle-Brother | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |

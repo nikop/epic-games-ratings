@@ -27,8 +27,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.50% | ~66 |
 | Glorious | 0.50% | ~66 |
 | Learned | 0.50% | ~66 |
+| Pyramids | 0.50% | ~66 |
 | Judaism | 0.50% | ~66 |
 | Greek Paganism | 0.50% | ~66 |
+| Zoroastrianism | 0.50% | ~66 |
 | Naming Landmarks | 0.50% | ~66 |
 | Trade Caravan | 0.50% | ~66 |
 | Ambitious | 0.40% | ~53 |
@@ -44,13 +46,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.40% | ~53 |
 | Ishtar Gate | 0.40% | ~53 |
 | Lighthouse | 0.40% | ~53 |
-| Pyramids | 0.40% | ~53 |
 | Learn to Play 1 | 0.40% | ~53 |
 | Christianity | 0.40% | ~53 |
 | Babylonian Paganism | 0.40% | ~53 |
 | Carthaginian Paganism | 0.40% | ~53 |
 | Roman Paganism | 0.40% | ~53 |
-| Zoroastrianism | 0.40% | ~53 |
 | Regicide | 0.30% | ~39 |
 | Fountainhead | 0.30% | ~39 |
 | Great | 0.30% | ~39 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,129 (Ranked 116)  
+Progressed: 13,130 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 212)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,129 | 5 |
+| 2023-07-28 | 13,130 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

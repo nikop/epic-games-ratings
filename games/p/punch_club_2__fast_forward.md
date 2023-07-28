@@ -15,7 +15,7 @@
 | Fitness professional | 76.00% | ~125 |
 | Neurotrainer – power gainer! | 75.00% | ~124 |
 | Employee of the week | 75.00% | ~124 |
-| Your own amateur gym | 73.00% | ~120 |
+| Your own amateur gym | 74.00% | ~122 |
 | Run K, run! | 70.00% | ~115 |
 | Hello, world! | 67.00% | ~111 |
 | No bullying more | 66.00% | ~109 |
@@ -38,7 +38,7 @@
 | Legal courier | 44.00% | ~73 |
 | Escaped from a big trouble | 41.00% | ~68 |
 | Now you are worthy | 39.00% | ~64 |
-| No blades in the gym | 38.00% | ~63 |
+| No blades in the gym | 39.00% | ~64 |
 | Guiding on the right path | 37.00% | ~61 |
 | Mysterious voice | 35.00% | ~58 |
 | Fight is life | 33.00% | ~54 |
@@ -51,7 +51,7 @@
 | Mom got better | 27.00% | ~45 |
 | GYM professional | 27.00% | ~45 |
 | The die is cast | 27.00% | ~45 |
-| Seashell hunter | 26.00% | ~43 |
+| Seashell hunter | 27.00% | ~45 |
 | Gang wrangler | 25.00% | ~41 |
 | Problems of cyborgs | 24.00% | ~40 |
 | The last bell ring | 24.00% | ~40 |

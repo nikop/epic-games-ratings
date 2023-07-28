@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -712,7 +712,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6472,
+  "EOS_Progressed": 6473,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -3767,6 +3767,11 @@
       "Time": "2023-07-28T01:59:49.4102962+00:00",
       "NumProgressed": 6472,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-28T06:05:55.4664994+00:00",
+      "NumProgressed": 6473,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3906,7 +3911,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -4066,7 +4071,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -4082,7 +4087,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -4098,7 +4103,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -4130,14 +4135,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6472,
+      "Progressed": 6473,
       "Completed": 8
     }
   ],
@@ -4145,8 +4150,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-22T17:57:58.5593522+00:00",
-  "LastChanged_Achievements": "2023-07-28T05:05:06.142953+00:00",
+  "LastChanged_Achievements": "2023-07-28T06:05:55.4664987+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:22.5769719+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:58:07.9434941+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:05:06.1430104+00:00"
+  "LastUpdate_Ratings": "2023-07-28T05:58:16.3839928+00:00",
+  "LastUpdate_Achievements": "2023-07-28T06:05:55.4665561+00:00"
 }

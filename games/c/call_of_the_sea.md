@@ -5,24 +5,24 @@ Rating: 4.40 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~84,749 |
-| 74 miles East of Otaheité | 55.00% | ~59,002 |
-| Interesting... | 41.00% | ~43,984 |
-| The Everhart Expedition | 39.00% | ~41,838 |
-| Seaside Serenade | 30.00% | ~32,183 |
-| Halfway there | 29.00% | ~31,110 |
-| The Vanishing of the Lady Shannon | 29.00% | ~31,110 |
-| A brigantine, a brig and a barque | 28.00% | ~30,038 |
-| Weekend at Walakea's | 27.00% | ~28,965 |
-| 506 East Hampden Avenue | 27.00% | ~28,965 |
-| Quite a Show | 26.00% | ~27,892 |
-| Dark Water Ride | 24.00% | ~25,746 |
-| Sunken | 24.00% | ~25,746 |
-| Deep Cut | 23.00% | ~24,674 |
-| FHALGOF'N' | 22.00% | ~23,601 |
-| Marsh Cannery | 20.00% | ~21,455 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~18,237 |
-| The only thing I have now | 16.00% | ~17,164 |
+| A Family Heirloom | 79.00% | ~84,754 |
+| 74 miles East of Otaheité | 55.00% | ~59,006 |
+| Interesting... | 41.00% | ~43,986 |
+| The Everhart Expedition | 39.00% | ~41,840 |
+| Seaside Serenade | 30.00% | ~32,185 |
+| Halfway there | 29.00% | ~31,112 |
+| The Vanishing of the Lady Shannon | 29.00% | ~31,112 |
+| A brigantine, a brig and a barque | 28.00% | ~30,039 |
+| Weekend at Walakea's | 27.00% | ~28,966 |
+| 506 East Hampden Avenue | 27.00% | ~28,966 |
+| Quite a Show | 26.00% | ~27,894 |
+| Dark Water Ride | 24.00% | ~25,748 |
+| Sunken | 24.00% | ~25,748 |
+| Deep Cut | 23.00% | ~24,675 |
+| FHALGOF'N' | 22.00% | ~23,602 |
+| Marsh Cannery | 20.00% | ~21,457 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~18,238 |
+| The only thing I have now | 16.00% | ~17,165 |
 | Not Another Boring Slideshow! | 15.00% | ~16,092 |
 | Naacalvision | 15.00% | ~16,092 |
 | I'll make a note of that... | 9.00% | ~9,655 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 692)
 | Gently down the stream... | 1.00% | ~1,073 |
 | Meta-reference | 1.00% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,277 (Ranked 68)  
+Progressed: 107,283 (Ranked 68)  
 Completed: 842 (0.78%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 842 (0.78%) (Ranked 113)
 | 2023-07-25 | 106,730 | 837 |
 | 2023-07-26 | 106,989 | 838 |
 | 2023-07-27 | 107,237 | 840 |
-| 2023-07-28 | 107,277 | 842 |
+| 2023-07-28 | 107,283 | 842 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

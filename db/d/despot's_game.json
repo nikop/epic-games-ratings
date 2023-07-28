@@ -5,9 +5,9 @@
   "Ranking_Rating": 555,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -350,6 +350,11 @@
       "Time": "2023-07-27T23:01:06.7334997+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T06:02:06.6146634+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -391,9 +396,9 @@
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "collect-discounted-items2",
@@ -409,7 +414,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "different-items1",
@@ -417,7 +422,7 @@
       "Name": "Party",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "different-items2",
@@ -457,7 +462,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "finished-quest-nurgle",
@@ -481,7 +486,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "finished-quest-reaper",
@@ -489,7 +494,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "finished-quest-sci",
@@ -529,7 +534,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "last-hero",
@@ -585,7 +590,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "win-koth-fights1",
@@ -593,7 +598,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "win-koth-fights2",
@@ -617,7 +622,7 @@
       "Name": "Through the Darkness",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "win-with-3-cultists",
@@ -640,7 +645,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 1
     }
   ],
@@ -648,8 +653,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-28T05:01:02.2150957+00:00",
+  "LastChanged_Achievements": "2023-07-28T06:02:06.6146629+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-28T04:59:10.8405684+00:00",
-  "LastUpdate_Achievements": "2023-07-28T05:01:02.2151266+00:00"
+  "LastUpdate_Ratings": "2023-07-28T05:59:42.7907131+00:00",
+  "LastUpdate_Achievements": "2023-07-28T06:02:06.6147289+00:00"
 }
