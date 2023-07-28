@@ -9,12 +9,12 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.26% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
-| 10 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.00% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.55% |
-| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 18.18% |
-| 15 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
+| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.55% |
+| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 17.39% |
+| 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
+| 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 17 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
@@ -30,7 +30,7 @@
 | 28 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
-| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.06% |
+| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.98% |
 | 32 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 34 | [Scorn](games/s/scorn.md) | 6.99% |
@@ -63,7 +63,7 @@
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
+| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 66 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.44% |
-| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 80 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.13% |

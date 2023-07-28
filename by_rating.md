@@ -9,7 +9,7 @@
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 507 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 507 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 507 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,861 | 111 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,863 | 111 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 507 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,815 | 41 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 507 |
@@ -34,7 +34,7 @@
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,209 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 336 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 42 | 417 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,339 | 128 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,342 | 128 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 490 | 195 |
 | 28 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 0 | 507 |
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 507 |
@@ -65,7 +65,7 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 351 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 439 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 507 |
-| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,478 | 121 |
+| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,482 | 121 |
 | 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,673 | 59 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 507 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 507 |
@@ -148,7 +148,7 @@
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 798 | 153 |
 | 144 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 4,986 | 68 |
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 646 | 170 |
-| 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,860 | 48 |
+| 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,864 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 507 |
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,157 | 14 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 507 |
@@ -452,7 +452,7 @@
 | 442 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,625 | 45 |
 | 442 | [Observation](games/o/observation.md) | 4.57 | 0 | 507 |
 | 442 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,184 | 91 |
-| 442 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 5,966 | 55 |
+| 442 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 6,016 | 55 |
 | 442 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 507 |
 | 442 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.57 | 141 | 299 |
 | 442 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 507 |
@@ -518,7 +518,7 @@
 | 509 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 33 | 443 |
 | 509 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 485 |
 | 509 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 507 |
-| 509 | [VALORANT](games/v/valorant.md) | 4.53 | 62,427 | 10 |
+| 509 | [VALORANT](games/v/valorant.md) | 4.53 | 62,578 | 10 |
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 485 |
 | 520 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 759 | 157 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,409 | 15 |
@@ -610,20 +610,20 @@
 | 602 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 507 |
 | 602 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 507 |
 | 602 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 507 |
-| 602 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 507 |
-| 612 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 507 |
-| 612 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 507 |
-| 612 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 507 |
-| 612 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
-| 612 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,465 | 85 |
-| 612 | [Figment](games/f/figment.md) | 4.46 | 20 | 503 |
-| 612 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 324 |
-| 612 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 507 |
-| 612 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 507 |
-| 612 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 507 |
-| 612 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 507 |
-| 612 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 507 |
-| 612 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 285 | 236 |
+| 611 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 507 |
+| 611 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 507 |
+| 611 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 507 |
+| 611 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
+| 611 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,465 | 85 |
+| 611 | [Figment](games/f/figment.md) | 4.46 | 20 | 503 |
+| 611 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 324 |
+| 611 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 507 |
+| 611 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 507 |
+| 611 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 507 |
+| 611 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 507 |
+| 611 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 507 |
+| 611 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 285 | 236 |
+| 611 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 507 |
 | 625 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 450 |
 | 625 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 507 |
 | 625 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 240 | 250 |
@@ -686,7 +686,7 @@
 | 674 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 0 | 507 |
 | 674 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 34 | 439 |
 | 674 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 368 |
-| 674 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,190 | 106 |
+| 674 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,191 | 106 |
 | 674 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.41 | 0 | 507 |
 | 674 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 507 |
 | 674 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 553 | 186 |
