@@ -38,7 +38,7 @@
 | 36 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 37 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.48% |
 | 38 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.41% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.02% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 40 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 42 | [JARS](games/j/jars.md) | 4.84% |
@@ -154,7 +154,7 @@
 | 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 150 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 150 | [Scrapnaut](games/s/scrapnaut.md) | 0.31% |
-| 155 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 150 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 156 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 157 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
 | 157 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
@@ -516,4 +516,4 @@
 | 242 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 242 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 242 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,957 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,958 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
