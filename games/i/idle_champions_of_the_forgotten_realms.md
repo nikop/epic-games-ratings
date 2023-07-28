@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 1.00% | ~2,163 |
 | The Silken Swamp | 1.00% | ~2,163 |
 | Supply Run | 1.00% | ~2,163 |
-| Rocky Reception | 1.00% | ~1,825 |
+| Rocky Reception | 1.00% | ~1,826 |
 | Rock and Roll | 0.90% | ~1,643 |
 | Vecna Lives! | 0.80% | ~1,460 |
 | Vecna Loots! | 0.70% | ~1,278 |
@@ -156,6 +156,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~433 |
 | Flying Monkey Skulls of Doom | 0.20% | ~433 |
 | Lair of the Xanathar | 0.20% | ~433 |
+| Crowded Streets | 0.20% | ~433 |
 | The Darkness Runs Deeper | 0.20% | ~433 |
 | Difficult Terrain | 0.20% | ~433 |
 | The Contagious Curse | 0.20% | ~433 |
@@ -341,7 +342,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~216 |
 | Sober Up | 0.10% | ~216 |
 | In The Beginning | 0.10% | ~183 |
-| Crowded Streets | 0.10% | ~216 |
 | The Sunless Citadel | 0.10% | ~216 |
 | Veteran Brigade | 0.10% | ~216 |
 | Social Grace | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,275 (Ranked 53)  
+Progressed: 216,281 (Ranked 53)  
 Completed: 2,130 (0.98%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 2,130 (0.98%) (Ranked 110)
 | 2023-07-25 | 215,521 | 2,110 |
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
-| 2023-07-28 | 216,275 | 2,130 |
+| 2023-07-28 | 216,281 | 2,130 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,768 (Ranked 38)  

@@ -4,7 +4,7 @@
   "ProductSlug": "empire-of-ember-71234d",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-20T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:39.1605144+00:00",
   "LastChanged": "2023-03-31T05:57:39.1605145+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:16.1166149+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:00:51.8360981+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:03:45.4248512+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:00:37.8163355+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:03:30.03336+00:00"
 }

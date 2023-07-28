@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-07-23T14:04:29.199827+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T09:05:49.7133845+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -543,7 +548,7 @@
       "ID": "ach_beamer_zone",
       "SetID": "5a4225j",
       "Name": "Won Beamer Zone",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -599,7 +604,7 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 40,
       "UsersEstimate": 57
     },
@@ -647,7 +652,7 @@
       "ID": "ach_endless_winter",
       "SetID": "5a4225j",
       "Name": "Endless Winter",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -671,7 +676,7 @@
       "ID": "ach_homer_zone",
       "SetID": "5a4225j",
       "Name": "Won Homer Zone",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -679,7 +684,7 @@
       "ID": "ach_lotsokills",
       "SetID": "5a4225j",
       "Name": "Lots o\u0027 Kills",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -703,9 +708,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_pulser_zone",
@@ -752,13 +757,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:05:52.998542+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:05:49.7133839+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:00.9166532+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:57:47.0873755+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:05:52.9985677+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:57:47.9376967+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:05:49.7134087+00:00"
 }

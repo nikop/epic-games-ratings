@@ -902,7 +902,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8020,
+  "EOS_Progressed": 8021,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -3862,6 +3862,11 @@
       "Time": "2023-07-28T07:06:10.5869438+00:00",
       "NumProgressed": 8020,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-28T09:06:00.9837101+00:00",
+      "NumProgressed": 8021,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3913,7 +3918,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "FakeGoddessGone",
@@ -3953,7 +3958,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "HeroSlayer",
@@ -4033,7 +4038,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7459
+      "UsersEstimate": 7460
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4057,22 +4062,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8020,
+      "Progressed": 8021,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:06:05.7219696+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:06:00.9837096+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:00:39.5418072+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:06:05.722012+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:00:26.895908+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:06:00.9837466+00:00"
 }

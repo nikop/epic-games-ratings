@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1060,6 +1060,11 @@
       "Time": "2023-07-27T15:08:48.2822852+00:00",
       "NumProgressed": 485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T09:07:49.7588521+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1157,9 +1162,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "Chapter9",
@@ -1175,7 +1180,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Collectibles2",
@@ -1223,7 +1228,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "GollumChoices",
@@ -1239,7 +1244,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Memories",
@@ -1351,21 +1356,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:08:09.557767+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:07:49.7588516+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:24.5159044+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:58:48.5418995+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:08:09.5578155+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:58:50.288035+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:07:49.7588867+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~913,343 |
-| I Need a Bigger Garage | 63.00% | ~639,340 |
-| Pump my Ride | 46.00% | ~466,820 |
-| Ghostbuster | 33.00% | ~334,893 |
-| That Was Close | 18.00% | ~182,669 |
-| Call Roadside Assistance | 17.00% | ~172,520 |
-| Quickie | 11.00% | ~111,631 |
-| California Dreamer | 7.00% | ~71,038 |
-| Can't Touch This | 5.00% | ~50,741 |
+| The First of Many | 90.00% | ~913,362 |
+| I Need a Bigger Garage | 63.00% | ~639,354 |
+| Pump my Ride | 46.00% | ~466,830 |
+| Ghostbuster | 33.00% | ~334,900 |
+| That Was Close | 18.00% | ~182,672 |
+| Call Roadside Assistance | 17.00% | ~172,524 |
+| Quickie | 11.00% | ~111,633 |
+| California Dreamer | 7.00% | ~71,039 |
+| Can't Touch This | 5.00% | ~50,742 |
 | Carménère Taster | 3.00% | ~30,445 |
 | Comeback | 3.00% | ~30,445 |
 | Marathonist | 3.00% | ~30,445 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,148 |
 | Golden Passport | 1.00% | ~10,148 |
 | Brave and Bold | 1.00% | ~10,148 |
-| Crocodile Hunter | 0.90% | ~9,133 |
-| Old Master | 0.90% | ~9,133 |
+| Crocodile Hunter | 0.90% | ~9,134 |
+| Old Master | 0.90% | ~9,134 |
 | Volcano Surfer | 0.80% | ~8,119 |
 | Otaku | 0.80% | ~8,119 |
 | Survivor | 0.60% | ~6,089 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,015 |
 | Look Mom, No Hands! | 0.10% | ~1,015 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,014,826 (Ranked 12)  
+Progressed: 1,014,847 (Ranked 12)  
 Completed: 372 (0.04%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 372 (0.04%) (Ranked 214)
 | 2023-07-25 | 1,013,258 | 369 |
 | 2023-07-26 | 1,013,910 | 371 |
 | 2023-07-27 | 1,014,609 | 372 |
-| 2023-07-28 | 1,014,826 | 372 |
+| 2023-07-28 | 1,014,847 | 372 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 292)  
 Sum: 1,224 (Ranked 228)  

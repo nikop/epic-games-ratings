@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23449,
+  "EOS_Progressed": 23450,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3107,6 +3107,11 @@
       "Time": "2023-07-28T08:07:50.5976436+00:00",
       "NumProgressed": 23449,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-28T09:07:33.4283026+00:00",
+      "NumProgressed": 23450,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -3142,7 +3147,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10083
+      "UsersEstimate": 10084
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3182,7 +3187,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17821
+      "UsersEstimate": 17822
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3222,7 +3227,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19463
+      "UsersEstimate": 19464
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -3246,7 +3251,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13836
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3286,7 +3291,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -3318,7 +3323,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -3342,7 +3347,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -3373,22 +3378,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23449,
+      "Progressed": 23450,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 742,
-      "Completed": 742
+      "Progressed": 743,
+      "Completed": 743
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-27T22:00:39.9866271+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:07:50.5976424+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:07:33.4283021+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:35.72934+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:59:03.4231866+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:07:50.597696+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:59:00.9651575+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:07:33.4283654+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~43,260 |
-| INFUSED WITH LIGHT | 53.00% | ~33,718 |
-| FOXIN' AROUND | 29.00% | ~18,449 |
-| FETCH | 27.00% | ~17,177 |
-| BLOOMS OF LIGHT | 26.00% | ~16,541 |
-| BEST FRIENDS | 22.00% | ~13,996 |
-| AWAKEN | 21.00% | ~13,360 |
-| ERADICATE | 21.00% | ~13,360 |
-| SPIRIT BARK | 21.00% | ~13,360 |
-| GARDEN OF LIGHT | 18.00% | ~11,451 |
-| SPIRIT FORM | 16.00% | ~10,179 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~43,263 |
+| INFUSED WITH LIGHT | 53.00% | ~33,720 |
+| FOXIN' AROUND | 29.00% | ~18,450 |
+| FETCH | 27.00% | ~17,178 |
+| BLOOMS OF LIGHT | 26.00% | ~16,542 |
+| BEST FRIENDS | 22.00% | ~13,997 |
+| AWAKEN | 21.00% | ~13,361 |
+| ERADICATE | 21.00% | ~13,361 |
+| SPIRIT BARK | 21.00% | ~13,361 |
+| GARDEN OF LIGHT | 18.00% | ~11,452 |
+| SPIRIT FORM | 16.00% | ~10,180 |
 | UPROOTING DARKNESS | 15.00% | ~9,543 |
 | WRITTEN IN STONE | 15.00% | ~9,543 |
-| WEIGHTLESS | 12.00% | ~7,634 |
+| WEIGHTLESS | 12.00% | ~7,635 |
 | SPIRIT DASH | 11.00% | ~6,998 |
 | OLD COMPANION | 9.00% | ~5,726 |
-| PLAGUE DOCTOR | 8.00% | ~5,089 |
-| SPIRITED AWAY | 8.00% | ~5,089 |
-| MATCH MAKER | 7.00% | ~4,453 |
-| NORTHERN LIGHTS | 7.00% | ~4,453 |
+| PLAGUE DOCTOR | 8.00% | ~5,090 |
+| SPIRITED AWAY | 8.00% | ~5,090 |
+| MATCH MAKER | 7.00% | ~4,454 |
+| NORTHERN LIGHTS | 7.00% | ~4,454 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,545 |
 | ANCIENT HISTORY | 3.00% | ~1,909 |
 | NONE FORGOTTEN | 2.00% | ~1,272 |
 | KINDRED SPIRITS | 0.60% | ~382 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,618 (Ranked 81)  
+Progressed: 63,622 (Ranked 82)  
 Completed: 326 (0.51%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 326 (0.51%) (Ranked 133)
 | 2023-07-25 | 63,354 | 324 |
 | 2023-07-26 | 63,466 | 324 |
 | 2023-07-27 | 63,586 | 325 |
-| 2023-07-28 | 63,618 | 326 |
+| 2023-07-28 | 63,622 | 326 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 476)  
 Sum: 113 (Ranked 408)  

@@ -13,20 +13,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | No one has to die today! | 46.00% | ~11,642 |
 | Death and destruction! | 45.00% | ~11,389 |
 | The Swamplanders from the swamplands | 44.00% | ~11,136 |
-| The One-Huge-Army-Building Evil | 41.00% | ~10,376 |
-| Rusty Steel | 41.00% | ~10,376 |
+| The One-Huge-Army-Building Evil | 41.00% | ~10,377 |
+| Rusty Steel | 41.00% | ~10,377 |
 | The last burger | 38.00% | ~9,617 |
 | Braiiiiins! | 38.00% | ~9,617 |
 | Hands off the Dungeonheart! | 36.00% | ~9,111 |
 | A trip on sea, what fun it can be | 35.00% | ~8,858 |
 | Damned good | 33.00% | ~8,352 |
 | Factory farming | 32.00% | ~8,099 |
-| Stock Market Crash | 31.00% | ~7,845 |
-| Not-So-Overproud | 30.00% | ~7,592 |
-| For a handfull of Catapults | 29.00% | ~7,339 |
-| Shadow hunter | 29.00% | ~7,339 |
-| Thirst quencher | 28.00% | ~7,086 |
-| Ogre Solo! | 28.00% | ~7,086 |
+| Stock Market Crash | 31.00% | ~7,846 |
+| Not-So-Overproud | 30.00% | ~7,593 |
+| For a handfull of Catapults | 29.00% | ~7,340 |
+| Shadow hunter | 29.00% | ~7,340 |
+| Thirst quencher | 28.00% | ~7,087 |
+| Ogre Solo! | 28.00% | ~7,087 |
 | Tide Master | 27.00% | ~6,833 |
 | Destroy the thing | 26.00% | ~6,580 |
 | Difficult family relationships | 25.00% | ~6,327 |
@@ -39,9 +39,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Victorious Evil | 20.00% | ~5,062 |
 | We don’t have time! | 20.00% | ~5,062 |
 | Chorus of damnation | 19.00% | ~4,809 |
-| The Stones’ Power | 18.00% | ~4,555 |
-| Lifeguard | 18.00% | ~4,555 |
-| Flat as a pancake | 17.00% | ~4,302 |
+| The Stones’ Power | 18.00% | ~4,556 |
+| Lifeguard | 18.00% | ~4,556 |
+| Flat as a pancake | 17.00% | ~4,303 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~4,049 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,037 |
 | Then let them eat cake! | 12.00% | ~3,037 |
@@ -55,9 +55,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,025 |
 | Lifesaver | 8.00% | ~2,025 |
 | Hearts are trump | 7.00% | ~1,772 |
-| Spawner Killer | 6.00% | ~1,518 |
-| A little something extra | 6.00% | ~1,518 |
-| The Benevolent Evil | 6.00% | ~1,518 |
+| Spawner Killer | 6.00% | ~1,519 |
+| A little something extra | 6.00% | ~1,519 |
+| The Benevolent Evil | 6.00% | ~1,519 |
 | Band of Brothers | 5.00% | ~1,265 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,012 |
 | I need a hero! | 4.00% | ~1,012 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~506 |
 | Sacrifices! | 2.00% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,308 (Ranked 100)  
+Progressed: 25,309 (Ranked 100)  
 Completed: 208 (0.82%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 208 (0.82%) (Ranked 114)
 | 2023-07-25 | 25,099 | 208 |
 | 2023-07-26 | 25,174 | 208 |
 | 2023-07-27 | 25,275 | 208 |
-| 2023-07-28 | 25,308 | 208 |
+| 2023-07-28 | 25,309 | 208 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 225)  
 Sum: 2,599 (Ranked 172)  

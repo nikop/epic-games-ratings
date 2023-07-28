@@ -4,7 +4,7 @@
   "ProductSlug": "vr-soccer-96-bcb59f",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3692924+00:00",
   "LastChanged": "2023-03-31T05:58:26.3692925+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.787691+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:01:30.3332696+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:06:20.9219302+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:01:07.5681552+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:06:14.6143713+00:00"
 }

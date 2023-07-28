@@ -566,9 +566,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "VIPER_HACKING",
@@ -597,8 +597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:05:22.0479856+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:05:20.0676904+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:14.0586688+00:00",
-  "LastUpdate_Ratings": "2023-07-28T08:00:54.7112467+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:05:22.0480089+00:00"
+  "LastUpdate_Ratings": "2023-07-28T09:00:42.1122987+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:05:20.0677113+00:00"
 }

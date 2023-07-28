@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
+| Subjugator | 0.20% | ~26 |
 | Valiant | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
-| Subjugator | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,130 (Ranked 116)  
+Progressed: 13,131 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 5 (0.04%) (Ranked 214)
 | 2023-07-25 | 13,091 | 5 |
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
-| 2023-07-28 | 13,130 | 5 |
+| 2023-07-28 | 13,131 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

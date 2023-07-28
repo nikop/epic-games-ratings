@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-07-28T01:56:00.2405622+00:00",
       "NumProgressed": 364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-28T09:02:23.4062999+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1243,7 +1248,7 @@
       "Name": "Basic Controls",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "BigPlane",
@@ -1259,7 +1264,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Calculated",
@@ -1395,7 +1400,7 @@
       "Name": "Long Distances",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ManagementMaster",
@@ -1427,7 +1432,7 @@
       "Name": "New Record",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "NoTimeForModernization",
@@ -1499,7 +1504,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Restructuring",
@@ -1539,7 +1544,7 @@
       "Name": "Ten!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "TimeForManagement",
@@ -1555,21 +1560,21 @@
       "Name": "Transport Hub",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:02:52.5313319+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:02:23.4062993+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:57:34.9113067+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:02:52.5313868+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:57:37.446426+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:02:23.4063448+00:00"
 }

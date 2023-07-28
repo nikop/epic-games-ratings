@@ -11,7 +11,7 @@ Rating: 4.33 (Ranked 758)
 | Monster Hunter | 53.00% | ~562 |
 | Earning Trust | 50.00% | ~530 |
 | Monster Slayer | 28.00% | ~297 |
-| Awakening | 22.00% | ~233 |
+| Awakening | 23.00% | ~244 |
 | Huntmaster | 21.00% | ~223 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~180 |
 | Digging Deep | 13.00% | ~138 |

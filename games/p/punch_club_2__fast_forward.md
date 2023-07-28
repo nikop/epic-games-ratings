@@ -19,11 +19,11 @@
 | Run K, run! | 69.00% | ~115 |
 | No bullying more | 66.00% | ~110 |
 | Hello, world! | 66.00% | ~110 |
-| Fighting is cool | 64.00% | ~106 |
+| Fighting is cool | 65.00% | ~108 |
 | Pal of your father? | 61.00% | ~101 |
 | Employee of the month | 61.00% | ~101 |
+| Spirit of the past | 59.00% | ~98 |
 | Law student | 58.00% | ~96 |
-| Spirit of the past | 58.00% | ~96 |
 | Intriguing candies | 57.00% | ~95 |
 | Workout professional | 55.00% | ~91 |
 | Little hacker | 54.00% | ~90 |
@@ -46,11 +46,11 @@
 | Champion – no way back | 30.00% | ~50 |
 | Get out of my apartment! | 30.00% | ~50 |
 | Deal with life | 29.00% | ~48 |
+| Mom got better | 28.00% | ~46 |
 | GYM professional | 28.00% | ~46 |
 | Poisoned fighter | 28.00% | ~46 |
+| The die is cast | 28.00% | ~46 |
 | Underground dwellers | 28.00% | ~46 |
-| Mom got better | 27.00% | ~45 |
-| The die is cast | 27.00% | ~45 |
 | Seashell hunter | 27.00% | ~45 |
 | Gang wrangler | 25.00% | ~42 |
 | Anyone can resist | 24.00% | ~40 |

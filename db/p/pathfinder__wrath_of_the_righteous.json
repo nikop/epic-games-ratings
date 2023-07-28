@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 110,
@@ -3192,10 +3192,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6848,
       "NumberOfAwardsMax": 1693
+    },
+    {
+      "Time": "2023-07-28T08:59:35.0518688+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6849,
+      "NumberOfAwardsMax": 1693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6848,
+  "NumberOfAwards": 6849,
   "NumberOfAwardsMax": 1693,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3215,7 +3221,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 642
+      "Count": 643
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3266,9 +3272,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10633,
+  "EOS_Progressed": 10634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9536,6 +9542,11 @@
       "Time": "2023-07-28T08:03:47.1183174+00:00",
       "NumProgressed": 10633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-28T09:03:31.5900659+00:00",
+      "NumProgressed": 10634,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10474,21 +10485,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9415,
+      "Progressed": 9416,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10633,
+      "Progressed": 10634,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-28T04:58:57.8018182+00:00",
-  "LastChanged_Achievements": "2023-07-28T08:03:47.1183167+00:00",
+  "LastChanged": "2023-07-28T08:59:35.0518686+00:00",
+  "LastChanged_Achievements": "2023-07-28T09:03:31.5900654+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:05.1723431+00:00",
-  "LastUpdate_Ratings": "2023-07-28T07:59:44.423287+00:00",
-  "LastUpdate_Achievements": "2023-07-28T08:03:47.1185441+00:00"
+  "LastUpdate_Ratings": "2023-07-28T08:59:35.0518692+00:00",
+  "LastUpdate_Achievements": "2023-07-28T09:03:31.5902897+00:00"
 }

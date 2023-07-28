@@ -6,31 +6,31 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,511 |
+| First Step | 71.00% | ~5,512 |
 | Leader | 61.00% | ~4,735 |
 | Explorer | 53.00% | ~4,114 |
-| Healer | 52.00% | ~4,036 |
-| Aspiring Inventor | 44.00% | ~3,415 |
-| Adventurer | 41.00% | ~3,182 |
+| Healer | 52.00% | ~4,037 |
+| Aspiring Inventor | 44.00% | ~3,416 |
+| Adventurer | 41.00% | ~3,183 |
 | Famous Healer | 38.00% | ~2,950 |
 | Local Leader | 35.00% | ~2,717 |
 | Famous Explorer | 34.00% | ~2,639 |
 | New Opportunities | 34.00% | ~2,639 |
-| Energized | 33.00% | ~2,561 |
-| The Long Haul | 33.00% | ~2,561 |
-| The Great Healer | 31.00% | ~2,406 |
-| Survivor | 31.00% | ~2,406 |
-| Legendary Explorer | 28.00% | ~2,173 |
-| Cleaner | 28.00% | ~2,173 |
-| Catastrofan | 28.00% | ~2,173 |
+| Energized | 33.00% | ~2,562 |
+| The Long Haul | 33.00% | ~2,562 |
+| The Great Healer | 31.00% | ~2,407 |
+| Survivor | 31.00% | ~2,407 |
+| Legendary Explorer | 28.00% | ~2,174 |
+| Cleaner | 28.00% | ~2,174 |
+| Catastrofan | 28.00% | ~2,174 |
 | Finders, Keepers | 26.00% | ~2,018 |
-| Top Notch | 25.00% | ~1,940 |
+| Top Notch | 25.00% | ~1,941 |
 | Ice Lakes | 23.00% | ~1,785 |
 | Mentor | 23.00% | ~1,785 |
 | Merchant | 22.00% | ~1,708 |
 | Great Leader | 22.00% | ~1,708 |
 | Real Survivor | 22.00% | ~1,708 |
-| Rocket Surgeon | 20.00% | ~1,552 |
+| Rocket Surgeon | 20.00% | ~1,553 |
 | War Never Changes | 19.00% | ~1,475 |
 | Big Game Hunter | 17.00% | ~1,320 |
 | Spreading Influence | 17.00% | ~1,320 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~466 |
 | Amped Up | 6.00% | ~466 |
 | Look, no Hands! | 5.00% | ~388 |
-| Luxurious Living | 4.00% | ~310 |
+| Luxurious Living | 4.00% | ~311 |
 | Mogul | 3.00% | ~233 |
 | Ranch Hand | 3.00% | ~233 |
 | Diplomat | 2.00% | ~155 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,762 (Ranked 127)  
+Progressed: 7,763 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 244)
 | 2023-07-25 | 7,711 | 0 |
 | 2023-07-26 | 7,737 | 0 |
 | 2023-07-27 | 7,754 | 0 |
-| 2023-07-28 | 7,762 | 0 |
+| 2023-07-28 | 7,763 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 682 (Ranked 273)  
