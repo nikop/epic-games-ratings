@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 63.64% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.86% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.43% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -23,7 +23,7 @@
 | 21 | [Remains](games/r/remains.md) | 10.87% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.40% |
+| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.80% |
@@ -38,10 +38,10 @@
 | 36 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 37 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 6.25% |
 | 37 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 37 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 6.25% |
+| 39 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.98% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.96% |
 | 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
@@ -81,8 +81,8 @@
 | 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.40% |
 | 80 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
+| 82 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
-| 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.97% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
