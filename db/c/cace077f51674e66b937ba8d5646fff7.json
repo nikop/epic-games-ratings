@@ -657,17 +657,17 @@
       "ID": "ENEMY_ARCADE_0",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic the Conscious Toy",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ENEMY_ARCADE_1",
       "SetID": "50pdlpn",
       "Name": "Arcade - Norman the Useless Gyroscope",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ENEMY_ARCADE_10",
@@ -753,9 +753,9 @@
       "ID": "ENEMY_ARCADE_2",
       "SetID": "50pdlpn",
       "Name": "Arcade - Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ENEMY_ARCADE_20",
@@ -936,8 +936,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:28:52.7743523+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:05:52.5012632+00:00",
   "LastUpdate_AppInfo": "2023-07-24T14:56:53.659253+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:19:31.2362982+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:28:52.774442+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:57:36.5157586+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:05:52.5013457+00:00"
 }

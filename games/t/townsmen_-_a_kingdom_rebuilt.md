@@ -35,6 +35,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 4.00% | ~169 |
 | Conflicting parties | 4.00% | ~169 |
 | Another one bites the dust | 3.00% | ~126 |
+| Bread for the people III | 3.00% | ~126 |
 | I like to build stuff... IV | 3.00% | ~126 |
 | Experienced decorator | 3.00% | ~126 |
 | My precious... I | 3.00% | ~126 |
@@ -42,7 +43,6 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game III | 3.00% | ~126 |
 | Tools of the trade II | 3.00% | ~126 |
 | The Art of War | 2.00% | ~84 |
-| Bread for the people III | 2.00% | ~84 |
 | Five brews are a schnitzel | 2.00% | ~84 |
 | I like to build stuff... V | 2.00% | ~84 |
 | The King's new clothes II | 2.00% | ~84 |

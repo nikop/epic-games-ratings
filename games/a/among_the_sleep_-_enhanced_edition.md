@@ -12,12 +12,12 @@ Number of Ratings: 368  (23.09.2022)
 | Baby Mozart | 5.00% | ~4,018 |
 | House Drawings | 1.00% | ~804 |
 | Cave Drawings | 1.00% | ~804 |
-| Forest Drawings | 0.70% | ~562 |
-| Closet Drawings | 0.70% | ~562 |
+| Forest Drawings | 0.70% | ~563 |
+| Closet Drawings | 0.70% | ~563 |
 | Prologue Drawings | 0.60% | ~482 |
 | Collected all drawings | 0.50% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,357 (Ranked 71)  
+Progressed: 80,358 (Ranked 71)  
 Completed: 377 (0.47%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 377 (0.47%) (Ranked 139)
 | 2023-07-26 | 80,115 | 375 |
 | 2023-07-27 | 80,214 | 375 |
 | 2023-07-28 | 80,337 | 377 |
-| 2023-07-29 | 80,357 | 377 |
+| 2023-07-29 | 80,358 | 377 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

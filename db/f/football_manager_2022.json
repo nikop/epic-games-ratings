@@ -6185,7 +6185,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468415,
+  "EOS_Progressed": 468416,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 0,
@@ -16535,6 +16535,11 @@
       "Time": "2023-07-29T02:27:29.4474701+00:00",
       "NumProgressed": 468415,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-29T03:04:52.2932126+00:00",
+      "NumProgressed": 468416,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -16642,7 +16647,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135840
+      "UsersEstimate": 135841
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -16658,7 +16663,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 140524
+      "UsersEstimate": 140525
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -16730,7 +16735,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229523
+      "UsersEstimate": 229524
     },
     {
       "ID": "achievement_club_world_cup",
@@ -16778,7 +16783,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192050
+      "UsersEstimate": 192051
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -16818,7 +16823,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103051
+      "UsersEstimate": 103052
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -16858,7 +16863,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135840
+      "UsersEstimate": 135841
     },
     {
       "ID": "achievement_hattrick",
@@ -16866,7 +16871,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192050
+      "UsersEstimate": 192051
     },
     {
       "ID": "achievement_head_to_head",
@@ -16890,7 +16895,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140524
+      "UsersEstimate": 140525
     },
     {
       "ID": "achievement_impervious",
@@ -16914,7 +16919,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107735
+      "UsersEstimate": 107736
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -16922,7 +16927,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103051
+      "UsersEstimate": 103052
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -16970,7 +16975,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 163945
+      "UsersEstimate": 163946
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -17018,7 +17023,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135840
+      "UsersEstimate": 135841
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -17090,7 +17095,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 224839
+      "UsersEstimate": 224840
     },
     {
       "ID": "achievement_signed_a_player",
@@ -17106,7 +17111,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 107735
+      "UsersEstimate": 107736
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -17186,7 +17191,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103051
+      "UsersEstimate": 103052
     },
     {
       "ID": "achievement_won_international_championship",
@@ -17329,15 +17334,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468415,
+      "Progressed": 468416,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-28T19:02:21.3398213+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:27:29.4474695+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:04:52.2932121+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.0444975+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:23:54.9636799+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:27:29.4477252+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:00:51.3436454+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:04:52.293404+00:00"
 }

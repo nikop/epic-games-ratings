@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
+| Valiant | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
 | Champions | 0.30% | ~39 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
-| Valiant | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
 | Good Difficulty | 0.20% | ~26 |
 | Strong Difficulty | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,145 (Ranked 116)  
+Progressed: 13,147 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,6 +403,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
+| 2023-07-29 | 13,147 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

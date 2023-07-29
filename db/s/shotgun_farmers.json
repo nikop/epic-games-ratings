@@ -1319,9 +1319,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1351,9 +1351,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_all_koth_points",
@@ -1614,8 +1614,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:28:21.0983702+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:05:29.6509581+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:56.2452494+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:20:57.0859735+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:28:21.0984628+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:58:48.7536346+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:05:29.6510494+00:00"
 }

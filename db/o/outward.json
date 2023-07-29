@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 481,
-  "Ranking_Popularity": 443,
+  "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 196,
@@ -496,7 +496,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3172,
+  "EOS_Progressed": 3173,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -3606,6 +3606,11 @@
       "Time": "2023-07-29T01:54:11.5746812+00:00",
       "NumProgressed": 3172,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T03:03:06.4989314+00:00",
+      "NumProgressed": 3173,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3809,7 +3814,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3889,7 +3894,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "TheStuffOfLegends",
@@ -3937,7 +3942,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3952,15 +3957,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3172,
+      "Progressed": 3173,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:25:21.4586467+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:03:06.4989308+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:20:29.6658559+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:25:21.4587006+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:58:25.6991657+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:03:06.4989869+00:00"
 }

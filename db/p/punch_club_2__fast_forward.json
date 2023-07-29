@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
@@ -639,9 +639,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "courier_win",
@@ -703,9 +703,9 @@
       "ID": "flash_bobo",
       "SetID": "69co12a",
       "Name": "Keep nature safe",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "flash_delivery",
@@ -719,9 +719,9 @@
       "ID": "flash_k",
       "SetID": "69co12a",
       "Name": "Key memories",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "flash_silver",
@@ -735,9 +735,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "get_tape",
@@ -983,9 +983,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "seashell_hunter",
@@ -1086,8 +1086,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:28:41.0228704+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:05:44.14569+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.2619183+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:19:50.4006878+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:28:41.022967+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:57:50.6718255+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:05:44.1457618+00:00"
 }

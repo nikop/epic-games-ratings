@@ -44,8 +44,8 @@ Rating: 4.63 (Ranked 333)
 | Jack of All Tomes | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
+| I've Got Everything I Need Right Here | 0.90% | ~45 |
 | Pruning for Progress | 0.90% | ~45 |
-| I've Got Everything I Need Right Here | 0.80% | ~40 |
 | Manufactured War | 0.70% | ~35 |
 | Snap Out of It! | 0.50% | ~25 |
 | Betrayal Most Foul | 0.30% | ~15 |

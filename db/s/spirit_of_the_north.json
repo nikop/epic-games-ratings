@@ -3,11 +3,11 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 732,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -320,7 +320,7 @@
   ],
   "EOS_Progressed": 63717,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -11143,8 +11143,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:25:26.454803+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:03:09.4866353+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:25.540918+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:22:38.1556363+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:25:26.4549548+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:59:57.4270956+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:03:09.4867206+00:00"
 }

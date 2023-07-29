@@ -15,7 +15,7 @@ Rating: 3.82 (Ranked 942)
 | The Capitalist | 44.00% | ~662 |
 | K.O.! | 43.00% | ~647 |
 | Intermediate Chemist | 40.00% | ~602 |
-| Decorative Mind | 31.00% | ~467 |
+| Decorative Mind | 32.00% | ~482 |
 | Lumber Specialist | 31.00% | ~467 |
 | Catch of the Day | 25.00% | ~376 |
 | Kind-hearted | 24.00% | ~361 |

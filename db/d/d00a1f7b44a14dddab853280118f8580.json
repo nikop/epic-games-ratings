@@ -2,7 +2,7 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 58,
@@ -113,9 +113,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_hint_6",
@@ -145,9 +145,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_skip_1",
@@ -183,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:24:23.5982005+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:02:10.0320595+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:18:38.1204954+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:24:23.5982144+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:56:55.6824542+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:02:10.0320753+00:00"
 }

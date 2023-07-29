@@ -5294,10 +5294,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30775,
       "NumberOfAwardsMax": 5093
+    },
+    {
+      "Time": "2023-07-29T02:58:41.3380328+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30781,
+      "NumberOfAwardsMax": 5093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30775,
+  "NumberOfAwards": 30781,
   "NumberOfAwardsMax": 5093,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5341,12 +5347,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3323
+      "Count": 3329
     }
   ],
-  "EOS_Progressed": 216554,
+  "EOS_Progressed": 216560,
   "EOS_Completed": 2134,
-  "EOS_NewPlayers": 2263,
+  "EOS_NewPlayers": 2255,
   "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16029,6 +16035,11 @@
       "Time": "2023-07-29T02:25:45.3565783+00:00",
       "NumProgressed": 216554,
       "NumCompleted": 2134
+    },
+    {
+      "Time": "2023-07-29T03:03:23.2877336+00:00",
+      "NumProgressed": 216560,
+      "NumCompleted": 2134
     }
   ],
   "TotalAchievements": 512,
@@ -16208,7 +16219,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1066",
@@ -16280,7 +16291,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1081",
@@ -16654,9 +16665,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 1083
     },
     {
       "ID": "objective_completed_1152",
@@ -16672,7 +16683,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1154",
@@ -16680,7 +16691,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1158",
@@ -16712,7 +16723,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1163",
@@ -16736,7 +16747,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1168",
@@ -16944,7 +16955,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1214",
@@ -16960,7 +16971,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1219",
@@ -17112,7 +17123,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1346",
@@ -17128,7 +17139,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1351",
@@ -19984,7 +19995,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1047",
@@ -19992,7 +20003,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1215",
@@ -20080,7 +20091,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "objective_completed_1381",
@@ -20104,7 +20115,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1390",
@@ -20135,21 +20146,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182828,
-      "Completed": 3023
+      "Progressed": 182834,
+      "Completed": 3024
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216554,
+      "Progressed": 216560,
       "Completed": 2134
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-28T20:59:03.9351357+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:25:45.3565778+00:00",
+  "LastChanged": "2023-07-29T02:58:41.3380327+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:03:23.287733+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:20:47.976205+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:25:45.3592931+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:58:41.3380334+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:03:23.2905085+00:00"
 }

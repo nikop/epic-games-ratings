@@ -3,7 +3,7 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 197,
-  "Ranking_Popularity": 409,
+  "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 226,
@@ -747,7 +747,7 @@
   ],
   "EOS_Progressed": 33093,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11849,8 +11849,8 @@
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:26:10.3006531+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:03:40.7545802+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:19.8686275+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:22:28.7741364+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:26:10.3007628+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:59:49.4493976+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:03:40.7546746+00:00"
 }

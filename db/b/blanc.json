@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2383,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2143,6 +2143,11 @@
       "Time": "2023-07-28T23:02:11.0805211+00:00",
       "NumProgressed": 2383,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T03:02:29.6983347+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -2202,7 +2207,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SNOW_RUINS",
@@ -2242,7 +2247,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2257,7 +2262,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2383,
+      "Progressed": 2384,
       "Completed": 5
     }
   ],
@@ -2265,8 +2270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-29T02:24:51.1192745+00:00",
+  "LastChanged_Achievements": "2023-07-29T03:02:29.6983341+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:22:25.8974043+00:00",
-  "LastUpdate_Achievements": "2023-07-29T02:24:51.1192997+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:59:47.4144991+00:00",
+  "LastUpdate_Achievements": "2023-07-29T03:02:29.6983614+00:00"
 }
