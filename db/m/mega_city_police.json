@@ -2,10 +2,10 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Police",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -215,25 +215,25 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_LEVEL_03",
       "SetID": "a2aifpa",
       "Name": "Escape From M.C.",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_04",
       "SetID": "a2aifpa",
       "Name": "Restore Honor",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_05",
@@ -293,8 +293,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:05:04.741241+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:05:36.9398711+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:55.8908464+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:05:04.7412551+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:59:23.5439674+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:05:36.9398911+00:00"
 }

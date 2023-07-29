@@ -4,11 +4,11 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 121,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3210,18 +3210,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6854,
       "NumberOfAwardsMax": 1693
+    },
+    {
+      "Time": "2023-07-29T09:58:59.0406455+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6856,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6854,
-  "NumberOfAwardsMax": 1693,
+  "NumberOfAwards": 6856,
+  "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1693
+      "Count": 1694
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3251,7 +3257,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 627
+      "Count": 628
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3284,9 +3290,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10652,
+  "EOS_Progressed": 10656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9609,6 +9615,11 @@
       "Time": "2023-07-29T08:02:05.1413642+00:00",
       "NumProgressed": 10652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T10:01:11.2142119+00:00",
+      "NumProgressed": 10656,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9620,7 +9631,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "02_BurningCity",
@@ -9756,7 +9767,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "19_EqualToAroden",
@@ -9820,7 +9831,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "28_GreatUpstart",
@@ -9868,7 +9879,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10547,21 +10558,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9434,
+      "Progressed": 9438,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10652,
+      "Progressed": 10656,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-28T19:59:39.975407+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:02:05.1413639+00:00",
+  "LastChanged": "2023-07-29T09:58:59.0406453+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:01:11.2142115+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:35.497713+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:02:05.1415494+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:59.040646+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:01:11.2144183+00:00"
 }

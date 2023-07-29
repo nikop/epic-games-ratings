@@ -5,11 +5,11 @@ Rating: 4.43 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,693 |
-| Predator I | 22.00% | ~55,846 |
+| Survivor | 31.00% | ~78,694 |
+| Predator I | 22.00% | ~55,847 |
 | Fixer I | 10.00% | ~25,385 |
 | A week in Century City | 10.00% | ~25,385 |
-| The Wait | 7.00% | ~17,769 |
+| The Wait | 7.00% | ~17,770 |
 | Green thumb I | 6.00% | ~15,231 |
 | Cleaning Company | 6.00% | ~15,231 |
 | Well-oiled machine | 5.00% | ~12,692 |
@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 655)
 | Pacifist | 4.00% | ~10,154 |
 | Vandalism | 4.00% | ~10,154 |
 | Capitalist I | 4.00% | ~10,154 |
-| Adrenaline | 3.00% | ~7,615 |
+| Adrenaline | 3.00% | ~7,616 |
 | By a hair | 2.00% | ~5,077 |
 | Fixer II | 2.00% | ~5,077 |
 | It took a while | 2.00% | ~5,077 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 655)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,847 (Ranked 43)  
+Progressed: 253,850 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,18 +162,18 @@ Completed: 3 (0.00%) (Ranked 246)
 | 2023-07-26 | 253,706 | 3 |
 | 2023-07-27 | 253,757 | 3 |
 | 2023-07-28 | 253,814 | 3 |
-| 2023-07-29 | 253,847 | 3 |
+| 2023-07-29 | 253,850 | 3 |
 ## Awards
-Max (Unique Visuals): 33  (Ranked 444)  
-Sum: 206 (Ranked 360)  
+Max (Great for Quick Sessions): 33  (Ranked 444)  
+Sum: 208 (Ranked 360)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 33 |
 | This game has Unique Visuals | 33 |
-| This game is Great for Quick Sessions | 32 |
 | This game has Amazing Characters | 28 |
 | This game has Challenging Combat | 25 |
-| This game is Highly Recommended | 24 |
+| This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 22 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 20 |
@@ -282,4 +282,4 @@ Diff (max vs sum): 84
 | 2023-07-24 | 4.43 | 32 | 203 |
 | 2023-07-27 | 4.43 | 33 | 205 |
 | 2023-07-28 | 4.42 | 33 | 205 |
-| 2023-07-29 | 4.43 | 33 | 206 |
+| 2023-07-29 | 4.43 | 33 | 208 |

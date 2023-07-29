@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1939,9 +1939,9 @@
       "ID": "ACH_THROUGH_THEIR_EYES",
       "SetID": "8j30i9k",
       "Name": "Through Their Eyes",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2011,8 +2011,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:04:31.3211169+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:56.9651558+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:38.1289567+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:31.3211585+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:59:01.8047775+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:56.9652107+00:00"
 }

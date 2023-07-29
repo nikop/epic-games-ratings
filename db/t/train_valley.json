@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 165
     },
     {
       "ID": "03_philatelist",
@@ -844,9 +844,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "24_mega",
@@ -988,8 +988,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:03:51.4751894+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:10.1445178+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:57:53.7262807+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:03:51.4752158+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:07.6476521+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:10.1445639+00:00"
 }

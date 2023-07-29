@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1571,7 +1571,7 @@
   ],
   "EOS_Progressed": 13153,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9665,9 +9665,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -11135,8 +11135,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:05:30.0980368+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:06:08.8284769+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:10.2517771+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:05:30.0987597+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:27.2168848+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:06:08.8295601+00:00"
 }

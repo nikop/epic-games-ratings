@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark | 40.00% | ~601 |
 | Mass production | 35.00% | ~526 |
 | Aircraft entrepreneur | 33.00% | ~496 |
+| The future is now, old man | 32.00% | ~481 |
 | Crowd in a train | 31.00% | ~466 |
-| The future is now, old man | 31.00% | ~466 |
 | Not in my backyard | 30.00% | ~451 |
 | The king of the sea | 29.00% | ~436 |
 | City | 28.00% | ~421 |

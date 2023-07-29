@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
+| Tactical Sabotage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
@@ -51,7 +52,6 @@ Number of Ratings: 371  (23.09.2022)
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
-| Tactical Sabotage | 0.10% | ~3 |
 | Hive Exterminator | 0.10% | ~3 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |

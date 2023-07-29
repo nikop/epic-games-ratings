@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -556,7 +556,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9316,
+  "EOS_Progressed": 9317,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
@@ -7291,6 +7291,11 @@
       "Time": "2023-07-29T09:04:03.1009748+00:00",
       "NumProgressed": 9316,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-29T10:04:23.8189409+00:00",
+      "NumProgressed": 9317,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7310,7 +7315,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH03",
@@ -7342,7 +7347,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH07",
@@ -7350,7 +7355,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH08",
@@ -7366,7 +7371,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH10",
@@ -7398,7 +7403,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH14",
@@ -7414,7 +7419,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH16",
@@ -7430,7 +7435,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH18",
@@ -7446,7 +7451,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH20",
@@ -7462,7 +7467,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "ACH22",
@@ -7502,7 +7507,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH27",
@@ -7573,7 +7578,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9316,
+      "Progressed": 9317,
       "Completed": 43
     }
   ],
@@ -7581,8 +7586,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-29T02:58:47.8264413+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:04:03.1009742+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:23.8189401+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:26.1495805+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:03.101028+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:47.4630763+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:23.8190111+00:00"
 }

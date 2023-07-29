@@ -4,8 +4,8 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -358,9 +358,9 @@
       "ID": "2",
       "SetID": "7l2nmpm",
       "Name": "Duet Desert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 31
     },
     {
       "ID": "20",
@@ -503,8 +503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:02:41.2444999+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:03:16.4778371+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:24.8644656+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:59:37.9473767+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:02:41.2445166+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:00:16.2356281+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:03:16.477858+00:00"
 }

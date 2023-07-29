@@ -6,18 +6,18 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~598 |
+| Plenty More to Go | 88.00% | ~599 |
 | All Bark, No Bite | 77.00% | ~524 |
 | Hopeful Hunter | 67.00% | ~456 |
-| Amateur Adventurer | 64.00% | ~435 |
-| The Road to Recovery | 63.00% | ~428 |
+| Amateur Adventurer | 64.00% | ~436 |
+| The Road to Recovery | 63.00% | ~429 |
 | Partners? | 62.00% | ~422 |
-| Magical Mineral Golem | 55.00% | ~374 |
-| On Outlander Lane | 55.00% | ~374 |
+| Magical Mineral Golem | 55.00% | ~375 |
+| On Outlander Lane | 54.00% | ~368 |
 | First Time Fishing | 52.00% | ~354 |
 | A Girl About the Town | 51.00% | ~347 |
-| First Time Hunting | 49.00% | ~333 |
-| Rune Wall Wreckage | 48.00% | ~326 |
+| First Time Hunting | 49.00% | ~334 |
+| Rune Wall Wreckage | 48.00% | ~327 |
 | ...And Your Tax Money | 47.00% | ~320 |
 | The Lords of the Snowpeak | 40.00% | ~272 |
 | The Go-To Girl | 37.00% | ~252 |
@@ -27,8 +27,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 36.00% | ~245 |
 | One Mean Merc | 35.00% | ~238 |
 | Money, Money, Money | 35.00% | ~238 |
-| Adept, for an Acting Mayor | 34.00% | ~231 |
-| Rune Wall Master | 33.00% | ~224 |
+| Adept, for an Acting Mayor | 34.00% | ~232 |
+| Rune Wall Master | 33.00% | ~225 |
 | The Quarry...On Foot! | 31.00% | ~211 |
 | The Runebarrows...On Foot! | 29.00% | ~197 |
 | The Snowpeak...On Foot! | 27.00% | ~184 |
@@ -36,12 +36,12 @@ Number of Ratings: 48  (23.09.2022)
 | Meat Master | 26.00% | ~177 |
 | Fishing Master | 25.00% | ~170 |
 | Armor Master | 24.00% | ~163 |
-| The Pride of the Town | 23.00% | ~156 |
+| The Pride of the Town | 23.00% | ~157 |
 | This Treasure I've Found | 21.00% | ~143 |
 | New Nevaeh's Number One Customer | 21.00% | ~143 |
 | Arms Master | 19.00% | ~129 |
 | Rune Scholar | 16.00% | ~109 |
-| No Treasure Left Behind | 13.00% | ~88 |
+| No Treasure Left Behind | 13.00% | ~89 |
 | Sommelier | 12.00% | ~82 |
 | Champion of the Great Forest | 12.00% | ~82 |
 | One-Hundred Resident Record | 11.00% | ~75 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~54 |
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680 (Ranked 207)  
-Completed: 58 (8.53%) (Ranked 29)  
+Progressed: 681 (Ranked 207)  
+Completed: 58 (8.52%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 58 (8.53%) (Ranked 29)
 | 2023-06-27 | 678 | 58 |
 | 2023-07-14 | 679 | 58 |
 | 2023-07-21 | 680 | 58 |
+| 2023-07-29 | 681 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3193,9 +3193,9 @@
       "ID": "MissionVictory_BoardingAction",
       "SetID": "2im8phi",
       "Name": "Tactical Sabotage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -3223,8 +3223,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:03:53.5694955+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:12.4209647+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:51.9629723+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:03:53.5695574+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:59:17.998762+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:12.421046+00:00"
 }

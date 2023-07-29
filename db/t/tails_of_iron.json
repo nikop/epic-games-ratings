@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1811,
+  "EOS_Progressed": 1812,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2196,6 +2196,11 @@
       "Time": "2023-07-29T07:03:10.0975905+00:00",
       "NumProgressed": 1811,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-29T10:03:14.5154937+00:00",
+      "NumProgressed": 1812,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2207,7 +2212,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "Collect20Gold",
@@ -2223,7 +2228,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2231,7 +2236,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "CollectAllStatues",
@@ -2279,7 +2284,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2287,7 +2292,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2295,7 +2300,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CompleteStoryDM",
@@ -2359,7 +2364,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Kill25Bugs",
@@ -2383,7 +2388,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "MeetTheMoles",
@@ -2407,7 +2412,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "RepairSmith",
@@ -2446,22 +2451,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1811,
+      "Progressed": 1812,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 452,
-      "Completed": 452
+      "Progressed": 453,
+      "Completed": 453
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:02:39.5690943+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:03:14.5154933+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:30.6519108+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:02:39.5691226+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:52.9745686+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:03:14.5155303+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1020,7 +1020,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4388,
+  "EOS_Progressed": 4389,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -7025,6 +7025,11 @@
       "Time": "2023-07-29T09:05:22.617589+00:00",
       "NumProgressed": 4388,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-29T10:05:59.0449323+00:00",
+      "NumProgressed": 4389,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7196,7 +7201,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7268,7 +7273,7 @@
       "Name": "Survivor",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -7292,7 +7297,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7355,15 +7360,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4388,
+      "Progressed": 4389,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-22T11:00:58.604063+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:05:22.6175885+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:05:59.044932+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:00:12.937368+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:05:22.6176409+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:00:59.0201773+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:05:59.0449996+00:00"
 }

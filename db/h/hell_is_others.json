@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -704,18 +704,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-07-29T10:00:56.3877095+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 33,
-  "MaxAwardTitle": "Unique Visuals",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Unique Visuals",
@@ -751,7 +757,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Competitive Players",
@@ -760,9 +766,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253847,
+  "EOS_Progressed": 253850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10910,6 +10916,11 @@
       "Time": "2023-07-29T09:05:36.1821354+00:00",
       "NumProgressed": 253847,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T10:06:16.0292444+00:00",
+      "NumProgressed": 253850,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10921,7 +10932,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17769
+      "UsersEstimate": 17770
     },
     {
       "ID": "Act2",
@@ -10969,7 +10980,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78693
+      "UsersEstimate": 78694
     },
     {
       "ID": "BackHomeNTimes",
@@ -11193,7 +11204,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7616
     },
     {
       "ID": "KillOtherWithMine",
@@ -11209,7 +11220,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55846
+      "UsersEstimate": 55847
     },
     {
       "ID": "KillOthers2",
@@ -11368,16 +11379,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253847,
+      "Progressed": 253850,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-29T00:01:38.8391534+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:05:36.182135+00:00",
+  "LastChanged": "2023-07-29T10:00:56.3877093+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:06:16.0292441+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:00:11.0387153+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:05:36.1822206+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:00:56.38771+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:06:16.0293602+00:00"
 }

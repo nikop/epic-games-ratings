@@ -4,8 +4,8 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "killing_machine",
       "SetID": "94981fl",
       "Name": "killing machine",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "laserbot",
@@ -325,8 +325,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:03:13.4482351+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:03:24.9324445+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.6177192+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:56:57.2345526+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:03:13.448252+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:56:58.3724034+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:03:24.9324669+00:00"
 }

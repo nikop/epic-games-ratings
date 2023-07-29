@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,499 |
-| Beast Intentions | 2.00% | ~4,332 |
+| Beast Intentions | 2.00% | ~4,333 |
 | Maddening | 1.00% | ~2,166 |
 | The Silken Swamp | 1.00% | ~2,166 |
 | Supply Run | 1.00% | ~2,166 |
@@ -23,13 +23,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.60% | ~1,097 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,097 |
 | Pros and CONs | 0.50% | ~1,083 |
-| The Witchlight Carnival | 0.50% | ~914 |
+| The Witchlight Carnival | 0.50% | ~915 |
 | Hatchlings Underfoot | 0.50% | ~1,083 |
 | Don't Look Up! | 0.50% | ~1,083 |
 | Heavy Burden | 0.50% | ~1,083 |
-| The Evacuation of Waterdeep | 0.50% | ~914 |
-| Heatwave | 0.50% | ~914 |
-| The Dread Domain of Tovag | 0.50% | ~914 |
+| The Evacuation of Waterdeep | 0.50% | ~915 |
+| Heatwave | 0.50% | ~915 |
+| The Dread Domain of Tovag | 0.50% | ~915 |
 | Were-verpowered | 0.50% | ~1,083 |
 | A Persistent Buzzing | 0.50% | ~1,083 |
 | Beast Mode | 0.50% | ~1,083 |
@@ -38,28 +38,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.50% | ~1,083 |
 | Unearthed Evil | 0.50% | ~1,083 |
 | The Dinner Party | 0.50% | ~1,083 |
-| Not That Type of Helm! | 0.50% | ~914 |
-| Calcryx Tricks | 0.50% | ~914 |
-| Goblin Halls: the Next Generation | 0.50% | ~914 |
-| Bahamut's Army | 0.50% | ~914 |
-| Krux's Speed Run | 0.50% | ~914 |
+| Not That Type of Helm! | 0.50% | ~915 |
+| Calcryx Tricks | 0.50% | ~915 |
+| Goblin Halls: the Next Generation | 0.50% | ~915 |
+| Bahamut's Army | 0.50% | ~915 |
+| Krux's Speed Run | 0.50% | ~915 |
 | Thieves of the Coven | 0.40% | ~732 |
-| On the Hunt | 0.40% | ~866 |
-| Friends of the Forest | 0.40% | ~866 |
-| Low Initiative | 0.40% | ~866 |
-| Street War | 0.40% | ~866 |
-| March of the Undead | 0.40% | ~866 |
-| No Time To Rest | 0.40% | ~866 |
-| The Mists of Ravenloft | 0.40% | ~866 |
-| Invisible Shadows | 0.40% | ~866 |
-| The Botched Kidnapping | 0.40% | ~866 |
-| The Cursed Farmer | 0.40% | ~866 |
-| The Mad Wizard | 0.40% | ~866 |
+| On the Hunt | 0.40% | ~867 |
+| Friends of the Forest | 0.40% | ~867 |
+| Low Initiative | 0.40% | ~867 |
+| Street War | 0.40% | ~867 |
+| March of the Undead | 0.40% | ~867 |
+| No Time To Rest | 0.40% | ~867 |
+| The Mists of Ravenloft | 0.40% | ~867 |
+| Invisible Shadows | 0.40% | ~867 |
+| The Botched Kidnapping | 0.40% | ~867 |
+| The Cursed Farmer | 0.40% | ~867 |
+| The Mad Wizard | 0.40% | ~867 |
 | Bazaar Companions | 0.40% | ~732 |
 | Luigi After Hours | 0.40% | ~732 |
 | Electric Mayhem | 0.40% | ~732 |
 | Animated Giff | 0.40% | ~732 |
 | Upholding the Law | 0.30% | ~650 |
+| Nightmare Rats! | 0.30% | ~549 |
 | Hither of the Feywild | 0.30% | ~549 |
 | The Prince of a Thousand Enemies | 0.30% | ~549 |
 | Downfall | 0.30% | ~549 |
@@ -67,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.30% | ~549 |
 | Best Thay Ever | 0.30% | ~549 |
 | A Demi-god's Defender | 0.30% | ~549 |
+| Well Equipped | 0.30% | ~549 |
 | Who Lurks Below? | 0.30% | ~549 |
 | Xanathaaaaaaar! | 0.30% | ~549 |
 | Homecoming | 0.30% | ~650 |
@@ -77,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.30% | ~650 |
 | Wisdom Check | 0.30% | ~650 |
 | A Grand Puzzle | 0.30% | ~650 |
+| Tomb of the Nine Gods | 0.30% | ~650 |
 | Family Entanglements | 0.30% | ~650 |
 | Tower on the Lake | 0.30% | ~650 |
 | The Ring of Regeneration | 0.30% | ~650 |
@@ -102,7 +105,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.20% | ~433 |
 | Cold as Ice | 0.20% | ~366 |
 | Friends and Foes | 0.20% | ~366 |
-| Nightmare Rats! | 0.20% | ~366 |
 | An Unexpected Geist | 0.20% | ~366 |
 | A Monarch Among Us | 0.20% | ~366 |
 | The Spire of Iriolarthas | 0.20% | ~366 |
@@ -115,12 +117,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~366 |
 | Flapjacks and Waffles | 0.20% | ~366 |
 | Overwhelmed with Knowledge | 0.20% | ~366 |
-| Well Equipped | 0.20% | ~366 |
 | More Than Well Equipped | 0.20% | ~366 |
 | Arcane Efforts | 0.20% | ~366 |
 | Keep Your Distance | 0.20% | ~366 |
 | To Avernus in a Handbasket | 0.20% | ~366 |
 | Hands Off! | 0.20% | ~366 |
+| Weak Doesn't Mean Feeble | 0.20% | ~366 |
 | The Castle of a Thousand Vecnas | 0.20% | ~366 |
 | The Sanctum of the Sword | 0.20% | ~366 |
 | Get Back In The Castle | 0.20% | ~366 |
@@ -135,7 +137,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.20% | ~433 |
 | The Newcomers of Notoriety | 0.20% | ~366 |
 | Azaka's Procession - Part 1 | 0.20% | ~433 |
-| Tomb of the Nine Gods | 0.20% | ~433 |
 | Azaka's Procession - Part 2 | 0.20% | ~433 |
 | The Hunt for Owl-y | 0.20% | ~433 |
 | Werewolves in the Mist | 0.20% | ~433 |
@@ -172,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.20% | ~433 |
 | Market Fluctuations | 0.20% | ~433 |
 | Into The Fire | 0.20% | ~366 |
+| Dreamscape | 0.20% | ~366 |
 | The Giant's Bane Tavern | 0.20% | ~366 |
 | The Everlasting Rime | 0.20% | ~366 |
 | Close Escort | 0.20% | ~433 |
@@ -233,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~183 |
 | Strength of Character | 0.10% | ~183 |
 | The Invisible Wizards of Thay | 0.10% | ~183 |
-| Weak Doesn't Mean Feeble | 0.10% | ~183 |
 | Frail Doesn't Mean Broken | 0.10% | ~183 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~183 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~183 |
@@ -397,7 +398,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Difficult Descent | 0.10% | ~183 |
 | The Devil Arrives | 0.10% | ~183 |
 | Hearts Aflame | 0.10% | ~183 |
-| Dreamscape | 0.10% | ~183 |
 | Dream Gauntlet | 0.10% | ~183 |
 | Zombie Dreams | 0.10% | ~183 |
 | Look Out! | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,625 (Ranked 53)  
+Progressed: 216,635 (Ranked 53)  
 Completed: 2,135 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,135 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,625 | 2,135 |
+| 2023-07-29 | 216,635 | 2,135 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,791 (Ranked 38)  

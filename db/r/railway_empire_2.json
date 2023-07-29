@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1701,
+  "EOS_Progressed": 1702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3804,6 +3804,11 @@
       "Time": "2023-07-29T05:06:29.626871+00:00",
       "NumProgressed": 1701,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T10:03:57.576858+00:00",
+      "NumProgressed": 1702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3815,7 +3820,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "A01",
@@ -3823,7 +3828,7 @@
       "Name": "Stoker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "A02",
@@ -3933,9 +3938,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 528
     },
     {
       "ID": "A16",
@@ -3959,7 +3964,7 @@
       "Name": "General Manager",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "A19",
@@ -3983,7 +3988,7 @@
       "Name": "Country Life",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "A22",
@@ -4007,7 +4012,7 @@
       "Name": "Access granted",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "A25",
@@ -4047,7 +4052,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "A30",
@@ -4055,7 +4060,7 @@
       "Name": "All mine",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "A31",
@@ -4087,7 +4092,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "A35",
@@ -4151,7 +4156,7 @@
       "Name": "Bridge Builder",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "A43",
@@ -4159,7 +4164,7 @@
       "Name": "Mole",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "A44",
@@ -4199,7 +4204,7 @@
       "Name": "Bull and bear",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "A49",
@@ -4207,7 +4212,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "A50",
@@ -4231,7 +4236,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "A53",
@@ -4254,7 +4259,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1701,
+      "Progressed": 1702,
       "Completed": 0
     }
   ],
@@ -4262,8 +4267,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-28T18:59:29.1816468+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:03:41.4331801+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:03:57.5768571+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:19.4035641+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:03:41.4332353+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:39.1268018+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:03:57.5769439+00:00"
 }

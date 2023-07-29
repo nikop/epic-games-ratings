@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
@@ -871,9 +871,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "nero_basic",
@@ -935,9 +935,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "police_promotion_3",
@@ -1086,8 +1086,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:00:30.0125867+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:01:19.1871774+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:57:44.0031568+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:00:30.0126404+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:57:55.8855857+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:01:19.187251+00:00"
 }

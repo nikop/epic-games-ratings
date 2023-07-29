@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2023-07-29T06:04:05.7615245+00:00",
       "NumProgressed": 345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T10:02:09.6726468+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1618,9 +1623,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1635,7 +1640,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 0
     }
   ],
@@ -1643,8 +1648,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:02:10.0389966+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:02:09.6726464+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:39.8993549+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:02:10.0390106+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:59:03.8464255+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:02:09.672667+00:00"
 }

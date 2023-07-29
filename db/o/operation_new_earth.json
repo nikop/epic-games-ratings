@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2351,6 +2351,11 @@
       "Time": "2023-07-29T08:06:49.7728358+00:00",
       "NumProgressed": 681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T10:05:52.8174519+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2426,7 +2431,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2498,7 +2503,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2538,7 +2543,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2610,7 +2615,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -2665,14 +2670,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:05:17.4763407+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:05:52.8174514+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:00:20.3922704+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:05:17.4763757+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:01:04.9148182+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:05:52.8174946+00:00"
 }

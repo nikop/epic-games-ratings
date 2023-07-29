@@ -8,11 +8,11 @@
 | CLEANER | 93.00% | ~792 |
 | OH NO, HE'S LEAVING! | 77.00% | ~656 |
 | FIREFIGHTER | 56.00% | ~477 |
-| ADVANCED | 40.00% | ~341 |
+| ADVANCED | 41.00% | ~349 |
 | CHIEF | 20.00% | ~170 |
 | SECOND_FLOOR | 13.00% | ~111 |
 | DEBTOR | 9.00% | ~77 |
-| INTRODUCTION | 8.00% | ~68 |
+| INTRODUCTION | 9.00% | ~77 |
 | SUCCESSFUL | 5.00% | ~43 |
 | THINGS ARE GOING WELL | 5.00% | ~43 |
 | YETTI | 3.00% | ~26 |

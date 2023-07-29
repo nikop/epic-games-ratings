@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3297,9 +3297,9 @@
       "ID": "achPresentReached",
       "SetID": "dgl390n",
       "Name": "The future is now, old man",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 481
     },
     {
       "ID": "achShipEarnings",
@@ -3393,8 +3393,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-28T12:00:50.3038875+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:04:04.3885974+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:25.4036397+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.2421067+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:59:42.0715329+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:04.3886669+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:00:21.1842759+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:25.4037124+00:00"
 }

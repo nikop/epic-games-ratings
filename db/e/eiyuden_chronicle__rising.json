@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.53,
+  "EOS_Completed_Percentage": 8.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -264,6 +264,11 @@
       "Time": "2023-07-21T04:05:55.1018497+00:00",
       "NumProgressed": 680,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-29T10:05:27.1918968+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 50,
@@ -275,7 +280,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -307,7 +312,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -339,7 +344,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -371,7 +376,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -403,7 +408,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -459,7 +464,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -475,7 +480,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -489,9 +494,9 @@
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -555,7 +560,7 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -563,7 +568,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -587,7 +592,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -674,15 +679,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:04:56.6120004+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:05:27.1918962+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.3536914+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:00:10.7313105+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:56.6120338+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:00:55.9657664+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:05:27.1919447+00:00"
 }

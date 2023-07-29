@@ -4,11 +4,11 @@
   "ProductSlug": "xcom-2",
   "Ranking_Rating": 481,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 82,
+  "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -5872,10 +5872,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 9973,
       "NumberOfAwardsMax": 1224
+    },
+    {
+      "Time": "2023-07-29T09:58:52.0237742+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9974,
+      "NumberOfAwardsMax": 1224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9973,
+  "NumberOfAwards": 9974,
   "NumberOfAwardsMax": 1224,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -5889,7 +5895,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1213
+      "Count": 1214
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5951,8 +5957,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-07-29T08:58:29.8775718+00:00",
+  "LastChanged": "2023-07-29T09:58:52.0237739+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:12.659895+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:29.8775726+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:14.1259115+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:52.0237749+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:36.6784801+00:00"
 }

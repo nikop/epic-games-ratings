@@ -12,7 +12,7 @@
 | Setting Off | 28.00% | ~19 |
 | Clear as Water | 25.00% | ~17 |
 | Riddlesolver | 24.00% | ~16 |
-| Card Collector | 22.00% | ~15 |
+| Card Collector | 24.00% | ~16 |
 | Dungeon Mastery | 19.00% | ~13 |
 | A Strange Proposition | 12.00% | ~8 |
 | The Steed | 10.00% | ~7 |
@@ -45,7 +45,7 @@
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 337)  
+Progressed: 68 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

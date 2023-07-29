@@ -58,8 +58,8 @@ Rating: 4.65 (Ranked 301)
 | Cuckoo's nest | 0.90% | ~43 |
 | Bughunter | 0.80% | ~38 |
 | Cat Lady | 0.70% | ~34 |
+| Pro gamer | 0.70% | ~34 |
 | Naysayer | 0.60% | ~29 |
-| Pro gamer | 0.60% | ~29 |
 | Manhattan Project | 0.50% | ~24 |
 | Fair Exchange | 0.40% | ~19 |
 | Miracle | 0.30% | ~14 |

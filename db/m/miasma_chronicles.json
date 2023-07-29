@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2696,9 +2696,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 431
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2993,8 +2993,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-29T09:03:58.6153313+00:00",
+  "LastChanged_Achievements": "2023-07-29T10:04:18.3499717+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:25.7578997+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:03:58.615385+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:46.9395513+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:18.3500327+00:00"
 }

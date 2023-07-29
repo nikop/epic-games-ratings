@@ -39,11 +39,11 @@
 | Escaped from a big trouble | 44.00% | ~75 |
 | Now you are worthy | 42.00% | ~72 |
 | No blades in the gym | 42.00% | ~72 |
+| Mysterious voice | 39.00% | ~67 |
 | Guiding on the right path | 39.00% | ~67 |
-| Mysterious voice | 38.00% | ~65 |
 | Fight is life | 37.00% | ~63 |
 | Responsible approach | 35.00% | ~60 |
-| Get out of my apartment! | 32.00% | ~55 |
+| Get out of my apartment! | 33.00% | ~56 |
 | Underground dwellers | 32.00% | ~55 |
 | Deal with life | 30.00% | ~51 |
 | GYM professional | 30.00% | ~51 |

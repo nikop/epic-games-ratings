@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -7565,6 +7565,6 @@
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2023-07-29T05:00:59.9480908+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.1577738+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:58:24.7403982+00:00",
-  "LastUpdate_Achievements": "2023-07-29T09:04:09.2454636+00:00"
+  "LastUpdate_Ratings": "2023-07-29T09:58:45.5681284+00:00",
+  "LastUpdate_Achievements": "2023-07-29T10:04:31.016575+00:00"
 }
