@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 798,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2023-07-28T21:04:41.3018643+00:00",
       "NumProgressed": 797,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T15:04:20.0017315+00:00",
+      "NumProgressed": 798,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1951,7 +1956,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1991,7 +1996,7 @@
       "Name": "Rail Rat",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "HexlockGift",
@@ -2119,7 +2124,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "RewindParry",
@@ -2254,7 +2259,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 798,
       "Completed": 4
     }
   ],
@@ -2262,8 +2267,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:04:19.0197998+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:04:20.0017306+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:00:05.8506745+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:04:19.0198561+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:59:40.4031549+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:04:20.001788+00:00"
 }

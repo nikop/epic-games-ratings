@@ -5,58 +5,58 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~7,654 |
-| The Killing Jar | 8.00% | ~6,123 |
-| Not Your Average Trait | 7.00% | ~5,358 |
-| Expanding Horizons | 6.00% | ~4,592 |
-| Quest for Survival | 5.00% | ~3,827 |
-| Boss'n Up | 5.00% | ~3,827 |
-| Trait Chaser | 5.00% | ~3,827 |
-| Familiar Face | 4.00% | ~3,061 |
-| Make Some Room | 4.00% | ~3,061 |
-| Gleaming the Cube | 3.00% | ~2,296 |
-| Not a Janitor | 3.00% | ~2,296 |
-| Equal Measures | 3.00% | ~2,296 |
-| Blue Goddess | 3.00% | ~2,296 |
-| Duality | 3.00% | ~2,296 |
-| Top Performer | 3.00% | ~2,296 |
-| Good, But Could Be Better! | 3.00% | ~2,296 |
-| Chaos | 2.00% | ~1,531 |
-| Traitor | 2.00% | ~1,531 |
-| The God Gambit | 2.00% | ~1,531 |
-| Dark Designs | 2.00% | ~1,531 |
-| Not So Special Now | 2.00% | ~1,531 |
-| Shhh...It's a Secret | 2.00% | ~1,531 |
-| Was This Supposed To Happen? | 2.00% | ~1,531 |
-| The Web | 2.00% | ~1,531 |
-| Almost There | 2.00% | ~1,531 |
-| Power Surge | 1.00% | ~765 |
-| Madman's Paradise | 1.00% | ~765 |
-| The Agenda | 1.00% | ~765 |
-| Bad Moon Rising | 1.00% | ~765 |
-| Scrap Collector | 0.90% | ~689 |
-| Am I Seeing This? | 0.80% | ~612 |
-| All These Traits� | 0.80% | ~612 |
-| Only Human | 0.70% | ~536 |
-| Forever is a Long Time Coming | 0.70% | ~536 |
-| Red Room | 0.70% | ~536 |
-| Strapped | 0.70% | ~536 |
-| No One Should Have All That Power | 0.70% | ~536 |
-| Tall Tales | 0.60% | ~459 |
-| Edgelord | 0.60% | ~459 |
-| The Ultimate Weapon | 0.60% | ~459 |
-| Transmutate | 0.60% | ~459 |
-| Maxed Out! | 0.40% | ~306 |
-| Scrap Hoarder | 0.30% | ~230 |
-| Carnage in C-Minor | 0.30% | ~230 |
-| Crafty | 0.20% | ~153 |
-| Ghost in the Machine | 0.20% | ~153 |
+| First of Many | 10.00% | ~7,714 |
+| The Killing Jar | 8.00% | ~6,171 |
+| Expanding Horizons | 7.00% | ~5,400 |
+| Not Your Average Trait | 7.00% | ~5,400 |
+| Quest for Survival | 5.00% | ~3,857 |
+| Boss'n Up | 5.00% | ~3,857 |
+| Trait Chaser | 5.00% | ~3,857 |
+| Familiar Face | 4.00% | ~3,086 |
+| Make Some Room | 4.00% | ~3,086 |
+| Gleaming the Cube | 3.00% | ~2,314 |
+| Not a Janitor | 3.00% | ~2,314 |
+| Equal Measures | 3.00% | ~2,314 |
+| Blue Goddess | 3.00% | ~2,314 |
+| Duality | 3.00% | ~2,314 |
+| Top Performer | 3.00% | ~2,314 |
+| Good, But Could Be Better! | 3.00% | ~2,314 |
+| Chaos | 2.00% | ~1,543 |
+| Traitor | 2.00% | ~1,543 |
+| The God Gambit | 2.00% | ~1,543 |
+| Dark Designs | 2.00% | ~1,543 |
+| Not So Special Now | 2.00% | ~1,543 |
+| The Agenda | 2.00% | ~1,543 |
+| Shhh...It's a Secret | 2.00% | ~1,543 |
+| Was This Supposed To Happen? | 2.00% | ~1,543 |
+| The Web | 2.00% | ~1,543 |
+| Almost There | 2.00% | ~1,543 |
+| Power Surge | 1.00% | ~771 |
+| Madman's Paradise | 1.00% | ~771 |
+| Bad Moon Rising | 1.00% | ~771 |
+| Scrap Collector | 0.90% | ~694 |
+| Am I Seeing This? | 0.80% | ~617 |
+| All These Traits� | 0.80% | ~617 |
+| Only Human | 0.70% | ~540 |
+| Forever is a Long Time Coming | 0.70% | ~540 |
+| Red Room | 0.70% | ~540 |
+| Strapped | 0.70% | ~540 |
+| No One Should Have All That Power | 0.70% | ~540 |
+| Tall Tales | 0.60% | ~463 |
+| Edgelord | 0.60% | ~463 |
+| The Ultimate Weapon | 0.60% | ~463 |
+| Transmutate | 0.60% | ~463 |
+| Maxed Out! | 0.40% | ~309 |
+| Scrap Hoarder | 0.30% | ~231 |
+| Carnage in C-Minor | 0.30% | ~231 |
+| Crafty | 0.20% | ~154 |
+| Ghost in the Machine | 0.20% | ~154 |
 | The Trigger | 0.10% | ~77 |
 | Cutting Edge | 0.10% | ~77 |
 | The Collector | 0.10% | ~77 |
 | Proving Grounds | 0.10% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,536 (Ranked 75)  
+Progressed: 77,142 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 50,265 | 0 |
 | 2023-07-27 | 60,936 | 0 |
 | 2023-07-28 | 70,348 | 0 |
-| 2023-07-29 | 76,536 | 0 |
+| 2023-07-29 | 77,142 | 0 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 397)  
 Sum: 51 (Ranked 446)  

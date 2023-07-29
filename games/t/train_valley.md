@@ -16,7 +16,7 @@ Number of Ratings: 28  (23.09.2022)
 | Completely nuts! | 38.00% | ~150 |
 | Just in time! | 32.00% | ~126 |
 | Europe | 30.00% | ~118 |
-| It's no coincidence. | 29.00% | ~114 |
+| It's no coincidence. | 30.00% | ~118 |
 | Non Stop! | 26.00% | ~102 |
 | Madness! | 26.00% | ~102 |
 | Philatelist | 25.00% | ~98 |

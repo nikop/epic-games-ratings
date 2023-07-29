@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -490,6 +490,11 @@
       "Time": "2023-07-29T09:04:29.7509051+00:00",
       "NumProgressed": 483,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T15:05:01.7237015+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -587,9 +592,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 242
     },
     {
       "ID": "Hitman",
@@ -619,9 +624,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 218
     },
     {
       "ID": "Leisurely_Strol",
@@ -685,7 +690,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Park",
@@ -701,7 +706,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Smart cookie",
@@ -732,7 +737,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 5
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:05:10.1331489+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:05:01.7237009+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:21.7155213+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:57:12.3300839+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:05:10.1331741+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:57:24.670366+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:05:01.7237248+00:00"
 }

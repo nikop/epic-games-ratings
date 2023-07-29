@@ -6,44 +6,44 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,361 |
-| Cavalier | 25.00% | ~198,678 |
-| Fatso | 23.00% | ~182,784 |
-| Awakening | 21.00% | ~166,890 |
-| Ranger | 20.00% | ~158,942 |
-| Scrooge | 20.00% | ~158,942 |
-| Anorectic | 16.00% | ~127,154 |
-| Firestarter | 15.00% | ~119,207 |
-| Bookworm | 14.00% | ~111,260 |
-| Insomniac | 13.00% | ~103,313 |
-| Buddy | 12.00% | ~95,365 |
-| Thief | 12.00% | ~95,365 |
-| Sinner | 11.00% | ~87,418 |
-| Convict | 10.00% | ~79,471 |
-| Traveller | 10.00% | ~79,471 |
-| Haggler | 9.00% | ~71,524 |
-| McLovin | 7.00% | ~55,630 |
-| Runt | 7.00% | ~55,630 |
-| Casanova | 6.00% | ~47,683 |
+| Blacksmith's Son | 31.00% | ~246,365 |
+| Cavalier | 25.00% | ~198,682 |
+| Fatso | 23.00% | ~182,787 |
+| Awakening | 21.00% | ~166,892 |
+| Ranger | 20.00% | ~158,945 |
+| Scrooge | 20.00% | ~158,945 |
+| Anorectic | 16.00% | ~127,156 |
+| Firestarter | 15.00% | ~119,209 |
+| Bookworm | 14.00% | ~111,262 |
+| Insomniac | 13.00% | ~103,314 |
+| Buddy | 12.00% | ~95,367 |
+| Thief | 12.00% | ~95,367 |
+| Sinner | 11.00% | ~87,420 |
+| Convict | 10.00% | ~79,473 |
+| Traveller | 10.00% | ~79,473 |
+| Haggler | 9.00% | ~71,525 |
+| McLovin | 7.00% | ~55,631 |
+| Runt | 7.00% | ~55,631 |
+| Casanova | 6.00% | ~47,684 |
 | Bad Trip | 5.00% | ~39,736 |
 | Monk | 5.00% | ~39,736 |
 | Serial Killer | 5.00% | ~39,736 |
-| Bastard | 4.00% | ~31,788 |
-| Hunter | 4.00% | ~31,788 |
-| Plague Doctor | 4.00% | ~31,788 |
-| Bard | 3.00% | ~23,841 |
-| Conqueror | 3.00% | ~23,841 |
-| Ginger in a Pickle | 3.00% | ~23,841 |
-| Kingdom did not come | 3.00% | ~23,841 |
-| Completionist | 2.00% | ~15,894 |
-| Death by splinter | 2.00% | ~15,894 |
-| King Charming | 2.00% | ~15,894 |
-| Knightrider | 2.00% | ~15,894 |
-| Level Cap | 2.00% | ~15,894 |
-| Arena Master | 2.00% | ~15,894 |
-| Robber Baron | 2.00% | ~15,894 |
-| Talmberger | 2.00% | ~15,894 |
-| The End | 2.00% | ~15,894 |
+| Bastard | 4.00% | ~31,789 |
+| Hunter | 4.00% | ~31,789 |
+| Plague Doctor | 4.00% | ~31,789 |
+| Bard | 3.00% | ~23,842 |
+| Conqueror | 3.00% | ~23,842 |
+| Ginger in a Pickle | 3.00% | ~23,842 |
+| Kingdom did not come | 3.00% | ~23,842 |
+| Completionist | 2.00% | ~15,895 |
+| Death by splinter | 2.00% | ~15,895 |
+| King Charming | 2.00% | ~15,895 |
+| Knightrider | 2.00% | ~15,895 |
+| Level Cap | 2.00% | ~15,895 |
+| Arena Master | 2.00% | ~15,895 |
+| Robber Baron | 2.00% | ~15,895 |
+| Talmberger | 2.00% | ~15,895 |
+| The End | 2.00% | ~15,895 |
 | Woman's Lot | 1.00% | ~7,947 |
 | Chivalrous Soul | 1.00% | ~7,947 |
 | Spoilsport | 1.00% | ~7,947 |
@@ -51,7 +51,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,947 |
 | Master Huntsman | 1.00% | ~7,947 |
 | Stealth Killer | 1.00% | ~7,947 |
-| Bailiff | 0.90% | ~7,152 |
+| Bailiff | 0.90% | ~7,153 |
 | Tracker | 0.80% | ~6,358 |
 | David Horak | 0.70% | ~5,563 |
 | Mercenary's Honour | 0.70% | ~5,563 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794,712 (Ranked 15)  
+Progressed: 794,726 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-26 | 794,319 | 44 |
 | 2023-07-27 | 794,476 | 44 |
 | 2023-07-28 | 794,631 | 44 |
-| 2023-07-29 | 794,712 | 44 |
+| 2023-07-29 | 794,726 | 44 |
 ## Awards
-Max (Character Customization): 7,345  (Ranked 46)  
-Sum: 27,387 (Ranked 45)  
+Max (Character Customization): 7,348  (Ranked 46)  
+Sum: 27,390 (Ranked 45)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,345 |
+| This game has Inclusive Character Customization | 7,348 |
 | This game has Great Boss Battles | 5,408 |
 | This game has Challenging Combat | 1,719 |
 | This game has Amazing Storytelling | 1,675 |
@@ -396,3 +396,4 @@ Diff (max vs sum): 1
 | 2023-07-26 | 4.71 | - | 7,343 | 27,378 |
 | 2023-07-27 | 4.71 | - | 7,343 | 27,380 |
 | 2023-07-28 | 4.71 | - | 7,345 | 27,387 |
+| 2023-07-29 | 4.71 | - | 7,348 | 27,390 |

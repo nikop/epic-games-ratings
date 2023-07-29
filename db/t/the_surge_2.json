@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1913,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1898,6 +1898,11 @@
       "Time": "2023-07-29T14:03:38.7645894+00:00",
       "NumProgressed": 1913,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-29T15:03:32.943189+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1917,7 +1922,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACHV_03",
@@ -1925,7 +1930,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHV_04",
@@ -1957,7 +1962,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_08",
@@ -1981,7 +1986,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHV_11",
@@ -2109,7 +2114,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACHV_27",
@@ -2125,7 +2130,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHV_29",
@@ -2213,7 +2218,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACHV_40",
@@ -2269,7 +2274,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_47",
@@ -2364,7 +2369,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1913,
+      "Progressed": 1914,
       "Completed": 10
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:03:38.7645889+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:03:32.9431883+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:57:09.7389278+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:03:38.7646514+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:57:22.2400762+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:03:32.943251+00:00"
 }

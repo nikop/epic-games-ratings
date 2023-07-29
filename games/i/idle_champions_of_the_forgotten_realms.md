@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,501 |
-| Maddening | 2.00% | ~4,334 |
-| Beast Intentions | 2.00% | ~4,334 |
+| A Brief Tour of the Realms | 3.00% | ~6,502 |
+| Maddening | 2.00% | ~4,335 |
+| Beast Intentions | 2.00% | ~4,335 |
 | The Silken Swamp | 1.00% | ~2,167 |
 | Supply Run | 1.00% | ~2,167 |
 | Rocky Reception | 1.00% | ~1,830 |
@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.50% | ~915 |
 | Calcryx Tricks | 0.50% | ~915 |
 | Goblin Halls: the Next Generation | 0.50% | ~915 |
+| Bazaar Companions | 0.50% | ~915 |
 | Bahamut's Army | 0.50% | ~915 |
 | Krux's Speed Run | 0.50% | ~915 |
 | Thieves of the Coven | 0.40% | ~732 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.40% | ~867 |
 | The Cursed Farmer | 0.40% | ~867 |
 | The Mad Wizard | 0.40% | ~867 |
-| Bazaar Companions | 0.40% | ~732 |
 | Luigi After Hours | 0.40% | ~732 |
 | Electric Mayhem | 0.40% | ~732 |
 | Animated Giff | 0.40% | ~732 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,701 (Ranked 53)  
+Progressed: 216,726 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,701 | 2,136 |
+| 2023-07-29 | 216,726 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,793 (Ranked 38)  

@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
+| Persian Paganism | 0.30% | ~39 |
 | Building Wonders | 0.30% | ~39 |
 | Legalism | 0.30% | ~39 |
 | Double Victory | 0.30% | ~39 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Assyrian Paganism | 0.20% | ~26 |
-| Persian Paganism | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |

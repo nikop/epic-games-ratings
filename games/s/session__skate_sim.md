@@ -6,23 +6,23 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,532 |
+| You're free now! | 58.00% | ~1,534 |
 | Keeping it classy | 26.00% | ~687 |
-| Welcome to the family | 20.00% | ~528 |
+| Welcome to the family | 20.00% | ~529 |
 | The finer things in life | 17.00% | ~449 |
-| Backpacker | 13.00% | ~343 |
+| Backpacker | 13.00% | ~344 |
 | Go with the Flow | 12.00% | ~317 |
 | Plastic Surgeon | 9.00% | ~238 |
 | The flip trick crown jewel | 9.00% | ~238 |
 | The hard way | 9.00% | ~238 |
-| Good vibes | 8.00% | ~211 |
-| Keep the dream alive | 8.00% | ~211 |
-| Upfront shredder | 8.00% | ~211 |
-| Bottom ply killer | 6.00% | ~158 |
-| Fashionista | 6.00% | ~158 |
-| Finally he zips it | 6.00% | ~158 |
-| That pinch! | 6.00% | ~158 |
-| Tight lipslides | 6.00% | ~158 |
+| Good vibes | 8.00% | ~212 |
+| Keep the dream alive | 8.00% | ~212 |
+| Upfront shredder | 8.00% | ~212 |
+| Bottom ply killer | 6.00% | ~159 |
+| Fashionista | 6.00% | ~159 |
+| Finally he zips it | 6.00% | ~159 |
+| That pinch! | 6.00% | ~159 |
+| Tight lipslides | 6.00% | ~159 |
 | Commence the Hijinx! | 5.00% | ~132 |
 | Fulfilled the dream | 5.00% | ~132 |
 | G'Day Mate! | 5.00% | ~132 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,641 (Ranked 159)  
+Progressed: 2,644 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 2,620 | 0 |
 | 2023-07-27 | 2,630 | 0 |
 | 2023-07-28 | 2,639 | 0 |
-| 2023-07-29 | 2,641 | 0 |
+| 2023-07-29 | 2,644 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 440 (Ranked 305)  

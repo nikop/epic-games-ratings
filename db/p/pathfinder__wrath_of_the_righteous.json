@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3296,9 +3296,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10661,
+  "EOS_Progressed": 10662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9641,6 +9641,11 @@
       "Time": "2023-07-29T14:01:29.136005+00:00",
       "NumProgressed": 10661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T15:02:05.7082266+00:00",
+      "NumProgressed": 10662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10002,9 +10007,9 @@
       "ID": "46_AllPathsOpen",
       "SetID": "989of5o",
       "Name": "All Paths Open",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 533
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -10579,21 +10584,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9443,
+      "Progressed": 9444,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10661,
+      "Progressed": 10662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-29T13:00:50.2897869+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:01:29.1360044+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:02:05.7082263+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:59:06.6166768+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:01:29.1362218+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:58:56.198858+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:02:05.7084303+00:00"
 }

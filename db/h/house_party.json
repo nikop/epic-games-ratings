@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5925,
+  "EOS_Progressed": 5928,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3957,6 +3957,11 @@
       "Time": "2023-07-29T14:06:49.7710806+00:00",
       "NumProgressed": 5925,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T15:06:24.1103883+00:00",
+      "NumProgressed": 5928,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -4024,7 +4029,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Bride",
@@ -4056,7 +4061,7 @@
       "Name": "Caught in the Act",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -4232,7 +4237,7 @@
       "Name": "Katherine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LCA",
@@ -4288,7 +4293,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Penguinfucker",
@@ -4376,7 +4381,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "SuckerPunch",
@@ -4519,21 +4524,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2964,
+      "Progressed": 2967,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5925,
+      "Progressed": 5928,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:06:49.7710801+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:06:24.1103877+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:02.164364+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:57:56.4665025+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:06:49.7711723+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:57:59.7758782+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:06:24.1104898+00:00"
 }

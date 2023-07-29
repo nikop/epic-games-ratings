@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 675)  
+Rating: 4.41 (Ranked 674)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.41 (Ranked 675)
 | As Quiet as a Mouse | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
+| Fields of Glory | 2.00% | ~67 |
 | Just a Flesh Wound | 2.00% | ~67 |
 | Gunslinger | 2.00% | ~67 |
 | Skirmisher | 2.00% | ~67 |
@@ -35,7 +36,6 @@ Rating: 4.41 (Ranked 675)
 | Close Quarters | 2.00% | ~67 |
 | Snake in the Grass | 2.00% | ~67 |
 | Enemy at the Gates | 1.00% | ~34 |
-| Fields of Glory | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 0.90% | ~30 |

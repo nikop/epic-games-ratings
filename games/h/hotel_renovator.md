@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 557)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~695 |
-| And so it begins | 72.00% | ~658 |
+| And so it begins | 73.00% | ~667 |
 | No pressure | 70.00% | ~640 |
 | Memento | 62.00% | ~567 |
 | Let there be light | 59.00% | ~539 |
@@ -22,8 +22,8 @@ Rating: 4.50 (Ranked 557)
 | Big fortune | 32.00% | ~292 |
 | Still more work ahead | 28.00% | ~256 |
 | Hotel sleuthing | 27.00% | ~247 |
+| Aesop's fable | 26.00% | ~238 |
 | Kaboom | 25.00% | ~228 |
-| Aesop's fable | 25.00% | ~228 |
 | Nearly there | 24.00% | ~219 |
 | Broken heart | 22.00% | ~201 |
 | Island boy | 20.00% | ~183 |

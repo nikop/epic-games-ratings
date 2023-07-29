@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 6,
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1532186,
+  "EOS_Progressed": 1532194,
   "EOS_Completed": 651,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1366,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11347,6 +11347,11 @@
       "Time": "2023-07-29T14:06:24.5590893+00:00",
       "NumProgressed": 1532186,
       "NumCompleted": 651
+    },
+    {
+      "Time": "2023-07-29T15:06:03.3996384+00:00",
+      "NumProgressed": 1532194,
+      "NumCompleted": 651
     }
   ],
   "TotalAchievements": 20,
@@ -11366,7 +11371,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107253
+      "UsersEstimate": 107254
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -11502,7 +11507,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76609
+      "UsersEstimate": 76610
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -11517,15 +11522,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1532186,
+      "Progressed": 1532194,
       "Completed": 651
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:06:24.5590883+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:06:03.3996379+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:01.387221+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:00:54.7289592+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:06:24.5591683+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:00:17.016655+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:06:03.3997179+00:00"
 }

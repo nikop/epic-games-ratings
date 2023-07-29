@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228396,
+  "EOS_Progressed": 228398,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10693,6 +10693,11 @@
       "Time": "2023-07-29T14:04:11.4554762+00:00",
       "NumProgressed": 228396,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-29T15:04:13.6086968+00:00",
+      "NumProgressed": 228398,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -10792,7 +10797,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45679
+      "UsersEstimate": 45680
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -10928,7 +10933,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50247
+      "UsersEstimate": 50248
     },
     {
       "ID": "TACTICIAN",
@@ -10952,7 +10957,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50247
+      "UsersEstimate": 50248
     },
     {
       "ID": "TUNINGMANIAC",
@@ -10968,22 +10973,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93642
+      "UsersEstimate": 93643
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228396,
+      "Progressed": 228398,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-29T14:04:11.4554756+00:00",
+  "LastChanged_Achievements": "2023-07-29T15:04:13.6086962+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.6745563+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:58:53.1836278+00:00",
-  "LastUpdate_Achievements": "2023-07-29T14:04:11.4555627+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:58:45.9482691+00:00",
+  "LastUpdate_Achievements": "2023-07-29T15:04:13.6087827+00:00"
 }

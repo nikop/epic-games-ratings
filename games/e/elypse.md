@@ -12,7 +12,7 @@
 | The light at the end of the tunnel | 60.00% | ~45 |
 | Splash! | 56.00% | ~42 |
 | Masochistic | 52.00% | ~39 |
-| Soft skin | 44.00% | ~33 |
+| Soft skin | 45.00% | ~34 |
 | Squid game | 37.00% | ~28 |
 | Sensitive soul | 32.00% | ~24 |
 | Rock Solid | 31.00% | ~23 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 332)  
+Progressed: 75 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

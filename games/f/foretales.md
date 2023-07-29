@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 62.00% | ~167 |
+| Caged tiger | 62.00% | ~168 |
 | Gorilla warfare | 58.00% | ~157 |
-| Isenburg's fall | 49.00% | ~132 |
+| Isenburg's fall | 49.00% | ~133 |
 | Pieces of eight! | 41.00% | ~111 |
 | Aboard the Sea Bird | 31.00% | ~84 |
 | Elephant in the room | 30.00% | ~81 |
-| Dark and stinky | 29.00% | ~78 |
+| Dark and stinky | 29.00% | ~79 |
 | Sneak in, sneak out | 26.00% | ~70 |
 | Is this the end? | 24.00% | ~65 |
 | A gift horse | 24.00% | ~65 |
 | You sssaved me | 24.00% | ~65 |
 | Say hello to my little friends | 21.00% | ~57 |
-| Gotcha | 19.00% | ~51 |
-| Heal thyself | 19.00% | ~51 |
+| Gotcha | 18.00% | ~49 |
+| Heal thyself | 18.00% | ~49 |
 | It's not cheating | 17.00% | ~46 |
 | Double trouble | 16.00% | ~43 |
-| Stronk | 15.00% | ~40 |
+| Stronk | 15.00% | ~41 |
 | Welcome to Forte Ailes | 13.00% | ~35 |
-| Super Moth Boy | 12.00% | ~32 |
-| Meet your maker | 9.00% | ~24 |
+| Super Moth Boy | 12.00% | ~33 |
 | The Bad Place | 9.00% | ~24 |
+| Meet your maker | 8.00% | ~22 |
 | Pacifist fanatic | 8.00% | ~22 |
 | A grave matter | 7.00% | ~19 |
 | The pelican brief | 7.00% | ~19 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270 (Ranked 257)  
+Progressed: 271 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 268 | 0 |
 | 2023-07-26 | 269 | 0 |
 | 2023-07-28 | 270 | 0 |
+| 2023-07-29 | 271 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

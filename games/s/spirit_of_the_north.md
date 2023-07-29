@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~43,364 |
-| INFUSED WITH LIGHT | 53.00% | ~33,798 |
-| FOXIN' AROUND | 29.00% | ~18,493 |
-| FETCH | 27.00% | ~17,218 |
-| BLOOMS OF LIGHT | 26.00% | ~16,580 |
-| BEST FRIENDS | 22.00% | ~14,029 |
-| AWAKEN | 21.00% | ~13,392 |
-| ERADICATE | 21.00% | ~13,392 |
-| SPIRIT BARK | 21.00% | ~13,392 |
-| GARDEN OF LIGHT | 18.00% | ~11,479 |
-| SPIRIT FORM | 16.00% | ~10,203 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~43,368 |
+| INFUSED WITH LIGHT | 53.00% | ~33,801 |
+| FOXIN' AROUND | 29.00% | ~18,495 |
+| FETCH | 27.00% | ~17,220 |
+| BLOOMS OF LIGHT | 26.00% | ~16,582 |
+| BEST FRIENDS | 22.00% | ~14,031 |
+| AWAKEN | 21.00% | ~13,393 |
+| ERADICATE | 21.00% | ~13,393 |
+| SPIRIT BARK | 21.00% | ~13,393 |
+| GARDEN OF LIGHT | 18.00% | ~11,480 |
+| SPIRIT FORM | 16.00% | ~10,204 |
 | UPROOTING DARKNESS | 15.00% | ~9,566 |
 | WRITTEN IN STONE | 15.00% | ~9,566 |
-| WEIGHTLESS | 12.00% | ~7,652 |
+| WEIGHTLESS | 12.00% | ~7,653 |
 | SPIRIT DASH | 11.00% | ~7,015 |
-| OLD COMPANION | 9.00% | ~5,739 |
+| OLD COMPANION | 9.00% | ~5,740 |
 | PLAGUE DOCTOR | 8.00% | ~5,102 |
 | SPIRITED AWAY | 8.00% | ~5,102 |
 | MATCH MAKER | 7.00% | ~4,464 |
 | NORTHERN LIGHTS | 7.00% | ~4,464 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,551 |
 | ANCIENT HISTORY | 3.00% | ~1,913 |
-| NONE FORGOTTEN | 2.00% | ~1,275 |
+| NONE FORGOTTEN | 2.00% | ~1,276 |
 | KINDRED SPIRITS | 0.60% | ~383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,770 (Ranked 83)  
+Progressed: 63,776 (Ranked 83)  
 Completed: 326 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 326 (0.51%) (Ranked 135)
 | 2023-07-26 | 63,466 | 324 |
 | 2023-07-27 | 63,586 | 325 |
 | 2023-07-28 | 63,702 | 326 |
-| 2023-07-29 | 63,770 | 326 |
+| 2023-07-29 | 63,776 | 326 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 477)  
 Sum: 113 (Ranked 408)  

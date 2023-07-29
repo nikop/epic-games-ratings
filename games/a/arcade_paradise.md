@@ -28,10 +28,10 @@ Rating: 4.58 (Ranked 425)
 | Your Bloody Valentine | 5.00% | ~33 |
 | GoldGuy Jr | 4.00% | ~27 |
 | Nose to the Grindstone | 4.00% | ~27 |
+| Waking nightmare | 4.00% | ~27 |
 | We come in peace | 3.00% | ~20 |
 | Crowning achievement | 3.00% | ~20 |
 | Hammer time | 3.00% | ~20 |
-| Waking nightmare | 3.00% | ~20 |
 | 1CC | 2.00% | ~13 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
 | To do. Done! | 2.00% | ~13 |
