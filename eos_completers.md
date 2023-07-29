@@ -26,8 +26,8 @@
 | 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.17% |
-| 27 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 9.09% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
+| 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
+| 28 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 8.70% |
 | 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 31 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -36,32 +36,32 @@
 | 34 | [Scorn](games/s/scorn.md) | 7.01% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
-| 37 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
-| 38 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 39 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
-| 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
-| 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
-| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
-| 45 | [JARS](games/j/jars.md) | 4.84% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
-| 47 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
-| 48 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 49 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
-| 50 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.42% |
-| 51 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 52 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
-| 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
-| 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 57 | [Doodle God](games/d/doodle_god.md) | 3.49% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.49% |
-| 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 60 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
-| 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.38% |
-| 62 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.23% |
+| 37 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 6.45% |
+| 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
+| 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 40 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
+| 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
+| 42 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.24% |
+| 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
+| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 46 | [JARS](games/j/jars.md) | 4.84% |
+| 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
+| 48 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
+| 49 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
+| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
+| 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.42% |
+| 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
+| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
+| 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
+| 57 | [ZZT!](games/z/zzt!.md) | 3.56% |
+| 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.45% |
+| 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
+| 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.38% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.12% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
@@ -123,7 +123,7 @@
 | 121 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 121 | [Haven](games/h/haven.md) | 0.66% |
 | 123 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
-| 124 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 124 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 125 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.61% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 127 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
