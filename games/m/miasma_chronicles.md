@@ -9,7 +9,7 @@ Rating: 4.40 (Ranked 694)
 | Ranidaphobia | 77.00% | ~1,009 |
 | Aspiring Editor | 75.00% | ~983 |
 | Gun for Hire | 70.00% | ~918 |
-| I am the law! | 63.00% | ~826 |
+| I am the law! | 64.00% | ~839 |
 | Lumberjack | 52.00% | ~682 |
 | Croaked | 48.00% | ~629 |
 | Limp Richard | 47.00% | ~616 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 694)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 182)  
+Progressed: 1,311 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

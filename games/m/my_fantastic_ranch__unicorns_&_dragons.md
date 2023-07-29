@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 50.00% | ~12 |
+| Let the Adventure Begin! | 54.00% | ~13 |
 | Prized Possession | 33.00% | ~8 |
 | Creature Evolution | 29.00% | ~7 |
 | Spirit of competition | 29.00% | ~7 |

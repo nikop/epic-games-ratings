@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -98,17 +98,17 @@
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "12",
       "SetID": "7095412",
       "Name": "Bronze",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "13",
@@ -122,9 +122,9 @@
       "ID": "14",
       "SetID": "7095412",
       "Name": "Silver",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "15",
@@ -258,9 +258,9 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "30",
@@ -416,8 +416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:04:32.2397638+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:05:19.938644+00:00",
   "LastUpdate_AppInfo": "2023-07-28T11:57:14.5662512+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:57:22.7009436+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:04:32.2397998+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:57:35.9843269+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:05:19.9386687+00:00"
 }

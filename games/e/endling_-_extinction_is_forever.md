@@ -9,7 +9,7 @@
 | Surviving | 43.00% | ~202 |
 | Never Give Up | 40.00% | ~188 |
 | Detox diet | 40.00% | ~188 |
-| Tasty | 37.00% | ~174 |
+| Tasty | 38.00% | ~178 |
 | Lullaby | 32.00% | ~150 |
 | You Can Pet The Fox | 29.00% | ~136 |
 | Hard Fox Life | 24.00% | ~113 |
@@ -33,7 +33,7 @@
 | Easter Egg | 2.00% | ~9 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469 (Ranked 223)  
+Progressed: 469 (Ranked 224)  
 Completed: 3 (0.64%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -19,9 +19,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.70% | ~1,282 |
 | Topolah's Tower | 0.70% | ~1,282 |
 | Wet Feet | 0.60% | ~1,301 |
-| Seeds of Destruction | 0.60% | ~1,098 |
-| Return to the Tomb | 0.60% | ~1,098 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,098 |
+| Seeds of Destruction | 0.60% | ~1,099 |
+| Return to the Tomb | 0.60% | ~1,099 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,099 |
 | Pros and CONs | 0.50% | ~1,084 |
 | The Witchlight Carnival | 0.50% | ~915 |
 | Hatchlings Underfoot | 0.50% | ~1,084 |
@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~867 |
 | The Mists of Ravenloft | 0.40% | ~867 |
 | Invisible Shadows | 0.40% | ~867 |
+| Family Entanglements | 0.40% | ~867 |
 | The Botched Kidnapping | 0.40% | ~867 |
 | The Cursed Farmer | 0.40% | ~867 |
 | The Mad Wizard | 0.40% | ~867 |
@@ -80,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.30% | ~650 |
 | A Grand Puzzle | 0.30% | ~650 |
 | Tomb of the Nine Gods | 0.30% | ~650 |
-| Family Entanglements | 0.30% | ~650 |
 | The Immortal Warrior | 0.30% | ~650 |
 | Tower on the Lake | 0.30% | ~650 |
 | The Ring of Regeneration | 0.30% | ~650 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,799 (Ranked 53)  
+Progressed: 216,814 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,799 | 2,136 |
+| 2023-07-29 | 216,814 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  

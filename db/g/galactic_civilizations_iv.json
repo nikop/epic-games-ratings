@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -828,9 +828,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6238,
+  "EOS_Progressed": 6239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4488,6 +4488,11 @@
       "Time": "2023-07-29T19:01:21.7575798+00:00",
       "NumProgressed": 6238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T20:02:15.9279136+00:00",
+      "NumProgressed": 6239,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4539,7 +4544,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Control_All_Relics",
@@ -4577,9 +4582,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1934
     },
     {
       "ID": "First_Major_Ally",
@@ -4603,7 +4608,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "First_Race_Met",
@@ -4691,7 +4696,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "Level_5_Ship",
@@ -4987,7 +4992,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5074,15 +5079,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6238,
+      "Progressed": 6239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-29T13:00:03.0641233+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:01:21.7575793+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:02:15.9279132+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.8834524+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:58:03.7857154+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:01:21.7578861+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:58:23.4766606+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:02:15.9279946+00:00"
 }

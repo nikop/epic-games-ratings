@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,240 |
+| Devoured by Darkness | 21.00% | ~2,241 |
 | Burning City | 15.00% | ~1,600 |
 | A Spark | 15.00% | ~1,600 |
 | Mythic Choices | 12.00% | ~1,280 |
 | Defender's Heart | 12.00% | ~1,280 |
-| Banner over the Citadel | 11.00% | ~1,173 |
+| Banner over the Citadel | 11.00% | ~1,174 |
 | Queen's Gratitude | 10.00% | ~1,067 |
 | Fifth Crusade | 7.00% | ~747 |
-| Embrace of the Abyss | 5.00% | ~533 |
-| Path of the Angel | 5.00% | ~533 |
-| Great Upstart | 5.00% | ~533 |
-| All Paths Open | 5.00% | ~533 |
-| Demonic and Divine | 5.00% | ~533 |
+| Embrace of the Abyss | 5.00% | ~534 |
+| Path of the Angel | 5.00% | ~534 |
+| Great Upstart | 5.00% | ~534 |
+| All Paths Open | 5.00% | ~534 |
+| Demonic and Divine | 5.00% | ~534 |
 | Path of the Azata | 4.00% | ~427 |
 | Transformation | 4.00% | ~427 |
 | The Legacy | 4.00% | ~427 |
@@ -46,14 +46,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 1.00% | ~107 |
 | Path of the Demon | 1.00% | ~107 |
 | Abyssal Conspiracy | 1.00% | ~107 |
-| This Wall Won't Fall | 1.00% | ~94 |
-| Not the Last Sarkorian | 1.00% | ~94 |
+| This Wall Won't Fall | 1.00% | ~95 |
+| Not the Last Sarkorian | 1.00% | ~95 |
 | Strategic Victory | 0.90% | ~96 |
 | Path of the Legend | 0.80% | ~85 |
 | End of Eternal Guard | 0.80% | ~85 |
+| Truly Profane Gift | 0.80% | ~85 |
 | Path of the Dragon | 0.70% | ~75 |
 | Playful Mood | 0.70% | ~75 |
-| Truly Profane Gift | 0.70% | ~75 |
 | Dreadful Dragon | 0.60% | ~64 |
 | Masterful Charge | 0.50% | ~53 |
 | Prelate's Nemesis | 0.40% | ~43 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,668 (Ranked 120)  
+Progressed: 10,670 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 10,595 | 0 |
 | 2023-07-27 | 10,626 | 0 |
 | 2023-07-28 | 10,645 | 0 |
-| 2023-07-29 | 10,668 | 0 |
+| 2023-07-29 | 10,670 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,858 (Ranked 113)  

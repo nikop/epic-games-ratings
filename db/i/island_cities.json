@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 18.62,
+  "EOS_Completed_Percentage": 18.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2023,6 +2023,11 @@
       "Time": "2023-07-29T19:03:31.0815319+00:00",
       "NumProgressed": 419,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-07-29T20:04:12.0427989+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 22,
@@ -2034,7 +2039,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "LEVEL_002",
@@ -2042,7 +2047,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "LEVEL_003",
@@ -2074,7 +2079,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "LEVEL_007",
@@ -2082,7 +2087,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_008",
@@ -2090,7 +2095,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_009",
@@ -2138,7 +2143,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_015",
@@ -2146,7 +2151,7 @@
       "Name": "Monumental tribute",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_016",
@@ -2168,9 +2173,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_019",
@@ -2194,7 +2199,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_022",
@@ -2202,14 +2207,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 78
     }
   ],
@@ -2217,8 +2222,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:03:31.0815313+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:04:12.0427985+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:58:39.5699023+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:03:31.0815645+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:59:04.9244576+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:04:12.04282+00:00"
 }

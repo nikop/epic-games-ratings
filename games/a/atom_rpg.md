@@ -6,19 +6,19 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,072 |
+| Atom Agent | 99.00% | ~1,073 |
 | One HIT wonder | 35.00% | ~379 |
 | Wanderer | 35.00% | ~379 |
-| One shot, one kill | 28.00% | ~303 |
+| One shot, one kill | 28.00% | ~304 |
 | Traveler | 25.00% | ~271 |
 | Head Burst | 20.00% | ~217 |
 | Explorer | 18.00% | ~195 |
 | Grave Robber | 18.00% | ~195 |
-| Double agent | 15.00% | ~162 |
-| Paranoia | 15.00% | ~162 |
+| Double agent | 15.00% | ~163 |
+| Paranoia | 15.00% | ~163 |
 | Kraina Grzybow | 10.00% | ~108 |
-| Love Guru | 9.00% | ~97 |
-| Savant | 9.00% | ~97 |
+| Love Guru | 9.00% | ~98 |
+| Savant | 9.00% | ~98 |
 | Not-so-private Eye | 8.00% | ~87 |
 | Superhuman | 8.00% | ~87 |
 | Bustin' nuts | 7.00% | ~76 |
@@ -27,7 +27,7 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~54 |
 | Indy | 4.00% | ~43 |
 | Sacrifice | 4.00% | ~43 |
-| Wishmaster | 3.00% | ~32 |
+| Wishmaster | 3.00% | ~33 |
 | Career criminal | 2.00% | ~22 |
 | Neanderthal | 1.00% | ~11 |
 | It was worth a shot | 1.00% | ~11 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 191)  
+Progressed: 1,084 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,064 | 0 |
 | 2023-07-27 | 1,069 | 0 |
 | 2023-07-28 | 1,074 | 0 |
-| 2023-07-29 | 1,083 | 0 |
+| 2023-07-29 | 1,084 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 404)  
 Sum: 49 (Ranked 450)  

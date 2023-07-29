@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,10 +443,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80445,
-  "EOS_Completed": 377,
-  "EOS_NewPlayers": 882,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 80455,
+  "EOS_Completed": 378,
+  "EOS_NewPlayers": 884,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
@@ -11198,6 +11198,11 @@
       "Time": "2023-07-29T19:04:54.5988948+00:00",
       "NumProgressed": 80445,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-07-29T20:05:45.3180815+00:00",
+      "NumProgressed": 80455,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 10,
@@ -11209,7 +11214,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "Drawings01",
@@ -11217,7 +11222,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "Drawings02",
@@ -11225,7 +11230,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "Drawings03",
@@ -11255,9 +11260,9 @@
       "ID": "DrawingsDLC",
       "SetID": "77jc0gi",
       "Name": "Prologue Drawings",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 402
+      "UsersEstimate": 483
     },
     {
       "ID": "GameCompleted",
@@ -11265,7 +11270,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8046
     },
     {
       "ID": "Level00BowlingStrike",
@@ -11273,7 +11278,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28156
+      "UsersEstimate": 28159
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -11281,22 +11286,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8849
+      "UsersEstimate": 8850
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 80445,
-      "Completed": 377
+      "Progressed": 80455,
+      "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:04:54.5988943+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:05:45.3180812+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:25.0463004+00:00",
-  "LastUpdate_Ratings": "2023-07-29T19:01:07.3357134+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:04:54.598984+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:01:57.4073216+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:05:45.3181359+00:00"
 }

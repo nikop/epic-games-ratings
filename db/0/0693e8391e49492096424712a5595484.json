@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -990,9 +990,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 175
     },
     {
       "ID": "BroomAmanita",
@@ -1014,17 +1014,17 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 175
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "Drunkard",
@@ -1046,9 +1046,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "DwarfHobo",
@@ -1062,9 +1062,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "HastrmanAcorn",
@@ -1166,9 +1166,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "PrincessThrone",
@@ -1182,9 +1182,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "RogueEat",
@@ -1277,8 +1277,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:06:04.8167776+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:07:04.0157833+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:57:21.7449251+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:06:04.8168203+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:57:35.045978+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:07:04.0158157+00:00"
 }

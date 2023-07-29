@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,7 +325,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1752,
+  "EOS_Progressed": 1753,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -1580,6 +1580,11 @@
       "Time": "2023-07-29T16:05:30.0525777+00:00",
       "NumProgressed": 1752,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T20:05:43.2651527+00:00",
+      "NumProgressed": 1753,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1743,7 +1748,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1887,7 +1892,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1903,7 +1908,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1967,7 +1972,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2014,15 +2019,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1752,
+      "Progressed": 1753,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:04:52.7515059+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:05:43.2651523+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:59:06.5177383+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:04:52.7515618+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:59:37.4109923+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:05:43.2651937+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 602,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 11,
+  "EOS_Completed_Percentage": 10.96,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1906,6 +1906,11 @@
       "Time": "2023-07-29T19:06:21.7181238+00:00",
       "NumProgressed": 600,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-29T20:07:22.9969363+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 30,
@@ -1917,7 +1922,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 578
     },
     {
       "ID": "LEVEL_002",
@@ -1925,7 +1930,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 494
     },
     {
       "ID": "LEVEL_003",
@@ -1933,7 +1938,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "LEVEL_004",
@@ -1941,7 +1946,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "LEVEL_005",
@@ -1949,7 +1954,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "LEVEL_006",
@@ -1957,7 +1962,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_007",
@@ -1965,7 +1970,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "LEVEL_008",
@@ -1973,7 +1978,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_009",
@@ -1981,23 +1986,23 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     },
     {
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_012",
@@ -2019,25 +2024,25 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 20,
-      "XP": 15,
-      "UsersEstimate": 120
-    },
-    {
-      "ID": "LEVEL_015",
-      "SetID": "212bg48",
-      "Name": "Flatland",
       "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 114
     },
     {
-      "ID": "LEVEL_016",
+      "ID": "LEVEL_015",
       "SetID": "212bg48",
-      "Name": "Where\u0027s the toilet, sir?",
+      "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 108
+    },
+    {
+      "ID": "LEVEL_016",
+      "SetID": "212bg48",
+      "Name": "Where\u0027s the toilet, sir?",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_017",
@@ -2075,9 +2080,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 72
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_022",
@@ -2156,14 +2161,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 602,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:06:21.7181232+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:07:22.9969359+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:57:40.0485613+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:06:21.7181621+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:57:56.8852473+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:07:22.9969612+00:00"
 }

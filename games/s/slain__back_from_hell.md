@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,365 |
-| A Good Day To Die | 15.00% | ~4,774 |
+| Man 'O War | 20.00% | ~6,367 |
+| A Good Day To Die | 15.00% | ~4,775 |
 | Right Back Atcha | 6.00% | ~1,910 |
-| Killed by Death | 5.00% | ~1,591 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,591 |
+| Killed by Death | 5.00% | ~1,592 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,592 |
 | Kill 'Em All | 4.00% | ~1,273 |
 | Down Boy! | 2.00% | ~637 |
 | A Snowball's Chance in Hell | 2.00% | ~637 |
 | Enjoy The Silence | 1.00% | ~318 |
-| Sure Footed As A Goat | 0.90% | ~286 |
-| Backdoor Man | 0.90% | ~286 |
+| Sure Footed As A Goat | 0.90% | ~287 |
+| Backdoor Man | 0.90% | ~287 |
 | Thorn in My Herbicide | 0.80% | ~255 |
 | Schadenfreude | 0.80% | ~255 |
 | Red In Tooth And Claw | 0.70% | ~223 |
@@ -28,14 +28,14 @@ Rating: 4.28 (Ranked 794)
 | Four Legged Friend | 0.40% | ~127 |
 | Ice To See You | 0.40% | ~127 |
 | Smack My Imp Up | 0.40% | ~127 |
-| Vroll With It | 0.30% | ~95 |
-| Swift of Foot, Keen of Blade | 0.30% | ~95 |
+| Vroll With It | 0.30% | ~96 |
+| Swift of Foot, Keen of Blade | 0.30% | ~96 |
 | Flame Retardant | 0.20% | ~64 |
 | Death or Glory | 0.20% | ~64 |
 | Too Metal For Magic | 0.10% | ~32 |
 | Heart Of Steel | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,827 (Ranked 98)  
+Progressed: 31,835 (Ranked 98)  
 Completed: 20 (0.06%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,14 +135,14 @@ Completed: 20 (0.06%) (Ranked 206)
 | 2023-07-26 | 31,463 | 20 |
 | 2023-07-27 | 31,592 | 20 |
 | 2023-07-28 | 31,719 | 20 |
-| 2023-07-29 | 31,827 | 20 |
+| 2023-07-29 | 31,835 | 20 |
 ## Awards
-Max (Great Boss Battles): 125  (Ranked 309)  
-Sum: 125 (Ranked 400)  
+Max (Great Boss Battles): 126  (Ranked 309)  
+Sum: 126 (Ranked 400)  
 Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 125 |
+| This game has Great Boss Battles | 126 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -177,3 +177,4 @@ Diff (max vs sum): -91
 | 2023-05-10 | 4.28 | 125 | 125 |
 | 2023-07-11 | 4.29 | 125 | 125 |
 | 2023-07-23 | 4.28 | 125 | 125 |
+| 2023-07-29 | 4.28 | 126 | 126 |

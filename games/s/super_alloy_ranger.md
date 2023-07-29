@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 77.00% | ~40 |
-| Gear Up | 71.00% | ~37 |
-| A Grand Show | 71.00% | ~37 |
-| Freshen Up | 60.00% | ~31 |
-| GG EZ | 58.00% | ~30 |
+| Iceberg Theory | 77.00% | ~41 |
+| Gear Up | 70.00% | ~37 |
+| A Grand Show | 70.00% | ~37 |
+| Freshen Up | 58.00% | ~31 |
+| GG EZ | 57.00% | ~30 |
 | Hydrophobia | 40.00% | ~21 |
-| Ka-Ching! | 37.00% | ~19 |
-| Stop Right There | 35.00% | ~18 |
-| Get to the Point | 33.00% | ~17 |
+| Ka-Ching! | 36.00% | ~19 |
+| Stop Right There | 34.00% | ~18 |
+| Get to the Point | 32.00% | ~17 |
 | Toe to Toe | 17.00% | ~9 |
 | The Hidden Secret | 15.00% | ~8 |
 | Mr. Want It All | 15.00% | ~8 |
 | Phew! | 15.00% | ~8 |
-| Grand Escape | 12.00% | ~6 |
-| Space Warrior: Prologue | 12.00% | ~6 |
-| Keep it Up, rookie! | 10.00% | ~5 |
+| Grand Escape | 11.00% | ~6 |
+| Space Warrior: Prologue | 11.00% | ~6 |
+| Keep it Up, rookie! | 9.00% | ~5 |
 | The Abyss Conqueror | 8.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 347)  
+Progressed: 53 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-23 | 49 | 0 |
 | 2023-07-24 | 50 | 0 |
 | 2023-07-26 | 52 | 0 |
+| 2023-07-29 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

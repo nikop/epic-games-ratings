@@ -3302,9 +3302,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10668,
+  "EOS_Progressed": 10670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9667,6 +9667,11 @@
       "Time": "2023-07-29T19:01:14.5716631+00:00",
       "NumProgressed": 10668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T20:02:07.7841161+00:00",
+      "NumProgressed": 10670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9678,7 +9683,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "02_BurningCity",
@@ -9694,7 +9699,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "04_FithCrusade",
@@ -9710,7 +9715,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -9734,7 +9739,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "09_PathOfDemon",
@@ -9886,7 +9891,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "29_StrategicVictory",
@@ -10030,7 +10035,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -10070,7 +10075,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -10084,9 +10089,9 @@
       "ID": "53_TrulyProfaneGift",
       "SetID": "989of5o",
       "Name": "Truly Profane Gift",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 85
     },
     {
       "ID": "54_DeathByColumn",
@@ -10574,7 +10579,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -10582,7 +10587,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -10605,21 +10610,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9450,
+      "Progressed": 9452,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10668,
+      "Progressed": 10670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-29T15:59:20.3300679+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:01:14.5716624+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:02:07.7841157+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:59:03.5989763+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:01:14.5719539+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:59:32.8000554+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:02:07.7842864+00:00"
 }

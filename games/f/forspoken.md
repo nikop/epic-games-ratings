@@ -32,8 +32,8 @@ Rating: 4.15 (Ranked 879)
 | The Truth Will Out | 1.00% | ~394 |
 | Breaking Point | 1.00% | ~394 |
 | None the Wiser | 1.00% | ~394 |
+| Forspoken | 1.00% | ~394 |
 | Pilgrimage: Novice | 1.00% | ~394 |
-| Forspoken | 0.90% | ~354 |
 | Wildfire | 0.70% | ~276 |
 | Awakening | 0.60% | ~236 |
 | Explorer: Trailblazer | 0.60% | ~236 |

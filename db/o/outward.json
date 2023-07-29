@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3177,
+  "EOS_Progressed": 3181,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3631,6 +3631,11 @@
       "Time": "2023-07-29T19:01:20.9468201+00:00",
       "NumProgressed": 3177,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T20:02:15.0462681+00:00",
+      "NumProgressed": 3181,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3642,7 +3647,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "AceDetective_9",
@@ -3666,7 +3671,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "BloodAndJustice_50",
@@ -3682,7 +3687,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1368
     },
     {
       "ID": "CrowdPleaser",
@@ -3706,7 +3711,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3714,7 +3719,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ForAllAurai_8",
@@ -3746,7 +3751,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "HouseofCards_19",
@@ -3754,7 +3759,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -3770,7 +3775,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "LightofLevant_18",
@@ -3826,7 +3831,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1622
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3834,7 +3839,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2036
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3842,7 +3847,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3850,7 +3855,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3858,7 +3863,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "Tapped_22",
@@ -3866,7 +3871,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3890,7 +3895,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -3898,7 +3903,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -3906,7 +3911,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3962,7 +3967,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2386
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3977,15 +3982,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3177,
+      "Progressed": 3181,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-29T19:01:20.9468196+00:00",
+  "LastChanged_Achievements": "2023-07-29T20:02:15.0462678+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:58:28.9600982+00:00",
-  "LastUpdate_Achievements": "2023-07-29T19:01:20.9468806+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:58:52.2079487+00:00",
+  "LastUpdate_Achievements": "2023-07-29T20:02:15.0463128+00:00"
 }
