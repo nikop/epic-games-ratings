@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1733,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4575,6 +4575,11 @@
       "Time": "2023-07-29T01:55:24.7803557+00:00",
       "NumProgressed": 1733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T09:03:34.1440863+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4640,9 +4645,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "challenger",
@@ -4818,7 +4823,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "herewegoagain",
@@ -4978,7 +4983,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "prestigiousx10",
@@ -5000,9 +5005,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 69
     },
     {
       "ID": "scientist",
@@ -5042,7 +5047,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "thealchemist",
@@ -5112,17 +5117,17 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "treeoflife",
@@ -5146,7 +5151,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "warmachinesarmy",
@@ -5178,14 +5183,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1733,
+      "Progressed": 1734,
       "Completed": 1
     }
   ],
@@ -5193,8 +5198,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:04:30.1553503+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:03:34.1440861+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-07-29T07:58:54.9475668+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:04:30.1554326+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:58:15.0118156+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:03:34.1441639+00:00"
 }

@@ -816,7 +816,7 @@
   ],
   "EOS_Progressed": 2640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3773,9 +3773,9 @@
       "ID": "ACH_LAID-BACK",
       "SetID": "72olkc5",
       "Name": "Laid back",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -4005,8 +4005,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-27T04:59:49.8050175+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:01:54.7045084+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:00:26.1992389+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-07-29T08:00:13.044094+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:01:54.7046058+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:59:11.1458434+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:00:26.1993055+00:00"
 }

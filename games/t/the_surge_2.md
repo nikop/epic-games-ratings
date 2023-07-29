@@ -5,11 +5,11 @@ Rating: 4.25 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,527 |
-| Don't I Know You...? | 77.00% | ~1,470 |
-| Jailbreak | 65.00% | ~1,241 |
-| HEADSHOT! | 38.00% | ~725 |
-| Suited and Booted | 38.00% | ~725 |
+| Rigged And Ready | 80.00% | ~1,528 |
+| Don't I Know You...? | 77.00% | ~1,471 |
+| Jailbreak | 65.00% | ~1,242 |
+| HEADSHOT! | 38.00% | ~726 |
+| Suited and Booted | 38.00% | ~726 |
 | Sleeping With The Fishes | 35.00% | ~668 |
 | Overheated | 30.00% | ~573 |
 | High Performance | 30.00% | ~573 |
@@ -46,9 +46,9 @@ Rating: 4.25 (Ranked 814)
 | Turbo Booster | 6.00% | ~115 |
 | Juiced Up | 6.00% | ~115 |
 | Squid Pro Quo | 6.00% | ~115 |
-| Reborn | 5.00% | ~95 |
-| Counter-Sniper | 5.00% | ~95 |
-| Shrimp Cocktail | 5.00% | ~95 |
+| Reborn | 5.00% | ~96 |
+| Counter-Sniper | 5.00% | ~96 |
+| Shrimp Cocktail | 5.00% | ~96 |
 | Hello Darkness My Old Friend | 4.00% | ~76 |
 | Geronimo! | 4.00% | ~76 |
 | Homewrecker | 4.00% | ~76 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 814)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,909 (Ranked 167)  
+Progressed: 1,910 (Ranked 167)  
 Completed: 10 (0.52%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 10 (0.52%) (Ranked 134)
 | 2023-07-26 | 1,896 | 10 |
 | 2023-07-27 | 1,903 | 10 |
 | 2023-07-28 | 1,907 | 10 |
-| 2023-07-29 | 1,909 | 10 |
+| 2023-07-29 | 1,910 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

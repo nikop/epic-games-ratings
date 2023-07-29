@@ -179,9 +179,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "GameComplete",
@@ -219,9 +219,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SecretRoom",
@@ -250,8 +250,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:05:00.5721795+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:03:56.5016225+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-29T07:57:13.5339147+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:05:00.5721895+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:57:02.0042869+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:03:56.5016419+00:00"
 }

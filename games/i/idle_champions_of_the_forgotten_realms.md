@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,498 |
+| A Brief Tour of the Realms | 3.00% | ~6,499 |
 | Beast Intentions | 2.00% | ~4,332 |
 | Maddening | 1.00% | ~2,166 |
 | The Silken Swamp | 1.00% | ~2,166 |
@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~914 |
 | Krux's Speed Run | 0.50% | ~914 |
 | Thieves of the Coven | 0.40% | ~732 |
+| On the Hunt | 0.40% | ~866 |
 | Friends of the Forest | 0.40% | ~866 |
 | Low Initiative | 0.40% | ~866 |
 | Street War | 0.40% | ~866 |
@@ -61,9 +62,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.30% | ~650 |
 | Hither of the Feywild | 0.30% | ~549 |
 | The Prince of a Thousand Enemies | 0.30% | ~549 |
+| Downfall | 0.30% | ~549 |
 | Speeds of Destruction | 0.30% | ~549 |
 | Owlbear Necessities | 0.30% | ~549 |
-| On the Hunt | 0.30% | ~650 |
 | Best Thay Ever | 0.30% | ~549 |
 | A Demi-god's Defender | 0.30% | ~549 |
 | Who Lurks Below? | 0.30% | ~549 |
@@ -96,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~650 |
 | Willing to Sacrifice | 0.30% | ~549 |
 | Devilishly Cold | 0.30% | ~549 |
+| Tiny Treaty | 0.30% | ~549 |
 | 3,720 to 1 | 0.30% | ~549 |
 | Starving in the Jungle | 0.20% | ~433 |
 | Cold as Ice | 0.20% | ~366 |
@@ -105,7 +107,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.20% | ~366 |
 | The Spire of Iriolarthas | 0.20% | ~366 |
 | The Fall of Ythryn | 0.20% | ~366 |
-| Downfall | 0.20% | ~366 |
 | Slack-jawed Lorna | 0.20% | ~366 |
 | The Fairy Rings of Thither | 0.20% | ~366 |
 | Will of the Feywild | 0.20% | ~366 |
@@ -184,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~433 |
 | The Haunted Jungle | 0.20% | ~433 |
 | Rescue in the Jungle | 0.20% | ~433 |
-| Tiny Treaty | 0.20% | ~366 |
 | All The World's A Stage | 0.20% | ~366 |
 | Keep Your Friends Close | 0.10% | ~183 |
 | And Your Enemies Closer | 0.10% | ~183 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,610 (Ranked 53)  
-Completed: 2,134 (0.99%) (Ranked 111)  
+Progressed: 216,625 (Ranked 53)  
+Completed: 2,135 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -619,17 +619,17 @@ Completed: 2,134 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,610 | 2,134 |
+| 2023-07-29 | 216,625 | 2,135 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
-Sum: 30,788 (Ranked 38)  
+Sum: 30,791 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,093 |
 | This game is Great for Beginners | 5,036 |
 | This game has Quickly Understood Controls | 4,687 |
-| This game is Relaxing | 4,578 |
+| This game is Relaxing | 4,581 |
 | This game has Amazing Characters | 4,041 |
 | This game is Highly Recommended | 4,024 |
 | This game has Playful Visuals | 3,329 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 28
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
-| 2023-07-29 | 4.05 | - | 5,093 | 30,788 |
+| 2023-07-29 | 4.05 | - | 5,093 | 30,791 |

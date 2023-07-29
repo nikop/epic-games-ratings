@@ -26,7 +26,7 @@
 | Law student | 58.00% | ~99 |
 | Workout professional | 56.00% | ~96 |
 | Intriguing candies | 56.00% | ~96 |
-| Little hacker | 54.00% | ~92 |
+| Little hacker | 55.00% | ~94 |
 | Champion – starter pack | 54.00% | ~92 |
 | Employee of the year | 54.00% | ~92 |
 | It's good to be alive | 53.00% | ~91 |
@@ -36,9 +36,9 @@
 | Your own way | 51.00% | ~87 |
 | Legal courier | 49.00% | ~84 |
 | Extreme neuropower! | 49.00% | ~84 |
-| Escaped from a big trouble | 43.00% | ~74 |
+| Escaped from a big trouble | 44.00% | ~75 |
 | Now you are worthy | 42.00% | ~72 |
-| No blades in the gym | 41.00% | ~70 |
+| No blades in the gym | 42.00% | ~72 |
 | Guiding on the right path | 39.00% | ~67 |
 | Mysterious voice | 38.00% | ~65 |
 | Fight is life | 37.00% | ~63 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 22.00% | ~38 |
 | Silver’s past | 19.00% | ~32 |
 | Better cooking at home | 19.00% | ~32 |
-| The only right decision | 18.00% | ~31 |
+| The only right decision | 19.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 286)  
 Completed: 6 (3.51%) (Ranked 57)  

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -807,6 +807,11 @@
       "Time": "2023-07-26T18:07:10.5072241+00:00",
       "NumProgressed": 290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T09:06:13.7563929+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -906,7 +911,7 @@
       "Name": "Food producer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COMIDA_2",
@@ -1250,7 +1255,7 @@
       "Name": "Small town",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "POPULATION_2",
@@ -1258,7 +1263,7 @@
       "Name": "Metropolurbek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "POPULATION_3",
@@ -1338,7 +1343,7 @@
       "Name": "Sport is good for you",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SPORTS_2",
@@ -1449,7 +1454,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 0
     }
   ],
@@ -1457,8 +1462,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:08:06.8556411+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:06:13.7563926+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.1827432+00:00",
-  "LastUpdate_Ratings": "2023-07-29T07:59:53.3858231+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:08:06.8557181+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:58:58.0606862+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:06:13.7564623+00:00"
 }

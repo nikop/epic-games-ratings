@@ -5,12 +5,12 @@ Rating: 4.10 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,612 |
-| World Map | 79.00% | ~1,369 |
-| Temple of Eternals | 56.00% | ~970 |
-| Prestigious | 53.00% | ~918 |
+| Victor | 93.00% | ~1,613 |
+| World Map | 79.00% | ~1,370 |
+| Temple of Eternals | 56.00% | ~971 |
+| Prestigious | 53.00% | ~919 |
 | Fellowship Power | 41.00% | ~711 |
-| Guild Power | 25.00% | ~433 |
+| Guild Power | 25.00% | ~434 |
 | Prestigious x10 | 21.00% | ~364 |
 | The game is on | 20.00% | ~347 |
 | Exotic Merchant | 18.00% | ~312 |
@@ -54,20 +54,20 @@ Rating: 4.10 (Ranked 892)
 | Missions Dedication | 6.00% | ~104 |
 | Weekly Quest Completionist | 6.00% | ~104 |
 | Ancient Knowledge | 5.00% | ~87 |
-| Sailor | 5.00% | ~87 |
 | Active Member | 4.00% | ~69 |
 | Arena Challenger | 4.00% | ~69 |
 | Background Story | 4.00% | ~69 |
 | Legendary | 4.00% | ~69 |
+| Sailor | 4.00% | ~69 |
 | The Alchemist | 4.00% | ~69 |
 | Ebony Jungle Liberator | 3.00% | ~52 |
 | What lies behind the bush | 3.00% | ~52 |
 | Gear Enchanting | 1.00% | ~17 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
-| Cauldron Liberator | 0.80% | ~14 |
-| Training makes a Pro player | 0.80% | ~14 |
-| Transmute | 0.80% | ~14 |
+| Cauldron Liberator | 0.70% | ~12 |
+| Training makes a Pro player | 0.70% | ~12 |
+| Transmute | 0.70% | ~12 |
 | Titan Power | 0.60% | ~10 |
 | Tree of Life | 0.60% | ~10 |
 | Beast War Machines | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 892)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,733 (Ranked 171)  
+Progressed: 1,734 (Ranked 171)  
 Completed: 1 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.06%) (Ranked 205)
 | 2023-07-26 | 1,719 | 1 |
 | 2023-07-27 | 1,725 | 1 |
 | 2023-07-28 | 1,731 | 1 |
-| 2023-07-29 | 1,733 | 1 |
+| 2023-07-29 | 1,734 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

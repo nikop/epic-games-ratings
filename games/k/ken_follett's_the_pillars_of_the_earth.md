@@ -1,13 +1,13 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 521)  
+Rating: 4.52 (Ranked 522)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,826 |
-| Man of politics | 35.00% | ~4,973 |
+| Man of politics | 35.00% | ~4,974 |
 | Friends of sorts | 34.00% | ~4,831 |
 | Yet another secret | 34.00% | ~4,831 |
 | Let there be darkness | 33.00% | ~4,689 |
@@ -21,7 +21,7 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~2,558 |
 | End of Book Two | 18.00% | ~2,558 |
 | Everything's in order | 17.00% | ~2,416 |
-| Jack was here! | 15.00% | ~2,131 |
+| Jack was here! | 15.00% | ~2,132 |
 | Twist of Fate | 14.00% | ~1,989 |
 | Exterminator | 13.00% | ~1,847 |
 | Whodunnit | 13.00% | ~1,847 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~426 |
 | Boy of mystery | 2.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,209 (Ranked 114)  
+Progressed: 14,210 (Ranked 114)  
 Completed: 106 (0.75%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 106 (0.75%) (Ranked 118)
 | 2023-07-26 | 14,156 | 106 |
 | 2023-07-27 | 14,182 | 106 |
 | 2023-07-28 | 14,204 | 106 |
-| 2023-07-29 | 14,209 | 106 |
+| 2023-07-29 | 14,210 | 106 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 295)  
 Sum: 188 (Ranked 372)  

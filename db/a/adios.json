@@ -90,7 +90,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67967,
+  "EOS_Progressed": 67969,
   "EOS_Completed": 672,
   "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 22,
@@ -10980,6 +10980,11 @@
       "Time": "2023-07-29T08:08:01.5283753+00:00",
       "NumProgressed": 67967,
       "NumCompleted": 672
+    },
+    {
+      "Time": "2023-07-29T09:06:09.2585476+00:00",
+      "NumProgressed": 67969,
+      "NumCompleted": 672
     }
   ],
   "TotalAchievements": 25,
@@ -11063,7 +11068,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "Hearty",
@@ -11095,7 +11100,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "Meaty",
@@ -11183,14 +11188,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 67967,
+      "Progressed": 67969,
       "Completed": 672
     }
   ],
@@ -11198,8 +11203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:08:01.5283749+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:06:09.2585473+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:54.7008229+00:00",
-  "LastUpdate_Ratings": "2023-07-29T07:57:00.7343921+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:08:01.5284404+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:56:52.751047+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:06:09.2586102+00:00"
 }

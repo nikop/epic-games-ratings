@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.30% | ~400 |
+| Sponsored by Argon | 0.40% | ~534 |
 | Basic in Bulk | 0.30% | ~400 |
 | Tinkle of Coins | 0.30% | ~400 |
 | Titan's First Steps | 0.30% | ~400 |
@@ -16,6 +16,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.20% | ~267 |
 | It's Free Real Estate | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
+| One-Armed Bandit | 0.20% | ~267 |
 | Budding Merchant | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
 | Capitalism Ho! | 0.20% | ~267 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.10% | ~133 |
 | Capitalist Camaraderie | 0.10% | ~133 |
 | Necromancer Queen | 0.10% | ~133 |
-| One-Armed Bandit | 0.10% | ~133 |
 | Jackpot! | 0.10% | ~133 |
 | JACKPOT!!! | 0.10% | ~133 |
 | Item of Renown | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,472 (Ranked 61)  
+Progressed: 133,475 (Ranked 61)  
 Completed: 123 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 123 (0.09%) (Ranked 196)
 | 2023-07-26 | 133,301 | 123 |
 | 2023-07-27 | 133,376 | 123 |
 | 2023-07-28 | 133,441 | 123 |
-| 2023-07-29 | 133,472 | 123 |
+| 2023-07-29 | 133,475 | 123 |
 ## Awards
 Max (Great for Beginners): 4,675  (Ranked 70)  
 Sum: 27,003 (Ranked 46)  

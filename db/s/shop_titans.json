@@ -5320,9 +5320,9 @@
       "Count": 3717
     }
   ],
-  "EOS_Progressed": 133472,
+  "EOS_Progressed": 133475,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15450,6 +15450,11 @@
       "Time": "2023-07-29T08:04:11.601629+00:00",
       "NumProgressed": 133472,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-29T09:03:20.9251882+00:00",
+      "NumProgressed": 133475,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -15627,9 +15632,9 @@
       "ID": "chest01",
       "SetID": "anfd17p",
       "Name": "Sponsored by Argon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 534
     },
     {
       "ID": "chest02",
@@ -16011,9 +16016,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 267
     },
     {
       "ID": "jackslot02",
@@ -16356,15 +16361,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133472,
+      "Progressed": 133475,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-29T06:58:40.4572623+00:00",
-  "LastChanged_Achievements": "2023-07-29T08:04:11.6016287+00:00",
+  "LastChanged_Achievements": "2023-07-29T09:03:20.9251879+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-07-29T07:59:25.3370563+00:00",
-  "LastUpdate_Achievements": "2023-07-29T08:04:11.6017983+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:58:36.4197682+00:00",
+  "LastUpdate_Achievements": "2023-07-29T09:03:20.925349+00:00"
 }
