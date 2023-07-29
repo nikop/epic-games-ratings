@@ -8,7 +8,7 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.66% |
@@ -25,8 +25,8 @@
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 9.52% |
-| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.17% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.17% |
+| 27 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 9.09% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
 | 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
@@ -56,12 +56,12 @@
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.51% |
-| 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 57 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.49% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.38% |
-| 62 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.33% |
+| 62 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.23% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.12% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
@@ -154,11 +154,11 @@
 | 151 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 153 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 154 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 154 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 154 | [Scrapnaut](games/s/scrapnaut.md) | 0.31% |
-| 159 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 158 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 158 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 160 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 161 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
 | 161 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
