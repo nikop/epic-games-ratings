@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1538,9 +1538,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -1682,8 +1682,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:02:28.0133805+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:03:27.8984737+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:26.4163627+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:58:17.5434427+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:02:28.0134135+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:58:57.774312+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:03:27.8985057+00:00"
 }

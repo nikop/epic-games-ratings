@@ -1,7 +1,7 @@
 # Rebel Cops
 [Store](https://store.epicgames.com/en-US/p/rebel-cops)  
 [View Rawdata](../../db/r/rebel_cops.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.54 (Ranked 496)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 4.52 (Ranked 520)
 | 2022-12-26 | 4.50 | - | - |
 | 2023-01-05 | 4.52 | - | - |
 | 2023-03-31 | 4.52 | 0 | 0 |
+| 2023-07-29 | 4.54 | 0 | 0 |

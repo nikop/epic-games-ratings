@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~163 |
-| Starting Skyward | 51.00% | ~143 |
+| In the Black | 59.00% | ~166 |
+| Starting Skyward | 52.00% | ~146 |
 | Grime is Not Good | 45.00% | ~126 |
 | Campaign Launch | 39.00% | ~110 |
+| Floor Galore | 38.00% | ~107 |
 | Dinner Dash | 38.00% | ~107 |
-| Floor Galore | 37.00% | ~104 |
 | Need a Consult | 35.00% | ~98 |
 | It's Technical | 35.00% | ~98 |
-| Upgrade Unlock | 33.00% | ~93 |
+| Upgrade Unlock | 34.00% | ~96 |
 | Delegate Maintenance | 32.00% | ~90 |
 | Proper Walls | 30.00% | ~84 |
 | Destination Destiny | 29.00% | ~81 |
@@ -28,8 +28,8 @@
 | Emporium Empire | 20.00% | ~56 |
 | Get Electrified | 20.00% | ~56 |
 | Artfully Done | 19.00% | ~53 |
+| Rehab Expert | 19.00% | ~53 |
 | Tasty Profits | 19.00% | ~53 |
-| Rehab Expert | 18.00% | ~51 |
 | We Don't Need No Education | 18.00% | ~51 |
 | Under One Roof | 16.00% | ~45 |
 | Established Fame | 16.00% | ~45 |

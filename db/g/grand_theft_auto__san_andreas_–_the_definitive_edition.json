@@ -622,9 +622,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 11504,
+  "EOS_Progressed": 11507,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7687,6 +7687,11 @@
       "Time": "2023-07-29T01:59:11.4805913+00:00",
       "NumProgressed": 11504,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-29T04:08:15.8922749+00:00",
+      "NumProgressed": 11507,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7698,7 +7703,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9318
+      "UsersEstimate": 9321
     },
     {
       "ID": "ACH02",
@@ -7754,7 +7759,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5752
+      "UsersEstimate": 5754
     },
     {
       "ID": "ACH09",
@@ -7778,7 +7783,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH12",
@@ -7802,7 +7807,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH15",
@@ -7874,7 +7879,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACH24",
@@ -7912,9 +7917,9 @@
       "ID": "ACH28",
       "SetID": "4ck5mbe",
       "Name": "Original Gangster",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 920
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH29",
@@ -7977,7 +7982,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11504,
+      "Progressed": 11507,
       "Completed": 31
     }
   ],
@@ -7985,8 +7990,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-28T21:01:56.0954675+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:06:38.2487254+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:08:15.8922741+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:00:43.9414512+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:06:38.2487986+00:00"
+  "LastUpdate_Ratings": "2023-07-29T04:02:11.4510137+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:08:15.8923393+00:00"
 }

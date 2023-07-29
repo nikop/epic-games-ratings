@@ -8,8 +8,8 @@
 | Law and Order | 70.00% | ~7 |
 | Licence To Kill | 50.00% | ~5 |
 | Hammer Time | 40.00% | ~4 |
+| Escape From M.C. | 20.00% | ~2 |
 | Restore Honor | 20.00% | ~2 |
-| Escape From M.C. | 10.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |

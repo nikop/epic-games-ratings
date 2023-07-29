@@ -385,9 +385,9 @@
       "ID": "COMPLEX_MOVE",
       "SetID": "50pdlpn",
       "Name": "Complex Move",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CONQUEROR",
@@ -841,9 +841,9 @@
       "ID": "ENEMY_ARCADE_3",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic, Norman, Vanunu",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_ARCADE_30",
@@ -865,33 +865,33 @@
       "ID": "ENEMY_ARCADE_4",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil the Grim Ant",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ENEMY_ARCADE_5",
       "SetID": "50pdlpn",
       "Name": "Arcade - Scorpon-pink.png the PNG File",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ENEMY_ARCADE_6",
       "SetID": "50pdlpn",
       "Name": "Arcade - Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ENEMY_ARCADE_7",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil, Scorpon-pink.png, Mr. Fyodorov",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ENEMY_ARCADE_8",
@@ -936,8 +936,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:05:52.5012632+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:07:18.0451666+00:00",
   "LastUpdate_AppInfo": "2023-07-24T14:56:53.659253+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:57:36.5157586+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:05:52.5013457+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:58:15.9687739+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:07:18.045247+00:00"
 }

@@ -54,7 +54,7 @@
 | Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
 | A Phony Clown | 3.00% | ~5 |
-| Duck Knight | 2.00% | ~3 |
+| Duck Knight | 3.00% | ~5 |
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)

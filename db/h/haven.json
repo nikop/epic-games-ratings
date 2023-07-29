@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1313,6 +1313,11 @@
       "Time": "2023-07-29T00:07:44.1017143+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-29T04:08:15.3609167+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1324,7 +1329,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "10",
@@ -1332,7 +1337,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "11",
@@ -1348,7 +1353,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "13",
@@ -1356,7 +1361,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "14",
@@ -1372,7 +1377,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "16",
@@ -1412,7 +1417,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "20",
@@ -1420,7 +1425,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "21",
@@ -1532,7 +1537,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "7",
@@ -1548,7 +1553,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "9",
@@ -1563,15 +1568,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:06:37.6450109+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:08:15.360916+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:27.0234782+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:59:57.1536661+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:06:37.6450426+00:00"
+  "LastUpdate_Ratings": "2023-07-29T04:01:01.3331677+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:08:15.3609489+00:00"
 }

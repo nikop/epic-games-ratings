@@ -526,9 +526,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "get-all",
@@ -663,8 +663,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:02:07.9654234+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:02:48.6975248+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:19.8590297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:59:13.9558324+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:02:07.9654585+00:00"
+  "LastUpdate_Ratings": "2023-07-29T04:00:07.5938395+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:02:48.6975597+00:00"
 }

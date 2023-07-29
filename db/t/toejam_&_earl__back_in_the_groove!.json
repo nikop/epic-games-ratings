@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56083,
+  "EOS_Progressed": 56084,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6522,6 +6522,11 @@
       "Time": "2023-07-29T03:05:25.6305048+00:00",
       "NumProgressed": 56083,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T04:06:29.461889+00:00",
+      "NumProgressed": 56084,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6621,7 +6626,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "FoolMeTwice",
@@ -6717,7 +6722,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "LordOfHFZ",
@@ -6885,7 +6890,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "TrulyEvil",
@@ -6924,7 +6929,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56083,
+      "Progressed": 56084,
       "Completed": 4
     }
   ],
@@ -6932,8 +6937,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:05:25.6305041+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:06:29.461888+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:23.1111168+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:57:01.2685354+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:05:25.6305922+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:57:20.7674837+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:06:29.4619709+00:00"
 }

@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2384,
+  "EOS_Progressed": 2385,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -2148,6 +2148,11 @@
       "Time": "2023-07-29T03:02:29.6983347+00:00",
       "NumProgressed": 2384,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T04:03:29.9892902+00:00",
+      "NumProgressed": 2385,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -2223,7 +2228,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2262,7 +2267,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2384,
+      "Progressed": 2385,
       "Completed": 5
     }
   ],
@@ -2270,8 +2275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:02:29.6983341+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:03:29.9892897+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:15.5105537+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:59:47.4144991+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:02:29.6983614+00:00"
+  "LastUpdate_Ratings": "2023-07-29T04:00:49.6991995+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:03:29.9893149+00:00"
 }

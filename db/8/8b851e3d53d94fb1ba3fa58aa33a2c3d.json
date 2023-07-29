@@ -161,9 +161,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "APHRODITE",
@@ -249,9 +249,9 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -265,9 +265,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -321,9 +321,9 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:04:11.4879611+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:04:59.1378699+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:57:06.8857138+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:04:11.4879976+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:57:30.2769651+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:04:59.1379031+00:00"
 }

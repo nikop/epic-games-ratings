@@ -13,19 +13,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~131 |
 | Poetic Leader | 1.00% | ~131 |
 | Friendly Family | 0.90% | ~118 |
+| Able | 0.80% | ~105 |
 | Intrepid | 0.80% | ~105 |
-| Able | 0.70% | ~92 |
 | Architect | 0.70% | ~92 |
+| Good | 0.70% | ~92 |
+| Just | 0.70% | ~92 |
 | Mason | 0.70% | ~92 |
+| Strong | 0.70% | ~92 |
 | Hanging Gardens | 0.70% | ~92 |
+| Oracle | 0.70% | ~92 |
 | Enlightened | 0.60% | ~79 |
-| Good | 0.60% | ~79 |
-| Just | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
 | Noble | 0.60% | ~79 |
 | Pioneer | 0.60% | ~79 |
-| Strong | 0.60% | ~79 |
-| Oracle | 0.60% | ~79 |
 | Judaism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
 | Naming Landmarks | 0.60% | ~79 |
@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
+| Lighthouse | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
 | Christianity | 0.50% | ~66 |
@@ -54,16 +55,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
 | Great Ziggurat | 0.40% | ~53 |
-| Lighthouse | 0.40% | ~53 |
+| Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
 | Manichaeism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
+| Mythology | 0.40% | ~53 |
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
 | Valiant | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
+| Good Difficulty | 0.30% | ~39 |
 | Just Difficulty | 0.30% | ~39 |
 | Champions | 0.30% | ~39 |
 | Sages | 0.30% | ~39 |
@@ -72,12 +75,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
-| Musaeum | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
-| Mythology | 0.30% | ~39 |
+| Building Wonders | 0.30% | ~39 |
+| Legalism | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
+| Bad Heir Day | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
+| Capable | 0.20% | ~26 |
 | Conqueror | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
 | Invincible | 0.20% | ~26 |
@@ -86,9 +91,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
-| Good Difficulty | 0.20% | ~26 |
 | Strong Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
+| Landowners | 0.20% | ~26 |
 | Patrons | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
 | Traders | 0.20% | ~26 |
@@ -102,17 +107,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
+| Egypt | 0.20% | ~26 |
+| Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Assyrian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
-| Building Wonders | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
-| Legalism | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
+| Veneration | 0.20% | ~26 |
 | Cimmerian Archer | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
 | Legionary | 0.20% | ~26 |
@@ -128,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Alliance Victory | 0.10% | ~13 |
-| Bad Heir Day | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
 | Ishtar Gate in Babylon | 0.10% | ~13 |
 | Barbarian Horde | 0.10% | ~13 |
@@ -155,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
 | Avenger | 0.10% | ~13 |
-| Capable | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Old | 0.10% | ~13 |
@@ -168,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
-| Landowners | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
@@ -213,10 +216,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
-| Egypt | 0.10% | ~13 |
 | Hatti | 0.10% | ~13 |
 | Persia | 0.10% | ~13 |
-| Rome | 0.10% | ~13 |
 | Old World Order | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
@@ -236,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
-| Veneration | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,147 (Ranked 116)  
+Progressed: 13,149 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,147 | 5 |
+| 2023-07-29 | 13,149 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

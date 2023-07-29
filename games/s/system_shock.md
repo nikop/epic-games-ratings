@@ -1,7 +1,7 @@
 # System Shock
 [Store](https://store.epicgames.com/en-US/p/system-shock)  
 [View Rawdata](../../db/s/system_shock.json)  
-Rating: 4.63 (Ranked 333)  
+Rating: 4.62 (Ranked 348)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.63 (Ranked 333)
 | Enjoy Your Purchase | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 457)  
+Progressed: 2 (Ranked 458)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-07 | 4.60 | 0 | 0 |
 | 2023-07-17 | 4.62 | 0 | 0 |
 | 2023-07-23 | 4.63 | 0 | 0 |
+| 2023-07-29 | 4.62 | 0 | 0 |

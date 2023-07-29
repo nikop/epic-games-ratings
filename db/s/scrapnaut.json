@@ -926,9 +926,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -950,9 +950,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1054,9 +1054,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1102,17 +1102,17 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-29T03:03:05.8105976+00:00",
+  "LastChanged_Achievements": "2023-07-29T04:03:37.1805029+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:08.1135387+00:00",
-  "LastUpdate_Ratings": "2023-07-29T02:58:59.1944363+00:00",
-  "LastUpdate_Achievements": "2023-07-29T03:03:05.8106281+00:00"
+  "LastUpdate_Ratings": "2023-07-29T03:59:47.7350486+00:00",
+  "LastUpdate_Achievements": "2023-07-29T04:03:37.1805353+00:00"
 }

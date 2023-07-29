@@ -17,7 +17,7 @@ Number of Ratings: 429  (23.09.2022)
 | Design a Civilization | 32.00% | ~1,993 |
 | Commodity Trader | 31.00% | ~1,930 |
 | Design a Ship | 29.00% | ~1,806 |
-| Commodity Seller | 25.00% | ~1,557 |
+| Commodity Seller | 26.00% | ~1,619 |
 | Prestige Victory! | 14.00% | ~872 |
 | Galactic War | 11.00% | ~685 |
 | Trading Partner | 9.00% | ~560 |
