@@ -35,7 +35,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 336 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 42 | 417 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,342 | 128 |
-| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 490 | 195 |
+| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 491 | 195 |
 | 28 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 0 | 507 |
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 507 |
 | 39 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.85 | 21 | 495 |
@@ -108,7 +108,7 @@
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,374 | 125 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 507 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,778 | 81 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,802 | 81 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,475 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,360 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 507 |
@@ -350,7 +350,7 @@
 | 333 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,762 | 114 |
 | 349 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 507 |
 | 349 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 507 |
-| 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,253 | 9 |
+| 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,326 | 9 |
 | 349 | [Dead Space](games/d/dead_space.md) | 4.62 | 83 | 356 |
 | 349 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 238 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 439 |
@@ -395,7 +395,7 @@
 | 393 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 507 |
 | 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 684 | 165 |
 | 393 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,994 | 28 |
-| 393 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,418 | 74 |
+| 393 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,421 | 74 |
 | 393 | [Control](games/c/control.md) | 4.60 | 8,422 | 40 |
 | 393 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 507 |
 | 393 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 260 |
@@ -930,11 +930,11 @@
 | 926 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.97 | 0 | 507 |
 | 926 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 2,882 | 94 |
 | 930 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 412 |
+| 931 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 384 | 214 |
 | 931 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 507 |
 | 931 | [Patron](games/p/patron.md) | 3.94 | 0 | 507 |
-| 933 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 25 | 476 |
-| 933 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 507 |
-| 933 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 384 | 214 |
+| 934 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 25 | 476 |
+| 934 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 507 |
 | 936 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 459 |
 | 937 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 329 |
 | 937 | [Warface](games/w/warface.md) | 3.91 | 404 | 210 |

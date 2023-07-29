@@ -26,13 +26,13 @@
 | 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.40% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.84% |
-| 27 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.33% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.80% |
+| 28 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 33 | [Scorn](games/s/scorn.md) | 6.98% |
+| 33 | [Scorn](games/s/scorn.md) | 7.03% |
 | 34 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
 | 36 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
@@ -54,11 +54,11 @@
 | 52 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
-| 55 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.57% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
-| 57 | [ZZT!](games/z/zzt!.md) | 3.56% |
-| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.51% |
-| 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.56% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.51% |
+| 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 59 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.45% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.41% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
@@ -170,11 +170,11 @@
 | 168 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 168 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 170 | [Blanc](games/b/blanc.md) | 0.21% |
-| 170 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 172 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 172 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 172 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 172 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 171 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 171 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
+| 171 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 171 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 171 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 176 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
 | 176 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 176 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
