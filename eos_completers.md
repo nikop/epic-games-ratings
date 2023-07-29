@@ -1,12 +1,12 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 53.85% |
+| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 50.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.43% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.26% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -18,8 +18,8 @@
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 17 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
 | 18 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.11% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.07% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.06% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Remains](games/r/remains.md) | 10.87% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
@@ -28,7 +28,7 @@
 | 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 9.52% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.17% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
-| 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
+| 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 31 | [Smelter](games/s/smelter.md) | 8.11% |
 | 32 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
@@ -39,10 +39,10 @@
 | 37 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 38 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 39 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
+| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
-| 42 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
+| 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -51,7 +51,7 @@
 | 49 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
 | 50 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.42% |
 | 51 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 52 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
+| 52 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.81% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
@@ -74,7 +74,7 @@
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.64% |
-| 75 | [Lamentum](games/l/lamentum.md) | 2.62% |
+| 75 | [Lamentum](games/l/lamentum.md) | 2.61% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
