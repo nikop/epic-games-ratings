@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.67% |
+| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.75% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.33% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -15,35 +15,35 @@
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.00% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
-| 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.04% |
-| 21 | [Remains](games/r/remains.md) | 10.87% |
-| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.13% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
-| 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
-| 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
-| 31 | [Smelter](games/s/smelter.md) | 8.11% |
-| 32 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
-| 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 34 | [Scorn](games/s/scorn.md) | 7.01% |
-| 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
-| 37 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
-| 38 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 39 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 40 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 5.71% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
+| 17 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
+| 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.11% |
+| 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 11.11% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.04% |
+| 22 | [Remains](games/r/remains.md) | 10.87% |
+| 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.13% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
+| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
+| 32 | [Smelter](games/s/smelter.md) | 8.11% |
+| 33 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
+| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
+| 35 | [Scorn](games/s/scorn.md) | 7.01% |
+| 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
+| 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
+| 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 40 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 42 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.20% |
-| 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
+| 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 46 | [JARS](games/j/jars.md) | 4.76% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
