@@ -5,9 +5,9 @@
   "Ranking_Rating": 412,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 303,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3065,
+  "EOS_Progressed": 3066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2656,6 +2656,11 @@
       "Time": "2023-07-29T06:06:29.01058+00:00",
       "NumProgressed": 3065,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T14:04:26.3978223+00:00",
+      "NumProgressed": 3066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2873,17 +2878,17 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Kills_Interactable",
       "SetID": "3jha1np",
       "Name": "Opportunist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_Knockback",
@@ -2897,9 +2902,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Kills_Vakir",
@@ -3001,9 +3006,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3210,21 +3215,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3065,
+      "Progressed": 3066,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3065,
+      "Progressed": 3066,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:06:06.5095288+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:04:26.3978218+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:01:05.0539149+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:06:06.509613+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:59:27.008524+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:04:26.3979029+00:00"
 }

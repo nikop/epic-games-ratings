@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -527,6 +527,11 @@
       "Time": "2023-07-27T21:05:48.7659842+00:00",
       "NumProgressed": 106,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-29T14:04:45.2659752+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -608,9 +613,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -760,7 +765,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -802,7 +807,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -842,21 +847,21 @@
       "Name": "Playing God",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:06:21.4043956+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:04:45.2659746+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.7648738+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:00:11.3871636+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:06:21.4044322+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:58:16.2041361+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:04:45.2660103+00:00"
 }

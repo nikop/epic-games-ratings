@@ -9,14 +9,14 @@
 | Good Person Chip | 85.00% | ~149 |
 | First winning | 84.00% | ~147 |
 | Your first job | 83.00% | ~145 |
+| Old movies enjoyer | 79.00% | ~138 |
 | First defeat | 78.00% | ~136 |
-| Old movies enjoyer | 78.00% | ~136 |
 | Fitness professional | 76.00% | ~133 |
 | Depressed visitor | 74.00% | ~130 |
 | Neurotrainer – power gainer! | 74.00% | ~130 |
 | Employee of the week | 74.00% | ~130 |
 | Your own amateur gym | 73.00% | ~128 |
-| Run K, run! | 70.00% | ~122 |
+| Run K, run! | 71.00% | ~124 |
 | Hello, world! | 66.00% | ~116 |
 | Fighting is cool | 65.00% | ~114 |
 | No bullying more | 65.00% | ~114 |
@@ -44,32 +44,32 @@
 | Fight is life | 37.00% | ~65 |
 | Responsible approach | 34.00% | ~60 |
 | Get out of my apartment! | 32.00% | ~56 |
+| Champion – no way back | 31.00% | ~54 |
 | Underground dwellers | 31.00% | ~54 |
 | Deal with life | 30.00% | ~52 |
 | GYM professional | 30.00% | ~52 |
-| Champion – no way back | 30.00% | ~52 |
+| Poisoned fighter | 30.00% | ~52 |
 | Mom got better | 29.00% | ~51 |
-| Poisoned fighter | 29.00% | ~51 |
 | The die is cast | 29.00% | ~51 |
 | Seashell hunter | 29.00% | ~51 |
-| Gang wrangler | 27.00% | ~47 |
+| Gang wrangler | 28.00% | ~49 |
 | The last bell ring | 27.00% | ~47 |
 | Problems of cyborgs | 26.00% | ~46 |
+| Anyone can resist | 26.00% | ~46 |
 | Undercover robot | 26.00% | ~46 |
-| Anyone can resist | 25.00% | ~44 |
-| Trap disarmed | 23.00% | ~40 |
+| Careerist | 25.00% | ~44 |
+| Trap disarmed | 24.00% | ~42 |
 | Another world | 23.00% | ~40 |
 | Keep nature safe | 23.00% | ~40 |
 | Not little hacker | 23.00% | ~40 |
 | Absolute Champion! | 23.00% | ~40 |
-| Careerist | 23.00% | ~40 |
 | The lonesome road | 22.00% | ~38 |
 | Family comes first | 22.00% | ~38 |
 | Key memories | 22.00% | ~38 |
 | The heart of the Resistance | 22.00% | ~38 |
 | Silver’s past | 19.00% | ~33 |
 | Better cooking at home | 19.00% | ~33 |
-| The only right decision | 18.00% | ~32 |
+| The only right decision | 19.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 175 (Ranked 286)  
 Completed: 6 (3.43%) (Ranked 59)  

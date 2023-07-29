@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 589,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1385,6 +1385,11 @@
       "Time": "2023-07-29T11:00:41.0742451+00:00",
       "NumProgressed": 588,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T14:01:23.3813129+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1426,9 +1431,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "Devoted",
@@ -1588,7 +1593,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TheGuardian",
@@ -1602,9 +1607,9 @@
       "ID": "ToadCharming",
       "SetID": "2aagp3d",
       "Name": "Always worth a try",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ToothFairy",
@@ -1636,7 +1641,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "YagaProfessional",
@@ -1651,7 +1656,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 589,
       "Completed": 1
     }
   ],
@@ -1659,8 +1664,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:02:34.741772+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:01:23.3813124+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:00:25.1821747+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:02:34.7549356+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:58:33.1196753+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:01:23.3813485+00:00"
 }

@@ -10,17 +10,17 @@ Rating: 4.45 (Ranked 625)
 | From X to Y | 72.00% | ~1,228 |
 | Departure | 72.00% | ~1,228 |
 | Way of Iron | 70.00% | ~1,194 |
-| Mystery Tour | 68.00% | ~1,159 |
-| We brake for nobody | 67.00% | ~1,142 |
-| Brainstorm | 65.00% | ~1,108 |
-| Travel Company | 65.00% | ~1,108 |
-| Mind the Gap | 64.00% | ~1,091 |
-| All around the World | 62.00% | ~1,057 |
+| Mystery Tour | 68.00% | ~1,160 |
+| We brake for nobody | 67.00% | ~1,143 |
+| Brainstorm | 65.00% | ~1,109 |
+| Travel Company | 65.00% | ~1,109 |
+| Mind the Gap | 64.00% | ~1,092 |
+| All around the World | 62.00% | ~1,058 |
 | Right through the middle | 57.00% | ~972 |
 | Facility Manager | 53.00% | ~904 |
 | Poor Devil | 53.00% | ~904 |
-| Producer | 50.00% | ~852 |
-| Apprentice | 42.00% | ~716 |
+| Producer | 50.00% | ~853 |
+| Apprentice | 42.00% | ~717 |
 | Bridge Builder | 41.00% | ~699 |
 | Access granted | 34.00% | ~580 |
 | Going once, going twice, sold | 34.00% | ~580 |
@@ -28,10 +28,10 @@ Rating: 4.45 (Ranked 625)
 | Stoker | 32.00% | ~546 |
 | Full Steam ahead | 31.00% | ~529 |
 | Financial Shark | 30.00% | ~512 |
-| All mine | 29.00% | ~494 |
-| Mole | 29.00% | ~494 |
-| Socializer | 29.00% | ~494 |
-| Country Life | 26.00% | ~443 |
+| All mine | 29.00% | ~495 |
+| Mole | 29.00% | ~495 |
+| Socializer | 29.00% | ~495 |
+| Country Life | 26.00% | ~444 |
 | General Manager | 25.00% | ~426 |
 | Hostile Takeover | 24.00% | ~409 |
 | Seven at one stroke | 23.00% | ~392 |
@@ -47,8 +47,8 @@ Rating: 4.45 (Ranked 625)
 | Max Power | 13.00% | ~222 |
 | Go West | 12.00% | ~205 |
 | Bold and beautiful | 12.00% | ~205 |
-| A new Hope | 10.00% | ~170 |
-| Tycoon | 10.00% | ~170 |
+| A new Hope | 10.00% | ~171 |
+| Tycoon | 10.00% | ~171 |
 | Unstoppable | 7.00% | ~119 |
 | Track to the Future | 7.00% | ~119 |
 | Conductor | 6.00% | ~102 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 625)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,705 (Ranked 173)  
+Progressed: 1,706 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,684 | 0 |
 | 2023-07-27 | 1,696 | 0 |
 | 2023-07-28 | 1,699 | 0 |
-| 2023-07-29 | 1,705 | 0 |
+| 2023-07-29 | 1,706 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

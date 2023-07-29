@@ -30,7 +30,7 @@
 | A Link to the Past | 17.00% | ~4 |
 | Alchemists Express | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 382)  
+Progressed: 24 (Ranked 384)  
 Completed: 4 (16.67%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |

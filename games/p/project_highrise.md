@@ -15,7 +15,7 @@
 | Upgrade Unlock | 34.00% | ~97 |
 | Delegate Maintenance | 33.00% | ~94 |
 | Proper Walls | 31.00% | ~89 |
-| Destination Destiny | 28.00% | ~80 |
+| Destination Destiny | 29.00% | ~83 |
 | Happy Tenants | 25.00% | ~72 |
 | Smooth Service | 24.00% | ~69 |
 | Your Prestige is Rising | 23.00% | ~66 |

@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2049,
-  "EOS_Completed": 182,
-  "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 8.88,
+  "EOS_Progressed": 2050,
+  "EOS_Completed": 183,
+  "EOS_NewPlayers": 55,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4403,6 +4403,11 @@
       "Time": "2023-07-29T13:05:57.1807081+00:00",
       "NumProgressed": 2049,
       "NumCompleted": 182
+    },
+    {
+      "Time": "2023-07-29T14:04:14.9051904+00:00",
+      "NumProgressed": 2050,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 12,
@@ -4438,7 +4443,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Jacques a Dit",
@@ -4509,16 +4514,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2049,
-      "Completed": 182
+      "Progressed": 2050,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:05:57.1807075+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:04:14.9051899+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:15.148373+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:01:45.1532742+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:05:57.1807447+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:00:17.333649+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:04:14.9052281+00:00"
 }

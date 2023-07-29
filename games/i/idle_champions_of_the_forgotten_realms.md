@@ -22,22 +22,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.60% | ~1,098 |
 | Return to the Tomb | 0.60% | ~1,098 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,098 |
-| Pros and CONs | 0.50% | ~1,083 |
+| Pros and CONs | 0.50% | ~1,084 |
 | The Witchlight Carnival | 0.50% | ~915 |
-| Hatchlings Underfoot | 0.50% | ~1,083 |
-| Don't Look Up! | 0.50% | ~1,083 |
-| Heavy Burden | 0.50% | ~1,083 |
+| Hatchlings Underfoot | 0.50% | ~1,084 |
+| Don't Look Up! | 0.50% | ~1,084 |
+| Heavy Burden | 0.50% | ~1,084 |
 | The Evacuation of Waterdeep | 0.50% | ~915 |
 | Heatwave | 0.50% | ~915 |
 | The Dread Domain of Tovag | 0.50% | ~915 |
-| Were-verpowered | 0.50% | ~1,083 |
-| A Persistent Buzzing | 0.50% | ~1,083 |
-| Beast Mode | 0.50% | ~1,083 |
-| Terror in the Dark | 0.50% | ~1,083 |
-| A Mysterious Summons | 0.50% | ~1,083 |
-| Building Trust | 0.50% | ~1,083 |
-| Unearthed Evil | 0.50% | ~1,083 |
-| The Dinner Party | 0.50% | ~1,083 |
+| Were-verpowered | 0.50% | ~1,084 |
+| A Persistent Buzzing | 0.50% | ~1,084 |
+| Beast Mode | 0.50% | ~1,084 |
+| Terror in the Dark | 0.50% | ~1,084 |
+| A Mysterious Summons | 0.50% | ~1,084 |
+| Building Trust | 0.50% | ~1,084 |
+| Unearthed Evil | 0.50% | ~1,084 |
+| The Dinner Party | 0.50% | ~1,084 |
 | Not That Type of Helm! | 0.50% | ~915 |
 | Calcryx Tricks | 0.50% | ~915 |
 | Goblin Halls: the Next Generation | 0.50% | ~915 |
@@ -129,6 +129,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~366 |
 | Vecna Out! | 0.20% | ~366 |
 | Anti-Dexterous Explorers | 0.20% | ~433 |
+| Not Very Charming | 0.20% | ~433 |
 | Lobsterfolk Assault | 0.20% | ~433 |
 | Periodic Petrification | 0.20% | ~433 |
 | Home Field Advantage | 0.20% | ~433 |
@@ -153,6 +154,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~433 |
 | The Death Curse | 0.20% | ~433 |
 | Treasure Hunters | 0.20% | ~433 |
+| Flies on the Wall | 0.20% | ~433 |
 | Nimble Escape | 0.20% | ~433 |
 | Are Ya Chicken? | 0.20% | ~433 |
 | Fugitives | 0.20% | ~433 |
@@ -246,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Whale of a Time | 0.10% | ~183 |
 | Struggling Toward Omu | 0.10% | ~217 |
 | Wagon Train | 0.10% | ~217 |
-| Not Very Charming | 0.10% | ~217 |
 | Taking Responsibility | 0.10% | ~217 |
 | The Minions of Endelyn Moongrave | 0.10% | ~183 |
 | Between a Brigganock and a Hard Place | 0.10% | ~183 |
@@ -296,7 +297,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~217 |
 | A Saurial's Resolve | 0.10% | ~217 |
 | Spirit of the Trickster Gods | 0.10% | ~183 |
-| Flies on the Wall | 0.10% | ~217 |
 | The Killer Mists | 0.10% | ~217 |
 | Class Vacation | 0.10% | ~217 |
 | A Nod from Strahd | 0.10% | ~183 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,686 (Ranked 53)  
-Completed: 2,135 (0.99%) (Ranked 111)  
+Progressed: 216,701 (Ranked 53)  
+Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -619,7 +619,7 @@ Completed: 2,135 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,686 | 2,135 |
+| 2023-07-29 | 216,701 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,793 (Ranked 38)  

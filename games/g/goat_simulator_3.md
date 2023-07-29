@@ -5,26 +5,26 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~213,394 |
-| Private Club | 74.00% | ~173,529 |
-| Rogue Guild | 65.00% | ~152,424 |
-| I Watched the Intro | 57.00% | ~133,664 |
-| Covert Consortium | 55.00% | ~128,974 |
-| Goat Queen | 53.00% | ~124,284 |
-| Reach the Stratosphere | 50.00% | ~117,250 |
-| Synchronization Complete | 47.00% | ~110,215 |
-| Secret Society | 45.00% | ~105,525 |
-| Shadow Syndicate | 38.00% | ~89,110 |
-| What a Waste of Money | 33.00% | ~77,385 |
-| New Goat Order | 30.00% | ~70,350 |
-| Don't touch the servers | 28.00% | ~65,660 |
-| San Angora: Become Human | 26.00% | ~60,970 |
-| Raider of the Lost Parking Garage | 26.00% | ~60,970 |
-| Real Buoy | 26.00% | ~60,970 |
-| Welcome to Earth | 25.00% | ~58,625 |
-| Into the Matrix | 19.00% | ~44,555 |
-| Where is It? | 17.00% | ~39,865 |
-| Egg Simulator | 17.00% | ~39,865 |
+| Forgotten Sorority | 91.00% | ~213,398 |
+| Private Club | 74.00% | ~173,532 |
+| Rogue Guild | 65.00% | ~152,427 |
+| I Watched the Intro | 57.00% | ~133,667 |
+| Covert Consortium | 55.00% | ~128,977 |
+| Goat Queen | 53.00% | ~124,287 |
+| Reach the Stratosphere | 50.00% | ~117,252 |
+| Synchronization Complete | 47.00% | ~110,216 |
+| Secret Society | 45.00% | ~105,526 |
+| Shadow Syndicate | 38.00% | ~89,111 |
+| What a Waste of Money | 33.00% | ~77,386 |
+| New Goat Order | 30.00% | ~70,351 |
+| Don't touch the servers | 28.00% | ~65,661 |
+| San Angora: Become Human | 26.00% | ~60,971 |
+| Raider of the Lost Parking Garage | 26.00% | ~60,971 |
+| Real Buoy | 26.00% | ~60,971 |
+| Welcome to Earth | 25.00% | ~58,626 |
+| Into the Matrix | 19.00% | ~44,556 |
+| Where is It? | 17.00% | ~39,866 |
+| Egg Simulator | 17.00% | ~39,866 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~35,175 |
 | Black Market | 14.00% | ~32,830 |
 | 401(K.O.) | 14.00% | ~32,830 |
@@ -41,11 +41,11 @@ Rating: 4.85 (Ranked 39)
 | Certified Fresh | 1.00% | ~2,345 |
 | Streaking | 1.00% | ~2,345 |
 | Try Hard 2 | 1.00% | ~2,345 |
-| Crocsquatch | 0.90% | ~2,110 |
+| Crocsquatch | 0.90% | ~2,111 |
 | Move! That! Bus! | 0.60% | ~1,407 |
-| G.O.A.T | 0.30% | ~703 |
+| G.O.A.T | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,499 (Ranked 47)  
+Progressed: 234,503 (Ranked 47)  
 Completed: 782 (0.33%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 782 (0.33%) (Ranked 151)
 | 2023-07-26 | 234,167 | 780 |
 | 2023-07-27 | 234,309 | 781 |
 | 2023-07-28 | 234,432 | 782 |
-| 2023-07-29 | 234,499 | 782 |
+| 2023-07-29 | 234,503 | 782 |
 ## Awards
 Max (Great for Beginners): 372  (Ranked 218)  
 Sum: 3,111 (Ranked 156)  

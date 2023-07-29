@@ -12,11 +12,11 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
 | Blood for the Blood God! | 0.90% | ~28 |
-| Purging Spree | 0.80% | ~25 |
-| Bloodless | 0.80% | ~25 |
+| Purging Spree | 0.90% | ~28 |
+| Bloodless | 0.90% | ~28 |
+| Friendly Fire | 0.60% | ~18 |
 | A Foul Creche | 0.60% | ~18 |
 | Surgical Excision | 0.50% | ~15 |
-| Friendly Fire | 0.50% | ~15 |
 | Honoured Battle-Brother | 0.40% | ~12 |
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
@@ -34,6 +34,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
 | Exterminator | 0.10% | ~3 |
+| Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Mind Like a Fortress | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |
@@ -65,7 +66,6 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.00% | ~0 |
 | Unstable Immaterium | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
-| Opportunist | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,065 (Ranked 153)  
+Progressed: 3,066 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 3,047 | 0 |
 | 2023-07-27 | 3,054 | 0 |
 | 2023-07-28 | 3,064 | 0 |
-| 2023-07-29 | 3,065 | 0 |
+| 2023-07-29 | 3,066 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 263)  
 Sum: 458 (Ranked 303)  

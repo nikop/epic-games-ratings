@@ -5,37 +5,37 @@ Rating: 4.16 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,015 |
-| Disposing of the Evidence | 37.00% | ~2,681 |
-| Without a Scratch | 33.00% | ~2,392 |
-| Wreckless Driving | 28.00% | ~2,029 |
-| A Marked Man | 25.00% | ~1,812 |
-| Street Sweeper | 18.00% | ~1,304 |
+| First Day on the Job | 83.00% | ~6,018 |
+| Disposing of the Evidence | 37.00% | ~2,683 |
+| Without a Scratch | 33.00% | ~2,393 |
+| Wreckless Driving | 28.00% | ~2,030 |
+| A Marked Man | 25.00% | ~1,813 |
+| Street Sweeper | 18.00% | ~1,305 |
 | Liberty City Minute | 16.00% | ~1,160 |
-| Offshore Delivery | 13.00% | ~942 |
+| Offshore Delivery | 13.00% | ~943 |
 | Dirty Money | 12.00% | ~870 |
 | By a Mile | 10.00% | ~725 |
 | Right-hand Man | 10.00% | ~725 |
-| Not So Fast | 9.00% | ~652 |
-| A Gift from the King | 7.00% | ~507 |
+| Not So Fast | 9.00% | ~653 |
+| A Gift from the King | 7.00% | ~508 |
 | Full Artillery | 4.00% | ~290 |
 | Mob Boss | 2.00% | ~145 |
 | Splish Splash | 2.00% | ~145 |
 | Liberty City Secrets | 2.00% | ~145 |
-| Escape Artist | 1.00% | ~72 |
-| Planned Ahead | 1.00% | ~72 |
-| Got This Figured Out | 1.00% | ~72 |
-| Wheels Up | 1.00% | ~72 |
-| Come Out to Play-y-y-y | 1.00% | ~72 |
-| Where To? | 1.00% | ~72 |
-| Man Toyz | 1.00% | ~72 |
-| Playing Doctor | 1.00% | ~72 |
-| Going Rogue | 1.00% | ~72 |
+| Escape Artist | 1.00% | ~73 |
+| Planned Ahead | 1.00% | ~73 |
+| Got This Figured Out | 1.00% | ~73 |
+| Wheels Up | 1.00% | ~73 |
+| Come Out to Play-y-y-y | 1.00% | ~73 |
+| Where To? | 1.00% | ~73 |
+| Man Toyz | 1.00% | ~73 |
+| Playing Doctor | 1.00% | ~73 |
+| Going Rogue | 1.00% | ~73 |
 | Furious First Responder | 0.90% | ~65 |
 | Is That All You've Got? | 0.80% | ~58 |
-| King of Liberty City | 0.60% | ~43 |
+| King of Liberty City | 0.60% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,247 (Ranked 130)  
+Progressed: 7,251 (Ranked 130)  
 Completed: 41 (0.57%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 41 (0.57%) (Ranked 127)
 | 2023-07-26 | 7,165 | 41 |
 | 2023-07-27 | 7,199 | 41 |
 | 2023-07-28 | 7,231 | 41 |
-| 2023-07-29 | 7,247 | 41 |
+| 2023-07-29 | 7,251 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

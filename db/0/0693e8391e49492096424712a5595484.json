@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 249,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.22,
   "EosHistory": [
@@ -1010,9 +1010,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "DwarDevil",
@@ -1098,9 +1098,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "PriestBroom",
@@ -1138,9 +1138,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "Priestess",
@@ -1257,8 +1257,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:07:41.0621008+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:06:22.0196998+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-29T12:59:29.4049253+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:07:41.0621451+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:57:22.0647882+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:06:22.0197399+00:00"
 }

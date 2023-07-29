@@ -4,7 +4,7 @@
   "ProductSlug": "cloud-cutter-46f961",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -316,8 +316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:05:38.009938+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:03:51.3304234+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:05.5152442+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:02:16.9313358+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:05:38.009963+00:00"
+  "LastUpdate_Ratings": "2023-07-29T14:00:58.8995211+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:03:51.3304496+00:00"
 }

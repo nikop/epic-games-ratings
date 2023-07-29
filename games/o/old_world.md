@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.30% | ~39 |
 | Building Wonders | 0.30% | ~39 |
 | Legalism | 0.30% | ~39 |
+| Double Victory | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
 | Bad Heir Day | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
-| Double Victory | 0.20% | ~26 |
 | Win a Single Player Game | 0.20% | ~26 |
 | Pilgrimage | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,156 (Ranked 116)  
+Progressed: 13,157 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,156 | 5 |
+| 2023-07-29 | 13,157 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,785 (Ranked 206)  

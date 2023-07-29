@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "sawmill",
@@ -1129,9 +1129,9 @@
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "tavern",
@@ -1153,9 +1153,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "wheat_farm",
@@ -1169,9 +1169,9 @@
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
@@ -1184,8 +1184,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:06:54.2214308+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:05:25.7649673+00:00",
   "LastUpdate_AppInfo": "2023-07-27T17:57:01.3913137+00:00",
-  "LastUpdate_Ratings": "2023-07-29T12:59:43.7549262+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:06:54.2214554+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:57:41.7534471+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:05:25.7649916+00:00"
 }

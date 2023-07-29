@@ -5,7 +5,7 @@
   "Ranking_Rating": 301,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 206,
-  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 87,
@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13156,
+  "EOS_Progressed": 13157,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8754,6 +8754,11 @@
       "Time": "2023-07-29T13:07:41.8405667+00:00",
       "NumProgressed": 13156,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T14:06:22.9160013+00:00",
+      "NumProgressed": 13157,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10899,9 +10904,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -11132,21 +11137,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13156,
+      "Progressed": 13157,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13156,
+      "Progressed": 13157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:07:41.8405661+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:06:22.916+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:00:26.481873+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:07:41.8414471+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:58:34.7122324+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:06:22.9169907+00:00"
 }

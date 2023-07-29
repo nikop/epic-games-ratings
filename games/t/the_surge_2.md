@@ -6,21 +6,21 @@ Rating: 4.25 (Ranked 815)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,530 |
-| Don't I Know You...? | 77.00% | ~1,472 |
+| Don't I Know You...? | 76.00% | ~1,454 |
 | Jailbreak | 65.00% | ~1,243 |
 | HEADSHOT! | 38.00% | ~727 |
 | Suited and Booted | 38.00% | ~727 |
-| Sleeping With The Fishes | 35.00% | ~669 |
+| Sleeping With The Fishes | 35.00% | ~670 |
 | Overheated | 30.00% | ~574 |
 | High Performance | 30.00% | ~574 |
-| Powered Up | 28.00% | ~535 |
+| Powered Up | 28.00% | ~536 |
 | Studied The Blade | 24.00% | ~459 |
 | Home Invasion | 22.00% | ~421 |
 | Luminary | 22.00% | ~421 |
 | It's a Trap | 22.00% | ~421 |
 | True Survivor | 21.00% | ~402 |
-| Offensive Defense | 20.00% | ~382 |
-| Shocking | 20.00% | ~382 |
+| Offensive Defense | 20.00% | ~383 |
+| Shocking | 20.00% | ~383 |
 | Court Martial | 19.00% | ~363 |
 | Unforeseeable Consequences | 19.00% | ~363 |
 | Dead Again | 18.00% | ~344 |
@@ -32,8 +32,8 @@ Rating: 4.25 (Ranked 815)
 | Where It All Began | 13.00% | ~249 |
 | Risk Tolerant | 13.00% | ~249 |
 | What A Catchy Song | 13.00% | ~249 |
-| Marked For Success | 12.00% | ~229 |
-| Sorry, Didn't See You There | 12.00% | ~229 |
+| Marked For Success | 12.00% | ~230 |
+| Sorry, Didn't See You There | 12.00% | ~230 |
 | Corrupted Beauty | 11.00% | ~210 |
 | Triplets | 10.00% | ~191 |
 | Defense in Depth | 9.00% | ~172 |
@@ -49,10 +49,10 @@ Rating: 4.25 (Ranked 815)
 | Reborn | 5.00% | ~96 |
 | Counter-Sniper | 5.00% | ~96 |
 | Shrimp Cocktail | 5.00% | ~96 |
-| Hello Darkness My Old Friend | 4.00% | ~76 |
-| Geronimo! | 4.00% | ~76 |
-| Homewrecker | 4.00% | ~76 |
-| Plank of Wood | 4.00% | ~76 |
+| Hello Darkness My Old Friend | 4.00% | ~77 |
+| Geronimo! | 4.00% | ~77 |
+| Homewrecker | 4.00% | ~77 |
+| Plank of Wood | 4.00% | ~77 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~57 |
 | Gotta Craft 'em All | 3.00% | ~57 |
 | Own Medicine | 2.00% | ~38 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 815)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,912 (Ranked 167)  
+Progressed: 1,913 (Ranked 167)  
 Completed: 10 (0.52%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 10 (0.52%) (Ranked 134)
 | 2023-07-26 | 1,896 | 10 |
 | 2023-07-27 | 1,903 | 10 |
 | 2023-07-28 | 1,907 | 10 |
-| 2023-07-29 | 1,912 | 10 |
+| 2023-07-29 | 1,913 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

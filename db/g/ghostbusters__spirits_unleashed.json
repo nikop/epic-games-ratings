@@ -1578,9 +1578,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24539,
+  "EOS_Progressed": 24540,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8903,6 +8903,11 @@
       "Time": "2023-07-29T13:06:10.50545+00:00",
       "NumProgressed": 24539,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-29T14:04:31.3751337+00:00",
+      "NumProgressed": 24540,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8914,7 +8919,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17913
+      "UsersEstimate": 17914
     },
     {
       "ID": "Animated",
@@ -8922,7 +8927,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "Back_Off",
@@ -8986,7 +8991,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8343
+      "UsersEstimate": 8344
     },
     {
       "ID": "Diabolical",
@@ -9026,7 +9031,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15705
+      "UsersEstimate": 15706
     },
     {
       "ID": "Escape_Artist",
@@ -9050,7 +9055,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13251
+      "UsersEstimate": 13252
     },
     {
       "ID": "GB_In_Training",
@@ -9146,7 +9151,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "Rift_Seeker",
@@ -9194,7 +9199,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "Solo_Capture",
@@ -9202,7 +9207,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7852
+      "UsersEstimate": 7853
     },
     {
       "ID": "Stunner",
@@ -9242,7 +9247,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13251
+      "UsersEstimate": 13252
     },
     {
       "ID": "Teamwork",
@@ -9250,7 +9255,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10797
+      "UsersEstimate": 10798
     },
     {
       "ID": "Terrifying",
@@ -9274,7 +9279,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10306
+      "UsersEstimate": 10307
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9306,7 +9311,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7852
+      "UsersEstimate": 7853
     },
     {
       "ID": "Whoopsie",
@@ -9321,7 +9326,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24539,
+      "Progressed": 24540,
       "Completed": 48
     }
   ],
@@ -9329,8 +9334,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-28T20:00:30.7022679+00:00",
-  "LastChanged_Achievements": "2023-07-29T13:06:10.5054495+00:00",
+  "LastChanged_Achievements": "2023-07-29T14:04:31.3751331+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-07-29T13:01:22.6930364+00:00",
-  "LastUpdate_Achievements": "2023-07-29T13:06:10.5055366+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:59:49.5643508+00:00",
+  "LastUpdate_Achievements": "2023-07-29T14:04:31.3752216+00:00"
 }
