@@ -12,8 +12,8 @@ Rating: 4.43 (Ranked 655)
 | Call Me Snake | 61.00% | ~1,871 |
 | Something Lurks Under The Hills | 60.00% | ~1,841 |
 | This Was No Papercut | 58.00% | ~1,779 |
+| People Person | 55.00% | ~1,687 |
 | The Shrink Hates Me | 55.00% | ~1,687 |
-| People Person | 54.00% | ~1,657 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,595 |
 | First Steps Into Madness | 51.00% | ~1,565 |
 | Colonial Barrels | 49.00% | ~1,503 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 655)
 | Bandage Lover | 16.00% | ~491 |
 | Regicide | 13.00% | ~399 |
 | Flawless Victory | 11.00% | ~337 |
+| This Went Smoothly | 11.00% | ~337 |
 | Heavy Steps | 11.00% | ~337 |
-| This Went Smoothly | 10.00% | ~307 |
 | Perfect Enhancements | 8.00% | ~245 |
 | Hardened In The Heat Of Battle | 6.00% | ~184 |
 | The True Experience | 6.00% | ~184 |

@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 557,
-  "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 359,
+  "Ranking_Popularity": 265,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464059,
+  "EOS_Progressed": 464064,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10867,6 +10867,11 @@
       "Time": "2023-07-29T16:04:31.959738+00:00",
       "NumProgressed": 464059,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-29T17:04:16.6844187+00:00",
+      "NumProgressed": 464064,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10966,7 +10971,7 @@
       "Name": "The Shutdown",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "achievement_story_landa",
@@ -11509,21 +11514,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7993,
+      "Progressed": 7998,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464059,
+      "Progressed": 464064,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:04:31.9597373+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:04:16.6844181+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:00:15.575633+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:04:31.9598878+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:00:03.1030907+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:04:16.6845653+00:00"
 }

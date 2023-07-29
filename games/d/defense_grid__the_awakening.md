@@ -6,44 +6,44 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,940 |
-| Hey! That's mine! | 78.00% | ~376,461 |
-| Happy Returns | 77.00% | ~371,634 |
-| Field Promotion | 74.00% | ~357,155 |
-| Leadhead | 71.00% | ~342,676 |
-| Eradicator | 67.00% | ~323,370 |
-| Surplus | 65.00% | ~313,717 |
-| I Spy | 64.00% | ~308,891 |
-| Burn Baby Burn | 59.00% | ~284,759 |
-| Yellow Beats Green | 55.00% | ~265,453 |
-| Salvage Rights | 53.00% | ~255,800 |
-| Close Call | 50.00% | ~241,321 |
-| Pew Pew | 50.00% | ~241,321 |
-| What IS that? | 50.00% | ~241,321 |
-| Penny Pincher | 49.00% | ~236,495 |
-| Arsenal | 46.00% | ~222,015 |
-| Boot Camp | 45.00% | ~217,189 |
-| Flawless Victory | 42.00% | ~202,710 |
-| Confident | 40.00% | ~193,057 |
-| Exterminator | 36.00% | ~173,751 |
-| Sharpshooter | 33.00% | ~159,272 |
-| Great Ball of Fire | 32.00% | ~154,445 |
-| Not So Fast | 32.00% | ~154,445 |
-| No Sale | 30.00% | ~144,793 |
-| Kaboom! | 29.00% | ~139,966 |
-| Liquidator | 29.00% | ~139,966 |
-| High Voltage | 24.00% | ~115,834 |
-| Filthy Rich | 19.00% | ~91,702 |
+| First Blood | 81.00% | ~390,944 |
+| Hey! That's mine! | 78.00% | ~376,465 |
+| Happy Returns | 77.00% | ~371,638 |
+| Field Promotion | 74.00% | ~357,159 |
+| Leadhead | 71.00% | ~342,679 |
+| Eradicator | 67.00% | ~323,373 |
+| Surplus | 65.00% | ~313,721 |
+| I Spy | 64.00% | ~308,894 |
+| Burn Baby Burn | 59.00% | ~284,762 |
+| Yellow Beats Green | 55.00% | ~265,456 |
+| Salvage Rights | 53.00% | ~255,803 |
+| Close Call | 50.00% | ~241,324 |
+| Pew Pew | 50.00% | ~241,324 |
+| What IS that? | 50.00% | ~241,324 |
+| Penny Pincher | 49.00% | ~236,497 |
+| Arsenal | 46.00% | ~222,018 |
+| Boot Camp | 45.00% | ~217,191 |
+| Flawless Victory | 42.00% | ~202,712 |
+| Confident | 40.00% | ~193,059 |
+| Exterminator | 36.00% | ~173,753 |
+| Sharpshooter | 33.00% | ~159,274 |
+| Great Ball of Fire | 32.00% | ~154,447 |
+| Not So Fast | 32.00% | ~154,447 |
+| No Sale | 30.00% | ~144,794 |
+| Kaboom! | 29.00% | ~139,968 |
+| Liquidator | 29.00% | ~139,968 |
+| High Voltage | 24.00% | ~115,835 |
+| Filthy Rich | 19.00% | ~91,703 |
 | The Not-So-Friendly Skies | 18.00% | ~86,876 |
-| Power Builder | 17.00% | ~82,049 |
-| Pyrrhic Victory | 17.00% | ~82,049 |
-| Death From Above | 16.00% | ~77,223 |
-| Retry | 16.00% | ~77,223 |
-| Head Trauma | 12.00% | ~57,917 |
-| Full Defense | 10.00% | ~48,264 |
+| Power Builder | 17.00% | ~82,050 |
+| Pyrrhic Victory | 17.00% | ~82,050 |
+| Death From Above | 16.00% | ~77,224 |
+| Retry | 16.00% | ~77,224 |
+| Head Trauma | 12.00% | ~57,918 |
+| Full Defense | 10.00% | ~48,265 |
 | Overseer | 9.00% | ~43,438 |
-| Annihilator | 8.00% | ~38,611 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,611 |
+| Annihilator | 8.00% | ~38,612 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,612 |
 | Indecisive | 6.00% | ~28,959 |
 | Base Defender | 5.00% | ~24,132 |
 | Relay Race | 5.00% | ~24,132 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,344 |
 | Master Siege Breaker | 0.80% | ~3,861 |
 | Few and Proud | 0.80% | ~3,861 |
-| Shell-shocked | 0.70% | ~3,378 |
+| Shell-shocked | 0.70% | ~3,379 |
 | Alien Tears | 0.50% | ~2,413 |
 | Full House | 0.40% | ~1,931 |
 | Kickstarter | 0.30% | ~1,448 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,642 (Ranked 35)  
+Progressed: 482,647 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,11 +194,11 @@ Completed: 4 (0.00%) (Ranked 246)
 | 2023-07-26 | 482,414 | 4 |
 | 2023-07-27 | 482,485 | 4 |
 | 2023-07-28 | 482,568 | 4 |
-| 2023-07-29 | 482,642 | 4 |
+| 2023-07-29 | 482,647 | 4 |
 ## Awards
-Max (Great for Beginners): 241  (Ranked 250)  
+Max (Great for Beginners): 241  (Ranked 251)  
 Sum: 1,671 (Ranked 209)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 241 |

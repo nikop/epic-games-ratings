@@ -1232,9 +1232,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427076,
+  "EOS_Progressed": 427077,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8332,6 +8332,11 @@
       "Time": "2023-07-29T16:02:10.5613564+00:00",
       "NumProgressed": 427076,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-07-29T17:02:04.9283485+00:00",
+      "NumProgressed": 427077,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 41,
@@ -8343,7 +8348,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64061
+      "UsersEstimate": 64062
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -8511,7 +8516,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405722
+      "UsersEstimate": 405723
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -8543,7 +8548,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294682
+      "UsersEstimate": 294683
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -8559,7 +8564,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341661
+      "UsersEstimate": 341662
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -8591,7 +8596,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192184
+      "UsersEstimate": 192185
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -8599,7 +8604,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136664
+      "UsersEstimate": 136665
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -8670,15 +8675,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427076,
+      "Progressed": 427077,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-25T13:12:21.0355605+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:02:10.5613553+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:02:04.9283479+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:12.201785+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:59:12.5157449+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:02:10.5616119+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:58:55.7001647+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:02:04.9284748+00:00"
 }

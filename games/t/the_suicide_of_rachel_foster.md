@@ -8,7 +8,7 @@ Number of Ratings: 71  (23.09.2022)
 | ---- | ---------- | ----- |
 | "Nice" to meet you | 76.00% | ~996 |
 | Freeze to death | 57.00% | ~747 |
-| Is she really dead? | 46.00% | ~603 |
+| Is she really dead? | 47.00% | ~616 |
 | Screwdriver | 44.00% | ~577 |
 | Cutepie | 42.00% | ~551 |
 | Someone was here | 41.00% | ~538 |
@@ -16,7 +16,7 @@ Number of Ratings: 71  (23.09.2022)
 | Alone | 40.00% | ~524 |
 | Pack Rat | 40.00% | ~524 |
 | All together, again | 34.00% | ~446 |
-| Spicy | 5.00% | ~66 |
+| Spicy | 6.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,311 (Ranked 182)  
 Completed: 64 (4.88%) (Ranked 44)  

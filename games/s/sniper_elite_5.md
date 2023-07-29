@@ -42,13 +42,13 @@ Rating: 4.41 (Ranked 674)
 | Road Rage | 0.90% | ~30 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
 | Don't hold your breath | 0.80% | ~27 |
+| From Paris with Love | 0.70% | ~24 |
 | Burn after reading | 0.70% | ~24 |
 | It'll Buff Right Out | 0.70% | ~24 |
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
-| From Paris with Love | 0.60% | ~20 |
+| Souvenir hunter | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
-| Souvenir hunter | 0.50% | ~17 |
 | Eagle Eyed | 0.50% | ~17 |
 | Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~17 |

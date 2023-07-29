@@ -1,34 +1,34 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.40 (Ranked 693)  
+Rating: 4.40 (Ranked 694)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,216 |
-| Ranidaphobia | 77.00% | ~1,007 |
-| Aspiring Editor | 75.00% | ~981 |
+| First Blood | 92.00% | ~1,204 |
+| Ranidaphobia | 77.00% | ~1,008 |
+| Aspiring Editor | 75.00% | ~982 |
 | Gun for Hire | 70.00% | ~916 |
-| I am the law! | 64.00% | ~837 |
-| Lumberjack | 52.00% | ~680 |
+| I am the law! | 64.00% | ~838 |
+| Lumberjack | 52.00% | ~681 |
 | Croaked | 48.00% | ~628 |
 | Limp Richard | 48.00% | ~628 |
 | Exorcist | 47.00% | ~615 |
 | From Darkness to Light | 47.00% | ~615 |
 | Editor Adept | 46.00% | ~602 |
 | Giant Killer | 44.00% | ~576 |
-| Sensei | 42.00% | ~549 |
-| Firestarter | 41.00% | ~536 |
-| The meaning of Kain | 40.00% | ~523 |
+| Sensei | 42.00% | ~550 |
+| Firestarter | 41.00% | ~537 |
+| The meaning of Kain | 40.00% | ~524 |
 | Technophobe | 38.00% | ~497 |
 | Recycler | 37.00% | ~484 |
 | Are you not entertained? | 33.00% | ~432 |
 | Jarhead | 33.00% | ~432 |
 | Ganglord | 32.00% | ~419 |
 | Infiltrator | 32.00% | ~419 |
-| Pushing Daisy | 30.00% | ~392 |
-| Experienced | 29.00% | ~379 |
-| Hold The Line | 28.00% | ~366 |
+| Pushing Daisy | 30.00% | ~393 |
+| Experienced | 29.00% | ~380 |
+| Hold The Line | 28.00% | ~367 |
 | Endgame | 25.00% | ~327 |
 | Savior | 25.00% | ~327 |
 | There Can Be Only One! | 25.00% | ~327 |
@@ -45,7 +45,7 @@ Rating: 4.40 (Ranked 693)
 | Bot Whisperer | 8.00% | ~105 |
 | Curveball | 8.00% | ~105 |
 | Wipe Out | 7.00% | ~92 |
-| Dressed To Kill | 6.00% | ~78 |
+| Dressed To Kill | 6.00% | ~79 |
 | Master Editor | 4.00% | ~52 |
 | Attenborough | 3.00% | ~39 |
 | Cruelty | 3.00% | ~39 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 693)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,308 (Ranked 183)  
+Progressed: 1,309 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,296 | 0 |
 | 2023-07-27 | 1,299 | 0 |
 | 2023-07-28 | 1,304 | 0 |
-| 2023-07-29 | 1,308 | 0 |
+| 2023-07-29 | 1,309 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

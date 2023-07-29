@@ -12,27 +12,27 @@
 | Old movies enjoyer | 80.00% | ~141 |
 | First defeat | 78.00% | ~137 |
 | Fitness professional | 77.00% | ~136 |
+| Depressed visitor | 75.00% | ~132 |
 | Employee of the week | 75.00% | ~132 |
-| Depressed visitor | 74.00% | ~130 |
 | Neurotrainer – power gainer! | 74.00% | ~130 |
 | Your own amateur gym | 73.00% | ~128 |
-| Run K, run! | 70.00% | ~123 |
+| Run K, run! | 72.00% | ~127 |
 | Hello, world! | 66.00% | ~116 |
 | Fighting is cool | 65.00% | ~114 |
 | No bullying more | 65.00% | ~114 |
 | Pal of your father? | 61.00% | ~107 |
 | Employee of the month | 61.00% | ~107 |
-| Spirit of the past | 58.00% | ~102 |
+| Spirit of the past | 59.00% | ~104 |
 | Law student | 57.00% | ~100 |
 | Intriguing candies | 56.00% | ~99 |
-| Workout professional | 54.00% | ~95 |
+| Workout professional | 55.00% | ~97 |
 | Little hacker | 54.00% | ~95 |
+| Employee of the year | 54.00% | ~95 |
 | Champion – starter pack | 53.00% | ~93 |
-| Employee of the year | 53.00% | ~93 |
+| Handyman | 52.00% | ~92 |
 | It's good to be alive | 52.00% | ~92 |
 | Own four walls | 52.00% | ~92 |
 | Fight for life | 51.00% | ~90 |
-| Handyman | 51.00% | ~90 |
 | Legal courier | 49.00% | ~86 |
 | Your own way | 49.00% | ~86 |
 | Extreme neuropower! | 48.00% | ~84 |
@@ -40,8 +40,8 @@
 | Now you are worthy | 41.00% | ~72 |
 | No blades in the gym | 41.00% | ~72 |
 | Guiding on the right path | 39.00% | ~69 |
+| Fight is life | 38.00% | ~67 |
 | Mysterious voice | 38.00% | ~67 |
-| Fight is life | 37.00% | ~65 |
 | Responsible approach | 34.00% | ~60 |
 | Champion – no way back | 32.00% | ~56 |
 | Get out of my apartment! | 32.00% | ~56 |
@@ -61,12 +61,12 @@
 | Absolute Champion! | 24.00% | ~42 |
 | Careerist | 24.00% | ~42 |
 | Another world | 23.00% | ~40 |
+| The lonesome road | 23.00% | ~40 |
 | Keep nature safe | 23.00% | ~40 |
+| Key memories | 23.00% | ~40 |
 | Not little hacker | 23.00% | ~40 |
-| The lonesome road | 22.00% | ~39 |
+| The heart of the Resistance | 23.00% | ~40 |
 | Family comes first | 22.00% | ~39 |
-| Key memories | 22.00% | ~39 |
-| The heart of the Resistance | 22.00% | ~39 |
 | Silver’s past | 20.00% | ~35 |
 | Better cooking at home | 19.00% | ~33 |
 | The only right decision | 19.00% | ~33 |

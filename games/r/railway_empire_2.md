@@ -7,19 +7,19 @@ Rating: 4.45 (Ranked 625)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,265 |
 | A new Journey | 73.00% | ~1,248 |
-| Departure | 72.00% | ~1,230 |
-| From X to Y | 71.00% | ~1,213 |
-| Way of Iron | 70.00% | ~1,196 |
-| Mystery Tour | 68.00% | ~1,162 |
-| We brake for nobody | 67.00% | ~1,145 |
-| Brainstorm | 65.00% | ~1,111 |
-| Travel Company | 65.00% | ~1,111 |
+| From X to Y | 72.00% | ~1,231 |
+| Departure | 72.00% | ~1,231 |
+| Way of Iron | 70.00% | ~1,197 |
+| Mystery Tour | 68.00% | ~1,163 |
+| We brake for nobody | 67.00% | ~1,146 |
+| Brainstorm | 65.00% | ~1,112 |
+| Travel Company | 65.00% | ~1,112 |
 | Mind the Gap | 64.00% | ~1,094 |
-| All around the World | 61.00% | ~1,042 |
-| Right through the middle | 57.00% | ~974 |
+| All around the World | 61.00% | ~1,043 |
+| Right through the middle | 57.00% | ~975 |
 | Facility Manager | 53.00% | ~906 |
 | Poor Devil | 53.00% | ~906 |
-| Producer | 49.00% | ~837 |
+| Producer | 50.00% | ~855 |
 | Apprentice | 42.00% | ~718 |
 | Bridge Builder | 41.00% | ~701 |
 | Access granted | 34.00% | ~581 |
@@ -31,8 +31,8 @@ Rating: 4.45 (Ranked 625)
 | All mine | 29.00% | ~496 |
 | Mole | 29.00% | ~496 |
 | Socializer | 29.00% | ~496 |
-| Country Life | 26.00% | ~444 |
-| General Manager | 25.00% | ~427 |
+| Country Life | 26.00% | ~445 |
+| General Manager | 25.00% | ~428 |
 | Hostile Takeover | 24.00% | ~410 |
 | Seven at one stroke | 23.00% | ~393 |
 | Trailblazer | 20.00% | ~342 |
@@ -40,8 +40,8 @@ Rating: 4.45 (Ranked 625)
 | Traffic Junction | 19.00% | ~325 |
 | Traffic Jam | 18.00% | ~308 |
 | Networker | 17.00% | ~291 |
-| Resistance is futile | 16.00% | ~273 |
-| Assimilated | 16.00% | ~273 |
+| Resistance is futile | 16.00% | ~274 |
+| Assimilated | 15.00% | ~256 |
 | Locusts | 15.00% | ~256 |
 | Settler | 14.00% | ~239 |
 | Max Power | 13.00% | ~222 |
@@ -51,8 +51,8 @@ Rating: 4.45 (Ranked 625)
 | Tycoon | 10.00% | ~171 |
 | Unstoppable | 7.00% | ~120 |
 | Track to the Future | 7.00% | ~120 |
-| Conductor | 6.00% | ~103 |
-| Call of Duty | 5.00% | ~85 |
+| Conductor | 5.00% | ~86 |
+| Call of Duty | 5.00% | ~86 |
 | Let off some steam | 4.00% | ~68 |
 | Engineer | 3.00% | ~51 |
 | Accurate | 2.00% | ~34 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 625)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,709 (Ranked 173)  
+Progressed: 1,710 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,684 | 0 |
 | 2023-07-27 | 1,696 | 0 |
 | 2023-07-28 | 1,699 | 0 |
-| 2023-07-29 | 1,709 | 0 |
+| 2023-07-29 | 1,710 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

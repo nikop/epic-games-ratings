@@ -6,11 +6,11 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,470 |
-| What should I buy? | 84.00% | ~6,747 |
-| Focus! | 63.00% | ~5,060 |
-| Rescued Elder Ent | 63.00% | ~5,060 |
-| The End of the Gold Mane Knights | 48.00% | ~3,855 |
+| The Legend Begins | 93.00% | ~7,471 |
+| What should I buy? | 84.00% | ~6,748 |
+| Focus! | 63.00% | ~5,061 |
+| Rescued Elder Ent | 63.00% | ~5,061 |
+| The End of the Gold Mane Knights | 48.00% | ~3,856 |
 | False Goddess, Disappear | 40.00% | ~3,213 |
 | Rules of Etiquette | 40.00% | ~3,213 |
 | Quick Movements | 34.00% | ~2,731 |
@@ -18,11 +18,11 @@ Number of Ratings: 546  (23.09.2022)
 | The Fall of the Leonia Order | 30.00% | ~2,410 |
 | The Hero Killer | 28.00% | ~2,249 |
 | Go Home... | 27.00% | ~2,169 |
-| The Final Battle of the First Hero | 26.00% | ~2,088 |
-| Brain at Full Throttle | 23.00% | ~1,847 |
-| Rookies Welcome | 20.00% | ~1,606 |
+| The Final Battle of the First Hero | 26.00% | ~2,089 |
+| Brain at Full Throttle | 23.00% | ~1,848 |
+| Rookies Welcome | 20.00% | ~1,607 |
 | Deadly Power | 16.00% | ~1,285 |
-| Castle Restoration Plans | 14.00% | ~1,124 |
+| Castle Restoration Plans | 14.00% | ~1,125 |
 | The Dwarven Chandelier | 12.00% | ~964 |
 | Master of Speed | 9.00% | ~723 |
 | The Levitator | 6.00% | ~482 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~161 |
 | Cold-Blooded | 0.80% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,032 (Ranked 126)  
+Progressed: 8,033 (Ranked 126)  
 Completed: 12 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 12 (0.15%) (Ranked 181)
 | 2023-07-26 | 8,010 | 12 |
 | 2023-07-27 | 8,018 | 12 |
 | 2023-07-28 | 8,025 | 12 |
-| 2023-07-29 | 8,032 | 12 |
+| 2023-07-29 | 8,033 | 12 |
 ## Awards
-Max (Diverse Characters): 117  (Ranked 317)  
-Sum: 770 (Ranked 261)  
-Diff (max vs sum): 56  
+Max (Great for Beginners): 122  (Ranked 312)  
+Sum: 892 (Ranked 249)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 119 |
+| This game is Great for Beginners | 122 |
 | This game has Diverse Characters | 117 |
 | This game is Extremely Fun | 109 |
 | This game is Highly Recommended | 109 |
@@ -256,4 +256,4 @@ Diff (max vs sum): 56
 | 2023-07-13 | 4.71 | - | 117 | 768 |
 | 2023-07-16 | 4.71 | - | 117 | 769 |
 | 2023-07-26 | 4.71 | - | 117 | 770 |
-| 2023-07-29 | 4.72 | - | 117 | 770 |
+| 2023-07-29 | 4.72 | - | 122 | 892 |

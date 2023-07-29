@@ -28,7 +28,7 @@
 | Eggtraordinary | 13.00% | ~31 |
 | Carrocketeer | 13.00% | ~31 |
 | Oh My Gourd | 13.00% | ~24 |
-| Getting Started | 11.00% | ~26 |
+| Getting Started | 12.00% | ~28 |
 | Summers Here | 11.00% | ~20 |
 | Fresh Pancake | 10.00% | ~24 |
 | Quit Horsin' Around | 10.00% | ~24 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 265)  
+Progressed: 235 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

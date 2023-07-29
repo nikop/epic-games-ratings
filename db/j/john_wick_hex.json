@@ -4,8 +4,8 @@
   "ProductSlug": "johnwickhex",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-10-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.5458842+00:00",
   "LastChanged": "2023-03-31T05:56:58.5458843+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.071792+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:59:07.8107152+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:05:33.3321824+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:58:50.2264076+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:05:17.6903269+00:00"
 }

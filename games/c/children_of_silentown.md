@@ -28,7 +28,7 @@
 | Friend | 12.00% | ~23 |
 | Old kettle | 11.00% | ~21 |
 | Forest Howl | 10.00% | ~19 |
-| Hope | 5.00% | ~9 |
+| Hope | 6.00% | ~11 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 188 (Ranked 284)  

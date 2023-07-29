@@ -7,9 +7,9 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 58.00% | ~1,534 |
-| Keeping it classy | 26.00% | ~687 |
+| Keeping it classy | 26.00% | ~688 |
 | Welcome to the family | 20.00% | ~529 |
-| The finer things in life | 17.00% | ~449 |
+| The finer things in life | 17.00% | ~450 |
 | Backpacker | 13.00% | ~344 |
 | Go with the Flow | 12.00% | ~317 |
 | Plastic Surgeon | 9.00% | ~238 |
@@ -27,7 +27,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~132 |
 | G'Day Mate! | 5.00% | ~132 |
 | Globetrotter | 5.00% | ~132 |
-| Laid back | 5.00% | ~132 |
 | NAHELL! | 5.00% | ~132 |
 | Purple passion | 5.00% | ~132 |
 | Squad goals | 5.00% | ~132 |
@@ -35,6 +34,7 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 4.00% | ~106 |
 | DIY Boss | 4.00% | ~106 |
 | G.O.A.T. status | 4.00% | ~106 |
+| Laid back | 4.00% | ~106 |
 | Lines for days | 4.00% | ~106 |
 | Manny Destroys All | 4.00% | ~106 |
 | Prince of Philly | 4.00% | ~106 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,644 (Ranked 159)  
+Progressed: 2,645 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 2,620 | 0 |
 | 2023-07-27 | 2,630 | 0 |
 | 2023-07-28 | 2,639 | 0 |
-| 2023-07-29 | 2,644 | 0 |
+| 2023-07-29 | 2,645 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 440 (Ranked 305)  

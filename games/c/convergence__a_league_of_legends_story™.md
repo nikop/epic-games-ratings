@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 393)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 22.00% | ~176 |
+| The Mysterious Stranger | 19.00% | ~152 |
 | Rail Rat | 19.00% | ~152 |
-| The Mysterious Stranger | 18.00% | ~144 |
 | Immaculate Aim | 17.00% | ~136 |
 | The Steel Shadow | 16.00% | ~128 |
 | Make Up For Lost Time | 16.00% | ~128 |

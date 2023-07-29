@@ -6,21 +6,21 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,722 |
-| Haikyo | 80.00% | ~341,661 |
+| Found a Friend | 95.00% | ~405,723 |
+| Haikyo | 80.00% | ~341,662 |
 | Good as New | 72.00% | ~307,495 |
-| Into the Woods | 69.00% | ~294,682 |
+| Into the Woods | 69.00% | ~294,683 |
 | Hunter in the Forest | 60.00% | ~256,246 |
 | Rot Commander | 60.00% | ~256,246 |
 | Taro's Fear | 56.00% | ~239,163 |
 | Between the Eyes | 46.00% | ~196,455 |
-| Taro's Love | 45.00% | ~192,184 |
+| Taro's Love | 45.00% | ~192,185 |
 | Taro's Regret | 43.00% | ~183,643 |
 | Spirit Guide | 42.00% | ~179,372 |
 | Harness Your Power | 38.00% | ~162,289 |
 | The Open Range | 37.00% | ~158,018 |
 | Adira's Love | 34.00% | ~145,206 |
-| Adira's Fear | 32.00% | ~136,664 |
+| Adira's Fear | 32.00% | ~136,665 |
 | Weigh Them Down | 31.00% | ~132,394 |
 | Adira's Regret | 31.00% | ~132,394 |
 | A Heavy Hammer | 30.00% | ~128,123 |
@@ -34,7 +34,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Lonely Path | 26.00% | ~111,040 |
 | Restore Balance | 25.00% | ~106,769 |
 | Say Cheese | 16.00% | ~68,332 |
-| Skillful Spirit Guide | 15.00% | ~64,061 |
+| Skillful Spirit Guide | 15.00% | ~64,062 |
 | Piercing Blow | 14.00% | ~59,791 |
 | Zen Master | 8.00% | ~34,166 |
 | Curse Collector | 7.00% | ~29,895 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,844 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,076 (Ranked 38)  
+Progressed: 427,077 (Ranked 38)  
 Completed: 523 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 523 (0.12%) (Ranked 188)
 | 2023-07-26 | 427,012 | 521 |
 | 2023-07-27 | 427,034 | 522 |
 | 2023-07-28 | 427,054 | 522 |
-| 2023-07-29 | 427,076 | 523 |
+| 2023-07-29 | 427,077 | 523 |
 ## Awards
 Max (Great Boss Battles): 1,309  (Ranked 129)  
 Sum: 1,685 (Ranked 207)  

@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 170,
-  "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 261,
+  "Ranking_Popularity": 312,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -834,12 +834,18 @@
       "Rating": 4.72,
       "NumberOfAwards": 770,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-07-29T16:59:48.8517384+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 892,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 770,
-  "NumberOfAwardsMax": 117,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 892,
+  "NumberOfAwardsMax": 122,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -905,12 +911,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 119
+      "Count": 122
     }
   ],
-  "EOS_Progressed": 8032,
+  "EOS_Progressed": 8033,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3918,6 +3924,11 @@
       "Time": "2023-07-29T15:05:18.3302187+00:00",
       "NumProgressed": 8032,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-29T17:05:33.969942+00:00",
+      "NumProgressed": 8033,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3929,7 +3940,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "Chatterbox",
@@ -3953,7 +3964,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3961,7 +3972,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "DwarfChandelier",
@@ -3993,7 +4004,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4049,7 +4060,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "SavedElderEnt",
@@ -4057,7 +4068,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4089,7 +4100,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4097,7 +4108,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4113,22 +4124,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6747
+      "UsersEstimate": 6748
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8032,
+      "Progressed": 8033,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-07-29T08:59:09.8073642+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:05:49.1773817+00:00",
+  "LastChanged": "2023-07-29T16:59:48.8517381+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:05:33.9699414+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:00:01.9732009+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:05:49.177443+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:59:48.8517388+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:05:33.9699773+00:00"
 }

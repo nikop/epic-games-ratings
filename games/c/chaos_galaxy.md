@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tyrant Rise | 36.00% | ~8 |
+| Honor Medal | 32.00% | ~7 |
 | Great Civil War | 27.00% | ~6 |
-| Honor Medal | 27.00% | ~6 |
 | Assassination | 23.00% | ~5 |
 | Princess Crowned | 14.00% | ~3 |
 | Secret War | 14.00% | ~3 |

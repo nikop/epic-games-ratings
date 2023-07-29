@@ -12,9 +12,9 @@
 | Dinner Dash | 38.00% | ~109 |
 | Need a Consult | 35.00% | ~100 |
 | It's Technical | 35.00% | ~100 |
-| Upgrade Unlock | 34.00% | ~97 |
-| Delegate Maintenance | 33.00% | ~94 |
-| Proper Walls | 31.00% | ~89 |
+| Upgrade Unlock | 33.00% | ~95 |
+| Proper Walls | 32.00% | ~92 |
+| Delegate Maintenance | 32.00% | ~92 |
 | Destination Destiny | 29.00% | ~83 |
 | Happy Tenants | 25.00% | ~72 |
 | Smooth Service | 24.00% | ~69 |
@@ -27,10 +27,10 @@
 | Leveled Up Shops | 21.00% | ~60 |
 | Emporium Empire | 20.00% | ~57 |
 | Get Electrified | 20.00% | ~57 |
-| Artfully Done | 19.00% | ~54 |
-| We Don't Need No Education | 19.00% | ~54 |
-| Rehab Expert | 18.00% | ~51 |
-| Tasty Profits | 18.00% | ~51 |
+| Artfully Done | 19.00% | ~55 |
+| We Don't Need No Education | 19.00% | ~55 |
+| Rehab Expert | 18.00% | ~52 |
+| Tasty Profits | 18.00% | ~52 |
 | Established Fame | 16.00% | ~46 |
 | Cashflow Chief | 16.00% | ~46 |
 | Under One Roof | 15.00% | ~43 |
@@ -39,8 +39,8 @@
 | Smooth Operator | 13.00% | ~37 |
 | Boutique Benefits | 13.00% | ~37 |
 | Thrilled Tenants | 13.00% | ~37 |
-| 28 Days Later | 11.00% | ~31 |
-| Swimming in Surplus | 11.00% | ~31 |
+| 28 Days Later | 11.00% | ~32 |
+| Swimming in Surplus | 11.00% | ~32 |
 | Plaza Plan | 9.00% | ~26 |
 | Master of Puppets | 9.00% | ~26 |
 | Refined Palates | 9.00% | ~26 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 255)  
+Progressed: 287 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 270 | 0 |
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
-| 2023-07-29 | 286 | 0 |
+| 2023-07-29 | 287 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

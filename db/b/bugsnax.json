@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -701,9 +701,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28037,
+  "EOS_Progressed": 28038,
   "EOS_Completed": 1316,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.69,
   "EosHistory": [
@@ -3886,6 +3886,11 @@
       "Time": "2023-07-29T16:06:39.2146452+00:00",
       "NumProgressed": 28037,
       "NumCompleted": 1316
+    },
+    {
+      "Time": "2023-07-29T17:06:24.6283225+00:00",
+      "NumProgressed": 28038,
+      "NumCompleted": 1316
     }
   ],
   "TotalAchievements": 30,
@@ -3953,7 +3958,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18504
+      "UsersEstimate": 18505
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -3961,7 +3966,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21588
+      "UsersEstimate": 21589
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -3993,7 +3998,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27196
+      "UsersEstimate": 27197
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -4049,7 +4054,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14579
+      "UsersEstimate": 14580
     },
     {
       "ID": "ACH_PUZZLE",
@@ -4089,7 +4094,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26074
+      "UsersEstimate": 26075
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -4103,9 +4108,9 @@
       "ID": "ACH_SUNDAE",
       "SetID": "2m0copd",
       "Name": "Sundae Best",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3645
     },
     {
       "ID": "ACH_TRANSFORM_GRAMBLE",
@@ -4113,7 +4118,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10093
+      "UsersEstimate": 10094
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -4129,22 +4134,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24392
+      "UsersEstimate": 24393
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28037,
+      "Progressed": 28038,
       "Completed": 1316
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-28T22:01:22.7366365+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:06:39.2146443+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:06:24.6283217+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:42.6231298+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:00:53.9824654+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:06:39.2147192+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:00:39.3495829+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:06:24.6283696+00:00"
 }

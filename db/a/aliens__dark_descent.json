@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3390,9 +3390,9 @@
       "ID": "ACH_FINISH_MEDIUM",
       "SetID": "816efe",
       "Name": "This Went Smoothly",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -3630,9 +3630,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1687
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3679,8 +3679,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-29T08:00:28.7047826+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:03:24.9538459+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:03:09.4096946+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:00:17.5530604+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:03:24.9539033+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:00:05.235239+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:03:09.4097501+00:00"
 }

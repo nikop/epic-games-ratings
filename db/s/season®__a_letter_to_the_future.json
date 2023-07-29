@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,10 +26,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 12,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
@@ -1946,6 +1946,11 @@
       "Time": "2023-07-29T10:06:55.532787+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-29T17:07:15.5822212+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 16,
@@ -1997,7 +2002,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -2005,7 +2010,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2013,7 +2018,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2021,7 +2026,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2084,7 +2089,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1162,
       "Completed": 46
     }
   ],
@@ -2092,8 +2097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-29T16:07:29.6937471+00:00",
+  "LastChanged_Achievements": "2023-07-29T17:07:15.5822207+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5227526+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:59:27.3592422+00:00",
-  "LastUpdate_Achievements": "2023-07-29T16:07:29.6937825+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:59:11.7426607+00:00",
+  "LastUpdate_Achievements": "2023-07-29T17:07:15.5822448+00:00"
 }
