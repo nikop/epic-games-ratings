@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~41,000 |
-| Worth it | 63.00% | ~33,546 |
-| Eagle Eye | 55.00% | ~29,286 |
-| Corpseman I | 40.00% | ~21,299 |
-| Blast fishing | 37.00% | ~19,701 |
-| Not alone | 32.00% | ~17,039 |
-| Headhunter I | 26.00% | ~13,844 |
-| Manual Labour I | 25.00% | ~13,312 |
-| Developers, Developers, Developers | 24.00% | ~12,779 |
-| Basic Training | 24.00% | ~12,779 |
-| Furchtlos und Treu | 13.00% | ~6,922 |
+| Setting an example | 77.00% | ~41,005 |
+| Worth it | 63.00% | ~33,549 |
+| Eagle Eye | 55.00% | ~29,289 |
+| Corpseman I | 40.00% | ~21,301 |
+| Blast fishing | 37.00% | ~19,704 |
+| Not alone | 32.00% | ~17,041 |
+| Headhunter I | 26.00% | ~13,846 |
+| Manual Labour I | 25.00% | ~13,313 |
+| Developers, Developers, Developers | 24.00% | ~12,781 |
+| Basic Training | 24.00% | ~12,781 |
+| Furchtlos und Treu | 13.00% | ~6,923 |
 | Gott Mit Uns | 12.00% | ~6,390 |
-| This We'll Defend! | 9.00% | ~4,792 |
-| Anker wirf! | 9.00% | ~4,792 |
-| Providentiea Memor | 9.00% | ~4,792 |
-| For King and Country | 9.00% | ~4,792 |
+| This We'll Defend! | 9.00% | ~4,793 |
+| Anker wirf! | 9.00% | ~4,793 |
+| Providentiea Memor | 9.00% | ~4,793 |
+| For King and Country | 9.00% | ~4,793 |
 | Battle hardened | 8.00% | ~4,260 |
-| Semper Fidelis! | 7.00% | ~3,727 |
-| Honneur et Patrie | 7.00% | ~3,727 |
-| In Treue Fest | 5.00% | ~2,662 |
-| Voor De Koning | 5.00% | ~2,662 |
-| Extreme Headhunter | 5.00% | ~2,662 |
+| Semper Fidelis! | 7.00% | ~3,728 |
+| Honneur et Patrie | 7.00% | ~3,728 |
+| In Treue Fest | 5.00% | ~2,663 |
+| Voor De Koning | 5.00% | ~2,663 |
+| Extreme Headhunter | 5.00% | ~2,663 |
 | Advance Australia | 4.00% | ~2,130 |
 | We Stand on Guard | 4.00% | ~2,130 |
 | Sidi Brahim | 4.00% | ~2,130 |
@@ -35,26 +35,26 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,130 |
 | Corpseman II | 4.00% | ~2,130 |
 | Manual Labour II | 4.00% | ~2,130 |
-| Offense is the best defence | 3.00% | ~1,597 |
-| There is no I in team | 3.00% | ~1,597 |
-| Veteran | 3.00% | ~1,597 |
-| In My Defens God Me Defend | 3.00% | ~1,597 |
-| Silver x100 | 3.00% | ~1,597 |
-| Impavidum Ferient Bella! | 3.00% | ~1,597 |
+| Offense is the best defence | 3.00% | ~1,598 |
+| There is no I in team | 3.00% | ~1,598 |
+| Veteran | 3.00% | ~1,598 |
+| In My Defens God Me Defend | 3.00% | ~1,598 |
+| Silver x100 | 3.00% | ~1,598 |
+| Impavidum Ferient Bella! | 3.00% | ~1,598 |
 | Bronze x100 | 2.00% | ~1,065 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,065 |
-| Gold x100 | 1.00% | ~532 |
-| Hunting the Hun | 1.00% | ~532 |
-| #1 | 1.00% | ~532 |
-| Golden Headhunter | 1.00% | ~532 |
-| That's another one down! | 1.00% | ~532 |
-| Do you even die? | 1.00% | ~532 |
-| Headhunter II | 1.00% | ~532 |
-| Corpseman III | 1.00% | ~532 |
+| Gold x100 | 1.00% | ~533 |
+| Hunting the Hun | 1.00% | ~533 |
+| #1 | 1.00% | ~533 |
+| Golden Headhunter | 1.00% | ~533 |
+| That's another one down! | 1.00% | ~533 |
+| Do you even die? | 1.00% | ~533 |
+| Headhunter II | 1.00% | ~533 |
+| Corpseman III | 1.00% | ~533 |
 | Elite Player | 0.80% | ~426 |
 | Manual Labour III | 0.30% | ~160 |
-| War is better with friends II | 0.20% | ~106 |
-| Buddy | 0.20% | ~106 |
+| War is better with friends II | 0.20% | ~107 |
+| Buddy | 0.20% | ~107 |
 | Gold Collector | 0.10% | ~53 |
 | Gold Hoarder | 0.10% | ~53 |
 | Silver Collector | 0.10% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~53 |
 | Blood Brother | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,247 (Ranked 88)  
+Progressed: 53,253 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-26 | 52,871 | 4 |
 | 2023-07-27 | 52,967 | 4 |
 | 2023-07-28 | 53,111 | 4 |
-| 2023-07-29 | 53,247 | 4 |
+| 2023-07-29 | 53,253 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 339)  
 Sum: 759 (Ranked 262)  

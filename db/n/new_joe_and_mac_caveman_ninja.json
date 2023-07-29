@@ -342,9 +342,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "07",
@@ -414,9 +414,9 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:04:09.4937488+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:03:52.8170361+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:58:38.8220798+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:04:09.493763+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:58:10.1412723+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:03:52.8170459+00:00"
 }

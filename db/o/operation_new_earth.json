@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2396,6 +2396,11 @@
       "Time": "2023-07-29T22:06:24.8123541+00:00",
       "NumProgressed": 693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T23:05:40.1889601+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2471,7 +2476,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2543,7 +2548,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2653,9 +2658,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -2710,14 +2715,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:06:24.8123533+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:05:40.1889596+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:57:14.6327367+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:06:24.8124295+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:57:03.9069481+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:05:40.1889904+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 72.00% | ~5,577 |
-| Photographer | 70.00% | ~5,422 |
-| Valley's Helper | 65.00% | ~5,035 |
-| Constructor | 54.00% | ~4,183 |
-| Renovator | 53.00% | ~4,105 |
-| Bestest Friend | 50.00% | ~3,873 |
-| Banker | 41.00% | ~3,176 |
-| Gardener | 33.00% | ~2,556 |
-| Generous | 24.00% | ~1,859 |
-| Chef Cook | 18.00% | ~1,394 |
+| Goofy's Investor | 72.00% | ~5,579 |
+| Photographer | 70.00% | ~5,424 |
+| Valley's Helper | 65.00% | ~5,037 |
+| Constructor | 54.00% | ~4,184 |
+| Renovator | 53.00% | ~4,107 |
+| Bestest Friend | 50.00% | ~3,874 |
+| Banker | 41.00% | ~3,177 |
+| Gardener | 33.00% | ~2,557 |
+| Generous | 24.00% | ~1,860 |
+| Chef Cook | 18.00% | ~1,395 |
 | Miner | 9.00% | ~697 |
 | Duty Bound | 6.00% | ~465 |
 | Angler | 5.00% | ~387 |
 | Thorn Cleaner | 4.00% | ~310 |
 | Chit Chatter | 3.00% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,746 (Ranked 128)  
-Completed: 184 (2.38%) (Ranked 79)  
+Progressed: 7,749 (Ranked 128)  
+Completed: 184 (2.37%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,21 +73,21 @@ Completed: 184 (2.38%) (Ranked 79)
 | 2023-07-26 | 7,505 | 179 |
 | 2023-07-27 | 7,567 | 180 |
 | 2023-07-28 | 7,650 | 183 |
-| 2023-07-29 | 7,746 | 184 |
+| 2023-07-29 | 7,749 | 184 |
 ## Awards
 Max (Great for Beginners): 911  (Ranked 148)  
-Sum: 7,343 (Ranked 106)  
+Sum: 7,346 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 911 |
-| This game has Diverse Characters | 788 |
+| This game has Diverse Characters | 789 |
 | This game is Relaxing | 786 |
 | This game is Highly Recommended | 779 |
 | This game has Amazing Characters | 775 |
-| This game has Amazing Storytelling | 747 |
+| This game has Amazing Storytelling | 748 |
 | This game has Quickly Understood Controls | 731 |
-| This game is Extremely Fun | 727 |
+| This game is Extremely Fun | 728 |
 | This game has a Creative Community | 611 |
 | This game has Easy Combat | 488 |
 | This game has Obsessive Gameplay | 415 |
@@ -235,4 +235,4 @@ Diff (max vs sum): 42
 | 2023-07-26 | 4.75 | - | 908 | 7,333 |
 | 2023-07-27 | 4.75 | - | 910 | 7,338 |
 | 2023-07-28 | 4.76 | - | 910 | 7,342 |
-| 2023-07-29 | 4.76 | - | 911 | 7,343 |
+| 2023-07-29 | 4.76 | - | 911 | 7,346 |

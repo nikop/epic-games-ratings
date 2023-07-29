@@ -10,13 +10,13 @@
 | In the treetops. | 20.00% | ~41 |
 | At the top of the mountain. | 18.00% | ~37 |
 | Aggressive rocks. | 18.00% | ~37 |
-| Dino Ride. | 15.00% | ~31 |
+| Dino Ride. | 16.00% | ~33 |
 | Rocky fall. | 12.00% | ~25 |
 | In the heart of the volcano. | 11.00% | ~23 |
 | Dinosaur graveyard. | 10.00% | ~20 |
 | Swimming on a dino's back. | 9.00% | ~18 |
+| The entrails of the beast. | 8.00% | ~16 |
 | The mountain of peril. | 7.00% | ~14 |
-| The entrails of the beast. | 7.00% | ~14 |
 | Passing the carcass. | 5.00% | ~10 |
 | Lightning swamp. | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

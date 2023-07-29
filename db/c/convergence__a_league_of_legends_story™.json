@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1845,6 +1845,11 @@
       "Time": "2023-07-29T21:04:21.4207005+00:00",
       "NumProgressed": 802,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T23:04:11.7172934+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1976,7 +1981,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2016,7 +2021,7 @@
       "Name": "Rail Rat",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "HexlockGift",
@@ -2144,7 +2149,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "RewindParry",
@@ -2232,7 +2237,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "WarwickDefeated",
@@ -2279,7 +2284,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 4
     }
   ],
@@ -2287,8 +2292,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:04:32.9486115+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:04:11.7172931+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:00:32.8426442+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:04:32.9487164+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:59:40.3142977+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:04:11.7173274+00:00"
 }

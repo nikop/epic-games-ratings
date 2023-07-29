@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 879)  
+Rating: 4.13 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 879)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,371 (Ranked 92)  
+Progressed: 39,372 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,14 +159,14 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-26 | 39,275 | 3 |
 | 2023-07-27 | 39,308 | 3 |
 | 2023-07-28 | 39,336 | 3 |
-| 2023-07-29 | 39,371 | 3 |
+| 2023-07-29 | 39,372 | 3 |
 ## Awards
-Max (Character Customization): 21  (Ranked 495)  
-Sum: 21 (Ranked 495)  
-Diff (max vs sum): 0  
+Max (Character Customization): 22  (Ranked 489)  
+Sum: 22 (Ranked 491)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21 |
+| This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -223,4 +223,4 @@ Diff (max vs sum): 0
 | 2023-06-24 | 4.15 | 20 | 20 |
 | 2023-07-01 | 4.14 | 20 | 20 |
 | 2023-07-17 | 4.14 | 21 | 21 |
-| 2023-07-29 | 4.15 | 21 | 21 |
+| 2023-07-29 | 4.15 | 22 | 22 |

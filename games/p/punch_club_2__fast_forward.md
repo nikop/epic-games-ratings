@@ -15,7 +15,7 @@
 | Depressed visitor | 75.00% | ~134 |
 | Neurotrainer – power gainer! | 75.00% | ~134 |
 | Employee of the week | 75.00% | ~134 |
-| Your own amateur gym | 72.00% | ~128 |
+| Your own amateur gym | 73.00% | ~130 |
 | Run K, run! | 71.00% | ~126 |
 | No bullying more | 66.00% | ~117 |
 | Hello, world! | 66.00% | ~117 |
@@ -43,8 +43,8 @@
 | Fight is life | 38.00% | ~68 |
 | Mysterious voice | 38.00% | ~68 |
 | Responsible approach | 34.00% | ~61 |
+| GYM professional | 33.00% | ~59 |
 | Get out of my apartment! | 33.00% | ~59 |
-| GYM professional | 32.00% | ~57 |
 | Underground dwellers | 32.00% | ~57 |
 | Deal with life | 31.00% | ~55 |
 | Champion – no way back | 31.00% | ~55 |
@@ -56,18 +56,18 @@
 | Gang wrangler | 28.00% | ~50 |
 | The last bell ring | 28.00% | ~50 |
 | Problems of cyborgs | 27.00% | ~48 |
+| Absolute Champion! | 26.00% | ~46 |
 | Careerist | 26.00% | ~46 |
 | Anyone can resist | 26.00% | ~46 |
 | Trap disarmed | 25.00% | ~44 |
 | Another world | 25.00% | ~44 |
+| The lonesome road | 25.00% | ~44 |
 | Keep nature safe | 25.00% | ~44 |
-| Absolute Champion! | 25.00% | ~44 |
-| The lonesome road | 24.00% | ~43 |
+| Key memories | 25.00% | ~44 |
+| Not little hacker | 25.00% | ~44 |
+| The heart of the Resistance | 25.00% | ~44 |
 | Family comes first | 24.00% | ~43 |
-| Key memories | 24.00% | ~43 |
-| Not little hacker | 24.00% | ~43 |
-| The heart of the Resistance | 24.00% | ~43 |
-| Silver’s past | 21.00% | ~37 |
+| Silver’s past | 22.00% | ~39 |
 | Better cooking at home | 21.00% | ~37 |
 | The only right decision | 21.00% | ~37 |
 ## Popularity (Based on EOS Achievements)

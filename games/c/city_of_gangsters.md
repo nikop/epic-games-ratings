@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 809)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,409 |
+| Corner Clout | 46.00% | ~153,411 |
 | Copacetic Coordination | 16.00% | ~53,360 |
 | Fronting the Money | 14.00% | ~46,690 |
 | The Dawn of Automation | 14.00% | ~46,690 |
@@ -59,34 +59,34 @@ Rating: 4.26 (Ranked 809)
 | Full House | 1.00% | ~3,335 |
 | The Rubber Meets the Road | 1.00% | ~3,335 |
 | Cat’s Meow Clubs | 1.00% | ~3,335 |
-| Determined Deliveries | 0.90% | ~3,001 |
-| Stepping It Up | 0.90% | ~3,001 |
+| Determined Deliveries | 0.90% | ~3,002 |
+| Stepping It Up | 0.90% | ~3,002 |
 | Crossing Over | 0.80% | ~2,668 |
-| Boots in the Ground | 0.70% | ~2,334 |
-| Getting Fancy | 0.70% | ~2,334 |
+| Boots in the Ground | 0.70% | ~2,335 |
+| Getting Fancy | 0.70% | ~2,335 |
 | Homemade Hooch | 0.40% | ~1,334 |
 | Still Dreaming | 0.40% | ~1,334 |
 | High End Booze | 0.40% | ~1,334 |
 | Working on the Railroad | 0.40% | ~1,334 |
 | Social Butterfly | 0.40% | ~1,334 |
-| Bottled Up | 0.30% | ~1,000 |
-| Streetwise | 0.30% | ~1,000 |
-| In-House Maintenance | 0.30% | ~1,000 |
+| Bottled Up | 0.30% | ~1,001 |
+| Streetwise | 0.30% | ~1,001 |
+| In-House Maintenance | 0.30% | ~1,001 |
 | Dirty Work | 0.20% | ~667 |
 | Balkan Firewater | 0.20% | ~667 |
-| Windy City Win | 0.10% | ~333 |
-| Steeling Victory | 0.10% | ~333 |
-| Queen of the City | 0.10% | ~333 |
-| Vehicles to Victory | 0.10% | ~333 |
-| Putting on the Ritz | 0.10% | ~333 |
-| Bourbon Barrels | 0.10% | ~333 |
-| Tied Houses | 0.10% | ~333 |
-| Laying Low | 0.10% | ~333 |
-| No Applesauce | 0.10% | ~333 |
-| High Pillow | 0.10% | ~333 |
-| Station Master | 0.10% | ~333 |
+| Windy City Win | 0.10% | ~334 |
+| Steeling Victory | 0.10% | ~334 |
+| Queen of the City | 0.10% | ~334 |
+| Vehicles to Victory | 0.10% | ~334 |
+| Putting on the Ritz | 0.10% | ~334 |
+| Bourbon Barrels | 0.10% | ~334 |
+| Tied Houses | 0.10% | ~334 |
+| Laying Low | 0.10% | ~334 |
+| No Applesauce | 0.10% | ~334 |
+| High Pillow | 0.10% | ~334 |
+| Station Master | 0.10% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,498 (Ranked 41)  
+Progressed: 333,503 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,16 +186,16 @@ Completed: 5 (0.00%) (Ranked 246)
 | 2023-07-26 | 332,718 | 5 |
 | 2023-07-27 | 332,959 | 5 |
 | 2023-07-28 | 333,213 | 5 |
-| 2023-07-29 | 333,498 | 5 |
+| 2023-07-29 | 333,503 | 5 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 464)  
-Sum: 123 (Ranked 401)  
+Sum: 124 (Ranked 401)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 28 |
 | This game is Relaxing | 27 |
-| This game is Extremely Fun | 24 |
+| This game is Extremely Fun | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Easy Combat | 21 |
 ## Ratings History
@@ -261,4 +261,4 @@ Diff (max vs sum): 63
 | 2023-07-14 | 4.26 | 27 | 120 |
 | 2023-07-20 | 4.26 | 27 | 121 |
 | 2023-07-23 | 4.26 | 27 | 122 |
-| 2023-07-29 | 4.26 | 28 | 123 |
+| 2023-07-29 | 4.26 | 28 | 124 |

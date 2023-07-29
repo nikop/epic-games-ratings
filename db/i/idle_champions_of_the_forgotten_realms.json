@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5318,11 +5318,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30793,
       "NumberOfAwardsMax": 5093
+    },
+    {
+      "Time": "2023-07-29T22:58:36.5097047+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30800,
+      "NumberOfAwardsMax": 5100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30793,
-  "NumberOfAwardsMax": 5093,
+  "NumberOfAwards": 30800,
+  "NumberOfAwardsMax": 5100,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5335,7 +5341,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5093
+      "Count": 5100
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5368,11 +5374,11 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216850,
+  "EOS_Progressed": 216865,
   "EOS_Completed": 2136,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 76,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -16153,6 +16159,11 @@
       "Time": "2023-07-29T22:04:00.6681991+00:00",
       "NumProgressed": 216850,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-07-29T23:03:46.1495337+00:00",
+      "NumProgressed": 216865,
+      "NumCompleted": 2136
     }
   ],
   "TotalAchievements": 512,
@@ -16178,9 +16189,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1301
     },
     {
       "ID": "objective_completed_101",
@@ -16300,7 +16311,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "objective_completed_1061",
@@ -16468,7 +16479,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "objective_completed_1090",
@@ -16724,7 +16735,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "objective_completed_1142",
@@ -20196,7 +20207,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "objective_completed_1380",
@@ -20212,7 +20223,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "objective_completed_1385",
@@ -20252,28 +20263,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183124,
+      "Progressed": 183139,
       "Completed": 3026
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216850,
+      "Progressed": 216865,
       "Completed": 2136
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-29T13:00:35.9680653+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:04:00.6681984+00:00",
+  "LastChanged": "2023-07-29T22:58:36.5097045+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:03:46.1495331+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:59:10.0502979+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:04:00.6713947+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:58:36.5097052+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:03:46.1523456+00:00"
 }

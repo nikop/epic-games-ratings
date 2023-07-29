@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.30% | ~39 |
 | Sages | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
+| Traders | 0.30% | ~39 |
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Temple of Solomon | 0.30% | ~39 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.20% | ~26 |
 | Landowners | 0.20% | ~26 |
 | Riders | 0.20% | ~26 |
-| Traders | 0.20% | ~26 |
 | Hittite Iron | 0.20% | ~26 |
 | Circus Maximus | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |

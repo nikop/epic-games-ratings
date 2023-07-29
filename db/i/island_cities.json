@@ -2071,9 +2071,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 237
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_005",
@@ -2232,8 +2232,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:04:03.3130427+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:03:47.9730392+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:59:03.5541281+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:04:03.3130727+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:58:31.7855906+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:03:47.9730662+00:00"
 }

@@ -17,10 +17,10 @@
 | Infantry Reporting | 11.00% | ~76 |
 | Keeping Busy | 10.00% | ~69 |
 | Fighting for Survival | 9.00% | ~62 |
-| Silver Competitor | 8.00% | ~55 |
-| Captain | 8.00% | ~55 |
-| Factory Expansion | 8.00% | ~55 |
+| Silver Competitor | 8.00% | ~56 |
+| Captain | 8.00% | ~56 |
 | Exterminator | 7.00% | ~49 |
+| Factory Expansion | 7.00% | ~49 |
 | Brothers in Arms | 6.00% | ~42 |
 | Know The Enemy | 4.00% | ~28 |
 | Player Betrayer | 4.00% | ~28 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 206)  
+Progressed: 694 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 641 | 0 |
 | 2023-07-27 | 659 | 0 |
 | 2023-07-28 | 674 | 0 |
-| 2023-07-29 | 693 | 0 |
+| 2023-07-29 | 694 | 0 |

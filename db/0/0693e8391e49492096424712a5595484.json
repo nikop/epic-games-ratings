@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 254,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 126,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.12,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 5.51,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -901,6 +901,11 @@
       "Time": "2023-07-29T19:06:04.8167786+00:00",
       "NumProgressed": 254,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-29T23:05:53.1995761+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 45,
@@ -1222,9 +1227,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1272,13 +1277,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 254,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:06:41.4789201+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:05:53.1995756+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:57:38.1596507+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:06:41.478995+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:57:24.0156863+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:05:53.1996088+00:00"
 }

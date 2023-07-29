@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.95,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-07-29T20:02:24.2937492+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-29T23:00:59.8555235+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 11,
@@ -1854,7 +1859,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1902,7 +1907,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1925,15 +1930,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1313,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-29T22:02:11.6753047+00:00",
+  "LastChanged_Achievements": "2023-07-29T23:00:59.8555231+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.8120898+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:01:22.5233686+00:00",
-  "LastUpdate_Achievements": "2023-07-29T22:02:11.6753274+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:00:21.9606514+00:00",
+  "LastUpdate_Achievements": "2023-07-29T23:00:59.8555369+00:00"
 }
