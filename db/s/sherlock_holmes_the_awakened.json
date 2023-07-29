@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2133,17 +2133,17 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "MQ08_3",
@@ -2174,8 +2174,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:06:11.4393792+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:07:18.6354646+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:07.2932917+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:57:45.1154305+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:06:11.439409+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:58:12.4572739+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:07:18.6354971+00:00"
 }

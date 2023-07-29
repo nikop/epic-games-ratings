@@ -5344,9 +5344,9 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216508,
+  "EOS_Progressed": 216522,
   "EOS_Completed": 2133,
-  "EOS_NewPlayers": 2251,
+  "EOS_NewPlayers": 2254,
   "EOS_NewCompleters": 73,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16014,6 +16014,11 @@
       "Time": "2023-07-28T23:03:14.6520692+00:00",
       "NumProgressed": 216508,
       "NumCompleted": 2133
+    },
+    {
+      "Time": "2023-07-29T00:03:49.0785087+00:00",
+      "NumProgressed": 216522,
+      "NumCompleted": 2133
     }
   ],
   "TotalAchievements": 512,
@@ -16025,7 +16030,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "objective_completed_10",
@@ -16097,7 +16102,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "objective_completed_1051",
@@ -16729,7 +16734,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "objective_completed_1169",
@@ -17127,9 +17132,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 1083
     },
     {
       "ID": "objective_completed_149",
@@ -18447,9 +18452,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 433
     },
     {
       "ID": "objective_completed_581",
@@ -20097,7 +20102,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "objective_completed_1391",
@@ -20120,21 +20125,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182782,
+      "Progressed": 182796,
       "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216508,
+      "Progressed": 216522,
       "Completed": 2133
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T20:59:03.9351357+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:03:14.6520683+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:03:49.078508+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:58:34.2959544+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:03:14.6548181+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:59:11.974948+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:03:49.0816779+00:00"
 }

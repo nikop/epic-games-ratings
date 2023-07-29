@@ -6,39 +6,39 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~27,169 |
-| Just The Two of Us | 32.00% | ~25,571 |
-| Up On High | 25.00% | ~19,977 |
-| Under The Hood | 25.00% | ~19,977 |
-| Got Your Nose | 24.00% | ~19,178 |
-| The Gift of Gab | 24.00% | ~19,178 |
-| Wrapping Up | 22.00% | ~17,580 |
-| More Than A Box Of Sand | 18.00% | ~14,384 |
-| The Dunboyne | 17.00% | ~13,585 |
-| Badge Hobbyist | 17.00% | ~13,585 |
-| Chum Novice | 16.00% | ~12,785 |
-| Silver-Tongued Sable | 16.00% | ~12,785 |
-| Sticky Paws | 16.00% | ~12,785 |
-| Bubble Up | 16.00% | ~12,785 |
-| Thread The Needle | 15.00% | ~11,986 |
-| Power to the People | 14.00% | ~11,187 |
-| Take That! | 13.00% | ~10,388 |
-| Nesting Giant | 13.00% | ~10,388 |
-| Treasure Tracker | 13.00% | ~10,388 |
-| Big Spender | 13.00% | ~10,388 |
-| Badge Collector | 12.00% | ~9,589 |
-| Quite The Catch | 12.00% | ~9,589 |
-| Rowleys Way | 11.00% | ~8,790 |
-| The Machinist Mask | 10.00% | ~7,991 |
-| The Cartographer Mask | 10.00% | ~7,991 |
-| Balfron Connection | 10.00% | ~7,991 |
-| Ceiling Of Stars | 10.00% | ~7,991 |
-| Playing Dress Up | 10.00% | ~7,991 |
-| Many Different Faces | 9.00% | ~7,192 |
-| Trellick's Pillar | 9.00% | ~7,192 |
-| Centre Of Brunswick | 9.00% | ~7,192 |
-| Bike Collector | 9.00% | ~7,192 |
-| Not That Kind Of Gliding | 9.00% | ~7,192 |
+| Simoon | 34.00% | ~27,172 |
+| Just The Two of Us | 32.00% | ~25,574 |
+| Up On High | 25.00% | ~19,980 |
+| Under The Hood | 25.00% | ~19,980 |
+| Got Your Nose | 24.00% | ~19,180 |
+| The Gift of Gab | 24.00% | ~19,180 |
+| Wrapping Up | 22.00% | ~17,582 |
+| More Than A Box Of Sand | 18.00% | ~14,385 |
+| The Dunboyne | 17.00% | ~13,586 |
+| Badge Hobbyist | 17.00% | ~13,586 |
+| Chum Novice | 16.00% | ~12,787 |
+| Silver-Tongued Sable | 16.00% | ~12,787 |
+| Sticky Paws | 16.00% | ~12,787 |
+| Bubble Up | 16.00% | ~12,787 |
+| Thread The Needle | 15.00% | ~11,988 |
+| Power to the People | 14.00% | ~11,189 |
+| Take That! | 13.00% | ~10,389 |
+| Nesting Giant | 13.00% | ~10,389 |
+| Treasure Tracker | 13.00% | ~10,389 |
+| Big Spender | 13.00% | ~10,389 |
+| Badge Collector | 12.00% | ~9,590 |
+| Quite The Catch | 12.00% | ~9,590 |
+| Rowleys Way | 11.00% | ~8,791 |
+| The Machinist Mask | 10.00% | ~7,992 |
+| The Cartographer Mask | 10.00% | ~7,992 |
+| Balfron Connection | 10.00% | ~7,992 |
+| Ceiling Of Stars | 10.00% | ~7,992 |
+| Playing Dress Up | 10.00% | ~7,992 |
+| Many Different Faces | 9.00% | ~7,193 |
+| Trellick's Pillar | 9.00% | ~7,193 |
+| Centre Of Brunswick | 9.00% | ~7,193 |
+| Bike Collector | 9.00% | ~7,193 |
+| Not That Kind Of Gliding | 9.00% | ~7,193 |
 | The Scrapper Mask | 8.00% | ~6,393 |
 | Shadow Of Neave | 8.00% | ~6,393 |
 | Fragile Goods | 8.00% | ~6,393 |
@@ -54,17 +54,17 @@ Number of Ratings: 43  (23.09.2022)
 | Honorary Chum | 6.00% | ~4,795 |
 | A Hard Place | 6.00% | ~4,795 |
 | Bikes Don't Fly | 6.00% | ~4,795 |
-| The Entertainer Mask | 5.00% | ~3,995 |
-| The Gliding | 4.00% | ~3,196 |
-| The Quick and the Curious | 4.00% | ~3,196 |
-| Bike Aficionado | 4.00% | ~3,196 |
-| Chum Expert | 3.00% | ~2,397 |
-| Gastric Bypass | 3.00% | ~2,397 |
-| The Angler Mask | 3.00% | ~2,397 |
+| The Entertainer Mask | 5.00% | ~3,996 |
+| The Gliding | 4.00% | ~3,197 |
+| The Quick and the Curious | 4.00% | ~3,197 |
+| Bike Aficionado | 4.00% | ~3,197 |
+| Chum Expert | 3.00% | ~2,398 |
+| Gastric Bypass | 3.00% | ~2,398 |
+| The Angler Mask | 3.00% | ~2,398 |
 | Vivacious Vivarium | 2.00% | ~1,598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,909 (Ranked 72)  
-Completed: 780 (0.98%) (Ranked 113)  
+Progressed: 79,918 (Ranked 72)  
+Completed: 781 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,6 +163,7 @@ Completed: 780 (0.98%) (Ranked 113)
 | 2023-07-26 | 79,454 | 775 |
 | 2023-07-27 | 79,667 | 780 |
 | 2023-07-28 | 79,909 | 780 |
+| 2023-07-29 | 79,918 | 781 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 503)  
 Sum: 20 (Ranked 503)  

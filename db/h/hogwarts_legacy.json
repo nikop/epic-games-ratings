@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5604,10 +5604,10 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288784,
-  "EOS_Completed": 435,
+  "EOS_Progressed": 288788,
+  "EOS_Completed": 436,
   "EOS_NewPlayers": 566,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -16294,6 +16294,11 @@
       "Time": "2023-07-28T23:04:46.8166472+00:00",
       "NumProgressed": 288784,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-07-29T00:05:36.3384177+00:00",
+      "NumProgressed": 288788,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 45,
@@ -16305,7 +16310,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34654
+      "UsersEstimate": 34655
     },
     {
       "ID": "PFA_10",
@@ -16393,7 +16398,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "PFA_20",
@@ -16425,7 +16430,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28878
+      "UsersEstimate": 28879
     },
     {
       "ID": "PFA_24",
@@ -16513,7 +16518,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "PFA_34",
@@ -16585,7 +16590,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "PFA_42",
@@ -16633,7 +16638,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31766
+      "UsersEstimate": 31767
     },
     {
       "ID": "PFA_7",
@@ -16641,7 +16646,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28878
+      "UsersEstimate": 28879
     },
     {
       "ID": "PFA_8",
@@ -16649,7 +16654,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28878
+      "UsersEstimate": 28879
     },
     {
       "ID": "PFA_9",
@@ -16664,16 +16669,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288784,
-      "Completed": 435
+      "Progressed": 288788,
+      "Completed": 436
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-28T19:58:21.9022255+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:04:46.8166465+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:05:36.3384172+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:17.5439052+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:57:53.7036415+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:04:46.8167572+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:58:22.9923227+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:05:36.3385489+00:00"
 }

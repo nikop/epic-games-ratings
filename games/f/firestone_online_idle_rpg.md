@@ -5,10 +5,10 @@ Rating: 4.10 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,610 |
-| World Map | 79.00% | ~1,367 |
-| Temple of Eternals | 56.00% | ~969 |
-| Prestigious | 53.00% | ~917 |
+| Victor | 93.00% | ~1,611 |
+| World Map | 79.00% | ~1,368 |
+| Temple of Eternals | 56.00% | ~970 |
+| Prestigious | 53.00% | ~918 |
 | Fellowship Power | 41.00% | ~710 |
 | Guild Power | 25.00% | ~433 |
 | Prestigious x10 | 21.00% | ~364 |
@@ -27,7 +27,7 @@ Rating: 4.10 (Ranked 892)
 | The Unstoppable | 13.00% | ~225 |
 | Milestone collector | 12.00% | ~208 |
 | Superior | 12.00% | ~208 |
-| Scientist | 11.00% | ~190 |
+| Scientist | 11.00% | ~191 |
 | Challenger | 10.00% | ~173 |
 | Daily Quest Completionist | 10.00% | ~173 |
 | Doing My Part | 10.00% | ~173 |
@@ -39,9 +39,9 @@ Rating: 4.10 (Ranked 892)
 | The power of Awakening | 10.00% | ~173 |
 | Four Leaf Clover | 9.00% | ~156 |
 | Frostfire Liberator | 9.00% | ~156 |
-| Here We Go Again | 8.00% | ~138 |
-| Master Enchanter | 8.00% | ~138 |
-| The father of Dragons | 8.00% | ~138 |
+| Here We Go Again | 8.00% | ~139 |
+| Master Enchanter | 8.00% | ~139 |
+| The father of Dragons | 8.00% | ~139 |
 | Enchanting skill | 7.00% | ~121 |
 | The Expeditioner | 7.00% | ~121 |
 | Trader | 7.00% | ~121 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 892)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,731 (Ranked 171)  
+Progressed: 1,732 (Ranked 171)  
 Completed: 1 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 1 (0.06%) (Ranked 205)
 | 2023-07-26 | 1,719 | 1 |
 | 2023-07-27 | 1,725 | 1 |
 | 2023-07-28 | 1,731 | 1 |
+| 2023-07-29 | 1,732 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

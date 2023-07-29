@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,495 |
+| A Brief Tour of the Realms | 3.00% | ~6,496 |
 | Beast Intentions | 2.00% | ~4,330 |
 | Maddening | 1.00% | ~2,165 |
 | The Silken Swamp | 1.00% | ~2,165 |
@@ -15,9 +15,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.90% | ~1,645 |
 | Vecna Lives! | 0.80% | ~1,462 |
 | Flight of the Kindori Pod | 0.80% | ~1,462 |
-| Tall Tales | 0.70% | ~1,279 |
-| Vecna Loots! | 0.70% | ~1,279 |
-| Topolah's Tower | 0.70% | ~1,279 |
+| Tall Tales | 0.70% | ~1,280 |
+| Vecna Loots! | 0.70% | ~1,280 |
+| Topolah's Tower | 0.70% | ~1,280 |
 | Wet Feet | 0.60% | ~1,299 |
 | Seeds of Destruction | 0.60% | ~1,097 |
 | Return to the Tomb | 0.60% | ~1,097 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.50% | ~914 |
 | Were-verpowered | 0.50% | ~1,083 |
 | A Persistent Buzzing | 0.50% | ~1,083 |
+| Beast Mode | 0.50% | ~1,083 |
 | Terror in the Dark | 0.50% | ~1,083 |
 | A Mysterious Summons | 0.50% | ~1,083 |
 | Building Trust | 0.50% | ~1,083 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.40% | ~731 |
 | Heavy Burden | 0.40% | ~866 |
 | Friends of the Forest | 0.40% | ~866 |
-| Beast Mode | 0.40% | ~866 |
 | Low Initiative | 0.40% | ~866 |
 | Street War | 0.40% | ~866 |
 | March of the Undead | 0.40% | ~866 |
@@ -163,6 +163,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~433 |
 | The Darkness Runs Deeper | 0.20% | ~433 |
 | Difficult Terrain | 0.20% | ~433 |
+| Vault of Dragons | 0.20% | ~433 |
 | Dinosaur Racing | 0.20% | ~433 |
 | Elturel Has Fallen | 0.20% | ~433 |
 | Resolve Amongst Chaos | 0.20% | ~433 |
@@ -357,7 +358,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.10% | ~217 |
 | Madcap Adventures | 0.10% | ~217 |
 | Faerûn's Most Neglected | 0.10% | ~183 |
-| Vault of Dragons | 0.10% | ~217 |
 | Vault of Pixies | 0.10% | ~217 |
 | Vault of Poison | 0.10% | ~217 |
 | Vault of Cuteness | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,508 (Ranked 53)  
+Progressed: 216,522 (Ranked 53)  
 Completed: 2,133 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,6 +619,7 @@ Completed: 2,133 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
+| 2023-07-29 | 216,522 | 2,133 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,775 (Ranked 38)  

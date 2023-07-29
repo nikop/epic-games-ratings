@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -887,9 +887,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "BearPoppiesBroth",
@@ -959,25 +959,25 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 167
     },
     {
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "DwarDevil",
@@ -1135,9 +1135,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 222
     },
     {
       "ID": "RogueKing",
@@ -1222,8 +1222,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:05:49.9057107+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:06:51.8338059+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:57:17.1683249+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:05:49.9057488+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:57:39.5437931+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:06:51.8338807+00:00"
 }

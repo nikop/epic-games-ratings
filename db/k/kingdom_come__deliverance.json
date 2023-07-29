@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
@@ -6222,9 +6222,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794631,
+  "EOS_Progressed": 794633,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16977,6 +16977,11 @@
       "Time": "2023-07-28T23:03:47.3238893+00:00",
       "NumProgressed": 794631,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-29T00:04:42.7382113+00:00",
+      "NumProgressed": 794633,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17076,7 +17081,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 111248
+      "UsersEstimate": 111249
     },
     {
       "ID": "Buddy",
@@ -17188,7 +17193,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182765
+      "UsersEstimate": 182766
     },
     {
       "ID": "Fighter",
@@ -17468,7 +17473,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158926
+      "UsersEstimate": 158927
     },
     {
       "ID": "RevenantOfLedechko",
@@ -17508,7 +17513,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158926
+      "UsersEstimate": 158927
     },
     {
       "ID": "SerialKiller",
@@ -17524,7 +17529,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87409
+      "UsersEstimate": 87410
     },
     {
       "ID": "Sniper",
@@ -17643,15 +17648,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794631,
+      "Progressed": 794633,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-28T20:59:22.6198935+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:03:47.3238887+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:04:42.7382107+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:03.4287749+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:58:50.3600748+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:03:47.3240578+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:59:28.2528903+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:04:42.7383809+00:00"
 }

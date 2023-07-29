@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.50% | ~66 |
 | Roman Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
+| Regicide | 0.40% | ~53 |
 | Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
-| Regicide | 0.30% | ~39 |
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
 | Intercessor | 0.30% | ~39 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
+| One True Faith | 0.20% | ~26 |
 | Power to the People | 0.20% | ~26 |
 | Assyrian Paganism | 0.20% | ~26 |
 | Persian Paganism | 0.20% | ~26 |
@@ -217,7 +218,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
 | Old World Order | 0.10% | ~13 |
-| One True Faith | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |

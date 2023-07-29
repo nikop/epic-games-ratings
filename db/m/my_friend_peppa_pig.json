@@ -2,9 +2,9 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -83,6 +83,11 @@
       "Time": "2023-07-27T06:03:08.0121817+00:00",
       "NumProgressed": 74,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T00:04:26.6376749+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -100,7 +105,7 @@
       "ID": "10",
       "SetID": "5jd5jfm",
       "Name": "Collecting Sticks For the Campfire.",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -108,7 +113,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 80,
       "UsersEstimate": 37
     },
@@ -132,7 +137,7 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -148,7 +153,7 @@
       "ID": "6",
       "SetID": "5jd5jfm",
       "Name": "Rounding Up the Chickens.",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 34
     },
@@ -156,7 +161,7 @@
       "ID": "7",
       "SetID": "5jd5jfm",
       "Name": "Helping Tiddles the Tortoise.",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 80,
       "UsersEstimate": 16
     },
@@ -164,7 +169,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 80,
       "UsersEstimate": 42
     },
@@ -181,7 +186,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 4
     }
   ],
@@ -189,8 +194,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:03:34.2940013+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:04:26.6376741+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.7247026+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:59:44.9026228+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:03:34.2940099+00:00"
+  "LastUpdate_Ratings": "2023-07-29T00:00:32.5968334+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:04:26.6376868+00:00"
 }

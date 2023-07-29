@@ -1,15 +1,15 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.42 (Ranked 663)  
+Rating: 4.43 (Ranked 655)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,682 |
-| Predator I | 22.00% | ~55,839 |
-| Fixer I | 10.00% | ~25,381 |
-| A week in Century City | 10.00% | ~25,381 |
-| The Wait | 7.00% | ~17,767 |
+| Survivor | 31.00% | ~78,685 |
+| Predator I | 22.00% | ~55,841 |
+| Fixer I | 10.00% | ~25,382 |
+| A week in Century City | 10.00% | ~25,382 |
+| The Wait | 7.00% | ~17,768 |
 | Green thumb I | 6.00% | ~15,229 |
 | Cleaning Company | 6.00% | ~15,229 |
 | Well-oiled machine | 5.00% | ~12,691 |
@@ -18,7 +18,7 @@ Rating: 4.42 (Ranked 663)
 | Pacifist | 4.00% | ~10,153 |
 | Vandalism | 4.00% | ~10,153 |
 | Capitalist I | 4.00% | ~10,153 |
-| Adrenaline | 3.00% | ~7,614 |
+| Adrenaline | 3.00% | ~7,615 |
 | By a hair | 2.00% | ~5,076 |
 | Fixer II | 2.00% | ~5,076 |
 | It took a while | 2.00% | ~5,076 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 663)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,814 (Ranked 43)  
+Progressed: 253,822 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,15 +162,16 @@ Completed: 3 (0.00%) (Ranked 246)
 | 2023-07-26 | 253,706 | 3 |
 | 2023-07-27 | 253,757 | 3 |
 | 2023-07-28 | 253,814 | 3 |
+| 2023-07-29 | 253,822 | 3 |
 ## Awards
 Max (Unique Visuals): 33  (Ranked 443)  
-Sum: 205 (Ranked 361)  
-Diff (max vs sum): 82  
+Sum: 206 (Ranked 360)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 33 |
 | This game is Great for Quick Sessions | 32 |
-| This game has Amazing Characters | 27 |
+| This game has Amazing Characters | 28 |
 | This game has Challenging Combat | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 22 |
@@ -281,3 +282,4 @@ Diff (max vs sum): 82
 | 2023-07-24 | 4.43 | 32 | 203 |
 | 2023-07-27 | 4.43 | 33 | 205 |
 | 2023-07-28 | 4.42 | 33 | 205 |
+| 2023-07-29 | 4.43 | 33 | 206 |

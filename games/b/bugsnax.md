@@ -6,30 +6,30 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,187 |
-| Gone Home | 93.00% | ~26,066 |
-| Wonderfalls | 87.00% | ~24,384 |
-| Got to Catch a Few | 77.00% | ~21,582 |
-| Double Trapper | 75.00% | ~21,021 |
-| I'm Stuffed | 69.00% | ~19,339 |
-| Got to Catch a Lot | 66.00% | ~18,498 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,097 |
-| In the Arms of the Gramble | 59.00% | ~16,537 |
-| Know Thy Neighbor | 59.00% | ~16,537 |
-| Launch Party | 56.00% | ~15,696 |
-| Perf Dirt | 56.00% | ~15,696 |
-| Vacation's End | 52.00% | ~14,575 |
-| Bossy Bugs | 46.00% | ~12,893 |
-| Survivor | 45.00% | ~12,613 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,052 |
-| Sidetracked | 40.00% | ~11,211 |
+| Everybody Gets One | 97.00% | ~27,189 |
+| Gone Home | 93.00% | ~26,068 |
+| Wonderfalls | 87.00% | ~24,386 |
+| Got to Catch a Few | 77.00% | ~21,583 |
+| Double Trapper | 75.00% | ~21,022 |
+| I'm Stuffed | 69.00% | ~19,341 |
+| Got to Catch a Lot | 66.00% | ~18,500 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,098 |
+| In the Arms of the Gramble | 59.00% | ~16,538 |
+| Know Thy Neighbor | 59.00% | ~16,538 |
+| Launch Party | 56.00% | ~15,697 |
+| Perf Dirt | 56.00% | ~15,697 |
+| Vacation's End | 52.00% | ~14,576 |
+| Bossy Bugs | 46.00% | ~12,894 |
+| Survivor | 45.00% | ~12,614 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,053 |
+| Sidetracked | 40.00% | ~11,212 |
 | Film Buff | 38.00% | ~10,651 |
 | Combo Meal | 38.00% | ~10,651 |
-| Midnight Snak | 36.00% | ~10,090 |
+| Midnight Snak | 36.00% | ~10,091 |
 | Candid Cryptid | 35.00% | ~9,810 |
-| Got to Catch Them All | 32.00% | ~8,969 |
-| Deep Impact | 23.00% | ~6,446 |
-| Grab Bag | 23.00% | ~6,446 |
+| Got to Catch Them All | 32.00% | ~8,970 |
+| Deep Impact | 23.00% | ~6,447 |
+| Grab Bag | 23.00% | ~6,447 |
 | Feeding Frenzy | 18.00% | ~5,045 |
 | Clothesline | 17.00% | ~4,765 |
 | Say Cheese! | 15.00% | ~4,204 |
@@ -37,8 +37,8 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,242 |
 | Dapper Capper | 6.00% | ~1,682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,028 (Ranked 99)  
-Completed: 1,316 (4.70%) (Ranked 47)  
+Progressed: 28,030 (Ranked 99)  
+Completed: 1,316 (4.69%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 1,316 (4.70%) (Ranked 47)
 | 2023-07-26 | 28,005 | 1,316 |
 | 2023-07-27 | 28,016 | 1,316 |
 | 2023-07-28 | 28,028 | 1,316 |
+| 2023-07-29 | 28,030 | 1,316 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 427)  
 Sum: 299 (Ranked 332)  

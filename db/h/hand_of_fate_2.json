@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659943,
+  "EOS_Progressed": 659945,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10197,6 +10197,11 @@
       "Time": "2023-07-28T23:03:10.0828283+00:00",
       "NumProgressed": 659943,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-29T00:03:43.3060647+00:00",
+      "NumProgressed": 659945,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10208,7 +10213,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475159
+      "UsersEstimate": 475160
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10216,7 +10221,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382767
+      "UsersEstimate": 382768
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10248,7 +10253,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52795
+      "UsersEstimate": 52796
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -10360,7 +10365,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112190
+      "UsersEstimate": 112191
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10376,7 +10381,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52795
+      "UsersEstimate": 52796
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -10432,7 +10437,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52795
+      "UsersEstimate": 52796
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -10504,7 +10509,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52795
+      "UsersEstimate": 52796
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -10536,7 +10541,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5939
+      "UsersEstimate": 5940
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -10591,15 +10596,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659943,
+      "Progressed": 659945,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:03:10.0828277+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:03:43.306064+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:13.3927231+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:58:07.7471408+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:03:10.0829271+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:58:37.4162238+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:03:43.3061652+00:00"
 }

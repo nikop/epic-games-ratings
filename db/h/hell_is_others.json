@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -698,10 +698,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-07-29T00:01:38.8391536+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
+  "NumberOfAwards": 206,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -721,7 +727,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -754,9 +760,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253814,
+  "EOS_Progressed": 253822,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10854,6 +10860,11 @@
       "Time": "2023-07-28T23:05:55.5423205+00:00",
       "NumProgressed": 253814,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T00:06:59.3858239+00:00",
+      "NumProgressed": 253822,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -10865,7 +10876,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17767
+      "UsersEstimate": 17768
     },
     {
       "ID": "Act2",
@@ -10913,7 +10924,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78682
+      "UsersEstimate": 78685
     },
     {
       "ID": "BackHomeNTimes",
@@ -10969,7 +10980,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25381
+      "UsersEstimate": 25382
     },
     {
       "ID": "CreditLevel2",
@@ -11137,7 +11148,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7614
+      "UsersEstimate": 7615
     },
     {
       "ID": "KillOtherWithMine",
@@ -11153,7 +11164,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55839
+      "UsersEstimate": 55841
     },
     {
       "ID": "KillOthers2",
@@ -11257,7 +11268,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25381
+      "UsersEstimate": 25382
     },
     {
       "ID": "ReachNDays2",
@@ -11312,16 +11323,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253814,
+      "Progressed": 253822,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-28T15:00:33.8604109+00:00",
-  "LastChanged_Achievements": "2023-07-28T23:05:55.5423195+00:00",
+  "LastChanged": "2023-07-29T00:01:38.8391534+00:00",
+  "LastChanged_Achievements": "2023-07-29T00:06:59.3858233+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:12.6641164+00:00",
-  "LastUpdate_Ratings": "2023-07-28T23:00:39.6606602+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:05:55.5424381+00:00"
+  "LastUpdate_Ratings": "2023-07-29T00:01:38.8391542+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:06:59.3859351+00:00"
 }

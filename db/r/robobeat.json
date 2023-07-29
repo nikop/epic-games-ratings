@@ -4,7 +4,7 @@
   "ProductSlug": "robobeat-5f084b",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-22T03:57:33.9819677+00:00",
-  "LastUpdate_Ratings": "2023-07-28T22:58:23.0118221+00:00",
-  "LastUpdate_Achievements": "2023-07-28T23:05:21.502181+00:00"
+  "LastUpdate_Ratings": "2023-07-28T23:58:56.096361+00:00",
+  "LastUpdate_Achievements": "2023-07-29T00:06:18.5182666+00:00"
 }

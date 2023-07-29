@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,654 |
-| First Class Student | 11.00% | ~31,766 |
-| A Keen Sense of Spell | 10.00% | ~28,878 |
-| Troll with the Punches | 10.00% | ~28,878 |
-| That's a Keeper | 10.00% | ~28,878 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,655 |
+| First Class Student | 11.00% | ~31,767 |
+| A Keen Sense of Spell | 10.00% | ~28,879 |
+| Troll with the Punches | 10.00% | ~28,879 |
+| That's a Keeper | 10.00% | ~28,879 |
 | Grappling with a Graphorn | 9.00% | ~25,991 |
 | The One Who Mastered Memories | 9.00% | ~25,991 |
 | The Hallowed Hero | 9.00% | ~25,991 |
@@ -30,8 +30,8 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,439 |
 | Third Time's a Charm | 5.00% | ~14,439 |
 | Raising Expectations | 5.00% | ~14,439 |
-| The Toast of the Town | 4.00% | ~11,551 |
-| The Ends Petrify the Means | 4.00% | ~11,551 |
+| The Toast of the Town | 4.00% | ~11,552 |
+| The Ends Petrify the Means | 4.00% | ~11,552 |
 | Going Through the Potions | 3.00% | ~8,664 |
 | Room with a View | 3.00% | ~8,664 |
 | Floo Around the World | 3.00% | ~8,664 |
@@ -47,12 +47,12 @@ Rating: 4.77 (Ranked 109)
 | Finishing Touches | 1.00% | ~2,888 |
 | A Forte for Achievement | 1.00% | ~2,888 |
 | Merlin's Beard! | 0.80% | ~2,310 |
-| Spilled Milk | 0.70% | ~2,021 |
+| Spilled Milk | 0.70% | ~2,022 |
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,784 (Ranked 42)  
-Completed: 435 (0.15%) (Ranked 181)  
+Progressed: 288,788 (Ranked 42)  
+Completed: 436 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,6 +151,7 @@ Completed: 435 (0.15%) (Ranked 181)
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
 | 2023-07-28 | 288,784 | 435 |
+| 2023-07-29 | 288,788 | 436 |
 ## Awards
 Max (Character Customization): 21,360  (Ranked 17)  
 Sum: 40,067 (Ranked 30)  

@@ -27,11 +27,11 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~1,947 |
 | Ice Lakes | 23.00% | ~1,791 |
 | Mentor | 23.00% | ~1,791 |
+| Merchant | 22.00% | ~1,713 |
 | Great Leader | 22.00% | ~1,713 |
 | Real Survivor | 22.00% | ~1,713 |
-| Merchant | 21.00% | ~1,635 |
+| Rocket Surgeon | 20.00% | ~1,558 |
 | War Never Changes | 19.00% | ~1,480 |
-| Rocket Surgeon | 19.00% | ~1,480 |
 | Big Game Hunter | 17.00% | ~1,324 |
 | Spreading Influence | 17.00% | ~1,324 |
 | Friendly | 16.00% | ~1,246 |
