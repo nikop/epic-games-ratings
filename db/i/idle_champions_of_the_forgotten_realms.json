@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5312,10 +5312,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30791,
       "NumberOfAwardsMax": 5093
+    },
+    {
+      "Time": "2023-07-29T13:00:35.9680654+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30793,
+      "NumberOfAwardsMax": 5093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30791,
+  "NumberOfAwards": 30793,
   "NumberOfAwardsMax": 5093,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5335,7 +5341,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4687
+      "Count": 4689
     },
     {
       "Text": "This game is Relaxing",
@@ -5362,9 +5368,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216664,
+  "EOS_Progressed": 216686,
   "EOS_Completed": 2135,
-  "EOS_NewPlayers": 2226,
+  "EOS_NewPlayers": 2230,
   "EOS_NewCompleters": 75,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16097,6 +16103,11 @@
       "Time": "2023-07-29T12:03:34.7482589+00:00",
       "NumProgressed": 216664,
       "NumCompleted": 2135
+    },
+    {
+      "Time": "2023-07-29T13:05:31.2878428+00:00",
+      "NumProgressed": 216686,
+      "NumCompleted": 2135
     }
   ],
   "TotalAchievements": 512,
@@ -16108,7 +16119,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "objective_completed_10",
@@ -16116,7 +16127,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "objective_completed_100",
@@ -16476,7 +16487,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "objective_completed_110",
@@ -20132,7 +20143,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "objective_completed_1376",
@@ -20148,7 +20159,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "objective_completed_1381",
@@ -20203,21 +20214,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182938,
+      "Progressed": 182960,
       "Completed": 3025
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216664,
+      "Progressed": 216686,
       "Completed": 2135
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-29T08:58:20.8606176+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:03:34.7482582+00:00",
+  "LastChanged": "2023-07-29T13:00:35.9680653+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:05:31.2878416+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:58:49.0560114+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:03:34.7524867+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:35.968066+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:05:31.2905733+00:00"
 }

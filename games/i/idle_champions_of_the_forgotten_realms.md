@@ -1,18 +1,18 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 908)  
+Rating: 4.05 (Ranked 909)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,500 |
-| Maddening | 2.00% | ~4,333 |
-| Beast Intentions | 2.00% | ~4,333 |
+| A Brief Tour of the Realms | 3.00% | ~6,501 |
+| Maddening | 2.00% | ~4,334 |
+| Beast Intentions | 2.00% | ~4,334 |
 | The Silken Swamp | 1.00% | ~2,167 |
 | Supply Run | 1.00% | ~2,167 |
-| Rocky Reception | 1.00% | ~1,829 |
-| Rock and Roll | 0.90% | ~1,646 |
+| Rocky Reception | 1.00% | ~1,830 |
+| Rock and Roll | 0.90% | ~1,647 |
 | Vecna Lives! | 0.80% | ~1,464 |
 | Flight of the Kindori Pod | 0.80% | ~1,464 |
 | Tall Tales | 0.70% | ~1,281 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,664 (Ranked 53)  
+Progressed: 216,686 (Ranked 53)  
 Completed: 2,135 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,16 +619,16 @@ Completed: 2,135 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,664 | 2,135 |
+| 2023-07-29 | 216,686 | 2,135 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
-Sum: 30,791 (Ranked 38)  
+Sum: 30,793 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,093 |
 | This game is Great for Beginners | 5,036 |
-| This game has Quickly Understood Controls | 4,687 |
+| This game has Quickly Understood Controls | 4,689 |
 | This game is Relaxing | 4,581 |
 | This game has Amazing Characters | 4,041 |
 | This game is Highly Recommended | 4,024 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 28
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
-| 2023-07-29 | 4.05 | - | 5,093 | 30,791 |
+| 2023-07-29 | 4.05 | - | 5,093 | 30,793 |

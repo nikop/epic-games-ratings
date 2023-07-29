@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -217,10 +217,10 @@
     }
   ],
   "EOS_Progressed": 3065,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 62,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-06-20T08:06:48.4211242+00:00",
@@ -3286,6 +3286,11 @@
       "Time": "2023-07-29T12:02:28.4877306+00:00",
       "NumProgressed": 3065,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T13:04:22.5607648+00:00",
+      "NumProgressed": 3065,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3657,15 +3662,15 @@
       "ID": "816efe",
       "IsBase": true,
       "Progressed": 3065,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-29T08:00:28.7047826+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:02:28.48773+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:04:22.5607637+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-29T12:00:07.045845+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:02:28.4885596+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:01:34.9154072+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:04:22.5608705+00:00"
 }

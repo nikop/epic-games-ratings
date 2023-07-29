@@ -9,15 +9,16 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 5.00% | ~181 |
 | Who put gears in there? | 4.00% | ~145 |
 | You can pet the cat! | 4.00% | ~145 |
-| Cream of the Crop | 3.00% | ~108 |
-| This will cost you big time | 3.00% | ~108 |
-| Thanks for the free chip, Peppermint! | 3.00% | ~108 |
-| I play my own way! | 3.00% | ~108 |
-| You got this, Peppermint? | 3.00% | ~108 |
-| Perfect Parry | 3.00% | ~108 |
-| Uh, they were broken when I got here | 3.00% | ~108 |
-| Kissing the sky! | 3.00% | ~108 |
-| Alright, that felt AWESOME! | 3.00% | ~108 |
+| Cream of the Crop | 3.00% | ~109 |
+| This will cost you big time | 3.00% | ~109 |
+| Thanks for the free chip, Peppermint! | 3.00% | ~109 |
+| I play my own way! | 3.00% | ~109 |
+| You got this, Peppermint? | 3.00% | ~109 |
+| Z-shielding's got nothing on us! | 3.00% | ~109 |
+| Perfect Parry | 3.00% | ~109 |
+| Uh, they were broken when I got here | 3.00% | ~109 |
+| Kissing the sky! | 3.00% | ~109 |
+| Alright, that felt AWESOME! | 3.00% | ~109 |
 | NOW we got a kickass hideout! | 3.00% | ~64 |
 | The Negotiator | 2.00% | ~72 |
 | Headliner | 2.00% | ~72 |
@@ -26,7 +27,6 @@ Rating: 4.87 (Ranked 24)
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~72 |
 | I have to read these things? | 2.00% | ~72 |
 | You must like calling me in, Chai | 2.00% | ~72 |
-| Z-shielding's got nothing on us! | 2.00% | ~72 |
 | Out in a puff of smoke | 2.00% | ~72 |
 | Perfecter Parry-er! | 2.00% | ~72 |
 | I look cool. But I can look COOLER. | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,616 (Ranked 146)  
+Progressed: 3,617 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 6 (0.17%) (Ranked 176)
 | 2023-07-26 | 3,589 | 6 |
 | 2023-07-27 | 3,601 | 6 |
 | 2023-07-28 | 3,610 | 6 |
-| 2023-07-29 | 3,616 | 6 |
+| 2023-07-29 | 3,617 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

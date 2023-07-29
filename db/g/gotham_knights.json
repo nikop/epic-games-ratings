@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
@@ -2230,7 +2230,7 @@
   ],
   "EOS_Progressed": 67459,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11610,8 +11610,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-29T11:00:03.1429306+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:05:09.2782874+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:06:45.1063699+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-07-29T12:00:37.09274+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:05:09.2784803+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:02:01.2799001+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:06:45.1064828+00:00"
 }

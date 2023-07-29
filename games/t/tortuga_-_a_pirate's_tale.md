@@ -1,27 +1,27 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.76 (Ranked 952)  
+Rating: 3.76 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,189 |
-| No Half Measures | 88.00% | ~14,069 |
-| Personal Matter | 87.00% | ~13,910 |
-| But You Have Heard of Me | 72.00% | ~11,511 |
-| Double the Barrels, double the Fun | 55.00% | ~8,793 |
-| Pimp My Glide | 47.00% | ~7,514 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,555 |
-| House Party! | 34.00% | ~5,436 |
-| Make It Rain | 23.00% | ~3,677 |
-| Curse of the Seven Seas | 22.00% | ~3,517 |
+| Eeligally Ambitious | 95.00% | ~15,190 |
+| No Half Measures | 88.00% | ~14,071 |
+| Personal Matter | 87.00% | ~13,911 |
+| But You Have Heard of Me | 72.00% | ~11,513 |
+| Double the Barrels, double the Fun | 55.00% | ~8,794 |
+| Pimp My Glide | 47.00% | ~7,515 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,556 |
+| House Party! | 34.00% | ~5,437 |
+| Make It Rain | 23.00% | ~3,678 |
+| Curse of the Seven Seas | 22.00% | ~3,518 |
 | Head First | 16.00% | ~2,558 |
 | To the World's End | 12.00% | ~1,919 |
 | Table for Six | 11.00% | ~1,759 |
 | Sharing Is Caring | 10.00% | ~1,599 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,279 |
 | Morally Flexible | 6.00% | ~959 |
-| Fishing for Compliments | 5.00% | ~799 |
+| Fishing for Compliments | 5.00% | ~800 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~480 |
 | A True Dandy | 2.00% | ~320 |
 | A New Legend Awaits | 1.00% | ~160 |
@@ -32,7 +32,7 @@ Rating: 3.76 (Ranked 952)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,988 (Ranked 111)  
+Progressed: 15,990 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 15,957 | 0 |
 | 2023-07-27 | 15,965 | 0 |
 | 2023-07-28 | 15,978 | 0 |
-| 2023-07-29 | 15,988 | 0 |
+| 2023-07-29 | 15,990 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

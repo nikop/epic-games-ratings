@@ -15,9 +15,9 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 0.80% | ~25 |
 | Bloodless | 0.80% | ~25 |
 | A Foul Creche | 0.60% | ~18 |
+| Surgical Excision | 0.50% | ~15 |
 | Friendly Fire | 0.50% | ~15 |
 | Honoured Battle-Brother | 0.40% | ~12 |
-| Surgical Excision | 0.40% | ~12 |
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
 | The Emperor Protects | 0.30% | ~9 |

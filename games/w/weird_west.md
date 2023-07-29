@@ -1,66 +1,66 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 624)  
+Rating: 4.45 (Ranked 625)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,538 |
-| Self-Improvement | 72.00% | ~1,259 |
-| Perky | 65.00% | ~1,136 |
-| Let’s Ride | 60.00% | ~1,049 |
-| Welcome to the Weird West | 57.00% | ~996 |
-| Dead or Alive | 56.00% | ~979 |
-| Full House | 36.00% | ~629 |
-| Off the Trail | 34.00% | ~594 |
-| Justice Served | 29.00% | ~507 |
-| Chain Reaction | 27.00% | ~472 |
-| Through Their Eyes | 26.00% | ~454 |
-| Dishonored | 25.00% | ~437 |
-| Rain of Death | 25.00% | ~437 |
-| Scholar | 25.00% | ~437 |
-| The Great Escape | 23.00% | ~402 |
+| Unforgiven | 88.00% | ~1,541 |
+| Self-Improvement | 72.00% | ~1,261 |
+| Perky | 65.00% | ~1,138 |
+| Let’s Ride | 60.00% | ~1,051 |
+| Welcome to the Weird West | 57.00% | ~998 |
+| Dead or Alive | 55.00% | ~963 |
+| Full House | 36.00% | ~630 |
+| Off the Trail | 34.00% | ~595 |
+| Justice Served | 29.00% | ~508 |
+| Chain Reaction | 27.00% | ~473 |
+| Through Their Eyes | 26.00% | ~455 |
+| Dishonored | 25.00% | ~438 |
+| Rain of Death | 25.00% | ~438 |
+| Scholar | 25.00% | ~438 |
+| The Great Escape | 23.00% | ~403 |
 | That’s All, Folks | 18.00% | ~315 |
 | Fallen Star | 16.00% | ~280 |
 | For Balance | 16.00% | ~280 |
 | Here Comes Santa Claus | 16.00% | ~280 |
 | Winds of War | 16.00% | ~280 |
-| Dog Days | 13.00% | ~227 |
-| Workers' Rights | 13.00% | ~227 |
+| Dog Days | 13.00% | ~228 |
+| Workers' Rights | 13.00% | ~228 |
 | Elusive Prey | 12.00% | ~210 |
 | Out on the Ebb Tide | 12.00% | ~210 |
 | Power Behind the Pulpit | 12.00% | ~210 |
 | Turning the Tables | 12.00% | ~210 |
-| Something Wicked This Way Comes… | 11.00% | ~192 |
-| There is Hope | 11.00% | ~192 |
+| Something Wicked This Way Comes… | 11.00% | ~193 |
+| There is Hope | 11.00% | ~193 |
 | The Philosopher’s Stone | 10.00% | ~175 |
-| Loyalty to the Pack | 9.00% | ~157 |
-| Mystery Machine | 9.00% | ~157 |
+| Loyalty to the Pack | 9.00% | ~158 |
+| Mystery Machine | 9.00% | ~158 |
 | Do Not Pass Go… | 8.00% | ~140 |
 | Gold Digger | 8.00% | ~140 |
 | Eternity Can Wait | 8.00% | ~140 |
 | Knuckle Sandwich | 8.00% | ~140 |
-| Getting the Gang Back Together | 7.00% | ~122 |
-| Monster Hunter | 7.00% | ~122 |
+| Getting the Gang Back Together | 7.00% | ~123 |
+| Monster Hunter | 7.00% | ~123 |
 | Healing Old Wounds | 6.00% | ~105 |
 | Who You Gonna Call? | 6.00% | ~105 |
-| This Is Sparta | 5.00% | ~87 |
-| What’s in the Box? | 5.00% | ~87 |
-| Ghost Town | 3.00% | ~52 |
-| Lord Inut Sends His Regards | 3.00% | ~52 |
-| Moondrunk | 3.00% | ~52 |
+| This Is Sparta | 5.00% | ~88 |
+| What’s in the Box? | 5.00% | ~88 |
+| Ghost Town | 3.00% | ~53 |
+| Lord Inut Sends His Regards | 3.00% | ~53 |
+| Moondrunk | 3.00% | ~53 |
 | 'Ma Barker | 2.00% | ~35 |
-| I Kicked a Bird and I Liked it | 1.00% | ~17 |
-| Hog Wild | 1.00% | ~17 |
-| End the world | 0.60% | ~10 |
+| I Kicked a Bird and I Liked it | 1.00% | ~18 |
+| Hog Wild | 1.00% | ~18 |
+| End the world | 0.60% | ~11 |
 | Explorer | 0.50% | ~9 |
 | Moon Hunter | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
-| Dirt and Blame | 0.30% | ~5 |
+| Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,748 (Ranked 170)  
+Progressed: 1,751 (Ranked 170)  
 Completed: 3 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 3 (0.17%) (Ranked 176)
 | 2023-07-26 | 1,740 | 3 |
 | 2023-07-27 | 1,745 | 3 |
 | 2023-07-28 | 1,748 | 3 |
+| 2023-07-29 | 1,751 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

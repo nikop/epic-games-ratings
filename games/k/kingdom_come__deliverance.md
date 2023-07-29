@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,356 |
-| Cavalier | 25.00% | ~198,674 |
-| Fatso | 23.00% | ~182,780 |
-| Awakening | 21.00% | ~166,886 |
-| Ranger | 20.00% | ~158,939 |
-| Scrooge | 20.00% | ~158,939 |
-| Anorectic | 16.00% | ~127,151 |
-| Firestarter | 15.00% | ~119,204 |
-| Bookworm | 14.00% | ~111,257 |
-| Insomniac | 13.00% | ~103,310 |
-| Buddy | 12.00% | ~95,364 |
-| Thief | 12.00% | ~95,364 |
-| Sinner | 11.00% | ~87,417 |
+| Blacksmith's Son | 31.00% | ~246,359 |
+| Cavalier | 25.00% | ~198,676 |
+| Fatso | 23.00% | ~182,782 |
+| Awakening | 21.00% | ~166,888 |
+| Ranger | 20.00% | ~158,941 |
+| Scrooge | 20.00% | ~158,941 |
+| Anorectic | 16.00% | ~127,153 |
+| Firestarter | 15.00% | ~119,206 |
+| Bookworm | 14.00% | ~111,259 |
+| Insomniac | 13.00% | ~103,312 |
+| Buddy | 12.00% | ~95,365 |
+| Thief | 12.00% | ~95,365 |
+| Sinner | 11.00% | ~87,418 |
 | Convict | 10.00% | ~79,470 |
 | Traveller | 10.00% | ~79,470 |
 | Haggler | 9.00% | ~71,523 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,563 |
 | Edward Kelly | 0.60% | ~4,768 |
 | Fighter | 0.60% | ~4,768 |
-| I Can Quit Anytime | 0.50% | ~3,973 |
+| I Can Quit Anytime | 0.50% | ~3,974 |
 | Perfectionist | 0.40% | ~3,179 |
 | Alcoholic | 0.30% | ~2,384 |
 | Sniper | 0.30% | ~2,384 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794,696 (Ranked 15)  
+Progressed: 794,705 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-26 | 794,319 | 44 |
 | 2023-07-27 | 794,476 | 44 |
 | 2023-07-28 | 794,631 | 44 |
-| 2023-07-29 | 794,696 | 44 |
+| 2023-07-29 | 794,705 | 44 |
 ## Awards
 Max (Character Customization): 7,345  (Ranked 46)  
 Sum: 27,387 (Ranked 45)  

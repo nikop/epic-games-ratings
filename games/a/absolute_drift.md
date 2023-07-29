@@ -1,22 +1,22 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 674)  
+Rating: 4.41 (Ranked 675)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~153,217 |
-| Good Skills | 9.00% | ~137,895 |
-| Multiplier Master | 9.00% | ~137,895 |
-| Maverick | 7.00% | ~107,252 |
-| The Long Drift | 5.00% | ~76,608 |
+| Midnight Drifter | 10.00% | ~153,218 |
+| Good Skills | 9.00% | ~137,896 |
+| Multiplier Master | 9.00% | ~137,896 |
+| Maverick | 7.00% | ~107,253 |
+| The Long Drift | 5.00% | ~76,609 |
 | Drift Line Apprentice | 3.00% | ~45,965 |
 | Mad Skills | 3.00% | ~45,965 |
-| Bring the Cubic Ruckus | 2.00% | ~30,643 |
-| Jelly Donuts | 2.00% | ~30,643 |
-| Master Drifter | 2.00% | ~30,643 |
-| Spin Doctor | 2.00% | ~30,643 |
+| Bring the Cubic Ruckus | 2.00% | ~30,644 |
+| Jelly Donuts | 2.00% | ~30,644 |
+| Master Drifter | 2.00% | ~30,644 |
+| Spin Doctor | 2.00% | ~30,644 |
 | Hoon Airlines | 1.00% | ~15,322 |
 | Midnight Master | 1.00% | ~15,322 |
 | Sake Bombs | 0.90% | ~13,790 |
@@ -27,8 +27,8 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,129 |
 | The Completionist | 0.10% | ~1,532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,532,169 (Ranked 6)  
-Completed: 651 (0.04%) (Ranked 216)  
+Progressed: 1,532,179 (Ranked 6)  
+Completed: 651 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 651 (0.04%) (Ranked 216)
 | 2023-07-26 | 1,531,719 | 650 |
 | 2023-07-27 | 1,531,886 | 650 |
 | 2023-07-28 | 1,532,077 | 650 |
-| 2023-07-29 | 1,532,169 | 651 |
+| 2023-07-29 | 1,532,179 | 651 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 520,
@@ -852,6 +852,6 @@
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
   "LastChanged": "2023-07-28T15:59:57.9230872+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.0094332+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:59:17.5566459+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:05:43.02295+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:57.840914+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:07:12.3215402+00:00"
 }

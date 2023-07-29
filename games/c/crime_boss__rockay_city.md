@@ -1,40 +1,40 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 931)  
+Rating: 3.94 (Ranked 932)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,154 |
-| First One’s Free | 65.00% | ~45,811 |
-| Neophyte Ninja | 50.00% | ~35,239 |
-| Too Old for This | 47.00% | ~33,125 |
-| Fancy Pants | 35.00% | ~24,667 |
-| Case Closed | 34.00% | ~23,963 |
-| King of the Hill | 34.00% | ~23,963 |
-| Underworld Initiate | 29.00% | ~20,439 |
-| Roid Ranger | 21.00% | ~14,800 |
-| True Player | 19.00% | ~13,391 |
-| Off the Rocks | 19.00% | ~13,391 |
-| Dragonslayer | 17.00% | ~11,981 |
-| Raider’s Ruin | 16.00% | ~11,276 |
-| Hidden Sonata | 13.00% | ~9,162 |
+| Downed but Not Outed | 74.00% | ~52,160 |
+| First One’s Free | 65.00% | ~45,816 |
+| Neophyte Ninja | 50.00% | ~35,243 |
+| Too Old for This | 47.00% | ~33,128 |
+| Fancy Pants | 35.00% | ~24,670 |
+| Case Closed | 34.00% | ~23,965 |
+| King of the Hill | 34.00% | ~23,965 |
+| Underworld Initiate | 29.00% | ~20,441 |
+| Roid Ranger | 21.00% | ~14,802 |
+| True Player | 19.00% | ~13,392 |
+| Off the Rocks | 19.00% | ~13,392 |
+| Dragonslayer | 17.00% | ~11,983 |
+| Raider’s Ruin | 16.00% | ~11,278 |
+| Hidden Sonata | 13.00% | ~9,163 |
 | Rockay Rex | 11.00% | ~7,753 |
-| Freebooter | 10.00% | ~7,048 |
-| Track Star | 9.00% | ~6,343 |
-| Classy Joint | 9.00% | ~6,343 |
-| I Like Trains | 8.00% | ~5,638 |
-| Headhunter | 8.00% | ~5,638 |
-| Ding Dong | 8.00% | ~5,638 |
-| Foo Finder | 7.00% | ~4,933 |
+| Freebooter | 10.00% | ~7,049 |
+| Track Star | 9.00% | ~6,344 |
+| Classy Joint | 9.00% | ~6,344 |
+| I Like Trains | 8.00% | ~5,639 |
+| Headhunter | 8.00% | ~5,639 |
+| Ding Dong | 8.00% | ~5,639 |
+| Foo Finder | 7.00% | ~4,934 |
 | Legend Looter | 5.00% | ~3,524 |
 | Savvy Seeker | 5.00% | ~3,524 |
 | Imports and Exports | 4.00% | ~2,819 |
 | Olympus Ascended | 4.00% | ~2,819 |
 | Cracked the Jack | 4.00% | ~2,819 |
 | Red Star | 4.00% | ~2,819 |
-| Privateer | 3.00% | ~2,114 |
-| Groundhog Days | 3.00% | ~2,114 |
+| Privateer | 3.00% | ~2,115 |
+| Groundhog Days | 3.00% | ~2,115 |
 | Rockay Raider | 2.00% | ~1,410 |
 | Moneybags | 2.00% | ~1,410 |
 | Impossible Dreamer | 2.00% | ~1,410 |
@@ -43,8 +43,8 @@ Rating: 3.94 (Ranked 931)
 | Geek Out | 0.50% | ~352 |
 | Full House | 0.20% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,478 (Ranked 77)  
-Completed: 36 (0.05%) (Ranked 210)  
+Progressed: 70,486 (Ranked 77)  
+Completed: 36 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,17 +143,17 @@ Completed: 36 (0.05%) (Ranked 210)
 | 2023-07-26 | 70,166 | 36 |
 | 2023-07-27 | 70,275 | 36 |
 | 2023-07-28 | 70,402 | 36 |
-| 2023-07-29 | 70,478 | 36 |
+| 2023-07-29 | 70,486 | 36 |
 ## Awards
 Max (Diverse Characters): 384  (Ranked 214)  
-Sum: 1,804 (Ranked 205)  
+Sum: 1,806 (Ranked 205)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 384 |
 | This game has Quickly Understood Controls | 368 |
 | This game is Highly Recommended | 364 |
-| This game has Challenging Combat | 347 |
+| This game has Challenging Combat | 349 |
 | This game has Amazing Characters | 341 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -281,4 +281,4 @@ Diff (max vs sum): 9
 | 2023-07-26 | 3.93 | 378 | 1,783 |
 | 2023-07-27 | 3.93 | 382 | 1,793 |
 | 2023-07-28 | 3.93 | 384 | 1,801 |
-| 2023-07-29 | 3.94 | 384 | 1,804 |
+| 2023-07-29 | 3.94 | 384 | 1,806 |

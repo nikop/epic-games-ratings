@@ -5418,9 +5418,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711775,
+  "EOS_Progressed": 711782,
   "EOS_Completed": 12834,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14873,6 +14873,11 @@
       "Time": "2023-07-29T12:07:13.1709832+00:00",
       "NumProgressed": 711775,
       "NumCompleted": 12834
+    },
+    {
+      "Time": "2023-07-29T13:08:23.3105184+00:00",
+      "NumProgressed": 711782,
+      "NumCompleted": 12834
     }
   ],
   "TotalAchievements": 50,
@@ -14930,9 +14935,9 @@
       "ID": "07_Wude_H1",
       "SetID": "adcm20g",
       "Name": "Muk Yan Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 4982
+      "UsersEstimate": 5694
     },
     {
       "ID": "08_Wude_H2",
@@ -15283,21 +15288,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21076,
+      "Progressed": 21083,
       "Completed": 10455
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711775,
+      "Progressed": 711782,
       "Completed": 12834
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-29T06:59:07.1748238+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:07:13.1709825+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:08:23.3105178+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:59:45.1957638+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:07:13.1711547+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:01:18.5183434+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:08:23.3106183+00:00"
 }

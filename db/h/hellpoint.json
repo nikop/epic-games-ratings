@@ -2,7 +2,7 @@
   "ID": "97f91a3e4a7449fa9f4505a09efe1645",
   "Name": "Hellpoint",
   "ProductSlug": "hellpoint",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 520,
@@ -94,6 +94,6 @@
   "FirstSeenRating": "2022-09-19T18:31:22.5343042+00:00",
   "LastChanged": "2023-04-26T21:58:06.61007+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:11.9111367+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:58:59.4057458+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:03:15.972573+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:43.5407185+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:05:15.7678514+00:00"
 }

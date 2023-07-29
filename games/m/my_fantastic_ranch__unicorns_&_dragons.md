@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 55.00% | ~12 |
-| Prized Possession | 36.00% | ~8 |
-| Creature Evolution | 32.00% | ~7 |
-| Spirit of competition | 32.00% | ~7 |
-| Think Positive | 23.00% | ~5 |
-| Kingdom Party Time | 18.00% | ~4 |
+| Let the Adventure Begin! | 52.00% | ~12 |
+| Prized Possession | 35.00% | ~8 |
+| Creature Evolution | 30.00% | ~7 |
+| Spirit of competition | 30.00% | ~7 |
+| Think Positive | 22.00% | ~5 |
+| Kingdom Party Time | 17.00% | ~4 |
 | Festival Fever | 9.00% | ~2 |
 | Landscaper | 9.00% | ~2 |
 | Dream Big | 9.00% | ~2 |
 | Entering New Territory | 9.00% | ~2 |
 | Lecturer | 9.00% | ~2 |
 | Kindred Spirits | 9.00% | ~2 |
-| Gotta Adopt Them All! | 5.00% | ~1 |
-| Protected Nature Reserve | 5.00% | ~1 |
-| Diamonds in the Rough | 5.00% | ~1 |
-| Paving the Way | 5.00% | ~1 |
-| Just One More Go | 5.00% | ~1 |
-| Fully Booked! | 5.00% | ~1 |
-| Neverending Story | 5.00% | ~1 |
+| Gotta Adopt Them All! | 4.00% | ~1 |
+| Protected Nature Reserve | 4.00% | ~1 |
+| Diamonds in the Rough | 4.00% | ~1 |
+| Paving the Way | 4.00% | ~1 |
+| Just One More Go | 4.00% | ~1 |
+| Fully Booked! | 4.00% | ~1 |
+| Neverending Story | 4.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 386)  
+Progressed: 23 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-01 | 20 | 0 |
 | 2023-07-09 | 21 | 0 |
 | 2023-07-10 | 22 | 0 |
+| 2023-07-29 | 23 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

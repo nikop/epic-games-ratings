@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 520,
@@ -8561,10 +8561,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 88531,
       "NumberOfAwardsMax": 10969
+    },
+    {
+      "Time": "2023-07-29T13:00:40.384252+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 88536,
+      "NumberOfAwardsMax": 10969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88531,
+  "NumberOfAwards": 88536,
   "NumberOfAwardsMax": 10969,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8626,7 +8632,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5915
+      "Count": 5920
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8646,8 +8652,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-07-29T08:58:25.5276521+00:00",
+  "LastChanged": "2023-07-29T13:00:40.3842518+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.3189485+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:58:55.2367403+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:06:19.9695183+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:40.3842525+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:07:41.3721879+00:00"
 }

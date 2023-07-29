@@ -2,8 +2,8 @@
   "ID": "0dc18227b3f14162968d8e7969e454ef",
   "Name": "DAEMON X MACHINA",
   "ProductSlug": "daemon-x-machina",
-  "Ranking_Rating": 693,
-  "Ranking_Popularity": 143,
+  "Ranking_Rating": 694,
+  "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
@@ -1479,18 +1479,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 1464,
       "NumberOfAwardsMax": 1009
+    },
+    {
+      "Time": "2023-07-29T13:00:34.5568246+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1468,
+      "NumberOfAwardsMax": 1013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1464,
-  "NumberOfAwardsMax": 1009,
+  "NumberOfAwards": 1468,
+  "NumberOfAwardsMax": 1013,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1009
+      "Count": 1013
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1558,8 +1564,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2023-07-29T03:59:20.3566434+00:00",
+  "LastChanged": "2023-07-29T13:00:34.5568243+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.5275648+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:58:46.7603643+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:05:53.6471681+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:34.5568252+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:07:20.5316769+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 130,
@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7246,
+  "EOS_Progressed": 7247,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6399,6 +6399,11 @@
       "Time": "2023-07-29T11:05:03.9762002+00:00",
       "NumProgressed": 7246,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-29T13:07:04.9595085+00:00",
+      "NumProgressed": 7247,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6410,7 +6415,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "ACH02",
@@ -6418,7 +6423,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACH03",
@@ -6514,7 +6519,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH15",
@@ -6641,7 +6646,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7246,
+      "Progressed": 7247,
       "Completed": 41
     }
   ],
@@ -6649,8 +6654,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:05:33.3762984+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:07:04.9595079+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:58:29.8684518+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:05:33.3763959+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:00:22.6577628+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:07:04.9595645+00:00"
 }

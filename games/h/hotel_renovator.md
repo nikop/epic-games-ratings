@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.50 (Ranked 556)  
+Rating: 4.50 (Ranked 557)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.50 (Ranked 556)
 | Fine, I'll do it myself | 42.00% | ~383 |
 | Moving up | 41.00% | ~374 |
 | No need to call anyone | 39.00% | ~356 |
-| Big fortune | 31.00% | ~283 |
+| Big fortune | 32.00% | ~292 |
 | Still more work ahead | 28.00% | ~256 |
 | Hotel sleuthing | 27.00% | ~247 |
 | Kaboom | 25.00% | ~228 |

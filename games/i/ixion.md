@@ -1,17 +1,17 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 24.00% | ~707 |
+| Wakey Wakey | 24.00% | ~708 |
 | Sputnik 2049 | 21.00% | ~619 |
-| Infinite Growth... | 20.00% | ~589 |
+| Infinite Growth... | 20.00% | ~590 |
 | Without Breaking Some Eggs... | 19.00% | ~560 |
-| A Thousand Strong | 14.00% | ~413 |
 | Ready for a New World | 14.00% | ~413 |
 | Space Society | 13.00% | ~383 |
+| A Thousand Strong | 13.00% | ~383 |
 | Permanent Redesigns | 12.00% | ~354 |
 | Guy de Borderlands | 10.00% | ~295 |
 | Fully Recycled | 10.00% | ~295 |
@@ -46,9 +46,9 @@ Rating: 4.55 (Ranked 481)
 | Mutual Loyalty | 1.00% | ~29 |
 | Tiqqun Contender | 1.00% | ~29 |
 | Catastrophe Avoided | 1.00% | ~29 |
-| You Had One Job... | 1.00% | ~29 |
 | Tiqqun Unchained | 1.00% | ~29 |
 | Scientifically Accurate | 1.00% | ~29 |
+| You Had One Job... | 0.90% | ~27 |
 | Better Him Than Me | 0.80% | ~24 |
 | Gregor Spinoza | 0.80% | ~24 |
 | Remember the Dead | 0.70% | ~21 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 157)  
+Progressed: 2,949 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 2,918 | 0 |
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
-| 2023-07-29 | 2,947 | 0 |
+| 2023-07-29 | 2,949 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

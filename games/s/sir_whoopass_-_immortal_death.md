@@ -15,13 +15,13 @@
 | Blurry depth perception | 82.00% | ~74 |
 | Up and down | 80.00% | ~72 |
 | Rolling, Rolling, Rolling | 72.00% | ~65 |
-| Fire-fighter! | 67.00% | ~60 |
-| Oh, you're up to no gouda! | 63.00% | ~57 |
+| Fire-fighter! | 68.00% | ~61 |
+| Oh, you're up to no gouda! | 64.00% | ~58 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~56 |
 | Meat grinder | 61.00% | ~55 |
 | You're not going to blow me up! | 54.00% | ~49 |
-| Mushroom soup of the day | 52.00% | ~47 |
-| Honk honk! | 50.00% | ~45 |
+| Mushroom soup of the day | 53.00% | ~48 |
+| Honk honk! | 51.00% | ~46 |
 | Butcher | 50.00% | ~45 |
 | Spare Ribs | 50.00% | ~45 |
 | Cockadoodledoo! | 49.00% | ~44 |

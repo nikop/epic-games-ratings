@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -546,6 +546,11 @@
       "Time": "2023-07-29T08:04:14.3703593+00:00",
       "NumProgressed": 468,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T13:05:35.8671413+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -581,7 +586,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TROP004",
@@ -589,7 +594,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TROP005",
@@ -621,7 +626,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "TROP009",
@@ -629,7 +634,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "TROP010",
@@ -637,7 +642,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TROP011",
@@ -645,7 +650,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TROP012",
@@ -653,7 +658,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "TROP013",
@@ -725,7 +730,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "TROP022",
@@ -741,7 +746,7 @@
       "Name": "Detox diet",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "TROP024",
@@ -755,9 +760,9 @@
       "ID": "TROP025",
       "SetID": "9n0dl35",
       "Name": "Chicken Dinner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "TROP026",
@@ -780,7 +785,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 3
     }
   ],
@@ -788,8 +793,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:03:40.9124716+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:05:35.8671407+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:45.0965644+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:59:38.6678366+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:03:40.9125093+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:01:14.4022117+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:05:35.8671654+00:00"
 }

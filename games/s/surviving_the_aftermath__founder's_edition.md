@@ -1,39 +1,39 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 587)  
+Rating: 4.48 (Ranked 588)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,537 |
-| Leader | 60.00% | ~4,679 |
-| Explorer | 53.00% | ~4,133 |
-| Healer | 52.00% | ~4,055 |
-| Aspiring Inventor | 44.00% | ~3,431 |
-| Adventurer | 41.00% | ~3,197 |
-| Famous Healer | 38.00% | ~2,963 |
-| Local Leader | 35.00% | ~2,729 |
-| Famous Explorer | 34.00% | ~2,651 |
-| New Opportunities | 34.00% | ~2,651 |
-| Energized | 33.00% | ~2,573 |
-| The Long Haul | 33.00% | ~2,573 |
-| The Great Healer | 31.00% | ~2,417 |
-| Survivor | 31.00% | ~2,417 |
-| Legendary Explorer | 28.00% | ~2,183 |
-| Cleaner | 28.00% | ~2,183 |
-| Catastrofan | 28.00% | ~2,183 |
-| Finders, Keepers | 26.00% | ~2,027 |
-| Top Notch | 25.00% | ~1,950 |
-| Ice Lakes | 23.00% | ~1,794 |
-| Mentor | 23.00% | ~1,794 |
-| Merchant | 22.00% | ~1,716 |
-| Great Leader | 22.00% | ~1,716 |
-| Real Survivor | 22.00% | ~1,716 |
-| Rocket Surgeon | 20.00% | ~1,560 |
-| War Never Changes | 19.00% | ~1,482 |
-| Big Game Hunter | 17.00% | ~1,326 |
-| Spreading Influence | 17.00% | ~1,326 |
+| First Step | 71.00% | ~5,540 |
+| Leader | 60.00% | ~4,682 |
+| Explorer | 53.00% | ~4,136 |
+| Healer | 52.00% | ~4,058 |
+| Aspiring Inventor | 44.00% | ~3,433 |
+| Adventurer | 41.00% | ~3,199 |
+| Famous Healer | 38.00% | ~2,965 |
+| Local Leader | 35.00% | ~2,731 |
+| Famous Explorer | 34.00% | ~2,653 |
+| New Opportunities | 34.00% | ~2,653 |
+| Energized | 33.00% | ~2,575 |
+| The Long Haul | 33.00% | ~2,575 |
+| The Great Healer | 31.00% | ~2,419 |
+| Survivor | 31.00% | ~2,419 |
+| Legendary Explorer | 28.00% | ~2,185 |
+| Cleaner | 28.00% | ~2,185 |
+| Catastrofan | 28.00% | ~2,185 |
+| Finders, Keepers | 26.00% | ~2,029 |
+| Top Notch | 25.00% | ~1,951 |
+| Ice Lakes | 23.00% | ~1,795 |
+| Mentor | 23.00% | ~1,795 |
+| Great Leader | 22.00% | ~1,717 |
+| Real Survivor | 22.00% | ~1,717 |
+| Merchant | 21.00% | ~1,639 |
+| War Never Changes | 19.00% | ~1,483 |
+| Rocket Surgeon | 19.00% | ~1,483 |
+| Big Game Hunter | 17.00% | ~1,327 |
+| Spreading Influence | 17.00% | ~1,327 |
 | Friendly | 16.00% | ~1,248 |
 | Around the World | 16.00% | ~1,248 |
 | Bookworm | 15.00% | ~1,170 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,798 (Ranked 127)  
+Progressed: 7,803 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 7,737 | 0 |
 | 2023-07-27 | 7,754 | 0 |
 | 2023-07-28 | 7,788 | 0 |
-| 2023-07-29 | 7,798 | 0 |
+| 2023-07-29 | 7,803 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 333)  
 Sum: 683 (Ranked 273)  

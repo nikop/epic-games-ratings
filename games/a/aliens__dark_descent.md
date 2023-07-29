@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.43 (Ranked 655)  
+Rating: 4.43 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.43 (Ranked 655)
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,065 (Ranked 153)  
-Completed: 1 (0.03%) (Ranked 220)  
+Completed: 2 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 1 (0.03%) (Ranked 220)
 | 2023-07-26 | 3,049 | 1 |
 | 2023-07-27 | 3,055 | 1 |
 | 2023-07-28 | 3,062 | 1 |
-| 2023-07-29 | 3,065 | 1 |
+| 2023-07-29 | 3,065 | 2 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 503)  
 Sum: 20 (Ranked 503)  

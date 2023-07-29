@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,793 |
-| That's a Grand Army | 8.00% | ~6,038 |
-| That is mine! | 8.00% | ~6,038 |
-| Victorious! | 8.00% | ~6,038 |
-| Brothers in Arms | 6.00% | ~4,528 |
-| That's a Grand Navy | 6.00% | ~4,528 |
-| Seriously?! | 6.00% | ~4,528 |
-| For the Glory | 5.00% | ~3,774 |
-| Cold War | 4.00% | ~3,019 |
-| True Catholic | 4.00% | ~3,019 |
-| Defender of the Faith | 3.00% | ~2,264 |
-| It's all about luck | 3.00% | ~2,264 |
-| It's all about the money | 3.00% | ~2,264 |
-| Respected | 3.00% | ~2,264 |
-| The Princess is in this Castle | 3.00% | ~2,264 |
-| Truly Divine Ruler | 3.00% | ~2,264 |
-| Agressive Expander | 2.00% | ~1,509 |
-| Blockader | 2.00% | ~1,509 |
-| Combined Arms | 2.00% | ~1,509 |
-| Double the Love | 2.00% | ~1,509 |
-| Gentle Persuasion | 2.00% | ~1,509 |
-| My armies are invincible! | 2.00% | ~1,509 |
-| Queen of Conquest | 2.00% | ~1,509 |
-| Royal Authority | 2.00% | ~1,509 |
-| Total Control | 2.00% | ~1,509 |
+| Until death do us apart | 9.00% | ~6,795 |
+| That's a Grand Army | 8.00% | ~6,040 |
+| That is mine! | 8.00% | ~6,040 |
+| Victorious! | 8.00% | ~6,040 |
+| Brothers in Arms | 6.00% | ~4,530 |
+| That's a Grand Navy | 6.00% | ~4,530 |
+| Seriously?! | 6.00% | ~4,530 |
+| For the Glory | 5.00% | ~3,775 |
+| Cold War | 4.00% | ~3,020 |
+| True Catholic | 4.00% | ~3,020 |
+| Defender of the Faith | 3.00% | ~2,265 |
+| It's all about luck | 3.00% | ~2,265 |
+| It's all about the money | 3.00% | ~2,265 |
+| Respected | 3.00% | ~2,265 |
+| The Princess is in this Castle | 3.00% | ~2,265 |
+| Truly Divine Ruler | 3.00% | ~2,265 |
+| Agressive Expander | 2.00% | ~1,510 |
+| Blockader | 2.00% | ~1,510 |
+| Combined Arms | 2.00% | ~1,510 |
+| Double the Love | 2.00% | ~1,510 |
+| Gentle Persuasion | 2.00% | ~1,510 |
+| My armies are invincible! | 2.00% | ~1,510 |
+| Queen of Conquest | 2.00% | ~1,510 |
+| Royal Authority | 2.00% | ~1,510 |
+| Total Control | 2.00% | ~1,510 |
 | All That's Thine Shall Be Mine | 1.00% | ~755 |
 | Azur semé de lis or | 1.00% | ~755 |
 | Bright Spark | 1.00% | ~755 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,473 (Ranked 75)  
+Progressed: 75,499 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,22 +461,22 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
-| 2023-07-29 | 75,473 | 0 |
+| 2023-07-29 | 75,499 | 0 |
 ## Awards
 Max (Educational): 5,593  (Ranked 61)  
-Sum: 46,123 (Ranked 26)  
+Sum: 46,128 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,593 |
 | This game is Highly Recommended | 5,355 |
 | This game has Challenging Combat | 5,305 |
-| This game is Extremely Fun | 5,299 |
+| This game is Extremely Fun | 5,302 |
 | This game has Diverse Characters | 5,266 |
 | This game is Relaxing | 5,173 |
 | This game has Competitive Players | 5,028 |
 | This game has Amazing Storytelling | 4,732 |
-| This game has Amazing Characters | 4,372 |
+| This game has Amazing Characters | 4,374 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -674,4 +674,4 @@ Diff (max vs sum): 35
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
 | 2023-07-27 | 4.69 | - | 5,587 | 46,075 |
 | 2023-07-28 | 4.69 | - | 5,593 | 46,113 |
-| 2023-07-29 | 4.69 | - | 5,593 | 46,123 |
+| 2023-07-29 | 4.69 | - | 5,593 | 46,128 |

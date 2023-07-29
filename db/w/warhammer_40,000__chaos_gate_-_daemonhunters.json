@@ -2761,9 +2761,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -3223,8 +3223,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-29T12:04:19.4900012+00:00",
+  "LastChanged_Achievements": "2023-07-29T13:06:06.5095288+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-29T11:59:27.2964884+00:00",
-  "LastUpdate_Achievements": "2023-07-29T12:04:19.4902145+00:00"
+  "LastUpdate_Ratings": "2023-07-29T13:01:05.0539149+00:00",
+  "LastUpdate_Achievements": "2023-07-29T13:06:06.509613+00:00"
 }
