@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1231,6 +1231,11 @@
       "Time": "2023-07-28T14:01:45.6718623+00:00",
       "NumProgressed": 367,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T12:02:17.8470462+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1258,7 +1263,7 @@
       "Name": "Basic Controls",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "BigPlane",
@@ -1266,7 +1271,7 @@
       "Name": "Expensive Plane",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BudgetFlight",
@@ -1274,7 +1279,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Calculated",
@@ -1282,7 +1287,7 @@
       "Name": "Calculated",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Close",
@@ -1290,7 +1295,7 @@
       "Name": "That Was Close!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Creator",
@@ -1442,7 +1447,7 @@
       "Name": "New Record",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NoTimeForModernization",
@@ -1514,15 +1519,15 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "Reviewer",
@@ -1562,7 +1567,7 @@
       "Name": "Time for Management",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TransportHub",
@@ -1577,14 +1582,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:00:52.8850641+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:02:17.8470455+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:57:35.5977561+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:00:52.8851039+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:22.3855278+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:02:17.8471139+00:00"
 }

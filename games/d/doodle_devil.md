@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Paradise lost | 96.00% | ~76 |
-| Dark Kingdom Come | 75.00% | ~59 |
-| Master of Sins | 59.00% | ~47 |
+| Dark Kingdom Come | 76.00% | ~60 |
+| Master of Sins | 61.00% | ~48 |
 | Lucky Strike | 57.00% | ~45 |
-| Cardinal Sins | 48.00% | ~38 |
+| Cardinal Sins | 49.00% | ~39 |
 | Warm and Fuzzy | 47.00% | ~37 |
 | Master of Warfare | 34.00% | ~27 |
 | Vicious Delicious | 27.00% | ~21 |

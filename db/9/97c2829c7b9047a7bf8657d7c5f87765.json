@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -85,17 +85,17 @@
       "ID": "10",
       "SetID": "7095412",
       "Name": "Combiner",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "12",
@@ -253,9 +253,9 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "30",
@@ -397,9 +397,9 @@
       "ID": "9",
       "SetID": "7095412",
       "Name": "Elemental Defeater",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -411,8 +411,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:04:26.0449067+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:04:45.010574+00:00",
   "LastUpdate_AppInfo": "2023-07-28T11:57:14.5662512+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:57:32.9237923+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:04:26.0449398+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:20.3671441+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:04:45.0106092+00:00"
 }

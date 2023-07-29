@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -333,6 +333,11 @@
       "Time": "2023-07-28T13:09:52.9881881+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T12:03:41.4733946+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -406,7 +411,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -430,7 +435,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -566,7 +571,7 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -582,7 +587,7 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
       "UsersEstimate": 21
     },
@@ -663,7 +668,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
@@ -671,8 +676,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:03:36.1498949+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:03:41.4733939+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:57:58.2610699+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:03:36.1499276+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:49.7682588+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:03:41.4734493+00:00"
 }

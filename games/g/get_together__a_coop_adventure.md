@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Get lost! | 92.00% | ~55 |
 | Elevator Pitch | 85.00% | ~51 |
-| Beam me up | 60.00% | ~36 |
-| Rock Bottom | 55.00% | ~33 |
+| Beam me up | 63.00% | ~38 |
+| Rock Bottom | 58.00% | ~35 |
 | The end is nigh! | 18.00% | ~11 |
 | Get Together | 18.00% | ~11 |
-| Uncaged | 12.00% | ~7 |
+| Uncaged | 15.00% | ~9 |
 | Wait for me! | 3.00% | ~2 |
 | The best of both worlds | 0.00% | ~0 |
 | Leave no stone unturned | 0.00% | ~0 |

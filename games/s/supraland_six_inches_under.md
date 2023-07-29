@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 108)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,8 +22,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 91.00% | ~1,978 |
 | Industrial Area | 89.00% | ~1,935 |
 | Magnet Repel | 88.00% | ~1,913 |
+| You feel middle classy | 87.00% | ~1,891 |
 | Boomeraxe | 87.00% | ~1,891 |
-| You feel middle classy | 86.00% | ~1,870 |
 | Banking District | 86.00% | ~1,870 |
 | Iron Pickaxe | 86.00% | ~1,870 |
 | Arrested | 85.00% | ~1,848 |

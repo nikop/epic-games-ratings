@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4917,9 +4917,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 225
     },
     {
       "ID": "minerclicker",
@@ -5117,9 +5117,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "transmute",
@@ -5198,8 +5198,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:03:47.1776026+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:03:55.3152043+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:58:35.4639454+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:03:47.1777064+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:58:42.2976865+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:03:55.3153842+00:00"
 }

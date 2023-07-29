@@ -22,10 +22,10 @@ Rating: 4.10 (Ranked 892)
 | Enlightenment | 14.00% | ~243 |
 | Hero inspection | 14.00% | ~243 |
 | Lieutenant | 14.00% | ~243 |
+| Milestone collector | 13.00% | ~225 |
 | Mysterious Rock | 13.00% | ~225 |
 | Natural Talent | 13.00% | ~225 |
 | The Unstoppable | 13.00% | ~225 |
-| Milestone collector | 12.00% | ~208 |
 | Superior | 12.00% | ~208 |
 | Scientist | 11.00% | ~191 |
 | Challenger | 10.00% | ~173 |
@@ -65,8 +65,8 @@ Rating: 4.10 (Ranked 892)
 | Gear Enchanting | 1.00% | ~17 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
+| Training makes a Pro player | 0.80% | ~14 |
 | Cauldron Liberator | 0.70% | ~12 |
-| Training makes a Pro player | 0.70% | ~12 |
 | Transmute | 0.70% | ~12 |
 | Titan Power | 0.60% | ~10 |
 | Tree of Life | 0.60% | ~10 |

@@ -1,11 +1,11 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 108)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,659 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,660 |
 | First Class Student | 11.00% | ~31,771 |
 | A Keen Sense of Spell | 10.00% | ~28,883 |
 | Troll with the Punches | 10.00% | ~28,883 |
@@ -21,15 +21,15 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 8.00% | ~23,106 |
 | Followed the Butterflies | 8.00% | ~23,106 |
 | Rising From the Ashes | 8.00% | ~23,106 |
+| The Avenging Gazelle | 7.00% | ~20,218 |
 | A Sallow Grave | 7.00% | ~20,218 |
 | The Spell Master | 7.00% | ~20,218 |
-| The Avenging Gazelle | 6.00% | ~17,330 |
 | Beast Friends | 6.00% | ~17,330 |
 | Flight the Good Flight | 6.00% | ~17,330 |
-| The Seeker of Knowledge | 5.00% | ~14,441 |
-| The Root of the Problem | 5.00% | ~14,441 |
-| Third Time's a Charm | 5.00% | ~14,441 |
-| Raising Expectations | 5.00% | ~14,441 |
+| The Seeker of Knowledge | 5.00% | ~14,442 |
+| The Root of the Problem | 5.00% | ~14,442 |
+| Third Time's a Charm | 5.00% | ~14,442 |
+| Raising Expectations | 5.00% | ~14,442 |
 | The Toast of the Town | 4.00% | ~11,553 |
 | The Ends Petrify the Means | 4.00% | ~11,553 |
 | Going Through the Potions | 3.00% | ~8,665 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,829 (Ranked 42)  
+Progressed: 288,830 (Ranked 42)  
 Completed: 436 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,15 +151,15 @@ Completed: 436 (0.15%) (Ranked 181)
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
 | 2023-07-28 | 288,784 | 435 |
-| 2023-07-29 | 288,829 | 436 |
+| 2023-07-29 | 288,830 | 436 |
 ## Awards
 Max (Character Customization): 21,360  (Ranked 17)  
-Sum: 40,075 (Ranked 30)  
+Sum: 40,091 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,360 |
-| This game has Great Boss Battles | 10,261 |
+| This game has Great Boss Battles | 10,277 |
 | This game is Great for Beginners | 941 |
 | This game is Extremely Fun | 924 |
 | This game is Relaxing | 908 |
@@ -300,4 +300,4 @@ Diff (max vs sum): -13
 | 2023-07-26 | 4.77 | 21,300 | 39,951 |
 | 2023-07-27 | 4.77 | 21,330 | 40,004 |
 | 2023-07-28 | 4.77 | 21,360 | 40,067 |
-| 2023-07-29 | 4.77 | 21,360 | 40,075 |
+| 2023-07-29 | 4.77 | 21,360 | 40,091 |

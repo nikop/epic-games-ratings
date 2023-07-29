@@ -7,7 +7,6 @@ Rating: 4.63 (Ranked 333)
 | ---- | ---------- | ----- |
 | Secret Technique | 5.00% | ~253 |
 | Tipping the Scales | 5.00% | ~253 |
-| There Can Only Be One! | 4.00% | ~202 |
 | Full Ascension | 4.00% | ~202 |
 | Realm Estate | 4.00% | ~202 |
 | A Wonderful Discovery | 4.00% | ~202 |
@@ -23,6 +22,7 @@ Rating: 4.63 (Ranked 333)
 | Blood of the Dragon | 4.00% | ~202 |
 | Mighty Hoard | 4.00% | ~202 |
 | Valley of Wonders | 3.00% | ~152 |
+| There Can Only Be One! | 3.00% | ~152 |
 | Return of the Wizard King | 3.00% | ~152 |
 | Digging for Treasure | 3.00% | ~152 |
 | Preparation Is Everything | 3.00% | ~152 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 333)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,057 (Ranked 138)  
+Progressed: 5,058 (Ranked 138)  
 Completed: 5 (0.10%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.10%) (Ranked 193)
 | 2023-07-26 | 5,050 | 5 |
 | 2023-07-27 | 5,052 | 5 |
 | 2023-07-28 | 5,055 | 5 |
-| 2023-07-29 | 5,057 | 5 |
+| 2023-07-29 | 5,058 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2066,9 +2066,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "MQ05_3",
@@ -2146,9 +2146,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "MQ08_3",
@@ -2179,8 +2179,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:06:01.3427539+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:06:46.7247437+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:57:57.9966806+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:06:01.3427871+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:49.4467314+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:06:46.7247887+00:00"
 }

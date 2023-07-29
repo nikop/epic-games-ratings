@@ -589,9 +589,9 @@
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:04:27.4935068+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:04:46.8612905+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.1854307+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:59:35.616882+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:04:27.4935288+00:00"
+  "LastUpdate_Ratings": "2023-07-29T12:00:01.6460125+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:04:46.8613185+00:00"
 }

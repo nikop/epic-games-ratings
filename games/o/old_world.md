@@ -19,19 +19,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Mason | 0.70% | ~92 |
+| Noble | 0.70% | ~92 |
+| Pioneer | 0.70% | ~92 |
 | Strong | 0.70% | ~92 |
 | Hanging Gardens | 0.70% | ~92 |
 | Oracle | 0.70% | ~92 |
 | Enlightened | 0.60% | ~79 |
 | Glorious | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
-| Noble | 0.60% | ~79 |
-| Pioneer | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
 | Judaism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
 | Naming Landmarks | 0.60% | ~79 |
 | Trade Caravan | 0.60% | ~79 |
+| Ambitious | 0.50% | ~66 |
 | Keystone | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
 | Warrior | 0.50% | ~66 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
-| Ambitious | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.20% | ~26 |
 | Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
+| Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
@@ -118,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
+| Military Prestige | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
@@ -210,7 +212,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 3 - Good | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
-| Learn to Play 4 | 0.10% | ~13 |
 | Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
@@ -235,7 +236,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
-| Military Prestige | 0.10% | ~13 |
 | Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,153 (Ranked 116)  
+Progressed: 13,155 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,153 | 5 |
+| 2023-07-29 | 13,155 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,785 (Ranked 206)  

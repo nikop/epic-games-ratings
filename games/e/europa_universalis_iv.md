@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,791 |
-| That's a Grand Army | 8.00% | ~6,036 |
-| That is mine! | 8.00% | ~6,036 |
-| Victorious! | 8.00% | ~6,036 |
-| Brothers in Arms | 6.00% | ~4,527 |
-| That's a Grand Navy | 6.00% | ~4,527 |
-| Seriously?! | 6.00% | ~4,527 |
-| For the Glory | 5.00% | ~3,773 |
-| Cold War | 4.00% | ~3,018 |
-| True Catholic | 4.00% | ~3,018 |
+| Until death do us apart | 9.00% | ~6,793 |
+| That's a Grand Army | 8.00% | ~6,038 |
+| That is mine! | 8.00% | ~6,038 |
+| Victorious! | 8.00% | ~6,038 |
+| Brothers in Arms | 6.00% | ~4,528 |
+| That's a Grand Navy | 6.00% | ~4,528 |
+| Seriously?! | 6.00% | ~4,528 |
+| For the Glory | 5.00% | ~3,774 |
+| Cold War | 4.00% | ~3,019 |
+| True Catholic | 4.00% | ~3,019 |
 | Defender of the Faith | 3.00% | ~2,264 |
 | It's all about luck | 3.00% | ~2,264 |
 | It's all about the money | 3.00% | ~2,264 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,454 (Ranked 75)  
+Progressed: 75,473 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,15 +461,15 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
-| 2023-07-29 | 75,454 | 0 |
+| 2023-07-29 | 75,473 | 0 |
 ## Awards
 Max (Educational): 5,593  (Ranked 61)  
-Sum: 46,119 (Ranked 26)  
+Sum: 46,123 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,593 |
-| This game is Highly Recommended | 5,351 |
+| This game is Highly Recommended | 5,355 |
 | This game has Challenging Combat | 5,305 |
 | This game is Extremely Fun | 5,299 |
 | This game has Diverse Characters | 5,266 |
@@ -674,4 +674,4 @@ Diff (max vs sum): 35
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
 | 2023-07-27 | 4.69 | - | 5,587 | 46,075 |
 | 2023-07-28 | 4.69 | - | 5,593 | 46,113 |
-| 2023-07-29 | 4.69 | - | 5,593 | 46,119 |
+| 2023-07-29 | 4.69 | - | 5,593 | 46,123 |

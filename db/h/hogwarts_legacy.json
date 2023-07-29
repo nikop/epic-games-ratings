@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 109,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5536,10 +5536,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40075,
       "NumberOfAwardsMax": 21360
+    },
+    {
+      "Time": "2023-07-29T11:57:59.0812249+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40091,
+      "NumberOfAwardsMax": 21360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40075,
+  "NumberOfAwards": 40091,
   "NumberOfAwardsMax": 21360,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5553,7 +5559,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10261
+      "Count": 10277
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5616,9 +5622,9 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288829,
+  "EOS_Progressed": 288830,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16361,6 +16367,11 @@
       "Time": "2023-07-29T11:04:39.8400779+00:00",
       "NumProgressed": 288829,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-07-29T12:05:02.9898528+00:00",
+      "NumProgressed": 288830,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 45,
@@ -16372,7 +16383,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34659
+      "UsersEstimate": 34660
     },
     {
       "ID": "PFA_10",
@@ -16412,15 +16423,15 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14441
+      "UsersEstimate": 14442
     },
     {
       "ID": "PFA_15",
       "SetID": "1hf4dep",
       "Name": "The Avenging Gazelle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17330
+      "UsersEstimate": 20218
     },
     {
       "ID": "PFA_16",
@@ -16508,7 +16519,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14441
+      "UsersEstimate": 14442
     },
     {
       "ID": "PFA_26",
@@ -16540,7 +16551,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14441
+      "UsersEstimate": 14442
     },
     {
       "ID": "PFA_3",
@@ -16660,7 +16671,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14441
+      "UsersEstimate": 14442
     },
     {
       "ID": "PFA_43",
@@ -16731,16 +16742,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288829,
+      "Progressed": 288830,
       "Completed": 436
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-29T02:57:48.9524103+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:04:39.8400775+00:00",
+  "LastChanged": "2023-07-29T11:57:59.0812246+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:05:02.9898522+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:58:05.8665971+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:04:39.840182+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:59.0812253+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:05:02.9899869+00:00"
 }

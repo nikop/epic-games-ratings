@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 36.00% | ~435 |
+| Grenadier | 35.00% | ~423 |
 | War Never Changes | 35.00% | ~423 |
-| Grenadier | 34.00% | ~411 |
 | Heroes Never Die | 31.00% | ~374 |
 | Mosquito bite | 30.00% | ~362 |
 | Spice It Up | 26.00% | ~314 |
@@ -26,8 +26,8 @@ Number of Ratings: 98  (23.09.2022)
 | No Witness | 5.00% | ~60 |
 | Strategist | 3.00% | ~36 |
 | Unbreakable Wall | 2.00% | ~24 |
+| Do a Barrel Roll! | 1.00% | ~12 |
 | Experienced Strategist | 1.00% | ~12 |
-| Do a Barrel Roll! | 0.90% | ~11 |
 | How?! | 0.70% | ~8 |
 | Tough as Nails | 0.30% | ~4 |
 | Commandos | 0.20% | ~2 |

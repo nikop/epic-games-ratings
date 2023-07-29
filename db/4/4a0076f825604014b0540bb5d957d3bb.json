@@ -188,9 +188,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -220,9 +220,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -260,9 +260,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -316,9 +316,9 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:04:05.860365+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:04:18.5018752+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:57:30.6652275+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:04:05.8603841+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:57:17.0049598+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:04:18.5019045+00:00"
 }

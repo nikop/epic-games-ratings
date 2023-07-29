@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13153,
+  "EOS_Progressed": 13155,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8744,6 +8744,11 @@
       "Time": "2023-07-29T09:05:30.0980372+00:00",
       "NumProgressed": 13153,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T12:06:19.998029+00:00",
+      "NumProgressed": 13155,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9089,9 +9094,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -9321,9 +9326,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -9345,9 +9350,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -10297,9 +10302,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -10705,9 +10710,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -11122,21 +11127,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13153,
+      "Progressed": 13155,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13153,
+      "Progressed": 13155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-29T11:05:40.904976+00:00",
+  "LastChanged_Achievements": "2023-07-29T12:06:19.9980285+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:58:30.5590531+00:00",
-  "LastUpdate_Achievements": "2023-07-29T11:05:40.9059223+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:58:36.1305957+00:00",
+  "LastUpdate_Achievements": "2023-07-29T12:06:19.999003+00:00"
 }
