@@ -8,6 +8,7 @@ Rating: 4.60 (Ranked 393)
 | Time Heals All Wounds | 22.00% | ~176 |
 | Rail Rat | 19.00% | ~152 |
 | The Mysterious Stranger | 18.00% | ~144 |
+| Immaculate Aim | 17.00% | ~136 |
 | The Steel Shadow | 16.00% | ~128 |
 | Make Up For Lost Time | 16.00% | ~128 |
 | Time Flies | 16.00% | ~128 |
@@ -15,7 +16,6 @@ Rating: 4.60 (Ranked 393)
 | Breaking Down Barriers | 16.00% | ~128 |
 | The Wicked Twins | 16.00% | ~128 |
 | The Prince in Heels | 16.00% | ~128 |
-| Immaculate Aim | 16.00% | ~128 |
 | Immaculate Aim | 16.00% | ~128 |
 | The Brass Boss | 16.00% | ~128 |
 | The Betrayer | 15.00% | ~120 |
@@ -36,15 +36,15 @@ Rating: 4.60 (Ranked 393)
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
 | Family Memories | 9.00% | ~72 |
+| Sump Explorer | 9.00% | ~72 |
 | Theater Explorer | 9.00% | ~72 |
 | Ask Questions Later | 9.00% | ~72 |
 | Fairgrounds Explorer | 8.00% | ~64 |
-| Sump Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
+| Corin Goes Home | 7.00% | ~56 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
 | Factorywood Explorer | 7.00% | ~56 |
-| Corin Goes Home | 6.00% | ~48 |
 | Sartorialist | 6.00% | ~48 |
 | Golem Hunter | 5.00% | ~40 |
 | Rungs Was Right | 5.00% | ~40 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798 (Ranked 200)  
+Progressed: 799 (Ranked 200)  
 Completed: 4 (0.50%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 4 (0.50%) (Ranked 137)
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
-| 2023-07-29 | 798 | 4 |
+| 2023-07-29 | 799 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

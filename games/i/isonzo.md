@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,572 |
-| Tutti Eroi! | 55.00% | ~3,572 |
-| You Shall Not Pass | 53.00% | ~3,442 |
+| Peak Performance | 55.00% | ~3,573 |
+| Tutti Eroi! | 55.00% | ~3,573 |
+| You Shall Not Pass | 53.00% | ~3,443 |
 | Avanti Savoia! | 47.00% | ~3,053 |
-| Mamma Mia! | 37.00% | ~2,403 |
-| Conrad von Hotzensocks | 36.00% | ~2,338 |
-| Gabriele D'Annunzio | 33.00% | ~2,143 |
+| Mamma Mia! | 37.00% | ~2,404 |
+| Conrad von Hotzensocks | 36.00% | ~2,339 |
+| Gabriele D'Annunzio | 33.00% | ~2,144 |
 | Silver Lining | 29.00% | ~1,884 |
 | Aurelio Baruzzi | 23.00% | ~1,494 |
 | Veni Vidi Vici | 22.00% | ~1,429 |
@@ -27,10 +27,10 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 14.00% | ~909 |
 | Uomo Universale | 14.00% | ~909 |
 | Shaken, Not Stirred | 13.00% | ~844 |
-| Die Bosniaken Kommen! | 12.00% | ~779 |
-| Machiavelli | 12.00% | ~779 |
-| Dante's Inferno | 11.00% | ~714 |
-| The Devil's Paintbrush | 11.00% | ~714 |
+| Die Bosniaken Kommen! | 12.00% | ~780 |
+| Machiavelli | 12.00% | ~780 |
+| Dante's Inferno | 11.00% | ~715 |
+| The Devil's Paintbrush | 11.00% | ~715 |
 | I Have the High Ground | 10.00% | ~650 |
 | Millenial | 10.00% | ~650 |
 | The Show Must Go On | 9.00% | ~585 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,495 (Ranked 133)  
+Progressed: 6,496 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,19 +147,19 @@ Completed: 8 (0.12%) (Ranked 188)
 | 2023-07-26 | 6,459 | 8 |
 | 2023-07-27 | 6,470 | 8 |
 | 2023-07-28 | 6,484 | 8 |
-| 2023-07-29 | 6,495 | 8 |
+| 2023-07-29 | 6,496 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
-Sum: 259 (Ranked 348)  
+Sum: 260 (Ranked 348)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
 | This game is Extremely Fun | 32 |
+| This game has Diverse Characters | 29 |
 | This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Challenging Combat | 28 |
-| This game has Diverse Characters | 28 |
 | This game has Realistic Visuals | 28 |
 | This game is Educational | 27 |
 | This game has Competitive Players | 24 |
@@ -260,3 +260,4 @@ Diff (max vs sum): 88
 | 2023-07-16 | 4.56 | - | 35 | 257 |
 | 2023-07-22 | 4.56 | - | 35 | 258 |
 | 2023-07-28 | 4.56 | - | 35 | 259 |
+| 2023-07-29 | 4.56 | - | 35 | 260 |

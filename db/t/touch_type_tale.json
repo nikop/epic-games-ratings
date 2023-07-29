@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3086,
+  "EOS_Progressed": 3087,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -2589,6 +2589,11 @@
       "Time": "2023-07-29T14:04:25.3790947+00:00",
       "NumProgressed": 3086,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-29T16:04:43.5394576+00:00",
+      "NumProgressed": 3087,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2688,7 +2693,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "campaign15",
@@ -2736,7 +2741,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "campaign20",
@@ -2752,7 +2757,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "campaign4",
@@ -2760,7 +2765,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "campaign5",
@@ -2768,7 +2773,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "campaign6",
@@ -2808,7 +2813,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "scenario2",
@@ -2863,7 +2868,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3086,
+      "Progressed": 3087,
       "Completed": 10
     }
   ],
@@ -2871,8 +2876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:25.8593901+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:04:43.5394566+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:00:21.2673237+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:25.8594317+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:01:16.4794833+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:04:43.5395578+00:00"
 }

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 798,
+  "EOS_Progressed": 799,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1825,6 +1825,11 @@
       "Time": "2023-07-29T15:04:20.0017315+00:00",
       "NumProgressed": 798,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T16:04:36.7152527+00:00",
+      "NumProgressed": 799,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1874,9 +1879,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "ClockworkProgress1",
@@ -2178,9 +2183,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "SyronGift",
@@ -2210,9 +2215,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "WarwickDefeated",
@@ -2259,7 +2264,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 798,
+      "Progressed": 799,
       "Completed": 4
     }
   ],
@@ -2267,8 +2272,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:20.0017306+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:04:36.7152517+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:59:40.4031549+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:20.001788+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:00:17.3560692+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:04:36.7153652+00:00"
 }

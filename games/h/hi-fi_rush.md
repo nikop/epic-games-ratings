@@ -40,9 +40,9 @@ Rating: 4.87 (Ranked 24)
 | I told you I'd be fine, Peppermint! | 0.70% | ~25 |
 | Check out my moves! | 0.70% | ~25 |
 | Call me Turbo Chai | 0.70% | ~15 |
+| I think I deserve some praise, here! | 0.50% | ~18 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
-| I think I deserve some praise, here! | 0.40% | ~14 |
 | This is a breeze! | 0.40% | ~14 |
 | First we parry, then we counter | 0.40% | ~14 |
 | I hit things with a guitar really well. | 0.40% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,621 (Ranked 146)  
+Progressed: 3,622 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 6 (0.17%) (Ranked 176)
 | 2023-07-26 | 3,589 | 6 |
 | 2023-07-27 | 3,601 | 6 |
 | 2023-07-28 | 3,610 | 6 |
-| 2023-07-29 | 3,621 | 6 |
+| 2023-07-29 | 3,622 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

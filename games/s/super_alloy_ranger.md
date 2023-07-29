@@ -19,8 +19,8 @@
 | Phew! | 15.00% | ~8 |
 | Grand Escape | 12.00% | ~6 |
 | Space Warrior: Prologue | 12.00% | ~6 |
+| Keep it Up, rookie! | 10.00% | ~5 |
 | The Abyss Conqueror | 8.00% | ~4 |
-| Keep it Up, rookie! | 8.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |

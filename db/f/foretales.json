@@ -399,9 +399,9 @@
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "theMediumPlace",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:05:19.4222758+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:50.4727315+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:53.7768609+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:57:15.7573786+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:05:19.4223088+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:57:07.4203576+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:50.4727977+00:00"
 }

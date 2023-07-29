@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -428,9 +428,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3369,
+  "EOS_Progressed": 3370,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5458,6 +5458,11 @@
       "Time": "2023-07-29T10:04:30.1065692+00:00",
       "NumProgressed": 3369,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-29T16:05:02.2121063+00:00",
+      "NumProgressed": 3370,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5747,9 +5752,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -6036,13 +6041,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3320,
+      "Progressed": 3321,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3369,
+      "Progressed": 3370,
       "Completed": 9
     }
   ],
@@ -6050,8 +6055,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-23T20:57:10.3195862+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:41.2651965+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:02.2121054+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:23.0951004+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:57:27.0002012+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:41.2652973+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:57:24.0140977+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:02.212291+00:00"
 }

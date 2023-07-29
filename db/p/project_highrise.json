@@ -1019,9 +1019,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_mod_1",
@@ -1364,8 +1364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:02:05.7034555+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:02:18.3996042+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:31.055059+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:02:05.7035688+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:58:49.9391584+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:02:18.3997689+00:00"
 }

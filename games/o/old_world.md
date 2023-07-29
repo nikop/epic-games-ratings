@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
+| Enlightenment | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Veneration | 0.20% | ~26 |
@@ -236,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
-| Enlightenment | 0.10% | ~13 |
 | Gnosticism | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,157 (Ranked 117)  
+Progressed: 13,158 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,157 | 5 |
+| 2023-07-29 | 13,158 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,785 (Ranked 206)  

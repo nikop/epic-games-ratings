@@ -1624,9 +1624,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 245564,
+  "EOS_Progressed": 245584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2605,
+  "EOS_NewPlayers": 2603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12559,6 +12559,11 @@
       "Time": "2023-07-29T15:05:14.1506916+00:00",
       "NumProgressed": 245564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T16:05:43.7955322+00:00",
+      "NumProgressed": 245584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -12618,7 +12623,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27012
+      "UsersEstimate": 27014
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -12690,7 +12695,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7367
+      "UsersEstimate": 7368
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -12730,7 +12735,7 @@
       "Name": "I Found it!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22101
+      "UsersEstimate": 22103
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -12738,7 +12743,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12778,7 +12783,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7367
+      "UsersEstimate": 7368
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -12794,7 +12799,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 201362
+      "UsersEstimate": 201379
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -12802,22 +12807,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 95770
+      "UsersEstimate": 95778
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 245564,
+      "Progressed": 245584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-07-29T11:59:43.7569206+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:05:14.150691+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:43.7955314+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.1755245+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:59:22.1395904+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:05:14.1507908+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:54.5553519+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:43.7956952+00:00"
 }

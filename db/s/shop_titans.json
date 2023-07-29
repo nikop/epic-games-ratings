@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5320,9 +5320,9 @@
       "Count": 3717
     }
   ],
-  "EOS_Progressed": 133489,
+  "EOS_Progressed": 133490,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15480,6 +15480,11 @@
       "Time": "2023-07-29T15:03:39.2728753+00:00",
       "NumProgressed": 133489,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-07-29T16:04:04.670903+00:00",
+      "NumProgressed": 133490,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 112,
@@ -15753,9 +15758,9 @@
       "ID": "craft01",
       "SetID": "anfd17p",
       "Name": "Disintermediation",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 400
     },
     {
       "ID": "craft02",
@@ -16265,9 +16270,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 400
     },
     {
       "ID": "sell02",
@@ -16386,15 +16391,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133489,
+      "Progressed": 133490,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-29T06:58:40.4572623+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:03:39.2728748+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:04:04.6709022+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:57.0985033+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:03:39.2730911+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:21.5995868+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:04:04.67122+00:00"
 }

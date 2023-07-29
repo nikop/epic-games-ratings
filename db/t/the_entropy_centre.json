@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -807,9 +807,9 @@
       "ID": "ACH_ACT14",
       "SetID": "2310cb1",
       "Name": "Final Charge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ACT15",
@@ -992,8 +992,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:06:42.1290936+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:07:34.2885306+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2377059+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:08.3005305+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:06:42.1291173+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:58:15.2719735+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:07:34.288557+00:00"
 }

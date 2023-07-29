@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-07-29T12:03:55.1948164+00:00",
       "NumProgressed": 761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T16:04:19.8558789+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -519,7 +524,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "11",
@@ -551,7 +556,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "15",
@@ -613,9 +618,9 @@
       "ID": "21",
       "SetID": "4n5bj21",
       "Name": "Participation trophy",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 175
     },
     {
       "ID": "22",
@@ -767,7 +772,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "9",
@@ -775,14 +780,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 0
     }
   ],
@@ -790,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:03:51.4336775+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:04:19.8558781+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.7257654+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:50.3631987+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:03:51.4337089+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:14.0154968+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:04:19.8559268+00:00"
 }

@@ -22,9 +22,9 @@
 | Potent Potables | 23.00% | ~66 |
 | Retail Revenue | 23.00% | ~66 |
 | Lux Living | 21.00% | ~60 |
+| Don't Feel a Loan | 21.00% | ~60 |
 | People Mover | 21.00% | ~60 |
 | Leveled Up Shops | 21.00% | ~60 |
-| Don't Feel a Loan | 20.00% | ~57 |
 | Emporium Empire | 20.00% | ~57 |
 | Get Electrified | 20.00% | ~57 |
 | Artfully Done | 19.00% | ~54 |

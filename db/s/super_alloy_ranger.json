@@ -530,9 +530,9 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_33",
@@ -691,8 +691,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:45.3363452+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:07.2217988+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.9463353+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:00:10.7120432+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:45.3363916+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:01:00.135835+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:07.2218453+00:00"
 }

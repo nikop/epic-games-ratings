@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -257,9 +257,9 @@
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "EGLE_FREED",
@@ -362,8 +362,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:06:40.1199075+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:07:31.6360008+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:58.8421701+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:37.5554569+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:06:40.1199215+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:58:58.3434149+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:07:31.636019+00:00"
 }

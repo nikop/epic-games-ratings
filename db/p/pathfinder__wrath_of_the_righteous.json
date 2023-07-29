@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3222,10 +3222,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6857,
       "NumberOfAwardsMax": 1694
+    },
+    {
+      "Time": "2023-07-29T15:59:20.3300681+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6858,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6857,
+  "NumberOfAwards": 6858,
   "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3251,7 +3257,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 624
+      "Count": 625
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3296,9 +3302,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10662,
+  "EOS_Progressed": 10663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9646,6 +9652,11 @@
       "Time": "2023-07-29T15:02:05.7082266+00:00",
       "NumProgressed": 10662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T16:02:18.5413666+00:00",
+      "NumProgressed": 10663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9729,7 +9740,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "11_PathOfAeon",
@@ -9785,7 +9796,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "18_MythicChoices",
@@ -9793,7 +9804,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "19_EqualToAroden",
@@ -9841,7 +9852,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "25_MasterfulDispell",
@@ -9905,7 +9916,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10001,7 +10012,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "46_AllPathsOpen",
@@ -10081,7 +10092,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "56_GetToad",
@@ -10089,7 +10100,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "57_PathOfDevil",
@@ -10584,21 +10595,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9444,
+      "Progressed": 9445,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10662,
+      "Progressed": 10663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-29T13:00:50.2897869+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:02:05.7082263+00:00",
+  "LastChanged": "2023-07-29T15:59:20.3300679+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:02:18.5413657+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:56.198858+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:02:05.7084303+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:20.3300686+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:02:18.5417475+00:00"
 }

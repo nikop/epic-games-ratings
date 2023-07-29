@@ -3,7 +3,7 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 909,
-  "Ranking_Popularity": 66,
+  "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 111,
@@ -5368,7 +5368,7 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216726,
+  "EOS_Progressed": 216746,
   "EOS_Completed": 2136,
   "EOS_NewPlayers": 2222,
   "EOS_NewCompleters": 76,
@@ -16118,6 +16118,11 @@
       "Time": "2023-07-29T15:03:36.2597553+00:00",
       "NumProgressed": 216726,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-07-29T16:04:01.3766656+00:00",
+      "NumProgressed": 216746,
+      "NumCompleted": 2136
     }
   ],
   "TotalAchievements": 512,
@@ -19487,9 +19492,9 @@
       "ID": "objective_completed_827",
       "SetID": "415jc5c",
       "Name": "Dwarven Rumors",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 366
     },
     {
       "ID": "objective_completed_828",
@@ -20224,21 +20229,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183000,
+      "Progressed": 183020,
       "Completed": 3025
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216726,
+      "Progressed": 216746,
       "Completed": 2136
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-29T13:00:35.9680653+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:03:36.2597548+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:04:01.3766652+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:40.0884849+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:03:36.2627258+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:00.8648764+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:04:01.3799133+00:00"
 }

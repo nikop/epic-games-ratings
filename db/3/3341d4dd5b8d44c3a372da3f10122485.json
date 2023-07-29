@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 80,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Intro",
@@ -262,17 +262,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 83,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 83,
+      "Percentage": 87,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Konec",
@@ -302,17 +302,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Poklop",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:55.3864898+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:20.0429232+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.1674151+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:57:33.738876+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:55.3865009+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:57:31.5316259+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:20.0429431+00:00"
 }

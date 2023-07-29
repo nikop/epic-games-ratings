@@ -193,9 +193,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 31800,
+  "EOS_Progressed": 31805,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11038,6 +11038,11 @@
       "Time": "2023-07-29T15:04:44.8256151+00:00",
       "NumProgressed": 31800,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-29T16:05:06.6089872+00:00",
+      "NumProgressed": 31805,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11049,7 +11054,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4770
+      "UsersEstimate": 4771
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11057,7 +11062,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11079,9 +11084,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -11271,16 +11276,16 @@
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
       "SetID": "443p4o4",
       "Name": "Death or Glory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31800,
+      "Progressed": 31805,
       "Completed": 20
     }
   ],
@@ -11288,8 +11293,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-23T15:00:30.0018662+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:04:44.8256145+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:06.6089866+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-07-29T15:00:12.6055942+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:04:44.825698+00:00"
+  "LastUpdate_Ratings": "2023-07-29T16:01:02.5394628+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:06.6090792+00:00"
 }

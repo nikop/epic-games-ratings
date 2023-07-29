@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1959,9 +1959,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "MQ02_1",
@@ -2119,9 +2119,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "MQ07_1",
@@ -2184,8 +2184,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:06:22.4945162+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:07:09.2825396+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:57:56.1053329+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:06:22.4945547+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:58:00.8512377+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:07:09.2825954+00:00"
 }

@@ -26,12 +26,12 @@
 | Food Tycoon | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
+| Human Resources | 2.00% | ~2 |
 | Tear Down the Wall! | 0.90% | ~1 |
 | Vive le Résistance | 0.90% | ~1 |
 | No News is Good News | 0.90% | ~1 |
 | Snowman | 0.90% | ~1 |
 | Overpopulation | 0.90% | ~1 |
-| Human Resources | 0.90% | ~1 |
 | Reconquest | 0.90% | ~1 |
 | Fuel Tycoon | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |

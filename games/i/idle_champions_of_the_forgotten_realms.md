@@ -187,6 +187,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~366 |
 | Durable Deep | 0.20% | ~433 |
 | Expert Opinion | 0.20% | ~433 |
+| Dwarven Rumors | 0.20% | ~366 |
 | The Haunted Jungle | 0.20% | ~433 |
 | Rescue in the Jungle | 0.20% | ~433 |
 | All The World's A Stage | 0.20% | ~366 |
@@ -449,7 +450,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~183 |
 | Relentless Peril | 0.10% | ~183 |
 | Rickety Rubble | 0.10% | ~183 |
-| Dwarven Rumors | 0.10% | ~183 |
 | Mimic Perception | 0.10% | ~183 |
 | Frozen in Fear | 0.10% | ~183 |
 | It's Cold Out There Today | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,726 (Ranked 53)  
+Progressed: 216,746 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,11 +619,11 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,726 | 2,136 |
+| 2023-07-29 | 216,746 | 2,136 |
 ## Awards
-Max (Diverse Characters): 5,093  (Ranked 66)  
+Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  
-Diff (max vs sum): 28  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,093 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2371,6 +2371,11 @@
       "Time": "2023-07-29T14:06:06.9582004+00:00",
       "NumProgressed": 687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T16:06:26.9285721+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2382,7 +2387,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2406,7 +2411,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2454,7 +2459,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_headquarters_10",
@@ -2470,7 +2475,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_headquarters_20",
@@ -2486,7 +2491,7 @@
       "Name": "Facility Online",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2500,9 +2505,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2558,7 +2563,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2590,7 +2595,7 @@
       "Name": "Stocking Up",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2606,7 +2611,7 @@
       "Name": "On Target",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2685,14 +2690,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:05:48.8003102+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:06:26.9285713+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
   "LastUpdate_Ratings": "2023-07-29T15:00:33.6135707+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:05:48.800352+00:00"
+  "LastUpdate_Achievements": "2023-07-29T16:06:26.9286465+00:00"
 }

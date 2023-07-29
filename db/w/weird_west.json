@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1751,
+  "EOS_Progressed": 1752,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1575,6 +1575,11 @@
       "Time": "2023-07-29T13:06:42.7886196+00:00",
       "NumProgressed": 1751,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T16:05:30.0525777+00:00",
+      "NumProgressed": 1752,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1594,7 +1599,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1666,7 +1671,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1818,7 +1823,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1834,7 +1839,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1946,7 +1951,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1962,7 +1967,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1970,7 +1975,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2009,15 +2014,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1751,
+      "Progressed": 1752,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-29T15:05:03.1608643+00:00",
+  "LastChanged_Achievements": "2023-07-29T16:05:30.0525768+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-29T14:58:58.2270117+00:00",
-  "LastUpdate_Achievements": "2023-07-29T15:05:03.1609165+00:00"
+  "LastUpdate_Ratings": "2023-07-29T15:59:23.2519763+00:00",
+  "LastUpdate_Achievements": "2023-07-29T16:05:30.0526736+00:00"
 }
