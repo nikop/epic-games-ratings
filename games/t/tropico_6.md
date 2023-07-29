@@ -15,7 +15,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Governator | 18.00% | ~789 |
 | The Legend of Langostino | 17.00% | ~745 |
 | Caribbean Comrade | 16.00% | ~701 |
-| The Dreamer of Dreams | 15.00% | ~658 |
+| The Dreamer of Dreams | 16.00% | ~701 |
 | Go Sovereigns! | 11.00% | ~482 |
 | For Science! | 11.00% | ~482 |
 | Happy Ending? | 10.00% | ~438 |

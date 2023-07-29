@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 777,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1520,6 +1520,11 @@
       "Time": "2023-07-29T05:07:28.474512+00:00",
       "NumProgressed": 776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T06:07:30.8625741+00:00",
+      "NumProgressed": 777,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1529,9 +1534,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH001",
@@ -1539,7 +1544,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH002",
@@ -1587,7 +1592,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH008",
@@ -1619,7 +1624,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH012",
@@ -1699,7 +1704,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH022",
@@ -1747,7 +1752,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH028",
@@ -1819,7 +1824,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH037",
@@ -1835,7 +1840,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH039",
@@ -1915,7 +1920,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH049",
@@ -1930,15 +1935,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 777,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:07:28.4745114+00:00",
+  "LastChanged_Achievements": "2023-07-29T06:07:30.8625737+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.9634197+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:01:15.2906344+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:07:28.4745505+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:01:06.9922644+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:07:30.8626105+00:00"
 }

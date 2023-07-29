@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247275,
+  "EOS_Progressed": 247276,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9669,6 +9669,11 @@
       "Time": "2023-07-29T05:05:27.895107+00:00",
       "NumProgressed": 247275,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T06:04:13.4784566+00:00",
+      "NumProgressed": 247276,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9728,7 +9733,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "canYouDigIt",
@@ -9912,7 +9917,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34618
+      "UsersEstimate": 34619
     },
     {
       "ID": "myFirstRunbow",
@@ -10047,7 +10052,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247275,
+      "Progressed": 247276,
       "Completed": 3
     }
   ],
@@ -10055,8 +10060,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:05:27.8951063+00:00",
+  "LastChanged_Achievements": "2023-07-29T06:04:13.478456+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:02:06.8334077+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:05:27.895183+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:01:57.8996068+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:04:13.4785311+00:00"
 }

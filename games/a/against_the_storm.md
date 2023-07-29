@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 4.00% | ~642 |
 | Homesick | 3.00% | ~482 |
 | Bandit Camp | 3.00% | ~482 |
+| Barren Lands | 3.00% | ~482 |
 | Ancient Battleground | 3.00% | ~482 |
 | Lost Colonies | 3.00% | ~482 |
 | Watchtower | 3.00% | ~482 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~321 |
 | Against All Odds | 2.00% | ~321 |
 | Ruined Armory | 2.00% | ~321 |
-| Barren Lands | 2.00% | ~321 |
 | Sparkdew Crystals | 2.00% | ~321 |
 | Dangerous Lands | 2.00% | ~321 |
 | Forbidden Lands | 2.00% | ~321 |

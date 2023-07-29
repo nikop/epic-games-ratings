@@ -5616,9 +5616,9 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288808,
+  "EOS_Progressed": 288811,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16336,6 +16336,11 @@
       "Time": "2023-07-29T05:07:16.6500325+00:00",
       "NumProgressed": 288808,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-07-29T06:07:15.6094935+00:00",
+      "NumProgressed": 288811,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 45,
@@ -16387,7 +16392,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "PFA_15",
@@ -16395,7 +16400,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17328
+      "UsersEstimate": 17329
     },
     {
       "ID": "PFA_16",
@@ -16411,7 +16416,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17328
+      "UsersEstimate": 17329
     },
     {
       "ID": "PFA_18",
@@ -16427,7 +16432,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17328
+      "UsersEstimate": 17329
     },
     {
       "ID": "PFA_2",
@@ -16483,7 +16488,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "PFA_26",
@@ -16515,7 +16520,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "PFA_3",
@@ -16635,7 +16640,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "PFA_43",
@@ -16706,7 +16711,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288808,
+      "Progressed": 288811,
       "Completed": 436
     }
   ],
@@ -16714,8 +16719,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-29T02:57:48.9524103+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:07:16.6500319+00:00",
+  "LastChanged_Achievements": "2023-07-29T06:07:15.6094929+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:00:10.0129382+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:07:16.6501113+00:00"
+  "LastUpdate_Ratings": "2023-07-29T05:59:52.1133957+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:07:15.6095699+00:00"
 }

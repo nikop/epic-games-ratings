@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,052 |
+| Diligence as a goal | 5.00% | ~1,053 |
 | Project Arena | 4.00% | ~842 |
 | The Old Grandmaster | 2.00% | ~14,235 |
 | The Assault | 2.00% | ~14,235 |
@@ -20,29 +20,29 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,235 |
 | Rumble in the Hangar | 2.00% | ~14,235 |
 | Bloody Sport | 2.00% | ~421 |
-| Lady Wing Chun | 1.00% | ~7,117 |
-| Furious Fists | 1.00% | ~7,117 |
-| Scareless | 1.00% | ~7,117 |
-| Kill Nil | 1.00% | ~7,117 |
-| Stuntmaster | 1.00% | ~7,117 |
-| Dance of the Praying Mantis | 1.00% | ~7,117 |
-| Street Fighting | 1.00% | ~7,117 |
-| Qi Gong: Mind | 1.00% | ~7,117 |
-| I know Kung-Fu | 1.00% | ~7,117 |
-| Old Child | 1.00% | ~7,117 |
-| Kung-Fu Tussle | 1.00% | ~7,117 |
-| Take damage to save time | 1.00% | ~7,117 |
-| The best strikes are the ones we avoid | 1.00% | ~210 |
+| Lady Wing Chun | 1.00% | ~7,118 |
+| Furious Fists | 1.00% | ~7,118 |
+| Scareless | 1.00% | ~7,118 |
+| Kill Nil | 1.00% | ~7,118 |
+| Stuntmaster | 1.00% | ~7,118 |
+| Dance of the Praying Mantis | 1.00% | ~7,118 |
+| Street Fighting | 1.00% | ~7,118 |
+| Qi Gong: Mind | 1.00% | ~7,118 |
+| I know Kung-Fu | 1.00% | ~7,118 |
+| Old Child | 1.00% | ~7,118 |
+| Kung-Fu Tussle | 1.00% | ~7,118 |
+| Take damage to save time | 1.00% | ~7,118 |
+| The best strikes are the ones we avoid | 1.00% | ~211 |
 | Muk Yan Master | 0.70% | ~4,982 |
 | Tiger on Fire | 0.70% | ~4,982 |
 | Source of Flying Daggers | 0.70% | ~4,982 |
 | Detective Story | 0.70% | ~4,982 |
 | Deadly Venom | 0.70% | ~147 |
 | A Touch of Acumen | 0.70% | ~147 |
-| Iron Money | 0.60% | ~4,270 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,270 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,270 |
-| Sword Stained With Blood | 0.60% | ~4,270 |
+| Iron Money | 0.60% | ~4,271 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,271 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,271 |
+| Sword Stained With Blood | 0.60% | ~4,271 |
 | Prodigal Child | 0.50% | ~3,559 |
 | Martial Artist | 0.40% | ~2,847 |
 | Knowledge Greed | 0.40% | ~2,847 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,135 |
 | Be like water my friend | 0.30% | ~2,135 |
 | Come Snap With Me | 0.30% | ~2,135 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,423 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,749 (Ranked 20)  
+Progressed: 711,753 (Ranked 20)  
 Completed: 12,834 (1.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 12,834 (1.80%) (Ranked 91)
 | 2023-07-26 | 711,558 | 12,833 |
 | 2023-07-27 | 711,630 | 12,833 |
 | 2023-07-28 | 711,733 | 12,834 |
-| 2023-07-29 | 711,749 | 12,834 |
+| 2023-07-29 | 711,753 | 12,834 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 53)  
 Sum: 10,837 (Ranked 80)  

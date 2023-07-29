@@ -8205,9 +8205,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 482
     },
     {
       "ID": "WinNearBattleground",
@@ -8485,8 +8485,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-27T01:51:43.2789944+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:06:39.9355175+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T04:57:59.1887181+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:02:57.8463993+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:06:39.9355778+00:00"
+  "LastChanged_Achievements": "2023-07-29T06:06:26.7032528+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T05:57:58.4052315+00:00",
+  "LastUpdate_Ratings": "2023-07-29T06:02:57.0058075+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:06:26.70331+00:00"
 }

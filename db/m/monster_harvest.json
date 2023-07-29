@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.14,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -207,6 +207,11 @@
       "Time": "2023-07-28T19:08:38.5157878+00:00",
       "NumProgressed": 255,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-29T06:09:26.8011452+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 10,
@@ -248,9 +253,9 @@
       "ID": "MY_FIRST_PLANIMAL",
       "SetID": "ca3djk0",
       "Name": "My first Planimal!",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -258,7 +263,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -280,9 +285,9 @@
       "ID": "TO_THE_REC_CENTER",
       "SetID": "ca3djk0",
       "Name": "To the Rec Center!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -290,14 +295,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 8
     }
   ],
@@ -305,8 +310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:10:07.0283949+00:00",
+  "LastChanged_Achievements": "2023-07-29T06:09:26.8011447+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.6242852+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:01:04.2967327+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:10:07.0284035+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:00:55.1578904+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:09:26.8011545+00:00"
 }

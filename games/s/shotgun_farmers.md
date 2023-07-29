@@ -19,9 +19,9 @@
 | Bouncemato | 28.00% | ~52 |
 | 15K | 27.00% | ~63 |
 | Grave Digger | 23.00% | ~43 |
+| Drinking Problem | 22.00% | ~52 |
 | Quick-Draw Pod | 22.00% | ~41 |
 | Professional Survivor | 22.00% | ~41 |
-| Drinking Problem | 21.00% | ~49 |
 | Pork Chop Express | 17.00% | ~40 |
 | Skin Of Your Teeth | 14.00% | ~33 |
 | Eggtraordinary | 13.00% | ~31 |
@@ -40,7 +40,7 @@
 | Chick Magnet | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |
 | I Have The High Ground | 4.00% | ~9 |
-| Master Survivor | 3.00% | ~6 |
+| Master Survivor | 4.00% | ~7 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |
 | Easy Peasy | 2.00% | ~4 |

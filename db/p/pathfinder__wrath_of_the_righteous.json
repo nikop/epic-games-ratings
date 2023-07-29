@@ -3284,9 +3284,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 10649,
+  "EOS_Progressed": 10651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9599,6 +9599,11 @@
       "Time": "2023-07-29T05:05:13.0512126+00:00",
       "NumProgressed": 10649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T06:03:33.8904633+00:00",
+      "NumProgressed": 10651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9610,7 +9615,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "02_BurningCity",
@@ -9618,7 +9623,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9626,7 +9631,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "04_FithCrusade",
@@ -9634,7 +9639,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9642,7 +9647,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -9650,7 +9655,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "07_FinalThreshold",
@@ -9658,7 +9663,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "08_PathOfAngel",
@@ -9666,7 +9671,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "09_PathOfDemon",
@@ -9674,7 +9679,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "10_PathOfAzata",
@@ -9818,7 +9823,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "29_StrategicVictory",
@@ -9842,7 +9847,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "32_MythicReinforcements",
@@ -9850,7 +9855,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "33_DefendersHeart",
@@ -9874,7 +9879,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -9978,7 +9983,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "49_Flame",
@@ -9986,7 +9991,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -9994,7 +9999,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -10002,7 +10007,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -10537,21 +10542,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9431,
+      "Progressed": 9433,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10649,
+      "Progressed": 10651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-28T19:59:39.975407+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:05:13.0512116+00:00",
+  "LastChanged_Achievements": "2023-07-29T06:03:33.8904625+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:01:14.886368+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:05:13.0513749+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:01:06.4705481+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:03:33.8906254+00:00"
 }

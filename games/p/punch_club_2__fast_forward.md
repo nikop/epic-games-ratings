@@ -42,11 +42,11 @@
 | Guiding on the right path | 39.00% | ~67 |
 | Fight is life | 37.00% | ~63 |
 | Mysterious voice | 37.00% | ~63 |
-| Responsible approach | 34.00% | ~58 |
+| Responsible approach | 35.00% | ~60 |
 | Get out of my apartment! | 32.00% | ~55 |
+| Underground dwellers | 32.00% | ~55 |
 | Deal with life | 30.00% | ~51 |
 | Champion – no way back | 30.00% | ~51 |
-| Underground dwellers | 30.00% | ~51 |
 | Mom got better | 29.00% | ~50 |
 | GYM professional | 29.00% | ~50 |
 | Poisoned fighter | 29.00% | ~50 |
@@ -54,20 +54,20 @@
 | Seashell hunter | 29.00% | ~50 |
 | Gang wrangler | 27.00% | ~46 |
 | The last bell ring | 27.00% | ~46 |
+| Undercover robot | 26.00% | ~44 |
 | Problems of cyborgs | 25.00% | ~43 |
 | Anyone can resist | 25.00% | ~43 |
-| Undercover robot | 25.00% | ~43 |
 | Trap disarmed | 23.00% | ~39 |
 | Careerist | 23.00% | ~39 |
 | Another world | 22.00% | ~38 |
 | Keep nature safe | 22.00% | ~38 |
+| Key memories | 22.00% | ~38 |
 | Not little hacker | 22.00% | ~38 |
 | Absolute Champion! | 22.00% | ~38 |
 | The lonesome road | 21.00% | ~36 |
-| Key memories | 21.00% | ~36 |
+| Family comes first | 21.00% | ~36 |
 | The heart of the Resistance | 21.00% | ~36 |
-| Family comes first | 20.00% | ~34 |
-| Silver’s past | 18.00% | ~31 |
+| Silver’s past | 19.00% | ~32 |
 | Better cooking at home | 18.00% | ~31 |
 | The only right decision | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)

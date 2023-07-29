@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,497 |
+| A Brief Tour of the Realms | 3.00% | ~6,498 |
 | Beast Intentions | 2.00% | ~4,332 |
 | Maddening | 1.00% | ~2,166 |
 | The Silken Swamp | 1.00% | ~2,166 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.70% | ~1,280 |
 | Vecna Loots! | 0.70% | ~1,280 |
 | Topolah's Tower | 0.70% | ~1,280 |
-| Wet Feet | 0.60% | ~1,299 |
+| Wet Feet | 0.60% | ~1,300 |
 | Seeds of Destruction | 0.60% | ~1,097 |
 | Return to the Tomb | 0.60% | ~1,097 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,097 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.40% | ~866 |
 | Invisible Shadows | 0.40% | ~866 |
 | The Botched Kidnapping | 0.40% | ~866 |
+| The Cursed Farmer | 0.40% | ~866 |
 | The Mad Wizard | 0.40% | ~866 |
 | Bazaar Companions | 0.40% | ~731 |
 | Luigi After Hours | 0.40% | ~731 |
@@ -74,9 +75,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.30% | ~650 |
 | Captured! | 0.30% | ~650 |
 | Wisdom Check | 0.30% | ~650 |
+| A Grand Puzzle | 0.30% | ~650 |
 | Family Entanglements | 0.30% | ~650 |
 | Tower on the Lake | 0.30% | ~650 |
-| The Cursed Farmer | 0.30% | ~650 |
 | The Ring of Regeneration | 0.30% | ~650 |
 | The Crumbling Temple | 0.30% | ~650 |
 | Seeking Allies | 0.30% | ~650 |
@@ -130,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.20% | ~433 |
 | Sleuth It Out | 0.20% | ~433 |
 | The Newcomers of Notoriety | 0.20% | ~366 |
-| A Grand Puzzle | 0.20% | ~433 |
 | Azaka's Procession - Part 1 | 0.20% | ~433 |
 | Tomb of the Nine Gods | 0.20% | ~433 |
 | Azaka's Procession - Part 2 | 0.20% | ~433 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,582 (Ranked 53)  
+Progressed: 216,594 (Ranked 53)  
 Completed: 2,134 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,134 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,582 | 2,134 |
+| 2023-07-29 | 216,594 | 2,134 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,788 (Ranked 38)  

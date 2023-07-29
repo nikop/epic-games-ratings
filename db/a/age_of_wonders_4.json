@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5055,
+  "EOS_Progressed": 5056,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5495,6 +5495,11 @@
       "Time": "2023-07-28T23:04:24.2269508+00:00",
       "NumProgressed": 5055,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T06:06:45.2544712+00:00",
+      "NumProgressed": 5056,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5530,7 +5535,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "13",
@@ -5810,7 +5815,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "5",
@@ -5905,13 +5910,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5055,
+      "Progressed": 5056,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5055,
+      "Progressed": 5056,
       "Completed": 5
     }
   ],
@@ -5919,8 +5924,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:06:54.0492988+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T04:57:26.5965715+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:02:20.5585727+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:06:54.0493587+00:00"
+  "LastChanged_Achievements": "2023-07-29T06:06:45.2544709+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
+  "LastUpdate_Ratings": "2023-07-29T06:02:13.9241815+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:06:45.2545347+00:00"
 }

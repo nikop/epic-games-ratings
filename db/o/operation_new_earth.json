@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2336,6 +2336,11 @@
       "Time": "2023-07-29T05:08:05.2292307+00:00",
       "NumProgressed": 678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T06:08:19.0624674+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2355,7 +2360,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_defeat_players_10",
@@ -2459,15 +2464,15 @@
       "Name": "Corporal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2650,14 +2655,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:08:05.22923+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:03:21.5234551+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:08:05.2292651+00:00"
+  "LastChanged_Achievements": "2023-07-29T06:08:19.0624669+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
+  "LastUpdate_Ratings": "2023-07-29T06:03:21.2050766+00:00",
+  "LastUpdate_Achievements": "2023-07-29T06:08:19.0625011+00:00"
 }

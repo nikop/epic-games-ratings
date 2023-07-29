@@ -37,10 +37,10 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~175 |
 | Loyalty to the Pack | 9.00% | ~157 |
 | Mystery Machine | 9.00% | ~157 |
+| Do Not Pass Go… | 8.00% | ~140 |
 | Gold Digger | 8.00% | ~140 |
 | Eternity Can Wait | 8.00% | ~140 |
 | Knuckle Sandwich | 8.00% | ~140 |
-| Do Not Pass Go… | 7.00% | ~122 |
 | Getting the Gang Back Together | 7.00% | ~122 |
 | Monster Hunter | 7.00% | ~122 |
 | Healing Old Wounds | 6.00% | ~105 |
