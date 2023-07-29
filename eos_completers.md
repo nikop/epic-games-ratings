@@ -32,16 +32,16 @@
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 33 | [Scorn](games/s/scorn.md) | 7.02% |
+| 33 | [Scorn](games/s/scorn.md) | 7.01% |
 | 34 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
 | 36 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
-| 37 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 6.25% |
 | 37 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 39 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
-| 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.96% |
+| 38 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
+| 39 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
+| 40 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
+| 41 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 5.26% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.94% |
 | 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
