@@ -11,24 +11,24 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.62% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.57% |
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.38% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.20% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
-| 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
+| 17 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
+| 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 11.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 21 | [Remains](games/r/remains.md) | 10.87% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.29% |
+| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.97% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
-| 29 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 8.82% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
+| 29 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 8.57% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.16% |
 | 32 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,7 +43,7 @@
 | 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 42 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.12% |
-| 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
+| 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 46 | [JARS](games/j/jars.md) | 4.76% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -62,7 +62,7 @@
 | 60 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.37% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.11% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -95,7 +95,7 @@
 | 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 94 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 95 | [Somerville](games/s/somerville.md) | 1.62% |
-| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.53% |
+| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.52% |
 | 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.49% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
@@ -113,7 +113,7 @@
 | 111 | [Adios](games/a/adios.md) | 0.99% |
 | 111 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 113 | [Sable](games/s/sable.md) | 0.98% |
-| 114 | [Hades](games/h/hades.md) | 0.89% |
+| 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
@@ -125,7 +125,7 @@
 | 123 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
 | 124 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 125 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.61% |
-| 126 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 126 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 127 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 127 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |
 | 129 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
@@ -156,9 +156,9 @@
 | 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 154 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 154 | [Scrapnaut](games/s/scrapnaut.md) | 0.31% |
-| 158 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 158 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 157 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 157 | [Scrapnaut](games/s/scrapnaut.md) | 0.30% |
+| 157 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 160 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 161 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
 | 161 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
