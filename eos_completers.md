@@ -32,7 +32,7 @@
 | 30 | [Smelter](games/s/smelter.md) | 8.11% |
 | 31 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
 | 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 33 | [Scorn](games/s/scorn.md) | 7.03% |
+| 33 | [Scorn](games/s/scorn.md) | 7.02% |
 | 34 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
 | 36 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
@@ -58,10 +58,10 @@
 | 56 | [ZZT!](games/z/zzt!.md) | 3.56% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.51% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
-| 59 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.45% |
-| 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.41% |
-| 61 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
+| 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 59 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.40% |
+| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
+| 62 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
@@ -518,4 +518,4 @@
 | 246 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 246 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 246 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,960 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,961 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
