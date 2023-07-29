@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,288 |
-| Un-Lonely Island | 47.00% | ~2,060 |
-| The Beginning of a Servantship | 45.00% | ~1,973 |
-| Trade Is My Trait | 37.00% | ~1,622 |
-| Number 18 | 24.00% | ~1,052 |
-| We Don't Have Time For That | 19.00% | ~833 |
-| The Governator | 18.00% | ~789 |
-| The Legend of Langostino | 17.00% | ~745 |
-| Caribbean Comrade | 16.00% | ~701 |
-| The Dreamer of Dreams | 16.00% | ~701 |
-| Go Sovereigns! | 11.00% | ~482 |
-| For Science! | 11.00% | ~482 |
-| Happy Ending? | 10.00% | ~438 |
-| Of Seals And Men | 10.00% | ~438 |
-| Shackadelic | 10.00% | ~438 |
+| Just One...More...Term... | 75.00% | ~3,290 |
+| Un-Lonely Island | 47.00% | ~2,062 |
+| The Beginning of a Servantship | 45.00% | ~1,974 |
+| Trade Is My Trait | 37.00% | ~1,623 |
+| Number 18 | 24.00% | ~1,053 |
+| We Don't Have Time For That | 19.00% | ~834 |
+| The Governator | 18.00% | ~790 |
+| The Legend of Langostino | 17.00% | ~746 |
+| Caribbean Comrade | 16.00% | ~702 |
+| The Dreamer of Dreams | 16.00% | ~702 |
+| Go Sovereigns! | 11.00% | ~483 |
+| For Science! | 11.00% | ~483 |
+| Happy Ending? | 10.00% | ~439 |
+| Of Seals And Men | 10.00% | ~439 |
+| Shackadelic | 10.00% | ~439 |
 | Double Trouble | 8.00% | ~351 |
 | Firestarter | 8.00% | ~351 |
 | Make Tropico Great Again! | 8.00% | ~351 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~39 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,384 (Ranked 144)  
+Progressed: 4,387 (Ranked 144)  
 Completed: 2 (0.05%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.05%) (Ranked 210)
 | 2023-07-26 | 4,326 | 2 |
 | 2023-07-27 | 4,347 | 2 |
 | 2023-07-28 | 4,374 | 2 |
-| 2023-07-29 | 4,384 | 2 |
+| 2023-07-29 | 4,387 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 338)  
 Sum: 669 (Ranked 276)  

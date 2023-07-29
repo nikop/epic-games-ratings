@@ -6,8 +6,8 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,380 |
-| Ready for Winter | 64.00% | ~2,031 |
+| Venture Outward | 75.00% | ~2,381 |
+| Ready for Winter | 64.00% | ~2,032 |
 | Ready for Summer | 51.00% | ~1,619 |
 | Cordon Bleu | 43.00% | ~1,365 |
 | Tapped! | 36.00% | ~1,143 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~127 |
 | Light of Levant | 3.00% | ~95 |
 | This was a mistake... | 3.00% | ~95 |
-| Crowd Pleaser. | 2.00% | ~63 |
-| Perfect Defense | 2.00% | ~63 |
-| Power! To! The People! | 2.00% | ~63 |
-| Your actions define you | 2.00% | ~63 |
+| Crowd Pleaser. | 2.00% | ~64 |
+| Perfect Defense | 2.00% | ~64 |
+| Power! To! The People! | 2.00% | ~64 |
+| Your actions define you | 2.00% | ~64 |
 | The blood is life | 1.00% | ~32 |
 | They'll Tell Stories About This | 1.00% | ~32 |
 | Vanquisher of nightmares | 1.00% | ~32 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 151)  
+Progressed: 3,175 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 3 (0.09%) (Ranked 196)
 | 2023-07-26 | 3,125 | 3 |
 | 2023-07-27 | 3,148 | 3 |
 | 2023-07-28 | 3,170 | 3 |
-| 2023-07-29 | 3,174 | 3 |
+| 2023-07-29 | 3,175 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 444)  
 Sum: 241 (Ranked 350)  

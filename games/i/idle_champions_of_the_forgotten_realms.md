@@ -119,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.20% | ~366 |
 | Keep Your Distance | 0.20% | ~366 |
 | To Avernus in a Handbasket | 0.20% | ~366 |
+| Hands Off! | 0.20% | ~366 |
 | The Castle of a Thousand Vecnas | 0.20% | ~366 |
 | The Sanctum of the Sword | 0.20% | ~366 |
 | Get Back In The Castle | 0.20% | ~366 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~183 |
 | Strength of Character | 0.10% | ~183 |
 | The Invisible Wizards of Thay | 0.10% | ~183 |
-| Hands Off! | 0.10% | ~183 |
 | Weak Doesn't Mean Feeble | 0.10% | ~183 |
 | Frail Doesn't Mean Broken | 0.10% | ~183 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,605 (Ranked 53)  
+Progressed: 216,610 (Ranked 53)  
 Completed: 2,134 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,134 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,605 | 2,134 |
+| 2023-07-29 | 216,610 | 2,134 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,788 (Ranked 38)  

@@ -4,8 +4,8 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -468,8 +468,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:02:04.2036738+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:02:07.1328759+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:55.0389971+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:57:32.6732578+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:02:04.2036906+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:57:53.3997857+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:02:07.1329176+00:00"
 }

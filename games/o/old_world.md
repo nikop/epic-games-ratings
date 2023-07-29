@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.20% | ~26 |
 | Lion | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
+| Old | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
-| Old | 0.10% | ~13 |
 | Peacemaker | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,151 (Ranked 116)  
+Progressed: 13,152 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,10 +403,10 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,151 | 5 |
+| 2023-07-29 | 13,152 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
-Sum: 1,784 (Ranked 206)  
+Sum: 1,785 (Ranked 206)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -415,7 +415,7 @@ Diff (max vs sum): 54
 | This game has Diverse Characters | 205 |
 | This game is Highly Recommended | 204 |
 | This game is Educational | 203 |
-| This game has Challenging Combat | 190 |
+| This game has Challenging Combat | 191 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 188 |
 | This game has Amazing Storytelling | 181 |
@@ -532,3 +532,4 @@ Diff (max vs sum): 54
 | 2023-07-20 | 4.65 | - | 218 | 1,782 |
 | 2023-07-21 | 4.65 | - | 218 | 1,783 |
 | 2023-07-26 | 4.65 | - | 218 | 1,784 |
+| 2023-07-29 | 4.65 | - | 218 | 1,785 |

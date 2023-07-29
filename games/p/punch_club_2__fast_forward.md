@@ -40,8 +40,8 @@
 | Now you are worthy | 42.00% | ~72 |
 | No blades in the gym | 41.00% | ~70 |
 | Guiding on the right path | 39.00% | ~67 |
+| Mysterious voice | 38.00% | ~65 |
 | Fight is life | 37.00% | ~63 |
-| Mysterious voice | 37.00% | ~63 |
 | Responsible approach | 35.00% | ~60 |
 | Get out of my apartment! | 32.00% | ~55 |
 | Underground dwellers | 32.00% | ~55 |
@@ -59,16 +59,16 @@
 | Anyone can resist | 25.00% | ~43 |
 | Careerist | 24.00% | ~41 |
 | Trap disarmed | 23.00% | ~39 |
+| Another world | 23.00% | ~39 |
+| Keep nature safe | 23.00% | ~39 |
+| Not little hacker | 23.00% | ~39 |
 | Absolute Champion! | 23.00% | ~39 |
-| Another world | 22.00% | ~38 |
 | The lonesome road | 22.00% | ~38 |
-| Keep nature safe | 22.00% | ~38 |
+| Family comes first | 22.00% | ~38 |
 | Key memories | 22.00% | ~38 |
-| Not little hacker | 22.00% | ~38 |
 | The heart of the Resistance | 22.00% | ~38 |
-| Family comes first | 21.00% | ~36 |
 | Silver’s past | 19.00% | ~32 |
-| Better cooking at home | 18.00% | ~31 |
+| Better cooking at home | 19.00% | ~32 |
 | The only right decision | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 286)  

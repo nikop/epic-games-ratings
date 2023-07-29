@@ -3,12 +3,12 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 507,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -759,9 +759,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "14_woodcutter",
@@ -807,9 +807,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "20_sabotage",
@@ -839,9 +839,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 285
     },
     {
       "ID": "24_mega",
@@ -983,8 +983,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:03:57.5069437+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:04:53.7104857+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:57:55.1835747+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:03:57.5069777+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:58:25.6912995+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:04:53.7105126+00:00"
 }

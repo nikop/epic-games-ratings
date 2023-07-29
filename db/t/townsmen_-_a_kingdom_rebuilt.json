@@ -3,12 +3,12 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 507,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,7 +215,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4216,
+  "EOS_Progressed": 4217,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -920,6 +920,11 @@
       "Time": "2023-07-27T19:05:18.0730006+00:00",
       "NumProgressed": 4216,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T08:06:19.6281299+00:00",
+      "NumProgressed": 4217,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -955,7 +960,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -979,7 +984,7 @@
       "Name": "Bread for the people III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
@@ -1019,7 +1024,7 @@
       "Name": "I like to build stuff... IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS5",
@@ -1067,7 +1072,7 @@
       "Name": "Experienced decorator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -1107,7 +1112,7 @@
       "Name": "My precious... I",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_JEWELS2",
@@ -1275,7 +1280,7 @@
       "Name": "Full-time job III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -1635,7 +1640,7 @@
       "Name": "A time consuming game III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -1667,7 +1672,7 @@
       "Name": "Tools of the trade II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_TOOLS3",
@@ -1691,7 +1696,7 @@
       "Name": "Friends from the past",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -1738,15 +1743,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4216,
+      "Progressed": 4217,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:05:01.330602+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:06:19.6281296+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:52.1616278+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:58:16.0410531+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:05:01.3307304+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:58:51.4287509+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:06:19.6282297+00:00"
 }

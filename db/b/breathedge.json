@@ -3,12 +3,12 @@
   "Name": "Breathedge",
   "ProductSlug": "breathedge",
   "Ranking_Rating": 693,
-  "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 507,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-02-25T18:00:00+00:00",
     "PcReleaseDate": "2021-02-25T18:00:00+00:00",
@@ -423,6 +423,6 @@
   "FirstSeen": "2022-07-22T20:28:13.8182721+00:00",
   "LastChanged": "2023-07-25T02:17:36.2636327+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.4527441+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:59:43.2054457+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:05:27.3021009+00:00"
+  "LastUpdate_Ratings": "2023-07-29T08:00:54.0044599+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:06:53.6523052+00:00"
 }

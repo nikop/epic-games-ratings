@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 11.00% | ~464 |
 | Tax-man I | 11.00% | ~464 |
 | A new beginning | 11.00% | ~464 |
-| Friends from the past | 9.00% | ~379 |
+| Friends from the past | 9.00% | ~380 |
 | I like to build stuff... I | 8.00% | ~337 |
 | Builder I | 7.00% | ~295 |
 | An honorable Governor I | 7.00% | ~295 |
@@ -34,14 +34,14 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man III | 4.00% | ~169 |
 | Tax-man IV | 4.00% | ~169 |
 | Conflicting parties | 4.00% | ~169 |
-| Another one bites the dust | 3.00% | ~126 |
-| Bread for the people III | 3.00% | ~126 |
-| I like to build stuff... IV | 3.00% | ~126 |
-| Experienced decorator | 3.00% | ~126 |
-| My precious... I | 3.00% | ~126 |
-| Full-time job III | 3.00% | ~126 |
-| A time consuming game III | 3.00% | ~126 |
-| Tools of the trade II | 3.00% | ~126 |
+| Another one bites the dust | 3.00% | ~127 |
+| Bread for the people III | 3.00% | ~127 |
+| I like to build stuff... IV | 3.00% | ~127 |
+| Experienced decorator | 3.00% | ~127 |
+| My precious... I | 3.00% | ~127 |
+| Full-time job III | 3.00% | ~127 |
+| A time consuming game III | 3.00% | ~127 |
+| Tools of the trade II | 3.00% | ~127 |
 | The Art of War | 2.00% | ~84 |
 | Five brews are a schnitzel | 2.00% | ~84 |
 | I like to build stuff... V | 2.00% | ~84 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,216 (Ranked 145)  
+Progressed: 4,217 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 3 (0.07%) (Ranked 204)
 | 2023-07-25 | 4,209 | 3 |
 | 2023-07-26 | 4,211 | 3 |
 | 2023-07-27 | 4,216 | 3 |
+| 2023-07-29 | 4,217 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

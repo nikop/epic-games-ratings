@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,481 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,512 |
 | Snatched Out | 74.00% | ~2,267 |
 | Keep 'Em Coming | 73.00% | ~2,236 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,022 |
@@ -96,6 +96,13 @@ Completed: 1 (0.03%) (Ranked 220)
 | 2023-07-27 | 3,055 | 1 |
 | 2023-07-28 | 3,062 | 1 |
 | 2023-07-29 | 3,063 | 1 |
+## Awards
+Max (Great Boss Battles): 20  (Ranked 503)  
+Sum: 20 (Ranked 503)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -126,3 +133,4 @@ Completed: 1 (0.03%) (Ranked 220)
 | 2023-07-25 | 4.41 | 0 | 0 |
 | 2023-07-27 | 4.42 | 0 | 0 |
 | 2023-07-28 | 4.43 | 0 | 0 |
+| 2023-07-29 | 4.43 | 20 | 20 |

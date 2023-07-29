@@ -5356,9 +5356,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216605,
+  "EOS_Progressed": 216610,
   "EOS_Completed": 2134,
-  "EOS_NewPlayers": 2250,
+  "EOS_NewPlayers": 2244,
   "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16066,6 +16066,11 @@
       "Time": "2023-07-29T07:03:21.2106123+00:00",
       "NumProgressed": 216605,
       "NumCompleted": 2134
+    },
+    {
+      "Time": "2023-07-29T08:03:50.1087603+00:00",
+      "NumProgressed": 216610,
+      "NumCompleted": 2134
     }
   ],
   "TotalAchievements": 512,
@@ -16851,9 +16856,9 @@
       "ID": "objective_completed_1180",
       "SetID": "415jc5c",
       "Name": "Hands Off!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 366
     },
     {
       "ID": "objective_completed_1183",
@@ -20172,21 +20177,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182879,
+      "Progressed": 182884,
       "Completed": 3024
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216605,
+      "Progressed": 216610,
       "Completed": 2134
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-29T05:00:55.5517507+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:03:21.2106116+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:03:50.1087598+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:58:23.9231507+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:03:21.2132417+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:59:02.4966287+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:03:50.1110883+00:00"
 }

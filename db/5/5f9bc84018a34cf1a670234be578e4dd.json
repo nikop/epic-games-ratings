@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -163,9 +163,9 @@
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 93,
+      "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Floppy",
@@ -250,8 +250,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:04:02.8631741+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:05:00.5721795+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:57:03.9255566+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:04:02.8631854+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:57:13.5339147+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:05:00.5721895+00:00"
 }

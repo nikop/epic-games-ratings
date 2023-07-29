@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,784 |
-| That's a Grand Army | 8.00% | ~6,031 |
-| That is mine! | 8.00% | ~6,031 |
-| Victorious! | 8.00% | ~6,031 |
-| Brothers in Arms | 6.00% | ~4,523 |
-| That's a Grand Navy | 6.00% | ~4,523 |
-| Seriously?! | 6.00% | ~4,523 |
-| For the Glory | 5.00% | ~3,769 |
-| Cold War | 4.00% | ~3,015 |
-| True Catholic | 4.00% | ~3,015 |
-| Defender of the Faith | 3.00% | ~2,261 |
-| It's all about luck | 3.00% | ~2,261 |
-| It's all about the money | 3.00% | ~2,261 |
-| Respected | 3.00% | ~2,261 |
-| The Princess is in this Castle | 3.00% | ~2,261 |
-| Truly Divine Ruler | 3.00% | ~2,261 |
+| Until death do us apart | 9.00% | ~6,786 |
+| That's a Grand Army | 8.00% | ~6,032 |
+| That is mine! | 8.00% | ~6,032 |
+| Victorious! | 8.00% | ~6,032 |
+| Brothers in Arms | 6.00% | ~4,524 |
+| That's a Grand Navy | 6.00% | ~4,524 |
+| Seriously?! | 6.00% | ~4,524 |
+| For the Glory | 5.00% | ~3,770 |
+| Cold War | 4.00% | ~3,016 |
+| True Catholic | 4.00% | ~3,016 |
+| Defender of the Faith | 3.00% | ~2,262 |
+| It's all about luck | 3.00% | ~2,262 |
+| It's all about the money | 3.00% | ~2,262 |
+| Respected | 3.00% | ~2,262 |
+| The Princess is in this Castle | 3.00% | ~2,262 |
+| Truly Divine Ruler | 3.00% | ~2,262 |
 | Agressive Expander | 2.00% | ~1,508 |
 | Blockader | 2.00% | ~1,508 |
 | Combined Arms | 2.00% | ~1,508 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~754 |
 | The Five Colonies | 1.00% | ~754 |
 | This navy can take it all | 1.00% | ~754 |
-| Down Under | 0.90% | ~678 |
-| Isn't this the way to India? | 0.90% | ~678 |
-| Market Control | 0.90% | ~678 |
-| Trustworthy | 0.90% | ~678 |
+| Down Under | 0.90% | ~679 |
+| Isn't this the way to India? | 0.90% | ~679 |
+| Market Control | 0.90% | ~679 |
+| Trustworthy | 0.90% | ~679 |
 | Electable! | 0.70% | ~528 |
 | Populists in Government | 0.70% | ~528 |
 | All belongs to Mother Russia | 0.60% | ~452 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,382 (Ranked 74)  
+Progressed: 75,396 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,7 +461,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
-| 2023-07-29 | 75,382 | 0 |
+| 2023-07-29 | 75,396 | 0 |
 ## Awards
 Max (Educational): 5,593  (Ranked 61)  
 Sum: 46,119 (Ranked 26)  

@@ -7,18 +7,18 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That'll Leave a Mark | 3.00% | ~13 |
-| Deadication | 2.00% | ~8 |
-| Debuff Dogpile | 2.00% | ~8 |
-| Faceroll the Bones | 2.00% | ~8 |
-| First Strike | 2.00% | ~8 |
-| Flawless Victory | 2.00% | ~8 |
-| Hit 'Em Where It Hurts | 2.00% | ~8 |
-| Mushroom Madness! | 2.00% | ~8 |
-| Next Time on MythForce... | 2.00% | ~8 |
-| On this Episode! | 2.00% | ~8 |
-| Perk Shard Punch Card | 2.00% | ~8 |
-| Season Finale | 2.00% | ~8 |
-| Ten Steps from the Grave | 2.00% | ~8 |
+| Deadication | 2.00% | ~9 |
+| Debuff Dogpile | 2.00% | ~9 |
+| Faceroll the Bones | 2.00% | ~9 |
+| First Strike | 2.00% | ~9 |
+| Flawless Victory | 2.00% | ~9 |
+| Hit 'Em Where It Hurts | 2.00% | ~9 |
+| Mushroom Madness! | 2.00% | ~9 |
+| Next Time on MythForce... | 2.00% | ~9 |
+| On this Episode! | 2.00% | ~9 |
+| Perk Shard Punch Card | 2.00% | ~9 |
+| Season Finale | 2.00% | ~9 |
+| Ten Steps from the Grave | 2.00% | ~9 |
 | Cold-Blooded Critters | 1.00% | ~4 |
 | Death Becomes You | 1.00% | ~4 |
 | The Harder They Fall | 1.00% | ~4 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 227)  
+Progressed: 426 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 333 | 0 |
 | 2023-07-27 | 372 | 0 |
 | 2023-07-28 | 412 | 0 |
-| 2023-07-29 | 425 | 0 |
+| 2023-07-29 | 426 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 352)  

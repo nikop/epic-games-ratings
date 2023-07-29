@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~167 |
-| Starting Skyward | 51.00% | ~144 |
-| Grime is Not Good | 45.00% | ~127 |
-| Campaign Launch | 39.00% | ~110 |
+| In the Black | 58.00% | ~165 |
+| Starting Skyward | 51.00% | ~145 |
+| Grime is Not Good | 45.00% | ~128 |
+| Campaign Launch | 38.00% | ~108 |
 | Floor Galore | 37.00% | ~105 |
 | Dinner Dash | 37.00% | ~105 |
 | Need a Consult | 35.00% | ~99 |
 | It's Technical | 35.00% | ~99 |
-| Upgrade Unlock | 34.00% | ~96 |
+| Upgrade Unlock | 33.00% | ~94 |
 | Delegate Maintenance | 32.00% | ~91 |
 | Proper Walls | 30.00% | ~85 |
 | Destination Destiny | 29.00% | ~82 |
@@ -21,9 +21,9 @@
 | Potent Potables | 24.00% | ~68 |
 | Your Prestige is Rising | 23.00% | ~65 |
 | Retail Revenue | 23.00% | ~65 |
-| Lux Living | 22.00% | ~62 |
-| People Mover | 21.00% | ~59 |
-| Leveled Up Shops | 21.00% | ~59 |
+| Lux Living | 21.00% | ~60 |
+| People Mover | 21.00% | ~60 |
+| Leveled Up Shops | 21.00% | ~60 |
 | Don't Feel a Loan | 20.00% | ~57 |
 | Emporium Empire | 20.00% | ~57 |
 | Get Electrified | 20.00% | ~57 |
@@ -31,10 +31,10 @@
 | Rehab Expert | 18.00% | ~51 |
 | Tasty Profits | 18.00% | ~51 |
 | We Don't Need No Education | 18.00% | ~51 |
-| Under One Roof | 16.00% | ~45 |
 | Established Fame | 16.00% | ~45 |
 | Cashflow Chief | 16.00% | ~45 |
-| Starred Dining | 15.00% | ~42 |
+| Under One Roof | 15.00% | ~43 |
+| Starred Dining | 15.00% | ~43 |
 | Terrifically Trashed | 14.00% | ~40 |
 | Smooth Operator | 13.00% | ~37 |
 | Boutique Benefits | 13.00% | ~37 |
@@ -42,9 +42,9 @@
 | 28 Days Later | 11.00% | ~31 |
 | Swimming in Surplus | 11.00% | ~31 |
 | Master of Puppets | 10.00% | ~28 |
-| Plaza Plan | 9.00% | ~25 |
-| Refined Palates | 9.00% | ~25 |
-| Phoning It In | 9.00% | ~25 |
+| Plaza Plan | 9.00% | ~26 |
+| Refined Palates | 9.00% | ~26 |
+| Phoning It In | 9.00% | ~26 |
 | Aestheticly Pleased | 8.00% | ~23 |
 | First 100 Days | 7.00% | ~20 |
 | Water Features | 7.00% | ~20 |
@@ -64,10 +64,10 @@
 | Tuned In | 5.00% | ~14 |
 | Office Bigwigs | 4.00% | ~11 |
 | Sandbagger | 4.00% | ~11 |
-| Decorator's Touch | 3.00% | ~8 |
-| Apartment Awareness | 3.00% | ~8 |
-| Luxury Boutiques | 3.00% | ~8 |
-| Three of a Kind | 3.00% | ~8 |
+| Decorator's Touch | 3.00% | ~9 |
+| Apartment Awareness | 3.00% | ~9 |
+| Luxury Boutiques | 3.00% | ~9 |
+| Three of a Kind | 3.00% | ~9 |
 | Curated Class | 2.00% | ~6 |
 | Loft Life | 2.00% | ~6 |
 | Glut of Gastronomy | 2.00% | ~6 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 256)  
+Progressed: 284 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 270 | 0 |
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
-| 2023-07-29 | 283 | 0 |
+| 2023-07-29 | 284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

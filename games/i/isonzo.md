@@ -6,27 +6,27 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,568 |
-| Tutti Eroi! | 54.00% | ~3,504 |
-| You Shall Not Pass | 53.00% | ~3,439 |
-| Avanti Savoia! | 47.00% | ~3,049 |
+| Peak Performance | 55.00% | ~3,570 |
+| Tutti Eroi! | 54.00% | ~3,505 |
+| You Shall Not Pass | 53.00% | ~3,440 |
+| Avanti Savoia! | 47.00% | ~3,050 |
 | Mamma Mia! | 37.00% | ~2,401 |
 | Conrad von Hotzensocks | 36.00% | ~2,336 |
-| Gabriele D'Annunzio | 33.00% | ~2,141 |
+| Gabriele D'Annunzio | 33.00% | ~2,142 |
 | Silver Lining | 29.00% | ~1,882 |
-| Aurelio Baruzzi | 23.00% | ~1,492 |
-| Veni Vidi Vici | 22.00% | ~1,427 |
-| Decimation | 21.00% | ~1,362 |
-| Donatello | 21.00% | ~1,362 |
+| Aurelio Baruzzi | 23.00% | ~1,493 |
+| Veni Vidi Vici | 22.00% | ~1,428 |
+| Decimation | 21.00% | ~1,363 |
+| Donatello | 21.00% | ~1,363 |
 | Insubordination | 20.00% | ~1,298 |
 | The Italian Job | 20.00% | ~1,298 |
 | The Lion of the Isonzo | 18.00% | ~1,168 |
 | Ragazzi del '99 | 17.00% | ~1,103 |
-| Dirty Dozen | 14.00% | ~908 |
-| Luigi Cadorna | 14.00% | ~908 |
-| Thus With A Kiss | 14.00% | ~908 |
-| Uomo Universale | 14.00% | ~908 |
-| Shaken, Not Stirred | 13.00% | ~843 |
+| Dirty Dozen | 14.00% | ~909 |
+| Luigi Cadorna | 14.00% | ~909 |
+| Thus With A Kiss | 14.00% | ~909 |
+| Uomo Universale | 14.00% | ~909 |
+| Shaken, Not Stirred | 13.00% | ~844 |
 | Die Bosniaken Kommen! | 12.00% | ~779 |
 | Machiavelli | 12.00% | ~779 |
 | Dante's Inferno | 11.00% | ~714 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,488 (Ranked 133)  
+Progressed: 6,490 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 8 (0.12%) (Ranked 188)
 | 2023-07-26 | 6,459 | 8 |
 | 2023-07-27 | 6,470 | 8 |
 | 2023-07-28 | 6,484 | 8 |
-| 2023-07-29 | 6,488 | 8 |
+| 2023-07-29 | 6,490 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 259 (Ranked 348)  

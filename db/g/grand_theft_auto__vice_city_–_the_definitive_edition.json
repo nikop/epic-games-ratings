@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9313,
+  "EOS_Progressed": 9315,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7281,6 +7281,11 @@
       "Time": "2023-07-29T07:04:09.0988103+00:00",
       "NumProgressed": 9313,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-29T08:05:09.0026196+00:00",
+      "NumProgressed": 9315,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7308,7 +7313,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH04",
@@ -7372,7 +7377,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH12",
@@ -7396,7 +7401,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ACH15",
@@ -7452,15 +7457,15 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "ACH22",
       "SetID": "9llo822",
       "Name": "Life of the Party",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH23",
@@ -7468,7 +7473,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "ACH24",
@@ -7563,7 +7568,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9313,
+      "Progressed": 9315,
       "Completed": 43
     }
   ],
@@ -7571,8 +7576,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-29T02:58:47.8264413+00:00",
-  "LastChanged_Achievements": "2023-07-29T07:04:09.0988095+00:00",
+  "LastChanged_Achievements": "2023-07-29T08:05:09.0026193+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:58:28.7795552+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:04:09.098876+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:59:09.9938541+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:05:09.0026691+00:00"
 }

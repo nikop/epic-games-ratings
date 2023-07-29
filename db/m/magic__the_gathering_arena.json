@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -8549,10 +8549,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 88520,
       "NumberOfAwardsMax": 10969
+    },
+    {
+      "Time": "2023-07-29T07:59:09.1110672+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 88525,
+      "NumberOfAwardsMax": 10969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88520,
+  "NumberOfAwards": 88525,
   "NumberOfAwardsMax": 10969,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8572,7 +8578,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8820
+      "Count": 8825
     },
     {
       "Text": "This game is Relaxing",
@@ -8634,8 +8640,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-07-29T01:50:13.266081+00:00",
+  "LastChanged": "2023-07-29T07:59:09.1110671+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.3189485+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:58:28.1766736+00:00",
-  "LastUpdate_Achievements": "2023-07-29T07:05:37.8413632+00:00"
+  "LastUpdate_Ratings": "2023-07-29T07:59:09.1110677+00:00",
+  "LastUpdate_Achievements": "2023-07-29T08:07:07.9928879+00:00"
 }

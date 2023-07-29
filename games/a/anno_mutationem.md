@@ -10,7 +10,7 @@ Rating: 4.56 (Ranked 465)
 | I just love stuff! | 42.00% | ~274 |
 | Keep 'em coming! | 42.00% | ~274 |
 | Big Spender | 39.00% | ~255 |
-| The things they print nowadays | 38.00% | ~248 |
+| The things they print nowadays | 39.00% | ~255 |
 | That's gotta hurt | 36.00% | ~235 |
 | I think it's broke | 26.00% | ~170 |
 | The Ann Flores Combo Experience | 26.00% | ~170 |

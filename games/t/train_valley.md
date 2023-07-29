@@ -7,16 +7,16 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 77.00% | ~301 |
-| Close call! | 72.00% | ~282 |
+| Close call! | 73.00% | ~285 |
 | Builder | 53.00% | ~207 |
 | Pangs of conscience | 47.00% | ~184 |
 | Living it large! | 43.00% | ~168 |
 | Collector | 41.00% | ~160 |
 | Need to think | 39.00% | ~152 |
 | Completely nuts! | 38.00% | ~149 |
-| Just in time! | 32.00% | ~125 |
+| Just in time! | 33.00% | ~129 |
 | Europe | 30.00% | ~117 |
-| It's no coincidence. | 29.00% | ~113 |
+| It's no coincidence. | 30.00% | ~117 |
 | Non Stop! | 26.00% | ~102 |
 | Madness! | 26.00% | ~102 |
 | Philatelist | 25.00% | ~98 |
