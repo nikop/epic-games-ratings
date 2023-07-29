@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 113.00% | ~18 |
-| Law and Order | 75.00% | ~12 |
+| Law and Order | 81.00% | ~13 |
 | Licence To Kill | 69.00% | ~11 |
-| Hammer Time | 31.00% | ~5 |
+| Hammer Time | 38.00% | ~6 |
 | Escape From M.C. | 19.00% | ~3 |
 | Restore Honor | 19.00% | ~3 |
 | Gibbing Love | 0.00% | ~0 |

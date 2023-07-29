@@ -4,7 +4,7 @@
   "ProductSlug": "mega-city-police-22a245",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -222,17 +222,17 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 75,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LEVEL_03",
@@ -308,8 +308,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:06:28.2125483+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:05:53.8676044+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:00:01.1496437+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:06:28.212563+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:59:38.2102493+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:05:53.8676249+00:00"
 }

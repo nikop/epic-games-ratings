@@ -35,17 +35,17 @@
 | Animal Lover | 28.00% | ~46 |
 | Supremacy | 28.00% | ~46 |
 | Loyal Companion | 25.00% | ~41 |
+| Back To The Future | 24.00% | ~40 |
 | Immortal Skin | 24.00% | ~40 |
-| Back To The Future | 23.00% | ~38 |
 | Fire Beacon | 23.00% | ~38 |
 | Lunch Before The Lunch | 21.00% | ~35 |
 | Building Blocks | 19.00% | ~31 |
 | From Here To Eternity | 18.00% | ~30 |
-| Octopostructure | 16.00% | ~26 |
+| Octopostructure | 17.00% | ~28 |
 | Boss Hunter | 16.00% | ~26 |
 | Hawkman | 9.00% | ~15 |
+| Fashion Victim | 8.00% | ~13 |
 | Annihilate | 8.00% | ~13 |
-| Fashion Victim | 7.00% | ~12 |
 | Godlike Skin | 6.00% | ~10 |
 | Feast Time | 6.00% | ~10 |
 | See You Later | 5.00% | ~8 |

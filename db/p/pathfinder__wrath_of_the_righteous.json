@@ -3302,9 +3302,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10670,
+  "EOS_Progressed": 10671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9672,6 +9672,11 @@
       "Time": "2023-07-29T20:02:07.7841161+00:00",
       "NumProgressed": 10670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T21:02:09.5563508+00:00",
+      "NumProgressed": 10671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9691,7 +9696,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9819,7 +9824,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "19_EqualToAroden",
@@ -9931,7 +9936,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10051,7 +10056,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "49_Flame",
@@ -10610,21 +10615,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9452,
+      "Progressed": 9453,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10670,
+      "Progressed": 10671,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-29T15:59:20.3300679+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:02:07.7841157+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:02:09.5563503+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T19:59:32.8000554+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:02:07.7842864+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:59:14.344051+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:02:09.5565662+00:00"
 }

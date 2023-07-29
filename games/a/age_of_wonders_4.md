@@ -7,6 +7,7 @@ Rating: 4.63 (Ranked 333)
 | ---- | ---------- | ----- |
 | Secret Technique | 5.00% | ~253 |
 | Tipping the Scales | 5.00% | ~253 |
+| There Can Only Be One! | 4.00% | ~202 |
 | Full Ascension | 4.00% | ~202 |
 | Realm Estate | 4.00% | ~202 |
 | A Wonderful Discovery | 4.00% | ~202 |
@@ -22,7 +23,6 @@ Rating: 4.63 (Ranked 333)
 | Blood of the Dragon | 4.00% | ~202 |
 | Mighty Hoard | 4.00% | ~202 |
 | Valley of Wonders | 3.00% | ~152 |
-| There Can Only Be One! | 3.00% | ~152 |
 | Return of the Wizard King | 3.00% | ~152 |
 | Digging for Treasure | 3.00% | ~152 |
 | Preparation Is Everything | 3.00% | ~152 |
@@ -47,7 +47,7 @@ Rating: 4.63 (Ranked 333)
 | I've Got Everything I Need Right Here | 0.90% | ~46 |
 | Pruning for Progress | 0.90% | ~46 |
 | Manufactured War | 0.70% | ~35 |
-| Snap Out of It! | 0.50% | ~25 |
+| Snap Out of It! | 0.60% | ~30 |
 | Betrayal Most Foul | 0.30% | ~15 |
 | I Want to Break Free | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |

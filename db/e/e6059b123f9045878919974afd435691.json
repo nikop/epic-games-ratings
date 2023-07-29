@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -1365,9 +1365,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 221
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1860,8 +1860,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:06:31.2983964+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:05:56.6261811+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.3772461+00:00",
-  "LastUpdate_Ratings": "2023-07-29T19:57:33.5809853+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:06:31.2984587+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:57:26.263742+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:05:56.6262585+00:00"
 }

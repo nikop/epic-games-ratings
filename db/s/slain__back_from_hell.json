@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -199,9 +199,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 31835,
+  "EOS_Progressed": 31842,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11069,6 +11069,11 @@
       "Time": "2023-07-29T20:05:17.1499285+00:00",
       "NumProgressed": 31835,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-29T21:04:50.0517947+00:00",
+      "NumProgressed": 31842,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11080,7 +11085,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11088,7 +11093,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11224,7 +11229,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -11240,7 +11245,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -11311,7 +11316,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31835,
+      "Progressed": 31842,
       "Completed": 20
     }
   ],
@@ -11319,8 +11324,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-29T20:01:27.1494891+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:05:17.149928+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:04:50.0517936+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:01:27.1494895+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:05:17.1499939+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:00:52.0323976+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:04:50.0518834+00:00"
 }

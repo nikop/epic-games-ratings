@@ -12,12 +12,12 @@ Rating: 4.27 (Ranked 802)
 | Full house | 5.00% | ~48 |
 | Hear me out | 5.00% | ~48 |
 | Listening to the crowd | 5.00% | ~48 |
+| Accepting the Prophecy | 5.00% | ~48 |
 | Ascended | 4.00% | ~38 |
 | The Penitent Ones | 4.00% | ~38 |
 | Greedy | 4.00% | ~38 |
 | Hidden Secrets | 4.00% | ~38 |
 | The Stranded King | 4.00% | ~38 |
-| Accepting the Prophecy | 4.00% | ~38 |
 | Just Chilling | 3.00% | ~29 |
 | Incredible Strength | 3.00% | ~29 |
 | Prophecy Fulfilled | 3.00% | ~29 |

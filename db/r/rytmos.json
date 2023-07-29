@@ -4,7 +4,7 @@
   "ProductSlug": "rytmos-bf191b",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-27T23:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-24T16:57:21.090056+00:00",
   "LastChanged": "2023-04-24T16:57:21.0900561+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.4954125+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:01:22.6371008+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:07:45.2414412+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:00:48.2977007+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:07:00.7889783+00:00"
 }

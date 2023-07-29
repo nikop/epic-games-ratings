@@ -19,7 +19,7 @@ Number of Ratings: 38  (23.09.2022)
 | Survivor | 33.00% | ~109 |
 | Herbalist | 31.00% | ~102 |
 | Robot Destroyer | 31.00% | ~102 |
-| Lumberjack | 29.00% | ~95 |
+| Lumberjack | 30.00% | ~99 |
 | Electro-Scrap Master | 26.00% | ~86 |
 | Prepper | 25.00% | ~82 |
 | Robot Hunter | 22.00% | ~72 |

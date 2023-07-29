@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 801,
+  "EOS_Progressed": 802,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1840,6 +1840,11 @@
       "Time": "2023-07-29T20:04:44.2653787+00:00",
       "NumProgressed": 801,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T21:04:21.4207005+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1921,9 +1926,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 104
     },
     {
       "ID": "CultivairChests1",
@@ -1953,9 +1958,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "FairgroundsChests1",
@@ -2274,7 +2279,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 801,
+      "Progressed": 802,
       "Completed": 4
     }
   ],
@@ -2282,8 +2287,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:04:44.2653783+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:04:21.4207+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:00:38.542595+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:04:44.2654232+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:00:10.874424+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:04:21.4207607+00:00"
 }

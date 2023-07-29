@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1461,
-  "EOS_Completed": 99,
+  "EOS_Progressed": 1462,
+  "EOS_Completed": 100,
   "EOS_NewPlayers": 48,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.78,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 6.84,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -4664,6 +4664,11 @@
       "Time": "2023-07-29T11:04:10.8813592+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-29T21:04:33.2875643+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 5,
@@ -4675,7 +4680,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "2",
@@ -4714,16 +4719,16 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1461,
-      "Completed": 99
+      "Progressed": 1462,
+      "Completed": 100
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:04:58.2217368+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:04:33.2875637+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.573535+00:00",
-  "LastUpdate_Ratings": "2023-07-29T19:58:02.2983883+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:04:58.2217611+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:57:51.8620169+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:04:33.2876012+00:00"
 }

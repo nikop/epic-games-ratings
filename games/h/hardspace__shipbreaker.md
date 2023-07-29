@@ -1,28 +1,28 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 275)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 74.00% | ~625 |
-| It’s Heating up! | 70.00% | ~591 |
-| Let’s patch things up | 66.00% | ~557 |
+| It’s Heating up! | 69.00% | ~583 |
+| Let’s patch things up | 66.00% | ~558 |
 | I can fix it! | 63.00% | ~532 |
-| Post No Bills | 55.00% | ~464 |
+| Post No Bills | 55.00% | ~465 |
 | Truly Shocking! | 49.00% | ~414 |
-| Critical Thinker | 35.00% | ~295 |
+| Critical Thinker | 35.00% | ~296 |
 | Always Finding Your Mark | 29.00% | ~245 |
 | The Weight of the World | 29.00% | ~245 |
-| Act I Complete | 28.00% | ~236 |
-| A drop in the Ocean | 28.00% | ~236 |
+| Act I Complete | 28.00% | ~237 |
+| A drop in the Ocean | 28.00% | ~237 |
 | No Niños | 27.00% | ~228 |
 | I ain’t afraid of no Ghost | 24.00% | ~203 |
 | Act II Complete | 20.00% | ~169 |
 | A successful procedure! | 18.00% | ~152 |
 | Bing Bang BOOM | 18.00% | ~152 |
-| Breaking the Ice | 17.00% | ~143 |
+| Breaking the Ice | 17.00% | ~144 |
 | Solidarity Forever | 12.00% | ~101 |
 | A Tucked Tale | 10.00% | ~84 |
 | The best thing money can buy | 9.00% | ~76 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 844 (Ranked 199)  
+Progressed: 845 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 839 | 0 |
 | 2023-07-27 | 842 | 0 |
 | 2023-07-28 | 843 | 0 |
-| 2023-07-29 | 844 | 0 |
+| 2023-07-29 | 845 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

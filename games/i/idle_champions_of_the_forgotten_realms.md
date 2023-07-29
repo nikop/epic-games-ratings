@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,504 |
-| Maddening | 2.00% | ~4,336 |
-| Beast Intentions | 2.00% | ~4,336 |
+| A Brief Tour of the Realms | 3.00% | ~6,505 |
+| Maddening | 2.00% | ~4,337 |
+| Beast Intentions | 2.00% | ~4,337 |
 | The Silken Swamp | 1.00% | ~2,168 |
 | Supply Run | 1.00% | ~2,168 |
 | Rocky Reception | 1.00% | ~1,831 |
@@ -23,13 +23,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.60% | ~1,099 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,099 |
 | Pros and CONs | 0.50% | ~1,084 |
-| The Witchlight Carnival | 0.50% | ~915 |
+| The Witchlight Carnival | 0.50% | ~916 |
 | Hatchlings Underfoot | 0.50% | ~1,084 |
 | Don't Look Up! | 0.50% | ~1,084 |
 | Heavy Burden | 0.50% | ~1,084 |
-| The Evacuation of Waterdeep | 0.50% | ~915 |
-| Heatwave | 0.50% | ~915 |
-| The Dread Domain of Tovag | 0.50% | ~915 |
+| The Evacuation of Waterdeep | 0.50% | ~916 |
+| Heatwave | 0.50% | ~916 |
+| The Dread Domain of Tovag | 0.50% | ~916 |
 | Were-verpowered | 0.50% | ~1,084 |
 | A Persistent Buzzing | 0.50% | ~1,084 |
 | Beast Mode | 0.50% | ~1,084 |
@@ -38,12 +38,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.50% | ~1,084 |
 | Unearthed Evil | 0.50% | ~1,084 |
 | The Dinner Party | 0.50% | ~1,084 |
-| Not That Type of Helm! | 0.50% | ~915 |
-| Calcryx Tricks | 0.50% | ~915 |
-| Goblin Halls: the Next Generation | 0.50% | ~915 |
-| Bazaar Companions | 0.50% | ~915 |
-| Bahamut's Army | 0.50% | ~915 |
-| Krux's Speed Run | 0.50% | ~915 |
+| Not That Type of Helm! | 0.50% | ~916 |
+| Calcryx Tricks | 0.50% | ~916 |
+| Goblin Halls: the Next Generation | 0.50% | ~916 |
+| Bazaar Companions | 0.50% | ~916 |
+| Bahamut's Army | 0.50% | ~916 |
+| Krux's Speed Run | 0.50% | ~916 |
 | Thieves of the Coven | 0.40% | ~732 |
 | On the Hunt | 0.40% | ~867 |
 | Friends of the Forest | 0.40% | ~867 |
@@ -164,6 +164,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~434 |
 | A Tale of Two Cities | 0.20% | ~434 |
 | The Dead Three | 0.20% | ~434 |
+| Slow and Steady | 0.20% | ~434 |
 | Flying Monkey Skulls of Doom | 0.20% | ~434 |
 | Lair of the Xanathar | 0.20% | ~434 |
 | Waterdeep Under Siege | 0.20% | ~434 |
@@ -337,7 +338,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~217 |
 | A Tale of Two Champions | 0.10% | ~217 |
 | A Tale of Two Years | 0.10% | ~183 |
-| Slow and Steady | 0.10% | ~217 |
 | A Hero's Entourage | 0.10% | ~217 |
 | Sneak Attack | 0.10% | ~183 |
 | Dreams of Beholders | 0.10% | ~217 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,814 (Ranked 53)  
+Progressed: 216,833 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,814 | 2,136 |
+| 2023-07-29 | 216,833 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  

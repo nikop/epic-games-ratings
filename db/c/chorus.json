@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-07-29T19:04:29.7967484+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-29T21:04:50.3331978+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1517,7 +1522,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Finish5SideMissions",
@@ -1531,9 +1536,9 @@
       "ID": "FinishAllSideMissions",
       "SetID": "a6c395p",
       "Name": "Paragon",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 686
+      "UsersEstimate": 676
     },
     {
       "ID": "GatlingVsArmor",
@@ -1541,7 +1546,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1549,23 +1554,23 @@
       "Name": "Showoff",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "KillWhileDrifting",
       "SetID": "a6c395p",
       "Name": "Born to Drift",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 566
+      "UsersEstimate": 556
     },
     {
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 807
     },
     {
       "ID": "MasteryOfCombat",
@@ -1597,7 +1602,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1621,7 +1626,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1629,7 +1634,7 @@
       "Name": "Payback",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -1661,7 +1666,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1701,7 +1706,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1717,7 +1722,7 @@
       "Name": "Shields Down",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "MissionScavengingJob",
@@ -1749,7 +1754,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1797,7 +1802,7 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "RiteOfTheStar",
@@ -1821,7 +1826,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "VisitAllLocations",
@@ -1829,7 +1834,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "WinARace",
@@ -1844,15 +1849,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:05:17.4444322+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:04:50.3331971+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:01:30.5847909+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:05:17.4444647+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:00:54.1518125+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:04:50.3332381+00:00"
 }

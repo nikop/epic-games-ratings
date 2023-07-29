@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -1557,9 +1557,9 @@
       "ID": "WINMATCH_DIFF_PACIFIST",
       "SetID": "6ohhfoc",
       "Name": "Accepting the Prophecy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 48
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -1582,8 +1582,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-29T20:05:16.4626614+00:00",
+  "LastChanged_Achievements": "2023-07-29T21:04:49.4967685+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.6009035+00:00",
-  "LastUpdate_Ratings": "2023-07-29T19:58:37.2426975+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:05:16.4626938+00:00"
+  "LastUpdate_Ratings": "2023-07-29T20:58:23.9566546+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:04:49.4968123+00:00"
 }

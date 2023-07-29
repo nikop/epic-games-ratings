@@ -4,7 +4,7 @@
   "ProductSlug": "neko-ghost-jump",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.8398465+00:00",
   "LastChanged": "2023-03-31T05:58:15.8398466+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:05.9016825+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:00:32.9444359+00:00",
-  "LastUpdate_Achievements": "2023-07-29T20:06:52.7660961+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:00:05.7672064+00:00",
+  "LastUpdate_Achievements": "2023-07-29T21:06:14.5365365+00:00"
 }
