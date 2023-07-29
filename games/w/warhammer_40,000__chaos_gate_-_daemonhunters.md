@@ -21,16 +21,16 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
 | Nemesis Master | 0.30% | ~9 |
+| Gunmaster | 0.30% | ~9 |
+| Just a Scratch | 0.30% | ~9 |
+| Daemonkeeper | 0.20% | ~6 |
 | The Emperor Protects | 0.20% | ~6 |
-| Gunmaster | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
-| Just a Scratch | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
-| Daemonkeeper | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
 | Exterminator | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
@@ -43,6 +43,7 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |
 | A Gift Spurned | 0.10% | ~3 |
+| Death Comes For All | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Tactical Flexibility | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
@@ -71,7 +72,6 @@ Number of Ratings: 371  (23.09.2022)
 | Firing Squad | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
-| Death Comes For All | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4770,
+  "EOS_Progressed": 4771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4967,6 +4967,11 @@
       "Time": "2023-07-28T23:03:41.9401955+00:00",
       "NumProgressed": 4770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T01:55:31.6549806+00:00",
+      "NumProgressed": 4771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4978,7 +4983,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4994,7 +4999,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5002,7 +5007,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -5010,7 +5015,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -5026,7 +5031,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -5034,7 +5039,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5058,7 +5063,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -5066,7 +5071,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -5257,13 +5262,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4770,
+      "Progressed": 4771,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 112
     }
   ],
@@ -5271,8 +5276,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:04:36.2386533+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:55:31.6549797+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:45.2628566+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:01:06.0738645+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:04:36.2387187+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:52:23.8777488+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:55:31.6550309+00:00"
 }

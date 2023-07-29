@@ -7,14 +7,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,496 |
-| Beast Intentions | 2.00% | ~4,330 |
+| Beast Intentions | 2.00% | ~4,331 |
 | Maddening | 1.00% | ~2,165 |
 | The Silken Swamp | 1.00% | ~2,165 |
 | Supply Run | 1.00% | ~2,165 |
 | Rocky Reception | 1.00% | ~1,828 |
 | Rock and Roll | 0.90% | ~1,645 |
-| Vecna Lives! | 0.80% | ~1,462 |
-| Flight of the Kindori Pod | 0.80% | ~1,462 |
+| Vecna Lives! | 0.80% | ~1,463 |
+| Flight of the Kindori Pod | 0.80% | ~1,463 |
 | Tall Tales | 0.70% | ~1,280 |
 | Vecna Loots! | 0.70% | ~1,280 |
 | Topolah's Tower | 0.70% | ~1,280 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.50% | ~1,083 |
 | Building Trust | 0.50% | ~1,083 |
 | Unearthed Evil | 0.50% | ~1,083 |
+| The Dinner Party | 0.50% | ~1,083 |
 | Not That Type of Helm! | 0.50% | ~914 |
 | Calcryx Tricks | 0.50% | ~914 |
 | Goblin Halls: the Next Generation | 0.50% | ~914 |
@@ -50,7 +51,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~866 |
 | The Mists of Ravenloft | 0.40% | ~866 |
 | Invisible Shadows | 0.40% | ~866 |
-| The Dinner Party | 0.40% | ~866 |
 | The Botched Kidnapping | 0.40% | ~866 |
 | The Mad Wizard | 0.40% | ~866 |
 | Bazaar Companions | 0.40% | ~731 |
@@ -160,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~433 |
 | Flying Monkey Skulls of Doom | 0.20% | ~433 |
 | Lair of the Xanathar | 0.20% | ~433 |
+| Waterdeep Under Siege | 0.20% | ~433 |
 | Crowded Streets | 0.20% | ~433 |
 | The Darkness Runs Deeper | 0.20% | ~433 |
 | Difficult Terrain | 0.20% | ~433 |
@@ -340,7 +341,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~217 |
 | Feigned Weakness | 0.10% | ~217 |
 | DPS in the Deeps | 0.10% | ~183 |
-| Waterdeep Under Siege | 0.10% | ~217 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~217 |
 | Sober Up | 0.10% | ~217 |
 | In The Beginning | 0.10% | ~183 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,522 (Ranked 53)  
-Completed: 2,133 (0.99%) (Ranked 111)  
+Progressed: 216,544 (Ranked 53)  
+Completed: 2,134 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -619,7 +619,7 @@ Completed: 2,133 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,522 | 2,133 |
+| 2023-07-29 | 216,544 | 2,134 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,775 (Ranked 38)  

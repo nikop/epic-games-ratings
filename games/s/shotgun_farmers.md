@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 74.00% | ~173 |
-| Aspairagus | 56.00% | ~103 |
+| Seeds of War | 74.00% | ~174 |
 | First Blood | 55.00% | ~129 |
-| Triple Kill | 55.00% | ~129 |
-| Survivor | 54.00% | ~99 |
-| No Asperascope | 50.00% | ~117 |
-| Cornivore | 50.00% | ~117 |
+| Aspairagus | 55.00% | ~102 |
+| Triple Kill | 54.00% | ~127 |
+| Survivor | 54.00% | ~100 |
+| No Asperascope | 50.00% | ~118 |
+| Cornivore | 49.00% | ~115 |
 | I Believe I Can Fly | 46.00% | ~108 |
-| Early Survivor | 42.00% | ~77 |
+| Early Survivor | 42.00% | ~78 |
 | No Diggity | 40.00% | ~74 |
-| Amateur Survivor | 30.00% | ~55 |
+| Amateur Survivor | 30.00% | ~56 |
 | 10K | 29.00% | ~68 |
 | Bouncemato | 28.00% | ~52 |
 | 15K | 27.00% | ~63 |
-| Quick-Draw Pod | 22.00% | ~40 |
-| Professional Survivor | 22.00% | ~40 |
-| Grave Digger | 22.00% | ~40 |
+| Quick-Draw Pod | 22.00% | ~41 |
+| Professional Survivor | 22.00% | ~41 |
+| Grave Digger | 22.00% | ~41 |
 | Drinking Problem | 21.00% | ~49 |
 | Pork Chop Express | 17.00% | ~40 |
 | Skin Of Your Teeth | 14.00% | ~33 |
-| Eggtraordinary | 13.00% | ~30 |
-| Carrocketeer | 13.00% | ~30 |
+| Eggtraordinary | 13.00% | ~31 |
+| Carrocketeer | 13.00% | ~31 |
 | Oh My Gourd | 13.00% | ~24 |
 | This Is My Boomstick | 13.00% | ~24 |
-| Getting Started | 12.00% | ~28 |
+| Getting Started | 11.00% | ~26 |
 | Summers Here | 11.00% | ~20 |
-| Fresh Pancake | 10.00% | ~23 |
-| Quit Horsin' Around | 10.00% | ~23 |
+| Fresh Pancake | 10.00% | ~24 |
+| Quit Horsin' Around | 10.00% | ~24 |
 | Perfect | 9.00% | ~17 |
 | Expert Survivor | 9.00% | ~17 |
 | Bring Home The Bacon | 8.00% | ~19 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 265)  
+Progressed: 235 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 231 | 0 |
 | 2023-07-27 | 232 | 0 |
 | 2023-07-28 | 234 | 0 |
+| 2023-07-29 | 235 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

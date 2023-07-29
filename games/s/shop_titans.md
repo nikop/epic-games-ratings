@@ -17,6 +17,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
 | Budding Merchant | 0.20% | ~267 |
+| Through Repetition, Perfection | 0.20% | ~267 |
 | Capitalism Ho! | 0.20% | ~267 |
 | Own the Means of Production | 0.20% | ~267 |
 | The Daily Grind | 0.10% | ~133 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.10% | ~133 |
 | Bountiful Harvest | 0.10% | ~133 |
 | Anything not Nailed Down | 0.10% | ~133 |
-| Through Repetition, Perfection | 0.10% | ~133 |
 | Natural 20 | 0.10% | ~133 |
 | Seasoned Journeyman | 0.10% | ~133 |
 | Precision Engineering | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,443 (Ranked 61)  
+Progressed: 133,453 (Ranked 61)  
 Completed: 123 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 123 (0.09%) (Ranked 196)
 | 2023-07-26 | 133,301 | 123 |
 | 2023-07-27 | 133,376 | 123 |
 | 2023-07-28 | 133,441 | 123 |
-| 2023-07-29 | 133,443 | 123 |
+| 2023-07-29 | 133,453 | 123 |
 ## Awards
 Max (Great for Beginners): 4,675  (Ranked 70)  
 Sum: 26,999 (Ranked 46)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -902,9 +902,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8025,
+  "EOS_Progressed": 8026,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3882,6 +3882,11 @@
       "Time": "2023-07-28T23:05:05.3970829+00:00",
       "NumProgressed": 8025,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-29T01:57:07.9265974+00:00",
+      "NumProgressed": 8026,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3901,7 +3906,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ColdBlood",
@@ -3957,7 +3962,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4029,7 +4034,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "SkeletonKing",
@@ -4037,7 +4042,7 @@
       "Name": "The Skeleton King",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "StockManagement",
@@ -4045,7 +4050,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "TheLegendBegins",
@@ -4053,7 +4058,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4077,22 +4082,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6741
+      "UsersEstimate": 6742
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8025,
+      "Progressed": 8026,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:05:59.6681689+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:57:07.9265968+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:58:43.6770012+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:00:16.2756192+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:05:59.6682287+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:51:23.3938074+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:57:07.9266567+00:00"
 }

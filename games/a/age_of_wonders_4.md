@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 332)  
+Rating: 4.63 (Ranked 333)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.63 (Ranked 332)
 | Mighty Hoard | 4.00% | ~202 |
 | Valley of Wonders | 3.00% | ~152 |
 | There Can Only Be One! | 3.00% | ~152 |
+| Return of the Wizard King | 3.00% | ~152 |
 | Digging for Treasure | 3.00% | ~152 |
 | Preparation Is Everything | 3.00% | ~152 |
 | In a Liege of Your Own | 3.00% | ~152 |
@@ -30,7 +31,6 @@ Rating: 4.63 (Ranked 332)
 | Against the Odds | 3.00% | ~152 |
 | Impenetrable Fortress | 3.00% | ~152 |
 | The Magic That Empowers Me! | 2.00% | ~101 |
-| Return of the Wizard King | 2.00% | ~101 |
 | God Emperor | 2.00% | ~101 |
 | Lord of Chaos | 2.00% | ~101 |
 | Arch Mage | 2.00% | ~101 |

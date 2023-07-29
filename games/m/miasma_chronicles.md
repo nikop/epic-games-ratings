@@ -5,12 +5,12 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,200 |
-| Ranidaphobia | 77.00% | ~1,004 |
-| Aspiring Editor | 75.00% | ~978 |
+| First Blood | 92.00% | ~1,201 |
+| Ranidaphobia | 77.00% | ~1,005 |
+| Aspiring Editor | 75.00% | ~979 |
 | Gun for Hire | 70.00% | ~913 |
 | I am the law! | 63.00% | ~822 |
-| Lumberjack | 52.00% | ~678 |
+| Lumberjack | 52.00% | ~679 |
 | Croaked | 48.00% | ~626 |
 | Limp Richard | 47.00% | ~613 |
 | Exorcist | 47.00% | ~613 |
@@ -21,12 +21,12 @@ Rating: 4.40 (Ranked 693)
 | Firestarter | 41.00% | ~535 |
 | The meaning of Kain | 40.00% | ~522 |
 | Technophobe | 38.00% | ~496 |
-| Recycler | 37.00% | ~482 |
-| Are you not entertained? | 33.00% | ~430 |
-| Jarhead | 33.00% | ~430 |
-| Ganglord | 32.00% | ~417 |
-| Infiltrator | 32.00% | ~417 |
-| Pushing Daisy | 30.00% | ~391 |
+| Recycler | 37.00% | ~483 |
+| Are you not entertained? | 33.00% | ~431 |
+| Ganglord | 32.00% | ~418 |
+| Jarhead | 32.00% | ~418 |
+| Infiltrator | 32.00% | ~418 |
+| Pushing Daisy | 30.00% | ~392 |
 | Experienced | 29.00% | ~378 |
 | Hold The Line | 28.00% | ~365 |
 | Endgame | 25.00% | ~326 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 693)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,304 (Ranked 182)  
+Progressed: 1,305 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,296 | 0 |
 | 2023-07-27 | 1,299 | 0 |
 | 2023-07-28 | 1,304 | 0 |
+| 2023-07-29 | 1,305 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

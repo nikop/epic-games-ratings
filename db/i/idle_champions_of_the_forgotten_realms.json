@@ -5344,10 +5344,10 @@
       "Count": 3323
     }
   ],
-  "EOS_Progressed": 216522,
-  "EOS_Completed": 2133,
-  "EOS_NewPlayers": 2254,
-  "EOS_NewCompleters": 73,
+  "EOS_Progressed": 216544,
+  "EOS_Completed": 2134,
+  "EOS_NewPlayers": 2253,
+  "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -16019,6 +16019,11 @@
       "Time": "2023-07-29T00:03:49.0785087+00:00",
       "NumProgressed": 216522,
       "NumCompleted": 2133
+    },
+    {
+      "Time": "2023-07-29T01:54:34.3177101+00:00",
+      "NumProgressed": 216544,
+      "NumCompleted": 2134
     }
   ],
   "TotalAchievements": 512,
@@ -16398,7 +16403,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "objective_completed_110",
@@ -16710,7 +16715,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "objective_completed_1164",
@@ -17444,9 +17449,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 1083
     },
     {
       "ID": "objective_completed_231",
@@ -18284,9 +18289,9 @@
       "ID": "objective_completed_555",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Under Siege",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 433
     },
     {
       "ID": "objective_completed_556",
@@ -20086,7 +20091,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "objective_completed_1386",
@@ -20125,21 +20130,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182796,
+      "Progressed": 182818,
       "Completed": 3023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216522,
-      "Completed": 2133
+      "Progressed": 216544,
+      "Completed": 2134
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-28T20:59:03.9351357+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:03:49.078508+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:54:34.3177098+00:00",
   "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-28T23:59:11.974948+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:03:49.0816779+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:50:05.3381122+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:54:34.3202487+00:00"
 }

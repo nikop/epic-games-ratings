@@ -15,9 +15,9 @@
 | Soviet town | 19.00% | ~55 |
 | Clean energy | 17.00% | ~49 |
 | Bucolic city | 14.00% | ~41 |
+| I love parks | 9.00% | ~26 |
 | I love books! | 8.00% | ~23 |
 | King of fish | 8.00% | ~23 |
-| I love parks | 8.00% | ~23 |
 | What would we do if we can't go out with friends? | 7.00% | ~20 |
 | Food producer | 5.00% | ~14 |
 | Metropolurbek | 5.00% | ~14 |

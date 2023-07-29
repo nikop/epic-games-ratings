@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That'll Leave a Mark | 3.00% | ~12 |
+| That'll Leave a Mark | 3.00% | ~13 |
 | Deadication | 2.00% | ~8 |
 | Debuff Dogpile | 2.00% | ~8 |
 | Faceroll the Bones | 2.00% | ~8 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 229)  
+Progressed: 417 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 333 | 0 |
 | 2023-07-27 | 372 | 0 |
 | 2023-07-28 | 412 | 0 |
-| 2023-07-29 | 414 | 0 |
+| 2023-07-29 | 417 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 450)  
 Sum: 226 (Ranked 352)  

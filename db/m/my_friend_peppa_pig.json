@@ -4,7 +4,7 @@
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -97,9 +97,9 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "10",
@@ -121,9 +121,9 @@
       "ID": "2",
       "SetID": "5jd5jfm",
       "Name": "Where\u2019s Mr. Dinosaur?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "3",
@@ -137,9 +137,9 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "5",
@@ -194,8 +194,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:04:26.6376741+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:55:20.3803598+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:22.7247026+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:00:32.5968334+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:04:26.6376868+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:51:46.8190349+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:55:20.3803916+00:00"
 }

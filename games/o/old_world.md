@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Pyramids | 0.50% | ~66 |
+| Learn to Play 1 | 0.50% | ~66 |
 | Christianity | 0.50% | ~66 |
 | Babylonian Paganism | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |
@@ -55,8 +56,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.40% | ~53 |
 | Lighthouse | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
-| Learn to Play 1 | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
+| Manichaeism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
 | Hanging Gardens in Babylon | 0.30% | ~39 |
 | Drillmaster | 0.30% | ~39 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.30% | ~39 |
 | Musaeum | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
-| Manichaeism | 0.30% | ~39 |
 | Mythology | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
 | Carthage - Ox Hide | 0.20% | ~26 |

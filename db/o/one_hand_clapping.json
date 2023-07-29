@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "ID": "20",
       "SetID": "7l2nmpm",
       "Name": "Tempo",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "21",
@@ -433,9 +433,9 @@
       "ID": "3",
       "SetID": "7l2nmpm",
       "Name": "Maestro Mountain",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "4",
@@ -498,8 +498,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:03:40.9069545+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:54:24.2413654+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:37.6188388+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:00:52.8314401+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:03:40.9069995+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:52:09.2192089+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:54:24.2413873+00:00"
 }

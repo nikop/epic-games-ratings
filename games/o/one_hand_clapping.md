@@ -9,9 +9,9 @@
 | Fermata | 3.00% | ~23 |
 | Cadenza | 2.00% | ~16 |
 | Staccato | 2.00% | ~16 |
-| Maestro Mountain | 1.00% | ~8 |
+| Maestro Mountain | 2.00% | ~16 |
 | Fugue Forest | 1.00% | ~8 |
-| Tempo | 0.80% | ~6 |
+| Tempo | 0.90% | ~7 |
 | Coda Cave | 0.60% | ~5 |
 | Solo Sea | 0.60% | ~5 |
 | Silent City: Reprise | 0.60% | ~5 |

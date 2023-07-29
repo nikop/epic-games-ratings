@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1203,
+  "EOS_Progressed": 1204,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1835,6 +1835,11 @@
       "Time": "2023-07-28T21:04:19.1660449+00:00",
       "NumProgressed": 1203,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T01:55:21.4752796+00:00",
+      "NumProgressed": 1204,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1894,7 +1899,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Defense_Common",
@@ -1934,7 +1939,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Experienced_strategist",
@@ -2085,15 +2090,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1203,
+      "Progressed": 1204,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:04:27.6008087+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:55:21.4752789+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:13.0974701+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:00:21.0166097+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:04:27.6008504+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:51:32.2113627+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:55:21.4753158+00:00"
 }

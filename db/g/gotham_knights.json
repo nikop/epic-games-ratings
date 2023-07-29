@@ -5,9 +5,9 @@
   "Ranking_Rating": 861,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 79,
+  "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2222,9 +2222,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67447,
+  "EOS_Progressed": 67448,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11057,6 +11057,11 @@
       "Time": "2023-07-28T20:05:21.4164141+00:00",
       "NumProgressed": 67447,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-29T01:56:47.8516183+00:00",
+      "NumProgressed": 67448,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -11250,9 +11255,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 1349
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -11555,13 +11560,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67447,
+      "Progressed": 67448,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37727,
+      "Progressed": 37728,
       "Completed": 2654
     }
   ],
@@ -11569,8 +11574,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-28T18:00:49.5235885+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:05:42.1944813+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:56:47.8516179+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:47.6510385+00:00",
-  "LastUpdate_Ratings": "2023-07-29T00:01:06.5088017+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:05:42.1947078+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:52:24.4682526+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:56:47.8517722+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-29T00:04:34.6618577+00:00",
+  "LastChanged_Achievements": "2023-07-29T01:55:29.7017423+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-28T23:57:46.7415687+00:00",
-  "LastUpdate_Achievements": "2023-07-29T00:04:34.6618989+00:00"
+  "LastUpdate_Ratings": "2023-07-29T01:48:20.8732876+00:00",
+  "LastUpdate_Achievements": "2023-07-29T01:55:29.7017687+00:00"
 }

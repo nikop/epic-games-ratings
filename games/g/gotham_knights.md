@@ -29,6 +29,7 @@ Rating: 4.18 (Ranked 861)
 | Rock and a Hard Place | 2.00% | ~1,349 |
 | Not On My Watch | 2.00% | ~1,349 |
 | Bulldozed | 2.00% | ~1,349 |
+| Out of Their League | 2.00% | ~1,349 |
 | Shock Til They Drop | 2.00% | ~1,349 |
 | Drone You Out | 2.00% | ~1,349 |
 | Cooldown | 2.00% | ~1,349 |
@@ -38,7 +39,6 @@ Rating: 4.18 (Ranked 861)
 | Gotham City Confidential | 2.00% | ~1,349 |
 | Fusion Expert | 1.00% | ~674 |
 | Expert Crime Fighter | 1.00% | ~674 |
-| Out of Their League | 1.00% | ~674 |
 | Family Meeting | 1.00% | ~674 |
 | A Worthy Successor | 1.00% | ~674 |
 | Solid Alibi | 1.00% | ~674 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 861)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,447 (Ranked 79)  
+Progressed: 67,448 (Ranked 80)  
 Completed: 104 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 104 (0.15%) (Ranked 181)
 | 2023-07-26 | 67,408 | 104 |
 | 2023-07-27 | 67,436 | 104 |
 | 2023-07-28 | 67,447 | 104 |
+| 2023-07-29 | 67,448 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,466  (Ranked 101)  
 Sum: 4,098 (Ranked 139)  

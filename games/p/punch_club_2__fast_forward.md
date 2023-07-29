@@ -30,30 +30,30 @@
 | Champion – starter pack | 54.00% | ~92 |
 | Employee of the year | 54.00% | ~92 |
 | It's good to be alive | 53.00% | ~91 |
+| Fight for life | 52.00% | ~89 |
 | Handyman | 52.00% | ~89 |
 | Own four walls | 52.00% | ~89 |
-| Fight for life | 51.00% | ~87 |
 | Your own way | 51.00% | ~87 |
-| Extreme neuropower! | 48.00% | ~82 |
-| Legal courier | 47.00% | ~80 |
+| Extreme neuropower! | 49.00% | ~84 |
+| Legal courier | 48.00% | ~82 |
+| Escaped from a big trouble | 43.00% | ~74 |
 | Now you are worthy | 42.00% | ~72 |
-| Escaped from a big trouble | 42.00% | ~72 |
 | No blades in the gym | 41.00% | ~70 |
 | Guiding on the right path | 39.00% | ~67 |
+| Fight is life | 37.00% | ~63 |
 | Mysterious voice | 37.00% | ~63 |
-| Fight is life | 36.00% | ~62 |
 | Responsible approach | 34.00% | ~58 |
 | Get out of my apartment! | 32.00% | ~55 |
 | Deal with life | 30.00% | ~51 |
 | Champion – no way back | 30.00% | ~51 |
+| Underground dwellers | 30.00% | ~51 |
 | Mom got better | 29.00% | ~50 |
 | GYM professional | 29.00% | ~50 |
 | The die is cast | 29.00% | ~50 |
-| Underground dwellers | 29.00% | ~50 |
+| Seashell hunter | 29.00% | ~50 |
 | Poisoned fighter | 28.00% | ~48 |
+| Gang wrangler | 27.00% | ~46 |
 | The last bell ring | 27.00% | ~46 |
-| Seashell hunter | 27.00% | ~46 |
-| Gang wrangler | 26.00% | ~44 |
 | Problems of cyborgs | 25.00% | ~43 |
 | Anyone can resist | 25.00% | ~43 |
 | Undercover robot | 25.00% | ~43 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 50.00% | ~52 |
-| First Step | 48.00% | ~50 |
-| Indebted | 10.00% | ~10 |
-| Capitalism | 10.00% | ~10 |
+| The 4 Pillars | 49.00% | ~52 |
+| First Step | 47.00% | ~50 |
+| Indebted | 9.00% | ~10 |
+| Capitalism | 9.00% | ~10 |
 | Health Care | 6.00% | ~6 |
 | Good payer | 6.00% | ~6 |
 | Desert Rat | 6.00% | ~6 |
@@ -26,14 +26,14 @@
 | Outdoor Decorator | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | Self-sufficient | 2.00% | ~2 |
-| Tear Down the Wall! | 1.00% | ~1 |
-| Vive le Résistance | 1.00% | ~1 |
-| No News is Good News | 1.00% | ~1 |
-| Overpopulation | 1.00% | ~1 |
-| Human Resources | 1.00% | ~1 |
-| Fuel Tycoon | 1.00% | ~1 |
-| Winter Soldier | 1.00% | ~1 |
-| Researcher | 1.00% | ~1 |
+| Tear Down the Wall! | 0.90% | ~1 |
+| Vive le Résistance | 0.90% | ~1 |
+| No News is Good News | 0.90% | ~1 |
+| Overpopulation | 0.90% | ~1 |
+| Human Resources | 0.90% | ~1 |
+| Fuel Tycoon | 0.90% | ~1 |
+| Winter Soldier | 0.90% | ~1 |
+| Researcher | 0.90% | ~1 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 310)  
+Progressed: 107 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,3 +63,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 86 | 0 |
 | 2023-07-27 | 98 | 0 |
 | 2023-07-28 | 105 | 0 |
+| 2023-07-29 | 107 | 0 |
