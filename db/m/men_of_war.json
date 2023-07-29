@@ -2,13 +2,13 @@
   "ID": "8b234aeb354e4688b000853a2085fd71",
   "Name": "Men of War",
   "ProductSlug": "men-of-war-74bf75",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2009-05-06T15:00:00+00:00",
@@ -58,6 +58,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8479653+00:00",
   "LastChanged": "2023-06-25T08:57:50.8245355+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.5491326+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:57:56.9196095+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:54.7815119+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:08.4146746+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:40.5767783+00:00"
 }

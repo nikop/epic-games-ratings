@@ -6,9 +6,9 @@
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,11 +146,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16717,
+  "EOS_Progressed": 16722,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:51.3852974+00:00",
@@ -8476,6 +8476,11 @@
       "Time": "2023-07-29T10:01:21.6273419+00:00",
       "NumProgressed": 16717,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-29T11:00:45.3908654+00:00",
+      "NumProgressed": 16722,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -8487,7 +8492,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13206
+      "UsersEstimate": 13210
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -8503,7 +8508,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -8511,7 +8516,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -8519,7 +8524,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -8527,7 +8532,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -8543,7 +8548,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8860
+      "UsersEstimate": 8863
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -8551,7 +8556,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -8559,7 +8564,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -8567,7 +8572,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "ACH_THE_FALL",
@@ -8575,7 +8580,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -8591,22 +8596,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16717,
+      "Progressed": 16722,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:01:21.6273416+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:00:45.3908647+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.368117+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:00:59.1658353+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:01:21.6276204+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:00:26.9828481+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:00:45.390927+00:00"
 }

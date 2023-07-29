@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4734,
+  "EOS_Progressed": 4736,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7266,6 +7266,11 @@
       "Time": "2023-07-29T10:06:57.2785588+00:00",
       "NumProgressed": 4734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T11:06:19.5811709+00:00",
+      "NumProgressed": 4736,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7277,7 +7282,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "10",
@@ -7293,7 +7298,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "12",
@@ -7333,7 +7338,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "3",
@@ -7349,7 +7354,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "5",
@@ -7389,14 +7394,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4734,
+      "Progressed": 4736,
       "Completed": 0
     }
   ],
@@ -7404,8 +7409,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:06:57.2785582+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:06:19.5811703+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:31.2630164+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:06:57.2786169+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:33.6968941+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:06:19.581225+00:00"
 }

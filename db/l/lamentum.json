@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_11",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:06:38.9810399+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:06:04.5413856+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.254733+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:17.5025655+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:06:38.9810574+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:23.2567447+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:06:04.5414022+00:00"
 }

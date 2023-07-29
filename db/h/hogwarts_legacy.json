@@ -5616,9 +5616,9 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288826,
+  "EOS_Progressed": 288829,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16356,6 +16356,11 @@
       "Time": "2023-07-29T10:04:53.8837331+00:00",
       "NumProgressed": 288826,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-07-29T11:04:39.8400779+00:00",
+      "NumProgressed": 288829,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 45,
@@ -16375,7 +16380,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_11",
@@ -16383,7 +16388,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_12",
@@ -16391,7 +16396,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_13",
@@ -16423,7 +16428,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_17",
@@ -16495,7 +16500,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_25",
@@ -16551,7 +16556,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_31",
@@ -16623,7 +16628,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25994
+      "UsersEstimate": 25995
     },
     {
       "ID": "PFA_4",
@@ -16726,7 +16731,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288826,
+      "Progressed": 288829,
       "Completed": 436
     }
   ],
@@ -16734,8 +16739,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-29T02:57:48.9524103+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:04:53.8837325+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:04:39.8400775+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:57:53.596957+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:53.8838489+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:05.8665971+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:39.840182+00:00"
 }

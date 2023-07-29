@@ -24,18 +24,18 @@
 | Target Practice | 42.00% | ~69 |
 | Meat Larder | 40.00% | ~66 |
 | Mutant And Proud | 38.00% | ~62 |
-| The Emperor's New Clothes | 33.00% | ~54 |
+| The Emperor's New Clothes | 34.00% | ~56 |
 | Final Evolution | 31.00% | ~51 |
 | You Shall Not Pass | 30.00% | ~49 |
 | Godlike Power | 30.00% | ~49 |
 | Undying Skin | 30.00% | ~49 |
+| Happy Little Home | 30.00% | ~49 |
 | Animal Lover | 29.00% | ~48 |
 | Fight Me! | 29.00% | ~48 |
-| Happy Little Home | 29.00% | ~48 |
-| Supremacy | 28.00% | ~46 |
-| Mommy's Very Angry | 27.00% | ~44 |
+| Supremacy | 29.00% | ~48 |
+| Mommy's Very Angry | 28.00% | ~46 |
+| Loyal Companion | 25.00% | ~41 |
 | Immortal Skin | 24.00% | ~39 |
-| Loyal Companion | 24.00% | ~39 |
 | Back To The Future | 23.00% | ~38 |
 | Fire Beacon | 23.00% | ~38 |
 | Lunch Before The Lunch | 21.00% | ~34 |

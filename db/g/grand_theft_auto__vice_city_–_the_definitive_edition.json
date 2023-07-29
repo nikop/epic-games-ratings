@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 9317,
+  "EOS_Progressed": 9318,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7296,6 +7296,11 @@
       "Time": "2023-07-29T10:04:23.8189409+00:00",
       "NumProgressed": 9317,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-29T11:04:15.4816157+00:00",
+      "NumProgressed": 9318,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7475,7 +7480,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "ACH23",
@@ -7483,7 +7488,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "ACH24",
@@ -7491,7 +7496,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACH25",
@@ -7499,7 +7504,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACH26",
@@ -7578,7 +7583,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9317,
+      "Progressed": 9318,
       "Completed": 43
     }
   ],
@@ -7586,8 +7591,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-29T02:58:47.8264413+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:04:23.8189401+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:04:15.4816153+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:47.4630763+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:23.8190111+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:45.3332697+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:15.481682+00:00"
 }

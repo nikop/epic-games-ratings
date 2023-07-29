@@ -5,10 +5,10 @@
   "Ranking_Rating": 870,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -384,6 +384,11 @@
       "Time": "2023-07-20T21:06:25.1123101+00:00",
       "NumProgressed": 452,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T11:04:18.5040865+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -411,7 +416,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -459,7 +464,7 @@
       "Name": "Path of Learning",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -483,7 +488,7 @@
       "Name": "Fan Service",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -497,9 +502,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -523,7 +528,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -794,7 +799,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 1
     }
   ],
@@ -802,8 +807,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:04:27.6210633+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:04:18.5040857+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:47.6329166+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:59:31.4762928+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:27.6211131+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:59:19.8558492+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:18.5041353+00:00"
 }

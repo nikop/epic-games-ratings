@@ -9,14 +9,14 @@ Number of Ratings: 22  (23.09.2022)
 | Self Defense | 44.00% | ~199 |
 | Grand Opening | 40.00% | ~181 |
 | Circus Electrique Proudly Presents... | 40.00% | ~181 |
-| Path of Learning | 39.00% | ~176 |
+| Path of Learning | 39.00% | ~177 |
 | Built in a Day | 33.00% | ~149 |
-| More Brain Than Brawn | 29.00% | ~131 |
+| More Brain Than Brawn | 28.00% | ~127 |
 | Perfect Illusion | 23.00% | ~104 |
 | Hundred Percent First | 23.00% | ~104 |
-| Dirty Dozen | 20.00% | ~90 |
-| Lion Tamer | 18.00% | ~81 |
-| Fan Service | 18.00% | ~81 |
+| Dirty Dozen | 20.00% | ~91 |
+| Lion Tamer | 18.00% | ~82 |
+| Fan Service | 18.00% | ~82 |
 | Amazing! | 16.00% | ~72 |
 | King of District 1 | 15.00% | ~68 |
 | Lucky Day | 14.00% | ~63 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452 (Ranked 225)  
+Progressed: 453 (Ranked 224)  
 Completed: 1 (0.22%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 1 (0.22%) (Ranked 168)
 | 2023-06-28 | 450 | 1 |
 | 2023-07-05 | 451 | 1 |
 | 2023-07-20 | 452 | 1 |
+| 2023-07-29 | 453 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

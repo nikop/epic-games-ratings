@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~40,937 |
-| Worth it | 63.00% | ~33,494 |
-| Eagle Eye | 55.00% | ~29,241 |
-| Corpseman I | 40.00% | ~21,266 |
-| Blast fishing | 37.00% | ~19,671 |
-| Not alone | 32.00% | ~17,013 |
-| Headhunter I | 26.00% | ~13,823 |
-| Manual Labour I | 25.00% | ~13,291 |
-| Developers, Developers, Developers | 24.00% | ~12,760 |
-| Basic Training | 24.00% | ~12,760 |
-| Furchtlos und Treu | 13.00% | ~6,911 |
-| Gott Mit Uns | 12.00% | ~6,380 |
+| Setting an example | 77.00% | ~40,942 |
+| Worth it | 63.00% | ~33,498 |
+| Eagle Eye | 55.00% | ~29,244 |
+| Corpseman I | 40.00% | ~21,268 |
+| Blast fishing | 37.00% | ~19,673 |
+| Not alone | 32.00% | ~17,015 |
+| Headhunter I | 26.00% | ~13,824 |
+| Manual Labour I | 25.00% | ~13,293 |
+| Developers, Developers, Developers | 24.00% | ~12,761 |
+| Basic Training | 24.00% | ~12,761 |
+| Furchtlos und Treu | 13.00% | ~6,912 |
+| Gott Mit Uns | 12.00% | ~6,381 |
 | This We'll Defend! | 9.00% | ~4,785 |
 | Anker wirf! | 9.00% | ~4,785 |
 | Providentiea Memor | 9.00% | ~4,785 |
 | For King and Country | 9.00% | ~4,785 |
-| Battle hardened | 8.00% | ~4,253 |
+| Battle hardened | 8.00% | ~4,254 |
 | Semper Fidelis! | 7.00% | ~3,722 |
 | Honneur et Patrie | 7.00% | ~3,722 |
-| In Treue Fest | 5.00% | ~2,658 |
-| Voor De Koning | 5.00% | ~2,658 |
-| Extreme Headhunter | 5.00% | ~2,658 |
+| In Treue Fest | 5.00% | ~2,659 |
+| Voor De Koning | 5.00% | ~2,659 |
+| Extreme Headhunter | 5.00% | ~2,659 |
 | Advance Australia | 4.00% | ~2,127 |
 | We Stand on Guard | 4.00% | ~2,127 |
 | Sidi Brahim | 4.00% | ~2,127 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~532 |
 | Corpseman III | 1.00% | ~532 |
 | Elite Player | 0.80% | ~425 |
-| Manual Labour III | 0.30% | ~159 |
+| Manual Labour III | 0.30% | ~160 |
 | War is better with friends II | 0.20% | ~106 |
 | Buddy | 0.20% | ~106 |
 | Gold Collector | 0.10% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~53 |
 | Blood Brother | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,165 (Ranked 88)  
+Progressed: 53,171 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,11 +166,11 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-26 | 52,871 | 4 |
 | 2023-07-27 | 52,967 | 4 |
 | 2023-07-28 | 53,111 | 4 |
-| 2023-07-29 | 53,165 | 4 |
+| 2023-07-29 | 53,171 | 4 |
 ## Awards
-Max (Highly Recommended): 96  (Ranked 338)  
+Max (Highly Recommended): 96  (Ranked 339)  
 Sum: 759 (Ranked 262)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 96 |

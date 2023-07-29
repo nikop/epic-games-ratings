@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -2356,6 +2356,11 @@
       "Time": "2023-07-29T10:05:52.8174519+00:00",
       "NumProgressed": 682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T11:05:28.2444049+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2670,14 +2675,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:05:52.8174514+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:05:28.2444046+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:01:04.9148182+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:05:52.8174946+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:00:31.4215643+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:05:28.2444475+00:00"
 }

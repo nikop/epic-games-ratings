@@ -20,11 +20,11 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 0.40% | ~12 |
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
+| The Emperor Protects | 0.30% | ~9 |
 | Nemesis Master | 0.30% | ~9 |
 | Gunmaster | 0.30% | ~9 |
 | Just a Scratch | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
-| The Emperor Protects | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |

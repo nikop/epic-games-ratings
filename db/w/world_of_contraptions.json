@@ -2,10 +2,10 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -866,6 +866,11 @@
       "Time": "2023-07-29T05:05:24.867387+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T11:00:54.4752135+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1077,7 +1082,7 @@
       "Name": "Graduated in contraptions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1109,21 +1114,21 @@
       "Name": "Starting to take notes",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:02:13.4223591+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:00:54.475213+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.942279+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:40.8640946+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:02:13.4223868+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:40.3499004+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:00:54.4752403+00:00"
 }

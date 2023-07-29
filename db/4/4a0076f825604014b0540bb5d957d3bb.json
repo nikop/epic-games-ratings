@@ -2,10 +2,10 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -276,9 +276,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -308,9 +308,9 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:04:11.52337+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:04:05.860365+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:57:11.0675879+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:11.5233963+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:57:30.6652275+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:05.8603841+00:00"
 }

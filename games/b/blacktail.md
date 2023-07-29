@@ -9,7 +9,7 @@ Rating: 4.68 (Ranked 242)
 | Dental maturity | 19.00% | ~112 |
 | Devil's in the details | 14.00% | ~82 |
 | Uprooting | 13.00% | ~76 |
-| Forbidden techniques | 12.00% | ~70 |
+| Forbidden techniques | 12.00% | ~71 |
 | Devoted | 9.00% | ~53 |
 | Slavic squatter | 9.00% | ~53 |
 | Spirit animal | 8.00% | ~47 |
@@ -21,9 +21,9 @@ Rating: 4.68 (Ranked 242)
 | Liar Liar | 5.00% | ~29 |
 | The cycle acknowledged | 5.00% | ~29 |
 | Baba Yaga | 5.00% | ~29 |
-| Extensive retelling | 4.00% | ~23 |
-| Favorite | 4.00% | ~23 |
-| Queen | 4.00% | ~23 |
+| Extensive retelling | 4.00% | ~24 |
+| Favorite | 4.00% | ~24 |
+| Queen | 4.00% | ~24 |
 | Goal! | 3.00% | ~18 |
 | Both sides | 3.00% | ~18 |
 | Specialist | 3.00% | ~18 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 242)
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 214)  
+Progressed: 588 (Ranked 214)  
 Completed: 1 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.17%) (Ranked 176)
 | 2023-07-26 | 580 | 1 |
 | 2023-07-27 | 582 | 1 |
 | 2023-07-28 | 585 | 1 |
-| 2023-07-29 | 587 | 1 |
+| 2023-07-29 | 588 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -221,7 +221,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1812,
+  "EOS_Progressed": 1813,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -2201,6 +2201,11 @@
       "Time": "2023-07-29T10:03:14.5154937+00:00",
       "NumProgressed": 1812,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-29T11:03:18.868514+00:00",
+      "NumProgressed": 1813,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2220,7 +2225,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Collect20Iron",
@@ -2236,7 +2241,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "CollectAllStatues",
@@ -2308,7 +2313,7 @@
       "Name": "A new Warchief rises",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DefeatAvor",
@@ -2316,7 +2321,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DefeatMoziQueen",
@@ -2324,7 +2329,7 @@
       "Name": "End of the Mozis",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2332,7 +2337,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2348,7 +2353,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "GetRangedWeapon",
@@ -2356,7 +2361,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "GetTHWeapon",
@@ -2372,7 +2377,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Kill25Frogs",
@@ -2380,7 +2385,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "Kill25Mozi",
@@ -2396,7 +2401,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2420,7 +2425,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "RepairThroneRoom",
@@ -2428,7 +2433,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "RescueBrothers",
@@ -2436,7 +2441,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2444,29 +2449,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1812,
+      "Progressed": 1813,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 453,
-      "Completed": 453
+      "Progressed": 454,
+      "Completed": 454
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:03:14.5154933+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:03:18.8685135+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:52.9745686+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:03:14.5155303+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:50.1830486+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:03:18.8685481+00:00"
 }

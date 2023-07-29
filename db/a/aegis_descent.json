@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-07-22T10:05:07.6982087+00:00",
       "NumProgressed": 396,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T11:05:22.3438801+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -283,7 +288,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Award_BigSpender",
@@ -323,7 +328,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -355,7 +360,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Award_EarlyBird",
@@ -393,9 +398,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 222
     },
     {
       "ID": "Award_HalfwayThere",
@@ -459,7 +464,7 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -507,7 +512,7 @@
       "Name": "Perky",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Award_PowerUp",
@@ -531,7 +536,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Award_ShellShock",
@@ -627,14 +632,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 1
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:05:45.1299443+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:05:22.3438797+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.5924175+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:47.7458003+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:05:45.1299819+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:45.666415+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:05:22.3439129+00:00"
 }

@@ -5362,9 +5362,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216635,
+  "EOS_Progressed": 216648,
   "EOS_Completed": 2135,
-  "EOS_NewPlayers": 2239,
+  "EOS_NewPlayers": 2235,
   "EOS_NewCompleters": 75,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16087,6 +16087,11 @@
       "Time": "2023-07-29T10:03:28.5003777+00:00",
       "NumProgressed": 216635,
       "NumCompleted": 2135
+    },
+    {
+      "Time": "2023-07-29T11:03:30.6816318+00:00",
+      "NumProgressed": 216648,
+      "NumCompleted": 2135
     }
   ],
   "TotalAchievements": 512,
@@ -16104,9 +16109,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2166
+      "UsersEstimate": 4333
     },
     {
       "ID": "objective_completed_100",
@@ -16722,7 +16727,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "objective_completed_1153",
@@ -16834,7 +16839,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "objective_completed_1174",
@@ -20058,7 +20063,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "objective_completed_1220",
@@ -20193,21 +20198,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182909,
+      "Progressed": 182922,
       "Completed": 3025
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216635,
+      "Progressed": 216648,
       "Completed": 2135
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-29T08:58:20.8606176+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:03:28.5003774+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:03:30.6816309+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:58:40.6813834+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:03:28.5034371+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:40.2293171+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:03:30.6846289+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1309,
+  "EOS_Progressed": 1310,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -1807,6 +1807,11 @@
       "Time": "2023-07-29T08:01:59.5494397+00:00",
       "NumProgressed": 1309,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-29T11:00:42.8502246+00:00",
+      "NumProgressed": 1310,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 11,
@@ -1826,7 +1831,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1840,17 +1845,17 @@
       "ID": "ACH_DialogoAspettoFisico",
       "SetID": "7a9m7mj",
       "Name": "Spicy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 615
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_FineEV9",
@@ -1882,7 +1887,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1905,15 +1910,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:01:18.4815368+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:00:42.8502242+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.8120898+00:00",
-  "LastUpdate_Ratings": "2023-07-29T10:00:42.7215733+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:01:18.4815615+00:00"
+  "LastUpdate_Ratings": "2023-07-29T11:00:14.2541166+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:00:42.8502477+00:00"
 }

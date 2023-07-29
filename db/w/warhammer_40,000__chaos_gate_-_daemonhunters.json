@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -638,7 +638,7 @@
   ],
   "EOS_Progressed": 3065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2929,9 +2929,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3223,8 +3223,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-28T13:05:27.4790259+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:04:12.4209647+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:04:06.6910561+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:59:17.998762+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:04:12.421046+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:59:10.7219684+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:04:06.6911373+00:00"
 }

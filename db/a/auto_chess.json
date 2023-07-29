@@ -3,12 +3,12 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 539,
-  "Ranking_Popularity": 158,
+  "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
     "PcReleaseDate": "2019-04-18T15:00:00+00:00",
@@ -3448,12 +3448,18 @@
       "Rating": 4.51,
       "NumberOfAwards": 6021,
       "NumberOfAwardsMax": 759
+    },
+    {
+      "Time": "2023-07-29T10:59:15.3437349+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6023,
+      "NumberOfAwardsMax": 760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6021,
-  "NumberOfAwardsMax": 759,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 6023,
+  "NumberOfAwardsMax": 760,
+  "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -3465,7 +3471,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 758
+      "Count": 760
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3533,8 +3539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-07-29T09:59:24.5432838+00:00",
+  "LastChanged": "2023-07-29T10:59:15.3437347+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:41.5193217+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:59:24.5432852+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:03:07.2997394+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:59:15.3437355+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:03:12.9738103+00:00"
 }

@@ -26,7 +26,7 @@
 | Adventure Bay’s Citizen | 24.00% | ~4 |
 | Everything Under Control | 18.00% | ~3 |
 | Don’t Miss Any | 18.00% | ~3 |
-| Mountain and Ice | 12.00% | ~2 |
+| Mountain and Ice | 18.00% | ~3 |
 | King of the Mountain | 6.00% | ~1 |
 | A Great Explorer | 6.00% | ~1 |
 | Nothing Can Stop You | 6.00% | ~1 |

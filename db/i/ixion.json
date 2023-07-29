@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3994,6 +3994,11 @@
       "Time": "2023-07-29T09:04:56.8466617+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T11:05:07.6842584+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4085,7 +4090,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_21",
@@ -4117,7 +4122,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_BASE_25",
@@ -4197,7 +4202,7 @@
       "Name": "Fully Recycled",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_34",
@@ -4301,7 +4306,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_BASE_49",
@@ -4309,7 +4314,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_5",
@@ -4381,7 +4386,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_6",
@@ -4460,13 +4465,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 0
     }
   ],
@@ -4474,8 +4479,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:05:27.5770302+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:05:07.6842577+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:59:04.2345251+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:05:27.5771108+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:58:59.6847439+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:05:07.6843386+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "ACH_08_TOURNAMENTWINNER",
       "SetID": "9dl0ei6",
       "Name": "Tournament Winner",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_09_HANNAH",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-29T10:05:29.9923275+00:00",
+  "LastChanged_Achievements": "2023-07-29T11:05:09.6887811+00:00",
   "LastUpdate_AppInfo": "2023-07-23T14:57:17.5342394+00:00",
-  "LastUpdate_Ratings": "2023-07-29T09:57:15.1443255+00:00",
-  "LastUpdate_Achievements": "2023-07-29T10:05:29.9923496+00:00"
+  "LastUpdate_Ratings": "2023-07-29T10:57:34.6747512+00:00",
+  "LastUpdate_Achievements": "2023-07-29T11:05:09.6888016+00:00"
 }

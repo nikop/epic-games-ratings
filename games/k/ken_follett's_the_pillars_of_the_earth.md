@@ -23,7 +23,7 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 17.00% | ~2,416 |
 | Jack was here! | 15.00% | ~2,132 |
 | Twist of Fate | 14.00% | ~1,989 |
-| Exterminator | 13.00% | ~1,847 |
+| Exterminator | 14.00% | ~1,989 |
 | Whodunnit | 13.00% | ~1,847 |
 | Good midwife | 11.00% | ~1,563 |
 | Friar Tuck | 11.00% | ~1,563 |
