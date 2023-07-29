@@ -1770,9 +1770,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 20305,
+  "EOS_Progressed": 20306,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6750,6 +6750,11 @@
       "Time": "2023-07-29T00:07:42.0069617+00:00",
       "NumProgressed": 20305,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-29T02:29:54.1799668+00:00",
+      "NumProgressed": 20306,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6809,7 +6814,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "GameOver",
@@ -6841,7 +6846,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "JuniorEstateAgent",
@@ -6929,7 +6934,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "YouDoItWrong",
@@ -6944,15 +6949,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20305,
+      "Progressed": 20306,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-25T20:00:38.5336394+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:59:08.2673012+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:29:54.1799664+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:29.2563062+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:51:59.8055141+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:59:08.2673525+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:22:46.2501291+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:29:54.1800167+00:00"
 }

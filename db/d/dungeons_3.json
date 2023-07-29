@@ -2404,9 +2404,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 25410,
+  "EOS_Progressed": 25411,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -12999,6 +12999,11 @@
       "Time": "2023-07-29T01:59:12.0567175+00:00",
       "NumProgressed": 25410,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-07-29T02:29:57.8870099+00:00",
+      "NumProgressed": 25411,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 60,
@@ -13050,7 +13055,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -13074,7 +13079,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -13122,7 +13127,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 12705
+      "UsersEstimate": 12706
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -13154,7 +13159,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -13178,7 +13183,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -13194,7 +13199,7 @@
       "Name": "Angel of Fire",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -13218,7 +13223,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 11180
+      "UsersEstimate": 11181
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -13226,7 +13231,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10418
+      "UsersEstimate": 10419
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -13242,7 +13247,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10418
+      "UsersEstimate": 10419
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -13314,7 +13319,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -13370,7 +13375,7 @@
       "Name": "Factory farming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 8131
+      "UsersEstimate": 8132
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -13386,7 +13391,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 8385
+      "UsersEstimate": 8386
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -13394,7 +13399,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -13410,7 +13415,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 17787
+      "UsersEstimate": 17788
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -13426,7 +13431,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -13489,15 +13494,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 25410,
+      "Progressed": 25411,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-27T21:01:30.811734+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:59:12.0567168+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:29:57.8870094+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:16.9972619+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:51:38.8151807+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:59:12.0568606+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:22:25.463591+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:29:57.887204+00:00"
 }

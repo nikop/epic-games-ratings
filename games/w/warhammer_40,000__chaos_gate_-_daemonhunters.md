@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 1.00% | ~31 |
 | Watch Where You Step... | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
-| Blood for the Blood God! | 0.80% | ~25 |
+| Blood for the Blood God! | 0.90% | ~28 |
 | Purging Spree | 0.80% | ~25 |
 | Bloodless | 0.80% | ~25 |
 | A Foul Creche | 0.60% | ~18 |

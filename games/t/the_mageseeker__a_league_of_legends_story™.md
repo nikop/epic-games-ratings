@@ -40,8 +40,8 @@ Rating: 4.81 (Ranked 77)
 | Friendly fire | 15.00% | ~371 |
 | True power | 15.00% | ~371 |
 | Meltridge | 15.00% | ~371 |
+| The Central Headquarters | 15.00% | ~371 |
 | My heart and sword always for Demacia | 14.00% | ~346 |
-| The Central Headquarters | 14.00% | ~346 |
 | Cloven Dell Headquarters | 14.00% | ~346 |
 | Embrace the darkness | 12.00% | ~297 |
 | Whispers in the Woods IV | 12.00% | ~297 |
@@ -60,7 +60,7 @@ Rating: 4.81 (Ranked 77)
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,474 (Ranked 160)  
-Completed: 5 (0.20%) (Ranked 172)  
+Completed: 5 (0.20%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

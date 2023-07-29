@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 76,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.93,
+  "Rating": 3.94,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -2692,6 +2692,12 @@
       "Rating": 3.93,
       "NumberOfAwards": 1801,
       "NumberOfAwardsMax": 384
+    },
+    {
+      "Time": "2023-07-29T02:23:26.7146267+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1801,
+      "NumberOfAwardsMax": 384
     }
   ],
   "ReviewsDisabled": true,
@@ -2748,9 +2754,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 70415,
+  "EOS_Progressed": 70416,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13178,6 +13184,11 @@
       "Time": "2023-07-29T01:57:23.7598751+00:00",
       "NumProgressed": 70415,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-29T02:28:11.537238+00:00",
+      "NumProgressed": 70416,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -13197,7 +13208,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20420
+      "UsersEstimate": 20421
     },
     {
       "ID": "ACH_0012",
@@ -13341,7 +13352,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 52107
+      "UsersEstimate": 52108
     },
     {
       "ID": "ACH_0211",
@@ -13357,7 +13368,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33095
+      "UsersEstimate": 33096
     },
     {
       "ID": "ACH_0300",
@@ -13421,7 +13432,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24645
+      "UsersEstimate": 24646
     },
     {
       "ID": "ACH_0431",
@@ -13453,7 +13464,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11266
+      "UsersEstimate": 11267
     },
     {
       "ID": "ACH_0452",
@@ -13484,16 +13495,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 70415,
+      "Progressed": 70416,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-28T19:01:54.9618207+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:57:23.7598745+00:00",
+  "LastChanged": "2023-07-29T02:23:26.7146263+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:28:11.5372375+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:57:55.2423638+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:52:39.1388484+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:57:23.7599884+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:23:26.7146271+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:28:11.5374205+00:00"
 }

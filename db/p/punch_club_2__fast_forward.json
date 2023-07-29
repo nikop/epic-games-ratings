@@ -3,7 +3,7 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -919,9 +919,9 @@
       "ID": "poisoned_fighter",
       "SetID": "69co12a",
       "Name": "Poisoned fighter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "police_promotion_1",
@@ -1086,8 +1086,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:57:53.9180237+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:28:41.0228704+00:00",
   "LastUpdate_AppInfo": "2023-07-22T02:57:20.2619183+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:49:06.8693408+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:57:53.9180868+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:19:50.4006878+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:28:41.022967+00:00"
 }

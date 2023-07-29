@@ -49,9 +49,9 @@
 | Underground dwellers | 30.00% | ~51 |
 | Mom got better | 29.00% | ~50 |
 | GYM professional | 29.00% | ~50 |
+| Poisoned fighter | 29.00% | ~50 |
 | The die is cast | 29.00% | ~50 |
 | Seashell hunter | 29.00% | ~50 |
-| Poisoned fighter | 28.00% | ~48 |
 | Gang wrangler | 27.00% | ~46 |
 | The last bell ring | 27.00% | ~46 |
 | Problems of cyborgs | 25.00% | ~43 |
@@ -72,7 +72,7 @@
 | The only right decision | 17.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 286)  
-Completed: 6 (3.51%) (Ranked 58)  
+Completed: 6 (3.51%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

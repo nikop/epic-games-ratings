@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 216,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 69,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 8.8,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -991,6 +991,11 @@
       "Time": "2023-07-29T01:57:05.1670591+00:00",
       "NumProgressed": 216,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-07-29T02:27:53.5809908+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 6,
@@ -1040,9 +1045,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
@@ -1050,13 +1055,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 216,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:57:05.1670583+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:27:53.5809902+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:48:15.5228179+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:57:05.16709+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:19:02.9265979+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:27:53.5810058+00:00"
 }

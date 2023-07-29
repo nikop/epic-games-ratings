@@ -89,9 +89,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_complete_30",
@@ -137,9 +137,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 56,
+      "Percentage": 69,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_minigames_10",
@@ -153,17 +153,17 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_skip_5",
@@ -183,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:53:33.3309126+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:24:23.5982005+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:47:44.4456918+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:53:33.3309291+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:18:38.1204954+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:24:23.5982144+00:00"
 }

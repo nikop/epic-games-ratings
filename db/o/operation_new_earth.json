@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2321,6 +2321,11 @@
       "Time": "2023-07-28T22:06:29.1685355+00:00",
       "NumProgressed": 674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T02:28:38.1435108+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2412,7 +2417,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_headquarters_15",
@@ -2428,7 +2433,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_headquarters_5",
@@ -2436,7 +2441,7 @@
       "Name": "Facility Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2484,7 +2489,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -2548,7 +2553,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -2564,7 +2569,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -2586,9 +2591,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2628,21 +2633,21 @@
       "Name": "Control the Skies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-29T01:57:51.223788+00:00",
+  "LastChanged_Achievements": "2023-07-29T02:28:38.1435102+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:18.9521225+00:00",
-  "LastUpdate_Ratings": "2023-07-29T01:53:12.7062075+00:00",
-  "LastUpdate_Achievements": "2023-07-29T01:57:51.2238352+00:00"
+  "LastUpdate_Ratings": "2023-07-29T02:24:02.9567673+00:00",
+  "LastUpdate_Achievements": "2023-07-29T02:28:38.1435508+00:00"
 }
