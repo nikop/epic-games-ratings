@@ -2,9 +2,9 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -79,6 +79,11 @@
       "Time": "2023-07-29T01:53:33.3309131+00:00",
       "NumProgressed": 16,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T07:00:25.5640314+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -89,15 +94,15 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 25,
+      "Percentage": 21,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -105,23 +110,23 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 75,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 44,
+      "Percentage": 37,
       "XP": 70,
       "UsersEstimate": 7
     },
@@ -129,7 +134,7 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -137,15 +142,15 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 69,
+      "Percentage": 74,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 56,
+      "Percentage": 47,
       "XP": 80,
       "UsersEstimate": 9
     },
@@ -153,15 +158,15 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 19,
+      "Percentage": 16,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -169,7 +174,7 @@
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 150,
       "UsersEstimate": 2
     }
@@ -178,13 +183,13 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-29T05:05:19.5309121+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:00:25.5640299+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:58:35.3534259+00:00",
-  "LastUpdate_Achievements": "2023-07-29T05:05:19.5309665+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:56:56.1545879+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:00:25.565961+00:00"
 }

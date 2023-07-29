@@ -43,7 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.50% | ~914 |
 | Bahamut's Army | 0.50% | ~914 |
 | Krux's Speed Run | 0.50% | ~914 |
-| Thieves of the Coven | 0.40% | ~731 |
+| Thieves of the Coven | 0.40% | ~732 |
 | Friends of the Forest | 0.40% | ~866 |
 | Low Initiative | 0.40% | ~866 |
 | Street War | 0.40% | ~866 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.40% | ~866 |
 | The Cursed Farmer | 0.40% | ~866 |
 | The Mad Wizard | 0.40% | ~866 |
-| Bazaar Companions | 0.40% | ~731 |
-| Luigi After Hours | 0.40% | ~731 |
-| Electric Mayhem | 0.40% | ~731 |
-| Animated Giff | 0.40% | ~731 |
+| Bazaar Companions | 0.40% | ~732 |
+| Luigi After Hours | 0.40% | ~732 |
+| Electric Mayhem | 0.40% | ~732 |
+| Animated Giff | 0.40% | ~732 |
 | Upholding the Law | 0.30% | ~650 |
 | Hither of the Feywild | 0.30% | ~549 |
 | The Prince of a Thousand Enemies | 0.30% | ~549 |
@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~650 |
 | Seeking Allies | 0.30% | ~650 |
 | Useless Allies | 0.30% | ~650 |
+| Mad Cow Disease | 0.30% | ~650 |
 | Exploring Port Nyanzaru | 0.30% | ~650 |
 | Running of the Saurs | 0.30% | ~650 |
 | The Contagious Curse | 0.30% | ~650 |
@@ -155,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~433 |
 | Hopelessly Lost | 0.20% | ~433 |
 | Enter the Sargauth | 0.20% | ~433 |
-| Mad Cow Disease | 0.20% | ~433 |
 | A Tale of Two Cities | 0.20% | ~433 |
 | The Dead Three | 0.20% | ~433 |
 | Flying Monkey Skulls of Doom | 0.20% | ~433 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,594 (Ranked 53)  
+Progressed: 216,605 (Ranked 53)  
 Completed: 2,134 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,134 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,594 | 2,134 |
+| 2023-07-29 | 216,605 | 2,134 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
 Sum: 30,788 (Ranked 38)  

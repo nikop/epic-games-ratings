@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12376,
+  "EOS_Progressed": 12377,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 1,
@@ -6123,6 +6123,11 @@
       "Time": "2023-07-29T06:05:07.1693681+00:00",
       "NumProgressed": 12376,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-29T07:02:31.9155176+00:00",
+      "NumProgressed": 12377,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -6134,7 +6139,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     },
     {
       "ID": "ACH_02",
@@ -6142,7 +6147,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9653
+      "UsersEstimate": 9654
     },
     {
       "ID": "ACH_03",
@@ -6150,7 +6155,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9034
+      "UsersEstimate": 9035
     },
     {
       "ID": "ACH_04",
@@ -6158,7 +6163,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8539
+      "UsersEstimate": 8540
     },
     {
       "ID": "ACH_05",
@@ -6166,7 +6171,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8292
+      "UsersEstimate": 8293
     },
     {
       "ID": "ACH_06",
@@ -6182,7 +6187,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7549
+      "UsersEstimate": 7550
     },
     {
       "ID": "ACH_08",
@@ -6214,7 +6219,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "ACH_12",
@@ -6222,7 +6227,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5569
+      "UsersEstimate": 5570
     },
     {
       "ID": "ACH_13",
@@ -6238,7 +6243,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ACH_15",
@@ -6406,14 +6411,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12376,
+      "Progressed": 12377,
       "Completed": 38
     }
   ],
@@ -6421,8 +6426,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:05:07.1693676+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:02:31.9155167+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:02:11.9666068+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:05:07.1694137+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:59:28.5995592+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:02:31.9155786+00:00"
 }

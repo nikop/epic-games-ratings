@@ -902,9 +902,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 8028,
+  "EOS_Progressed": 8029,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3892,6 +3892,11 @@
       "Time": "2023-07-29T05:07:34.9823908+00:00",
       "NumProgressed": 8028,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-29T07:04:53.0788669+00:00",
+      "NumProgressed": 8029,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3903,7 +3908,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "Chatterbox",
@@ -3951,7 +3956,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -3959,7 +3964,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -3967,7 +3972,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3999,7 +4004,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "LeoniasFall_2",
@@ -4015,7 +4020,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     },
     {
       "ID": "RookieWelcome",
@@ -4063,7 +4068,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4071,7 +4076,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4094,15 +4099,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8028,
+      "Progressed": 8029,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-26T09:00:02.0206211+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:07:39.3356262+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:04:53.0788662+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:01:51.1674492+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:07:39.3356532+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:59:11.9942077+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:04:53.0789029+00:00"
 }

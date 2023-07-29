@@ -7,11 +7,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 2.00% | ~263 |
-| Explorer | 1.00% | ~131 |
-| Settler | 1.00% | ~131 |
-| Play a Single Player Game | 1.00% | ~131 |
-| The Great Mage | 1.00% | ~131 |
-| Poetic Leader | 1.00% | ~131 |
+| Explorer | 1.00% | ~132 |
+| Settler | 1.00% | ~132 |
+| Play a Single Player Game | 1.00% | ~132 |
+| The Great Mage | 1.00% | ~132 |
+| Poetic Leader | 1.00% | ~132 |
 | Friendly Family | 0.90% | ~118 |
 | Able | 0.80% | ~105 |
 | Intrepid | 0.80% | ~105 |
@@ -203,6 +203,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
+| Hardcore | 0.10% | ~13 |
 | Cao'an | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
-| Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,149 (Ranked 116)  
+Progressed: 13,151 (Ranked 116)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,149 | 5 |
+| 2023-07-29 | 13,151 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 260)  
 Sum: 1,784 (Ranked 206)  

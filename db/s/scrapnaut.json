@@ -5,9 +5,9 @@
   "Ranking_Rating": 774,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 507,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -885,6 +885,11 @@
       "Time": "2023-07-28T00:02:30.0571313+00:00",
       "NumProgressed": 322,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T07:02:32.1401734+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -896,7 +901,7 @@
       "Name": "Digger",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -968,7 +973,7 @@
       "Name": "Master Of Management",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -984,7 +989,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_COOK",
@@ -992,7 +997,7 @@
       "Name": "Cook",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1016,7 +1021,7 @@
       "Name": "Forest Lord",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -1032,7 +1037,7 @@
       "Name": "My New Home",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_KILL_100",
@@ -1064,7 +1069,7 @@
       "Name": "Prepper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1072,7 +1077,7 @@
       "Name": "Fuel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -1104,7 +1109,7 @@
       "Name": "Smelter",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1112,7 +1117,7 @@
       "Name": "Survivor",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1120,7 +1125,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1136,14 +1141,14 @@
       "Name": "Teleport",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 1
     }
   ],
@@ -1151,8 +1156,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:05:07.7815702+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:02:32.1401723+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.9471506+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:01:08.0303107+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:05:07.7815919+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:58:40.6441367+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:02:32.140201+00:00"
 }

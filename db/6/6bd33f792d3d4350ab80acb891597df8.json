@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:07:43.0808459+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:04:55.8592784+00:00",
   "LastUpdate_AppInfo": "2023-07-25T11:57:10.4401913+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:59:09.0362296+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:07:43.0808635+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:57:16.8936022+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:04:55.8593012+00:00"
 }

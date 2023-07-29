@@ -22,7 +22,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 44.00% | ~2,154 |
 | Retribution | 40.00% | ~1,958 |
 | ...And Don’t Come Back! | 40.00% | ~1,958 |
-| Fit For A King | 38.00% | ~1,860 |
+| Fit For A King | 39.00% | ~1,909 |
 | Luminary Researcher | 33.00% | ~1,616 |
 | Heating Up | 29.00% | ~1,420 |
 | Winter Is Coming | 25.00% | ~1,224 |

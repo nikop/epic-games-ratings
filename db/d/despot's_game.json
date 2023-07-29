@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-07-28T13:07:14.8090819+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T07:02:05.4896036+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -408,7 +413,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "collect-discounted-items2",
@@ -416,15 +421,15 @@
       "Name": "Shopaholic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 171
     },
     {
       "ID": "different-items1",
@@ -456,7 +461,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "finished-quest-flight",
@@ -480,7 +485,7 @@
       "Name": "Feed a God",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "finished-quest-pit",
@@ -504,15 +509,15 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 179
     },
     {
       "ID": "finished-quest-secret",
@@ -560,7 +565,7 @@
       "Name": "Zombie Lover",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "unlock-chips",
@@ -584,7 +589,7 @@
       "Name": "Great Hero",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "win-first-biom",
@@ -592,7 +597,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "win-first-level",
@@ -655,7 +660,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
@@ -663,8 +668,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:03:40.0464303+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:02:05.4896029+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:01:23.8001024+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:03:40.0464679+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:58:52.4205226+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:02:05.4896331+00:00"
 }

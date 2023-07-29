@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 120.00% | ~12 |
-| Law and Order | 70.00% | ~7 |
-| Licence To Kill | 50.00% | ~5 |
-| Hammer Time | 40.00% | ~4 |
-| Escape From M.C. | 20.00% | ~2 |
-| Restore Honor | 20.00% | ~2 |
+| Welcome to Mega City | 117.00% | ~14 |
+| Law and Order | 75.00% | ~9 |
+| Licence To Kill | 58.00% | ~7 |
+| Hammer Time | 33.00% | ~4 |
+| Escape From M.C. | 17.00% | ~2 |
+| Restore Honor | 17.00% | ~2 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
@@ -31,11 +31,11 @@
 | Speedrunner | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 422)  
+Progressed: 12 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-26 | 5 | 0 |
 | 2023-07-28 | 8 | 0 |
-| 2023-07-29 | 10 | 0 |
+| 2023-07-29 | 12 | 0 |

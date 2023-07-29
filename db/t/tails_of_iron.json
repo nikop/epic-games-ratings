@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1810,
+  "EOS_Progressed": 1811,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2191,6 +2191,11 @@
       "Time": "2023-07-28T21:03:39.5102998+00:00",
       "NumProgressed": 1810,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-29T07:03:10.0975905+00:00",
+      "NumProgressed": 1811,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2202,7 +2207,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "Collect20Gold",
@@ -2210,7 +2215,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "Collect20Iron",
@@ -2266,7 +2271,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "CompleteElderFaction",
@@ -2282,7 +2287,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2338,7 +2343,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "GetRangedWeapon",
@@ -2346,7 +2351,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "GetTHWeapon",
@@ -2362,7 +2367,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Kill25Frogs",
@@ -2370,7 +2375,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "Kill25Mozi",
@@ -2410,7 +2415,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "RepairThroneRoom",
@@ -2426,7 +2431,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2441,22 +2446,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1810,
+      "Progressed": 1811,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 451,
-      "Completed": 451
+      "Progressed": 452,
+      "Completed": 452
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:05:21.2517809+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:03:10.0975898+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:00:59.0973764+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:05:21.2518107+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:58:33.2337136+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:03:10.0976293+00:00"
 }

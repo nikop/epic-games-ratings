@@ -6,23 +6,23 @@ Rating: 4.50 (Ranked 557)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start! | 85.00% | ~354 |
-| Vanquisher of Robots | 75.00% | ~312 |
+| Vanquisher of Robots | 75.00% | ~313 |
 | Party | 47.00% | ~196 |
-| Impossible Cube | 45.00% | ~187 |
-| Knowledge is Power | 44.00% | ~183 |
-| No Mercy | 42.00% | ~175 |
+| Impossible Cube | 45.00% | ~188 |
+| Knowledge is Power | 43.00% | ~179 |
 | Through the Darkness | 42.00% | ~175 |
+| No Mercy | 41.00% | ~171 |
 | The Return of a Rat | 41.00% | ~171 |
 | Fat of the Earth | 35.00% | ~146 |
 | Last Man Standing | 32.00% | ~133 |
-| Catch Jonathan_tostar | 27.00% | ~112 |
-| Great Hero | 27.00% | ~112 |
+| Catch Jonathan_tostar | 27.00% | ~113 |
+| Great Hero | 27.00% | ~113 |
 | Campaigning | 26.00% | ~108 |
 | He's Seen It All | 26.00% | ~108 |
 | Rookie | 26.00% | ~108 |
 | Assemble a Meganewbie | 24.00% | ~100 |
-| Frugal | 21.00% | ~87 |
-| Feed a God | 21.00% | ~87 |
+| Frugal | 21.00% | ~88 |
+| Feed a God | 21.00% | ~88 |
 | To the Moon and Back | 20.00% | ~83 |
 | Great Flight | 17.00% | ~71 |
 | Holy Vengeance | 16.00% | ~67 |
@@ -34,14 +34,14 @@ Rating: 4.50 (Ranked 557)
 | Wide Selection | 6.00% | ~25 |
 | Soldier | 6.00% | ~25 |
 | Android Power | 6.00% | ~25 |
-| Shopaholic | 3.00% | ~12 |
-| Zombie Lover | 3.00% | ~12 |
+| Shopaholic | 3.00% | ~13 |
+| Zombie Lover | 3.00% | ~13 |
 | Full House | 1.00% | ~4 |
 | Munchkin | 1.00% | ~4 |
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 229)  
+Progressed: 417 (Ranked 229)  
 Completed: 1 (0.24%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 1 (0.24%) (Ranked 166)
 | 2023-07-25 | 412 | 1 |
 | 2023-07-27 | 413 | 1 |
 | 2023-07-28 | 416 | 1 |
+| 2023-07-29 | 417 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

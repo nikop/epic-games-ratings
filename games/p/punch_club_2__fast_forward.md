@@ -30,12 +30,12 @@
 | Champion – starter pack | 54.00% | ~92 |
 | Employee of the year | 54.00% | ~92 |
 | It's good to be alive | 53.00% | ~91 |
+| Own four walls | 53.00% | ~91 |
 | Fight for life | 52.00% | ~89 |
 | Handyman | 52.00% | ~89 |
-| Own four walls | 52.00% | ~89 |
 | Your own way | 51.00% | ~87 |
+| Legal courier | 49.00% | ~84 |
 | Extreme neuropower! | 49.00% | ~84 |
-| Legal courier | 48.00% | ~82 |
 | Escaped from a big trouble | 43.00% | ~74 |
 | Now you are worthy | 42.00% | ~72 |
 | No blades in the gym | 41.00% | ~70 |
@@ -46,9 +46,9 @@
 | Get out of my apartment! | 32.00% | ~55 |
 | Underground dwellers | 32.00% | ~55 |
 | Deal with life | 30.00% | ~51 |
+| GYM professional | 30.00% | ~51 |
 | Champion – no way back | 30.00% | ~51 |
 | Mom got better | 29.00% | ~50 |
-| GYM professional | 29.00% | ~50 |
 | Poisoned fighter | 29.00% | ~50 |
 | The die is cast | 29.00% | ~50 |
 | Seashell hunter | 29.00% | ~50 |
@@ -57,16 +57,16 @@
 | Undercover robot | 26.00% | ~44 |
 | Problems of cyborgs | 25.00% | ~43 |
 | Anyone can resist | 25.00% | ~43 |
+| Careerist | 24.00% | ~41 |
 | Trap disarmed | 23.00% | ~39 |
-| Careerist | 23.00% | ~39 |
+| Absolute Champion! | 23.00% | ~39 |
 | Another world | 22.00% | ~38 |
+| The lonesome road | 22.00% | ~38 |
 | Keep nature safe | 22.00% | ~38 |
 | Key memories | 22.00% | ~38 |
 | Not little hacker | 22.00% | ~38 |
-| Absolute Champion! | 22.00% | ~38 |
-| The lonesome road | 21.00% | ~36 |
+| The heart of the Resistance | 22.00% | ~38 |
 | Family comes first | 21.00% | ~36 |
-| The heart of the Resistance | 21.00% | ~36 |
 | Silver’s past | 19.00% | ~32 |
 | Better cooking at home | 18.00% | ~31 |
 | The only right decision | 18.00% | ~31 |

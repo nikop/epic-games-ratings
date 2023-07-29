@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 49.00% | ~52 |
-| First Step | 48.00% | ~51 |
+| The 4 Pillars | 48.00% | ~52 |
+| First Step | 47.00% | ~51 |
 | Capitalism | 10.00% | ~11 |
 | Indebted | 9.00% | ~10 |
 | Health Care | 6.00% | ~6 |
@@ -29,8 +29,10 @@
 | Tear Down the Wall! | 0.90% | ~1 |
 | Vive le Résistance | 0.90% | ~1 |
 | No News is Good News | 0.90% | ~1 |
+| Snowman | 0.90% | ~1 |
 | Overpopulation | 0.90% | ~1 |
 | Human Resources | 0.90% | ~1 |
+| Reconquest | 0.90% | ~1 |
 | Fuel Tycoon | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |
 | Researcher | 0.90% | ~1 |
@@ -39,17 +41,15 @@
 | Counter-espionage | 0.00% | ~0 |
 | Crisis Committee | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
-| Snowman | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
-| Reconquest | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 308)  
+Progressed: 108 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 86 | 0 |
 | 2023-07-27 | 98 | 0 |
 | 2023-07-28 | 105 | 0 |
-| 2023-07-29 | 107 | 0 |
+| 2023-07-29 | 108 | 0 |

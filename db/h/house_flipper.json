@@ -1770,9 +1770,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 20309,
+  "EOS_Progressed": 20310,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6770,6 +6770,11 @@
       "Time": "2023-07-29T05:10:08.4834483+00:00",
       "NumProgressed": 20309,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-29T07:06:16.8327845+00:00",
+      "NumProgressed": 20310,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6821,7 +6826,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "FirstMoney",
@@ -6829,7 +6834,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19090
+      "UsersEstimate": 19091
     },
     {
       "ID": "GameOver",
@@ -6885,7 +6890,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "MrAndMrsJantart",
@@ -6909,7 +6914,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "RafaelErko",
@@ -6964,15 +6969,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20309,
+      "Progressed": 20310,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-25T20:00:38.5336394+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:09:28.7369782+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:06:16.8327833+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:16.0622663+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:02:20.33408+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:09:28.7370134+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:59:34.432663+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:06:16.8328267+00:00"
 }

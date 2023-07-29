@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -823,9 +823,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -903,9 +903,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:04:29.6278862+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:02:28.1547143+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-07-29T05:59:28.25238+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:04:29.6279138+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:57:29.5619521+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:02:28.1547511+00:00"
 }

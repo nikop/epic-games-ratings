@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~622,778 |
-| Escaped Asphodel | 80.00% | ~559,801 |
-| Arms Collector | 71.00% | ~496,823 |
+| Escaped Tartarus | 89.00% | ~622,779 |
+| Escaped Asphodel | 80.00% | ~559,802 |
+| Arms Collector | 71.00% | ~496,824 |
 | Friends in High Places | 68.00% | ~475,831 |
 | Escaped Elysium | 66.00% | ~461,836 |
-| Chthonic Colleagues | 63.00% | ~440,843 |
+| Chthonic Colleagues | 63.00% | ~440,844 |
 | Is There No Escape? | 52.00% | ~363,871 |
 | Death Dealer | 45.00% | ~314,888 |
-| Skelly Slayer | 42.00% | ~293,895 |
-| Well Stocked | 40.00% | ~279,900 |
-| Back to Work | 38.00% | ~265,905 |
+| Skelly Slayer | 42.00% | ~293,896 |
+| Well Stocked | 40.00% | ~279,901 |
+| Back to Work | 38.00% | ~265,906 |
 | Day-or-Night Trader | 37.00% | ~258,908 |
 | Blessed by the Gods | 37.00% | ~258,908 |
-| Urge to Sing | 36.00% | ~251,910 |
+| Urge to Sing | 36.00% | ~251,911 |
 | Blood Bound | 35.00% | ~244,913 |
-| Three-Headed Boy | 32.00% | ~223,920 |
-| River Denizens | 28.00% | ~195,930 |
-| Grown Close | 28.00% | ~195,930 |
+| Three-Headed Boy | 32.00% | ~223,921 |
+| River Denizens | 28.00% | ~195,931 |
+| Grown Close | 28.00% | ~195,931 |
 | Home Makeover | 27.00% | ~188,933 |
 | Had to Happen | 25.00% | ~174,938 |
 | The Family Secret | 25.00% | ~174,938 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,990 |
 | Friends Forever | 4.00% | ~27,990 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,751 (Ranked 21)  
+Progressed: 699,752 (Ranked 21)  
 Completed: 6,257 (0.89%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,17 +156,17 @@ Completed: 6,257 (0.89%) (Ranked 114)
 | 2023-07-26 | 699,545 | 6,253 |
 | 2023-07-27 | 699,631 | 6,253 |
 | 2023-07-28 | 699,725 | 6,256 |
-| 2023-07-29 | 699,751 | 6,257 |
+| 2023-07-29 | 699,752 | 6,257 |
 ## Awards
 Max (Character Customization): 3,195  (Ranked 90)  
-Sum: 7,735 (Ranked 100)  
+Sum: 7,736 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,195 |
 | This game has Great Boss Battles | 2,235 |
 | This game is Highly Recommended | 256 |
-| This game is Great for Beginners | 245 |
+| This game is Great for Beginners | 246 |
 | This game is Extremely Fun | 241 |
 | This game has Amazing Storytelling | 241 |
 | This game has Diverse Characters | 237 |
@@ -355,4 +355,4 @@ Diff (max vs sum): -10
 | 2023-07-25 | 4.92 | - | 3,192 | 7,727 |
 | 2023-07-27 | 4.92 | - | 3,194 | 7,732 |
 | 2023-07-28 | 4.92 | - | 3,195 | 7,733 |
-| 2023-07-29 | 4.92 | - | 3,195 | 7,735 |
+| 2023-07-29 | 4.92 | - | 3,195 | 7,736 |

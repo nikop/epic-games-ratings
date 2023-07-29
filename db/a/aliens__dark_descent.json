@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3257,6 +3257,11 @@
       "Time": "2023-07-28T21:02:47.2932461+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T07:02:20.7476054+00:00",
+      "NumProgressed": 3063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -3300,7 +3305,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3308,7 +3313,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3364,7 +3369,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3388,7 +3393,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3460,7 +3465,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3484,7 +3489,7 @@
       "Name": "Making a Stand",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3564,15 +3569,15 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2481
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3580,7 +3585,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3588,7 +3593,7 @@
       "Name": "People Person",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3596,7 +3601,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3620,14 +3625,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3063,
       "Completed": 1
     }
   ],
@@ -3635,8 +3640,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-28T19:01:02.8957088+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:04:19.5225469+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:02:20.7476047+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:02:07.7297133+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:04:19.5225883+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:59:24.8522163+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:02:20.7476619+00:00"
 }

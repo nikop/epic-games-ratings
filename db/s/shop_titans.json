@@ -5258,10 +5258,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 26999,
       "NumberOfAwardsMax": 4675
+    },
+    {
+      "Time": "2023-07-29T06:58:40.4572624+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27003,
+      "NumberOfAwardsMax": 4675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26999,
+  "NumberOfAwards": 27003,
   "NumberOfAwardsMax": 4675,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5287,7 +5293,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3659
+      "Count": 3663
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5314,9 +5320,9 @@
       "Count": 3717
     }
   ],
-  "EOS_Progressed": 133465,
+  "EOS_Progressed": 133470,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15434,6 +15440,11 @@
       "Time": "2023-07-29T06:05:43.7316181+00:00",
       "NumProgressed": 133465,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-07-29T07:03:26.9320714+00:00",
+      "NumProgressed": 133470,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 112,
@@ -16340,15 +16351,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133465,
+      "Progressed": 133470,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-07-28T20:59:27.2545206+00:00",
-  "LastChanged_Achievements": "2023-07-29T06:05:43.7316176+00:00",
+  "LastChanged": "2023-07-29T06:58:40.4572623+00:00",
+  "LastChanged_Achievements": "2023-07-29T07:03:26.9320707+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-07-29T06:01:07.3406452+00:00",
-  "LastUpdate_Achievements": "2023-07-29T06:05:43.731784+00:00"
+  "LastUpdate_Ratings": "2023-07-29T06:58:40.457263+00:00",
+  "LastUpdate_Achievements": "2023-07-29T07:03:26.9322886+00:00"
 }

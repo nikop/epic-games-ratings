@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 4.00% | ~642 |
-| Overcoming Difficulty | 4.00% | ~642 |
-| Fertile Meadows | 4.00% | ~642 |
-| Coral Forest | 4.00% | ~642 |
-| The Marshlands | 4.00% | ~642 |
-| The Scarlet Orchard | 4.00% | ~642 |
-| Taking Action | 4.00% | ~642 |
-| No Deaths | 4.00% | ~642 |
+| First Real Expedition | 4.00% | ~643 |
+| Overcoming Difficulty | 4.00% | ~643 |
+| Fertile Meadows | 4.00% | ~643 |
+| Coral Forest | 4.00% | ~643 |
+| The Marshlands | 4.00% | ~643 |
+| The Scarlet Orchard | 4.00% | ~643 |
+| Taking Action | 4.00% | ~643 |
+| No Deaths | 4.00% | ~643 |
 | Homesick | 3.00% | ~482 |
 | Bandit Camp | 3.00% | ~482 |
 | Barren Lands | 3.00% | ~482 |
@@ -43,9 +43,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 2.00% | ~321 |
 | Fishmen Ritual Site | 1.00% | ~161 |
 | Efficient Explorer | 0.90% | ~145 |
-| Prestigious Expedition | 0.80% | ~128 |
-| Blood Flower Farmer | 0.80% | ~128 |
-| Victory through Prosperity | 0.80% | ~128 |
+| Prestigious Expedition | 0.80% | ~129 |
+| Blood Flower Farmer | 0.80% | ~129 |
+| Victory through Prosperity | 0.80% | ~129 |
 | Feeding The People | 0.70% | ~112 |
 | Beaver Utopia | 0.50% | ~80 |
 | Human Utopia | 0.50% | ~80 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,062 (Ranked 110)  
+Progressed: 16,063 (Ranked 110)  
 Completed: 40 (0.25%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 40 (0.25%) (Ranked 164)
 | 2023-07-26 | 16,023 | 40 |
 | 2023-07-27 | 16,037 | 40 |
 | 2023-07-28 | 16,056 | 40 |
-| 2023-07-29 | 16,062 | 40 |
+| 2023-07-29 | 16,063 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,081 (Ranked 158)  
