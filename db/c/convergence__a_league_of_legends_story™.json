@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-07-29T16:04:36.7152527+00:00",
       "NumProgressed": 799,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-29T18:03:52.1630522+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1943,9 +1948,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "FairgroundsChests1",
@@ -2127,9 +2132,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 184
     },
     {
       "ID": "RewindParry",
@@ -2264,7 +2269,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 4
     }
   ],
@@ -2272,8 +2277,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:04:21.5555564+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:03:52.1630512+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:00:04.8952522+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:04:21.5556158+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:59:22.2510801+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:03:52.1631098+00:00"
 }

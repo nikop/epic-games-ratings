@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1549,6 +1549,11 @@
       "Time": "2023-07-29T16:03:13.570139+00:00",
       "NumProgressed": 349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T18:02:15.0965274+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1568,7 +1573,7 @@
       "Name": "A Student of History",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
@@ -1608,7 +1613,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -1616,7 +1621,7 @@
       "Name": "That\u0027s Not What Happened",
       "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "USE_UNDERMINE",
@@ -1655,7 +1660,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
@@ -1663,8 +1668,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:02:28.1493245+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:02:15.0965259+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:59:09.6188269+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:02:28.1493423+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:58:38.3197374+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:02:15.0965481+00:00"
 }

@@ -28,10 +28,10 @@
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
+| The Infinite Train Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | Hell of a Fight | 4.00% | ~2 |
-| The Infinite Train Conqueror | 2.00% | ~1 |
 | The Inactivated Frozen Conqueror | 2.00% | ~1 |
 | Death Bringer Conqueror | 2.00% | ~1 |
 | he Ultra Fortress Conqueror | 2.00% | ~1 |
@@ -42,6 +42,7 @@
 | Rapidfire | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
+| Bye Bye Gravity | 2.00% | ~1 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
 | Breaking the Limit | 0.00% | ~0 |
@@ -51,7 +52,6 @@
 | Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
-| Bye Bye Gravity | 0.00% | ~0 |
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8426,
+  "EOS_Progressed": 8429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4706,6 +4706,11 @@
       "Time": "2023-07-29T17:03:38.1536602+00:00",
       "NumProgressed": 8426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T18:03:17.0261227+00:00",
+      "NumProgressed": 8429,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -4789,7 +4794,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -4885,7 +4890,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -4916,14 +4921,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 8426,
+      "Progressed": 8429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:03:38.1536596+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:03:17.0261217+00:00",
   "LastUpdate_AppInfo": "2023-07-28T18:57:21.3840967+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:57:11.8980216+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:03:38.1537166+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:04.7113574+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:03:17.0261671+00:00"
 }

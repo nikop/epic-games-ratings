@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5200,
+  "EOS_Progressed": 5201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2550,6 +2550,11 @@
       "Time": "2023-07-29T16:03:12.6565551+00:00",
       "NumProgressed": 5200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T18:02:14.4712258+00:00",
+      "NumProgressed": 5201,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2567,17 +2572,17 @@
       "ID": "ach_all_ea_challenges",
       "SetID": "8cb3id7",
       "Name": "Champion",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_all_ea_trophies",
       "SetID": "8cb3id7",
       "Name": "Trophy Hoarder",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_all_trophies",
@@ -3168,15 +3173,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5200,
+      "Progressed": 5201,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:02:27.3518756+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:02:14.4712236+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.8070174+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:59:40.4544022+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:02:27.3519715+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:59:03.1422423+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:02:14.4713265+00:00"
 }

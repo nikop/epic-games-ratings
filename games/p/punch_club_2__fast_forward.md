@@ -17,22 +17,22 @@
 | Neurotrainer – power gainer! | 74.00% | ~130 |
 | Your own amateur gym | 73.00% | ~128 |
 | Run K, run! | 72.00% | ~127 |
-| Hello, world! | 66.00% | ~116 |
+| Hello, world! | 67.00% | ~118 |
+| No bullying more | 66.00% | ~116 |
 | Fighting is cool | 65.00% | ~114 |
-| No bullying more | 65.00% | ~114 |
-| Pal of your father? | 61.00% | ~107 |
+| Pal of your father? | 63.00% | ~111 |
 | Employee of the month | 61.00% | ~107 |
+| Law student | 59.00% | ~104 |
 | Spirit of the past | 59.00% | ~104 |
-| Law student | 57.00% | ~100 |
 | Intriguing candies | 56.00% | ~99 |
 | Workout professional | 55.00% | ~97 |
-| Little hacker | 54.00% | ~95 |
+| Little hacker | 55.00% | ~97 |
 | Employee of the year | 54.00% | ~95 |
 | Champion – starter pack | 53.00% | ~93 |
+| Fight for life | 52.00% | ~92 |
 | Handyman | 52.00% | ~92 |
 | It's good to be alive | 52.00% | ~92 |
 | Own four walls | 52.00% | ~92 |
-| Fight for life | 51.00% | ~90 |
 | Legal courier | 49.00% | ~86 |
 | Your own way | 49.00% | ~86 |
 | Extreme neuropower! | 48.00% | ~84 |
@@ -53,23 +53,23 @@
 | Mom got better | 29.00% | ~51 |
 | The die is cast | 29.00% | ~51 |
 | Gang wrangler | 28.00% | ~49 |
+| Undercover robot | 28.00% | ~49 |
 | Problems of cyborgs | 27.00% | ~48 |
 | The last bell ring | 27.00% | ~48 |
-| Undercover robot | 27.00% | ~48 |
 | Anyone can resist | 26.00% | ~46 |
+| Careerist | 25.00% | ~44 |
 | Trap disarmed | 24.00% | ~42 |
+| Another world | 24.00% | ~42 |
+| Keep nature safe | 24.00% | ~42 |
 | Absolute Champion! | 24.00% | ~42 |
-| Careerist | 24.00% | ~42 |
-| Another world | 23.00% | ~40 |
 | The lonesome road | 23.00% | ~40 |
-| Keep nature safe | 23.00% | ~40 |
+| Family comes first | 23.00% | ~40 |
 | Key memories | 23.00% | ~40 |
 | Not little hacker | 23.00% | ~40 |
 | The heart of the Resistance | 23.00% | ~40 |
-| Family comes first | 22.00% | ~39 |
 | Silver’s past | 20.00% | ~35 |
-| Better cooking at home | 19.00% | ~33 |
-| The only right decision | 19.00% | ~33 |
+| Better cooking at home | 20.00% | ~35 |
+| The only right decision | 20.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 176 (Ranked 287)  
 Completed: 6 (3.41%) (Ranked 59)  

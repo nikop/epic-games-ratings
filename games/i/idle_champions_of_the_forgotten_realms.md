@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,503 |
-| Maddening | 2.00% | ~4,335 |
-| Beast Intentions | 2.00% | ~4,335 |
+| A Brief Tour of the Realms | 3.00% | ~6,504 |
+| Maddening | 2.00% | ~4,336 |
+| Beast Intentions | 2.00% | ~4,336 |
 | The Silken Swamp | 1.00% | ~2,168 |
 | Supply Run | 1.00% | ~2,168 |
-| Rocky Reception | 1.00% | ~1,830 |
-| Rock and Roll | 0.90% | ~1,647 |
+| Rocky Reception | 1.00% | ~1,831 |
+| Rock and Roll | 0.90% | ~1,648 |
 | Vecna Lives! | 0.80% | ~1,464 |
 | Flight of the Kindori Pod | 0.80% | ~1,464 |
 | Tall Tales | 0.70% | ~1,281 |
@@ -86,6 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~650 |
 | The Crumbling Temple | 0.30% | ~650 |
 | Seeking Allies | 0.30% | ~650 |
+| Are Ya Chicken? | 0.30% | ~650 |
 | Useless Allies | 0.30% | ~650 |
 | Mad Cow Disease | 0.30% | ~650 |
 | Exploring Port Nyanzaru | 0.30% | ~650 |
@@ -108,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends and Foes | 0.20% | ~366 |
 | An Unexpected Geist | 0.20% | ~366 |
 | A Monarch Among Us | 0.20% | ~366 |
+| Sticky Fingers | 0.20% | ~366 |
 | The Spire of Iriolarthas | 0.20% | ~366 |
 | The Fall of Ythryn | 0.20% | ~366 |
 | Slack-jawed Lorna | 0.20% | ~366 |
@@ -156,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.20% | ~434 |
 | Flies on the Wall | 0.20% | ~434 |
 | Nimble Escape | 0.20% | ~434 |
-| Are Ya Chicken? | 0.20% | ~434 |
 | Fugitives | 0.20% | ~434 |
 | Premature Betrayal | 0.20% | ~434 |
 | Hopelessly Lost | 0.20% | ~434 |
@@ -196,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Back to Nature | 0.10% | ~183 |
 | A Dragon Against Us | 0.10% | ~183 |
 | A Familiar Behind Us | 0.10% | ~183 |
-| Sticky Fingers | 0.10% | ~183 |
 | Patron Party | 0.10% | ~183 |
 | Go Fourth | 0.10% | ~183 |
 | Don't Breathe the Marsh Gas | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,767 (Ranked 53)  
+Progressed: 216,786 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,767 | 2,136 |
+| 2023-07-29 | 216,786 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  

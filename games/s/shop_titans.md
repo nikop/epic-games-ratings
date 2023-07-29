@@ -14,6 +14,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.30% | ~400 |
 | One Easy Payment | 0.20% | ~267 |
 | Some Assembly Required | 0.20% | ~267 |
+| Bounty Hunters | 0.20% | ~267 |
 | Another Satisfied Customer | 0.20% | ~267 |
 | It's Free Real Estate | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
@@ -36,7 +37,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.10% | ~133 |
 | Thirst for Knowledge | 0.10% | ~133 |
 | Vanity, Verily | 0.10% | ~133 |
-| Bounty Hunters | 0.10% | ~133 |
 | Big Game Hunting | 0.10% | ~133 |
 | Bane of Legends | 0.10% | ~133 |
 | Fated Encounters | 0.10% | ~133 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,495 (Ranked 61)  
+Progressed: 133,496 (Ranked 61)  
 Completed: 124 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 124 (0.09%) (Ranked 196)
 | 2023-07-26 | 133,301 | 123 |
 | 2023-07-27 | 133,376 | 123 |
 | 2023-07-28 | 133,441 | 123 |
-| 2023-07-29 | 133,495 | 124 |
+| 2023-07-29 | 133,496 | 124 |
 ## Awards
 Max (Great for Beginners): 4,675  (Ranked 70)  
 Sum: 27,003 (Ranked 46)  

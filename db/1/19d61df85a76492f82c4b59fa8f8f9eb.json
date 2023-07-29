@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1016,6 +1016,11 @@
       "Time": "2023-07-29T17:05:32.3984236+00:00",
       "NumProgressed": 220,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-29T18:04:50.1891125+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 6,
@@ -1051,7 +1056,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1067,21 +1072,21 @@
       "Name": "Flying Machine",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:05:32.3984231+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:50.1891117+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:57:18.3586745+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:32.3984357+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:09.2553321+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:50.1891261+00:00"
 }

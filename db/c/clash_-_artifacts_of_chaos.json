@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -218,6 +218,11 @@
       "Time": "2023-07-27T17:05:06.88802+00:00",
       "NumProgressed": 94,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T18:04:26.160314+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -227,7 +232,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 25
     },
@@ -243,7 +248,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -275,9 +280,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement16",
@@ -291,7 +296,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 35,
       "UsersEstimate": 65
     },
@@ -323,7 +328,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -363,7 +368,7 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 8
     },
@@ -379,7 +384,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -387,7 +392,7 @@
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 35,
       "UsersEstimate": 9
     }
@@ -396,7 +401,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 1
     }
   ],
@@ -404,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:05:02.1599111+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:26.1603129+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.5631098+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:01:06.2894772+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:02.1599281+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:00:11.4645295+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:26.1603302+00:00"
 }

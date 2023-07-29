@@ -2,13 +2,13 @@
   "ID": "f698d5d792654ac99f47d67e93916bef",
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 664,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
     "PcReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 1747,
   "RatingHistory": [
     {
@@ -1369,6 +1369,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 616,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-07-29T17:57:53.5330381+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
@@ -1454,8 +1460,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-07-28T11:58:38.0799948+00:00",
+  "LastChanged": "2023-07-29T17:57:53.5330378+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.2969837+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:58:14.216323+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:27.2399278+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:53.5330386+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:46.0761211+00:00"
 }

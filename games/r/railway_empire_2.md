@@ -15,7 +15,7 @@ Rating: 4.45 (Ranked 625)
 | Brainstorm | 65.00% | ~1,112 |
 | Travel Company | 65.00% | ~1,112 |
 | Mind the Gap | 64.00% | ~1,094 |
-| All around the World | 61.00% | ~1,043 |
+| All around the World | 62.00% | ~1,060 |
 | Right through the middle | 57.00% | ~975 |
 | Facility Manager | 53.00% | ~906 |
 | Poor Devil | 53.00% | ~906 |
@@ -55,7 +55,7 @@ Rating: 4.45 (Ranked 625)
 | Call of Duty | 5.00% | ~86 |
 | Let off some steam | 4.00% | ~68 |
 | Engineer | 3.00% | ~51 |
-| Accurate | 2.00% | ~34 |
+| Accurate | 3.00% | ~51 |
 | European Union | 0.60% | ~10 |
 | Together we stand | 0.60% | ~10 |
 | United States | 0.50% | ~9 |

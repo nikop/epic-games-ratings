@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:04:27.8776459+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:03:57.2579634+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:57:13.715931+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:04:27.877663+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:05.5339441+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:03:57.2579812+00:00"
 }

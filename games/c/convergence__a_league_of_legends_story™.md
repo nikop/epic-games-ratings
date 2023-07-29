@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 393)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 22.00% | ~176 |
+| Time Heals All Wounds | 23.00% | ~184 |
 | The Mysterious Stranger | 19.00% | ~152 |
 | Rail Rat | 19.00% | ~152 |
 | Immaculate Aim | 17.00% | ~136 |
@@ -39,12 +39,12 @@ Rating: 4.60 (Ranked 393)
 | Sump Explorer | 9.00% | ~72 |
 | Theater Explorer | 9.00% | ~72 |
 | Ask Questions Later | 9.00% | ~72 |
+| Factorywood Explorer | 8.00% | ~64 |
 | Fairgrounds Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
 | Corin Goes Home | 7.00% | ~56 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
-| Factorywood Explorer | 7.00% | ~56 |
 | Sartorialist | 6.00% | ~48 |
 | Golem Hunter | 5.00% | ~40 |
 | Rungs Was Right | 5.00% | ~40 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 200)  
+Progressed: 800 (Ranked 200)  
 Completed: 4 (0.50%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 4 (0.50%) (Ranked 137)
 | 2023-07-26 | 789 | 4 |
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
-| 2023-07-29 | 799 | 4 |
+| 2023-07-29 | 800 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

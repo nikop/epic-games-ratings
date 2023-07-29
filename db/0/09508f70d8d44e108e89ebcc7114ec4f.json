@@ -2,10 +2,10 @@
   "ID": "09508f70d8d44e108e89ebcc7114ec4f",
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -976,6 +976,11 @@
       "Time": "2023-07-29T13:06:54.2214314+00:00",
       "NumProgressed": 332,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-29T18:04:47.3957465+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -1003,7 +1008,7 @@
       "Name": "Big House",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "brewery",
@@ -1017,9 +1022,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 176
     },
     {
       "ID": "circus",
@@ -1051,7 +1056,7 @@
       "Name": "Big fishing house",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "fun!",
@@ -1067,7 +1072,7 @@
       "Name": "Hope farm",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "marketplace",
@@ -1091,7 +1096,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "match_6",
@@ -1099,7 +1104,7 @@
       "Name": "Match 6",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "match_9",
@@ -1123,7 +1128,7 @@
       "Name": "Sawmill",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "seaweed_farm",
@@ -1131,7 +1136,7 @@
       "Name": "Seaweed farm",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "tavern",
@@ -1153,9 +1158,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 87
     },
     {
       "ID": "wheat_farm",
@@ -1163,29 +1168,29 @@
       "Name": "Wheat farm",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:05:28.9776554+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:47.3957452+00:00",
   "LastUpdate_AppInfo": "2023-07-27T17:57:01.3913137+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:57:35.1919946+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:28.9776767+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:23.8964378+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:47.3957694+00:00"
 }

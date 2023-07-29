@@ -7,9 +7,9 @@ Rating: 4.65 (Ranked 301)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~374 |
 | Read Between The Lines | 64.00% | ~362 |
-| High Profile | 58.00% | ~328 |
+| High Profile | 59.00% | ~334 |
 | Whispers In The Dark | 57.00% | ~323 |
-| Fond Memories | 54.00% | ~306 |
+| Fond Memories | 55.00% | ~311 |
 | History Check | 53.00% | ~300 |
 | A Method To His Madness | 53.00% | ~300 |
 | The New World | 49.00% | ~277 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "Achi_04",
       "SetID": "51a97k7",
       "Name": "The Infinite Train Conqueror",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_05",
@@ -658,9 +658,9 @@
       "ID": "Achi_48",
       "SetID": "51a97k7",
       "Name": "Bye Bye Gravity",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_49",
@@ -691,8 +691,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:04:51.9715451+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:17.4438241+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.9463353+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:00:45.7203621+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:04:51.9716033+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:59:55.1380611+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:17.443871+00:00"
 }

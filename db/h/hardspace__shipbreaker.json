@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1552,9 +1552,9 @@
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
       "SetID": "108h92c",
       "Name": "I ain\u2019t afraid of no Ghost",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1633,8 +1633,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:05:24.3216129+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:43.9602977+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.3748437+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:58:01.0833348+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:24.3216392+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:43.1781678+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:43.9603277+00:00"
 }

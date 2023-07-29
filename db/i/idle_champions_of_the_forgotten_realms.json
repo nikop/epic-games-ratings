@@ -5368,9 +5368,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216767,
+  "EOS_Progressed": 216786,
   "EOS_Completed": 2136,
-  "EOS_NewPlayers": 2227,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 76,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16128,6 +16128,11 @@
       "Time": "2023-07-29T17:03:46.4877874+00:00",
       "NumProgressed": 216767,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-07-29T18:03:24.5069223+00:00",
+      "NumProgressed": 216786,
+      "NumCompleted": 2136
     }
   ],
   "TotalAchievements": 512,
@@ -16139,7 +16144,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6503
+      "UsersEstimate": 6504
     },
     {
       "ID": "objective_completed_10",
@@ -16147,7 +16152,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "objective_completed_100",
@@ -16281,9 +16286,9 @@
       "ID": "objective_completed_1061",
       "SetID": "415jc5c",
       "Name": "Sticky Fingers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 366
     },
     {
       "ID": "objective_completed_1062",
@@ -16507,7 +16512,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "objective_completed_110",
@@ -18001,9 +18006,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 650
     },
     {
       "ID": "objective_completed_40",
@@ -20163,7 +20168,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "objective_completed_1376",
@@ -20179,7 +20184,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "objective_completed_1381",
@@ -20234,21 +20239,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183041,
+      "Progressed": 183060,
       "Completed": 3025
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216767,
+      "Progressed": 216786,
       "Completed": 2136
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-29T13:00:35.9680653+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:03:46.4877869+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:03:24.5069213+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:58:44.0843146+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:03:46.4905198+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:58:16.9851682+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:03:24.5095428+00:00"
 }

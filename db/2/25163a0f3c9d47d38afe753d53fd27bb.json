@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 11.04,
+  "EOS_Completed_Percentage": 11.02,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1896,6 +1896,11 @@
       "Time": "2023-07-29T15:06:14.8719002+00:00",
       "NumProgressed": 598,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-29T18:05:49.3452761+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 30,
@@ -1907,7 +1912,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "LEVEL_002",
@@ -1915,7 +1920,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "LEVEL_003",
@@ -1939,7 +1944,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "LEVEL_006",
@@ -1947,7 +1952,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "LEVEL_007",
@@ -1955,7 +1960,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_008",
@@ -1963,7 +1968,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "LEVEL_009",
@@ -1971,7 +1976,7 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_010",
@@ -1979,7 +1984,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_011",
@@ -2065,9 +2070,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 55,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_022",
@@ -2146,14 +2151,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:06:45.4928181+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:05:49.3452751+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:57:35.8491338+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:06:45.4928545+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:57:24.42376+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:05:49.3453108+00:00"
 }

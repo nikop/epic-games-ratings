@@ -54,12 +54,12 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Man vs. Machine | 0.40% | ~21 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
 | Rockstar | 0.40% | ~21 |
-| Champion | 0.30% | ~16 |
-| Trophy Hoarder | 0.30% | ~16 |
 | The Machinery: Goal Orientated | 0.30% | ~16 |
 | The Machinery: Energy Saver | 0.30% | ~16 |
 | Super Rich | 0.30% | ~16 |
 | Fully Packed | 0.30% | ~16 |
+| Champion | 0.20% | ~10 |
+| Trophy Hoarder | 0.20% | ~10 |
 | Level: Mayor Trouble | 0.20% | ~10 |
 | Happy Hour | 0.20% | ~10 |
 | Achiever | 0.20% | ~10 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,200 (Ranked 136)  
+Progressed: 5,201 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.02%) (Ranked 226)
 | 2023-07-26 | 5,190 | 1 |
 | 2023-07-27 | 5,192 | 1 |
 | 2023-07-28 | 5,196 | 1 |
-| 2023-07-29 | 5,200 | 1 |
+| 2023-07-29 | 5,201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -914,9 +914,9 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8033,
+  "EOS_Progressed": 8034,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3929,6 +3929,11 @@
       "Time": "2023-07-29T17:05:33.969942+00:00",
       "NumProgressed": 8033,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-29T18:04:51.5009089+00:00",
+      "NumProgressed": 8034,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3988,7 +3993,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4028,7 +4033,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "LeoniasFall",
@@ -4052,7 +4057,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "RookieWelcome",
@@ -4076,7 +4081,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "SkeletonKing",
@@ -4092,7 +4097,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "TheLegendBegins",
@@ -4100,7 +4105,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7471
+      "UsersEstimate": 7472
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4124,22 +4129,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8033,
+      "Progressed": 8034,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-29T16:59:48.8517381+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:05:33.9699414+00:00",
+  "LastChanged_Achievements": "2023-07-29T18:04:51.5009075+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-29T16:59:48.8517388+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:05:33.9699773+00:00"
+  "LastUpdate_Ratings": "2023-07-29T17:59:09.3961954+00:00",
+  "LastUpdate_Achievements": "2023-07-29T18:04:51.5009452+00:00"
 }

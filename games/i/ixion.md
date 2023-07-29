@@ -46,9 +46,9 @@ Rating: 4.55 (Ranked 482)
 | Mutual Loyalty | 1.00% | ~30 |
 | Tiqqun Contender | 1.00% | ~30 |
 | Catastrophe Avoided | 1.00% | ~30 |
+| You Had One Job... | 1.00% | ~30 |
 | Tiqqun Unchained | 1.00% | ~30 |
 | Scientifically Accurate | 1.00% | ~30 |
-| You Had One Job... | 0.90% | ~27 |
 | Better Him Than Me | 0.80% | ~24 |
 | Gregor Spinoza | 0.80% | ~24 |
 | Remember the Dead | 0.70% | ~21 |
