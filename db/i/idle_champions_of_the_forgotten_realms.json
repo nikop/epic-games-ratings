@@ -5300,10 +5300,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30781,
       "NumberOfAwardsMax": 5093
+    },
+    {
+      "Time": "2023-07-29T05:00:55.5517509+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30788,
+      "NumberOfAwardsMax": 5093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30781,
+  "NumberOfAwards": 30788,
   "NumberOfAwardsMax": 5093,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5311,7 +5317,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5029
+      "Count": 5036
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5350,9 +5356,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216570,
+  "EOS_Progressed": 216582,
   "EOS_Completed": 2134,
-  "EOS_NewPlayers": 2255,
+  "EOS_NewPlayers": 2252,
   "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16045,6 +16051,11 @@
       "Time": "2023-07-29T04:04:19.4479904+00:00",
       "NumProgressed": 216570,
       "NumCompleted": 2134
+    },
+    {
+      "Time": "2023-07-29T05:06:02.9733273+00:00",
+      "NumProgressed": 216582,
+      "NumCompleted": 2134
     }
   ],
   "TotalAchievements": 512,
@@ -16424,7 +16435,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "objective_completed_110",
@@ -17206,9 +17217,9 @@
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 650
     },
     {
       "ID": "objective_completed_155",
@@ -20080,7 +20091,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "objective_completed_1376",
@@ -20151,21 +20162,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 182844,
+      "Progressed": 182856,
       "Completed": 3024
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216570,
+      "Progressed": 216582,
       "Completed": 2134
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-29T02:58:41.3380327+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:04:19.4479898+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:57:45.7417285+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:59:22.2555947+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:04:19.4507029+00:00"
+  "LastChanged": "2023-07-29T05:00:55.5517507+00:00",
+  "LastChanged_Achievements": "2023-07-29T05:06:02.9733267+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:00:55.5517517+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:06:02.9756704+00:00"
 }

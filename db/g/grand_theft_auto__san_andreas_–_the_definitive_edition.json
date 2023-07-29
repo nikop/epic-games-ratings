@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -7885,9 +7885,9 @@
       "ID": "ACH24",
       "SetID": "4ck5mbe",
       "Name": "Not a Player",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH25",
@@ -7990,8 +7990,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-28T21:01:56.0954675+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:08:15.8922741+00:00",
+  "LastChanged_Achievements": "2023-07-29T05:10:11.0683524+00:00",
   "LastUpdate_AppInfo": "2023-07-22T04:58:09.2091888+00:00",
-  "LastUpdate_Ratings": "2023-07-29T04:02:11.4510137+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:08:15.8923393+00:00"
+  "LastUpdate_Ratings": "2023-07-29T05:03:10.4461454+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:10:11.0684056+00:00"
 }

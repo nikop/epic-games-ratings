@@ -6,36 +6,36 @@ Rating: 4.65 (Ranked 301)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 65.00% | ~367 |
-| Read Between The Lines | 64.00% | ~361 |
-| High Profile | 59.00% | ~333 |
-| Whispers In The Dark | 57.00% | ~321 |
+| Read Between The Lines | 64.00% | ~362 |
+| High Profile | 58.00% | ~328 |
+| Whispers In The Dark | 57.00% | ~322 |
 | Fond Memories | 54.00% | ~305 |
 | History Check | 53.00% | ~299 |
 | A Method To His Madness | 53.00% | ~299 |
-| The New World | 49.00% | ~276 |
+| The New World | 49.00% | ~277 |
 | Gaze Into The Abyss | 48.00% | ~271 |
 | Open Sesame | 48.00% | ~271 |
-| Lock, Stock, And Barrel | 47.00% | ~265 |
-| Sticky Fingers | 47.00% | ~265 |
-| Knives Out | 47.00% | ~265 |
-| Land, Ho! | 47.00% | ~265 |
-| Back In The Saddle | 46.00% | ~259 |
+| Lock, Stock, And Barrel | 47.00% | ~266 |
+| Sticky Fingers | 47.00% | ~266 |
+| Knives Out | 47.00% | ~266 |
+| Land, Ho! | 47.00% | ~266 |
+| Back In The Saddle | 46.00% | ~260 |
 | No Man Is An Island | 45.00% | ~254 |
 | At Wits' End | 45.00% | ~254 |
-| Up In Flames | 43.00% | ~243 |
 | Fhtagn! | 43.00% | ~243 |
 | Bookworm | 42.00% | ~237 |
+| Up In Flames | 42.00% | ~237 |
 | Going Once... | 39.00% | ~220 |
-| Let Me Be Frank | 38.00% | ~214 |
+| Let Me Be Frank | 38.00% | ~215 |
 | Brain Food | 36.00% | ~203 |
 | No Stone Unturned | 36.00% | ~203 |
 | Read It And Weep | 23.00% | ~130 |
-| Curiosity Killed The Cat | 21.00% | ~118 |
+| Curiosity Killed The Cat | 21.00% | ~119 |
 | Big Breakthrough | 14.00% | ~79 |
 | Reawakened | 5.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 215)  
-Completed: 25 (4.43%) (Ranked 50)  
+Progressed: 565 (Ranked 215)  
+Completed: 25 (4.42%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,6 +125,7 @@ Completed: 25 (4.43%) (Ranked 50)
 | 2023-07-26 | 558 | 25 |
 | 2023-07-27 | 563 | 25 |
 | 2023-07-28 | 564 | 25 |
+| 2023-07-29 | 565 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

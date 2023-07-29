@@ -7,22 +7,22 @@ Rating: 4.77 (Ranked 109)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,657 |
 | First Class Student | 11.00% | ~31,769 |
-| A Keen Sense of Spell | 10.00% | ~28,880 |
-| Troll with the Punches | 10.00% | ~28,880 |
-| That's a Keeper | 10.00% | ~28,880 |
-| Grappling with a Graphorn | 9.00% | ~25,992 |
-| The One Who Mastered Memories | 9.00% | ~25,992 |
-| The Hallowed Hero | 9.00% | ~25,992 |
-| The Defender of Dragons | 9.00% | ~25,992 |
-| Loom for Improvement | 9.00% | ~25,992 |
-| A Talent for Spending | 9.00% | ~25,992 |
-| Coasting Along | 9.00% | ~25,992 |
-| The Hero of Hogwarts | 8.00% | ~23,104 |
-| Challenge Accepted | 8.00% | ~23,104 |
-| Followed the Butterflies | 8.00% | ~23,104 |
-| Rising From the Ashes | 8.00% | ~23,104 |
-| A Sallow Grave | 7.00% | ~20,216 |
-| The Spell Master | 7.00% | ~20,216 |
+| A Keen Sense of Spell | 10.00% | ~28,881 |
+| Troll with the Punches | 10.00% | ~28,881 |
+| That's a Keeper | 10.00% | ~28,881 |
+| Grappling with a Graphorn | 9.00% | ~25,993 |
+| The One Who Mastered Memories | 9.00% | ~25,993 |
+| The Hallowed Hero | 9.00% | ~25,993 |
+| The Defender of Dragons | 9.00% | ~25,993 |
+| Loom for Improvement | 9.00% | ~25,993 |
+| A Talent for Spending | 9.00% | ~25,993 |
+| Coasting Along | 9.00% | ~25,993 |
+| The Hero of Hogwarts | 8.00% | ~23,105 |
+| Challenge Accepted | 8.00% | ~23,105 |
+| Followed the Butterflies | 8.00% | ~23,105 |
+| Rising From the Ashes | 8.00% | ~23,105 |
+| A Sallow Grave | 7.00% | ~20,217 |
+| The Spell Master | 7.00% | ~20,217 |
 | The Avenging Gazelle | 6.00% | ~17,328 |
 | Beast Friends | 6.00% | ~17,328 |
 | Flight the Good Flight | 6.00% | ~17,328 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,805 (Ranked 42)  
+Progressed: 288,808 (Ranked 42)  
 Completed: 436 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 436 (0.15%) (Ranked 181)
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
 | 2023-07-28 | 288,784 | 435 |
-| 2023-07-29 | 288,805 | 436 |
+| 2023-07-29 | 288,808 | 436 |
 ## Awards
 Max (Character Customization): 21,360  (Ranked 17)  
 Sum: 40,075 (Ranked 30)  

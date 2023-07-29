@@ -17,8 +17,8 @@
 | Horror Show | 20.00% | ~14 |
 | Night Bird | 16.00% | ~11 |
 | Demolition Ambition | 12.00% | ~8 |
+| Hindenburgerer | 9.00% | ~6 |
 | Punchy Wagon | 9.00% | ~6 |
-| Hindenburgerer | 7.00% | ~5 |
 | Kill All Humans! | 7.00% | ~5 |
 | Holy Terror | 6.00% | ~4 |
 | Midair Affair | 4.00% | ~3 |

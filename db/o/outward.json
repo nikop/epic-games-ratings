@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3173,
+  "EOS_Progressed": 3174,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2023-07-29T03:03:06.4989314+00:00",
       "NumProgressed": 3173,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T05:05:44.9098956+00:00",
+      "NumProgressed": 3174,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3662,7 +3667,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "CrowdPleaser",
@@ -3686,7 +3691,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3806,7 +3811,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3830,7 +3835,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3846,7 +3851,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3957,15 +3962,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3173,
+      "Progressed": 3174,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:03:38.0805703+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:57:30.3368046+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:59:04.7397777+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:03:38.0806486+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:05:44.909895+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:00:36.9123061+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:05:44.9099353+00:00"
 }

@@ -2406,7 +2406,7 @@
   ],
   "EOS_Progressed": 25415,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -13039,9 +13039,9 @@
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
       "SetID": "cda475f",
       "Name": "Twistram is devastated",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 14487
+      "UsersEstimate": 14741
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -13191,9 +13191,9 @@
       "ID": "ACH_D3_Campaign_Fire_1",
       "SetID": "cda475f",
       "Name": "Prepare the grave",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6354
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -13511,8 +13511,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-27T21:01:30.811734+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:08:16.5494121+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T04:57:16.9972619+00:00",
-  "LastUpdate_Ratings": "2023-07-29T04:00:49.8581316+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:08:16.5495468+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:10:11.5440293+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:59:06.5004839+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:02:10.4397926+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:10:11.5441224+00:00"
 }

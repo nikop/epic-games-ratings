@@ -4,8 +4,8 @@
   "ProductSlug": "fantasy-world-td-851287",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-17T22:00:00+00:00",
     "PcReleaseDate": "2023-05-17T22:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-07-29T04:59:48.4988307+00:00",
   "LastUpdate_AppInfo": "2023-07-22T13:57:10.3754256+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:58:06.9792448+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:06:11.2999149+00:00"
+  "LastUpdate_Ratings": "2023-07-29T04:59:48.498834+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:07:34.1744065+00:00"
 }

@@ -39,7 +39,7 @@ Number of Ratings: 28  (23.09.2022)
 | Supercrash! | 4.00% | ~16 |
 | Forgotten | 3.00% | ~12 |
 | Lucky vandal | 2.00% | ~8 |
-| BBQ | 0.50% | ~2 |
+| BBQ | 0.80% | ~3 |
 | Vandal | 0.50% | ~2 |
 | Mega-railroad | 0.50% | ~2 |
 | Juggler | 0.50% | ~2 |

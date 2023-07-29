@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.71,
+  "EOS_Completed_Percentage": 18.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2013,6 +2013,11 @@
       "Time": "2023-07-29T01:54:49.2160423+00:00",
       "NumProgressed": 417,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-07-29T05:06:11.9262129+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 22,
@@ -2024,7 +2029,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "LEVEL_002",
@@ -2040,7 +2045,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LEVEL_004",
@@ -2056,7 +2061,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_006",
@@ -2064,15 +2069,15 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_008",
@@ -2104,7 +2109,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_012",
@@ -2126,9 +2131,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "LEVEL_015",
@@ -2168,7 +2173,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_020",
@@ -2199,7 +2204,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 78
     }
   ],
@@ -2207,8 +2212,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:04:30.889263+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:57:41.3257252+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:59:16.2138198+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:04:30.8892933+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:06:11.9262121+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:00:49.2355008+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:06:11.9262354+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~21,187 |
-| Landlord | 31.00% | ~17,751 |
+| Lawbringer | 37.00% | ~21,188 |
+| Landlord | 31.00% | ~17,752 |
 | Bannerlord | 22.00% | ~12,598 |
 | Horde breaker | 22.00% | ~12,598 |
 | Lawmaker | 22.00% | ~12,598 |
 | Trained | 22.00% | ~12,598 |
 | The king is pleased | 17.00% | ~9,735 |
 | King Solomon | 16.00% | ~9,162 |
-| I can do it | 15.00% | ~8,589 |
+| I can do it | 15.00% | ~8,590 |
 | Apple of my eye | 14.00% | ~8,017 |
-| God of the Arena | 12.00% | ~6,871 |
+| God of the Arena | 12.00% | ~6,872 |
 | Against all odds | 11.00% | ~6,299 |
 | Swordbearer | 10.00% | ~5,726 |
 | Duelist | 9.00% | ~5,154 |
@@ -25,12 +25,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 9.00% | ~5,154 |
 | What have the Romans ever done for us? | 9.00% | ~5,154 |
 | Butterlord | 8.00% | ~4,581 |
-| Mastery | 7.00% | ~4,008 |
+| Mastery | 7.00% | ~4,009 |
 | Know your enemy | 6.00% | ~3,436 |
 | My way | 5.00% | ~2,863 |
-| Crowdfunded | 4.00% | ~2,290 |
-| Crush your enemies | 4.00% | ~2,290 |
-| Veni vidi vici | 4.00% | ~2,290 |
+| Crowdfunded | 4.00% | ~2,291 |
+| Crush your enemies | 4.00% | ~2,291 |
+| Veni vidi vici | 4.00% | ~2,291 |
 | Freedom! | 3.00% | ~1,718 |
 | Real Estate | 3.00% | ~1,718 |
 | Long live the Empire! | 2.00% | ~1,145 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,262 (Ranked 86)  
+Progressed: 57,265 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 57,020 | 0 |
 | 2023-07-27 | 57,125 | 0 |
 | 2023-07-28 | 57,251 | 0 |
-| 2023-07-29 | 57,262 | 0 |
+| 2023-07-29 | 57,265 | 0 |
 ## Awards
 Max (Character Customization): 6,864  (Ranked 48)  
 Sum: 13,906 (Ranked 67)  

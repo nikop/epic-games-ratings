@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,349 |
-| A Good Day To Die | 15.00% | ~4,762 |
+| Man 'O War | 20.00% | ~6,351 |
+| A Good Day To Die | 15.00% | ~4,763 |
 | Right Back Atcha | 6.00% | ~1,905 |
-| Killed by Death | 5.00% | ~1,587 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,587 |
+| Killed by Death | 5.00% | ~1,588 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,588 |
 | Kill 'Em All | 4.00% | ~1,270 |
 | Down Boy! | 2.00% | ~635 |
 | A Snowball's Chance in Hell | 2.00% | ~635 |
-| Enjoy The Silence | 1.00% | ~317 |
+| Enjoy The Silence | 1.00% | ~318 |
 | Backdoor Man | 0.90% | ~286 |
 | Thorn in My Herbicide | 0.80% | ~254 |
 | Sure Footed As A Goat | 0.80% | ~254 |
@@ -22,20 +22,20 @@ Rating: 4.28 (Ranked 793)
 | Death Becomes Her | 0.70% | ~222 |
 | The Sky Is Falling | 0.70% | ~222 |
 | Hail the Great Horned Metal God! | 0.70% | ~222 |
-| Start As You Mean To Go On | 0.60% | ~190 |
-| That'll Come In Handy... | 0.60% | ~190 |
+| Start As You Mean To Go On | 0.60% | ~191 |
+| That'll Come In Handy... | 0.60% | ~191 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~159 |
 | Four Legged Friend | 0.40% | ~127 |
 | Ice To See You | 0.40% | ~127 |
 | Smack My Imp Up | 0.40% | ~127 |
 | Vroll With It | 0.30% | ~95 |
 | Swift of Foot, Keen of Blade | 0.30% | ~95 |
-| Flame Retardant | 0.20% | ~63 |
+| Flame Retardant | 0.20% | ~64 |
 | Too Metal For Magic | 0.10% | ~32 |
 | Heart Of Steel | 0.10% | ~32 |
 | Death or Glory | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,746 (Ranked 98)  
+Progressed: 31,753 (Ranked 98)  
 Completed: 20 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 20 (0.06%) (Ranked 205)
 | 2023-07-26 | 31,463 | 20 |
 | 2023-07-27 | 31,592 | 20 |
 | 2023-07-28 | 31,719 | 20 |
-| 2023-07-29 | 31,746 | 20 |
+| 2023-07-29 | 31,753 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 309)  
 Sum: 125 (Ranked 400)  

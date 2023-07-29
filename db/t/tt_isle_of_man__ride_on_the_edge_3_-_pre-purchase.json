@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -855,8 +855,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:05:26.1259726+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:57:16.3686626+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:58:46.9099922+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:05:26.1260098+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:06:57.5625281+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:57:32.7648738+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:00:23.383354+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:06:57.5625566+00:00"
 }

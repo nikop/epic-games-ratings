@@ -1,16 +1,16 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 464)  
+Rating: 4.56 (Ranked 465)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,567 |
 | Tutti Eroi! | 54.00% | ~3,502 |
-| You Shall Not Pass | 53.00% | ~3,437 |
+| You Shall Not Pass | 53.00% | ~3,438 |
 | Avanti Savoia! | 47.00% | ~3,048 |
-| Mamma Mia! | 37.00% | ~2,399 |
+| Mamma Mia! | 37.00% | ~2,400 |
 | Conrad von Hotzensocks | 36.00% | ~2,335 |
 | Gabriele D'Annunzio | 33.00% | ~2,140 |
 | Silver Lining | 29.00% | ~1,881 |
@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 20.00% | ~1,297 |
 | The Italian Job | 20.00% | ~1,297 |
 | The Lion of the Isonzo | 18.00% | ~1,167 |
-| Ragazzi del '99 | 17.00% | ~1,102 |
+| Ragazzi del '99 | 17.00% | ~1,103 |
 | Dirty Dozen | 14.00% | ~908 |
 | Luigi Cadorna | 14.00% | ~908 |
 | Thus With A Kiss | 14.00% | ~908 |
@@ -31,8 +31,8 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 12.00% | ~778 |
 | Dante's Inferno | 11.00% | ~713 |
 | The Devil's Paintbrush | 11.00% | ~713 |
-| I Have the High Ground | 10.00% | ~648 |
-| Millenial | 10.00% | ~648 |
+| I Have the High Ground | 10.00% | ~649 |
+| Millenial | 10.00% | ~649 |
 | The Show Must Go On | 9.00% | ~584 |
 | Tosca | 9.00% | ~584 |
 | 12th Bottle of the Isonzo | 6.00% | ~389 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,485 (Ranked 133)  
+Progressed: 6,486 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 8 (0.12%) (Ranked 188)
 | 2023-07-26 | 6,459 | 8 |
 | 2023-07-27 | 6,470 | 8 |
 | 2023-07-28 | 6,484 | 8 |
-| 2023-07-29 | 6,485 | 8 |
+| 2023-07-29 | 6,486 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 259 (Ranked 348)  

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 49.00% | ~52 |
 | First Step | 48.00% | ~51 |
+| Capitalism | 10.00% | ~11 |
 | Indebted | 9.00% | ~10 |
-| Capitalism | 9.00% | ~10 |
 | Health Care | 6.00% | ~6 |
 | Good payer | 6.00% | ~6 |
 | Desert Rat | 6.00% | ~6 |

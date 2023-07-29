@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4714,
+  "EOS_Progressed": 4715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7236,6 +7236,11 @@
       "Time": "2023-07-29T04:08:13.1451748+00:00",
       "NumProgressed": 4714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T05:10:08.3496976+00:00",
+      "NumProgressed": 4715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7247,7 +7252,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "10",
@@ -7263,7 +7268,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "12",
@@ -7303,7 +7308,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "3",
@@ -7366,7 +7371,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4714,
+      "Progressed": 4715,
       "Completed": 0
     }
   ],
@@ -7374,8 +7379,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:08:13.1451742+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:57:39.111792+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:59:13.5703213+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:08:13.14523+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:10:08.349697+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:00:46.6576716+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:10:08.3497395+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~628 |
+| Cabin boy | 81.00% | ~629 |
 | My little farm | 65.00% | ~504 |
-| Every beginning is difficult | 62.00% | ~480 |
-| 3, 2, 1, mine | 56.00% | ~434 |
-| Gofer | 56.00% | ~434 |
-| Seafarer | 54.00% | ~418 |
+| Every beginning is difficult | 62.00% | ~481 |
+| 3, 2, 1, mine | 56.00% | ~435 |
+| Gofer | 56.00% | ~435 |
+| Seafarer | 54.00% | ~419 |
 | O Captain! My Captain! | 53.00% | ~411 |
-| Greed for gold | 43.00% | ~333 |
-| I'm out of here for a while | 42.00% | ~326 |
+| Greed for gold | 43.00% | ~334 |
 | Intangible | 41.00% | ~318 |
+| I'm out of here for a while | 41.00% | ~318 |
 | In a mint condition | 37.00% | ~287 |
-| Licence to Kill | 35.00% | ~271 |
+| Licence to Kill | 35.00% | ~272 |
 | Pirates! | 34.00% | ~264 |
 | Collectionitis | 28.00% | ~217 |
 | Megalomania | 28.00% | ~217 |
 | Christening | 26.00% | ~202 |
 | Groundskeeper | 25.00% | ~194 |
-| Wholesale | 22.00% | ~170 |
+| Wholesale | 22.00% | ~171 |
 | Walk the plank | 20.00% | ~155 |
 | Pearly gates | 17.00% | ~132 |
 | My precious! | 17.00% | ~132 |
@@ -35,7 +35,7 @@ Number of Ratings: 53  (23.09.2022)
 | Paths of Glory | 8.00% | ~62 |
 | Panel of experts | 8.00% | ~62 |
 | Maker | 7.00% | ~54 |
-| Conglomerate | 6.00% | ~46 |
+| Conglomerate | 6.00% | ~47 |
 | Buccaneer | 5.00% | ~39 |
 | Flying Dutchman | 5.00% | ~39 |
 | The Grande Bouffe | 5.00% | ~39 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 202)  
+Progressed: 776 (Ranked 202)  
 Completed: 1 (0.13%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.13%) (Ranked 186)
 | 2023-07-26 | 765 | 1 |
 | 2023-07-27 | 769 | 1 |
 | 2023-07-28 | 774 | 1 |
-| 2023-07-29 | 775 | 1 |
+| 2023-07-29 | 776 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

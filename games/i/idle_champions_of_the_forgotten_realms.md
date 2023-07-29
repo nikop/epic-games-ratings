@@ -7,11 +7,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,497 |
-| Beast Intentions | 2.00% | ~4,331 |
+| Beast Intentions | 2.00% | ~4,332 |
 | Maddening | 1.00% | ~2,166 |
 | The Silken Swamp | 1.00% | ~2,166 |
 | Supply Run | 1.00% | ~2,166 |
-| Rocky Reception | 1.00% | ~1,828 |
+| Rocky Reception | 1.00% | ~1,829 |
 | Rock and Roll | 0.90% | ~1,646 |
 | Vecna Lives! | 0.80% | ~1,463 |
 | Flight of the Kindori Pod | 0.80% | ~1,463 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~549 |
 | Welcome to the Rock | 0.30% | ~549 |
 | The Forbidden City | 0.30% | ~650 |
+| Captured! | 0.30% | ~650 |
 | Wisdom Check | 0.30% | ~650 |
 | Family Entanglements | 0.30% | ~650 |
 | Tower on the Lake | 0.30% | ~650 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.20% | ~433 |
 | Lobsterfolk Assault | 0.20% | ~433 |
 | Periodic Petrification | 0.20% | ~433 |
-| Captured! | 0.20% | ~433 |
 | Home Field Advantage | 0.20% | ~433 |
 | Force Grey Unleashed | 0.20% | ~433 |
 | Vajra's Guards | 0.20% | ~433 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,570 (Ranked 53)  
+Progressed: 216,582 (Ranked 53)  
 Completed: 2,134 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,15 +619,15 @@ Completed: 2,134 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,570 | 2,134 |
+| 2023-07-29 | 216,582 | 2,134 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 66)  
-Sum: 30,781 (Ranked 38)  
+Sum: 30,788 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,093 |
-| This game is Great for Beginners | 5,029 |
+| This game is Great for Beginners | 5,036 |
 | This game has Quickly Understood Controls | 4,687 |
 | This game is Relaxing | 4,578 |
 | This game has Amazing Characters | 4,041 |
@@ -820,4 +820,4 @@ Diff (max vs sum): 28
 | 2023-07-26 | 4.05 | - | 5,084 | 30,745 |
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
-| 2023-07-29 | 4.05 | - | 5,093 | 30,781 |
+| 2023-07-29 | 4.05 | - | 5,093 | 30,788 |

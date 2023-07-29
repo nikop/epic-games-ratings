@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6222,9 +6222,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794647,
+  "EOS_Progressed": 794649,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1100,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16997,6 +16997,11 @@
       "Time": "2023-07-29T04:04:55.8451726+00:00",
       "NumProgressed": 794647,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-29T05:06:32.5101276+00:00",
+      "NumProgressed": 794649,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17488,7 +17493,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158929
+      "UsersEstimate": 158930
     },
     {
       "ID": "RevenantOfLedechko",
@@ -17528,7 +17533,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158929
+      "UsersEstimate": 158930
     },
     {
       "ID": "SerialKiller",
@@ -17663,15 +17668,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794647,
+      "Progressed": 794649,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-28T20:59:22.6198935+00:00",
-  "LastChanged_Achievements": "2023-07-29T04:04:55.8451713+00:00",
-  "LastUpdate_AppInfo": "2023-07-22T03:58:03.4287749+00:00",
-  "LastUpdate_Ratings": "2023-07-29T03:59:40.0757895+00:00",
-  "LastUpdate_Achievements": "2023-07-29T04:04:55.8453339+00:00"
+  "LastChanged_Achievements": "2023-07-29T05:06:32.5101267+00:00",
+  "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
+  "LastUpdate_Ratings": "2023-07-29T05:01:12.3462503+00:00",
+  "LastUpdate_Achievements": "2023-07-29T05:06:32.5102544+00:00"
 }

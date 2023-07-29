@@ -59,17 +59,17 @@
 | Undercover robot | 25.00% | ~43 |
 | Trap disarmed | 23.00% | ~39 |
 | Careerist | 23.00% | ~39 |
+| Another world | 22.00% | ~38 |
 | Keep nature safe | 22.00% | ~38 |
 | Not little hacker | 22.00% | ~38 |
 | Absolute Champion! | 22.00% | ~38 |
 | The lonesome road | 21.00% | ~36 |
 | Key memories | 21.00% | ~36 |
 | The heart of the Resistance | 21.00% | ~36 |
-| Another world | 20.00% | ~34 |
 | Family comes first | 20.00% | ~34 |
 | Silver’s past | 18.00% | ~31 |
 | Better cooking at home | 18.00% | ~31 |
-| The only right decision | 17.00% | ~29 |
+| The only right decision | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 286)  
 Completed: 6 (3.51%) (Ranked 57)  

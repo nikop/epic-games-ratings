@@ -8,7 +8,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~17,790 |
 | The Evilest Evil | 58.00% | ~14,741 |
-| Twistram is devastated | 57.00% | ~14,487 |
+| Twistram is devastated | 58.00% | ~14,741 |
 | The Gehenna Stones | 50.00% | ~12,708 |
 | No one has to die today! | 46.00% | ~11,691 |
 | Death and destruction! | 45.00% | ~11,437 |
@@ -31,8 +31,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~6,608 |
 | Difficult family relationships | 25.00% | ~6,354 |
 | MASS-O-BOT | 25.00% | ~6,354 |
+| Prepare the grave | 25.00% | ~6,354 |
 | Angel of Fire | 25.00% | ~6,354 |
-| Prepare the grave | 24.00% | ~6,100 |
 | Where there is Light, there is Shadow | 24.00% | ~6,100 |
 | At the foot of Mount Destiny | 23.00% | ~5,845 |
 | The Force disturbed | 22.00% | ~5,591 |
