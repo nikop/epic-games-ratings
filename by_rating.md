@@ -21,7 +21,7 @@
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 276 | 239 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,173 | 77 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 162,689 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,823 | 35 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,836 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 489 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,417 | 123 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 712 | 162 |
@@ -89,7 +89,7 @@
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 507 |
 | 83 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 507 |
 | 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 323 | 227 |
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,469 | 122 |
+| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,470 | 122 |
 | 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 429 | 203 |
 | 90 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 291 |
 | 90 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 507 |
@@ -109,7 +109,7 @@
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 507 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,802 | 81 |
-| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,475 | 51 |
+| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,499 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,360 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 507 |
 | 109 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 507 |
@@ -249,7 +249,7 @@
 | 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,889 | 80 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,963 | 93 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,944 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 204,306 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 204,732 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 507 |
 | 241 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 183 |
@@ -340,7 +340,7 @@
 | 333 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 0 | 507 |
 | 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 507 |
 | 333 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.63 | 0 | 507 |
-| 333 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 598 | 178 |
+| 333 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 599 | 178 |
 | 333 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 507 |
 | 333 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 507 |
 | 333 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 276 |
@@ -631,7 +631,7 @@
 | 624 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 507 |
 | 624 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,969 | 34 |
 | 624 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 460 |
-| 624 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 866 | 150 |
+| 624 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 507 |
 | 624 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.45 | 0 | 507 |
 | 624 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 52 | 394 |
 | 624 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 507 |
@@ -647,7 +647,7 @@
 | 644 | [ELEX](games/e/elex.md) | 4.44 | 24 | 481 |
 | 644 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 507 |
 | 644 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 507 |
-| 644 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 507 |
+| 644 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 866 | 150 |
 | 644 | [SMITE](games/s/smite.md) | 4.44 | 4,090 | 79 |
 | 644 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 567 | 181 |
 | 644 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 507 |
@@ -924,7 +924,7 @@
 | 922 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 218 |
 | 922 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,675 | 70 |
 | 924 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 507 |
-| 924 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,882 | 94 |
+| 924 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,899 | 94 |
 | 924 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 507 |
 | 927 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 507 |
 | 927 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 507 |

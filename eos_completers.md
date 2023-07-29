@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 63.64% |
+| 1 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 58.33% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.43% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -23,7 +23,7 @@
 | 21 | [Remains](games/r/remains.md) | 10.87% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.37% |
+| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.76% |
@@ -42,7 +42,7 @@
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.43% |
 | 41 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.96% |
-| 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
+| 43 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 45 | [JARS](games/j/jars.md) | 4.84% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -63,7 +63,7 @@
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 62 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.17% |
-| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
+| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.12% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.92% |
@@ -83,8 +83,8 @@
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 82 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 82 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
-| 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.06% |
-| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.97% |
+| 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.96% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
 | 88 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.89% |
@@ -104,7 +104,7 @@
 | 102 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 103 | [Chorus](games/c/chorus.md) | 1.20% |
 | 104 | [A Musical Story](games/a/a_musical_story.md) | 1.19% |
-| 104 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.19% |
+| 105 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.18% |
 | 106 | [Trifox](games/t/trifox.md) | 1.11% |
 | 107 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.06% |
 | 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
