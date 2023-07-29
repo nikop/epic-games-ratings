@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1085,6 +1085,11 @@
       "Time": "2023-07-29T20:08:01.6274127+00:00",
       "NumProgressed": 490,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T22:07:34.6713047+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1136,7 +1141,7 @@
       "Name": "The Maggot",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Chapter3",
@@ -1200,7 +1205,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "Collectibles2",
@@ -1264,7 +1269,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Memories",
@@ -1272,7 +1277,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Murderer",
@@ -1304,7 +1309,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "RiverHobbit",
@@ -1344,7 +1349,7 @@
       "Name": "Made a Song",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "StealFood",
@@ -1383,14 +1388,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:07:15.3003735+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:07:34.6713039+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:58:30.7829757+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:07:15.3004092+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:58:45.6421923+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:07:34.6713503+00:00"
 }

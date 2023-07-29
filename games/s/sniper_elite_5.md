@@ -48,9 +48,9 @@ Rating: 4.41 (Ranked 675)
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
 | Souvenir hunter | 0.60% | ~20 |
+| Locomotion Commotion | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Eagle Eyed | 0.50% | ~17 |
-| Locomotion Commotion | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~17 |
 | Last Resort | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |

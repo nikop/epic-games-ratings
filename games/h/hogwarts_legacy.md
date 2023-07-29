@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,665 |
-| First Class Student | 11.00% | ~31,776 |
-| A Keen Sense of Spell | 10.00% | ~28,887 |
-| Troll with the Punches | 10.00% | ~28,887 |
-| That's a Keeper | 10.00% | ~28,887 |
+| First Class Student | 11.00% | ~31,777 |
+| A Keen Sense of Spell | 10.00% | ~28,888 |
+| Troll with the Punches | 10.00% | ~28,888 |
+| That's a Keeper | 10.00% | ~28,888 |
 | Grappling with a Graphorn | 9.00% | ~25,999 |
 | The One Who Mastered Memories | 9.00% | ~25,999 |
 | The Hallowed Hero | 9.00% | ~25,999 |
@@ -24,8 +24,8 @@ Rating: 4.77 (Ranked 108)
 | The Avenging Gazelle | 7.00% | ~20,221 |
 | A Sallow Grave | 7.00% | ~20,221 |
 | The Spell Master | 7.00% | ~20,221 |
-| Beast Friends | 6.00% | ~17,332 |
-| Flight the Good Flight | 6.00% | ~17,332 |
+| Beast Friends | 6.00% | ~17,333 |
+| Flight the Good Flight | 6.00% | ~17,333 |
 | The Seeker of Knowledge | 5.00% | ~14,444 |
 | The Root of the Problem | 5.00% | ~14,444 |
 | Third Time's a Charm | 5.00% | ~14,444 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 108)
 | Floo Around the World | 3.00% | ~8,666 |
 | The Intrepid Explorer | 3.00% | ~8,666 |
 | The Wise Owl | 3.00% | ~8,666 |
-| The Good Samaritan | 2.00% | ~5,777 |
-| Put Down Roots | 2.00% | ~5,777 |
-| The Auror's Apprentice | 2.00% | ~5,777 |
-| Rise to the Challenges | 2.00% | ~5,777 |
+| The Good Samaritan | 2.00% | ~5,778 |
+| Put Down Roots | 2.00% | ~5,778 |
+| The Auror's Apprentice | 2.00% | ~5,778 |
+| Rise to the Challenges | 2.00% | ~5,778 |
 | Savvy Spender | 1.00% | ~2,889 |
 | Demiguise Dread | 1.00% | ~2,889 |
 | Finishing Touches | 1.00% | ~2,889 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,873 (Ranked 42)  
+Progressed: 288,878 (Ranked 42)  
 Completed: 436 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 436 (0.15%) (Ranked 181)
 | 2023-07-26 | 288,633 | 434 |
 | 2023-07-27 | 288,702 | 435 |
 | 2023-07-28 | 288,784 | 435 |
-| 2023-07-29 | 288,873 | 436 |
+| 2023-07-29 | 288,878 | 436 |
 ## Awards
 Max (Character Customization): 21,390  (Ranked 17)  
 Sum: 40,134 (Ranked 30)  

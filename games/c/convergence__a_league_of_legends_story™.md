@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 392)
 | Immaculate Aim | 17.00% | ~136 |
 | The Steel Shadow | 16.00% | ~128 |
 | Make Up For Lost Time | 16.00% | ~128 |
+| Time Flies | 16.00% | ~128 |
 | No, Thanks! | 16.00% | ~128 |
 | Breaking Down Barriers | 16.00% | ~128 |
 | The Wicked Twins | 16.00% | ~128 |
@@ -20,7 +21,6 @@ Rating: 4.60 (Ranked 392)
 | The Betrayer | 15.00% | ~120 |
 | The Man Who Shattered Time | 15.00% | ~120 |
 | The Loose Cannon | 15.00% | ~120 |
-| Time Flies | 15.00% | ~120 |
 | The Harder They Fall | 15.00% | ~120 |
 | Honest Mistake | 15.00% | ~120 |
 | Fast Learner | 15.00% | ~120 |

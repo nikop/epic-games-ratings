@@ -4,8 +4,8 @@
   "ProductSlug": "dangerous-driving",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2019-04-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.5136524+00:00",
   "LastChanged": "2023-03-31T05:57:47.5136524+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:09.09257+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:58:09.5730059+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:02:05.628891+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:58:23.0277506+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:01:51.5383011+00:00"
 }

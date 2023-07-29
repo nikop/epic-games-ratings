@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -684,9 +684,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "9",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:03:38.9229888+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:03:48.3475949+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:04.410082+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:00:04.1693446+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:03:38.9230259+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:00:26.0476264+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:03:48.3476525+00:00"
 }

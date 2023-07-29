@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3467,9 +3467,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3636,8 +3636,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:03:16.2444691+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:03:24.5531292+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:58:18.7397402+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:03:16.2445356+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:58:32.3287439+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:03:24.5531989+00:00"
 }

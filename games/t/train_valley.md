@@ -19,8 +19,8 @@ Number of Ratings: 28  (23.09.2022)
 | It's no coincidence. | 30.00% | ~120 |
 | Non Stop! | 26.00% | ~104 |
 | Madness! | 26.00% | ~104 |
+| Philatelist | 25.00% | ~100 |
 | Let's roll! | 25.00% | ~100 |
-| Philatelist | 24.00% | ~96 |
 | Ouroboros | 24.00% | ~96 |
 | Foreman | 21.00% | ~84 |
 | Missed it! | 19.00% | ~76 |

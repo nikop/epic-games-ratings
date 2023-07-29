@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,505 |
+| A Brief Tour of the Realms | 3.00% | ~6,506 |
 | Maddening | 2.00% | ~4,337 |
 | Beast Intentions | 2.00% | ~4,337 |
 | The Silken Swamp | 1.00% | ~2,168 |
 | Supply Run | 1.00% | ~2,168 |
 | Rocky Reception | 1.00% | ~1,831 |
+| Vecna Lives! | 0.90% | ~1,648 |
 | Rock and Roll | 0.90% | ~1,648 |
-| Vecna Lives! | 0.80% | ~1,465 |
 | Flight of the Kindori Pod | 0.80% | ~1,465 |
 | Tall Tales | 0.70% | ~1,282 |
 | Vecna Loots! | 0.70% | ~1,282 |
@@ -60,7 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~732 |
 | Electric Mayhem | 0.40% | ~732 |
 | Animated Giff | 0.40% | ~732 |
-| Upholding the Law | 0.30% | ~650 |
+| Upholding the Law | 0.30% | ~651 |
 | Nightmare Rats! | 0.30% | ~549 |
 | Hither of the Feywild | 0.30% | ~549 |
 | The Prince of a Thousand Enemies | 0.30% | ~549 |
@@ -72,34 +72,34 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.30% | ~549 |
 | Who Lurks Below? | 0.30% | ~549 |
 | Xanathaaaaaaar! | 0.30% | ~549 |
-| Homecoming | 0.30% | ~650 |
-| The Lost Heir of Omu | 0.30% | ~650 |
+| Homecoming | 0.30% | ~651 |
+| The Lost Heir of Omu | 0.30% | ~651 |
 | No One Can Hear You Scream | 0.30% | ~549 |
 | Welcome to the Rock | 0.30% | ~549 |
-| The Forbidden City | 0.30% | ~650 |
-| Captured! | 0.30% | ~650 |
-| Wisdom Check | 0.30% | ~650 |
-| A Grand Puzzle | 0.30% | ~650 |
-| Tomb of the Nine Gods | 0.30% | ~650 |
-| The Immortal Warrior | 0.30% | ~650 |
-| Tower on the Lake | 0.30% | ~650 |
-| The Ring of Regeneration | 0.30% | ~650 |
-| The Crumbling Temple | 0.30% | ~650 |
-| Seeking Allies | 0.30% | ~650 |
-| Are Ya Chicken? | 0.30% | ~650 |
-| Useless Allies | 0.30% | ~650 |
-| Mad Cow Disease | 0.30% | ~650 |
-| Exploring Port Nyanzaru | 0.30% | ~650 |
-| Running of the Saurs | 0.30% | ~650 |
-| The Contagious Curse | 0.30% | ~650 |
-| Escort to Waterdeep | 0.30% | ~650 |
-| Waterdeep Detours | 0.30% | ~650 |
-| Lost in the Deep | 0.30% | ~650 |
-| Underdeep Cartography | 0.30% | ~650 |
-| Friendly Imps | 0.30% | ~650 |
-| Overdue Rendezvous | 0.30% | ~650 |
-| Pure Energy | 0.30% | ~650 |
-| The Templar's Camp | 0.30% | ~650 |
+| The Forbidden City | 0.30% | ~651 |
+| Captured! | 0.30% | ~651 |
+| Wisdom Check | 0.30% | ~651 |
+| A Grand Puzzle | 0.30% | ~651 |
+| Tomb of the Nine Gods | 0.30% | ~651 |
+| The Immortal Warrior | 0.30% | ~651 |
+| Tower on the Lake | 0.30% | ~651 |
+| The Ring of Regeneration | 0.30% | ~651 |
+| The Crumbling Temple | 0.30% | ~651 |
+| Seeking Allies | 0.30% | ~651 |
+| Are Ya Chicken? | 0.30% | ~651 |
+| Useless Allies | 0.30% | ~651 |
+| Mad Cow Disease | 0.30% | ~651 |
+| Exploring Port Nyanzaru | 0.30% | ~651 |
+| Running of the Saurs | 0.30% | ~651 |
+| The Contagious Curse | 0.30% | ~651 |
+| Escort to Waterdeep | 0.30% | ~651 |
+| Waterdeep Detours | 0.30% | ~651 |
+| Lost in the Deep | 0.30% | ~651 |
+| Underdeep Cartography | 0.30% | ~651 |
+| Friendly Imps | 0.30% | ~651 |
+| Overdue Rendezvous | 0.30% | ~651 |
+| Pure Energy | 0.30% | ~651 |
+| The Templar's Camp | 0.30% | ~651 |
 | Willing to Sacrifice | 0.30% | ~549 |
 | Devilishly Cold | 0.30% | ~549 |
 | Tiny Treaty | 0.30% | ~549 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,833 (Ranked 53)  
+Progressed: 216,850 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,833 | 2,136 |
+| 2023-07-29 | 216,850 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  

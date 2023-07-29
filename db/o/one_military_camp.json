@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -769,9 +769,9 @@
       "ID": "ACHIEVEMENT_ID_7",
       "SetID": "c504de6",
       "Name": "Researcher",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ID_8",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:04:22.3907989+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:04:34.0300497+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:59:35.3091939+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:04:22.3908481+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:59:52.4709091+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:04:34.0300897+00:00"
 }

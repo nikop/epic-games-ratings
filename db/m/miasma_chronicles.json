@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2703,9 +2703,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 629
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3008,8 +3008,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:04:34.6139964+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:04:47.2996948+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:59:00.9750787+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:04:34.6140579+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:59:16.6186184+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:04:47.2998159+00:00"
 }

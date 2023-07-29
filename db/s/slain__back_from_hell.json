@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -199,7 +199,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 31842,
+  "EOS_Progressed": 31849,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 0,
@@ -11074,6 +11074,11 @@
       "Time": "2023-07-29T21:04:50.0517947+00:00",
       "NumProgressed": 31842,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-29T22:05:02.7532206+00:00",
+      "NumProgressed": 31849,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11085,7 +11090,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4776
+      "UsersEstimate": 4777
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11093,7 +11098,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6370
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11259,9 +11264,9 @@
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
       "SetID": "443p4o4",
       "Name": "Hail the Great Horned Metal God!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -11316,7 +11321,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 31842,
+      "Progressed": 31849,
       "Completed": 20
     }
   ],
@@ -11324,8 +11329,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-29T20:01:27.1494891+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:04:50.0517936+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:05:02.7532196+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:00:52.0323976+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:04:50.0518834+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:01:18.9681126+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:05:02.7533095+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.43 (Ranked 655)
 | Snatched Out | 74.00% | ~2,270 |
 | Keep 'Em Coming | 73.00% | ~2,240 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,025 |
-| Call Me Snake | 61.00% | ~1,871 |
+| Call Me Snake | 62.00% | ~1,902 |
 | Something Lurks Under The Hills | 60.00% | ~1,841 |
 | This Was No Papercut | 59.00% | ~1,810 |
 | People Person | 55.00% | ~1,687 |
@@ -23,8 +23,8 @@ Rating: 4.43 (Ranked 655)
 | Where It All Begun | 37.00% | ~1,135 |
 | Recouped Investment | 37.00% | ~1,135 |
 | Omelette Du Fromage | 32.00% | ~982 |
+| Living Nightmare | 30.00% | ~920 |
 | The More The Merrier | 30.00% | ~920 |
-| Living Nightmare | 29.00% | ~890 |
 | The Darwin Era Was Here | 26.00% | ~798 |
 | Deep Into Insanity | 24.00% | ~736 |
 | The Passenger | 24.00% | ~736 |

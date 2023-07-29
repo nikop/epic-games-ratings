@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,814 |
-| That's a Grand Army | 8.00% | ~6,057 |
-| That is mine! | 8.00% | ~6,057 |
-| Victorious! | 8.00% | ~6,057 |
-| Brothers in Arms | 6.00% | ~4,543 |
-| That's a Grand Navy | 6.00% | ~4,543 |
-| Seriously?! | 6.00% | ~4,543 |
-| For the Glory | 5.00% | ~3,786 |
+| Until death do us apart | 9.00% | ~6,816 |
+| That's a Grand Army | 8.00% | ~6,059 |
+| That is mine! | 8.00% | ~6,059 |
+| Victorious! | 8.00% | ~6,059 |
+| Brothers in Arms | 6.00% | ~4,544 |
+| That's a Grand Navy | 6.00% | ~4,544 |
+| Seriously?! | 6.00% | ~4,544 |
+| For the Glory | 5.00% | ~3,787 |
 | Cold War | 4.00% | ~3,029 |
 | True Catholic | 4.00% | ~3,029 |
-| Defender of the Faith | 3.00% | ~2,271 |
-| It's all about luck | 3.00% | ~2,271 |
-| It's all about the money | 3.00% | ~2,271 |
-| Respected | 3.00% | ~2,271 |
-| The Princess is in this Castle | 3.00% | ~2,271 |
-| Truly Divine Ruler | 3.00% | ~2,271 |
-| Agressive Expander | 2.00% | ~1,514 |
-| Blockader | 2.00% | ~1,514 |
-| Combined Arms | 2.00% | ~1,514 |
-| Double the Love | 2.00% | ~1,514 |
-| Gentle Persuasion | 2.00% | ~1,514 |
-| My armies are invincible! | 2.00% | ~1,514 |
-| Queen of Conquest | 2.00% | ~1,514 |
-| Royal Authority | 2.00% | ~1,514 |
-| Total Control | 2.00% | ~1,514 |
+| Defender of the Faith | 3.00% | ~2,272 |
+| It's all about luck | 3.00% | ~2,272 |
+| It's all about the money | 3.00% | ~2,272 |
+| Respected | 3.00% | ~2,272 |
+| The Princess is in this Castle | 3.00% | ~2,272 |
+| Truly Divine Ruler | 3.00% | ~2,272 |
+| Agressive Expander | 2.00% | ~1,515 |
+| Blockader | 2.00% | ~1,515 |
+| Combined Arms | 2.00% | ~1,515 |
+| Double the Love | 2.00% | ~1,515 |
+| Gentle Persuasion | 2.00% | ~1,515 |
+| My armies are invincible! | 2.00% | ~1,515 |
+| Queen of Conquest | 2.00% | ~1,515 |
+| Royal Authority | 2.00% | ~1,515 |
+| Total Control | 2.00% | ~1,515 |
 | All That's Thine Shall Be Mine | 1.00% | ~757 |
 | Azur semé de lis or | 1.00% | ~757 |
 | Bright Spark | 1.00% | ~757 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~757 |
 | The Five Colonies | 1.00% | ~757 |
 | This navy can take it all | 1.00% | ~757 |
-| Down Under | 0.90% | ~681 |
-| Isn't this the way to India? | 0.90% | ~681 |
-| Market Control | 0.90% | ~681 |
-| Trustworthy | 0.90% | ~681 |
+| Down Under | 0.90% | ~682 |
+| Isn't this the way to India? | 0.90% | ~682 |
+| Market Control | 0.90% | ~682 |
+| Trustworthy | 0.90% | ~682 |
 | Electable! | 0.70% | ~530 |
 | Populists in Government | 0.70% | ~530 |
 | All belongs to Mother Russia | 0.60% | ~454 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~303 |
 | Tear Down This Wall | 0.40% | ~303 |
 | The Continuation of Diplomacy | 0.40% | ~303 |
-| Traditional Player | 0.40% | ~303 |
 | Wonderful | 0.40% | ~303 |
 | A Decent Reserve | 0.30% | ~227 |
 | A Pile of Gold | 0.30% | ~227 |
@@ -81,6 +80,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~227 |
 | The Chrysanthemum Throne | 0.30% | ~227 |
 | Three Trivial Tributary Tribes | 0.30% | ~227 |
+| Traditional Player | 0.30% | ~227 |
 | Vasa or Wettin? | 0.30% | ~227 |
 | World Discoverer | 0.30% | ~227 |
 | A Protected Market | 0.20% | ~151 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,713 (Ranked 76)  
+Progressed: 75,737 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,10 +461,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 74,531 | 0 |
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
-| 2023-07-29 | 75,713 | 0 |
+| 2023-07-29 | 75,737 | 0 |
 ## Awards
 Max (Educational): 5,593  (Ranked 61)  
-Sum: 46,131 (Ranked 26)  
+Sum: 46,138 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -474,8 +474,8 @@ Diff (max vs sum): 35
 | This game is Extremely Fun | 5,302 |
 | This game has Diverse Characters | 5,266 |
 | This game is Relaxing | 5,176 |
-| This game has Competitive Players | 5,028 |
-| This game has Amazing Storytelling | 4,732 |
+| This game has Competitive Players | 5,033 |
+| This game has Amazing Storytelling | 4,734 |
 | This game has Amazing Characters | 4,374 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -674,4 +674,4 @@ Diff (max vs sum): 35
 | 2023-07-26 | 4.69 | - | 5,587 | 46,042 |
 | 2023-07-27 | 4.69 | - | 5,587 | 46,075 |
 | 2023-07-28 | 4.69 | - | 5,593 | 46,113 |
-| 2023-07-29 | 4.69 | - | 5,593 | 46,131 |
+| 2023-07-29 | 4.69 | - | 5,593 | 46,138 |

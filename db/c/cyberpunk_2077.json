@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -9611,7 +9611,7 @@
       "Count": 5440
     }
   ],
-  "EOS_Progressed": 868278,
+  "EOS_Progressed": 868280,
   "EOS_Completed": 1915,
   "EOS_NewPlayers": 1186,
   "EOS_NewCompleters": 21,
@@ -20541,6 +20541,11 @@
       "Time": "2023-07-29T21:04:16.909934+00:00",
       "NumProgressed": 868278,
       "NumCompleted": 1915
+    },
+    {
+      "Time": "2023-07-29T22:04:28.1597175+00:00",
+      "NumProgressed": 868280,
+      "NumCompleted": 1915
     }
   ],
   "TotalAchievements": 44,
@@ -20568,7 +20573,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138924
+      "UsersEstimate": 138925
     },
     {
       "ID": "Cyberjunkie",
@@ -20584,7 +20589,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338628
+      "UsersEstimate": 338629
     },
     {
       "ID": "FollowingTheRiver",
@@ -20672,7 +20677,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191021
+      "UsersEstimate": 191022
     },
     {
       "ID": "MaxPain",
@@ -20768,7 +20773,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590429
+      "UsersEstimate": 590430
     },
     {
       "ID": "TheHermit",
@@ -20784,7 +20789,7 @@
       "Name": "The High Priestess",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182338
+      "UsersEstimate": 182339
     },
     {
       "ID": "TheLovers",
@@ -20800,7 +20805,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 60779
+      "UsersEstimate": 60780
     },
     {
       "ID": "TheSun",
@@ -20816,7 +20821,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234435
+      "UsersEstimate": 234436
     },
     {
       "ID": "TheWorld",
@@ -20896,22 +20901,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 182338
+      "UsersEstimate": 182339
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868278,
+      "Progressed": 868280,
       "Completed": 1915
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-29T14:58:27.5652152+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:04:16.9099334+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:04:28.1597166+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:58:39.1630503+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:04:16.910025+00:00"
+  "LastUpdate_Ratings": "2023-07-29T21:58:52.0846019+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:04:28.1599013+00:00"
 }

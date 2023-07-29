@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement12",
@@ -328,9 +328,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement21",
@@ -409,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:05:01.0796521+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:05:14.4151792+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.5631098+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:01:11.1512499+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:05:01.0796701+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:01:37.7407265+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:05:14.4151973+00:00"
 }

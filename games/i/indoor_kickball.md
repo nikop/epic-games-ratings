@@ -12,7 +12,7 @@
 | Butter Fingers | 71.00% | ~57 |
 | Have a good trip! | 70.00% | ~56 |
 | Kickball Unlocked | 69.00% | ~55 |
-| Stay Hydrated | 65.00% | ~52 |
+| Stay Hydrated | 66.00% | ~53 |
 | First Win | 64.00% | ~51 |
 | True Story! | 44.00% | ~35 |
 | Bedroom Secret Spot | 38.00% | ~30 |

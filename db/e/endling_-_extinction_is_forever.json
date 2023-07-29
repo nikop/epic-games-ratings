@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -551,6 +551,11 @@
       "Time": "2023-07-29T13:05:35.8671413+00:00",
       "NumProgressed": 469,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T22:04:02.1519569+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -602,7 +607,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TROP006",
@@ -722,15 +727,15 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TROP021",
       "SetID": "9n0dl35",
       "Name": "Tasty",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "TROP022",
@@ -738,7 +743,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TROP023",
@@ -785,7 +790,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 3
     }
   ],
@@ -793,8 +798,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-29T21:03:51.3182809+00:00",
+  "LastChanged_Achievements": "2023-07-29T22:04:02.151956+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:45.0965644+00:00",
-  "LastUpdate_Ratings": "2023-07-29T20:59:43.5585052+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:03:51.3183055+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:00:00.919298+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:04:02.1519965+00:00"
 }

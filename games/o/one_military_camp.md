@@ -27,6 +27,7 @@
 | Supersoldier | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | Human Resources | 2.00% | ~2 |
+| Researcher | 2.00% | ~2 |
 | Tear Down the Wall! | 0.90% | ~1 |
 | Vive le Résistance | 0.90% | ~1 |
 | No News is Good News | 0.90% | ~1 |
@@ -35,7 +36,6 @@
 | Reconquest | 0.90% | ~1 |
 | Fuel Tycoon | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |
-| Researcher | 0.90% | ~1 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |

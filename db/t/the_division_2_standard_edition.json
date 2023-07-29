@@ -3,12 +3,12 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 588,
-  "Ranking_Popularity": 44,
+  "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8160,18 +8160,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 25059,
       "NumberOfAwardsMax": 7652
+    },
+    {
+      "Time": "2023-07-29T22:01:46.6823149+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 25073,
+      "NumberOfAwardsMax": 7662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25059,
-  "NumberOfAwardsMax": 7652,
+  "NumberOfAwards": 25073,
+  "NumberOfAwardsMax": 7662,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7652
+      "Count": 7662
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8207,7 +8213,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1308
+      "Count": 1312
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8251,8 +8257,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-07-29T18:00:18.517707+00:00",
+  "LastChanged": "2023-07-29T22:01:46.6823148+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.1764568+00:00",
-  "LastUpdate_Ratings": "2023-07-29T21:01:20.856222+00:00",
-  "LastUpdate_Achievements": "2023-07-29T21:05:37.1985824+00:00"
+  "LastUpdate_Ratings": "2023-07-29T22:01:46.6823155+00:00",
+  "LastUpdate_Achievements": "2023-07-29T22:05:51.521664+00:00"
 }
