@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 108,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6861,
+  "EOS_Progressed": 6863,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-07-29T17:04:35.6254704+00:00",
       "NumProgressed": 6861,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-29T19:04:14.1868347+00:00",
+      "NumProgressed": 6863,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5148,7 +5153,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5204,7 +5209,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "LIBERATOR",
@@ -5220,7 +5225,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "SHREDDER",
@@ -5267,7 +5272,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6861,
+      "Progressed": 6863,
       "Completed": 30
     }
   ],
@@ -5275,8 +5280,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:03.8502196+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:04:14.1868341+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:05.2541478+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:03.8502666+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:31.1729133+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:14.1868842+00:00"
 }

@@ -23,23 +23,23 @@
 | The Abyss Conqueror | 8.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
+| The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
 | The Infinite Train Conqueror | 4.00% | ~2 |
-| The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
+| The Inactivated Frozen Conqueror | 4.00% | ~2 |
+| Rapidfire | 4.00% | ~2 |
 | Hell of a Fight | 4.00% | ~2 |
-| The Inactivated Frozen Conqueror | 2.00% | ~1 |
 | Death Bringer Conqueror | 2.00% | ~1 |
 | he Ultra Fortress Conqueror | 2.00% | ~1 |
 | Break Through the Forbidden | 2.00% | ~1 |
 | Space Ranger: Prologue | 2.00% | ~1 |
 | The Truth? | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
-| Rapidfire | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
 | Bye Bye Gravity | 2.00% | ~1 |

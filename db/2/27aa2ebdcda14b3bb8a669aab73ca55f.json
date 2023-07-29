@@ -2,13 +2,13 @@
   "ID": "27aa2ebdcda14b3bb8a669aab73ca55f",
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -190,6 +190,6 @@
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
   "LastChanged": "2023-07-29T17:00:26.2599453+00:00",
   "LastUpdate_AppInfo": "2023-07-27T17:57:01.4045039+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:40.1437135+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:28.2935095+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:19.4238538+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:56.4279346+00:00"
 }

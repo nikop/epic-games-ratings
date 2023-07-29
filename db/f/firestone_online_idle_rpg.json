@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 893,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Rating": 894,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5037,9 +5037,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 225
     },
     {
       "ID": "templeofeternals",
@@ -5198,8 +5198,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:39.1887372+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:44.4179846+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:11.7857544+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:39.1888435+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:38.8544833+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:44.418111+00:00"
 }

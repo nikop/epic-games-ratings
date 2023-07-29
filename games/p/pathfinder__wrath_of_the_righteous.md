@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,239 |
+| Devoured by Darkness | 21.00% | ~2,240 |
 | Burning City | 15.00% | ~1,600 |
 | A Spark | 15.00% | ~1,600 |
 | Mythic Choices | 12.00% | ~1,280 |
 | Defender's Heart | 12.00% | ~1,280 |
 | Banner over the Citadel | 11.00% | ~1,173 |
-| Queen's Gratitude | 10.00% | ~1,066 |
-| Fifth Crusade | 7.00% | ~746 |
+| Queen's Gratitude | 10.00% | ~1,067 |
+| Fifth Crusade | 7.00% | ~747 |
 | Embrace of the Abyss | 5.00% | ~533 |
 | Path of the Angel | 5.00% | ~533 |
 | Great Upstart | 5.00% | ~533 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 3.00% | ~320 |
 | A Flame | 3.00% | ~320 |
 | Hey, I Know You! | 3.00% | ~320 |
-| The Lady of the Forest | 3.00% | ~283 |
-| Beware Still Water | 3.00% | ~283 |
+| The Lady of the Forest | 3.00% | ~284 |
+| Beware Still Water | 3.00% | ~284 |
 | Path of the Aeon | 2.00% | ~213 |
 | Path of the Trickster | 2.00% | ~213 |
 | Path of the Lich | 2.00% | ~213 |
@@ -51,9 +51,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.90% | ~96 |
 | Path of the Legend | 0.80% | ~85 |
 | End of Eternal Guard | 0.80% | ~85 |
-| Truly Profane Gift | 0.80% | ~85 |
 | Path of the Dragon | 0.70% | ~75 |
 | Playful Mood | 0.70% | ~75 |
+| Truly Profane Gift | 0.70% | ~75 |
 | Dreadful Dragon | 0.60% | ~64 |
 | Masterful Charge | 0.50% | ~53 |
 | Prelate's Nemesis | 0.40% | ~43 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,664 (Ranked 120)  
+Progressed: 10,668 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 10,595 | 0 |
 | 2023-07-27 | 10,626 | 0 |
 | 2023-07-28 | 10,645 | 0 |
-| 2023-07-29 | 10,664 | 0 |
+| 2023-07-29 | 10,668 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,858 (Ranked 113)  

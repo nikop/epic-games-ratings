@@ -3,12 +3,12 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 368,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1211,
+  "EOS_Progressed": 1212,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -1865,6 +1865,11 @@
       "Time": "2023-07-29T18:03:37.0606341+00:00",
       "NumProgressed": 1211,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T19:03:41.8991121+00:00",
+      "NumProgressed": 1212,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1876,7 +1881,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Auditor",
@@ -1908,7 +1913,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Commandos",
@@ -1964,7 +1969,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Experienced_strategist",
@@ -2004,7 +2009,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "High_noon",
@@ -2060,7 +2065,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MoskitoBite",
@@ -2068,7 +2073,7 @@
       "Name": "Mosquito bite",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "Scout",
@@ -2115,15 +2120,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1211,
+      "Progressed": 1212,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:37.0606335+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:41.8991115+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:13.9846245+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:37.0606666+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:59:48.3307712+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:41.899145+00:00"
 }

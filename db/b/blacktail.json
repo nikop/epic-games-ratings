@@ -3,12 +3,12 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 242,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 589,
+  "EOS_Progressed": 591,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1390,6 +1390,11 @@
       "Time": "2023-07-29T14:01:23.3813129+00:00",
       "NumProgressed": 589,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-29T19:01:23.1544983+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1433,7 +1438,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Devoted",
@@ -1457,7 +1462,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Favourite",
@@ -1473,7 +1478,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Goal",
@@ -1497,15 +1502,15 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HeadOnHerShoulders",
       "SetID": "2aagp3d",
       "Name": "Gnowlledgeable",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "HexMaster",
@@ -1521,7 +1526,7 @@
       "Name": "Liar Liar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LittleHelper",
@@ -1545,7 +1550,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "NoMoreWards",
@@ -1601,7 +1606,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ToadCharming",
@@ -1617,7 +1622,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Toxic",
@@ -1656,7 +1661,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 589,
+      "Progressed": 591,
       "Completed": 1
     }
   ],
@@ -1664,8 +1669,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:00:30.4814508+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:01:23.1544977+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:05.133864+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:00:30.4814957+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:31.0264699+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:01:23.1545356+00:00"
 }

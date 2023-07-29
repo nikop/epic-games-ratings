@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2228,7 +2228,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67469,
+  "EOS_Progressed": 67471,
   "EOS_Completed": 104,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -11118,6 +11118,11 @@
       "Time": "2023-07-29T18:04:38.5495481+00:00",
       "NumProgressed": 67469,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-29T19:04:55.5177993+00:00",
+      "NumProgressed": 67471,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -11137,7 +11142,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -11145,7 +11150,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -11169,7 +11174,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -11385,7 +11390,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -11433,7 +11438,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "HARLEY_2",
@@ -11465,7 +11470,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -11616,13 +11621,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67469,
+      "Progressed": 67471,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37749,
+      "Progressed": 37751,
       "Completed": 2654
     }
   ],
@@ -11630,8 +11635,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-29T11:00:03.1429306+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:38.5495468+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:04:55.5177986+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:47.8439247+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:38.5496827+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:30.4192468+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:55.5179184+00:00"
 }

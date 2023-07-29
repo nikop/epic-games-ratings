@@ -17,8 +17,8 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Stephanie | 1.00% | ~59 |
 | Drunk and Disorderly: Ashley | 0.80% | ~47 |
 | IRL Let's Player | 0.80% | ~47 |
-| Newcomer: Vickie | 0.70% | ~41 |
-| Social Butterfly | 0.70% | ~41 |
+| Newcomer: Vickie | 0.70% | ~42 |
+| Social Butterfly | 0.70% | ~42 |
 | Amy | 0.60% | ~36 |
 | Inspector | 0.60% | ~36 |
 | The Muse: Madison | 0.60% | ~36 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,928 (Ranked 135)  
+Progressed: 5,929 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.05%) (Ranked 211)
 | 2023-07-26 | 5,878 | 3 |
 | 2023-07-27 | 5,888 | 3 |
 | 2023-07-28 | 5,908 | 3 |
-| 2023-07-29 | 5,928 | 3 |
+| 2023-07-29 | 5,929 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

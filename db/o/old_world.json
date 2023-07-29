@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13158,
+  "EOS_Progressed": 13162,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8764,6 +8764,11 @@
       "Time": "2023-07-29T16:06:43.9438018+00:00",
       "NumProgressed": 13158,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-29T19:06:06.6238966+00:00",
+      "NumProgressed": 13162,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9261,9 +9266,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -9453,9 +9458,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -9693,9 +9698,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -10549,9 +10554,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -11142,21 +11147,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13158,
+      "Progressed": 13162,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13158,
+      "Progressed": 13162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:05:36.6542914+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:06:06.6238957+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:06.189404+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:36.6552759+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:32.6079042+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:06:06.6249647+00:00"
 }

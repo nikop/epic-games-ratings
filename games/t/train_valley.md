@@ -6,31 +6,31 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~303 |
-| Close call! | 73.00% | ~288 |
-| Builder | 52.00% | ~205 |
-| Pangs of conscience | 47.00% | ~185 |
-| Living it large! | 43.00% | ~169 |
-| Collector | 41.00% | ~162 |
-| Need to think | 39.00% | ~154 |
-| Completely nuts! | 38.00% | ~150 |
-| Just in time! | 32.00% | ~126 |
-| Europe | 30.00% | ~118 |
-| It's no coincidence. | 30.00% | ~118 |
-| Non Stop! | 26.00% | ~102 |
-| Madness! | 26.00% | ~102 |
-| Philatelist | 25.00% | ~98 |
-| Let's roll! | 25.00% | ~98 |
-| Ouroboros | 24.00% | ~95 |
-| Foreman | 21.00% | ~83 |
-| Missed it! | 20.00% | ~79 |
-| Russia | 17.00% | ~67 |
-| Sabotage | 17.00% | ~67 |
-| America | 16.00% | ~63 |
-| Woodcutter | 11.00% | ~43 |
-| Engineer | 11.00% | ~43 |
-| Achtung! | 11.00% | ~43 |
-| Japan | 9.00% | ~35 |
+| Getting started | 77.00% | ~306 |
+| Close call! | 72.00% | ~287 |
+| Builder | 52.00% | ~207 |
+| Pangs of conscience | 46.00% | ~183 |
+| Living it large! | 43.00% | ~171 |
+| Collector | 41.00% | ~163 |
+| Need to think | 39.00% | ~155 |
+| Completely nuts! | 37.00% | ~147 |
+| Just in time! | 32.00% | ~127 |
+| Europe | 30.00% | ~119 |
+| It's no coincidence. | 29.00% | ~115 |
+| Non Stop! | 26.00% | ~103 |
+| Madness! | 26.00% | ~103 |
+| Let's roll! | 25.00% | ~100 |
+| Philatelist | 24.00% | ~96 |
+| Ouroboros | 24.00% | ~96 |
+| Foreman | 21.00% | ~84 |
+| Missed it! | 19.00% | ~76 |
+| Russia | 17.00% | ~68 |
+| Sabotage | 17.00% | ~68 |
+| America | 16.00% | ~64 |
+| Woodcutter | 11.00% | ~44 |
+| Engineer | 11.00% | ~44 |
+| Achtung! | 11.00% | ~44 |
+| Japan | 9.00% | ~36 |
 | Tycoon | 8.00% | ~32 |
 | Germany | 6.00% | ~24 |
 | Chuck Norris | 5.00% | ~20 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.50% | ~2 |
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 234)  
-Completed: 2 (0.51%) (Ranked 135)  
+Progressed: 398 (Ranked 233)  
+Completed: 2 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 2 (0.51%) (Ranked 135)
 | 2023-07-26 | 374 | 2 |
 | 2023-07-27 | 385 | 2 |
 | 2023-07-28 | 391 | 2 |
-| 2023-07-29 | 394 | 2 |
+| 2023-07-29 | 398 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

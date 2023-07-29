@@ -1,38 +1,38 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 932)  
+Rating: 3.94 (Ranked 933)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,197 |
-| First One’s Free | 65.00% | ~45,849 |
-| Neophyte Ninja | 50.00% | ~35,268 |
-| Too Old for This | 47.00% | ~33,152 |
-| Fancy Pants | 35.00% | ~24,688 |
-| Case Closed | 34.00% | ~23,983 |
-| King of the Hill | 34.00% | ~23,983 |
-| Underworld Initiate | 29.00% | ~20,456 |
+| Downed but Not Outed | 74.00% | ~52,200 |
+| First One’s Free | 65.00% | ~45,851 |
+| Neophyte Ninja | 50.00% | ~35,270 |
+| Too Old for This | 47.00% | ~33,154 |
+| Fancy Pants | 35.00% | ~24,689 |
+| Case Closed | 34.00% | ~23,984 |
+| King of the Hill | 34.00% | ~23,984 |
+| Underworld Initiate | 29.00% | ~20,457 |
 | Roid Ranger | 21.00% | ~14,813 |
-| True Player | 19.00% | ~13,402 |
-| Off the Rocks | 19.00% | ~13,402 |
-| Dragonslayer | 17.00% | ~11,991 |
+| True Player | 19.00% | ~13,403 |
+| Off the Rocks | 19.00% | ~13,403 |
+| Dragonslayer | 17.00% | ~11,992 |
 | Raider’s Ruin | 16.00% | ~11,286 |
 | Hidden Sonata | 13.00% | ~9,170 |
 | Rockay Rex | 11.00% | ~7,759 |
 | Freebooter | 10.00% | ~7,054 |
-| Track Star | 9.00% | ~6,348 |
-| Classy Joint | 9.00% | ~6,348 |
+| Track Star | 9.00% | ~6,349 |
+| Classy Joint | 9.00% | ~6,349 |
 | I Like Trains | 8.00% | ~5,643 |
 | Headhunter | 8.00% | ~5,643 |
 | Ding Dong | 8.00% | ~5,643 |
 | Foo Finder | 7.00% | ~4,938 |
 | Legend Looter | 5.00% | ~3,527 |
 | Savvy Seeker | 5.00% | ~3,527 |
-| Imports and Exports | 4.00% | ~2,821 |
-| Olympus Ascended | 4.00% | ~2,821 |
-| Cracked the Jack | 4.00% | ~2,821 |
-| Red Star | 4.00% | ~2,821 |
+| Imports and Exports | 4.00% | ~2,822 |
+| Olympus Ascended | 4.00% | ~2,822 |
+| Cracked the Jack | 4.00% | ~2,822 |
+| Red Star | 4.00% | ~2,822 |
 | Privateer | 3.00% | ~2,116 |
 | Groundhog Days | 3.00% | ~2,116 |
 | Rockay Raider | 2.00% | ~1,411 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 932)
 | Geek Out | 0.50% | ~353 |
 | Full House | 0.20% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,537 (Ranked 77)  
+Progressed: 70,540 (Ranked 77)  
 Completed: 36 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 36 (0.05%) (Ranked 211)
 | 2023-07-26 | 70,166 | 36 |
 | 2023-07-27 | 70,275 | 36 |
 | 2023-07-28 | 70,402 | 36 |
-| 2023-07-29 | 70,537 | 36 |
+| 2023-07-29 | 70,540 | 36 |
 ## Awards
 Max (Diverse Characters): 384  (Ranked 214)  
 Sum: 1,806 (Ranked 205)  

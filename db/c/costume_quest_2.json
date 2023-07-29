@@ -3,12 +3,12 @@
   "Name": "Costume Quest 2",
   "ProductSlug": "costume-quest-2",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -377,6 +377,6 @@
   "FirstSeen": "2022-07-22T20:26:19.5117232+00:00",
   "LastChanged": "2023-07-26T17:58:52.6834891+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:56.1914655+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:13.0566252+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:27.8267872+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:40.5238156+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:55.8641876+00:00"
 }

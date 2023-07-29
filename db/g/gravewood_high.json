@@ -2,13 +2,13 @@
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
   "ProductSlug": "gravewood-high",
-  "Ranking_Rating": 919,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Rating": 920,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-20T17:00:00+00:00",
     "PcReleaseDate": "2021-10-20T17:00:00+00:00",
@@ -289,6 +289,6 @@
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
   "LastChanged": "2023-07-24T21:05:07.3396275+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:50.3638192+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:55.3655799+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:30.169154+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:39.4672182+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:58.5719161+00:00"
 }

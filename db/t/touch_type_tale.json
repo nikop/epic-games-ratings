@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3087,
+  "EOS_Progressed": 3088,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2594,6 +2594,11 @@
       "Time": "2023-07-29T16:04:43.5394576+00:00",
       "NumProgressed": 3087,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-29T19:04:06.734691+00:00",
+      "NumProgressed": 3088,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2629,7 +2634,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "bonus5",
@@ -2653,7 +2658,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "campaign10",
@@ -2669,7 +2674,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "campaign12",
@@ -2725,7 +2730,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "campaign19",
@@ -2741,7 +2746,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "campaign20",
@@ -2789,7 +2794,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "campaign8",
@@ -2821,7 +2826,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "scenario3",
@@ -2853,7 +2858,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "scenario7",
@@ -2868,7 +2873,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3087,
+      "Progressed": 3088,
       "Completed": 10
     }
   ],
@@ -2876,8 +2881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:57.61118+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:04:06.7346902+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:00:06.098282+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:57.611222+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:53.1647277+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:06.7347375+00:00"
 }

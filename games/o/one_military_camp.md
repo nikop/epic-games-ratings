@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The 4 Pillars | 49.00% | ~53 |
-| First Step | 47.00% | ~51 |
+| First Step | 48.00% | ~52 |
 | Capitalism | 11.00% | ~12 |
 | Indebted | 10.00% | ~11 |
 | Health Care | 6.00% | ~7 |

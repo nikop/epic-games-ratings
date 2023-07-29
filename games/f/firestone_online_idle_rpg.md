@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 893)  
+Rating: 4.10 (Ranked 894)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.10 (Ranked 893)
 | Milestone collector | 13.00% | ~225 |
 | Mysterious Rock | 13.00% | ~225 |
 | Natural Talent | 13.00% | ~225 |
+| Superior | 13.00% | ~225 |
 | The Unstoppable | 13.00% | ~225 |
-| Superior | 12.00% | ~208 |
 | Scientist | 11.00% | ~191 |
 | Challenger | 10.00% | ~173 |
 | Daily Quest Completionist | 10.00% | ~173 |

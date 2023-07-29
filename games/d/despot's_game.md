@@ -10,8 +10,8 @@ Rating: 4.50 (Ranked 557)
 | Party | 47.00% | ~196 |
 | Impossible Cube | 45.00% | ~188 |
 | Knowledge is Power | 44.00% | ~183 |
+| No Mercy | 42.00% | ~175 |
 | Through the Darkness | 42.00% | ~175 |
-| No Mercy | 41.00% | ~171 |
 | The Return of a Rat | 41.00% | ~171 |
 | Fat of the Earth | 35.00% | ~146 |
 | Last Man Standing | 32.00% | ~133 |
@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 557)
 | Frugal | 21.00% | ~88 |
 | Feed a God | 21.00% | ~88 |
 | To the Moon and Back | 20.00% | ~83 |
-| Great Flight | 17.00% | ~71 |
+| Great Flight | 18.00% | ~75 |
 | Holy Vengeance | 16.00% | ~67 |
 | Honorary Cultist | 12.00% | ~50 |
 | Strength and Sorcery | 10.00% | ~42 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 557)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417 (Ranked 229)  
-Completed: 1 (0.24%) (Ranked 166)  
+Progressed: 417 (Ranked 230)  
+Completed: 1 (0.24%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

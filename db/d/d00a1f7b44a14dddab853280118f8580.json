@@ -3,9 +3,9 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 375,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 8.82,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-07-29T18:00:28.7842634+00:00",
       "NumProgressed": 33,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T19:01:21.1011113+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -134,17 +139,17 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_complete_tutorial",
@@ -152,23 +157,23 @@
       "Name": "Welcome aboard!",
       "Percentage": 88,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 66,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_hint_9",
@@ -182,15 +187,15 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 80,
       "UsersEstimate": 21
     },
@@ -198,7 +203,7 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -206,15 +211,15 @@
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 5
     }
@@ -223,13 +228,13 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:00:28.7842628+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:01:21.1011108+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:56:51.5520504+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:00:28.7842779+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:57:02.9850653+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:01:21.1011238+00:00"
 }

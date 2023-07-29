@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 909)  
+Rating: 4.05 (Ranked 910)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,11 +13,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 1.00% | ~2,168 |
 | Rocky Reception | 1.00% | ~1,831 |
 | Rock and Roll | 0.90% | ~1,648 |
-| Vecna Lives! | 0.80% | ~1,464 |
-| Flight of the Kindori Pod | 0.80% | ~1,464 |
-| Tall Tales | 0.70% | ~1,281 |
-| Vecna Loots! | 0.70% | ~1,281 |
-| Topolah's Tower | 0.70% | ~1,281 |
+| Vecna Lives! | 0.80% | ~1,465 |
+| Flight of the Kindori Pod | 0.80% | ~1,465 |
+| Tall Tales | 0.70% | ~1,282 |
+| Vecna Loots! | 0.70% | ~1,282 |
+| Topolah's Tower | 0.70% | ~1,282 |
 | Wet Feet | 0.60% | ~1,301 |
 | Seeds of Destruction | 0.60% | ~1,098 |
 | Return to the Tomb | 0.60% | ~1,098 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,786 (Ranked 53)  
+Progressed: 216,799 (Ranked 53)  
 Completed: 2,136 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 2,136 (0.99%) (Ranked 111)
 | 2023-07-26 | 215,817 | 2,119 |
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
-| 2023-07-29 | 216,786 | 2,136 |
+| 2023-07-29 | 216,799 | 2,136 |
 ## Awards
 Max (Diverse Characters): 5,093  (Ranked 67)  
 Sum: 30,793 (Ranked 38)  

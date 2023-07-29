@@ -3,12 +3,12 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2954,
+  "EOS_Progressed": 2955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4029,6 +4029,11 @@
       "Time": "2023-07-29T17:05:46.8965103+00:00",
       "NumProgressed": 2954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T19:05:25.2592165+00:00",
+      "NumProgressed": 2955,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4120,7 +4125,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_BASE_21",
@@ -4152,7 +4157,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_BASE_25",
@@ -4232,7 +4237,7 @@
       "Name": "Fully Recycled",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_BASE_34",
@@ -4336,7 +4341,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_BASE_49",
@@ -4344,7 +4349,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_BASE_5",
@@ -4416,7 +4421,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_BASE_6",
@@ -4495,13 +4500,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1136,
+      "Progressed": 1137,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2954,
+      "Progressed": 2955,
       "Completed": 0
     }
   ],
@@ -4509,8 +4514,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:05:01.7217895+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:05:25.2592158+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:38.6506033+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:01.7218749+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:59:08.8352494+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:25.2593024+00:00"
 }

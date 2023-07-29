@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 862,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Rating": 863,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -243,10 +243,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1311,
-  "EOS_Completed": 64,
+  "EOS_Completed": 65,
   "EOS_NewPlayers": 50,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.88,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1817,6 +1817,11 @@
       "Time": "2023-07-29T16:03:03.0576687+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-29T19:01:29.3512569+00:00",
+      "NumProgressed": 1311,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 11,
@@ -1916,14 +1921,14 @@
       "ID": "7a9m7mj",
       "IsBase": true,
       "Progressed": 1311,
-      "Completed": 64
+      "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:02:06.6663406+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:01:29.3512562+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.8120898+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:59.8448363+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:02:06.6663685+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:44.8004115+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:01:29.3512814+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "ACHIEVEMENT_NormalMode",
       "SetID": "70j9o42",
       "Name": "Normal Is My Middle Name",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Player_Wins_Marshmallows",
@@ -372,9 +372,9 @@
       "ID": "ACHIEVEMENT_Thelima_Ending",
       "SetID": "70j9o42",
       "Name": "The Shadow\u0027s Embrace",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Wine_veryfancy",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:41.9870243+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:47.8571452+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:57:14.3061409+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:41.9870567+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:57:28.7985857+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:47.8571773+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~19,114 |
+| First money | 94.00% | ~19,115 |
 | Strongman | 31.00% | ~6,304 |
-| Just Enough | 19.00% | ~3,863 |
-| Alpha Male | 19.00% | ~3,863 |
+| Just Enough | 19.00% | ~3,864 |
+| Alpha Male | 19.00% | ~3,864 |
 | Pro-creative | 18.00% | ~3,660 |
 | Worth Every Penny | 14.00% | ~2,847 |
-| Family man | 13.00% | ~2,643 |
-| Junior Estate Agent | 13.00% | ~2,643 |
-| Mystery | 10.00% | ~2,033 |
-| Artistic soul | 10.00% | ~2,033 |
+| Family man | 13.00% | ~2,644 |
+| Junior Estate Agent | 13.00% | ~2,644 |
+| Mystery | 10.00% | ~2,034 |
+| Artistic soul | 10.00% | ~2,034 |
 | Estate Agent | 5.00% | ~1,017 |
 | Millionaire | 5.00% | ~1,017 |
 | Perfectionist | 5.00% | ~1,017 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~102 |
 | Senior Estate Agent | 0.50% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,334 (Ranked 104)  
+Progressed: 20,335 (Ranked 104)  
 Completed: 19 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,15 +130,15 @@ Completed: 19 (0.09%) (Ranked 196)
 | 2023-07-26 | 20,210 | 19 |
 | 2023-07-27 | 20,254 | 19 |
 | 2023-07-28 | 20,303 | 19 |
-| 2023-07-29 | 20,334 | 19 |
+| 2023-07-29 | 20,335 | 19 |
 ## Awards
 Max (Great for Beginners): 304  (Ranked 231)  
-Sum: 2,193 (Ranked 189)  
+Sum: 2,194 (Ranked 189)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 304 |
-| This game is Educational | 237 |
+| This game is Educational | 238 |
 | This game is Relaxing | 225 |
 | This game is Extremely Fun | 224 |
 | This game has Quickly Understood Controls | 217 |
@@ -286,4 +286,4 @@ Diff (max vs sum): 42
 | 2023-07-23 | 4.69 | - | 304 | 2,190 |
 | 2023-07-24 | 4.69 | - | 304 | 2,191 |
 | 2023-07-25 | 4.69 | - | 304 | 2,192 |
-| 2023-07-29 | 4.69 | - | 304 | 2,193 |
+| 2023-07-29 | 4.69 | - | 304 | 2,194 |

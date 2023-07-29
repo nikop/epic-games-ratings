@@ -20,17 +20,17 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 3.00% | ~109 |
 | Alright, that felt AWESOME! | 3.00% | ~109 |
 | NOW we got a kickass hideout! | 3.00% | ~64 |
-| The Negotiator | 2.00% | ~72 |
-| Headliner | 2.00% | ~72 |
-| Time to pay up! | 2.00% | ~72 |
-| Who's the boss now? | 2.00% | ~72 |
-| Whoa! There's ANOTHER health bar!? | 2.00% | ~72 |
-| I have to read these things? | 2.00% | ~72 |
-| You must like calling me in, Chai | 2.00% | ~72 |
-| Out in a puff of smoke | 2.00% | ~72 |
-| Perfecter Parry-er! | 2.00% | ~72 |
-| I look cool. But I can look COOLER. | 2.00% | ~72 |
-| Does that say weakpoint? | 2.00% | ~72 |
+| The Negotiator | 2.00% | ~73 |
+| Headliner | 2.00% | ~73 |
+| Time to pay up! | 2.00% | ~73 |
+| Who's the boss now? | 2.00% | ~73 |
+| Whoa! There's ANOTHER health bar!? | 2.00% | ~73 |
+| I have to read these things? | 2.00% | ~73 |
+| You must like calling me in, Chai | 2.00% | ~73 |
+| Out in a puff of smoke | 2.00% | ~73 |
+| Perfecter Parry-er! | 2.00% | ~73 |
+| I look cool. But I can look COOLER. | 2.00% | ~73 |
+| Does that say weakpoint? | 2.00% | ~73 |
 | Well that was a rush! | 1.00% | ~36 |
 | Beat-hit mania | 1.00% | ~36 |
 | That's a lot of junk metal… | 1.00% | ~36 |
@@ -43,9 +43,9 @@ Rating: 4.87 (Ranked 24)
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
-| This is a breeze! | 0.40% | ~14 |
-| First we parry, then we counter | 0.40% | ~14 |
-| I hit things with a guitar really well. | 0.40% | ~14 |
+| This is a breeze! | 0.40% | ~15 |
+| First we parry, then we counter | 0.40% | ~15 |
+| I hit things with a guitar really well. | 0.40% | ~15 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | We're Jammin' | 0.30% | ~11 |
 | I'm not done with you yet | 0.30% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,624 (Ranked 146)  
+Progressed: 3,626 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 6 (0.17%) (Ranked 176)
 | 2023-07-26 | 3,589 | 6 |
 | 2023-07-27 | 3,601 | 6 |
 | 2023-07-28 | 3,610 | 6 |
-| 2023-07-29 | 3,624 | 6 |
+| 2023-07-29 | 3,626 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,7 +15,7 @@ Number of Ratings: 180  (23.09.2022)
 | First bus arrived | 66.00% | ~992 |
 | First train station | 64.00% | ~962 |
 | First steam train arrived | 60.00% | ~902 |
-| First industry upgraded | 56.00% | ~842 |
+| First industry upgraded | 57.00% | ~857 |
 | Transport millionaire | 55.00% | ~827 |
 | Cargo hub | 54.00% | ~812 |
 | Transport master | 53.00% | ~797 |
@@ -26,9 +26,9 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 46.00% | ~691 |
 | Now what? | 46.00% | ~691 |
 | High speed | 43.00% | ~646 |
+| Transport shark | 41.00% | ~616 |
 | First aircraft arrived | 41.00% | ~616 |
 | Exemplary student | 41.00% | ~616 |
-| Transport shark | 40.00% | ~601 |
 | Mass production | 35.00% | ~526 |
 | Aircraft entrepreneur | 33.00% | ~496 |
 | The future is now, old man | 32.00% | ~481 |

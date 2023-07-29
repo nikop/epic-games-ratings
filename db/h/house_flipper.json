@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1702,10 +1702,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2193,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2023-07-29T19:00:10.2227185+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2194,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2193,
+  "NumberOfAwards": 2194,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1755,7 +1761,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1776,7 +1782,7 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 20334,
+  "EOS_Progressed": 20335,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -6836,6 +6842,11 @@
       "Time": "2023-07-29T18:06:15.5640247+00:00",
       "NumProgressed": 20334,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-29T19:06:53.9177808+00:00",
+      "NumProgressed": 20335,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6847,7 +6858,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "CarMechanic",
@@ -6895,7 +6906,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19114
+      "UsersEstimate": 19115
     },
     {
       "ID": "GameOver",
@@ -6927,7 +6938,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "JuniorEstateAgent",
@@ -6935,7 +6946,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "KnockKnock",
@@ -6959,7 +6970,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "Negotiator",
@@ -6983,7 +6994,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "SeniorEstateAgent",
@@ -7015,7 +7026,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "YouDoItWrong",
@@ -7030,15 +7041,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20334,
+      "Progressed": 20335,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-07-29T14:59:49.5577689+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:06:15.5640241+00:00",
+  "LastChanged": "2023-07-29T19:00:10.2227183+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:06:53.9177805+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:16.0622663+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:33.7976891+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:06:15.5640724+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:10.2227193+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:06:53.9178356+00:00"
 }

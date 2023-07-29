@@ -1,22 +1,22 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 868)  
+Rating: 4.17 (Ranked 869)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,927 |
-| Worker Specialization | 78.00% | ~4,865 |
-| First Contact | 73.00% | ~4,553 |
+| Colonize a Planet | 79.00% | ~4,928 |
+| Worker Specialization | 78.00% | ~4,866 |
+| First Contact | 73.00% | ~4,554 |
 | Win a Battle | 67.00% | ~4,179 |
-| Anomaly Researcher | 63.00% | ~3,929 |
-| Unleash My Power | 62.00% | ~3,867 |
+| Anomaly Researcher | 63.00% | ~3,930 |
+| Unleash My Power | 62.00% | ~3,868 |
 | Own 30 Planets | 34.00% | ~2,121 |
-| Xenocide | 33.00% | ~2,058 |
-| Commodity Trader | 31.00% | ~1,933 |
-| Design a Civilization | 31.00% | ~1,933 |
-| Design a Ship | 28.00% | ~1,746 |
+| Xenocide | 33.00% | ~2,059 |
+| Design a Civilization | 32.00% | ~1,996 |
+| Commodity Trader | 31.00% | ~1,934 |
+| Design a Ship | 28.00% | ~1,747 |
 | Commodity Seller | 26.00% | ~1,622 |
 | Prestige Victory! | 14.00% | ~873 |
 | Galactic War | 11.00% | ~686 |
@@ -26,9 +26,9 @@ Number of Ratings: 429  (23.09.2022)
 | Gain an Ally | 6.00% | ~374 |
 | Win with a Custom Faction | 6.00% | ~374 |
 | War with the Unknown | 5.00% | ~312 |
-| Conquest Victory! | 4.00% | ~249 |
-| Win an Immense Game | 4.00% | ~249 |
-| Win Quickly | 4.00% | ~249 |
+| Conquest Victory! | 4.00% | ~250 |
+| Win an Immense Game | 4.00% | ~250 |
+| Win Quickly | 4.00% | ~250 |
 | Pirate Cleansing | 3.00% | ~187 |
 | Artifact Mastery | 3.00% | ~187 |
 | Win as Altarians | 2.00% | ~125 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,237 (Ranked 134)  
+Progressed: 6,238 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 6,215 | 0 |
 | 2023-07-27 | 6,221 | 0 |
 | 2023-07-28 | 6,227 | 0 |
-| 2023-07-29 | 6,237 | 0 |
+| 2023-07-29 | 6,238 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 347)  
 Sum: 668 (Ranked 277)  

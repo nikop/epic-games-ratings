@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 878,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39368,
+  "EOS_Progressed": 39369,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6314,6 +6314,11 @@
       "Time": "2023-07-29T18:04:15.4458491+00:00",
       "NumProgressed": 39368,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-29T19:04:27.8973505+00:00",
+      "NumProgressed": 39369,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6451,9 +6456,9 @@
       "ID": "CHAPTER_11_CLEAR",
       "SetID": "6d0g7k8",
       "Name": "Forspoken",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 354
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -6748,22 +6753,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39368,
+      "Progressed": 39369,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4205,
-      "Completed": 4205
+      "Progressed": 4206,
+      "Completed": 4206
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-29T10:58:57.7295922+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:15.445848+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:04:27.8973499+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.6362522+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:35.5770423+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:15.4459239+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:59:06.9145636+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:27.8974409+00:00"
 }

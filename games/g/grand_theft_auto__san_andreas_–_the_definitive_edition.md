@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,345 |
-| Pay 'n' Spray | 50.00% | ~5,768 |
-| All Dressed Up for San Fierro | 25.00% | ~2,884 |
+| Getting Started | 81.00% | ~9,348 |
+| Pay 'n' Spray | 50.00% | ~5,770 |
+| All Dressed Up for San Fierro | 25.00% | ~2,885 |
 | The American Dream | 18.00% | ~2,077 |
 | School's Out | 18.00% | ~2,077 |
-| Smooth Moves | 16.00% | ~1,846 |
+| Smooth Moves | 16.00% | ~1,847 |
 | Today Was a Good Day | 15.00% | ~1,731 |
-| What happens in Las Venturas... | 14.00% | ~1,615 |
+| What happens in Las Venturas... | 14.00% | ~1,616 |
 | Horror of the Santa Maria | 10.00% | ~1,154 |
-| Liberty City State of Mind | 9.00% | ~1,038 |
+| Liberty City State of Mind | 9.00% | ~1,039 |
 | Original Gangster | 8.00% | ~923 |
 | The End of the Line | 7.00% | ~808 |
 | With Extra Dip | 6.00% | ~692 |
 | Saviour | 6.00% | ~692 |
-| They Can’t Stop All of Us | 4.00% | ~461 |
-| Rescue a Kitten Too? | 4.00% | ~461 |
+| They Can’t Stop All of Us | 4.00% | ~462 |
+| Rescue a Kitten Too? | 4.00% | ~462 |
 | Bike or Biker | 3.00% | ~346 |
 | What are the Odds | 3.00% | ~346 |
 | A Legitimate Business | 2.00% | ~231 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 482)
 | ...Here we go again | 0.40% | ~46 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,537 (Ranked 119)  
+Progressed: 11,541 (Ranked 119)  
 Completed: 31 (0.27%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,11 +141,11 @@ Completed: 31 (0.27%) (Ranked 161)
 | 2023-07-26 | 11,400 | 31 |
 | 2023-07-27 | 11,443 | 31 |
 | 2023-07-28 | 11,496 | 31 |
-| 2023-07-29 | 11,537 | 31 |
+| 2023-07-29 | 11,541 | 31 |
 ## Awards
-Max (Great Boss Battles): 231  (Ranked 253)  
+Max (Great Boss Battles): 231  (Ranked 254)  
 Sum: 231 (Ranked 352)  
-Diff (max vs sum): -99  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 231 |

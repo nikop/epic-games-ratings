@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 878)  
+Rating: 4.15 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,8 +32,8 @@ Rating: 4.15 (Ranked 878)
 | The Truth Will Out | 1.00% | ~394 |
 | Breaking Point | 1.00% | ~394 |
 | None the Wiser | 1.00% | ~394 |
-| Forspoken | 1.00% | ~394 |
 | Pilgrimage: Novice | 1.00% | ~394 |
+| Forspoken | 0.90% | ~354 |
 | Wildfire | 0.70% | ~276 |
 | Awakening | 0.60% | ~236 |
 | Explorer: Trailblazer | 0.60% | ~236 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 878)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,368 (Ranked 92)  
+Progressed: 39,369 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-26 | 39,275 | 3 |
 | 2023-07-27 | 39,308 | 3 |
 | 2023-07-28 | 39,336 | 3 |
-| 2023-07-29 | 39,368 | 3 |
+| 2023-07-29 | 39,369 | 3 |
 ## Awards
 Max (Character Customization): 21  (Ranked 495)  
 Sum: 21 (Ranked 495)  

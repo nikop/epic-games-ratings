@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 39.00% | ~161 |
+| Inquisitor | 38.00% | ~157 |
 | Goblin Tales | 31.00% | ~128 |
 | Bug Hunter | 25.00% | ~103 |
-| Boss Killer | 24.00% | ~99 |
+| Boss Killer | 23.00% | ~95 |
 | The Fallen | 22.00% | ~91 |
-| Artifact Collector | 20.00% | ~82 |
-| Trap Master | 20.00% | ~82 |
+| Artifact Collector | 20.00% | ~83 |
+| Trap Master | 20.00% | ~83 |
 | Ghost Buster | 16.00% | ~66 |
 | Iconoclasm | 15.00% | ~62 |
 | Reincarnation | 15.00% | ~62 |
@@ -18,7 +18,7 @@
 | Lumberjack | 13.00% | ~54 |
 | Orcs Must Die! | 13.00% | ~54 |
 | The End | 13.00% | ~54 |
-| Gladiator | 12.00% | ~49 |
+| Gladiator | 12.00% | ~50 |
 | Troubleshooter | 11.00% | ~45 |
 | Money Swag | 8.00% | ~33 |
 | Oops | 7.00% | ~29 |
@@ -27,7 +27,7 @@
 | Explorer | 6.00% | ~25 |
 | Pyromancer | 5.00% | ~21 |
 | Trio | 5.00% | ~21 |
-| Spell Master | 4.00% | ~16 |
+| Spell Master | 4.00% | ~17 |
 | Arrive Home | 3.00% | ~12 |
 | Holy Knight | 3.00% | ~12 |
 | Hoarder | 3.00% | ~12 |
@@ -45,7 +45,7 @@
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 230)  
+Progressed: 413 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 410 | 0 |
 | 2023-07-27 | 411 | 0 |
 | 2023-07-28 | 412 | 0 |
+| 2023-07-29 | 413 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4756,
+  "EOS_Progressed": 4757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7296,6 +7296,11 @@
       "Time": "2023-07-29T17:07:17.2916587+00:00",
       "NumProgressed": 4756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T19:06:53.5599171+00:00",
+      "NumProgressed": 4757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7371,7 +7376,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "4",
@@ -7395,7 +7400,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "7",
@@ -7426,7 +7431,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4756,
+      "Progressed": 4757,
       "Completed": 0
     }
   ],
@@ -7434,8 +7439,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:06:15.3755321+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:06:53.5599168+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:09.5763927+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:06:15.3755936+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:36.6458409+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:06:53.559977+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3302,7 +3302,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10664,
+  "EOS_Progressed": 10668,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -9662,6 +9662,11 @@
       "Time": "2023-07-29T17:02:12.8294977+00:00",
       "NumProgressed": 10664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T19:01:14.5716631+00:00",
+      "NumProgressed": 10668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9673,7 +9678,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "02_BurningCity",
@@ -9697,7 +9702,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9873,7 +9878,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "28_GreatUpstart",
@@ -10079,9 +10084,9 @@
       "ID": "53_TrulyProfaneGift",
       "SetID": "989of5o",
       "Name": "Truly Profane Gift",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 75
     },
     {
       "ID": "54_DeathByColumn",
@@ -10585,7 +10590,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -10593,28 +10598,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9446,
+      "Progressed": 9450,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10664,
+      "Progressed": 10668,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-29T15:59:20.3300679+00:00",
-  "LastChanged_Achievements": "2023-07-29T17:02:12.8294972+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:01:14.5716624+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:32.8081164+00:00",
-  "LastUpdate_Achievements": "2023-07-29T17:02:12.8297133+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:59:03.5989763+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:01:14.5719539+00:00"
 }

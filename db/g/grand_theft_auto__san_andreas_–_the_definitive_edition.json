@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -622,9 +622,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 11537,
+  "EOS_Progressed": 11541,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7752,6 +7752,11 @@
       "Time": "2023-07-29T17:07:20.2605703+00:00",
       "NumProgressed": 11537,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-29T19:06:56.6429266+00:00",
+      "NumProgressed": 11541,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7763,7 +7768,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9348
     },
     {
       "ID": "ACH02",
@@ -7819,7 +7824,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5768
+      "UsersEstimate": 5770
     },
     {
       "ID": "ACH09",
@@ -7843,7 +7848,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH12",
@@ -7875,7 +7880,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH16",
@@ -7883,7 +7888,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH17",
@@ -7907,7 +7912,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH20",
@@ -7931,7 +7936,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACH23",
@@ -7939,7 +7944,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ACH24",
@@ -8042,7 +8047,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11537,
+      "Progressed": 11541,
       "Completed": 31
     }
   ],
@@ -8050,8 +8055,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-28T21:01:56.0954675+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:06:17.9183899+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:06:56.6429262+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:00:10.3255801+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:06:17.9184682+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:58.4607189+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:06:56.6430016+00:00"
 }

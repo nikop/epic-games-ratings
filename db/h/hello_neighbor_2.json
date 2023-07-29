@@ -3,12 +3,12 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 625,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,11 +354,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2199,6 +2199,11 @@
       "Time": "2023-07-29T15:05:21.8725682+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-29T19:05:16.0661933+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2218,7 +2223,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2258,7 +2263,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2274,7 +2279,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -2314,14 +2319,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 101
     }
   ],
@@ -2329,8 +2334,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:54.9971618+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:05:16.0661924+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:00:10.7787702+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:54.9971875+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:59.0439053+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:16.0662216+00:00"
 }

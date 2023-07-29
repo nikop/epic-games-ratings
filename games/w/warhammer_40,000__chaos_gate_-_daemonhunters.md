@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 1.00% | ~31 |
 | Executioner | 1.00% | ~31 |
 | Watch Where You Step... | 1.00% | ~31 |
+| Purging Spree | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
 | Blood for the Blood God! | 0.90% | ~28 |
-| Purging Spree | 0.90% | ~28 |
 | Bloodless | 0.90% | ~28 |
 | Friendly Fire | 0.60% | ~18 |
 | A Foul Creche | 0.60% | ~18 |

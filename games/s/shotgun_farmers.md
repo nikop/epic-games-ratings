@@ -38,8 +38,8 @@
 | Quadsparagus | 8.00% | ~15 |
 | Pyromaniac | 6.00% | ~11 |
 | Chick Magnet | 5.00% | ~12 |
+| I Have The High Ground | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |
-| I Have The High Ground | 4.00% | ~9 |
 | Master Survivor | 4.00% | ~7 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |

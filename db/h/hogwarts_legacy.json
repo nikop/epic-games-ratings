@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5646,9 +5646,9 @@
       "Count": 567
     }
   ],
-  "EOS_Progressed": 288862,
+  "EOS_Progressed": 288866,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16426,6 +16426,11 @@
       "Time": "2023-07-29T18:04:33.32749+00:00",
       "NumProgressed": 288862,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-07-29T19:04:49.2796885+00:00",
+      "NumProgressed": 288866,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 45,
@@ -16437,7 +16442,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34663
+      "UsersEstimate": 34664
     },
     {
       "ID": "PFA_10",
@@ -16485,7 +16490,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20220
+      "UsersEstimate": 20221
     },
     {
       "ID": "PFA_16",
@@ -16509,7 +16514,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20220
+      "UsersEstimate": 20221
     },
     {
       "ID": "PFA_19",
@@ -16525,7 +16530,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "PFA_20",
@@ -16557,7 +16562,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28886
+      "UsersEstimate": 28887
     },
     {
       "ID": "PFA_24",
@@ -16701,7 +16706,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "PFA_40",
@@ -16717,7 +16722,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "PFA_42",
@@ -16741,7 +16746,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20220
+      "UsersEstimate": 20221
     },
     {
       "ID": "PFA_45",
@@ -16773,7 +16778,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28886
+      "UsersEstimate": 28887
     },
     {
       "ID": "PFA_8",
@@ -16781,7 +16786,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28886
+      "UsersEstimate": 28887
     },
     {
       "ID": "PFA_9",
@@ -16796,7 +16801,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288862,
+      "Progressed": 288866,
       "Completed": 436
     }
   ],
@@ -16804,8 +16809,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-29T17:57:40.6027696+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:33.3274888+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:04:49.2796878+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:57:40.6027703+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:33.3275949+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:00.5679333+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:49.2798015+00:00"
 }

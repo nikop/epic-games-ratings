@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 944,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 1511,
+  "EOS_Progressed": 1512,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1691,6 +1691,11 @@
       "Time": "2023-07-29T17:03:24.5007037+00:00",
       "NumProgressed": 1511,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-29T19:03:04.5517934+00:00",
+      "NumProgressed": 1512,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1702,7 +1707,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1756,9 +1761,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1331
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1774,7 +1779,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1790,7 +1795,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -1814,7 +1819,7 @@
       "Name": "Friendly",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1838,7 +1843,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1852,9 +1857,9 @@
       "ID": "ACHIEVEMENTS_20",
       "SetID": "d4o538a",
       "Name": "Decorative Mind",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -1878,15 +1883,15 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENTS_24",
       "SetID": "d4o538a",
       "Name": "Stone Specialist",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -1942,7 +1947,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -1966,7 +1971,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2005,7 +2010,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1511,
+      "Progressed": 1512,
       "Completed": 9
     }
   ],
@@ -2013,8 +2018,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:05.7546037+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:04.5517929+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:56:49.2753976+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:05.754646+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:56:59.4439526+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:04.5518346+00:00"
 }

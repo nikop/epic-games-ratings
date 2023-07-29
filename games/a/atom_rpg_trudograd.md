@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 88.00% | ~1,018 |
+| Fresh Prince of Trudograd | 88.00% | ~1,019 |
 | Household | 7.00% | ~81 |
 | An Old Friend | 6.00% | ~69 |
 | Lot 49 | 5.00% | ~58 |
@@ -20,7 +20,7 @@ Rating: 4.52 (Ranked 522)
 | Human Antidote | 2.00% | ~23 |
 | Albino Bloodsucker | 1.00% | ~12 |
 | Death of the Author | 1.00% | ~12 |
-| Memoirs of a Nibbler | 1.00% | ~12 |
+| Memoirs of a Nibbler | 0.90% | ~10 |
 | KGB Bunker | 0.80% | ~9 |
 | Rising Star | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
@@ -38,7 +38,7 @@ Rating: 4.52 (Ranked 522)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157 (Ranked 186)  
+Progressed: 1,158 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 1,151 | 0 |
 | 2023-07-27 | 1,152 | 0 |
 | 2023-07-28 | 1,155 | 0 |
-| 2023-07-29 | 1,157 | 0 |
+| 2023-07-29 | 1,158 | 0 |
 ## Awards
 Max (Character Customization): 23  (Ranked 485)  
 Sum: 23 (Ranked 488)  

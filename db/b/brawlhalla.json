@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 368,
-  "Ranking_Popularity": 256,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -4410,11 +4410,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 2226,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-07-29T19:00:18.8167321+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2231,
+      "NumberOfAwardsMax": 232
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2226,
-  "NumberOfAwardsMax": 228,
+  "NumberOfAwards": 2231,
+  "NumberOfAwardsMax": 232,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4469,7 +4475,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4487,7 +4493,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 228
+      "Count": 232
     }
   ],
   "EOS_Progressed": 0,
@@ -4502,8 +4508,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-07-29T16:00:38.1319484+00:00",
+  "LastChanged": "2023-07-29T19:00:18.816732+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:25.9154118+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:39.7727364+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:45.2337573+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:00:18.8167326+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:51.7989772+00:00"
 }

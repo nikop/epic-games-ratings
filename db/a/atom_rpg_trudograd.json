@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1002,6 +1002,11 @@
       "Time": "2023-07-29T17:04:12.5860499+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T19:03:51.2516198+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1155,9 +1160,9 @@
       "ID": "MEMOIRS_OF_A_NIBBLER",
       "SetID": "62d2oh4",
       "Name": "Memoirs of a Nibbler",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "MYST_KNIFE",
@@ -1261,14 +1266,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 0
     }
   ],
@@ -1276,8 +1281,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:44.7907483+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:51.2516192+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:02.0743708+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:57:35.6594377+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:44.7907775+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:57:52.7683837+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:51.2516486+00:00"
 }

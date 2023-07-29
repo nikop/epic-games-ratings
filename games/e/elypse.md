@@ -22,7 +22,7 @@
 | Rooftop | 28.00% | ~21 |
 | Homeless | 27.00% | ~20 |
 | Big badaboom! | 25.00% | ~19 |
-| Bookworm | 21.00% | ~16 |
+| Bookworm | 23.00% | ~17 |
 | Full power | 20.00% | ~15 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~15 |
 | Nokron tower | 20.00% | ~15 |

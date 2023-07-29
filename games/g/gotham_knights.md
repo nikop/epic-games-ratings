@@ -1,12 +1,12 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 862)  
+Rating: 4.18 (Ranked 863)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,048 |
-| Har, Har, Har, Very Funny | 5.00% | ~3,373 |
+| Har, Har, Har, Very Funny | 5.00% | ~3,374 |
 | To the Victor Go the Spoils | 4.00% | ~2,699 |
 | Knighthood | 4.00% | ~2,699 |
 | Loose Ends | 4.00% | ~2,699 |
@@ -52,13 +52,13 @@ Rating: 4.18 (Ranked 862)
 | Practice Makes Perfect | 0.30% | ~202 |
 | Talonted | 0.30% | ~202 |
 | The Man-Bat Family | 0.30% | ~202 |
-| Element of Surprise | 0.20% | ~75 |
-| It's Nice to Be Wanted | 0.20% | ~75 |
-| The Cold, the Bad and the Ugly | 0.20% | ~75 |
-| Icebreaker | 0.20% | ~75 |
+| Element of Surprise | 0.20% | ~76 |
+| It's Nice to Be Wanted | 0.20% | ~76 |
+| The Cold, the Bad and the Ugly | 0.20% | ~76 |
+| Icebreaker | 0.20% | ~76 |
 | Batarang Collector | 0.20% | ~135 |
 | Claiming the Mural High Ground | 0.20% | ~135 |
-| A Sophisticated Mallet | 0.20% | ~75 |
+| A Sophisticated Mallet | 0.20% | ~76 |
 | Gotham's Greatest Depths | 0.10% | ~38 |
 | Showdown Sovereign | 0.10% | ~38 |
 | That's Showbiz, Clayby | 0.10% | ~38 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 862)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,469 (Ranked 80)  
+Progressed: 67,471 (Ranked 80)  
 Completed: 104 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 104 (0.15%) (Ranked 181)
 | 2023-07-26 | 67,408 | 104 |
 | 2023-07-27 | 67,436 | 104 |
 | 2023-07-28 | 67,447 | 104 |
-| 2023-07-29 | 67,469 | 104 |
+| 2023-07-29 | 67,471 | 104 |
 ## Awards
 Max (Great Boss Battles): 2,467  (Ranked 101)  
 Sum: 4,099 (Ranked 139)  

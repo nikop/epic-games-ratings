@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 862)  
+Rating: 4.18 (Ranked 863)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 71  (23.09.2022)
 | Spicy | 6.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,311 (Ranked 182)  
-Completed: 64 (4.88%) (Ranked 44)  
+Completed: 65 (4.96%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 64 (4.88%) (Ranked 44)
 | 2023-07-26 | 1,297 | 63 |
 | 2023-07-27 | 1,299 | 63 |
 | 2023-07-28 | 1,304 | 64 |
-| 2023-07-29 | 1,311 | 64 |
+| 2023-07-29 | 1,311 | 65 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

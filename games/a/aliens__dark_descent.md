@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 655)
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,025 |
 | Call Me Snake | 61.00% | ~1,871 |
 | Something Lurks Under The Hills | 60.00% | ~1,841 |
-| This Was No Papercut | 58.00% | ~1,779 |
+| This Was No Papercut | 59.00% | ~1,810 |
 | People Person | 55.00% | ~1,687 |
 | The Shrink Hates Me | 55.00% | ~1,687 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,595 |

@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -424,9 +424,9 @@
       "ID": "MultiNinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Ambush",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "NinjaSlayer",
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:05:15.8398868+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:05:41.6975557+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:56.6362517+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:57:30.7660703+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:15.8399247+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:57:47.3641865+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:41.6975915+00:00"
 }

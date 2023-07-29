@@ -13,8 +13,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
+| Intrepid | 0.90% | ~118 |
 | Able | 0.80% | ~105 |
-| Intrepid | 0.80% | ~105 |
 | Architect | 0.70% | ~92 |
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
+| Christianity | 0.60% | ~79 |
 | Judaism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
 | Naming Landmarks | 0.60% | ~79 |
@@ -36,13 +37,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
 | Warrior | 0.50% | ~66 |
+| Wise | 0.50% | ~66 |
 | Developing Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Lighthouse | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
-| Christianity | 0.50% | ~66 |
 | Babylonian Paganism | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |
 | Roman Paganism | 0.50% | ~66 |
@@ -51,9 +52,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
-| Wise | 0.40% | ~53 |
 | Strong Cities | 0.40% | ~53 |
 | Artisans | 0.40% | ~53 |
+| Furious Family | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.30% | ~39 |
 | Sages | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
-| Furious Family | 0.30% | ~39 |
 | Acropolis | 0.30% | ~39 |
 | Apadana | 0.30% | ~39 |
 | Temple of Solomon | 0.30% | ~39 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,158 (Ranked 117)  
+Progressed: 13,162 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-26 | 13,109 | 5 |
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
-| 2023-07-29 | 13,158 | 5 |
+| 2023-07-29 | 13,162 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

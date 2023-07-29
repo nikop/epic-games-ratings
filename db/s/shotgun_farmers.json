@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1135,9 +1135,9 @@
       "ID": "ach_kill_from_volcano_top",
       "SetID": "cmg602e",
       "Name": "I Have The High Ground",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_kill_while_standing_on_cow",
@@ -1614,8 +1614,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:05:10.3111999+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:05:35.1568814+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:09.5553683+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:58:23.8816987+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:05:10.3112859+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:58:52.2637299+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:35.1569613+00:00"
 }

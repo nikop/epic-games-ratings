@@ -3,12 +3,12 @@
   "Name": "Knights of Honor II: Sovereign",
   "ProductSlug": "knights-of-honor-ii-sovereign",
   "Ranking_Rating": 724,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -126,6 +126,6 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "LastChanged": "2023-07-13T05:00:14.3171233+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:25.252794+00:00",
-  "LastUpdate_Ratings": "2023-07-29T18:00:18.133876+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:34.0653475+00:00"
+  "LastUpdate_Ratings": "2023-07-29T19:01:07.7746798+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:04:50.0357744+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.68 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~147 |
+| Tooth fairy | 25.00% | ~148 |
 | Dental maturity | 19.00% | ~112 |
-| Devil's in the details | 15.00% | ~88 |
+| Devil's in the details | 15.00% | ~89 |
 | Uprooting | 13.00% | ~77 |
 | Forbidden techniques | 13.00% | ~77 |
 | Devoted | 9.00% | ~53 |
@@ -15,30 +15,30 @@ Rating: 4.68 (Ranked 242)
 | Spirit animal | 8.00% | ~47 |
 | Gold rush | 7.00% | ~41 |
 | A friend in need... | 6.00% | ~35 |
-| Sneak peek | 5.00% | ~29 |
-| Fishing fanatic | 5.00% | ~29 |
-| The word around is... | 5.00% | ~29 |
-| Liar Liar | 5.00% | ~29 |
-| The cycle acknowledged | 5.00% | ~29 |
-| Baba Yaga | 5.00% | ~29 |
+| Sneak peek | 5.00% | ~30 |
+| Fishing fanatic | 5.00% | ~30 |
+| The word around is... | 5.00% | ~30 |
+| Liar Liar | 5.00% | ~30 |
+| The cycle acknowledged | 5.00% | ~30 |
+| Baba Yaga | 5.00% | ~30 |
 | Extensive retelling | 4.00% | ~24 |
 | Favorite | 4.00% | ~24 |
 | Queen | 4.00% | ~24 |
 | Goal! | 3.00% | ~18 |
+| Gnowlledgeable | 3.00% | ~18 |
 | Both sides | 3.00% | ~18 |
 | Specialist | 3.00% | ~18 |
 | Always worth a try | 3.00% | ~18 |
 | Toxic | 3.00% | ~18 |
 | Witch's cookbook | 3.00% | ~18 |
 | Bad apple | 2.00% | ~12 |
-| Gnowlledgeable | 2.00% | ~12 |
 | Awards unwarded | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
 | Loremaster | 1.00% | ~6 |
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 214)  
+Progressed: 591 (Ranked 214)  
 Completed: 1 (0.17%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.17%) (Ranked 176)
 | 2023-07-26 | 580 | 1 |
 | 2023-07-27 | 582 | 1 |
 | 2023-07-28 | 585 | 1 |
-| 2023-07-29 | 589 | 1 |
+| 2023-07-29 | 591 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

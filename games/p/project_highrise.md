@@ -35,8 +35,8 @@
 | Cashflow Chief | 16.00% | ~46 |
 | Under One Roof | 15.00% | ~43 |
 | Starred Dining | 15.00% | ~43 |
+| Smooth Operator | 14.00% | ~40 |
 | Terrifically Trashed | 14.00% | ~40 |
-| Smooth Operator | 13.00% | ~37 |
 | Boutique Benefits | 13.00% | ~37 |
 | Thrilled Tenants | 13.00% | ~37 |
 | 28 Days Later | 11.00% | ~32 |

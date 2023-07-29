@@ -3,12 +3,12 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 815,
-  "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -245,7 +245,7 @@
   "Tags": [],
   "EOS_Progressed": 1915,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2221,9 +2221,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1475
     },
     {
       "ID": "ACHV_40",
@@ -2382,8 +2382,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:03:19.9912876+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:03:21.3340242+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:56:57.0218712+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:03:19.9913468+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:57:08.8391462+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:03:21.3340857+00:00"
 }

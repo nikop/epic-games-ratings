@@ -2,10 +2,10 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-07-29T18:04:58.1503785+00:00",
       "NumProgressed": 385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-29T19:05:19.9092977+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -79,7 +84,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "10",
@@ -119,7 +124,7 @@
       "Name": "Doctor Approved",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 65
     },
     {
       "ID": "15",
@@ -167,7 +172,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "20",
@@ -255,7 +260,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "30",
@@ -318,14 +323,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-29T18:04:58.1503764+00:00",
+  "LastChanged_Achievements": "2023-07-29T19:05:19.9092971+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-07-29T17:59:13.0260625+00:00",
-  "LastUpdate_Achievements": "2023-07-29T18:04:58.1503997+00:00"
+  "LastUpdate_Ratings": "2023-07-29T18:59:47.3326009+00:00",
+  "LastUpdate_Achievements": "2023-07-29T19:05:19.9093261+00:00"
 }
