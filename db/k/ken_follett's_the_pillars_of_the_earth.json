@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14254,
+  "EOS_Progressed": 14255,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
@@ -7169,6 +7169,11 @@
       "Time": "2023-07-30T21:03:17.9650956+00:00",
       "NumProgressed": 14254,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-30T22:03:36.2807885+00:00",
+      "NumProgressed": 14255,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7220,7 +7225,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "tpote_achievement_15",
@@ -7268,7 +7273,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "tpote_achievement_20",
@@ -7364,7 +7369,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "tpote_achievement_31",
@@ -7444,7 +7449,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "tpote_achievement_40",
@@ -7507,15 +7512,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14254,
+      "Progressed": 14255,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-30T21:03:17.9650951+00:00",
+  "LastChanged_Achievements": "2023-07-30T22:03:36.2807878+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:00:41.4311272+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:03:17.9651719+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:01:31.3120934+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:03:36.2808493+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,144 |
-| Advancement | 73.00% | ~17,948 |
-| Meticulously Efficient | 64.00% | ~15,735 |
-| Discovery | 61.00% | ~14,997 |
-| Fully Upgraded | 54.00% | ~13,276 |
-| Swift Rift Removers | 54.00% | ~13,276 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,539 |
-| Cultured | 51.00% | ~12,539 |
-| Vaporous Expansion | 48.00% | ~11,801 |
-| Teamwork | 44.00% | ~10,818 |
-| There you are! | 42.00% | ~10,326 |
-| Clutch Capture | 41.00% | ~10,080 |
-| Back Off | 35.00% | ~8,605 |
-| Daily Dose | 34.00% | ~8,359 |
-| Solo Capture | 32.00% | ~7,868 |
-| Welcome to the Crew | 32.00% | ~7,868 |
-| Ghostbuster In Training | 30.00% | ~7,376 |
-| Icing on the Cake | 30.00% | ~7,376 |
-| Side Hustle | 27.00% | ~6,638 |
-| We have the best insurance | 26.00% | ~6,392 |
-| Legions | 26.00% | ~6,392 |
-| Right back at ya | 26.00% | ~6,392 |
-| Stunner | 26.00% | ~6,392 |
-| Summoner | 26.00% | ~6,392 |
-| Pesky Jerks | 25.00% | ~6,146 |
-| Animated | 24.00% | ~5,901 |
-| Skilled | 24.00% | ~5,901 |
-| Collector | 23.00% | ~5,655 |
-| Ectoplasmic Entity | 23.00% | ~5,655 |
-| Rift Destroyer | 19.00% | ~4,671 |
-| Terrifying | 18.00% | ~4,425 |
-| Tobin's Prodigy | 18.00% | ~4,425 |
+| Stylish | 86.00% | ~21,147 |
+| Advancement | 73.00% | ~17,951 |
+| Meticulously Efficient | 64.00% | ~15,738 |
+| Discovery | 61.00% | ~15,000 |
+| Fully Upgraded | 54.00% | ~13,279 |
+| Swift Rift Removers | 54.00% | ~13,279 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,541 |
+| Cultured | 51.00% | ~12,541 |
+| Vaporous Expansion | 48.00% | ~11,803 |
+| Teamwork | 44.00% | ~10,820 |
+| There you are! | 42.00% | ~10,328 |
+| Clutch Capture | 41.00% | ~10,082 |
+| Back Off | 35.00% | ~8,606 |
+| Daily Dose | 34.00% | ~8,361 |
+| Solo Capture | 32.00% | ~7,869 |
+| Welcome to the Crew | 32.00% | ~7,869 |
+| Ghostbuster In Training | 30.00% | ~7,377 |
+| Icing on the Cake | 30.00% | ~7,377 |
+| Side Hustle | 27.00% | ~6,639 |
+| We have the best insurance | 26.00% | ~6,393 |
+| Legions | 26.00% | ~6,393 |
+| Right back at ya | 26.00% | ~6,393 |
+| Stunner | 26.00% | ~6,393 |
+| Summoner | 26.00% | ~6,393 |
+| Pesky Jerks | 25.00% | ~6,148 |
+| Animated | 24.00% | ~5,902 |
+| Skilled | 24.00% | ~5,902 |
+| Collector | 23.00% | ~5,656 |
+| Ectoplasmic Entity | 23.00% | ~5,656 |
+| Rift Destroyer | 19.00% | ~4,672 |
+| Terrifying | 18.00% | ~4,426 |
+| Tobin's Prodigy | 18.00% | ~4,426 |
 | Reckless | 17.00% | ~4,180 |
 | Diabolical | 16.00% | ~3,934 |
 | Escape Artist | 16.00% | ~3,934 |
 | Seasoned | 16.00% | ~3,934 |
-| Whoopsie | 12.00% | ~2,950 |
+| Whoopsie | 12.00% | ~2,951 |
 | Liability | 10.00% | ~2,459 |
 | Rivalry | 10.00% | ~2,459 |
 | Fragile Panes | 9.00% | ~2,213 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,586 (Ranked 101)  
+Progressed: 24,590 (Ranked 101)  
 Completed: 48 (0.20%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 48 (0.20%) (Ranked 172)
 | 2023-07-27 | 24,498 | 48 |
 | 2023-07-28 | 24,518 | 48 |
 | 2023-07-29 | 24,556 | 48 |
-| 2023-07-30 | 24,586 | 48 |
+| 2023-07-30 | 24,590 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
 Sum: 2,191 (Ranked 190)  

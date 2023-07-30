@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1630,
+  "EOS_NewPlayers": 1685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -197,6 +197,11 @@
       "Time": "2023-07-30T21:05:33.7056913+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T22:06:16.7394572+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -209,7 +214,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10",
@@ -249,7 +254,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 270
     },
     {
       "ID": "15",
@@ -297,7 +302,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "20",
@@ -385,7 +390,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "30",
@@ -448,14 +453,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-30T21:05:33.7056909+00:00",
+  "LastChanged_Achievements": "2023-07-30T22:06:16.7394564+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:59:47.4612938+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:05:33.705712+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:00:32.3894358+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:06:16.7394752+00:00"
 }

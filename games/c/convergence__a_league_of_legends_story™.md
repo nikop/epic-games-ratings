@@ -5,13 +5,12 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 23.00% | ~185 |
+| Time Heals All Wounds | 23.00% | ~186 |
 | Rail Rat | 20.00% | ~161 |
 | The Mysterious Stranger | 19.00% | ~153 |
 | Make Up For Lost Time | 17.00% | ~137 |
 | The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
-| The Brass Boss | 17.00% | ~137 |
 | The Steel Shadow | 16.00% | ~129 |
 | Time Flies | 16.00% | ~129 |
 | The Harder They Fall | 16.00% | ~129 |
@@ -20,6 +19,7 @@ Rating: 4.60 (Ranked 390)
 | The Wicked Twins | 16.00% | ~129 |
 | Honest Mistake | 16.00% | ~129 |
 | Immaculate Aim | 16.00% | ~129 |
+| The Brass Boss | 16.00% | ~129 |
 | The Betrayer | 15.00% | ~121 |
 | The Man Who Shattered Time | 15.00% | ~121 |
 | The Loose Cannon | 15.00% | ~121 |
@@ -39,9 +39,9 @@ Rating: 4.60 (Ranked 390)
 | Sump Explorer | 9.00% | ~73 |
 | Theater Explorer | 9.00% | ~73 |
 | Ask Questions Later | 9.00% | ~73 |
-| Factorywood Explorer | 8.00% | ~64 |
-| Fairgrounds Explorer | 8.00% | ~64 |
-| Syron for Hope | 8.00% | ~64 |
+| Factorywood Explorer | 8.00% | ~65 |
+| Fairgrounds Explorer | 8.00% | ~65 |
+| Syron for Hope | 8.00% | ~65 |
 | Corin Goes Home | 7.00% | ~56 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806 (Ranked 201)  
+Progressed: 807 (Ranked 201)  
 Completed: 4 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
-| 2023-07-30 | 806 | 4 |
+| 2023-07-30 | 807 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

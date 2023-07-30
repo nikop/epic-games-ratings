@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 409,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
@@ -644,7 +644,7 @@
   ],
   "EOS_Progressed": 3080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3267,9 +3267,9 @@
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -3289,8 +3289,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-07-30T21:04:25.4257172+00:00",
+  "LastChanged_Achievements": "2023-07-30T22:05:01.4088641+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:59:22.6304877+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:04:25.4257992+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:59:58.0038678+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:05:01.4089274+00:00"
 }

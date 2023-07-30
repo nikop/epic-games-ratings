@@ -5,19 +5,19 @@ Rating: 4.26 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,540 |
-| Copacetic Coordination | 16.00% | ~53,405 |
-| Fronting the Money | 14.00% | ~46,729 |
-| The Dawn of Automation | 14.00% | ~46,729 |
-| Extraordinary Logistics | 14.00% | ~46,729 |
+| Corner Clout | 46.00% | ~153,542 |
+| Copacetic Coordination | 16.00% | ~53,406 |
+| Fronting the Money | 14.00% | ~46,730 |
+| The Dawn of Automation | 14.00% | ~46,730 |
+| Extraordinary Logistics | 14.00% | ~46,730 |
 | Dirty Money | 13.00% | ~43,392 |
 | Family First | 13.00% | ~43,392 |
 | Cleaning House | 12.00% | ~40,054 |
 | Room in the Back | 12.00% | ~40,054 |
-| Booze Baron | 11.00% | ~36,716 |
-| Beating the Heat | 10.00% | ~33,378 |
-| Friends on the Force | 10.00% | ~33,378 |
-| Neighborhood Watch | 10.00% | ~33,378 |
+| Booze Baron | 11.00% | ~36,717 |
+| Beating the Heat | 10.00% | ~33,379 |
+| Friends on the Force | 10.00% | ~33,379 |
+| Neighborhood Watch | 10.00% | ~33,379 |
 | Core Corps | 8.00% | ~26,703 |
 | Sizeable Stash | 8.00% | ~26,703 |
 | Street Fighter | 7.00% | ~23,365 |
@@ -41,13 +41,13 @@ Rating: 4.26 (Ranked 810)
 | An Affront to the Enemy | 4.00% | ~13,351 |
 | Friends from Back Home | 4.00% | ~13,351 |
 | Half Century Mark | 4.00% | ~13,351 |
-| Corner Opportunities | 3.00% | ~10,013 |
-| 2122 North Clark Street | 3.00% | ~10,013 |
-| Copious Cabbage | 3.00% | ~10,013 |
-| Sockdolager | 3.00% | ~10,013 |
-| Still Stalwart | 3.00% | ~10,013 |
-| Bees Knees Bootlegger | 3.00% | ~10,013 |
-| Tighten the Screws | 3.00% | ~10,013 |
+| Corner Opportunities | 3.00% | ~10,014 |
+| 2122 North Clark Street | 3.00% | ~10,014 |
+| Copious Cabbage | 3.00% | ~10,014 |
+| Sockdolager | 3.00% | ~10,014 |
+| Still Stalwart | 3.00% | ~10,014 |
+| Bees Knees Bootlegger | 3.00% | ~10,014 |
+| Tighten the Screws | 3.00% | ~10,014 |
 | One of Us | 2.00% | ~6,676 |
 | Baker’s Dozen | 2.00% | ~6,676 |
 | Dropping the Dime | 2.00% | ~6,676 |
@@ -62,8 +62,8 @@ Rating: 4.26 (Ranked 810)
 | Determined Deliveries | 0.90% | ~3,004 |
 | Stepping It Up | 0.90% | ~3,004 |
 | Crossing Over | 0.80% | ~2,670 |
-| Boots in the Ground | 0.70% | ~2,336 |
-| Getting Fancy | 0.70% | ~2,336 |
+| Boots in the Ground | 0.70% | ~2,337 |
+| Getting Fancy | 0.70% | ~2,337 |
 | Homemade Hooch | 0.40% | ~1,335 |
 | Still Dreaming | 0.40% | ~1,335 |
 | High End Booze | 0.40% | ~1,335 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 810)
 | High Pillow | 0.10% | ~334 |
 | Station Master | 0.10% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,782 (Ranked 41)  
+Progressed: 333,787 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 5 (0.00%) (Ranked 246)
 | 2023-07-27 | 332,959 | 5 |
 | 2023-07-28 | 333,213 | 5 |
 | 2023-07-29 | 333,503 | 5 |
-| 2023-07-30 | 333,782 | 5 |
+| 2023-07-30 | 333,787 | 5 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 464)  
 Sum: 124 (Ranked 401)  

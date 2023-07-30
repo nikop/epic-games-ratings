@@ -33,6 +33,7 @@ Rating: 4.48 (Ranked 588)
 | Better luck next time | 4.00% | ~44 |
 | Dev, this! | 4.00% | ~44 |
 | Try them all | 3.00% | ~33 |
+| A-mazing! | 3.00% | ~33 |
 | To infinity and gravity! | 3.00% | ~33 |
 | One giant drive for mankind | 3.00% | ~33 |
 | Had to sweat a bit | 3.00% | ~33 |
@@ -40,7 +41,6 @@ Rating: 4.48 (Ranked 588)
 | It's like a party! | 3.00% | ~33 |
 | He who laughs last... | 3.00% | ~33 |
 | Healthy competition | 3.00% | ~33 |
-| A-mazing! | 2.00% | ~22 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |
 | Redout Champion | 2.00% | ~22 |

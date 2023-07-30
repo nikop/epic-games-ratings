@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5694,9 +5694,9 @@
       "Count": 569
     }
   ],
-  "EOS_Progressed": 288986,
+  "EOS_Progressed": 288988,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16604,6 +16604,11 @@
       "Time": "2023-07-30T21:05:05.2065323+00:00",
       "NumProgressed": 288986,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-30T22:05:44.8848032+00:00",
+      "NumProgressed": 288988,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16615,7 +16620,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34678
+      "UsersEstimate": 34679
     },
     {
       "ID": "PFA_10",
@@ -16703,7 +16708,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "PFA_20",
@@ -16879,7 +16884,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "PFA_40",
@@ -16895,7 +16900,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "PFA_42",
@@ -16943,7 +16948,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31788
+      "UsersEstimate": 31789
     },
     {
       "ID": "PFA_7",
@@ -16951,7 +16956,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31788
+      "UsersEstimate": 31789
     },
     {
       "ID": "PFA_8",
@@ -16974,7 +16979,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288986,
+      "Progressed": 288988,
       "Completed": 437
     }
   ],
@@ -16982,8 +16987,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-30T19:57:46.0623089+00:00",
-  "LastChanged_Achievements": "2023-07-30T21:05:05.2065318+00:00",
+  "LastChanged_Achievements": "2023-07-30T22:05:44.8848024+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:57:59.260366+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:05:05.2066333+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:58:20.6538102+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:05:44.8848823+00:00"
 }

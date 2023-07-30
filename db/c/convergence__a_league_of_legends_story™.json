@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 806,
+  "EOS_Progressed": 807,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1865,6 +1865,11 @@
       "Time": "2023-07-30T20:04:18.5362508+00:00",
       "NumProgressed": 806,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T22:04:52.7012114+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1980,7 +1985,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FairgroundsChests1",
@@ -1988,7 +1993,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2164,7 +2169,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "RewindParry",
@@ -2228,7 +2233,7 @@
       "Name": "Syron for Hope",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2282,9 +2287,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 129
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2299,7 +2304,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 806,
+      "Progressed": 807,
       "Completed": 4
     }
   ],
@@ -2307,8 +2312,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-30T21:04:17.3670379+00:00",
+  "LastChanged_Achievements": "2023-07-30T22:04:52.7012107+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:59:58.2787109+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:04:17.3670893+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:00:44.6670732+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:04:52.7012571+00:00"
 }

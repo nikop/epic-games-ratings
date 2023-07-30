@@ -4,7 +4,7 @@
   "ProductSlug": "seven-enhanced-edition-9ba7c7",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-26T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.1750575+00:00",
   "LastChanged": "2023-03-31T05:58:13.1750576+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.4290491+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:59:12.5576247+00:00",
-  "LastUpdate_Achievements": "2023-07-30T21:06:27.54882+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:59:48.2087373+00:00",
+  "LastUpdate_Achievements": "2023-07-30T22:07:16.7179719+00:00"
 }

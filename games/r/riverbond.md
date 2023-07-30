@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,596 |
-| Now You're Talking | 62.00% | ~324,700 |
-| Steel Yourself | 62.00% | ~324,700 |
-| Window Dressing | 50.00% | ~261,854 |
-| Trigger Happy | 46.00% | ~240,906 |
-| Riverborn | 45.00% | ~235,669 |
-| Starry Eyed | 34.00% | ~178,061 |
-| Poking Around | 34.00% | ~178,061 |
-| Talk of the Town | 24.00% | ~125,690 |
-| AAARR! | 23.00% | ~120,453 |
-| Hello Darkness | 23.00% | ~120,453 |
-| Wind At Our Backs | 22.00% | ~115,216 |
-| To the Beat | 20.00% | ~104,742 |
-| Sunny Shores | 17.00% | ~89,031 |
-| Sunday Best | 16.00% | ~83,793 |
-| To Victory! | 15.00% | ~78,556 |
-| Two of a Kind | 14.00% | ~73,319 |
-| Keep On Trucking | 13.00% | ~68,082 |
-| Going on an Adventure | 11.00% | ~57,608 |
-| Make Peace, Not War | 11.00% | ~57,608 |
-| Walking The Line | 10.00% | ~52,371 |
-| Not So Cute Anymore | 10.00% | ~52,371 |
-| Road Less Travelled | 9.00% | ~47,134 |
-| Lost and Found | 9.00% | ~47,134 |
+| First Step | 70.00% | ~366,603 |
+| Now You're Talking | 62.00% | ~324,706 |
+| Steel Yourself | 62.00% | ~324,706 |
+| Window Dressing | 50.00% | ~261,860 |
+| Trigger Happy | 46.00% | ~240,911 |
+| Riverborn | 45.00% | ~235,674 |
+| Starry Eyed | 34.00% | ~178,064 |
+| Poking Around | 34.00% | ~178,064 |
+| Talk of the Town | 24.00% | ~125,693 |
+| AAARR! | 23.00% | ~120,455 |
+| Hello Darkness | 23.00% | ~120,455 |
+| Wind At Our Backs | 22.00% | ~115,218 |
+| To the Beat | 20.00% | ~104,744 |
+| Sunny Shores | 17.00% | ~89,032 |
+| Sunday Best | 16.00% | ~83,795 |
+| To Victory! | 15.00% | ~78,558 |
+| Two of a Kind | 14.00% | ~73,321 |
+| Keep On Trucking | 13.00% | ~68,083 |
+| Going on an Adventure | 11.00% | ~57,609 |
+| Make Peace, Not War | 11.00% | ~57,609 |
+| Walking The Line | 10.00% | ~52,372 |
+| Not So Cute Anymore | 10.00% | ~52,372 |
+| Road Less Travelled | 9.00% | ~47,135 |
+| Lost and Found | 9.00% | ~47,135 |
 | Partner in Crime | 7.00% | ~36,660 |
 | Hard to Hear | 7.00% | ~36,660 |
 | Under the Radar | 7.00% | ~36,660 |
@@ -38,22 +38,22 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,423 |
 | Dressed to Kill | 6.00% | ~31,423 |
 | Beast Mode | 6.00% | ~31,423 |
-| Oh, Romeo! | 5.00% | ~26,185 |
-| Noble Intentions | 5.00% | ~26,185 |
-| Rising Star | 5.00% | ~26,185 |
-| Slime Slayer | 5.00% | ~26,185 |
-| Privacy, Please! | 4.00% | ~20,948 |
-| Silky Smooth | 4.00% | ~20,948 |
-| Hash It Over | 4.00% | ~20,948 |
-| Biting Tongue | 4.00% | ~20,948 |
-| What a Catch! | 4.00% | ~20,948 |
-| Hit the Spot | 4.00% | ~20,948 |
-| Talk the Talk | 3.00% | ~15,711 |
-| Skin in the Game | 3.00% | ~15,711 |
-| Caving In | 3.00% | ~15,711 |
-| Page Turner | 3.00% | ~15,711 |
-| Spinal Adjustment | 3.00% | ~15,711 |
-| The Knowledge | 3.00% | ~15,711 |
+| Oh, Romeo! | 5.00% | ~26,186 |
+| Noble Intentions | 5.00% | ~26,186 |
+| Rising Star | 5.00% | ~26,186 |
+| Slime Slayer | 5.00% | ~26,186 |
+| Privacy, Please! | 4.00% | ~20,949 |
+| Silky Smooth | 4.00% | ~20,949 |
+| Hash It Over | 4.00% | ~20,949 |
+| Biting Tongue | 4.00% | ~20,949 |
+| What a Catch! | 4.00% | ~20,949 |
+| Hit the Spot | 4.00% | ~20,949 |
+| Talk the Talk | 3.00% | ~15,712 |
+| Skin in the Game | 3.00% | ~15,712 |
+| Caving In | 3.00% | ~15,712 |
+| Page Turner | 3.00% | ~15,712 |
+| Spinal Adjustment | 3.00% | ~15,712 |
+| The Knowledge | 3.00% | ~15,712 |
 | Seek the Rainbow | 2.00% | ~10,474 |
 | Words of Truth | 2.00% | ~10,474 |
 | Star Power | 2.00% | ~10,474 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,709 (Ranked 30)  
+Progressed: 523,719 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 453 (0.09%) (Ranked 196)
 | 2023-07-27 | 523,386 | 452 |
 | 2023-07-28 | 523,476 | 452 |
 | 2023-07-29 | 523,594 | 452 |
-| 2023-07-30 | 523,709 | 453 |
+| 2023-07-30 | 523,719 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

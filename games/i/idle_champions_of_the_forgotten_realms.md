@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.60% | ~1,101 |
 | Return to the Tomb | 0.60% | ~1,101 |
 | Heatwave | 0.60% | ~1,101 |
+| Terror in the Dark | 0.60% | ~1,303 |
 | Unearthed Evil | 0.60% | ~1,303 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,101 |
 | The Witchlight Carnival | 0.50% | ~917 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~1,086 |
 | A Persistent Buzzing | 0.50% | ~1,086 |
 | Beast Mode | 0.50% | ~1,086 |
-| Terror in the Dark | 0.50% | ~1,086 |
 | A Mysterious Summons | 0.50% | ~1,086 |
 | Building Trust | 0.50% | ~1,086 |
 | No Time To Rest | 0.50% | ~1,086 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~917 |
 | Thieves of the Coven | 0.40% | ~734 |
 | On the Hunt | 0.40% | ~869 |
+| A Demi-god's Defender | 0.40% | ~734 |
 | Friends of the Forest | 0.40% | ~869 |
 | Low Initiative | 0.40% | ~869 |
 | Street War | 0.40% | ~869 |
@@ -65,11 +66,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.30% | ~550 |
 | The Prince of a Thousand Enemies | 0.30% | ~550 |
 | Downfall | 0.30% | ~550 |
-| Slack-jawed Lorna | 0.30% | ~550 |
 | Speeds of Destruction | 0.30% | ~550 |
 | Owlbear Necessities | 0.30% | ~550 |
 | Best Thay Ever | 0.30% | ~550 |
-| A Demi-god's Defender | 0.30% | ~550 |
 | Well Equipped | 0.30% | ~550 |
 | The Castle of a Thousand Vecnas | 0.30% | ~550 |
 | Who Lurks Below? | 0.30% | ~550 |
@@ -122,6 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.20% | ~367 |
 | The Fall of Ythryn | 0.20% | ~367 |
 | A Lesson in Classes | 0.20% | ~367 |
+| Slack-jawed Lorna | 0.20% | ~367 |
 | The Fairy Rings of Thither | 0.20% | ~367 |
 | Bully for You! | 0.20% | ~367 |
 | Will of the Feywild | 0.20% | ~367 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,199 (Ranked 53)  
+Progressed: 217,213 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,199 | 2,137 |
+| 2023-07-30 | 217,213 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  
