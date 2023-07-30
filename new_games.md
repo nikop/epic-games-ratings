@@ -2,28 +2,28 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Secret Agent 001](games/3/3376364c2a914c1fbde839f5cf8824f6.md) | 2023-07-29 | - |  | - | - |
 | [Mega City Police](games/m/mega_city_police.md) | 2023-07-28 | 26 (1,000 XP) | 18 | - | - |
-| [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 39 | - | - |
+| [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 40 | - | - |
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-07-28 | 20 (1,000 XP) | 24 | - | 0 |
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-27 | 39 (1,000 XP) | 10 | - | 0 |
 | [Deadlink](games/9/9a7a940d35ba4f8c912064ca4a9660d9.md) | 2023-07-27 | - |  | - | 0 |
 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 2023-07-27 | 14 (1,000 XP) | 62 | - | 0 |
-| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 107,339 | 4.47 | 0 |
+| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 108,615 | 4.47 | 0 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 12 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 32 (1,000 XP) | 1 | - | - |
 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 2023-07-27 | 18 (1,000 XP) | 3 | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2023-07-27 | 43 (1,000 XP) | 2 | - | - |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2023-07-27 | - |  | - | - |
-| [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 30 (1,000 XP) | 1,241 | - | 0 |
+| [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 30 (1,000 XP) | 1,267 | - | 0 |
 | [Organs Please](games/1/1c2d56b2a9ab46c09f8e6fc6cf939852.md) | 2023-07-26 | - |  | - | - |
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
-| [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | 4.30 | 0 |
+| [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | 4.36 | 0 |
 | [Monster Boy and the Cursed Kingdom](games/2/2573986ce0c3433facd6b5a3fec5d950.md) | 2023-07-26 | - |  | - | - |
 | [Police Car SUV Simulator](games/0/028bcd49e55345a5bb0057115154dd6d.md) | 2023-07-25 | - |  | - | 0 |
 | [School Bus Driving Simulator](games/1/1b0c062b3eec43328a5ec66a123bca68.md) | 2023-07-25 | - |  | - | - |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-07-25 | - |  | - | 0 |
-| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 85,807 | 4.76 | 72 |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 86,304 | 4.77 | 72 |
 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 2023-07-25 | - |  | - | 0 |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | 0 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | - |  | - | - |
@@ -38,7 +38,7 @@
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [Kula](games/1/1a1f669b43f94c33b91f9db5ff063ba1.md) | 2023-07-20 | - |  | - | - |
-| [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 181 | - | 0 |
+| [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 184 | - | 0 |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 11 | - | - |
 | [Elemental War 2](games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 2023-07-20 | 42 (1,000 XP) | 8 | - | - |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2023-07-20 | 41 (1,000 XP) | 17 | - | 0 |
@@ -102,6 +102,3 @@
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | 0 |
 | [A Long Journey to an Uncertain End](games/b/be9da78f6f3449c8a2cdbb100853fc30.md) | 2023-06-30 | - |  | - | - |
 | [Sleengster](games/1/1573f526f4ae4d3b89c6aa09e0020c1b.md) | 2023-06-30 | - |  | - | - |
-| [Samorost 1](games/9/966b40d2d476458294d4fa6709a10533.md) | 2023-06-30 | - |  | - | 0 |
-| [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 2023-06-30 | 13 (1,000 XP) | 31 | - | 0 |
-| [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2023-06-30 | 30 (1,000 XP) | 13 | - | 0 |

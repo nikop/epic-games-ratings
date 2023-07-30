@@ -23,9 +23,9 @@
 | 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.84% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.26% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 24 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.00% |
+| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.93% |
 | 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
@@ -54,14 +54,14 @@
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.96% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
-| 55 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.87% |
-| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
+| 55 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.80% |
 | 57 | [ZZT!](games/z/zzt!.md) | 3.62% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.55% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
-| 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.37% |
+| 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.37% |
+| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
