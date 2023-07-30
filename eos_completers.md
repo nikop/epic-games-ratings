@@ -11,19 +11,19 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.31% |
-| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 14.81% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.27% |
+| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14.52% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.90% |
+| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 14.29% |
+| 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 20 | [Remains](games/r/remains.md) | 10.87% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.86% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.81% |
-| 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.84% |
+| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.26% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
@@ -33,14 +33,14 @@
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
-| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
+| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.06% |
 | 35 | [Scorn](games/s/scorn.md) | 7.03% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.64% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.02% |
+| 41 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -57,7 +57,7 @@
 | 55 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.87% |
 | 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
 | 57 | [ZZT!](games/z/zzt!.md) | 3.62% |
-| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.57% |
+| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.55% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
@@ -117,8 +117,8 @@
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
-| 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
-| 118 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 120 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 121 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 121 | [Haven](games/h/haven.md) | 0.66% |
