@@ -14,13 +14,13 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 65.00% | ~3,201 |
 | Putting Food on the Table | 60.00% | ~2,954 |
 | Home Cooked Meal | 56.00% | ~2,757 |
-| Onward | 55.00% | ~2,708 |
+| Onward | 56.00% | ~2,757 |
 | The First Week | 53.00% | ~2,610 |
 | Studious Researcher | 51.00% | ~2,511 |
 | Beam Me Up | 50.00% | ~2,462 |
 | Feast or Famine | 50.00% | ~2,462 |
 | Adept Researcher | 44.00% | ~2,167 |
-| Retribution | 40.00% | ~1,970 |
+| Retribution | 41.00% | ~2,019 |
 | ...And Don’t Come Back! | 40.00% | ~1,970 |
 | Fit For A King | 39.00% | ~1,920 |
 | Luminary Researcher | 33.00% | ~1,625 |

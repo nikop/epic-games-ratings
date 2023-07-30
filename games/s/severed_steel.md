@@ -5,30 +5,30 @@ Rating: 4.69 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 22.00% | ~116,721 |
-| 50 HEADSHOTS | 20.00% | ~106,110 |
-| SCIENCE AND INDUSTRY | 19.00% | ~100,805 |
-| FINISHED CHAPTER 1 | 18.00% | ~95,499 |
-| FINISHED CHAPTER 2 | 12.00% | ~63,666 |
-| 200 HEADSHOTS | 11.00% | ~58,361 |
-| FINISHED CHAPTER 3 | 10.00% | ~53,055 |
-| FINISHED CHAPTER 4 | 8.00% | ~42,444 |
-| FINISH CHAPTER 5 | 7.00% | ~37,139 |
-| FINISH CHAPTER 6 | 6.00% | ~31,833 |
-| CATHARTIC ESCAPISM | 6.00% | ~31,833 |
-| 1000 KILLS | 5.00% | ~26,528 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~10,611 |
-| FIRST BLOOD | 1.00% | ~5,306 |
-| FIREFIGHT LEVEL 20 | 0.90% | ~4,775 |
-| PACEMAKER | 0.70% | ~3,714 |
-| TIME PARADOX | 0.60% | ~3,183 |
-| FIREFIGHT LEVEL 30 | 0.50% | ~2,653 |
-| OUT OF ORDER | 0.50% | ~2,653 |
-| PARTYHARD | 0.40% | ~2,122 |
-| FIREFIGHT LEVEL 40 | 0.30% | ~1,592 |
-| NEW GAME PLUS | 0.30% | ~1,592 |
-| CHURCH | 0.20% | ~1,061 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~1,061 |
+| 100 KILLS | 22.00% | ~116,894 |
+| 50 HEADSHOTS | 20.00% | ~106,268 |
+| SCIENCE AND INDUSTRY | 19.00% | ~100,954 |
+| FINISHED CHAPTER 1 | 18.00% | ~95,641 |
+| FINISHED CHAPTER 2 | 13.00% | ~69,074 |
+| 200 HEADSHOTS | 11.00% | ~58,447 |
+| FINISHED CHAPTER 3 | 10.00% | ~53,134 |
+| FINISHED CHAPTER 4 | 9.00% | ~47,820 |
+| FINISH CHAPTER 5 | 7.00% | ~37,194 |
+| FINISH CHAPTER 6 | 6.00% | ~31,880 |
+| CATHARTIC ESCAPISM | 6.00% | ~31,880 |
+| 1000 KILLS | 5.00% | ~26,567 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~10,627 |
+| FIRST BLOOD | 1.00% | ~5,313 |
+| FIREFIGHT LEVEL 20 | 0.90% | ~4,782 |
+| PACEMAKER | 0.70% | ~3,719 |
+| TIME PARADOX | 0.60% | ~3,188 |
+| FIREFIGHT LEVEL 30 | 0.50% | ~2,657 |
+| OUT OF ORDER | 0.50% | ~2,657 |
+| PARTYHARD | 0.40% | ~2,125 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,594 |
+| NEW GAME PLUS | 0.30% | ~1,594 |
+| CHURCH | 0.20% | ~1,063 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~1,063 |
 | HEY THATS CHEATING | 0.10% | ~531 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~531 |
 | BUT WHY? | 0.10% | ~531 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 214)
 | THE GAMBLER | 0.10% | ~531 |
 | WARRIOR IN A GARDEN | 0.10% | ~531 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,551 (Ranked 28)  
+Progressed: 531,338 (Ranked 28)  
 Completed: 40 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 40 (0.01%) (Ranked 234)
 | 2023-07-27 | 450,875 | 40 |
 | 2023-07-28 | 493,470 | 40 |
 | 2023-07-29 | 524,786 | 40 |
-| 2023-07-30 | 530,551 | 40 |
+| 2023-07-30 | 531,338 | 40 |
 ## Awards
 Max (Great Boss Battles): 192  (Ranked 272)  
 Sum: 192 (Ranked 369)  

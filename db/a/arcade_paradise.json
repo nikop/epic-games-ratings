@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -528,6 +528,11 @@
       "Time": "2023-07-30T04:04:31.8031081+00:00",
       "NumProgressed": 665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T07:04:55.6398626+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -563,7 +568,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -587,7 +592,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "AhoyTrophy",
@@ -611,7 +616,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -683,7 +688,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "Ext4Trophy",
@@ -819,7 +824,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MaxPriceTrophy",
@@ -859,7 +864,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RacerTrophy",
@@ -889,9 +894,9 @@
       "ID": "SolitaireTrophy",
       "SetID": "32aeje8",
       "Name": "Slacker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "SpinTrophy",
@@ -907,7 +912,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "TerrorTrophy",
@@ -970,7 +975,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 0
     }
   ],
@@ -978,8 +983,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:03:49.2458329+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:04:55.639862+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.8292107+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:58:39.5821451+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:03:49.2459305+00:00"
+  "LastUpdate_Ratings": "2023-07-30T06:59:34.1398833+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:04:55.6399265+00:00"
 }

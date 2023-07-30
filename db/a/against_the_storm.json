@@ -2564,7 +2564,7 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 16079,
+  "EOS_Progressed": 16080,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -8144,6 +8144,11 @@
       "Time": "2023-07-30T06:04:02.4519376+00:00",
       "NumProgressed": 16079,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-30T07:05:13.6196837+00:00",
+      "NumProgressed": 16080,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -8297,9 +8302,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 482
     },
     {
       "ID": "WinNearDangerous",
@@ -8554,15 +8559,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16079,
+      "Progressed": 16080,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-29T22:01:23.1253671+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:04:02.4519372+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:05:13.6196828+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:58.4052315+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:00:17.339711+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:04:02.4520134+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:01:52.0828372+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:05:13.6197916+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -320,9 +320,9 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Poklop",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:04:32.7516495+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:05:55.7725661+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.1674151+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:57:25.2835861+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:04:32.7516648+00:00"
+  "LastUpdate_Ratings": "2023-07-30T06:57:46.5753045+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:05:55.7725789+00:00"
 }

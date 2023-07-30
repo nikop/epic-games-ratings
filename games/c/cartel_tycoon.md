@@ -22,7 +22,7 @@ Number of Ratings: 101  (23.09.2022)
 | Spreading Fear | 10.00% | ~47 |
 | Follow the Money | 7.00% | ~33 |
 | I'm Going To Call You Kitty | 7.00% | ~33 |
-| Operation Odessa | 0.80% | ~4 |
+| Operation Odessa | 1.00% | ~5 |
 | Iron Lady | 0.60% | ~3 |
 | Sense Of Style | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)

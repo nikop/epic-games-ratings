@@ -628,9 +628,9 @@
       "Count": 233
     }
   ],
-  "EOS_Progressed": 11567,
+  "EOS_Progressed": 11569,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7813,6 +7813,11 @@
       "Time": "2023-07-30T06:06:23.6898592+00:00",
       "NumProgressed": 11567,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-30T07:08:29.1110468+00:00",
+      "NumProgressed": 11569,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7824,7 +7829,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9369
+      "UsersEstimate": 9371
     },
     {
       "ID": "ACH02",
@@ -7870,9 +7875,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACH08",
@@ -7992,7 +7997,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH23",
@@ -8040,7 +8045,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH29",
@@ -8103,7 +8108,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11567,
+      "Progressed": 11569,
       "Completed": 31
     }
   ],
@@ -8111,8 +8116,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-30T04:01:49.145495+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:06:23.6898586+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:08:29.1110461+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:00:26.0268836+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:06:23.6899856+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:02:05.3555777+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:08:29.1111398+00:00"
 }

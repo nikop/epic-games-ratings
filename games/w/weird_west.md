@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,545 |
-| Self-Improvement | 72.00% | ~1,264 |
-| Perky | 65.00% | ~1,141 |
+| Unforgiven | 88.00% | ~1,546 |
+| Self-Improvement | 72.00% | ~1,265 |
+| Perky | 65.00% | ~1,142 |
 | Let’s Ride | 60.00% | ~1,054 |
 | Welcome to the Weird West | 57.00% | ~1,001 |
 | Dead or Alive | 55.00% | ~966 |
-| Full House | 36.00% | ~632 |
+| Full House | 36.00% | ~633 |
 | Off the Trail | 34.00% | ~597 |
-| Justice Served | 29.00% | ~509 |
+| Justice Served | 29.00% | ~510 |
 | Chain Reaction | 27.00% | ~474 |
 | Through Their Eyes | 26.00% | ~457 |
 | Dishonored | 25.00% | ~439 |
@@ -37,10 +37,10 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~176 |
 | Loyalty to the Pack | 9.00% | ~158 |
 | Mystery Machine | 9.00% | ~158 |
-| Do Not Pass Go… | 8.00% | ~140 |
-| Gold Digger | 8.00% | ~140 |
-| Eternity Can Wait | 8.00% | ~140 |
-| Knuckle Sandwich | 8.00% | ~140 |
+| Do Not Pass Go… | 8.00% | ~141 |
+| Gold Digger | 8.00% | ~141 |
+| Eternity Can Wait | 8.00% | ~141 |
+| Knuckle Sandwich | 8.00% | ~141 |
 | Getting the Gang Back Together | 7.00% | ~123 |
 | Monster Hunter | 7.00% | ~123 |
 | Healing Old Wounds | 6.00% | ~105 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,756 (Ranked 170)  
+Progressed: 1,757 (Ranked 170)  
 Completed: 4 (0.23%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 4 (0.23%) (Ranked 169)
 | 2023-07-27 | 1,745 | 3 |
 | 2023-07-28 | 1,748 | 3 |
 | 2023-07-29 | 1,754 | 4 |
-| 2023-07-30 | 1,756 | 4 |
+| 2023-07-30 | 1,757 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

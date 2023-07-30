@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1400,6 +1400,11 @@
       "Time": "2023-07-29T20:02:17.4915437+00:00",
       "NumProgressed": 592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T07:02:47.4595779+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1435,7 +1440,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "DevilDetail",
@@ -1499,7 +1504,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GossipGirl",
@@ -1649,9 +1654,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "YagaProfessional",
@@ -1666,7 +1671,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 1
     }
   ],
@@ -1674,8 +1679,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:02:03.8198181+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:02:47.4595773+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:58:24.3370729+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:02:03.8198752+00:00"
+  "LastUpdate_Ratings": "2023-07-30T06:59:11.4688803+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:02:47.4596124+00:00"
 }

@@ -18,9 +18,9 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 0.60% | ~18 |
 | Surgical Excision | 0.50% | ~15 |
 | Honoured Battle-Brother | 0.40% | ~12 |
+| The Emperor Protects | 0.40% | ~12 |
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
-| The Emperor Protects | 0.30% | ~9 |
 | Nemesis Master | 0.30% | ~9 |
 | Gunmaster | 0.30% | ~9 |
 | Just a Scratch | 0.30% | ~9 |

@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12416,
+  "EOS_Progressed": 12417,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6218,6 +6218,11 @@
       "Time": "2023-07-30T06:03:09.3214087+00:00",
       "NumProgressed": 12416,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-30T07:03:41.1356991+00:00",
+      "NumProgressed": 12417,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -6229,7 +6234,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11423
+      "UsersEstimate": 11424
     },
     {
       "ID": "ACH_02",
@@ -6237,7 +6242,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9684
+      "UsersEstimate": 9685
     },
     {
       "ID": "ACH_03",
@@ -6253,7 +6258,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "ACH_05",
@@ -6269,7 +6274,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "ACH_07",
@@ -6283,9 +6288,9 @@
       "ID": "ACH_08",
       "SetID": "9d4cf4c",
       "Name": "A Sea of Promises",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7325
+      "UsersEstimate": 7450
     },
     {
       "ID": "ACH_09",
@@ -6293,7 +6298,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "ACH_10",
@@ -6301,7 +6306,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6456
+      "UsersEstimate": 6457
     },
     {
       "ID": "ACH_11",
@@ -6317,7 +6322,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5587
+      "UsersEstimate": 5588
     },
     {
       "ID": "ACH_13",
@@ -6341,7 +6346,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "ACH_16",
@@ -6421,7 +6426,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "ACH_26",
@@ -6485,7 +6490,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "ACH_34",
@@ -6508,7 +6513,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12416,
+      "Progressed": 12417,
       "Completed": 39
     }
   ],
@@ -6516,8 +6521,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-07-30T06:03:09.3214082+00:00",
+  "LastChanged_Achievements": "2023-07-30T07:03:41.1356985+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:59:42.8562784+00:00",
-  "LastUpdate_Achievements": "2023-07-30T06:03:09.3215215+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:01:03.0519864+00:00",
+  "LastUpdate_Achievements": "2023-07-30T07:03:41.1357778+00:00"
 }

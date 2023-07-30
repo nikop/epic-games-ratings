@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.30% | ~40 |
 | Temple of Solomon | 0.30% | ~40 |
 | Adur Burzen-Mihr | 0.30% | ~40 |
+| Via Recta Souk | 0.30% | ~40 |
 | Greece | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
 | Persian Paganism | 0.30% | ~40 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.20% | ~26 |
 | Church of the Holy Sepulchre | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
-| Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |

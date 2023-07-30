@@ -45,6 +45,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do Not Burn | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
+| Ronin | 0.20% | ~12 |
 | A Striking Resemblance | 0.20% | ~12 |
 | The Muse: Derek | 0.20% | ~12 |
 | Howz It Goin Dood | 0.20% | ~12 |
@@ -65,7 +66,6 @@ Number of Ratings: 177  (23.09.2022)
 | Money Shot | 0.10% | ~6 |
 | Notice Me, Sensei | 0.10% | ~6 |
 | Party Pooper | 0.10% | ~6 |
-| Ronin | 0.10% | ~6 |
 | Do You Smell Blood? | 0.10% | ~6 |
 | That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,941 (Ranked 135)  
+Progressed: 5,943 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 3 (0.05%) (Ranked 211)
 | 2023-07-27 | 5,888 | 3 |
 | 2023-07-28 | 5,908 | 3 |
 | 2023-07-29 | 5,939 | 3 |
-| 2023-07-30 | 5,941 | 3 |
+| 2023-07-30 | 5,943 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
