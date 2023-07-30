@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,7 +254,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2970,
+  "EOS_Progressed": 2971,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -4099,6 +4099,11 @@
       "Time": "2023-07-30T17:06:11.8365928+00:00",
       "NumProgressed": 2970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T18:06:21.6909643+00:00",
+      "NumProgressed": 2971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4238,7 +4243,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_BASE_27",
@@ -4334,7 +4339,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_BASE_38",
@@ -4406,7 +4411,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_BASE_49",
@@ -4542,7 +4547,7 @@
       "Name": "From the Past",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_BASE_8",
@@ -4565,13 +4570,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1152,
+      "Progressed": 1153,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2970,
+      "Progressed": 2971,
       "Completed": 0
     }
   ],
@@ -4579,8 +4584,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:06:11.8365924+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:06:21.6909638+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-07-30T16:59:31.7349094+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:06:11.8366778+00:00"
+  "LastUpdate_Ratings": "2023-07-30T17:59:39.2082147+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:06:21.6910656+00:00"
 }

@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overpowered | 82.00% | ~116 |
-| Side Job | 78.00% | ~110 |
+| Side Job | 77.00% | ~109 |
 | Bloodlust | 55.00% | ~78 |
 | Gettin' It Done | 53.00% | ~75 |
-| Feast | 43.00% | ~61 |
+| Feast | 42.00% | ~60 |
 | Attuned | 36.00% | ~51 |
 | Specialist | 33.00% | ~47 |
 | Opulent | 32.00% | ~45 |
 | Sparkly | 29.00% | ~41 |
-| Ready to Rock | 23.00% | ~32 |
-| Teamwork | 23.00% | ~32 |
-| Determined | 21.00% | ~30 |
+| Ready to Rock | 23.00% | ~33 |
+| Teamwork | 23.00% | ~33 |
 | Beginning of the End | 20.00% | ~28 |
+| Determined | 20.00% | ~28 |
 | Bling | 19.00% | ~27 |
-| Geared | 18.00% | ~25 |
+| Geared | 18.00% | ~26 |
 | Master Crafter | 13.00% | ~18 |
 | Master Trader | 13.00% | ~18 |
 | Mysteries of Rin | 12.00% | ~17 |
@@ -26,8 +26,8 @@
 | Patience | 10.00% | ~14 |
 | Master Tactician | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 297)  
-Completed: 5 (3.55%) (Ranked 58)  
+Progressed: 142 (Ranked 297)  
+Completed: 5 (3.52%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,7 +54,7 @@ Completed: 5 (3.55%) (Ranked 58)
 | 2023-07-17 | 138 | 5 |
 | 2023-07-21 | 139 | 5 |
 | 2023-07-27 | 140 | 5 |
-| 2023-07-30 | 141 | 5 |
+| 2023-07-30 | 142 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

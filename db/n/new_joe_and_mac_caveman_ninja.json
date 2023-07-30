@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.95,
+  "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -293,6 +293,11 @@
       "Time": "2023-07-29T19:03:36.9727491+00:00",
       "NumProgressed": 205,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T18:04:15.5110473+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -310,9 +315,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "03",
@@ -326,9 +331,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "05",
@@ -352,15 +357,15 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "09",
@@ -392,7 +397,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "13",
@@ -423,7 +428,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 4
     }
   ],
@@ -431,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:04:20.1383244+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:04:15.5110467+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-07-30T16:58:36.1554193+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:04:20.1383365+00:00"
+  "LastUpdate_Ratings": "2023-07-30T17:58:32.8686709+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:04:15.5110627+00:00"
 }

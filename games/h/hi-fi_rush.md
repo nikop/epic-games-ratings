@@ -17,6 +17,7 @@ Rating: 4.87 (Ranked 24)
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~109 |
 | You got this, Peppermint? | 3.00% | ~109 |
 | Z-shielding's got nothing on us! | 3.00% | ~109 |
+| Out in a puff of smoke | 3.00% | ~109 |
 | Perfect Parry | 3.00% | ~109 |
 | Uh, they were broken when I got here | 3.00% | ~109 |
 | Kissing the sky! | 3.00% | ~109 |
@@ -28,7 +29,6 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
-| Out in a puff of smoke | 2.00% | ~73 |
 | Perfecter Parry-er! | 2.00% | ~73 |
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
 | Well that was a rush! | 1.00% | ~36 |

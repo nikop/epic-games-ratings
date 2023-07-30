@@ -7,7 +7,7 @@ Rating: 4.65 (Ranked 298)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 65.00% | ~372 |
 | Read Between The Lines | 64.00% | ~366 |
-| High Profile | 58.00% | ~332 |
+| High Profile | 59.00% | ~337 |
 | Whispers In The Dark | 57.00% | ~326 |
 | Fond Memories | 54.00% | ~309 |
 | History Check | 53.00% | ~303 |
@@ -21,21 +21,21 @@ Rating: 4.65 (Ranked 298)
 | Knives Out | 47.00% | ~269 |
 | Land, Ho! | 47.00% | ~269 |
 | No Man Is An Island | 45.00% | ~257 |
-| At Wits' End | 44.00% | ~252 |
+| At Wits' End | 45.00% | ~257 |
 | Fhtagn! | 43.00% | ~246 |
 | Bookworm | 42.00% | ~240 |
 | Up In Flames | 42.00% | ~240 |
 | Going Once... | 39.00% | ~223 |
 | Let Me Be Frank | 38.00% | ~217 |
 | Brain Food | 36.00% | ~206 |
-| No Stone Unturned | 35.00% | ~200 |
+| No Stone Unturned | 36.00% | ~206 |
 | Read It And Weep | 23.00% | ~132 |
 | Curiosity Killed The Cat | 21.00% | ~120 |
 | Big Breakthrough | 14.00% | ~80 |
 | Reawakened | 5.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 572 (Ranked 216)  
-Completed: 25 (4.37%) (Ranked 50)  
+Completed: 25 (4.37%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

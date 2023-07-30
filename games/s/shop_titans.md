@@ -17,6 +17,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 0.20% | ~267 |
 | Some Assembly Required | 0.20% | ~267 |
 | Bounty Hunters | 0.20% | ~267 |
+| Flooding the Market | 0.20% | ~267 |
 | Where it Hurts | 0.20% | ~267 |
 | Another Satisfied Customer | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.10% | ~134 |
 | Locally Sourced | 0.10% | ~134 |
 | Fillin' the Bin | 0.10% | ~134 |
-| Flooding the Market | 0.10% | ~134 |
 | Flying off the Shelves | 0.10% | ~134 |
 | Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,569 (Ranked 61)  
+Progressed: 133,571 (Ranked 61)  
 Completed: 124 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 124 (0.09%) (Ranked 196)
 | 2023-07-27 | 133,376 | 123 |
 | 2023-07-28 | 133,441 | 123 |
 | 2023-07-29 | 133,512 | 124 |
-| 2023-07-30 | 133,569 | 124 |
+| 2023-07-30 | 133,571 | 124 |
 ## Awards
 Max (Great for Beginners): 4,678  (Ranked 70)  
 Sum: 27,009 (Ranked 46)  

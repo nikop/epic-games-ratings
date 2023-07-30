@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,246 |
-| Apprentice | 58.00% | ~382,837 |
-| Close Shave | 25.00% | ~165,016 |
-| Mercenary | 23.00% | ~151,815 |
-| Ninja | 23.00% | ~151,815 |
-| Northern Scourge | 17.00% | ~112,211 |
-| Thief Bane | 14.00% | ~92,409 |
+| The Fool | 72.00% | ~475,250 |
+| Apprentice | 58.00% | ~382,840 |
+| Close Shave | 25.00% | ~165,017 |
+| Mercenary | 23.00% | ~151,816 |
+| Ninja | 23.00% | ~151,816 |
+| Northern Scourge | 17.00% | ~112,212 |
+| Thief Bane | 14.00% | ~92,410 |
 | Master of Arms | 12.00% | ~79,208 |
-| Gambler | 10.00% | ~66,006 |
-| Dice Master | 10.00% | ~66,006 |
+| Gambler | 10.00% | ~66,007 |
+| Dice Master | 10.00% | ~66,007 |
 | Swordsman | 9.00% | ~59,406 |
-| Knight | 8.00% | ~52,805 |
-| Cure for Corruption | 8.00% | ~52,805 |
-| Focused | 8.00% | ~52,805 |
-| Flurry of Fury | 8.00% | ~52,805 |
-| Long Shot | 7.00% | ~46,204 |
-| Devil Dice | 7.00% | ~46,204 |
-| Broken Heart | 7.00% | ~46,204 |
+| Knight | 8.00% | ~52,806 |
+| Cure for Corruption | 8.00% | ~52,806 |
+| Focused | 8.00% | ~52,806 |
+| Flurry of Fury | 8.00% | ~52,806 |
+| Long Shot | 7.00% | ~46,205 |
+| Devil Dice | 7.00% | ~46,205 |
+| Broken Heart | 7.00% | ~46,205 |
 | Adventurer | 6.00% | ~39,604 |
 | Empire's Bane | 6.00% | ~39,604 |
 | Jack of all Trades | 5.00% | ~33,003 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,064 (Ranked 22)  
+Progressed: 660,069 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 168 (0.03%) (Ranked 221)
 | 2023-07-27 | 659,900 | 168 |
 | 2023-07-28 | 659,943 | 168 |
 | 2023-07-29 | 660,016 | 168 |
-| 2023-07-30 | 660,064 | 168 |
+| 2023-07-30 | 660,069 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 376)  

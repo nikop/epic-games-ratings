@@ -1,15 +1,15 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.53 (Ranked 510)  
+Rating: 4.53 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,455 |
+| Complete Guard Faction | 80.00% | ~1,456 |
 | Become King | 72.00% | ~1,310 |
 | Defeat 25 Frogs | 62.00% | ~1,128 |
 | Ranged Weapon | 61.00% | ~1,110 |
-| Collect Monster Parts | 58.00% | ~1,055 |
+| Collect Monster Parts | 58.00% | ~1,056 |
 | Two Handed Weapon | 56.00% | ~1,019 |
 | Defeat 25 Grubs | 52.00% | ~946 |
 | Rescue Redgi's Brothers | 51.00% | ~928 |
@@ -18,7 +18,7 @@ Rating: 4.53 (Ranked 510)
 | Kitchen Ready To Cook | 46.00% | ~837 |
 | Collect Gold | 45.00% | ~819 |
 | Smithy Ready to Craft | 45.00% | ~819 |
-| Fix the Travellers Wagon | 43.00% | ~782 |
+| Fix the Travellers Wagon | 43.00% | ~783 |
 | Complete Elder Faction | 40.00% | ~728 |
 | End of the Mozis | 37.00% | ~673 |
 | Throne Room Fit For A King | 37.00% | ~673 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 510)
 | King of Kings | 8.00% | ~146 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,819 (Ranked 169)  
+Progressed: 1,820 (Ranked 169)  
 Completed: 8 (0.44%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 8 (0.44%) (Ranked 142)
 | 2023-07-27 | 1,804 | 8 |
 | 2023-07-28 | 1,810 | 8 |
 | 2023-07-29 | 1,814 | 8 |
-| 2023-07-30 | 1,819 | 8 |
+| 2023-07-30 | 1,820 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -222,11 +222,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3076,
+  "EOS_Progressed": 3077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-06-20T08:06:48.4211242+00:00",
@@ -3342,6 +3342,11 @@
       "Time": "2023-07-30T16:02:21.40101+00:00",
       "NumProgressed": 3076,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-30T18:03:26.9061583+00:00",
+      "NumProgressed": 3077,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3393,7 +3398,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3401,7 +3406,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3449,7 +3454,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3465,7 +3470,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3473,7 +3478,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3529,7 +3534,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -3649,7 +3654,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3657,7 +3662,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3681,7 +3686,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3712,7 +3717,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3076,
+      "Progressed": 3077,
       "Completed": 2
     }
   ],
@@ -3720,8 +3725,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-30T05:59:39.6438639+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:03:39.2495655+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:03:26.9061577+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:00:22.7886703+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:03:39.2496319+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:00:47.5997365+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:03:26.9062294+00:00"
 }

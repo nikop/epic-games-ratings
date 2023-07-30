@@ -10,14 +10,15 @@
 | Hammer Time | 42.00% | ~8 |
 | Escape From M.C. | 21.00% | ~4 |
 | Restore Honor | 21.00% | ~4 |
+| Lieutenant | 5.00% | ~1 |
 | Overkill | 5.00% | ~1 |
+| Bring Down the Corp | 5.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
 | Vintage Collector | 0.00% | ~0 |
 | Losing your Head | 0.00% | ~0 |
-| Lieutenant | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Flawless Victory | 0.00% | ~0 |
 | The Hunt | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
-| Bring Down the Corp | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |

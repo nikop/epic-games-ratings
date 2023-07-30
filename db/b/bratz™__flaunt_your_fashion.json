@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -158,9 +158,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "12",
@@ -222,9 +222,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "2",
@@ -246,9 +246,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "5",
@@ -303,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:06:28.3719662+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:06:41.4188107+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.3420898+00:00",
-  "LastUpdate_Ratings": "2023-07-30T16:59:59.99799+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:06:28.3719806+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:00:18.9052099+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:06:41.418826+00:00"
 }

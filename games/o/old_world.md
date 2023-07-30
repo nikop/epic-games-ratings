@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 3.00% | ~395 |
+| The Clergy | 3.00% | ~396 |
 | Explorer | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Settler | 1.00% | ~132 |
@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
 | Just Difficulty | 0.40% | ~53 |
+| Champions | 0.40% | ~53 |
 | Furious Family | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.30% | ~40 |
 | Valiant | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
-| Champions | 0.30% | ~40 |
 | Patrons | 0.30% | ~40 |
 | Sages | 0.30% | ~40 |
 | Statesmen | 0.30% | ~40 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.30% | ~40 |
 | Building Wonders | 0.30% | ~40 |
 | Legalism | 0.30% | ~40 |
+| Cimmerian Archer | 0.30% | ~40 |
 | Legionary | 0.30% | ~40 |
 | Ambition Victory | 0.30% | ~40 |
 | Double Victory | 0.30% | ~40 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Veneration | 0.20% | ~26 |
-| Cimmerian Archer | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
@@ -190,6 +190,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.10% | ~13 |
 | Like a Lion | 0.10% | ~13 |
 | Still Fighting | 0.10% | ~13 |
+| They Shall Not Pass | 0.10% | ~13 |
+| THIS IS SPARTA!! | 0.10% | ~13 |
 | Tell the Spartans | 0.10% | ~13 |
 | Shape of Things to Come | 0.10% | ~13 |
 | I am the Archon Now | 0.10% | ~13 |
@@ -280,8 +282,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| They Shall Not Pass | 0.00% | ~0 |
-| THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,183 (Ranked 117)  
+Progressed: 13,186 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,183 | 5 |
+| 2023-07-30 | 13,186 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

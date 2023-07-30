@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5424,9 +5424,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711868,
+  "EOS_Progressed": 711873,
   "EOS_Completed": 12836,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15014,6 +15014,11 @@
       "Time": "2023-07-30T17:07:42.231294+00:00",
       "NumProgressed": 711868,
       "NumCompleted": 12836
+    },
+    {
+      "Time": "2023-07-30T18:08:08.6579788+00:00",
+      "NumProgressed": 711873,
+      "NumCompleted": 12836
     }
   ],
   "TotalAchievements": 50,
@@ -15369,7 +15374,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -15424,21 +15429,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21169,
-      "Completed": 10460
+      "Progressed": 21174,
+      "Completed": 10462
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711868,
+      "Progressed": 711873,
       "Completed": 12836
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-30T14:59:08.7298171+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:07:42.2312932+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:08:08.6579784+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:00:00.3432324+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:07:42.2314264+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:00:19.3842613+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:08:08.6580919+00:00"
 }

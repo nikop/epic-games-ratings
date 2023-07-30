@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 481)
 | A Thousand Strong | 14.00% | ~416 |
 | Ready for a New World | 14.00% | ~416 |
 | Space Society | 13.00% | ~386 |
-| Permanent Redesigns | 12.00% | ~356 |
+| Permanent Redesigns | 12.00% | ~357 |
 | Guy de Borderlands | 10.00% | ~297 |
 | Fully Recycled | 10.00% | ~297 |
 | Ain't Nobody Got Time for That | 10.00% | ~297 |
@@ -25,9 +25,9 @@ Rating: 4.55 (Ranked 481)
 | Power Outage | 6.00% | ~178 |
 | Convenient Transport | 6.00% | ~178 |
 | Please Make it Stop! | 6.00% | ~178 |
-| Sightseeing | 5.00% | ~148 |
-| Necessary Enhancement | 5.00% | ~148 |
-| From the Past | 5.00% | ~148 |
+| Sightseeing | 5.00% | ~149 |
+| Necessary Enhancement | 5.00% | ~149 |
+| From the Past | 5.00% | ~149 |
 | Oats | 4.00% | ~119 |
 | Access Granted | 4.00% | ~119 |
 | All in Good Health | 4.00% | ~119 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,970 (Ranked 157)  
+Progressed: 2,971 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
-| 2023-07-30 | 2,970 | 0 |
+| 2023-07-30 | 2,971 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

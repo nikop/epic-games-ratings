@@ -42,21 +42,21 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job III | 3.00% | ~127 |
 | A time consuming game III | 3.00% | ~127 |
 | Tools of the trade II | 3.00% | ~127 |
-| The Art of War | 2.00% | ~84 |
-| Five brews are a schnitzel | 2.00% | ~84 |
-| I like to build stuff... V | 2.00% | ~84 |
-| The King's new clothes II | 2.00% | ~84 |
-| The King's new clothes III | 2.00% | ~84 |
-| Saint Florian | 2.00% | ~84 |
-| My precious... II | 2.00% | ~84 |
-| Cosmas and Damian | 2.00% | ~84 |
-| Builder III | 2.00% | ~84 |
-| Completionist II | 2.00% | ~84 |
-| Genius | 2.00% | ~84 |
-| I've been everywhere V | 2.00% | ~84 |
-| A time consuming game IV | 2.00% | ~84 |
-| Tools of the trade III | 2.00% | ~84 |
-| Out of the frying pan | 2.00% | ~84 |
+| The Art of War | 2.00% | ~85 |
+| Five brews are a schnitzel | 2.00% | ~85 |
+| I like to build stuff... V | 2.00% | ~85 |
+| The King's new clothes II | 2.00% | ~85 |
+| The King's new clothes III | 2.00% | ~85 |
+| Saint Florian | 2.00% | ~85 |
+| My precious... II | 2.00% | ~85 |
+| Cosmas and Damian | 2.00% | ~85 |
+| Builder III | 2.00% | ~85 |
+| Completionist II | 2.00% | ~85 |
+| Genius | 2.00% | ~85 |
+| I've been everywhere V | 2.00% | ~85 |
+| A time consuming game IV | 2.00% | ~85 |
+| Tools of the trade III | 2.00% | ~85 |
+| Out of the frying pan | 2.00% | ~85 |
 | Survivalist | 1.00% | ~42 |
 | My precious... III | 1.00% | ~42 |
 | Lord of War | 1.00% | ~42 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,225 (Ranked 145)  
+Progressed: 4,226 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 3 (0.07%) (Ranked 204)
 | 2023-07-26 | 4,211 | 3 |
 | 2023-07-27 | 4,216 | 3 |
 | 2023-07-29 | 4,220 | 3 |
-| 2023-07-30 | 4,225 | 3 |
+| 2023-07-30 | 4,226 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

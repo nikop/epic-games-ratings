@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4433,
+  "EOS_Progressed": 4438,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7151,6 +7151,11 @@
       "Time": "2023-07-30T16:05:33.2532624+00:00",
       "NumProgressed": 4433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-30T18:06:57.3446353+00:00",
+      "NumProgressed": 4438,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7170,7 +7175,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -7218,7 +7223,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -7234,7 +7239,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7242,7 +7247,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -7258,7 +7263,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7274,7 +7279,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7282,7 +7287,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -7298,7 +7303,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -7314,7 +7319,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -7322,7 +7327,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3328
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7346,7 +7351,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7354,7 +7359,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_MYWAYS",
@@ -7418,7 +7423,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2086
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7434,7 +7439,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7466,7 +7471,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -7481,15 +7486,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4433,
+      "Progressed": 4438,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-07-30T17:06:42.0737519+00:00",
+  "LastChanged_Achievements": "2023-07-30T18:06:57.3446347+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:01:27.1863312+00:00",
-  "LastUpdate_Achievements": "2023-07-30T17:06:42.0738225+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:02:03.464353+00:00",
+  "LastUpdate_Achievements": "2023-07-30T18:06:57.3447151+00:00"
 }

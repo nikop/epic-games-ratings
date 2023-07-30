@@ -13,10 +13,10 @@
 | Roller Race | 35.00% | ~17 |
 | We will need a bigger wardrobe | 33.00% | ~16 |
 | Barcelona Hidden Style | 24.00% | ~12 |
+| Creating New Trends | 22.00% | ~11 |
+| Best Gala Ever | 22.00% | ~11 |
+| Welcome to the The Stylin' Soiree | 22.00% | ~11 |
 | Scooter Race | 22.00% | ~11 |
-| Creating New Trends | 20.00% | ~10 |
-| Best Gala Ever | 20.00% | ~10 |
-| Welcome to the The Stylin' Soiree | 20.00% | ~10 |
 | Seoul Hidden Style | 16.00% | ~8 |
 | Hoverboard Race | 8.00% | ~4 |
 | Trendy Selfies | 4.00% | ~2 |
