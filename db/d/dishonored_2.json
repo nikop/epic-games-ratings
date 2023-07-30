@@ -4,11 +4,11 @@
   "ProductSlug": "dishonored-2",
   "Ranking_Rating": 90,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
     "PcReleaseDate": "2016-11-11T15:00:00+00:00",
@@ -896,18 +896,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 634,
       "NumberOfAwardsMax": 429
+    },
+    {
+      "Time": "2023-07-30T14:59:39.2181464+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 634,
-  "NumberOfAwardsMax": 429,
+  "NumberOfAwards": 635,
+  "NumberOfAwardsMax": 430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 429
+      "Count": 430
     },
     {
       "Text": "This game has Diverse Characters",
@@ -976,8 +982,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-07-29T13:01:46.9476506+00:00",
+  "LastChanged": "2023-07-30T14:59:39.2181462+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:18.6605365+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:00:21.2428884+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:54.4924911+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:59:39.2181469+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:05:11.5028797+00:00"
 }

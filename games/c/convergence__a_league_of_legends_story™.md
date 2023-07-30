@@ -8,11 +8,11 @@ Rating: 4.60 (Ranked 390)
 | Time Heals All Wounds | 23.00% | ~185 |
 | Rail Rat | 20.00% | ~161 |
 | The Mysterious Stranger | 19.00% | ~153 |
+| Make Up For Lost Time | 17.00% | ~137 |
 | The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
 | The Brass Boss | 17.00% | ~137 |
 | The Steel Shadow | 16.00% | ~129 |
-| Make Up For Lost Time | 16.00% | ~129 |
 | Time Flies | 16.00% | ~129 |
 | The Harder They Fall | 16.00% | ~129 |
 | No, Thanks! | 16.00% | ~129 |
@@ -42,9 +42,9 @@ Rating: 4.60 (Ranked 390)
 | Factorywood Explorer | 8.00% | ~64 |
 | Fairgrounds Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
+| Corin Goes Home | 7.00% | ~56 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
-| Corin Goes Home | 6.00% | ~48 |
 | Sartorialist | 6.00% | ~48 |
 | Golem Hunter | 5.00% | ~40 |
 | Rungs Was Right | 5.00% | ~40 |

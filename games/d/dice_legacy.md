@@ -13,12 +13,12 @@ Rating: 4.27 (Ranked 803)
 | Hear me out | 5.00% | ~48 |
 | Listening to the crowd | 5.00% | ~48 |
 | Accepting the Prophecy | 5.00% | ~48 |
-| Ascended | 4.00% | ~38 |
-| The Penitent Ones | 4.00% | ~38 |
-| Greedy | 4.00% | ~38 |
-| Hidden Secrets | 4.00% | ~38 |
-| The Stranded King | 4.00% | ~38 |
-| Prophecy Fulfilled | 4.00% | ~38 |
+| Ascended | 4.00% | ~39 |
+| The Penitent Ones | 4.00% | ~39 |
+| Greedy | 4.00% | ~39 |
+| Hidden Secrets | 4.00% | ~39 |
+| The Stranded King | 4.00% | ~39 |
+| Prophecy Fulfilled | 4.00% | ~39 |
 | Just Chilling | 3.00% | ~29 |
 | Incredible Strength | 3.00% | ~29 |
 | The Greedy Ones | 2.00% | ~19 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 803)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 195)  
+Progressed: 963 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 953 | 0 |
 | 2023-07-28 | 958 | 0 |
 | 2023-07-29 | 961 | 0 |
-| 2023-07-30 | 962 | 0 |
+| 2023-07-30 | 963 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

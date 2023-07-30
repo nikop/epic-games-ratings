@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "ID": "ACHIEVE_LVL_30_COMPLETE",
       "SetID": "b8l3p0g",
       "Name": "Humerus Achievement",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1104,8 +1104,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:05:46.1031789+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:05:04.5610212+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.6764281+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:00:54.9798515+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:46.1032341+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:00:04.2322822+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:05:04.5610595+00:00"
 }

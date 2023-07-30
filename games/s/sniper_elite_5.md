@@ -24,6 +24,7 @@ Rating: 4.42 (Ranked 664)
 | As Quiet as a Mouse | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~68 |
+| Enemy at the Gates | 2.00% | ~68 |
 | Fields of Glory | 2.00% | ~68 |
 | Just a Flesh Wound | 2.00% | ~68 |
 | Gunslinger | 2.00% | ~68 |
@@ -35,14 +36,13 @@ Rating: 4.42 (Ranked 664)
 | Die Nussknacker Sweet! | 2.00% | ~68 |
 | Close Quarters | 2.00% | ~68 |
 | Snake in the Grass | 2.00% | ~68 |
-| Enemy at the Gates | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
 | Road Rage | 0.90% | ~30 |
+| Don't hold your breath | 0.90% | ~30 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
 | It'll Buff Right Out | 0.80% | ~27 |
-| Don't hold your breath | 0.80% | ~27 |
 | From Paris with Love | 0.70% | ~24 |
 | Burn after reading | 0.70% | ~24 |
 | Shipbreaker | 0.70% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 664)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,375 (Ranked 149)  
+Progressed: 3,376 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 9 (0.27%) (Ranked 161)
 | 2023-07-27 | 3,360 | 9 |
 | 2023-07-28 | 3,364 | 9 |
 | 2023-07-29 | 3,371 | 9 |
-| 2023-07-30 | 3,375 | 9 |
+| 2023-07-30 | 3,376 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

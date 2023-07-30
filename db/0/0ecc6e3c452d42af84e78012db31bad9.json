@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 3,
@@ -2981,6 +2981,11 @@
       "Time": "2023-07-30T14:05:36.1914578+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-30T15:04:56.5939619+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -3024,7 +3029,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach_architecture_completed",
@@ -3064,7 +3069,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ach_food_completed",
@@ -3080,7 +3085,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ach_game_opened",
@@ -3088,7 +3093,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ach_magic_wand",
@@ -3119,14 +3124,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1829,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:05:36.1914569+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:04:56.5939612+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:57:28.3323105+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:36.1914883+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:57:16.2508493+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:04:56.5939971+00:00"
 }

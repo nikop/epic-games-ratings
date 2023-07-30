@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-07-29T06:07:25.8555785+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T15:04:44.4642809+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -966,7 +971,7 @@
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1016,7 +1021,7 @@
       "Name": "Half a Life",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -1183,7 +1188,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
@@ -1191,8 +1196,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:05:21.5604863+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:04:44.4642801+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:27.9482506+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:58:10.9888099+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:21.5605194+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:57:50.9707912+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:04:44.4643163+00:00"
 }

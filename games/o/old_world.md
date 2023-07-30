@@ -14,24 +14,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
-| Able | 0.80% | ~105 |
+| Able | 0.90% | ~119 |
 | Architect | 0.80% | ~105 |
+| Good | 0.80% | ~105 |
 | Mason | 0.80% | ~105 |
+| Noble | 0.80% | ~105 |
 | Pioneer | 0.80% | ~105 |
 | Strong | 0.80% | ~105 |
 | Hanging Gardens | 0.80% | ~105 |
 | Oracle | 0.80% | ~105 |
 | Enlightened | 0.70% | ~92 |
-| Good | 0.70% | ~92 |
+| Glorious | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Learned | 0.70% | ~92 |
-| Noble | 0.70% | ~92 |
 | Judaism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Naming Landmarks | 0.70% | ~92 |
 | Trade Caravan | 0.70% | ~92 |
 | Ambitious | 0.60% | ~79 |
-| Glorious | 0.60% | ~79 |
 | Keystone | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.60% | ~79 |
 | Brilliant | 0.50% | ~66 |
 | Fountainhead | 0.50% | ~66 |
+| Great | 0.50% | ~66 |
 | Strong Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
@@ -55,7 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
-| Great | 0.40% | ~53 |
+| Drillmaster | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
 | Just Difficulty | 0.40% | ~53 |
@@ -71,9 +72,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.40% | ~53 |
 | Hanging Gardens in Babylon | 0.30% | ~40 |
 | Beloved | 0.30% | ~40 |
-| Drillmaster | 0.30% | ~40 |
 | Conqueror | 0.30% | ~40 |
 | Devout | 0.30% | ~40 |
+| Mighty | 0.30% | ~40 |
 | Valiant | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
 | Champions | 0.30% | ~40 |
@@ -87,10 +88,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.30% | ~40 |
 | Via Recta Souk | 0.30% | ~40 |
 | Learn to Play 3 | 0.30% | ~40 |
+| Carthage | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
 | Persian Paganism | 0.30% | ~40 |
 | Building Wonders | 0.30% | ~40 |
 | Legalism | 0.30% | ~40 |
+| Legionary | 0.30% | ~40 |
 | Ambition Victory | 0.30% | ~40 |
 | Double Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
@@ -100,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.20% | ~26 |
 | Invincible | 0.20% | ~26 |
 | Lion | 0.20% | ~26 |
-| Mighty | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
@@ -117,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |
-| Carthage | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.20% | ~26 |
 | Cimmerian Archer | 0.20% | ~26 |
 | Kushite Cavalry | 0.20% | ~26 |
-| Legionary | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
 | No Undo | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,177 (Ranked 117)  
+Progressed: 13,179 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,177 | 5 |
+| 2023-07-30 | 13,179 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

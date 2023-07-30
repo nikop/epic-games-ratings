@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 32.00% | ~10 |
-| Greengrocer | 26.00% | ~8 |
-| Seven Days of Endless Adventure | 23.00% | ~7 |
+| Cabbage in the Baggage | 31.00% | ~10 |
+| Greengrocer | 25.00% | ~8 |
+| Seven Days of Endless Adventure | 22.00% | ~7 |
 | Just Hoverin' Along | 16.00% | ~5 |
 | Masu-ter Angler | 16.00% | ~5 |
 | Go-Getter | 16.00% | ~5 |
@@ -14,15 +14,15 @@
 | It's Alive! | 13.00% | ~4 |
 | Handyman Extraordinaire | 13.00% | ~4 |
 | River Cleaner | 13.00% | ~4 |
-| My Fair Ladybug | 10.00% | ~3 |
-| The Holly Grail | 10.00% | ~3 |
-| What's That Smell? | 10.00% | ~3 |
-| That Was a Snap! | 10.00% | ~3 |
-| Farm Life! | 10.00% | ~3 |
-| Did Someone Order Ramen? | 10.00% | ~3 |
-| Ptera Pal | 10.00% | ~3 |
-| DJ Superstar | 10.00% | ~3 |
-| Asso Bridge Enthusiast | 10.00% | ~3 |
+| My Fair Ladybug | 9.00% | ~3 |
+| The Holly Grail | 9.00% | ~3 |
+| What's That Smell? | 9.00% | ~3 |
+| That Was a Snap! | 9.00% | ~3 |
+| Farm Life! | 9.00% | ~3 |
+| Did Someone Order Ramen? | 9.00% | ~3 |
+| Ptera Pal | 9.00% | ~3 |
+| DJ Superstar | 9.00% | ~3 |
+| Asso Bridge Enthusiast | 9.00% | ~3 |
 | A New Time | 6.00% | ~2 |
 | Beetle Savant | 6.00% | ~2 |
 | Cicada Connoisseur | 6.00% | ~2 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 379)  
+Progressed: 32 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-02 | 27 | 0 |
 | 2023-07-21 | 28 | 0 |
 | 2023-07-29 | 30 | 0 |
-| 2023-07-30 | 31 | 0 |
+| 2023-07-30 | 32 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

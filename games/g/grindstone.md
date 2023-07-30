@@ -23,8 +23,8 @@ Number of Ratings: 63  (23.09.2022)
 | Bone Collector | 35.00% | ~1,799 |
 | Fe-Festival | 35.00% | ~1,799 |
 | Top of the Food Chain | 32.00% | ~1,645 |
+| Humerus Achievement | 32.00% | ~1,645 |
 | Pardon my Slob | 32.00% | ~1,645 |
-| Humerus Achievement | 31.00% | ~1,593 |
 | Ghost Facers! | 27.00% | ~1,388 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,079 |
 | Royal Flush, Again | 19.00% | ~977 |

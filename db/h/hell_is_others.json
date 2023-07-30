@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253950,
+  "EOS_Progressed": 253956,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11062,6 +11062,11 @@
       "Time": "2023-07-30T14:06:34.7167829+00:00",
       "NumProgressed": 253950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-30T15:05:44.9805817+00:00",
+      "NumProgressed": 253956,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11073,7 +11078,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17776
+      "UsersEstimate": 17777
     },
     {
       "ID": "Act2",
@@ -11121,7 +11126,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78724
+      "UsersEstimate": 78726
     },
     {
       "ID": "BackHomeNTimes",
@@ -11177,7 +11182,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25395
+      "UsersEstimate": 25396
     },
     {
       "ID": "CreditLevel2",
@@ -11345,7 +11350,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7619
     },
     {
       "ID": "KillOtherWithMine",
@@ -11361,7 +11366,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55869
+      "UsersEstimate": 55870
     },
     {
       "ID": "KillOthers2",
@@ -11465,7 +11470,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25395
+      "UsersEstimate": 25396
     },
     {
       "ID": "ReachNDays2",
@@ -11520,7 +11525,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253950,
+      "Progressed": 253956,
       "Completed": 3
     }
   ],
@@ -11528,8 +11533,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-30T13:03:08.3579992+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:06:34.7167823+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:05:44.9805811+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:01:12.1701686+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:06:34.7169142+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:00:17.043447+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:05:44.9807198+00:00"
 }

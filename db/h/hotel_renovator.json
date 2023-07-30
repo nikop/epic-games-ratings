@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 916,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -1201,9 +1201,9 @@
       "ID": "ACH_BOOK_5",
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1426,8 +1426,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:05:21.7057675+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:04:44.6246918+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:57:43.4188164+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:21.7057991+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:57:27.9432781+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:04:44.6247186+00:00"
 }

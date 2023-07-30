@@ -8,9 +8,9 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 5.00% | ~182 |
 | Feeling the beat! | 5.00% | ~182 |
 | You can pet the cat! | 5.00% | ~182 |
-| Cream of the Crop | 4.00% | ~145 |
-| Thanks for the free chip, Peppermint! | 4.00% | ~145 |
-| Who put gears in there? | 4.00% | ~145 |
+| Cream of the Crop | 4.00% | ~146 |
+| Thanks for the free chip, Peppermint! | 4.00% | ~146 |
+| Who put gears in there? | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~109 |
 | Time to pay up! | 3.00% | ~109 |
 | I play my own way! | 3.00% | ~109 |
@@ -44,10 +44,10 @@ Rating: 4.87 (Ranked 24)
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | This is a breeze! | 0.40% | ~15 |
+| We're Jammin' | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
 | I hit things with a guitar really well. | 0.40% | ~15 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
-| We're Jammin' | 0.30% | ~11 |
 | I'm not done with you yet | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |
 | Easy Listening | 0.20% | ~7 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,636 (Ranked 146)  
-Completed: 6 (0.17%) (Ranked 177)  
+Progressed: 3,638 (Ranked 146)  
+Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,7 +176,7 @@ Completed: 6 (0.17%) (Ranked 177)
 | 2023-07-27 | 3,601 | 6 |
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
-| 2023-07-30 | 3,636 | 6 |
+| 2023-07-30 | 3,638 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

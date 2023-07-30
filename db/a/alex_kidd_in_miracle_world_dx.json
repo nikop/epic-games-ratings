@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -278,9 +278,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -367,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:07:14.6997083+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:06:16.7456571+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:58.8421701+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:58:46.0070937+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:07:14.699725+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:58:20.5904034+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:06:16.7456688+00:00"
 }

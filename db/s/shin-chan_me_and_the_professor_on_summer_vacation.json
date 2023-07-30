@@ -4,8 +4,8 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -83,6 +83,11 @@
       "Time": "2023-07-30T14:04:15.6485891+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T15:03:50.9086469+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -100,7 +105,7 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -172,7 +177,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -188,7 +193,7 @@
       "ID": "Trophy_13",
       "SetID": "cf5h6dl",
       "Name": "My Fair Ladybug",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -196,7 +201,7 @@
       "ID": "Trophy_14",
       "SetID": "cf5h6dl",
       "Name": "The Holly Grail",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -260,7 +265,7 @@
       "ID": "Trophy_22",
       "SetID": "cf5h6dl",
       "Name": "That Was a Snap!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -292,7 +297,7 @@
       "ID": "Trophy_26",
       "SetID": "cf5h6dl",
       "Name": "Farm Life!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -308,7 +313,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -324,7 +329,7 @@
       "ID": "Trophy_30",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Ramen?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -380,7 +385,7 @@
       "ID": "Trophy_37",
       "SetID": "cf5h6dl",
       "Name": "Ptera Pal",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -420,7 +425,7 @@
       "ID": "Trophy_42",
       "SetID": "cf5h6dl",
       "Name": "DJ Superstar",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -452,7 +457,7 @@
       "ID": "Trophy_46",
       "SetID": "cf5h6dl",
       "Name": "Asso Bridge Enthusiast",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -461,7 +466,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
@@ -469,8 +474,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:04:15.6485883+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:03:50.9086463+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:10.124181+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:01:06.387371+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:04:15.648638+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:00:13.1999834+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:03:50.9086841+00:00"
 }

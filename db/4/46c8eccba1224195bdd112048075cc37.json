@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -609,9 +609,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MonsterSlayer",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:05:37.4424952+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:04:57.7162749+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:57:40.887499+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:05:37.4425162+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:57:25.7348876+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:04:57.7163244+00:00"
 }

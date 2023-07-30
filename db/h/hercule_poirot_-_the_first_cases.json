@@ -5,10 +5,10 @@
   "Ranking_Rating": 744,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "ACH_04",
       "SetID": "72imik0",
       "Name": "The Major",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_040",
@@ -793,8 +793,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:04:28.7265842+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:04:01.5789899+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:38.4741922+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:58:21.2071186+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:04:28.7266335+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:58:01.0771707+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:04:01.5790542+00:00"
 }

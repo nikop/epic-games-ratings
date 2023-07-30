@@ -17,9 +17,9 @@ Rating: 4.55 (Ranked 481)
 | Fully Recycled | 10.00% | ~297 |
 | Ain't Nobody Got Time for That | 10.00% | ~297 |
 | The Ship of Theseus | 10.00% | ~297 |
+| Exceeding Capacity | 9.00% | ~267 |
 | Hope Seeker | 9.00% | ~267 |
 | A Hunk of Junk | 8.00% | ~237 |
-| Exceeding Capacity | 8.00% | ~237 |
 | Breaking Protocol | 8.00% | ~237 |
 | Man's Best Friend | 6.00% | ~178 |
 | Power Outage | 6.00% | ~178 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,966 (Ranked 157)  
+Progressed: 2,967 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
-| 2023-07-30 | 2,966 | 0 |
+| 2023-07-30 | 2,967 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

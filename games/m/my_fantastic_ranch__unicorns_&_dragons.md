@@ -11,8 +11,8 @@
 | Think Positive | 21.00% | ~5 |
 | Kingdom Party Time | 21.00% | ~5 |
 | Festival Fever | 13.00% | ~3 |
+| Landscaper | 13.00% | ~3 |
 | Entering New Territory | 13.00% | ~3 |
-| Landscaper | 8.00% | ~2 |
 | Dream Big | 8.00% | ~2 |
 | Lecturer | 8.00% | ~2 |
 | Kindred Spirits | 8.00% | ~2 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 385)  
+Progressed: 24 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

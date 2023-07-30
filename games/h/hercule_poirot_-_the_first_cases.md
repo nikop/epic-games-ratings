@@ -18,7 +18,7 @@ Rating: 4.35 (Ranked 744)
 | Florette Duval | 53.00% | ~214 |
 | The Altercation | 50.00% | ~202 |
 | Truth from Within | 49.00% | ~198 |
-| The Major | 47.00% | ~190 |
+| The Major | 48.00% | ~194 |
 | Comtesse Margaux de Vos | 45.00% | ~182 |
 | Curious and Beautiful | 44.00% | ~178 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~174 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 744)
 | Room with a View | 8.00% | ~32 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404 (Ranked 232)  
+Progressed: 404 (Ranked 233)  
 Completed: 6 (1.49%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |

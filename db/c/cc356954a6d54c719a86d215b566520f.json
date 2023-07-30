@@ -4,8 +4,8 @@
   "ProductSlug": "lords-mobile-014f32",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-17T05:00:00+00:00",
     "PcReleaseDate": "2019-06-02T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-17T06:57:14.4933848+00:00",
   "LastUpdate_AppInfo": "2023-07-28T06:57:22.0106603+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:57:10.9981877+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:02:17.7867827+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:57:03.3428608+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:02:08.7154293+00:00"
 }

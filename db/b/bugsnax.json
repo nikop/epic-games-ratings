@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -701,10 +701,10 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28042,
+  "EOS_Progressed": 28043,
   "EOS_Completed": 1316,
-  "EOS_NewPlayers": 65,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.69,
   "EosHistory": [
     {
@@ -3911,6 +3911,11 @@
       "Time": "2023-07-30T14:06:23.9410021+00:00",
       "NumProgressed": 28042,
       "NumCompleted": 1316
+    },
+    {
+      "Time": "2023-07-30T15:05:36.3875193+00:00",
+      "NumProgressed": 28043,
+      "NumCompleted": 1316
     }
   ],
   "TotalAchievements": 30,
@@ -3944,9 +3949,9 @@
       "ID": "ACH_BALL_TRIP",
       "SetID": "2m0copd",
       "Name": "Clothesline",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4487
     },
     {
       "ID": "ACH_BOSSES",
@@ -3954,7 +3959,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12899
+      "UsersEstimate": 12900
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -3970,7 +3975,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -3986,7 +3991,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21592
+      "UsersEstimate": 21593
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -4018,7 +4023,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27201
+      "UsersEstimate": 27202
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -4026,7 +4031,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19349
+      "UsersEstimate": 19350
     },
     {
       "ID": "ACH_GOLEM",
@@ -4114,7 +4119,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26079
+      "UsersEstimate": 26080
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -4130,7 +4135,7 @@
       "Name": "Sundae Best",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ACH_TRANSFORM_GRAMBLE",
@@ -4161,15 +4166,15 @@
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28042,
+      "Progressed": 28043,
       "Completed": 1316
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-28T22:01:22.7366365+00:00",
-  "LastChanged_Achievements": "2023-07-30T14:06:23.9410015+00:00",
+  "LastChanged_Achievements": "2023-07-30T15:05:36.3875186+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:42.6231298+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:00:43.2527643+00:00",
-  "LastUpdate_Achievements": "2023-07-30T14:06:23.9410497+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:59:54.4256312+00:00",
+  "LastUpdate_Achievements": "2023-07-30T15:05:36.3875785+00:00"
 }

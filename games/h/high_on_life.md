@@ -5,40 +5,40 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,560 |
-| Mods Please Ban | 77.00% | ~18,146 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,910 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,203 |
-| First Bounty Down | 59.00% | ~13,904 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,433 |
-| Luglox Genocide | 43.00% | ~10,133 |
-| Playing Card To Get | 33.00% | ~7,777 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,777 |
-| Creature Feature | 29.00% | ~6,834 |
-| Satisfied Gus-tomer | 28.00% | ~6,598 |
-| Cold-Blooded Driller | 28.00% | ~6,598 |
+| Eye Scream, You Scream | 83.00% | ~19,563 |
+| Mods Please Ban | 77.00% | ~18,149 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,913 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,206 |
+| First Bounty Down | 59.00% | ~13,906 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,435 |
+| Luglox Genocide | 43.00% | ~10,135 |
+| Playing Card To Get | 33.00% | ~7,778 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,778 |
+| Creature Feature | 29.00% | ~6,835 |
+| Satisfied Gus-tomer | 28.00% | ~6,600 |
+| Cold-Blooded Driller | 28.00% | ~6,600 |
 | Are You Packin'? | 25.00% | ~5,892 |
 | G3 Graduation | 25.00% | ~5,892 |
-| RIP Davey Glutes | 24.00% | ~5,656 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,656 |
+| RIP Davey Glutes | 24.00% | ~5,657 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,657 |
 | Hardest Battle In The Game | 22.00% | ~5,185 |
 | Series Wrap on Suit-O | 22.00% | ~5,185 |
-| Lezduit! | 20.00% | ~4,713 |
-| Who's The Boss? | 20.00% | ~4,713 |
+| Lezduit! | 20.00% | ~4,714 |
+| Who's The Boss? | 20.00% | ~4,714 |
 | Self-Actualization | 19.00% | ~4,478 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,478 |
-| Legendary Bounty Hunter | 18.00% | ~4,242 |
+| Legendary Bounty Hunter | 18.00% | ~4,243 |
 | Seeing All The Sights | 16.00% | ~3,771 |
 | Carried Stan's Load To Completion | 13.00% | ~3,064 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,828 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,121 |
-| Sequel-Bait | 8.00% | ~1,885 |
+| Sequel-Bait | 8.00% | ~1,886 |
 | Gunning For Your Job | 7.00% | ~1,650 |
 | Playing Favorites | 6.00% | ~1,414 |
 | Epic Legendary Prize | 1.00% | ~236 |
 | A Starfish Is Born | 1.00% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,566 (Ranked 102)  
+Progressed: 23,570 (Ranked 102)  
 Completed: 10 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 10 (0.04%) (Ranked 217)
 | 2023-07-27 | 23,438 | 9 |
 | 2023-07-28 | 23,481 | 9 |
 | 2023-07-29 | 23,537 | 10 |
-| 2023-07-30 | 23,566 | 10 |
+| 2023-07-30 | 23,570 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
