@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59418,
+  "EOS_Progressed": 59421,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9537,6 +9537,11 @@
       "Time": "2023-07-30T03:04:53.5344084+00:00",
       "NumProgressed": 59418,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-30T04:04:54.0762079+00:00",
+      "NumProgressed": 59421,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 67,
@@ -9548,7 +9553,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21390
+      "UsersEstimate": 21392
     },
     {
       "ID": "02",
@@ -9556,7 +9561,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13072
+      "UsersEstimate": 13073
     },
     {
       "ID": "03",
@@ -9580,7 +9585,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11289
+      "UsersEstimate": 11290
     },
     {
       "ID": "06",
@@ -9612,7 +9617,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7130
+      "UsersEstimate": 7131
     },
     {
       "ID": "10",
@@ -9708,7 +9713,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "22",
@@ -9716,7 +9721,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7130
+      "UsersEstimate": 7131
     },
     {
       "ID": "23",
@@ -9740,7 +9745,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "26",
@@ -9772,7 +9777,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "30",
@@ -9796,7 +9801,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16637
+      "UsersEstimate": 16638
     },
     {
       "ID": "33",
@@ -9804,7 +9809,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "34",
@@ -9820,7 +9825,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17231
+      "UsersEstimate": 17232
     },
     {
       "ID": "36",
@@ -9860,7 +9865,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "41",
@@ -9908,7 +9913,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "47",
@@ -10083,21 +10088,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59418,
+      "Progressed": 59421,
       "Completed": 59
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 22886,
+      "Progressed": 22889,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:04:53.5344079+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:04:54.0762074+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-07-30T02:58:37.0939871+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:04:53.5345209+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:58:32.1298601+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:04:54.0763319+00:00"
 }

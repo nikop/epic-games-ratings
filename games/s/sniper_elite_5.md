@@ -38,7 +38,7 @@ Rating: 4.41 (Ranked 675)
 | Enemy at the Gates | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
-| Tinkerer | 0.90% | ~30 |
+| Tinkerer | 1.00% | ~34 |
 | Road Rage | 0.90% | ~30 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
 | Don't hold your breath | 0.80% | ~27 |

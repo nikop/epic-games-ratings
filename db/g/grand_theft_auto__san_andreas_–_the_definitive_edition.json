@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -608,23 +608,29 @@
       "Rating": 4.55,
       "NumberOfAwards": 231,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-07-30T04:01:49.1454953+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 233,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 231
+      "Count": 233
     }
   ],
-  "EOS_Progressed": 11564,
+  "EOS_Progressed": 11565,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7792,6 +7798,11 @@
       "Time": "2023-07-30T03:07:39.4116771+00:00",
       "NumProgressed": 11564,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-30T04:08:07.9279541+00:00",
+      "NumProgressed": 11565,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7803,7 +7814,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9367
+      "UsersEstimate": 9368
     },
     {
       "ID": "ACH02",
@@ -7819,7 +7830,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH04",
@@ -7849,9 +7860,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACH08",
@@ -8082,16 +8093,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11564,
+      "Progressed": 11565,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-28T21:01:56.0954675+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:07:39.4116764+00:00",
+  "LastChanged": "2023-07-30T04:01:49.145495+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:08:07.9279537+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-07-30T03:01:23.1547355+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:07:39.4117502+00:00"
+  "LastUpdate_Ratings": "2023-07-30T04:01:49.1454959+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:08:07.9280493+00:00"
 }

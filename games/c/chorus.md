@@ -16,7 +16,7 @@ Number of Ratings: 58  (23.09.2022)
 | Helping Hand | 66.00% | ~721 |
 | Paragon | 62.00% | ~678 |
 | Old Days Born Anew | 61.00% | ~667 |
-| Full Arsenal | 56.00% | ~612 |
+| Full Arsenal | 57.00% | ~623 |
 | Controlled Demolition | 55.00% | ~601 |
 | Payback | 53.00% | ~579 |
 | Huntress | 53.00% | ~579 |

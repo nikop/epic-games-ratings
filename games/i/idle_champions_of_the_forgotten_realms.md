@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,832 |
 | Vecna Lives! | 0.90% | ~1,649 |
 | Rock and Roll | 0.90% | ~1,649 |
-| Flight of the Kindori Pod | 0.80% | ~1,465 |
+| Flight of the Kindori Pod | 0.80% | ~1,466 |
 | Tall Tales | 0.70% | ~1,282 |
 | Vecna Loots! | 0.70% | ~1,282 |
 | Topolah's Tower | 0.70% | ~1,282 |
@@ -192,6 +192,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~434 |
 | Dwarven Rumors | 0.20% | ~366 |
 | The Haunted Jungle | 0.20% | ~434 |
+| Poor Guidance | 0.20% | ~434 |
 | Rescue in the Jungle | 0.20% | ~434 |
 | All The World's A Stage | 0.20% | ~366 |
 | Keep Your Friends Close | 0.10% | ~183 |
@@ -512,14 +513,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~183 |
 | Ineffectual Intellectuals | 0.10% | ~183 |
 | The Archaeologist and the Sailor | 0.10% | ~183 |
-| Poor Guidance | 0.10% | ~217 |
 | Overwhelming Force | 0.10% | ~217 |
 | The Court of Storms | 0.10% | ~183 |
 | Coasting to the Finish | 0.10% | ~183 |
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,905 (Ranked 53)  
+Progressed: 216,916 (Ranked 53)  
 Completed: 2,137 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.99%) (Ranked 111)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 216,905 | 2,137 |
+| 2023-07-30 | 216,916 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,801 (Ranked 38)  

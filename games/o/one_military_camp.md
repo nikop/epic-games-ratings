@@ -8,7 +8,7 @@
 | First Step | 49.00% | ~54 |
 | Capitalism | 11.00% | ~12 |
 | Indebted | 10.00% | ~11 |
-| Desert Rat | 6.00% | ~7 |
+| Desert Rat | 7.00% | ~8 |
 | Green Energy | 6.00% | ~7 |
 | Health Care | 5.00% | ~6 |
 | There's something in those trees | 5.00% | ~6 |
@@ -18,11 +18,11 @@
 | Great Producer | 5.00% | ~6 |
 | Jantine: the Misfortunes of Evil | 4.00% | ~4 |
 | Desert Power | 4.00% | ~4 |
+| Self-sufficient | 4.00% | ~4 |
 | Medicine Tycoon | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
 | Outdoor Decorator | 3.00% | ~3 |
 | Property Bro | 3.00% | ~3 |
-| Self-sufficient | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7272,
+  "EOS_Progressed": 7273,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -6454,6 +6454,11 @@
       "Time": "2023-07-30T03:06:02.3970429+00:00",
       "NumProgressed": 7272,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T04:06:15.5494101+00:00",
+      "NumProgressed": 7273,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6465,7 +6470,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6036
+      "UsersEstimate": 6037
     },
     {
       "ID": "ACH02",
@@ -6601,7 +6606,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH19",
@@ -6696,7 +6701,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7272,
+      "Progressed": 7273,
       "Completed": 41
     }
   ],
@@ -6704,8 +6709,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-27T20:59:22.1321336+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:06:02.3970422+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:06:15.5494094+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-30T02:58:49.5546771+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:06:02.3971041+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:58:47.95405+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:06:15.5495443+00:00"
 }

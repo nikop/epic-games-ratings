@@ -5380,9 +5380,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216905,
+  "EOS_Progressed": 216916,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2220,
+  "EOS_NewPlayers": 2219,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16185,6 +16185,11 @@
       "Time": "2023-07-30T03:04:14.7041693+00:00",
       "NumProgressed": 216905,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T04:04:07.678673+00:00",
+      "NumProgressed": 216916,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -20082,9 +20087,9 @@
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_completed_97",
@@ -20252,7 +20257,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "objective_completed_1386",
@@ -20291,21 +20296,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183179,
+      "Progressed": 183190,
       "Completed": 3027
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216905,
+      "Progressed": 216916,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:04:14.7041686+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:04:07.6786725+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T02:59:08.9049531+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:04:14.707811+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:59:09.316705+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:04:07.6819495+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,7 +358,7 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1085,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -1918,6 +1918,11 @@
       "Time": "2023-07-29T22:04:16.6412105+00:00",
       "NumProgressed": 1085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T04:04:25.4712383+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1983,9 +1988,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1064
     },
     {
       "ID": "EXPERT_1",
@@ -2049,7 +2054,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2185,7 +2190,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "VVE",
@@ -2216,15 +2221,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1085,
+      "Progressed": 1086,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:04:28.7146459+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:04:25.4712379+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-07-30T03:01:15.5080515+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:04:28.7146842+00:00"
+  "LastUpdate_Ratings": "2023-07-30T04:01:38.9535076+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:04:25.4712756+00:00"
 }

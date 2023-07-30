@@ -51,7 +51,7 @@ Rating: 4.43 (Ranked 655)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,069 (Ranked 153)  
+Progressed: 3,069 (Ranked 154)  
 Completed: 2 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |

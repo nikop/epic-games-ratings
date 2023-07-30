@@ -5,26 +5,26 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 5.00% | ~181 |
-| Feeling the beat! | 5.00% | ~181 |
-| You can pet the cat! | 5.00% | ~181 |
+| Start with a bang! | 5.00% | ~182 |
+| Feeling the beat! | 5.00% | ~182 |
+| You can pet the cat! | 5.00% | ~182 |
 | Cream of the Crop | 4.00% | ~145 |
 | Who put gears in there? | 4.00% | ~145 |
 | This will cost you big time | 3.00% | ~109 |
 | Thanks for the free chip, Peppermint! | 3.00% | ~109 |
 | I play my own way! | 3.00% | ~109 |
+| Whoa! There's ANOTHER health bar!? | 3.00% | ~109 |
 | You got this, Peppermint? | 3.00% | ~109 |
 | Z-shielding's got nothing on us! | 3.00% | ~109 |
 | Perfect Parry | 3.00% | ~109 |
 | Uh, they were broken when I got here | 3.00% | ~109 |
 | Kissing the sky! | 3.00% | ~109 |
 | Alright, that felt AWESOME! | 3.00% | ~109 |
-| NOW we got a kickass hideout! | 3.00% | ~64 |
+| NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
 | Headliner | 2.00% | ~73 |
 | Time to pay up! | 2.00% | ~73 |
 | Who's the boss now? | 2.00% | ~73 |
-| Whoa! There's ANOTHER health bar!? | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
 | Out in a puff of smoke | 2.00% | ~73 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,629 (Ranked 146)  
+Progressed: 3,631 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 6 (0.17%) (Ranked 177)
 | 2023-07-27 | 3,601 | 6 |
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
-| 2023-07-30 | 3,629 | 6 |
+| 2023-07-30 | 3,631 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

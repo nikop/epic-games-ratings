@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -523,6 +523,11 @@
       "Time": "2023-07-28T08:04:29.27527+00:00",
       "NumProgressed": 664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T04:04:31.8031081+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -556,9 +561,9 @@
       "ID": "2DigitGoalTrophy",
       "SetID": "32aeje8",
       "Name": "GOOOAAAL",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -580,9 +585,9 @@
       "ID": "4HopperTrophy",
       "SetID": "32aeje8",
       "Name": "Fetch Quest Complete",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 598
     },
     {
       "ID": "AhoyTrophy",
@@ -678,7 +683,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "Ext4Trophy",
@@ -710,7 +715,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "GoldGuyTrophy",
@@ -814,7 +819,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MaxPriceTrophy",
@@ -965,7 +970,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 0
     }
   ],
@@ -973,8 +978,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:04:34.046224+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:04:31.8031077+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.8292107+00:00",
-  "LastUpdate_Ratings": "2023-07-30T02:59:14.4624601+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:04:34.0462781+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:59:15.5230619+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:04:31.8031639+00:00"
 }

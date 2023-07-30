@@ -13,7 +13,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 1.00% | ~31 |
 | Purging Spree | 1.00% | ~31 |
 | An Ill Omen | 1.00% | ~31 |
-| Bloodless | 0.90% | ~28 |
+| Bloodless | 1.00% | ~31 |
 | Friendly Fire | 0.60% | ~18 |
 | A Foul Creche | 0.60% | ~18 |
 | Surgical Excision | 0.50% | ~15 |
@@ -32,7 +32,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
+| Clean Slate | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
+| Fleetmaster | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
 | Corruption Cleanser | 0.10% | ~3 |
 | Exterminator | 0.10% | ~3 |
@@ -58,11 +60,9 @@ Number of Ratings: 371  (23.09.2022)
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |
-| Clean Slate | 0.00% | ~0 |
 | Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
-| Fleetmaster | 0.00% | ~0 |
 | For the Machine God | 0.00% | ~0 |
 | Unstable Immaterium | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,069 (Ranked 153)  
+Progressed: 3,070 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 3,054 | 0 |
 | 2023-07-28 | 3,064 | 0 |
 | 2023-07-29 | 3,069 | 0 |
+| 2023-07-30 | 3,070 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 264)  
 Sum: 459 (Ranked 303)  

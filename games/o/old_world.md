@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.70% | ~92 |
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
+| Learned | 0.70% | ~92 |
 | Noble | 0.70% | ~92 |
 | Pioneer | 0.70% | ~92 |
 | Strong | 0.70% | ~92 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.70% | ~92 |
 | Glorious | 0.60% | ~79 |
 | Keystone | 0.60% | ~79 |
-| Learned | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
 | Developing Cities | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |

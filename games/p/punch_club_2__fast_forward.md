@@ -38,19 +38,19 @@
 | Your own way | 49.00% | ~88 |
 | Escaped from a big trouble | 45.00% | ~81 |
 | Now you are worthy | 44.00% | ~79 |
-| No blades in the gym | 41.00% | ~73 |
+| No blades in the gym | 42.00% | ~75 |
 | Guiding on the right path | 40.00% | ~72 |
 | Mysterious voice | 39.00% | ~70 |
 | Fight is life | 38.00% | ~68 |
+| GYM professional | 35.00% | ~63 |
 | Responsible approach | 35.00% | ~63 |
-| GYM professional | 34.00% | ~61 |
+| Underground dwellers | 33.00% | ~59 |
 | Deal with life | 32.00% | ~57 |
 | Champion – no way back | 32.00% | ~57 |
 | Get out of my apartment! | 32.00% | ~57 |
-| Underground dwellers | 32.00% | ~57 |
+| Mom got better | 31.00% | ~55 |
 | Poisoned fighter | 31.00% | ~55 |
-| Mom got better | 30.00% | ~54 |
-| The die is cast | 30.00% | ~54 |
+| The die is cast | 31.00% | ~55 |
 | Seashell hunter | 30.00% | ~54 |
 | Undercover robot | 29.00% | ~52 |
 | Gang wrangler | 28.00% | ~50 |

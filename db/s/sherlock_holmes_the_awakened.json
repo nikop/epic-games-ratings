@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.42,
+  "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1942,6 +1942,11 @@
       "Time": "2023-07-29T13:08:02.0333903+00:00",
       "NumProgressed": 566,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-30T04:07:39.1997948+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1953,15 +1958,15 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 374
+      "UsersEstimate": 369
     },
     {
       "ID": "MQ02_1",
@@ -1969,7 +1974,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MQ02_2",
@@ -2001,7 +2006,7 @@
       "Name": "Fond Memories",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "MQ03_2",
@@ -2017,7 +2022,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MQ03_4",
@@ -2033,7 +2038,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MQ04_1",
@@ -2057,7 +2062,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MQ05_1",
@@ -2121,7 +2126,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ07_1",
@@ -2153,7 +2158,7 @@
       "Name": "Up In Flames",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ08_3",
@@ -2161,7 +2166,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "PLTN",
@@ -2176,7 +2181,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 25
     }
   ],
@@ -2184,8 +2189,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-30T03:07:14.900616+00:00",
+  "LastChanged_Achievements": "2023-07-30T04:07:39.1997943+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-30T02:58:10.3465945+00:00",
-  "LastUpdate_Achievements": "2023-07-30T03:07:14.9006489+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:58:00.6740864+00:00",
+  "LastUpdate_Achievements": "2023-07-30T04:07:39.1998274+00:00"
 }
