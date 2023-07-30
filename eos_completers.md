@@ -15,7 +15,7 @@
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.38% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.50% |
+| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.24% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.43% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
@@ -66,8 +66,8 @@
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.11% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.92% |
-| 68 | [HordeCore](games/h/hordecore.md) | 2.91% |
+| 67 | [HordeCore](games/h/hordecore.md) | 2.91% |
+| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.91% |
 | 69 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
@@ -111,11 +111,11 @@
 | 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 111 | [Adios](games/a/adios.md) | 0.99% |
-| 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 112 | [Sable](games/s/sable.md) | 0.98% |
+| 111 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 113 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 118 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
@@ -171,11 +171,11 @@
 | 169 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.23% |
 | 170 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 170 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
-| 172 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 172 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 172 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 172 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
-| 172 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 172 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 173 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
+| 173 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 173 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 173 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 177 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
 | 177 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 177 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
