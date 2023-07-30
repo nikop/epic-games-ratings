@@ -35,7 +35,7 @@ Rating: 4.27 (Ranked 803)
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 373 (Ranked 237)  
-Completed: 2 (0.54%) (Ranked 132)  
+Completed: 2 (0.54%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

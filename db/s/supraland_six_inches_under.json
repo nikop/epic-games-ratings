@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -351,7 +351,7 @@
   ],
   "EOS_Progressed": 2176,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 11.95,
   "EosHistory": [
@@ -1652,9 +1652,9 @@
       "ID": "Magnet",
       "SetID": "5lok9mm",
       "Name": "Magnet",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1980
     },
     {
       "ID": "MagnetRepel",
@@ -1860,8 +1860,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:02:28.0926553+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:02:04.1940514+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:50.568035+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:01:34.4827452+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:02:28.0927243+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:00:57.3886793+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:02:04.1941516+00:00"
 }

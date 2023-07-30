@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -810,8 +810,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:04:44.47364+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:04:31.6670713+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:59:58.0407111+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:04:44.4736795+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:59:37.0129922+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:04:31.6671263+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 162,
+  "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
@@ -1808,6 +1808,6 @@
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
   "LastChanged": "2023-07-28T17:58:05.7373555+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.3807149+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:58:11.4485101+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:06:16.515988+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:58:07.315414+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:05:49.5446083+00:00"
 }

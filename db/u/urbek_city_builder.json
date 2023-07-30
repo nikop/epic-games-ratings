@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -847,9 +847,9 @@
       "ID": "ARCHIPIELAGO3_1",
       "SetID": "44dlcg0",
       "Name": "Full archipelago",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ARCHIPIELAGO_1",
@@ -1472,8 +1472,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:08:08.9823117+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:07:24.2345629+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.1827432+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:00:05.891745+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:08:08.9824062+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:59:44.4516519+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:07:24.2346603+00:00"
 }

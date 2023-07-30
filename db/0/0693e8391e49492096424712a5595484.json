@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 270,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
@@ -1055,9 +1055,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "BroomAmanita",
@@ -1079,9 +1079,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "DevilRope",
@@ -1127,9 +1127,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "HastrmanAcorn",
@@ -1175,9 +1175,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "PitSoul",
@@ -1231,9 +1231,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "PrincessThrone",
@@ -1247,9 +1247,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "RogueEat",
@@ -1319,9 +1319,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "WormGrilled",
@@ -1342,8 +1342,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:07:08.3352859+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:06:32.8348393+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:57:23.7804786+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:07:08.33534+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:57:28.4939544+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:06:32.8348834+00:00"
 }

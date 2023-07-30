@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 24.00% | ~713 |
+| Wakey Wakey | 24.00% | ~714 |
 | Sputnik 2049 | 21.00% | ~624 |
-| Infinite Growth... | 20.00% | ~594 |
-| Without Breaking Some Eggs... | 19.00% | ~564 |
+| Infinite Growth... | 20.00% | ~595 |
+| Without Breaking Some Eggs... | 19.00% | ~565 |
 | A Thousand Strong | 14.00% | ~416 |
 | Ready for a New World | 14.00% | ~416 |
 | Space Society | 13.00% | ~386 |
@@ -17,8 +17,8 @@ Rating: 4.55 (Ranked 481)
 | Fully Recycled | 10.00% | ~297 |
 | Ain't Nobody Got Time for That | 10.00% | ~297 |
 | The Ship of Theseus | 10.00% | ~297 |
-| Exceeding Capacity | 9.00% | ~267 |
-| Hope Seeker | 9.00% | ~267 |
+| Exceeding Capacity | 9.00% | ~268 |
+| Hope Seeker | 9.00% | ~268 |
 | A Hunk of Junk | 8.00% | ~238 |
 | Breaking Protocol | 8.00% | ~238 |
 | Man's Best Friend | 6.00% | ~178 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,971 (Ranked 157)  
+Progressed: 2,973 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
-| 2023-07-30 | 2,971 | 0 |
+| 2023-07-30 | 2,973 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

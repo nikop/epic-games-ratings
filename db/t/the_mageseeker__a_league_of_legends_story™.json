@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3621,9 +3621,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 620
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3646,8 +3646,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:03:28.7171551+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:03:27.6937585+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:58:24.2142508+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:03:28.717269+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:58:21.411156+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:03:27.6938449+00:00"
 }

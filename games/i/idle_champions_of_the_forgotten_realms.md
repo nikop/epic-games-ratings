@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,834 |
 | Vecna Lives! | 0.90% | ~1,651 |
 | Rock and Roll | 0.90% | ~1,651 |
-| Flight of the Kindori Pod | 0.80% | ~1,467 |
+| Flight of the Kindori Pod | 0.80% | ~1,468 |
 | Tall Tales | 0.70% | ~1,284 |
 | Vecna Loots! | 0.70% | ~1,284 |
 | Topolah's Tower | 0.70% | ~1,284 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.50% | ~1,086 |
 | A Mysterious Summons | 0.50% | ~1,086 |
 | Building Trust | 0.50% | ~1,086 |
+| No Time To Rest | 0.50% | ~1,086 |
 | The Mists of Ravenloft | 0.50% | ~1,086 |
 | The Dinner Party | 0.50% | ~1,086 |
 | The Mad Wizard | 0.50% | ~1,086 |
@@ -52,7 +53,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~869 |
 | Street War | 0.40% | ~869 |
 | March of the Undead | 0.40% | ~869 |
-| No Time To Rest | 0.40% | ~869 |
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
 | The Botched Kidnapping | 0.40% | ~869 |
@@ -60,7 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
-| Upholding the Law | 0.30% | ~651 |
+| Upholding the Law | 0.30% | ~652 |
 | Nightmare Rats! | 0.30% | ~550 |
 | Hither of the Feywild | 0.30% | ~550 |
 | The Prince of a Thousand Enemies | 0.30% | ~550 |
@@ -73,41 +73,41 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~550 |
 | Who Lurks Below? | 0.30% | ~550 |
 | Xanathaaaaaaar! | 0.30% | ~550 |
-| Homecoming | 0.30% | ~651 |
-| The Lost Heir of Omu | 0.30% | ~651 |
+| Homecoming | 0.30% | ~652 |
+| The Lost Heir of Omu | 0.30% | ~652 |
 | No One Can Hear You Scream | 0.30% | ~550 |
 | Welcome to the Rock | 0.30% | ~550 |
-| The Forbidden City | 0.30% | ~651 |
-| Captured! | 0.30% | ~651 |
-| Force Grey Unleashed | 0.30% | ~651 |
-| Wisdom Check | 0.30% | ~651 |
-| A Grand Puzzle | 0.30% | ~651 |
-| Tomb of the Nine Gods | 0.30% | ~651 |
-| The Immortal Warrior | 0.30% | ~651 |
-| The Wyrmheart Mine | 0.30% | ~651 |
-| Tower on the Lake | 0.30% | ~651 |
-| Trollskull Manor | 0.30% | ~651 |
-| The Ring of Regeneration | 0.30% | ~651 |
-| The Crumbling Temple | 0.30% | ~651 |
-| The Death Curse | 0.30% | ~651 |
-| Seeking Allies | 0.30% | ~651 |
-| Are Ya Chicken? | 0.30% | ~651 |
-| Useless Allies | 0.30% | ~651 |
-| Mad Cow Disease | 0.30% | ~651 |
-| Exploring Port Nyanzaru | 0.30% | ~651 |
-| A Tale of Two Cities | 0.30% | ~651 |
-| Running of the Saurs | 0.30% | ~651 |
-| The Contagious Curse | 0.30% | ~651 |
-| Escort to Waterdeep | 0.30% | ~651 |
+| The Forbidden City | 0.30% | ~652 |
+| Captured! | 0.30% | ~652 |
+| Force Grey Unleashed | 0.30% | ~652 |
+| Wisdom Check | 0.30% | ~652 |
+| A Grand Puzzle | 0.30% | ~652 |
+| Tomb of the Nine Gods | 0.30% | ~652 |
+| The Immortal Warrior | 0.30% | ~652 |
+| The Wyrmheart Mine | 0.30% | ~652 |
+| Tower on the Lake | 0.30% | ~652 |
+| Trollskull Manor | 0.30% | ~652 |
+| The Ring of Regeneration | 0.30% | ~652 |
+| The Crumbling Temple | 0.30% | ~652 |
+| The Death Curse | 0.30% | ~652 |
+| Seeking Allies | 0.30% | ~652 |
+| Are Ya Chicken? | 0.30% | ~652 |
+| Useless Allies | 0.30% | ~652 |
+| Mad Cow Disease | 0.30% | ~652 |
+| Exploring Port Nyanzaru | 0.30% | ~652 |
+| A Tale of Two Cities | 0.30% | ~652 |
+| Running of the Saurs | 0.30% | ~652 |
+| The Contagious Curse | 0.30% | ~652 |
+| Escort to Waterdeep | 0.30% | ~652 |
 | The Giant's Bane Tavern | 0.30% | ~550 |
-| Waterdeep Detours | 0.30% | ~651 |
-| Lost in the Deep | 0.30% | ~651 |
-| Easily Distracted | 0.30% | ~651 |
-| Underdeep Cartography | 0.30% | ~651 |
-| Friendly Imps | 0.30% | ~651 |
-| Overdue Rendezvous | 0.30% | ~651 |
-| Pure Energy | 0.30% | ~651 |
-| The Templar's Camp | 0.30% | ~651 |
+| Waterdeep Detours | 0.30% | ~652 |
+| Lost in the Deep | 0.30% | ~652 |
+| Easily Distracted | 0.30% | ~652 |
+| Underdeep Cartography | 0.30% | ~652 |
+| Friendly Imps | 0.30% | ~652 |
+| Overdue Rendezvous | 0.30% | ~652 |
+| Pure Energy | 0.30% | ~652 |
+| The Templar's Camp | 0.30% | ~652 |
 | Willing to Sacrifice | 0.30% | ~550 |
 | Devilishly Cold | 0.30% | ~550 |
 | Tiny Treaty | 0.30% | ~550 |
@@ -120,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.20% | ~367 |
 | The Spire of Iriolarthas | 0.20% | ~367 |
 | The Fall of Ythryn | 0.20% | ~367 |
+| A Lesson in Classes | 0.20% | ~367 |
 | Slack-jawed Lorna | 0.20% | ~367 |
 | The Fairy Rings of Thither | 0.20% | ~367 |
 | Bully for You! | 0.20% | ~367 |
@@ -213,7 +214,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Squeeze the Spiders | 0.10% | ~183 |
 | Always Watching | 0.10% | ~183 |
 | Icequake | 0.10% | ~183 |
-| A Lesson in Classes | 0.10% | ~183 |
 | Uncommon Allies | 0.10% | ~183 |
 | The Birds | 0.10% | ~183 |
 | Where the Magic Happens | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,155 (Ranked 53)  
+Progressed: 217,169 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,155 | 2,137 |
+| 2023-07-30 | 217,169 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  

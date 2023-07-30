@@ -836,9 +836,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_ACT3",
@@ -868,9 +868,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ACT7",
@@ -997,8 +997,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:08:07.1926965+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:07:22.6235025+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2377059+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:58:17.0955566+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:08:07.1927211+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:58:13.5982658+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:07:22.6235442+00:00"
 }

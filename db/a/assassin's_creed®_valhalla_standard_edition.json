@@ -2,7 +2,7 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 520,
@@ -7678,10 +7678,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 30365,
       "NumberOfAwardsMax": 13003
+    },
+    {
+      "Time": "2023-07-30T18:58:26.5234098+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 30367,
+      "NumberOfAwardsMax": 13003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30365,
+  "NumberOfAwards": 30367,
   "NumberOfAwardsMax": 13003,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7701,7 +7707,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1096
+      "Count": 1098
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7769,8 +7775,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-07-30T14:57:55.7621513+00:00",
+  "LastChanged": "2023-07-30T18:58:26.5234096+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.1854355+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:58:31.3280102+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:05:36.9731796+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:58:26.5234103+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:05:15.2688577+00:00"
 }

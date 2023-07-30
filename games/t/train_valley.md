@@ -29,7 +29,7 @@ Number of Ratings: 28  (23.09.2022)
 | America | 16.00% | ~65 |
 | Woodcutter | 11.00% | ~45 |
 | Engineer | 11.00% | ~45 |
-| Achtung! | 10.00% | ~40 |
+| Achtung! | 11.00% | ~45 |
 | Japan | 9.00% | ~36 |
 | Tycoon | 8.00% | ~32 |
 | Germany | 6.00% | ~24 |

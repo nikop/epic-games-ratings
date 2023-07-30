@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 496)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,217 |
-| Greasy Palms | 41.00% | ~3,843 |
-| South American Connection | 25.00% | ~2,343 |
-| Life of the Party | 20.00% | ~1,874 |
+| Legal Counsel | 45.00% | ~4,219 |
+| Greasy Palms | 41.00% | ~3,844 |
+| South American Connection | 25.00% | ~2,344 |
+| Life of the Party | 20.00% | ~1,875 |
 | Tommy Two-Wheels | 15.00% | ~1,406 |
-| Big Heat from Little Havana | 14.00% | ~1,312 |
-| Chauffeur | 14.00% | ~1,312 |
+| Big Heat from Little Havana | 14.00% | ~1,313 |
+| Chauffeur | 14.00% | ~1,313 |
 | Salutations My Little Friend | 11.00% | ~1,031 |
-| Iron-y | 10.00% | ~937 |
-| Gun for Hire | 9.00% | ~843 |
+| Iron-y | 10.00% | ~938 |
+| Gun for Hire | 9.00% | ~844 |
 | Mischief Managed | 8.00% | ~750 |
 | Vice City Mogul | 7.00% | ~656 |
 | Catch Me if You Can | 6.00% | ~562 |
@@ -29,10 +29,10 @@ Rating: 4.54 (Ranked 496)
 | Somebody Call the Wambulance? | 3.00% | ~281 |
 | Just Like the Real Thing | 3.00% | ~281 |
 | Don't Need Roads | 3.00% | ~281 |
-| One is Better Than Two | 2.00% | ~187 |
-| Take the Cannoli | 2.00% | ~187 |
-| Chopper’d Up | 2.00% | ~187 |
-| City Sleuth | 2.00% | ~187 |
+| One is Better Than Two | 2.00% | ~188 |
+| Take the Cannoli | 2.00% | ~188 |
+| Chopper’d Up | 2.00% | ~188 |
+| City Sleuth | 2.00% | ~188 |
 | Daredevil | 1.00% | ~94 |
 | Born in the 80’s | 0.90% | ~84 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~84 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 496)
 | Done it All | 0.80% | ~75 |
 | Kingpin | 0.50% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,372 (Ranked 123)  
+Progressed: 9,375 (Ranked 123)  
 Completed: 43 (0.46%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 43 (0.46%) (Ranked 140)
 | 2023-07-27 | 9,264 | 43 |
 | 2023-07-28 | 9,303 | 43 |
 | 2023-07-29 | 9,343 | 43 |
-| 2023-07-30 | 9,372 | 43 |
+| 2023-07-30 | 9,375 | 43 |
 ## Awards
 Max (Great Boss Battles): 64  (Ranked 385)  
 Sum: 64 (Ranked 442)  

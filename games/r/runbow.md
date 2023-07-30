@@ -5,36 +5,36 @@ Rating: 4.46 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,108 |
-| My First Runbow | 50.00% | ~123,687 |
-| It's The Fall | 26.00% | ~64,317 |
+| In The Zone | 53.00% | ~131,110 |
+| My First Runbow | 50.00% | ~123,689 |
+| It's The Fall | 26.00% | ~64,318 |
 | Be Aggressive | 21.00% | ~51,949 |
 | The Stunner | 21.00% | ~51,949 |
-| Curator | 20.00% | ~49,475 |
-| Crowning Around | 18.00% | ~44,527 |
+| Curator | 20.00% | ~49,476 |
+| Crowning Around | 18.00% | ~44,528 |
 | Can You Dig It? | 17.00% | ~42,054 |
 | You Juan-A-Go? | 16.00% | ~39,580 |
-| Chan-tastic | 15.00% | ~37,106 |
-| Muddy Waters | 14.00% | ~34,632 |
+| Chan-tastic | 15.00% | ~37,107 |
+| Muddy Waters | 14.00% | ~34,633 |
 | Toasty! | 13.00% | ~32,159 |
 | Lazy Laser | 8.00% | ~19,790 |
 | Just A Phaze | 7.00% | ~17,316 |
 | Into The Drift | 7.00% | ~17,316 |
 | Ready? Fight! | 7.00% | ~17,316 |
-| Butt Butt | 6.00% | ~14,842 |
+| Butt Butt | 6.00% | ~14,843 |
 | He Who Laughs Last | 3.00% | ~7,421 |
 | Shoo, Cat! | 3.00% | ~7,421 |
-| And You're Okay | 2.00% | ~4,947 |
-| Blotbuster | 2.00% | ~4,947 |
-| Thunderstruck | 2.00% | ~4,947 |
+| And You're Okay | 2.00% | ~4,948 |
+| Blotbuster | 2.00% | ~4,948 |
+| Thunderstruck | 2.00% | ~4,948 |
 | Just A Bit | 1.00% | ~2,474 |
 | Tubular, Dude | 1.00% | ~2,474 |
 | What A Trip | 0.90% | ~2,226 |
 | Here We Go! | 0.80% | ~1,979 |
 | Please The King | 0.80% | ~1,979 |
 | Clear-Cut | 0.50% | ~1,237 |
-| Breaking Out | 0.40% | ~989 |
-| Disposable | 0.40% | ~989 |
+| Breaking Out | 0.40% | ~990 |
+| Disposable | 0.40% | ~990 |
 | A Winner Is You | 0.20% | ~495 |
 | Final Nightmare | 0.20% | ~495 |
 | I'm Here All Night | 0.20% | ~495 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 611)
 | Talent Scout | 0.10% | ~247 |
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,374 (Ranked 44)  
+Progressed: 247,378 (Ranked 44)  
 Completed: 3 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 3 (0.00%) (Ranked 246)
 | 2023-07-27 | 247,213 | 3 |
 | 2023-07-28 | 247,260 | 3 |
 | 2023-07-29 | 247,327 | 3 |
-| 2023-07-30 | 247,374 | 3 |
+| 2023-07-30 | 247,378 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

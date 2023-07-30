@@ -42,11 +42,11 @@ Rating: 4.87 (Ranked 24)
 | Call me Turbo Chai | 0.70% | ~15 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
+| I hit things with a guitar really well. | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | This is a breeze! | 0.40% | ~15 |
 | We're Jammin' | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
-| I hit things with a guitar really well. | 0.40% | ~15 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | I'm not done with you yet | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~6 |

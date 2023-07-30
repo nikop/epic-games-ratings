@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -633,9 +633,9 @@
       "ID": "21",
       "SetID": "4n5bj21",
       "Name": "Participation trophy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 184
     },
     {
       "ID": "22",
@@ -810,8 +810,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:04:24.5816629+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:04:15.0519125+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.7257654+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:59:25.907066+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:04:24.581695+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:59:07.5447648+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:04:15.0519441+00:00"
 }

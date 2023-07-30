@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 14.06,
+  "EOS_Completed_Percentage": 13.85,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -241,6 +241,11 @@
       "Time": "2023-07-30T18:04:54.714916+00:00",
       "NumProgressed": 64,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-30T19:04:40.3362941+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -251,7 +256,7 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 19
     },
@@ -285,7 +290,7 @@
       "Name": "Test Task",
       "Percentage": 95,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Floppy",
@@ -299,7 +304,7 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 70,
       "UsersEstimate": 53
     },
@@ -323,7 +328,7 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -331,7 +336,7 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 70,
       "UsersEstimate": 24
     },
@@ -339,7 +344,7 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 70,
       "UsersEstimate": 47
     },
@@ -364,14 +369,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:04:54.7149155+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:04:40.3362931+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-30T17:57:14.0454642+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:04:54.7149289+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:57:18.8115691+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:04:40.336308+00:00"
 }

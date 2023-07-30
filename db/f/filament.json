@@ -231,9 +231,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 197792,
+  "EOS_Progressed": 197797,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -10996,6 +10996,11 @@
       "Time": "2023-07-30T18:02:24.2358668+00:00",
       "NumProgressed": 197792,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-07-30T19:01:40.941239+00:00",
+      "NumProgressed": 197797,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 29,
@@ -11031,7 +11036,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185924
+      "UsersEstimate": 185929
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -11191,7 +11196,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19779
+      "UsersEstimate": 19780
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -11207,7 +11212,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13845
+      "UsersEstimate": 13846
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -11238,7 +11243,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 197792,
+      "Progressed": 197797,
       "Completed": 471
     }
   ],
@@ -11246,8 +11251,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:02:24.2358662+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:01:40.9412384+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:42.5561818+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:00:05.9692028+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:02:24.2359672+00:00"
+  "LastUpdate_Ratings": "2023-07-30T18:59:44.5466713+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:01:40.941398+00:00"
 }

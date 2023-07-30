@@ -47,6 +47,7 @@
 | Restorer | 0.70% | ~2 |
 | Welfare state | 0.70% | ~2 |
 | Anarchist paradise | 0.30% | ~1 |
+| Full archipelago | 0.30% | ~1 |
 | I can't breathe | 0.30% | ~1 |
 | Urban style | 0.30% | ~1 |
 | Full desert | 0.30% | ~1 |
@@ -57,7 +58,6 @@
 | Restorer Plus | 0.30% | ~1 |
 | Full temperate | 0.30% | ~1 |
 | Temperate master | 0.30% | ~1 |
-| Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |

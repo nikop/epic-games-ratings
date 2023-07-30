@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 94,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -182,6 +182,11 @@
       "Time": "2023-07-30T18:06:14.3341916+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T19:05:47.7402652+00:00",
+      "NumProgressed": 1519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -232,9 +237,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 243
     },
     {
       "ID": "15",
@@ -282,7 +287,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "20",
@@ -370,7 +375,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 197
     },
     {
       "ID": "30",
@@ -433,14 +438,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-30T18:06:14.334191+00:00",
+  "LastChanged_Achievements": "2023-07-30T19:05:47.7402644+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:00:31.5822709+00:00",
-  "LastUpdate_Achievements": "2023-07-30T18:06:14.3342178+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:00:01.1880691+00:00",
+  "LastUpdate_Achievements": "2023-07-30T19:05:47.7403055+00:00"
 }
