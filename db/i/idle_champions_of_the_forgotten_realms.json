@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5380,9 +5380,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216891,
+  "EOS_Progressed": 216905,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2218,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16180,6 +16180,11 @@
       "Time": "2023-07-30T01:59:58.7157138+00:00",
       "NumProgressed": 216891,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T03:04:14.7041693+00:00",
+      "NumProgressed": 216905,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16271,7 +16276,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1052",
@@ -16359,7 +16364,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1066",
@@ -16431,7 +16436,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1081",
@@ -16463,7 +16468,7 @@
       "Name": "Downfall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1086",
@@ -16623,7 +16628,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_1111",
@@ -16663,7 +16668,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_1121",
@@ -16807,7 +16812,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_1152",
@@ -16823,7 +16828,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1154",
@@ -16831,7 +16836,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1158",
@@ -16863,7 +16868,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1163",
@@ -16871,7 +16876,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "objective_completed_1164",
@@ -16887,7 +16892,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1168",
@@ -16903,7 +16908,7 @@
       "Name": "Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_117",
@@ -17055,7 +17060,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_1203",
@@ -17095,7 +17100,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1214",
@@ -17111,7 +17116,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1219",
@@ -17167,7 +17172,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_130",
@@ -17263,7 +17268,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1346",
@@ -17279,7 +17284,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1351",
@@ -17295,7 +17300,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_149",
@@ -17311,7 +17316,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_150",
@@ -17383,7 +17388,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_165",
@@ -17415,7 +17420,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_17",
@@ -17519,7 +17524,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_20",
@@ -17607,7 +17612,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_231",
@@ -20135,7 +20140,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1047",
@@ -20143,7 +20148,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1215",
@@ -20167,7 +20172,7 @@
       "Name": "Tiny Treaty",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1332",
@@ -20231,7 +20236,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "objective_completed_1381",
@@ -20255,7 +20260,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1390",
@@ -20286,21 +20291,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183165,
-      "Completed": 3026
+      "Progressed": 183179,
+      "Completed": 3027
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216891,
+      "Progressed": 216905,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
-  "LastChanged_Achievements": "2023-07-30T01:59:58.7157131+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:04:14.7041686+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:55:12.0623957+00:00",
-  "LastUpdate_Achievements": "2023-07-30T01:59:58.7204851+00:00"
+  "LastUpdate_Ratings": "2023-07-30T02:59:08.9049531+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:04:14.707811+00:00"
 }

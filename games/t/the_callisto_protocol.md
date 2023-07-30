@@ -7,10 +7,10 @@ Rating: 4.20 (Ranked 846)
 | ---- | ---------- | ----- |
 | Get a Grip | 4.00% | ~631 |
 | Paper Jams | 4.00% | ~631 |
-| Flesh Wound | 3.00% | ~473 |
-| Two Heads Are Better Than One | 3.00% | ~473 |
-| Chew 'Em Up | 3.00% | ~473 |
-| Float Like A Butterfly | 3.00% | ~473 |
+| Flesh Wound | 3.00% | ~474 |
+| Two Heads Are Better Than One | 3.00% | ~474 |
+| Chew 'Em Up | 3.00% | ~474 |
+| Float Like A Butterfly | 3.00% | ~474 |
 | Keep Fighting | 3.00% | ~111 |
 | It's Time | 3.00% | ~111 |
 | Giving Back | 2.00% | ~316 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 846)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,783 (Ranked 113)  
+Progressed: 15,784 (Ranked 113)  
 Completed: 71 (0.45%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 71 (0.45%) (Ranked 141)
 | 2023-07-27 | 15,776 | 70 |
 | 2023-07-28 | 15,778 | 70 |
 | 2023-07-29 | 15,782 | 71 |
-| 2023-07-30 | 15,783 | 71 |
+| 2023-07-30 | 15,784 | 71 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 372)  
 Sum: 399 (Ranked 314)  

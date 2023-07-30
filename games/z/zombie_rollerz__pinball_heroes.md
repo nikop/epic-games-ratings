@@ -43,9 +43,9 @@
 | Tested | 9.00% | ~11 |
 | The Astronaut | 8.00% | ~10 |
 | Highway to Hell | 7.00% | ~8 |
+| Power Overwhelming | 6.00% | ~7 |
 | The Exorcist | 6.00% | ~7 |
 | Mithril | 6.00% | ~7 |
-| Power Overwhelming | 5.00% | ~6 |
 | Aluminum | 5.00% | ~6 |
 | Analyzed | 4.00% | ~5 |
 | Anvil | 4.00% | ~5 |

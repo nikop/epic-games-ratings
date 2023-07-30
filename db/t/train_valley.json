@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-07-30T02:00:34.3238522+00:00",
       "NumProgressed": 400,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-30T03:04:49.1743648+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -695,7 +700,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "02_collector",
@@ -709,9 +714,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "04_tycoon",
@@ -789,9 +794,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "14_woodcutter",
@@ -805,7 +810,7 @@
       "ID": "15_bbq",
       "SetID": "chb1m60",
       "Name": "BBQ",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -823,7 +828,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "18_foreman",
@@ -845,9 +850,9 @@
       "ID": "20_sabotage",
       "SetID": "chb1m60",
       "Name": "Sabotage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "21_missed",
@@ -871,7 +876,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "24_mega",
@@ -893,9 +898,9 @@
       "ID": "26_forgotten",
       "SetID": "chb1m60",
       "Name": "Forgotten",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "27_lucky",
@@ -909,9 +914,9 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "29_madness",
@@ -949,9 +954,9 @@
       "ID": "33_peacemaker",
       "SetID": "chb1m60",
       "Name": "Peacemaker",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "34_needtothink",
@@ -965,9 +970,9 @@
       "ID": "35_achtung",
       "SetID": "chb1m60",
       "Name": "Achtung!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "36_supercrash",
@@ -1006,15 +1011,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-30T02:00:34.3238517+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:04:49.1743643+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:54:34.4954596+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:00:34.3238938+00:00"
+  "LastUpdate_Ratings": "2023-07-30T02:58:34.2901521+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:04:49.1744043+00:00"
 }

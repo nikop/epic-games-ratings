@@ -9,8 +9,8 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic the Hedgehog | 93.00% | ~329 |
 | Newbie Hero | 82.00% | ~290 |
 | Welcome to Sonic CD | 77.00% | ~273 |
+| Welcome to Sonic the Hedgehog 2 | 76.00% | ~269 |
 | Welcome to Sonic 3 & Knuckles | 76.00% | ~269 |
-| Welcome to Sonic the Hedgehog 2 | 75.00% | ~266 |
 | Ring Collector | 72.00% | ~255 |
 | Time Traveler | 71.00% | ~251 |
 | Knuckles the Echidna | 66.00% | ~234 |
@@ -30,8 +30,8 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic the Hedgehog 2 | 45.00% | ~159 |
 | Beware Moto Bugs! | 43.00% | ~152 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 42.00% | ~149 |
+| Lucky Hedgehog | 34.00% | ~120 |
 | All Clear! | 34.00% | ~120 |
-| Lucky Hedgehog | 33.00% | ~117 |
 | To the Mirror World | 32.00% | ~113 |
 | Movie Maniac | 25.00% | ~88 |
 | Sound Savant | 25.00% | ~88 |

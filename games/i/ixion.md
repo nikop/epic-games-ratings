@@ -21,10 +21,10 @@ Rating: 4.55 (Ranked 482)
 | A Hunk of Junk | 8.00% | ~237 |
 | Exceeding Capacity | 8.00% | ~237 |
 | Breaking Protocol | 8.00% | ~237 |
-| Man's Best Friend | 6.00% | ~177 |
-| Power Outage | 6.00% | ~177 |
-| Convenient Transport | 6.00% | ~177 |
-| Please Make it Stop! | 6.00% | ~177 |
+| Man's Best Friend | 6.00% | ~178 |
+| Power Outage | 6.00% | ~178 |
+| Convenient Transport | 6.00% | ~178 |
+| Please Make it Stop! | 6.00% | ~178 |
 | Sightseeing | 5.00% | ~148 |
 | Necessary Enhancement | 5.00% | ~148 |
 | From the Past | 5.00% | ~148 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,958 (Ranked 157)  
+Progressed: 2,959 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
-| 2023-07-30 | 2,958 | 0 |
+| 2023-07-30 | 2,959 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

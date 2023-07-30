@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 239645,
+  "EOS_Progressed": 239647,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1125,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11293,6 +11293,11 @@
       "Time": "2023-07-30T01:59:30.433132+00:00",
       "NumProgressed": 239645,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-30T03:03:46.6543086+00:00",
+      "NumProgressed": 239647,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11304,7 +11309,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64704
+      "UsersEstimate": 64705
     },
     {
       "ID": "ACH_AON",
@@ -11368,7 +11373,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28757
+      "UsersEstimate": 28758
     },
     {
       "ID": "ACH_HATTRICK",
@@ -11624,7 +11629,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59911
+      "UsersEstimate": 59912
     },
     {
       "ID": "ACH_SOREAD",
@@ -11719,7 +11724,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 239645,
+      "Progressed": 239647,
       "Completed": 7
     }
   ],
@@ -11727,8 +11732,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-30T01:59:30.4331311+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:03:46.6543081+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6151057+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:54:59.4518432+00:00",
-  "LastUpdate_Achievements": "2023-07-30T01:59:30.4332481+00:00"
+  "LastUpdate_Ratings": "2023-07-30T02:58:55.9817703+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:03:46.6544171+00:00"
 }

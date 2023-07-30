@@ -19,6 +19,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Things persisted in not being what they seemed | 0.30% | ~1,392 |
 | Plan for the worst | 0.30% | ~1,392 |
 | Excelsior Rule | 0.30% | ~1,392 |
+| Hand of the Emperor | 0.30% | ~24 |
 | Chapter II: Fallible Flesh | 0.20% | ~928 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~928 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~928 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 0.20% | ~928 |
 | Back to Ganyma | 0.20% | ~928 |
 | Soldiers of Fortune | 0.20% | ~16 |
-| Hand of the Emperor | 0.20% | ~16 |
 | Chapter V: Memories of None | 0.10% | ~464 |
 | A Rock in the Dark | 0.10% | ~464 |
 | Emperor of Misery | 0.10% | ~464 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,095 (Ranked 37)  
+Progressed: 464,097 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 16 (0.00%) (Ranked 246)
 | 2023-07-27 | 463,919 | 16 |
 | 2023-07-28 | 463,997 | 16 |
 | 2023-07-29 | 464,088 | 16 |
-| 2023-07-30 | 464,095 | 16 |
+| 2023-07-30 | 464,097 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 265)  
 Sum: 214 (Ranked 360)  

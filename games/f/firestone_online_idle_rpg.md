@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 894)  
+Rating: 4.10 (Ranked 895)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -65,8 +65,8 @@ Rating: 4.10 (Ranked 894)
 | Gear Enchanting | 1.00% | ~17 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
+| Cauldron Liberator | 0.80% | ~14 |
 | Training makes a Pro player | 0.80% | ~14 |
-| Cauldron Liberator | 0.70% | ~12 |
 | Transmute | 0.70% | ~12 |
 | Titan Power | 0.60% | ~10 |
 | Tree of Life | 0.60% | ~10 |

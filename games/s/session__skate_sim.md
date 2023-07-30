@@ -6,15 +6,15 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,536 |
+| You're free now! | 58.00% | ~1,538 |
 | Keeping it classy | 26.00% | ~689 |
 | Welcome to the family | 20.00% | ~530 |
-| The finer things in life | 17.00% | ~450 |
-| Backpacker | 13.00% | ~344 |
+| The finer things in life | 17.00% | ~451 |
+| Backpacker | 13.00% | ~345 |
 | Go with the Flow | 12.00% | ~318 |
-| Plastic Surgeon | 9.00% | ~238 |
-| The flip trick crown jewel | 9.00% | ~238 |
-| The hard way | 9.00% | ~238 |
+| Plastic Surgeon | 9.00% | ~239 |
+| The flip trick crown jewel | 9.00% | ~239 |
+| The hard way | 9.00% | ~239 |
 | Good vibes | 8.00% | ~212 |
 | Keep the dream alive | 8.00% | ~212 |
 | Upfront shredder | 8.00% | ~212 |
@@ -23,14 +23,14 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~159 |
 | That pinch! | 6.00% | ~159 |
 | Tight lipslides | 6.00% | ~159 |
-| Commence the Hijinx! | 5.00% | ~132 |
-| Fulfilled the dream | 5.00% | ~132 |
-| G'Day Mate! | 5.00% | ~132 |
-| Globetrotter | 5.00% | ~132 |
-| NAHELL! | 5.00% | ~132 |
-| Purple passion | 5.00% | ~132 |
-| Squad goals | 5.00% | ~132 |
-| Sup widdit big dog! | 5.00% | ~132 |
+| Commence the Hijinx! | 5.00% | ~133 |
+| Fulfilled the dream | 5.00% | ~133 |
+| G'Day Mate! | 5.00% | ~133 |
+| Globetrotter | 5.00% | ~133 |
+| NAHELL! | 5.00% | ~133 |
+| Purple passion | 5.00% | ~133 |
+| Squad goals | 5.00% | ~133 |
+| Sup widdit big dog! | 5.00% | ~133 |
 | Cops called! | 4.00% | ~106 |
 | DIY Boss | 4.00% | ~106 |
 | G.O.A.T. status | 4.00% | ~106 |
@@ -42,12 +42,12 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 4.00% | ~106 |
 | Trick shot marksman | 4.00% | ~106 |
 | We get it, you're good | 4.00% | ~106 |
-| Hoarder | 3.00% | ~79 |
-| Pew-Pew | 3.00% | ~79 |
+| Hoarder | 3.00% | ~80 |
+| Pew-Pew | 3.00% | ~80 |
 | Cross lock country | 2.00% | ~53 |
 | Many plys later... | 2.00% | ~53 |
-| Dipped! | 1.00% | ~26 |
-| That was wheelie fun | 1.00% | ~26 |
+| Dipped! | 1.00% | ~27 |
+| That was wheelie fun | 1.00% | ~27 |
 | Skatepark hero | 0.80% | ~21 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,649 (Ranked 159)  
+Progressed: 2,651 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,630 | 0 |
 | 2023-07-28 | 2,639 | 0 |
 | 2023-07-29 | 2,648 | 0 |
-| 2023-07-30 | 2,649 | 0 |
+| 2023-07-30 | 2,651 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 440 (Ranked 305)  

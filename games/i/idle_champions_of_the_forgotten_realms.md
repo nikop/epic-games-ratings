@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 910)  
+Rating: 4.05 (Ranked 911)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 1.00% | ~2,169 |
 | Supply Run | 1.00% | ~2,169 |
 | Rocky Reception | 1.00% | ~1,832 |
-| Vecna Lives! | 0.90% | ~1,648 |
-| Rock and Roll | 0.90% | ~1,648 |
+| Vecna Lives! | 0.90% | ~1,649 |
+| Rock and Roll | 0.90% | ~1,649 |
 | Flight of the Kindori Pod | 0.80% | ~1,465 |
 | Tall Tales | 0.70% | ~1,282 |
 | Vecna Loots! | 0.70% | ~1,282 |
@@ -24,20 +24,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.60% | ~1,099 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,099 |
 | The Witchlight Carnival | 0.50% | ~916 |
-| Hatchlings Underfoot | 0.50% | ~1,084 |
-| Don't Look Up! | 0.50% | ~1,084 |
-| Heavy Burden | 0.50% | ~1,084 |
+| Hatchlings Underfoot | 0.50% | ~1,085 |
+| Don't Look Up! | 0.50% | ~1,085 |
+| Heavy Burden | 0.50% | ~1,085 |
 | The Evacuation of Waterdeep | 0.50% | ~916 |
 | Heatwave | 0.50% | ~916 |
 | The Dread Domain of Tovag | 0.50% | ~916 |
-| Were-verpowered | 0.50% | ~1,084 |
-| A Persistent Buzzing | 0.50% | ~1,084 |
-| Beast Mode | 0.50% | ~1,084 |
-| Terror in the Dark | 0.50% | ~1,084 |
-| A Mysterious Summons | 0.50% | ~1,084 |
-| Building Trust | 0.50% | ~1,084 |
-| Unearthed Evil | 0.50% | ~1,084 |
-| The Dinner Party | 0.50% | ~1,084 |
+| Were-verpowered | 0.50% | ~1,085 |
+| A Persistent Buzzing | 0.50% | ~1,085 |
+| Beast Mode | 0.50% | ~1,085 |
+| Terror in the Dark | 0.50% | ~1,085 |
+| A Mysterious Summons | 0.50% | ~1,085 |
+| Building Trust | 0.50% | ~1,085 |
+| Unearthed Evil | 0.50% | ~1,085 |
+| The Dinner Party | 0.50% | ~1,085 |
 | Not That Type of Helm! | 0.50% | ~916 |
 | Calcryx Tricks | 0.50% | ~916 |
 | Goblin Halls: the Next Generation | 0.50% | ~916 |
@@ -61,21 +61,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~733 |
 | Animated Giff | 0.40% | ~733 |
 | Upholding the Law | 0.30% | ~651 |
-| Nightmare Rats! | 0.30% | ~549 |
-| Hither of the Feywild | 0.30% | ~549 |
-| The Prince of a Thousand Enemies | 0.30% | ~549 |
-| Downfall | 0.30% | ~549 |
-| Speeds of Destruction | 0.30% | ~549 |
-| Owlbear Necessities | 0.30% | ~549 |
-| Best Thay Ever | 0.30% | ~549 |
-| A Demi-god's Defender | 0.30% | ~549 |
-| Well Equipped | 0.30% | ~549 |
-| Who Lurks Below? | 0.30% | ~549 |
-| Xanathaaaaaaar! | 0.30% | ~549 |
+| Nightmare Rats! | 0.30% | ~550 |
+| Hither of the Feywild | 0.30% | ~550 |
+| The Prince of a Thousand Enemies | 0.30% | ~550 |
+| Downfall | 0.30% | ~550 |
+| Speeds of Destruction | 0.30% | ~550 |
+| Owlbear Necessities | 0.30% | ~550 |
+| Best Thay Ever | 0.30% | ~550 |
+| A Demi-god's Defender | 0.30% | ~550 |
+| Well Equipped | 0.30% | ~550 |
+| Who Lurks Below? | 0.30% | ~550 |
+| Xanathaaaaaaar! | 0.30% | ~550 |
 | Homecoming | 0.30% | ~651 |
 | The Lost Heir of Omu | 0.30% | ~651 |
-| No One Can Hear You Scream | 0.30% | ~549 |
-| Welcome to the Rock | 0.30% | ~549 |
+| No One Can Hear You Scream | 0.30% | ~550 |
+| Welcome to the Rock | 0.30% | ~550 |
 | The Forbidden City | 0.30% | ~651 |
 | Captured! | 0.30% | ~651 |
 | Wisdom Check | 0.30% | ~651 |
@@ -102,10 +102,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~651 |
 | Pure Energy | 0.30% | ~651 |
 | The Templar's Camp | 0.30% | ~651 |
-| Willing to Sacrifice | 0.30% | ~549 |
-| Devilishly Cold | 0.30% | ~549 |
-| Tiny Treaty | 0.30% | ~549 |
-| 3,720 to 1 | 0.30% | ~549 |
+| Willing to Sacrifice | 0.30% | ~550 |
+| Devilishly Cold | 0.30% | ~550 |
+| Tiny Treaty | 0.30% | ~550 |
+| 3,720 to 1 | 0.30% | ~550 |
 | Starving in the Jungle | 0.20% | ~434 |
 | Cold as Ice | 0.20% | ~366 |
 | Friends and Foes | 0.20% | ~366 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,891 (Ranked 53)  
+Progressed: 216,905 (Ranked 53)  
 Completed: 2,137 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.99%) (Ranked 111)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 216,891 | 2,137 |
+| 2023-07-30 | 216,905 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,801 (Ranked 38)  

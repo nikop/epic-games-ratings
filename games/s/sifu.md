@@ -8,17 +8,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,056 |
 | Project Arena | 4.00% | ~845 |
-| The Old Grandmaster | 2.00% | ~14,236 |
-| The Assault | 2.00% | ~14,236 |
-| The Hateful Pole Fighter | 2.00% | ~14,236 |
-| A Lady's Blood in the Snow | 2.00% | ~14,236 |
-| Life is your teacher | 2.00% | ~14,236 |
-| State of constant learning | 2.00% | ~14,236 |
-| Qi Gong: Breath | 2.00% | ~14,236 |
-| Qi Gong: Essence | 2.00% | ~14,236 |
-| Lightning Hands | 2.00% | ~14,236 |
-| Path of the Prospect | 2.00% | ~14,236 |
-| Rumble in the Hangar | 2.00% | ~14,236 |
+| The Old Grandmaster | 2.00% | ~14,237 |
+| The Assault | 2.00% | ~14,237 |
+| The Hateful Pole Fighter | 2.00% | ~14,237 |
+| A Lady's Blood in the Snow | 2.00% | ~14,237 |
+| Life is your teacher | 2.00% | ~14,237 |
+| State of constant learning | 2.00% | ~14,237 |
+| Qi Gong: Breath | 2.00% | ~14,237 |
+| Qi Gong: Essence | 2.00% | ~14,237 |
+| Lightning Hands | 2.00% | ~14,237 |
+| Path of the Prospect | 2.00% | ~14,237 |
+| Rumble in the Hangar | 2.00% | ~14,237 |
 | Bloody Sport | 2.00% | ~423 |
 | Lady Wing Chun | 1.00% | ~7,118 |
 | Furious Fists | 1.00% | ~7,118 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,825 (Ranked 20)  
+Progressed: 711,827 (Ranked 20)  
 Completed: 12,835 (1.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 12,835 (1.80%) (Ranked 91)
 | 2023-07-27 | 711,630 | 12,833 |
 | 2023-07-28 | 711,733 | 12,834 |
 | 2023-07-29 | 711,819 | 12,835 |
-| 2023-07-30 | 711,825 | 12,835 |
+| 2023-07-30 | 711,827 | 12,835 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 53)  
 Sum: 10,838 (Ranked 80)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80492,
+  "EOS_Progressed": 80501,
   "EOS_Completed": 378,
-  "EOS_NewPlayers": 894,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -11228,6 +11228,11 @@
       "Time": "2023-07-30T02:01:24.2691886+00:00",
       "NumProgressed": 80492,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-07-30T03:05:37.8048781+00:00",
+      "NumProgressed": 80501,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 10,
@@ -11263,7 +11268,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Drawings04",
@@ -11271,7 +11276,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "DrawingsAll",
@@ -11279,7 +11284,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "DrawingsDLC",
@@ -11295,7 +11300,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8049
+      "UsersEstimate": 8050
     },
     {
       "ID": "Level00BowlingStrike",
@@ -11303,7 +11308,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28172
+      "UsersEstimate": 28175
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -11311,22 +11316,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 80492,
+      "Progressed": 80501,
       "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-30T02:01:24.2691879+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:05:37.8048776+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:25.0463004+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:57:35.4987128+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:01:24.2693176+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:01:32.5495037+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:05:37.8049565+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 74.00% | ~174 |
-| First Blood | 55.00% | ~129 |
-| Triple Kill | 55.00% | ~129 |
+| Seeds of War | 74.00% | ~175 |
+| First Blood | 55.00% | ~130 |
+| Triple Kill | 55.00% | ~130 |
 | Aspairagus | 55.00% | ~102 |
 | Survivor | 54.00% | ~100 |
 | No Asperascope | 50.00% | ~118 |
 | Cornivore | 50.00% | ~118 |
-| I Believe I Can Fly | 46.00% | ~108 |
+| I Believe I Can Fly | 46.00% | ~109 |
 | Early Survivor | 42.00% | ~78 |
 | No Diggity | 40.00% | ~74 |
 | Amateur Survivor | 30.00% | ~56 |
 | 10K | 29.00% | ~68 |
 | Bouncemato | 28.00% | ~52 |
-| 15K | 27.00% | ~63 |
-| Grave Digger | 23.00% | ~43 |
+| 15K | 27.00% | ~64 |
 | Drinking Problem | 22.00% | ~52 |
 | Quick-Draw Pod | 22.00% | ~41 |
 | Professional Survivor | 22.00% | ~41 |
+| Grave Digger | 22.00% | ~41 |
 | Pork Chop Express | 17.00% | ~40 |
 | Skin Of Your Teeth | 14.00% | ~33 |
 | This Is My Boomstick | 14.00% | ~26 |
@@ -46,10 +46,10 @@
 | Easy Peasy | 2.00% | ~4 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
-| Pro Pyromancer | 0.90% | ~2 |
-| King of the Crow | 0.90% | ~2 |
-| Death From Above | 0.90% | ~2 |
-| Tomassacred | 0.90% | ~2 |
+| Pro Pyromancer | 0.80% | ~2 |
+| King of the Crow | 0.80% | ~1 |
+| Death From Above | 0.80% | ~1 |
+| Tomassacred | 0.80% | ~1 |
 | 30 Days | 0.40% | ~1 |
 | Pro Carrocketeer | 0.40% | ~1 |
 | Pro Sniperagus | 0.40% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 266)  
+Progressed: 236 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 232 | 0 |
 | 2023-07-28 | 234 | 0 |
 | 2023-07-29 | 235 | 0 |
+| 2023-07-30 | 236 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

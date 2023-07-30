@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 264,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 366,
@@ -1262,10 +1262,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2023-07-30T03:01:08.6001804+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 708,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 708,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1353,8 +1359,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-07-29T17:00:49.6342635+00:00",
+  "LastChanged": "2023-07-30T03:01:08.6001802+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:54.7786828+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:57:11.4857595+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:00:46.9285589+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:01:08.6001807+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:05:01.0033941+00:00"
 }

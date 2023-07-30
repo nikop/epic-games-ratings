@@ -5418,9 +5418,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711825,
+  "EOS_Progressed": 711827,
   "EOS_Completed": 12835,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14933,6 +14933,11 @@
       "Time": "2023-07-30T02:03:26.6968605+00:00",
       "NumProgressed": 711825,
       "NumCompleted": 12835
+    },
+    {
+      "Time": "2023-07-30T03:07:40.2843909+00:00",
+      "NumProgressed": 711827,
+      "NumCompleted": 12835
     }
   ],
   "TotalAchievements": 50,
@@ -14944,7 +14949,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "02_Vengeance_H1",
@@ -14952,7 +14957,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "03_Vengeance_H2",
@@ -14960,7 +14965,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "04_Vengeance_H3",
@@ -14968,7 +14973,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "05_Vengeance_H4",
@@ -15120,7 +15125,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -15128,7 +15133,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "25_ShrineMind",
@@ -15144,7 +15149,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "27_ShrineBody",
@@ -15152,7 +15157,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -15208,7 +15213,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "35_WideStrike",
@@ -15224,7 +15229,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -15232,7 +15237,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -15343,21 +15348,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21126,
+      "Progressed": 21128,
       "Completed": 10455
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711825,
+      "Progressed": 711827,
       "Completed": 12835
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-29T06:59:07.1748238+00:00",
-  "LastChanged_Achievements": "2023-07-30T02:03:26.6968597+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:07:40.2843904+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:56:07.1647947+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:03:26.6970437+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:00:01.8259901+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:07:40.2844829+00:00"
 }

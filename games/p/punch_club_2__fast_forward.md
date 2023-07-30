@@ -37,17 +37,17 @@
 | Extreme neuropower! | 49.00% | ~88 |
 | Your own way | 49.00% | ~88 |
 | Escaped from a big trouble | 45.00% | ~81 |
-| Now you are worthy | 43.00% | ~77 |
+| Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 41.00% | ~73 |
 | Guiding on the right path | 40.00% | ~72 |
 | Mysterious voice | 39.00% | ~70 |
-| Fight is life | 37.00% | ~66 |
+| Fight is life | 38.00% | ~68 |
 | Responsible approach | 35.00% | ~63 |
-| GYM professional | 33.00% | ~59 |
+| GYM professional | 34.00% | ~61 |
+| Deal with life | 32.00% | ~57 |
+| Champion – no way back | 32.00% | ~57 |
 | Get out of my apartment! | 32.00% | ~57 |
 | Underground dwellers | 32.00% | ~57 |
-| Deal with life | 31.00% | ~55 |
-| Champion – no way back | 31.00% | ~55 |
 | Poisoned fighter | 31.00% | ~55 |
 | Mom got better | 30.00% | ~54 |
 | The die is cast | 30.00% | ~54 |

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 94.00% | ~102 |
-| To Each Their Own | 49.00% | ~53 |
+| You're Going Down! | 95.00% | ~104 |
+| To Each Their Own | 48.00% | ~53 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~24 |
 | Onwards and Upwards | 20.00% | ~22 |
-| Like Phileas Fogg | 16.00% | ~17 |
+| Like Phileas Fogg | 15.00% | ~16 |
 | Serial Winner | 15.00% | ~16 |
 | Start Your Engines | 11.00% | ~12 |
 | Lone Wolf | 11.00% | ~12 |
@@ -16,12 +16,12 @@
 | No Room for Improvement | 10.00% | ~11 |
 | Playing God | 8.00% | ~9 |
 | Nerd | 7.00% | ~8 |
-| First and Foremost | 6.00% | ~7 |
 | Upgradeaholic | 6.00% | ~7 |
-| Tailor-Made | 6.00% | ~7 |
-| Seven-League Boots | 5.00% | ~5 |
-| Made Mother Proud | 5.00% | ~5 |
-| Winner Winner Chicken Dinner | 5.00% | ~5 |
+| Seven-League Boots | 5.00% | ~6 |
+| First and Foremost | 5.00% | ~6 |
+| Made Mother Proud | 5.00% | ~6 |
+| Winner Winner Chicken Dinner | 5.00% | ~6 |
+| Tailor-Made | 5.00% | ~6 |
 | POI Hunter | 4.00% | ~4 |
 | Gotta Go Fast! | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 310)  
-Completed: 2 (1.83%) (Ranked 90)  
+Progressed: 110 (Ranked 310)  
+Completed: 2 (1.82%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,4 +97,4 @@ Completed: 2 (1.83%) (Ranked 90)
 | 2023-07-26 | 104 | 2 |
 | 2023-07-27 | 106 | 2 |
 | 2023-07-29 | 107 | 2 |
-| 2023-07-30 | 109 | 2 |
+| 2023-07-30 | 110 | 2 |

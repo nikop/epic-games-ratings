@@ -2818,9 +2818,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 234596,
+  "EOS_Progressed": 234597,
   "EOS_Completed": 782,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -13513,6 +13513,11 @@
       "Time": "2023-07-30T02:00:38.4749135+00:00",
       "NumProgressed": 234596,
       "NumCompleted": 782
+    },
+    {
+      "Time": "2023-07-30T03:04:52.6563847+00:00",
+      "NumProgressed": 234597,
+      "NumCompleted": 782
     }
   ],
   "TotalAchievements": 39,
@@ -13588,7 +13593,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 213482
+      "UsersEstimate": 213483
     },
     {
       "ID": "AchievementClownID",
@@ -13668,7 +13673,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 35189
+      "UsersEstimate": 35190
     },
     {
       "ID": "AchievementInstinctID",
@@ -13684,7 +13689,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 105568
+      "UsersEstimate": 105569
     },
     {
       "ID": "AchievementIntroID",
@@ -13700,7 +13705,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 32843
+      "UsersEstimate": 32844
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -13724,7 +13729,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 89146
+      "UsersEstimate": 89147
     },
     {
       "ID": "AchievementRampID",
@@ -13756,7 +13761,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 173601
+      "UsersEstimate": 173602
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -13788,7 +13793,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32843
+      "UsersEstimate": 32844
     },
     {
       "ID": "AchievementThroneID",
@@ -13804,7 +13809,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 110260
+      "UsersEstimate": 110261
     },
     {
       "ID": "AchievementTrinketID",
@@ -13820,7 +13825,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 152487
+      "UsersEstimate": 152488
     },
     {
       "ID": "AchievementWhaleID",
@@ -13835,7 +13840,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 234596,
+      "Progressed": 234597,
       "Completed": 782
     }
   ],
@@ -13843,8 +13848,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-30T01:57:35.6596405+00:00",
-  "LastChanged_Achievements": "2023-07-30T02:00:38.4749123+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:04:52.6563839+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:24.5998227+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:57:35.659641+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:00:38.4750783+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:01:32.7013454+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:04:52.6565068+00:00"
 }

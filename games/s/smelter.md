@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 89.00% | ~33 |
-| Welcome to the Rumbly Lands! | 89.00% | ~33 |
-| Time to Bash Some Heads! | 81.00% | ~30 |
-| Shiny! | 70.00% | ~26 |
-| Deep in the Mounds | 68.00% | ~25 |
-| Smeltastic! | 38.00% | ~14 |
-| Locked Away | 35.00% | ~13 |
-| A Little Renovating | 30.00% | ~11 |
-| Deflect This! | 27.00% | ~10 |
-| It's a Sign! | 27.00% | ~10 |
-| Just Some Improvements | 22.00% | ~8 |
-| A Little Extra Love | 19.00% | ~7 |
-| Final Announcement | 19.00% | ~7 |
-| A New Strategy | 19.00% | ~7 |
+| What took you so long? | 89.00% | ~34 |
+| Welcome to the Rumbly Lands! | 89.00% | ~34 |
+| Time to Bash Some Heads! | 82.00% | ~31 |
+| Shiny! | 71.00% | ~27 |
+| Deep in the Mounds | 66.00% | ~25 |
+| Smeltastic! | 37.00% | ~14 |
+| Locked Away | 34.00% | ~13 |
+| A Little Renovating | 29.00% | ~11 |
+| Deflect This! | 26.00% | ~10 |
+| It's a Sign! | 26.00% | ~10 |
+| Just Some Improvements | 21.00% | ~8 |
+| A Little Extra Love | 18.00% | ~7 |
+| Final Announcement | 18.00% | ~7 |
+| A New Strategy | 18.00% | ~7 |
 | My Precious Gems! | 16.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~6 |
 | A Generous Leader | 16.00% | ~6 |
 | An Unexpected Visitor | 16.00% | ~6 |
-| Orcharion Boost | 14.00% | ~5 |
-| Case Closed | 14.00% | ~5 |
-| A Terrible Way to Go | 14.00% | ~5 |
+| Orcharion Boost | 13.00% | ~5 |
+| Case Closed | 13.00% | ~5 |
+| A Terrible Way to Go | 13.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
 | Fishing for Fissures | 11.00% | ~4 |
 | You did it? You did it! | 11.00% | ~4 |
@@ -56,8 +56,8 @@
 | In Her Prime | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 369)  
-Completed: 3 (8.11%) (Ranked 31)  
+Progressed: 38 (Ranked 369)  
+Completed: 3 (7.89%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 3 (8.11%) (Ranked 31)
 | 2023-06-03 | 35 | 3 |
 | 2023-06-09 | 36 | 3 |
 | 2023-06-26 | 37 | 3 |
+| 2023-07-30 | 38 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

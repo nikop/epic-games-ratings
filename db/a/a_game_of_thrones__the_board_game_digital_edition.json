@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19948,
+  "EOS_Progressed": 19955,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11883,6 +11883,11 @@
       "Time": "2023-07-30T02:00:04.4422594+00:00",
       "NumProgressed": 19948,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T03:04:19.356494+00:00",
+      "NumProgressed": 19955,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -11894,7 +11899,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "1016",
@@ -11902,7 +11907,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "1017",
@@ -11926,7 +11931,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "1020",
@@ -11934,7 +11939,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "1021",
@@ -11958,7 +11963,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "1024",
@@ -11990,7 +11995,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "1028",
@@ -11998,7 +12003,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "1029",
@@ -12014,7 +12019,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "1031",
@@ -12022,7 +12027,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "1032",
@@ -12030,7 +12035,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7979
+      "UsersEstimate": 7982
     },
     {
       "ID": "1033",
@@ -12038,7 +12043,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "1034",
@@ -12046,7 +12051,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "1035",
@@ -12054,7 +12059,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "1036",
@@ -12069,15 +12074,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19948,
+      "Progressed": 19955,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-30T02:00:04.4422589+00:00",
+  "LastChanged_Achievements": "2023-07-30T03:04:19.3564935+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-30T01:57:22.9691321+00:00",
-  "LastUpdate_Achievements": "2023-07-30T02:00:04.4423721+00:00"
+  "LastUpdate_Ratings": "2023-07-30T03:01:19.9607615+00:00",
+  "LastUpdate_Achievements": "2023-07-30T03:04:19.3565788+00:00"
 }
