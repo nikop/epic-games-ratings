@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Compiling",
@@ -258,25 +258,25 @@
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 95,
+      "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "GameComplete",
@@ -314,9 +314,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SecretRoom",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:04:51.609804+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:04:57.6858461+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-30T08:57:18.4899505+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:04:51.6098137+00:00"
+  "LastUpdate_Ratings": "2023-07-30T09:57:20.5019124+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:04:57.6858602+00:00"
 }

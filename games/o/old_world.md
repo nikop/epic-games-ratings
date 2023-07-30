@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 2.00% | ~263 |
+| The Clergy | 3.00% | ~395 |
 | Explorer | 1.00% | ~132 |
 | Settler | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
@@ -15,16 +15,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~132 |
 | Intrepid | 0.90% | ~119 |
 | Able | 0.80% | ~105 |
+| Architect | 0.80% | ~105 |
 | Mason | 0.80% | ~105 |
+| Strong | 0.80% | ~105 |
 | Hanging Gardens | 0.80% | ~105 |
-| Architect | 0.70% | ~92 |
 | Enlightened | 0.70% | ~92 |
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Learned | 0.70% | ~92 |
 | Noble | 0.70% | ~92 |
 | Pioneer | 0.70% | ~92 |
-| Strong | 0.70% | ~92 |
 | Oracle | 0.70% | ~92 |
 | Judaism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.70% | ~92 |
 | Glorious | 0.60% | ~79 |
 | Keystone | 0.60% | ~79 |
+| Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
 | Developing Cities | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
@@ -40,7 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.60% | ~79 |
 | Zoroastrianism | 0.60% | ~79 |
 | Ambitious | 0.50% | ~66 |
-| Magnificent | 0.50% | ~66 |
+| Fountainhead | 0.50% | ~66 |
 | Wise | 0.50% | ~66 |
 | Strong Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
-| Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
@@ -82,11 +82,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~40 |
 | Adur Burzen-Mihr | 0.30% | ~40 |
 | Via Recta Souk | 0.30% | ~40 |
+| Learn to Play 3 | 0.30% | ~40 |
 | Greece | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
 | Persian Paganism | 0.30% | ~40 |
 | Building Wonders | 0.30% | ~40 |
 | Legalism | 0.30% | ~40 |
+| Ambition Victory | 0.30% | ~40 |
 | Double Victory | 0.30% | ~40 |
 | Points Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
@@ -99,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~26 |
 | Mighty | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
+| Peacemaker | 0.20% | ~26 |
 | Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
@@ -112,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.20% | ~26 |
 | Church of the Holy Sepulchre | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
-| Learn to Play 3 | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |
 | Carthage | 0.20% | ~26 |
@@ -125,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.20% | ~26 |
 | Dualism | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
+| Gnosticism | 0.20% | ~26 |
 | Redemption | 0.20% | ~26 |
 | Revelation | 0.20% | ~26 |
 | Veneration | 0.20% | ~26 |
@@ -133,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.20% | ~26 |
 | Phalangite | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
-| Ambition Victory | 0.20% | ~26 |
 | Win a Single Player Game | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
 | Hypatia the Teacher | 0.20% | ~26 |
@@ -168,7 +170,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
-| Peacemaker | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Glorious Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
@@ -237,7 +238,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
-| Gnosticism | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Cataphract Archer | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,171 (Ranked 117)  
+Progressed: 13,174 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,171 | 5 |
+| 2023-07-30 | 13,174 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

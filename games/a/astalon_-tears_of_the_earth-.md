@@ -31,7 +31,7 @@
 | Collector Mastery | 12.00% | ~7 |
 | Destoy all monsters! | 12.00% | ~7 |
 | True Black Knight | 8.00% | ~5 |
-| Freedom Monster | 7.00% | ~4 |
+| Freedom Monster | 8.00% | ~5 |
 | No match for me! | 3.00% | ~2 |
 | True Titan | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

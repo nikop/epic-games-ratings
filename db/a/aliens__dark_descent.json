@@ -5,9 +5,9 @@
   "Ranking_Rating": 645,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3070,
+  "EOS_Progressed": 3071,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3317,6 +3317,11 @@
       "Time": "2023-07-30T08:02:17.3932592+00:00",
       "NumProgressed": 3070,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-30T10:03:40.3255124+00:00",
+      "NumProgressed": 3071,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3360,7 +3365,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3368,7 +3373,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3376,7 +3381,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3424,7 +3429,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3440,7 +3445,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3448,7 +3453,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3520,7 +3525,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3536,7 +3541,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3624,7 +3629,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3632,7 +3637,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3640,7 +3645,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3687,7 +3692,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3070,
+      "Progressed": 3071,
       "Completed": 2
     }
   ],
@@ -3695,8 +3700,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-30T05:59:39.6438639+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:03:21.7609578+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:03:40.3255119+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:00:38.5227611+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:03:21.7610029+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:00:14.4412478+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:03:40.3255724+00:00"
 }

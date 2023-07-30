@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5584,10 +5584,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40151,
       "NumberOfAwardsMax": 21390
+    },
+    {
+      "Time": "2023-07-30T09:58:10.6307478+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40155,
+      "NumberOfAwardsMax": 21390
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40151,
+  "NumberOfAwards": 40155,
   "NumberOfAwardsMax": 21390,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5643,7 +5649,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 854
+      "Count": 858
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5664,9 +5670,9 @@
       "Count": 569
     }
   ],
-  "EOS_Progressed": 288918,
+  "EOS_Progressed": 288920,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16514,6 +16520,11 @@
       "Time": "2023-07-30T09:05:35.631878+00:00",
       "NumProgressed": 288918,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-30T10:05:35.6078668+00:00",
+      "NumProgressed": 288920,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16557,7 +16568,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "PFA_14",
@@ -16629,7 +16640,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "PFA_22",
@@ -16749,7 +16760,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "PFA_36",
@@ -16877,23 +16888,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288918,
+      "Progressed": 288920,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-30T05:57:59.652055+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:05:35.6318775+00:00",
+  "LastChanged": "2023-07-30T09:58:10.6307476+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:05:35.6078663+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-30T08:58:16.2360621+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:05:35.6319578+00:00"
+  "LastUpdate_Ratings": "2023-07-30T09:58:10.6307484+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:05:35.6079584+00:00"
 }

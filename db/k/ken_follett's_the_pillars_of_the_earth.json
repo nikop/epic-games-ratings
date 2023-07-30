@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14239,
+  "EOS_Progressed": 14240,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7129,6 +7129,11 @@
       "Time": "2023-07-30T07:03:38.5940591+00:00",
       "NumProgressed": 14239,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-30T10:03:47.3235588+00:00",
+      "NumProgressed": 14240,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7156,7 +7161,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "tpote_achievement_12",
@@ -7180,7 +7185,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "tpote_achievement_15",
@@ -7196,7 +7201,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "tpote_achievement_17",
@@ -7228,7 +7233,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "tpote_achievement_20",
@@ -7428,7 +7433,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "tpote_achievement_6",
@@ -7436,7 +7441,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "tpote_achievement_7",
@@ -7467,15 +7472,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14239,
+      "Progressed": 14240,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:03:30.3422082+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:03:47.3235583+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:01:24.320988+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:03:30.3422622+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:00:53.1027933+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:03:47.3236361+00:00"
 }

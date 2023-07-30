@@ -18,10 +18,10 @@
 | Tastes Like Chicken | 5.00% | ~12 |
 | Fifth Shard | 5.00% | ~12 |
 | Green Thumb | 4.00% | ~10 |
+| Finished Iron Danger | 4.00% | ~10 |
 | Good Stew | 3.00% | ~7 |
 | Avian Veterinarian | 3.00% | ~7 |
 | Bird Butcherer | 3.00% | ~7 |
-| Finished Iron Danger | 3.00% | ~7 |
 | Mushroom Forager | 2.00% | ~5 |
 | Knock, Knock! | 2.00% | ~5 |
 | Natural Selection | 2.00% | ~5 |

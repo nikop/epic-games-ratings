@@ -36,19 +36,19 @@
 | Legal courier | 49.00% | ~88 |
 | Extreme neuropower! | 49.00% | ~88 |
 | Your own way | 48.00% | ~86 |
-| Escaped from a big trouble | 45.00% | ~81 |
+| Escaped from a big trouble | 46.00% | ~83 |
 | Now you are worthy | 44.00% | ~79 |
-| No blades in the gym | 42.00% | ~76 |
+| No blades in the gym | 43.00% | ~77 |
 | Guiding on the right path | 41.00% | ~74 |
 | Mysterious voice | 40.00% | ~72 |
 | Fight is life | 39.00% | ~70 |
 | Responsible approach | 35.00% | ~63 |
 | GYM professional | 34.00% | ~61 |
+| Get out of my apartment! | 34.00% | ~61 |
+| Underground dwellers | 34.00% | ~61 |
 | Deal with life | 33.00% | ~59 |
 | Champion – no way back | 33.00% | ~59 |
 | Poisoned fighter | 33.00% | ~59 |
-| Get out of my apartment! | 33.00% | ~59 |
-| Underground dwellers | 33.00% | ~59 |
 | Mom got better | 32.00% | ~58 |
 | The die is cast | 32.00% | ~58 |
 | Seashell hunter | 31.00% | ~56 |
@@ -68,8 +68,8 @@
 | The heart of the Resistance | 26.00% | ~47 |
 | Family comes first | 25.00% | ~45 |
 | Silver’s past | 23.00% | ~41 |
+| The only right decision | 23.00% | ~41 |
 | Better cooking at home | 22.00% | ~40 |
-| The only right decision | 22.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 180 (Ranked 286)  
 Completed: 7 (3.89%) (Ranked 55)  

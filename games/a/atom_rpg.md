@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 611)  
+Rating: 4.46 (Ranked 612)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,9 +19,9 @@ Number of Ratings: 54  (23.09.2022)
 | Kraina Grzybow | 10.00% | ~109 |
 | Love Guru | 9.00% | ~98 |
 | Savant | 9.00% | ~98 |
+| Bustin' nuts | 8.00% | ~87 |
 | Not-so-private Eye | 8.00% | ~87 |
 | Superhuman | 8.00% | ~87 |
-| Bustin' nuts | 7.00% | ~76 |
 | The Vitinsky Rifle | 7.00% | ~76 |
 | Protection racket | 5.00% | ~54 |
 | Secret room | 5.00% | ~54 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,509 |
+| A Brief Tour of the Realms | 3.00% | ~6,510 |
 | Maddening | 2.00% | ~4,340 |
 | Beast Intentions | 2.00% | ~4,340 |
 | The Silken Swamp | 1.00% | ~2,170 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,981 (Ranked 53)  
+Progressed: 217,002 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,10 +620,10 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 216,981 | 2,137 |
+| 2023-07-30 | 217,002 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
-Sum: 30,801 (Ranked 38)  
+Sum: 30,802 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -633,7 +633,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,581 |
 | This game has Amazing Characters | 4,041 |
 | This game is Highly Recommended | 4,025 |
-| This game has Playful Visuals | 3,329 |
+| This game has Playful Visuals | 3,330 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -822,4 +822,4 @@ Diff (max vs sum): 29
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
-| 2023-07-30 | 4.05 | - | 5,100 | 30,801 |
+| 2023-07-30 | 4.05 | - | 5,100 | 30,802 |

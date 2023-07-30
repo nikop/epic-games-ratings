@@ -16,7 +16,7 @@ Rating: 4.49 (Ranked 574)
 | Vaporous Expansion | 48.00% | ~11,791 |
 | Teamwork | 44.00% | ~10,809 |
 | There you are! | 42.00% | ~10,317 |
-| Clutch Capture | 40.00% | ~9,826 |
+| Clutch Capture | 41.00% | ~10,072 |
 | Back Off | 35.00% | ~8,598 |
 | Daily Dose | 34.00% | ~8,352 |
 | Solo Capture | 32.00% | ~7,861 |

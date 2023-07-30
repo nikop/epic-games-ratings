@@ -2,7 +2,7 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
@@ -719,9 +719,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "04_tycoon",
@@ -879,9 +879,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "24_mega",
@@ -1023,8 +1023,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:04:44.73791+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:04:51.5626177+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-07-30T08:58:30.6078886+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:04:44.7379373+00:00"
+  "LastUpdate_Ratings": "2023-07-30T09:58:24.0913824+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:04:51.5626527+00:00"
 }

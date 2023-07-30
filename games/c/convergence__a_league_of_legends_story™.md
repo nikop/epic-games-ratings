@@ -9,29 +9,29 @@ Rating: 4.60 (Ranked 390)
 | The Mysterious Stranger | 19.00% | ~153 |
 | Rail Rat | 19.00% | ~153 |
 | Immaculate Aim | 17.00% | ~137 |
-| The Steel Shadow | 16.00% | ~128 |
-| Make Up For Lost Time | 16.00% | ~128 |
-| Time Flies | 16.00% | ~128 |
-| No, Thanks! | 16.00% | ~128 |
-| Breaking Down Barriers | 16.00% | ~128 |
-| The Wicked Twins | 16.00% | ~128 |
-| The Prince in Heels | 16.00% | ~128 |
-| Immaculate Aim | 16.00% | ~128 |
-| The Brass Boss | 16.00% | ~128 |
-| The Betrayer | 15.00% | ~120 |
-| The Man Who Shattered Time | 15.00% | ~120 |
-| The Loose Cannon | 15.00% | ~120 |
-| The Harder They Fall | 15.00% | ~120 |
-| Honest Mistake | 15.00% | ~120 |
-| Fast Learner | 15.00% | ~120 |
-| The Family Fortune | 15.00% | ~120 |
-| Treasure Trove | 14.00% | ~112 |
-| Like Clockwork | 14.00% | ~112 |
-| Cartographer | 14.00% | ~112 |
-| Golem Chaser | 14.00% | ~112 |
-| Check Your Pulse | 14.00% | ~112 |
-| Right On Time | 13.00% | ~104 |
-| Street Style | 13.00% | ~104 |
+| The Steel Shadow | 16.00% | ~129 |
+| Make Up For Lost Time | 16.00% | ~129 |
+| Time Flies | 16.00% | ~129 |
+| No, Thanks! | 16.00% | ~129 |
+| Breaking Down Barriers | 16.00% | ~129 |
+| The Wicked Twins | 16.00% | ~129 |
+| The Prince in Heels | 16.00% | ~129 |
+| Immaculate Aim | 16.00% | ~129 |
+| The Brass Boss | 16.00% | ~129 |
+| The Betrayer | 15.00% | ~121 |
+| The Man Who Shattered Time | 15.00% | ~121 |
+| The Loose Cannon | 15.00% | ~121 |
+| The Harder They Fall | 15.00% | ~121 |
+| Honest Mistake | 15.00% | ~121 |
+| Fast Learner | 15.00% | ~121 |
+| The Family Fortune | 15.00% | ~121 |
+| Treasure Trove | 14.00% | ~113 |
+| Like Clockwork | 14.00% | ~113 |
+| Cartographer | 14.00% | ~113 |
+| Golem Chaser | 14.00% | ~113 |
+| Check Your Pulse | 14.00% | ~113 |
+| Right On Time | 13.00% | ~105 |
+| Street Style | 13.00% | ~105 |
 | Whiz Kid | 11.00% | ~88 |
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803 (Ranked 201)  
+Progressed: 804 (Ranked 201)  
 Completed: 4 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
+| 2023-07-30 | 804 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,7 +10,7 @@ Rating: 4.35 (Ranked 743)
 | Angeline Van den Bosch | 73.00% | ~295 |
 | Elizabeth Padget | 69.00% | ~279 |
 | Little Grey Cells | 68.00% | ~275 |
-| The Bracelet | 64.00% | ~259 |
+| The Bracelet | 65.00% | ~263 |
 | The Blackmail | 55.00% | ~222 |
 | Major Felix Hagen | 55.00% | ~222 |
 | Fine-toothed Comb | 53.00% | ~214 |

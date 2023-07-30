@@ -2,7 +2,7 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 191,
@@ -1942,9 +1942,9 @@
       "ID": "BUSTIN_NUTS_1",
       "SetID": "bf13m8j",
       "Name": "Bustin\u0027 nuts",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 87
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -2238,8 +2238,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-30T09:04:20.8178525+00:00",
+  "LastChanged_Achievements": "2023-07-30T10:04:31.1311064+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:01:37.7023827+00:00",
-  "LastUpdate_Achievements": "2023-07-30T09:04:20.8178813+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:01:05.4933729+00:00",
+  "LastUpdate_Achievements": "2023-07-30T10:04:31.1311449+00:00"
 }

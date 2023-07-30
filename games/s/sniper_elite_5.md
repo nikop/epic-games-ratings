@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 675)  
+Rating: 4.42 (Ranked 664)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -48,10 +48,10 @@ Rating: 4.41 (Ranked 675)
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
 | Souvenir hunter | 0.60% | ~20 |
+| Eagle Eyed | 0.60% | ~20 |
 | Locomotion Commotion | 0.60% | ~20 |
 | Operation Foxley | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
-| Eagle Eyed | 0.50% | ~17 |
 | Last Resort | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |
@@ -244,3 +244,4 @@ Completed: 9 (0.27%) (Ranked 161)
 | 2023-07-18 | 4.41 | 0 | 0 |
 | 2023-07-20 | 4.40 | 0 | 0 |
 | 2023-07-23 | 4.41 | 0 | 0 |
+| 2023-07-30 | 4.42 | 0 | 0 |
