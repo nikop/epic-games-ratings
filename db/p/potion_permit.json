@@ -1848,9 +1848,9 @@
       "ID": "ACHIEVEMENTS_17",
       "SetID": "d4o538a",
       "Name": "Kind-hearted",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2033,8 +2033,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:03:37.0832301+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:03:34.2990936+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:57:06.1677038+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:03:37.0832995+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:56:54.8541226+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:03:34.2991326+00:00"
 }

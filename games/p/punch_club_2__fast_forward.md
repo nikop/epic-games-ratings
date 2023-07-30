@@ -10,23 +10,23 @@
 | Good Person Chip | 84.00% | ~160 |
 | Your first job | 83.00% | ~158 |
 | First defeat | 79.00% | ~150 |
-| Old movies enjoyer | 78.00% | ~148 |
+| Old movies enjoyer | 79.00% | ~150 |
 | Fitness professional | 76.00% | ~144 |
-| Depressed visitor | 75.00% | ~142 |
+| Depressed visitor | 76.00% | ~144 |
 | Neurotrainer – power gainer! | 75.00% | ~142 |
 | Employee of the week | 75.00% | ~142 |
 | Your own amateur gym | 74.00% | ~141 |
 | Run K, run! | 69.00% | ~131 |
+| No bullying more | 67.00% | ~127 |
 | Hello, world! | 67.00% | ~127 |
-| No bullying more | 66.00% | ~125 |
 | Fighting is cool | 64.00% | ~122 |
 | Pal of your father? | 62.00% | ~118 |
 | Spirit of the past | 59.00% | ~112 |
 | Employee of the month | 59.00% | ~112 |
-| Law student | 57.00% | ~108 |
+| Law student | 58.00% | ~110 |
 | Intriguing candies | 56.00% | ~106 |
+| Little hacker | 55.00% | ~105 |
 | Workout professional | 54.00% | ~103 |
-| Little hacker | 54.00% | ~103 |
 | Champion – starter pack | 53.00% | ~101 |
 | It's good to be alive | 53.00% | ~101 |
 | Handyman | 52.00% | ~99 |
@@ -38,10 +38,10 @@
 | Your own way | 47.00% | ~89 |
 | Escaped from a big trouble | 46.00% | ~87 |
 | Now you are worthy | 44.00% | ~84 |
-| No blades in the gym | 43.00% | ~82 |
+| No blades in the gym | 44.00% | ~84 |
 | Guiding on the right path | 42.00% | ~80 |
 | Mysterious voice | 41.00% | ~78 |
-| Fight is life | 39.00% | ~74 |
+| Fight is life | 40.00% | ~76 |
 | Responsible approach | 36.00% | ~68 |
 | Get out of my apartment! | 35.00% | ~66 |
 | Underground dwellers | 35.00% | ~66 |

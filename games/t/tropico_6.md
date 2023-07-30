@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,331 |
-| Un-Lonely Island | 47.00% | ~2,087 |
-| The Beginning of a Servantship | 45.00% | ~1,998 |
-| Trade Is My Trait | 37.00% | ~1,643 |
+| Just One...More...Term... | 75.00% | ~3,332 |
+| Un-Lonely Island | 47.00% | ~2,088 |
+| The Beginning of a Servantship | 45.00% | ~1,999 |
+| Trade Is My Trait | 37.00% | ~1,644 |
 | Number 18 | 24.00% | ~1,066 |
 | We Don't Have Time For That | 19.00% | ~844 |
-| The Governator | 18.00% | ~799 |
+| The Governator | 18.00% | ~800 |
 | The Legend of Langostino | 17.00% | ~755 |
 | Caribbean Comrade | 16.00% | ~711 |
 | The Dreamer of Dreams | 15.00% | ~666 |
@@ -27,8 +27,8 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 7.00% | ~311 |
 | I Owe You Nothing | 7.00% | ~311 |
 | French Connection | 7.00% | ~311 |
-| Computer Says "No" | 6.00% | ~266 |
-| Beware The Betman | 6.00% | ~266 |
+| Computer Says "No" | 6.00% | ~267 |
+| Beware The Betman | 6.00% | ~267 |
 | Viva Tropico! | 5.00% | ~222 |
 | Watch The World Burn | 5.00% | ~222 |
 | Fairy Tale Come True | 5.00% | ~222 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~40 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,441 (Ranked 144)  
+Progressed: 4,443 (Ranked 144)  
 Completed: 2 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 2 (0.05%) (Ranked 211)
 | 2023-07-27 | 4,347 | 2 |
 | 2023-07-28 | 4,374 | 2 |
 | 2023-07-29 | 4,413 | 2 |
-| 2023-07-30 | 4,441 | 2 |
+| 2023-07-30 | 4,443 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 339)  
 Sum: 672 (Ranked 276)  

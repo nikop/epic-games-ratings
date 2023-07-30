@@ -2160,18 +2160,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4099,
       "NumberOfAwardsMax": 2467
+    },
+    {
+      "Time": "2023-07-30T19:59:53.6958887+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4104,
+      "NumberOfAwardsMax": 2472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4099,
-  "NumberOfAwardsMax": 2467,
+  "NumberOfAwards": 4104,
+  "NumberOfAwardsMax": 2472,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2467
+      "Count": 2472
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2228,9 +2234,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67500,
+  "EOS_Progressed": 67504,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11203,6 +11209,11 @@
       "Time": "2023-07-30T19:05:25.3959709+00:00",
       "NumProgressed": 67500,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-30T20:05:04.2892774+00:00",
+      "NumProgressed": 67504,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -11286,7 +11297,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ALL_VILLAIN",
@@ -11382,7 +11393,7 @@
       "Name": "Talonted",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -11406,7 +11417,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -11701,22 +11712,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67500,
+      "Progressed": 67504,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37780,
+      "Progressed": 37784,
       "Completed": 2654
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-29T11:00:03.1429306+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:05:25.3959703+00:00",
+  "LastChanged": "2023-07-30T19:59:53.6958885+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:05:04.2892769+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:00:46.4173189+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:05:25.3961705+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:59:53.6958891+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:05:04.2893897+00:00"
 }

@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.80% | ~105 |
 | Hanging Gardens | 0.80% | ~105 |
 | Oracle | 0.80% | ~105 |
+| Trade Caravan | 0.80% | ~105 |
 | Glorious | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Naming Landmarks | 0.70% | ~92 |
-| Trade Caravan | 0.70% | ~92 |
 | Ambitious | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |

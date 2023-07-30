@@ -5424,9 +5424,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711877,
+  "EOS_Progressed": 711879,
   "EOS_Completed": 12836,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15024,6 +15024,11 @@
       "Time": "2023-07-30T19:07:23.9243621+00:00",
       "NumProgressed": 711877,
       "NumCompleted": 12836
+    },
+    {
+      "Time": "2023-07-30T20:06:41.4481189+00:00",
+      "NumProgressed": 711879,
+      "NumCompleted": 12836
     }
   ],
   "TotalAchievements": 50,
@@ -15329,9 +15334,9 @@
       "ID": "38_CustomTrophy_H2",
       "SetID": "adcm20g",
       "Name": "The Pit Protector",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2848
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -15434,21 +15439,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21178,
+      "Progressed": 21180,
       "Completed": 10463
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711877,
+      "Progressed": 711879,
       "Completed": 12836
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-30T14:59:08.7298171+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:07:23.9243616+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:06:41.4481182+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:59:51.7742505+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:07:23.9244668+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:59:07.5707018+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:06:41.4482282+00:00"
 }

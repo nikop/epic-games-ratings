@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2987,
+  "EOS_Progressed": 2988,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.62,
+  "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -3581,6 +3581,11 @@
       "Time": "2023-07-30T17:03:07.5065835+00:00",
       "NumProgressed": 2987,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-07-30T20:00:40.5015687+00:00",
+      "NumProgressed": 2988,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 5,
@@ -3592,7 +3597,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "2",
@@ -3608,7 +3613,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "4",
@@ -3616,7 +3621,7 @@
       "Name": "Adventurer",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "5",
@@ -3624,14 +3629,14 @@
       "Name": "Hero",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 108
     }
   ],
@@ -3639,8 +3644,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:02:04.8298717+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:00:40.5015685+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:59:06.9242701+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:02:04.8299068+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:58:34.1501572+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:00:40.5015961+00:00"
 }

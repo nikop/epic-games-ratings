@@ -18,6 +18,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 3.00% | ~483 |
 | Barren Lands | 3.00% | ~483 |
 | Ancient Battleground | 3.00% | ~483 |
+| Sparkdew Crystals | 3.00% | ~483 |
 | Lost Colonies | 3.00% | ~483 |
 | Watchtower | 3.00% | ~483 |
 | A Real Challenge | 3.00% | ~483 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~322 |
 | Against All Odds | 2.00% | ~322 |
 | Ruined Armory | 2.00% | ~322 |
-| Sparkdew Crystals | 2.00% | ~322 |
 | Dangerous Lands | 2.00% | ~322 |
 | Forbidden Lands | 2.00% | ~322 |
 | Haunted Forest | 2.00% | ~322 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3526,
+  "EOS_Progressed": 3527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -968,6 +968,11 @@
       "Time": "2023-07-30T18:04:13.7537609+00:00",
       "NumProgressed": 3526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T20:03:57.5952545+00:00",
+      "NumProgressed": 3527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1011,7 +1016,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1027,7 +1032,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1091,7 +1096,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1179,14 +1184,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3526,
+      "Progressed": 3527,
       "Completed": 0
     }
   ],
@@ -1194,8 +1199,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:04:05.8115256+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:03:57.5952537+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:00:20.634674+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:04:05.8115476+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:59:29.0845573+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:03:57.5952752+00:00"
 }

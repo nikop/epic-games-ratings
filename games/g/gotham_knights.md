@@ -49,9 +49,9 @@ Rating: 4.18 (Ranked 864)
 | Hammer and Icicle | 0.30% | ~113 |
 | Renewable Enemy Source | 0.30% | ~113 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~113 |
-| Practice Makes Perfect | 0.30% | ~202 |
-| Talonted | 0.30% | ~202 |
-| The Man-Bat Family | 0.30% | ~202 |
+| Practice Makes Perfect | 0.30% | ~203 |
+| Talonted | 0.30% | ~203 |
+| The Man-Bat Family | 0.30% | ~203 |
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 | The Cold, the Bad and the Ugly | 0.20% | ~76 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 864)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,500 (Ranked 80)  
+Progressed: 67,504 (Ranked 80)  
 Completed: 104 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,14 +168,14 @@ Completed: 104 (0.15%) (Ranked 181)
 | 2023-07-27 | 67,436 | 104 |
 | 2023-07-28 | 67,447 | 104 |
 | 2023-07-29 | 67,480 | 104 |
-| 2023-07-30 | 67,500 | 104 |
+| 2023-07-30 | 67,504 | 104 |
 ## Awards
-Max (Great Boss Battles): 2,467  (Ranked 101)  
-Sum: 4,099 (Ranked 139)  
+Max (Great Boss Battles): 2,472  (Ranked 101)  
+Sum: 4,104 (Ranked 139)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,467 |
+| This game has Great Boss Battles | 2,472 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
 | This game is Extremely Fun | 210 |
@@ -346,3 +346,4 @@ Diff (max vs sum): -38
 | 2023-07-26 | 4.18 | 2,464 | 4,094 |
 | 2023-07-28 | 4.18 | 2,466 | 4,098 |
 | 2023-07-29 | 4.18 | 2,467 | 4,099 |
+| 2023-07-30 | 4.18 | 2,472 | 4,104 |

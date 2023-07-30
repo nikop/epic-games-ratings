@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1661,9 +1661,9 @@
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -1678,8 +1678,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:03:16.3955052+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:03:17.2430425+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:59:18.7325227+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:03:16.3955265+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:58:43.3103489+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:03:17.2430609+00:00"
 }

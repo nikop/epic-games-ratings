@@ -12,7 +12,7 @@
 | War with Friends | 4.00% | ~14 |
 | A Student of History | 1.00% | ~4 |
 | That's Not What Happened | 1.00% | ~4 |
-| Nothing Can Stop Us! | 0.60% | ~2 |
+| Nothing Can Stop Us! | 0.80% | ~3 |
 | Bombs Away! | 0.30% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |

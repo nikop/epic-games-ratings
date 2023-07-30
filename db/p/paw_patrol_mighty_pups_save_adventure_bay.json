@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "20",
@@ -255,9 +255,9 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "24",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:05:08.8996072+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:04:50.5336602+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.4264526+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:00:16.6697123+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:05:08.8996336+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:59:26.4355326+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:04:50.5336833+00:00"
 }

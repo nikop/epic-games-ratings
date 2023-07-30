@@ -10,7 +10,7 @@
 | Prisoner | 24.00% | ~63 |
 | First Commander | 20.00% | ~53 |
 | Adventurer | 19.00% | ~50 |
-| Second Commander | 17.00% | ~45 |
+| Second Commander | 18.00% | ~47 |
 | Third Commander | 15.00% | ~39 |
 | Janken The Great | 11.00% | ~29 |
 | Pacifist | 11.00% | ~29 |

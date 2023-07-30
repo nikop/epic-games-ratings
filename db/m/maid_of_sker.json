@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -242,6 +242,11 @@
       "Time": "2023-07-29T15:06:33.1597088+00:00",
       "NumProgressed": 169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T20:06:32.4462884+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -251,9 +256,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "axe_of_kindness",
@@ -275,9 +280,9 @@
       "ID": "bull_in_a_china_shop",
       "SetID": "3j2phem",
       "Name": "Bull in a China Shop",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "chief_butler",
@@ -317,7 +322,7 @@
       "Name": "Easy Listening",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ending_on_a_high_note",
@@ -437,7 +442,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "scholar",
@@ -492,7 +497,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 0
     }
   ],
@@ -500,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:07:12.941105+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:06:32.4462878+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.9780088+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:00:03.1708518+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:07:12.9411347+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:59:16.6459299+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:06:32.4463116+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "FirstStep",
@@ -614,9 +614,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MonsterSlayer",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:05:43.5591677+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:05:19.696269+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:57:48.5134745+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:05:43.5591875+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:57:29.4302904+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:05:19.7079131+00:00"
 }

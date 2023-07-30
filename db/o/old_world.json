@@ -1571,7 +1571,7 @@
   ],
   "EOS_Progressed": 13187,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10870,9 +10870,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -11220,8 +11220,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:06:38.5937206+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:06:05.3999017+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:58:43.3821348+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:06:38.5951538+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:58:15.1716854+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:06:05.4007357+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -305,9 +305,9 @@
       "ID": "TO_THE_REC_CENTER",
       "SetID": "ca3djk0",
       "Name": "To the Rec Center!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -330,8 +330,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-07-30T19:07:17.9187024+00:00",
+  "LastChanged_Achievements": "2023-07-30T20:06:36.4213089+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.6242852+00:00",
-  "LastUpdate_Ratings": "2023-07-30T18:59:04.5722071+00:00",
-  "LastUpdate_Achievements": "2023-07-30T19:07:17.9187178+00:00"
+  "LastUpdate_Ratings": "2023-07-30T19:58:32.3418804+00:00",
+  "LastUpdate_Achievements": "2023-07-30T20:06:36.4213174+00:00"
 }

@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 390)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 23.00% | ~185 |
-| Rail Rat | 20.00% | ~161 |
 | The Mysterious Stranger | 19.00% | ~153 |
+| Rail Rat | 19.00% | ~153 |
 | Make Up For Lost Time | 17.00% | ~137 |
 | The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
@@ -33,12 +33,12 @@ Rating: 4.60 (Ranked 389)
 | Right On Time | 13.00% | ~105 |
 | Street Style | 13.00% | ~105 |
 | Whiz Kid | 11.00% | ~89 |
-| Chaincrawler Explorer | 10.00% | ~80 |
-| Good Neighbor | 10.00% | ~80 |
-| Family Memories | 9.00% | ~72 |
-| Sump Explorer | 9.00% | ~72 |
-| Theater Explorer | 9.00% | ~72 |
-| Ask Questions Later | 9.00% | ~72 |
+| Chaincrawler Explorer | 10.00% | ~81 |
+| Good Neighbor | 10.00% | ~81 |
+| Family Memories | 9.00% | ~73 |
+| Sump Explorer | 9.00% | ~73 |
+| Theater Explorer | 9.00% | ~73 |
+| Ask Questions Later | 9.00% | ~73 |
 | Factorywood Explorer | 8.00% | ~64 |
 | Fairgrounds Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 389)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805 (Ranked 201)  
+Progressed: 806 (Ranked 201)  
 Completed: 4 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
-| 2023-07-30 | 805 | 4 |
+| 2023-07-30 | 806 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -36,7 +36,7 @@
 | Untouchable | 1.00% | ~2 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 295)  
+Progressed: 151 (Ranked 296)  
 Completed: 1 (0.66%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
