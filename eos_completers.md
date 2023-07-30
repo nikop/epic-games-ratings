@@ -20,8 +20,8 @@
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
 | 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.89% |
-| 22 | [Remains](games/r/remains.md) | 10.87% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.87% |
+| 21 | [Remains](games/r/remains.md) | 10.87% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
@@ -40,7 +40,7 @@
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.73% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.68% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
