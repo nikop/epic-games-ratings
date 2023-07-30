@@ -7,7 +7,7 @@
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 189,870 | 4.19 | 857 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 162,933 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,172 | 4.52 | 522 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,740 | 4.69 | 214 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,817 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,413 | 4.62 | 348 |
 | 10 | [VALORANT](games/v/valorant.md) | 62,716 | 4.53 | 511 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,519 | 4.58 | 424 |
@@ -152,7 +152,7 @@
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 866 | 4.44 | 645 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 815 | 4.56 | 466 |
 | 152 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 805 | 4.69 | 214 |
-| 153 | [Frostpunk](games/f/frostpunk.md) | 800 | 4.74 | 145 |
+| 153 | [Frostpunk](games/f/frostpunk.md) | 801 | 4.74 | 145 |
 | 154 | [The Long Dark](games/t/the_long_dark.md) | 786 | 4.74 | 145 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 781 | 4.45 | 626 |
 | 156 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 768 | 4.79 | 90 |
@@ -377,7 +377,7 @@
 | 372 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 72 | 4.20 | 846 |
 | 376 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 70 | 4.63 | 332 |
 | 377 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 241 |
-| 378 | [Potion Permit](games/p/potion_permit.md) | 68 | 3.82 | 945 |
+| 378 | [Potion Permit](games/p/potion_permit.md) | 68 | 3.82 | 946 |
 | 379 | [DOOM 3](games/d/doom_3.md) | 67 | 4.59 | 410 |
 | 379 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 67 | 4.42 | 664 |
 | 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 67 | 3.78 | 951 |
@@ -499,12 +499,12 @@
 | 496 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.85 | 39 |
 | 496 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 28 |
 | 496 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 522 |
+| 496 | [Moving Out](games/m/moving_out.md) | 21 | 4.59 | 410 |
 | 496 | [Torchlight](games/t/torchlight.md) | 21 | 4.32 | 769 |
 | 496 | [Tunche](games/t/tunche.md) | 21 | 4.43 | 656 |
 | 496 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 299 |
-| 503 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 20 | 4.44 | 645 |
-| 503 | [Figment](games/f/figment.md) | 20 | 4.46 | 611 |
-| 503 | [GRIME](games/g/grime.md) | 20 | 4.57 | 444 |
-| 503 | [Moving Out](games/m/moving_out.md) | 20 | 4.59 | 410 |
-| 503 | [Sable](games/s/sable.md) | 20 | 4.52 | 522 |
-| 503 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.64 | 316 |
+| 504 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 20 | 4.44 | 645 |
+| 504 | [Figment](games/f/figment.md) | 20 | 4.46 | 611 |
+| 504 | [GRIME](games/g/grime.md) | 20 | 4.57 | 444 |
+| 504 | [Sable](games/s/sable.md) | 20 | 4.52 | 522 |
+| 504 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.64 | 316 |
