@@ -5,10 +5,10 @@
   "Ranking_Rating": 522,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 372,
-  "Ranking_EOS_Progress": 114,
+  "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14233,
+  "EOS_Progressed": 14234,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7109,6 +7109,11 @@
       "Time": "2023-07-29T23:03:22.3187745+00:00",
       "NumProgressed": 14233,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-30T00:03:36.4583252+00:00",
+      "NumProgressed": 14234,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7160,7 +7165,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4840
     },
     {
       "ID": "tpote_achievement_15",
@@ -7208,7 +7213,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4840
     },
     {
       "ID": "tpote_achievement_20",
@@ -7447,15 +7452,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14233,
+      "Progressed": 14234,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:22.3187741+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:03:36.4583241+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:00:15.9967116+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:22.31883+00:00"
+  "LastUpdate_Ratings": "2023-07-30T00:01:39.0819262+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:36.4583898+00:00"
 }

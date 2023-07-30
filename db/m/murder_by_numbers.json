@@ -2,13 +2,13 @@
   "ID": "a0c5d9d8a9a940e8a8f63118c7323210",
   "Name": "Murder by Numbers",
   "ProductSlug": "murder-by-numbers",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-23T17:00:00+00:00",
     "PcReleaseDate": "2020-03-06T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:06.0023598+00:00",
@@ -108,6 +108,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-30T00:01:28.1830863+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -126,8 +132,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2023-07-29T13:02:00.5677307+00:00",
+  "LastChanged": "2023-07-30T00:01:28.1830861+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.7288543+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:00:07.4318293+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:03.9656297+00:00"
+  "LastUpdate_Ratings": "2023-07-30T00:01:28.1830867+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:11.4986126+00:00"
 }

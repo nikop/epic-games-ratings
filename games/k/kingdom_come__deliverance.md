@@ -1,19 +1,19 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 186)  
+Rating: 4.71 (Ranked 185)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,385 |
+| Blacksmith's Son | 31.00% | ~246,386 |
 | Cavalier | 25.00% | ~198,698 |
 | Fatso | 23.00% | ~182,802 |
 | Awakening | 21.00% | ~166,906 |
 | Ranger | 20.00% | ~158,958 |
 | Scrooge | 20.00% | ~158,958 |
-| Anorectic | 16.00% | ~127,166 |
-| Firestarter | 15.00% | ~119,218 |
+| Anorectic | 16.00% | ~127,167 |
+| Firestarter | 15.00% | ~119,219 |
 | Bookworm | 14.00% | ~111,271 |
 | Insomniac | 13.00% | ~103,323 |
 | Buddy | 12.00% | ~95,375 |
@@ -24,7 +24,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Haggler | 9.00% | ~71,531 |
 | McLovin | 7.00% | ~55,635 |
 | Runt | 7.00% | ~55,635 |
-| Casanova | 6.00% | ~47,687 |
+| Casanova | 6.00% | ~47,688 |
 | Bad Trip | 5.00% | ~39,740 |
 | Monk | 5.00% | ~39,740 |
 | Serial Killer | 5.00% | ~39,740 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794,790 (Ranked 15)  
+Progressed: 794,792 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-27 | 794,476 | 44 |
 | 2023-07-28 | 794,631 | 44 |
 | 2023-07-29 | 794,790 | 44 |
+| 2023-07-30 | 794,792 | 44 |
 ## Awards
 Max (Character Customization): 7,348  (Ranked 46)  
 Sum: 27,390 (Ranked 45)  

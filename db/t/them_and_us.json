@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -916,9 +916,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1141,8 +1141,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:21.0167206+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:03:34.1583691+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:57:40.224705+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:21.016741+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:58:00.7481736+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:34.1584063+00:00"
 }

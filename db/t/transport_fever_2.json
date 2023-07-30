@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3318,9 +3318,9 @@
       "ID": "achSmellOfSuccess",
       "SetID": "dgl390n",
       "Name": "The ugly smell of success",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 346
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -3398,8 +3398,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-28T12:00:50.3038875+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:04:28.3064601+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:05:11.4406507+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.2421067+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:00:04.0490612+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:04:28.3065144+00:00"
+  "LastUpdate_Ratings": "2023-07-30T00:01:22.075038+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:05:11.440713+00:00"
 }

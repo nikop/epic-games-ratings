@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -749,9 +749,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_campaigns_1",
@@ -797,17 +797,17 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_consultants_a",
@@ -1374,8 +1374,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:00:47.9328455+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:02:30.1380083+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:27.4194767+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:00:47.9329357+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:03.8648437+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:02:30.1381071+00:00"
 }

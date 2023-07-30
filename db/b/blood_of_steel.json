@@ -2,13 +2,13 @@
   "ID": "f1e33357c0ad46719364bac31a4fcbdf",
   "Name": "Blood of Steel",
   "ProductSlug": "blood-of-steel-5326f7",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-08T04:00:00+00:00",
     "PcReleaseDate": "2020-10-20T06:00:00+00:00",
@@ -218,6 +218,6 @@
   "FirstSeenRating": "2023-01-18T14:57:02.2486161+00:00",
   "LastChanged": "2023-07-25T05:59:26.1546566+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.0950868+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:37.2829986+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:05:11.3054757+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:19.6111776+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:06:12.3892506+00:00"
 }

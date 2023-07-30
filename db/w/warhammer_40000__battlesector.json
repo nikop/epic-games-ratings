@@ -2,13 +2,13 @@
   "ID": "ae248f67a46f47a6bcf8a45b2b4fdd10",
   "Name": "Warhammer 40,000: Battlesector",
   "ProductSlug": "warhammer-40000-battlesector",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-22T17:00:00+00:00",
     "PcReleaseDate": "2021-07-22T17:00:00+00:00",
@@ -174,6 +174,6 @@
   "FirstSeen": "2022-07-22T20:22:10.2455747+00:00",
   "LastChanged": "2023-07-29T07:59:13.065193+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:11.1943553+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:45.5529186+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:05:06.8880035+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:29.3058986+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:06:06.3903284+00:00"
 }

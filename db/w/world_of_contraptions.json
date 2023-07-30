@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-07-29T17:02:32.2682798+00:00",
       "NumProgressed": 216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T00:03:18.5354268+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -892,7 +897,7 @@
       "Name": "The first of many",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1090,9 +1095,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1131,14 +1136,14 @@
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:09.8143271+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:03:18.5354259+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.942279+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:36.6654178+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:09.8143461+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:18.5789678+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:18.535474+00:00"
 }

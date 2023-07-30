@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,506 |
-| Maddening | 2.00% | ~4,337 |
-| Beast Intentions | 2.00% | ~4,337 |
+| Maddening | 2.00% | ~4,338 |
+| Beast Intentions | 2.00% | ~4,338 |
 | The Silken Swamp | 1.00% | ~2,169 |
 | Supply Run | 1.00% | ~2,169 |
 | Rocky Reception | 1.00% | ~1,831 |
@@ -45,18 +45,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~916 |
 | Krux's Speed Run | 0.50% | ~916 |
 | Thieves of the Coven | 0.40% | ~733 |
-| On the Hunt | 0.40% | ~867 |
-| Friends of the Forest | 0.40% | ~867 |
-| Low Initiative | 0.40% | ~867 |
-| Street War | 0.40% | ~867 |
-| March of the Undead | 0.40% | ~867 |
-| No Time To Rest | 0.40% | ~867 |
-| The Mists of Ravenloft | 0.40% | ~867 |
-| Invisible Shadows | 0.40% | ~867 |
-| Family Entanglements | 0.40% | ~867 |
-| The Botched Kidnapping | 0.40% | ~867 |
-| The Cursed Farmer | 0.40% | ~867 |
-| The Mad Wizard | 0.40% | ~867 |
+| On the Hunt | 0.40% | ~868 |
+| Friends of the Forest | 0.40% | ~868 |
+| Low Initiative | 0.40% | ~868 |
+| Street War | 0.40% | ~868 |
+| March of the Undead | 0.40% | ~868 |
+| No Time To Rest | 0.40% | ~868 |
+| The Mists of Ravenloft | 0.40% | ~868 |
+| Invisible Shadows | 0.40% | ~868 |
+| Family Entanglements | 0.40% | ~868 |
+| The Botched Kidnapping | 0.40% | ~868 |
+| The Cursed Farmer | 0.40% | ~868 |
+| The Mad Wizard | 0.40% | ~868 |
 | Luigi After Hours | 0.40% | ~733 |
 | Electric Mayhem | 0.40% | ~733 |
 | Animated Giff | 0.40% | ~733 |
@@ -95,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~651 |
 | Waterdeep Detours | 0.30% | ~651 |
 | Lost in the Deep | 0.30% | ~651 |
+| Easily Distracted | 0.30% | ~651 |
 | Underdeep Cartography | 0.30% | ~651 |
 | Friendly Imps | 0.30% | ~651 |
 | Overdue Rendezvous | 0.30% | ~651 |
@@ -183,7 +184,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~434 |
 | Constant Banditry | 0.20% | ~434 |
 | The Long Haul | 0.20% | ~434 |
-| Easily Distracted | 0.20% | ~434 |
 | Rude Welcome | 0.20% | ~434 |
 | Moose Tracks | 0.20% | ~366 |
 | Civilization | 0.20% | ~366 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,865 (Ranked 53)  
-Completed: 2,136 (0.98%) (Ranked 112)  
+Progressed: 216,875 (Ranked 53)  
+Completed: 2,137 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -620,6 +620,7 @@ Completed: 2,136 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
+| 2023-07-30 | 216,875 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,800 (Ranked 38)  

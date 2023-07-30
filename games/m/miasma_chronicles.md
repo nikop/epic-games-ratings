@@ -34,9 +34,9 @@ Rating: 4.40 (Ranked 694)
 | There Can Be Only One! | 25.00% | ~328 |
 | Chain Killer | 22.00% | ~288 |
 | The Watchers | 21.00% | ~275 |
+| Silent but Violent | 17.00% | ~223 |
 | Commando | 16.00% | ~210 |
 | Newtonian Knockout | 16.00% | ~210 |
-| Silent but Violent | 16.00% | ~210 |
 | Chaos Theory | 15.00% | ~197 |
 | Dr Jones | 15.00% | ~197 |
 | Ruthless | 14.00% | ~184 |

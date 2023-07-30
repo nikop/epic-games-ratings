@@ -1,26 +1,26 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 933)  
+Rating: 3.94 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,218 |
-| First One’s Free | 65.00% | ~45,867 |
-| Neophyte Ninja | 50.00% | ~35,282 |
+| Downed but Not Outed | 74.00% | ~52,220 |
+| First One’s Free | 65.00% | ~45,869 |
+| Neophyte Ninja | 50.00% | ~35,284 |
 | Too Old for This | 47.00% | ~33,166 |
 | Fancy Pants | 35.00% | ~24,698 |
-| Case Closed | 34.00% | ~23,992 |
-| King of the Hill | 34.00% | ~23,992 |
+| Case Closed | 34.00% | ~23,993 |
+| King of the Hill | 34.00% | ~23,993 |
 | Underworld Initiate | 29.00% | ~20,464 |
 | Roid Ranger | 21.00% | ~14,819 |
-| True Player | 19.00% | ~13,407 |
-| Off the Rocks | 19.00% | ~13,407 |
+| True Player | 19.00% | ~13,408 |
+| Off the Rocks | 19.00% | ~13,408 |
 | Dragonslayer | 17.00% | ~11,996 |
-| Raider’s Ruin | 16.00% | ~11,290 |
-| Hidden Sonata | 13.00% | ~9,173 |
+| Raider’s Ruin | 16.00% | ~11,291 |
+| Hidden Sonata | 13.00% | ~9,174 |
 | Rockay Rex | 11.00% | ~7,762 |
-| Freebooter | 10.00% | ~7,056 |
+| Freebooter | 10.00% | ~7,057 |
 | Track Star | 9.00% | ~6,351 |
 | Classy Joint | 9.00% | ~6,351 |
 | I Like Trains | 8.00% | ~5,645 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 933)
 | Geek Out | 0.50% | ~353 |
 | Full House | 0.20% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,565 (Ranked 77)  
+Progressed: 70,567 (Ranked 77)  
 Completed: 36 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 36 (0.05%) (Ranked 211)
 | 2023-07-27 | 70,275 | 36 |
 | 2023-07-28 | 70,402 | 36 |
 | 2023-07-29 | 70,565 | 36 |
+| 2023-07-30 | 70,567 | 36 |
 ## Awards
 Max (Diverse Characters): 384  (Ranked 214)  
 Sum: 1,806 (Ranked 205)  

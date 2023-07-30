@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 367,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -4270,10 +4270,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3625,
       "NumberOfAwardsMax": 467
+    },
+    {
+      "Time": "2023-07-29T23:59:55.1360507+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3626,
+      "NumberOfAwardsMax": 467
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3625,
+  "NumberOfAwards": 3626,
   "NumberOfAwardsMax": 467,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4329,7 +4335,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 364
+      "Count": 365
     },
     {
       "Text": "This game has a Creative Community",
@@ -4338,9 +4344,9 @@
       "Count": 282
     }
   ],
-  "EOS_Progressed": 157152,
+  "EOS_Progressed": 157168,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3292,
+  "EOS_NewPlayers": 3295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15213,6 +15219,11 @@
       "Time": "2023-07-29T23:03:10.3780451+00:00",
       "NumProgressed": 157152,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-30T00:03:19.2848135+00:00",
+      "NumProgressed": 157168,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -15256,7 +15267,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25147
     },
     {
       "ID": "Achievement_13",
@@ -15304,7 +15315,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 40860
+      "UsersEstimate": 40864
     },
     {
       "ID": "Achievement_5",
@@ -15336,7 +15347,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 14144
+      "UsersEstimate": 14145
     },
     {
       "ID": "Achievement_9",
@@ -15351,15 +15362,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 157152,
+      "Progressed": 157168,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-07-29T14:59:06.0542606+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:10.3780448+00:00",
+  "LastChanged": "2023-07-29T23:59:55.1360506+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:03:19.2848127+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:31.2081765+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:59:04.8250546+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:10.3780975+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:55.1360513+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:19.2849423+00:00"
 }

@@ -209,9 +209,9 @@
       "ID": "PORTRAIT_2",
       "SetID": "2fge00i",
       "Name": "Portrait 2",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PORTRAIT_20",
@@ -249,17 +249,17 @@
       "ID": "PORTRAIT_6",
       "SetID": "2fge00i",
       "Name": "Portrait 6",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_7",
       "SetID": "2fge00i",
       "Name": "Portrait 7",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_8",
@@ -288,8 +288,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:42.2999909+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:04:05.6727428+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.5331797+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:57:15.966961+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:42.3000073+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:57:27.4510769+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:04:05.6727589+00:00"
 }

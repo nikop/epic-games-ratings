@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16740,
+  "EOS_Progressed": 16741,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
@@ -8516,6 +8516,11 @@
       "Time": "2023-07-29T23:01:01.2447611+00:00",
       "NumProgressed": 16740,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-30T00:03:09.5643091+00:00",
+      "NumProgressed": 16741,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -8567,7 +8572,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -8583,7 +8588,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8872
+      "UsersEstimate": 8873
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -8638,15 +8643,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16740,
+      "Progressed": 16741,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:01:01.2447606+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:03:09.5643082+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.368117+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:00:35.5921148+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:01:01.2447958+00:00"
+  "LastUpdate_Ratings": "2023-07-30T00:02:08.495755+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:03:09.5644069+00:00"
 }

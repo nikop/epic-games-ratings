@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 412)  
+Rating: 4.59 (Ranked 411)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |
+| Hive Exterminator | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
@@ -53,7 +54,6 @@ Number of Ratings: 371  (23.09.2022)
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
-| Hive Exterminator | 0.10% | ~3 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
@@ -173,15 +173,15 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-29 | 3,069 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 264)  
-Sum: 458 (Ranked 303)  
+Sum: 459 (Ranked 303)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 216 |
 | This game is Extremely Fun | 32 |
+| This game is Highly Recommended | 31 |
 | This game has Amazing Storytelling | 30 |
 | This game has Amazing Characters | 30 |
-| This game is Highly Recommended | 30 |
 | This game has Challenging Combat | 27 |
 | This game has Competitive Players | 26 |
 | This game has Diverse Characters | 24 |
@@ -281,3 +281,4 @@ Diff (max vs sum): -39
 | 2023-07-26 | 4.59 | - | 214 | 455 |
 | 2023-07-27 | 4.59 | - | 214 | 456 |
 | 2023-07-28 | 4.59 | - | 216 | 458 |
+| 2023-07-30 | 4.59 | - | 216 | 459 |

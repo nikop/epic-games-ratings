@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 557)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~695 |
-| And so it begins | 72.00% | ~659 |
+| And so it begins | 73.00% | ~668 |
 | No pressure | 70.00% | ~640 |
 | Memento | 62.00% | ~567 |
 | Let there be light | 59.00% | ~540 |
@@ -27,7 +27,7 @@ Rating: 4.50 (Ranked 557)
 | Nearly there | 24.00% | ~220 |
 | Broken heart | 22.00% | ~201 |
 | Island boy | 20.00% | ~183 |
-| You're a star | 18.00% | ~165 |
+| You're a star | 19.00% | ~174 |
 | Unstoppable | 17.00% | ~156 |
 | Reunited | 17.00% | ~156 |
 | King of hospitality | 11.00% | ~101 |

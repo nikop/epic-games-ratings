@@ -17,26 +17,26 @@
 | Employee of the week | 75.00% | ~134 |
 | Your own amateur gym | 73.00% | ~130 |
 | Run K, run! | 71.00% | ~126 |
+| Hello, world! | 67.00% | ~119 |
+| Fighting is cool | 66.00% | ~117 |
 | No bullying more | 66.00% | ~117 |
-| Hello, world! | 66.00% | ~117 |
-| Fighting is cool | 65.00% | ~116 |
 | Pal of your father? | 62.00% | ~110 |
 | Employee of the month | 61.00% | ~109 |
-| Spirit of the past | 59.00% | ~105 |
+| Spirit of the past | 60.00% | ~107 |
 | Law student | 58.00% | ~103 |
 | Workout professional | 56.00% | ~100 |
 | Intriguing candies | 56.00% | ~100 |
 | Little hacker | 54.00% | ~96 |
 | Employee of the year | 54.00% | ~96 |
 | Champion – starter pack | 53.00% | ~94 |
+| It's good to be alive | 53.00% | ~94 |
 | Own four walls | 53.00% | ~94 |
 | Fight for life | 52.00% | ~93 |
 | Handyman | 52.00% | ~93 |
-| It's good to be alive | 52.00% | ~93 |
 | Legal courier | 49.00% | ~87 |
 | Extreme neuropower! | 49.00% | ~87 |
 | Your own way | 49.00% | ~87 |
-| Escaped from a big trouble | 44.00% | ~78 |
+| Escaped from a big trouble | 45.00% | ~80 |
 | Now you are worthy | 43.00% | ~77 |
 | No blades in the gym | 42.00% | ~75 |
 | Guiding on the right path | 40.00% | ~71 |
@@ -56,7 +56,7 @@
 | Gang wrangler | 28.00% | ~50 |
 | The last bell ring | 28.00% | ~50 |
 | Problems of cyborgs | 27.00% | ~48 |
-| Absolute Champion! | 26.00% | ~46 |
+| Absolute Champion! | 27.00% | ~48 |
 | Careerist | 26.00% | ~46 |
 | Anyone can resist | 26.00% | ~46 |
 | Trap disarmed | 25.00% | ~44 |
@@ -68,8 +68,8 @@
 | The heart of the Resistance | 25.00% | ~44 |
 | Family comes first | 24.00% | ~43 |
 | Silver’s past | 22.00% | ~39 |
+| The only right decision | 22.00% | ~39 |
 | Better cooking at home | 21.00% | ~37 |
-| The only right decision | 21.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 178 (Ranked 286)  
 Completed: 7 (3.93%) (Ranked 54)  

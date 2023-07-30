@@ -2,13 +2,13 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -973,8 +973,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:04:02.9472452+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:04:35.5135244+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.8292107+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:42.0602132+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:04:02.9472847+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:24.6883328+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:04:35.5135695+00:00"
 }

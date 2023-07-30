@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.90% | ~118 |
 | Able | 0.80% | ~105 |
 | Architect | 0.70% | ~92 |
+| Enlightened | 0.70% | ~92 |
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Mason | 0.70% | ~92 |
@@ -24,27 +25,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.70% | ~92 |
 | Hanging Gardens | 0.70% | ~92 |
 | Oracle | 0.70% | ~92 |
-| Enlightened | 0.60% | ~79 |
+| Judaism | 0.70% | ~92 |
 | Glorious | 0.60% | ~79 |
+| Keystone | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
+| Warrior | 0.60% | ~79 |
+| Developing Cities | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
 | Christianity | 0.60% | ~79 |
-| Judaism | 0.60% | ~79 |
+| Babylonian Paganism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
 | Naming Landmarks | 0.60% | ~79 |
 | Trade Caravan | 0.60% | ~79 |
 | Ambitious | 0.50% | ~66 |
-| Keystone | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
-| Warrior | 0.50% | ~66 |
 | Wise | 0.50% | ~66 |
-| Developing Cities | 0.50% | ~66 |
+| Strong Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
+| Artisans | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Lighthouse | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
-| Babylonian Paganism | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |
 | Roman Paganism | 0.50% | ~66 |
 | Zoroastrianism | 0.50% | ~66 |
@@ -52,9 +54,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
-| Strong Cities | 0.40% | ~53 |
-| Artisans | 0.40% | ~53 |
+| Just Difficulty | 0.40% | ~53 |
 | Furious Family | 0.40% | ~53 |
+| Apadana | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
 | Necropolis | 0.40% | ~53 |
@@ -69,22 +71,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.30% | ~39 |
 | Legendary Cities | 0.30% | ~39 |
 | Good Difficulty | 0.30% | ~39 |
-| Just Difficulty | 0.30% | ~39 |
 | Champions | 0.30% | ~39 |
 | Patrons | 0.30% | ~39 |
 | Sages | 0.30% | ~39 |
 | Statesmen | 0.30% | ~39 |
 | Traders | 0.30% | ~39 |
 | Acropolis | 0.30% | ~39 |
-| Apadana | 0.30% | ~39 |
 | Temple of Solomon | 0.30% | ~39 |
+| Adur Burzen-Mihr | 0.30% | ~39 |
 | Mausoleum | 0.30% | ~39 |
 | Greece | 0.30% | ~39 |
+| Power to the People | 0.30% | ~39 |
 | Persian Paganism | 0.30% | ~39 |
 | Building Wonders | 0.30% | ~39 |
 | Legalism | 0.30% | ~39 |
 | Double Victory | 0.30% | ~39 |
 | Points Victory | 0.30% | ~39 |
+| Pilgrimage | 0.30% | ~39 |
 | Bad Heir Day | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
@@ -106,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~26 |
 | Hagia Sophia | 0.20% | ~26 |
 | Church of the Holy Sepulchre | 0.20% | ~26 |
-| Adur Burzen-Mihr | 0.20% | ~26 |
 | Pantheon | 0.20% | ~26 |
 | Via Recta Souk | 0.20% | ~26 |
 | Learn to Play 3 | 0.20% | ~26 |
@@ -116,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
-| Power to the People | 0.20% | ~26 |
 | Assyrian Paganism | 0.20% | ~26 |
 | Economic Reform | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.20% | ~26 |
 | Ambition Victory | 0.20% | ~26 |
 | Win a Single Player Game | 0.20% | ~26 |
-| Pilgrimage | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
 | Hypatia the Teacher | 0.20% | ~26 |
 | Centenarian | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,164 (Ranked 117)  
+Progressed: 13,166 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,6 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
+| 2023-07-30 | 13,166 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

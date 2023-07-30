@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 924)  
+Rating: 3.99 (Ranked 925)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,512 (Ranked 61)  
+Progressed: 133,515 (Ranked 61)  
 Completed: 124 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,13 +220,14 @@ Completed: 124 (0.09%) (Ranked 196)
 | 2023-07-27 | 133,376 | 123 |
 | 2023-07-28 | 133,441 | 123 |
 | 2023-07-29 | 133,512 | 124 |
+| 2023-07-30 | 133,515 | 124 |
 ## Awards
-Max (Great for Beginners): 4,675  (Ranked 70)  
-Sum: 27,003 (Ranked 46)  
+Max (Great for Beginners): 4,678  (Ranked 70)  
+Sum: 27,006 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,675 |
+| This game is Great for Beginners | 4,678 |
 | This game is Relaxing | 3,989 |
 | This game has Quickly Understood Controls | 3,977 |
 | This game has Diverse Characters | 3,840 |
@@ -423,4 +424,4 @@ Diff (max vs sum): 24
 | 2023-07-26 | 3.99 | - | 4,672 | 26,984 |
 | 2023-07-27 | 3.99 | - | 4,672 | 26,989 |
 | 2023-07-28 | 3.99 | - | 4,675 | 26,999 |
-| 2023-07-29 | 3.99 | - | 4,675 | 27,003 |
+| 2023-07-29 | 3.99 | - | 4,678 | 27,006 |

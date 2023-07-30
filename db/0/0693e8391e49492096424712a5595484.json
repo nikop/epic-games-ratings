@@ -979,9 +979,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1195,9 +1195,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "RogueKing",
@@ -1282,8 +1282,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:05:53.1995756+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:07:11.2300572+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:57:24.0156863+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:05:53.1996088+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:57:35.9051656+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:07:11.2301058+00:00"
 }

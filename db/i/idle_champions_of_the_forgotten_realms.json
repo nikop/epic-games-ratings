@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5374,11 +5374,11 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216865,
-  "EOS_Completed": 2136,
-  "EOS_NewPlayers": 2226,
-  "EOS_NewCompleters": 76,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 216875,
+  "EOS_Completed": 2137,
+  "EOS_NewPlayers": 2230,
+  "EOS_NewCompleters": 77,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -16164,6 +16164,11 @@
       "Time": "2023-07-29T23:03:46.1495337+00:00",
       "NumProgressed": 216865,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-07-30T00:04:11.966118+00:00",
+      "NumProgressed": 216875,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16183,7 +16188,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "objective_completed_100",
@@ -16543,7 +16548,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "objective_completed_110",
@@ -16839,7 +16844,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_1160",
@@ -16895,7 +16900,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_1170",
@@ -17359,7 +17364,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_164",
@@ -17375,7 +17380,7 @@
       "Name": "Street War",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_166",
@@ -17407,7 +17412,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_170",
@@ -17511,7 +17516,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_208",
@@ -17519,7 +17524,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_209",
@@ -17535,7 +17540,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_210",
@@ -17559,7 +17564,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_214",
@@ -17623,7 +17628,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_236",
@@ -17847,7 +17852,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_34",
@@ -19319,7 +19324,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_70",
@@ -19365,9 +19370,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_77",
@@ -20270,21 +20275,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183139,
+      "Progressed": 183149,
       "Completed": 3026
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216865,
-      "Completed": 2136
+      "Progressed": 216875,
+      "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-29T22:58:36.5097045+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:03:46.1495331+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:04:11.9661174+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:36.5097052+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:03:46.1523456+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:18.2345869+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:04:11.9689032+00:00"
 }

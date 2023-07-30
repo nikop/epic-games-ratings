@@ -2,13 +2,13 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6228,7 +6228,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794790,
+  "EOS_Progressed": 794792,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
@@ -17098,6 +17098,11 @@
       "Time": "2023-07-29T23:04:08.8186147+00:00",
       "NumProgressed": 794790,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-30T00:04:43.6679845+00:00",
+      "NumProgressed": 794792,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17133,7 +17138,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127166
+      "UsersEstimate": 127167
     },
     {
       "ID": "Awakening",
@@ -17189,7 +17194,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246385
+      "UsersEstimate": 246386
     },
     {
       "ID": "Bookworm",
@@ -17213,7 +17218,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47687
+      "UsersEstimate": 47688
     },
     {
       "ID": "Cavalier",
@@ -17325,7 +17330,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119218
+      "UsersEstimate": 119219
     },
     {
       "ID": "Freud",
@@ -17764,15 +17769,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794790,
+      "Progressed": 794792,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-29T14:58:52.6599806+00:00",
-  "LastChanged_Achievements": "2023-07-29T23:04:08.8186142+00:00",
+  "LastChanged_Achievements": "2023-07-30T00:04:43.667984+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-07-29T22:58:50.1160825+00:00",
-  "LastUpdate_Achievements": "2023-07-29T23:04:08.818946+00:00"
+  "LastUpdate_Ratings": "2023-07-29T23:59:35.6942814+00:00",
+  "LastUpdate_Achievements": "2023-07-30T00:04:43.6681275+00:00"
 }
