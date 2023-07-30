@@ -243,7 +243,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1916,
+  "EOS_Progressed": 1917,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -1913,6 +1913,11 @@
       "Time": "2023-07-29T21:03:43.2629099+00:00",
       "NumProgressed": 1916,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-30T01:59:50.952377+00:00",
+      "NumProgressed": 1917,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1932,7 +1937,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACHV_03",
@@ -2044,7 +2049,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_17",
@@ -2060,7 +2065,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHV_19",
@@ -2068,7 +2073,7 @@
       "Name": "Defense in Depth",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHV_20",
@@ -2084,7 +2089,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHV_22",
@@ -2108,7 +2113,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_25",
@@ -2124,7 +2129,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACHV_27",
@@ -2156,7 +2161,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACHV_31",
@@ -2204,7 +2209,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACHV_37",
@@ -2228,7 +2233,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACHV_40",
@@ -2379,7 +2384,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1916,
+      "Progressed": 1917,
       "Completed": 10
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:04:02.6866238+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:59:50.9523763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:57:20.8021367+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:04:02.6866834+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:53:26.438741+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:59:50.9524455+00:00"
 }

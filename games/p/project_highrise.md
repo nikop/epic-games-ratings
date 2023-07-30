@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~170 |
+| In the Black | 60.00% | ~173 |
 | Starting Skyward | 52.00% | ~150 |
 | Grime is Not Good | 45.00% | ~130 |
-| Campaign Launch | 40.00% | ~115 |
-| Floor Galore | 38.00% | ~109 |
-| Dinner Dash | 38.00% | ~109 |
+| Campaign Launch | 40.00% | ~116 |
+| Floor Galore | 38.00% | ~110 |
+| Dinner Dash | 38.00% | ~110 |
 | Need a Consult | 36.00% | ~104 |
 | It's Technical | 35.00% | ~101 |
 | Upgrade Unlock | 34.00% | ~98 |
-| Proper Walls | 32.00% | ~92 |
 | Delegate Maintenance | 32.00% | ~92 |
+| Proper Walls | 31.00% | ~90 |
 | Destination Destiny | 28.00% | ~81 |
 | Happy Tenants | 25.00% | ~72 |
 | Smooth Service | 24.00% | ~69 |
 | Your Prestige is Rising | 23.00% | ~66 |
 | Potent Potables | 23.00% | ~66 |
 | Retail Revenue | 23.00% | ~66 |
-| Lux Living | 21.00% | ~60 |
-| Don't Feel a Loan | 20.00% | ~58 |
+| Lux Living | 21.00% | ~61 |
+| Don't Feel a Loan | 21.00% | ~61 |
 | People Mover | 20.00% | ~58 |
 | Emporium Empire | 20.00% | ~58 |
 | Leveled Up Shops | 20.00% | ~58 |
@@ -35,10 +35,10 @@
 | Cashflow Chief | 16.00% | ~46 |
 | Under One Roof | 15.00% | ~43 |
 | Starred Dining | 15.00% | ~43 |
-| Smooth Operator | 14.00% | ~40 |
 | Terrifically Trashed | 14.00% | ~40 |
-| Boutique Benefits | 13.00% | ~37 |
-| Thrilled Tenants | 13.00% | ~37 |
+| Smooth Operator | 13.00% | ~38 |
+| Boutique Benefits | 13.00% | ~38 |
+| Thrilled Tenants | 13.00% | ~38 |
 | 28 Days Later | 11.00% | ~32 |
 | Swimming in Surplus | 11.00% | ~32 |
 | Plaza Plan | 9.00% | ~26 |
@@ -58,16 +58,16 @@
 | Profound Proceeds | 6.00% | ~17 |
 | It's a Gas | 6.00% | ~17 |
 | Meet ADA/360 | 5.00% | ~14 |
-| Penthouse in the Sky | 5.00% | ~14 |
 | Baron of Business | 5.00% | ~14 |
 | Golden Opportunity | 5.00% | ~14 |
 | Tuned In | 5.00% | ~14 |
+| Penthouse in the Sky | 4.00% | ~12 |
 | Office Bigwigs | 4.00% | ~12 |
+| Sandbagger | 4.00% | ~12 |
 | Decorator's Touch | 3.00% | ~9 |
 | Apartment Awareness | 3.00% | ~9 |
 | Luxury Boutiques | 3.00% | ~9 |
 | Three of a Kind | 3.00% | ~9 |
-| Sandbagger | 3.00% | ~9 |
 | Curated Class | 2.00% | ~6 |
 | Loft Life | 2.00% | ~6 |
 | Glut of Gastronomy | 2.00% | ~6 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 256)  
+Progressed: 289 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
 | 2023-07-29 | 288 | 0 |
+| 2023-07-30 | 289 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,574 |
-| Tutti Eroi! | 55.00% | ~3,574 |
-| You Shall Not Pass | 53.00% | ~3,444 |
+| Peak Performance | 55.00% | ~3,576 |
+| Tutti Eroi! | 55.00% | ~3,576 |
+| You Shall Not Pass | 53.00% | ~3,446 |
 | Avanti Savoia! | 47.00% | ~3,055 |
 | Mamma Mia! | 37.00% | ~2,405 |
 | Conrad von Hotzensocks | 36.00% | ~2,340 |
@@ -48,11 +48,11 @@ Number of Ratings: 98  (23.09.2022)
 | Compagnia della Morte | 1.00% | ~65 |
 | Drop and Give Me 20 | 1.00% | ~65 |
 | Rome Wasn't Built In A Day | 1.00% | ~65 |
-| Malpractice | 0.90% | ~58 |
+| Malpractice | 0.90% | ~59 |
 | "Sacro Egoismo" | 0.40% | ~26 |
-| Can I Go Home Now? | 0.10% | ~6 |
+| Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,499 (Ranked 133)  
+Progressed: 6,501 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 8 (0.12%) (Ranked 188)
 | 2023-07-27 | 6,470 | 8 |
 | 2023-07-28 | 6,484 | 8 |
 | 2023-07-29 | 6,499 | 8 |
+| 2023-07-30 | 6,501 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 260 (Ranked 348)  

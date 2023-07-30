@@ -2,12 +2,12 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4540,
+  "EOS_Progressed": 4541,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -1893,6 +1893,11 @@
       "Time": "2023-07-29T18:03:06.5761941+00:00",
       "NumProgressed": 4540,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-30T01:59:34.9923267+00:00",
+      "NumProgressed": 4541,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1952,7 +1957,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1960,7 +1965,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1968,7 +1973,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1984,7 +1989,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -2008,7 +2013,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -2064,7 +2069,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -2120,7 +2125,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2152,7 +2157,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2168,7 +2173,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2184,7 +2189,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -2240,7 +2245,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -2248,7 +2253,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2439,15 +2444,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4540,
+      "Progressed": 4541,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:03:43.7009585+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:59:34.9923258+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.6544505+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:59:08.263205+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:03:43.7010624+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:55:03.020847+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:59:34.992441+00:00"
 }

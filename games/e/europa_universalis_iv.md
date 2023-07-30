@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,819 |
-| That's a Grand Army | 8.00% | ~6,061 |
-| That is mine! | 8.00% | ~6,061 |
-| Victorious! | 8.00% | ~6,061 |
-| Brothers in Arms | 6.00% | ~4,546 |
-| That's a Grand Navy | 6.00% | ~4,546 |
-| Seriously?! | 6.00% | ~4,546 |
-| For the Glory | 5.00% | ~3,788 |
+| Until death do us apart | 9.00% | ~6,820 |
+| That's a Grand Army | 8.00% | ~6,062 |
+| That is mine! | 8.00% | ~6,062 |
+| Victorious! | 8.00% | ~6,062 |
+| Brothers in Arms | 6.00% | ~4,547 |
+| That's a Grand Navy | 6.00% | ~4,547 |
+| Seriously?! | 6.00% | ~4,547 |
+| For the Glory | 5.00% | ~3,789 |
 | Cold War | 4.00% | ~3,031 |
 | True Catholic | 4.00% | ~3,031 |
 | Defender of the Faith | 3.00% | ~2,273 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,273 |
 | The Princess is in this Castle | 3.00% | ~2,273 |
 | Truly Divine Ruler | 3.00% | ~2,273 |
-| Agressive Expander | 2.00% | ~1,515 |
-| Blockader | 2.00% | ~1,515 |
-| Combined Arms | 2.00% | ~1,515 |
-| Double the Love | 2.00% | ~1,515 |
-| Gentle Persuasion | 2.00% | ~1,515 |
-| My armies are invincible! | 2.00% | ~1,515 |
-| Queen of Conquest | 2.00% | ~1,515 |
-| Royal Authority | 2.00% | ~1,515 |
-| Total Control | 2.00% | ~1,515 |
+| Agressive Expander | 2.00% | ~1,516 |
+| Blockader | 2.00% | ~1,516 |
+| Combined Arms | 2.00% | ~1,516 |
+| Double the Love | 2.00% | ~1,516 |
+| Gentle Persuasion | 2.00% | ~1,516 |
+| My armies are invincible! | 2.00% | ~1,516 |
+| Queen of Conquest | 2.00% | ~1,516 |
+| Royal Authority | 2.00% | ~1,516 |
+| Total Control | 2.00% | ~1,516 |
 | All That's Thine Shall Be Mine | 1.00% | ~758 |
 | Azur semé de lis or | 1.00% | ~758 |
 | Bright Spark | 1.00% | ~758 |
@@ -49,6 +49,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.60% | ~455 |
 | At every continent | 0.60% | ~455 |
 | One Family to Rule them All | 0.60% | ~455 |
+| Ruina Imperii | 0.60% | ~455 |
 | The pen is mightier than the sword | 0.60% | ~455 |
 | This is My Faith | 0.60% | ~455 |
 | Time Bandit | 0.60% | ~455 |
@@ -57,7 +58,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.50% | ~379 |
 | In the Name of the Father | 0.50% | ~379 |
 | Live Long and Prosper | 0.50% | ~379 |
-| Ruina Imperii | 0.50% | ~379 |
 | Trophy Hunter | 0.50% | ~379 |
 | Voting Streak | 0.50% | ~379 |
 | All Your Trade Are Belong to Us | 0.40% | ~303 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,764 (Ranked 76)  
+Progressed: 75,777 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
-| 2023-07-30 | 75,764 | 0 |
+| 2023-07-30 | 75,777 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,142 (Ranked 26)  

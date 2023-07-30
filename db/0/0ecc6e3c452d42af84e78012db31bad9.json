@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1819,
+  "EOS_Progressed": 1820,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2023-07-30T00:06:12.6402444+00:00",
       "NumProgressed": 1819,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-30T02:01:43.9481669+00:00",
+      "NumProgressed": 1820,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -2962,7 +2967,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -2994,7 +2999,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ach_architecture_completed",
@@ -3018,7 +3023,7 @@
       "Name": "Cannoneer",
       "Percentage": 28,
       "XP": 65,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ach_color_splash",
@@ -3034,7 +3039,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ach_food_completed",
@@ -3058,7 +3063,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ach_magic_wand",
@@ -3074,7 +3079,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ach_tornado",
@@ -3082,21 +3087,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1819,
+      "Progressed": 1820,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:06:12.6402436+00:00",
+  "LastChanged_Achievements": "2023-07-30T02:01:43.9481661+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:57:45.040206+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:06:12.6402699+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:53:48.8127968+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:01:43.948197+00:00"
 }

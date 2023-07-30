@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -840,10 +840,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 892,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-07-30T01:56:13.7308807+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 893,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 892,
+  "NumberOfAwards": 893,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -863,7 +869,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Highly Recommended",
@@ -914,7 +920,7 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8036,
+  "EOS_Progressed": 8037,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -3944,6 +3950,11 @@
       "Time": "2023-07-29T22:05:46.0270345+00:00",
       "NumProgressed": 8036,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-30T02:01:41.4176354+00:00",
+      "NumProgressed": 8037,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3955,7 +3966,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "Chatterbox",
@@ -4003,7 +4014,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4019,7 +4030,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4067,7 +4078,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "RookieWelcome",
@@ -4091,7 +4102,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "SkeletonKing",
@@ -4107,7 +4118,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "TheLegendBegins",
@@ -4115,7 +4126,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7473
+      "UsersEstimate": 7474
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4123,7 +4134,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4139,22 +4150,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6750
+      "UsersEstimate": 6751
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8036,
+      "Progressed": 8037,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-07-29T16:59:48.8517381+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:06:09.6812352+00:00",
+  "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
+  "LastChanged_Achievements": "2023-07-30T02:01:41.4176348+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-30T00:00:32.0262595+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:06:09.6812708+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:56:13.7308812+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:01:41.4176843+00:00"
 }

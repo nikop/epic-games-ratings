@@ -4,7 +4,7 @@
   "ProductSlug": "burnout-c041a6",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T03:57:00.6608132+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:58:14.3950126+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:05:26.0323202+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:54:14.4581359+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:01:03.4910572+00:00"
 }

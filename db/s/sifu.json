@@ -5418,9 +5418,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711821,
+  "EOS_Progressed": 711825,
   "EOS_Completed": 12835,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14928,6 +14928,11 @@
       "Time": "2023-07-30T00:08:11.5476969+00:00",
       "NumProgressed": 711821,
       "NumCompleted": 12835
+    },
+    {
+      "Time": "2023-07-30T02:03:26.6968605+00:00",
+      "NumProgressed": 711825,
+      "NumCompleted": 12835
     }
   ],
   "TotalAchievements": 50,
@@ -15291,7 +15296,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -15299,7 +15304,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -15315,7 +15320,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -15338,21 +15343,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21122,
+      "Progressed": 21126,
       "Completed": 10455
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711821,
+      "Progressed": 711825,
       "Completed": 12835
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-29T06:59:07.1748238+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:08:11.5476961+00:00",
+  "LastChanged_Achievements": "2023-07-30T02:03:26.6968597+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-30T00:00:24.1160157+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:08:11.5477957+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:56:07.1647947+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:03:26.6970437+00:00"
 }

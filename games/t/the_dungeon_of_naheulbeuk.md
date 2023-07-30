@@ -6,36 +6,36 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~119,281 |
-| Where's that freaking Dwarf? | 47.00% | ~95,021 |
-| GG EZ | 28.00% | ~56,608 |
-| Speedrun | 26.00% | ~52,565 |
-| Déjà vu | 21.00% | ~42,456 |
-| Sock! SOCK! | 17.00% | ~34,369 |
-| DM intervention | 13.00% | ~26,282 |
-| Fireproof Wizardess | 10.00% | ~20,217 |
-| Livin' in a dwarven paradise | 8.00% | ~16,174 |
-| Way of the Wimp | 7.00% | ~14,152 |
-| A beer, two curses, three companions | 7.00% | ~14,152 |
-| The plot thickens... At the tavern | 5.00% | ~10,109 |
-| The Woman in the High Castle | 4.00% | ~8,087 |
-| I am the night | 4.00% | ~8,087 |
-| Team Building Exercise | 4.00% | ~8,087 |
-| Shiny and Crôm | 3.00% | ~6,065 |
-| The demons' feast | 3.00% | ~6,065 |
-| Res Judicata | 3.00% | ~6,065 |
-| Dwarf Fortress | 3.00% | ~6,065 |
-| The Ranger of Chaos | 3.00% | ~6,065 |
-| Thieves' Guild Accreditation | 3.00% | ~6,065 |
-| Oh, when I'll be level 10... | 3.00% | ~6,065 |
-| The Great Library | 2.00% | ~4,043 |
-| Torture and Sensibility | 2.00% | ~4,043 |
-| Urik's Depths | 2.00% | ~4,043 |
-| Look but don't touch | 2.00% | ~4,043 |
-| The beards of change | 2.00% | ~4,043 |
-| Gargantua | 2.00% | ~4,043 |
-| In Navalu's footsteps | 2.00% | ~4,043 |
-| Material Girl | 2.00% | ~4,043 |
+| Alt+F4 | 59.00% | ~119,313 |
+| Where's that freaking Dwarf? | 47.00% | ~95,046 |
+| GG EZ | 28.00% | ~56,623 |
+| Speedrun | 26.00% | ~52,579 |
+| Déjà vu | 21.00% | ~42,467 |
+| Sock! SOCK! | 17.00% | ~34,378 |
+| DM intervention | 13.00% | ~26,289 |
+| Fireproof Wizardess | 10.00% | ~20,223 |
+| Livin' in a dwarven paradise | 8.00% | ~16,178 |
+| Way of the Wimp | 7.00% | ~14,156 |
+| A beer, two curses, three companions | 7.00% | ~14,156 |
+| The plot thickens... At the tavern | 5.00% | ~10,111 |
+| The Woman in the High Castle | 4.00% | ~8,089 |
+| I am the night | 4.00% | ~8,089 |
+| Team Building Exercise | 4.00% | ~8,089 |
+| Shiny and Crôm | 3.00% | ~6,067 |
+| The demons' feast | 3.00% | ~6,067 |
+| Res Judicata | 3.00% | ~6,067 |
+| Dwarf Fortress | 3.00% | ~6,067 |
+| The Ranger of Chaos | 3.00% | ~6,067 |
+| Thieves' Guild Accreditation | 3.00% | ~6,067 |
+| Oh, when I'll be level 10... | 3.00% | ~6,067 |
+| The Great Library | 2.00% | ~4,045 |
+| Torture and Sensibility | 2.00% | ~4,045 |
+| Urik's Depths | 2.00% | ~4,045 |
+| Look but don't touch | 2.00% | ~4,045 |
+| The beards of change | 2.00% | ~4,045 |
+| Gargantua | 2.00% | ~4,045 |
+| In Navalu's footsteps | 2.00% | ~4,045 |
+| Material Girl | 2.00% | ~4,045 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,022 |
 | A tale of adventurers not quite like the others... | 1.00% | ~2,022 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,022 |
@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~1,820 |
 | Dead for good | 0.90% | ~1,820 |
 | It's been a hard day's night | 0.90% | ~1,820 |
-| Lëgal Legend | 0.80% | ~1,617 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,415 |
+| Lëgal Legend | 0.80% | ~1,618 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,416 |
 | I'd rather... Just... Sing! | 0.50% | ~1,011 |
 | The number of the counting shalt be 7 | 0.50% | ~1,011 |
 | Holistic Adventuring Party | 0.40% | ~809 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,172 (Ranked 55)  
+Progressed: 202,226 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 200,189 | 0 |
 | 2023-07-28 | 201,111 | 0 |
 | 2023-07-29 | 202,137 | 0 |
-| 2023-07-30 | 202,172 | 0 |
+| 2023-07-30 | 202,226 | 0 |
 ## Awards
 Max (Character Customization): 141  (Ranked 299)  
 Sum: 141 (Ranked 394)  

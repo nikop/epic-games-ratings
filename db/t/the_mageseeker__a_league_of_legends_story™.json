@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3371,9 +3371,9 @@
       "ID": "STB_HOOK_CHALLENGE",
       "SetID": "3pe2bac",
       "Name": "Chains master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 248
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3636,8 +3636,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:03:29.622308+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:59:23.2294971+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:58:35.663892+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:03:29.6223736+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:54:32.3389223+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:59:23.2295891+00:00"
 }

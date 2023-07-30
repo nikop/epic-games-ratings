@@ -5324,10 +5324,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30800,
       "NumberOfAwardsMax": 5100
+    },
+    {
+      "Time": "2023-07-30T01:55:12.0623947+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30801,
+      "NumberOfAwardsMax": 5100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30800,
+  "NumberOfAwards": 30801,
   "NumberOfAwardsMax": 5100,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5359,7 +5365,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4024
+      "Count": 4025
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5374,9 +5380,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216875,
+  "EOS_Progressed": 216891,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2230,
+  "EOS_NewPlayers": 2218,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16169,6 +16175,11 @@
       "Time": "2023-07-30T00:04:11.966118+00:00",
       "NumProgressed": 216875,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T01:59:58.7157138+00:00",
+      "NumProgressed": 216891,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16180,7 +16191,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     },
     {
       "ID": "objective_completed_10",
@@ -18330,9 +18341,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_541",
@@ -18634,9 +18645,9 @@
       "ID": "objective_completed_585",
       "SetID": "cc37lbc",
       "Name": "Champions of Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_completed_586",
@@ -20204,7 +20215,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "objective_completed_1376",
@@ -20275,21 +20286,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183149,
+      "Progressed": 183165,
       "Completed": 3026
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216875,
+      "Progressed": 216891,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-29T22:58:36.5097045+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:04:11.9661174+00:00",
+  "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:59:58.7157131+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:59:18.2345869+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:04:11.9689032+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:55:12.0623957+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:59:58.7204851+00:00"
 }

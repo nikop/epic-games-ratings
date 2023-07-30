@@ -13,19 +13,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
-| Intrepid | 0.90% | ~118 |
+| Intrepid | 0.90% | ~119 |
 | Able | 0.80% | ~105 |
+| Mason | 0.80% | ~105 |
+| Hanging Gardens | 0.80% | ~105 |
 | Architect | 0.70% | ~92 |
 | Enlightened | 0.70% | ~92 |
 | Good | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
-| Mason | 0.70% | ~92 |
 | Noble | 0.70% | ~92 |
 | Pioneer | 0.70% | ~92 |
 | Strong | 0.70% | ~92 |
-| Hanging Gardens | 0.70% | ~92 |
 | Oracle | 0.70% | ~92 |
 | Judaism | 0.70% | ~92 |
+| Naming Landmarks | 0.70% | ~92 |
+| Trade Caravan | 0.70% | ~92 |
 | Glorious | 0.60% | ~79 |
 | Keystone | 0.60% | ~79 |
 | Learned | 0.60% | ~79 |
@@ -35,8 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.60% | ~79 |
 | Babylonian Paganism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
-| Naming Landmarks | 0.60% | ~79 |
-| Trade Caravan | 0.60% | ~79 |
+| Zoroastrianism | 0.60% | ~79 |
 | Ambitious | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
 | Wise | 0.50% | ~66 |
@@ -46,48 +47,47 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Lighthouse | 0.50% | ~66 |
+| Necropolis | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |
 | Roman Paganism | 0.50% | ~66 |
-| Zoroastrianism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |
 | Great | 0.40% | ~53 |
+| Intercessor | 0.40% | ~53 |
+| Legendary Cities | 0.40% | ~53 |
 | Just Difficulty | 0.40% | ~53 |
 | Furious Family | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
 | Colossus | 0.40% | ~53 |
+| Mausoleum | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
-| Necropolis | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
 | Manichaeism | 0.40% | ~53 |
 | Egyptian Paganism | 0.40% | ~53 |
 | Mythology | 0.40% | ~53 |
-| Hanging Gardens in Babylon | 0.30% | ~39 |
-| Drillmaster | 0.30% | ~39 |
-| Conqueror | 0.30% | ~39 |
-| Intercessor | 0.30% | ~39 |
-| Valiant | 0.30% | ~39 |
-| Legendary Cities | 0.30% | ~39 |
-| Good Difficulty | 0.30% | ~39 |
-| Champions | 0.30% | ~39 |
-| Patrons | 0.30% | ~39 |
-| Sages | 0.30% | ~39 |
-| Statesmen | 0.30% | ~39 |
-| Traders | 0.30% | ~39 |
-| Acropolis | 0.30% | ~39 |
-| Temple of Solomon | 0.30% | ~39 |
-| Adur Burzen-Mihr | 0.30% | ~39 |
-| Mausoleum | 0.30% | ~39 |
-| Greece | 0.30% | ~39 |
-| Power to the People | 0.30% | ~39 |
-| Persian Paganism | 0.30% | ~39 |
-| Building Wonders | 0.30% | ~39 |
-| Legalism | 0.30% | ~39 |
-| Double Victory | 0.30% | ~39 |
-| Points Victory | 0.30% | ~39 |
-| Pilgrimage | 0.30% | ~39 |
+| Hanging Gardens in Babylon | 0.30% | ~40 |
+| Drillmaster | 0.30% | ~40 |
+| Conqueror | 0.30% | ~40 |
+| Valiant | 0.30% | ~40 |
+| Good Difficulty | 0.30% | ~40 |
+| Champions | 0.30% | ~40 |
+| Patrons | 0.30% | ~40 |
+| Sages | 0.30% | ~40 |
+| Statesmen | 0.30% | ~40 |
+| Traders | 0.30% | ~40 |
+| Acropolis | 0.30% | ~40 |
+| Temple of Solomon | 0.30% | ~40 |
+| Adur Burzen-Mihr | 0.30% | ~40 |
+| Greece | 0.30% | ~40 |
+| Power to the People | 0.30% | ~40 |
+| Persian Paganism | 0.30% | ~40 |
+| Building Wonders | 0.30% | ~40 |
+| Legalism | 0.30% | ~40 |
+| Double Victory | 0.30% | ~40 |
+| Points Victory | 0.30% | ~40 |
+| Pilgrimage | 0.30% | ~40 |
 | Bad Heir Day | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Beloved | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,166 (Ranked 117)  
+Progressed: 13,170 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,166 | 5 |
+| 2023-07-30 | 13,170 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

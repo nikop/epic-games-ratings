@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56099,
+  "EOS_Progressed": 56104,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6582,6 +6582,11 @@
       "Time": "2023-07-29T22:06:04.3902588+00:00",
       "NumProgressed": 56099,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T02:01:59.3101329+00:00",
+      "NumProgressed": 56104,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6735,9 +6740,9 @@
       "ID": "HFZGoober",
       "SetID": "8gem5jc",
       "Name": "HFZ Goober",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2805
+      "UsersEstimate": 3366
     },
     {
       "ID": "HarshLove",
@@ -6841,7 +6846,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Randomizer",
@@ -6984,7 +6989,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56099,
+      "Progressed": 56104,
       "Completed": 4
     }
   ],
@@ -6992,8 +6997,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:06:30.6119996+00:00",
+  "LastChanged_Achievements": "2023-07-30T02:01:59.3101324+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:57.4410287+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:57:18.2474008+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:06:30.6120798+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:53:24.3657949+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:01:59.3102174+00:00"
 }

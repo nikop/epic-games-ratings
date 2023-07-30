@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_skip_3",
@@ -243,8 +243,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:02:37.8882767+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:58:05.8293999+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:57:13.8190875+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:02:37.8885933+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:53:20.5590115+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:58:05.8294301+00:00"
 }

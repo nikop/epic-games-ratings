@@ -21,38 +21,38 @@
 | Space Warrior: Prologue | 11.00% | ~6 |
 | Keep it Up, rookie! | 9.00% | ~5 |
 | The Abyss Conqueror | 8.00% | ~4 |
+| Decapitation Strike | 8.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
-| Decapitation Strike | 6.00% | ~3 |
+| Hell of a Fight | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
 | The Infinite Train Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | The Inactivated Frozen Conqueror | 4.00% | ~2 |
+| Death Bringer Conqueror | 4.00% | ~2 |
+| he Ultra Fortress Conqueror | 4.00% | ~2 |
 | Rapidfire | 4.00% | ~2 |
-| Hell of a Fight | 4.00% | ~2 |
-| Death Bringer Conqueror | 2.00% | ~1 |
-| he Ultra Fortress Conqueror | 2.00% | ~1 |
 | Break Through the Forbidden | 2.00% | ~1 |
 | Space Ranger: Prologue | 2.00% | ~1 |
+| Breaking the Limit | 2.00% | ~1 |
 | The Truth? | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
 | Bye Bye Gravity | 2.00% | ~1 |
+| Burn After Reading | 2.00% | ~1 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
-| Breaking the Limit | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
-| Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53 (Ranked 347)  

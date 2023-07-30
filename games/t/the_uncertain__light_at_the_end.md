@@ -5,7 +5,7 @@ Rating: 3.82 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 50.00% | ~242 |
+| Bundle of Joy | 51.00% | ~247 |
 | A Friend in Need... | 45.00% | ~218 |
 | Bosom Buddies | 30.00% | ~145 |
 | Beat the Heat | 24.00% | ~116 |
@@ -19,7 +19,7 @@ Rating: 3.82 (Ranked 945)
 | U Mad Bro? | 11.00% | ~53 |
 | Short Circuit | 11.00% | ~53 |
 | A Stealthy Outlook | 7.00% | ~34 |
-| Catch You Later | 6.00% | ~29 |
+| Catch You Later | 7.00% | ~34 |
 | Between the Covers | 5.00% | ~24 |
 | Antisocial Club | 5.00% | ~24 |
 | Den Mother | 5.00% | ~24 |

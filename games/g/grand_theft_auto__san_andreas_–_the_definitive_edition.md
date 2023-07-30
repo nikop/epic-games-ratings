@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,363 |
-| Pay 'n' Spray | 50.00% | ~5,780 |
-| All Dressed Up for San Fierro | 25.00% | ~2,890 |
+| Getting Started | 81.00% | ~9,366 |
+| Pay 'n' Spray | 50.00% | ~5,782 |
+| All Dressed Up for San Fierro | 25.00% | ~2,891 |
 | The American Dream | 18.00% | ~2,081 |
 | School's Out | 18.00% | ~2,081 |
-| Smooth Moves | 16.00% | ~1,849 |
+| Smooth Moves | 16.00% | ~1,850 |
 | Today Was a Good Day | 15.00% | ~1,734 |
-| What happens in Las Venturas... | 14.00% | ~1,618 |
+| What happens in Las Venturas... | 14.00% | ~1,619 |
 | Horror of the Santa Maria | 10.00% | ~1,156 |
-| Liberty City State of Mind | 9.00% | ~1,040 |
+| Liberty City State of Mind | 9.00% | ~1,041 |
 | Original Gangster | 8.00% | ~925 |
 | The End of the Line | 7.00% | ~809 |
 | With Extra Dip | 6.00% | ~694 |
 | Saviour | 6.00% | ~694 |
-| They Can’t Stop All of Us | 4.00% | ~462 |
-| Rescue a Kitten Too? | 4.00% | ~462 |
+| They Can’t Stop All of Us | 4.00% | ~463 |
+| Rescue a Kitten Too? | 4.00% | ~463 |
 | Bike or Biker | 3.00% | ~347 |
 | What are the Odds | 3.00% | ~347 |
 | A Legitimate Business | 2.00% | ~231 |
@@ -36,12 +36,12 @@ Rating: 4.55 (Ranked 482)
 | Lucky Spinner | 1.00% | ~116 |
 | Assassin | 1.00% | ~116 |
 | Chick Magnet | 1.00% | ~116 |
-| Not a Player | 0.80% | ~92 |
+| Not a Player | 0.80% | ~93 |
 | Remastered | 0.60% | ~69 |
 | ...Here we go again | 0.40% | ~46 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,559 (Ranked 119)  
+Progressed: 11,563 (Ranked 119)  
 Completed: 31 (0.27%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 31 (0.27%) (Ranked 161)
 | 2023-07-27 | 11,443 | 31 |
 | 2023-07-28 | 11,496 | 31 |
 | 2023-07-29 | 11,557 | 31 |
-| 2023-07-30 | 11,559 | 31 |
+| 2023-07-30 | 11,563 | 31 |
 ## Awards
 Max (Great Boss Battles): 231  (Ranked 254)  
 Sum: 231 (Ranked 352)  

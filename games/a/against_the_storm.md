@@ -22,25 +22,25 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 3.00% | ~482 |
 | A Real Challenge | 3.00% | ~482 |
 | Trade Baron | 3.00% | ~482 |
-| Serving Ale | 2.00% | ~321 |
-| Refinery | 2.00% | ~321 |
-| Against All Odds | 2.00% | ~321 |
-| Ruined Armory | 2.00% | ~321 |
-| Sparkdew Crystals | 2.00% | ~321 |
-| Dangerous Lands | 2.00% | ~321 |
-| Forbidden Lands | 2.00% | ~321 |
-| Haunted Forest | 2.00% | ~321 |
-| Levitating Monument | 2.00% | ~321 |
-| Flooded Mines | 2.00% | ~321 |
-| Monastery of the Holy Flame | 2.00% | ~321 |
-| Royal Outpost | 2.00% | ~321 |
-| Statue of the Forefathers | 2.00% | ~321 |
-| Forsaken Gods Temple | 2.00% | ~321 |
-| Corrosive Torrent | 2.00% | ~321 |
-| Cursed Lands | 2.00% | ~321 |
-| Like a Machine | 2.00% | ~321 |
-| Defying the Crown | 2.00% | ~321 |
-| Into the Forest | 2.00% | ~321 |
+| Serving Ale | 2.00% | ~322 |
+| Refinery | 2.00% | ~322 |
+| Against All Odds | 2.00% | ~322 |
+| Ruined Armory | 2.00% | ~322 |
+| Sparkdew Crystals | 2.00% | ~322 |
+| Dangerous Lands | 2.00% | ~322 |
+| Forbidden Lands | 2.00% | ~322 |
+| Haunted Forest | 2.00% | ~322 |
+| Levitating Monument | 2.00% | ~322 |
+| Flooded Mines | 2.00% | ~322 |
+| Monastery of the Holy Flame | 2.00% | ~322 |
+| Royal Outpost | 2.00% | ~322 |
+| Statue of the Forefathers | 2.00% | ~322 |
+| Forsaken Gods Temple | 2.00% | ~322 |
+| Corrosive Torrent | 2.00% | ~322 |
+| Cursed Lands | 2.00% | ~322 |
+| Like a Machine | 2.00% | ~322 |
+| Defying the Crown | 2.00% | ~322 |
+| Into the Forest | 2.00% | ~322 |
 | Fishmen Ritual Site | 1.00% | ~161 |
 | Efficient Explorer | 0.90% | ~145 |
 | Prestigious Expedition | 0.80% | ~129 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,074 (Ranked 110)  
+Progressed: 16,075 (Ranked 110)  
 Completed: 40 (0.25%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 40 (0.25%) (Ranked 164)
 | 2023-07-27 | 16,037 | 40 |
 | 2023-07-28 | 16,056 | 40 |
 | 2023-07-29 | 16,072 | 40 |
-| 2023-07-30 | 16,074 | 40 |
+| 2023-07-30 | 16,075 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,082 (Ranked 158)  

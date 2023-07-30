@@ -1,40 +1,40 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 625)  
+Rating: 4.45 (Ranked 626)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~927 |
-| Voices from the Past | 78.00% | ~851 |
-| Space Traveler | 78.00% | ~851 |
-| Demigod | 76.00% | ~829 |
-| The Great Destroyer | 74.00% | ~807 |
+| Another Life | 85.00% | ~928 |
+| Voices from the Past | 78.00% | ~852 |
+| Space Traveler | 78.00% | ~852 |
+| Demigod | 76.00% | ~830 |
+| The Great Destroyer | 74.00% | ~808 |
 | Shields Down | 72.00% | ~786 |
-| Safe Home | 67.00% | ~731 |
-| Helping Hand | 66.00% | ~720 |
-| Paragon | 62.00% | ~676 |
-| Old Days Born Anew | 62.00% | ~676 |
+| Safe Home | 67.00% | ~732 |
+| Helping Hand | 66.00% | ~721 |
+| Paragon | 62.00% | ~677 |
+| Old Days Born Anew | 61.00% | ~666 |
 | Full Arsenal | 57.00% | ~622 |
-| Controlled Demolition | 55.00% | ~600 |
-| Payback | 53.00% | ~578 |
-| Huntress | 53.00% | ~578 |
-| Born to Drift | 51.00% | ~556 |
+| Controlled Demolition | 55.00% | ~601 |
+| Payback | 53.00% | ~579 |
+| Huntress | 53.00% | ~579 |
+| Born to Drift | 51.00% | ~557 |
 | Relentless | 48.00% | ~524 |
 | The Path Forward | 45.00% | ~491 |
-| Disruption | 43.00% | ~469 |
-| Phoenix | 43.00% | ~469 |
-| Cult Slayer | 40.00% | ~436 |
-| Origin | 39.00% | ~425 |
-| It Was An Accident | 39.00% | ~425 |
+| Disruption | 43.00% | ~470 |
+| Phoenix | 43.00% | ~470 |
+| Cult Slayer | 40.00% | ~437 |
+| Origin | 39.00% | ~426 |
+| It Was An Accident | 39.00% | ~426 |
 | Set in Motion | 38.00% | ~415 |
 | In the Eye of the Storm | 37.00% | ~404 |
 | The Crimson Void | 34.00% | ~371 |
 | The Nameless Dread | 33.00% | ~360 |
-| Time to Spear | 30.00% | ~327 |
-| Mastery of Weapons | 29.00% | ~316 |
-| Disciple | 29.00% | ~316 |
+| Time to Spear | 30.00% | ~328 |
+| Mastery of Weapons | 29.00% | ~317 |
+| Disciple | 29.00% | ~317 |
 | Ghosts | 25.00% | ~273 |
 | Two Birds | 25.00% | ~273 |
 | Uneasy Alliance | 24.00% | ~262 |
@@ -44,13 +44,13 @@ Number of Ratings: 58  (23.09.2022)
 | Power Chord | 20.00% | ~218 |
 | Crash Test | 20.00% | ~218 |
 | Ascension | 19.00% | ~207 |
-| Rise as One | 18.00% | ~196 |
+| Rise as One | 18.00% | ~197 |
 | Showoff | 15.00% | ~164 |
 | Overcharged | 9.00% | ~98 |
 | Radiation Area | 9.00% | ~98 |
 | At Least You Tried | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091 (Ranked 188)  
+Progressed: 1,092 (Ranked 188)  
 Completed: 13 (1.19%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 13 (1.19%) (Ranked 103)
 | 2023-07-27 | 1,080 | 13 |
 | 2023-07-28 | 1,087 | 13 |
 | 2023-07-29 | 1,090 | 13 |
-| 2023-07-30 | 1,091 | 13 |
+| 2023-07-30 | 1,092 | 13 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 451)  
 Sum: 32 (Ranked 470)  

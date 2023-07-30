@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-07-29T23:03:17.3898123+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T01:59:22.860197+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1264,7 +1269,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "08",
@@ -1344,15 +1349,15 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 524
     },
     {
       "ID": "19",
@@ -1360,7 +1365,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "20",
@@ -1399,7 +1404,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 0
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-30T00:03:29.2294328+00:00",
+  "LastChanged_Achievements": "2023-07-30T01:59:22.8601963+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-07-30T00:01:17.2545018+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:03:29.2294573+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:56:48.8477884+00:00",
+  "LastUpdate_Achievements": "2023-07-30T01:59:22.8602192+00:00"
 }

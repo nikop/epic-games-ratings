@@ -1,52 +1,52 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 625)  
+Rating: 4.45 (Ranked 626)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,977 |
-| Hey! That's mine! | 78.00% | ~376,497 |
-| Happy Returns | 77.00% | ~371,670 |
-| Field Promotion | 74.00% | ~357,189 |
-| Leadhead | 71.00% | ~342,708 |
-| Eradicator | 67.00% | ~323,401 |
-| Surplus | 65.00% | ~313,747 |
-| I Spy | 64.00% | ~308,920 |
-| Burn Baby Burn | 59.00% | ~284,786 |
-| Yellow Beats Green | 55.00% | ~265,478 |
-| Salvage Rights | 53.00% | ~255,825 |
-| Close Call | 50.00% | ~241,344 |
-| Pew Pew | 50.00% | ~241,344 |
-| What IS that? | 50.00% | ~241,344 |
-| Penny Pincher | 49.00% | ~236,517 |
-| Arsenal | 46.00% | ~222,036 |
-| Boot Camp | 45.00% | ~217,210 |
-| Flawless Victory | 42.00% | ~202,729 |
-| Confident | 40.00% | ~193,075 |
-| Exterminator | 36.00% | ~173,768 |
-| Sharpshooter | 33.00% | ~159,287 |
-| Great Ball of Fire | 32.00% | ~154,460 |
-| Not So Fast | 32.00% | ~154,460 |
-| No Sale | 30.00% | ~144,806 |
-| Kaboom! | 29.00% | ~139,980 |
-| Liquidator | 29.00% | ~139,980 |
-| High Voltage | 24.00% | ~115,845 |
-| Filthy Rich | 19.00% | ~91,711 |
-| The Not-So-Friendly Skies | 18.00% | ~86,884 |
-| Power Builder | 17.00% | ~82,057 |
-| Pyrrhic Victory | 17.00% | ~82,057 |
-| Death From Above | 16.00% | ~77,230 |
-| Retry | 16.00% | ~77,230 |
+| First Blood | 81.00% | ~390,982 |
+| Hey! That's mine! | 78.00% | ~376,501 |
+| Happy Returns | 77.00% | ~371,674 |
+| Field Promotion | 74.00% | ~357,194 |
+| Leadhead | 71.00% | ~342,713 |
+| Eradicator | 67.00% | ~323,405 |
+| Surplus | 65.00% | ~313,751 |
+| I Spy | 64.00% | ~308,924 |
+| Burn Baby Burn | 59.00% | ~284,789 |
+| Yellow Beats Green | 55.00% | ~265,482 |
+| Salvage Rights | 53.00% | ~255,828 |
+| Close Call | 50.00% | ~241,347 |
+| Pew Pew | 50.00% | ~241,347 |
+| What IS that? | 50.00% | ~241,347 |
+| Penny Pincher | 49.00% | ~236,520 |
+| Arsenal | 46.00% | ~222,039 |
+| Boot Camp | 45.00% | ~217,212 |
+| Flawless Victory | 42.00% | ~202,731 |
+| Confident | 40.00% | ~193,078 |
+| Exterminator | 36.00% | ~173,770 |
+| Not So Fast | 33.00% | ~159,289 |
+| Sharpshooter | 33.00% | ~159,289 |
+| Great Ball of Fire | 32.00% | ~154,462 |
+| No Sale | 30.00% | ~144,808 |
+| Kaboom! | 29.00% | ~139,981 |
+| Liquidator | 29.00% | ~139,981 |
+| High Voltage | 24.00% | ~115,847 |
+| Filthy Rich | 19.00% | ~91,712 |
+| The Not-So-Friendly Skies | 18.00% | ~86,885 |
+| Power Builder | 17.00% | ~82,058 |
+| Pyrrhic Victory | 17.00% | ~82,058 |
+| Death From Above | 16.00% | ~77,231 |
+| Retry | 16.00% | ~77,231 |
 | Head Trauma | 12.00% | ~57,923 |
 | Full Defense | 10.00% | ~48,269 |
 | Overseer | 9.00% | ~43,442 |
-| Annihilator | 8.00% | ~38,615 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,615 |
-| Indecisive | 6.00% | ~28,961 |
-| Base Defender | 5.00% | ~24,134 |
-| Relay Race | 5.00% | ~24,134 |
+| Annihilator | 8.00% | ~38,616 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,616 |
+| Indecisive | 6.00% | ~28,962 |
+| Base Defender | 5.00% | ~24,135 |
+| Relay Race | 5.00% | ~24,135 |
 | Diversity | 3.00% | ~14,481 |
 | Full Potential | 3.00% | ~14,481 |
 | Tower Expert | 3.00% | ~14,481 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,688 (Ranked 35)  
+Progressed: 482,694 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.00%) (Ranked 246)
 | 2023-07-27 | 482,485 | 4 |
 | 2023-07-28 | 482,568 | 4 |
 | 2023-07-29 | 482,683 | 4 |
-| 2023-07-30 | 482,688 | 4 |
+| 2023-07-30 | 482,694 | 4 |
 ## Awards
 Max (Great for Beginners): 241  (Ranked 251)  
 Sum: 1,671 (Ranked 209)  

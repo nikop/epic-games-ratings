@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -8235,10 +8235,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 25825,
       "NumberOfAwardsMax": 3060
+    },
+    {
+      "Time": "2023-07-30T01:55:16.9133523+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 25827,
+      "NumberOfAwardsMax": 3060
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25825,
+  "NumberOfAwards": 25827,
   "NumberOfAwardsMax": 3060,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8312,7 +8318,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1324
+      "Count": 1326
     }
   ],
   "EOS_Progressed": 0,
@@ -8326,8 +8332,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-07-29T22:58:41.4250909+00:00",
+  "LastChanged": "2023-07-30T01:55:16.9133522+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.2032404+00:00",
-  "LastUpdate_Ratings": "2023-07-29T23:59:24.2935151+00:00",
-  "LastUpdate_Achievements": "2023-07-30T00:06:22.4344231+00:00"
+  "LastUpdate_Ratings": "2023-07-30T01:55:16.9133531+00:00",
+  "LastUpdate_Achievements": "2023-07-30T02:01:52.2161856+00:00"
 }
